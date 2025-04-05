@@ -248,8 +248,6 @@ http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
-http://enterpriseone-dv.almere.nl
-http://enterpriseone.almere.nl
 http://felix.achtkarspelen.nl
 http://felix.beekdaelen.nl
 http://felix.beuningen.nl
@@ -290,7 +288,6 @@ http://huisnettest.nieuwegein.nl
 http://huizen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
-http://iam-acc.almere.nl
 http://id-subsidies-login.acceptatie.ede.nl
 http://insite.houten.nl
 http://internoss-test.oss.nl
@@ -3046,7 +3043,9 @@ https://enterpriseenrollment.vlieland.nl
 https://enterpriseenrollment.waadhoeke.nl
 https://enterpriseenrollment.waddinxveen.nl
 https://enterpriseone-arc.almere.nl
+https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
+https://enterpriseone.almere.nl
 https://enterpriseregistration.alphenaandenrijn.nl
 https://enterpriseregistration.apeldoorn.nl
 https://enterpriseregistration.arnhem.nl
@@ -3793,6 +3792,7 @@ https://hybrid.gooisemeren.nl
 https://hybrid.nederbetuwe.nl
 https://hybrid.purmerend.nl
 https://hybrid.sittard-geleen.nl
+https://iam-acc.almere.nl
 https://iam-forms.denhaag.nl
 https://iam-portal.denhaag.nl
 https://iam.almere.nl

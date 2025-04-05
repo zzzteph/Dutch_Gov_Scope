@@ -313,8 +313,6 @@ http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
 http://embraceintranet.flevoland.nl
-http://enterpriseone-dv.almere.nl
-http://enterpriseone.almere.nl
 http://felix.achtkarspelen.nl
 http://felix.beekdaelen.nl
 http://felix.beuningen.nl
@@ -371,7 +369,6 @@ http://huisnettest.nieuwegein.nl
 http://huizen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
-http://iam-acc.almere.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 http://iam.rdi.nl
 http://ict-ers.werkenvoornederland.nl
@@ -3837,7 +3834,9 @@ https://enterpriseenrollment.vlieland.nl
 https://enterpriseenrollment.waadhoeke.nl
 https://enterpriseenrollment.waddinxveen.nl
 https://enterpriseone-arc.almere.nl
+https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
+https://enterpriseone.almere.nl
 https://enterpriseregistration.alphenaandenrijn.nl
 https://enterpriseregistration.apeldoorn.nl
 https://enterpriseregistration.arnhem.nl
@@ -5125,6 +5124,7 @@ https://hybrid.nza.nl
 https://hybrid.purmerend.nl
 https://hybrid.sittard-geleen.nl
 https://i-login.mijncn.nl
+https://iam-acc.almere.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam-forms.denhaag.nl
 https://iam-portal.denhaag.nl

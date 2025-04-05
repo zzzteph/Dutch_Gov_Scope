@@ -1,6 +1,3 @@
-http://enterpriseone-dv.almere.nl
-http://enterpriseone.almere.nl
-http://iam-acc.almere.nl
 http://panel.almere.nl
 https://3d.almere.nl
 https://acc-maps.almere.nl
@@ -27,7 +24,9 @@ https://eloket.almere.nl
 https://eloketstaging.almere.nl
 https://english.almere.nl
 https://enterpriseone-arc.almere.nl
+https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
+https://enterpriseone.almere.nl
 https://evenementen.almere.nl
 https://floriade.almere.nl
 https://formulier-test.almere.nl
@@ -40,6 +39,7 @@ https://groenengezond.almere.nl
 https://growinggreencities.almere.nl
 https://hout.almere.nl
 https://hybrid.almere.nl
+https://iam-acc.almere.nl
 https://iam.almere.nl
 https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
