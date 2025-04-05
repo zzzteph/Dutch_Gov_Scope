@@ -997,7 +997,6 @@ notubiz
 subsidiebeheer
 test-subsidiebeheer
 test-subsidieloket
-api-meldingen.acc
 api-meldingen
 enquete
 ids
@@ -5708,6 +5707,7 @@ alg-zgw
 alg-zgw.test
 alleplannen.laakhavensbepaalt
 alleplannen.mariahoeveaanzet
+api-meldingen.acc
 archeologie-acc
 aut.acc.topdesk
 aut.ot.topdesk
