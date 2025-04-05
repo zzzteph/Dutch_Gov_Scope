@@ -186,6 +186,7 @@ acc-objecten
 acc-objecttypen
 jaarstukken
 cryptshare
+zoeken
 kennisbank
 dialin
 atlas
@@ -209,7 +210,6 @@ uc
 m
 evenementen
 webservices
-zoeken
 publicaties
 intranet-acc
 mx2
@@ -4084,6 +4084,7 @@ aeos
 agwp01.azweu
 alk-fw01
 alk-fw02
+alkawc01
 alkbip
 alkbip01
 alkbip02
