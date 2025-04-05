@@ -259,6 +259,7 @@ http://bladel.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://bronckhorst.nl
 http://buurthuisvandetoekomst.denhaag.nl
+http://buytenweghdeleyens.zoetermeer.nl
 http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
@@ -411,6 +412,7 @@ http://malengo-cms.gemert-bakel.nl
 http://malengo-test.gemert-bakel.nl
 http://malengo-testcms.gemert-bakel.nl
 http://malengo.gemert-bakel.nl
+http://meerzicht.zoetermeer.nl
 http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://meldpuntondermijning.rotterdam.nl
@@ -429,12 +431,15 @@ http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuwkoop.nl
 http://nijkerk.eu
+http://noordhoveseghwaert.zoetermeer.nl
 http://nuenen.nl
 http://oirschot.nl
 http://ondertekeningsviewer.overheid.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://open.staphorst.nl
+http://opendata-contrast.zoetermeer.nl
+http://opendata.zoetermeer.nl
 http://opsterland.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
@@ -473,6 +478,7 @@ http://prod.flevoland.nl
 http://publicwebservices-dcr.cibg.nl
 http://pv.gemeentesluis.nl
 http://pwa001.belastingdienst.nl
+http://raad.zoetermeer.nl
 http://raadsagenda.oirschot.nl
 http://raas.rotterdam.nl
 http://redirector.alkmaar.nl
@@ -506,7 +512,6 @@ http://simcms-open.leudal.nl
 http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.kerkrade.nl
 http://simcms-preproductie.woensdrecht.nl
-http://simcms-raad.zoetermeer.nl
 http://simcms-werkenbij.t-diel.nl
 http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
@@ -529,7 +534,6 @@ http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
 http://simcms.staphorst.nl
 http://simcms.vlissingen.nl
-http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
 http://simform-test.rijswijk.nl
@@ -560,7 +564,6 @@ http://sportaccommodaties.nissewaard.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://sslvpn.haarlem.nl
-http://stadsatlas.zoetermeer.nl
 http://stadspas.weert.nl
 http://stagiairs.werkenvoornederland.nl
 http://staging.meldingen.ilent.nl
@@ -2461,7 +2464,6 @@ https://buurtbudgetnoord.amsterdam.nl
 https://buurtbudgetzuid.amsterdam.nl
 https://buurtbudgetzuidoost.amsterdam.nl
 https://buurtkijker.deventer.nl
-https://buytenweghdeleyens.zoetermeer.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
@@ -2511,6 +2513,7 @@ https://ceg.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://centralecommissiedierproeven.nl
 https://centrum.heerlen.nl
+https://centrum.zoetermeer.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://cert.nl
@@ -7304,7 +7307,6 @@ https://onzestad.nijmegen.nl
 https://oordelen.mensenrechten.nl
 https://oorlogenvrede.landvancuijk.nl
 https://oostbegroot.amsterdam.nl
-https://oosterheem.zoetermeer.nl
 https://oosterhout.nl
 https://oostgelre.nl
 https://oostvaarderskliniek.nl
@@ -7362,12 +7364,12 @@ https://open.tilburg.nl
 https://open.tubbergen.nl
 https://open.vechtstromen.nl
 https://open.waterschaplimburg.nl
+https://open.zoetermeer.nl
 https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbare-inspectieresultaten.nvwa.nl
 https://openbareruimte.deventer.nl
-https://opendata-contrast.zoetermeer.nl
 https://opendata.a2vonderenkerensheide.nl
 https://opendata.aanbiedersmedicijnen.nl
 https://opendata.aboutnetherlandscustoms.nl
@@ -7728,7 +7730,6 @@ https://opendata.wkr.nl
 https://opendata.wodc.nl
 https://opendata.wrr.nl
 https://opendata.youthatheart.nl
-https://opendata.zoetermeer.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
 https://opendata1.platformrijksoverheid.nl
@@ -8760,6 +8761,7 @@ https://roerdalen-checker-preprod.roerdalen.nl
 https://roerdalen-checker.roerdalen.nl
 https://roerdalen.nl
 https://roermond.nl
+https://rokkeveen.zoetermeer.nl
 https://rondleidingen.landvancuijk.nl
 https://roosendaal.nl
 https://rooster.arnhem.nl
@@ -9038,6 +9040,7 @@ https://simcms-open.wierden.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
+https://simcms-raad.zoetermeer.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
@@ -9075,6 +9078,7 @@ https://simcms.wassenaar.nl
 https://simcms.westmaasenwaal.nl
 https://simcms.winterswijk.nl
 https://simcms.woensdrecht.nl
+https://simcms.zoetermeer.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.voorschoten.nl
 https://simform.gemeentemaasgouw.nl
@@ -9103,7 +9107,6 @@ https://simsite.simpelveld.nl
 https://simsite.twenterand.nl
 https://simsite.veendam.nl
 https://simsite.veere.nl
-https://simsite.zoetermeer.nl
 https://simsite.zuidplas.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
@@ -9307,6 +9310,7 @@ https://stadsarchief.almere.nl
 https://stadsarchief.breda.nl
 https://stadsarchief.rotterdam.nl
 https://stadsatlas-contrast.zoetermeer.nl
+https://stadsatlas.zoetermeer.nl
 https://stadsbroekenijsselvizier.zwolle.nl
 https://stadsgesprekken.almere.nl
 https://stadshavens.groningen.nl
@@ -11659,7 +11663,6 @@ https://www.zeewolde.nl
 https://www.zeist.nl
 https://www.zevenaar.nl
 https://www.zkd.denhaag.nl
-https://www.zoetermeer.nl
 https://www.zoeterwoude.nl
 https://www.zomerprogramma070.denhaag.nl
 https://www.zorgaanbiedersportaal.nl
@@ -11813,6 +11816,7 @@ https://zoeken.zorgaanbiedersportaal.nl
 https://zoekengemeentearchief.gemeentehulst.nl
 https://zoekpersoon.vlaardingen.nl
 https://zoekservice.overheid.nl
+https://zoetermeer.nl
 https://zoeterwoude.nl
 https://zomerprogramma070-acc.denhaag.nl
 https://zomerprogramma070.denhaag.nl
