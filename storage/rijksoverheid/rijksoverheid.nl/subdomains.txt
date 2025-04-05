@@ -25,8 +25,10 @@ cms2.rijksoverheid.nl
 cmsdev.rijksoverheid.nl
 coronadashboard.rijksoverheid.nl
 dns-fw1.rijksoverheid.nl
+dns-fw3.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
 dns-ns1.rijksoverheid.nl
+dns-ns3.rijksoverheid.nl
 dns-portal10.rijksoverheid.nl
 dns-portal300.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
@@ -65,6 +67,7 @@ opendata.persberichten.rijksoverheid.nl
 opendata.rijksoverheid.nl
 persberichten.rijksoverheid.nl
 ps-www.rijksoverheid.nl
+relay.rijksoverheid.nl
 rijksoverheid.nl
 sdg.rijksoverheid.nl
 servicedesk.rijksoverheid.nl

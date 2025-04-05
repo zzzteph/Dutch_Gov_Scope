@@ -1283,8 +1283,10 @@ dmo.omgevingswet.overheid.nl
 dms.hhdelfland.nl
 dnadatabank.forensischinstituut.nl
 dns-fw1.rijksoverheid.nl
+dns-fw3.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
 dns-ns1.rijksoverheid.nl
+dns-ns3.rijksoverheid.nl
 dns-portal10.rijksoverheid.nl
 dns-portal300.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
@@ -3789,6 +3791,7 @@ register.tlokb.nl
 reistijdtrajecten.ndw.nu
 rekenhulptransitievergoeding.nl
 rekenkamer.nl
+relay.rijksoverheid.nl
 remote-pa.hdsr.nl
 remote.flevoland.nl
 remote.hhdelfland.nl

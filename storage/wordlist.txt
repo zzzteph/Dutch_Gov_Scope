@@ -367,6 +367,7 @@ www.intranet
 aeolus
 sbc01
 bezoekersparkeren
+relay
 download
 huisstijl
 werken
@@ -526,7 +527,6 @@ intra
 parkeeracties
 parkeren-siam-test
 parkeren-siam
-relay
 router
 digitalebalie
 mobility
@@ -1454,8 +1454,10 @@ a-voorlichting
 a-wiki
 bastion
 dns-fw1
+dns-fw3
 dns-fw4
 dns-ns1
+dns-ns3
 dns-portal10
 dns-portal300
 dns-web10

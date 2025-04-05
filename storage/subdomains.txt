@@ -5103,8 +5103,10 @@ dmzsvr02.winterswijk.nl
 dnadatabank.forensischinstituut.nl
 dns-cache.denhaag.nl
 dns-fw1.rijksoverheid.nl
+dns-fw3.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
 dns-ns1.rijksoverheid.nl
+dns-ns3.rijksoverheid.nl
 dns-portal10.rijksoverheid.nl
 dns-portal300.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
@@ -14414,6 +14416,7 @@ relatie-scheiding.almere.nl
 relay.doetinchem.nl
 relay.lingewaard.nl
 relay.overbetuwe.nl
+relay.rijksoverheid.nl
 relay.woerden.nl
 relay2.woerden.nl
 religieuserfgoed.deventer.nl
