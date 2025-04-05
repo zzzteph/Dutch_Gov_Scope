@@ -91,6 +91,7 @@ http://juristen.werkenvoornederland.nl
 http://kec.officiele-overheidspublicaties.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
+http://linkextractor.overheid.nl
 http://longread.brabant.nl
 http://mail.flevoland.nl
 http://mail.oostvaarderskliniek.nl
@@ -131,9 +132,6 @@ http://test-machtigen.digipoort.logius.nl
 http://test.digikoppeling.cibg.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
-http://tuchtrecht-service-acc.overheid.nl
-http://tuchtrecht-service-tst.overheid.nl
-http://tuchtrecht-service.overheid.nl
 http://uptime.bureauwbtv.nl
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
@@ -608,6 +606,7 @@ https://defensie.nl
 https://delta.belastingdienst.nl
 https://deltaprogramma.nl
 https://demo-systemteam.overheid.nl
+https://demo.mijn.overheid.nl
 https://denkdoeduurzaam.nl
 https://denkmee.flevoland.nl
 https://denkmeemet.zuid-holland.nl
@@ -1238,6 +1237,7 @@ https://gdlo.belastingdienst.nl
 https://gebiedsprofielen.zuid-holland.nl
 https://gebruiker-beheer.dus-i.nl
 https://gegevensbijbesluiten.overheid.nl
+https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
@@ -1393,6 +1393,7 @@ https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intern.ssc-ictspecials.nl
 https://internal-docs.ndw.nu
+https://internationaal.ondernemen.overheid.nl
 https://intpatch.omgevingswet.overheid.nl
 https://intranet-bestanden.flevoland.nl
 https://intranet.ad.hdsr.nl
@@ -1489,7 +1490,6 @@ https://lil.cultureelerfgoed.nl
 https://limburg.nl
 https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
-https://linkextractor.overheid.nl
 https://lintjes.nl
 https://lir.cibg.nl
 https://login.aaenmaas.nl
@@ -2640,6 +2640,9 @@ https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtcollege-gezondheidszorg.nl
 https://tuchtrecht-acc.overheid.nl
+https://tuchtrecht-service-acc.overheid.nl
+https://tuchtrecht-service-tst.overheid.nl
+https://tuchtrecht-service.overheid.nl
 https://tuchtrecht.overheid.nl
 https://two-acs.com
 https://uconnect-acc.hdsr.nl
