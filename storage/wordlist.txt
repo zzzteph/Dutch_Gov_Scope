@@ -223,6 +223,7 @@ meedoen
 contentbeheer.acceptatie
 squit2020
 zaken.acceptatie
+fmreturn
 formulieren-test
 bor
 bestuur
@@ -241,7 +242,6 @@ jcc
 sharefile
 bag
 inproces.acceptatie
-fmreturn
 iarchief
 outlook
 vth
