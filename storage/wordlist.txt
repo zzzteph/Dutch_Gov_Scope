@@ -420,6 +420,7 @@ preprod-formulieren
 connect.test
 contentbeheer.test
 zaken.test
+ris
 subsidies-login
 mijnzaken
 openformulieren-test
@@ -515,7 +516,6 @@ suite4burgerzaken-test
 sync
 www.afspraak
 grooster
-ris
 collecties
 inproces.test
 subsidies-login.acceptatie
