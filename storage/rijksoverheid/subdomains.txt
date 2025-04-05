@@ -4674,6 +4674,7 @@ webservice-tdv.igj.nl
 webservice.sbv-z.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
+webservices-dbb-acc.igj.nl
 webservices-dbb.igj.nl
 webservices-digin.belastingdienst.nl
 webservices-test2.belastingdienst.nl
