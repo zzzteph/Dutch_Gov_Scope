@@ -638,6 +638,7 @@ pub
 subsidieloket
 testafspraken
 3d
+link.pr
 planon
 ssp
 digitaalnachtregister
@@ -865,6 +866,7 @@ webapps
 e.videobellen
 api.mijn
 componenten
+cvdr
 data-acc
 dns1
 drop
@@ -1008,7 +1010,6 @@ indienst
 ingesprek
 kavels
 leef
-link.pr
 panel
 regio
 sportencultuur
@@ -2430,7 +2431,6 @@ cv-mailrelay4
 cv-mailrelay5
 cv-mailrelay6
 cv-mailrelays
-cvdr
 dash-ma.mijn
 dash-mp.mijn
 dash-mt.mijn

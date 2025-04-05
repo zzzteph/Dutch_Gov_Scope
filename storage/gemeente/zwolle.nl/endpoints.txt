@@ -1,6 +1,9 @@
 http://autodiscover.zwolle.nl
+http://gelukkignieuwjaar.zwolle.nl
+http://noorderkwartier.zwolle.nl
 http://p8-test.zwolle.nl
 http://p8.zwolle.nl
+http://stadsbroekenijsselvizier.zwolle.nl
 https://acc-broker.zwolle.nl
 https://acc-contact.zwolle.nl
 https://acc-formulier.zwolle.nl
@@ -31,18 +34,17 @@ https://dtestloket.zwolle.nl
 https://e.doemee.zwolle.nl
 https://erfgoed.zwolle.nl
 https://formulier.zwolle.nl
-https://gelukkignieuwjaar.zwolle.nl
 https://geopoort.zwolle.nl
 https://gisservices.zwolle.nl
 https://gisservicestest.zwolle.nl
 https://iburgerzaken.zwolle.nl
 https://img.doemee.zwolle.nl
 https://keycloak.zwolle.nl
+https://link.pr.zwolle.nl
 https://mijn.zwolle.nl
 https://mijnsdv.zwolle.nl
 https://mijnwijk.zwolle.nl
 https://nieuwsbrieven.zwolle.nl
-https://noorderkwartier.zwolle.nl
 https://notificaties.zwolle.nl
 https://objecten.zwolle.nl
 https://objecttypen.zwolle.nl
@@ -57,7 +59,6 @@ https://pv.zwolle.nl
 https://sdv-a.zwolle.nl
 https://sdv-p.zwolle.nl
 https://sdv-t.zwolle.nl
-https://stadsbroekenijsselvizier.zwolle.nl
 https://subsidiebeheer.zwolle.nl
 https://subsidieloket.zwolle.nl
 https://test-subsidiebeheer.zwolle.nl
