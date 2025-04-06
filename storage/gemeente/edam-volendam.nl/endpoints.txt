@@ -1,11 +1,13 @@
 http://autodiscover.edam-volendam.nl
+http://formulieren.edam-volendam.nl
+http://simsite.edam-volendam.nl
+http://test-intranet.edam-volendam.nl
 https://adfs.edam-volendam.nl
 https://belastingloket.edam-volendam.nl
 https://cmsintranet.edam-volendam.nl
 https://edam-volendam.nl
 https://email.veiligwerken.edam-volendam.nl
 https://enterpriseenrollment.edam-volendam.nl
-https://formulieren.edam-volendam.nl
 https://iburgerzaken.edam-volendam.nl
 https://intranet.edam-volendam.nl
 https://mijnloket.edam-volendam.nl
@@ -14,7 +16,6 @@ https://praathuis.edam-volendam.nl
 https://rmts.edam-volendam.nl
 https://servicedesk.edam-volendam.nl
 https://test-cmsintranet.edam-volendam.nl
-https://test-intranet.edam-volendam.nl
 https://testbelastingloket.edam-volendam.nl
 https://werkenbij.edam-volendam.nl
 https://www.edam-volendam.nl
