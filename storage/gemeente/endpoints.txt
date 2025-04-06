@@ -217,6 +217,7 @@ http://begraafplaatsduinrust.beverwijk.nl
 http://belasting-test.kampen.nl
 http://belastingloket.montferland.info
 http://bestuursakkoord.s-hertogenbosch.nl
+http://beuningen.nl
 http://bladel.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://bronckhorst.nl
@@ -251,7 +252,6 @@ http://embrace.laarbeek.nl
 http://felix.achtkarspelen.nl
 http://felix.bergeijk.nl
 http://felix.bergen.nl
-http://felix.beuningen.nl
 http://felix.cranendonck.nl
 http://felix.deurne.nl
 http://felix.koggenland.nl
@@ -388,7 +388,6 @@ http://secure.valkenburg.nl
 http://sem.kampen.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-duurzaam.woensdrecht.nl
-http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
@@ -400,7 +399,6 @@ http://simcms-werkenbij.t-diel.nl
 http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
 http://simcms.ameland.nl
-http://simcms.beuningen.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simcms.capelleaandenijssel.nl
@@ -459,7 +457,6 @@ http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
-http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
 http://test-jip.hofvantwente.nl
@@ -500,7 +497,6 @@ http://www.adviesraaddiversiteit.amsterdam.nl
 http://www.baarn.nl
 http://www.bba.amsterdam.nl
 http://www.bergen.nl
-http://www.beuningen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.capelleaandenijssel.nl
@@ -1820,7 +1816,6 @@ https://betalen.zeewolde.nl
 https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
-https://beuningen.nl
 https://bewegen.apeldoorn.nl
 https://bewustwording.amersfoort.nl
 https://bewustwording.brielle.nl
@@ -2296,7 +2291,6 @@ https://data.amstelveen.nl
 https://data.amsterdam.nl
 https://data.bergendal.nl
 https://data.bergenopzoom.nl
-https://data.beuningen.nl
 https://data.breda.nl
 https://data.delft.nl
 https://data.groningen.nl
@@ -3161,6 +3155,7 @@ https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.beekdaelen.nl
 https://felix.bergendal.nl
+https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bronckhorst.nl
@@ -6612,12 +6607,14 @@ https://simcms-open.wierden.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
+https://simcms-preproductie.beuningen.nl
 https://simcms-raad.zoetermeer.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
 https://simcms.baarn.nl
 https://simcms.bergen.nl
+https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
 https://simcms.cranendonck.nl
@@ -7063,6 +7060,7 @@ https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-internetafspraken.sittard-geleen.nl
 https://test-intra.gooisemeren.nl
+https://test-intranet.beuningen.nl
 https://test-intranet.drimmelen.nl
 https://test-intranet.edam-volendam.nl
 https://test-intranet.eemsdelta.nl
@@ -7079,6 +7077,7 @@ https://test-meedoenregeling.dongen.nl
 https://test-mijn.hoorn.nl
 https://test-mijnbbsuo.soest.nl
 https://test-mijnoverzicht.alphenaandenrijn.nl
+https://test-mijnzi.beuningen.nl
 https://test-nopnet.noordoostpolder.nl
 https://test-opname.eindhoven.nl
 https://test-paswijzer.waalwijk.nl
