@@ -214,6 +214,7 @@ publicaties
 intranet-acc
 mx2
 veiligdelen
+localhost
 geodata
 college
 bis
@@ -234,7 +235,6 @@ wachtwoord
 werkenvoor
 archief
 guest
-localhost
 preprod-mijn
 belastingbalie-test
 mail2
