@@ -285,7 +285,6 @@ http://cranendonck.nl
 http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crl.denhaag.nl
 http://crm.nza.nl
-http://data.eindhoven.nl
 http://dataacc.breda.nl
 http://datasociaaldomein.rotterdam.nl
 http://datatest.delft.nl
@@ -2893,6 +2892,7 @@ https://data.bergenopzoom.nl
 https://data.breda.nl
 https://data.cultureelerfgoed.nl
 https://data.delft.nl
+https://data.eindhoven.nl
 https://data.flevoland.nl
 https://data.geo.cultureelerfgoed.nl
 https://data.groningen.nl
@@ -6410,6 +6410,7 @@ https://media.delft.nl
 https://media.landvancuijk.nl
 https://media.odmh.nl
 https://media.om.nl
+https://mediabank.eindhoven.nl
 https://mediabank.gemeentehw.nl
 https://mediabank.rijksoverheidsvideo.nl
 https://medicineshortagesdefects.nl

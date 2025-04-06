@@ -627,6 +627,7 @@ kadernota
 smtp01
 online
 communicatie
+mediabank
 status
 belastingportaal.acc
 inloggen.belastingportaal
@@ -991,7 +992,6 @@ archeologie
 e.denkmee
 omgevingsdocumenten
 subsidieregister
-mediabank
 blog
 gitlab
 edienstenburgerzaken.test

@@ -234,7 +234,6 @@ http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://cranendonck.nl
 http://crl.denhaag.nl
-http://data.eindhoven.nl
 http://dataacc.breda.nl
 http://datasociaaldomein.rotterdam.nl
 http://datatest.delft.nl
@@ -2286,6 +2285,7 @@ https://data.bergendal.nl
 https://data.bergenopzoom.nl
 https://data.breda.nl
 https://data.delft.nl
+https://data.eindhoven.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl
@@ -4753,6 +4753,7 @@ https://medewerkersportaal.eemsdelta.nl
 https://media-t.delft.nl
 https://media.delft.nl
 https://media.landvancuijk.nl
+https://mediabank.eindhoven.nl
 https://mediabank.gemeentehw.nl
 https://meedenken.arnhem.nl
 https://meedenker.zaanstad.nl
