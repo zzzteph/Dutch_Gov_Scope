@@ -66,14 +66,14 @@ dloket
 dmidoffice
 enterpriseregistration
 beeldbank
+openpdc
 belastingbalie
 osb
 api.meldingen-acc
 meldingen-acc
-openpdc
+openpub
 cmsoo
 loket.acceptatie
-openpub
 omgevingsvisie
 hybrid
 digikoppeling-test
@@ -1081,6 +1081,7 @@ tijdschrijven
 www.stadspas
 digikoppelingtst
 leerplein
+nieuwkomers
 old
 testdigid
 wob
@@ -5292,6 +5293,7 @@ loketacc
 meedenken
 mfa-rooster
 preprod-mijngeldzaken
+vastgoedbedrijf
 www.meedenken
 www.vastgoedbedrijf
 acc-podiumd.sschosting.nl
@@ -9497,7 +9499,6 @@ maaknoord
 meedenker
 mijnmail
 mijnmailv3
-nieuwkomers
 nieuwzaansklimaat
 nshfwcs-gp
 nshfwcs

@@ -1,5 +1,5 @@
 http://autodiscover.arnhem.nl
-http://wob.arnhem.nl
+http://opendata.arnhem.nl
 https://afspraak.arnhem.nl
 https://arnhem.nl
 https://belastingen-acc.arnhem.nl
@@ -9,8 +9,10 @@ https://edienstenburgerzaken.arnhem.nl
 https://edienstenweni-test.arnhem.nl
 https://edienstenweni.arnhem.nl
 https://eloket.arnhem.nl
+https://enterpriseenrollment.arnhem.nl
 https://enterpriseregistration.arnhem.nl
 https://financien.arnhem.nl
+https://gemeenteraad.arnhem.nl
 https://geo.arnhem.nl
 https://geotest.arnhem.nl
 https://inkomen.mijn.arnhem.nl
@@ -22,13 +24,16 @@ https://mfa-rooster.arnhem.nl
 https://mijn.arnhem.nl
 https://mijngeldzaken.arnhem.nl
 https://msoid.arnhem.nl
+https://nieuwkomers.arnhem.nl
 https://open.arnhem.nl
-https://opendata.arnhem.nl
+https://openpdc.arnhem.nl
+https://openpub.arnhem.nl
 https://qr.arnhem.nl
 https://raad.arnhem.nl
 https://remote.arnhem.nl
 https://rooster.arnhem.nl
 https://testeloket.arnhem.nl
+https://wob.arnhem.nl
 https://woo.arnhem.nl
 https://www.arnhem.nl
 https://www.geo.arnhem.nl

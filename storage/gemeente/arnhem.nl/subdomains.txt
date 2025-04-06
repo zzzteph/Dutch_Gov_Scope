@@ -16,8 +16,10 @@ edienstenburgerzaken.arnhem.nl
 edienstenweni-test.arnhem.nl
 edienstenweni.arnhem.nl
 eloket.arnhem.nl
+enterpriseenrollment.arnhem.nl
 enterpriseregistration.arnhem.nl
 financien.arnhem.nl
+gemeenteraad.arnhem.nl
 geo.arnhem.nl
 geo1.arnhem.nl
 geotest.arnhem.nl
@@ -35,12 +37,15 @@ mijngeldzaken.arnhem.nl
 moh-acc.arnhem.nl
 moh.arnhem.nl
 msoid.arnhem.nl
+nieuwkomers.arnhem.nl
 nieuwsbrief.arnhem.nl
 ns1.arnhem.nl
 ns2.arnhem.nl
 old.arnhem.nl
 open.arnhem.nl
 opendata.arnhem.nl
+openpdc.arnhem.nl
+openpub.arnhem.nl
 preprod-mijngeldzaken.arnhem.nl
 qr.arnhem.nl
 raad.arnhem.nl
@@ -51,6 +56,7 @@ teleweb.arnhem.nl
 test.arnhem.nl
 testdigid.arnhem.nl
 testeloket.arnhem.nl
+vastgoedbedrijf.arnhem.nl
 werk.arnhem.nl
 werkplek.arnhem.nl
 wob.arnhem.nl

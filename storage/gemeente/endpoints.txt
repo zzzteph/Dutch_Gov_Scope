@@ -340,6 +340,7 @@ http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://open.staphorst.nl
 http://opendata-contrast.zoetermeer.nl
+http://opendata.arnhem.nl
 http://opendata.zoetermeer.nl
 http://opsterland.nl
 http://ows-ahp-test.groningen.nl
@@ -492,7 +493,6 @@ http://wij.bergen-nh.nl
 http://wijkteam-acc.katwijk.nl
 http://wijkteam-cursus.katwijk.nl
 http://wijkteam-tst.katwijk.nl
-http://wob.arnhem.nl
 http://woz.amsterdam.nl
 http://www.achtkarspelen.nl
 http://www.acutehulp.gezond.amsterdam.nl
@@ -3017,6 +3017,7 @@ https://enschede.nl
 https://enterpriseenrollment.alphenaandenrijn.nl
 https://enterpriseenrollment.ameland.nl
 https://enterpriseenrollment.apeldoorn.nl
+https://enterpriseenrollment.arnhem.nl
 https://enterpriseenrollment.bergenopzoom.nl
 https://enterpriseenrollment.bladel.nl
 https://enterpriseenrollment.dalfsen.nl
@@ -3463,6 +3464,7 @@ https://gemeentemaashorst.nl
 https://gemeentemaastricht.nl
 https://gemeentenoordenveld.nl
 https://gemeenteraad.almere.nl
+https://gemeenteraad.arnhem.nl
 https://gemeenteraad.assen.nl
 https://gemeenteraad.bloemendaal.nl
 https://gemeenteraad.denhelder.nl
@@ -5285,6 +5287,7 @@ https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://nieuwbouwzwembad.rijssen-holten.nl
 https://nieuweburgemeester.deventer.nl
 https://nieuwegein.nl
+https://nieuwkomers.arnhem.nl
 https://nieuwkomers.zaanstad.nl
 https://nieuws.breda.nl
 https://nieuws.hoorn.nl
@@ -5596,7 +5599,6 @@ https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
-https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.heemstede.nl
@@ -5637,6 +5639,7 @@ https://opennotificaties-zgw.denhaag.nl
 https://opennotificaties-zgw.test.denhaag.nl
 https://openpdc.albrandswaard.nl
 https://openpdc.alkmaar.nl
+https://openpdc.arnhem.nl
 https://openpdc.barendrecht.nl
 https://openpdc.defryskemarren.nl
 https://openpdc.drechterland.nl
@@ -5667,6 +5670,7 @@ https://openpdckb.stedebroec.nl
 https://openpub.acc.stichtsevecht.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
+https://openpub.arnhem.nl
 https://openpub.barendrecht.nl
 https://openpub.buren.nl
 https://openpub.defryskemarren.nl
@@ -7822,6 +7826,7 @@ https://wmoservice.buren.nl
 https://woa.geertruidenberg.nl
 https://woa2.geertruidenberg.nl
 https://wob-acc.denhaag.nl
+https://wob.arnhem.nl
 https://wob.denhaag.nl
 https://woensdrecht.nl
 https://woerden.nl
