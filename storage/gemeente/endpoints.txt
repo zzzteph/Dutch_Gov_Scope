@@ -11,7 +11,6 @@ http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
-http://ami.amsterdam.nl
 http://ansvlm2009.landsmeer.nl
 http://archief-yell-cms.etten-leur.nl
 http://archief-yell.etten-leur.nl
@@ -217,7 +216,6 @@ http://begraafplaatsduinrust.beverwijk.nl
 http://belasting-test.kampen.nl
 http://belastingloket.montferland.info
 http://bestuursakkoord.s-hertogenbosch.nl
-http://bi-sociaal.fa.amsterdam.nl
 http://bladel.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://bronckhorst.nl
@@ -381,7 +379,6 @@ http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://samenduurzaam.geldrop-mierlo.nl
 http://sammy-acc.derondevenen.nl
-http://scanhulp.amsterdam.nl
 http://scherpenzeel.nl
 http://schiermonnikoog.nl
 http://secure.dalfsen.nl
@@ -500,6 +497,7 @@ http://wob.arnhem.nl
 http://woz.amsterdam.nl
 http://www.achtkarspelen.nl
 http://www.acutehulp.gezond.amsterdam.nl
+http://www.adviesraaddiversiteit.amsterdam.nl
 http://www.baarn.nl
 http://www.bba.amsterdam.nl
 http://www.beuningen.nl
@@ -965,6 +963,7 @@ https://adfs.simpelveld.nl
 https://adfs.voerendaal.nl
 https://adfs01.sudwestfryslan.nl
 https://adfslogin.defryskemarren.nl
+https://admin.bereikbaarheid.amsterdam.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.doemee.gemeentewestland.nl
 https://admin.doemee.zwolle.nl
@@ -1145,6 +1144,7 @@ https://ameland.nl
 https://amersfoort.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
+https://ami.amsterdam.nl
 https://amstelveen.nl
 https://amsterdam.nl
 https://amsterdaminbeeld.acc.amsterdam.nl
@@ -1841,6 +1841,7 @@ https://bgt.pijnacker-nootdorp.nl
 https://bgt.zutphen.nl
 https://bi-sociaal.acc.amsterdam.nl
 https://bi-sociaal.amsterdam.nl
+https://bi-sociaal.fa.amsterdam.nl
 https://bi-sociaal.fo.amsterdam.nl
 https://bi-sociaal.ft.amsterdam.nl
 https://bibliotheek.rotterdam.nl
@@ -1889,6 +1890,7 @@ https://boekel.nl
 https://boeken.schiedam.nl
 https://bolwerk.gemeentehulst.nl
 https://bomen.amsterdam.nl
+https://bomen.ont.amsterdam.nl
 https://bor.extranet.tilburg.nl
 https://bor.hilvarenbeek.nl
 https://bor.oisterwijk.nl
@@ -1991,6 +1993,7 @@ https://burgerloket.uithoorn.nl
 https://burgerpanel.middendrenthe.nl
 https://burgerportaal.hardenberg.nl
 https://burgerportaal.ommen.nl
+https://burgerzaken.amsterdam.nl
 https://busbrugdebinding.zaanstad.nl
 https://buurt.eindhoven.nl
 https://buurtbudget-centrumnoord.venlo.nl
@@ -5194,6 +5197,7 @@ https://mobiliteitsplan.lisse.nl
 https://mobiliteitsplan.teylingen.nl
 https://modern.noordwijk.nl
 https://moerdijk.nl
+https://mokummatch.rnd.amsterdam.nl
 https://molenlanden.nl
 https://monitor.krimpenerwaard.nl
 https://monitoring.hellendoorn.nl
@@ -6486,6 +6490,7 @@ https://scan.afs.amsterdam.nl
 https://scanhulp-fa.amsterdam.nl
 https://scanhulp-ft.amsterdam.nl
 https://scanhulp.acc.amsterdam.nl
+https://scanhulp.amsterdam.nl
 https://scanhulp.tst.amsterdam.nl
 https://scbroker.diemen.nl
 https://scbroker.ouder-amstel.nl

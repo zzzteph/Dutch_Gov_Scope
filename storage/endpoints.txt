@@ -30,7 +30,6 @@ http://afspraken.rijssen-holten.nl
 http://ag-dcr.cibg.nl
 http://agw01-nomail.nza.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
-http://ami.amsterdam.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
@@ -255,7 +254,6 @@ http://begraafplaatsduinrust.beverwijk.nl
 http://belasting-test.kampen.nl
 http://belastingloket.montferland.info
 http://bestuursakkoord.s-hertogenbosch.nl
-http://bi-sociaal.fa.amsterdam.nl
 http://bladel.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://bronckhorst.nl
@@ -495,7 +493,6 @@ http://samenduurzaam.geldrop-mierlo.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sammy-acc.derondevenen.nl
-http://scanhulp.amsterdam.nl
 http://scherpenzeel.nl
 http://schiermonnikoog.nl
 http://secure.dalfsen.nl
@@ -642,6 +639,7 @@ http://wortel176.provincie-utrecht.nl
 http://woz.amsterdam.nl
 http://www.achtkarspelen.nl
 http://www.acutehulp.gezond.amsterdam.nl
+http://www.adviesraaddiversiteit.amsterdam.nl
 http://www.baarn.nl
 http://www.bba.amsterdam.nl
 http://www.beuningen.nl
@@ -1229,6 +1227,7 @@ https://adfs.vallei-veluwe.nl
 https://adfs.voerendaal.nl
 https://adfs01.sudwestfryslan.nl
 https://adfslogin.defryskemarren.nl
+https://admin.bereikbaarheid.amsterdam.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.doemee.gemeentewestland.nl
 https://admin.doemee.zwolle.nl
@@ -1436,6 +1435,7 @@ https://ameland.nl
 https://amersfoort.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
+https://ami.amsterdam.nl
 https://ams-closures.ndw.nu
 https://amstelveen.nl
 https://amsterdam.nl
@@ -2280,6 +2280,7 @@ https://bgt.pijnacker-nootdorp.nl
 https://bgt.zutphen.nl
 https://bi-sociaal.acc.amsterdam.nl
 https://bi-sociaal.amsterdam.nl
+https://bi-sociaal.fa.amsterdam.nl
 https://bi-sociaal.fo.amsterdam.nl
 https://bi-sociaal.ft.amsterdam.nl
 https://bibliotheek.rotterdam.nl
@@ -2337,6 +2338,7 @@ https://boeken.schiedam.nl
 https://boetebase.om.nl
 https://bolwerk.gemeentehulst.nl
 https://bomen.amsterdam.nl
+https://bomen.ont.amsterdam.nl
 https://bor.extranet.tilburg.nl
 https://bor.hilvarenbeek.nl
 https://bor.oisterwijk.nl
@@ -2458,6 +2460,7 @@ https://burgerloket.uithoorn.nl
 https://burgerpanel.middendrenthe.nl
 https://burgerportaal.hardenberg.nl
 https://burgerportaal.ommen.nl
+https://burgerzaken.amsterdam.nl
 https://busbrugdebinding.zaanstad.nl
 https://buurt.eindhoven.nl
 https://buurtbudget-centrumnoord.venlo.nl
@@ -6857,6 +6860,7 @@ https://modellen.jenvgegevens.nl
 https://modern.noordwijk.nl
 https://moerdijk.nl
 https://mogin.ndw.nu
+https://mokummatch.rnd.amsterdam.nl
 https://molenlanden.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitor.krimpenerwaard.nl
@@ -8902,6 +8906,7 @@ https://scan.afs.amsterdam.nl
 https://scanhulp-fa.amsterdam.nl
 https://scanhulp-ft.amsterdam.nl
 https://scanhulp.acc.amsterdam.nl
+https://scanhulp.amsterdam.nl
 https://scanhulp.tst.amsterdam.nl
 https://scansys.huurcommissie.nl
 https://scbroker.diemen.nl
