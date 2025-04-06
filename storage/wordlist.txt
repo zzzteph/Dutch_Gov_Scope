@@ -87,9 +87,9 @@ portaal
 zaken
 cmsintranet
 test-intranet
+_autodiscover._tcp
 cloudadapter
 sip
-_autodiscover._tcp
 berichten
 parkeren-acc
 govroam
