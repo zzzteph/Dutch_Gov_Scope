@@ -317,7 +317,6 @@ http://felix.achtkarspelen.nl
 http://felix.bergeijk.nl
 http://felix.bergen.nl
 http://felix.capelleaandenijssel.nl
-http://felix.deurne.nl
 http://felix.koggenland.nl
 http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
@@ -471,7 +470,6 @@ http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://preprod-machtigen.digipoort.logius.nl
-http://preproductie.deurne.nl
 http://preproductie.opmeer.nl
 http://preproductie.reuseldemierden.nl
 http://preproductie.simpelveld.nl
@@ -539,7 +537,6 @@ http://simform.houten.nl
 http://simsite.bergeijk.nl
 http://simsite.beverwijk.nl
 http://simsite.bladel.nl
-http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
 http://simsite.gemeentebeek.nl
 http://simsite.heuvelrug.nl
@@ -647,7 +644,6 @@ http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
-http://www.deurne.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.leiden.nl
 http://www.gemeentebeek.nl
