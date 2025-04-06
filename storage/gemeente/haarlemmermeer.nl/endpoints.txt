@@ -1,5 +1,4 @@
 http://autodiscover.haarlemmermeer.nl
-http://kaarten.haarlemmermeer.nl
 https://admin.openstad.haarlemmermeer.nl
 https://admin.v2.openstad.haarlemmermeer.nl
 https://afspraak.haarlemmermeer.nl
@@ -36,6 +35,7 @@ https://img.v2.openstad.haarlemmermeer.nl
 https://inloggen.haarlemmermeer.nl
 https://jaarstukken.haarlemmermeer.nl
 https://jouwbadhoevedorp.haarlemmermeer.nl
+https://kaarten.haarlemmermeer.nl
 https://mijnsubsidie.acc.haarlemmermeer.nl
 https://mijnsubsidie.haarlemmermeer.nl
 https://mpinajaar.haarlemmermeer.nl
