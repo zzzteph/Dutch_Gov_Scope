@@ -384,7 +384,6 @@ http://samenduurzaam.geldrop-mierlo.nl
 http://sammy-acc.derondevenen.nl
 http://scherpenzeel.nl
 http://schiermonnikoog.nl
-http://secure.dalfsen.nl
 http://secure.gemeentestein.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
@@ -501,6 +500,7 @@ http://www.bba.amsterdam.nl
 http://www.bergen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
+http://www.dalfsen.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
@@ -2253,7 +2253,6 @@ https://dacceptatieloket.veendam.nl
 https://dacceptatieloket.waterland.nl
 https://dacceptatieloket.zwolle.nl
 https://dagbesteding.apeldoorn.nl
-https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
 https://dali.hillegom.nl
@@ -3159,6 +3158,7 @@ https://felix.beuningen.nl
 https://felix.bronckhorst.nl
 https://felix.bunschoten.nl
 https://felix.cranendonck.nl
+https://felix.dalfsen.nl
 https://felix.geldrop-mierlo.nl
 https://felix.halderberge.nl
 https://felix.harlingen.nl
@@ -7434,6 +7434,7 @@ https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkeersbesluiten.denhaag.nl
 https://verkiezingen.acc.topdesk.denhaag.nl
+https://verkiezingen.dalfsen.nl
 https://verkiezingen.denhelder.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
@@ -7997,7 +7998,6 @@ https://www.cranendonck.nl
 https://www.crk.amsterdam.nl
 https://www.csam.deventer.nl
 https://www.culemborg.nl
-https://www.dalfsen.nl
 https://www.dantumadiel.frl
 https://www.dataportaal.tilburg.nl
 https://www.de.gemert-bakel.nl
