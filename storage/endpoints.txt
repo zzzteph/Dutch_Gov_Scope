@@ -343,7 +343,6 @@ http://gelukkignieuwjaar.zwolle.nl
 http://geo.huizen.nl
 http://geo.roermond.nl
 http://geo2.flevoland.nl
-http://geodata.dijkenwaard.nl
 http://geodev.nieuwegein.nl
 http://geoportal.weert.nl
 http://gisib.zwijndrecht.nl
@@ -4816,6 +4815,7 @@ https://geodata-a.utrecht.nl
 https://geodata-acc.dijkenwaard.nl
 https://geodata-acc.voorst.nl
 https://geodata-acc.zutphen.nl
+https://geodata.dijkenwaard.nl
 https://geodata.hollandskroon.nl
 https://geodata.nunspeet.nl
 https://geodata.sittard-geleen.nl
@@ -11845,7 +11845,6 @@ https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
 https://zaaksysteem-accept.beuningen.nl
 https://zaaksysteem-accept.debilt.nl
-https://zaaksysteem-accept.dijkenwaard.nl
 https://zaaksysteem-accept.dronten.nl
 https://zaaksysteem-accept.ede.nl
 https://zaaksysteem-accept.epe.nl
