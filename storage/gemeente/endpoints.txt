@@ -463,7 +463,6 @@ http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
 http://test-jip.hofvantwente.nl
 http://test-social.montferland.info
-http://test-topvorm.apeldoorn.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
@@ -1031,6 +1030,7 @@ https://afspraakmakentest.enschede.nl
 https://afspraakmakentest.losser.nl
 https://afspraken.alkmaar.nl
 https://afspraken.amersfoort.nl
+https://afspraken.apeldoorn.nl
 https://afspraken.assen.nl
 https://afspraken.baarle-nassau.nl
 https://afspraken.beekdaelen.nl
@@ -3660,7 +3660,6 @@ https://goud.almere.nl
 https://gouda.nl
 https://govpub.sudwestfryslan.nl
 https://gp-admin.tilburg.nl
-https://gp.apeldoorn.nl
 https://gp.deventer.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
@@ -3809,6 +3808,7 @@ https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
 https://iburgerzaken.alphen-chaam.nl
 https://iburgerzaken.amersfoort.nl
+https://iburgerzaken.apeldoorn.nl
 https://iburgerzaken.baarle-nassau.nl
 https://iburgerzaken.beekdaelen.nl
 https://iburgerzaken.bergeijk.nl
@@ -5694,6 +5694,7 @@ https://openpub.waddinxveen.nl
 https://openpub.wageningen.nl
 https://openpub.zaanstad.nl
 https://openpubkb.stedebroec.nl
+https://openstad.apeldoorn.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
 https://openstad.gemeentewestland.nl

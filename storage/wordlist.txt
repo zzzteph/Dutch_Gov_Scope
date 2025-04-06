@@ -267,6 +267,7 @@ sslvpn
 ns1
 support
 api.openstad
+openstad
 subsidies-backend
 melddesk
 thuiswerken
@@ -294,7 +295,6 @@ burgerloket
 aanvragen
 digikoppelingtest
 admin.openstad
-openstad
 mijnzorg-acc
 vergunningintaker-preprod
 simform-preproductie
@@ -347,7 +347,6 @@ ns
 wion
 www.test
 parkeervergunningen
-gp
 openformulieren
 awmag
 squit2020.acceptatie
@@ -410,6 +409,7 @@ uca
 tim
 cloud
 extern
+gp
 programmabegroting
 autorisatiebeheer
 carel

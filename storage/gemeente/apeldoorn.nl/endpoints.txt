@@ -1,5 +1,5 @@
-http://test-topvorm.apeldoorn.nl
 http://www.stadspas.apeldoorn.nl
+https://afspraken.apeldoorn.nl
 https://agbi.apeldoorn.nl
 https://apeldoorn.nl
 https://api.meldingen-acc.apeldoorn.nl
@@ -22,10 +22,10 @@ https://enterpriseregistration.apeldoorn.nl
 https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
 https://gbi.apeldoorn.nl
-https://gp.apeldoorn.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
 https://gpt.apeldoorn.nl
+https://iburgerzaken.apeldoorn.nl
 https://intranet.apeldoorn.nl
 https://intranetacc.apeldoorn.nl
 https://kinderburgemeester.apeldoorn.nl
@@ -39,6 +39,7 @@ https://ndes.apeldoorn.nl
 https://ndesapeldoorn.apeldoorn.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
+https://openstad.apeldoorn.nl
 https://parkeren.apeldoorn.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://planon.apeldoorn.nl
