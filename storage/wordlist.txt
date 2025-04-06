@@ -157,7 +157,6 @@ connect.acceptatie
 auth
 transfer
 gis
-nieuwsbrief
 preprodbroker
 simform
 mijninkomen
@@ -172,6 +171,7 @@ legacy
 mobile
 mx1
 keycloak
+nieuwsbrief
 ro
 gisib
 izaaksuite
@@ -678,7 +678,6 @@ test-openzaak
 vastgoed
 bestemmingsplannen
 accdrop
-storefront
 www.login
 eforms
 intranetcms-acc
@@ -1124,6 +1123,7 @@ director
 ketenportaal.acceptatie
 nedplan
 secudoc
+storefront
 www.mijnmobiel
 gisibonline
 werkomgeving
@@ -1197,7 +1197,6 @@ m2
 sem
 sng
 sngtest
-stats.intranet
 www.archief
 bo-parkeervergunningen.acc
 bo-parkeervergunningen
@@ -6304,9 +6303,7 @@ aanmelder
 abonneren-t
 abonneren
 ac00089
-ac03617
 axians.lev
-cppm
 cryptsharetest
 financieel
 hnw
@@ -8606,6 +8603,7 @@ mob
 revprox01
 revprox02
 staging.intranet
+stats.intranet
 tsapp05.local
 uag1
 vrijwilligerswerk-oostgelre
