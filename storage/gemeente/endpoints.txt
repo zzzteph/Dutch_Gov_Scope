@@ -268,7 +268,6 @@ http://felixburgerzaken.nissewaard.nl
 http://flash.scherpenzeel.nl
 http://formulieren.edam-volendam.nl
 http://formulieren.opsterland.nl
-http://geldrop-mierlo.nl
 http://geldzaken.loonopzand.nl
 http://gelukkignieuwjaar.zwolle.nl
 http://geo.huizen.nl
@@ -336,6 +335,7 @@ http://noorderkwartier.zwolle.nl
 http://noordhoveseghwaert.zoetermeer.nl
 http://nuenen.nl
 http://oirschot.nl
+http://omgevingsvisie.geldrop-mierlo.nl
 http://open.beverwijk.nl
 http://open.gemeentebeek.nl
 http://open.staphorst.nl
@@ -377,17 +377,15 @@ http://raas.rotterdam.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
-http://samenduurzaam.geldrop-mierlo.nl
 http://scherpenzeel.nl
 http://schiermonnikoog.nl
 http://secure.gemeentestein.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
-http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
-http://simcms-open.geldrop-mierlo.nl
+http://simcms-omgevingsvisie.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
 http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.kerkrade.nl
@@ -397,6 +395,7 @@ http://simcms.achtkarspelen.nl
 http://simcms.ameland.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.echt-susteren.nl
+http://simcms.geldrop-mierlo.nl
 http://simcms.heerlen.nl
 http://simcms.heuvelrug.nl
 http://simcms.landgraaf.nl
@@ -2020,6 +2019,7 @@ https://centrum.heerlen.nl
 https://centrum.zoetermeer.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
+https://centrumimpuls.geldrop-mierlo.nl
 https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
 https://circulairopdreef.waddinxveen.nl
@@ -4637,7 +4637,6 @@ https://loonkostensubsidie.utrecht.nl
 https://loonopzand.nl
 https://lopik.nl
 https://losser.nl
-https://luchen.geldrop-mierlo.nl
 https://lvs.hellendoorn.nl
 https://lvs.horstaandemaas.nl
 https://lvs.zwemmen.venlo.nl
@@ -6455,6 +6454,7 @@ https://samen.s-hertogenbosch.nl
 https://samen.schagen.nl
 https://samen.stedebroec.nl
 https://samenatwork.stichtsevecht.nl
+https://samenduurzaam.geldrop-mierlo.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
@@ -6580,7 +6580,6 @@ https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
-https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
@@ -6591,7 +6590,6 @@ https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-raad.zoetermeer.nl
-https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-woo.doesburg.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
@@ -6604,7 +6602,6 @@ https://simcms.bunschoten.nl
 https://simcms.deurne.nl
 https://simcms.doesburg.nl
 https://simcms.eersel.nl
-https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
@@ -8050,7 +8047,6 @@ https://www.followyourdreams.denhaag.nl
 https://www.gebouwdin.amsterdam.nl
 https://www.geertruidenberg.nl
 https://www.geldloket.emmen.nl
-https://www.geldrop-mierlo.nl
 https://www.gelukkignieuwjaar.zwolle.nl
 https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl
