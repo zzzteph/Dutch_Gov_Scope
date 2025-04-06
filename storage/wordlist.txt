@@ -279,6 +279,7 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 www.doemee
+jongin
 topdesk
 acceptatie-open
 bestanden
@@ -305,9 +306,9 @@ www.acc
 afval
 citrix
 data-test
+www.jongin
 erfgoed
 key2gbav
-jongin
 woz-portaal
 en
 mijnsociaaldomein
@@ -361,7 +362,6 @@ woz-loket
 ondernemersloket
 sport
 eformulieren
-www.jongin
 www.intranet
 aeolus
 sbc01
