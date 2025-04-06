@@ -305,6 +305,7 @@ http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://docs.lpc.logius.nl
+http://doesburg.nl
 http://draf-acpt.brabant.nl
 http://dse.lx.overheid.nl
 http://eagle-acc.dji.nl
@@ -420,7 +421,6 @@ http://mijn-preproductie.heerenveen.nl
 http://mijn.aalten.nl
 http://mijn.adr.donorregister.nl
 http://mijn.bronckhorst.nl
-http://mijn.doesburg.nl
 http://mijn.weststellingwerf.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
@@ -510,7 +510,6 @@ http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.kerkrade.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-werkenbij.t-diel.nl
-http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
 http://simcms.ameland.nl
 http://simcms.capelleaandenijssel.nl
@@ -9164,6 +9163,7 @@ https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-raad.zoetermeer.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
+https://simcms-woo.doesburg.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
 https://simcms.baarn.nl
@@ -9173,6 +9173,7 @@ https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
 https://simcms.bunschoten.nl
 https://simcms.deurne.nl
+https://simcms.doesburg.nl
 https://simcms.echt-susteren.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
@@ -9213,7 +9214,6 @@ https://simsite.beekdaelen.nl
 https://simsite.bergendal.nl
 https://simsite.bronckhorst.nl
 https://simsite.cranendonck.nl
-https://simsite.doesburg.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
 https://simsite.landgraaf.nl
@@ -10748,6 +10748,7 @@ https://woningdossier.assen.nl
 https://woo-formulier.rijksoverheid.nl
 https://woo.arnhem.nl
 https://woo.denhaag.nl
+https://woo.doesburg.nl
 https://woo.helmond.nl
 https://woo.hilversum.nl
 https://woo.krimpenerwaard.nl
@@ -11025,7 +11026,6 @@ https://www.doemee.deventer.nl
 https://www.doemee.gemeentewestland.nl
 https://www.doemee.terneuzen.nl
 https://www.doemee.zwolle.nl
-https://www.doesburg.nl
 https://www.doetinchem.nl
 https://www.domeinenrz.nl
 https://www.dongen.nl
