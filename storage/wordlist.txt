@@ -632,6 +632,7 @@ status
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
+www.praatmee
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -995,7 +996,6 @@ subsidieregister
 blog
 gitlab
 edienstenburgerzaken.test
-www.praatmee
 datalab
 gen1
 notubiz
