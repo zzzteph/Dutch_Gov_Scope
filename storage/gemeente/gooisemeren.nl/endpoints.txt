@@ -1,6 +1,4 @@
 http://autodiscover.gooisemeren.nl
-http://cmsintranet.gooisemeren.nl
-http://test-cmsintranet.gooisemeren.nl
 http://webmail.gooisemeren.nl
 https://acceptatie-open.gooisemeren.nl
 https://adfs.gooisemeren.nl
@@ -11,6 +9,7 @@ https://belastingbalie-prepod.gooisemeren.nl
 https://belastingbalie.gooisemeren.nl
 https://belevingsroute.gooisemeren.nl
 https://bestuur.gooisemeren.nl
+https://cmsintranet.gooisemeren.nl
 https://duurzaam.gooisemeren.nl
 https://duurzaambouwen.gooisemeren.nl
 https://enterpriseenrollment.gooisemeren.nl
@@ -26,12 +25,14 @@ https://mijn.gooisemeren.nl
 https://mozard.gooisemeren.nl
 https://mozardtest.gooisemeren.nl
 https://omgevingsvisie.gooisemeren.nl
+https://online.gooisemeren.nl
 https://open.gooisemeren.nl
 https://plattegronden.gooisemeren.nl
 https://portal-webmail.gooisemeren.nl
 https://portal.gooisemeren.nl
 https://qr-acc.gooisemeren.nl
 https://sbc01.gooisemeren.nl
+https://test-cmsintranet.gooisemeren.nl
 https://test-intra.gooisemeren.nl
 https://thuiswerken-uitwijk.gooisemeren.nl
 https://trobit.gooisemeren.nl

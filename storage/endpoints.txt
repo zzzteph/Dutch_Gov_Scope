@@ -275,7 +275,6 @@ http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
 http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
-http://cmsintranet.gooisemeren.nl
 http://cmssocialintranet.middendelfland.nl
 http://coalitieakkoord.zuid-holland.nl
 http://connect.acceptatie.goirle.nl
@@ -573,7 +572,6 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
-http://test-cmsintranet.gooisemeren.nl
 http://test-cmsintranet.groningen.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-eef.waterschaplimburg.nl
@@ -2602,6 +2600,7 @@ https://cmsintranet.edam-volendam.nl
 https://cmsintranet.flevoland.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsintranet.gemeentestein.nl
+https://cmsintranet.gooisemeren.nl
 https://cmsintranet.groningen.nl
 https://cmsintranet.heuvelrug.nl
 https://cmsintranet.lansingerland.nl
@@ -7357,6 +7356,7 @@ https://onderzoeksbank.brabant.nl
 https://online-aanvraag-test.dalfsen.nl
 https://online-aanvraag.dalfsen.nl
 https://online.acc.nijmegen.nl
+https://online.gooisemeren.nl
 https://online.leiden.nl
 https://online.nijmegen.nl
 https://online.rijksinnovatiecommunity.nl
@@ -9703,6 +9703,7 @@ https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.flevoland.nl
+https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.scp.nl
