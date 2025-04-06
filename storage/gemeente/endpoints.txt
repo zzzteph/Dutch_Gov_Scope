@@ -244,7 +244,6 @@ http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
-http://duurzaam.beverwijk.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
@@ -337,6 +336,7 @@ http://noorderkwartier.zwolle.nl
 http://noordhoveseghwaert.zoetermeer.nl
 http://nuenen.nl
 http://oirschot.nl
+http://open.beverwijk.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://open.staphorst.nl
@@ -386,10 +386,10 @@ http://secure.dalfsen.nl
 http://secure.gemeentestein.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
+http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
-http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
 http://simcms-open.sonenbreugel.nl
@@ -422,6 +422,7 @@ http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.houten.nl
 http://simsite.bergeijk.nl
+http://simsite.beverwijk.nl
 http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
 http://simsite.gemeentebeek.nl
@@ -2524,6 +2525,7 @@ https://dusk-openwave.beverwijk.nl
 https://duurzaam.alphenaandenrijn.nl
 https://duurzaam.barneveld.nl
 https://duurzaam.beesel.nl
+https://duurzaam.beverwijk.nl
 https://duurzaam.gooisemeren.nl
 https://duurzaam.heemskerk.nl
 https://duurzaam.hollandskroon.nl
@@ -3156,7 +3158,6 @@ https://feedback.delft.nl
 https://felix.beekdaelen.nl
 https://felix.bergendal.nl
 https://felix.beuningen.nl
-https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bronckhorst.nl
 https://felix.capelleaandenijssel.nl
@@ -6590,7 +6591,6 @@ https://sibt01.lelystad.nl
 https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
-https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
@@ -7955,6 +7955,7 @@ https://www.belastingloket.purmerend.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
 https://www.bernheze.org
+https://www.beverwijk.nl
 https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
 https://www.bikecity.amsterdam.nl

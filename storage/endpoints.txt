@@ -306,7 +306,6 @@ http://docgen.amsterdam.nl
 http://docs.lpc.logius.nl
 http://draf-acpt.brabant.nl
 http://dse.lx.overheid.nl
-http://duurzaam.beverwijk.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://eloket.meppel.nl
@@ -439,6 +438,7 @@ http://noordhoveseghwaert.zoetermeer.nl
 http://nuenen.nl
 http://oirschot.nl
 http://ondertekeningsviewer.overheid.nl
+http://open.beverwijk.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://open.staphorst.nl
@@ -503,10 +503,10 @@ http://sem.kampen.nl
 http://services.cultureelerfgoed.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
+http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
-http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
 http://simcms-open.sonenbreugel.nl
@@ -539,6 +539,7 @@ http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.houten.nl
 http://simsite.bergeijk.nl
+http://simsite.beverwijk.nl
 http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
 http://simsite.gemeentebeek.nl
@@ -3208,6 +3209,7 @@ https://dutchrapporteur.nl
 https://duurzaam.alphenaandenrijn.nl
 https://duurzaam.barneveld.nl
 https://duurzaam.beesel.nl
+https://duurzaam.beverwijk.nl
 https://duurzaam.gooisemeren.nl
 https://duurzaam.heemskerk.nl
 https://duurzaam.hollandskroon.nl
@@ -4348,7 +4350,6 @@ https://feeds.zorginstituutnederland.nl
 https://felix.beekdaelen.nl
 https://felix.bergendal.nl
 https://felix.beuningen.nl
-https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bronckhorst.nl
 https://felix.capelleaandenijssel.nl
@@ -9052,7 +9053,6 @@ https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://signing.pre.brabant.nl
-https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
@@ -10811,6 +10811,7 @@ https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
 https://www.bernheze.org
 https://www.beschermdecultuurgoederen.nl
+https://www.beverwijk.nl
 https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
 https://www.bigregister.nl
