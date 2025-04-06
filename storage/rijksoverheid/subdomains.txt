@@ -1528,6 +1528,7 @@ emissieautoriteit.nl
 emissionsauthority.nl
 emm-online.nl
 emm.belastingdienst.nl
+en.inburgeren.nl
 enabling.omgevingswet.overheid.nl
 energierijkdenhaag.nl
 english.aivd.nl
@@ -2491,6 +2492,7 @@ importacc.tlokb.nl
 inbeeld.zuid-holland.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
 inbewaringstelling.webservices-dbb.igj.nl
+inburgeren.nl
 incassomachtigen.acc.belastingdienst.nl
 incassomachtigen.belastingdienst.nl
 incassomachtigen.str10.acc.belastingdienst.nl
@@ -3046,6 +3048,7 @@ mijn.dus-i.nl
 mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 mijn.huurcommissie.nl
 mijn.igj.nl
+mijn.inburgeren.nl
 mijn.locatieregister.zorgaanbiedersportaal.nl
 mijn.melding.zorgaanbiedersportaal.nl
 mijn.ncsc.nl
@@ -4722,6 +4725,7 @@ staatvan.zuid-holland.nl
 stadvanced.belastingdienst.nl
 stagiairs.werkenvoornederland.nl
 staging.english.ctpveldzicht.nl
+staging.inburgeren.nl
 staging.meldingen.ilent.nl
 staging.ndw.nu
 staging.ondernemersplein.overheid.nl
@@ -5225,6 +5229,8 @@ vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
 vscode.analyse.ilt.rijkscloud.nl
 vsu.provincie-utrecht.nl
+vt-mijn.inburgeren.nl
+vt.inburgeren.nl
 vtrack.nvwa.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
@@ -5580,6 +5586,7 @@ www.igj.nl
 www.ikvermoedhuiselijkgeweld.nl
 www.ikz.nl
 www.ilent.nl
+www.inburgeren.nl
 www.infomilcn.com
 www.informatieanalyseteam.nl
 www.informatiehuishouding.nl

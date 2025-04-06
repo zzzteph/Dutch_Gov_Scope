@@ -6038,6 +6038,7 @@ en.cmsoo.gemert-bakel.nl
 en.geldrop-mierlo.nl
 en.gemert-bakel.nl
 en.heerlen.nl
+en.inburgeren.nl
 en.kerkrade.nl
 en.nuenen.nl
 en.sonenbreugel.nl
@@ -8994,6 +8995,7 @@ importacc.tlokb.nl
 inbeeld.zuid-holland.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
 inbewaringstelling.webservices-dbb.igj.nl
+inburgeren.nl
 inc-ons.zwolle.nl
 incassomachtigen.acc.belastingdienst.nl
 incassomachtigen.belastingdienst.nl
@@ -11261,6 +11263,7 @@ mijn.hoorn.nl
 mijn.houten.nl
 mijn.huurcommissie.nl
 mijn.igj.nl
+mijn.inburgeren.nl
 mijn.laarbeek.nl
 mijn.lansingerland.nl
 mijn.lingewaard.nl
@@ -16560,6 +16563,7 @@ staging.buurtbudget-buurt.venlo.nl
 staging.buurtbudget.venlo.nl
 staging.deventer.nl
 staging.english.ctpveldzicht.nl
+staging.inburgeren.nl
 staging.intranet.oostgelre.nl
 staging.meldingen.ilent.nl
 staging.microservices.schoolwijzer.amsterdam.nl
@@ -18360,6 +18364,8 @@ vsp.denhelder.nl
 vsp.heemskerk.nl
 vsp.terneuzen.nl
 vsu.provincie-utrecht.nl
+vt-mijn.inburgeren.nl
+vt.inburgeren.nl
 vth.brievenbus.amsterdam.nl
 vth.deventer.nl
 vth.gemeente-oldambt.nl
@@ -19971,6 +19977,7 @@ www.ikvermoedhuiselijkgeweld.nl
 www.ikz.nl
 www.ilent.nl
 www.inburgeren.amsterdam.nl
+www.inburgeren.nl
 www.infomilcn.com
 www.infonet.eijsden-margraten.nl
 www.informatieanalyseteam.nl

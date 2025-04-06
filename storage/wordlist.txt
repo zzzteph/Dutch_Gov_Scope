@@ -8,8 +8,8 @@ ibzpink
 mail
 intranet
 edienstenburgerzaken
-edienstenburgerzaken-test
 mijn
+edienstenburgerzaken-test
 webmail
 simsite
 afspraken
@@ -268,6 +268,7 @@ ns1
 support
 api.openstad
 openstad
+en
 subsidies-backend
 melddesk
 thuiswerken
@@ -310,7 +311,6 @@ www.jongin
 erfgoed
 key2gbav
 woz-portaal
-en
 mijnsociaaldomein
 mijn-acc
 ns2
@@ -377,6 +377,7 @@ test.digikoppeling
 mijnloket
 kennis
 nhr
+staging
 geoweb
 octopus
 sso
@@ -468,7 +469,6 @@ burgerloket.acceptatie
 welkom
 iam
 sentry
-staging
 stats
 vacatures
 pop
@@ -4701,6 +4701,8 @@ webmail.rsj
 whatsip.test.ix
 www.rapportage
 zabbix6.mintst2
+vt-mijn
+vt
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
