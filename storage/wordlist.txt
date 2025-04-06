@@ -89,11 +89,11 @@ cmsintranet
 test-intranet
 cloudadapter
 sip
+_autodiscover._tcp
 berichten
 parkeren-acc
 govroam
 test-cmsintranet
-_autodiscover._tcp
 digikoppeling.test
 mks
 dtestloket
