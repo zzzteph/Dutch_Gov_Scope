@@ -1,10 +1,8 @@
 http://autodiscover.bloemendaal.nl
-https://Autorisatietest.bloemendaal.nl
+http://opendata.bloemendaal.nl
 https://admin.doemee.bloemendaal.nl
 https://api.doemee.bloemendaal.nl
 https://auth.doemee.bloemendaal.nl
-https://autorisatie.bloemendaal.nl
-https://autorisatietest.bloemendaal.nl
 https://begraafplaatsen.bloemendaal.nl
 https://bekslaan-leidsevaartweg.doemee.bloemendaal.nl
 https://bloemendaal.nl
@@ -22,7 +20,6 @@ https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://oldenhove.doemee.bloemendaal.nl
 https://omgevingsvisie.doemee.bloemendaal.nl
 https://ondernemers.bloemendaal.nl
-https://opendata.bloemendaal.nl
 https://parkeren.bloemendaal.nl
 https://tradities.doemee.bloemendaal.nl
 https://webmail.bloemendaal.nl

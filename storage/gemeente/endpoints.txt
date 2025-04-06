@@ -341,6 +341,7 @@ http://open.gemeentebeek.nl
 http://open.staphorst.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
+http://opendata.bloemendaal.nl
 http://opendata.zoetermeer.nl
 http://opsterland.nl
 http://ows-ahp-test.groningen.nl
@@ -559,7 +560,6 @@ https://3d.amsterdam.nl
 https://3d.utrecht.nl
 https://4dekwartaalbrief2019.financielestukken.diemen.nl
 https://4enieuwsbrief2022.financielestukken.ouder-amstel.nl
-https://Autorisatietest.bloemendaal.nl
 https://Belastingbalie-test.meppel.nl
 https://Belastingportaal-test.boxtel.nl
 https://Belastingportaal-test.tubbergen.nl
@@ -1463,9 +1463,7 @@ https://autodiscover.valkenburg.nl
 https://autodiscover.veere.nl
 https://autodiscover.vlaardingen.nl
 https://autodiscover.wij.groningen.nl
-https://autorisatie.bloemendaal.nl
 https://autorisatie.heemstede.nl
-https://autorisatietest.bloemendaal.nl
 https://autorisatietest.heemstede.nl
 https://awm.amsterdam.nl
 https://awmag.asten.nl
@@ -5599,7 +5597,6 @@ https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
-https://opendata.bloemendaal.nl
 https://opendata.heemstede.nl
 https://opendata.nijmegen.nl
 https://opendata.roosendaal.nl
