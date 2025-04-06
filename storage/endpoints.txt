@@ -317,6 +317,7 @@ http://felix.achtkarspelen.nl
 http://felix.bergeijk.nl
 http://felix.bergen.nl
 http://felix.capelleaandenijssel.nl
+http://felix.halderberge.nl
 http://felix.koggenland.nl
 http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
@@ -644,7 +645,6 @@ http://www.doemee.leiden.nl
 http://www.eersel.nl
 http://www.gemeentebeek.nl
 http://www.gezond.amsterdam.nl
-http://www.halderberge.nl
 http://www.heuvelrug.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
@@ -4368,7 +4368,6 @@ https://felix.cranendonck.nl
 https://felix.dalfsen.nl
 https://felix.eersel.nl
 https://felix.geldrop-mierlo.nl
-https://felix.halderberge.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
 https://felix.heuvelrug.nl
@@ -8517,7 +8516,6 @@ https://privacy.nctv.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
-https://probeer.halderberge.nl
 https://probeer.winterswijk.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
@@ -9159,6 +9157,7 @@ https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingswet.bronckhorst.nl
+https://simcms-open.halderberge.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.oirschot.nl
