@@ -8,7 +8,6 @@ http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
-http://test-cmsintranet.groningen.nl
 http://test-intranet.groningen.nl
 https://aanvraagparkeren.groningen.nl
 https://acc-contact.dev.groningen.nl
@@ -34,6 +33,8 @@ https://acc-podiumd-logs.groningen.nl
 https://acc-zac.dev.groningen.nl
 https://admin.stadjerspas.gemeente.groningen.nl
 https://aov.groningen.nl
+https://api.acc.meldingen.groningen.nl
+https://api.meldingen.groningen.nl
 https://arcgis.groningen.nl
 https://authenticatie.groningen.nl
 https://autodiscover.ggd.groningen.nl
@@ -70,6 +71,7 @@ https://intranet.groningen.nl
 https://jouwdamsterplein.groningen.nl
 https://jouwgrotemarkt.groningen.nl
 https://kennisbank.groningen.nl
+https://keycloak.groningen.nl
 https://lerenbij.groningen.nl
 https://lifecoolsquare.groningen.nl
 https://login.groningen.nl
@@ -78,7 +80,6 @@ https://maps-tst.groningen.nl
 https://maps.groningen.nl
 https://mas.groningen.nl
 https://meldingen.groningen.nl
-https://mijn-acc.groningen.nl
 https://mijn.groningen.nl
 https://mijngkb.groningen.nl
 https://mijnjgz.ggd.groningen.nl
@@ -116,6 +117,7 @@ https://stoepvrij.groningen.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://tasman375.groningen.nl
+https://test-cmsintranet.groningen.nl
 https://toegang.groningen.nl
 https://toerisme.groningen.nl
 https://tuinen.groningen.nl

@@ -155,6 +155,7 @@ onderzoek
 AutoDiscover
 connect.acceptatie
 auth
+keycloak
 transfer
 gis
 preprodbroker
@@ -170,7 +171,6 @@ email
 legacy
 mobile
 mx1
-keycloak
 nieuwsbrief
 ro
 gisib
@@ -312,7 +312,6 @@ erfgoed
 key2gbav
 woz-portaal
 mijnsociaaldomein
-mijn-acc
 ns2
 rap
 smtp1
@@ -368,6 +367,7 @@ aeolus
 sbc01
 bezoekersparkeren
 relay
+mijn-acc
 download
 huisstijl
 werken
@@ -651,6 +651,7 @@ ssp
 digitaalnachtregister
 activesync
 crl
+api.acc.meldingen
 applicaties
 belastingbalie-acc
 belastingbalie.acc
@@ -1036,7 +1037,6 @@ aanmeldenparkeren
 acc-nieuwsbrief
 acc.meldingen
 afs
-api.acc.meldingen
 api.data
 assets
 autodiscover.ggd

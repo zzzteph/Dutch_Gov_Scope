@@ -1712,6 +1712,7 @@ api-portal.data.leiden.nl
 api-sec.p-direkt.nl
 api-test-gemnet.losser.nl
 api.acc.meldingen.amsterdam.nl
+api.acc.meldingen.groningen.nl
 api.acc.meldingen.kampen.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
@@ -1822,6 +1823,7 @@ api.meldingen.bernheze.org
 api.meldingen.eindhoven.nl
 api.meldingen.enschede.nl
 api.meldingen.gemeente-oldambt.nl
+api.meldingen.groningen.nl
 api.meldingen.hattem.nl
 api.meldingen.heerde.nl
 api.meldingen.heerlen.nl
@@ -9909,6 +9911,7 @@ keycloak.enschede.nl
 keycloak.gemeente-oldambt.nl
 keycloak.gemeentemaashorst.nl
 keycloak.gemert-bakel.nl
+keycloak.groningen.nl
 keycloak.mintst.rijkscloud.nl
 keycloak.ndw.nu
 keycloak.oldenzaal.nl
@@ -11179,7 +11182,6 @@ midofficeacc.velsen.nl
 midofficeprd.velsen.nl
 midofficetst.velsen.nl
 mijn-aanvraag.belastingdienst.nl
-mijn-acc.groningen.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
 mijn-acc.overbetuwe.nl

@@ -1144,6 +1144,7 @@ api-portal-dev.data.leiden.nl
 api-portal.data.leiden.nl
 api-test-gemnet.losser.nl
 api.acc.meldingen.amsterdam.nl
+api.acc.meldingen.groningen.nl
 api.acc.meldingen.kampen.nl
 api.aip.amsterdam.nl
 api.amsterdam.nl
@@ -1233,6 +1234,7 @@ api.meldingen.bernheze.org
 api.meldingen.eindhoven.nl
 api.meldingen.enschede.nl
 api.meldingen.gemeente-oldambt.nl
+api.meldingen.groningen.nl
 api.meldingen.hattem.nl
 api.meldingen.heerde.nl
 api.meldingen.heerlen.nl
@@ -7187,6 +7189,7 @@ keycloak.enschede.nl
 keycloak.gemeente-oldambt.nl
 keycloak.gemeentemaashorst.nl
 keycloak.gemert-bakel.nl
+keycloak.groningen.nl
 keycloak.oldenzaal.nl
 keycloak.oostgelre.nl
 keycloak.roermond.nl
@@ -8154,7 +8157,6 @@ midoffice.landgraaf.nl
 midofficeacc.velsen.nl
 midofficeprd.velsen.nl
 midofficetst.velsen.nl
-mijn-acc.groningen.nl
 mijn-acc.overbetuwe.nl
 mijn-acc.sittard-geleen.nl
 mijn-accept.voorst.nl

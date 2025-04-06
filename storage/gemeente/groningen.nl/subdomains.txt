@@ -31,6 +31,8 @@ afspraken-tst.groningen.nl
 afspraken-tstabs.groningen.nl
 afspraken.groningen.nl
 aov.groningen.nl
+api.acc.meldingen.groningen.nl
+api.meldingen.groningen.nl
 arcgis.groningen.nl
 ats360-acc.groningen.nl
 ats360-api-acc.groningen.nl
@@ -143,6 +145,7 @@ jaarverslag2021.groningen.nl
 jouwdamsterplein.groningen.nl
 jouwgrotemarkt.groningen.nl
 kennisbank.groningen.nl
+keycloak.groningen.nl
 kindpakket.groningen.nl
 koningsdag.groningen.nl
 lauwersmeer.groningen.nl
@@ -163,7 +166,6 @@ mas.groningen.nl
 medezeggenschap.groningen.nl
 meldingen.groningen.nl
 middengroningen.groningen.nl
-mijn-acc.groningen.nl
 mijn.groningen.nl
 mijngkb.groningen.nl
 mijnjgz.ggd.groningen.nl

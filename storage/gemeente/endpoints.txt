@@ -444,7 +444,6 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
-http://test-cmsintranet.groningen.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
@@ -1176,6 +1175,7 @@ https://api-meldingen.acc.denhaag.nl
 https://api-meldingen.almelo.nl
 https://api-meldingen.denhaag.nl
 https://api.acc.meldingen.amsterdam.nl
+https://api.acc.meldingen.groningen.nl
 https://api.acc.meldingen.kampen.nl
 https://api.aip.amsterdam.nl
 https://api.amsterdam.nl
@@ -1264,6 +1264,7 @@ https://api.meldingen.bernheze.org
 https://api.meldingen.eindhoven.nl
 https://api.meldingen.enschede.nl
 https://api.meldingen.gemeente-oldambt.nl
+https://api.meldingen.groningen.nl
 https://api.meldingen.hattem.nl
 https://api.meldingen.heerde.nl
 https://api.meldingen.hellendoorn.nl
@@ -4406,6 +4407,7 @@ https://keycloak.enschede.nl
 https://keycloak.gemeente-oldambt.nl
 https://keycloak.gemeentemaashorst.nl
 https://keycloak.gemert-bakel.nl
+https://keycloak.groningen.nl
 https://keycloak.oldenzaal.nl
 https://keycloak.oostgelre.nl
 https://keycloak.roermond.nl
@@ -4894,7 +4896,6 @@ https://microservices.schoolwijzer.amsterdam.nl
 https://midden-groningen.nl
 https://middendelfland.nl
 https://middendrenthe.nl
-https://mijn-acc.groningen.nl
 https://mijn-acc.overbetuwe.nl
 https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
@@ -7014,6 +7015,7 @@ https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gooisemeren.nl
+https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.sittard-geleen.nl
