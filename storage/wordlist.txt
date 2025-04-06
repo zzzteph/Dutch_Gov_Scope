@@ -482,6 +482,7 @@ secure-test
 sociaaldomein
 stadsarchief
 mijnoverzicht
+msoid
 rpl3
 test-zaakloket
 testsiam
@@ -666,7 +667,6 @@ digitaleplannen
 smartdoc
 stadspas
 digid
-msoid
 bedrijfsafval
 test-keycloak
 test-openklant

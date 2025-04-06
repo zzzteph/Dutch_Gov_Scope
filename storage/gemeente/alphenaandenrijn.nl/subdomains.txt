@@ -1,5 +1,6 @@
 afvalkalender.alphenaandenrijn.nl
 alleplannen.centrumbegroot.alphenaandenrijn.nl
+alphenaandenrijn.nl
 api.meldingen.alphenaandenrijn.nl
 api.openstad.alphenaandenrijn.nl
 autodiscover.alphenaandenrijn.nl
@@ -32,6 +33,7 @@ login.alphenaandenrijn.nl
 mailing.alphenaandenrijn.nl
 meldingen.alphenaandenrijn.nl
 mijnoverzicht.alphenaandenrijn.nl
+msoid.alphenaandenrijn.nl
 oauth.openstad.alphenaandenrijn.nl
 onlineregelen.alphenaandenrijn.nl
 onlineregelenstaging.alphenaandenrijn.nl
