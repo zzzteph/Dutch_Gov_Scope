@@ -24,8 +24,8 @@ probeer
 test
 loket
 werkplek
-acc
 eloket
+acc
 english
 a-www
 dkd
@@ -75,9 +75,9 @@ openpub
 cmsoo
 loket.acceptatie
 omgevingsvisie
+cloudadapter-test
 hybrid
 digikoppeling-test
-cloudadapter-test
 connect
 kaart
 formulier
@@ -358,6 +358,7 @@ radius
 www.gemeenteraad
 acc.piwik
 dkdtest
+test-secure
 woz-loket
 ondernemersloket
 sport
@@ -436,7 +437,6 @@ www.samen
 authenticatie
 gateway
 mijn-preproductie
-test-secure
 www.denkmee
 ibabs
 www.afspraken
@@ -512,6 +512,7 @@ jcccloud
 belastingportaal-test
 matomo
 aanmelden
+autorisatiebeheer-test
 djumaproxy
 logilink
 suite4burgerzaken-test
@@ -779,7 +780,6 @@ autodiscover.vvd
 portaltest
 sera
 preprod-mijnsociaaldomein
-autorisatiebeheer-test
 bzg1-acc
 key2datadistributie
 monitoring
@@ -1165,6 +1165,7 @@ jaarstukken2021
 afspraken-test
 edienstenburgerzaken-prod
 ggk
+key2datadistributie-prod
 navigus
 ssdtest
 view
@@ -9142,7 +9143,6 @@ wup
 Cloudadapter
 autorisatiebeheertest
 dis4fintest
-key2datadistributie-prod
 key2fin
 key2fintest
 pkicertificaat2017

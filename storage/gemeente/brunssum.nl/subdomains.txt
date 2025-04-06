@@ -2,12 +2,14 @@ adfs.brunssum.nl
 adsync.brunssum.nl
 afspraken-test.brunssum.nl
 afspraken.brunssum.nl
+autorisatiebeheer-test.brunssum.nl
 autorisatiebeheer.brunssum.nl
 brunssum.nl
 bsmpki.brunssum.nl
 bsmpkitest.brunssum.nl
 byod.brunssum.nl
 carel.brunssum.nl
+cloudadapter-test.brunssum.nl
 cloudadapter.brunssum.nl
 cognos-test.brunssum.nl
 cognos.brunssum.nl
@@ -21,6 +23,7 @@ dkdtest.brunssum.nl
 edienstenburgerzaken-prod.brunssum.nl
 edienstenburgerzaken-test.brunssum.nl
 edienstenburgerzaken.brunssum.nl
+eloket.brunssum.nl
 gasten.brunssum.nl
 geo.brunssum.nl
 ggk.brunssum.nl
@@ -29,6 +32,7 @@ guest.brunssum.nl
 jcc-afspraken.brunssum.nl
 kassaservice.brunssum.nl
 key2bag-test.brunssum.nl
+key2datadistributie-prod.brunssum.nl
 key2datadistributie-test.brunssum.nl
 key2gbav.brunssum.nl
 key2gbavtest.brunssum.nl
@@ -52,6 +56,7 @@ suite4burgerzaken-test.brunssum.nl
 suite4burgerzaken.brunssum.nl
 sync.brunssum.nl
 test-eloket.brunssum.nl
+test-secure.brunssum.nl
 test.brunssum.nl
 vdi.brunssum.nl
 view.brunssum.nl

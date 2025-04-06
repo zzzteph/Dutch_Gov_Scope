@@ -2460,6 +2460,7 @@ autorisatie.bloemendaal.nl
 autorisatie.heemstede.nl
 autorisatie01.alkmaar.nl
 autorisatie02.alkmaar.nl
+autorisatiebeheer-test.brunssum.nl
 autorisatiebeheer-test.heerlen.nl
 autorisatiebeheer-test.landgraaf.nl
 autorisatiebeheer-test.voerendaal.nl
@@ -3786,6 +3787,7 @@ cloudadapter-t.hellendoorn.nl
 cloudadapter-t.lopik.nl
 cloudadapter-test.baarn.nl
 cloudadapter-test.bronckhorst.nl
+cloudadapter-test.brunssum.nl
 cloudadapter-test.debilt.nl
 cloudadapter-test.delft.nl
 cloudadapter-test.dinkelland.nl
@@ -5943,6 +5945,7 @@ eloket.asten.nl
 eloket.beesel.nl
 eloket.bergendal.nl
 eloket.bloemendaal.nl
+eloket.brunssum.nl
 eloket.culemborg.nl
 eloket.deurne.nl
 eloket.dronten.nl
@@ -9853,6 +9856,7 @@ key2bag-test.brunssum.nl
 key2bag.emmen.nl
 key2begraven-test.heerlen.nl
 key2begraven.heerlen.nl
+key2datadistributie-prod.brunssum.nl
 key2datadistributie-prod.simpelveld.nl
 key2datadistributie-test.brunssum.nl
 key2datadistributie-test.heerlen.nl
@@ -17248,6 +17252,7 @@ test-psproxy.belastingdienst.nl
 test-qr.eindhoven.nl
 test-redactie.nissewaard.nl
 test-samenatwork.stichtsevecht.nl
+test-secure.brunssum.nl
 test-secure.heerlen.nl
 test-secure.landgraaf.nl
 test-secure.leeuwarden.nl
