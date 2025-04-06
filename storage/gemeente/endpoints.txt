@@ -398,7 +398,6 @@ http://simcms.achtkarspelen.nl
 http://simcms.ameland.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.echt-susteren.nl
-http://simcms.eersel.nl
 http://simcms.heerlen.nl
 http://simcms.heuvelrug.nl
 http://simcms.landgraaf.nl
@@ -506,6 +505,7 @@ http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.leiden.nl
+http://www.eersel.nl
 http://www.gemeentebeek.nl
 http://www.gezond.amsterdam.nl
 http://www.halderberge.nl
@@ -3151,6 +3151,7 @@ https://felix.bronckhorst.nl
 https://felix.bunschoten.nl
 https://felix.cranendonck.nl
 https://felix.dalfsen.nl
+https://felix.eersel.nl
 https://felix.geldrop-mierlo.nl
 https://felix.halderberge.nl
 https://felix.harlingen.nl
@@ -6601,6 +6602,7 @@ https://simcms.bronckhorst.nl
 https://simcms.bunschoten.nl
 https://simcms.deurne.nl
 https://simcms.doesburg.nl
+https://simcms.eersel.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
