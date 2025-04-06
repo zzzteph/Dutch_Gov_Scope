@@ -249,6 +249,7 @@ http://autodiscover.zoeterwoude.nl
 http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
+http://baarn.nl
 http://bedrijvenregister.gemeentewestland.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://belasting-test.kampen.nl
@@ -4348,7 +4349,6 @@ https://feeds.wodc.nl
 https://feeds.wrr.nl
 https://feeds.youthatheart.nl
 https://feeds.zorginstituutnederland.nl
-https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
 https://felix.bladel.nl
@@ -9078,6 +9078,7 @@ https://simcms-raad.zoetermeer.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
+https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simcms.bergen.nl
 https://simcms.beverwijk.nl
