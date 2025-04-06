@@ -11,6 +11,7 @@ http://channels-az2.lpc.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://docs.lpc.logius.nl
+http://gatus.lpc.logius.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.lpc.logius.nl
@@ -26,9 +27,11 @@ http://nexus.lpc.logius.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://sonarqube.lpc.logius.nl
 http://test-machtigen.digipoort.logius.nl
+https://aansluitsuite.preproductie.digipoort.logius.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
+https://beheerportaal.preproductie.digipoort.logius.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://ca-idp-pre.logius.nl
@@ -36,8 +39,12 @@ https://ca-idp.logius.nl
 https://channels.lpc.logius.nl
 https://comcms.logius.nl
 https://e.logius.nl
+https://gebruikersportaal-duo.preproductie.digipoort.logius.nl
+https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl
+https://gebruikersportaal.preproductie.digipoort.logius.nl
 https://gitdocumentatie.logius.nl
 https://iam-containerplatform.lpc.logius.nl
+https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://kennisbank.logius.nl
 https://logius.nl
 https://machtigen.digipoort.logius.nl
@@ -46,6 +53,7 @@ https://mijntokenactiveren.logius.nl
 https://oinregister.logius.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
+https://portalen.preproductie.digipoort.logius.nl
 https://preprod.oinregister.logius.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl

@@ -337,6 +337,7 @@ http://formulieren.opsterland.nl
 http://ftp.ofgv.nl
 http://ftp.oostvaarderskliniek.nl
 http://ftp.schoolleidersregisterpo.nl
+http://gatus.lpc.logius.nl
 http://geldrop-mierlo.nl
 http://geldzaken.loonopzand.nl
 http://gelukkignieuwjaar.zwolle.nl
@@ -752,6 +753,7 @@ https://aanmeldenparkeren.beverwijk.nl
 https://aanmelder.delft.nl
 https://aanpakdrugscriminaliteit.utrecht.nl
 https://aanpakringzuid.nl
+https://aansluitsuite.preproductie.digipoort.logius.nl
 https://aanvraag.dus-i.nl
 https://aanvraag.waalwijk.nl
 https://aanvraagparkeren.groningen.nl
@@ -2022,6 +2024,7 @@ https://beheerportaal.intpatch.omgevingswet.overheid.nl
 https://beheerportaal.omgevingswet.overheid.nl
 https://beheerportaal.perf.omgevingswet.overheid.nl
 https://beheerportaal.pre.omgevingswet.overheid.nl
+https://beheerportaal.preproductie.digipoort.logius.nl
 https://beheerportaal.tst2905.omgevingswet.overheid.nl
 https://bekendmakingen.houten.nl
 https://bekslaan-leidsevaartweg.doemee.bloemendaal.nl
@@ -4661,6 +4664,9 @@ https://gebiedsteam.waadhoeke.nl
 https://geborgenverleden.sudwestfryslan.nl
 https://gebouwdin.amsterdam.nl
 https://gebruiker-beheer.dus-i.nl
+https://gebruikersportaal-duo.preproductie.digipoort.logius.nl
+https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl
+https://gebruikersportaal.preproductie.digipoort.logius.nl
 https://geertruidenberg.nl
 https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
@@ -5624,6 +5630,7 @@ https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
 https://intranetprod.wageningen.nl
 https://intraweb.nederbetuwe.nl
+https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://intro.roermond.nl
 https://introcms-acc.roermond.nl
 https://introcms.roermond.nl
@@ -8242,6 +8249,7 @@ https://portal.westerwolde.nl
 https://portal.winterswijk.nl
 https://portal1.denhaag.nl
 https://portal2.sittard-geleen.nl
+https://portalen.preproductie.digipoort.logius.nl
 https://positionering.denhaag.nl
 https://positioneringshuis.denhaag.nl
 https://positioning.denhaag.nl
