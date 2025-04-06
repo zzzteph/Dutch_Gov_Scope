@@ -249,6 +249,7 @@ http://doesburg.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
+http://extranet-acc.eemsdelta.nl
 http://felix.achtkarspelen.nl
 http://felix.bergeijk.nl
 http://felix.bergen.nl
@@ -454,6 +455,7 @@ http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
 http://test-intranet.edam-volendam.nl
+http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
 http://test-jip.hofvantwente.nl
@@ -3127,7 +3129,6 @@ https://exchange.defryskemarren.nl
 https://exchangehybrid.tilburg.nl
 https://extern.pijnacker-nootdorp.nl
 https://extra.katwijk.nl
-https://extranet-acc.eemsdelta.nl
 https://extranet.alphen-chaam.nl
 https://extranet.eemsdelta.nl
 https://extranet.hengelo.nl
@@ -7041,7 +7042,6 @@ https://test-internetafspraken.sittard-geleen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.beuningen.nl
 https://test-intranet.drimmelen.nl
-https://test-intranet.eemsdelta.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.midden-groningen.nl
