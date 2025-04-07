@@ -66,10 +66,9 @@ for link in gov_links:
 
 headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority"]
 
-print("\n--- Matching Domains ---\n")
 result_domains=set()
 
-i=0
+
 
 
 
@@ -80,17 +79,14 @@ for domain in sorted(entries):
         response = requests.get(f"https://{domain}", timeout=5, allow_redirects=True, verify=False)
         if response.ok:
             body = response.text.lower()
-            #if any(keyword.lower() in body for keyword in headers_to_check):
-            final_url = response.url
-            parsed = urlparse(final_url)
-            final_domain = parsed.hostname
-            if final_domain:
-                i=i+1
-                result_domains.add(final_domain.removeprefix("www."))
+            if any(keyword.lower() in body for keyword in headers_to_check):
+                final_url = response.url
+                parsed = urlparse(final_url)
+                final_domain = parsed.hostname
+                if final_domain:
+                    result_domains.add(final_domain.removeprefix("www."))
     except requests.exceptions.RequestException:
         pass
-    if i > 10:
-        break
 
 with open(file_path, "a") as f:
     for domain in result_domains:
