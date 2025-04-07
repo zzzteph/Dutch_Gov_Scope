@@ -584,7 +584,6 @@ http://test-intranet.edam-volendam.nl
 http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
-http://test-jip.hofvantwente.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-social.montferland.info
 http://test.digikoppeling.cibg.nl
@@ -9754,6 +9753,7 @@ https://test-intranet.lansingerland.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.midden-groningen.nl
 https://test-intranet.scp.nl
+https://test-jip.hofvantwente.nl
 https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
