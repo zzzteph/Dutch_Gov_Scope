@@ -125,7 +125,6 @@ e
 lyncdiscover
 bgt
 micollab
-zaaksysteem
 inloggen
 bastion365
 verkiezingen
@@ -140,6 +139,7 @@ a-opendata.a-english
 meet
 web
 geoportaal
+zaaksysteem
 keycloak
 mijnzorg
 vergunningintaker
@@ -8281,6 +8281,7 @@ intunevpn
 onprem-smtp
 speciaal
 sportaccommodatieverhuur
+vergunningentoets
 wie
 najaarsbrief
 regieportaal-test
