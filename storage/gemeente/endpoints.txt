@@ -329,7 +329,6 @@ http://mijnzorg.aalsmeer.nl
 http://mt-link.stichtsevecht.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
-http://nieuwkoop.nl
 http://nijkerk.eu
 http://noorderkwartier.zwolle.nl
 http://noordhoveseghwaert.zoetermeer.nl
@@ -514,7 +513,6 @@ http://www.ld-01.hellevoetsluis.nl
 http://www.maassluis.nl
 http://www.middendelfland.nl
 http://www.mijngkb.midden-groningen.nl
-http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
@@ -6621,7 +6619,6 @@ https://simcms.kerkrade.nl
 https://simcms.lopik.nl
 https://simcms.middendelfland.nl
 https://simcms.nederweert.nl
-https://simcms.nieuwkoop.nl
 https://simcms.nijkerk.eu
 https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
@@ -8226,6 +8223,7 @@ https://www.nederbetuwe.nl
 https://www.nederweert.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
+https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nijkerk.eu
 https://www.nijmegen.nl
