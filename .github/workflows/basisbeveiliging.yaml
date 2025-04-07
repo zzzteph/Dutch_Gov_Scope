@@ -26,7 +26,11 @@ jobs:
       - name: Run update script
         run: |
           python engine/basisbeveiliging.py scope.txt
+          echo "Scope file"
+          cat scope.txt
           cat scope/rijksoverheid.txt scope.txt | sort -u > scope/rijksoverheid.tmp
+          echo "Merged file"
+          cat scope/rijksoverheid.tmp
           mv scope/rijksoverheid.tmp scope/rijksoverheid.txt
           rm -f scope.txt
 
