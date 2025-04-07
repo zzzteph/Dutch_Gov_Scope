@@ -85,9 +85,9 @@ kaarten
 flowmailer-tracking
 portaal
 zaken
+_autodiscover._tcp
 cmsintranet
 test-intranet
-_autodiscover._tcp
 berichten
 cloudadapter
 sip
