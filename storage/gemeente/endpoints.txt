@@ -405,7 +405,6 @@ http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.intranet.lopik.nl
 http://simcms.landgraaf.nl
-http://simcms.middendelfland.nl
 http://simcms.nuenen.nl
 http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
@@ -425,7 +424,6 @@ http://simsite.gemeentebeek.nl
 http://simsite.gorinchem.nl
 http://simsite.heuvelrug.nl
 http://simsite.leudal.nl
-http://simsite.middendelfland.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
 http://simsite.opmeer.nl
@@ -515,6 +513,7 @@ http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.maassluis.nl
+http://www.middendelfland.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.mookenmiddelaar.nl
 http://www.nieuwkoop.nl
@@ -3166,7 +3165,6 @@ https://felix.kerkrade.nl
 https://felix.landgraaf.nl
 https://felix.leudal.nl
 https://felix.lopik.nl
-https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nijkerk.eu
 https://felix.nuenen.nl
@@ -4906,7 +4904,6 @@ https://micollab.weert.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://midden-groningen.nl
-https://middendelfland.nl
 https://middendrenthe.nl
 https://mijn-acc.overbetuwe.nl
 https://mijn-accept.voorst.nl
@@ -6627,6 +6624,7 @@ https://simcms.gemeentebeek.nl
 https://simcms.heeze-leende.nl
 https://simcms.kerkrade.nl
 https://simcms.lopik.nl
+https://simcms.middendelfland.nl
 https://simcms.nederweert.nl
 https://simcms.nieuwkoop.nl
 https://simcms.nijkerk.eu
@@ -6659,6 +6657,7 @@ https://simsite.heumen.nl
 https://simsite.kerkrade.nl
 https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
+https://simsite.middendelfland.nl
 https://simsite.mookenmiddelaar.nl
 https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
