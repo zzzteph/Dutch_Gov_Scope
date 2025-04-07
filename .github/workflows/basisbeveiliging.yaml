@@ -35,8 +35,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout main
-          git pull --rebase
+          git pull
           git add -A scope/rijksoverheid.tmp
           git commit -m "Auto-update: updated communicatierijk" || echo "No changes to commit"
           git push
