@@ -308,6 +308,7 @@ http://draf-acpt.brabant.nl
 http://dse.lx.overheid.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
+http://eformulieren.kerkrade.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
@@ -387,6 +388,7 @@ http://isis.rotterdam.nl
 http://juristen.werkenvoornederland.nl
 http://kec.officiele-overheidspublicaties.nl
 http://kennisbank.nijmegen.nl
+http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://kibana-prod.lpc.logius.nl
@@ -467,6 +469,7 @@ http://pre-ows-websrvc-test.groningen.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preproductie.heerenveen.nl
 http://preproductie.heeze-leende.nl
+http://preproductie.kerkrade.nl
 http://preproductie.opmeer.nl
 http://preproductie.reuseldemierden.nl
 http://preproductie.simpelveld.nl
@@ -504,7 +507,6 @@ http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-omgevingsvisie.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
 http://simcms-open.sonenbreugel.nl
-http://simcms-preproductie.kerkrade.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-werkenbij.t-diel.nl
 http://simcms.achtkarspelen.nl
@@ -648,7 +650,6 @@ http://www.heumen.nl
 http://www.heuvelrug.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
-http://www.kerkrade.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl
@@ -3624,7 +3625,6 @@ https://eformulier.heerlen.nl
 https://eformulieren-test.stichtsevecht.nl
 https://eformulieren.doetinchem.nl
 https://eformulieren.gemeentesluis.nl
-https://eformulieren.kerkrade.nl
 https://eformulieren.preprod.doetinchem.nl
 https://eformulieren.stichtsevecht.nl
 https://ehd.emissieautoriteit.nl
@@ -7331,7 +7331,6 @@ https://ondernemers.bloemendaal.nl
 https://ondernemers.gemeente-steenbergen.nl
 https://ondernemersloket.derondevenen.nl
 https://ondernemersloket.diemen.nl
-https://ondernemersloket.kerkrade.nl
 https://ondernemersloket.ouder-amstel.nl
 https://ondernemersloket.uithoorn.nl
 https://ondernemersplein.almere.nl
@@ -9176,6 +9175,7 @@ https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.beuningen.nl
+https://simcms-preproductie.kerkrade.nl
 https://simcms-raad.zoetermeer.nl
 https://simcms-woo.doesburg.nl
 https://simcms-woo.westerkwartier.nl
@@ -9228,6 +9228,7 @@ https://simsite.cranendonck.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.heeze-leende.nl
 https://simsite.heumen.nl
+https://simsite.kerkrade.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.lopik.nl
@@ -11279,6 +11280,7 @@ https://www.kansrijkestartnl.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
 https://www.kennisvandeoverheid.nl
+https://www.kerkrade.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
 https://www.kimnet.nl
