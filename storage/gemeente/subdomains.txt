@@ -1794,6 +1794,7 @@ awtunnel.venlo.nl
 awtunnel.weert.nl
 awvpn.someren.nl
 axians.lev.delft.nl
+b2b.oso.s-hertogenbosch.nl
 baarle-nassau.nl
 baarn.nl
 backend-dvg.acc.rotterdam.nl
@@ -9024,7 +9025,6 @@ oegstgeest.nl
 oekraine.zaanstad.nl
 oemojz.amsterdam.nl
 oens.almere.nl
-office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
 officewebapps.haarlemmermeer.nl
@@ -12937,6 +12937,7 @@ veiligdelen.haarlem.nl
 veiligdelen.landvancuijk.nl
 veiligdelen.meppel.nl
 veiligdelen.montferland.info
+veiligdelen.s-hertogenbosch.nl
 veiligdelen.schagen.nl
 veiligdelen.stichtsevecht.nl
 veiligdelen.zeist.nl
@@ -13824,6 +13825,7 @@ wordpress-zgw.acc.denhaag.nl
 wordpress-zgw.denhaag.nl
 wordpress-zgw.test.denhaag.nl
 workdrive.rucphen.nl
+workflow.oso.s-hertogenbosch.nl
 workforce.nissewaard.nl
 workspace-rds.gemeentesluis.nl
 workspace365.almelo.nl

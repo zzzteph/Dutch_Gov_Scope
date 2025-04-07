@@ -2533,6 +2533,7 @@ b2b-security.belastingdienst.nl
 b2b.belastingdienst.nl
 b2b.digi.ilent.nl
 b2b.ilent.nl
+b2b.oso.s-hertogenbosch.nl
 b2b.toeslagen.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
@@ -12452,7 +12453,6 @@ oekraine.zaanstad.nl
 oemojz.amsterdam.nl
 oens.almere.nl
 oesorichtlijnen.nl
-office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
 officeonline-acc.belastingdienst.nl
@@ -18050,6 +18050,7 @@ veiligdelen.landvancuijk.nl
 veiligdelen.meppel.nl
 veiligdelen.montferland.info
 veiligdelen.provincie-utrecht.nl
+veiligdelen.s-hertogenbosch.nl
 veiligdelen.schagen.nl
 veiligdelen.stichtsevecht.nl
 veiligdelen.zeist.nl
@@ -19216,6 +19217,7 @@ wordpress-zgw.acc.denhaag.nl
 wordpress-zgw.denhaag.nl
 wordpress-zgw.test.denhaag.nl
 workdrive.rucphen.nl
+workflow.oso.s-hertogenbosch.nl
 workforce.nissewaard.nl
 workspace-rds.gemeentesluis.nl
 workspace.hhdelfland.nl

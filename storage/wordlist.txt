@@ -192,6 +192,7 @@ dialin
 atlas
 redactie
 telewerken
+veiligdelen
 belastingportaal
 openzaak
 acc-contact
@@ -213,7 +214,6 @@ webservices
 publicaties
 intranet-acc
 mx2
-veiligdelen
 localhost
 geodata
 college
@@ -7705,6 +7705,7 @@ alsiam
 api.meldingen.accp
 api.toegang.dataplatform.accp
 api.toegang.dataplatform
+b2b.oso
 belastingen.accp
 bestuursakkoord
 betalen.belastingloket
@@ -7732,13 +7733,13 @@ mijnzorg.accp
 mp1
 ntp1
 ntp2
-office.oso
 ois.accp
 overdrachtsdocument2022
 reflex
 servicegateway.accp
 toegang.dataplatform.accp
 toegang.dataplatform
+workflow.oso
 cms-extranet
 jzd-test
 jzd
