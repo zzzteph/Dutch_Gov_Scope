@@ -272,6 +272,7 @@ http://formulieren.edam-volendam.nl
 http://formulieren.opsterland.nl
 http://geldzaken.loonopzand.nl
 http://gelukkignieuwjaar.zwolle.nl
+http://geo.krimpenerwaard.nl
 http://geo.roermond.nl
 http://geodev.nieuwegein.nl
 http://geoportal.weert.nl
@@ -3510,7 +3511,6 @@ https://geo.heerenveen.nl
 https://geo.hilversum.nl
 https://geo.horstaandemaas.nl
 https://geo.huizen.nl
-https://geo.krimpenerwaard.nl
 https://geo.middendrenthe.nl
 https://geo.montferland.info
 https://geo.nunspeet.nl
@@ -4160,6 +4160,7 @@ https://intranet.heusden.nl
 https://intranet.heuvelrug.nl
 https://intranet.hoorn.nl
 https://intranet.kampen.nl
+https://intranet.krimpenerwaard.nl
 https://intranet.laarbeek.nl
 https://intranet.landgraaf.nl
 https://intranet.lansingerland.nl
@@ -4217,6 +4218,7 @@ https://intranetcms.nissewaard.nl
 https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
 https://intranetprod.wageningen.nl
+https://intranettest.krimpenerwaard.nl
 https://intraweb.nederbetuwe.nl
 https://intro.roermond.nl
 https://introcms-acc.roermond.nl
@@ -7603,6 +7605,7 @@ https://webmail.halderberge.nl
 https://webmail.heemstede.nl
 https://webmail.hellevoetsluis.nl
 https://webmail.koo.oosterhout.nl
+https://webmail.krimpenerwaard.nl
 https://webmail.leudal.nl
 https://webmail.lopik.nl
 https://webmail.maassluis.nl
