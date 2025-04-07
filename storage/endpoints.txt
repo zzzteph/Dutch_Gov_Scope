@@ -416,7 +416,6 @@ http://meerzicht.zoetermeer.nl
 http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://meldpuntondermijning.rotterdam.nl
-http://mijn-preproductie.heerenveen.nl
 http://mijn.aalten.nl
 http://mijn.adr.donorregister.nl
 http://mijn.bronckhorst.nl
@@ -468,6 +467,7 @@ http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://preprod-machtigen.digipoort.logius.nl
+http://preproductie.heerenveen.nl
 http://preproductie.opmeer.nl
 http://preproductie.reuseldemierden.nl
 http://preproductie.simpelveld.nl
@@ -528,6 +528,7 @@ http://simform-preproductie.achtkarspelen.nl
 http://simform-test.rijswijk.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
+http://simform.heerenveen.nl
 http://simform.houten.nl
 http://simsite.bergeijk.nl
 http://simsite.beverwijk.nl
@@ -6584,6 +6585,7 @@ https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
 https://mijn-gemeenteloket.gemeentemaastricht.nl
+https://mijn-preproductie.heerenveen.nl
 https://mijn-preproductie.ooststellingwerf.nl
 https://mijn-preproductie.westerkwartier.nl
 https://mijn-preproductie.zuidplas.nl
@@ -6627,6 +6629,7 @@ https://mijn.groningen.nl
 https://mijn.haaksbergen.nl
 https://mijn.haarlem.nl
 https://mijn.hardenberg.nl
+https://mijn.heerenveen.nl
 https://mijn.hellendoorn.nl
 https://mijn.helmond.nl
 https://mijn.hengelo.nl
@@ -8489,7 +8492,6 @@ https://preproductie.dalfsen.nl
 https://preproductie.eersel.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.goeree-overflakkee.nl
-https://preproductie.heerenveen.nl
 https://preproductie.heuvelrug.nl
 https://preproductie.landgraaf.nl
 https://preproductie.leudal.nl
@@ -9208,7 +9210,6 @@ https://simcms.zoetermeer.nl
 https://simcms.zuidplas.nl
 https://simform-preproductie.voorschoten.nl
 https://simform.gemeentemaasgouw.nl
-https://simform.heerenveen.nl
 https://simform.heerlen.nl
 https://simform.rijswijk.nl
 https://simform.vlissingen.nl
