@@ -364,6 +364,7 @@ http://pre-ows-websrvc-test.groningen.nl
 http://preproductie.heerenveen.nl
 http://preproductie.heeze-leende.nl
 http://preproductie.kerkrade.nl
+http://preproductie.landgraaf.nl
 http://preproductie.opmeer.nl
 http://preproductie.reuseldemierden.nl
 http://preproductie.simpelveld.nl
@@ -508,7 +509,6 @@ http://www.heumen.nl
 http://www.heuvelrug.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
-http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.mookenmiddelaar.nl
@@ -6154,7 +6154,6 @@ https://preproductie.eersel.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.goeree-overflakkee.nl
 https://preproductie.heuvelrug.nl
-https://preproductie.landgraaf.nl
 https://preproductie.leudal.nl
 https://preproductie.montferland.info
 https://preproductie.mookenmiddelaar.nl
@@ -8185,6 +8184,7 @@ https://www.krimpenerwaard.nl
 https://www.laakhavensbepaalt.denhaag.nl
 https://www.laar-ollandseweg.meierijstad.nl
 https://www.laarbeek.nl
+https://www.landgraaf.nl
 https://www.landsmeer.nl
 https://www.landvancuijk.nl
 https://www.lansingerland.nl
