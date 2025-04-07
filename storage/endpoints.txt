@@ -588,6 +588,7 @@ http://test-intranet.edam-volendam.nl
 http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
+http://test-intranet.meierijstad.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-social.montferland.info
 http://test.digikoppeling.cibg.nl
@@ -9756,7 +9757,6 @@ https://test-intranet.beuningen.nl
 https://test-intranet.drimmelen.nl
 https://test-intranet.flevoland.nl
 https://test-intranet.lansingerland.nl
-https://test-intranet.meierijstad.nl
 https://test-intranet.midden-groningen.nl
 https://test-intranet.scp.nl
 https://test-jip.hofvantwente.nl
