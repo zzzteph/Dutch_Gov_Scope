@@ -272,7 +272,6 @@ http://formulieren.edam-volendam.nl
 http://formulieren.opsterland.nl
 http://geldzaken.loonopzand.nl
 http://gelukkignieuwjaar.zwolle.nl
-http://geo.huizen.nl
 http://geo.roermond.nl
 http://geodev.nieuwegein.nl
 http://geoportal.weert.nl
@@ -398,6 +397,7 @@ http://simcms.capelleaandenijssel.nl
 http://simcms.echt-susteren.nl
 http://simcms.geldrop-mierlo.nl
 http://simcms.heuvelrug.nl
+http://simcms.huizen.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
 http://simcms.middelburg.nl
@@ -3510,6 +3510,7 @@ https://geo.harderwijk.nl
 https://geo.heerenveen.nl
 https://geo.hilversum.nl
 https://geo.horstaandemaas.nl
+https://geo.huizen.nl
 https://geo.krimpenerwaard.nl
 https://geo.middendrenthe.nl
 https://geo.montferland.info
@@ -7128,6 +7129,7 @@ https://testbelastingloket.elburg.nl
 https://testbelastingloket.hattem.nl
 https://testbelastingloket.heerde.nl
 https://testbelastingloket.oldebroek.nl
+https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
 https://testcms-intranet.midden-groningen.nl
@@ -7172,6 +7174,7 @@ https://testeloket.winterswijk.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
+https://testinhuiz.huizen.nl
 https://testinloggen.haarlemmermeer.nl
 https://testloket.hattem.nl
 https://testloket.heerde.nl
@@ -8141,6 +8144,7 @@ https://www.horstaandemaas.nl
 https://www.houten.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.huisstijl.zaanstad.nl
+https://www.huizen.nl
 https://www.hulpwijzer.venray.nl
 https://www.idee.roosendaal.nl
 https://www.iedereenwerktmee.amsterdam.nl

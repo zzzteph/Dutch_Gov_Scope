@@ -1,5 +1,5 @@
-http://geo.huizen.nl
 http://huizen.nl
+http://simcms.huizen.nl
 https://administratieportaal-test.huizen.nl
 https://administratieportaal.huizen.nl
 https://afspraken.huizen.nl
@@ -7,6 +7,7 @@ https://berichten.huizen.nl
 https://cmsinhuiz.huizen.nl
 https://enterpriseregistration.huizen.nl
 https://formulieren.huizen.nl
+https://geo.huizen.nl
 https://geoservices.huizen.nl
 https://iburgerzaken.huizen.nl
 https://identity-test.huizen.nl
@@ -19,7 +20,10 @@ https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
 https://preprodformulieren.huizen.nl
 https://teamplan.huizen.nl
+https://testcms-inhuiz.huizen.nl
+https://testinhuiz.huizen.nl
 https://trainersportaal.huizen.nl
 https://trainingsformulier.huizen.nl
 https://vpn.huizen.nl
 https://woz-portaal.huizen.nl
+https://www.huizen.nl
