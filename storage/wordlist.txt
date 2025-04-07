@@ -1413,6 +1413,7 @@ eformulieren-test
 helpmij
 telefonie
 test.open-formulieren
+dev
 iobjects
 smtp20
 stwapp02
@@ -9276,7 +9277,6 @@ dataland-test
 dataland
 datalandprod
 datalandtest
-dev
 devtest
 download.webmail
 evmail
