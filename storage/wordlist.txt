@@ -88,9 +88,9 @@ zaken
 cmsintranet
 test-intranet
 _autodiscover._tcp
+berichten
 cloudadapter
 sip
-berichten
 parkeren-acc
 govroam
 test-cmsintranet
