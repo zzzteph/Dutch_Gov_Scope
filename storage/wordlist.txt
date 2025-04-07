@@ -84,8 +84,8 @@ formulier
 kaarten
 flowmailer-tracking
 portaal
-zaken
 _autodiscover._tcp
+zaken
 cmsintranet
 test-intranet
 berichten
@@ -139,6 +139,7 @@ a-opendata.a-english
 meet
 web
 geoportaal
+keycloak
 mijnzorg
 vergunningintaker
 snelbalie
@@ -155,7 +156,6 @@ onderzoek
 AutoDiscover
 connect.acceptatie
 auth
-keycloak
 transfer
 gis
 preprodbroker
@@ -180,10 +180,12 @@ preprod-mijninkomen
 snelbaliepp
 vdi
 api.betalen
+openzaak
 acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
+podiumd-logs
 jaarstukken
 cryptshare
 zoeken
@@ -194,7 +196,6 @@ redactie
 telewerken
 veiligdelen
 belastingportaal
-openzaak
 acc-contact
 acc-keycloak
 acc-openklant
@@ -202,8 +203,8 @@ acc-openzaak
 notificaties
 objecten
 objecttypen
+openklant
 owa
-podiumd-logs
 inproces
 internetafspraken
 gasten
@@ -218,7 +219,6 @@ localhost
 geodata
 college
 bis
-openklant
 test-digikoppeling
 meedoen
 contentbeheer.acceptatie

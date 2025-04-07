@@ -1,3 +1,4 @@
+_autodiscover._tcp.laarbeek.nl
 acc-broker.laarbeek.nl
 acc-contact.laarbeek.nl
 acc-formulier.laarbeek.nl
@@ -27,6 +28,7 @@ formulier.laarbeek.nl
 iburgerzaken.laarbeek.nl
 ibzpink.laarbeek.nl
 intranet.laarbeek.nl
+keycloak.laarbeek.nl
 laarbeek.nl
 lb-servers.laarbeek.nl
 mail.laarbeek.nl
@@ -34,7 +36,10 @@ mijn.laarbeek.nl
 notificaties.laarbeek.nl
 objecten.laarbeek.nl
 objecttypen.laarbeek.nl
+openklant.laarbeek.nl
+openzaak.laarbeek.nl
 pki.laarbeek.nl
+podiumd-logs.laarbeek.nl
 secure.laarbeek.nl
 solidariteit.laarbeek.nl
 test-embrace.laarbeek.nl

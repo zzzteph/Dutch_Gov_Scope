@@ -97,6 +97,7 @@ _autodiscover._tcp.haarlem.nl
 _autodiscover._tcp.hardenberg.nl
 _autodiscover._tcp.heeze-leende.nl
 _autodiscover._tcp.hengelo.nl
+_autodiscover._tcp.laarbeek.nl
 _autodiscover._tcp.landgraaf.nl
 _autodiscover._tcp.lisse.nl
 _autodiscover._tcp.oirschot.nl
@@ -9925,6 +9926,7 @@ keycloak.gemeente-oldambt.nl
 keycloak.gemeentemaashorst.nl
 keycloak.gemert-bakel.nl
 keycloak.groningen.nl
+keycloak.laarbeek.nl
 keycloak.mintst.rijkscloud.nl
 keycloak.ndw.nu
 keycloak.oldenzaal.nl
@@ -13160,6 +13162,7 @@ openklant.enschede.nl
 openklant.gemeente-oldambt.nl
 openklant.gemeentemaashorst.nl
 openklant.gemert-bakel.nl
+openklant.laarbeek.nl
 openklant.oldenzaal.nl
 openklant.oostgelre.nl
 openklant.roermond.nl
@@ -13257,6 +13260,7 @@ openzaak.enschede.nl
 openzaak.gemeente-oldambt.nl
 openzaak.gemeentemaashorst.nl
 openzaak.gemert-bakel.nl
+openzaak.laarbeek.nl
 openzaak.oldenzaal.nl
 openzaak.oostgelre.nl
 openzaak.roermond.nl
@@ -13933,6 +13937,7 @@ podiumd-logs.enschede.nl
 podiumd-logs.gemeente-oldambt.nl
 podiumd-logs.gemeentemaashorst.nl
 podiumd-logs.gemert-bakel.nl
+podiumd-logs.laarbeek.nl
 podiumd-logs.oldenzaal.nl
 podiumd-logs.oostgelre.nl
 podiumd-logs.roermond.nl

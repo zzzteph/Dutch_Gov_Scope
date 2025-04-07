@@ -5938,6 +5938,7 @@ https://keycloak.gemeente-oldambt.nl
 https://keycloak.gemeentemaashorst.nl
 https://keycloak.gemert-bakel.nl
 https://keycloak.groningen.nl
+https://keycloak.laarbeek.nl
 https://keycloak.ndw.nu
 https://keycloak.oldenzaal.nl
 https://keycloak.oostgelre.nl
@@ -7854,6 +7855,7 @@ https://openklant.enschede.nl
 https://openklant.gemeente-oldambt.nl
 https://openklant.gemeentemaashorst.nl
 https://openklant.gemert-bakel.nl
+https://openklant.laarbeek.nl
 https://openklant.oldenzaal.nl
 https://openklant.oostgelre.nl
 https://openklant.roermond.nl
@@ -7943,6 +7945,7 @@ https://openzaak.enschede.nl
 https://openzaak.gemeente-oldambt.nl
 https://openzaak.gemeentemaashorst.nl
 https://openzaak.gemert-bakel.nl
+https://openzaak.laarbeek.nl
 https://openzaak.oldenzaal.nl
 https://openzaak.oostgelre.nl
 https://openzaak.roermond.nl
@@ -8264,6 +8267,7 @@ https://podiumd-logs.enschede.nl
 https://podiumd-logs.gemeente-oldambt.nl
 https://podiumd-logs.gemeentemaashorst.nl
 https://podiumd-logs.gemert-bakel.nl
+https://podiumd-logs.laarbeek.nl
 https://podiumd-logs.oldenzaal.nl
 https://podiumd-logs.oostgelre.nl
 https://podiumd-logs.roermond.nl
