@@ -215,8 +215,8 @@ http://autodiscover.zwolle.nl
 http://baarn.nl
 http://bedrijvenregister.gemeentewestland.nl
 http://begraafplaatsduinrust.beverwijk.nl
+http://begroting.montferland.info
 http://belastingen.acc.koggenland.nl
-http://belastingloket.montferland.info
 http://bestuursakkoord.s-hertogenbosch.nl
 http://beuningen.nl
 http://bouwdossiers.stadsarchief.breda.nl
@@ -458,7 +458,6 @@ http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
-http://test-social.montferland.info
 http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
@@ -1578,7 +1577,6 @@ https://begroting.gooisemeren.nl
 https://begroting.gorinchem.nl
 https://begroting.hengelo.nl
 https://begroting.middelburg.nl
-https://begroting.montferland.info
 https://begroting.ooststellingwerf.nl
 https://begroting.pijnacker-nootdorp.nl
 https://begroting.rijswijk.nl
@@ -6156,7 +6154,6 @@ https://preproductie.goeree-overflakkee.nl
 https://preproductie.heuvelrug.nl
 https://preproductie.leudal.nl
 https://preproductie.lopik.nl
-https://preproductie.montferland.info
 https://preproductie.mookenmiddelaar.nl
 https://preproductie.oirschot.nl
 https://preproductie.pijnacker-nootdorp.nl
@@ -7079,6 +7076,7 @@ https://test-paswijzer.waalwijk.nl
 https://test-potjeswijzer.westerkwartier.nl
 https://test-qr.eindhoven.nl
 https://test-samenatwork.stichtsevecht.nl
+https://test-social.montferland.info
 https://test-subsidiebeheer.alkmaar.nl
 https://test-subsidiebeheer.zwolle.nl
 https://test-subsidieloket.alkmaar.nl
