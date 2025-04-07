@@ -318,6 +318,7 @@ http://felix.bergeijk.nl
 http://felix.bergen.nl
 http://felix.capelleaandenijssel.nl
 http://felix.halderberge.nl
+http://felix.heeze-leende.nl
 http://felix.koggenland.nl
 http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
@@ -468,6 +469,7 @@ http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preproductie.heerenveen.nl
+http://preproductie.heeze-leende.nl
 http://preproductie.opmeer.nl
 http://preproductie.reuseldemierden.nl
 http://preproductie.simpelveld.nl
@@ -9218,6 +9220,7 @@ https://simsite.bergendal.nl
 https://simsite.bronckhorst.nl
 https://simsite.cranendonck.nl
 https://simsite.goeree-overflakkee.nl
+https://simsite.heeze-leende.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.lopik.nl
