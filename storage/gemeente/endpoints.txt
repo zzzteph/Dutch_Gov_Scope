@@ -256,7 +256,6 @@ http://felix.bergen.nl
 http://felix.capelleaandenijssel.nl
 http://felix.halderberge.nl
 http://felix.heeze-leende.nl
-http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
 http://felix.scherpenzeel.nl
 http://felix.schiermonnikoog.nl
@@ -3163,6 +3162,7 @@ https://felix.landgraaf.nl
 https://felix.leudal.nl
 https://felix.lopik.nl
 https://felix.mookenmiddelaar.nl
+https://felix.nederweert.nl
 https://felix.nijkerk.eu
 https://felix.nuenen.nl
 https://felix.oirschot.nl
@@ -5270,6 +5270,7 @@ https://ndesapeldoorn.apeldoorn.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
+https://nederweert.nl
 https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
@@ -8222,6 +8223,7 @@ https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
 https://www.nederbetuwe.nl
+https://www.nederweert.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl
