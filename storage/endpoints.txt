@@ -488,6 +488,7 @@ http://rijkstrainee.werkenvoornederland.nl
 http://rijkstrainees.werkenvoornederland.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
+http://samenindebuurt.heerlen.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://scherpenzeel.nl
@@ -512,7 +513,6 @@ http://simcms.ameland.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.echt-susteren.nl
 http://simcms.geldrop-mierlo.nl
-http://simcms.heerlen.nl
 http://simcms.heuvelrug.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
@@ -2515,7 +2515,6 @@ https://cdn1.tilburg.nl
 https://ceg.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://centralecommissiedierproeven.nl
-https://centrum.heerlen.nl
 https://centrum.zoetermeer.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
@@ -5061,6 +5060,7 @@ https://heemskerk.nl
 https://heemstede.nl
 https://heerde.nl
 https://heerenveen.nl
+https://heerlen.nl
 https://heeze-leende.nl
 https://heiligen.deventer.nl
 https://heiloo.nl

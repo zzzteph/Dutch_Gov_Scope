@@ -376,6 +376,7 @@ http://raas.rotterdam.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
+http://samenindebuurt.heerlen.nl
 http://scherpenzeel.nl
 http://schiermonnikoog.nl
 http://secure.gemeentestein.nl
@@ -395,7 +396,6 @@ http://simcms.ameland.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.echt-susteren.nl
 http://simcms.geldrop-mierlo.nl
-http://simcms.heerlen.nl
 http://simcms.heuvelrug.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
@@ -2015,7 +2015,6 @@ https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
 https://cdn.oude-ijsselstreek.nl
 https://cdn1.tilburg.nl
-https://centrum.heerlen.nl
 https://centrum.zoetermeer.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
@@ -3706,6 +3705,7 @@ https://heemskerk.nl
 https://heemstede.nl
 https://heerde.nl
 https://heerenveen.nl
+https://heerlen.nl
 https://heeze-leende.nl
 https://heiligen.deventer.nl
 https://heiloo.nl
