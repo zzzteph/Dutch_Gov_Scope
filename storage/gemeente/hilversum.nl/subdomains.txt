@@ -2,6 +2,7 @@
 Autodiscover.hilversum.nl
 api.meldingen-acc.hilversum.nl
 api.meldingen.hilversum.nl
+autodiscover.hilversum.nl
 belastingbalie-acc.hilversum.nl
 belastingbalie.hilversum.nl
 betalen.hilversum.nl
@@ -9,6 +10,7 @@ bgthvs.hilversum.nl
 bgtwdm.hilversum.nl
 data-acc.hilversum.nl
 data.hilversum.nl
+digikoppeling.hilversum.nl
 energieloket.hilversum.nl
 geo.hilversum.nl
 gvonline.hilversum.nl
