@@ -353,7 +353,6 @@ http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://participatieprikbord.denhaag.nl
 http://pdcschulddienstverlening.rotterdam.nl
-http://pip-preproductie.gemeentehw.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://plannen.someren.nl
@@ -410,9 +409,9 @@ http://simcms.staphorst.nl
 http://simcms.vlissingen.nl
 http://simcms.zwartewaterland.nl
 http://simform-preproductie.achtkarspelen.nl
+http://simform-preproductie.gemeentehw.nl
 http://simform-test.rijswijk.nl
 http://simform.beuningen.nl
-http://simform.gemeentehw.nl
 http://simform.heerenveen.nl
 http://simform.houten.nl
 http://simsite.bergeijk.nl
@@ -2598,7 +2597,6 @@ https://ede.nl
 https://edienst.helmond.nl
 https://edienstaanvragensd.defryskemarren.nl
 https://ediensten-aanvragen.leeuwarden.nl
-https://ediensten-preproductie.gemeentehw.nl
 https://ediensten-sociaaldomein.denhelder.nl
 https://ediensten.gemeentehw.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
@@ -5910,8 +5908,10 @@ https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://pingping.amsterdam.nl
+https://pip-preproductie.gemeentehw.nl
 https://pip-preproductie.vlaardingen.nl
 https://pip-test.urk.nl
+https://pip.gemeentehw.nl
 https://pip.urk.nl
 https://piwik.ede.nl
 https://pki.olst-wijhe.nl

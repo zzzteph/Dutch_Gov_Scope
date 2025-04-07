@@ -1,12 +1,10 @@
 http://autodiscover.gemeentehw.nl
-http://pip-preproductie.gemeentehw.nl
-http://simform.gemeentehw.nl
+http://simform-preproductie.gemeentehw.nl
 https://acc-mediabank.gemeentehw.nl
 https://auth.gemeentehw.nl
 https://begroting.gemeentehw.nl
 https://beheer.gemeentehw.nl
 https://broker.gemeentehw.nl
-https://ediensten-preproductie.gemeentehw.nl
 https://ediensten.gemeentehw.nl
 https://edienstenburgerzaken-test.gemeentehw.nl
 https://formulieren.gemeentehw.nl
@@ -19,6 +17,8 @@ https://mijninkomen.gemeentehw.nl
 https://openpdc.gemeentehw.nl
 https://openpub.gemeentehw.nl
 https://pencportaal.gemeentehw.nl
+https://pip-preproductie.gemeentehw.nl
+https://pip.gemeentehw.nl
 https://preprod-formulieren.gemeentehw.nl
 https://preprod-mijninkomen.gemeentehw.nl
 https://preprodbroker.gemeentehw.nl
