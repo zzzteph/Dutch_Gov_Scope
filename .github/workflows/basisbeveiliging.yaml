@@ -38,5 +38,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull
           git add -A scope/rijksoverheid.txt scope/rijksoverheid.2tmp
-          git commit -m "Auto-update: updated communicatierijk" || echo "No changes to commit"
+          git commit -m "Auto-update: updated basisbeveiliging" || echo "No changes to commit"
           git push
