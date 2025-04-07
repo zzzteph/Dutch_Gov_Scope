@@ -432,7 +432,6 @@ http://nijkerk.eu
 http://noorderkwartier.zwolle.nl
 http://noordhoveseghwaert.zoetermeer.nl
 http://nuenen.nl
-http://oirschot.nl
 http://omgevingsvisie.geldrop-mierlo.nl
 http://ondertekeningsviewer.overheid.nl
 http://open.beverwijk.nl
@@ -506,6 +505,7 @@ http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-omgevingsvisie.geldrop-mierlo.nl
 http://simcms-open.meerssen.nl
+http://simcms-open.oirschot.nl
 http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-werkenbij.t-diel.nl
@@ -4379,7 +4379,6 @@ https://felix.lopik.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
 https://felix.nijkerk.eu
-https://felix.oirschot.nl
 https://felix.opmeer.nl
 https://felix.overbetuwe.nl
 https://felix.staphorst.nl
@@ -7259,6 +7258,7 @@ https://oidc.erfpachtprofessionals-ont.amsterdam.nl
 https://oidc.erfpachtzakelijk-dev.amsterdam.nl
 https://oidc.erfpachtzakelijk-ont.amsterdam.nl
 https://oinregister.logius.nl
+https://oirschot.nl
 https://ois.accp.s-hertogenbosch.nl
 https://oisterwijk.nl
 https://old-cms.contenttoolsrijksoverheid.nl
@@ -9171,7 +9171,6 @@ https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.halderberge.nl
 https://simcms-open.leudal.nl
 https://simcms-open.nuenen.nl
-https://simcms-open.oirschot.nl
 https://simcms-open.wierden.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
@@ -9197,7 +9196,6 @@ https://simcms.kerkrade.nl
 https://simcms.lopik.nl
 https://simcms.middendelfland.nl
 https://simcms.nederweert.nl
-https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
 https://simcms.roerdalen.nl
@@ -11433,6 +11431,7 @@ https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
 https://www.oesorichtlijnen.nl
 https://www.ofgv.nl
+https://www.oirschot.nl
 https://www.oisterwijk.nl
 https://www.old.landvancuijk.nl
 https://www.oldebroek.nl
