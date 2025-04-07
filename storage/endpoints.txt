@@ -520,6 +520,7 @@ http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.intranet.lopik.nl
 http://simcms.landgraaf.nl
+http://simcms.nijkerk.eu
 http://simcms.nuenen.nl
 http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
@@ -3681,6 +3682,7 @@ https://eloket.leusden.nl
 https://eloket.meerssen.nl
 https://eloket.middelburg.nl
 https://eloket.midden-groningen.nl
+https://eloket.nijkerk.eu
 https://eloket.nissewaard.nl
 https://eloket.nuenen.nl
 https://eloket.nunspeet.nl
@@ -9194,7 +9196,6 @@ https://simcms.kerkrade.nl
 https://simcms.lopik.nl
 https://simcms.middendelfland.nl
 https://simcms.nederweert.nl
-https://simcms.nijkerk.eu
 https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
@@ -9225,6 +9226,7 @@ https://simsite.kerkrade.nl
 https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
 https://simsite.middendelfland.nl
+https://simsite.nijkerk.eu
 https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
 https://simsite.opsterland.nl
@@ -9868,6 +9870,7 @@ https://testeloket.ijsselstein.nl
 https://testeloket.lelystad.nl
 https://testeloket.meerssen.nl
 https://testeloket.midden-groningen.nl
+https://testeloket.nijkerk.eu
 https://testeloket.nissewaard.nl
 https://testeloket.nuenen.nl
 https://testeloket.rhenen.nl
