@@ -295,7 +295,6 @@ http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
-http://kennisbank.nijmegen.nl
 http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
@@ -1323,6 +1322,8 @@ https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
 https://app7-accp.nijmegen.nl
+https://app8.nijmegen.nl
+https://app9.nijmegen.nl
 https://appapi.montferland.info
 https://appl.gw.rotterdam.nl
 https://applicaties.tilburg.nl
@@ -4394,6 +4395,7 @@ https://kenneth.delft.nl
 https://kennisbank.barneveld.nl
 https://kennisbank.eindhoven.nl
 https://kennisbank.groningen.nl
+https://kennisbank.nijmegen.nl
 https://kennisbank.wijdemeren.nl
 https://kenniscentrum-werven.utrecht.nl
 https://kennisnet.deventer.nl
