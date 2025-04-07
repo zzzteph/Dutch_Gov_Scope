@@ -283,7 +283,6 @@ http://gws-prod.gemeente-steenbergen.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
-http://huisnettest.nieuwegein.nl
 http://huizen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
@@ -3773,6 +3772,7 @@ https://huishoudboekje.amersfoort.nl
 https://huishoudboekje.utrecht.nl
 https://huisnet.nederweert.nl
 https://huisnet.nieuwegein.nl
+https://huisnettest.nieuwegein.nl
 https://huisstijl.landvancuijk.nl
 https://huisstijl.moerdijk.nl
 https://huisstijl.tilburg.nl
