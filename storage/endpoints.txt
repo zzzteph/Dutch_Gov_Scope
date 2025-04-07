@@ -586,6 +586,7 @@ http://test-intranet.groningen.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-machtigen.digipoort.logius.nl
+http://test-nopnet.noordoostpolder.nl
 http://test.digikoppeling.cibg.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
@@ -9766,7 +9767,6 @@ https://test-mijnbbsuo.soest.nl
 https://test-mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://test-mijnoverzicht.alphenaandenrijn.nl
 https://test-mijnzi.beuningen.nl
-https://test-nopnet.noordoostpolder.nl
 https://test-opname.eindhoven.nl
 https://test-paswijzer.waalwijk.nl
 https://test-potjeswijzer.westerkwartier.nl
