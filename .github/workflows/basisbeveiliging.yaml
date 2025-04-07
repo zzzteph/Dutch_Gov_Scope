@@ -26,16 +26,4 @@ jobs:
       - name: Run update script
         run: |
           python engine/basisbeveiliging.py scope.txt
-          cat scope/rijksoverheid.txt scope.txt | sort -u > scope/rijksoverheid.tmp
-          mv scope/rijksoverheid.tmp scope/rijksoverheid.txt
-          rm -f scope.txt
-
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull
-          git add -A scope/rijksoverheid.txt
-          git commit -m "Auto-update: updated communicatierijk" || echo "No changes to commit"
-          git push
+          cat scope.txt

@@ -69,7 +69,7 @@ headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority"]
 print("\n--- Matching Domains ---\n")
 result_domains=set()
 
-
+i=0
 
 
 
@@ -85,9 +85,12 @@ for domain in sorted(entries):
                 parsed = urlparse(final_url)
                 final_domain = parsed.hostname
                 if final_domain:
+                    i=i+1
                     result_domains.add(final_domain.removeprefix("www."))
     except requests.exceptions.RequestException:
         pass
+    if i > 10:
+        break
 
 with open(file_path, "a") as f:
     for domain in result_domains:
