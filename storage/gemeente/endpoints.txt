@@ -389,7 +389,6 @@ http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-omgevingsvisie.geldrop-mierlo.nl
-http://simcms-open.leudal.nl
 http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-werkenbij.t-diel.nl
@@ -401,7 +400,6 @@ http://simcms.geldrop-mierlo.nl
 http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.landgraaf.nl
-http://simcms.leudal.nl
 http://simcms.middelburg.nl
 http://simcms.middendelfland.nl
 http://simcms.nuenen.nl
@@ -422,6 +420,7 @@ http://simsite.edam-volendam.nl
 http://simsite.gemeentebeek.nl
 http://simsite.gorinchem.nl
 http://simsite.heuvelrug.nl
+http://simsite.leudal.nl
 http://simsite.middendelfland.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
@@ -4527,6 +4526,7 @@ https://les-acc.amsterdam.nl
 https://letoplood.rotterdam.nl
 https://leudal-checker-preprod.leudal.nl
 https://leudal-checker.leudal.nl
+https://leudal.nl
 https://leusden.nl
 https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
@@ -5575,7 +5575,6 @@ https://open.hilversum.nl
 https://open.hofvantwente.nl
 https://open.katwijk.nl
 https://open.krimpenerwaard.nl
-https://open.leudal.nl
 https://open.lisse.nl
 https://open.lochem.nl
 https://open.middendrenthe.nl
@@ -6599,6 +6598,7 @@ https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.halderberge.nl
+https://simcms-open.leudal.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.oirschot.nl
@@ -6662,7 +6662,6 @@ https://simsite.heumen.nl
 https://simsite.kerkrade.nl
 https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
-https://simsite.leudal.nl
 https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
 https://simsite.oirschot.nl
