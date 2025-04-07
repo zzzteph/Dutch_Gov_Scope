@@ -2931,6 +2931,7 @@ belastingen-acc.rozendaal.nl
 belastingen-preprod.stadskanaal.nl
 belastingen-test.gilzerijen.nl
 belastingen-test.molenlanden.nl
+belastingen.acc.koggenland.nl
 belastingen.accp.s-hertogenbosch.nl
 belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
@@ -2945,6 +2946,7 @@ belastingen.hellendoorn.nl
 belastingen.hofvantwente.nl
 belastingen.horstaandemaas.nl
 belastingen.kaagenbraassem.nl
+belastingen.koggenland.nl
 belastingen.lelystad.nl
 belastingen.middendrenthe.nl
 belastingen.molenlanden.nl
@@ -9065,6 +9067,8 @@ inloggen-pre.limburg.nl
 inloggen-preprod.geertruidenberg.nl
 inloggen-preprod.hhdelfland.nl
 inloggen-preprod.waterschaplimburg.nl
+inloggen.belastingen.acc.koggenland.nl
+inloggen.belastingen.koggenland.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl

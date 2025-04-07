@@ -253,6 +253,7 @@ http://autodiscover.zwolle.nl
 http://baarn.nl
 http://bedrijvenregister.gemeentewestland.nl
 http://begraafplaatsduinrust.beverwijk.nl
+http://belastingen.acc.koggenland.nl
 http://belastingloket.montferland.info
 http://bestuursakkoord.s-hertogenbosch.nl
 http://beuningen.nl
@@ -320,7 +321,6 @@ http://felix.bergen.nl
 http://felix.capelleaandenijssel.nl
 http://felix.halderberge.nl
 http://felix.heeze-leende.nl
-http://felix.koggenland.nl
 http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
 http://felix.scherpenzeel.nl
@@ -393,7 +393,6 @@ http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
-http://koggenland.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://linkextractor.overheid.nl
@@ -9194,7 +9193,6 @@ https://simcms.gemeentemaasgouw.nl
 https://simcms.heeze-leende.nl
 https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
-https://simcms.koggenland.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.maassluis.nl
@@ -9229,6 +9227,7 @@ https://simsite.goeree-overflakkee.nl
 https://simsite.heeze-leende.nl
 https://simsite.heumen.nl
 https://simsite.kerkrade.nl
+https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.lopik.nl
@@ -11289,6 +11288,7 @@ https://www.klimaatadaptatienederland.nl
 https://www.klimaatakkoord.nl
 https://www.knmidata.nl
 https://www.knmiprojects.nl
+https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.koninklijkhuis.nl
 https://www.koopoverheid.nl
