@@ -130,6 +130,7 @@ inloggen
 bastion365
 verkiezingen
 duurzaam
+gemeente
 simcms-open
 www.webmail
 filecap
@@ -147,7 +148,6 @@ afvalkalender
 dali
 preprod
 qr
-gemeente
 obsurv
 mta-sts
 mailing
