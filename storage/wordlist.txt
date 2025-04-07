@@ -139,7 +139,6 @@ a-opendata.a-english
 meet
 web
 geoportaal
-zaaksysteem
 keycloak
 mijnzorg
 vergunningintaker
@@ -154,6 +153,7 @@ mailing
 maps
 onderzoek
 AutoDiscover
+zaaksysteem
 connect.acceptatie
 auth
 transfer
