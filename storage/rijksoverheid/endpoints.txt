@@ -7,7 +7,6 @@ http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.oinregister.logius.nl
 http://acc.render.map.services.cultureelerfgoed.nl
-http://acc.subsidie.cultureelerfgoed.nl
 http://acc.translate.services.cultureelerfgoed.nl
 http://acc.zaak.services.cultureelerfgoed.nl
 http://acceptatie.crm.nza.nl
@@ -100,6 +99,7 @@ http://ondertekeningsviewer.overheid.nl
 http://p-crl.justid.nl
 http://pdok.waterschaplimburg.nl
 http://pop.oostvaarderskliniek.nl
+http://prd.archis.cultureelerfgoed.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://prod.flevoland.nl
 http://publicwebservices-dcr.cibg.nl
@@ -137,6 +137,7 @@ http://videoserver2.brabant.nl
 http://voi.brabant.nl
 http://webmail.werkenvoornederland.nl
 http://wortel176.provincie-utrecht.nl
+http://www.beeldbank.cultureelerfgoed.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
@@ -193,6 +194,7 @@ https://acc.ncsc.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://acc.stor.services.cultureelerfgoed.nl
+https://acc.subsidie.cultureelerfgoed.nl
 https://acc.toegankelijkheidsverklaring.nl
 https://acc.zsmgame.om.nl
 https://acc2.inspectieresultaten.nvwa.nl
@@ -2342,7 +2344,6 @@ https://portalen.preproductie.digipoort.logius.nl
 https://postedworkers.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
-https://prd.archis.cultureelerfgoed.nl
 https://prd.btp.sso3w.nl
 https://pre.omgevingswet.overheid.nl
 https://preprod-belastingen.zuid-holland.nl

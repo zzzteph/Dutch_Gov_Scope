@@ -1,16 +1,18 @@
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.render.map.services.cultureelerfgoed.nl
-http://acc.subsidie.cultureelerfgoed.nl
 http://acc.translate.services.cultureelerfgoed.nl
 http://acc.zaak.services.cultureelerfgoed.nl
+http://prd.archis.cultureelerfgoed.nl
 http://services.cultureelerfgoed.nl
+http://www.beeldbank.cultureelerfgoed.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.stor.services.cultureelerfgoed.nl
+https://acc.subsidie.cultureelerfgoed.nl
 https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://api-gateway.archis.cultureelerfgoed.nl
@@ -46,7 +48,6 @@ https://noaa.cultureelerfgoed.nl
 https://opendata.cultureelerfgoed.nl
 https://opendata.english.cultureelerfgoed.nl
 https://pom.cultureelerfgoed.nl
-https://prd.archis.cultureelerfgoed.nl
 https://preprod.idselect.cultureelerfgoed.nl
 https://stor.services.cultureelerfgoed.nl
 https://subsidie.cultureelerfgoed.nl

@@ -18,7 +18,6 @@ http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.oinregister.logius.nl
 http://acc.render.map.services.cultureelerfgoed.nl
-http://acc.subsidie.cultureelerfgoed.nl
 http://acc.translate.services.cultureelerfgoed.nl
 http://acc.zaak.services.cultureelerfgoed.nl
 http://acceptatie.crm.nza.nl
@@ -456,6 +455,7 @@ http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://plannen.someren.nl
 http://pop.oostvaarderskliniek.nl
+http://prd.archis.cultureelerfgoed.nl
 http://pre-ows-ahp-test.groningen.nl
 http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
@@ -632,6 +632,7 @@ http://www.acutehulp.gezond.amsterdam.nl
 http://www.adviesraaddiversiteit.amsterdam.nl
 http://www.baarn.nl
 http://www.bba.amsterdam.nl
+http://www.beeldbank.cultureelerfgoed.nl
 http://www.bergen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
@@ -1037,6 +1038,7 @@ https://acc.stemvan.opsterland.nl
 https://acc.stichtsevecht.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.straatnotes.amsterdam.nl
+https://acc.subsidie.cultureelerfgoed.nl
 https://acc.subsidie.leiden.nl
 https://acc.toegankelijkheidsverklaring.nl
 https://acc.ton.amsterdam.nl
@@ -8380,7 +8382,6 @@ https://praatmee.goeree-overflakkee.nl
 https://praatmee.schiedam.nl
 https://praatmee.sint-michielsgestel.nl
 https://prd.afs.amsterdam.nl
-https://prd.archis.cultureelerfgoed.nl
 https://prd.btp.sso3w.nl
 https://pre-inloggen.landgraaf.nl
 https://pre-mijnzorg.waalwijk.nl
