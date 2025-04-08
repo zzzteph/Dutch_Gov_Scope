@@ -2,7 +2,9 @@ name: basisbeveiliging exec
 
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 6"
+
 
 
 jobs:
@@ -26,7 +28,8 @@ jobs:
       - name: Run update script
         run: |
           python engine/basisbeveiliging.py scope.txt
-          cat scope.txt | sort -u > scope/rijksoverheid.tmp
+          cat scope.txt scope/rijksoverheid.txt | sort -u > scope/rijksoverheid.tmp
+          mv scope/rijksoverheid.tmp scope/rijksoverheid.txt
 
 
 
@@ -35,6 +38,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull
-          git add -A scope/rijksoverheid.tmp
+          git add -A scope/rijksoverheid.txt
           git commit -m "Auto-update: updated basisbeveiliging" || echo "No changes to commit"
           git push
