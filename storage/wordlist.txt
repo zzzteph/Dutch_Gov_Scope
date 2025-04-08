@@ -123,6 +123,7 @@ samen
 cms
 e
 lyncdiscover
+meet
 bgt
 micollab
 inloggen
@@ -136,7 +137,6 @@ filecap
 dtestmidoffice
 a-feeds.a-english
 a-opendata.a-english
-meet
 web
 geoportaal
 keycloak
