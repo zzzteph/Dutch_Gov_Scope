@@ -434,6 +434,7 @@ http://noordhoveseghwaert.zoetermeer.nl
 http://nuenen.nl
 http://omgevingsvisie.geldrop-mierlo.nl
 http://ondertekeningsviewer.overheid.nl
+http://ontmoetingscentra.opmeer.nl
 http://ooststellingwerf.nl
 http://open.beverwijk.nl
 http://open.gemeentebeek.nl
@@ -540,7 +541,6 @@ http://simsite.heuvelrug.nl
 http://simsite.leudal.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
-http://simsite.opmeer.nl
 http://simsite.staphorst.nl
 http://simsite.valkenburg.nl
 http://simsite.valkenswaard.nl
@@ -7393,7 +7393,6 @@ https://ontheffingen-mz.denhaag.nl
 https://ontheffingen.amsterdam.nl
 https://ontheffingen.wijdemeren.nl
 https://ontheffingmilieuzone.utrecht.nl
-https://ontmoetingscentra.opmeer.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://ontvangsten.rotterdam.nl
 https://ontw.app.amsterdam.nl
@@ -9169,6 +9168,7 @@ https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingswet.bronckhorst.nl
+https://simcms-ontmoetingscentra.opmeer.nl
 https://simcms-open.halderberge.nl
 https://simcms-open.leudal.nl
 https://simcms-open.nuenen.nl
@@ -9228,6 +9228,7 @@ https://simsite.middendelfland.nl
 https://simsite.nijkerk.eu
 https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
+https://simsite.opmeer.nl
 https://simsite.opsterland.nl
 https://simsite.pekela.nl
 https://simsite.pijnacker-nootdorp.nl
