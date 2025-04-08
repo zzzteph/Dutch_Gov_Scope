@@ -425,6 +425,7 @@ http://simsite.leudal.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
 http://simsite.opsterland.nl
+http://simsite.pijnacker-nootdorp.nl
 http://simsite.staphorst.nl
 http://simsite.valkenburg.nl
 http://simsite.valkenswaard.nl
@@ -6157,7 +6158,6 @@ https://preproductie.heuvelrug.nl
 https://preproductie.leudal.nl
 https://preproductie.lopik.nl
 https://preproductie.oirschot.nl
-https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.t-diel.nl
@@ -6529,7 +6529,6 @@ https://secure.acc.denhaag.nl
 https://secure.almere.nl
 https://secure.denhaag.nl
 https://secure.pekela.nl
-https://secure.pijnacker-nootdorp.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
 https://secure.veendam.nl
@@ -6659,7 +6658,6 @@ https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
 https://simsite.opmeer.nl
 https://simsite.pekela.nl
-https://simsite.pijnacker-nootdorp.nl
 https://simsite.reuseldemierden.nl
 https://simsite.scherpenzeel.nl
 https://simsite.simpelveld.nl
