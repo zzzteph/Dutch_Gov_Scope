@@ -80,11 +80,11 @@ hybrid
 digikoppeling-test
 connect
 kaart
+_autodiscover._tcp
 kaarten
 flowmailer-tracking
 formulier
 portaal
-_autodiscover._tcp
 zaken
 cmsintranet
 test-intranet
