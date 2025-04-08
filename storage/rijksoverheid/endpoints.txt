@@ -2,7 +2,6 @@ http://1.ivory.nctv.nl
 http://AutoDiscover.hdsr.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
-http://acc.avgregisterrijksoverheid.nl
 http://acc.cmv-kandidaat.sso3w.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
@@ -183,6 +182,7 @@ https://acc.api-sec.p-direkt.nl
 https://acc.api.p-direkt.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
+https://acc.avgregisterrijksoverheid.nl
 https://acc.beeldbellen.dji.nl
 https://acc.btp.sso3w.nl
 https://acc.client.archis.cultureelerfgoed.nl
