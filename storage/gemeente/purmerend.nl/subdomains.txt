@@ -48,6 +48,7 @@ mdm.purmerend.nl
 meldingen.purmerend.nl
 meldingen.test.purmerend.nl
 meldingentest.purmerend.nl
+mijnaanvragen.purmerend.nl
 mijnoverzicht.purmerend.nl
 monitoring.purmerend.nl
 obsurv.purmerend.nl
@@ -59,6 +60,7 @@ parkeervergunningen.purmerend.nl
 pidigikoppeling.purmerend.nl
 portaal.purmerend.nl
 portaaltest.purmerend.nl
+preprod-mijnaanvragen.purmerend.nl
 preprod-mijnoverzicht.purmerend.nl
 prodextsec.purmerend.nl
 programmabegroting.financien.purmerend.nl

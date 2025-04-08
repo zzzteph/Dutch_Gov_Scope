@@ -1,9 +1,11 @@
 http://autodiscover.purmerend.nl
+https://afspraken.purmerend.nl
 https://afval.purmerend.nl
 https://afvalkalender.purmerend.nl
 https://api.meldingen.purmerend.nl
 https://api.meldingen.test.purmerend.nl
 https://asd.purmerend.nl
+https://auth.purmerend.nl
 https://beemsterraadsinformatie.purmerend.nl
 https://belastingloket.purmerend.nl
 https://boc-parkeervergunningen-acc.purmerend.nl
@@ -12,7 +14,6 @@ https://broker.purmerend.nl
 https://broker.test.purmerend.nl
 https://campus.purmerend.nl
 https://datalab.purmerend.nl
-https://diensten.purmerend.nl
 https://digid-parkeren-acc.purmerend.nl
 https://digid-parkeren.purmerend.nl
 https://discoverreceiver.purmerend.nl

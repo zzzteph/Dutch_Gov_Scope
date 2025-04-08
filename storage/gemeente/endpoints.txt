@@ -1059,6 +1059,7 @@ https://afspraken.olst-wijhe.nl
 https://afspraken.oostzaan.nl
 https://afspraken.pekela.nl
 https://afspraken.pijnacker-nootdorp.nl
+https://afspraken.purmerend.nl
 https://afspraken.raalte.nl
 https://afspraken.reimerswaal.nl
 https://afspraken.someren.nl
@@ -1402,6 +1403,7 @@ https://auth.openstad.enschede.nl
 https://auth.openstad.gemeentewestland.nl
 https://auth.openstad.haarlemmermeer.nl
 https://auth.openstad.nijmegen.nl
+https://auth.purmerend.nl
 https://auth.steenwijkerland.nl
 https://auth.v2.openstad.haarlemmermeer.nl
 https://auth1.denhaag.nl
@@ -2383,7 +2385,6 @@ https://dgk-prd.zutphen.nl
 https://dialin.houten.nl
 https://diemen.nl
 https://diensten-acc.rotterdam.nl
-https://diensten.purmerend.nl
 https://diensten.rijswijk.nl
 https://diensten.rotterdam.nl
 https://dieuwke.defryskemarren.nl
