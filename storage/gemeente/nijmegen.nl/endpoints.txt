@@ -15,7 +15,6 @@ http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.nijmegen.nl
-http://kennisbank.nijmegen.nl
 https://aardgasvrij.acc.nijmegen.nl
 https://aardgasvrij.nijmegen.nl
 https://acc.nijmegen.nl
@@ -25,6 +24,8 @@ https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
 https://app7-accp.nijmegen.nl
+https://app8.nijmegen.nl
+https://app9.nijmegen.nl
 https://auth.openstad.nijmegen.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie.nijmegen.nl
@@ -50,6 +51,7 @@ https://jmh.acc.nijmegen.nl
 https://jmh.nijmegen.nl
 https://kaart.nijmegen.nl
 https://kavelsvastgoed.nijmegen.nl
+https://kennisbank.nijmegen.nl
 https://kos.acc.nijmegen.nl
 https://kos.nijmegen.nl
 https://ksnijmegen.acc.nijmegen.nl

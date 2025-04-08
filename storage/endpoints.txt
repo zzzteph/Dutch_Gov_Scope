@@ -321,7 +321,6 @@ http://felix.bergen.nl
 http://felix.capelleaandenijssel.nl
 http://felix.halderberge.nl
 http://felix.heeze-leende.nl
-http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
 http://felix.scherpenzeel.nl
 http://felix.schiermonnikoog.nl
@@ -331,13 +330,11 @@ http://felix.urk.nl
 http://felix.vlieland.nl
 http://felix.zuidplas.nl
 http://felix.zundert.nl
-http://felixburgerzaken.nissewaard.nl
 http://financials.werkenvoornederland.nl
 http://flash.scherpenzeel.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.edam-volendam.nl
-http://formulieren.opsterland.nl
 http://ftp.ofgv.nl
 http://ftp.oostvaarderskliniek.nl
 http://ftp.schoolleidersregisterpo.nl
@@ -367,7 +364,6 @@ http://harbor.az2.lpc.logius.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
-http://huisnettest.nieuwegein.nl
 http://huizen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
@@ -389,7 +385,6 @@ http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
 http://juristen.werkenvoornederland.nl
 http://kec.officiele-overheidspublicaties.nl
-http://kennisbank.nijmegen.nl
 http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
@@ -423,6 +418,7 @@ http://middelburg.nl
 http://mijn.aalten.nl
 http://mijn.adr.donorregister.nl
 http://mijn.bronckhorst.nl
+http://mijn.opsterland.nl
 http://mijn.weststellingwerf.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
@@ -432,14 +428,14 @@ http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
-http://nieuwkoop.nl
 http://nijkerk.eu
 http://noorderkwartier.zwolle.nl
 http://noordhoveseghwaert.zoetermeer.nl
 http://nuenen.nl
-http://oirschot.nl
 http://omgevingsvisie.geldrop-mierlo.nl
 http://ondertekeningsviewer.overheid.nl
+http://ontmoetingscentra.opmeer.nl
+http://ooststellingwerf.nl
 http://open.beverwijk.nl
 http://open.gemeentebeek.nl
 http://open.staphorst.nl
@@ -447,7 +443,6 @@ http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
 http://opendata.bloemendaal.nl
 http://opendata.zoetermeer.nl
-http://opsterland.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -511,6 +506,7 @@ http://simcms-duurzaam.woensdrecht.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-omgevingsvisie.geldrop-mierlo.nl
 http://simcms-open.meerssen.nl
+http://simcms-open.oirschot.nl
 http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-werkenbij.t-diel.nl
@@ -523,7 +519,8 @@ http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.intranet.lopik.nl
 http://simcms.landgraaf.nl
-http://simcms.nuenen.nl
+http://simcms.nijkerk.eu
+http://simcms.opsterland.nl
 http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
 http://simcms.staphorst.nl
@@ -544,7 +541,8 @@ http://simsite.heuvelrug.nl
 http://simsite.leudal.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
-http://simsite.opmeer.nl
+http://simsite.opsterland.nl
+http://simsite.pijnacker-nootdorp.nl
 http://simsite.staphorst.nl
 http://simsite.valkenburg.nl
 http://simsite.valkenswaard.nl
@@ -590,6 +588,7 @@ http://test-intranet.groningen.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-machtigen.digipoort.logius.nl
+http://test-nopnet.noordoostpolder.nl
 http://test.digikoppeling.cibg.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
@@ -658,7 +657,6 @@ http://www.ld-01.hellevoetsluis.nl
 http://www.maassluis.nl
 http://www.middendelfland.nl
 http://www.mijngkb.midden-groningen.nl
-http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
@@ -775,6 +773,7 @@ https://academie.nifp.nl
 https://academie.smallingerland.nl
 https://academievoorinternationalebetrekkingen.nl
 https://academy.forensischinstituut.nl
+https://academyforinternationalrelations.nl
 https://acc-afvalkalender.goes.nl
 https://acc-beeldbank.leiden.nl
 https://acc-broker.assen.nl
@@ -1341,6 +1340,7 @@ https://afspraken.olst-wijhe.nl
 https://afspraken.oostzaan.nl
 https://afspraken.pekela.nl
 https://afspraken.pijnacker-nootdorp.nl
+https://afspraken.purmerend.nl
 https://afspraken.raalte.nl
 https://afspraken.reimerswaal.nl
 https://afspraken.someren.nl
@@ -1656,6 +1656,8 @@ https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
 https://app7-accp.nijmegen.nl
+https://app8.nijmegen.nl
+https://app9.nijmegen.nl
 https://appapi.montferland.info
 https://appl.gw.rotterdam.nl
 https://applicaties.tilburg.nl
@@ -1762,6 +1764,7 @@ https://auth.openstad.haarlemmermeer.nl
 https://auth.openstad.nijmegen.nl
 https://auth.openstad.zuid-holland.nl
 https://auth.provincie-utrecht.nl
+https://auth.purmerend.nl
 https://auth.services.cultureelerfgoed.nl
 https://auth.steenwijkerland.nl
 https://auth.v2.openstad.haarlemmermeer.nl
@@ -1925,6 +1928,7 @@ https://beeldbank.leiden.nl
 https://beeldbank.loonopzand.nl
 https://beeldbank.nimh.nl
 https://beeldbank.oegstgeest.nl
+https://beeldbank.opsterland.nl
 https://beeldbank.putten.nl
 https://beeldbank.rotterdam.nl
 https://beeldbank.schiedam.nl
@@ -1938,6 +1942,7 @@ https://beeldbank.zuid-holland.nl
 https://beeldbankbeheer.gemeentebest.nl
 https://beeldbankbeheer.haarlemmermeer.nl
 https://beeldbankbeheer.loonopzand.nl
+https://beeldbankbeheer.opsterland.nl
 https://beeldbankbeheer.veldhoven.nl
 https://beeldbankbeheer.waalwijk.nl
 https://beeldbankbeheer.zuid-holland.nl
@@ -2338,6 +2343,7 @@ https://bomen.amsterdam.nl
 https://bomen.ont.amsterdam.nl
 https://bor.extranet.tilburg.nl
 https://bor.hilvarenbeek.nl
+https://bor.noardeast-fryslan.nl
 https://bor.oisterwijk.nl
 https://bor.oosterhout.nl
 https://bor.test.oosterhout.nl
@@ -3037,7 +3043,6 @@ https://dialin2.vechtstromen.nl
 https://diego.ndw.nu
 https://diemen.nl
 https://diensten-acc.rotterdam.nl
-https://diensten.purmerend.nl
 https://diensten.rijswijk.nl
 https://diensten.rotterdam.nl
 https://dienstterugkeerenvertrek.nl
@@ -3685,6 +3690,7 @@ https://eloket.leusden.nl
 https://eloket.meerssen.nl
 https://eloket.middelburg.nl
 https://eloket.midden-groningen.nl
+https://eloket.nijkerk.eu
 https://eloket.nissewaard.nl
 https://eloket.nuenen.nl
 https://eloket.nunspeet.nl
@@ -4378,11 +4384,10 @@ https://felix.landgraaf.nl
 https://felix.leudal.nl
 https://felix.lopik.nl
 https://felix.mookenmiddelaar.nl
+https://felix.nederweert.nl
 https://felix.nijkerk.eu
-https://felix.nuenen.nl
-https://felix.oirschot.nl
 https://felix.opmeer.nl
-https://felix.overbetuwe.nl
+https://felix.opsterland.nl
 https://felix.staphorst.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
@@ -4603,6 +4608,7 @@ https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
 https://formulieren.olst-wijhe.nl
 https://formulieren.oostzaan.nl
+https://formulieren.opsterland.nl
 https://formulieren.oss.nl
 https://formulieren.pijnacker-nootdorp.nl
 https://formulieren.provincie-utrecht.nl
@@ -5139,6 +5145,7 @@ https://huishoudboekje.amersfoort.nl
 https://huishoudboekje.utrecht.nl
 https://huisnet.nederweert.nl
 https://huisnet.nieuwegein.nl
+https://huisnettest.nieuwegein.nl
 https://huisstijl.belastingdienst.nl
 https://huisstijl.landvancuijk.nl
 https://huisstijl.moerdijk.nl
@@ -5912,6 +5919,7 @@ https://kennisbank.eindhoven.nl
 https://kennisbank.groningen.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
+https://kennisbank.nijmegen.nl
 https://kennisbank.wijdemeren.nl
 https://kennisbankterrorisme.nctv.nl
 https://kenniscentrum-werven.utrecht.nl
@@ -6667,8 +6675,6 @@ https://mijn.nvwa.nl
 https://mijn.oldenzaal.nl
 https://mijn.ommen.nl
 https://mijn.oostgelre.nl
-https://mijn.ooststellingwerf.nl
-https://mijn.opsterland.nl
 https://mijn.oss.nl
 https://mijn.oude-ijsselstreek.nl
 https://mijn.overbetuwe.nl
@@ -7050,6 +7056,7 @@ https://nederbetuwe.nl
 https://nederlanddigitaal.nl
 https://nederlandse-sportraad.nl
 https://nederlandtegengeorganiseerdemisdaad.nl
+https://nederweert.nl
 https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
 https://netwerkplatteland.nl
@@ -7257,6 +7264,7 @@ https://oidc.erfpachtprofessionals-ont.amsterdam.nl
 https://oidc.erfpachtzakelijk-dev.amsterdam.nl
 https://oidc.erfpachtzakelijk-ont.amsterdam.nl
 https://oinregister.logius.nl
+https://oirschot.nl
 https://ois.accp.s-hertogenbosch.nl
 https://oisterwijk.nl
 https://old-cms.contenttoolsrijksoverheid.nl
@@ -7391,7 +7399,6 @@ https://ontheffingen-mz.denhaag.nl
 https://ontheffingen.amsterdam.nl
 https://ontheffingen.wijdemeren.nl
 https://ontheffingmilieuzone.utrecht.nl
-https://ontmoetingscentra.opmeer.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://ontvangsten.rotterdam.nl
 https://ontw.app.amsterdam.nl
@@ -8003,6 +8010,7 @@ https://outlook.wageningen.nl
 https://ov-consumentenplatform.nl
 https://over-ons.belastingdienst.nl
 https://overalsnelinternet.nl
+https://overbetuwe.nl
 https://overdedouane.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://overheid.nl
@@ -8389,6 +8397,7 @@ https://preprod-belastingportaal.hilvarenbeek.nl
 https://preprod-belastingportaal.oisterwijk.nl
 https://preprod-broker.buren.nl
 https://preprod-burgerportaal.hardenberg.nl
+https://preprod-burgerportaal.ommen.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-ediensten-sociaaldomein.denhelder.nl
 https://preprod-edienstensociaaldomein.heerenveen.nl
@@ -8417,7 +8426,6 @@ https://preprod-mijninkomen.dronten.nl
 https://preprod-mijninkomen.gemeentehw.nl
 https://preprod-mijninkomen.goeree-overflakkee.nl
 https://preprod-mijninkomen.gouda.nl
-https://preprod-mijninkomen.oss.nl
 https://preprod-mijninkomen.venray.nl
 https://preprod-mijnoverzicht.boxtel.nl
 https://preprod-mijnoverzicht.purmerend.nl
@@ -8505,7 +8513,6 @@ https://preproductie.heuvelrug.nl
 https://preproductie.leudal.nl
 https://preproductie.lopik.nl
 https://preproductie.oirschot.nl
-https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.t-diel.nl
@@ -9059,7 +9066,6 @@ https://secure.acc.denhaag.nl
 https://secure.almere.nl
 https://secure.denhaag.nl
 https://secure.pekela.nl
-https://secure.pijnacker-nootdorp.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
 https://secure.vechtstromen.nl
@@ -9166,10 +9172,10 @@ https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingswet.bronckhorst.nl
+https://simcms-ontmoetingscentra.opmeer.nl
 https://simcms-open.halderberge.nl
 https://simcms-open.leudal.nl
 https://simcms-open.nuenen.nl
-https://simcms-open.oirschot.nl
 https://simcms-open.wierden.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
@@ -9195,11 +9201,8 @@ https://simcms.kerkrade.nl
 https://simcms.lopik.nl
 https://simcms.middendelfland.nl
 https://simcms.nederweert.nl
-https://simcms.nieuwkoop.nl
-https://simcms.nijkerk.eu
-https://simcms.oirschot.nl
-https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
+https://simcms.overbetuwe.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
@@ -9227,11 +9230,11 @@ https://simsite.kerkrade.nl
 https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
 https://simsite.middendelfland.nl
+https://simsite.nijkerk.eu
 https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
-https://simsite.opsterland.nl
+https://simsite.opmeer.nl
 https://simsite.pekela.nl
-https://simsite.pijnacker-nootdorp.nl
 https://simsite.reuseldemierden.nl
 https://simsite.scherpenzeel.nl
 https://simsite.simpelveld.nl
@@ -9764,7 +9767,6 @@ https://test-mijnbbsuo.soest.nl
 https://test-mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://test-mijnoverzicht.alphenaandenrijn.nl
 https://test-mijnzi.beuningen.nl
-https://test-nopnet.noordoostpolder.nl
 https://test-opname.eindhoven.nl
 https://test-paswijzer.waalwijk.nl
 https://test-potjeswijzer.westerkwartier.nl
@@ -9870,6 +9872,7 @@ https://testeloket.ijsselstein.nl
 https://testeloket.lelystad.nl
 https://testeloket.meerssen.nl
 https://testeloket.midden-groningen.nl
+https://testeloket.nijkerk.eu
 https://testeloket.nissewaard.nl
 https://testeloket.nuenen.nl
 https://testeloket.rhenen.nl
@@ -9900,6 +9903,7 @@ https://testloket.middelburg.nl
 https://testloket.nieuwkoop.nl
 https://testloket.oldebroek.nl
 https://testmail.scp.nl
+https://testmarkt1.nunspeet.nl
 https://testmdm.flevoland.nl
 https://testmeldingen.asten.nl
 https://testmijn.lochem.nl
@@ -10321,6 +10325,7 @@ https://vpn.horstaandemaas.nl
 https://vpn.huizen.nl
 https://vpn.ikz.nl
 https://vpn.maassluis.nl
+https://vpn.oostgelre.nl
 https://vpn.rotterdam.nl
 https://vpn.rucphen.nl
 https://vpn.stichtsevecht.nl
@@ -11385,10 +11390,12 @@ https://www.nederlanddigitaal.nl
 https://www.nederlandse-sportraad.nl
 https://www.nederlandtegengeorganiseerdemisdaad.nl
 https://www.nederlandwereldwijd.nl
+https://www.nederweert.nl
 https://www.netherlandsworldwide.nl
 https://www.netwerkplatteland.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
+https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.nifp.nl
@@ -11413,6 +11420,7 @@ https://www.nponderwijs.nl
 https://www.nrgd.nl
 https://www.nt.ndw.nu
 https://www.nu.venlo.nl
+https://www.nuenen.nl
 https://www.nunspeet.nl
 https://www.nutriscorevoorbedrijven.nl
 https://www.nvwa.nl
@@ -11428,6 +11436,7 @@ https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
 https://www.oesorichtlijnen.nl
 https://www.ofgv.nl
+https://www.oirschot.nl
 https://www.oisterwijk.nl
 https://www.old.landvancuijk.nl
 https://www.oldebroek.nl
@@ -11468,7 +11477,6 @@ https://www.openstad.nijmegen.nl
 https://www.openstad.zuid-holland.nl
 https://www.operatiebomenbuurt.denhaag.nl
 https://www.oprijk.nl
-https://www.opsterland.nl
 https://www.opvang.zwolle.nl
 https://www.opwegnaarseb.nl
 https://www.oracbloemenbuurt.denhaag.nl
@@ -11906,7 +11914,6 @@ https://zaaksysteem.hilversum.nl
 https://zaaksysteem.inspectie-jenv.nl
 https://zaaksysteem.maassluis.nl
 https://zaaksysteem.migratie.utrecht.nl
-https://zaaksysteem.noordwijk.nl
 https://zaaksysteem.odmh.nl
 https://zaaksysteem.soest.nl
 https://zaaksysteem.tilburg.nl

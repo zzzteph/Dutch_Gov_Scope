@@ -34,9 +34,9 @@ opendata.english
 portal
 geo
 a-opendata
+vpn
 open
 a-feeds
-vpn
 meldingen
 afspraak
 waarmerk
@@ -61,11 +61,11 @@ data
 login
 dacceptatieloket
 dacceptatiemidoffice
+beeldbank
 remote
 dloket
 dmidoffice
 enterpriseregistration
-beeldbank
 openpdc
 belastingbalie
 osb
@@ -80,11 +80,11 @@ hybrid
 digikoppeling-test
 connect
 kaart
+_autodiscover._tcp
 kaarten
 flowmailer-tracking
 formulier
 portaal
-_autodiscover._tcp
 zaken
 cmsintranet
 test-intranet
@@ -139,7 +139,6 @@ a-opendata.a-english
 meet
 web
 geoportaal
-zaaksysteem
 keycloak
 mijnzorg
 vergunningintaker
@@ -154,6 +153,7 @@ mailing
 maps
 onderzoek
 AutoDiscover
+zaaksysteem
 connect.acceptatie
 auth
 transfer
@@ -298,10 +298,12 @@ burgerloket
 aanvragen
 digikoppelingtest
 admin.openstad
+beeldbankbeheer
 mijnzorg-acc
 vergunningintaker-preprod
 simform-preproductie
 praatmee
+ns
 woz
 www.acc
 afval
@@ -328,7 +330,6 @@ media
 access
 digitaal
 auth.openstad
-beeldbankbeheer
 img.openstad
 geovisia
 gisib-test
@@ -344,7 +345,6 @@ ro-online
 mozard
 mozardtest
 bewustwording
-ns
 wion
 www.test
 parkeervergunningen
@@ -1413,6 +1413,7 @@ eformulieren-test
 helpmij
 telefonie
 test.open-formulieren
+dev
 iobjects
 smtp20
 stwapp02
@@ -8778,8 +8779,10 @@ intake.preprod
 kinderboerderij
 meldingen.test
 meldingentest
+mijnaanvragen
 obsurvtest
 pidigikoppeling
+preprod-mijnaanvragen
 prodextsec
 programmabegroting.financien
 purmerend-checker-preprod
@@ -9276,7 +9279,6 @@ dataland-test
 dataland
 datalandprod
 datalandtest
-dev
 devtest
 download.webmail
 evmail
