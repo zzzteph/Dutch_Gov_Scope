@@ -335,7 +335,6 @@ http://flash.scherpenzeel.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.edam-volendam.nl
-http://formulieren.opsterland.nl
 http://ftp.ofgv.nl
 http://ftp.oostvaarderskliniek.nl
 http://ftp.schoolleidersregisterpo.nl
@@ -419,6 +418,7 @@ http://middelburg.nl
 http://mijn.aalten.nl
 http://mijn.adr.donorregister.nl
 http://mijn.bronckhorst.nl
+http://mijn.opsterland.nl
 http://mijn.weststellingwerf.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
@@ -443,7 +443,6 @@ http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
 http://opendata.bloemendaal.nl
 http://opendata.zoetermeer.nl
-http://opsterland.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -521,6 +520,7 @@ http://simcms.huizen.nl
 http://simcms.intranet.lopik.nl
 http://simcms.landgraaf.nl
 http://simcms.nijkerk.eu
+http://simcms.opsterland.nl
 http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
 http://simcms.staphorst.nl
@@ -541,6 +541,7 @@ http://simsite.heuvelrug.nl
 http://simsite.leudal.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
+http://simsite.opsterland.nl
 http://simsite.staphorst.nl
 http://simsite.valkenburg.nl
 http://simsite.valkenswaard.nl
@@ -1923,6 +1924,7 @@ https://beeldbank.leiden.nl
 https://beeldbank.loonopzand.nl
 https://beeldbank.nimh.nl
 https://beeldbank.oegstgeest.nl
+https://beeldbank.opsterland.nl
 https://beeldbank.putten.nl
 https://beeldbank.rotterdam.nl
 https://beeldbank.schiedam.nl
@@ -1936,6 +1938,7 @@ https://beeldbank.zuid-holland.nl
 https://beeldbankbeheer.gemeentebest.nl
 https://beeldbankbeheer.haarlemmermeer.nl
 https://beeldbankbeheer.loonopzand.nl
+https://beeldbankbeheer.opsterland.nl
 https://beeldbankbeheer.veldhoven.nl
 https://beeldbankbeheer.waalwijk.nl
 https://beeldbankbeheer.zuid-holland.nl
@@ -4381,6 +4384,7 @@ https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
 https://felix.nijkerk.eu
 https://felix.opmeer.nl
+https://felix.opsterland.nl
 https://felix.overbetuwe.nl
 https://felix.staphorst.nl
 https://felix.t-diel.nl
@@ -4602,6 +4606,7 @@ https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
 https://formulieren.olst-wijhe.nl
 https://formulieren.oostzaan.nl
+https://formulieren.opsterland.nl
 https://formulieren.oss.nl
 https://formulieren.pijnacker-nootdorp.nl
 https://formulieren.provincie-utrecht.nl
@@ -6668,7 +6673,6 @@ https://mijn.nvwa.nl
 https://mijn.oldenzaal.nl
 https://mijn.ommen.nl
 https://mijn.oostgelre.nl
-https://mijn.opsterland.nl
 https://mijn.oss.nl
 https://mijn.oude-ijsselstreek.nl
 https://mijn.overbetuwe.nl
@@ -9229,7 +9233,6 @@ https://simsite.nijkerk.eu
 https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
 https://simsite.opmeer.nl
-https://simsite.opsterland.nl
 https://simsite.pekela.nl
 https://simsite.pijnacker-nootdorp.nl
 https://simsite.reuseldemierden.nl
@@ -11474,7 +11477,6 @@ https://www.openstad.nijmegen.nl
 https://www.openstad.zuid-holland.nl
 https://www.operatiebomenbuurt.denhaag.nl
 https://www.oprijk.nl
-https://www.opsterland.nl
 https://www.opvang.zwolle.nl
 https://www.opwegnaarseb.nl
 https://www.oracbloemenbuurt.denhaag.nl

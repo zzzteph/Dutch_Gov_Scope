@@ -61,11 +61,11 @@ data
 login
 dacceptatieloket
 dacceptatiemidoffice
+beeldbank
 remote
 dloket
 dmidoffice
 enterpriseregistration
-beeldbank
 openpdc
 belastingbalie
 osb
@@ -298,6 +298,7 @@ burgerloket
 aanvragen
 digikoppelingtest
 admin.openstad
+beeldbankbeheer
 mijnzorg-acc
 vergunningintaker-preprod
 simform-preproductie
@@ -329,7 +330,6 @@ media
 access
 digitaal
 auth.openstad
-beeldbankbeheer
 img.openstad
 geovisia
 gisib-test
