@@ -2125,7 +2125,6 @@ fs.rijksdienstcn.com
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp-hdsr.hdsr.nl
-ftp.ceg.nl
 ftp.ctpveldzicht.nl
 ftp.dji.nl
 ftp.koop.overheid.nl
@@ -4966,7 +4965,6 @@ testmailmdm.flevoland.nl
 testmdm.flevoland.nl
 testmonitorwonen.flevoland.nl
 testopendata.hhdelfland.nl
-testsite.ceg.nl
 testtunnelmdm.flevoland.nl
 teverantwoordenregelingen.rijksoverheid.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
@@ -5797,7 +5795,6 @@ www.stateninformatie.provincie-utrecht.nl
 www.stopheling.nl
 www.strafrechtketen.nl
 www.test.monumentenregister.cultureelerfgoed.nl
-www.testsite.ceg.nl
 www.tib-ivd.nl
 www.tlokb.nl
 www.toegangspuntmobiliteit.nl

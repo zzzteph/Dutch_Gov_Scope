@@ -110,7 +110,6 @@ belastingloket
 doemee
 a-english
 api
-ftp
 siam
 financien
 klantcontact
@@ -118,6 +117,7 @@ pki
 _dmarc
 begroting
 sts
+ftp
 squit2go
 samen
 cms
@@ -3021,8 +3021,6 @@ mdmvpn-t
 mdmvpn
 ncp-api-1
 toetsingonline
-testsite
-www.testsite
 acc-lrza.services
 acceptatie.api.kcc
 acceptatie.applicationframework

@@ -7303,7 +7303,6 @@ ftp.amsterdam.nl
 ftp.bodegraven-reeuwijk.nl
 ftp.brummen.nl
 ftp.castricum.nl
-ftp.ceg.nl
 ftp.ctpveldzicht.nl
 ftp.data.amsterdam.nl
 ftp.dji.nl
@@ -17564,7 +17563,6 @@ testsiam.schiermonnikoog.nl
 testsiam.terschelling.nl
 testsiam.vlieland.nl
 testsim.westmaasenwaal.nl
-testsite.ceg.nl
 testsuitewiz.nissewaard.nl
 testtsjinstbus.harlingen.nl
 testtsjinstbus.sudwestfryslan.nl
@@ -20705,7 +20703,6 @@ www.test.sudwestfryslan.nl
 www.testeloket.rhenen.nl
 www.testloket.groningen.nl
 www.testnhr.sudwestfryslan.nl
-www.testsite.ceg.nl
 www.texel.nl
 www.teylingen.nl
 www.tholen.nl
