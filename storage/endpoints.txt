@@ -260,7 +260,6 @@ http://bouwdossiers.stadsarchief.breda.nl
 http://bunschoten.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://buytenweghdeleyens.zoetermeer.nl
-http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
 http://channels-az1.lpc.logius.nl
@@ -304,7 +303,6 @@ http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://docs.lpc.logius.nl
 http://doesburg.nl
-http://draf-acpt.brabant.nl
 http://dse.lx.overheid.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
@@ -2372,6 +2370,7 @@ https://boxmeer.landvancuijk.nl
 https://boxtel.nl
 https://bp.data.amsterdam.nl
 https://bp.stopheling.nl
+https://brabant.nl
 https://braic.nl
 https://brainps.brabant.nl
 https://brains-acc.brabant.nl
@@ -2481,6 +2480,7 @@ https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
 https://bzg1-acc.hellevoetsluis.nl
+https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
@@ -3187,6 +3187,7 @@ https://dp2024.deltaprogramma.nl
 https://dp2025.deltaprogramma.nl
 https://dpt.purmerend.nl
 https://draadloos.sittard-geleen.nl
+https://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://drechterland.nl
 https://drempelsweg.utrecht.nl
@@ -6725,6 +6726,8 @@ https://mijnaanvraag.zutphen.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnaanvragensociaaldomein.venlo.nl
 https://mijnacc.montfoort.nl
+https://mijnadministratie-acpt.brabant.nl
+https://mijnadministratie.brabant.nl
 https://mijnafspraak.scherpenzeel.nl
 https://mijnafval.meerssen.nl
 https://mijnafval.valkenburg.nl
@@ -9483,6 +9486,7 @@ https://stappenteller.rotterdam.nl
 https://start.almelo.nl
 https://start.beverwijk.nl
 https://start.dus-i.nl
+https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
 https://startmetdelen.nl
 https://startmetoesorichtlijnen.nl

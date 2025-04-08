@@ -35,7 +35,6 @@ http://autodiscover.schoolleidersregisterpo.nl
 http://autodiscover.scp.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
-http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
 http://channels-az1.lpc.logius.nl
@@ -57,7 +56,6 @@ http://detoekomstbegintnu.brabant.nl
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
 http://docs.lpc.logius.nl
-http://draf-acpt.brabant.nl
 http://dse.lx.overheid.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
@@ -457,6 +455,7 @@ https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bouw.omgevingswet.overheid.nl
 https://bp.stopheling.nl
+https://brabant.nl
 https://braic.nl
 https://brainps.brabant.nl
 https://brains-acc.brabant.nl
@@ -475,6 +474,7 @@ https://burgerloket.hhdelfland.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
+https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
@@ -691,6 +691,7 @@ https://dp2022.deltaprogramma.nl
 https://dp2023.deltaprogramma.nl
 https://dp2024.deltaprogramma.nl
 https://dp2025.deltaprogramma.nl
+https://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://drife-f.dji.nl
 https://drms.cibg.nl
@@ -1706,6 +1707,8 @@ https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
 https://mijn.zorgaanbiedersportaal.nl
 https://mijnaanvraag.belastingdienst.nl
+https://mijnadministratie-acpt.brabant.nl
+https://mijnadministratie.brabant.nl
 https://mijncn.nl
 https://mijndouane.belastingdienst.nl
 https://mijnloket.commissiemijnbouwschade.nl
@@ -2633,6 +2636,7 @@ https://standaarden-tst.overheid.nl
 https://standaarden.omgevingswet.overheid.nl
 https://standaarden.overheid.nl
 https://start.dus-i.nl
+https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
 https://startmetdelen.nl
 https://startmetoesorichtlijnen.nl

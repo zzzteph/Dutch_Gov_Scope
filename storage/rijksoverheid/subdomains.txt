@@ -909,6 +909,7 @@ boub-api.overheid.nl
 bouw.omgevingswet.overheid.nl
 bp-bb-ut.tst.belastingdienst.nl
 bp.stopheling.nl
+brabant.nl
 brabantapps.brabant.nl
 braic.nl
 brain-acpt.brabant.nl
@@ -3089,6 +3090,8 @@ mijn.tst.belastingdienst.nl
 mijn.zorgaanbiedersportaal.nl
 mijn8.belastingdienst.nl
 mijnaanvraag.belastingdienst.nl
+mijnadministratie-acpt.brabant.nl
+mijnadministratie.brabant.nl
 mijncn.nl
 mijndouane-perf.acc.belastingdienst.nl
 mijndouane.acc.belastingdienst.nl
