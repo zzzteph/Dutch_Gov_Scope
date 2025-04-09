@@ -76,9 +76,9 @@ cmsoo
 loket.acceptatie
 omgevingsvisie
 cloudadapter-test
+_autodiscover._tcp
 hybrid
 digikoppeling-test
-_autodiscover._tcp
 connect
 kaart
 portaal
