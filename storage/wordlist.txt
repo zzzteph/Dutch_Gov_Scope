@@ -914,6 +914,7 @@ deutsch
 feeds.deutsch
 opendata.deutsch
 beeldbellen
+dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
 ras
@@ -3271,7 +3272,6 @@ www.hetverhaalvan
 www.jaarverslag2018
 www.omgevingsplan
 www.risicokaart
-dnadatabank
 o-magazines
 ad
 alerting
