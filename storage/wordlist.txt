@@ -20,8 +20,8 @@ secure
 acceptatie
 formulieren
 felix
-probeer
 test
+probeer
 loket
 werkplek
 eloket
@@ -604,6 +604,7 @@ conf
 mijnwerkplek
 idselect
 veilig
+cdn
 connect-acpt
 services-test
 raadplegen
@@ -958,7 +959,6 @@ selector2._domainkey
 formulieren-acc
 outbound
 webshop
-cdn
 cpanel
 elearning
 begroting2016
