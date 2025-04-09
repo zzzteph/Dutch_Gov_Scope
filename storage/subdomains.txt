@@ -93,6 +93,7 @@ _autodiscover._tcp.adviescollegeicttoetsing.nl
 _autodiscover._tcp.bronckhorst.nl
 _autodiscover._tcp.buren.nl
 _autodiscover._tcp.debilt.nl
+_autodiscover._tcp.donorregister.nl
 _autodiscover._tcp.haaksbergen.nl
 _autodiscover._tcp.haarlem.nl
 _autodiscover._tcp.hardenberg.nl
@@ -16618,6 +16619,7 @@ staging.archief.venlo.nl
 staging.buurtbudget-buurt.venlo.nl
 staging.buurtbudget.venlo.nl
 staging.deventer.nl
+staging.donorregister.nl
 staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
 staging.intranet.oostgelre.nl
