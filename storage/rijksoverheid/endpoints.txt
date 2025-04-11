@@ -117,7 +117,6 @@ http://smtp.oostvaarderskliniek.nl
 http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
 http://stagiairs.werkenvoornederland.nl
-http://staging.meldingen.ilent.nl
 http://stijlgids.cibg.nl
 http://stijlgids.overheid.nl
 http://strafdossiermh17.acc.om.nl
@@ -679,6 +678,7 @@ https://diversiteitsplein.politiekeambtsdragers.nl
 https://dji.nl
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
+https://dnajaarverslag2011.forensischinstituut.nl
 https://doc.leefbaarometer.nl
 https://docs.ndw.nu
 https://doculoket-acc.overheid.nl
@@ -686,6 +686,7 @@ https://doculoket.overheid.nl
 https://documentenapplicatie.igj.nl
 https://documentgenerator.provincie-utrecht.nl
 https://dol.stopheling.nl
+https://domeinenrz.nl
 https://donorregister.nl
 https://dor.stopheling.nl
 https://dorbeheer.stopheling.nl
@@ -743,6 +744,7 @@ https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
 https://eef.waterschaplimburg.nl
 https://eentegeneenzaamheid.nl
+https://eersteenthuis.nl
 https://efm.belastingdienst.nl
 https://ehd.emissieautoriteit.nl
 https://ehp.emissieautoriteit.nl
@@ -863,6 +865,7 @@ https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://faq.ndw.nu
+https://farmatec.nl
 https://faro.cultureelerfgoed.nl
 https://fbmonitor.ndw.nu
 https://fcvpn.om.nl
@@ -1237,6 +1240,7 @@ https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://flevoland.nl
 https://fme.hdsr.nl
+https://fmhaaglanden.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://forensicinstitute.nl
@@ -1348,6 +1352,7 @@ https://gouverneuraruba.com
 https://gouverneurcuracao.com
 https://government.nl
 https://gpi.belastingdienst.nl
+https://grenzeloossamenwerken.nl
 https://grip.informatiehuishouding.nl
 https://grondwaterportaal-a.hhdelfland.nl
 https://grondwaterportaal.hhdelfland.nl
@@ -1372,6 +1377,7 @@ https://historische-luchtfoto.flevoland.nl
 https://hoesterkstaik.nl
 https://hogeraadvanadel.nl
 https://houdmisdaaduitjebuurt.nl
+https://huiselijkgeweld.nl
 https://huisstijl.belastingdienst.nl
 https://huisvoorklokkenluiders.nl
 https://hulpmiddelen.farmatec.nl
@@ -1462,6 +1468,7 @@ https://intranet.scp.nl
 https://intranet.vechtstromen.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://investerenin.zuid-holland.nl
+https://investeringsimpulsspv.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://ip.rijkscloud.nl
@@ -2017,6 +2024,7 @@ https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
 https://opendata.english.zorginstituutnederland.nl
+https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
@@ -2698,7 +2706,6 @@ https://telewerken.om.nl
 https://test-api.stopheling.nl
 https://test-bp.stopheling.nl
 https://test-cms-bron.waterschaplimburg.nl
-https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.scp.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
@@ -2706,7 +2713,6 @@ https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-internationaal.ondernemen.overheid.nl
-https://test-intranet.flevoland.nl
 https://test-intranet.scp.nl
 https://test-kpi-dashboard.ndw.nu
 https://test.actueel.nl-alert.nl

@@ -20,8 +20,8 @@ secure
 acceptatie
 formulieren
 felix
-probeer
 test
+probeer
 loket
 werkplek
 eloket
@@ -76,12 +76,12 @@ cmsoo
 loket.acceptatie
 omgevingsvisie
 cloudadapter-test
+_autodiscover._tcp
 hybrid
 digikoppeling-test
 connect
 kaart
 portaal
-_autodiscover._tcp
 kaarten
 flowmailer-tracking
 formulier
@@ -323,6 +323,7 @@ feeds.papiamentu
 opendata.papiamentu
 papiamentu
 id
+staging
 geotest
 nieuwsbrieven
 projecten
@@ -379,7 +380,7 @@ mijnloket
 ons
 kennis
 nhr
-staging
+aanmelden
 geoweb
 octopus
 sso
@@ -512,7 +513,6 @@ wozloket
 jcccloud
 belastingportaal-test
 matomo
-aanmelden
 autorisatiebeheer-test
 djumaproxy
 logilink
@@ -604,6 +604,7 @@ conf
 mijnwerkplek
 idselect
 veilig
+cdn
 connect-acpt
 services-test
 raadplegen
@@ -913,6 +914,7 @@ deutsch
 feeds.deutsch
 opendata.deutsch
 beeldbellen
+dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
 ras
@@ -958,7 +960,6 @@ selector2._domainkey
 formulieren-acc
 outbound
 webshop
-cdn
 cpanel
 elearning
 begroting2016
@@ -3271,7 +3272,8 @@ www.hetverhaalvan
 www.jaarverslag2018
 www.omgevingsplan
 www.risicokaart
-dnadatabank
+dnajaarverslag2011
+mijnacademy
 o-magazines
 ad
 alerting
@@ -3326,6 +3328,7 @@ hip-acc
 hip
 huurprijscheck
 mail-a
+next
 pkio
 plantool
 s.checkjeprijs

@@ -560,7 +560,6 @@ http://sslvpn.haarlem.nl
 http://stadsbroekenijsselvizier.zwolle.nl
 http://stadspas.weert.nl
 http://stagiairs.werkenvoornederland.nl
-http://staging.meldingen.ilent.nl
 http://stijlgids.cibg.nl
 http://stijlgids.overheid.nl
 http://strafdossiermh17.acc.om.nl
@@ -3136,6 +3135,7 @@ https://dmpfunc002.amsterdam.nl
 https://dmst.noordoostpolder.nl
 https://dmzsvr02.winterswijk.nl
 https://dnadatabank.forensischinstituut.nl
+https://dnajaarverslag2011.forensischinstituut.nl
 https://do.winterswijk.nl
 https://doc.leefbaarometer.nl
 https://docgen.deventer.nl
@@ -3177,6 +3177,7 @@ https://dok.rotterdam.nl
 https://dol.stopheling.nl
 https://dolph.rotterdam.nl
 https://domain-admin.waterland.nl
+https://domeinenrz.nl
 https://dongen.nl
 https://donorregister.nl
 https://dor.stopheling.nl
@@ -3629,6 +3630,7 @@ https://eemsdelta.groningen.nl
 https://eemsdelta.nl
 https://eentegeneenzaamheid.nl
 https://eersel.nl
+https://eersteenthuis.nl
 https://efacturen.eijsden-margraten.nl
 https://efm.belastingdienst.nl
 https://eformaccept.defryskemarren.nl
@@ -4008,6 +4010,7 @@ https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://faq.ndw.nu
+https://farmatec.nl
 https://faro.cultureelerfgoed.nl
 https://fba.deventer.nl
 https://fblocatielijst.amsterdam.nl
@@ -4498,6 +4501,7 @@ https://flowmailer-tracking.weert.nl
 https://flowmailer-tracking.zaanstad.nl
 https://fm.krimpenerwaard.nl
 https://fme.hdsr.nl
+https://fmhaaglanden.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://fmreturn.beekdaelen.nl
@@ -5013,6 +5017,7 @@ https://gpg.apeldoorn.nl
 https://gpi.belastingdienst.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
+https://grenzeloossamenwerken.nl
 https://grip.informatiehuishouding.nl
 https://groenekaart.leiden.nl
 https://groenengezond.almere.nl
@@ -5147,6 +5152,7 @@ https://houtwijkbegroot.denhaag.nl
 https://hrplus.rotterdam.nl
 https://htb-prod.gemeente-steenbergen.nl
 https://hub.gemeentemaastricht.nl
+https://huiselijkgeweld.nl
 https://huishoudboekje.acc.utrecht.nl
 https://huishoudboekje.amersfoort.nl
 https://huishoudboekje.utrecht.nl
@@ -5696,6 +5702,7 @@ https://introcms.roermond.nl
 https://intunecollector.amsterdam.nl
 https://intunevpn.meppel.nl
 https://investerenin.zuid-holland.nl
+https://investeringsimpulsspv.nl
 https://inwonerportaal-test.zoetermeer.nl
 https://inwonerportaal.zoetermeer.nl
 https://inzagecleopatra.rotterdam.nl
@@ -7618,6 +7625,7 @@ https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
 https://opendata.english.zorginstituutnederland.nl
+https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
@@ -9722,7 +9730,6 @@ https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
-https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.lansingerland.nl
@@ -9761,7 +9768,6 @@ https://test-internetafspraken.sittard-geleen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.beuningen.nl
 https://test-intranet.drimmelen.nl
-https://test-intranet.flevoland.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.scp.nl
 https://test-jip.hofvantwente.nl
