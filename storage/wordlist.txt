@@ -380,6 +380,7 @@ mijnloket
 ons
 kennis
 nhr
+aanmelden
 geoweb
 octopus
 sso
@@ -512,7 +513,6 @@ wozloket
 jcccloud
 belastingportaal-test
 matomo
-aanmelden
 autorisatiebeheer-test
 djumaproxy
 logilink
@@ -3328,6 +3328,7 @@ hip-acc
 hip
 huurprijscheck
 mail-a
+next
 pkio
 plantool
 s.checkjeprijs
