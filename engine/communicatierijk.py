@@ -14,7 +14,8 @@ if len(sys.argv) != 2:
 file_path = sys.argv[1]
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority"]
+headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority","OVERHEID.Koninkrijksdeel","RIJKSOVERHEID.Informatietype","RIJKSOVERHEID.Organisatie"]
+
 ods_path = Path("/tmp/result.ods")
 csv_path = Path("/tmp/result.csv")
 
@@ -57,7 +58,7 @@ for domain in sorted(entries):
         
         if response.ok:
             body = response.text.lower()
-            if any(keyword.lower() in body for keyword in headers_to_check):
+            if any(keyword.lower() in body.lower() for keyword in headers_to_check):
                 final_url = response.url
                 parsed = urlparse(final_url)
                 final_domain = parsed.hostname

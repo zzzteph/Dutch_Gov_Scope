@@ -64,7 +64,7 @@ for link in gov_links:
     except Exception as e:
         print(f"Failed to fetch {link}: {e}")
 
-headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority"]
+headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority","OVERHEID.Koninkrijksdeel","RIJKSOVERHEID.Informatietype","RIJKSOVERHEID.Organisatie"]
 
 result_domains=set()
 
@@ -79,7 +79,7 @@ for domain in sorted(entries):
         response = requests.get(f"https://{domain}", timeout=5, allow_redirects=True, verify=False)
         if response.ok:
             body = response.text.lower()
-            if any(keyword.lower() in body for keyword in headers_to_check):
+            if any(keyword.lower() in body.lower() for keyword in headers_to_check):
                 final_url = response.url
                 parsed = urlparse(final_url)
                 final_domain = parsed.hostname
