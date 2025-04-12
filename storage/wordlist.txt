@@ -73,10 +73,10 @@ api.meldingen-acc
 meldingen-acc
 openpub
 cmsoo
+_autodiscover._tcp
 loket.acceptatie
 omgevingsvisie
 cloudadapter-test
-_autodiscover._tcp
 hybrid
 digikoppeling-test
 connect
