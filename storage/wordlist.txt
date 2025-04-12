@@ -602,6 +602,7 @@ idtst
 ondertekenen
 conf
 mijnwerkplek
+dwo
 idselect
 veilig
 cdn
@@ -899,7 +900,6 @@ georegister
 geoservertest
 slechtvalk
 www.dataportaal
-dwo
 externemail
 m365
 password
@@ -3388,6 +3388,8 @@ sip002
 tst-referentiegegevens
 validatie-acc
 validatie
+xmam
+xmdm
 menukaart
 www-old
 test2
