@@ -37,14 +37,11 @@ The data is collected using a semi-automated pipeline and updated regularly. All
 ### Repository Structure
 
 - [`scope/rijksoverheid.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/scope/rijksoverheid.txt) – Current list of **Rijksoverheid** domains  
-- [`scope/gemeente.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/scope/gemeente.txt) – Current list of **Gemeenten** domains  
-- [`storage/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/subdomains.txt) – Combined list of all discovered subdomains (Rijksoverheid + Gemeente)  
+- [`storage/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/subdomains.txt) – Combined list of all discovered subdomains (Rijksoverheid)  
 - [`storage/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/endpoints.txt) – Discovered HTTP/HTTPS endpoints  
 - [`storage/wordlist.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/wordlist.txt) – Wordlist for subdomain bruteforcing, generated from known subdomains  
 - [`storage/rijksoverheid/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt) – Subdomains related to **Rijksoverheid**  
 - [`storage/rijksoverheid/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt) – HTTP/HTTPS endpoints under **Rijksoverheid**  
-- [`storage/gemeente/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/gemeente/subdomains.txt) – Subdomains related to **Gemeenten**  
-- [`storage/gemeente/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/gemeente/endpoints.txt) – HTTP/HTTPS endpoints under **Gemeenten**  
 
 
 ### Scanning examples
