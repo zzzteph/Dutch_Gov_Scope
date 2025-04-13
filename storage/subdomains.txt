@@ -17,6 +17,7 @@ acc.adviescollegeveiligheidgroningen.nl
 adviescollegeicttoetsing.nl
 adviescollegeregeldruk.nl
 adviescollegeveiligheidgroningen.nl
+adviescommissievolkenrecht.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
 chw.aandeslagmetdeomgevingswet.nl
@@ -30,6 +31,7 @@ feeds.academyforinternationalrelations.nl
 feeds.adviescollegeicttoetsing.nl
 feeds.adviescollegeregeldruk.nl
 feeds.adviescollegeveiligheidgroningen.nl
+feeds.adviescommissievolkenrecht.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
 helloid.aaenmaas.nl
@@ -48,6 +50,7 @@ opendata.academyforinternationalrelations.nl
 opendata.adviescollegeicttoetsing.nl
 opendata.adviescollegeregeldruk.nl
 opendata.adviescollegeveiligheidgroningen.nl
+opendata.adviescommissievolkenrecht.nl
 sharepoint.aaenmaas.nl
 sip.aaenmaas.nl
 testeloket.aaenmaas.nl
@@ -76,3 +79,4 @@ www.academyforinternationalrelations.nl
 www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
 www.adviescollegeveiligheidgroningen.nl
+www.adviescommissievolkenrecht.nl
