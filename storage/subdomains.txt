@@ -88,6 +88,7 @@ magazines.algemenebestuursdienst.nl
 maps.aaenmaas.nl
 meet.aaenmaas.nl
 oa.aaenmaas.nl
+odctest.arbeidsinspectie.nl
 opendata.a2vonderenkerensheide.nl
 opendata.aanbiedersmedicijnen.nl
 opendata.aboutnetherlandscustoms.nl
@@ -113,6 +114,7 @@ outbound-eopg.aivd.nl
 sharepoint.aaenmaas.nl
 sip.aaenmaas.nl
 test.antennebureau.nl
+test.resultaten.arbeidsinspectie.nl
 testeloket.aaenmaas.nl
 vpn2.aaenmaas.nl
 wachtwoordwijzigen.aaenmaas.nl
@@ -156,3 +158,5 @@ www.ambtelijkerechtspositie.nl
 www.animalfreeinnovationtpi.nl
 www.antennebureau.nl
 www.antisemitismebestrijding.nl
+www.arbeidsinspectie.nl
+www.testdigitalediensten.arbeidsinspectie.nl
