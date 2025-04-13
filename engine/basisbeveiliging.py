@@ -84,7 +84,7 @@ for domain in sorted(entries):
                 parsed = urlparse(final_url)
                 final_domain = parsed.hostname
                 if final_domain:
-                    result_domains.add(final_domain.removeprefix("www."))
+                    result_domains.add(get_root_domain(final_domain.removeprefix("www.")))
     except requests.exceptions.RequestException:
         pass
 

@@ -7,6 +7,12 @@ import tldextract
 import urllib3
 import sys
 
+def get_root_domain(url):
+    ext = tldextract.extract(url)
+    return f"{ext.domain}.{ext.suffix}"
+
+
+
 if len(sys.argv) != 2:
     print("Usage: python communicatierijk.py file_to_update")
     sys.exit(1)
@@ -63,7 +69,7 @@ for domain in sorted(entries):
                 parsed = urlparse(final_url)
                 final_domain = parsed.hostname
                 if final_domain:
-                    result_domains.add(final_domain.removeprefix("www."))
+                    result_domains.add(get_root_domain(final_domain.removeprefix("www.")))
     except requests.exceptions.RequestException:
         pass
 
