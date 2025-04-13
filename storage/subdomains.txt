@@ -49,8 +49,10 @@ animalfreeinnovationtpi.nl
 antennebureau.nl
 arbeidsmigratieingoedebanen.nl
 arboportaal.nl
+asbestvolgsysteem.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
+b-acc.asbestvolgsysteem.nl
 chw.aandeslagmetdeomgevingswet.nl
 dialin.aaenmaas.nl
 eavgb-acc.aivd.nl
@@ -120,6 +122,7 @@ opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
 opendata.english.aivd.nl
 outbound-eopg.aivd.nl
+prod.asbestvolgsysteem.nl
 sharepoint.aaenmaas.nl
 sip.aaenmaas.nl
 test.antennebureau.nl
@@ -170,5 +173,6 @@ www.antisemitismebestrijding.nl
 www.arbeidsinspectie.nl
 www.arbeidsmigratieingoedebanen.nl
 www.arboportaal.nl
+www.asbestvolgsysteem.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 zorgenwerknetwerk.arboportaal.nl
