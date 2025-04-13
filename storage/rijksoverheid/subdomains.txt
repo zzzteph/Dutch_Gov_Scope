@@ -1,7 +1,13 @@
 100aardgasvrijewijken.nl
+a-english.aivd.nl
+a-feeds.a-english.aivd.nl
 a-feeds.agroberichtenbuitenland.nl
+a-feeds.aivd.nl
+a-opendata.a-english.aivd.nl
 a-opendata.agroberichtenbuitenland.nl
+a-opendata.aivd.nl
 a-www.agroberichtenbuitenland.nl
+a-www.aivd.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -28,11 +34,19 @@ advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
 agressievrijwerken.nl
 agroberichtenbuitenland.nl
+aivd.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
 chw.aandeslagmetdeomgevingswet.nl
 dialin.aaenmaas.nl
+eavgb-acc.aivd.nl
+eavgb.aivd.nl
 eloket.aaenmaas.nl
+english.aivd.nl
+eovgb-acc.aivd.nl
+eovgb.aivd.nl
+fbadmin-eopg-acc.aivd.nl
+fbadmin-eopg.aivd.nl
 feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
 feeds.aboutnetherlandscustoms.nl
@@ -48,6 +62,8 @@ feeds.advisorycommitteeinternationallaw.nl
 feeds.advisorycouncilinternationalaffairs.nl
 feeds.aeriusproducten.nl
 feeds.agroberichtenbuitenland.nl
+feeds.aivd.nl
+feeds.english.aivd.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
 helloid.aaenmaas.nl
@@ -73,6 +89,9 @@ opendata.advisorycommitteeinternationallaw.nl
 opendata.advisorycouncilinternationalaffairs.nl
 opendata.aeriusproducten.nl
 opendata.agroberichtenbuitenland.nl
+opendata.aivd.nl
+opendata.english.aivd.nl
+outbound-eopg.aivd.nl
 sharepoint.aaenmaas.nl
 sip.aaenmaas.nl
 testeloket.aaenmaas.nl
@@ -109,3 +128,4 @@ www.advisorycouncilinternationalaffairs.nl
 www.aeriusproducten.nl
 www.agressievrijwerken.nl
 www.agroberichtenbuitenland.nl
+www.aivd.nl
