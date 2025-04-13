@@ -68,12 +68,12 @@ dmidoffice
 enterpriseregistration
 openpdc
 belastingbalie
+_autodiscover._tcp
 osb
 api.meldingen-acc
 meldingen-acc
 openpub
 cmsoo
-_autodiscover._tcp
 loket.acceptatie
 omgevingsvisie
 cloudadapter-test

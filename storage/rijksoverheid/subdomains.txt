@@ -12,6 +12,7 @@ _autodiscover._tcp.adviescollegeicttoetsing.nl
 _autodiscover._tcp.donorregister.nl
 _autodiscover._tcp.emissionsauthority.nl
 _autodiscover._tcp.kimnet.nl
+_autodiscover._tcp.mijnpgb.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl
 _autodiscover._tcp.uziregister.nl
 _dmarc.cibg.nl
