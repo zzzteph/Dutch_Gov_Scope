@@ -4,13 +4,16 @@ a-feeds.a-english.aivd.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
+a-feeds.arboportaal.nl
 a-opendata.a-english.aivd.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
+a-opendata.arboportaal.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.antennebureau.nl
+a-www.arboportaal.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -45,6 +48,7 @@ ambtelijkerechtspositie.nl
 animalfreeinnovationtpi.nl
 antennebureau.nl
 arbeidsmigratieingoedebanen.nl
+arboportaal.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
 chw.aandeslagmetdeomgevingswet.nl
@@ -78,6 +82,7 @@ feeds.allesoverbiologisch.nl
 feeds.animalfreeinnovationtpi.nl
 feeds.antennebureau.nl
 feeds.arbeidsmigratieingoedebanen.nl
+feeds.arboportaal.nl
 feeds.english.aivd.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
@@ -112,6 +117,7 @@ opendata.allesoverbiologisch.nl
 opendata.animalfreeinnovationtpi.nl
 opendata.antennebureau.nl
 opendata.arbeidsmigratieingoedebanen.nl
+opendata.arboportaal.nl
 opendata.english.aivd.nl
 outbound-eopg.aivd.nl
 sharepoint.aaenmaas.nl
@@ -163,4 +169,6 @@ www.antennebureau.nl
 www.antisemitismebestrijding.nl
 www.arbeidsinspectie.nl
 www.arbeidsmigratieingoedebanen.nl
+www.arboportaal.nl
 www.testdigitalediensten.arbeidsinspectie.nl
+zorgenwerknetwerk.arboportaal.nl
