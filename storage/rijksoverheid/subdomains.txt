@@ -3,11 +3,14 @@ a-english.aivd.nl
 a-feeds.a-english.aivd.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
+a-feeds.antennebureau.nl
 a-opendata.a-english.aivd.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
+a-opendata.antennebureau.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
+a-www.antennebureau.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -40,6 +43,7 @@ algemenebestuursdienst.nl
 allesoverbiologisch.nl
 ambtelijkerechtspositie.nl
 animalfreeinnovationtpi.nl
+antennebureau.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
 chw.aandeslagmetdeomgevingswet.nl
@@ -71,6 +75,7 @@ feeds.aivd.nl
 feeds.algemenebestuursdienst.nl
 feeds.allesoverbiologisch.nl
 feeds.animalfreeinnovationtpi.nl
+feeds.antennebureau.nl
 feeds.english.aivd.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
@@ -102,10 +107,12 @@ opendata.aivd.nl
 opendata.algemenebestuursdienst.nl
 opendata.allesoverbiologisch.nl
 opendata.animalfreeinnovationtpi.nl
+opendata.antennebureau.nl
 opendata.english.aivd.nl
 outbound-eopg.aivd.nl
 sharepoint.aaenmaas.nl
 sip.aaenmaas.nl
+test.antennebureau.nl
 testeloket.aaenmaas.nl
 vpn2.aaenmaas.nl
 wachtwoordwijzigen.aaenmaas.nl
@@ -147,3 +154,4 @@ www.allesoverbiologisch.nl
 www.ambassadeursconferentie.nl
 www.ambtelijkerechtspositie.nl
 www.animalfreeinnovationtpi.nl
+www.antennebureau.nl
