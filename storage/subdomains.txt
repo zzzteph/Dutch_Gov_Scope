@@ -37,6 +37,7 @@ agroberichtenbuitenland.nl
 aivd.nl
 akkoordverbeteringproductsamenstelling.nl
 algemenebestuursdienst.nl
+allesoverbiologisch.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
 chw.aandeslagmetdeomgevingswet.nl
@@ -66,6 +67,7 @@ feeds.aeriusproducten.nl
 feeds.agroberichtenbuitenland.nl
 feeds.aivd.nl
 feeds.algemenebestuursdienst.nl
+feeds.allesoverbiologisch.nl
 feeds.english.aivd.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
@@ -95,6 +97,7 @@ opendata.aeriusproducten.nl
 opendata.agroberichtenbuitenland.nl
 opendata.aivd.nl
 opendata.algemenebestuursdienst.nl
+opendata.allesoverbiologisch.nl
 opendata.english.aivd.nl
 outbound-eopg.aivd.nl
 sharepoint.aaenmaas.nl
@@ -136,3 +139,4 @@ www.agroberichtenbuitenland.nl
 www.aivd.nl
 www.akkoordverbeteringproductsamenstelling.nl
 www.algemenebestuursdienst.nl
+www.allesoverbiologisch.nl
