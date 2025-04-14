@@ -45,6 +45,7 @@ https://atlasinfectieziekten.nl
 https://atlasleefomgeving.nl
 https://atlasnatuurlijkkapitaal.nl
 https://auditdienstrijk.nl
+https://autoriteitnvs.nl
 https://b-acc.asbestvolgsysteem.nl
 https://bezwaar.atkm.nl
 https://chw.aandeslagmetdeomgevingswet.nl
@@ -53,6 +54,7 @@ https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://eloket.aaenmaas.nl
 https://english.aivd.nl
+https://english.autoriteitnvs.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://feedback.atkm.nl
@@ -81,7 +83,9 @@ https://feeds.arboportaal.nl
 https://feeds.asbestvrijdak.nl
 https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
+https://feeds.autoriteitnvs.nl
 https://feeds.english.aivd.nl
+https://feeds.english.autoriteitnvs.nl
 https://geoportal.aaenmaas.nl
 https://gisservices.aaenmaas.nl
 https://helloid.aaenmaas.nl
@@ -119,7 +123,9 @@ https://opendata.arboportaal.nl
 https://opendata.asbestvrijdak.nl
 https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
+https://opendata.autoriteitnvs.nl
 https://opendata.english.aivd.nl
+https://opendata.english.autoriteitnvs.nl
 https://prd.atlasleefomgeving.nl
 https://prod.asbestvolgsysteem.nl
 https://sharepoint.aaenmaas.nl
@@ -174,4 +180,5 @@ https://www.atlasinfectieziekten.nl
 https://www.atlasleefomgeving.nl
 https://www.atlasnatuurlijkkapitaal.nl
 https://www.auditdienstrijk.nl
+https://www.autoriteitnvs.nl
 https://zorgenwerknetwerk.arboportaal.nl
