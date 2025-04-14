@@ -46,6 +46,7 @@ https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
 https://acc.bestandenpostbus.nl
+https://acc.bromonitor.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.behandel.bigregister.nl
@@ -144,6 +145,7 @@ https://brains.brabant.nl
 https://brba.eu
 https://brba.nl
 https://brienenoordbrug.nl
+https://bromonitor.nl
 https://bvs.belastingdienst.nl
 https://bzv-a.brabant.nl
 https://bzv.brabant.nl
@@ -381,6 +383,7 @@ https://startformuliertest.brabant.nl
 https://stubs.tst.belastingdienst.nl
 https://tea.bigregister.nl
 https://test.belastingdienst-cn.nl
+https://test.bromonitor.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
 https://toestemming-acc.belastingdienst.nl
@@ -497,6 +500,7 @@ https://www.brabant.nl
 https://www.braic.nl
 https://www.brba.nl
 https://www.brienenoordbrug.nl
+https://www.bromonitor.nl
 https://www.dataportaal.brabant.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
