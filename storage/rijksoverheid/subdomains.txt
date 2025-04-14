@@ -377,6 +377,7 @@ cert.nl
 cert.test2gbav.belastingdienst.nl
 cev.nl
 cevo.nl
+cggp.nl
 chat.cbs.nl
 chw.aandeslagmetdeomgevingswet.nl
 claircitydata.cbs.nl
@@ -800,6 +801,7 @@ mail.bodemvizier.nl
 mail.bureauwsnp.nl
 mail.cbg-meb.nl
 mail.cbi.eu
+mail.cggp.nl
 mail.dev.cbs.nl
 mail230.brabant.nl
 mail231.brabant.nl
@@ -931,6 +933,7 @@ moodletst.vcdn.belastingdienst.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
 mta-sts.belastingdienst.nl
+mta-sts.mail.cggp.nl
 mtls-tmx-dap-eu.acc.belastingdienst.nl
 mtls-tmx-dap-eu.belastingdienst.nl
 mul-mbc.belastingdienst.nl
@@ -1601,6 +1604,7 @@ www.centralecommissiedierproeven.nl
 www.cert.nl
 www.cev.nl
 www.cevo.nl
+www.cggp.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl

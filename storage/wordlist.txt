@@ -13,11 +13,11 @@ feeds.english
 opendata.english
 mijn
 a-english
+mail
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
 api
-mail
 ontwikkel
 vpn
 av
@@ -1215,3 +1215,4 @@ www.historisch
 www.ihg
 ncp-api-1
 toetsingonline
+mta-sts.mail
