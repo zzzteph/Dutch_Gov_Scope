@@ -293,6 +293,7 @@ bureauwsnp.nl
 bvs.belastingdienst.nl
 bzv-a.brabant.nl
 bzv.brabant.nl
+c2000.nl
 calendartst.brabant.nl
 cap.om.belastingdienst.nl
 captiveportal.belastingdienst.nl
@@ -932,6 +933,8 @@ rap.belastingdienst.nl
 rat.belastingdienst.nl
 rcm.belastingdienst.nl
 rdgateway.awti.nl
+relay1.c2000.nl
+relay2.c2000.nl
 rht.belastingdienst.nl
 rijkskantoorproxy.belastingdienst.nl
 rivm.atlasleefomgeving.nl
@@ -1312,6 +1315,7 @@ www.bureauncdr.nl
 www.bureausaneringverkeerslawaai.nl
 www.bureauwbtv.nl
 www.bureauwsnp.nl
+www.c2000.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
 www.kaarten.brabant.nl
