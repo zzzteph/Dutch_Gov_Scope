@@ -48,6 +48,7 @@ portaal
 webservices
 acceptatie.zoeken
 dataportaal
+kaarten
 proxy
 www-test
 mdm
@@ -948,7 +949,6 @@ informatie-acpt
 informatie-ext
 informatie-rws
 kaartbank
-kaarten
 longread
 mail230
 mail231
@@ -1422,3 +1422,13 @@ www.veilig
 examenplein
 api-acc
 generiekefuncties
+55plus
+begrippenlijst
+btiv
+dfg
+hcib
+ibw
+mn
+primos
+pwik
+vois
