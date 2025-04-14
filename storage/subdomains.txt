@@ -1,4 +1,5 @@
 100aardgasvrijewijken.nl
+_autodiscover._tcp.csirtdsp.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 a-api.contenttoolsrijksoverheid.nl
@@ -87,6 +88,7 @@ acc.cbi.eu
 acc.cerberus.cbs.nl
 acc.consexponano.nl
 acc.cparegister.nl
+acc.csirtdsp.nl
 acc2.bronhouderportaal-bro.nl
 accebms.cbs.nl
 acceptatie.advieswijzer.bigregister.nl
@@ -488,6 +490,7 @@ crisis.nl
 crm.cbi.eu
 crmacc.cbi.eu
 crmtest.cbi.eu
+csirtdsp.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
@@ -1443,6 +1446,7 @@ test.chemischestoffengoedgeregeld.nl
 test.cibg.nl
 test.contactpuntbouwproducten.nl
 test.crisis.nl
+test.csirtdsp.nl
 test.digikoppeling.cibg.nl
 test.ebms.cbs.nl
 test.publicwebservices.cibg.nl
@@ -1786,6 +1790,7 @@ www.compensationsns.nl
 www.consexponano.nl
 www.contactpuntbouwproducten.nl
 www.crisis.nl
+www.csirtdsp.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
