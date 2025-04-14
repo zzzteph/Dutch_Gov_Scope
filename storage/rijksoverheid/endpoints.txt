@@ -357,6 +357,7 @@ https://dataportal.cbs.nl
 https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
+https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://dcp-time-slot.cbg-meb.nl
@@ -478,6 +479,7 @@ https://feeds.cultuursubsidie.nl
 https://feeds.cvte.nl
 https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
+https://feeds.datavoorgezondheid.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -509,6 +511,7 @@ https://fubecasper.cbs.nl
 https://gdlo.belastingdienst.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
+https://generiekefuncties.datavoorgezondheid.nl
 https://geodata.basisinformatie-overstromingen.nl
 https://geodata.cbs.nl
 https://geoportaal-acceptatie.brabant.nl
@@ -697,6 +700,7 @@ https://opendata.cultuursubsidie.nl
 https://opendata.cvte.nl
 https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
+https://opendata.datavoorgezondheid.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -986,6 +990,7 @@ https://www.cybersecurityraad.nl
 https://www.dashboardgroningen.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
+https://www.datavoorgezondheid.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl

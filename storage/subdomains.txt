@@ -565,6 +565,7 @@ dataportal.cbs.nl
 dataservice.basisinformatie-overstromingen.nl
 dataset.cbs.nl
 datasets.cbs.nl
+datavoorgezondheid.nl
 datumprikker.belastingdienst.nl
 db.cbg-meb.nl
 dbpmo.belastingdienst.nl
@@ -752,6 +753,7 @@ feeds.cultuursubsidie.nl
 feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
 feeds.cybersecurityraad.nl
+feeds.datavoorgezondheid.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -832,6 +834,7 @@ gegevensportaal.belastingdienst.nl
 gegevensuitwisseling.acc.belastingdienst.nl
 gegevensuitwisseling.belastingdienst.nl
 gembrp.belastingdienst.nl
+generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
 geo.cultureelerfgoed.nl
 geodata.basisinformatie-overstromingen.nl
@@ -1308,6 +1311,7 @@ opendata.cultuursubsidie.nl
 opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
 opendata.cybersecurityraad.nl
+opendata.datavoorgezondheid.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1968,6 +1972,7 @@ www.cybersecurityraad.nl
 www.dashboardgroningen.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
+www.datavoorgezondheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
