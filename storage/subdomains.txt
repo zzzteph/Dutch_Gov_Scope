@@ -435,6 +435,7 @@ clusterbuster.nl
 cms.beeldkompas.nl
 cms.bureaubiosecurity.nl
 cn.cbs.nl
+codexalimentarius.nl
 collabora.poc1.bestandenpostbus.nl
 commissaris.brabant.nl
 competent.cibg.nl
@@ -637,6 +638,7 @@ feeds.centralecommissiedierproeven.nl
 feeds.cert.nl
 feeds.cibg.nl
 feeds.circulairinkopen.nl
+feeds.codexalimentarius.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1114,6 +1116,7 @@ opendata.centralecommissiedierproeven.nl
 opendata.cert.nl
 opendata.cibg.nl
 opendata.circulairinkopen.nl
+opendata.codexalimentarius.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1699,6 +1702,7 @@ www.cibg.nl
 www.circulaireviaducten.nl
 www.circulairinkopen.nl
 www.clusterbuster.nl
+www.codexalimentarius.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
