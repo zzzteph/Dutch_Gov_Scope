@@ -2,19 +2,19 @@ www
 
 opendata
 feeds
-test
 a-www
+test
 a-feeds
 a-opendata
 english
 acc
-autodiscover
 feeds.english
 opendata.english
+autodiscover
 a-english
-mail
 a-feeds.a-english
 a-opendata.a-english
+mail
 acceptatie
 mijn
 api
