@@ -1,5 +1,6 @@
 100aardgasvrijewijken.nl
 _dmarc.cibg.nl
+_dmarc.cparegister.nl
 a-api.contenttoolsrijksoverheid.nl
 a-cms.contenttoolsrijksoverheid.nl
 a-english.aivd.nl
@@ -85,6 +86,7 @@ acc.bronhouderportaal-bro.nl
 acc.cbi.eu
 acc.cerberus.cbs.nl
 acc.consexponano.nl
+acc.cparegister.nl
 acc2.bronhouderportaal-bro.nl
 accebms.cbs.nl
 acceptatie.advieswijzer.bigregister.nl
@@ -478,6 +480,7 @@ corsa.brabant.nl
 corsa2023.brabant.nl
 cp.vcdn.belastingdienst.nl
 cpapps.belastingdienst.nl
+cparegister.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
 cptst.vcdn.belastingdienst.nl

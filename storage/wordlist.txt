@@ -48,6 +48,7 @@ sts
 designsystem
 onderzoek
 portal
+_dmarc
 dialin
 eloket
 geoportal
@@ -1216,7 +1217,6 @@ www.ihg
 ncp-api-1
 toetsingonline
 mta-sts.mail
-_dmarc
 acc-lrza.services
 acceptatie.api.kcc
 acceptatie.applicationframework
