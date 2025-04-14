@@ -58,6 +58,7 @@ https://basisinformatie-overstromingen.nl
 https://basisregistratieondergrond.nl
 https://beeldbankbelastingdienst.nl
 https://beeldkompas.nl
+https://beheerautoriteitwaddenzee.nl
 https://bezwaar.atkm.nl
 https://chw.aandeslagmetdeomgevingswet.nl
 https://cms.beeldkompas.nl
@@ -105,6 +106,7 @@ https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
 https://feeds.awti.nl
+https://feeds.beheerautoriteitwaddenzee.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://geodata.basisinformatie-overstromingen.nl
@@ -148,6 +150,7 @@ https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
 https://opendata.awti.nl
+https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://prd.atlasleefomgeving.nl
@@ -162,6 +165,7 @@ https://smtp1.awti.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
 https://vpn2.aaenmaas.nl
+https://wadsup.beheerautoriteitwaddenzee.nl
 https://web01.aaninhetdonker.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
@@ -218,4 +222,5 @@ https://www.basisinformatie-overstromingen.nl
 https://www.basisregistratieondergrond.nl
 https://www.bcld-config.nl
 https://www.beeldkompas.nl
+https://www.beheerautoriteitwaddenzee.nl
 https://zorgenwerknetwerk.arboportaal.nl

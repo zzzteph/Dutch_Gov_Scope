@@ -81,6 +81,7 @@ basisinformatie-overstromingen.nl
 basisregistratieondergrond.nl
 beeldbankbelastingdienst.nl
 beeldkompas.nl
+beheerautoriteitwaddenzee.nl
 bezwaar.atkm.nl
 chw.aandeslagmetdeomgevingswet.nl
 cms.beeldkompas.nl
@@ -130,6 +131,7 @@ feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
 feeds.awti.nl
+feeds.beheerautoriteitwaddenzee.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 geodata.basisinformatie-overstromingen.nl
@@ -176,6 +178,7 @@ opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
 opendata.awti.nl
+opendata.beheerautoriteitwaddenzee.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 outbound-eopg.aivd.nl
@@ -198,6 +201,7 @@ test.resultaten.arbeidsinspectie.nl
 testeloket.aaenmaas.nl
 vpn2.aaenmaas.nl
 wachtwoordwijzigen.aaenmaas.nl
+wadsup.beheerautoriteitwaddenzee.nl
 web.aaenmaas.nl
 web01.aaninhetdonker.nl
 webgis.aaenmaas.nl
@@ -257,5 +261,6 @@ www.basisinformatie-overstromingen.nl
 www.basisregistratieondergrond.nl
 www.bcld-config.nl
 www.beeldkompas.nl
+www.beheerautoriteitwaddenzee.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 zorgenwerknetwerk.arboportaal.nl
