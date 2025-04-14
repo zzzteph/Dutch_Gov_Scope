@@ -59,6 +59,7 @@ acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.beheer.bigregister.nl
+acceptatie.bodemloket.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.tea.bigregister.nl
 acceptatie.webservices.bigregister.nl
@@ -864,6 +865,7 @@ test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
 test.belastingdienst-cn.nl
 test.bestandenpostbus.nl
+test.bodemloket.nl
 test.resultaten.arbeidsinspectie.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
@@ -1094,6 +1096,7 @@ www.biosecuritykwetsbaarheidsanalyse.nl
 www.biosecurityselfscan.nl
 www.biosecurityzelfscan.nl
 www.bodemambities.nl
+www.bodemloket.nl
 www.gtmx.acc.belastingdienst.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
