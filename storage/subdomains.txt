@@ -548,6 +548,7 @@ cultureelerfgoed.nl
 cultuursubsidie.nl
 cvte.nl
 cybersecuritycouncil.nl
+cybersecurityraad.nl
 dagstaatmonitors.brabant.nl
 dashboards.cbs.nl
 data.cultureelerfgoed.nl
@@ -746,6 +747,7 @@ feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
 feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
+feeds.cybersecurityraad.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -995,6 +997,7 @@ lyncdiscover.aaenmaas.nl
 m365.ctgb.nl
 magazines.algemenebestuursdienst.nl
 magazines.cultureelerfgoed.nl
+magazines.cybersecurityraad.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.bodemvizier.nl
@@ -1300,6 +1303,7 @@ opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
 opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
+opendata.cybersecurityraad.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1956,6 +1960,7 @@ www.cultureelerfgoed.nl
 www.cultuursubsidie.nl
 www.cvte.nl
 www.cybersecuritycouncil.nl
+www.cybersecurityraad.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl

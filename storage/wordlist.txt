@@ -19,6 +19,7 @@ a-opendata.a-english
 mijn
 api
 webmail
+magazines
 ontwikkel
 cms
 intranet
@@ -32,7 +33,6 @@ meet
 sharepoint
 sip
 vpn2
-magazines
 prod
 prd
 smtp1
