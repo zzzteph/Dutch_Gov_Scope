@@ -12,6 +12,7 @@ http://ag-dcr.cibg.nl
 http://atlas-acpt.brabant.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.contactpuntbouwproducten.nl
+http://autodiscover.ctgb.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://blaiseish2.cbs.nl
@@ -112,6 +113,8 @@ https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.zoeken.bigregister.nl
 https://accounts.cbs.nl
+https://acm-acc.ctgb.nl
+https://acm.ctgb.nl
 https://acs-acpt.brabant.nl
 https://acs.brabant.nl
 https://adc3.cbs.nl
@@ -207,6 +210,7 @@ https://bewerken.bestandenpostbus.nl
 https://bezwaar.atkm.nl
 https://bigregister.nl
 https://binnenhofrenovatie.nl
+https://biociden.ctgb.nl
 https://biociden.nl
 https://biosecuritykwetsbaarheidsanalyse.nl
 https://biosecurityselfscan.nl
@@ -287,6 +291,7 @@ https://commissievanaanbestedingsexperts.nl
 https://communicatierijk.nl
 https://compensationsns.nl
 https://connect-with.brabant.nl
+https://connect.ctgb.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://consexponano.nl
@@ -304,6 +309,7 @@ https://crm.cbi.eu
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
 https://csirtdsp.nl
+https://ctgb.nl
 https://dashboards.cbs.nl
 https://databestanden.cbs.nl
 https://dataderden.cbs.nl
@@ -335,6 +341,7 @@ https://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://drms.cibg.nl
 https://dva.belastingdienst.nl
+https://dwo.ctgb.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://efm.belastingdienst.nl
@@ -349,6 +356,7 @@ https://english.brabant.nl
 https://english.cbg-meb.nl
 https://english.cbgjaarverslag.nl
 https://english.ccmo.nl
+https://english.ctgb.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
@@ -419,24 +427,28 @@ https://feeds.commissiemijnbouwschade.nl
 https://feeds.commissievanaanbestedingsexperts.nl
 https://feeds.communicatierijk.nl
 https://feeds.compensationsns.nl
+https://feeds.ctgb.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
 https://feeds.english.bigregister.nl
 https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
+https://feeds.english.ctgb.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibz1.belastingdienst.nl
+https://filesender.ctgb.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://forms.klopt.cibg.nl
 https://formulieren.brabant.nl
+https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
 https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
@@ -450,6 +462,7 @@ https://geoportaal.brabant.nl
 https://geoportal.aaenmaas.nl
 https://georegister.brabant.nl
 https://geoservices.cbs.nl
+https://gewasbeschermingsmiddelen.ctgb.nl
 https://gisservices.aaenmaas.nl
 https://good.cbs.nl
 https://gpi.belastingdienst.nl
@@ -608,12 +621,14 @@ https://opendata.commissiemijnbouwschade.nl
 https://opendata.commissievanaanbestedingsexperts.nl
 https://opendata.communicatierijk.nl
 https://opendata.compensationsns.nl
+https://opendata.ctgb.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
 https://opendata.english.bigregister.nl
 https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
+https://opendata.english.ctgb.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://origin.api.contenttoolsrijksoverheid.nl
@@ -622,6 +637,8 @@ https://over-ons.belastingdienst.nl
 https://overzicht.cbs.nl
 https://ovverklaringen.belastingdienst.nl
 https://papiamentu.belastingdienst-cn.nl
+https://password.ctgb.nl
+https://pesticidesdatabase.ctgb.nl
 https://pgw.belastingdienst.nl
 https://pih.belastingdienst.nl
 https://pmm.belastingdienst.nl
@@ -629,6 +646,7 @@ https://poc1.bestandenpostbus.nl
 https://politieopendata.cbs.nl
 https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
+https://portaal.ctgb.nl
 https://portaal.digilevering.cibg.nl
 https://portal.cbs.nl
 https://prd.atlasleefomgeving.nl
@@ -640,6 +658,7 @@ https://profgeodata.static.basisinformatie-overstromingen.nl
 https://projecten.cbs.nl
 https://prototype.cibg.nl
 https://psarchief.brabant.nl
+https://public.mst.ctgb.nl
 https://publicaties.brabant.nl
 https://pushmail.awti.nl
 https://redactie-acc.cbs.nl
@@ -658,6 +677,7 @@ https://sbi.cbs.nl
 https://scheiden.belastingdienst.nl
 https://sdmx.cbs.nl
 https://services.belastingdienst.nl
+https://sf.ctgb.nl
 https://sharepoint.aaenmaas.nl
 https://signing.pre.brabant.nl
 https://smartsurveys.cbs.nl
@@ -684,8 +704,10 @@ https://test.cerberus.cbs.nl
 https://test.crisis.nl
 https://test.csirtdsp.nl
 https://test.resultaten.arbeidsinspectie.nl
+https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
 https://tmv.cibg.nl
+https://toelatingen.ctgb.nl
 https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
@@ -863,6 +885,7 @@ https://www.consexponano.nl
 https://www.contactpuntbouwproducten.nl
 https://www.crisis.nl
 https://www.csirtdsp.nl
+https://www.ctgb.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.historisch.cbs.nl
