@@ -6,16 +6,16 @@ a-feeds
 a-opendata
 a-www
 acc
+english
 test
+autodiscover
 a-english
 a-feeds.a-english
 a-opendata.a-english
-english
 feeds.english
 opendata.english
 acceptatie
 ontwikkel
-autodiscover
 av
 dialin
 eloket
@@ -60,3 +60,7 @@ feedback
 meldingen
 prd
 rivm
+pushmail
+rdgateway
+smtp
+smtp1

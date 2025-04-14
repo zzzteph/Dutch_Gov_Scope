@@ -46,8 +46,10 @@ https://atlasinfectieziekten.nl
 https://atlasleefomgeving.nl
 https://atlasnatuurlijkkapitaal.nl
 https://auditdienstrijk.nl
+https://autodiscover.awti.nl
 https://autoriteitnvs.nl
 https://avgregisterrijksoverheid.nl
+https://awti.nl
 https://b-acc.asbestvolgsysteem.nl
 https://bezwaar.atkm.nl
 https://chw.aandeslagmetdeomgevingswet.nl
@@ -57,6 +59,7 @@ https://eavgb.aivd.nl
 https://eloket.aaenmaas.nl
 https://english.aivd.nl
 https://english.autoriteitnvs.nl
+https://english.awti.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://feedback.atkm.nl
@@ -87,6 +90,7 @@ https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
+https://feeds.awti.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://geoportal.aaenmaas.nl
@@ -128,11 +132,15 @@ https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
+https://opendata.awti.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://prd.atlasleefomgeving.nl
 https://prod.asbestvolgsysteem.nl
+https://pushmail.awti.nl
 https://sharepoint.aaenmaas.nl
+https://smtp.awti.nl
+https://smtp1.awti.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
 https://vpn2.aaenmaas.nl
@@ -187,4 +195,5 @@ https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
+https://www.awti.nl
 https://zorgenwerknetwerk.arboportaal.nl

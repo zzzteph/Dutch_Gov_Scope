@@ -69,9 +69,11 @@ atlasleefomgeving.nl
 atlasnatuurlijkkapitaal.nl
 auditdienstrijk.nl
 autodiscover.aaenmaas.nl
+autodiscover.awti.nl
 autoriteitnvs.nl
 av.aaenmaas.nl
 avgregisterrijksoverheid.nl
+awti.nl
 b-acc.asbestvolgsysteem.nl
 bezwaar.atkm.nl
 chw.aandeslagmetdeomgevingswet.nl
@@ -81,6 +83,7 @@ eavgb.aivd.nl
 eloket.aaenmaas.nl
 english.aivd.nl
 english.autoriteitnvs.nl
+english.awti.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
 fbadmin-eopg-acc.aivd.nl
@@ -113,6 +116,7 @@ feeds.atkm.nl
 feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
+feeds.awti.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 geoportal.aaenmaas.nl
@@ -157,14 +161,19 @@ opendata.atkm.nl
 opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
+opendata.awti.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 outbound-eopg.aivd.nl
 prd.atlasleefomgeving.nl
 prod.asbestvolgsysteem.nl
+pushmail.awti.nl
+rdgateway.awti.nl
 rivm.atlasleefomgeving.nl
 sharepoint.aaenmaas.nl
 sip.aaenmaas.nl
+smtp.awti.nl
+smtp1.awti.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
@@ -225,5 +234,6 @@ www.auditdienstrijk.nl
 www.autoriteitnvs.nl
 www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
+www.awti.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 zorgenwerknetwerk.arboportaal.nl
