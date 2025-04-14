@@ -440,6 +440,7 @@ collabora.poc1.bestandenpostbus.nl
 collegevanrijksadviseurs.nl
 commissaris.brabant.nl
 commissiecelz.nl
+commissiemijnbouwschade.nl
 competent.cibg.nl
 conf.cbg-meb.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
@@ -643,6 +644,7 @@ feeds.circulairinkopen.nl
 feeds.codexalimentarius.nl
 feeds.collegevanrijksadviseurs.nl
 feeds.commissiecelz.nl
+feeds.commissiemijnbouwschade.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -970,6 +972,8 @@ mijndouane.str30.acc.belastingdienst.nl
 mijndouane.tst.belastingdienst.nl
 mijndouane2.acc.belastingdienst.nl
 mijndwb.belastingdienst.nl
+mijnloket-acc.commissiemijnbouwschade.nl
+mijnloket.commissiemijnbouwschade.nl
 mijnwerkplek.cbg-meb.nl
 mijnzakelijk-perf.acc.belastingdienst.nl
 mijnzakelijk.acc.belastingdienst.nl
@@ -1123,6 +1127,7 @@ opendata.circulairinkopen.nl
 opendata.codexalimentarius.nl
 opendata.collegevanrijksadviseurs.nl
 opendata.commissiecelz.nl
+opendata.commissiemijnbouwschade.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1711,6 +1716,7 @@ www.clusterbuster.nl
 www.codexalimentarius.nl
 www.collegevanrijksadviseurs.nl
 www.commissiecelz.nl
+www.commissiemijnbouwschade.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
