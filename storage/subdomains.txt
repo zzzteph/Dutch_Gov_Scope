@@ -5,6 +5,9 @@ _dmarc.cibg.nl
 _dmarc.cparegister.nl
 a-api.contenttoolsrijksoverheid.nl
 a-cms.contenttoolsrijksoverheid.nl
+a-cms.defensie.nl
+a-cms1.defensie.nl
+a-cms2.defensie.nl
 a-english.aivd.nl
 a-english.autoriteitnvs.nl
 a-english.bigregister.nl
@@ -12,12 +15,14 @@ a-english.cbg-meb.nl
 a-english.cbgjaarverslag.nl
 a-english.ctgb.nl
 a-english.ctivd.nl
+a-english.defensie.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
 a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
 a-feeds.a-english.ctivd.nl
+a-feeds.a-english.defensie.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -32,6 +37,8 @@ a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
 a-feeds.ctivd.nl
 a-feeds.cultuursubsidie.nl
+a-feeds.defensie.nl
+a-magazines.defensie.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -40,6 +47,7 @@ a-opendata.a-english.bigregister.nl
 a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
 a-opendata.a-english.ctivd.nl
+a-opendata.a-english.defensie.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -54,7 +62,10 @@ a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
 a-opendata.ctivd.nl
 a-opendata.cultuursubsidie.nl
+a-opendata.defensie.nl
 a-origin.api.contenttoolsrijksoverheid.nl
+a-site1.defensie.nl
+a-site2.defensie.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.antennebureau.nl
@@ -70,6 +81,7 @@ a-www.communicatierijk.nl
 a-www.ctgb.nl
 a-www.ctivd.nl
 a-www.cultuursubsidie.nl
+a-www.defensie.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -502,6 +514,11 @@ clusterbuster.nl
 cms.beeldkompas.nl
 cms.bureaubiosecurity.nl
 cms.contenttoolsrijksoverheid.nl
+cms.defensie.nl
+cms1.defensie.nl
+cms2.defensie.nl
+cmsdev.defensie.nl
+cmsvpn.defensie.nl
 cn.cbs.nl
 codexalimentarius.nl
 collabora.poc1.bestandenpostbus.nl
@@ -575,6 +592,7 @@ db.cbg-meb.nl
 dbpmo.belastingdienst.nl
 dcc-ienw.nl
 dcp-time-slot.cbg-meb.nl
+defensie.nl
 delta.belastingdienst.nl
 demo.bronhouderportaal-bro.nl
 designsystem.cbs.nl
@@ -619,6 +637,7 @@ dwo.ctgb.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
 ebms.cbs.nl
+editorial.defensie.nl
 efm.belastingdienst.nl
 egain-com.cbs.nl
 eherkenning.services.cibg.nl
@@ -642,6 +661,7 @@ english.ctgb.nl
 english.ctivd.nl
 english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
+english.defensie.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
@@ -761,6 +781,7 @@ feeds.cybersecuritycouncil.nl
 feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
 feeds.dcc-ienw.nl
+feeds.defensie.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -770,6 +791,7 @@ feeds.english.ccmo.nl
 feeds.english.ctgb.nl
 feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
+feeds.english.defensie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -898,6 +920,7 @@ gtmz.str14.acc.belastingdienst.nl
 gtmzperf.acc.belastingdienst.nl
 gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
+gw.defensie.nl
 hcib.datawonen.nl
 helloid.aaenmaas.nl
 helpdesk.brba.nl
@@ -914,6 +937,10 @@ huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
 hybrid.brabant.nl
 hybridexo.cbs.nl
+i-cms.defensie.nl
+i-cms1.defensie.nl
+i-site1.defensie.nl
+i-www.defensie.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
 ibw.datawonen.nl
@@ -1015,6 +1042,7 @@ m365.ctgb.nl
 magazines.algemenebestuursdienst.nl
 magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
+magazines.defensie.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.bodemvizier.nl
@@ -1164,6 +1192,7 @@ monumentenregister.cultureelerfgoed.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
+mrt.defensie.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
 mst-acc.ctgb.nl
@@ -1194,6 +1223,7 @@ nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcohortonderzoek.cbs.nl
 ncp-api-1.ccmo.nl
 nieuws.brabant.nl
+nimh-beeldbank.defensie.nl
 noaa.cultureelerfgoed.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
@@ -1202,6 +1232,10 @@ ns3.belastingdienst.nl
 ns3.brabant.nl
 ns4.belastingdienst.nl
 ns4.brabant.nl
+o-cms.defensie.nl
+o-cms1.defensie.nl
+o-site1.defensie.nl
+o-www.defensie.nl
 o1-api.contenttoolsrijksoverheid.nl
 o1-cms.contenttoolsrijksoverheid.nl
 o1-next-cms.contenttoolsrijksoverheid.nl
@@ -1324,6 +1358,7 @@ opendata.cybersecuritycouncil.nl
 opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
 opendata.dcc-ienw.nl
+opendata.defensie.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1333,6 +1368,7 @@ opendata.english.ccmo.nl
 opendata.english.ctgb.nl
 opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
+opendata.english.defensie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -1528,6 +1564,10 @@ sip.aaenmaas.nl
 sip.cbg-meb.nl
 sipreg.belastingdienst.nl
 sis.brabant.nl
+site1.defensie.nl
+site2.defensie.nl
+site3.defensie.nl
+site4.defensie.nl
 slechtvalk.brabant.nl
 sltn.bzv.brabant.nl
 smartsurveys.cbs.nl
@@ -1551,6 +1591,7 @@ specials.brabant.nl
 splunksyslog.dmz.belastingdienst.nl
 ssh.cbs.nl
 ssl-vpn.brabant.nl
+ssl.defensie.nl
 sso-acc-tno.bronhouderportaal-bro.nl
 sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
@@ -1586,9 +1627,13 @@ sva-mix.prod.belastingdienst.nl
 sva.prod.belastingdienst.nl
 t-api.contenttoolsrijksoverheid.nl
 t-cms.contenttoolsrijksoverheid.nl
+t-cms.defensie.nl
+t-cms1.defensie.nl
 t-next-cms.contenttoolsrijksoverheid.nl
 t-old-cms.contenttoolsrijksoverheid.nl
+t-site1.defensie.nl
 t-test.belastingdienst.nl
+t-www.defensie.nl
 t.cultureelerfgoed.nl
 taxonomie.cbs.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
@@ -1990,6 +2035,7 @@ www.dataportaal.brabant.nl
 www.datavoorgezondheid.nl
 www.datawonen.nl
 www.dcc-ienw.nl
+www.defensie.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl

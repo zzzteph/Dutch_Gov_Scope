@@ -366,6 +366,7 @@ https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://dcc-ienw.nl
 https://dcp-time-slot.cbg-meb.nl
+https://defensie.nl
 https://delta.belastingdienst.nl
 https://demo.bronhouderportaal-bro.nl
 https://designsystem.cbs.nl
@@ -404,6 +405,7 @@ https://english.ccmo.nl
 https://english.ctgb.nl
 https://english.ctivd.nl
 https://english.cultureelerfgoed.nl
+https://english.defensie.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
@@ -487,6 +489,7 @@ https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
 https://feeds.datavoorgezondheid.nl
 https://feeds.dcc-ienw.nl
+https://feeds.defensie.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -496,6 +499,7 @@ https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
 https://feeds.english.ctivd.nl
 https://feeds.english.cultureelerfgoed.nl
+https://feeds.english.defensie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -535,6 +539,7 @@ https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
 https://gtmz.belastingdienst.nl
+https://gw.defensie.nl
 https://hcib.datawonen.nl
 https://helloid.aaenmaas.nl
 https://helpdesk.brba.nl
@@ -587,6 +592,7 @@ https://lyncdiscover.aaenmaas.nl
 https://magazines.algemenebestuursdienst.nl
 https://magazines.cultureelerfgoed.nl
 https://magazines.cybersecurityraad.nl
+https://magazines.defensie.nl
 https://mail.cggp.nl
 https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
 https://manager.klopt.cibg.nl
@@ -633,6 +639,7 @@ https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://nationaalcohortonderzoek.cbs.nl
 https://nieuws.brabant.nl
+https://nimh-beeldbank.defensie.nl
 https://noaa.cultureelerfgoed.nl
 https://oa.aaenmaas.nl
 https://odata.cbs.nl
@@ -713,6 +720,7 @@ https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
 https://opendata.datavoorgezondheid.nl
 https://opendata.dcc-ienw.nl
+https://opendata.defensie.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -722,6 +730,7 @@ https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
 https://opendata.english.ctivd.nl
 https://opendata.english.cultureelerfgoed.nl
+https://opendata.english.defensie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://origin.api.contenttoolsrijksoverheid.nl
@@ -1008,6 +1017,7 @@ https://www.dataportaal.brabant.nl
 https://www.datavoorgezondheid.nl
 https://www.datawonen.nl
 https://www.dcc-ienw.nl
+https://www.defensie.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl
