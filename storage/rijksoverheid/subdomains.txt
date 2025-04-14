@@ -273,6 +273,7 @@ brm-test.belastingdienst.nl
 brm.belastingdienst.nl
 brmrest-test.belastingdienst.nl
 bromonitor.nl
+bron.nl
 brp-test.belastingdienst.nl
 brp.belastingdienst.nl
 btube.belastingdienst.nl
@@ -651,6 +652,7 @@ mijn.belastingdienst-cn.nl
 mijn.belastingdienst.nl
 mijn.bigregister.nl
 mijn.bofeb.nl
+mijn.bron.nl
 mijn.ont.belastingdienst.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -1268,6 +1270,7 @@ www.braic.nl
 www.brba.nl
 www.brienenoordbrug.nl
 www.bromonitor.nl
+www.bron.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
 www.kaarten.brabant.nl
