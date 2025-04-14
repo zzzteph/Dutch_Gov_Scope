@@ -270,6 +270,7 @@ autodiscover.contactpuntbouwproducten.nl
 autodiscover.ctgb.nl
 autodiscover.ctivd.nl
 autodiscover.cultureelerfgoed.nl
+autodiscover.cvte.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -545,6 +546,7 @@ ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
 cultureelerfgoed.nl
 cultuursubsidie.nl
+cvte.nl
 dagstaatmonitors.brabant.nl
 dashboards.cbs.nl
 data.cultureelerfgoed.nl
@@ -662,6 +664,7 @@ evenementen.belastingdienst.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
+examenplein.cvte.nl
 extern-abv-acc.belastingdienst.nl
 externemail.ctgb.nl
 extgmea02.ss.belastingdienst.nl
@@ -740,6 +743,7 @@ feeds.ctivd.nl
 feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
+feeds.cvte.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1292,6 +1296,7 @@ opendata.ctivd.nl
 opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
+opendata.cvte.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1946,6 +1951,7 @@ www.ctivd.nl
 www.ctpveldzicht.nl
 www.cultureelerfgoed.nl
 www.cultuursubsidie.nl
+www.cvte.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
