@@ -11,9 +11,9 @@ acc
 autodiscover
 feeds.english
 opendata.english
+acceptatie
 mijn
 a-english
-acceptatie
 mail
 a-feeds.a-english
 a-opendata.a-english
@@ -1287,3 +1287,4 @@ uzipas.lir
 webchat.klopt
 webservices.lrza
 www2.zorgcsp
+www.acceptatie
