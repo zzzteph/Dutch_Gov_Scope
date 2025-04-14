@@ -28,6 +28,7 @@ ns4
 vpn
 webservices
 zoeken
+mail
 av
 dialin
 eloket
@@ -858,7 +859,6 @@ beheer
 tea
 acceptatie.zoek
 zoek
-mail
 acs-acpt
 acs
 api-acpt
@@ -1026,3 +1026,6 @@ sso
 uptime
 www.zoekeentolkvertaler
 zoekeentolkvertaler
+ws-acc
+ws
+www.mail
