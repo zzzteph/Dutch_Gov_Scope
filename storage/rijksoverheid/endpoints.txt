@@ -7,6 +7,7 @@ http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://detoekomstbegintnu.brabant.nl
 http://informatie-rws.brabant.nl
+http://keiko.brba.nl
 http://longread.brabant.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://pwa001.belastingdienst.nl
@@ -19,6 +20,9 @@ http://specials.brabant.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.bestandenpostbus.nl
 http://torenvalk.brabant.nl
+http://uzi.acc.brba.nl
+http://uzi.brba.nl
+http://uzi.test.brba.nl
 http://videoserver2.brabant.nl
 http://voi.brabant.nl
 http://www.bacterial-meningitis.nl
@@ -138,6 +142,7 @@ https://brainps.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
 https://brba.eu
+https://brba.nl
 https://bvs.belastingdienst.nl
 https://bzv-a.brabant.nl
 https://bzv.brabant.nl
@@ -254,6 +259,7 @@ https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
 https://gtmz.belastingdienst.nl
 https://helloid.aaenmaas.nl
+https://helpdesk.brba.nl
 https://huisstijl.belastingdienst.nl
 https://id.brabant.nl
 https://incassomachtigen.belastingdienst.nl
@@ -385,6 +391,9 @@ https://vepvod.vcdn.belastingdienst.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
 https://videobellen.belastingdienst.nl
+https://viep.acc.brba.nl
+https://viep.brba.nl
+https://viep.test.brba.nl
 https://vinden.belastingdienst.nl
 https://vpn.brabant.nl
 https://vpn2.aaenmaas.nl
@@ -393,6 +402,8 @@ https://vtsd.belastingdienst.nl
 https://wachtwoord.brabant.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
+https://web.acc.brba.nl
+https://web.test.brba.nl
 https://web01.aaninhetdonker.nl
 https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
@@ -483,6 +494,7 @@ https://www.bodemvizier.nl
 https://www.bofeb.nl
 https://www.brabant.nl
 https://www.braic.nl
+https://www.brba.nl
 https://www.dataportaal.brabant.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
