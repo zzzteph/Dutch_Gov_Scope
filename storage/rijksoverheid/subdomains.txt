@@ -54,6 +54,8 @@ acc.avgregisterrijksoverheid.nl
 acc.bcld-config.nl
 acc.bestandenpostbus.nl
 acc.bromonitor.nl
+acc.bronhouderportaal-bro.nl
+acc2.bronhouderportaal-bro.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
 acceptatie.atlasleefomgeving.nl
@@ -272,9 +274,12 @@ brienenoordbrug.nl
 brm-test.belastingdienst.nl
 brm.belastingdienst.nl
 brmrest-test.belastingdienst.nl
+broker-preprod.bronhouderportaal-bro.nl
+broker.bronhouderportaal-bro.nl
 bromonitor.nl
 bron.nl
 bronbeek.nl
+bronhouderportaal-bro.nl
 brp-test.belastingdienst.nl
 brp.belastingdienst.nl
 btube.belastingdienst.nl
@@ -320,6 +325,7 @@ dataservice.basisinformatie-overstromingen.nl
 datumprikker.belastingdienst.nl
 dbpmo.belastingdienst.nl
 delta.belastingdienst.nl
+demo.bronhouderportaal-bro.nl
 detoekomstbegintnu.brabant.nl
 dialin.aaenmaas.nl
 digicheck.brabant.nl
@@ -331,6 +337,8 @@ digipoort-wus.belastingdienst.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 dns.belastingdienst.nl
+doc-acc.bronhouderportaal-bro.nl
+doc.bronhouderportaal-bro.nl
 docs.brba.eu
 download.belastingdienst.nl
 dpe.belastingdienst.nl
@@ -581,6 +589,7 @@ informatie-ext.brabant.nl
 informatie-rws.brabant.nl
 inkoopportaal.belastingdienst.nl
 instroom.belastingdienst.nl
+int.bronhouderportaal-bro.nl
 intermediairdagen.belastingdienst.nl
 intranet.belastingdienst.nl
 intratst.belastingdienst.nl
@@ -891,6 +900,7 @@ portaal.belastingdienst.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
 prd.atlasleefomgeving.nl
+pre.bronhouderportaal-bro.nl
 preprod-kvk.belastingdienst.nl
 presenteren.ont.belastingdienst.nl
 prod-kvk.belastingdienst.nl
@@ -931,6 +941,8 @@ sa-conf.belastingdienst.nl
 sa-ota.belastingdienst.nl
 sa-tst.belastingdienst.nl
 sa.belastingdienst.nl
+sad-acc.bronhouderportaal-bro.nl
+sad.bronhouderportaal-bro.nl
 sadp.acc.belastingdienst.nl
 sadp.belastingdienst.nl
 samenwerken.brabant.nl
@@ -985,6 +997,13 @@ specials-acpt.brabant.nl
 specials.brabant.nl
 splunksyslog.dmz.belastingdienst.nl
 ssl-vpn.brabant.nl
+sso-acc-tno.bronhouderportaal-bro.nl
+sso-acc1.bronhouderportaal-bro.nl
+sso-acc2.bronhouderportaal-bro.nl
+sso-demo.bronhouderportaal-bro.nl
+sso-int.bronhouderportaal-bro.nl
+sso-test.bronhouderportaal-bro.nl
+sso.bronhouderportaal-bro.nl
 stadvanced.belastingdienst.nl
 start.belastingdienst.nl
 startformulier.brabant.nl
@@ -1008,6 +1027,7 @@ test.belastingdienst-cn.nl
 test.bestandenpostbus.nl
 test.bodemloket.nl
 test.bromonitor.nl
+test.bronhouderportaal-bro.nl
 test.resultaten.arbeidsinspectie.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
@@ -1273,6 +1293,7 @@ www.brienenoordbrug.nl
 www.bromonitor.nl
 www.bron.nl
 www.bronbeek.nl
+www.bronhouderportaal-bro.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
 www.kaarten.brabant.nl

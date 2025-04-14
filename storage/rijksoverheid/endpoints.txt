@@ -47,6 +47,8 @@ https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
 https://acc.bestandenpostbus.nl
 https://acc.bromonitor.nl
+https://acc.bronhouderportaal-bro.nl
+https://acc2.bronhouderportaal-bro.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.behandel.bigregister.nl
@@ -145,9 +147,12 @@ https://brains.brabant.nl
 https://brba.eu
 https://brba.nl
 https://brienenoordbrug.nl
+https://broker-preprod.bronhouderportaal-bro.nl
+https://broker.bronhouderportaal-bro.nl
 https://bromonitor.nl
 https://bron.nl
 https://bronbeek.nl
+https://bronhouderportaal-bro.nl
 https://bvs.belastingdienst.nl
 https://bzv-a.brabant.nl
 https://bzv.brabant.nl
@@ -165,8 +170,11 @@ https://dataportaal.brabant.nl
 https://dataservice.basisinformatie-overstromingen.nl
 https://datumprikker.belastingdienst.nl
 https://delta.belastingdienst.nl
+https://demo.bronhouderportaal-bro.nl
 https://dialin.aaenmaas.nl
 https://digicheck.brabant.nl
+https://doc-acc.bronhouderportaal-bro.nl
+https://doc.bronhouderportaal-bro.nl
 https://docs.brba.eu
 https://download.belastingdienst.nl
 https://draf-acpt.brabant.nl
@@ -380,6 +388,8 @@ https://signing.pre.brabant.nl
 https://smtp.awti.nl
 https://smtp1.awti.nl
 https://sorry.belastingdienst.nl
+https://sso-acc-tno.bronhouderportaal-bro.nl
+https://sso-acc2.bronhouderportaal-bro.nl
 https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
 https://stubs.tst.belastingdienst.nl
@@ -504,6 +514,7 @@ https://www.brba.nl
 https://www.brienenoordbrug.nl
 https://www.bromonitor.nl
 https://www.bronbeek.nl
+https://www.bronhouderportaal-bro.nl
 https://www.dataportaal.brabant.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
