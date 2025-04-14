@@ -32,6 +32,14 @@ https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
 https://acc.bestandenpostbus.nl
+https://acceptatie.advieswijzer.bigregister.nl
+https://acceptatie.api.bigregister.nl
+https://acceptatie.behandel.bigregister.nl
+https://acceptatie.beheer.bigregister.nl
+https://acceptatie.mijn.bigregister.nl
+https://acceptatie.tea.bigregister.nl
+https://acceptatie.webservices.bigregister.nl
+https://acceptatie.zoeken.bigregister.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adviescollegeicttoetsing.nl
 https://adviescollegeregeldruk.nl
@@ -39,6 +47,7 @@ https://adviescollegeveiligheidgroningen.nl
 https://adviescommissievolkenrecht.nl
 https://adviesraadinternationalevraagstukken.nl
 https://adviesraadmigratie.nl
+https://advieswijzer.bigregister.nl
 https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
 https://aeriusproducten.nl
@@ -73,6 +82,8 @@ https://basisinformatie-overstromingen.nl
 https://basisregistratieondergrond.nl
 https://beeldbankbelastingdienst.nl
 https://beeldkompas.nl
+https://behandel.bigregister.nl
+https://beheer.bigregister.nl
 https://beheerautoriteitwaddenzee.nl
 https://belastingdienst-academie.nl
 https://belastingdienst-cn.nl
@@ -89,6 +100,7 @@ https://betalen.belastingdienst.nl
 https://bewerken-acc.bestandenpostbus.nl
 https://bewerken.bestandenpostbus.nl
 https://bezwaar.atkm.nl
+https://bigregister.nl
 https://bvs.belastingdienst.nl
 https://cciwebstats.belastingdienst.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
@@ -110,6 +122,7 @@ https://english.aivd.nl
 https://english.autoriteitnvs.nl
 https://english.awti.nl
 https://english.belastingdienst-cn.nl
+https://english.bigregister.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://eubtw.belastingdienst.nl
@@ -151,9 +164,11 @@ https://feeds.awti.nl
 https://feeds.beheerautoriteitwaddenzee.nl
 https://feeds.belastingdienst-cn.nl
 https://feeds.beschermdecultuurgoederen.nl
+https://feeds.bigregister.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
+https://feeds.english.bigregister.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -194,6 +209,7 @@ https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
 https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
+https://mijn.bigregister.nl
 https://mijndouane.belastingdienst.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mm.belastingdienst.nl
@@ -240,9 +256,11 @@ https://opendata.awti.nl
 https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.belastingdienst-cn.nl
 https://opendata.beschermdecultuurgoederen.nl
+https://opendata.bigregister.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
+https://opendata.english.bigregister.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://over-ons.belastingdienst.nl
@@ -270,6 +288,7 @@ https://smtp.awti.nl
 https://smtp1.awti.nl
 https://sorry.belastingdienst.nl
 https://stubs.tst.belastingdienst.nl
+https://tea.bigregister.nl
 https://test.belastingdienst-cn.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
@@ -293,6 +312,7 @@ https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
+https://webservices.bigregister.nl
 https://website.belastingdienst.nl
 https://werken.belastingdienst.nl
 https://wms.aanpakringzuid.nl
@@ -360,7 +380,9 @@ https://www.beschermdecultuurgoederen.nl
 https://www.bestandenpostbus.nl
 https://www.bezwaarschriftenocw.nl
 https://www.big-register.nl
+https://www.bigregister.nl
 https://www.werken.belastingdienst.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
+https://zoeken.bigregister.nl
 https://zorgenwerknetwerk.arboportaal.nl
