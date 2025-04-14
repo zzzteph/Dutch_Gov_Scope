@@ -76,8 +76,10 @@ avgregisterrijksoverheid.nl
 awti.nl
 b-acc.asbestvolgsysteem.nl
 bacterial-meningitis.nl
+basisinformatie-overstromingen.nl
 bezwaar.atkm.nl
 chw.aandeslagmetdeomgevingswet.nl
+dataservice.basisinformatie-overstromingen.nl
 dialin.aaenmaas.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
@@ -120,6 +122,7 @@ feeds.avghelpdeskzorg.nl
 feeds.awti.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
+geodata.basisinformatie-overstromingen.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
 helloid.aaenmaas.nl
@@ -168,6 +171,9 @@ opendata.english.autoriteitnvs.nl
 outbound-eopg.aivd.nl
 prd.atlasleefomgeving.nl
 prod.asbestvolgsysteem.nl
+professional.basisinformatie-overstromingen.nl
+profgeodata.dynamic.basisinformatie-overstromingen.nl
+profgeodata.static.basisinformatie-overstromingen.nl
 pushmail.awti.nl
 rdgateway.awti.nl
 rivm.atlasleefomgeving.nl
@@ -237,5 +243,6 @@ www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
 www.awti.nl
 www.bacterial-meningitis.nl
+www.basisinformatie-overstromingen.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 zorgenwerknetwerk.arboportaal.nl

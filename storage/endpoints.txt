@@ -53,8 +53,10 @@ https://autoriteitnvs.nl
 https://avgregisterrijksoverheid.nl
 https://awti.nl
 https://b-acc.asbestvolgsysteem.nl
+https://basisinformatie-overstromingen.nl
 https://bezwaar.atkm.nl
 https://chw.aandeslagmetdeomgevingswet.nl
+https://dataservice.basisinformatie-overstromingen.nl
 https://dialin.aaenmaas.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
@@ -95,6 +97,7 @@ https://feeds.avghelpdeskzorg.nl
 https://feeds.awti.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
+https://geodata.basisinformatie-overstromingen.nl
 https://geoportal.aaenmaas.nl
 https://gisservices.aaenmaas.nl
 https://helloid.aaenmaas.nl
@@ -139,6 +142,9 @@ https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://prd.atlasleefomgeving.nl
 https://prod.asbestvolgsysteem.nl
+https://professional.basisinformatie-overstromingen.nl
+https://profgeodata.dynamic.basisinformatie-overstromingen.nl
+https://profgeodata.static.basisinformatie-overstromingen.nl
 https://pushmail.awti.nl
 https://sharepoint.aaenmaas.nl
 https://smtp.awti.nl
@@ -198,4 +204,5 @@ https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
 https://www.awti.nl
+https://www.basisinformatie-overstromingen.nl
 https://zorgenwerknetwerk.arboportaal.nl

@@ -64,3 +64,8 @@ pushmail
 rdgateway
 smtp
 smtp1
+dataservice
+geodata
+professional
+profgeodata.dynamic
+profgeodata.static
