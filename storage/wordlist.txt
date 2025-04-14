@@ -12,11 +12,11 @@ mijn
 autodiscover
 feeds.english
 opendata.english
+api
 a-english
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
-api
 sharepoint
 webmail
 ontwikkel
