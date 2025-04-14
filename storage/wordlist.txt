@@ -4,9 +4,9 @@ opendata
 feeds
 a-www
 test
+english
 a-feeds
 a-opendata
-english
 acc
 feeds.english
 opendata.english
@@ -25,6 +25,7 @@ webmail
 prod
 ontwikkel
 intranet
+portaal
 webservices
 zoeken
 beeldbank
@@ -47,7 +48,6 @@ govroam
 ns2
 ns3
 ns4
-portaal
 vc
 acceptatie.behandel
 acceptatie.beheer
