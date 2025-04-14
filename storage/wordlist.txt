@@ -7,8 +7,8 @@ a-www
 a-feeds
 a-opendata
 english
-autodiscover
 acc
+autodiscover
 feeds.english
 opendata.english
 mail
@@ -1420,3 +1420,4 @@ www.monumentenregister
 www.test.monumentenregister
 www.veilig
 examenplein
+api-acc

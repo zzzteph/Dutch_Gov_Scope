@@ -108,6 +108,7 @@ acc.client.archis.cultureelerfgoed.nl
 acc.consexponano.nl
 acc.cparegister.nl
 acc.csirtdsp.nl
+acc.dashboardgroningen.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 acc.gml.map.services.cultureelerfgoed.nl
 acc.monumentenregister.cultureelerfgoed.nl
@@ -218,6 +219,7 @@ apdnsa03.dmz.belastingdienst.nl
 apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
+api-acc.dashboardgroningen.nl
 api-acpt.brabant.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
@@ -226,6 +228,7 @@ api.bigregister.nl
 api.brabant.nl
 api.caelus-tool.nl
 api.contenttoolsrijksoverheid.nl
+api.dashboardgroningen.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
@@ -550,6 +553,7 @@ cvte.nl
 cybersecuritycouncil.nl
 cybersecurityraad.nl
 dagstaatmonitors.brabant.nl
+dashboardgroningen.nl
 dashboards.cbs.nl
 data.cultureelerfgoed.nl
 data.geo.cultureelerfgoed.nl
@@ -1961,6 +1965,7 @@ www.cultuursubsidie.nl
 www.cvte.nl
 www.cybersecuritycouncil.nl
 www.cybersecurityraad.nl
+www.dashboardgroningen.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
