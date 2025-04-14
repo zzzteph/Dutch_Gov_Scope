@@ -484,6 +484,7 @@ cparegister.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
 cptst.vcdn.belastingdienst.nl
+crisis.nl
 crm.cbi.eu
 crmacc.cbi.eu
 crmtest.cbi.eu
@@ -1441,6 +1442,7 @@ test.cerberus.cbs.nl
 test.chemischestoffengoedgeregeld.nl
 test.cibg.nl
 test.contactpuntbouwproducten.nl
+test.crisis.nl
 test.digikoppeling.cibg.nl
 test.ebms.cbs.nl
 test.publicwebservices.cibg.nl
@@ -1783,6 +1785,7 @@ www.community-gatewayreview.nl
 www.compensationsns.nl
 www.consexponano.nl
 www.contactpuntbouwproducten.nl
+www.crisis.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
