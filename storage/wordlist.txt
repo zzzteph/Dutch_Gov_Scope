@@ -6,8 +6,8 @@ a-feeds
 a-opendata
 a-www
 acc
-english
 test
+english
 autodiscover
 feeds.english
 opendata.english
@@ -838,3 +838,9 @@ zta-ont
 zta-ota
 zta
 old
+bewerken-acc
+bewerken-test
+bewerken
+collabora.poc1
+poc
+poc1

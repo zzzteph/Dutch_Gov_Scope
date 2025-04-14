@@ -9,6 +9,7 @@ http://samenwerkruimten.belastingdienst.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://test.atlasnatuurlijkkapitaal.nl
+http://test.bestandenpostbus.nl
 http://www.bacterial-meningitis.nl
 https://100aardgasvrijewijken.nl
 https://a2vonderenkerensheide.nl
@@ -29,6 +30,7 @@ https://academyforinternationalrelations.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
+https://acc.bestandenpostbus.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adviescollegeicttoetsing.nl
 https://adviescollegeregeldruk.nl
@@ -79,9 +81,12 @@ https://benchmarkenindepubliekesector.nl
 https://beoordelingarbeidsrelatie.nl
 https://beoordelingscommissiedopingzaken.nl
 https://beschermdecultuurgoederen.nl
+https://bestandenpostbus.nl
 https://beta.belastingdienst.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
+https://bewerken-acc.bestandenpostbus.nl
+https://bewerken.bestandenpostbus.nl
 https://bezwaar.atkm.nl
 https://bvs.belastingdienst.nl
 https://cciwebstats.belastingdienst.nl
@@ -245,6 +250,7 @@ https://papiamentu.belastingdienst-cn.nl
 https://pgw.belastingdienst.nl
 https://pih.belastingdienst.nl
 https://pmm.belastingdienst.nl
+https://poc1.bestandenpostbus.nl
 https://portaal.belastingdienst.nl
 https://prd.atlasleefomgeving.nl
 https://prod.asbestvolgsysteem.nl
@@ -350,6 +356,7 @@ https://www.benchmarkenindepubliekesector.nl
 https://www.beoordelingarbeidsrelatie.nl
 https://www.beoordelingscommissiedopingzaken.nl
 https://www.beschermdecultuurgoederen.nl
+https://www.bestandenpostbus.nl
 https://www.werken.belastingdienst.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
