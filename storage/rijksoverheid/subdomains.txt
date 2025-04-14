@@ -50,6 +50,7 @@ antennebureau.nl
 arbeidsmigratieingoedebanen.nl
 arboportaal.nl
 asbestvolgsysteem.nl
+asbestvrijdak.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
 b-acc.asbestvolgsysteem.nl
@@ -85,6 +86,7 @@ feeds.animalfreeinnovationtpi.nl
 feeds.antennebureau.nl
 feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
+feeds.asbestvrijdak.nl
 feeds.english.aivd.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
@@ -120,6 +122,7 @@ opendata.animalfreeinnovationtpi.nl
 opendata.antennebureau.nl
 opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
+opendata.asbestvrijdak.nl
 opendata.english.aivd.nl
 outbound-eopg.aivd.nl
 prod.asbestvolgsysteem.nl
@@ -174,5 +177,6 @@ www.arbeidsinspectie.nl
 www.arbeidsmigratieingoedebanen.nl
 www.arboportaal.nl
 www.asbestvolgsysteem.nl
+www.asbestvrijdak.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 zorgenwerknetwerk.arboportaal.nl
