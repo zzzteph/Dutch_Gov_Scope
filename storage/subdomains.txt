@@ -132,6 +132,7 @@ acc.translate.services.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
 acc2.bronhouderportaal-bro.nl
 accebms.cbs.nl
+acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
@@ -140,9 +141,11 @@ acceptatie.archis.cultureelerfgoed.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.behandel.bigregister.nl
+acceptatie.behandel.dezi.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.isms.cibg.nl
 acceptatie.beheer.bigregister.nl
+acceptatie.beheer.dezi.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.beheer.lir.cibg.nl
 acceptatie.beheer.lrza.cibg.nl
@@ -164,6 +167,7 @@ acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
+acceptatie.mijn.dezi.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.publicwebservices-dcr.cibg.nl
@@ -602,6 +606,7 @@ designsystem.cibg.nl
 desktop.klopt.cibg.nl
 detoekomstbegintnu.brabant.nl
 dev.cerberus.cbs.nl
+dezi.nl
 dfg.datawonen.nl
 dialin.aaenmaas.nl
 digicheck.brabant.nl
@@ -793,6 +798,7 @@ feeds.defensie.nl
 feeds.deltaprogramma.nl
 feeds.denkdoeduurzaam.nl
 feeds.deutsch.postedworkers.nl
+feeds.dezi.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1375,6 +1381,7 @@ opendata.defensie.nl
 opendata.deltaprogramma.nl
 opendata.denkdoeduurzaam.nl
 opendata.deutsch.postedworkers.nl
+opendata.dezi.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2055,6 +2062,7 @@ www.dcc-ienw.nl
 www.defensie.nl
 www.deltaprogramma.nl
 www.denkdoeduurzaam.nl
+www.dezi.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl

@@ -46,6 +46,9 @@ ns3
 ns4
 portaal
 webservices
+acceptatie.behandel
+acceptatie.beheer
+acceptatie.mijn
 acceptatie.zoeken
 dataportaal
 kaarten
@@ -864,9 +867,6 @@ poc
 poc1
 acceptatie.advieswijzer
 acceptatie.api
-acceptatie.behandel
-acceptatie.beheer
-acceptatie.mijn
 acceptatie.tea
 acceptatie.webservices
 advieswijzer
@@ -1468,3 +1468,4 @@ dp2024
 dp2025
 feeds.deutsch
 opendata.deutsch
+acceptatie.abonnee
