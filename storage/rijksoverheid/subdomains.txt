@@ -158,6 +158,7 @@ acc.translate.services.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
 acc2.bronhouderportaal-bro.nl
 accebms.cbs.nl
+accept.digitaleoverheid.nl
 acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
@@ -696,6 +697,7 @@ digipoort-wus.belastingdienst.nl
 digitaalstelselmobiliteitsdata.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
+digitaleoverheid.nl
 dkb.dictu.nl
 dmzntp1.dictu.nl
 dns.belastingdienst.nl
@@ -1202,6 +1204,8 @@ lyncdiscover.aaenmaas.nl
 lyncmeet.dictu.nl
 lyncwebapps.dictu.nl
 m365.ctgb.nl
+magazine-en.digitaleoverheid.nl
+magazine-nl.digitaleoverheid.nl
 magazines.algemenebestuursdienst.nl
 magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
@@ -1905,6 +1909,7 @@ test.csirtdsp.nl
 test.cultureelerfgoed.nl
 test.dictu.nl
 test.digikoppeling.cibg.nl
+test.digitaleoverheid.nl
 test.ebms.cbs.nl
 test.geoservices.cultureelerfgoed.nl
 test.intranet-demo.dictu.nl
@@ -2032,6 +2037,7 @@ viep.acc.brba.nl
 viep.brba.nl
 viep.test.brba.nl
 vinden.belastingdienst.nl
+visieopidentiteit.digitaleoverheid.nl
 vocabs.cbs.nl
 voi.brabant.nl
 vois.datawonen.nl
@@ -2332,11 +2338,14 @@ www.dictumagazines.nl
 www.dienstterugkeerenvertrek.nl
 www.diergeneesmiddeleninformatiebank.nl
 www.digitaalstelselmobiliteitsdata.nl
+www.digitaleoverheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
+www.magazine-en.digitaleoverheid.nl
+www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.netftp.dictu.nl

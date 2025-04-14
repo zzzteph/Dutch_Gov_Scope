@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-a-www
 test
+a-www
 english
 a-feeds
 a-opendata
@@ -1696,3 +1696,9 @@ www.prod-nl-nvwa-dkb-sign
 www.tpaw
 www.tvs
 www.vt016ed
+accept
+magazine-en
+magazine-nl
+visieopidentiteit
+www.magazine-en
+www.magazine-nl
