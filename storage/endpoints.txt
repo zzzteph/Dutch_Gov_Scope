@@ -29,6 +29,8 @@ http://c-pki.extranet.dictu.nl
 http://cev.nl
 http://chat.cbs.nl
 http://detoekomstbegintnu.brabant.nl
+http://eagle-acc.dji.nl
+http://eagle.dji.nl
 http://geoservices2.cbs.nl
 http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
@@ -356,8 +358,10 @@ https://commissiemijnbouwschade.nl
 https://commissievanaanbestedingsexperts.nl
 https://communicatierijk.nl
 https://compensationsns.nl
+https://connect-acpt.dji.nl
 https://connect-with.brabant.nl
 https://connect.ctgb.nl
+https://connect.dji.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://consexponano.nl
@@ -424,6 +428,7 @@ https://digitaalstelselmobiliteitsdata.nl
 https://digitaleoverheid.nl
 https://dihoo.eu
 https://dihoo.nl
+https://dji.nl
 https://doc-acc.bronhouderportaal-bro.nl
 https://doc.bronhouderportaal-bro.nl
 https://docs.brba.eu
@@ -438,8 +443,10 @@ https://dp2024.deltaprogramma.nl
 https://dp2025.deltaprogramma.nl
 https://draf-acpt.brabant.nl
 https://draf.brabant.nl
+https://drife-f.dji.nl
 https://drms.cibg.nl
 https://dva.belastingdienst.nl
+https://dvfz.dji.nl
 https://dwo.ctgb.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
@@ -557,6 +564,7 @@ https://feeds.dienstterugkeerenvertrek.nl
 https://feeds.digitaalstelselmobiliteitsdata.nl
 https://feeds.dihoo.eu
 https://feeds.dihoo.nl
+https://feeds.dji.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -588,6 +596,7 @@ https://formulieren.brabant.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
+https://ftp.dji.nl
 https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
 https://gdlo.belastingdienst.nl
@@ -638,6 +647,7 @@ https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intranet-demo.dictu.nl
 https://intranet.cultureelerfgoed.nl
+https://intranet.dji.nl
 https://isi.cbs.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-controle.cbs.nl
@@ -676,6 +686,7 @@ https://magazines.cultureelerfgoed.nl
 https://magazines.cybersecurityraad.nl
 https://magazines.defensie.nl
 https://magazines.deltaprogramma.nl
+https://magazines.dji.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
 https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
@@ -817,6 +828,7 @@ https://opendata.dienstterugkeerenvertrek.nl
 https://opendata.digitaalstelselmobiliteitsdata.nl
 https://opendata.dihoo.eu
 https://opendata.dihoo.nl
+https://opendata.dji.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1155,6 +1167,7 @@ https://www.digitaalstelselmobiliteitsdata.nl
 https://www.digitaleoverheid.nl
 https://www.dihoo.eu
 https://www.dihoo.nl
+https://www.dji.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl
