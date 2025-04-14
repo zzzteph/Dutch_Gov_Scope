@@ -51,9 +51,11 @@ arbeidsmigratieingoedebanen.nl
 arboportaal.nl
 asbestvolgsysteem.nl
 asbestvrijdak.nl
+atkm.nl
 autodiscover.aaenmaas.nl
 av.aaenmaas.nl
 b-acc.asbestvolgsysteem.nl
+bezwaar.atkm.nl
 chw.aandeslagmetdeomgevingswet.nl
 dialin.aaenmaas.nl
 eavgb-acc.aivd.nl
@@ -64,6 +66,7 @@ eovgb-acc.aivd.nl
 eovgb.aivd.nl
 fbadmin-eopg-acc.aivd.nl
 fbadmin-eopg.aivd.nl
+feedback.atkm.nl
 feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
 feeds.aboutnetherlandscustoms.nl
@@ -87,6 +90,7 @@ feeds.antennebureau.nl
 feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
 feeds.asbestvrijdak.nl
+feeds.atkm.nl
 feeds.english.aivd.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
@@ -98,6 +102,7 @@ lyncdiscover.aaenmaas.nl
 magazines.algemenebestuursdienst.nl
 maps.aaenmaas.nl
 meet.aaenmaas.nl
+meldingen.atkm.nl
 oa.aaenmaas.nl
 odctest.arbeidsinspectie.nl
 opendata.a2vonderenkerensheide.nl
@@ -123,6 +128,7 @@ opendata.antennebureau.nl
 opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
 opendata.asbestvrijdak.nl
+opendata.atkm.nl
 opendata.english.aivd.nl
 outbound-eopg.aivd.nl
 prod.asbestvolgsysteem.nl
@@ -178,5 +184,6 @@ www.arbeidsmigratieingoedebanen.nl
 www.arboportaal.nl
 www.asbestvolgsysteem.nl
 www.asbestvrijdak.nl
+www.atkm.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 zorgenwerknetwerk.arboportaal.nl
