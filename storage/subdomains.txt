@@ -511,6 +511,7 @@ crmtest.cbi.eu
 csirtdsp.nl
 ctgb.nl
 ctivd.nl
+ctpveldzicht.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
@@ -593,6 +594,7 @@ english.cbgjaarverslag.nl
 english.ccmo.nl
 english.ctgb.nl
 english.ctivd.nl
+english.ctpveldzicht.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
@@ -701,6 +703,7 @@ feeds.communicatierijk.nl
 feeds.compensationsns.nl
 feeds.ctgb.nl
 feeds.ctivd.nl
+feeds.ctpveldzicht.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -754,6 +757,7 @@ fs.ctgb.nl
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp.cbs.nl
+ftp.ctpveldzicht.nl
 ftpblaise.cbs.nl
 ftpsconfpriv.belastingdienst.nl
 ftpsconfpriv.egb-kps.belastingdienst.nl
@@ -1230,6 +1234,7 @@ opendata.communicatierijk.nl
 opendata.compensationsns.nl
 opendata.ctgb.nl
 opendata.ctivd.nl
+opendata.ctpveldzicht.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1457,6 +1462,7 @@ sso-int.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
 sso.bronhouderportaal-bro.nl
 stadvanced.belastingdienst.nl
+staging.english.ctpveldzicht.nl
 start.belastingdienst.nl
 startformulier.brabant.nl
 startformuliertest.brabant.nl
@@ -1856,6 +1862,7 @@ www.crisis.nl
 www.csirtdsp.nl
 www.ctgb.nl
 www.ctivd.nl
+www.ctpveldzicht.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl

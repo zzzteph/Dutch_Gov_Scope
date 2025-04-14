@@ -6,8 +6,8 @@ test
 a-www
 a-feeds
 a-opendata
-acc
 english
+acc
 autodiscover
 feeds.english
 opendata.english
@@ -50,6 +50,7 @@ www-test
 mdm
 sts
 designsystem
+ftp
 onderzoek
 portal
 _dmarc
@@ -1108,7 +1109,6 @@ dossierportal
 ebms
 egain-com
 eu2016
-ftp
 ftpblaise
 fubecasper
 geoservices
@@ -1354,3 +1354,4 @@ toelatingen
 emailcluster
 mx001
 wwwnieuw
+staging.english
