@@ -44,6 +44,7 @@ https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
 https://asbestvolgsysteem.nl
 https://asbestvrijdak.nl
+https://asycuda.belastingdienst-cn.nl
 https://atkm.nl
 https://atlasinfectieziekten.nl
 https://atlasleefomgeving.nl
@@ -60,6 +61,7 @@ https://beeldbankbelastingdienst.nl
 https://beeldkompas.nl
 https://beheerautoriteitwaddenzee.nl
 https://belastingdienst-academie.nl
+https://belastingdienst-cn.nl
 https://bezwaar.atkm.nl
 https://chw.aandeslagmetdeomgevingswet.nl
 https://cms.beeldkompas.nl
@@ -71,6 +73,7 @@ https://eloket.aaenmaas.nl
 https://english.aivd.nl
 https://english.autoriteitnvs.nl
 https://english.awti.nl
+https://english.belastingdienst-cn.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://feature-cic-673.dev.bcld-config.nl
@@ -108,8 +111,11 @@ https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
 https://feeds.awti.nl
 https://feeds.beheerautoriteitwaddenzee.nl
+https://feeds.belastingdienst-cn.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
+https://feeds.english.belastingdienst-cn.nl
+https://feeds.papiamentu.belastingdienst-cn.nl
 https://geodata.basisinformatie-overstromingen.nl
 https://geoportal.aaenmaas.nl
 https://gisservices.aaenmaas.nl
@@ -122,6 +128,7 @@ https://magazines.algemenebestuursdienst.nl
 https://maps.aaenmaas.nl
 https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
+https://mijn.belastingdienst-cn.nl
 https://oa.aaenmaas.nl
 https://opendata.a2vonderenkerensheide.nl
 https://opendata.aanbiedersmedicijnen.nl
@@ -152,8 +159,12 @@ https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
 https://opendata.awti.nl
 https://opendata.beheerautoriteitwaddenzee.nl
+https://opendata.belastingdienst-cn.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
+https://opendata.english.belastingdienst-cn.nl
+https://opendata.papiamentu.belastingdienst-cn.nl
+https://papiamentu.belastingdienst-cn.nl
 https://prd.atlasleefomgeving.nl
 https://prod.asbestvolgsysteem.nl
 https://professional.basisinformatie-overstromingen.nl
@@ -163,6 +174,7 @@ https://pushmail.awti.nl
 https://sharepoint.aaenmaas.nl
 https://smtp.awti.nl
 https://smtp1.awti.nl
+https://test.belastingdienst-cn.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
 https://vpn2.aaenmaas.nl
@@ -225,4 +237,5 @@ https://www.bcld-config.nl
 https://www.beeldkompas.nl
 https://www.beheerautoriteitwaddenzee.nl
 https://www.belastingdienst-academie.nl
+https://www.belastingdienst-cn.nl
 https://zorgenwerknetwerk.arboportaal.nl

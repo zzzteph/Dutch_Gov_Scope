@@ -8,12 +8,12 @@ a-www
 acc
 english
 test
+feeds.english
+opendata.english
 autodiscover
 a-english
 a-feeds.a-english
 a-opendata.a-english
-feeds.english
-opendata.english
 acceptatie
 ontwikkel
 av
@@ -76,3 +76,8 @@ feature-demo-root.dev
 feature-ease-installer.dev
 cms
 wadsup
+asycuda
+feeds.papiamentu
+mijn
+opendata.papiamentu
+papiamentu

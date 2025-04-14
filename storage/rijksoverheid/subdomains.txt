@@ -64,6 +64,7 @@ arbeidsmigratieingoedebanen.nl
 arboportaal.nl
 asbestvolgsysteem.nl
 asbestvrijdak.nl
+asycuda.belastingdienst-cn.nl
 atkm.nl
 atlasinfectieziekten.nl
 atlasleefomgeving.nl
@@ -83,6 +84,7 @@ beeldbankbelastingdienst.nl
 beeldkompas.nl
 beheerautoriteitwaddenzee.nl
 belastingdienst-academie.nl
+belastingdienst-cn.nl
 bezwaar.atkm.nl
 chw.aandeslagmetdeomgevingswet.nl
 cms.beeldkompas.nl
@@ -94,6 +96,7 @@ eloket.aaenmaas.nl
 english.aivd.nl
 english.autoriteitnvs.nl
 english.awti.nl
+english.belastingdienst-cn.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
 fbadmin-eopg-acc.aivd.nl
@@ -133,8 +136,11 @@ feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
 feeds.awti.nl
 feeds.beheerautoriteitwaddenzee.nl
+feeds.belastingdienst-cn.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
+feeds.english.belastingdienst-cn.nl
+feeds.papiamentu.belastingdienst-cn.nl
 geodata.basisinformatie-overstromingen.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
@@ -147,6 +153,7 @@ magazines.algemenebestuursdienst.nl
 maps.aaenmaas.nl
 meet.aaenmaas.nl
 meldingen.atkm.nl
+mijn.belastingdienst-cn.nl
 oa.aaenmaas.nl
 odctest.arbeidsinspectie.nl
 ontwikkel.atlasleefomgeving.nl
@@ -180,9 +187,13 @@ opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
 opendata.awti.nl
 opendata.beheerautoriteitwaddenzee.nl
+opendata.belastingdienst-cn.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
+opendata.english.belastingdienst-cn.nl
+opendata.papiamentu.belastingdienst-cn.nl
 outbound-eopg.aivd.nl
+papiamentu.belastingdienst-cn.nl
 prd.atlasleefomgeving.nl
 prod.asbestvolgsysteem.nl
 professional.basisinformatie-overstromingen.nl
@@ -198,6 +209,7 @@ smtp1.awti.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
+test.belastingdienst-cn.nl
 test.resultaten.arbeidsinspectie.nl
 testeloket.aaenmaas.nl
 vpn2.aaenmaas.nl
@@ -264,5 +276,6 @@ www.bcld-config.nl
 www.beeldkompas.nl
 www.beheerautoriteitwaddenzee.nl
 www.belastingdienst-academie.nl
+www.belastingdienst-cn.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 zorgenwerknetwerk.arboportaal.nl
