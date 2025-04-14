@@ -594,6 +594,7 @@ dcc-ienw.nl
 dcp-time-slot.cbg-meb.nl
 defensie.nl
 delta.belastingdienst.nl
+deltaprogramma.nl
 demo.bronhouderportaal-bro.nl
 designsystem.cbs.nl
 designsystem.cibg.nl
@@ -623,6 +624,11 @@ doemee.cbs.nl
 dossierportal.cbs.nl
 download.belastingdienst.nl
 download.cbs.nl
+dp2021.deltaprogramma.nl
+dp2022.deltaprogramma.nl
+dp2023.deltaprogramma.nl
+dp2024.deltaprogramma.nl
+dp2025.deltaprogramma.nl
 dpe.belastingdienst.nl
 dplockers.brabant.nl
 draf-acpt.brabant.nl
@@ -662,6 +668,7 @@ english.ctivd.nl
 english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
 english.defensie.nl
+english.deltaprogramma.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
@@ -782,6 +789,7 @@ feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
 feeds.dcc-ienw.nl
 feeds.defensie.nl
+feeds.deltaprogramma.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -792,6 +800,7 @@ feeds.english.ctgb.nl
 feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
+feeds.english.deltaprogramma.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -1043,6 +1052,7 @@ magazines.algemenebestuursdienst.nl
 magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
+magazines.deltaprogramma.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.bodemvizier.nl
@@ -1359,6 +1369,7 @@ opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
 opendata.dcc-ienw.nl
 opendata.defensie.nl
+opendata.deltaprogramma.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1369,6 +1380,7 @@ opendata.english.ctgb.nl
 opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
+opendata.english.deltaprogramma.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2036,6 +2048,7 @@ www.datavoorgezondheid.nl
 www.datawonen.nl
 www.dcc-ienw.nl
 www.defensie.nl
+www.deltaprogramma.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
