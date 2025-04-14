@@ -10,11 +10,13 @@ a-english.bigregister.nl
 a-english.cbg-meb.nl
 a-english.cbgjaarverslag.nl
 a-english.ctgb.nl
+a-english.ctivd.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
 a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
+a-feeds.a-english.ctivd.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -27,6 +29,7 @@ a-feeds.centralecommissiedierproeven.nl
 a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
+a-feeds.ctivd.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -34,6 +37,7 @@ a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
 a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
+a-opendata.a-english.ctivd.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -46,6 +50,7 @@ a-opendata.centralecommissiedierproeven.nl
 a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
+a-opendata.ctivd.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
@@ -60,6 +65,7 @@ a-www.centralecommissiedierproeven.nl
 a-www.cibg.nl
 a-www.communicatierijk.nl
 a-www.ctgb.nl
+a-www.ctivd.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -238,6 +244,7 @@ autodiscover.cbi.eu
 autodiscover.cbs.nl
 autodiscover.contactpuntbouwproducten.nl
 autodiscover.ctgb.nl
+autodiscover.ctivd.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -503,6 +510,7 @@ crmacc.cbi.eu
 crmtest.cbi.eu
 csirtdsp.nl
 ctgb.nl
+ctivd.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
@@ -572,6 +580,7 @@ eladownload.belastingdienst.nl
 elearning.cbi.eu
 eloket.aaenmaas.nl
 email.brabant.nl
+emailcluster.ctivd.nl
 emm.belastingdienst.nl
 english.aivd.nl
 english.autoriteitnvs.nl
@@ -583,6 +592,7 @@ english.cbg-meb.nl
 english.cbgjaarverslag.nl
 english.ccmo.nl
 english.ctgb.nl
+english.ctivd.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
@@ -690,6 +700,7 @@ feeds.commissievanaanbestedingsexperts.nl
 feeds.communicatierijk.nl
 feeds.compensationsns.nl
 feeds.ctgb.nl
+feeds.ctivd.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -697,6 +708,7 @@ feeds.english.bigregister.nl
 feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
 feeds.english.ctgb.nl
+feeds.english.ctivd.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -931,6 +943,7 @@ mail.cbi.eu
 mail.cggp.nl
 mail.contactpuntbouwproducten.nl
 mail.ctgb.nl
+mail.ctivd.nl
 mail.dev.cbs.nl
 mail230.brabant.nl
 mail231.brabant.nl
@@ -1086,6 +1099,7 @@ mwr-app-api-ota.belastingdienst.nl
 mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
+mx001.ctivd.nl
 mysite-acc.belastingdienst.nl
 mysite.belastingdienst.nl
 mysites-conf.belastingdienst.nl
@@ -1215,6 +1229,7 @@ opendata.commissievanaanbestedingsexperts.nl
 opendata.communicatierijk.nl
 opendata.compensationsns.nl
 opendata.ctgb.nl
+opendata.ctivd.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1222,6 +1237,7 @@ opendata.english.bigregister.nl
 opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
 opendata.english.ctgb.nl
+opendata.english.ctivd.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -1653,6 +1669,7 @@ webgisacc.aaenmaas.nl
 webmail-acpt.brabant.nl
 webmail.aaenmaas.nl
 webmail.brabant.nl
+webmail.ctivd.nl
 webserver.cbs.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
@@ -1838,6 +1855,7 @@ www.contactpuntbouwproducten.nl
 www.crisis.nl
 www.csirtdsp.nl
 www.ctgb.nl
+www.ctivd.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.gtmx.acc.belastingdienst.nl
@@ -1857,6 +1875,7 @@ www.werken.belastingdienst.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www2.zorgcsp.cibg.nl
 wwwfcinetorg.belastingdienst.nl
+wwwnieuw.ctivd.nl
 wwwrijksacademienl.belastingdienst.nl
 xential-acpt.brabant.nl
 xential.brabant.nl

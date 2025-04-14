@@ -11,13 +11,14 @@ english
 autodiscover
 feeds.english
 opendata.english
-acceptatie
 mail
 a-english
-mijn
+acceptatie
 a-feeds.a-english
 a-opendata.a-english
+mijn
 api
+webmail
 ontwikkel
 cms
 vpn
@@ -28,7 +29,6 @@ meet
 sharepoint
 sip
 vpn2
-webmail
 prd
 smtp1
 geodata
@@ -1351,3 +1351,6 @@ sf
 test-mam
 testconn
 toelatingen
+emailcluster
+mx001
+wwwnieuw
