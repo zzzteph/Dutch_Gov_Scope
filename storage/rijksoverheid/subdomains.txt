@@ -62,6 +62,7 @@ acceptatie.beheer.bigregister.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.tea.bigregister.nl
 acceptatie.webservices.bigregister.nl
+acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
 ace_nat17.belastingdienst.nl
 adobe-analytics-dc.belastingdienst.nl
@@ -218,6 +219,7 @@ bms.acc.belastingdienst.nl
 bms.belastingdienst.nl
 bmt.acc.belastingdienst.nl
 bmt.belastingdienst.nl
+bodemambities.nl
 boportaalkd.belastingdienst.nl
 boportaalkdo.belastingdienst.nl
 boportaalkdt.belastingdienst.nl
@@ -1091,6 +1093,7 @@ www.biociden.nl
 www.biosecuritykwetsbaarheidsanalyse.nl
 www.biosecurityselfscan.nl
 www.biosecurityzelfscan.nl
+www.bodemambities.nl
 www.gtmx.acc.belastingdienst.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
@@ -1102,6 +1105,7 @@ wwwfcinetorg.belastingdienst.nl
 wwwrijksacademienl.belastingdienst.nl
 xml.belastingdienst.nl
 zelfbediening.belastingdienst.nl
+zoek.bodemambities.nl
 zoeken.belastingdienst.nl
 zoeken.bigregister.nl
 zorgenwerknetwerk.arboportaal.nl
