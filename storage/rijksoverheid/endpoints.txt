@@ -84,6 +84,7 @@ https://feeds.asbestvrijdak.nl
 https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
+https://feeds.avghelpdeskzorg.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://geoportal.aaenmaas.nl
@@ -124,6 +125,7 @@ https://opendata.asbestvrijdak.nl
 https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
+https://opendata.avghelpdeskzorg.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://prd.atlasleefomgeving.nl
@@ -181,4 +183,5 @@ https://www.atlasleefomgeving.nl
 https://www.atlasnatuurlijkkapitaal.nl
 https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
+https://www.avghelpdeskzorg.nl
 https://zorgenwerknetwerk.arboportaal.nl
