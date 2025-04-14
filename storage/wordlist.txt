@@ -6,12 +6,12 @@ test
 a-www
 a-feeds
 a-opendata
-english
 acc
+english
+acceptatie
 autodiscover
 feeds.english
 opendata.english
-acceptatie
 mijn
 a-english
 mail
@@ -27,6 +27,7 @@ sharepoint
 sip
 vpn2
 webmail
+prd
 smtp1
 geodata
 cms
@@ -82,7 +83,6 @@ prod
 bezwaar
 feedback
 meldingen
-prd
 rivm
 pushmail
 rdgateway
