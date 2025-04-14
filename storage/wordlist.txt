@@ -6,6 +6,7 @@ a-feeds
 a-opendata
 a-www
 acc
+test
 autodiscover
 av
 dialin
@@ -46,7 +47,6 @@ feeds.english
 opendata.english
 outbound-eopg
 magazines
-test
 odctest
 test.resultaten
 www.testdigitalediensten
@@ -56,3 +56,7 @@ prod
 bezwaar
 feedback
 meldingen
+acceptatie
+ontwikkel
+prd
+rivm
