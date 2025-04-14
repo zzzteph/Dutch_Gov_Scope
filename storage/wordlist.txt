@@ -8,13 +8,13 @@ a-feeds
 a-opendata
 acc
 english
-acceptatie
 autodiscover
+acceptatie
 feeds.english
 opendata.english
 mijn
-a-english
 mail
+a-english
 a-feeds.a-english
 a-opendata.a-english
 api
@@ -1291,3 +1291,4 @@ www.acceptatie
 mijnloket-acc
 mijnloket
 ons
+owa
