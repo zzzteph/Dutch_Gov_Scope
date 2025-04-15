@@ -88,6 +88,7 @@ digikoppeling
 digikoppeling2
 a-cms
 t-cms
+_autodiscover._tcp
 a-magazines
 mail01
 mailing
@@ -1327,7 +1328,6 @@ origin.api
 t-api
 t-next-cms
 t-old-cms
-_autodiscover._tcp
 acm-acc
 acm
 biociden
