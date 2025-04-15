@@ -138,6 +138,7 @@ mailing
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
+staging
 e
 remote
 csoacct
@@ -1753,7 +1754,6 @@ acc-raadplegen
 acceptatie.raadplegen
 mijn.adr
 raadplegen
-staging
 test.webservices
 bvinet
 e.acc.videobellen
@@ -2123,3 +2123,5 @@ sasbi
 staging.meldingen
 stc
 wio
+vt-mijn
+vt

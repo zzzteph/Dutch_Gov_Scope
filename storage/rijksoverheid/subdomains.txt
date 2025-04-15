@@ -1521,6 +1521,7 @@ iltontwikkel.dictu.nl
 implementatiecoachdi.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
 inbewaringstelling.webservices-dbb.igj.nl
+inburgeren.nl
 incassomachtigen.acc.belastingdienst.nl
 incassomachtigen.belastingdienst.nl
 incassomachtigen.str10.acc.belastingdienst.nl
@@ -1791,6 +1792,7 @@ mijn.examenblad.nl
 mijn.examenbladmbo.nl
 mijn.huurcommissie.nl
 mijn.igj.nl
+mijn.inburgeren.nl
 mijn.ont.belastingdienst.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -2540,6 +2542,7 @@ stadvanced.belastingdienst.nl
 stagefonds.formulierdus-i.nl
 staging.donorregister.nl
 staging.english.ctpveldzicht.nl
+staging.inburgeren.nl
 staging.meldingen.ilent.nl
 start.belastingdienst.nl
 start.dus-i.nl
@@ -2822,6 +2825,8 @@ vs_mijn.str13.tst.belastingdienst.nl
 vs_mijnzakelijk.str10.tst.belastingdienst.nl
 vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
+vt-mijn.inburgeren.nl
+vt.inburgeren.nl
 vt016bpp.dictu.nl
 vt016ed.dictu.nl
 vts-beheer.belastingdienst.nl
@@ -3246,6 +3251,7 @@ www.ikvermoedhuiselijkgeweld.nl
 www.ikwerkvoornederland.nl
 www.ikz.nl
 www.ilent.nl
+www.inburgeren.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
