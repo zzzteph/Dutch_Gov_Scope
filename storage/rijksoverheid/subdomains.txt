@@ -66,6 +66,7 @@ a-feeds.healthcouncil.nl
 a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
 a-feeds.jaarverantwoordingzorg.nl
+a-feeds.klimaatakkoord.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
@@ -108,6 +109,7 @@ a-opendata.healthcouncil.nl
 a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
 a-opendata.jaarverantwoordingzorg.nl
+a-opendata.klimaatakkoord.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -141,6 +143,7 @@ a-www.healthcouncil.nl
 a-www.igj.nl
 a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
+a-www.klimaatakkoord.nl
 a.kimnet.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1355,6 +1358,7 @@ feeds.kiesraad.nl
 feeds.kik-v.nl
 feeds.kimnet.nl
 feeds.kinderbescherming.nl
+feeds.klimaatakkoord.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1787,6 +1791,7 @@ kinderbescherming.nl
 kko.dictu.nl
 klanttoegang.cbs.nl
 klimaatadaptatienederland.nl
+klimaatakkoord.nl
 klopt.cibg.nl
 klussenbank-acc.dictu.nl
 klussenbank.dictu.nl
@@ -2419,6 +2424,7 @@ opendata.kiesraad.nl
 opendata.kik-v.nl
 opendata.kimnet.nl
 opendata.kinderbescherming.nl
+opendata.klimaatakkoord.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3653,6 +3659,7 @@ www.kik-v.nl
 www.kimnet.nl
 www.kinderbescherming.nl
 www.klimaatadaptatienederland.nl
+www.klimaatakkoord.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
