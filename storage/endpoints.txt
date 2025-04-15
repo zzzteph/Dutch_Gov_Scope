@@ -31,6 +31,7 @@ http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
 http://cev.nl
 http://chat.cbs.nl
+http://coronadashboard.government.nl
 http://detoekomstbegintnu.brabant.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
@@ -741,6 +742,7 @@ https://feeds.gobiernudireino.nl
 https://feeds.goudenpiramide.nl
 https://feeds.gouverneuraruba.com
 https://feeds.gouverneurcuracao.com
+https://feeds.government.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -811,6 +813,7 @@ https://gobiernudireino.nl
 https://good.cbs.nl
 https://goudenpiramide.nl
 https://gouverneurcuracao.com
+https://government.nl
 https://gpi.belastingdienst.nl
 https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
@@ -900,6 +903,7 @@ https://magazines.deltaprogramma.nl
 https://magazines.dji.nl
 https://magazines.emissieautoriteit.nl
 https://magazines.forensischinstituut.nl
+https://magazines.government.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
 https://mail.evenementenbureauvws.nl
@@ -1122,6 +1126,7 @@ https://opendata.gobiernudireino.nl
 https://opendata.goudenpiramide.nl
 https://opendata.gouverneuraruba.com
 https://opendata.gouverneurcuracao.com
+https://opendata.government.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1207,6 +1212,7 @@ https://samenwerken.brabant.nl
 https://sandbox.functiegebouwrijksoverheid.nl
 https://sbi.cbs.nl
 https://scheiden.belastingdienst.nl
+https://sdg.government.nl
 https://sdmx.cbs.nl
 https://servicedesk.dictu.nl
 https://services-preprod.ep-online.nl
@@ -1564,6 +1570,7 @@ https://www.gobiernudireino.nl
 https://www.goudenpiramide.nl
 https://www.gouverneuraruba.com
 https://www.gouverneurcuracao.com
+https://www.government.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
