@@ -234,7 +234,9 @@ adc4.cbs.nl
 adc5.cbs.nl
 adc7.cbs.nl
 adobe-analytics-dc.belastingdienst.nl
+adobe-analytics-dc.douane.nl
 adobe-tags.belastingdienst.nl
+adobe-tags.douane.nl
 adviescollegeicttoetsing.nl
 adviescollegeregeldruk.nl
 adviescollegeveiligheidgroningen.nl
@@ -385,9 +387,13 @@ b2bi-acc.cbg-meb.nl
 b2bi.cbg-meb.nl
 b2bsftp.belastingdienst.nl
 b2btest-gemnet.belastingdienst.nl
+b2btest-gemnet.douane.nl
 b2btest-osb.belastingdienst.nl
+b2btest-osb.douane.nl
 b2btest-rijks.belastingdienst.nl
+b2btest-rijks.douane.nl
 b2btest.belastingdienst.nl
+b2btest.douane.nl
 backend.isms.cibg.nl
 backend.socint.acc.belastingdienst.nl
 backend.socint.belastingdienst.nl
@@ -527,6 +533,7 @@ bureaubiosecurity.nl
 bureauncdr.nl
 bureausaneringverkeerslawaai.nl
 bureauwsnp.nl
+bvinet.douane.nl
 bvs.belastingdienst.nl
 bzv-a.brabant.nl
 bzv.brabant.nl
@@ -731,6 +738,7 @@ doemee.cbs.nl
 domeinenrz.nl
 donorregister.nl
 dossierportal.cbs.nl
+douane.nl
 download.belastingdienst.nl
 download.cbs.nl
 dp2021.deltaprogramma.nl
@@ -754,6 +762,8 @@ dvfz-acc.dji.nl
 dvfz-auth.dji.nl
 dvfz.dji.nl
 dwo.ctgb.nl
+e.acc.videobellen.douane.nl
+e.videobellen.douane.nl
 eagle-acc.dji.nl
 eagle.dji.nl
 eavgb-acc.aivd.nl
@@ -835,6 +845,8 @@ event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
 examenplein.cvte.nl
+exchangerate.douane.nl
+exchangeratetest.douane.nl
 extern-abv-acc.belastingdienst.nl
 externemail.ctgb.nl
 extgmea02.ss.belastingdienst.nl
@@ -963,7 +975,9 @@ fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
 fibd1.belastingdienst.nl
+fibd1.douane.nl
 fibd2.acc.belastingdienst.nl
+fibd2.acc.douane.nl
 fibe1-extern.belastingdienst.nl
 fibe1-samlsign-douane.belastingdienst.nl
 fibe1-samlsign.acc.belastingdienst.nl
@@ -1130,6 +1144,7 @@ idppoc-ont.dictu.nl
 idro.ont.belastingdienst.nl
 idselect.cultureelerfgoed.nl
 idtst.brabant.nl
+ier-online.douane.nl
 iex.acc.belastingdienst.nl
 ihg.cbs.nl
 iltbuildserver.dictu.nl
@@ -1423,6 +1438,7 @@ mm.belastingdienst.nl
 mm.ont.belastingdienst.nl
 mn.datawonen.nl
 mobicert.brabant.nl
+mobiel.douane.nl
 monumentenregister.cultureelerfgoed.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
@@ -1444,6 +1460,8 @@ mul-mmi.belastingdienst.nl
 mul-redirect.belastingdienst.nl
 mul.belastingdienst.nl
 mvstat.cbs.nl
+mvt.exportvalidation.hsm.acc.douane.nl
+mvt.exportvalidation.hsm.douane.nl
 mwr-app-api-ota.belastingdienst.nl
 mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
@@ -1459,6 +1477,8 @@ nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcohortonderzoek.cbs.nl
 ncp-api-1.ccmo.nl
 netftp.dictu.nl
+nh.acc.douane.nl
+nh.douane.nl
 nieuws.brabant.nl
 nimh-beeldbank.defensie.nl
 nl-dictu-nhr-sign.dictu.nl
@@ -1859,11 +1879,14 @@ sftp.cbs.nl
 sftp.test.cbs.nl
 sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.belastingdienst.nl
+sharepoint-acc.douane.nl
 sharepoint-conf.belastingdienst.nl
+sharepoint-conf.douane.nl
 sharepoint-ext-conf.belastingdienst.nl
 sharepoint-ext.belastingdienst.nl
 sharepoint.aaenmaas.nl
 sharepoint.belastingdienst.nl
+sharepoint.douane.nl
 signing-auth-acc.dictu.nl
 signing-auth-prod.dictu.nl
 signing.pre.brabant.nl
@@ -1948,6 +1971,8 @@ t-site1.defensie.nl
 t-test.belastingdienst.nl
 t-www.defensie.nl
 t.cultureelerfgoed.nl
+tarief.douane.nl
+tarief.str4.acc.douane.nl
 taxonomie.cbs.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
@@ -2032,6 +2057,8 @@ uzi.brba.nl
 uzi.test.brba.nl
 uzipas.lir.cibg.nl
 va_do.belastingdienst.nl
+validationcalculation.douane.nl
+validationcalculationtest.douane.nl
 vc.belastingdienst.nl
 vc.dictu.nl
 vcbewepa02c.kdmz.belastingdienst.nl
@@ -2110,6 +2137,8 @@ viep.brba.nl
 viep.test.brba.nl
 vinden.belastingdienst.nl
 visieopidentiteit.digitaleoverheid.nl
+vluchtinfo-test.douane.nl
+vluchtinfo.douane.nl
 vocabs.cbs.nl
 voi.brabant.nl
 vois.datawonen.nl
@@ -2216,6 +2245,8 @@ website.belastingdienst.nl
 wegen.brabant.nl
 welkombij.cbs.nl
 werken.belastingdienst.nl
+werken.douane.nl
+werkenbij.douane.nl
 werkenvoor.brabant.nl
 werkplek.brabant.nl
 werkplek.cbs.nl
@@ -2229,6 +2260,8 @@ wifiradius.isl.belastingdienst.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 wms.aanpakringzuid.nl
+wpx-80-aix-http.acc.douane.nl
+wpx-80-aix-http.douane.nl
 ws-acc.bureauwsnp.nl
 ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
@@ -2420,6 +2453,7 @@ www.dihoo.nl
 www.dji.nl
 www.domeinenrz.nl
 www.donorregister.nl
+www.douane.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
