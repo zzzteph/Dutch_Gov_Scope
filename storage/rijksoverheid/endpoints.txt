@@ -686,6 +686,7 @@ https://english.igj.nl
 https://english.ilent.nl
 https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
+https://english.kiesraad.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -844,6 +845,7 @@ https://feeds.english.igj.nl
 https://feeds.english.ilent.nl
 https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
+https://feeds.english.kiesraad.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -897,6 +899,7 @@ https://feeds.justitieleictorganisatie.nl
 https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
+https://feeds.kiesraad.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -1114,6 +1117,7 @@ https://kennisbank.hhdelfland.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
+https://kiesraad.nl
 https://kimi-infodeling.jeugdconnect.nl
 https://kimi.jeugdconnect.nl
 https://klanttoegang.cbs.nl
@@ -1402,6 +1406,7 @@ https://opendata.english.igj.nl
 https://opendata.english.ilent.nl
 https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
+https://opendata.english.kiesraad.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -1455,6 +1460,7 @@ https://opendata.justitieleictorganisatie.nl
 https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
+https://opendata.kiesraad.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1472,6 +1478,7 @@ https://password.ctgb.nl
 https://pesticidesdatabase.ctgb.nl
 https://pgw.belastingdienst.nl
 https://pih.belastingdienst.nl
+https://pleio.kiesraad.nl
 https://pmm.belastingdienst.nl
 https://pms.dictu.nl
 https://poc1.bestandenpostbus.nl
@@ -2046,6 +2053,7 @@ https://www.justitieleictorganisatie.nl
 https://www.kabinetsformatie2023.nl
 https://www.kansrijkestartnl.nl
 https://www.kennisvandeoverheid.nl
+https://www.kiesraad.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl

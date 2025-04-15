@@ -1081,6 +1081,7 @@ english.igj.nl
 english.ilent.nl
 english.inspectie-oe.nl
 english.iob-evaluatie.nl
+english.kiesraad.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1291,6 +1292,7 @@ feeds.english.igj.nl
 feeds.english.ilent.nl
 feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
+feeds.english.kiesraad.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1344,6 +1346,7 @@ feeds.justitieleictorganisatie.nl
 feeds.kabinetsformatie2023.nl
 feeds.kansrijkestartnl.nl
 feeds.kennisvandeoverheid.nl
+feeds.kiesraad.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1758,6 +1761,7 @@ kennis-staging.cultureelerfgoed.nl
 kennis.cultureelerfgoed.nl
 kennis.hdsr.nl
 kennisbank.hhdelfland.nl
+kennisbank.kiesraad.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
@@ -1765,6 +1769,7 @@ kennisnetwerk.belastingdienst.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 ketentestnvr.belastingdienst.nl
+kiesraad.nl
 kimi-infodeling.jeugdconnect.nl
 kimi.jeugdconnect.nl
 kko.dictu.nl
@@ -2340,6 +2345,7 @@ opendata.english.igj.nl
 opendata.english.ilent.nl
 opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
+opendata.english.kiesraad.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -2394,6 +2400,7 @@ opendata.justitieleictorganisatie.nl
 opendata.kabinetsformatie2023.nl
 opendata.kansrijkestartnl.nl
 opendata.kennisvandeoverheid.nl
+opendata.kiesraad.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2474,6 +2481,7 @@ platformafpakken-fiod.acc.belastingdienst.nl
 plato.dictu.nl
 pleio-test.belastingdienst.nl
 pleio.belastingdienst.nl
+pleio.kiesraad.nl
 pm-acc.belastingdienst.nl
 pm-ont.belastingdienst.nl
 pm.belastingdienst.nl
@@ -2767,6 +2775,7 @@ sip.aaenmaas.nl
 sip.cbg-meb.nl
 sip.emissieautoriteit.nl
 sip.justid.nl
+sip.kiesraad.nl
 sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
@@ -3307,6 +3316,7 @@ www-dev.farmacotherapeutischkompas.nl
 www-dev.gipdatabank.nl
 www-dev.horizonscangeneesmiddelen.nl
 www-dev.istandaarden.nl
+www-old.kiesraad.nl
 www-ontw.brabant.nl
 www-ow.farmacotherapeutischkompas.nl
 www-ow.gipdatabank.nl
@@ -3619,6 +3629,7 @@ www.kaarten.brabant.nl
 www.kabinetsformatie2023.nl
 www.kansrijkestartnl.nl
 www.kennisvandeoverheid.nl
+www.kiesraad.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
