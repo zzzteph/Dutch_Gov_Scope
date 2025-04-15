@@ -2,6 +2,7 @@
 55plus.datawonen.nl
 ACC-NL-DICTU-NHR-Sign.dictu.nl
 ACC.RD.dictu.nl
+AutoDiscover.hdsr.nl
 NL-DICTU-NHR-Sign.dictu.nl
 SFS-ACC.dictu.nl
 SFS.dictu.nl
@@ -269,6 +270,7 @@ acm-acc.ctgb.nl
 acm.ctgb.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
+ad.hdsr.nl
 adc.cbs.nl
 adc2.cbs.nl
 adc3.cbs.nl
@@ -305,6 +307,7 @@ agressievrijwerken.nl
 agroberichtenbuitenland.nl
 aivd.nl
 akkoordverbeteringproductsamenstelling.nl
+alerting.hdsr.nl
 algemenebestuursdienst.nl
 allesoverbiologisch.nl
 alm.cibg.nl
@@ -403,6 +406,7 @@ autodiscover.cvte.nl
 autodiscover.domeinenrz.nl
 autodiscover.evenementenbureauvws.nl
 autodiscover.flevoland.nl
+autodiscover.hdsr.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -470,6 +474,7 @@ beeldbank.cultureelerfgoed.nl
 beeldbankbelastingdienst.nl
 beeldbellen.dji.nl
 beeldkompas.nl
+begrippen.hdsr.nl
 begrippenlijst.datawonen.nl
 begroting.brabant.nl
 begroting2019.flevoland.nl
@@ -619,6 +624,8 @@ carrier.cbs.nl
 catalogus.cultureelerfgoed.nl
 cati-lt.cbs.nl
 catshuis.nl
+cawfirewall.hdsr.nl
+cawuitwijkfirewall.hdsr.nl
 cbg-meb.nl
 cbi.eu
 cbo-a.dictu.nl
@@ -793,9 +800,11 @@ dienstterugkeerenvertrek.nl
 diergeneesmiddeleninformatiebank.nl
 digicheck.brabant.nl
 digikoppeling-dcr.cibg.nl
+digikoppeling-test.hdsr.nl
 digikoppeling.cibg.nl
 digikoppeling.dictu.nl
 digikoppeling.diginetwerk.dictu.nl
+digikoppeling.hdsr.nl
 digikoppeling2.cibg.nl
 digikoppeling2.dictu.nl
 digipoort-vpn1.belastingdienst.nl
@@ -1195,6 +1204,7 @@ filetransfer.ont.belastingdienst.nl
 financiengemeenten.nl
 fiod.acc.belastingdienst.nl
 flevoland.nl
+fme.hdsr.nl
 fmhaaglanden.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
@@ -1222,6 +1232,7 @@ fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp-a-ags.dictu.nl
 ftp-a.ags.dictu.nl
+ftp-hdsr.hdsr.nl
 ftp-p.ags.dictu.nl
 ftp.cbs.nl
 ftp.ctpveldzicht.nl
@@ -1278,6 +1289,7 @@ geoserver.brabant.nl
 geoservertest.brabant.nl
 geoservices.cbs.nl
 geoservices.cultureelerfgoed.nl
+geoservices.hdsr.nl
 geoservices2.cbs.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gezondeleefomgeving.nl
@@ -1344,6 +1356,7 @@ gw.defensie.nl
 handelingenbank.info
 hansken.nl
 hcib.datawonen.nl
+hdsr.nl
 helloid.aaenmaas.nl
 helpdesk.brba.nl
 helpmee.cbs.nl
@@ -1409,6 +1422,7 @@ intern.catalogus.cultureelerfgoed.nl
 intranet-acc.flevoland.nl
 intranet-bestanden.flevoland.nl
 intranet-demo.dictu.nl
+intranet.ad.hdsr.nl
 intranet.belastingdienst.nl
 intranet.ctgb.nl
 intranet.cultureelerfgoed.nl
@@ -1445,6 +1459,8 @@ kaart.flevoland.nl
 kaartbank.brabant.nl
 kaarten.brabant.nl
 kaarten.datawonen.nl
+kaarten.hdsr.nl
+kantoor.hdsr.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -1465,6 +1481,7 @@ keiko.brba.nl
 kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
 kennis.cultureelerfgoed.nl
+kennis.hdsr.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
@@ -1499,6 +1516,8 @@ login.aaenmaas.nl
 login.cbs.nl
 login.databestanden.cbs.nl
 login.domeinenrz.nl
+loket-acc.hdsr.nl
+loket.hdsr.nl
 longread.brabant.nl
 longreads.cbs.nl
 lrbh2ha.belastingdienst.nl
@@ -2169,12 +2188,14 @@ rdgateway.awti.nl
 redactie-acc.cbs.nl
 redactie-test.cbs.nl
 redactie.cbs.nl
+redactie.hdsr.nl
 regiotaxi.flevoland.nl
 registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
 registreren.ep-online.nl
 relay1.c2000.nl
 relay2.c2000.nl
+remote-pa.hdsr.nl
 remote.flevoland.nl
 research.cbs.nl
 rev.emissieautoriteit.nl
@@ -2423,11 +2444,13 @@ test20200722c.dictu.nl
 test20200722d.dictu.nl
 test2gbav.belastingdienst.nl
 test300.dictu.nl
+testbegrippen.hdsr.nl
 testconn.ctgb.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testeloket.aaenmaas.nl
 testeloket.flevoland.nl
+testkennis.hdsr.nl
 testmailmdm.flevoland.nl
 testmdm.flevoland.nl
 testmonitorwonen.flevoland.nl
@@ -2456,6 +2479,8 @@ tvep.dictu.nl
 tvs-rd.dictu.nl
 tvs.dictu.nl
 uag.cbs.nl
+uconnect-acc.hdsr.nl
+uconnect.hdsr.nl
 uitwisseling.cbs.nl
 upload.cbs.nl
 uptime.bureauwbtv.nl
@@ -2589,6 +2614,7 @@ wadsup.beheerautoriteitwaddenzee.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
+waterkwaliteitinbeeld.hdsr.nl
 wbxbotserver.belastingdienst.nl
 wbxbottestserver.belastingdienst.nl
 wd-ont.belastingdienst.nl
@@ -2612,6 +2638,7 @@ webdiensten-test4.belastingdienst.nl
 webdiensten-webservices.acc.belastingdienst.nl
 webdiensten.acc.belastingdienst.nl
 webdiensten.belastingdienst.nl
+webdiensten.hdsr.nl
 webdiensten.str10.acc.belastingdienst.nl
 webdiensten.str12.acc.belastingdienst.nl
 webdiensten.str13.acc.belastingdienst.nl
@@ -2652,6 +2679,7 @@ webservices.belastingdienst.nl
 webservices.bigregister.nl
 webservices.dictu.nl
 webservices.donorregister.nl
+webservices.hdsr.nl
 webservices.lrza.cibg.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
@@ -2671,6 +2699,7 @@ werkenvoor.brabant.nl
 werkplek.brabant.nl
 werkplek.cbs.nl
 werkplek.ctgb.nl
+werkplek.hdsr.nl
 werkpleksso.cbs.nl
 werkplektest.cbs.nl
 wifi.brabant.nl
@@ -2686,6 +2715,7 @@ ws-acc.bureauwsnp.nl
 ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
+wsus.hdsr.nl
 wus-encryptie.acc.belastingdienst.nl
 wus-encryptie.belastingdienst.nl
 wus-gemnet.belastingdienst.nl
@@ -2955,6 +2985,7 @@ www.groeiennaarmorgen.nl
 www.gtmx.acc.belastingdienst.nl
 www.handelingenbank.info
 www.hansken.nl
+www.hdsr.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
@@ -2988,6 +3019,7 @@ www.vt016ed.dictu.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
+www1.hdsr.nl
 www2.acc1.ep-online.nl
 www2.acc1.webapplicaties.ep-online.nl
 www2.formulierdus-i.nl
@@ -2999,6 +3031,8 @@ wwwrijksacademienl.belastingdienst.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
 xml.belastingdienst.nl
+zaaksysteem-acc.hdsr.nl
+zaaksysteem.hdsr.nl
 zelfbediening.belastingdienst.nl
 zoek.bodemambities.nl
 zoekeentolkvertaler.bureauwbtv.nl

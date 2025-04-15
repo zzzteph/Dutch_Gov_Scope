@@ -1,3 +1,4 @@
+http://AutoDiscover.hdsr.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
@@ -21,6 +22,7 @@ http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
 http://autodiscover.flevoland.nl
+http://autodiscover.hdsr.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
@@ -278,6 +280,7 @@ https://beeldbank.cbs.nl
 https://beeldbank.cultureelerfgoed.nl
 https://beeldbankbelastingdienst.nl
 https://beeldkompas.nl
+https://begrippen.hdsr.nl
 https://begrippenlijst.datawonen.nl
 https://begroting.brabant.nl
 https://begroting2019.flevoland.nl
@@ -361,6 +364,8 @@ https://capi.cbs.nl
 https://careereventvws.evenementenbureauvws.nl
 https://catalogus.cultureelerfgoed.nl
 https://catshuis.nl
+https://cawfirewall.hdsr.nl
+https://cawuitwijkfirewall.hdsr.nl
 https://cbg-meb.nl
 https://cbi.eu
 https://cbs.cbs.nl
@@ -759,6 +764,7 @@ https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://financiengemeenten.nl
 https://flevoland.nl
+https://fme.hdsr.nl
 https://fmhaaglanden.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
@@ -774,6 +780,7 @@ https://formulieren.flevoland.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
+https://ftp-hdsr.hdsr.nl
 https://ftp.dji.nl
 https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
@@ -801,6 +808,7 @@ https://georegister.brabant.nl
 https://georegister.flevoland.nl
 https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
+https://geoservices.hdsr.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://gezondeleefomgeving.nl
 https://gezondheidsraad.nl
@@ -830,6 +838,7 @@ https://gw.defensie.nl
 https://handelingenbank.info
 https://hansken.nl
 https://hcib.datawonen.nl
+https://hdsr.nl
 https://helloid.aaenmaas.nl
 https://helpdesk.brba.nl
 https://helpmee.cbs.nl
@@ -859,6 +868,7 @@ https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intranet-bestanden.flevoland.nl
 https://intranet-demo.dictu.nl
+https://intranet.ad.hdsr.nl
 https://intranet.cultureelerfgoed.nl
 https://intranet.dji.nl
 https://intranet.flevoland.nl
@@ -877,8 +887,11 @@ https://kaart.flevoland.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
 https://kaarten.datawonen.nl
+https://kaarten.hdsr.nl
+https://kantoor.hdsr.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
+https://kennis.hdsr.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://klanttoegang.cbs.nl
@@ -1206,6 +1219,7 @@ https://pwik.datawonen.nl
 https://raadplegen.donorregister.nl
 https://redactie-acc.cbs.nl
 https://redactie.cbs.nl
+https://redactie.hdsr.nl
 https://regiotaxi.flevoland.nl
 https://registreren-acc.ep-online.nl
 https://registreren.ep-online.nl
@@ -1279,9 +1293,11 @@ https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.resultaten.arbeidsinspectie.nl
+https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
 https://testeloket.flevoland.nl
+https://testkennis.hdsr.nl
 https://testmdm.flevoland.nl
 https://testmonitorwonen.flevoland.nl
 https://thesaurus.cultureelerfgoed.nl
@@ -1297,6 +1313,8 @@ https://tunnel1.cbs.nl
 https://tvep.dictu.nl
 https://tvs.dictu.nl
 https://uag.cbs.nl
+https://uconnect-acc.hdsr.nl
+https://uconnect.hdsr.nl
 https://uitwisseling.cbs.nl
 https://upload.cbs.nl
 https://uzipas.lir.cibg.nl
@@ -1336,11 +1354,13 @@ https://vuurwerk.domeinenrz.nl
 https://wachtwoord.brabant.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
+https://waterkwaliteitinbeeld.hdsr.nl
 https://web.acc.brba.nl
 https://web.test.brba.nl
 https://web01.aaninhetdonker.nl
 https://webchat.klopt.cibg.nl
 https://webdiensten.belastingdienst.nl
+https://webdiensten.hdsr.nl
 https://webdisk.evenementenbureauvws.nl
 https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
@@ -1351,6 +1371,7 @@ https://webmail.flevoland.nl
 https://webserver.cbs.nl
 https://webservice.ep-online.nl
 https://webservices.bigregister.nl
+https://webservices.hdsr.nl
 https://website.belastingdienst.nl
 https://wegen.brabant.nl
 https://welkombij.cbs.nl
@@ -1368,6 +1389,7 @@ https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://wms.aanpakringzuid.nl
 https://wpx-80-aix-http.douane.nl
+https://wsus.hdsr.nl
 https://www-a.grensinfo.nl
 https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.gipdatabank.nl
@@ -1590,6 +1612,7 @@ https://www.grensinfo.nl
 https://www.grenzeloossamenwerken.nl
 https://www.groeiennaarmorgen.nl
 https://www.hansken.nl
+https://www.hdsr.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
@@ -1608,6 +1631,8 @@ https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
+https://zaaksysteem-acc.hdsr.nl
+https://zaaksysteem.hdsr.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl
 https://zoeken.cultureelerfgoed.nl
