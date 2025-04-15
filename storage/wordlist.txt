@@ -23,9 +23,9 @@ api
 webmail
 cms
 portaal
+www-acc
 intranet
 webservices
-www-acc
 connect
 login
 prod
@@ -33,6 +33,13 @@ beeldbank
 werkplek
 portal
 a-magazines
+proto
+www-ac
+www-dev
+www-ow
+www-p
+www-ts
+www-tst
 sharepoint
 sip
 vpn2
@@ -55,13 +62,6 @@ _autodiscover._tcp
 data
 geo
 apps
-proto
-www-ac
-www-dev
-www-ow
-www-p
-www-ts
-www-tst
 adfs
 av
 eloket
@@ -119,6 +119,7 @@ www-test
 helpdesk
 web.acc
 broker
+sso
 static
 chat
 content
@@ -1081,7 +1082,6 @@ sso-acc2
 sso-demo
 sso-int
 sso-test
-sso
 uptime
 www.zoekeentolkvertaler
 zoekeentolkvertaler
@@ -2287,3 +2287,10 @@ yivi.proeftuin.uzi-online
 zvs.woo
 release
 test3
+informatiemodel
+modules
+registry.acceptatie
+registry
+repository.acceptatie
+repository
+sso.acceptatie

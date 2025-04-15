@@ -230,6 +230,7 @@ https://acceptatie.dustex.nl
 https://acceptatie.feedfoodtransfer.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.hulpmiddelen.farmatec.nl
+https://acceptatie.istandaarden.nl
 https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
@@ -1017,6 +1018,7 @@ https://ind.nl
 https://infomilcn.com
 https://informatieanalyseteam.nl
 https://informatiehuishouding.nl
+https://informatiemodel.istandaarden.nl
 https://inkoopplein.dictu.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
@@ -1045,6 +1047,7 @@ https://irealisatie.nl
 https://ishetafval.nl
 https://isi.cbs.nl
 https://isis-web.nl
+https://istandaarden.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-controle.cbs.nl
 https://iv3statline.cbs.nl
@@ -1189,6 +1192,7 @@ https://mlzopendata.cbs.nl
 https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
 https://mn.datawonen.nl
+https://modules.istandaarden.nl
 https://monitorwonen.flevoland.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
@@ -1453,6 +1457,7 @@ https://projecten.cbs.nl
 https://proto.farmacotherapeutischkompas.nl
 https://proto.gipdatabank.nl
 https://proto.horizonscangeneesmiddelen.nl
+https://proto.istandaarden.nl
 https://prototype.cibg.nl
 https://psarchief.brabant.nl
 https://public-preprod.ep-online.nl
@@ -1471,7 +1476,11 @@ https://redactie.hdsr.nl
 https://regiotaxi.flevoland.nl
 https://registreren-acc.ep-online.nl
 https://registreren.ep-online.nl
+https://registry.acceptatie.istandaarden.nl
+https://registry.istandaarden.nl
 https://remote.flevoland.nl
+https://repository.acceptatie.istandaarden.nl
+https://repository.istandaarden.nl
 https://research.cbs.nl
 https://rev.emissieautoriteit.nl
 https://rgs.cbs.nl
@@ -1513,6 +1522,8 @@ https://snow-cw.dictu.nl
 https://sorry.belastingdienst.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
 https://sso-acc2.bronhouderportaal-bro.nl
+https://sso.acceptatie.istandaarden.nl
+https://sso.istandaarden.nl
 https://stagefonds.formulierdus-i.nl
 https://staging.meldingen.ilent.nl
 https://start.acc.dusi.irealisatie.nl
@@ -1941,6 +1952,7 @@ https://www.iplo.nl
 https://www.irealisatie.nl
 https://www.ishetafval.nl
 https://www.isis-web.nl
+https://www.istandaarden.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
