@@ -213,6 +213,7 @@ acceptatie.digikoppeling2.dictu.nl
 acceptatie.drms.cibg.nl
 acceptatie.dustex.nl
 acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.feedfoodtransfer.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.lir.cibg.nl
@@ -326,7 +327,9 @@ app.brabant.nl
 appcontent.belastingdienst.nl
 applicationframework.cibg.nl
 applications.klopt.cibg.nl
+apps.acceptatie.feedfoodtransfer.nl
 apps.dictu.nl
+apps.feedfoodtransfer.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
 arbeidsmigratieingoedebanen.nl
@@ -571,6 +574,7 @@ c-pki.dictu.nl
 c-pki.extranet.dictu.nl
 c2000.nl
 cabinetspecialenvoy.com
+cadmium-pig.apps.feedfoodtransfer.nl
 caelus-tool.nl
 calendartst.brabant.nl
 campagnetoolkits.nl
@@ -965,6 +969,7 @@ feature-ease-installer.dev.bcld-config.nl
 fed01.hipad.tst.belastingdienst.nl
 federation.brabant.nl
 feedback.atkm.nl
+feedfoodtransfer.nl
 feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
 feeds.aboutnetherlandscustoms.nl
@@ -1181,6 +1186,7 @@ geoservices2.cbs.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gisextern.dictu.nl
 gisservices.aaenmaas.nl
+github.apps.feedfoodtransfer.nl
 gitlab-acc.dictu.nl
 gitlab.dictu.nl
 good.cbs.nl
@@ -2700,6 +2706,7 @@ www.expertisecentrummggz.nl
 www.farmacotherapeutischkompas.nl
 www.farmatec.nl
 www.fbb-handreiking.nl
+www.feedfoodtransfer.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl

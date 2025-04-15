@@ -14,9 +14,9 @@ autodiscover
 mail
 a-english
 mijn
+acceptatie
 a-feeds.a-english
 a-opendata.a-english
-acceptatie
 magazines
 api
 cms
@@ -95,6 +95,7 @@ t-cms
 _autodiscover._tcp
 formulier
 a-magazines
+apps
 mail01
 mailing
 dialin
@@ -1494,7 +1495,6 @@ acceptatie.rijksweb.digikoppeling.diginetwerk
 acceptatie.webservices1
 acceptatie.webservices2
 anoniem.netftp
-apps
 artifact-acc.rd
 asb.datasluis
 asb.webftp
@@ -1872,3 +1872,6 @@ www-ts
 www-tst
 acceptatie.hulpmiddelen
 hulpmiddelen
+apps.acceptatie
+cadmium-pig.apps
+github.apps
