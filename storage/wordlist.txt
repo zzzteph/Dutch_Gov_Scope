@@ -19,6 +19,7 @@ acceptatie
 mijn
 magazines
 api
+webmail
 cms
 intranet
 vpn
@@ -27,7 +28,6 @@ login
 sharepoint
 sip
 vpn2
-webmail
 prod
 ontwikkel
 portaal
@@ -1839,3 +1839,16 @@ www.proxy-epbd
 www2.acc1
 www2.acc1.webapplicaties
 www3
+aangiftebereidheid
+agressieinzorgenwelzijnenhetdoenvanaangiftedenhaag
+careereventvws
+cpanel
+cpcalendars
+cpcontacts
+gala2024
+komerbij-pakket2024
+landelijkeopeningwte2024
+lustrumleaguerijk
+overhandigingroadmapnucleairegeneeskunde
+voicejouwzeggenschapjouwkracht2024
+webdisk
