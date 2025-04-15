@@ -40,6 +40,7 @@ werkplek
 mdm
 academy
 ftp
+portal
 www-acc
 connect
 a-magazines
@@ -98,7 +99,6 @@ designsystem
 geoservices
 micollab
 onderzoek
-portal
 _dmarc
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
@@ -1949,3 +1949,9 @@ www.hetverhaalvan
 www.jaarverslag2018
 www.omgevingsplan
 www.risicokaart
+co
+extern
+portal2
+portalco
+stagefonds
+www2
