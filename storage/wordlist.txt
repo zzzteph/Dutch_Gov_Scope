@@ -63,6 +63,7 @@ digikoppeling
 _autodiscover._tcp
 data
 geo
+staging
 adfs
 av
 dialin
@@ -148,7 +149,6 @@ mailing
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
-staging
 werkenbij
 www.acc
 e
@@ -2331,3 +2331,10 @@ jaarverslag
 test.intranet
 validata
 vogcheck
+acc.staging
+metrics-acc
+metrics
+private.acc
+private.acc.staging
+private
+private.staging

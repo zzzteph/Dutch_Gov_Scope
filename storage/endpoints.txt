@@ -207,8 +207,10 @@ https://acc.inspectieview.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.intranet.justis.nl
 https://acc.justis.nl
+https://acc.justitieconnect.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.rd.dictu.nl
+https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
 https://acc2.bronhouderportaal-bro.nl
@@ -1088,6 +1090,7 @@ https://jmopendata.cbs.nl
 https://jokesmitprijs.nl
 https://justid.nl
 https://justis.nl
+https://justitieconnect.nl
 https://kaart.flevoland.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
@@ -1487,6 +1490,10 @@ https://preprodondertekenen.flevoland.nl
 https://preprodrev.emissieautoriteit.nl
 https://primos.datawonen.nl
 https://privacy.jeugdconnect.nl
+https://private.acc.justitieconnect.nl
+https://private.acc.staging.justitieconnect.nl
+https://private.justitieconnect.nl
+https://private.staging.justitieconnect.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod.asbestvolgsysteem.nl
@@ -2018,6 +2025,7 @@ https://www.jeugdconnect.nl
 https://www.jokesmitprijs.nl
 https://www.justid.nl
 https://www.justis.nl
+https://www.justitieconnect.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
