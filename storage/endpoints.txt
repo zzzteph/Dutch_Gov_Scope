@@ -147,6 +147,7 @@ https://acc.csirtdsp.nl
 https://acc.dashboardgroningen.nl
 https://acc.dictu.nl
 https://acc.e-akkoord.nl
+https://acc.e-loket.ilent.nl
 https://acc.gisextern.dictu.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
@@ -189,6 +190,7 @@ https://acceptatie.tea.bigregister.nl
 https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.webservices.bigregister.nl
+https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://accounts.cbs.nl
 https://acm-acc.ctgb.nl
@@ -541,10 +543,12 @@ https://dvfz.dji.nl
 https://dwangindezorg.nl
 https://dwo.ctgb.nl
 https://e-akkoord.nl
+https://e-loket.ilent.nl
 https://e.acc.videobellen.douane.nl
 https://e.flevoland.nl
 https://e.hhdelfland.nl
 https://e.videobellen.douane.nl
+https://easyrules.ilent.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://eentegeneenzaamheid.nl
@@ -589,6 +593,7 @@ https://english.euthanasiecommissie.nl
 https://english.farmatec.nl
 https://english.globalhealthhub.nl
 https://english.igj.nl
+https://english.ilent.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -744,6 +749,7 @@ https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.farmatec.nl
 https://feeds.english.globalhealthhub.nl
 https://feeds.english.igj.nl
+https://feeds.english.ilent.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -780,6 +786,7 @@ https://feeds.huurcommissie.nl
 https://feeds.hwbp.nl
 https://feeds.igj.nl
 https://feeds.ikvermoedhuiselijkgeweld.nl
+https://feeds.ilent.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -908,11 +915,13 @@ https://iinterimrijk.nl
 https://ikvermoedhuiselijkgeweld.nl
 https://ikwerkvoornederland.nl
 https://ikz.nl
+https://ilent.nl
 https://incassomachtigen.belastingdienst.nl
 https://inkoopplein.dictu.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
 https://inmemoriam.dictu.nl
+https://inspecteur.ilent.nl
 https://instroom.belastingdienst.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
@@ -981,6 +990,7 @@ https://magazines.dji.nl
 https://magazines.emissieautoriteit.nl
 https://magazines.forensischinstituut.nl
 https://magazines.government.nl
+https://magazines.ilent.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
 https://mail.evenementenbureauvws.nl
@@ -1003,6 +1013,7 @@ https://mediaportal.cbs.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
+https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://mft.webftp.dictu.nl
 https://mgt.flevoland.nl
@@ -1186,6 +1197,7 @@ https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.farmatec.nl
 https://opendata.english.globalhealthhub.nl
 https://opendata.english.igj.nl
+https://opendata.english.ilent.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -1222,6 +1234,7 @@ https://opendata.huurcommissie.nl
 https://opendata.hwbp.nl
 https://opendata.igj.nl
 https://opendata.ikvermoedhuiselijkgeweld.nl
+https://opendata.ilent.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1338,6 +1351,7 @@ https://sorry.belastingdienst.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
 https://sso-acc2.bronhouderportaal-bro.nl
 https://stagefonds.formulierdus-i.nl
+https://staging.meldingen.ilent.nl
 https://start.dus-i.nl
 https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
@@ -1345,6 +1359,7 @@ https://startstopmelding-a.hhdelfland.nl
 https://startstopmelding.hhdelfland.nl
 https://stateninformatie.flevoland.nl
 https://statline.cbs.nl
+https://stc.ilent.nl
 https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl
@@ -1475,6 +1490,7 @@ https://wifi.brabant.nl
 https://wifi.dictu.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
+https://wio.ilent.nl
 https://wms.aanpakringzuid.nl
 https://wpx-80-aix-http.douane.nl
 https://wsus.hdsr.nl
@@ -1722,6 +1738,7 @@ https://www.iinterimrijk.nl
 https://www.ikvermoedhuiselijkgeweld.nl
 https://www.ikwerkvoornederland.nl
 https://www.ikz.nl
+https://www.ilent.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl

@@ -177,10 +177,14 @@ acc-vinden.cbs.nl
 acc-webservice-tdv.igj.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
+acc.api-auth.ilent.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
+acc.api.ilent.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
+acc.b2b.digi.ilent.nl
+acc.b2b.ilent.nl
 acc.bcld-config.nl
 acc.beeldbellen.dji.nl
 acc.bestandenpostbus.nl
@@ -193,8 +197,10 @@ acc.consexponano.nl
 acc.cparegister.nl
 acc.csirtdsp.nl
 acc.dashboardgroningen.nl
+acc.data.ilent.nl
 acc.dictu.nl
 acc.e-akkoord.nl
+acc.e-loket.ilent.nl
 acc.eentegeneenzaamheid.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 acc.ep-online.nl
@@ -276,6 +282,8 @@ acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
 acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
+acceptatie.wio.ilent.nl
+acceptatie.wioservice.ilent.nl
 acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.cultureelerfgoed.nl
@@ -353,6 +361,7 @@ apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
 api-acc.dashboardgroningen.nl
 api-acpt.brabant.nl
+api-auth.ilent.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
 api.belastingdienst.nl
@@ -361,6 +370,7 @@ api.brabant.nl
 api.caelus-tool.nl
 api.contenttoolsrijksoverheid.nl
 api.dashboardgroningen.nl
+api.ilent.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
@@ -457,6 +467,8 @@ b2b-rijks.belastingdienst.nl
 b2b-security.acc.belastingdienst.nl
 b2b-security.belastingdienst.nl
 b2b.belastingdienst.nl
+b2b.digi.ilent.nl
+b2b.ilent.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
 b2bftp-gemnet.belastingdienst.nl
@@ -751,6 +763,7 @@ connectpeoplereg.belastingdienst.nl
 consexponano.nl
 contactpuntbouwproducten.nl
 content.cbs.nl
+content.ilent.nl
 content.klopt.cibg.nl
 content1.cbs.nl
 contentadapter.cbs.nl
@@ -798,6 +811,7 @@ dashboards.cbs.nl
 data.cultureelerfgoed.nl
 data.flevoland.nl
 data.geo.cultureelerfgoed.nl
+data.ilent.nl
 databestanden.cbs.nl
 dataderden.cbs.nl
 dataportaal.brabant.nl
@@ -841,6 +855,7 @@ dictuext05.ymor.dictu.nl
 dictumagazines.nl
 dienstterugkeerenvertrek.nl
 diergeneesmiddeleninformatiebank.nl
+digi.ilent.nl
 digicheck.brabant.nl
 digikoppeling-dcr.cibg.nl
 digikoppeling-test.hdsr.nl
@@ -922,12 +937,14 @@ dvfz.dji.nl
 dwangindezorg.nl
 dwo.ctgb.nl
 e-akkoord.nl
+e-loket.ilent.nl
 e.acc.videobellen.douane.nl
 e.flevoland.nl
 e.hhdelfland.nl
 e.videobellen.douane.nl
 eagle-acc.dji.nl
 eagle.dji.nl
+easyrules.ilent.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
 ebms.cbs.nl
@@ -990,6 +1007,7 @@ english.farmatec.nl
 english.forensischinstituut.nl
 english.globalhealthhub.nl
 english.igj.nl
+english.ilent.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1196,6 +1214,7 @@ feeds.english.euthanasiecommissie.nl
 feeds.english.farmatec.nl
 feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
+feeds.english.ilent.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1232,6 +1251,7 @@ feeds.huurcommissie.nl
 feeds.hwbp.nl
 feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
+feeds.ilent.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1495,6 +1515,7 @@ iinterimrijk.nl
 ikvermoedhuiselijkgeweld.nl
 ikwerkvoornederland.nl
 ikz.nl
+ilent.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -1513,6 +1534,7 @@ inkoopportaal.belastingdienst.nl
 inloggen-preprod.hhdelfland.nl
 inloggen.hhdelfland.nl
 inmemoriam.dictu.nl
+inspecteur.ilent.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
@@ -1536,6 +1558,8 @@ irmpol-acc.dictu.nl
 irmpol.dictu.nl
 isamproxyont.ont.belastingdienst.nl
 isi.cbs.nl
+itp-acc.ilent.nl
+itp.ilent.nl
 iv3-controle-api.cbs.nl
 iv3-controle.cbs.nl
 iv3-pilot.cbs.nl
@@ -1577,6 +1601,7 @@ kavaanalyticsont.vcdn.belastingdienst.nl
 kavaanalyticstst.vcdn.belastingdienst.nl
 kavaont.vcdn.belastingdienst.nl
 kavatst.vcdn.belastingdienst.nl
+kc.ilent.nl
 kdmz.belastingdienst.nl
 keiko.brba.nl
 kennis-fiod.acc.belastingdienst.nl
@@ -1611,6 +1636,7 @@ lil.cultureelerfgoed.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.test.cultureelerfgoed.nl
+lip.ilent.nl
 lir.cibg.nl
 livecharts.cbs.nl
 localhost.flevoland.nl
@@ -1655,6 +1681,7 @@ magazines.dji.nl
 magazines.emissieautoriteit.nl
 magazines.forensischinstituut.nl
 magazines.government.nl
+magazines.ilent.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
@@ -1730,8 +1757,10 @@ meet.aaenmaas.nl
 meet.cbg-meb.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
+meldingen.ilent.nl
 meldingen.klopt.cibg.nl
 merkportaal.belastingdienst.nl
+metrixinbound.inspecteur.ilent.nl
 mft.webftp.dictu.nl
 mgt.flevoland.nl
 micollab.cbs.nl
@@ -2093,6 +2122,7 @@ opendata.english.euthanasiecommissie.nl
 opendata.english.farmatec.nl
 opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
+opendata.english.ilent.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -2130,6 +2160,7 @@ opendata.huurcommissie.nl
 opendata.hwbp.nl
 opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
+opendata.ilent.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2248,6 +2279,7 @@ portalco.formulierdus-i.nl
 positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
+povv-poc.ilent.nl
 prd-ez-rvo-ba.dictu.nl
 prd.archis.cultureelerfgoed.nl
 prd.atlasleefomgeving.nl
@@ -2402,6 +2434,8 @@ sap-pi-px1.belastingdienst.nl
 sap-pi-test.belastingdienst.nl
 sap-pi-tx1.belastingdienst.nl
 sap-pi.belastingdienst.nl
+sasbi-acc.ilent.nl
+sasbi.ilent.nl
 sbi.cbs.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
 scansys.huurcommissie.nl
@@ -2411,6 +2445,7 @@ schouw.flevoland.nl
 screenconnect.hhdelfland.nl
 sdg.government.nl
 sdm.igj.nl
+sdm.ilent.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
 sdmx-dataviewer.cbs.nl
@@ -2427,6 +2462,7 @@ services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
 services.ep-online.nl
+services.ilent.nl
 services1.domeinenrz.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
@@ -2503,6 +2539,7 @@ stadvanced.belastingdienst.nl
 stagefonds.formulierdus-i.nl
 staging.donorregister.nl
 staging.english.ctpveldzicht.nl
+staging.meldingen.ilent.nl
 start.belastingdienst.nl
 start.dus-i.nl
 startformulier.brabant.nl
@@ -2516,6 +2553,7 @@ static.caorijk.nl
 static.examenblad.nl
 statline.cbs.nl
 status.cbs.nl
+stc.ilent.nl
 stijlgids.cibg.nl
 stor.services.cultureelerfgoed.nl
 storage.databestanden.cbs.nl
@@ -2897,6 +2935,7 @@ wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
+wio.ilent.nl
 wist-fpi.hhdelfland.nl
 wms.aanpakringzuid.nl
 workspace.hhdelfland.nl
@@ -3205,6 +3244,7 @@ www.iinterimrijk.nl
 www.ikvermoedhuiselijkgeweld.nl
 www.ikwerkvoornederland.nl
 www.ikz.nl
+www.ilent.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl

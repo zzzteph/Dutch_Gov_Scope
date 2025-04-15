@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-a-www
 english
+a-www
 a-feeds
 a-opendata
 feeds.english
@@ -14,14 +14,14 @@ autodiscover
 mail
 mijn
 a-english
+magazines
 a-feeds.a-english
 a-opendata.a-english
-magazines
 acceptatie
+api
 vpn
 webmail
 cms
-api
 intranet
 portaal
 webservices
@@ -35,7 +35,9 @@ login
 sharepoint
 sip
 vpn2
+meldingen
 ontwikkel
+services
 zoeken
 acceptatie.beheer
 acceptatie.mijn
@@ -50,6 +52,7 @@ geoservices
 portal
 digikoppeling
 _autodiscover._tcp
+data
 geo
 apps
 proto
@@ -66,7 +69,6 @@ luchtfoto
 lync
 meet
 testeloket
-meldingen
 prd
 pushmail
 smtp
@@ -75,6 +77,7 @@ geodata
 adobe-analytics-dc
 adobe-tags
 afspraken
+b2b
 b2btest-gemnet
 b2btest-osb
 b2btest-rijks
@@ -89,7 +92,6 @@ mysites
 ns2
 ns3
 ns4
-services
 sharepoint-acc
 sharepoint-conf
 start
@@ -114,6 +116,7 @@ wifi
 www-test
 broker
 static
+content
 designsystem
 micollab
 onderzoek
@@ -125,7 +128,6 @@ digikoppeling2
 survey
 a-cms
 t-cms
-data
 formulier
 kennis
 i-www
@@ -143,6 +145,7 @@ csotest
 sandbox
 www-a
 loket
+sdm
 dialin
 geoportal
 gisservices
@@ -237,7 +240,6 @@ b2b-osb
 b2b-rijks
 b2b-security.acc
 b2b-security
-b2b
 b2bcesop
 b2bcesoptest
 b2bftp-gemnet
@@ -1134,7 +1136,6 @@ cerberus
 chat
 claircitydata
 cn
-content
 content1
 contentadapter
 dashboards
@@ -2074,7 +2075,6 @@ inbewaringstelling.webservices-dbb
 lrza.gatservices.acc
 lrza.gatservices.prd
 mijn-acc
-sdm
 survey-acc
 survey-beheer
 survey-beheeracc
@@ -2098,3 +2098,28 @@ portaal-a
 positconnect
 positpm
 positwb
+acc.api-auth
+acc.api
+acc.b2b.digi
+acc.b2b
+acc.data
+acc.e-loket
+acceptatie.wio
+acceptatie.wioservice
+api-auth
+b2b.digi
+digi
+e-loket
+easyrules
+inspecteur
+itp-acc
+itp
+kc
+lip
+metrixinbound.inspecteur
+povv-poc
+sasbi-acc
+sasbi
+staging.meldingen
+stc
+wio
