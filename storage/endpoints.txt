@@ -798,6 +798,7 @@ https://feeds.informatieanalyseteam.nl
 https://feeds.informatiehuishouding.nl
 https://feeds.inspectie-jenv.nl
 https://feeds.inspectie-oe.nl
+https://feeds.inspectiebtd.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -943,6 +944,7 @@ https://inspecteur.ilent.nl
 https://inspectie-checklist.nl
 https://inspectie-jenv.nl
 https://inspectie-oe.nl
+https://inspectiebtd.nl
 https://instroom.belastingdienst.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
@@ -1266,6 +1268,7 @@ https://opendata.informatieanalyseteam.nl
 https://opendata.informatiehuishouding.nl
 https://opendata.inspectie-jenv.nl
 https://opendata.inspectie-oe.nl
+https://opendata.inspectiebtd.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1781,6 +1784,7 @@ https://www.informatiehuishouding.nl
 https://www.inspectie-checklist.nl
 https://www.inspectie-jenv.nl
 https://www.inspectie-oe.nl
+https://www.inspectiebtd.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
