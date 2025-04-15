@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-english
 a-www
+english
 a-feeds
 a-opendata
 feeds.english
@@ -13,8 +13,8 @@ acc
 autodiscover
 mail
 mijn
-a-english
 magazines
+a-english
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
@@ -148,6 +148,8 @@ csotest
 sandbox
 www-a
 loket
+zaaksysteem-acc
+zaaksysteem
 sdm
 dialin
 geoportal
@@ -1986,8 +1988,6 @@ uconnect
 waterkwaliteitinbeeld
 wsus
 www1
-zaaksysteem-acc
-zaaksysteem
 burgerloket.acceptatie
 burgerloket
 burgerloket.test
@@ -2139,3 +2139,5 @@ statistics
 www.academie
 xmpp.chat
 grip
+jip
+meldpuntwki

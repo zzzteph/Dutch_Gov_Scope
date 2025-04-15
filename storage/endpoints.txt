@@ -794,6 +794,7 @@ https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.ilent.nl
 https://feeds.informatieanalyseteam.nl
 https://feeds.informatiehuishouding.nl
+https://feeds.inspectie-jenv.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -937,6 +938,7 @@ https://inloggen.hhdelfland.nl
 https://inmemoriam.dictu.nl
 https://inspecteur.ilent.nl
 https://inspectie-checklist.nl
+https://inspectie-jenv.nl
 https://instroom.belastingdienst.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
@@ -956,6 +958,7 @@ https://jaarverslag2018.flevoland.nl
 https://jeugdmonitor-acc.cbs.nl
 https://jeugdmonitor.cbs.nl
 https://jeugdstatline.cbs.nl
+https://jip.inspectie-jenv.nl
 https://jira.dictu.nl
 https://jmopendata.cbs.nl
 https://kaart.flevoland.nl
@@ -1031,6 +1034,7 @@ https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
 https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
+https://meldpuntwki.inspectie-jenv.nl
 https://mft.webftp.dictu.nl
 https://mgt.flevoland.nl
 https://micollab.cbs.nl
@@ -1255,6 +1259,7 @@ https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.ilent.nl
 https://opendata.informatieanalyseteam.nl
 https://opendata.informatiehuishouding.nl
+https://opendata.inspectie-jenv.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1768,6 +1773,7 @@ https://www.infomilcn.com
 https://www.informatieanalyseteam.nl
 https://www.informatiehuishouding.nl
 https://www.inspectie-checklist.nl
+https://www.inspectie-jenv.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
@@ -1785,8 +1791,10 @@ https://xential-acpt.brabant.nl
 https://xential.brabant.nl
 https://xmpp.chat.ind.nl
 https://zaaksysteem-acc.hdsr.nl
+https://zaaksysteem-acc.inspectie-jenv.nl
 https://zaaksysteem-accept.huurcommissie.nl
 https://zaaksysteem.hdsr.nl
+https://zaaksysteem.inspectie-jenv.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl
 https://zoeken.cultureelerfgoed.nl
