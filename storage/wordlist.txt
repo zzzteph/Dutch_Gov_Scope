@@ -141,6 +141,7 @@ dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
 staging
+www.acc
 e
 remote
 csoacct
@@ -1851,7 +1852,6 @@ webservice-acc1
 webservice.acc
 webservice
 www-acc1
-www.acc
 www.proxy-epbd-acc
 www.proxy-epbd
 www2.acc1
@@ -2142,3 +2142,19 @@ grip
 jip
 meldpuntwki
 brs
+aselect-milieu.demo
+auth-binnenvaart.acc
+authenticatie-acc
+authenticatie
+bh-integratie
+bim-acc
+bim-tst
+bim
+binnenvaart
+gebruikregistratie-acc
+gebruikregistratie
+tst
+www.acc.auth.binnenvaart
+www.acc.auth.wegvervoer
+www.binnenvaart.acc
+www.binnenvaart

@@ -16,6 +16,8 @@ http://adc.cbs.nl
 http://adc4.cbs.nl
 http://ag-dcr.cibg.nl
 http://atlas-acpt.brabant.nl
+http://authenticatie-acc.inspectieview.nl
+http://authenticatie.inspectieview.nl
 http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.contactpuntbouwproducten.nl
@@ -150,6 +152,7 @@ https://acc.dictu.nl
 https://acc.e-akkoord.nl
 https://acc.e-loket.ilent.nl
 https://acc.gisextern.dictu.nl
+https://acc.inspectieview.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.rd.dictu.nl
@@ -328,6 +331,7 @@ https://bewerken-acc.bestandenpostbus.nl
 https://bewerken.bestandenpostbus.nl
 https://bezoekersdata.flevoland.nl
 https://bezwaar.atkm.nl
+https://bh-integratie.inspectieview.nl
 https://bigregister.nl
 https://binnenhofrenovatie.nl
 https://biociden.ctgb.nl
@@ -835,6 +839,8 @@ https://functiegebouwrijksoverheid.nl
 https://gala2024.evenementenbureauvws.nl
 https://gdlo.belastingdienst.nl
 https://gebruiker-beheer.dus-i.nl
+https://gebruikregistratie-acc.inspectieview.nl
+https://gebruikregistratie.inspectieview.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
 https://gelijke-kansen.nl
@@ -945,6 +951,7 @@ https://inspectie-checklist.nl
 https://inspectie-jenv.nl
 https://inspectie-oe.nl
 https://inspectiebtd.nl
+https://inspectieview.nl
 https://instroom.belastingdienst.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
@@ -1552,6 +1559,7 @@ https://www.aboutnetherlandscustoms.nl
 https://www.academie.ind.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academyforinternationalrelations.nl
+https://www.acc.inspectieview.nl
 https://www.acc.mijn.dus-i.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
 https://www.adviescollegeicttoetsing.nl
@@ -1785,6 +1793,7 @@ https://www.inspectie-checklist.nl
 https://www.inspectie-jenv.nl
 https://www.inspectie-oe.nl
 https://www.inspectiebtd.nl
+https://www.inspectieview.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
