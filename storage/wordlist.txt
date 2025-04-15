@@ -13,10 +13,10 @@ acc
 autodiscover
 mail
 a-english
+mijn
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
-mijn
 magazines
 api
 webmail
@@ -77,6 +77,7 @@ kaarten
 proxy
 wifi
 www-test
+static
 mdm
 sts
 designsystem
@@ -1052,7 +1053,6 @@ ws
 www.mail
 relay1
 relay2
-static
 b2bi-acc
 b2bi
 conf
@@ -1852,3 +1852,7 @@ lustrumleaguerijk
 overhandigingroadmapnucleairegeneeskunde
 voicejouwzeggenschapjouwkracht2024
 webdisk
+nieuwsbrief
+piwik
+piwik2
+www.nieuwsbrief
