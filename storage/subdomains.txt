@@ -743,6 +743,7 @@ connect.ctgb.nl
 connect.dictu.nl
 connect.dji.nl
 connect.hhdelfland.nl
+connect.ikz.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -791,6 +792,7 @@ cvte.nl
 cybersecuritycouncil.nl
 cybersecurityraad.nl
 dagstaatmonitors.brabant.nl
+dashboard.ikz.nl
 dashboardgroningen.nl
 dashboards.cbs.nl
 data.cultureelerfgoed.nl
@@ -1492,6 +1494,7 @@ ihg.cbs.nl
 iinterimrijk.nl
 ikvermoedhuiselijkgeweld.nl
 ikwerkvoornederland.nl
+ikz.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -2226,6 +2229,7 @@ poc.bestandenpostbus.nl
 poc1.bestandenpostbus.nl
 politieopendata.cbs.nl
 pom.cultureelerfgoed.nl
+portaal-a.ikz.nl
 portaal.acc.belastingdienst.nl
 portaal.belastingdienst.nl
 portaal.competent.cibg.nl
@@ -2233,6 +2237,7 @@ portaal.ctgb.nl
 portaal.dienstterugkeerenvertrek.nl
 portaal.digilevering.cibg.nl
 portaal.huurcommissie.nl
+portaal.ikz.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
 portal.cbs.nl
@@ -2240,6 +2245,9 @@ portal.cibg.nl
 portal.formulierdus-i.nl
 portal2.formulierdus-i.nl
 portalco.formulierdus-i.nl
+positconnect.ikz.nl
+positpm.ikz.nl
+positwb.ikz.nl
 prd-ez-rvo-ba.dictu.nl
 prd.archis.cultureelerfgoed.nl
 prd.atlasleefomgeving.nl
@@ -2757,6 +2765,7 @@ vpn.cbg-meb.nl
 vpn.dictu.nl
 vpn.flevoland.nl
 vpn.huurcommissie.nl
+vpn.ikz.nl
 vpn1.cbs.nl
 vpn2.aaenmaas.nl
 vpn2.cbs.nl
@@ -3195,6 +3204,7 @@ www.ihg.cbs.nl
 www.iinterimrijk.nl
 www.ikvermoedhuiselijkgeweld.nl
 www.ikwerkvoornederland.nl
+www.ikz.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
