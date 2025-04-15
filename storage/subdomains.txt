@@ -1227,6 +1227,7 @@ feeds.huisvoorklokkenluiders.nl
 feeds.huurcommissie.nl
 feeds.hwbp.nl
 feeds.igj.nl
+feeds.ikvermoedhuiselijkgeweld.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1487,6 +1488,7 @@ igjportaal.webservices-dbb-acc.igj.nl
 igjportaal.webservices-dbb.igj.nl
 ihg.cbs.nl
 iinterimrijk.nl
+ikvermoedhuiselijkgeweld.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -2121,6 +2123,7 @@ opendata.huisvoorklokkenluiders.nl
 opendata.huurcommissie.nl
 opendata.hwbp.nl
 opendata.igj.nl
+opendata.ikvermoedhuiselijkgeweld.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3186,6 +3189,7 @@ www.hwbp.nl
 www.igj.nl
 www.ihg.cbs.nl
 www.iinterimrijk.nl
+www.ikvermoedhuiselijkgeweld.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
