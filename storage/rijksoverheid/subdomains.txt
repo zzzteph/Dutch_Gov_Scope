@@ -118,6 +118,7 @@ a-www.forensicinstitute.nl
 a-www.forensischinstituut.nl
 a-www.geobasisregistraties.nl
 a-www.gezondheidsraad.nl
+a-www.gobiernudireino.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1146,6 +1147,7 @@ feeds.globalhealthhub.nl
 feeds.gobernadoraruba.com
 feeds.gobernadorkorsou.com
 feeds.gobiernodireino.nl
+feeds.gobiernudireino.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1278,6 +1280,7 @@ globalhealthhub.nl
 gobernadoraruba.com
 gobernadorkorsou.com
 gobiernodireino.nl
+gobiernudireino.nl
 good.cbs.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
@@ -1947,6 +1950,7 @@ opendata.globalhealthhub.nl
 opendata.gobernadoraruba.com
 opendata.gobernadorkorsou.com
 opendata.gobiernodireino.nl
+opendata.gobiernudireino.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2904,6 +2908,7 @@ www.globalhealthhub.nl
 www.gobernadoraruba.com
 www.gobernadorkorsou.com
 www.gobiernodireino.nl
+www.gobiernudireino.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
