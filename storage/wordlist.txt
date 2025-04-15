@@ -7,9 +7,9 @@ a-www
 english
 a-feeds
 a-opendata
-acc
 feeds.english
 opendata.english
+acc
 autodiscover
 mail
 a-english
@@ -22,6 +22,8 @@ api
 cms
 intranet
 vpn
+login
+vpn2
 webmail
 prod
 ontwikkel
@@ -33,12 +35,10 @@ werkplek
 ftp
 connect
 av
-login
 lync
 meet
 sharepoint
 sip
-vpn2
 prd
 smtp1
 geodata
@@ -57,6 +57,7 @@ acceptatie.mijn
 acceptatie.webservices
 acceptatie.zoeken
 dataportaal
+hybrid
 kaarten
 proxy
 wifi
@@ -951,7 +952,6 @@ georegister
 geoserver
 geoservertest
 grondwaterstand
-hybrid
 id
 idtst
 informatie-acpt
@@ -1721,3 +1721,15 @@ video.beeldbellen
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
+afspraak
+bdx
+dfp
+enterpriseregistration
+ras
+ras2
+services-test
+services1
+verkoop
+verkooptest
+vpn3
+vuurwerk

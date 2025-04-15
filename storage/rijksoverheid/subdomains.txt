@@ -241,6 +241,7 @@ advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
 afasmail.cbs.nl
+afspraak.domeinenrz.nl
 afspraken.belastingdienst.nl
 afspraken.cbs.nl
 ag-dcr.cibg.nl
@@ -338,6 +339,7 @@ autodiscover.ctgb.nl
 autodiscover.ctivd.nl
 autodiscover.cultureelerfgoed.nl
 autodiscover.cvte.nl
+autodiscover.domeinenrz.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -391,6 +393,7 @@ basisregistratieondergrond.nl
 bat.belastingdienst.nl
 bat.ont.belastingdienst.nl
 bdmz-reth473.belastingdienst.nl
+bdx.domeinenrz.nl
 beeldbank-beheer.cbs.nl
 beeldbank-bo.brabant.nl
 beeldbank.brabant.nl
@@ -679,6 +682,7 @@ detoekomstbegintnu.brabant.nl
 dev.cerberus.cbs.nl
 dezi.nl
 dfg.datawonen.nl
+dfp.domeinenrz.nl
 dggf.nl
 dialin.aaenmaas.nl
 dictu.nl
@@ -718,6 +722,7 @@ doc-acc.bronhouderportaal-bro.nl
 doc.bronhouderportaal-bro.nl
 docs.brba.eu
 doemee.cbs.nl
+domeinenrz.nl
 dossierportal.cbs.nl
 download.belastingdienst.nl
 download.cbs.nl
@@ -779,11 +784,13 @@ english.defensie.nl
 english.deltaprogramma.nl
 english.dggf.nl
 english.dienstterugkeerenvertrek.nl
+english.domeinenrz.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
 enquete.dictu.nl
 enterpriseenrollment.cbg-meb.nl
+enterpriseregistration.domeinenrz.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
@@ -925,6 +932,7 @@ feeds.dihoo.eu
 feeds.dihoo.nl
 feeds.dji.nl
 feeds.dnadatabank.forensischinstituut.nl
+feeds.domeinenrz.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -938,6 +946,7 @@ feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
 feeds.english.dggf.nl
 feeds.english.dienstterugkeerenvertrek.nl
+feeds.english.domeinenrz.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1091,6 +1100,7 @@ hrz-uag-ext.belastingdienst.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
 hybrid.brabant.nl
+hybrid.domeinenrz.nl
 hybridexo.cbs.nl
 i-cms.defensie.nl
 i-cms1.defensie.nl
@@ -1212,6 +1222,7 @@ livecharts.cbs.nl
 login.aaenmaas.nl
 login.cbs.nl
 login.databestanden.cbs.nl
+login.domeinenrz.nl
 longread.brabant.nl
 longreads.cbs.nl
 lrbh2ha.belastingdienst.nl
@@ -1249,6 +1260,7 @@ mail.ctivd.nl
 mail.dev.cbs.nl
 mail.dictu.nl
 mail.dihoo.nl
+mail.domeinenrz.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail02.bulk.dictu.nl
@@ -1589,6 +1601,7 @@ opendata.dihoo.eu
 opendata.dihoo.nl
 opendata.dji.nl
 opendata.dnadatabank.forensischinstituut.nl
+opendata.domeinenrz.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1602,6 +1615,7 @@ opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
 opendata.english.dggf.nl
 opendata.english.dienstterugkeerenvertrek.nl
+opendata.english.domeinenrz.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -1740,6 +1754,8 @@ pwik.datawonen.nl
 qapbldexte2.belastingdienst.nl
 qbes.cbs.nl
 rap.belastingdienst.nl
+ras.domeinenrz.nl
+ras2.domeinenrz.nl
 rat.belastingdienst.nl
 rcm.belastingdienst.nl
 rdgateway.awti.nl
@@ -1814,8 +1830,10 @@ sdmx.cbs.nl
 seg.cbs.nl
 sepm.belastingdienst.nl
 servicedesk.dictu.nl
+services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
+services1.domeinenrz.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
 sf.ctgb.nl
@@ -2053,6 +2071,8 @@ vepvod.vcdn.belastingdienst.nl
 vepvodont.vcdn.belastingdienst.nl
 vepvodtst.vcdn.belastingdienst.nl
 vergaderen.belastingdienst.nl
+verkoop.domeinenrz.nl
+verkooptest.domeinenrz.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
@@ -2085,6 +2105,8 @@ vpn.dictu.nl
 vpn1.cbs.nl
 vpn2.aaenmaas.nl
 vpn2.cbs.nl
+vpn2.domeinenrz.nl
+vpn3.domeinenrz.nl
 vpna-tst.dictu.nl
 vpna.dictu.nl
 vpnb-tst.dictu.nl
@@ -2101,6 +2123,7 @@ vt016ed.dictu.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
+vuurwerk.domeinenrz.nl
 wachtwoord.brabant.nl
 wachtwoordwijzigen.aaenmaas.nl
 wadsup.beheerautoriteitwaddenzee.nl
@@ -2377,6 +2400,7 @@ www.digitaleoverheid.nl
 www.dihoo.eu
 www.dihoo.nl
 www.dji.nl
+www.domeinenrz.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
