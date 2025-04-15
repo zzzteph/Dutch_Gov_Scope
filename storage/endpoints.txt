@@ -564,6 +564,7 @@ https://english.donorregister.nl
 https://english.dsta.nl
 https://english.euthanasiecommissie.nl
 https://english.farmatec.nl
+https://english.globalhealthhub.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -717,6 +718,7 @@ https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.farmatec.nl
+https://feeds.english.globalhealthhub.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -731,6 +733,7 @@ https://feeds.forensischinstituut.nl
 https://feeds.gelijke-kansen.nl
 https://feeds.geobasisregistraties.nl
 https://feeds.gezondheidsraad.nl
+https://feeds.globalhealthhub.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -793,6 +796,7 @@ https://gipdatabank.nl
 https://gisextern.dictu.nl
 https://gisservices.aaenmaas.nl
 https://github.apps.feedfoodtransfer.nl
+https://globalhealthhub.nl
 https://good.cbs.nl
 https://gpi.belastingdienst.nl
 https://grondwaterstand.brabant.nl
@@ -1082,6 +1086,7 @@ https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
 https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.farmatec.nl
+https://opendata.english.globalhealthhub.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -1096,6 +1101,7 @@ https://opendata.forensischinstituut.nl
 https://opendata.gelijke-kansen.nl
 https://opendata.geobasisregistraties.nl
 https://opendata.gezondheidsraad.nl
+https://opendata.globalhealthhub.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1530,6 +1536,7 @@ https://www.gezondeleefomgeving.nl
 https://www.gezondheidsraad.nl
 https://www.ggo-vergunningen.nl
 https://www.gipdatabank.nl
+https://www.globalhealthhub.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl

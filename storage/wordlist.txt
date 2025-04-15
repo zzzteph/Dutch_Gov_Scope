@@ -4,10 +4,10 @@ opendata
 feeds
 english
 a-www
-a-feeds
-a-opendata
 feeds.english
 opendata.english
+a-feeds
+a-opendata
 test
 acc
 mail
