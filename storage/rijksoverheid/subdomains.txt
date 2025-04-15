@@ -1025,6 +1025,7 @@ feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.rekenkamer.nl
+feeds.english.sso3w.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1733,6 +1734,7 @@ opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.rekenkamer.nl
+opendata.english.sso3w.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
