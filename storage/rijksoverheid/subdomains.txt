@@ -775,7 +775,9 @@ crmacc.cbi.eu
 crmtest.cbi.eu
 csirtdsp.nl
 csoacct.functiegebouwrijksoverheid.nl
+csoacct.ikwerkvoornederland.nl
 csotest.functiegebouwrijksoverheid.nl
+csotest.ikwerkvoornederland.nl
 ctgb.nl
 ctivd.nl
 ctpveldzicht.nl
@@ -1489,6 +1491,7 @@ igjportaal.webservices-dbb.igj.nl
 ihg.cbs.nl
 iinterimrijk.nl
 ikvermoedhuiselijkgeweld.nl
+ikwerkvoornederland.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -2384,6 +2387,7 @@ samenwerkruimten.belastingdienst.nl
 saml-sign-olas10978.ont.belastingdienst.nl
 saml-sign-rv-pp1.belastingdienst.nl
 sandbox.functiegebouwrijksoverheid.nl
+sandbox.ikwerkvoornederland.nl
 sap-internet-test.belastingdienst.nl
 sap-internet.belastingdienst.nl
 sap-pi-px1.belastingdienst.nl
@@ -3190,6 +3194,7 @@ www.igj.nl
 www.ihg.cbs.nl
 www.iinterimrijk.nl
 www.ikvermoedhuiselijkgeweld.nl
+www.ikwerkvoornederland.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl

@@ -138,6 +138,9 @@ feeds.dnadatabank
 opendata.dnadatabank
 e
 remote
+csoacct
+csotest
+sandbox
 www-a
 loket
 dialin
@@ -1957,10 +1960,7 @@ portal2
 portalco
 stagefonds
 www2
-csoacct
-csotest
 odc
-sandbox
 bibliotheek
 coronadashboard
 sdg
