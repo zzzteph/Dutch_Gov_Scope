@@ -141,6 +141,7 @@ a-www.healthcouncil.nl
 a-www.igj.nl
 a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
+a.kimnet.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1082,6 +1083,7 @@ english.ilent.nl
 english.inspectie-oe.nl
 english.iob-evaluatie.nl
 english.kiesraad.nl
+english.kimnet.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1293,6 +1295,7 @@ feeds.english.ilent.nl
 feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
+feeds.english.kimnet.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1348,6 +1351,7 @@ feeds.kansrijkestartnl.nl
 feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
+feeds.kimnet.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1774,6 +1778,7 @@ kiesraad.nl
 kik-v.nl
 kimi-infodeling.jeugdconnect.nl
 kimi.jeugdconnect.nl
+kimnet.nl
 kko.dictu.nl
 klanttoegang.cbs.nl
 klopt.cibg.nl
@@ -2348,6 +2353,7 @@ opendata.english.ilent.nl
 opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
+opendata.english.kimnet.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -2404,6 +2410,7 @@ opendata.kansrijkestartnl.nl
 opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
+opendata.kimnet.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3634,6 +3641,7 @@ www.kansrijkestartnl.nl
 www.kennisvandeoverheid.nl
 www.kiesraad.nl
 www.kik-v.nl
+www.kimnet.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
