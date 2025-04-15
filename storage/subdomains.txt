@@ -806,6 +806,7 @@ conference-3-belastingdienst1.vc.belastingdienst.nl
 connect-acc.dictu.nl
 connect-acpt.dji.nl
 connect-acpt.justitieleictorganisatie.nl
+connect-acpt.kinderbescherming.nl
 connect-with.brabant.nl
 connect-with.flevoland.nl
 connect.acceptatie.hhdelfland.nl
@@ -815,6 +816,7 @@ connect.dji.nl
 connect.hhdelfland.nl
 connect.ikz.nl
 connect.justitieleictorganisatie.nl
+connect.kinderbescherming.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -1352,6 +1354,7 @@ feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
 feeds.kimnet.nl
+feeds.kinderbescherming.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1779,6 +1782,7 @@ kik-v.nl
 kimi-infodeling.jeugdconnect.nl
 kimi.jeugdconnect.nl
 kimnet.nl
+kinderbescherming.nl
 kko.dictu.nl
 klanttoegang.cbs.nl
 klopt.cibg.nl
@@ -1873,6 +1877,7 @@ magazines.ilent.nl
 magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
 magazines.jeugdautoriteit.nl
+magazines.kinderbescherming.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
@@ -2411,6 +2416,7 @@ opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
 opendata.kimnet.nl
+opendata.kinderbescherming.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3642,6 +3648,7 @@ www.kennisvandeoverheid.nl
 www.kiesraad.nl
 www.kik-v.nl
 www.kimnet.nl
+www.kinderbescherming.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl

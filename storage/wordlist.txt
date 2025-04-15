@@ -12,8 +12,8 @@ test
 acc
 autodiscover
 mail
-mijn
 magazines
+mijn
 a-english
 acceptatie
 a-feeds.a-english
@@ -22,10 +22,10 @@ api
 intranet
 vpn
 cms
+connect
 webmail
 portaal
 www-acc
-connect
 sip
 prod
 webservices
@@ -63,6 +63,7 @@ digikoppeling
 _autodiscover._tcp
 data
 geo
+connect-acpt
 staging
 adfs
 av
@@ -148,7 +149,6 @@ o-www
 t-www
 mail01
 mailing
-connect-acpt
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
