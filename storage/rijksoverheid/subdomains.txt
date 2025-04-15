@@ -1158,6 +1158,7 @@ feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
 feeds.gouverneurcuracao.com
 feeds.government.nl
+feeds.grenzeloossamenwerken.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1301,6 +1302,7 @@ gpa-rest-test.belastingdienst.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 grensinfo.nl
+grenzeloossamenwerken.nl
 grondwaterstand.brabant.nl
 gsa-rest-test.belastingdienst.nl
 gtmb.belastingdienst.nl
@@ -1972,6 +1974,7 @@ opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
 opendata.gouverneurcuracao.com
 opendata.government.nl
+opendata.grenzeloossamenwerken.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2938,6 +2941,7 @@ www.gouverneuraruba.com
 www.gouverneurcuracao.com
 www.government.nl
 www.grensinfo.nl
+www.grenzeloossamenwerken.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
