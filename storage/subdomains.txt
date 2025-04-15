@@ -917,6 +917,7 @@ event.tst.belastingdienst.nl
 examenblad.nl
 examenbladmbo.nl
 examenplein.cvte.nl
+excellentescholen.nl
 exchangerate.douane.nl
 exchangeratetest.douane.nl
 extern-abv-acc.belastingdienst.nl
@@ -1061,6 +1062,7 @@ feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
+feeds.excellentescholen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1785,6 +1787,7 @@ opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
+opendata.excellentescholen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2663,6 +2666,7 @@ www.euthanasiecommissie.nl
 www.evenementenbureauvws.nl
 www.examenblad.nl
 www.examenbladmbo.nl
+www.excellentescholen.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
