@@ -39,6 +39,7 @@ http://keiko.brba.nl
 http://longread.brabant.nl
 http://mail.dev.cbs.nl
 http://mijn-api.cbs.nl
+http://mijn.adr.donorregister.nl
 http://odata4.cbs.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oosweb.cbs.nl
@@ -142,6 +143,7 @@ https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.bigregister.nl
 https://acceptatie.beheer.dezi.nl
+https://acceptatie.beheer.donorregister.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
 https://acceptatie.beheer.lrza.cibg.nl
@@ -153,9 +155,11 @@ https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
 https://acceptatie.mijn.dezi.nl
+https://acceptatie.mijn.donorregister.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.publicwebservices.cibg.nl
+https://acceptatie.raadplegen.donorregister.nl
 https://acceptatie.tea.bigregister.nl
 https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
@@ -250,6 +254,7 @@ https://begroting.brabant.nl
 https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://beheer.bigregister.nl
+https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.lir.cibg.nl
 https://beheer.lrza.cibg.nl
@@ -437,6 +442,7 @@ https://doc.bronhouderportaal-bro.nl
 https://docs.brba.eu
 https://doemee.cbs.nl
 https://domeinenrz.nl
+https://donorregister.nl
 https://dossierportal.cbs.nl
 https://download.belastingdienst.nl
 https://download.cbs.nl
@@ -476,6 +482,7 @@ https://english.deltaprogramma.nl
 https://english.dggf.nl
 https://english.dienstterugkeerenvertrek.nl
 https://english.domeinenrz.nl
+https://english.donorregister.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
 https://eovgb-acc.aivd.nl
@@ -573,6 +580,7 @@ https://feeds.dihoo.nl
 https://feeds.dji.nl
 https://feeds.dnadatabank.forensischinstituut.nl
 https://feeds.domeinenrz.nl
+https://feeds.donorregister.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -587,6 +595,7 @@ https://feeds.english.deltaprogramma.nl
 https://feeds.english.dggf.nl
 https://feeds.english.dienstterugkeerenvertrek.nl
 https://feeds.english.domeinenrz.nl
+https://feeds.english.donorregister.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -720,6 +729,7 @@ https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
 https://mijn.bigregister.nl
 https://mijn.cbs.nl
+https://mijn.donorregister.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
 https://mijndouane.belastingdienst.nl
@@ -840,6 +850,7 @@ https://opendata.dihoo.nl
 https://opendata.dji.nl
 https://opendata.dnadatabank.forensischinstituut.nl
 https://opendata.domeinenrz.nl
+https://opendata.donorregister.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -854,6 +865,7 @@ https://opendata.english.deltaprogramma.nl
 https://opendata.english.dggf.nl
 https://opendata.english.dienstterugkeerenvertrek.nl
 https://opendata.english.domeinenrz.nl
+https://opendata.english.donorregister.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://origin.api.contenttoolsrijksoverheid.nl
@@ -895,6 +907,7 @@ https://public.mst.ctgb.nl
 https://publicaties.brabant.nl
 https://pushmail.awti.nl
 https://pwik.datawonen.nl
+https://raadplegen.donorregister.nl
 https://redactie-acc.cbs.nl
 https://redactie.cbs.nl
 https://research.cbs.nl
@@ -1184,6 +1197,7 @@ https://www.dihoo.eu
 https://www.dihoo.nl
 https://www.dji.nl
 https://www.domeinenrz.nl
+https://www.donorregister.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl

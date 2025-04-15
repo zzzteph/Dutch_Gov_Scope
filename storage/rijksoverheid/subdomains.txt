@@ -125,6 +125,7 @@ acc-nl-dictu-dkb-sign.dictu.nl
 acc-nl-dictu-nhr-sign.dictu.nl
 acc-nl-dictu-rijkspas.dictu.nl
 acc-nl-nvwa-dkb-sign.dictu.nl
+acc-raadplegen.donorregister.nl
 acc-rd.dictu.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-vinden.cbs.nl
@@ -175,6 +176,7 @@ acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.isms.cibg.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.beheer.dezi.nl
+acceptatie.beheer.donorregister.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.beheer.lir.cibg.nl
 acceptatie.beheer.lrza.cibg.nl
@@ -200,16 +202,19 @@ acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
+acceptatie.mijn.donorregister.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
+acceptatie.raadplegen.donorregister.nl
 acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.tea.bigregister.nl
 acceptatie.tmv.cibg.nl
 acceptatie.uzipas.lir.cibg.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.webservices.dictu.nl
+acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
 acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
@@ -409,6 +414,7 @@ behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
 beheer-bzv.brabant.nl
 beheer.bigregister.nl
+beheer.donorregister.nl
 beheer.generiekeregistratiedienst.cibg.nl
 beheer.lir.cibg.nl
 beheer.lrza.cibg.nl
@@ -723,6 +729,7 @@ doc.bronhouderportaal-bro.nl
 docs.brba.eu
 doemee.cbs.nl
 domeinenrz.nl
+donorregister.nl
 dossierportal.cbs.nl
 download.belastingdienst.nl
 download.cbs.nl
@@ -785,6 +792,7 @@ english.deltaprogramma.nl
 english.dggf.nl
 english.dienstterugkeerenvertrek.nl
 english.domeinenrz.nl
+english.donorregister.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
@@ -933,6 +941,7 @@ feeds.dihoo.nl
 feeds.dji.nl
 feeds.dnadatabank.forensischinstituut.nl
 feeds.domeinenrz.nl
+feeds.donorregister.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -947,6 +956,7 @@ feeds.english.deltaprogramma.nl
 feeds.english.dggf.nl
 feeds.english.dienstterugkeerenvertrek.nl
 feeds.english.domeinenrz.nl
+feeds.english.donorregister.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1320,12 +1330,14 @@ mijn-perf.acc.belastingdienst.nl
 mijn-test2.belastingdienst.nl
 mijn-test3.belastingdienst.nl
 mijn.acc.belastingdienst.nl
+mijn.adr.donorregister.nl
 mijn.belastingdienst-cn.nl
 mijn.belastingdienst.nl
 mijn.bigregister.nl
 mijn.bofeb.nl
 mijn.bron.nl
 mijn.cbs.nl
+mijn.donorregister.nl
 mijn.ont.belastingdienst.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -1602,6 +1614,7 @@ opendata.dihoo.nl
 opendata.dji.nl
 opendata.dnadatabank.forensischinstituut.nl
 opendata.domeinenrz.nl
+opendata.donorregister.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1616,6 +1629,7 @@ opendata.english.deltaprogramma.nl
 opendata.english.dggf.nl
 opendata.english.dienstterugkeerenvertrek.nl
 opendata.english.domeinenrz.nl
+opendata.english.donorregister.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -1753,6 +1767,7 @@ pwa002.belastingdienst.nl
 pwik.datawonen.nl
 qapbldexte2.belastingdienst.nl
 qbes.cbs.nl
+raadplegen.donorregister.nl
 rap.belastingdienst.nl
 ras.domeinenrz.nl
 ras2.domeinenrz.nl
@@ -1897,6 +1912,7 @@ sso-test.bronhouderportaal-bro.nl
 sso.bronhouderportaal-bro.nl
 sso.subsidie.cultureelerfgoed.nl
 stadvanced.belastingdienst.nl
+staging.donorregister.nl
 staging.english.ctpveldzicht.nl
 start.belastingdienst.nl
 startformulier.brabant.nl
@@ -1972,6 +1988,7 @@ test.resultaten.arbeidsinspectie.nl
 test.status.cbs.nl
 test.t.cultureelerfgoed.nl
 test.veilig.cultureelerfgoed.nl
+test.webservices.donorregister.nl
 test202007201227.dictu.nl
 test202007201240.dictu.nl
 test202007201242.dictu.nl
@@ -2185,6 +2202,7 @@ webservices-test4.belastingdienst.nl
 webservices.belastingdienst.nl
 webservices.bigregister.nl
 webservices.dictu.nl
+webservices.donorregister.nl
 webservices.lrza.cibg.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
@@ -2401,6 +2419,7 @@ www.dihoo.eu
 www.dihoo.nl
 www.dji.nl
 www.domeinenrz.nl
+www.donorregister.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
