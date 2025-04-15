@@ -25,6 +25,7 @@ vpn
 webservices
 login
 sharepoint
+sip
 vpn2
 webmail
 prod
@@ -41,7 +42,7 @@ connect
 av
 lync
 meet
-sip
+meldingen
 prd
 smtp1
 geodata
@@ -89,6 +90,7 @@ digikoppeling2
 a-cms
 t-cms
 _autodiscover._tcp
+formulier
 a-magazines
 mail01
 mailing
@@ -123,7 +125,6 @@ zorgenwerknetwerk
 b-acc
 bezwaar
 feedback
-meldingen
 rivm
 pushmail
 rdgateway
@@ -1383,7 +1384,6 @@ data
 data.geo
 erfgoedmonitor
 faro
-formulier
 foto-opdracht
 geo
 idselect
@@ -1768,3 +1768,19 @@ mailings
 max
 www.acc.mijn
 www.mijn
+acceptatiepan
+cher
+ehd
+ehp
+ehp2
+ehpzee
+mivp
+pan
+preprodcher
+preprodehd
+preprodehp
+preprodehp2
+preprodehpzee
+preprodmivp
+preprodrev
+rev
