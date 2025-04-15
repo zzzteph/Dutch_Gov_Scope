@@ -819,6 +819,7 @@ emm-online.nl
 emm.belastingdienst.nl
 encryption-auth-acc.dictu.nl
 encryption-auth-prod.dictu.nl
+energierijkdenhaag.nl
 engine.acc.fhub.dictu.nl
 engine.fhub.dictu.nl
 english.aivd.nl
@@ -1005,6 +1006,7 @@ feeds.elkeregiotelt.nl
 feeds.emissieautoriteit.nl
 feeds.emissionsauthority.nl
 feeds.emm-online.nl
+feeds.energierijkdenhaag.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1711,6 +1713,7 @@ opendata.elkeregiotelt.nl
 opendata.emissieautoriteit.nl
 opendata.emissionsauthority.nl
 opendata.emm-online.nl
+opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2560,6 +2563,7 @@ www.elkeregiotelt.nl
 www.emissieautoriteit.nl
 www.emissionsauthority.nl
 www.emm-online.nl
+www.energierijkdenhaag.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
