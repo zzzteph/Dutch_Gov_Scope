@@ -1384,6 +1384,7 @@ fibt2.acc.belastingdienst.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
 files.iplo.nl
+files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
@@ -1785,6 +1786,7 @@ kimnet.nl
 kinderbescherming.nl
 kko.dictu.nl
 klanttoegang.cbs.nl
+klimaatadaptatienederland.nl
 klopt.cibg.nl
 klussenbank-acc.dictu.nl
 klussenbank.dictu.nl
@@ -3291,6 +3293,7 @@ wikixl-saml.test.cultureelerfgoed.nl
 wio.ilent.nl
 wist-fpi.hhdelfland.nl
 wms.aanpakringzuid.nl
+woordenboek.klimaatadaptatienederland.nl
 workspace.hhdelfland.nl
 wpx-80-aix-http.acc.douane.nl
 wpx-80-aix-http.douane.nl
@@ -3649,6 +3652,7 @@ www.kiesraad.nl
 www.kik-v.nl
 www.kimnet.nl
 www.kinderbescherming.nl
+www.klimaatadaptatienederland.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
