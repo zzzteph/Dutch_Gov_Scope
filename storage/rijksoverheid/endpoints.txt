@@ -33,6 +33,7 @@ http://autodiscover.domeinenrz.nl
 http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
+http://autodiscover.knmi.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
@@ -41,13 +42,16 @@ http://bureau-reach.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
+http://cesar-database.knmi.nl
 http://cev.nl
 http://chat.cbs.nl
 http://coronadashboard.government.nl
 http://detoekomstbegintnu.brabant.nl
+http://download.webmail.knmi.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://embraceintranet.flevoland.nl
+http://extern.knmi.nl
 http://formulier-beheer.dus-i.nl
 http://geo2.flevoland.nl
 http://geoservices2.cbs.nl
@@ -93,6 +97,7 @@ http://pms-acc.dictu.nl
 http://prd.archis.cultureelerfgoed.nl
 http://prod.flevoland.nl
 http://proeftuin.gf.irealisatie.nl
+http://projects.knmi.nl
 http://prs-stub.proeftuin.gf.irealisatie.nl
 http://prs-stub.test.gf.irealisatie.nl
 http://prs.test.zm.irealisatie.nl
@@ -105,6 +110,7 @@ http://qualification-admin.test.zm.irealisatie.nl
 http://qualification-api.test.zm.irealisatie.nl
 http://qualification.test.zm.irealisatie.nl
 http://release.isis-web.nl
+http://reserved-cesar-db.knmi.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -136,6 +142,7 @@ http://test.gf.irealisatie.nl
 http://test.mgo.irealisatie.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
+http://testconn.knmi.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
 http://tst.subsidie.cultureelerfgoed.nl
@@ -148,7 +155,9 @@ http://uzi.test.brba.nl
 http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://voi.brabant.nl
+http://w3dxweb.knmi.nl
 http://web.proeftuin.gf.irealisatie.nl
+http://webmail.knmi.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.bacterial-meningitis.nl
 http://www.beeldbank.cultureelerfgoed.nl
@@ -210,6 +219,7 @@ https://acc.justis.nl
 https://acc.justitieconnect.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.rd.dictu.nl
+https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
@@ -257,6 +267,7 @@ https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://acs-acpt.brabant.nl
 https://acs.brabant.nl
+https://adaguc.knmi.nl
 https://adc3.cbs.nl
 https://adc7.cbs.nl
 https://adfs.flevoland.nl
@@ -291,6 +302,7 @@ https://algemenebestuursdienst.nl
 https://allesoverbiologisch.nl
 https://ambtelijkerechtspositie.nl
 https://animalfreeinnovationtpi.nl
+https://anonymous.api.dataplatform.knmi.nl
 https://antennebureau.nl
 https://antwoord.cbs.nl
 https://api-acc.dashboardgroningen.nl
@@ -301,6 +313,7 @@ https://api.brabant.nl
 https://api.caelus-tool.nl
 https://api.contenttoolsrijksoverheid.nl
 https://api.dashboardgroningen.nl
+https://api.dataplatform.knmi.nl
 https://api.jeugdconnect.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
@@ -428,6 +441,7 @@ https://bromonitor.nl
 https://bron.nl
 https://bronbeek.nl
 https://bronhouderportaal-bro.nl
+https://browser.dataplatform.knmi.nl
 https://btiv.datawonen.nl
 https://bureaubiosecurity.nl
 https://bureauncdr.nl
@@ -439,6 +453,8 @@ https://bvs.belastingdienst.nl
 https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://c2000.nl
+https://c3surf.knmi.nl
+https://cabauw.knmi.nl
 https://cabinetspecialenvoy.com
 https://cadmium-pig.apps.feedfoodtransfer.nl
 https://caelus-tool.nl
@@ -459,6 +475,7 @@ https://cciwebstats.belastingdienst.nl
 https://ccmo.nl
 https://cdn.cbs.nl
 https://cdn.klopt.cibg.nl
+https://cdn.knmi.nl
 https://ceg.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://centraalexamen.nl
@@ -484,7 +501,9 @@ https://cibg.nl
 https://circulaireviaducten.nl
 https://circulairinkopen.nl
 https://claircitydata.cbs.nl
+https://climexp.knmi.nl
 https://clusterbuster.nl
+https://cms-origin.klimaatscenarios-data.knmi.nl
 https://cms.beeldkompas.nl
 https://cms.bureaubiosecurity.nl
 https://cms.contenttoolsrijksoverheid.nl
@@ -502,6 +521,7 @@ https://commissievanaanbestedingsexperts.nl
 https://communicatierijk.nl
 https://compensationsns.nl
 https://competentie.flevoland.nl
+https://confluence.knmi.nl
 https://connect-acpt.dji.nl
 https://connect-acpt.justitieleictorganisatie.nl
 https://connect-acpt.kinderbescherming.nl
@@ -512,9 +532,11 @@ https://connect.dji.nl
 https://connect.ikz.nl
 https://connect.justitieleictorganisatie.nl
 https://connect.kinderbescherming.nl
+https://connect.knmi.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://consexponano.nl
+https://consultatie.knmi.nl
 https://contactpuntbouwproducten.nl
 https://content.cbs.nl
 https://content.klopt.cibg.nl
@@ -546,14 +568,18 @@ https://cultuursubsidie.nl
 https://cvte.nl
 https://cybersecuritycouncil.nl
 https://cybersecurityraad.nl
+https://daggegevens.knmi.nl
 https://dashboard.ikz.nl
 https://dashboardgroningen.nl
 https://dashboards.cbs.nl
 https://data.cultureelerfgoed.nl
 https://data.flevoland.nl
 https://data.geo.cultureelerfgoed.nl
+https://data.knmi.nl
 https://databestanden.cbs.nl
 https://dataderden.cbs.nl
+https://datalab.knmi.nl
+https://dataplatform.knmi.nl
 https://dataportaal.brabant.nl
 https://dataportaal.cbs.nl
 https://dataportal.cbs.nl
@@ -578,6 +604,7 @@ https://designsystem.cibg.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
 https://dev.cerberus.cbs.nl
+https://developer.dataplatform.knmi.nl
 https://dezi.nl
 https://dfg.datawonen.nl
 https://dggf.nl
@@ -632,6 +659,7 @@ https://dvp-proxy.acc.mgo.irealisatie.nl
 https://dvp-proxy.test.mgo.irealisatie.nl
 https://dwangindezorg.nl
 https://dwo.ctgb.nl
+https://dwo.knmi.nl
 https://e-akkoord.nl
 https://e-loket.ilent.nl
 https://e.acc.videobellen.douane.nl
@@ -648,6 +676,7 @@ https://efeat.org
 https://efm.belastingdienst.nl
 https://eforms.ind.nl
 https://egain-com.cbs.nl
+https://egvap.knmi.nl
 https://ehd.emissieautoriteit.nl
 https://ehp.emissieautoriteit.nl
 https://ehp2.emissieautoriteit.nl
@@ -720,6 +749,7 @@ https://excellentescholen.nl
 https://exchange.flevoland.nl
 https://exchangerate.douane.nl
 https://exchangeratetest.douane.nl
+https://exons-website-manager.mijn.knmi.nl
 https://expertisecentrummggz.nl
 https://extern.formulierdus-i.nl
 https://f2b.belastingdienst.nl
@@ -938,6 +968,7 @@ https://formulieren.brabant.nl
 https://formulieren.flevoland.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
+https://fs.knmi.nl
 https://fsvportaal.belastingdienst.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.dji.nl
@@ -970,6 +1001,7 @@ https://georegister.flevoland.nl
 https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
 https://geoservices.hdsr.nl
+https://geoservices.knmi.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://gezondeleefomgeving.nl
 https://gezondheidsraad.nl
@@ -978,6 +1010,7 @@ https://gipdatabank.nl
 https://gisextern.dictu.nl
 https://gisservices.aaenmaas.nl
 https://github.apps.feedfoodtransfer.nl
+https://gladheid.knmi.nl
 https://globalhealthhub.nl
 https://gobernadoraruba.com
 https://gobernadorkorsou.com
@@ -1002,6 +1035,7 @@ https://gw.defensie.nl
 https://halt-verwijs.jeugdconnect.nl
 https://handelingenbank.info
 https://hansken.nl
+https://hapi.spaceweather.knmi.nl
 https://hcib.datawonen.nl
 https://hdsr.nl
 https://healthcouncil.nl
@@ -1084,6 +1118,7 @@ https://iob-evaluatie.nl
 https://iob.justid.nl
 https://iplo.nl
 https://irealisatie.nl
+https://iris.knmi.nl
 https://ishetafval.nl
 https://isi.cbs.nl
 https://isis-web.nl
@@ -1105,6 +1140,7 @@ https://jeugdmonitor.cbs.nl
 https://jeugdstatline.cbs.nl
 https://jip.inspectie-jenv.nl
 https://jira.dictu.nl
+https://jira.knmi.nl
 https://jmopendata.cbs.nl
 https://jokesmitprijs.nl
 https://justid.nl
@@ -1135,8 +1171,10 @@ https://kinderbescherming.nl
 https://klanttoegang.cbs.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
+https://klimaatscenarios-data.knmi.nl
 https://klussenbank-acc.dictu.nl
 https://klussenbank.dictu.nl
+https://knmi.nl
 https://komerbij-pakket2024.evenementenbureauvws.nl
 https://kpm.jeugdconnect.nl
 https://landelijkeopeningwte2024.evenementenbureauvws.nl
@@ -1247,6 +1285,7 @@ https://mijn.huurcommissie.nl
 https://mijn.igj.nl
 https://mijn.inburgeren.nl
 https://mijn.justis.nl
+https://mijn.knmi.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
 https://mijndouane.belastingdienst.nl
@@ -1261,10 +1300,13 @@ https://mlzopendata.cbs.nl
 https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
 https://mn.datawonen.nl
+https://mode-s.knmi.nl
 https://modellen.jenvgegevens.nl
 https://modules.istandaarden.nl
 https://monitorwonen.flevoland.nl
 https://monumentenregister.cultureelerfgoed.nl
+https://mqtt.dataplatform.knmi.nl
+https://msgcpp.knmi.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mta-sts.mail.cggp.nl
@@ -1277,6 +1319,7 @@ https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://nationaalcohortonderzoek.cbs.nl
 https://natuurbeheerplan.flevoland.nl
+https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
 https://nh.douane.nl
@@ -1486,6 +1529,7 @@ https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
 https://opvragen.ep-online.nl
 https://origin.api.contenttoolsrijksoverheid.nl
+https://origin.klimaatscenarios-data.knmi.nl
 https://oto.cbs.nl
 https://otv-web.proeftuin.gf.irealisatie.nl
 https://otv-web.test.gf.irealisatie.nl
@@ -1494,7 +1538,9 @@ https://overhandigingroadmapnucleairegeneeskunde.evenementenbureauvws.nl
 https://overzicht.cbs.nl
 https://ovverklaringen.belastingdienst.nl
 https://papiamentu.belastingdienst-cn.nl
+https://password-new.knmi.nl
 https://password.ctgb.nl
+https://password.knmi.nl
 https://pesticidesdatabase.ctgb.nl
 https://pgw.belastingdienst.nl
 https://pih.belastingdienst.nl
@@ -1562,6 +1608,7 @@ https://pushmail.awti.nl
 https://pushmail.flevoland.nl
 https://pwik.datawonen.nl
 https://raadplegen.donorregister.nl
+https://rdsa.knmi.nl
 https://redactie-acc.cbs.nl
 https://redactie-tl.iplo.nl
 https://redactie.cbs.nl
@@ -1593,6 +1640,7 @@ https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
 https://sbi.cbs.nl
 https://scansys.huurcommissie.nl
+https://scatterometer.knmi.nl
 https://scheiden.belastingdienst.nl
 https://sdg.government.nl
 https://sdmx.cbs.nl
@@ -1601,6 +1649,7 @@ https://services-preprod.ep-online.nl
 https://services.belastingdienst.nl
 https://services.ep-online.nl
 https://sf.ctgb.nl
+https://sf.knmi.nl
 https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://sharepoint.aaenmaas.nl
@@ -1616,6 +1665,7 @@ https://smtp1.awti.nl
 https://snow-cw.dictu.nl
 https://socialmediamonitor.jeugdconnect.nl
 https://sorry.belastingdienst.nl
+https://spaceweather.knmi.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
 https://sso-acc2.bronhouderportaal-bro.nl
 https://sso.acceptatie.istandaarden.nl
@@ -1674,6 +1724,7 @@ https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
 https://testeloket.flevoland.nl
+https://testgeoservices.knmi.nl
 https://testkennis.hdsr.nl
 https://testmdm.flevoland.nl
 https://testmonitorwonen.flevoland.nl
@@ -1692,6 +1743,7 @@ https://tunnel.cbs.nl
 https://tunnel1.cbs.nl
 https://tvep.dictu.nl
 https://tvs.dictu.nl
+https://tyk-cdn.dataplatform.knmi.nl
 https://uag.cbs.nl
 https://uconnect-acc.hdsr.nl
 https://uconnect.hdsr.nl
@@ -1791,8 +1843,10 @@ https://wifi.dictu.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://wio.ilent.nl
+https://wms-viewer.dataplatform.knmi.nl
 https://wms.aanpakringzuid.nl
 https://woordenboek.klimaatadaptatienederland.nl
+https://wow.knmi.nl
 https://wpx-80-aix-http.douane.nl
 https://wsus.hdsr.nl
 https://www-a.grensinfo.nl
@@ -1940,6 +1994,7 @@ https://www.cultuursubsidie.nl
 https://www.cvte.nl
 https://www.cybersecuritycouncil.nl
 https://www.cybersecurityraad.nl
+https://www.daggegevens.knmi.nl
 https://www.dashboardgroningen.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
@@ -2080,6 +2135,8 @@ https://www.kimnet.nl
 https://www.kinderbescherming.nl
 https://www.klimaatadaptatienederland.nl
 https://www.klimaatakkoord.nl
+https://www.klimaatscenarios-data.knmi.nl
+https://www.knmi.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
