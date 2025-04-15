@@ -1190,6 +1190,7 @@ feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
 feeds.healthcouncil.nl
+feeds.hoesterkstaik.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2047,6 +2048,7 @@ opendata.groeiennaarmorgen.nl
 opendata.hansken.nl
 opendata.healthcouncil.nl
 opendata.hhdelfland.nl
+opendata.hoesterkstaik.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3057,6 +3059,7 @@ www.healthcouncil.nl
 www.hetverhaalvan.flevoland.nl
 www.hhdelfland.nl
 www.historisch.cbs.nl
+www.hoesterkstaik.nl
 www.ihg.cbs.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
