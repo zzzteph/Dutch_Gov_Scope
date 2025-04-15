@@ -221,7 +221,9 @@ acc.gml.map.services.cultureelerfgoed.nl
 acc.hhdelfland.nl
 acc.inspectieview.nl
 acc.intranet-demo.dictu.nl
+acc.intranet.justis.nl
 acc.irealisatie.nl
+acc.justis.nl
 acc.mgo.irealisatie.nl
 acc.mijn.dus-i.nl
 acc.monumentenregister.cultureelerfgoed.nl
@@ -625,6 +627,7 @@ bms.belastingdienst.nl
 bmt.acc.belastingdienst.nl
 bmt.belastingdienst.nl
 bo-service.brabant.nl
+boa.justis.nl
 bod1-o.dictu.nl
 bod1-t.dictu.nl
 bod2-o.dictu.nl
@@ -1660,6 +1663,7 @@ intranet.cultureelerfgoed.nl
 intranet.dji.nl
 intranet.flevoland.nl
 intranet.justid.nl
+intranet.justis.nl
 intratst.belastingdienst.nl
 investeringsimpulsspv.nl
 iob-evaluatie.nl
@@ -1683,6 +1687,7 @@ iv3-controle.cbs.nl
 iv3-pilot.cbs.nl
 iv3statline.cbs.nl
 jaarverantwoordingzorg.nl
+jaarverslag.justis.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
 jaeger.proeftuin.gf.irealisatie.nl
@@ -1708,6 +1713,7 @@ jmopendata.cbs.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
 justid.nl
+justis.nl
 kaart.flevoland.nl
 kaartbank.brabant.nl
 kaarten.brabant.nl
@@ -1973,6 +1979,7 @@ mijn.examenbladmbo.nl
 mijn.huurcommissie.nl
 mijn.igj.nl
 mijn.inburgeren.nl
+mijn.justis.nl
 mijn.ont.belastingdienst.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -2525,6 +2532,7 @@ prod.asbestvolgsysteem.nl
 prod.cultureelerfgoed.nl
 prod.dictu.nl
 prod.flevoland.nl
+prod.justis.nl
 produ.dictu.nl
 proeftuin.gf.irealisatie.nl
 proeftuin.uzi-online.irealisatie.nl
@@ -2901,6 +2909,8 @@ test.gezondeleefomgeving.nl
 test.gf.irealisatie.nl
 test.handelingenbank.info
 test.intranet-demo.dictu.nl
+test.intranet.justis.nl
+test.justis.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 test.mgo.irealisatie.nl
@@ -2979,6 +2989,7 @@ uzipas.lir.cibg.nl
 va_do.belastingdienst.nl
 vad.acc.mgo.irealisatie.nl
 vad.test.mgo.irealisatie.nl
+validata.justis.nl
 validatie-acc.justid.nl
 validatie.justid.nl
 validationcalculation.douane.nl
@@ -3067,6 +3078,7 @@ vluchtinfo-test.douane.nl
 vluchtinfo.douane.nl
 vocabs.cbs.nl
 vog.jeugdconnect.nl
+vogcheck.justis.nl
 voi.brabant.nl
 voicejouwzeggenschapjouwkracht2024.evenementenbureauvws.nl
 vois.datawonen.nl
@@ -3573,6 +3585,7 @@ www.jeugdautoriteit.nl
 www.jeugdconnect.nl
 www.jokesmitprijs.nl
 www.justid.nl
+www.justis.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
