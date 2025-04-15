@@ -160,6 +160,7 @@ acc.dictu.nl
 acc.e-akkoord.nl
 acc.eentegeneenzaamheid.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
+acc.ep-online.nl
 acc.gisextern.dictu.nl
 acc.gml.map.services.cultureelerfgoed.nl
 acc.intranet-demo.dictu.nl
@@ -171,6 +172,7 @@ acc.stor.services.cultureelerfgoed.nl
 acc.subsidie.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
+acc1.ep-online.nl
 acc2.bronhouderportaal-bro.nl
 accebms.cbs.nl
 accept.digitaleoverheid.nl
@@ -262,6 +264,11 @@ advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
 afasmail.cbs.nl
+afmelden-acc.ep-online.nl
+afmelden-acc1.ep-online.nl
+afmelden-preprod.ep-online.nl
+afmelden.acc.ep-online.nl
+afmelden.ep-online.nl
 afspraak.domeinenrz.nl
 afspraken.belastingdienst.nl
 afspraken.cbs.nl
@@ -308,6 +315,8 @@ api.dashboardgroningen.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
+apikey-preprod.ep-online.nl
+apikey.ep-online.nl
 aplbepa01.belastingdienst.nl
 aplbeqa01.belastingdienst.nl
 app.brabant.nl
@@ -757,6 +766,15 @@ dossierportal.cbs.nl
 douane.nl
 download.belastingdienst.nl
 download.cbs.nl
+downloadmutation-acc.ep-online.nl
+downloadmutation-acc1.ep-online.nl
+downloadmutation.acc.ep-online.nl
+downloadmutation.ep-online.nl
+downloadpdf-acc.ep-online.nl
+downloadpdf-acc1.ep-online.nl
+downloadpdf-preprod.ep-online.nl
+downloadpdf.acc.ep-online.nl
+downloadpdf.ep-online.nl
 dp2021.deltaprogramma.nl
 dp2022.deltaprogramma.nl
 dp2023.deltaprogramma.nl
@@ -852,6 +870,7 @@ enterpriseregistration.domeinenrz.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
+ep-online.nl
 erfgoedmonitor.cultureelerfgoed.nl
 esb-a1.brabant.nl
 esb-acpt.brabant.nl
@@ -1323,6 +1342,8 @@ lyncdiscover.aaenmaas.nl
 lyncmeet.dictu.nl
 lyncwebapps.dictu.nl
 m365.ctgb.nl
+maatwerkadvies-preprod.api.ep-online.nl
+maatwerkadvies.api.ep-online.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazines.algemenebestuursdienst.nl
@@ -1552,6 +1573,8 @@ nimh-beeldbank.defensie.nl
 nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
 noaa.cultureelerfgoed.nl
+notificatie-preprod.api.ep-online.nl
+notificatie.api.ep-online.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 ns1.dictu.nl
@@ -1741,6 +1764,11 @@ openims-dev.ctgb.nl
 openims-test.ctgb.nl
 openims.ctgb.nl
 opleiding-ola.belastingdienst.nl
+opvragen-acc.ep-online.nl
+opvragen-acc1.ep-online.nl
+opvragen-preprod.ep-online.nl
+opvragen.acc.ep-online.nl
+opvragen.ep-online.nl
 origin.api.contenttoolsrijksoverheid.nl
 osb-acpt.brabant.nl
 osb-ontw.brabant.nl
@@ -1837,6 +1865,7 @@ prd.consexponano.nl
 pre.bronhouderportaal-bro.nl
 preprod-kvk.belastingdienst.nl
 preprod-tvs-rd.dictu.nl
+preprod.ep-online.nl
 preprod.idselect.cultureelerfgoed.nl
 preprodcher.emissieautoriteit.nl
 preprodehd.emissieautoriteit.nl
@@ -1861,6 +1890,10 @@ profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
 projecten.cbs.nl
 prototype.cibg.nl
+proxy-epbd-acc.ep-online.nl
+proxy-epbd-w1091p0012.ep-online.nl
+proxy-epbd-w1091p0035.ep-online.nl
+proxy-epbd.ep-online.nl
 proxy.brabant.nl
 proxy.cbs.nl
 proxy.socint.belastingdienst.nl
@@ -1869,6 +1902,10 @@ psarchief.brabant.nl
 psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl
 psproxy.belastingdienst.nl
+public-acc.ep-online.nl
+public-acc1.ep-online.nl
+public-preprod.ep-online.nl
+public.ep-online.nl
 public.mst-acc.ctgb.nl
 public.mst.ctgb.nl
 publicaties.brabant.nl
@@ -1890,6 +1927,9 @@ rdgateway.awti.nl
 redactie-acc.cbs.nl
 redactie-test.cbs.nl
 redactie.cbs.nl
+registreren-acc.ep-online.nl
+registreren-acc1.ep-online.nl
+registreren.ep-online.nl
 relay1.c2000.nl
 relay2.c2000.nl
 research.cbs.nl
@@ -1950,6 +1990,7 @@ sap-pi.belastingdienst.nl
 sbi.cbs.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
 scheiden.belastingdienst.nl
+schemas.ep-online.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
 sdmx-dataviewer.cbs.nl
@@ -1959,9 +2000,13 @@ sdmx.cbs.nl
 seg.cbs.nl
 sepm.belastingdienst.nl
 servicedesk.dictu.nl
+services-acc.ep-online.nl
+services-acc1.ep-online.nl
+services-preprod.ep-online.nl
 services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
+services.ep-online.nl
 services1.domeinenrz.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
@@ -1981,8 +2026,10 @@ sharepoint-ext.belastingdienst.nl
 sharepoint.aaenmaas.nl
 sharepoint.belastingdienst.nl
 sharepoint.douane.nl
+signing-api-acc.ep-online.nl
 signing-auth-acc.dictu.nl
 signing-auth-prod.dictu.nl
+signing.ep-online.nl
 signing.pre.brabant.nl
 simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
@@ -2315,10 +2362,14 @@ webmail.aaenmaas.nl
 webmail.brabant.nl
 webmail.ctivd.nl
 webserver.cbs.nl
+webservice-acc.ep-online.nl
+webservice-acc1.ep-online.nl
 webservice-at-acc.diginetwerk.dictu.nl
 webservice-at-ont.diginetwerk.dictu.nl
 webservice-at-prd.diginetwerk.dictu.nl
 webservice-at-tst.diginetwerk.dictu.nl
+webservice.acc.ep-online.nl
+webservice.ep-online.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
 webservices-digin.belastingdienst.nl
@@ -2378,6 +2429,8 @@ wustest-osb.belastingdienst.nl
 wustest-rijks.belastingdienst.nl
 wustest.belastingdienst.nl
 www-acc.cbs.nl
+www-acc.ep-online.nl
+www-acc1.ep-online.nl
 www-acpt.brabant.nl
 www-ontw.brabant.nl
 www-sc8.brabant.nl
@@ -2398,6 +2451,7 @@ www.aboutnetherlandscustoms.nl
 www.academievoorinternationalebetrekkingen.nl
 www.academyforinternationalrelations.nl
 www.acc-nl-nvwa-dkb-sign.dictu.nl
+www.acc.ep-online.nl
 www.acc.mijn.dus-i.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
 www.acceptatie.clusterbuster.nl
@@ -2569,6 +2623,7 @@ www.emissieautoriteit.nl
 www.emissionsauthority.nl
 www.emm-online.nl
 www.energierijkdenhaag.nl
+www.ep-online.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
@@ -2582,6 +2637,8 @@ www.monumentenregister.cultureelerfgoed.nl
 www.netftp.dictu.nl
 www.opendata.brabant.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
+www.proxy-epbd-acc.ep-online.nl
+www.proxy-epbd.ep-online.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.spamtitan.cbi.eu
@@ -2596,7 +2653,10 @@ www.vt016ed.dictu.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
+www2.acc1.ep-online.nl
+www2.acc1.webapplicaties.ep-online.nl
 www2.zorgcsp.cibg.nl
+www3.ep-online.nl
 wwwfcinetorg.belastingdienst.nl
 wwwnieuw.ctivd.nl
 wwwrijksacademienl.belastingdienst.nl
