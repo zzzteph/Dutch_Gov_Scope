@@ -1262,6 +1262,7 @@ feeds.hwbp.nl
 feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
 feeds.ilent.nl
+feeds.informatieanalyseteam.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1542,6 +1543,7 @@ infomilcn.com
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
+informatieanalyseteam.nl
 inkoopplein-acc.dictu.nl
 inkoopplein.dictu.nl
 inkoopportaal.belastingdienst.nl
@@ -2177,6 +2179,7 @@ opendata.hwbp.nl
 opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
 opendata.ilent.nl
+opendata.informatieanalyseteam.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3271,6 +3274,7 @@ www.ilent.nl
 www.inburgeren.nl
 www.ind.nl
 www.infomilcn.com
+www.informatieanalyseteam.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
