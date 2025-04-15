@@ -6,9 +6,9 @@ english
 a-www
 feeds.english
 opendata.english
+test
 a-feeds
 a-opendata
-test
 acc
 mail
 autodiscover
@@ -42,6 +42,7 @@ academy
 ftp
 portal
 www-acc
+_autodiscover._tcp
 connect
 a-magazines
 av
@@ -106,7 +107,6 @@ digikoppeling
 digikoppeling2
 a-cms
 t-cms
-_autodiscover._tcp
 data
 formulier
 geo
@@ -1959,3 +1959,4 @@ csoacct
 csotest
 odc
 sandbox
+bibliotheek

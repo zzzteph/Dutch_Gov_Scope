@@ -8,6 +8,7 @@ SFS.dictu.nl
 Test-Azure06.dictu.nl
 _autodiscover._tcp.csirtdsp.nl
 _autodiscover._tcp.dutchncca.nl
+_autodiscover._tcp.gezondeleefomgeving.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 a-api.contenttoolsrijksoverheid.nl
@@ -514,6 +515,7 @@ bezoekersdata.flevoland.nl
 bezwaar.atkm.nl
 bgt-test.brabant.nl
 bgt.brabant.nl
+bibliotheek.gezondeleefomgeving.nl
 bideo.belastingdienst.nl
 bigregister.nl
 bijleen.belastingdienst.nl
@@ -1253,6 +1255,7 @@ geoservices.cbs.nl
 geoservices.cultureelerfgoed.nl
 geoservices2.cbs.nl
 gewasbeschermingsmiddelen.ctgb.nl
+gezondeleefomgeving.nl
 gisextern.dictu.nl
 gisservices.aaenmaas.nl
 github.apps.feedfoodtransfer.nl
@@ -2338,6 +2341,7 @@ test.dji.nl
 test.ebms.cbs.nl
 test.flevoland.nl
 test.geoservices.cultureelerfgoed.nl
+test.gezondeleefomgeving.nl
 test.intranet-demo.dictu.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
@@ -2861,6 +2865,7 @@ www.functiegebouwrijksoverheid.nl
 www.gelijke-kansen.nl
 www.geneesmiddeleninformatiebank.nl
 www.geobasisregistraties.nl
+www.gezondeleefomgeving.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
