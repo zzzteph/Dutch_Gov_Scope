@@ -55,6 +55,7 @@ a-feeds.dwangindezorg.nl
 a-feeds.forensicinstitute.nl
 a-feeds.forensischinstituut.nl
 a-feeds.geobasisregistraties.nl
+a-feeds.gezondheidsraad.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
@@ -89,6 +90,7 @@ a-opendata.dwangindezorg.nl
 a-opendata.forensicinstitute.nl
 a-opendata.forensischinstituut.nl
 a-opendata.geobasisregistraties.nl
+a-opendata.gezondheidsraad.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -115,6 +117,7 @@ a-www.dwangindezorg.nl
 a-www.forensicinstitute.nl
 a-www.forensischinstituut.nl
 a-www.geobasisregistraties.nl
+a-www.gezondheidsraad.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1136,6 +1139,7 @@ feeds.forensischezorg.nl
 feeds.forensischinstituut.nl
 feeds.gelijke-kansen.nl
 feeds.geobasisregistraties.nl
+feeds.gezondheidsraad.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1256,6 +1260,7 @@ geoservices.cultureelerfgoed.nl
 geoservices2.cbs.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gezondeleefomgeving.nl
+gezondheidsraad.nl
 gisextern.dictu.nl
 gisservices.aaenmaas.nl
 github.apps.feedfoodtransfer.nl
@@ -1924,6 +1929,7 @@ opendata.forensischezorg.nl
 opendata.forensischinstituut.nl
 opendata.gelijke-kansen.nl
 opendata.geobasisregistraties.nl
+opendata.gezondheidsraad.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2866,6 +2872,7 @@ www.gelijke-kansen.nl
 www.geneesmiddeleninformatiebank.nl
 www.geobasisregistraties.nl
 www.gezondeleefomgeving.nl
+www.gezondheidsraad.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl

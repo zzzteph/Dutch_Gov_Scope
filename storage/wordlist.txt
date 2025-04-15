@@ -4,11 +4,11 @@ opendata
 feeds
 english
 a-www
+a-feeds
+a-opendata
 feeds.english
 opendata.english
 test
-a-feeds
-a-opendata
 acc
 mail
 autodiscover
