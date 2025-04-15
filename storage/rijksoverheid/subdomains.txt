@@ -1342,6 +1342,7 @@ feeds.jeugdautoriteit.nl
 feeds.justid.nl
 feeds.justitieleictorganisatie.nl
 feeds.kabinetsformatie2023.nl
+feeds.kansrijkestartnl.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1729,6 +1730,7 @@ kaarten.brabant.nl
 kaarten.datawonen.nl
 kaarten.hdsr.nl
 kabinetsformatie2023.nl
+kansrijkestartnl.nl
 kantoor.hdsr.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
@@ -1953,6 +1955,7 @@ meldingen.emissieautoriteit.nl
 meldingen.ilent.nl
 meldingen.klopt.cibg.nl
 meldpuntwki.inspectie-jenv.nl
+menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
 messagebox.test.ggdcontact.irealisatie.nl
 metadata-b.test.zm.irealisatie.nl
@@ -2387,6 +2390,7 @@ opendata.jeugdautoriteit.nl
 opendata.justid.nl
 opendata.justitieleictorganisatie.nl
 opendata.kabinetsformatie2023.nl
+opendata.kansrijkestartnl.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3610,6 +3614,7 @@ www.justitieconnect.nl
 www.justitieleictorganisatie.nl
 www.kaarten.brabant.nl
 www.kabinetsformatie2023.nl
+www.kansrijkestartnl.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
