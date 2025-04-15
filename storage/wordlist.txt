@@ -19,8 +19,8 @@ a-opendata.a-english
 acceptatie
 magazines
 api
-webmail
 cms
+webmail
 intranet
 vpn
 webservices
@@ -38,6 +38,7 @@ acceptatie.webservices
 beeldbank
 werkplek
 ftp
+www-acc
 connect
 av
 lync
@@ -84,7 +85,6 @@ designsystem
 geoservices
 onderzoek
 portal
-www-acc
 _dmarc
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
@@ -1856,3 +1856,17 @@ nieuwsbrief
 piwik
 piwik2
 www.nieuwsbrief
+cms-ac
+cms-acc
+cms-dev
+cms-ow
+cms-p
+cms-ts
+cms-tst
+proto
+www-ac
+www-dev
+www-ow
+www-p
+www-ts
+www-tst
