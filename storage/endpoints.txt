@@ -428,6 +428,8 @@ https://crm.cbi.eu
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
 https://csirtdsp.nl
+https://csoacct.functiegebouwrijksoverheid.nl
+https://csotest.functiegebouwrijksoverheid.nl
 https://ctgb.nl
 https://ctivd.nl
 https://ctpveldzicht.nl
@@ -755,6 +757,7 @@ https://fsvportaal.belastingdienst.nl
 https://ftp.dji.nl
 https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
+https://functiegebouwrijksoverheid.nl
 https://gala2024.evenementenbureauvws.nl
 https://gdlo.belastingdienst.nl
 https://gebruiker-beheer.dus-i.nl
@@ -943,6 +946,7 @@ https://notificatie-preprod.api.ep-online.nl
 https://oa.aaenmaas.nl
 https://odata.cbs.nl
 https://odb.belastingdienst.nl
+https://odc.functiegebouwrijksoverheid.nl
 https://oefenvragenlijst.cbs.nl
 https://old-cms.contenttoolsrijksoverheid.nl
 https://old.belastingles.nl
@@ -1159,6 +1163,7 @@ https://s4p.brabant.nl
 https://sa.belastingdienst.nl
 https://sadp.belastingdienst.nl
 https://samenwerken.brabant.nl
+https://sandbox.functiegebouwrijksoverheid.nl
 https://sbi.cbs.nl
 https://scheiden.belastingdienst.nl
 https://sdmx.cbs.nl
@@ -1501,6 +1506,7 @@ https://www.forensicinstitute.nl
 https://www.forensischezorg.nl
 https://www.forensischinstituut.nl
 https://www.formulierdus-i.nl
+https://www.functiegebouwrijksoverheid.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
