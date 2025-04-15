@@ -389,6 +389,7 @@ api.caelus-tool.nl
 api.contenttoolsrijksoverheid.nl
 api.dashboardgroningen.nl
 api.ilent.nl
+api.jeugdconnect.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
@@ -408,6 +409,7 @@ apps.acceptatie.feedfoodtransfer.nl
 apps.dictu.nl
 apps.feedfoodtransfer.nl
 apps.hhdelfland.nl
+apps.jeugdconnect.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
 appvarenflevoland.flevoland.nl
@@ -764,6 +766,7 @@ cms.contenttoolsrijksoverheid.nl
 cms.defensie.nl
 cms.farmacotherapeutischkompas.nl
 cms.hhdelfland.nl
+cms.jeugdconnect.nl
 cms1.defensie.nl
 cms2.defensie.nl
 cmsdev.defensie.nl
@@ -1526,6 +1529,7 @@ gtmzperf.acc.belastingdienst.nl
 gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
 gw.defensie.nl
+halt-verwijs.jeugdconnect.nl
 handelingenbank.info
 hansken.nl
 hapi1.test.zm.irealisatie.nl
@@ -1680,6 +1684,7 @@ jaguar010a.dictu.nl
 jaguar010b.dictu.nl
 jenvgegevens.nl
 jeugdautoriteit.nl
+jeugdconnect.nl
 jeugdmonitor-acc.cbs.nl
 jeugdmonitor-prod.cbs.nl
 jeugdmonitor.cbs.nl
@@ -1726,6 +1731,8 @@ kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 kennissysteem.cibg.nl
 ketentestnvr.belastingdienst.nl
+kimi-infodeling.jeugdconnect.nl
+kimi.jeugdconnect.nl
 kko.dictu.nl
 klanttoegang.cbs.nl
 klopt.cibg.nl
@@ -1733,6 +1740,7 @@ klussenbank-acc.dictu.nl
 klussenbank.dictu.nl
 komerbij-pakket2024.evenementenbureauvws.nl
 kp-moss-ut.tst.belastingdienst.nl
+kpm.jeugdconnect.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
@@ -1747,6 +1755,7 @@ leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
+lij.jeugdconnect.nl
 lil.cultureelerfgoed.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
@@ -2486,6 +2495,7 @@ preprodondertekenen.flevoland.nl
 preprodrev.emissieautoriteit.nl
 presenteren.ont.belastingdienst.nl
 primos.datawonen.nl
+privacy.jeugdconnect.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 prod-kvk.belastingdienst.nl
@@ -2705,6 +2715,7 @@ site1.defensie.nl
 site2.defensie.nl
 site3.defensie.nl
 site4.defensie.nl
+slachtoffer.jeugdconnect.nl
 slechtvalk.brabant.nl
 sltn.bzv.brabant.nl
 smartmobility.flevoland.nl
@@ -2723,6 +2734,7 @@ smtp32.belastingdienst.nl
 smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
 snow-cw.dictu.nl
+socialmediamonitor.jeugdconnect.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 spamtitan.cbi.eu
@@ -3023,6 +3035,7 @@ visieopidentiteit.digitaleoverheid.nl
 vluchtinfo-test.douane.nl
 vluchtinfo.douane.nl
 vocabs.cbs.nl
+vog.jeugdconnect.nl
 voi.brabant.nl
 voicejouwzeggenschapjouwkracht2024.evenementenbureauvws.nl
 vois.datawonen.nl
@@ -3524,6 +3537,7 @@ www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
 www.jenvgegevens.nl
 www.jeugdautoriteit.nl
+www.jeugdconnect.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl

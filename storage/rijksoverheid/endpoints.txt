@@ -294,6 +294,7 @@ https://api.brabant.nl
 https://api.caelus-tool.nl
 https://api.contenttoolsrijksoverheid.nl
 https://api.dashboardgroningen.nl
+https://api.jeugdconnect.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://apikey-preprod.ep-online.nl
@@ -304,6 +305,7 @@ https://app-api.test.mgo.irealisatie.nl
 https://app.brabant.nl
 https://applicationframework.cibg.nl
 https://applications.klopt.cibg.nl
+https://apps.jeugdconnect.nl
 https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
 https://archis.cultureelerfgoed.nl
@@ -478,6 +480,7 @@ https://clusterbuster.nl
 https://cms.beeldkompas.nl
 https://cms.bureaubiosecurity.nl
 https://cms.contenttoolsrijksoverheid.nl
+https://cms.jeugdconnect.nl
 https://cmsintranet.flevoland.nl
 https://cn.cbs.nl
 https://co.formulierdus-i.nl
@@ -969,6 +972,7 @@ https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
 https://gtmz.belastingdienst.nl
 https://gw.defensie.nl
+https://halt-verwijs.jeugdconnect.nl
 https://handelingenbank.info
 https://hansken.nl
 https://hcib.datawonen.nl
@@ -1063,6 +1067,7 @@ https://jaeger.proeftuin.gf.irealisatie.nl
 https://jaeger.test.gf.irealisatie.nl
 https://jenvgegevens.nl
 https://jeugdautoriteit.nl
+https://jeugdconnect.nl
 https://jeugdmonitor-acc.cbs.nl
 https://jeugdmonitor.cbs.nl
 https://jeugdstatline.cbs.nl
@@ -1081,15 +1086,19 @@ https://kennis.hdsr.nl
 https://kennisbank.hhdelfland.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
+https://kimi-infodeling.jeugdconnect.nl
+https://kimi.jeugdconnect.nl
 https://klanttoegang.cbs.nl
 https://klussenbank-acc.dictu.nl
 https://klussenbank.dictu.nl
 https://komerbij-pakket2024.evenementenbureauvws.nl
+https://kpm.jeugdconnect.nl
 https://landelijkeopeningwte2024.evenementenbureauvws.nl
 https://lc.cbs.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://leerplatform.it-academieoverheid.nl
+https://lij.jeugdconnect.nl
 https://lil.cultureelerfgoed.nl
 https://linkeddata.cultureelerfgoed.nl
 https://lir.cibg.nl
@@ -1460,6 +1469,7 @@ https://preprodmivp.emissieautoriteit.nl
 https://preprodondertekenen.flevoland.nl
 https://preprodrev.emissieautoriteit.nl
 https://primos.datawonen.nl
+https://privacy.jeugdconnect.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod.asbestvolgsysteem.nl
@@ -1530,10 +1540,12 @@ https://siem.acc.irealisatie.nl
 https://signing.pre.brabant.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
+https://slachtoffer.jeugdconnect.nl
 https://smartsurveys.cbs.nl
 https://smtp.awti.nl
 https://smtp1.awti.nl
 https://snow-cw.dictu.nl
+https://socialmediamonitor.jeugdconnect.nl
 https://sorry.belastingdienst.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
 https://sso-acc2.bronhouderportaal-bro.nl
@@ -1636,6 +1648,7 @@ https://viep.brba.nl
 https://viep.test.brba.nl
 https://vinden.belastingdienst.nl
 https://vocabs.cbs.nl
+https://vog.jeugdconnect.nl
 https://voicejouwzeggenschapjouwkracht2024.evenementenbureauvws.nl
 https://vois.datawonen.nl
 https://vouch.checkjeprijs.huurcommissie.nl
@@ -1973,6 +1986,7 @@ https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.jenvgegevens.nl
 https://www.jeugdautoriteit.nl
+https://www.jeugdconnect.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
