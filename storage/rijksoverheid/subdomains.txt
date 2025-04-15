@@ -1206,6 +1206,7 @@ feeds.houdmisdaaduitjebuurt.nl
 feeds.huiselijkgeweld.nl
 feeds.huisvoorklokkenluiders.nl
 feeds.huurcommissie.nl
+feeds.hwbp.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1435,6 +1436,7 @@ huisvoorklokkenluiders.nl
 hulpmiddelen.farmatec.nl
 huurcommissie.nl
 huurprijscheck.huurcommissie.nl
+hwbp.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
 hybridexo.cbs.nl
@@ -2086,6 +2088,7 @@ opendata.houdmisdaaduitjebuurt.nl
 opendata.huiselijkgeweld.nl
 opendata.huisvoorklokkenluiders.nl
 opendata.huurcommissie.nl
+opendata.hwbp.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3127,6 +3130,7 @@ www.hrcommunityrijk.nl
 www.huiselijkgeweld.nl
 www.huisvoorklokkenluiders.nl
 www.huurcommissie.nl
+www.hwbp.nl
 www.ihg.cbs.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
