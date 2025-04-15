@@ -69,6 +69,7 @@ luchtfoto
 lync
 meet
 testeloket
+chw
 prd
 pushmail
 smtp
@@ -151,6 +152,7 @@ www-a
 loket
 zaaksysteem-acc
 zaaksysteem
+forms
 sdm
 dialin
 geoportal
@@ -163,7 +165,6 @@ wachtwoordwijzigen
 web
 webgis
 webgisacc
-chw
 web01
 wms
 eavgb-acc
@@ -1995,7 +1996,6 @@ connect.acceptatie
 dms
 edocs
 edocstest
-forms
 geoapps
 geoappstest
 geoportaalhhd
@@ -2159,3 +2159,6 @@ www.acc.auth.wegvervoer
 www.binnenvaart.acc
 www.binnenvaart
 archief
+files
+redactie-tl
+tl
