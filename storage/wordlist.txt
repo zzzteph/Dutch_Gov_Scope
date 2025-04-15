@@ -15,8 +15,8 @@ mail
 a-english
 a-feeds.a-english
 a-opendata.a-english
-acceptatie
 mijn
+acceptatie
 magazines
 api
 cms
@@ -63,6 +63,7 @@ ns3
 ns4
 sharepoint-acc
 sharepoint-conf
+start
 vc
 werken
 acceptatie.behandel
@@ -89,6 +90,7 @@ a-cms
 t-cms
 a-magazines
 mail01
+mailing
 dialin
 eloket
 geoportal
@@ -702,7 +704,6 @@ sorry
 sorry.ont
 splunksyslog.dmz
 stadvanced
-start
 startportaal
 startportaal1
 stturn-tst
@@ -1598,7 +1599,6 @@ mailb01
 mailb02
 mailb03
 mailb04
-mailing
 mbg-ota
 mft.webftp
 mijntoken
@@ -1759,3 +1759,12 @@ vluchtinfo
 werkenbij
 wpx-80-aix-http.acc
 wpx-80-aix-http
+aanvraag
+acc.mijn
+beoordeling
+formulier-beheer
+gebruiker-beheer
+mailings
+max
+www.acc.mijn
+www.mijn
