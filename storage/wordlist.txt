@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-test
 english
+test
 a-www
 a-feeds
 a-opendata
@@ -88,6 +88,7 @@ digikoppeling2
 a-cms
 t-cms
 a-magazines
+mail01
 dialin
 eloket
 geoportal
@@ -1587,7 +1588,6 @@ lyncaccess
 lyncmeet
 lyncwebapps
 mail01.bulk
-mail01
 mail02.bulk
 mail02
 mail03.bulk

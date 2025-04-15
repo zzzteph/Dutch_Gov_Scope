@@ -460,6 +460,7 @@ https://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://drife-f.dji.nl
 https://drms.cibg.nl
+https://dsta.nl
 https://dva.belastingdienst.nl
 https://dvfz.dji.nl
 https://dwo.ctgb.nl
@@ -490,6 +491,7 @@ https://english.dggf.nl
 https://english.dienstterugkeerenvertrek.nl
 https://english.domeinenrz.nl
 https://english.donorregister.nl
+https://english.dsta.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
 https://eovgb-acc.aivd.nl
@@ -590,6 +592,7 @@ https://feeds.dji.nl
 https://feeds.dnadatabank.forensischinstituut.nl
 https://feeds.domeinenrz.nl
 https://feeds.donorregister.nl
+https://feeds.dsta.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -605,6 +608,7 @@ https://feeds.english.dggf.nl
 https://feeds.english.dienstterugkeerenvertrek.nl
 https://feeds.english.domeinenrz.nl
 https://feeds.english.donorregister.nl
+https://feeds.english.dsta.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -861,6 +865,7 @@ https://opendata.dji.nl
 https://opendata.dnadatabank.forensischinstituut.nl
 https://opendata.domeinenrz.nl
 https://opendata.donorregister.nl
+https://opendata.dsta.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -876,6 +881,7 @@ https://opendata.english.dggf.nl
 https://opendata.english.dienstterugkeerenvertrek.nl
 https://opendata.english.domeinenrz.nl
 https://opendata.english.donorregister.nl
+https://opendata.english.dsta.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://origin.api.contenttoolsrijksoverheid.nl
@@ -1216,6 +1222,7 @@ https://www.domeinenrz.nl
 https://www.donorregister.nl
 https://www.douane.nl
 https://www.draaiboekpsie.nl
+https://www.dsta.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl

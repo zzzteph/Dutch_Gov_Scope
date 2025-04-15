@@ -23,6 +23,7 @@ a-english.ctgb.nl
 a-english.ctivd.nl
 a-english.defensie.nl
 a-english.dggf.nl
+a-english.dsta.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -753,6 +754,7 @@ draf-acpt.brabant.nl
 draf.brabant.nl
 drife-f.dji.nl
 drms.cibg.nl
+dsta.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
 duurzameescaperoom-light-vr.belastingdienst.nl
@@ -804,6 +806,7 @@ english.dggf.nl
 english.dienstterugkeerenvertrek.nl
 english.domeinenrz.nl
 english.donorregister.nl
+english.dsta.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
@@ -955,6 +958,7 @@ feeds.dji.nl
 feeds.dnadatabank.forensischinstituut.nl
 feeds.domeinenrz.nl
 feeds.donorregister.nl
+feeds.dsta.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -970,6 +974,7 @@ feeds.english.dggf.nl
 feeds.english.dienstterugkeerenvertrek.nl
 feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
+feeds.english.dsta.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1289,6 +1294,7 @@ mail.dihoo.nl
 mail.domeinenrz.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
+mail01.dsta.nl
 mail02.bulk.dictu.nl
 mail02.dictu.nl
 mail03.bulk.dictu.nl
@@ -1636,6 +1642,7 @@ opendata.dji.nl
 opendata.dnadatabank.forensischinstituut.nl
 opendata.domeinenrz.nl
 opendata.donorregister.nl
+opendata.dsta.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1651,6 +1658,7 @@ opendata.english.dggf.nl
 opendata.english.dienstterugkeerenvertrek.nl
 opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
+opendata.english.dsta.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2456,6 +2464,7 @@ www.domeinenrz.nl
 www.donorregister.nl
 www.douane.nl
 www.draaiboekpsie.nl
+www.dsta.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
