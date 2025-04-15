@@ -3,6 +3,8 @@
 ACC-NL-DICTU-NHR-Sign.dictu.nl
 ACC.RD.dictu.nl
 AutoDiscover.hdsr.nl
+Lrza.gatservices.acc.igj.nl
+Lrza.gatservices.prd.igj.nl
 NL-DICTU-NHR-Sign.dictu.nl
 SFS-ACC.dictu.nl
 SFS.dictu.nl
@@ -27,6 +29,7 @@ a-english.ctivd.nl
 a-english.defensie.nl
 a-english.dggf.nl
 a-english.dsta.nl
+a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -35,6 +38,7 @@ a-feeds.a-english.ctgb.nl
 a-feeds.a-english.ctivd.nl
 a-feeds.a-english.defensie.nl
 a-feeds.a-english.dggf.nl
+a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -59,6 +63,7 @@ a-feeds.geobasisregistraties.nl
 a-feeds.gezondheidsraad.nl
 a-feeds.government.nl
 a-feeds.healthcouncil.nl
+a-feeds.igj.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
@@ -73,6 +78,7 @@ a-opendata.a-english.ctgb.nl
 a-opendata.a-english.ctivd.nl
 a-opendata.a-english.defensie.nl
 a-opendata.a-english.dggf.nl
+a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -97,6 +103,7 @@ a-opendata.geobasisregistraties.nl
 a-opendata.gezondheidsraad.nl
 a-opendata.government.nl
 a-opendata.healthcouncil.nl
+a-opendata.igj.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -127,6 +134,7 @@ a-www.gezondheidsraad.nl
 a-www.gobiernudireino.nl
 a-www.government.nl
 a-www.healthcouncil.nl
+a-www.igj.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -142,6 +150,7 @@ aanvraag.dus-i.nl
 abat.acc.belastingdienst.nl
 abdtopconsult.nl
 abo.digilevering.belastingdienst.nl
+abonneren.toezichtdocumenten.igj.nl
 aboutnetherlandscustoms.nl
 abr.acc.belastingdienst.nl
 abr.belastingdienst.nl
@@ -165,6 +174,7 @@ acc-raadplegen.donorregister.nl
 acc-rd.dictu.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-vinden.cbs.nl
+acc-webservice-tdv.igj.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
@@ -359,6 +369,7 @@ apikey.ep-online.nl
 apkl.huisvoorklokkenluiders.nl
 aplbepa01.belastingdienst.nl
 aplbeqa01.belastingdienst.nl
+apothekersregister.igj.nl
 app.brabant.nl
 appcontent.belastingdienst.nl
 applicationframework.cibg.nl
@@ -757,6 +768,8 @@ cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
 cptst.vcdn.belastingdienst.nl
 crisis.nl
+crisismaatregel.webservices-dbb-acc.igj.nl
+crisismaatregel.webservices-dbb.igj.nl
 crm.cbi.eu
 crmacc.cbi.eu
 crmtest.cbi.eu
@@ -795,6 +808,9 @@ datavoorgezondheid.nl
 datawonen.nl
 datumprikker.belastingdienst.nl
 db.cbg-meb.nl
+dbb-acc.igj.nl
+dbb.igj.nl
+dbbprodmta01.dbb.igj.nl
 dbpmo.belastingdienst.nl
 dcc-ienw.nl
 dcp-time-slot.cbg-meb.nl
@@ -854,6 +870,7 @@ dnsa4.cbs.nl
 doc-acc.bronhouderportaal-bro.nl
 doc.bronhouderportaal-bro.nl
 docs.brba.eu
+documentenapplicatie.igj.nl
 doemee.cbs.nl
 domeinenrz.nl
 donorregister.nl
@@ -968,6 +985,7 @@ english.euthanasiecommissie.nl
 english.farmatec.nl
 english.forensischinstituut.nl
 english.globalhealthhub.nl
+english.igj.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1173,6 +1191,7 @@ feeds.english.dsta.nl
 feeds.english.euthanasiecommissie.nl
 feeds.english.farmatec.nl
 feeds.english.globalhealthhub.nl
+feeds.english.igj.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1207,6 +1226,7 @@ feeds.huiselijkgeweld.nl
 feeds.huisvoorklokkenluiders.nl
 feeds.huurcommissie.nl
 feeds.hwbp.nl
+feeds.igj.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1462,9 +1482,14 @@ idselect.cultureelerfgoed.nl
 idtst.brabant.nl
 ier-online.douane.nl
 iex.acc.belastingdienst.nl
+igj.nl
+igjportaal.webservices-dbb-acc.igj.nl
+igjportaal.webservices-dbb.igj.nl
 ihg.cbs.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
+inbewaringstelling.webservices-dbb-acc.igj.nl
+inbewaringstelling.webservices-dbb.igj.nl
 incassomachtigen.acc.belastingdienst.nl
 incassomachtigen.belastingdienst.nl
 incassomachtigen.str10.acc.belastingdienst.nl
@@ -1592,6 +1617,8 @@ longread.brabant.nl
 longreads.cbs.nl
 lrbh2ha.belastingdienst.nl
 lrbh2hb.belastingdienst.nl
+lrza.gatservices.acc.igj.nl
+lrza.gatservices.prd.igj.nl
 lrza.services.cibg.nl
 luchtfoto.aaenmaas.nl
 luchtfoto.flevoland.nl
@@ -1703,6 +1730,7 @@ micollab.flevoland.nl
 micollabtest.cbs.nl
 microdata.cbs.nl
 mig.cbs.nl
+mijn-acc.igj.nl
 mijn-acc1.belastingdienst.nl
 mijn-api.cbs.nl
 mijn-c1.tst.belastingdienst.nl
@@ -1723,6 +1751,7 @@ mijn.dus-i.nl
 mijn.examenblad.nl
 mijn.examenbladmbo.nl
 mijn.huurcommissie.nl
+mijn.igj.nl
 mijn.ont.belastingdienst.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -2054,6 +2083,7 @@ opendata.english.dsta.nl
 opendata.english.euthanasiecommissie.nl
 opendata.english.farmatec.nl
 opendata.english.globalhealthhub.nl
+opendata.english.igj.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -2089,6 +2119,7 @@ opendata.huiselijkgeweld.nl
 opendata.huisvoorklokkenluiders.nl
 opendata.huurcommissie.nl
 opendata.hwbp.nl
+opendata.igj.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -2363,6 +2394,7 @@ schemas.ep-online.nl
 schouw.flevoland.nl
 screenconnect.hhdelfland.nl
 sdg.government.nl
+sdm.igj.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
 sdmx-dataviewer.cbs.nl
@@ -2481,7 +2513,12 @@ stturn1-tst.belastingdienst.nl
 stubs.tst.belastingdienst.nl
 subsidie.cultureelerfgoed.nl
 sumatra.huurcommissie.nl
+survey-acc.igj.nl
+survey-beheer.igj.nl
+survey-beheeracc.igj.nl
+survey-test.igj.nl
 survey.cibg.nl
+survey.igj.nl
 surveys.cbs.nl
 sva-mix.prod.belastingdienst.nl
 sva.prod.belastingdienst.nl
@@ -2506,6 +2543,14 @@ te205vcciw12f.dmzota.ont.belastingdienst.nl
 tea.bigregister.nl
 teams.hhdelfland.nl
 teamstest.hhdelfland.nl
+tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
+tekortkomingen-wvggz.webservices-dbb.igj.nl
+tekortkomingen-wzd.webservices-dbb-acc.igj.nl
+tekortkomingen-wzd.webservices-dbb.igj.nl
+tekortschieten-wvggz.webservices-dbb-acc.igj.nl
+tekortschieten-wvggz.webservices-dbb.igj.nl
+tekortschieten-wzd.webservices-dbb-acc.igj.nl
+tekortschieten-wzd.webservices-dbb.igj.nl
 telewerk.huurcommissie.nl
 telewerken.hhdelfland.nl
 test-azure06.dictu.nl
@@ -2581,6 +2626,8 @@ toestemming-acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
 toestemming.belastingdienst.nl
 toetsingonline.ccmo.nl
+toezichtdocumenten.igj.nl
+toezichtopzorgnetwerken.igj.nl
 torenvalk.brabant.nl
 tpaw.dictu.nl
 trillingsdata-acc.dictu.nl
@@ -2790,10 +2837,13 @@ webservice-at-acc.diginetwerk.dictu.nl
 webservice-at-ont.diginetwerk.dictu.nl
 webservice-at-prd.diginetwerk.dictu.nl
 webservice-at-tst.diginetwerk.dictu.nl
+webservice-tdv.igj.nl
 webservice.acc.ep-online.nl
 webservice.ep-online.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
+webservices-dbb-acc.igj.nl
+webservices-dbb.igj.nl
 webservices-digin.belastingdienst.nl
 webservices-test2.belastingdienst.nl
 webservices-test4.belastingdienst.nl
@@ -2897,6 +2947,7 @@ www.aanmerking.nl
 www.aanpak-ouderenmishandeling.nl
 www.aanpakringzuid.nl
 www.abdtopconsult.nl
+www.abonneren.toezichtdocumenten.igj.nl
 www.aboutnetherlandscustoms.nl
 www.academievoorinternationalebetrekkingen.nl
 www.academyforinternationalrelations.nl
@@ -3131,6 +3182,7 @@ www.huiselijkgeweld.nl
 www.huisvoorklokkenluiders.nl
 www.huurcommissie.nl
 www.hwbp.nl
+www.igj.nl
 www.ihg.cbs.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl

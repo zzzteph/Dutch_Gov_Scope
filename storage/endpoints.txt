@@ -78,6 +78,8 @@ http://sharepoint-ext.belastingdienst.nl
 http://slechtvalk.brabant.nl
 http://specials.brabant.nl
 http://stijlgids.cibg.nl
+http://survey-acc.igj.nl
+http://survey-beheeracc.igj.nl
 http://survey.cibg.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.bestandenpostbus.nl
@@ -503,6 +505,7 @@ https://dnadatabank.forensischinstituut.nl
 https://doc-acc.bronhouderportaal-bro.nl
 https://doc.bronhouderportaal-bro.nl
 https://docs.brba.eu
+https://documentenapplicatie.igj.nl
 https://doemee.cbs.nl
 https://domeinenrz.nl
 https://donorregister.nl
@@ -581,6 +584,7 @@ https://english.dsta.nl
 https://english.euthanasiecommissie.nl
 https://english.farmatec.nl
 https://english.globalhealthhub.nl
+https://english.igj.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -735,6 +739,7 @@ https://feeds.english.dsta.nl
 https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.farmatec.nl
 https://feeds.english.globalhealthhub.nl
+https://feeds.english.igj.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -769,6 +774,7 @@ https://feeds.huiselijkgeweld.nl
 https://feeds.huisvoorklokkenluiders.nl
 https://feeds.huurcommissie.nl
 https://feeds.hwbp.nl
+https://feeds.igj.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -891,6 +897,7 @@ https://id.brabant.nl
 https://id.flevoland.nl
 https://idppoc-ont.dictu.nl
 https://idselect.cultureelerfgoed.nl
+https://igj.nl
 https://ihg.cbs.nl
 https://incassomachtigen.belastingdienst.nl
 https://inkoopplein.dictu.nl
@@ -995,6 +1002,7 @@ https://micollab.flevoland.nl
 https://micollabtest.cbs.nl
 https://microdata.cbs.nl
 https://mig.cbs.nl
+https://mijn-acc.igj.nl
 https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
 https://mijn.bigregister.nl
@@ -1003,6 +1011,7 @@ https://mijn.donorregister.nl
 https://mijn.examenblad.nl
 https://mijn.examenbladmbo.nl
 https://mijn.huurcommissie.nl
+https://mijn.igj.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
 https://mijndouane.belastingdienst.nl
@@ -1167,6 +1176,7 @@ https://opendata.english.dsta.nl
 https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.farmatec.nl
 https://opendata.english.globalhealthhub.nl
+https://opendata.english.igj.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -1201,6 +1211,7 @@ https://opendata.huiselijkgeweld.nl
 https://opendata.huisvoorklokkenluiders.nl
 https://opendata.huurcommissie.nl
 https://opendata.hwbp.nl
+https://opendata.igj.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1364,6 +1375,7 @@ https://toelatingen.ctgb.nl
 https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
+https://toezichtdocumenten.igj.nl
 https://trillingsdata-acc.dictu.nl
 https://trillingsdata.dictu.nl
 https://tunnel.cbs.nl
@@ -1469,6 +1481,7 @@ https://www.aanmerking.nl
 https://www.aanpak-ouderenmishandeling.nl
 https://www.aanpakringzuid.nl
 https://www.abdtopconsult.nl
+https://www.abonneren.toezichtdocumenten.igj.nl
 https://www.aboutnetherlandscustoms.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academyforinternationalrelations.nl
@@ -1689,6 +1702,7 @@ https://www.huiselijkgeweld.nl
 https://www.huisvoorklokkenluiders.nl
 https://www.huurcommissie.nl
 https://www.hwbp.nl
+https://www.igj.nl
 https://www.ihg.cbs.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
