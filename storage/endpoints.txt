@@ -941,6 +941,7 @@ https://feeds.kimnet.nl
 https://feeds.kinderbescherming.nl
 https://feeds.klimaatakkoord.nl
 https://feeds.knmidata.nl
+https://feeds.knmiprojects.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -1530,6 +1531,7 @@ https://opendata.kimnet.nl
 https://opendata.kinderbescherming.nl
 https://opendata.klimaatakkoord.nl
 https://opendata.knmidata.nl
+https://opendata.knmiprojects.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -2144,6 +2146,7 @@ https://www.klimaatakkoord.nl
 https://www.klimaatscenarios-data.knmi.nl
 https://www.knmi.nl
 https://www.knmidata.nl
+https://www.knmiprojects.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
