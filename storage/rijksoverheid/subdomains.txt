@@ -1191,6 +1191,7 @@ feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
 feeds.healthcouncil.nl
 feeds.hoesterkstaik.nl
+feeds.hogeraadvanadel.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1405,6 +1406,7 @@ historisch.cbs.nl
 historische-luchtfoto.flevoland.nl
 historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
+hogeraadvanadel.nl
 hrz-uag-ext.belastingdienst.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
@@ -2049,6 +2051,7 @@ opendata.hansken.nl
 opendata.healthcouncil.nl
 opendata.hhdelfland.nl
 opendata.hoesterkstaik.nl
+opendata.hogeraadvanadel.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3060,6 +3063,7 @@ www.hetverhaalvan.flevoland.nl
 www.hhdelfland.nl
 www.historisch.cbs.nl
 www.hoesterkstaik.nl
+www.hogeraadvanadel.nl
 www.ihg.cbs.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
