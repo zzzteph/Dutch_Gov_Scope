@@ -4,10 +4,10 @@ opendata
 feeds
 english
 a-www
-a-feeds
-a-opendata
 feeds.english
 opendata.english
+a-feeds
+a-opendata
 test
 acc
 autodiscover
@@ -2158,3 +2158,4 @@ www.acc.auth.binnenvaart
 www.acc.auth.wegvervoer
 www.binnenvaart.acc
 www.binnenvaart
+archief
