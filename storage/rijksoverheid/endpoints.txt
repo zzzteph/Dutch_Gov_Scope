@@ -158,6 +158,7 @@ https://acceptatie.designsystem.cibg.nl
 https://acceptatie.drms.cibg.nl
 https://acceptatie.dustex.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
+https://acceptatie.hulpmiddelen.farmatec.nl
 https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
@@ -533,6 +534,7 @@ https://english.domeinenrz.nl
 https://english.donorregister.nl
 https://english.dsta.nl
 https://english.euthanasiecommissie.nl
+https://english.farmatec.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -560,6 +562,7 @@ https://expertisecentrummggz.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
 https://farmacotherapeutischkompas.nl
+https://farmatec.nl
 https://faro.cultureelerfgoed.nl
 https://feature-cic-673.dev.bcld-config.nl
 https://feature-cicd-deployment.dev.bcld-config.nl
@@ -674,12 +677,14 @@ https://feeds.english.domeinenrz.nl
 https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.euthanasiecommissie.nl
+https://feeds.english.farmatec.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
 https://feeds.expertisecentrummggz.nl
+https://feeds.farmatec.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -736,6 +741,7 @@ https://historisch.cbs.nl
 https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://huisstijl.belastingdienst.nl
+https://hulpmiddelen.farmatec.nl
 https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
 https://ibg.webftp.dictu.nl
@@ -985,12 +991,14 @@ https://opendata.english.domeinenrz.nl
 https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
 https://opendata.english.euthanasiecommissie.nl
+https://opendata.english.farmatec.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
+https://opendata.farmatec.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1383,6 +1391,7 @@ https://www.examenbladmbo.nl
 https://www.excellentescholen.nl
 https://www.expertisecentrummggz.nl
 https://www.farmacotherapeutischkompas.nl
+https://www.farmatec.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.mijn.dus-i.nl
