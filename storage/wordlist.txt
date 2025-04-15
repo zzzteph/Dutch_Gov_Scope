@@ -5,10 +5,10 @@ feeds
 english
 a-www
 test
-a-feeds
-a-opendata
 feeds.english
 opendata.english
+a-feeds
+a-opendata
 acc
 autodiscover
 mail
