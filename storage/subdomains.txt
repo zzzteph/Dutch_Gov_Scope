@@ -1284,6 +1284,7 @@ feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
+feeds.investeringsimpulsspv.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1599,6 +1600,7 @@ intranet.cultureelerfgoed.nl
 intranet.dji.nl
 intranet.flevoland.nl
 intratst.belastingdienst.nl
+investeringsimpulsspv.nl
 ipsec1.dictu.nl
 ipsec2.dictu.nl
 irmpol-acc.dictu.nl
@@ -2220,6 +2222,7 @@ opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
+opendata.investeringsimpulsspv.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3329,6 +3332,7 @@ www.inspectie-oe.nl
 www.inspectiebtd.nl
 www.inspectieview.nl
 www.interventiedatabase.nl
+www.investeringsimpulsspv.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
