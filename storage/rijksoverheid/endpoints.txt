@@ -126,6 +126,7 @@ https://abdtopconsult.nl
 https://aboutnetherlandscustoms.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
+https://academie.ind.nl
 https://academievoorinternationalebetrekkingen.nl
 https://academy.cbs.nl
 https://academy.forensischinstituut.nl
@@ -298,6 +299,7 @@ https://begroting2020.flevoland.nl
 https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://beheer.bigregister.nl
+https://beheer.chat.ind.nl
 https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.lir.cibg.nl
@@ -399,6 +401,7 @@ https://cerberus.cbs.nl
 https://cert.nl
 https://cevo.nl
 https://cggp.nl
+https://chat.ind.nl
 https://chatapi.klopt.cibg.nl
 https://checkjeprijs.huurcommissie.nl
 https://chemischestoffengoedgeregeld.nl
@@ -551,10 +554,12 @@ https://e.videobellen.douane.nl
 https://easyrules.ilent.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
+https://ediensten.ind.nl
 https://eentegeneenzaamheid.nl
 https://eersteenthuis.nl
 https://efeat.org
 https://efm.belastingdienst.nl
+https://eforms.ind.nl
 https://egain-com.cbs.nl
 https://ehd.emissieautoriteit.nl
 https://ehp.emissieautoriteit.nl
@@ -919,6 +924,7 @@ https://ilent.nl
 https://implementatiecoachdi.nl
 https://inburgeren.nl
 https://incassomachtigen.belastingdienst.nl
+https://ind.nl
 https://inkoopplein.dictu.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
@@ -1071,6 +1077,7 @@ https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://notificatie-preprod.api.ep-online.nl
 https://oa.aaenmaas.nl
+https://oap.ind.nl
 https://odata.cbs.nl
 https://odb.belastingdienst.nl
 https://odc.functiegebouwrijksoverheid.nl
@@ -1301,6 +1308,7 @@ https://psarchief.brabant.nl
 https://public-preprod.ep-online.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
+https://public.portal.ind.nl
 https://publicaties.brabant.nl
 https://pushmail.awti.nl
 https://pushmail.flevoland.nl
@@ -1361,6 +1369,7 @@ https://startformuliertest.brabant.nl
 https://startstopmelding-a.hhdelfland.nl
 https://startstopmelding.hhdelfland.nl
 https://stateninformatie.flevoland.nl
+https://statistics.ind.nl
 https://statline.cbs.nl
 https://stc.ilent.nl
 https://stor.services.cultureelerfgoed.nl
@@ -1516,6 +1525,7 @@ https://www.aanpakringzuid.nl
 https://www.abdtopconsult.nl
 https://www.abonneren.toezichtdocumenten.igj.nl
 https://www.aboutnetherlandscustoms.nl
+https://www.academie.ind.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academyforinternationalrelations.nl
 https://www.acc.mijn.dus-i.nl
@@ -1743,6 +1753,7 @@ https://www.ikwerkvoornederland.nl
 https://www.ikz.nl
 https://www.ilent.nl
 https://www.inburgeren.nl
+https://www.ind.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
@@ -1758,6 +1769,7 @@ https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
+https://xmpp.chat.ind.nl
 https://zaaksysteem-acc.hdsr.nl
 https://zaaksysteem-accept.huurcommissie.nl
 https://zaaksysteem.hdsr.nl

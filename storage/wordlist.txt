@@ -30,6 +30,7 @@ connect
 prod
 beeldbank
 werkplek
+portal
 a-magazines
 login
 sharepoint
@@ -49,7 +50,6 @@ sts
 academy
 ftp
 geoservices
-portal
 digikoppeling
 _autodiscover._tcp
 data
@@ -74,6 +74,7 @@ pushmail
 smtp
 smtp1
 geodata
+academie
 adobe-analytics-dc
 adobe-tags
 afspraken
@@ -116,6 +117,7 @@ wifi
 www-test
 broker
 static
+chat
 content
 designsystem
 micollab
@@ -196,7 +198,6 @@ abo.digilevering
 abr.acc
 abr
 academie.acc
-academie
 ace_nat17
 amlc.acc
 amlc.ont
@@ -1134,7 +1135,6 @@ cbs
 cdn
 censushub
 cerberus
-chat
 claircitydata
 cn
 content1
@@ -2125,3 +2125,16 @@ stc
 wio
 vt-mijn
 vt
+beheer.chat
+checkout-acc.portal
+checkout-tst.portal
+checkout.portal
+daf-eforms
+daf
+ediensten
+eforms
+oap
+public.portal
+statistics
+www.academie
+xmpp.chat
