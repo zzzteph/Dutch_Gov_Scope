@@ -5,8 +5,8 @@ feeds
 english
 feeds.english
 opendata.english
-test
 a-www
+test
 a-feeds
 a-opendata
 acc
@@ -92,6 +92,7 @@ wifi
 www-test
 static
 sts
+academy
 designsystem
 geoservices
 micollab
@@ -1075,7 +1076,6 @@ elearning
 spamtitan
 ts
 www.spamtitan
-academy
 acc-ccb
 acc-vinden
 acc.cerberus
