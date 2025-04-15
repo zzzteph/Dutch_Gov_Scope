@@ -752,6 +752,7 @@ https://feeds.government.nl
 https://feeds.grenzeloossamenwerken.nl
 https://feeds.groeiennaarmorgen.nl
 https://feeds.hansken.nl
+https://feeds.healthcouncil.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -839,6 +840,7 @@ https://handelingenbank.info
 https://hansken.nl
 https://hcib.datawonen.nl
 https://hdsr.nl
+https://healthcouncil.nl
 https://helloid.aaenmaas.nl
 https://helpdesk.brba.nl
 https://helpmee.cbs.nl
@@ -1153,6 +1155,7 @@ https://opendata.government.nl
 https://opendata.grenzeloossamenwerken.nl
 https://opendata.groeiennaarmorgen.nl
 https://opendata.hansken.nl
+https://opendata.healthcouncil.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -1613,6 +1616,7 @@ https://www.grenzeloossamenwerken.nl
 https://www.groeiennaarmorgen.nl
 https://www.hansken.nl
 https://www.hdsr.nl
+https://www.healthcouncil.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
