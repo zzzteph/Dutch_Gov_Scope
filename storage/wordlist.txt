@@ -30,6 +30,7 @@ prod
 login
 sip
 webservices
+beeldbank
 werkplek
 data
 proto
@@ -40,7 +41,6 @@ www-p
 www-ts
 www-tst
 acceptatie.beheer
-beeldbank
 formulieren
 mdm
 geoservices
