@@ -16,9 +16,9 @@ mijn
 magazines
 a-english
 acceptatie
+api
 a-feeds.a-english
 a-opendata.a-english
-api
 cms
 intranet
 vpn
@@ -71,6 +71,7 @@ academy
 chat
 ftp
 micollab
+onderzoek
 _dmarc
 digikoppeling
 dwo
@@ -151,7 +152,6 @@ cdn
 content
 dashboards
 designsystem
-onderzoek
 redactie
 tunnel
 uag
@@ -159,6 +159,7 @@ acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
 survey
+a-api
 a-cms
 t-cms
 externemail
@@ -201,6 +202,7 @@ vt
 files
 stats
 privacy
+preview
 mx1
 geoportal
 gisservices
@@ -1357,7 +1359,6 @@ mijnloket-acc
 mijnloket
 ons
 owa
-a-api
 a-next-cms
 a-old-cms
 a-origin.api
@@ -2572,7 +2573,6 @@ vault.lpc
 wiki
 interventies
 prerelease
-preview
 productie
 toolkits
 intern
@@ -2747,3 +2747,15 @@ wegkenmerken
 www.ncis
 www.nt
 xdev.staging
+a-informatieservice
+acc.informatieservice
+acc.opendata
+dev.informatieservice
+dev.opendata
+informatieservice
+links.informatieservice
+mail.informatieservice
+o2.mail.informatieservice
+prod2.opendata
+track
+tst.opendata

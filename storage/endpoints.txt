@@ -207,8 +207,11 @@ https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
 https://Test-Azure06.dictu.nl
 https://a-api.contenttoolsrijksoverheid.nl
+https://a-api.nederlandwereldwijd.nl
 https://a-cms.contenttoolsrijksoverheid.nl
+https://a-informatieservice.nederlandwereldwijd.nl
 https://a-origin.api.contenttoolsrijksoverheid.nl
+https://a-www.nederlandwereldwijd.nl
 https://a2vonderenkerensheide.nl
 https://aaenmaas.nl
 https://aanbiedersmedicijnen.nl
@@ -253,6 +256,7 @@ https://acc.dictu.nl
 https://acc.e-akkoord.nl
 https://acc.e-loket.ilent.nl
 https://acc.gisextern.dictu.nl
+https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieview.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.intranet.justis.nl
@@ -262,6 +266,7 @@ https://acc.leer-rijk.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.natura2000.nl
 https://acc.ncsc.nl
+https://acc.opendata.nederlandwereldwijd.nl
 https://acc.rd.dictu.nl
 https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
@@ -377,6 +382,7 @@ https://api.mijn.acc.ncsc.nl
 https://api.mijn.ncsc.nl
 https://api.mijn.test.ncsc.nl
 https://api.ncsc.nl
+https://api.nederlandwereldwijd.nl
 https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
 https://apkl.huisvoorklokkenluiders.nl
@@ -700,7 +706,9 @@ https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
 https://dev.cbrnsecurity.nctv.nl
 https://dev.cerberus.cbs.nl
+https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kennisbankterrorisme.nctv.nl
+https://dev.opendata.nederlandwereldwijd.nl
 https://developer.dataplatform.knmi.nl
 https://dexter.ndw.nu
 https://dexter.staging.ndw.nu
@@ -1264,6 +1272,7 @@ https://informatieanalyseteam.nl
 https://informatiehuishouding.nl
 https://informatiemodel.istandaarden.nl
 https://informatieportaal.justid.nl
+https://informatieservice.nederlandwereldwijd.nl
 https://inkoopplein.dictu.nl
 https://inloggen-pre.limburg.nl
 https://inloggen-preprod.hhdelfland.nl
@@ -1387,6 +1396,7 @@ https://lij.jeugdconnect.nl
 https://lil.cultureelerfgoed.nl
 https://limburg.nl
 https://linkeddata.cultureelerfgoed.nl
+https://links.informatieservice.nederlandwereldwijd.nl
 https://lintjes.nl
 https://lir.cibg.nl
 https://livecharts.cbs.nl
@@ -1593,6 +1603,7 @@ https://ndwviewer.ndw.nu
 https://nederlanddigitaal.nl
 https://nederlandse-sportraad.nl
 https://nederlandtegengeorganiseerdemisdaad.nl
+https://nederlandwereldwijd.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
@@ -1627,6 +1638,7 @@ https://ondertekenen.limburg.nl
 https://ondertekenentst.brabant.nl
 https://onderzoek.cbs.nl
 https://onderzoek.communicatierijk.nl
+https://onderzoek.nederlandwereldwijd.nl
 https://onderzoek2.cbs.nl
 https://ons.communicatierijk.nl
 https://oordelen.mensenrechten.nl
@@ -1846,6 +1858,7 @@ https://opendata.ndw.nu
 https://opendata.nederlanddigitaal.nl
 https://opendata.nederlandse-sportraad.nl
 https://opendata.nederlandtegengeorganiseerdemisdaad.nl
+https://opendata.nederlandwereldwijd.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1909,6 +1922,7 @@ https://preprodmivp.emissieautoriteit.nl
 https://preprodondertekenen.flevoland.nl
 https://preprodrev.emissieautoriteit.nl
 https://prerelease.loketgezondleven.nl
+https://preview.nederlandwereldwijd.nl
 https://primos.datawonen.nl
 https://privaat.octomon.ncsc.nl
 https://privacy.jeugdconnect.nl
@@ -2109,6 +2123,7 @@ https://trillingsdata-acc.dictu.nl
 https://trillingsdata.dictu.nl
 https://truck-parking.ndw.nu
 https://tst-referentiegegevens.justid.nl
+https://tst.opendata.nederlandwereldwijd.nl
 https://tunnel.cbs.nl
 https://tunnel1.cbs.nl
 https://tvep.dictu.nl
@@ -2579,6 +2594,7 @@ https://www.ndw.nu
 https://www.nederlanddigitaal.nl
 https://www.nederlandse-sportraad.nl
 https://www.nederlandtegengeorganiseerdemisdaad.nl
+https://www.nederlandwereldwijd.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
