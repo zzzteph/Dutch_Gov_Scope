@@ -4,10 +4,10 @@ opendata
 feeds
 english
 a-www
-feeds.english
-opendata.english
 a-feeds
 a-opendata
+feeds.english
+opendata.english
 test
 acc
 autodiscover
@@ -2457,3 +2457,4 @@ wms-viewer.dataplatform
 wow
 www.daggegevens
 www.klimaatscenarios-data
+innovatielab
