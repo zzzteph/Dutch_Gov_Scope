@@ -24,9 +24,9 @@ intranet
 vpn
 connect
 webmail
+portaal
 www-acc
 prod
-portaal
 login
 sip
 webservices
@@ -38,6 +38,7 @@ www-ow
 www-p
 www-ts
 www-tst
+acceptatie.beheer
 beeldbank
 formulieren
 mdm
@@ -57,9 +58,9 @@ geodata
 fs
 services
 zoeken
-acceptatie.beheer
 acceptatie.mijn
 acceptatie.webservices
+beheer
 connect-with
 id
 kaarten
@@ -121,7 +122,6 @@ webdiensten
 werken
 acceptatie.behandel
 acceptatie.zoeken
-beheer
 atlas
 beeldbank-bo
 dataportaal
@@ -2612,3 +2612,6 @@ ngr.acceptatie
 ngr.ontwikkeling
 secure.geodata2
 pas
+acceptatie.portaal
+acceptatie.uzipas.portaal
+uzipas.portaal
