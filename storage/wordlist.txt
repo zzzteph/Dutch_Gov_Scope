@@ -52,6 +52,7 @@ sharepoint
 vpn2
 meldingen
 ontwikkel
+geodata
 fs
 services
 zoeken
@@ -90,7 +91,6 @@ prd
 pushmail
 smtp
 smtp1
-geodata
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
@@ -2606,3 +2606,8 @@ intranet-prod
 jet-test
 zakelijk-acc
 zakelijk
+geodata1
+lab.geodata
+ngr.acceptatie
+ngr.ontwikkeling
+secure.geodata2

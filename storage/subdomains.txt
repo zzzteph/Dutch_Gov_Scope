@@ -1656,6 +1656,8 @@ geoappstest.hhdelfland.nl
 geobasisregistraties.nl
 geodata.basisinformatie-overstromingen.nl
 geodata.cbs.nl
+geodata.nationaalgeoregister.nl
+geodata1.nationaalgeoregister.nl
 geodiensten.flevoland.nl
 geopoc.brabant.nl
 geoportaal-acceptatie.brabant.nl
@@ -2031,6 +2033,7 @@ kpm.jeugdconnect.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
+lab.geodata.nationaalgeoregister.nl
 landelijkeopeningwte2024.evenementenbureauvws.nl
 landelijkregisterkinderopvang.nl
 large.netftp.dictu.nl
@@ -2443,6 +2446,7 @@ nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcohortonderzoek.cbs.nl
 nationaalcoordinatorgroningen.nl
+nationaalgeoregister.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
 neries.knmi.nl
@@ -2454,6 +2458,8 @@ next.huurcommissie.nl
 nextcloud.acc.irealisatie.nl
 nextcloud.irealisatie.nl
 nexus.lpc.logius.nl
+ngr.acceptatie.nationaalgeoregister.nl
+ngr.ontwikkeling.nationaalgeoregister.nl
 nh.acc.douane.nl
 nh.douane.nl
 nhr.flevoland.nl
@@ -3123,6 +3129,7 @@ sdmx-search-beta.cbs.nl
 sdmx-share.cbs.nl
 sdmx.cbs.nl
 secu.knmi.nl
+secure.geodata2.nationaalgeoregister.nl
 secure.knmi.nl
 seg.cbs.nl
 sepm.belastingdienst.nl
@@ -4123,6 +4130,7 @@ www.mobiliteitsscan-info.nl
 www.monitorlangdurigezorg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.nationaalcoordinatorgroningen.nl
+www.nationaalgeoregister.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl
