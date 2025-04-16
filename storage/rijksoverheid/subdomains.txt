@@ -1498,6 +1498,7 @@ feeds.loonaangifteketen.nl
 feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
+feeds.medicineshortagesdefects.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2204,6 +2205,7 @@ mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
 mediaportal.cbs.nl
 medicijnkosten.nl
+medicineshortagesdefects.nl
 meepraten.flevoland.nl
 meet.aaenmaas.nl
 meet.cbg-meb.nl
@@ -2695,6 +2697,7 @@ opendata.loonaangifteketen.nl
 opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
+opendata.medicineshortagesdefects.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -4031,6 +4034,7 @@ www.magazinesrijkswaterstaat.nl
 www.mail.bureauwsnp.nl
 www.marechaussee.nl
 www.medicijnkosten.nl
+www.medicineshortagesdefects.nl
 www.mijn.dus-i.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
