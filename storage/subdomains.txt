@@ -1492,6 +1492,7 @@ feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
 feeds.loonaangifteketen.nl
+feeds.lvmb.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2069,6 +2070,7 @@ luchtfoto.flevoland.nl
 luchtvaartmeteo-test.knmi.nl
 lucom-client.dictu.nl
 lustrumleaguerijk.evenementenbureauvws.nl
+lvmb.nl
 lync.aaenmaas.nl
 lync.dictu.nl
 lyncaccess.dictu.nl
@@ -2679,6 +2681,7 @@ opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
 opendata.loonaangifteketen.nl
+opendata.lvmb.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3999,6 +4002,7 @@ www.loketduurzaameten.nl
 www.loketgentherapie.nl
 www.loketgezondleven.nl
 www.loonaangifteketen.nl
+www.lvmb.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
