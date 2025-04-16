@@ -1519,6 +1519,7 @@ feeds.nationaalcoordinatorgroningen.nl
 feeds.nationaalgroeifonds.nl
 feeds.nationaalrapporteur.nl
 feeds.nationaalwegenbestand.nl
+feeds.nationalebijenstrategie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2456,6 +2457,7 @@ nationaalgeoregister.nl
 nationaalgroeifonds.nl
 nationaalrapporteur.nl
 nationaalwegenbestand.nl
+nationalebijenstrategie.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
 neries.knmi.nl
@@ -2773,6 +2775,7 @@ opendata.nationaalcoordinatorgroningen.nl
 opendata.nationaalgroeifonds.nl
 opendata.nationaalrapporteur.nl
 opendata.nationaalwegenbestand.nl
+opendata.nationalebijenstrategie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -4146,6 +4149,7 @@ www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl
 www.nationaalrapporteur.nl
 www.nationaalwegenbestand.nl
+www.nationalebijenstrategie.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl

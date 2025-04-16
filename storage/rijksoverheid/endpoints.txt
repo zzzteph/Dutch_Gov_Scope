@@ -1022,6 +1022,7 @@ https://feeds.nationaalcoordinatorgroningen.nl
 https://feeds.nationaalgroeifonds.nl
 https://feeds.nationaalrapporteur.nl
 https://feeds.nationaalwegenbestand.nl
+https://feeds.nationalebijenstrategie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1473,6 +1474,7 @@ https://nationaalgeoregister.nl
 https://nationaalgroeifonds.nl
 https://nationaalrapporteur.nl
 https://nationaalwegenbestand.nl
+https://nationalebijenstrategie.nl
 https://natuurbeheerplan.flevoland.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
@@ -1709,6 +1711,7 @@ https://opendata.nationaalcoordinatorgroningen.nl
 https://opendata.nationaalgroeifonds.nl
 https://opendata.nationaalrapporteur.nl
 https://opendata.nationaalwegenbestand.nl
+https://opendata.nationalebijenstrategie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2395,6 +2398,7 @@ https://www.nationaalgeoregister.nl
 https://www.nationaalgroeifonds.nl
 https://www.nationaalrapporteur.nl
 https://www.nationaalwegenbestand.nl
+https://www.nationalebijenstrategie.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
