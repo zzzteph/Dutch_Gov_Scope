@@ -2239,6 +2239,7 @@ metrics.justitieconnect.nl
 metrixinbound.inspecteur.ilent.nl
 mft.webftp.dictu.nl
 mgt.flevoland.nl
+mi-cert.nl
 micollab.cbs.nl
 micollab.flevoland.nl
 micollab.mensenrechten.nl
@@ -2901,6 +2902,7 @@ prod.cultureelerfgoed.nl
 prod.dictu.nl
 prod.flevoland.nl
 prod.justis.nl
+prod.mi-cert.nl
 produ.dictu.nl
 productie.loketgezondleven.nl
 proeftuin.gf.irealisatie.nl
@@ -3314,6 +3316,7 @@ test.kennis.cultureelerfgoed.nl
 test.leefbaarometer.nl
 test.loketgezondleven.nl
 test.mgo.irealisatie.nl
+test.mi-cert.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
@@ -4061,6 +4064,7 @@ www.meldproduct.nl
 www.meldpuntgeneesmiddelentekortendefecten.nl
 www.mensenrechten.nl
 www.metelkaartrekkenwedegrens.nl
+www.mi-cert.nl
 www.mijn.dus-i.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl

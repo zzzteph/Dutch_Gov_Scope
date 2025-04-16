@@ -25,9 +25,9 @@ vpn
 connect
 webmail
 www-acc
+prod
 portaal
 sip
-prod
 webservices
 werkplek
 proto
