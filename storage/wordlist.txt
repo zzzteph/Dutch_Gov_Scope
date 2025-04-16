@@ -38,6 +38,7 @@ beeldbank
 werkplek
 mdm
 ftp
+onderzoek
 redactie
 geo
 proto
@@ -52,7 +53,6 @@ smtp
 acceptatie.beheer
 hybrid
 geoservices
-onderzoek
 portal
 digikoppeling
 _autodiscover._tcp
@@ -104,6 +104,7 @@ zaaksysteem-acc
 zaaksysteem
 forms
 kennisbank
+mijn-acc
 git
 repository
 preview
@@ -239,7 +240,6 @@ sandbox
 www-a
 inloggen
 telewerken
-mijn-acc
 sdm
 acc.api
 vt
@@ -252,6 +252,7 @@ leren
 zoekservice
 acceptatie.portaal
 api.mijn
+iam
 track
 media
 import-acc.organisaties
@@ -2705,7 +2706,6 @@ faq
 fbmonitor
 geojson-converter
 havik
-iam
 internal-docs
 karin
 keycloak
@@ -3512,3 +3512,11 @@ criminalfilesmh17.acc
 criminalfilesmh17
 digitaal
 adviezen
+appl
+callbook
+identificatie
+infoportal
+prod.radar
+radar
+slimmestad
+uploadmodule
