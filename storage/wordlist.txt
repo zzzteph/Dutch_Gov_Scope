@@ -125,6 +125,7 @@ wifi
 www-test
 helpdesk
 web.acc
+acc2
 broker
 doc
 sso
@@ -163,9 +164,11 @@ opendata.dnadatabank
 werkenbij
 acc.mijn
 www.acc
+piwik
 e
 remote
 extern
+www2
 csoacct
 csotest
 sandbox
@@ -1086,7 +1089,6 @@ viep.acc
 viep
 viep.test
 web.test
-acc2
 broker-preprod
 demo
 doc-acc
@@ -1877,7 +1879,6 @@ overhandigingroadmapnucleairegeneeskunde
 voicejouwzeggenschapjouwkracht2024
 webdisk
 nieuwsbrief
-piwik
 piwik2
 www.nieuwsbrief
 cms-ac
@@ -1967,7 +1968,6 @@ co
 portal2
 portalco
 stagefonds
-www2
 odc
 bibliotheek
 coronadashboard

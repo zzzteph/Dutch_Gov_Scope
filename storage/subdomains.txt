@@ -235,6 +235,7 @@ acc.intranet.justis.nl
 acc.irealisatie.nl
 acc.justis.nl
 acc.justitieconnect.nl
+acc.leer-rijk.nl
 acc.mgo.irealisatie.nl
 acc.mijn.dus-i.nl
 acc.mijn.knmi.nl
@@ -249,6 +250,7 @@ acc.translate.services.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
 acc1.ep-online.nl
 acc2.bronhouderportaal-bro.nl
+acc2.leer-rijk.nl
 accebms.cbs.nl
 accept.digitaleoverheid.nl
 acceptatie-checkjeprijs.huurcommissie.nl
@@ -1915,6 +1917,7 @@ le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 leefbaarenveilig.nl
 leefbaarometer.nl
+leer-rijk.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leerplatform.it-academieoverheid.nl
@@ -2638,6 +2641,7 @@ pih.belastingdienst.nl
 piv-rest-test.belastingdienst.nl
 piv-rest.belastingdienst.nl
 piwik.examenblad.nl
+piwik.leer-rijk.nl
 piwik2.examenblad.nl
 pkio.huurcommissie.nl
 pkioverheid.huurcommissie.nl
@@ -3838,6 +3842,7 @@ www.large.netftp.dictu.nl
 www.ldentool.nl
 www.leefbaarenveilig.nl
 www.leefbaarometer.nl
+www.leer-rijk.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
@@ -3870,6 +3875,7 @@ www1.hdsr.nl
 www2.acc1.ep-online.nl
 www2.acc1.webapplicaties.ep-online.nl
 www2.formulierdus-i.nl
+www2.leer-rijk.nl
 www2.zorgcsp.cibg.nl
 www3.ep-online.nl
 wwwfcinetorg.belastingdienst.nl
