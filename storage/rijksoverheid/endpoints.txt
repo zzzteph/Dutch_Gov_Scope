@@ -1,3 +1,4 @@
+http://1.ivory.nctv.nl
 http://AutoDiscover.hdsr.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
@@ -530,6 +531,7 @@ https://cawuitwijkfirewall.hdsr.nl
 https://cbg-meb.nl
 https://cbi.eu
 https://cbp.test.mgo.irealisatie.nl
+https://cbrnsecurity.nctv.nl
 https://cbs.cbs.nl
 https://cbs.nl
 https://cciwebstats.belastingdienst.nl
@@ -634,6 +636,7 @@ https://cts.test.woo.irealisatie.nl
 https://cultureelerfgoed.nl
 https://cultuursubsidie.nl
 https://cvte.nl
+https://cyberawareness.nctv.nl
 https://cybersecuritycouncil.nl
 https://cybersecurityraad.nl
 https://daggegevens.knmi.nl
@@ -671,7 +674,9 @@ https://designsystem.cbs.nl
 https://designsystem.cibg.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
+https://dev.cbrnsecurity.nctv.nl
 https://dev.cerberus.cbs.nl
+https://dev.kennisbankterrorisme.nctv.nl
 https://developer.dataplatform.knmi.nl
 https://dezi.nl
 https://dfg.datawonen.nl
@@ -753,6 +758,10 @@ https://ehp.emissieautoriteit.nl
 https://ehp2.emissieautoriteit.nl
 https://ehpzee.emissieautoriteit.nl
 https://ehs.flevoland.nl
+https://elearning-atb.nctv.nl
+https://elearning-basiscrisisbeheersing.nctv.nl
+https://elearning-irb.nctv.nl
+https://elearning-lcp-egt.nctv.nl
 https://elkeregiotelt.nl
 https://eloket.aaenmaas.nl
 https://eloket.flevoland.nl
@@ -795,6 +804,7 @@ https://english.marechaussee.nl
 https://english.mijncn.nl
 https://english.ncadierproevenbeleid.nl
 https://english.ncsc.nl
+https://english.nctv.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -828,6 +838,7 @@ https://exchangeratetest.douane.nl
 https://exons-website-manager.mijn.knmi.nl
 https://expertisecentrummggz.nl
 https://extern.formulierdus-i.nl
+https://extreemrechts.nctv.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
 https://farmacotherapeutischkompas.nl
@@ -961,6 +972,7 @@ https://feeds.english.marechaussee.nl
 https://feeds.english.mijncn.nl
 https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
+https://feeds.english.nctv.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -1046,6 +1058,7 @@ https://feeds.ncab.nl
 https://feeds.ncadierproevenbeleid.nl
 https://feeds.ncpeh.nl
 https://feeds.ncsc.nl
+https://feeds.nctv.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1288,6 +1301,7 @@ https://kennis.cultureelerfgoed.nl
 https://kennis.hdsr.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
+https://kennisbankterrorisme.nctv.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
@@ -1382,6 +1396,7 @@ https://magazines.informatiehuishouding.nl
 https://magazines.jeugdautoriteit.nl
 https://magazines.kinderbescherming.nl
 https://magazines.ncsc.nl
+https://magazines.nctv.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
@@ -1498,6 +1513,7 @@ https://mul.belastingdienst.nl
 https://mvstat.cbs.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
+https://nac.nctv.nl
 https://nationaalcohortonderzoek.cbs.nl
 https://nationaalcoordinatorgroningen.nl
 https://nationaalgeoregister.nl
@@ -1511,6 +1527,7 @@ https://ncab.nl
 https://ncadierproevenbeleid.nl
 https://ncpeh.nl
 https://ncsc.nl
+https://nctv.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
@@ -1668,6 +1685,7 @@ https://opendata.english.marechaussee.nl
 https://opendata.english.mijncn.nl
 https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
+https://opendata.english.nctv.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -1753,6 +1771,7 @@ https://opendata.ncab.nl
 https://opendata.ncadierproevenbeleid.nl
 https://opendata.ncpeh.nl
 https://opendata.ncsc.nl
+https://opendata.nctv.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1774,6 +1793,7 @@ https://password-new.knmi.nl
 https://password.ctgb.nl
 https://password.knmi.nl
 https://pesticidesdatabase.ctgb.nl
+https://pge.nctv.nl
 https://pgw.belastingdienst.nl
 https://pih.belastingdienst.nl
 https://pleio.kiesraad.nl
@@ -1818,6 +1838,7 @@ https://prerelease.loketgezondleven.nl
 https://primos.datawonen.nl
 https://privaat.octomon.ncsc.nl
 https://privacy.jeugdconnect.nl
+https://privacy.nctv.nl
 https://private.acc.justitieconnect.nl
 https://private.acc.staging.justitieconnect.nl
 https://private.justitieconnect.nl
@@ -1852,6 +1873,7 @@ https://pushmail.awti.nl
 https://pushmail.flevoland.nl
 https://pwik.datawonen.nl
 https://raadplegen.donorregister.nl
+https://radicaalofpuberaal.nctv.nl
 https://rdsa.knmi.nl
 https://redactie-acc.cbs.nl
 https://redactie-tl.iplo.nl
@@ -2455,6 +2477,7 @@ https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
 https://www.ncpeh.nl
 https://www.ncsc.nl
+https://www.nctv.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
