@@ -1204,6 +1204,7 @@ english.iob-evaluatie.nl
 english.kiesraad.nl
 english.kimnet.nl
 english.knmidata.nl
+english.marechaussee.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1427,6 +1428,7 @@ feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
 feeds.english.knmidata.nl
+feeds.english.marechaussee.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1495,6 +1497,7 @@ feeds.lintjes.nl
 feeds.loonaangifteketen.nl
 feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
+feeds.marechaussee.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2168,6 +2171,7 @@ mam.knmi.nl
 managedservices.logius.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
+marechaussee.nl
 mass.cultureelerfgoed.nl
 master-browser.dataplatform.knmi.nl
 matchingsapp.cbs.nl
@@ -2619,6 +2623,7 @@ opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
 opendata.english.knmidata.nl
+opendata.english.marechaussee.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -2688,6 +2693,7 @@ opendata.lintjes.nl
 opendata.loonaangifteketen.nl
 opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
+opendata.marechaussee.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -4014,6 +4020,7 @@ www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.magazinesrijkswaterstaat.nl
 www.mail.bureauwsnp.nl
+www.marechaussee.nl
 www.mijn.dus-i.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
