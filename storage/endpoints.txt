@@ -259,6 +259,7 @@ https://acc.justitieconnect.nl
 https://acc.leer-rijk.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.natura2000.nl
+https://acc.ncsc.nl
 https://acc.rd.dictu.nl
 https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
@@ -328,6 +329,8 @@ https://adviescommissievolkenrecht.nl
 https://adviesraadinternationalevraagstukken.nl
 https://adviesraadmigratie.nl
 https://advieswijzer.bigregister.nl
+https://advisories.ncsc.nl
+https://advisories.test.ncsc.nl
 https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
 https://aeriusproducten.nl
@@ -354,6 +357,7 @@ https://antwoord.cbs.nl
 https://api-acc.dashboardgroningen.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
+https://api.acc.ncsc.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.caelus-tool.nl
@@ -363,6 +367,10 @@ https://api.dataplatform.knmi.nl
 https://api.jeugdconnect.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
+https://api.mijn.acc.ncsc.nl
+https://api.mijn.ncsc.nl
+https://api.mijn.test.ncsc.nl
+https://api.ncsc.nl
 https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
 https://apkl.huisvoorklokkenluiders.nl
@@ -545,6 +553,7 @@ https://cevo.nl
 https://cggp.nl
 https://channels.lpc.logius.nl
 https://chat.ind.nl
+https://chat.ncsc.nl
 https://chatapi.klopt.cibg.nl
 https://checkjeprijs.huurcommissie.nl
 https://chemischestoffengoedgeregeld.nl
@@ -611,6 +620,7 @@ https://crisis.nl
 https://crm.cbi.eu
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
+https://csaf.data.security.ncsc.nl
 https://csirtdsp.nl
 https://csoacct.functiegebouwrijksoverheid.nl
 https://csoacct.ikwerkvoornederland.nl
@@ -784,6 +794,7 @@ https://english.knmidata.nl
 https://english.marechaussee.nl
 https://english.mijncn.nl
 https://english.ncadierproevenbeleid.nl
+https://english.ncsc.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -949,6 +960,7 @@ https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
 https://feeds.english.mijncn.nl
 https://feeds.english.ncadierproevenbeleid.nl
+https://feeds.english.ncsc.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -1033,6 +1045,7 @@ https://feeds.nationalebijenstrategie.nl
 https://feeds.ncab.nl
 https://feeds.ncadierproevenbeleid.nl
 https://feeds.ncpeh.nl
+https://feeds.ncsc.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1113,6 +1126,8 @@ https://gisextern.dictu.nl
 https://gisservices.aaenmaas.nl
 https://gitdocumentatie.logius.nl
 https://github.apps.feedfoodtransfer.nl
+https://gl.ncsc.nl
+https://gl1.ncsc.nl
 https://gladheid.knmi.nl
 https://globalhealthhub.nl
 https://gobernadoraruba.com
@@ -1366,6 +1381,7 @@ https://magazines.ilent.nl
 https://magazines.informatiehuishouding.nl
 https://magazines.jeugdautoriteit.nl
 https://magazines.kinderbescherming.nl
+https://magazines.ncsc.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
@@ -1412,6 +1428,7 @@ https://meldingen.klopt.cibg.nl
 https://meldproduct.nl
 https://meldpuntgeneesmiddelentekortendefecten.nl
 https://meldpuntwki.inspectie-jenv.nl
+https://melissa.ncsc.nl
 https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
 https://metelkaartrekkenwedegrens.nl
@@ -1426,6 +1443,7 @@ https://microdata.cbs.nl
 https://microfoonbanden.nl
 https://mig.cbs.nl
 https://mijn-acc.igj.nl
+https://mijn.acc.ncsc.nl
 https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
 https://mijn.bigregister.nl
@@ -1438,7 +1456,9 @@ https://mijn.igj.nl
 https://mijn.inburgeren.nl
 https://mijn.justis.nl
 https://mijn.knmi.nl
+https://mijn.ncsc.nl
 https://mijn.rvo.nl
+https://mijn.test.ncsc.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
 https://mijncn.nl
@@ -1490,6 +1510,7 @@ https://natuurbeheerplan.flevoland.nl
 https://ncab.nl
 https://ncadierproevenbeleid.nl
 https://ncpeh.nl
+https://ncsc.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
@@ -1646,6 +1667,7 @@ https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
 https://opendata.english.mijncn.nl
 https://opendata.english.ncadierproevenbeleid.nl
+https://opendata.english.ncsc.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -1730,6 +1752,7 @@ https://opendata.nationalebijenstrategie.nl
 https://opendata.ncab.nl
 https://opendata.ncadierproevenbeleid.nl
 https://opendata.ncpeh.nl
+https://opendata.ncsc.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1793,6 +1816,7 @@ https://preprodondertekenen.flevoland.nl
 https://preprodrev.emissieautoriteit.nl
 https://prerelease.loketgezondleven.nl
 https://primos.datawonen.nl
+https://privaat.octomon.ncsc.nl
 https://privacy.jeugdconnect.nl
 https://private.acc.justitieconnect.nl
 https://private.acc.staging.justitieconnect.nl
@@ -1868,6 +1892,8 @@ https://scatterometer.knmi.nl
 https://scheiden.belastingdienst.nl
 https://sdg.government.nl
 https://sdmx.cbs.nl
+https://securened.ncsc.nl
+https://securenet.ncsc.nl
 https://servicedesk.dictu.nl
 https://services-preprod.ep-online.nl
 https://services.belastingdienst.nl
@@ -1949,6 +1975,7 @@ https://test.leefbaarometer.nl
 https://test.mi-cert.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.natura2000.nl
+https://test.ncsc.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
@@ -2028,6 +2055,8 @@ https://vps-prod-01.flevoland.nl
 https://vt.landelijkregisterkinderopvang.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://vulnerabilities.ncsc.nl
+https://vulnerabilities.test.ncsc.nl
 https://vuurwerk.domeinenrz.nl
 https://wachtwoord.brabant.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
@@ -2425,6 +2454,7 @@ https://www.natura2000.nl
 https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
 https://www.ncpeh.nl
+https://www.ncsc.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl

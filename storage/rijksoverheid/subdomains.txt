@@ -33,6 +33,7 @@ a-english.dggf.nl
 a-english.dsta.nl
 a-english.igj.nl
 a-english.ncadierproevenbeleid.nl
+a-english.ncsc.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -260,6 +261,7 @@ acc.mijn.dus-i.nl
 acc.mijn.knmi.nl
 acc.monumentenregister.cultureelerfgoed.nl
 acc.natura2000.nl
+acc.ncsc.nl
 acc.oinregister.logius.nl
 acc.rd.dictu.nl
 acc.render.map.services.cultureelerfgoed.nl
@@ -354,6 +356,7 @@ acme2.proeftuin.uzi-online.irealisatie.nl
 acpt-machtigen.digipoort.logius.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
+acs.ncsc.nl
 ad.hdsr.nl
 adaguc-services-geoweb.knmi.nl
 adaguc.knmi.nl
@@ -380,6 +383,9 @@ adviescommissievolkenrecht.nl
 adviesraadinternationalevraagstukken.nl
 adviesraadmigratie.nl
 advieswijzer.bigregister.nl
+advisories-acceptatie.ncsc.nl
+advisories.ncsc.nl
+advisories.test.ncsc.nl
 advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
@@ -438,6 +444,7 @@ api-acpt.brabant.nl
 api-auth.ilent.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
+api.acc.ncsc.nl
 api.belastingdienst.nl
 api.bigregister.nl
 api.brabant.nl
@@ -450,7 +457,11 @@ api.jeugdconnect.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
+api.mijn.acc.ncsc.nl
+api.mijn.ncsc.nl
+api.mijn.test.ncsc.nl
 api.nationaalwegenbestand.nl
+api.ncsc.nl
 api.spaceweather.knmi.nl
 apikey-preprod.ep-online.nl
 apikey.ep-online.nl
@@ -773,6 +784,7 @@ bvd.logius.nl
 bvd.mev.logius.nl
 bvinet.douane.nl
 bvlfls.knmi.nl
+bvpn.ncsc.nl
 bvs.belastingdienst.nl
 bwdb03.knmi.nl
 bzv-a.brabant.nl
@@ -847,8 +859,10 @@ channels-az1.lpc.logius.nl
 channels-az2.lpc.logius.nl
 channels.logius.nl
 channels.lpc.logius.nl
+charlie.ncsc.nl
 chat.cbs.nl
 chat.ind.nl
+chat.ncsc.nl
 chatapi.klopt.cibg.nl
 checkjeprijs.huurcommissie.nl
 checkout-acc.portal.ind.nl
@@ -965,6 +979,7 @@ crisismaatregel.webservices-dbb.igj.nl
 crm.cbi.eu
 crmacc.cbi.eu
 crmtest.cbi.eu
+csaf.data.security.ncsc.nl
 csirtdsp.nl
 csoacct.functiegebouwrijksoverheid.nl
 csoacct.ikwerkvoornederland.nl
@@ -1226,6 +1241,7 @@ english.knmidata.nl
 english.marechaussee.nl
 english.mijncn.nl
 english.ncadierproevenbeleid.nl
+english.ncsc.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1452,6 +1468,7 @@ feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
 feeds.english.mijncn.nl
 feeds.english.ncadierproevenbeleid.nl
+feeds.english.ncsc.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1536,6 +1553,7 @@ feeds.nationalebijenstrategie.nl
 feeds.ncab.nl
 feeds.ncadierproevenbeleid.nl
 feeds.ncpeh.nl
+feeds.ncsc.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -1721,6 +1739,8 @@ gitdocumentatie.logius.nl
 github.apps.feedfoodtransfer.nl
 gitlab-acc.dictu.nl
 gitlab.dictu.nl
+gl.ncsc.nl
+gl1.ncsc.nl
 gladheid.knmi.nl
 globalhealthhub.nl
 gm-pre.mev.logius.nl
@@ -1904,6 +1924,8 @@ int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
 int.bronhouderportaal-bro.nl
 integriteitswijzer.huisvoorklokkenluiders.nl
+intel-acc.ncsc.nl
+intel.ncsc.nl
 intermediairdagen.belastingdienst.nl
 intern.catalogus.cultureelerfgoed.nl
 intern.magazinesrijkswaterstaat.nl
@@ -2163,6 +2185,7 @@ magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
 magazines.jeugdautoriteit.nl
 magazines.kinderbescherming.nl
+magazines.ncsc.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
@@ -2274,6 +2297,7 @@ meldingen.klopt.cibg.nl
 meldproduct.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
+melissa.ncsc.nl
 mensenrechten.nl
 menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
@@ -2304,6 +2328,7 @@ mijn-perf.acc.belastingdienst.nl
 mijn-test2.belastingdienst.nl
 mijn-test3.belastingdienst.nl
 mijn.acc.belastingdienst.nl
+mijn.acc.ncsc.nl
 mijn.adr.donorregister.nl
 mijn.belastingdienst-cn.nl
 mijn.belastingdienst.nl
@@ -2320,6 +2345,7 @@ mijn.igj.nl
 mijn.inburgeren.nl
 mijn.justis.nl
 mijn.knmi.nl
+mijn.ncsc.nl
 mijn.ont.belastingdienst.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
@@ -2342,6 +2368,7 @@ mijn.str3.tst.belastingdienst.nl
 mijn.str30.acc.belastingdienst.nl
 mijn.str59.ont.belastingdienst.nl
 mijn.str60.ont.belastingdienst.nl
+mijn.test.ncsc.nl
 mijn.tst.belastingdienst.nl
 mijn8.belastingdienst.nl
 mijnadministratie-acpt.brabant.nl
@@ -2404,6 +2431,9 @@ mijnzakelijk1.acc.belastingdienst.nl
 mijnzakelijk2.acc.belastingdienst.nl
 mik-acpt.brabant.nl
 mik.brabant.nl
+min1.ncsc.nl
+min2.ncsc.nl
+min3.ncsc.nl
 mirt2016.mirtoverzicht.nl
 mirtoverzicht.nl
 mivp.emissieautoriteit.nl
@@ -2456,8 +2486,11 @@ mwr-app-api-ota.belastingdienst.nl
 mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
+mx.ncsc.nl
 mx001.ctivd.nl
 mx1.mensenrechten.nl
+mx1.ncsc.nl
+mx2.ncsc.nl
 mysite-acc.belastingdienst.nl
 mysite.belastingdienst.nl
 mysites-conf.belastingdienst.nl
@@ -2480,6 +2513,8 @@ ncab.nl
 ncadierproevenbeleid.nl
 ncp-api-1.ccmo.nl
 ncpeh.nl
+ncsc.nl
+ndn-onderzoek.ncsc.nl
 neries.knmi.nl
 netauth.knmi.nl
 netftp.dictu.nl
@@ -2518,6 +2553,8 @@ ns3.belastingdienst.nl
 ns3.brabant.nl
 ns4.belastingdienst.nl
 ns4.brabant.nl
+nspnws-cursus.ncsc.nl
+nspnws.ncsc.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 o-cms.defensie.nl
@@ -2715,6 +2752,7 @@ opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
 opendata.english.mijncn.nl
 opendata.english.ncadierproevenbeleid.nl
+opendata.english.ncsc.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -2800,6 +2838,7 @@ opendata.nationalebijenstrategie.nl
 opendata.ncab.nl
 opendata.ncadierproevenbeleid.nl
 opendata.ncpeh.nl
+opendata.ncsc.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -2812,6 +2851,7 @@ opvragen-acc1.ep-online.nl
 opvragen-preprod.ep-online.nl
 opvragen.acc.ep-online.nl
 opvragen.ep-online.nl
+orchestrator.ncsc.nl
 orfeus.knmi.nl
 orfeusdev.knmi.nl
 origin.api.contenttoolsrijksoverheid.nl
@@ -2971,6 +3011,8 @@ prerelease.loketgezondleven.nl
 presenteren.ont.belastingdienst.nl
 preview.loketgezondleven.nl
 primos.datawonen.nl
+privaat-acceptatie.octomon.ncsc.nl
+privaat.octomon.ncsc.nl
 privacy.jeugdconnect.nl
 private.acc.justitieconnect.nl
 private.acc.staging.justitieconnect.nl
@@ -3172,6 +3214,8 @@ sdmx.cbs.nl
 secu.knmi.nl
 secure.geodata2.nationaalgeoregister.nl
 secure.knmi.nl
+securened.ncsc.nl
+securenet.ncsc.nl
 seg.cbs.nl
 sepm.belastingdienst.nl
 servicedesk.dictu.nl
@@ -3338,6 +3382,7 @@ t-test.belastingdienst.nl
 t-www.defensie.nl
 t-www.government.nl
 t.cultureelerfgoed.nl
+taranis.ncsc.nl
 tarief.douane.nl
 tarief.str4.acc.douane.nl
 taxonomie.cbs.nl
@@ -3406,6 +3451,7 @@ test.mgo.irealisatie.nl
 test.mi-cert.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.natura2000.nl
+test.ncsc.nl
 test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
 test.status.cbs.nl
@@ -3440,6 +3486,7 @@ tgsb-btssrv-ut.tst.belastingdienst.nl
 thesaurus.cultureelerfgoed.nl
 tib.dataplatform.knmi.nl
 timeline.test.zm.irealisatie.nl
+tip.ncsc.nl
 tl.iplo.nl
 tm.knmi.nl
 tmd.acc.belastingdienst.nl
@@ -3471,6 +3518,7 @@ tvs-rd.dictu.nl
 tvs.dictu.nl
 tyk-cdn.dataplatform.knmi.nl
 uag.cbs.nl
+uag.ncsc.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
 uitwisseling.cbs.nl
@@ -3625,6 +3673,8 @@ vt016ed.dictu.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
+vulnerabilities.ncsc.nl
+vulnerabilities.test.ncsc.nl
 vuurwerk.domeinenrz.nl
 w3dxweb.knmi.nl
 wachtwoord.brabant.nl
@@ -3642,6 +3692,7 @@ wbxbottestserver.belastingdienst.nl
 wd-ont.belastingdienst.nl
 wd.belastingdienst.nl
 wd.ont.belastingdienst.nl
+wds.ncsc.nl
 wdt.belastingdienst.nl
 we-share.dictu.nl
 web.aaenmaas.nl
@@ -4182,6 +4233,7 @@ www.natura2000.nl
 www.ncab.nl
 www.ncadierproevenbeleid.nl
 www.ncpeh.nl
+www.ncsc.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl

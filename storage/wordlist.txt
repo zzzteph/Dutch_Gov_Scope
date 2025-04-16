@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-a-www
 english
+a-www
 feeds.english
 opendata.english
 a-feeds
@@ -18,8 +18,8 @@ a-english
 acceptatie
 a-feeds.a-english
 a-opendata.a-english
-cms
 api
+cms
 intranet
 vpn
 connect
@@ -67,6 +67,7 @@ kaarten
 ondertekenen
 sts
 academy
+chat
 ftp
 micollab
 _dmarc
@@ -109,6 +110,7 @@ download
 fibd1
 fibd2.acc
 govroam
+mijn.acc
 mysites
 ns2
 ns3
@@ -122,6 +124,7 @@ webdiensten
 werken
 acceptatie.behandel
 acceptatie.zoeken
+acs
 atlas
 beeldbank-bo
 dataportaal
@@ -143,12 +146,12 @@ doc
 sso
 static
 cdn
-chat
 content
 designsystem
 onderzoek
 redactie
 tunnel
+uag
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
@@ -192,6 +195,7 @@ inloggen
 sdm
 vt
 files
+mx1
 geoportal
 gisservices
 helloid
@@ -557,7 +561,6 @@ mijn-c2.tst
 mijn-perf.acc
 mijn-test2
 mijn-test3
-mijn.acc
 mijn.ont
 mijn.str10.acc
 mijn.str10.tst
@@ -969,7 +972,6 @@ tea
 acceptatie.zoek
 zoek
 acs-acpt
-acs
 api-acpt
 app
 aris
@@ -1266,7 +1268,6 @@ test.cerberus
 test.ebms
 test.status
 tunnel1
-uag
 uitwisseling
 upload
 videoplatform
@@ -2580,7 +2581,6 @@ gelijkloon
 klachtenformulier
 klachtenformulierlink
 leren
-mx1
 new
 oordelen
 publicaties.oud
@@ -2615,3 +2615,37 @@ pas
 acceptatie.portaal
 acceptatie.uzipas.portaal
 uzipas.portaal
+advisories-acceptatie
+advisories
+advisories.test
+api.acc
+api.mijn.acc
+api.mijn
+api.mijn.test
+bvpn
+charlie
+csaf.data.security
+gl
+gl1
+intel-acc
+intel
+melissa
+mijn.test
+min1
+min2
+min3
+mx
+mx2
+ndn-onderzoek
+nspnws-cursus
+nspnws
+orchestrator
+privaat-acceptatie.octomon
+privaat.octomon
+securened
+securenet
+taranis
+tip
+vulnerabilities
+vulnerabilities.test
+wds
