@@ -32,6 +32,7 @@ webservices
 werkplek
 login
 beeldbank
+formulieren
 mdm
 geoservices
 portal
@@ -57,8 +58,10 @@ zoeken
 acceptatie.beheer
 acceptatie.mijn
 acceptatie.webservices
-formulieren
+connect-with
+id
 kaarten
+ondertekenen
 sts
 academy
 ftp
@@ -110,15 +113,14 @@ werken
 acceptatie.behandel
 acceptatie.zoeken
 beheer
+atlas
 beeldbank-bo
-connect-with
 dataportaal
 esb
 geoportaal
 georegister
+geoserver
 hybrid
-id
-ondertekenen
 osb
 proxy
 wifi
@@ -177,6 +179,7 @@ loket
 zaaksysteem-acc
 zaaksysteem
 forms
+inloggen
 kennisbank
 sdm
 vt
@@ -967,7 +970,6 @@ api-acpt
 app
 aris
 atlas-acpt
-atlas
 autorisatie-preprod
 autorisatie-prod
 begroting
@@ -1021,7 +1023,6 @@ fs-up-sts02
 gb-test
 geopoc
 geoportaal-acceptatie
-geoserver
 geoservertest
 grondwaterstand
 idtst
@@ -2011,7 +2012,6 @@ geoviewhhd
 grondwaterportaal-a
 grondwaterportaal
 inloggen-preprod
-inloggen
 loket-preprod
 mobile
 mysitestest
@@ -2460,3 +2460,13 @@ www.klimaatscenarios-data
 innovatielab
 welkom-zandbak
 welkom
+inloggen-pre
+mijnsubsidies-acc
+mijnsubsidies
+nieuwsbrieven
+referendum-backoffice
+referendum
+sbl
+www.atlas
+www.geoserver
+www.mijnsubsidies-acc
