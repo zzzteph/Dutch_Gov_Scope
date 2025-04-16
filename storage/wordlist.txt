@@ -27,14 +27,15 @@ connect
 webmail
 prod
 www-acc
+formulieren
 _dmarc
 login
 sip
 webservices
 beeldbank
-formulieren
 werkplek
 data
+geo
 proto
 www-ac
 www-dev
@@ -45,9 +46,11 @@ www-tst
 acceptatie.beheer
 mdm
 geoservices
+onderzoek
 portal
+redactie
+digikoppeling
 _autodiscover._tcp
-geo
 a-magazines
 apps
 staging
@@ -64,6 +67,7 @@ zoeken
 acceptatie.mijn
 acceptatie.webservices
 beheer
+atlas
 connect-with
 hybrid
 id
@@ -74,9 +78,6 @@ academy
 chat
 ftp
 micollab
-onderzoek
-redactie
-digikoppeling
 dwo
 mam
 kennis
@@ -84,6 +85,8 @@ mailing
 connect-acpt
 adfs
 e
+zaaksysteem-acc
+zaaksysteem
 forms
 kennisbank
 git
@@ -135,7 +138,6 @@ acceptatie.behandel
 acceptatie.zoeken
 acs
 app
-atlas
 beeldbank-bo
 dataportaal
 esb
@@ -193,6 +195,7 @@ www.mijn
 www.acc
 piwik
 kaart
+preprodformulieren
 remote
 extern
 www2
@@ -201,8 +204,6 @@ csotest
 sandbox
 www-a
 loket
-zaaksysteem-acc
-zaaksysteem
 inloggen
 mijn-acc
 sdm
@@ -210,6 +211,7 @@ vt
 files
 stats
 privacy
+geoweb
 leren
 mx1
 acceptatie.portaal
@@ -1947,7 +1949,6 @@ nnn
 omgevingsplan
 osbacc
 oudewebsite
-preprodformulieren
 preprodid
 preprodondertekenen
 qmanage
@@ -2409,7 +2410,6 @@ ftppro-migtest
 ftppro
 ftpservice-migtest
 ftpservice
-geoweb
 gladheid
 gwc
 hapi.spaceweather
@@ -2829,3 +2829,13 @@ acc-open-wave
 gisviewer
 join
 open-wave
+bkk
+constructiestukken
+core
+digikoppelingtest
+geluidskaart
+media
+meldingbwt
+meldingwd
+odin
+vacatures
