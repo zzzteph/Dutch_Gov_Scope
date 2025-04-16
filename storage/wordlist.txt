@@ -19,8 +19,8 @@ a-english
 a-feeds.a-english
 a-opendata.a-english
 cms
-intranet
 api
+intranet
 vpn
 connect
 webmail
@@ -176,6 +176,7 @@ acc.mijn
 www.mijn
 www.acc
 piwik
+kaart
 remote
 extern
 www2
@@ -1925,7 +1926,6 @@ intranet-acc
 intranet-bestanden
 jaarverslag2017
 jaarverslag2018
-kaart
 legacy
 localhost
 mailmdm
