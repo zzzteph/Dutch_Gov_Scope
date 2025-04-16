@@ -153,6 +153,7 @@ cdn
 content
 dashboards
 designsystem
+projecten
 redactie
 tunnel
 uag
@@ -1242,7 +1243,6 @@ oto
 outlook
 overzicht
 politieopendata
-projecten
 ps
 qbes
 redactie-acc
