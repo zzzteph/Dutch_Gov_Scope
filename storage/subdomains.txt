@@ -701,6 +701,7 @@ autodiscover.nza.nl
 autodiscover.odijmond.nl
 autodiscover.ofgv.nl
 autodiscover.overheid.nl
+autodiscover.rcgog.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -2025,6 +2026,7 @@ feeds.prosecutionservice.nl
 feeds.raadopenbaarbestuur.nl
 feeds.raadrvs.nl
 feeds.rabarijk.nl
+feeds.rcgog.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3627,6 +3629,7 @@ opendata.prosecutionservice.nl
 opendata.raadopenbaarbestuur.nl
 opendata.raadrvs.nl
 opendata.rabarijk.nl
+opendata.rcgog.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -3982,6 +3985,7 @@ ras.domeinenrz.nl
 ras.nvwa.nl
 ras2.domeinenrz.nl
 rat.belastingdienst.nl
+rcgog.nl
 rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
@@ -5483,6 +5487,7 @@ www.raadopenbaarbestuur.nl
 www.raadrvs.nl
 www.rabarijk.nl
 www.ras-acc.nvwa.nl
+www.rcgog.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
