@@ -779,6 +779,7 @@ balie.woo.irealisatie.nl
 bapicft.belastingdienst.nl
 basisinformatie-overstromingen.nl
 basisregistratieondergrond.nl
+bastion365.rechtsbijstand.nl
 bat.belastingdienst.nl
 bat.ont.belastingdienst.nl
 bcrpwt.knmi.nl
@@ -4025,6 +4026,7 @@ rdsa-test.knmi.nl
 rdsa.knmi.nl
 realtime.ndw.nu
 realtime.staging.ndw.nu
+rechtsbijstand.nl
 redactie-acc.cbs.nl
 redactie-test.cbs.nl
 redactie-tl.iplo.nl
@@ -5522,6 +5524,7 @@ www.rcgog.nl
 www.rcihh.nl
 www.rda.nl
 www.rdi.nl
+www.rechtsbijstand.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
