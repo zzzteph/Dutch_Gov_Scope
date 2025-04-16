@@ -12,6 +12,7 @@ Test-Azure06.dictu.nl
 _autodiscover._tcp.csirtdsp.nl
 _autodiscover._tcp.dutchncca.nl
 _autodiscover._tcp.gezondeleefomgeving.nl
+_autodiscover._tcp.nationaalrapporteur.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.logius.nl
@@ -1515,6 +1516,7 @@ feeds.mirtoverzicht.nl
 feeds.monitorlangdurigezorg.nl
 feeds.nationaalcoordinatorgroningen.nl
 feeds.nationaalgroeifonds.nl
+feeds.nationaalrapporteur.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2449,6 +2451,7 @@ nationaalcohortonderzoek.cbs.nl
 nationaalcoordinatorgroningen.nl
 nationaalgeoregister.nl
 nationaalgroeifonds.nl
+nationaalrapporteur.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
 neries.knmi.nl
@@ -2764,6 +2767,7 @@ opendata.mirtoverzicht.nl
 opendata.monitorlangdurigezorg.nl
 opendata.nationaalcoordinatorgroningen.nl
 opendata.nationaalgroeifonds.nl
+opendata.nationaalrapporteur.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -4135,6 +4139,7 @@ www.monumentenregister.cultureelerfgoed.nl
 www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl
+www.nationaalrapporteur.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl

@@ -43,6 +43,7 @@ formulieren
 mdm
 geoservices
 portal
+_autodiscover._tcp
 data
 geo
 a-magazines
@@ -69,7 +70,6 @@ ftp
 micollab
 _dmarc
 digikoppeling
-_autodiscover._tcp
 dwo
 mam
 mailing
