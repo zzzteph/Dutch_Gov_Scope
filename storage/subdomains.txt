@@ -1660,6 +1660,7 @@ feeds.nrgd.nl
 feeds.nutriscorevoorbedrijven.nl
 feeds.nvwa.nl
 feeds.nza.nl
+feeds.ocw-verhalen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2782,6 +2783,7 @@ o5001proxvapp.ont.belastingdienst.nl
 o5002proxvapp.ont.belastingdienst.nl
 oa.aaenmaas.nl
 oap.ind.nl
+ocw-verhalen.nl
 odata.cbs.nl
 odata4.cbs.nl
 odb.acc.belastingdienst.nl
@@ -3061,6 +3063,7 @@ opendata.nrgd.nl
 opendata.nutriscorevoorbedrijven.nl
 opendata.nvwa.nl
 opendata.nza.nl
+opendata.ocw-verhalen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -4548,6 +4551,7 @@ www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
 www.nvwa.nl
 www.nza.nl
+www.ocw-verhalen.nl
 www.omgevingsplan.flevoland.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
