@@ -1506,6 +1506,7 @@ feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
 feeds.mijncn.nl
+feeds.mijnpgb.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2336,6 +2337,7 @@ mijndwb.belastingdienst.nl
 mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
 mijnncg.nl
+mijnpgb.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 mijntoken.dictu.nl
@@ -2735,6 +2737,7 @@ opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
 opendata.mijncn.nl
+opendata.mijnpgb.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -4096,6 +4099,7 @@ www.mijn.dus-i.nl
 www.mijn.rvo.nl
 www.mijncn.nl
 www.mijnncg.nl
+www.mijnpgb.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.netftp.dictu.nl
