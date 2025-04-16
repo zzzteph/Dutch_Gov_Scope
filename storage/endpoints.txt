@@ -1176,6 +1176,7 @@ https://feeds.onderwijsregio.nl
 https://feeds.onslevendlandschap.nl
 https://feeds.onswater.nl
 https://feeds.oostvaarderskliniek.nl
+https://feeds.open-overheid.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1555,6 +1556,7 @@ https://mail.evenementenbureauvws.nl
 https://mail.handelingenbank.info
 https://mail.ndw.nu
 https://mail.odmh.nl
+https://mail.open-overheid.nl
 https://mailcatch.acc.dpr.irealisatie.nl
 https://mailcatch.test.dpr.irealisatie.nl
 https://mailcatch.test.mgo.irealisatie.nl
@@ -1794,6 +1796,7 @@ https://onswater.nl
 https://oordelen.mensenrechten.nl
 https://oostvaarderskliniek.nl
 https://open-data.ndw.nu
+https://open-overheid.nl
 https://open-wave.odijmond.nl
 https://open.brabant.nl
 https://openbare-inspectieresultaten.nvwa.nl
@@ -2040,6 +2043,7 @@ https://opendata.onderwijsregio.nl
 https://opendata.onslevendlandschap.nl
 https://opendata.onswater.nl
 https://opendata.oostvaarderskliniek.nl
+https://opendata.open-overheid.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendisdata.nza.nl
@@ -2470,6 +2474,7 @@ https://wikixl-saml.test.cultureelerfgoed.nl
 https://wio.ilent.nl
 https://wms-viewer.dataplatform.knmi.nl
 https://wms.aanpakringzuid.nl
+https://wooincijfers.open-overheid.nl
 https://woordenboek.klimaatadaptatienederland.nl
 https://wow.knmi.nl
 https://wpx-80-aix-http.douane.nl
@@ -2859,6 +2864,7 @@ https://www.onehealth.nl
 https://www.onslevendlandschap.nl
 https://www.onswater.nl
 https://www.oostvaarderskliniek.nl
+https://www.open-overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.ras-acc.nvwa.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
