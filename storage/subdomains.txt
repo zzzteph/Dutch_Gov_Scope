@@ -1907,6 +1907,7 @@ feeds.ordz.nl
 feeds.overalsnelinternet.nl
 feeds.overdedouane.nl
 feeds.overheidvannu.nl
+feeds.overtoeslagen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -3470,6 +3471,7 @@ opendata.ordz.nl
 opendata.overalsnelinternet.nl
 opendata.overdedouane.nl
 opendata.overheidvannu.nl
+opendata.overtoeslagen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -3547,6 +3549,7 @@ overdedouane.nl
 overhandigingroadmapnucleairegeneeskunde.evenementenbureauvws.nl
 overheid.nl
 overheidvannu.nl
+overtoeslagen.nl
 overzicht.cbs.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
@@ -5272,6 +5275,7 @@ www.overalsnelinternet.nl
 www.overdedouane.nl
 www.overheid.nl
 www.overheidvannu.nl
+www.overtoeslagen.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
