@@ -1294,6 +1294,7 @@ https://feeds.opwegnaarseb.nl
 https://feeds.ordz.nl
 https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
+https://feeds.overheidvannu.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1702,6 +1703,7 @@ https://magazines.nctv.nl
 https://magazines.nvwa.nl
 https://magazines.nza.nl
 https://magazines.onderwijsinspectie.nl
+https://magazines.overheidvannu.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
@@ -2217,6 +2219,7 @@ https://opendata.opwegnaarseb.nl
 https://opendata.ordz.nl
 https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
+https://opendata.overheidvannu.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendisdata.nza.nl
@@ -2250,6 +2253,7 @@ https://overalsnelinternet.nl
 https://overdedouane.nl
 https://overhandigingroadmapnucleairegeneeskunde.evenementenbureauvws.nl
 https://overheid.nl
+https://overheidvannu.nl
 https://overzicht.cbs.nl
 https://ovverklaringen.belastingdienst.nl
 https://papiamentu.belastingdienst-cn.nl
@@ -3222,6 +3226,7 @@ https://www.ov-consumentenplatform.nl
 https://www.overalsnelinternet.nl
 https://www.overdedouane.nl
 https://www.overheid.nl
+https://www.overheidvannu.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl

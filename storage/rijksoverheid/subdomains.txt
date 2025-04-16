@@ -1906,6 +1906,7 @@ feeds.opwegnaarseb.nl
 feeds.ordz.nl
 feeds.overalsnelinternet.nl
 feeds.overdedouane.nl
+feeds.overheidvannu.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2651,6 +2652,7 @@ magazines.nctv.nl
 magazines.nvwa.nl
 magazines.nza.nl
 magazines.onderwijsinspectie.nl
+magazines.overheidvannu.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
@@ -3467,6 +3469,7 @@ opendata.opwegnaarseb.nl
 opendata.ordz.nl
 opendata.overalsnelinternet.nl
 opendata.overdedouane.nl
+opendata.overheidvannu.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -3543,6 +3546,7 @@ overalsnelinternet.nl
 overdedouane.nl
 overhandigingroadmapnucleairegeneeskunde.evenementenbureauvws.nl
 overheid.nl
+overheidvannu.nl
 overzicht.cbs.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
@@ -5267,6 +5271,7 @@ www.ov-consumentenplatform.nl
 www.overalsnelinternet.nl
 www.overdedouane.nl
 www.overheid.nl
+www.overheidvannu.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
