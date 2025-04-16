@@ -210,6 +210,7 @@ sdm
 vt
 files
 stats
+repository
 privacy
 geoweb
 leren
@@ -2299,7 +2300,6 @@ modules
 registry.acceptatie
 registry
 repository.acceptatie
-repository
 sso.acceptatie
 leerplatform
 modellen
@@ -2839,3 +2839,7 @@ meldingbwt
 meldingwd
 odin
 vacatures
+htmleditor
+kec
+repository-acc
+repository-eto
