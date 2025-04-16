@@ -175,6 +175,7 @@ zaaksysteem
 forms
 kennisbank
 sdm
+vt
 files
 git
 geoportal
@@ -2126,7 +2127,6 @@ staging.meldingen
 stc
 wio
 vt-mijn
-vt
 beheer.chat
 checkout-acc.portal
 checkout-tst.portal
