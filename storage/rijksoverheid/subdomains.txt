@@ -21,6 +21,7 @@ _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.logius.nl
 _dmarc.nlarbeidsinspectie.nl
+_dmarc.nvwa.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cms.contenttoolsrijksoverheid.nl
@@ -260,6 +261,7 @@ acc.gisextern.dictu.nl
 acc.gml.map.services.cultureelerfgoed.nl
 acc.hhdelfland.nl
 acc.informatieservice.nederlandwereldwijd.nl
+acc.inspectieresultaten.nvwa.nl
 acc.inspectieview.nl
 acc.intranet-demo.dictu.nl
 acc.intranet.justis.nl
@@ -285,6 +287,7 @@ acc.translate.services.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
 acc1.ep-online.nl
 acc2.bronhouderportaal-bro.nl
+acc2.inspectieresultaten.nvwa.nl
 acc2.leer-rijk.nl
 accebms.cbs.nl
 accept.digitaleoverheid.nl
@@ -1206,6 +1209,9 @@ dwo.ctgb.nl
 dwo.justid.nl
 dwo.knmi.nl
 e-akkoord.nl
+e-certnl-acc.nvwa.nl
+e-certnl-sch.nvwa.nl
+e-certnl.nvwa.nl
 e-loket.ilent.nl
 e.acc.videobellen.douane.nl
 e.awareness.nationaalcoordinatorgroningen.nl
@@ -1303,6 +1309,7 @@ english.ncsc.nl
 english.nctv.nl
 english.ndw.nu
 english.nrgd.nl
+english.nvwa.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1537,6 +1544,7 @@ feeds.english.ncsc.nl
 feeds.english.nctv.nl
 feeds.english.ndw.nu
 feeds.english.nrgd.nl
+feeds.english.nvwa.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1639,6 +1647,7 @@ feeds.nllabourauthority.nl
 feeds.nponderwijs.nl
 feeds.nrgd.nl
 feeds.nutriscorevoorbedrijven.nl
+feeds.nvwa.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -1683,17 +1692,21 @@ fmis.belastingdienst.nl
 forensicinstitute.nl
 forensischezorg.nl
 forensischinstituut.nl
+forms-acc.nvwa.nl
 forms.hhdelfland.nl
 forms.iplo.nl
 forms.klopt.cibg.nl
+forms.nvwa.nl
 formulier-beheer.dus-i.nl
 formulier.cultureelerfgoed.nl
 formulier.emissieautoriteit.nl
 formulierdus-i.nl
+formulieren-acc.nvwa.nl
 formulieren.brabant.nl
 formulieren.flevoland.nl
 formulieren.huurcommissie.nl
 formulieren.limburg.nl
+formulieren.nvwa.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
 foto-opdracht.cultureelerfgoed.nl
@@ -1934,6 +1947,7 @@ hwbp.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
 hybridexo.cbs.nl
+i-certnl.nvwa.nl
 i-cms.defensie.nl
 i-cms1.defensie.nl
 i-login.mijncn.nl
@@ -2007,6 +2021,7 @@ inspectie-checklist.nl
 inspectie-jenv.nl
 inspectie-oe.nl
 inspectiebtd.nl
+inspectieresultaten.nvwa.nl
 inspectieview.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
@@ -2061,6 +2076,10 @@ iv3-controle-api.cbs.nl
 iv3-controle.cbs.nl
 iv3-pilot.cbs.nl
 iv3statline.cbs.nl
+ivo-acc.nvwa.nl
+ivo.nvwa.nl
+iwelcome-preprod.nvwa.nl
+iwelcome.nvwa.nl
 jaarverantwoordingzorg.nl
 jaarverslag.justis.nl
 jaarverslag2017.flevoland.nl
@@ -2173,6 +2192,8 @@ kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
 lab.geodata.nationaalgeoregister.nl
+labvantage-acc.nvwa.nl
+labvantage.nvwa.nl
 landelijkeopeningwte2024.evenementenbureauvws.nl
 landelijkregisterkinderopvang.nl
 large.netftp.dictu.nl
@@ -2286,6 +2307,7 @@ magazines.jeugdautoriteit.nl
 magazines.kinderbescherming.nl
 magazines.ncsc.nl
 magazines.nctv.nl
+magazines.nvwa.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
@@ -2347,6 +2369,7 @@ mailmdm.flevoland.nl
 mailrelayh3.cbs.nl
 mailrelayh4.cbs.nl
 mailrelayh5.cbs.nl
+mailserver.service.nvwa.nl
 mam.ctgb.nl
 mam.justid.nl
 mam.knmi.nl
@@ -2426,6 +2449,7 @@ microdata.cbs.nl
 microfoonbanden.nl
 mig.cbs.nl
 mijn-acc.igj.nl
+mijn-acc.nvwa.nl
 mijn-acc1.belastingdienst.nl
 mijn-api.cbs.nl
 mijn-c1.tst.belastingdienst.nl
@@ -2453,6 +2477,7 @@ mijn.justis.nl
 mijn.knmi.nl
 mijn.ncsc.nl
 mijn.ndw.nu
+mijn.nvwa.nl
 mijn.ont.belastingdienst.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
@@ -2700,6 +2725,7 @@ ntm.ndw.nu
 nutriscorevoorbedrijven.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
+nvwa.nl
 o-cms.defensie.nl
 o-cms1.defensie.nl
 o-site1.defensie.nl
@@ -2774,6 +2800,7 @@ oordelen.mensenrechten.nl
 oosweb.cbs.nl
 open-data.ndw.nu
 open.brabant.nl
+openbare-inspectieresultaten.nvwa.nl
 opendap-dm1.knmi.nl
 opendap-dm2.knmi.nl
 opendap.knmi.nl
@@ -2902,6 +2929,7 @@ opendata.english.ncsc.nl
 opendata.english.nctv.nl
 opendata.english.ndw.nu
 opendata.english.nrgd.nl
+opendata.english.nvwa.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -3006,6 +3034,7 @@ opendata.nllabourauthority.nl
 opendata.nponderwijs.nl
 opendata.nrgd.nl
 opendata.nutriscorevoorbedrijven.nl
+opendata.nvwa.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -3269,7 +3298,9 @@ radicaalofpuberaal.nctv.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
 rapporteursnet.nifp.nl
+ras-acc.nvwa.nl
 ras.domeinenrz.nl
+ras.nvwa.nl
 ras2.domeinenrz.nl
 rat.belastingdienst.nl
 rcm.belastingdienst.nl
@@ -3331,6 +3362,7 @@ roomreservation.belastingdienst.nl
 routeringsvoorziening-pp1.logius.nl
 rt.ndw.nu
 rut.belastingdienst.nl
+rvdmschaduwdraaien.nvwa.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
 rvig.proeftuin.belastingdienst.nl
@@ -3485,6 +3517,7 @@ smtp32.belastingdienst.nl
 smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
 snow-cw.dictu.nl
+soap.openbare-inspectieresultaten.nvwa.nl
 socialmediamonitor.jeugdconnect.nl
 sonar.ndw.nu
 sonarqube.lpc.logius.nl
@@ -3652,6 +3685,7 @@ test.monumentenregister.cultureelerfgoed.nl
 test.natura2000.nl
 test.ncsc.nl
 test.nl-alert.nl
+test.openbare-inspectieresultaten.nvwa.nl
 test.portaal.nlarbeidsinspectie.nl
 test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
@@ -3823,12 +3857,15 @@ verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
 verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
+vgc-acc.nvwa.nl
+vgc.nvwa.nl
 via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 video-acc.beeldbellen.dji.nl
 video.beeldbellen.dji.nl
 video.belastingdienst.nl
 videobellen.belastingdienst.nl
+videoleren.nvwa.nl
 videoplatform.cbs.nl
 videos.cbs.nl
 videoserver.brabant.nl
@@ -3884,6 +3921,7 @@ vt.inburgeren.nl
 vt.landelijkregisterkinderopvang.nl
 vt016bpp.dictu.nl
 vt016ed.dictu.nl
+vtrack-acc.nvwa.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
@@ -4362,6 +4400,7 @@ www.inspectie-checklist.nl
 www.inspectie-jenv.nl
 www.inspectie-oe.nl
 www.inspectiebtd.nl
+www.inspectieresultaten.nvwa.nl
 www.inspectieview.nl
 www.interventiedatabase.nl
 www.investeringsimpulsspv.nl
@@ -4474,11 +4513,14 @@ www.nponderwijs.nl
 www.nrgd.nl
 www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
+www.nvwa.nl
 www.omgevingsplan.flevoland.nl
+www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
 www.proxy-epbd-acc.ep-online.nl
 www.proxy-epbd.ep-online.nl
+www.ras-acc.nvwa.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
