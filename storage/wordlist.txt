@@ -170,6 +170,7 @@ feeds.dnadatabank
 opendata.dnadatabank
 werkenbij
 acc.mijn
+www.mijn
 www.acc
 piwik
 remote
@@ -1795,7 +1796,6 @@ gebruiker-beheer
 mailings
 max
 www.acc.mijn
-www.mijn
 acceptatiepan
 cher
 ehd
@@ -2585,3 +2585,14 @@ new
 oordelen
 publicaties.oud
 zoekservice
+kgr-acc.mijn
+kgr.mijn
+mc-upnl-acc.mijn
+mc-upnl.mijn
+upnl-acc-businesstest.mijn
+upnl-acc-inregel.mijn
+upnl-acc.mijn
+upnl-param.mijn
+upnl-zw-acc.mijn
+upnl-zw.mijn
+upnl.mijn
