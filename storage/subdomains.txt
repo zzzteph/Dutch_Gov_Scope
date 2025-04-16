@@ -1607,6 +1607,7 @@ feeds.nctv.nl
 feeds.ndw.nu
 feeds.nederlanddigitaal.nl
 feeds.nederlandse-sportraad.nl
+feeds.nederlandtegengeorganiseerdemisdaad.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2599,6 +2600,7 @@ ndw.nu
 ndwviewer.ndw.nu
 nederlanddigitaal.nl
 nederlandse-sportraad.nl
+nederlandtegengeorganiseerdemisdaad.nl
 neries.knmi.nl
 netauth.knmi.nl
 netftp.dictu.nl
@@ -2933,6 +2935,7 @@ opendata.nctv.nl
 opendata.ndw.nu
 opendata.nederlanddigitaal.nl
 opendata.nederlandse-sportraad.nl
+opendata.nederlandtegengeorganiseerdemisdaad.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -4363,6 +4366,7 @@ www.nctv.nl
 www.ndw.nu
 www.nederlanddigitaal.nl
 www.nederlandse-sportraad.nl
+www.nederlandtegengeorganiseerdemisdaad.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.nt.ndw.nu
