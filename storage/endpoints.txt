@@ -1304,6 +1304,7 @@ https://feeds.overdedouane.nl
 https://feeds.overheidvannu.nl
 https://feeds.overtoeslagen.nl
 https://feeds.p-direkt.nl
+https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -2235,6 +2236,7 @@ https://opendata.overdedouane.nl
 https://opendata.overheidvannu.nl
 https://opendata.overtoeslagen.nl
 https://opendata.p-direkt.nl
+https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendisdata.nza.nl
@@ -2600,6 +2602,7 @@ https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl
 https://strafdossiermh17.om.nl
+https://streefbeelden.pagw.nl
 https://sts.cbg-meb.nl
 https://sts.cbs.nl
 https://sts.koop.overheid.nl
@@ -3248,6 +3251,7 @@ https://www.overheidvannu.nl
 https://www.overtoeslagen.nl
 https://www.p-direkt.nl
 https://www.pacemweb.nl
+https://www.pagw.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl

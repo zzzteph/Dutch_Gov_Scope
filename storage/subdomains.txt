@@ -1923,6 +1923,7 @@ feeds.overdedouane.nl
 feeds.overheidvannu.nl
 feeds.overtoeslagen.nl
 feeds.p-direkt.nl
+feeds.pagw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -3501,6 +3502,7 @@ opendata.overdedouane.nl
 opendata.overheidvannu.nl
 opendata.overtoeslagen.nl
 opendata.p-direkt.nl
+opendata.pagw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -4253,6 +4255,7 @@ storage.test.mgo.irealisatie.nl
 storing.cbs.nl
 strafdossiermh17.acc.om.nl
 strafdossiermh17.om.nl
+streefbeelden.pagw.nl
 sts.cbg-meb.nl
 sts.cbs.nl
 sts.hhdelfland.nl
@@ -5312,6 +5315,7 @@ www.overheidvannu.nl
 www.overtoeslagen.nl
 www.p-direkt.nl
 www.pacemweb.nl
+www.pagw.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
