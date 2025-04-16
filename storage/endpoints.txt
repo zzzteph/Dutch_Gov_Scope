@@ -174,6 +174,7 @@ http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
 http://stijlgids.cibg.nl
 http://storage.test.mgo.irealisatie.nl
+http://strafdossiermh17.acc.om.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://survey.cibg.nl
@@ -289,6 +290,7 @@ https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
+https://acc.zsmgame.om.nl
 https://acc2.bronhouderportaal-bro.nl
 https://acc2.inspectieresultaten.nvwa.nl
 https://acc2.leer-rijk.nl
@@ -522,6 +524,7 @@ https://boa.justis.nl
 https://bodemambities.nl
 https://bodemrapportage.flevoland.nl
 https://bodemvizier.nl
+https://boetebase.om.nl
 https://bofeb.nl
 https://bpp.datasluis.dictu.nl
 https://brabant.nl
@@ -741,6 +744,7 @@ https://dezi.nl
 https://dfg.datawonen.nl
 https://dggf.nl
 https://dialin.aaenmaas.nl
+https://dialin.om.nl
 https://dictu.nl
 https://dictumagazines.nl
 https://diego.ndw.nu
@@ -920,6 +924,7 @@ https://farmatec.nl
 https://faro.cultureelerfgoed.nl
 https://fbb-handreiking.nl
 https://fbmonitor.ndw.nu
+https://fcvpn.om.nl
 https://feature-cic-673.dev.bcld-config.nl
 https://feature-cicd-deployment.dev.bcld-config.nl
 https://feature-demo-child.dev.bcld-config.nl
@@ -1159,6 +1164,7 @@ https://feeds.ocw-verhalen.nl
 https://feeds.ocwincijfers.nl
 https://feeds.oecdguidelines.nl
 https://feeds.oesorichtlijnen.nl
+https://feeds.om.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1464,6 +1470,7 @@ https://leefbaarenveilig.nl
 https://leefbaarometer.nl
 https://leer-rijk.nl
 https://leerenontwikkelplein.nl
+https://leeromgeving.om.nl
 https://leerplatform.it-academieoverheid.nl
 https://leren.nza.nl
 https://lerenvoorveiligheid.nl
@@ -1506,6 +1513,7 @@ https://lustrumleaguerijk.evenementenbureauvws.nl
 https://lvmb.nl
 https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
+https://lyncdiscover.om.nl
 https://m.huisvoorklokkenluiders.nl
 https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
@@ -1566,12 +1574,15 @@ https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
 https://mdm.justid.nl
+https://mdm.om.nl
 https://media.odmh.nl
+https://media.om.nl
 https://mediaportal.cbs.nl
 https://medicijnkosten.nl
 https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
+https://meet.om.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
 https://meldingen.ilent.nl
@@ -1641,6 +1652,7 @@ https://mlops-tracking.ndw.nu
 https://mlzopendata.cbs.nl
 https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
+https://mms-gw.om.nl
 https://mn.datawonen.nl
 https://mode-s.knmi.nl
 https://modellen.jenvgegevens.nl
@@ -1649,6 +1661,7 @@ https://mogin.ndw.nu
 https://monitorlangdurigezorg.nl
 https://monitorwonen.flevoland.nl
 https://monumentenregister.cultureelerfgoed.nl
+https://moordzaak.om.nl
 https://mqtt.dataplatform.knmi.nl
 https://msgcpp.knmi.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
@@ -1659,6 +1672,7 @@ https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
 https://mul.belastingdienst.nl
+https://murder-case.om.nl
 https://mvstat.cbs.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
@@ -1689,6 +1703,7 @@ https://nederlandtegengeorganiseerdemisdaad.nl
 https://nederlandwereldwijd.nl
 https://netherlandsworldwide.nl
 https://netwerkplatteland.nl
+https://nevenbetrekkingen.om.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
@@ -1742,6 +1757,8 @@ https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oinregister.logius.nl
 https://old-cms.contenttoolsrijksoverheid.nl
 https://old.belastingles.nl
+https://om-veld01.om.nl
+https://om.nl
 https://omgevingsplan.flevoland.nl
 https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
@@ -1995,6 +2012,7 @@ https://opendata.ocw-verhalen.nl
 https://opendata.ocwincijfers.nl
 https://opendata.oecdguidelines.nl
 https://opendata.oesorichtlijnen.nl
+https://opendata.om.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendisdata.nza.nl
@@ -2181,11 +2199,13 @@ https://siem.acc.irealisatie.nl
 https://signing.pre.brabant.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
+https://sip.om.nl
 https://slachtoffer.jeugdconnect.nl
 https://slim-reizen.ndw.nu
 https://smartsurveys.cbs.nl
 https://smtp.awti.nl
 https://smtp1.awti.nl
+https://snelheidsovertredingen.om.nl
 https://snow-cw.dictu.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl
 https://socialmediamonitor.jeugdconnect.nl
@@ -2218,6 +2238,7 @@ https://stc.ilent.nl
 https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl
+https://strafdossiermh17.om.nl
 https://sts.cbg-meb.nl
 https://sts.cbs.nl
 https://stubs.tst.belastingdienst.nl
@@ -2228,6 +2249,7 @@ https://synergy.huurcommissie.nl
 https://tarief.douane.nl
 https://taxonomie.cbs.nl
 https://tea.bigregister.nl
+https://telewerken.om.nl
 https://test-azure06.dictu.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
@@ -2312,6 +2334,8 @@ https://veiligmailen.flevoland.nl
 https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
+https://verkeer.acc.loket.om.nl
+https://verkeer.loket.om.nl
 https://verkeersveiligheid.ndw.nu
 https://verkoop.domeinenrz.nl
 https://verkooptest.domeinenrz.nl
@@ -2386,6 +2410,7 @@ https://webserver.cbs.nl
 https://webservice.ep-online.nl
 https://webservices.bigregister.nl
 https://webservices.hdsr.nl
+https://webservices.om.nl
 https://website.belastingdienst.nl
 https://wegen.brabant.nl
 https://wegkenmerken.ndw.nu
@@ -2789,6 +2814,7 @@ https://www.odmh.nl
 https://www.oecdguidelines.nl
 https://www.oesorichtlijnen.nl
 https://www.ofgv.nl
+https://www.om.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.ras-acc.nvwa.nl
@@ -2799,6 +2825,7 @@ https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
+https://www2.om.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
 https://xdev.staging.ndw.nu
@@ -2821,4 +2848,5 @@ https://zorgenwerknetwerk.arboportaal.nl
 https://zorgprestatiemodel.nza.nl
 https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl
+https://zsmgame.om.nl
 https://zvs.woo.irealisatie.nl
