@@ -33,6 +33,7 @@ webservices
 formulieren
 data
 login
+meet
 beeldbank
 werkplek
 mdm
@@ -46,7 +47,7 @@ www-ow
 www-p
 www-ts
 www-tst
-meet
+dialin
 smtp
 acceptatie.beheer
 hybrid
@@ -60,7 +61,7 @@ apps
 staging
 www2
 loket
-dialin
+lync
 lyncdiscover
 sharepoint
 vpn2
@@ -110,7 +111,6 @@ mx1
 av
 eloket
 luchtfoto
-lync
 maps
 testeloket
 chw
@@ -3507,3 +3507,4 @@ myidp-acc
 myidp
 o1.ptr2462.mail
 url6099.mail
+gis
