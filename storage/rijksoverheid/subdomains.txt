@@ -24,6 +24,7 @@ _dmarc.logius.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
 _dmarc.nza.nl
+_dmarc.p-direkt.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cms.contenttoolsrijksoverheid.nl
@@ -242,7 +243,9 @@ acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
 acc.api-auth.ilent.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
+acc.api-sec.p-direkt.nl
 acc.api.ilent.nl
+acc.api.p-direkt.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
@@ -469,6 +472,7 @@ aip-acc.nationaalcoordinatorgroningen.nl
 aip.nationaalcoordinatorgroningen.nl
 aivd.nl
 akkoordverbeteringproductsamenstelling.nl
+aladdin.p-direkt.nl
 alerting.hdsr.nl
 algemenebestuursdienst.nl
 algoritme.overheid.nl
@@ -513,10 +517,12 @@ api-acpt.brabant.nl
 api-auth.ilent.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
+api-sec.p-direkt.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
 api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
+api.appstore.p-direkt.nl
 api.belastingdienst.nl
 api.bigregister.nl
 api.brabant.nl
@@ -540,6 +546,7 @@ api.nationaalwegenbestand.nl
 api.ncsc.nl
 api.nederlandwereldwijd.nl
 api.ondernemersplein.overheid.nl
+api.p-direkt.nl
 api.preprod.mijn.overheid.nl
 api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
@@ -575,6 +582,7 @@ apps.hhdelfland.nl
 apps.jeugdconnect.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
+appstore.p-direkt.nl
 appvarenflevoland.flevoland.nl
 arbeidsmigratieingoedebanen.nl
 arboportaal.nl
@@ -942,6 +950,7 @@ bvlfls.knmi.nl
 bvpn.ncsc.nl
 bvs.belastingdienst.nl
 bwdb03.knmi.nl
+bwi.minbzk.nl.p-direkt.nl
 bzv-a.brabant.nl
 bzv.brabant.nl
 c-pki-acc.dictu.nl
@@ -1293,6 +1302,8 @@ designsystem.overheid.nl
 desktop.flevoland.nl
 desktop.klopt.cibg.nl
 detoekomstbegintnu.brabant.nl
+dev.api-sec.p-direkt.nl
+dev.api.p-direkt.nl
 dev.cbrnsecurity.nctv.nl
 dev.cerberus.cbs.nl
 dev.informatieservice.nederlandwereldwijd.nl
@@ -1544,6 +1555,7 @@ english.ndw.nu
 english.nrgd.nl
 english.nvwa.nl
 english.onderwijsinspectie.nl
+english.p-direkt.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1785,6 +1797,7 @@ feeds.english.ndw.nu
 feeds.english.nrgd.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
+feeds.english.p-direkt.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1908,6 +1921,7 @@ feeds.overalsnelinternet.nl
 feeds.overdedouane.nl
 feeds.overheidvannu.nl
 feeds.overtoeslagen.nl
+feeds.p-direkt.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2147,6 +2161,10 @@ gpa-rest-test.belastingdienst.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 grafana.lpc.logius.nl
+grc-apps.p-direkt.nl
+grc.p-direkt.nl
+grct-apps.p-direkt.nl
+grct.p-direkt.nl
 grensinfo.nl
 grenzeloossamenwerken.nl
 grip.informatiehuishouding.nl
@@ -2500,6 +2518,8 @@ klimaatscenarios-data.knmi.nl
 klopt.cibg.nl
 klussenbank-acc.dictu.nl
 klussenbank.dictu.nl
+kms-test.p-direkt.nl
+kms.p-direkt.nl
 knmi-inet.knmi.nl
 knmi.nl
 knmidata.nl
@@ -2641,6 +2661,7 @@ magazines.defensie.nl
 magazines.deltaprogramma.nl
 magazines.dji.nl
 magazines.emissieautoriteit.nl
+magazines.english.p-direkt.nl
 magazines.forensischinstituut.nl
 magazines.government.nl
 magazines.ilent.nl
@@ -2654,8 +2675,11 @@ magazines.nvwa.nl
 magazines.nza.nl
 magazines.onderwijsinspectie.nl
 magazines.overheidvannu.nl
+magazines.p-direkt.nl
+magazinesintern.p-direkt.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
+mail.aladdin.p-direkt.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.beeldbellen.dji.nl
@@ -3036,6 +3060,8 @@ ncp-api-1.ccmo.nl
 ncpeh.nl
 ncsc.nl
 nctv.nl
+ndev.api-sec.p-direkt.nl
+ndev.api.p-direkt.nl
 ndn-onderzoek.ncsc.nl
 ndw.nu
 ndwviewer.ndw.nu
@@ -3347,6 +3373,7 @@ opendata.english.ndw.nu
 opendata.english.nrgd.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
+opendata.english.p-direkt.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -3472,6 +3499,7 @@ opendata.overalsnelinternet.nl
 opendata.overdedouane.nl
 opendata.overheidvannu.nl
 opendata.overtoeslagen.nl
+opendata.p-direkt.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -3555,6 +3583,7 @@ ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 owa.contactpuntbouwproducten.nl
 p-crl.justid.nl
+p-direkt.nl
 p285st201.utsjaca01.belastingdienst.nl
 pan.emissieautoriteit.nl
 panter001.dictu.nl
@@ -4169,6 +4198,8 @@ static.acc6.mijn.overheid.nl
 static.acc7.mijn.overheid.nl
 static.acc8.mijn.overheid.nl
 static.acc9.mijn.overheid.nl
+static.aladdin.p-direkt.nl
+static.appstore.p-direkt.nl
 static.caorijk.nl
 static.demo.mijn.overheid.nl
 static.developer.overheid.nl
@@ -4192,6 +4223,7 @@ statistics.ind.nl
 statistiek.mijn.overheid.nl
 statline.cbs.nl
 stats.acc.mgo.irealisatie.nl
+stats.aladdin.p-direkt.nl
 stats.irealisatie.nl
 stats.ndw.nu
 stats.test.mgo.irealisatie.nl
@@ -5276,6 +5308,7 @@ www.overdedouane.nl
 www.overheid.nl
 www.overheidvannu.nl
 www.overtoeslagen.nl
+www.p-direkt.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
