@@ -2058,6 +2058,8 @@ ilent.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 implementatiecoachdi.nl
+import-acc.organisaties.overheid.nl
+import.organisaties.overheid.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
 inbewaringstelling.webservices-dbb.igj.nl
 inburgeren.nl
@@ -3203,6 +3205,7 @@ orchestrator.ncsc.nl
 ordz.nl
 orfeus.knmi.nl
 orfeusdev.knmi.nl
+organisaties.overheid.nl
 origin.api.contenttoolsrijksoverheid.nl
 origin.klimaatscenarios-data.knmi.nl
 osb-acpt.brabant.nl
