@@ -16,6 +16,7 @@ http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
 http://acceptatie.clusterbuster.nl
 http://acceptatie.consexponano.nl
+http://acceptatie.crm.nza.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acceptatie.isis-web.nl
 http://acceptatie.loketgezondleven.nl
@@ -26,6 +27,7 @@ http://adc.cbs.nl
 http://adc4.cbs.nl
 http://addressing.test.zm.irealisatie.nl
 http://ag-dcr.cibg.nl
+http://agw01-nomail.nza.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
@@ -43,6 +45,7 @@ http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
 http://autodiscover.knmi.nl
+http://autodiscover.nza.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
@@ -62,6 +65,7 @@ http://chat.cbs.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://coronadashboard.government.nl
+http://crm.nza.nl
 http://detoekomstbegintnu.brabant.nl
 http://docs.lpc.logius.nl
 http://download.webmail.knmi.nl
@@ -227,6 +231,8 @@ https://aanpak-ouderenmishandeling.nl
 https://aanpakringzuid.nl
 https://aansluitsuite.preproductie.digipoort.logius.nl
 https://aanvraag.dus-i.nl
+https://aanvragen-acc.nza.nl
+https://aanvragen.nza.nl
 https://abdtopconsult.nl
 https://aboutnetherlandscustoms.nl
 https://academie.acc.belastingdienst.nl
@@ -813,6 +819,7 @@ https://elearning-atb.nctv.nl
 https://elearning-basiscrisisbeheersing.nctv.nl
 https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
+https://elearning-msz.nza.nl
 https://elkeregiotelt.nl
 https://eloket.aaenmaas.nl
 https://eloket.flevoland.nl
@@ -1136,6 +1143,7 @@ https://feeds.nponderwijs.nl
 https://feeds.nrgd.nl
 https://feeds.nutriscorevoorbedrijven.nl
 https://feeds.nvwa.nl
+https://feeds.nza.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1277,6 +1285,7 @@ https://hulpmiddelen.farmatec.nl
 https://huurcommissie.nl
 https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
+https://hybrid.nza.nl
 https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam.ndw.nu
@@ -1349,6 +1358,7 @@ https://isi.cbs.nl
 https://isis-web.nl
 https://istandaarden.nl
 https://it-academieoverheid.nl
+https://itsupport.nza.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-controle.cbs.nl
 https://iv3statline.cbs.nl
@@ -1377,6 +1387,7 @@ https://justid.nl
 https://justis.nl
 https://justitieconnect.nl
 https://justitieleictorganisatie.nl
+https://jv.nza.nl
 https://kaart.flevoland.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
@@ -1431,6 +1442,7 @@ https://leefbaarometer.nl
 https://leer-rijk.nl
 https://leerenontwikkelplein.nl
 https://leerplatform.it-academieoverheid.nl
+https://leren.nza.nl
 https://lerenvoorveiligheid.nl
 https://lij.jeugdconnect.nl
 https://lil.cultureelerfgoed.nl
@@ -1492,6 +1504,7 @@ https://magazines.kinderbescherming.nl
 https://magazines.ncsc.nl
 https://magazines.nctv.nl
 https://magazines.nvwa.nl
+https://magazines.nza.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
@@ -1614,6 +1627,7 @@ https://msgcpp.knmi.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mta-sts.mail.cggp.nl
+https://mta-sts.nza.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
@@ -1676,6 +1690,13 @@ https://nt.ndw.nu
 https://ntm.ndw.nu
 https://nutriscorevoorbedrijven.nl
 https://nvwa.nl
+https://nza-form1.nza.nl
+https://nza-form2.nza.nl
+https://nza-form3.nza.nl
+https://nza-form4.nza.nl
+https://nza-form5.nza.nl
+https://nza-form6.nza.nl
+https://nza.nl
 https://oa.aaenmaas.nl
 https://oap.ind.nl
 https://odata.cbs.nl
@@ -1932,8 +1953,10 @@ https://opendata.nponderwijs.nl
 https://opendata.nrgd.nl
 https://opendata.nutriscorevoorbedrijven.nl
 https://opendata.nvwa.nl
+https://opendata.nza.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
+https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
 https://opvragen.ep-online.nl
@@ -2067,6 +2090,8 @@ https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://rgs.cbs.nl
 https://rivmopendata.cbs.nl
+https://rpx-qa.nza.nl
+https://rpx.nza.nl
 https://rt.ndw.nu
 https://rvdmschaduwdraaien.nvwa.nl
 https://rw.belastingdienst.nl
@@ -2206,6 +2231,7 @@ https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toezichtdocumenten.igj.nl
 https://toolkits.loketgezondleven.nl
+https://tovertool.nza.nl
 https://trillingsdata-acc.dictu.nl
 https://trillingsdata.dictu.nl
 https://truck-parking.ndw.nu
@@ -2280,6 +2306,7 @@ https://vtsd.belastingdienst.nl
 https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
 https://vuurwerk.domeinenrz.nl
+https://wachttijden.nza.nl
 https://wachtwoord.brabant.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
@@ -2320,6 +2347,7 @@ https://werken.belastingdienst.nl
 https://werken.douane.nl
 https://werkenbij.douane.nl
 https://werkenbij.justid.nl
+https://werkenbijde.nza.nl
 https://werkenvoor.brabant.nl
 https://werkplek.brabant.nl
 https://werkplek.cbs.nl
@@ -2704,6 +2732,7 @@ https://www.nrgd.nl
 https://www.nt.ndw.nu
 https://www.nutriscorevoorbedrijven.nl
 https://www.nvwa.nl
+https://www.nza.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.ras-acc.nvwa.nl
@@ -2729,5 +2758,9 @@ https://zaaksysteem.inspectie-jenv.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl
 https://zoeken.cultureelerfgoed.nl
+https://zorgbeeld.nza.nl
 https://zorgenwerknetwerk.arboportaal.nl
+https://zorgprestatiemodel.nza.nl
+https://zorgproducten-acc.nza.nl
+https://zorgproducten.nza.nl
 https://zvs.woo.irealisatie.nl

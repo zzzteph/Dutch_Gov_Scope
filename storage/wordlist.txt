@@ -27,13 +27,13 @@ connect
 webmail
 prod
 www-acc
+_dmarc
 login
 sip
 webservices
 beeldbank
 formulieren
 werkplek
-_dmarc
 data
 proto
 www-ac
@@ -65,6 +65,7 @@ acceptatie.mijn
 acceptatie.webservices
 beheer
 connect-with
+hybrid
 id
 kaarten
 ondertekenen
@@ -117,6 +118,7 @@ fibd1
 fibd2.acc
 govroam
 mijn.acc
+mta-sts
 mysites
 ns2
 ns3
@@ -139,7 +141,6 @@ esb
 geoportaal
 georegister
 geoserver
-hybrid
 osb
 proxy
 publicaties
@@ -153,6 +154,7 @@ broker
 doc
 sso
 static
+crm
 cdn
 content
 dashboards
@@ -208,6 +210,7 @@ vt
 files
 stats
 privacy
+leren
 mx1
 acceptatie.portaal
 track
@@ -651,7 +654,6 @@ moodleont.vcdn
 moodletst.vcdn
 msnp-tegemoetkoming.acc
 msnp-tegemoetkoming
-mta-sts
 mtls-tmx-dap-eu.acc
 mtls-tmx-dap-eu
 mul-mbc
@@ -1138,7 +1140,6 @@ mdmeas
 mdmvpn-t
 mdmvpn
 mijnwerkplek
-crm
 crmacc
 crmtest
 elearning
@@ -2582,7 +2583,6 @@ complaintform
 gelijkloon
 klachtenformulier
 klachtenformulierlink
-leren
 new
 oordelen
 publicaties.oud
@@ -2800,3 +2800,28 @@ vtrack-acc
 www.inspectieresultaten
 www.openbare-inspectieresultaten
 www.ras-acc
+aanvragen-acc
+aanvragen
+acceptatie.crm
+agw01-nomail
+elearning-msz
+itsupport
+jv
+nza-form1
+nza-form2
+nza-form3
+nza-form4
+nza-form5
+nza-form6
+opendisdata-acc
+opendisdata
+rpx-qa
+rpx
+tovertool
+wachttijden
+werkenbijde
+zorgbeeld
+zorgprestatiemodel
+zorgproducten-acc
+zorgproducten-test
+zorgproducten
