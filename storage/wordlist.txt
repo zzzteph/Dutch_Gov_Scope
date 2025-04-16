@@ -21,11 +21,11 @@ a-feeds.a-english
 a-opendata.a-english
 cms
 intranet
+portaal
 vpn
 connect
 webmail
 prod
-portaal
 www-acc
 login
 sip
@@ -45,6 +45,7 @@ formulieren
 mdm
 geoservices
 portal
+_dmarc
 _autodiscover._tcp
 geo
 a-magazines
@@ -73,7 +74,6 @@ chat
 ftp
 micollab
 onderzoek
-_dmarc
 digikoppeling
 dwo
 mam
@@ -93,6 +93,7 @@ lyncdiscover
 maps
 testeloket
 chw
+test.resultaten
 prd
 pushmail
 smtp
@@ -206,6 +207,7 @@ files
 stats
 privacy
 mx1
+acceptatie.portaal
 track
 geoportal
 gisservices
@@ -225,7 +227,6 @@ fbadmin-eopg-acc
 fbadmin-eopg
 outbound-eopg
 odctest
-test.resultaten
 www.testdigitalediensten
 zorgenwerknetwerk
 b-acc
@@ -2613,7 +2614,6 @@ ngr.acceptatie
 ngr.ontwikkeling
 secure.geodata2
 pas
-acceptatie.portaal
 acceptatie.uzipas.portaal
 uzipas.portaal
 advisories-acceptatie
@@ -2767,3 +2767,8 @@ lms.prod
 lms.test
 opleiding
 test.actueel
+asbestovertredingen
+resultaten
+selector1._domainkey
+selector2._domainkey
+test.portaal

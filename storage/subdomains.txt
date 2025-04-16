@@ -20,6 +20,7 @@ _autodiscover._tcp.nationaalrapporteur.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.logius.nl
+_dmarc.nlarbeidsinspectie.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cms.contenttoolsrijksoverheid.nl
@@ -340,6 +341,7 @@ acceptatie.mijn.donorregister.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.portaal.ncpeh.nl
+acceptatie.portaal.nlarbeidsinspectie.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
@@ -522,6 +524,7 @@ artifact-fibz2.acc.belastingdienst.nl
 artifact-rv-pp1.logius.nl
 asb.datasluis.dictu.nl
 asb.webftp.dictu.nl
+asbestovertredingen.nlarbeidsinspectie.nl
 asbestvolgsysteem.nl
 asbestvrijdak.nl
 aselect-milieu.demo.inspectieview.nl
@@ -1629,6 +1632,7 @@ feeds.nimh.nl
 feeds.nix18.nl
 feeds.nl-alert.nl
 feeds.nl-works.com
+feeds.nlarbeidsinspectie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2658,6 +2662,7 @@ nl-alert.nl
 nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
 nl-works.com
+nlarbeidsinspectie.nl
 nls.ndw.nu
 nmdc.knmi.nl
 nmdcacc.knmi.nl
@@ -2983,6 +2988,7 @@ opendata.nimh.nl
 opendata.nix18.nl
 opendata.nl-alert.nl
 opendata.nl-works.com
+opendata.nlarbeidsinspectie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -3116,6 +3122,7 @@ portaal.huurcommissie.nl
 portaal.ikz.nl
 portaal.interventiedatabase.nl
 portaal.ncpeh.nl
+portaal.nlarbeidsinspectie.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
 portal.cbs.nl
@@ -3282,6 +3289,7 @@ repository.acceptatie.istandaarden.nl
 repository.istandaarden.nl
 research.cbs.nl
 reserved-cesar-db.knmi.nl
+resultaten.nlarbeidsinspectie.nl
 rev.emissieautoriteit.nl
 revproxy.cbs.nl
 rgs.cbs.nl
@@ -3380,6 +3388,8 @@ securenet.ncsc.nl
 security.ndw.nu
 securityzkh.nctv.nl
 seg.cbs.nl
+selector1._domainkey.nlarbeidsinspectie.nl
+selector2._domainkey.nlarbeidsinspectie.nl
 sentry.ndw.nu
 sepm.belastingdienst.nl
 servicedesk.dictu.nl
@@ -3625,8 +3635,10 @@ test.monumentenregister.cultureelerfgoed.nl
 test.natura2000.nl
 test.ncsc.nl
 test.nl-alert.nl
+test.portaal.nlarbeidsinspectie.nl
 test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
+test.resultaten.nlarbeidsinspectie.nl
 test.status.cbs.nl
 test.t.cultureelerfgoed.nl
 test.veilig.cultureelerfgoed.nl
@@ -4438,6 +4450,7 @@ www.nimh.nl
 www.nix18.nl
 www.nl-alert.nl
 www.nl-works.com
+www.nlarbeidsinspectie.nl
 www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl

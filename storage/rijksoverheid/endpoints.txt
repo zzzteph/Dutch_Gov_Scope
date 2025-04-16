@@ -311,6 +311,7 @@ https://acceptatie.mijn.donorregister.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
+https://acceptatie.portaal.nlarbeidsinspectie.nl
 https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.raadplegen.donorregister.nl
 https://acceptatie.tea.bigregister.nl
@@ -404,6 +405,7 @@ https://archisarchief.cultureelerfgoed.nl
 https://aris.brabant.nl
 https://asb.datasluis.dictu.nl
 https://asb.webftp.dictu.nl
+https://asbestovertredingen.nlarbeidsinspectie.nl
 https://asbestvolgsysteem.nl
 https://asbestvrijdak.nl
 https://asycuda.belastingdienst-cn.nl
@@ -1119,6 +1121,7 @@ https://feeds.nimh.nl
 https://feeds.nix18.nl
 https://feeds.nl-alert.nl
 https://feeds.nl-works.com
+https://feeds.nlarbeidsinspectie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1635,6 +1638,7 @@ https://nimh.nl
 https://nix18.nl
 https://nl-alert.nl
 https://nl-works.com
+https://nlarbeidsinspectie.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
@@ -1888,6 +1892,7 @@ https://opendata.nimh.nl
 https://opendata.nix18.nl
 https://opendata.nl-alert.nl
 https://opendata.nl-works.com
+https://opendata.nlarbeidsinspectie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1930,6 +1935,7 @@ https://portaal.huurcommissie.nl
 https://portaal.ikz.nl
 https://portaal.interventiedatabase.nl
 https://portaal.ncpeh.nl
+https://portaal.nlarbeidsinspectie.nl
 https://portal.cbs.nl
 https://portal.formulierdus-i.nl
 https://portal2.formulierdus-i.nl
@@ -2016,6 +2022,7 @@ https://remote.flevoland.nl
 https://repository.acceptatie.istandaarden.nl
 https://repository.istandaarden.nl
 https://research.cbs.nl
+https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://rgs.cbs.nl
 https://rivmopendata.cbs.nl
@@ -2133,7 +2140,9 @@ https://test.mi-cert.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.natura2000.nl
 https://test.ncsc.nl
+https://test.portaal.nlarbeidsinspectie.nl
 https://test.resultaten.arbeidsinspectie.nl
+https://test.resultaten.nlarbeidsinspectie.nl
 https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
@@ -2639,6 +2648,7 @@ https://www.nimh.nl
 https://www.nix18.nl
 https://www.nl-alert.nl
 https://www.nl-works.com
+https://www.nlarbeidsinspectie.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
