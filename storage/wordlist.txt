@@ -21,10 +21,10 @@ a-feeds.a-english
 a-opendata.a-english
 intranet
 cms
-portaal
 vpn
-connect
 webmail
+portaal
+connect
 prod
 www-acc
 formulieren
@@ -34,6 +34,7 @@ sip
 webservices
 beeldbank
 werkplek
+redactie
 data
 geo
 proto
@@ -44,11 +45,12 @@ www-p
 www-ts
 www-tst
 acceptatie.beheer
+hybrid
 mdm
+ftp
 geoservices
 onderzoek
 portal
-redactie
 digikoppeling
 _autodiscover._tcp
 a-magazines
@@ -59,6 +61,7 @@ sharepoint
 vpn2
 meldingen
 ontwikkel
+smtp
 geodata
 academie
 fs
@@ -69,14 +72,12 @@ acceptatie.webservices
 beheer
 atlas
 connect-with
-hybrid
 id
 kaarten
 ondertekenen
 sts
 academy
 chat
-ftp
 micollab
 dwo
 mam
@@ -91,6 +92,7 @@ forms
 kennisbank
 git
 preview
+mx1
 av
 dialin
 eloket
@@ -103,7 +105,6 @@ chw
 test.resultaten
 prd
 pushmail
-smtp
 smtp1
 feeds.papiamentu
 opendata.papiamentu
@@ -157,6 +158,7 @@ broker
 doc
 sso
 static
+enterpriseenrollment
 crm
 cdn
 content
@@ -188,6 +190,7 @@ mail01
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
+enterpriseregistration
 ras
 werkenbij
 acc.mijn
@@ -214,7 +217,6 @@ repository
 privacy
 geoweb
 leren
-mx1
 acceptatie.portaal
 track
 geoportal
@@ -1137,7 +1139,6 @@ b2bi
 conf
 db
 dcp-time-slot
-enterpriseenrollment
 mdm-t
 mdmeas
 mdmvpn-t
@@ -1769,7 +1770,6 @@ video.beeldbellen
 afspraak
 bdx
 dfp
-enterpriseregistration
 ras2
 services-test
 services1
@@ -2843,3 +2843,11 @@ htmleditor
 kec
 repository-acc
 repository-eto
+izis
+kenniscentrum
+ofgvtransfer
+squit2go
+squit2gotest
+transfer
+vr
+ws-izis
