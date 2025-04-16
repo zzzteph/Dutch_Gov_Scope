@@ -888,6 +888,7 @@ ccn2.belastingdienst.nl
 cdn.cbs.nl
 cdn.klopt.cibg.nl
 cdn.knmi.nl
+cdn.opwegnaarseb.nl
 ceg.nl
 censushub.cbs.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
@@ -1024,6 +1025,7 @@ corsa.brabant.nl
 corsa2023.brabant.nl
 cp.vcdn.belastingdienst.nl
 cpanel.evenementenbureauvws.nl
+cpanel.opwegnaarseb.nl
 cpapps.belastingdienst.nl
 cparegister.nl
 cpcalendars.evenementenbureauvws.nl
@@ -1242,6 +1244,7 @@ e-akkoord.nl
 e-certnl-acc.nvwa.nl
 e-certnl-sch.nvwa.nl
 e-certnl.nvwa.nl
+e-learning.opwegnaarseb.nl
 e-loket.ilent.nl
 e.acc.videobellen.douane.nl
 e.awareness.nationaalcoordinatorgroningen.nl
@@ -1699,6 +1702,7 @@ feeds.onswater.nl
 feeds.oostvaarderskliniek.nl
 feeds.open-overheid.nl
 feeds.oprijk.nl
+feeds.opwegnaarseb.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2414,6 +2418,7 @@ mail.odmh.nl
 mail.onderwijsraad.nl
 mail.oostvaarderskliniek.nl
 mail.open-overheid.nl
+mail.opwegnaarseb.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail01.dsta.nl
@@ -3171,6 +3176,7 @@ opendata.onswater.nl
 opendata.oostvaarderskliniek.nl
 opendata.open-overheid.nl
 opendata.oprijk.nl
+opendata.opwegnaarseb.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -3188,6 +3194,7 @@ opvragen-acc1.ep-online.nl
 opvragen-preprod.ep-online.nl
 opvragen.acc.ep-online.nl
 opvragen.ep-online.nl
+opwegnaarseb.nl
 orchestrator.ncsc.nl
 orfeus.knmi.nl
 orfeusdev.knmi.nl
@@ -4173,6 +4180,7 @@ webmail.flevoland.nl
 webmail.huurcommissie.nl
 webmail.knmi.nl
 webmail.ofgv.nl
+webmail.opwegnaarseb.nl
 webserver.cbs.nl
 webservice-acc.ep-online.nl
 webservice-acc1.ep-online.nl
@@ -4720,6 +4728,7 @@ www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.openkat.nl
 www.oprijk.nl
+www.opwegnaarseb.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
 www.proxy-epbd-acc.ep-online.nl
 www.proxy-epbd.ep-online.nl

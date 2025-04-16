@@ -583,6 +583,7 @@ https://ccmo.nl
 https://cdn.cbs.nl
 https://cdn.klopt.cibg.nl
 https://cdn.knmi.nl
+https://cdn.opwegnaarseb.nl
 https://ceg.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://centraalexamen.nl
@@ -663,6 +664,7 @@ https://corsa-acpt.brabant.nl
 https://corsa.brabant.nl
 https://corsa2023.brabant.nl
 https://cpanel.evenementenbureauvws.nl
+https://cpanel.opwegnaarseb.nl
 https://cparegister.nl
 https://cpcalendars.evenementenbureauvws.nl
 https://cpcontacts.evenementenbureauvws.nl
@@ -807,6 +809,7 @@ https://e-akkoord.nl
 https://e-certnl-acc.nvwa.nl
 https://e-certnl-sch.nvwa.nl
 https://e-certnl.nvwa.nl
+https://e-learning.opwegnaarseb.nl
 https://e-loket.ilent.nl
 https://e.acc.videobellen.douane.nl
 https://e.awareness.nationaalcoordinatorgroningen.nl
@@ -1179,6 +1182,7 @@ https://feeds.onswater.nl
 https://feeds.oostvaarderskliniek.nl
 https://feeds.open-overheid.nl
 https://feeds.oprijk.nl
+https://feeds.opwegnaarseb.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1559,6 +1563,7 @@ https://mail.handelingenbank.info
 https://mail.ndw.nu
 https://mail.odmh.nl
 https://mail.open-overheid.nl
+https://mail.opwegnaarseb.nl
 https://mailcatch.acc.dpr.irealisatie.nl
 https://mailcatch.test.dpr.irealisatie.nl
 https://mailcatch.test.mgo.irealisatie.nl
@@ -2047,6 +2052,7 @@ https://opendata.onswater.nl
 https://opendata.oostvaarderskliniek.nl
 https://opendata.open-overheid.nl
 https://opendata.oprijk.nl
+https://opendata.opwegnaarseb.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendisdata.nza.nl
@@ -2055,6 +2061,7 @@ https://opleiding-ola.belastingdienst.nl
 https://oprijk.nl
 https://opvragen-preprod.ep-online.nl
 https://opvragen.ep-online.nl
+https://opwegnaarseb.nl
 https://origin.api.contenttoolsrijksoverheid.nl
 https://origin.klimaatscenarios-data.knmi.nl
 https://oto.cbs.nl
@@ -2448,6 +2455,7 @@ https://webmail.brabant.nl
 https://webmail.evenementenbureauvws.nl
 https://webmail.flevoland.nl
 https://webmail.ofgv.nl
+https://webmail.opwegnaarseb.nl
 https://webserver.cbs.nl
 https://webservice.ep-online.nl
 https://webservices.bigregister.nl
@@ -2873,6 +2881,7 @@ https://www.open-overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openkat.nl
 https://www.oprijk.nl
+https://www.opwegnaarseb.nl
 https://www.ras-acc.nvwa.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tvs.dictu.nl

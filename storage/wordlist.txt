@@ -20,9 +20,9 @@ api
 a-feeds.a-english
 a-opendata.a-english
 intranet
+webmail
 cms
 vpn
-webmail
 portaal
 connect
 prod
@@ -81,6 +81,7 @@ ondertekenen
 docs
 sts
 academy
+cdn
 chat
 micollab
 dwo
@@ -165,7 +166,6 @@ conf
 enterpriseenrollment
 crm
 ts
-cdn
 content
 dashboards
 designsystem
@@ -201,6 +201,7 @@ werkenbij
 acc.mijn
 www.mijn
 www.acc
+cpanel
 piwik
 kaart
 preprodformulieren
@@ -1884,7 +1885,6 @@ www3
 aangiftebereidheid
 agressieinzorgenwelzijnenhetdoenvanaangiftedenhaag
 careereventvws
-cpanel
 cpcalendars
 cpcontacts
 gala2024
@@ -2879,3 +2879,4 @@ werkplaats
 pop
 pvs
 wooincijfers
+e-learning
