@@ -1508,6 +1508,7 @@ feeds.mensenrechten.nl
 feeds.mijncn.nl
 feeds.mijnpgb.nl
 feeds.mirtoverzicht.nl
+feeds.monitorlangdurigezorg.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2386,6 +2387,7 @@ mobilesync.knmi.nl
 mode-s.knmi.nl
 modellen.jenvgegevens.nl
 modules.istandaarden.nl
+monitorlangdurigezorg.nl
 monitorwonen.flevoland.nl
 monumentenregister.cultureelerfgoed.nl
 moodle.vcdn.belastingdienst.nl
@@ -2742,6 +2744,7 @@ opendata.mensenrechten.nl
 opendata.mijncn.nl
 opendata.mijnpgb.nl
 opendata.mirtoverzicht.nl
+opendata.monitorlangdurigezorg.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -4107,6 +4110,7 @@ www.mijnpgb.nl
 www.mijnsubsidies-acc.limburg.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
+www.monitorlangdurigezorg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl

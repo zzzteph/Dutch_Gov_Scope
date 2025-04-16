@@ -1014,6 +1014,7 @@ https://feeds.mensenrechten.nl
 https://feeds.mijncn.nl
 https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
+https://feeds.monitorlangdurigezorg.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1442,6 +1443,7 @@ https://mn.datawonen.nl
 https://mode-s.knmi.nl
 https://modellen.jenvgegevens.nl
 https://modules.istandaarden.nl
+https://monitorlangdurigezorg.nl
 https://monitorwonen.flevoland.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://mqtt.dataplatform.knmi.nl
@@ -1687,6 +1689,7 @@ https://opendata.mensenrechten.nl
 https://opendata.mijncn.nl
 https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
+https://opendata.monitorlangdurigezorg.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2366,6 +2369,7 @@ https://www.mijnncg.nl
 https://www.mijnpgb.nl
 https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl
+https://www.monitorlangdurigezorg.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
