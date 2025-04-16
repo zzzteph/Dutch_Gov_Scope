@@ -78,6 +78,7 @@ connect-with
 id
 kaarten
 ondertekenen
+docs
 sts
 academy
 chat
@@ -153,7 +154,6 @@ proxy
 publicaties
 wifi
 www-test
-docs
 helpdesk
 web.acc
 acc2
