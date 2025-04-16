@@ -120,6 +120,7 @@ http://nvi.test.gf.irealisatie.nl
 http://odata4.cbs.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oosweb.cbs.nl
+http://opleiding.nl-alert.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
@@ -177,6 +178,7 @@ http://test.dusi.irealisatie.nl
 http://test.gf.irealisatie.nl
 http://test.loketgezondleven.nl
 http://test.mgo.irealisatie.nl
+http://test.nl-alert.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
@@ -323,6 +325,7 @@ https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://acs-acpt.brabant.nl
 https://acs.brabant.nl
+https://actueel.nl-alert.nl
 https://adaguc.knmi.nl
 https://adc3.cbs.nl
 https://adc7.cbs.nl
@@ -1114,6 +1117,7 @@ https://feeds.nieuwsbrievenminocw.nl
 https://feeds.nifp.nl
 https://feeds.nimh.nl
 https://feeds.nix18.nl
+https://feeds.nl-alert.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1628,6 +1632,7 @@ https://nifp.nl
 https://nimh-beeldbank.defensie.nl
 https://nimh.nl
 https://nix18.nl
+https://nl-alert.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
@@ -1879,6 +1884,7 @@ https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nifp.nl
 https://opendata.nimh.nl
 https://opendata.nix18.nl
+https://opendata.nl-alert.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1960,6 +1966,7 @@ https://prod.asbestvolgsysteem.nl
 https://prod.dictu.nl
 https://prod.justis.nl
 https://prod.mi-cert.nl
+https://prod.nl-alert.nl
 https://proeftuin.uzi-online.irealisatie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
@@ -2101,6 +2108,7 @@ https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-kpi-dashboard.ndw.nu
+https://test.actueel.nl-alert.nl
 https://test.belastingdienst-cn.nl
 https://test.bromonitor.nl
 https://test.cbi.eu
@@ -2626,6 +2634,7 @@ https://www.nieuwsenkennisportaalbzk.nl
 https://www.nifp.nl
 https://www.nimh.nl
 https://www.nix18.nl
+https://www.nl-alert.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl

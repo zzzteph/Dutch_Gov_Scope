@@ -24,9 +24,9 @@ intranet
 vpn
 connect
 webmail
+prod
 portaal
 www-acc
-prod
 login
 sip
 webservices
@@ -128,6 +128,7 @@ werken
 acceptatie.behandel
 acceptatie.zoeken
 acs
+app
 atlas
 beeldbank-bo
 dataportaal
@@ -982,7 +983,6 @@ acceptatie.zoek
 zoek
 acs-acpt
 api-acpt
-app
 aris
 atlas-acpt
 autorisatie-preprod
@@ -2761,3 +2761,9 @@ prod2.opendata
 tst.opendata
 easy
 rapporteursnet
+actueel
+lms.opleiding
+lms.prod
+lms.test
+opleiding
+test.actueel
