@@ -36,6 +36,7 @@ mdm
 geoservices
 portal
 data
+geo
 a-magazines
 apps
 proto
@@ -65,7 +66,6 @@ digikoppeling
 _autodiscover._tcp
 dwo
 mam
-geo
 connect-acpt
 staging
 adfs
@@ -126,6 +126,7 @@ www-test
 helpdesk
 web.acc
 broker
+doc
 sso
 static
 cdn
@@ -1089,7 +1090,6 @@ acc2
 broker-preprod
 demo
 doc-acc
-doc
 int
 pre
 sad-acc
