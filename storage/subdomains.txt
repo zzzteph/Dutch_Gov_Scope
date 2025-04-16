@@ -1207,6 +1207,7 @@ english.kiesraad.nl
 english.kimnet.nl
 english.knmidata.nl
 english.marechaussee.nl
+english.mijncn.nl
 english.rekenkamer.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1431,6 +1432,7 @@ feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
 feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
+feeds.english.mijncn.nl
 feeds.english.rekenkamer.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -1503,7 +1505,9 @@ feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
+feeds.mijncn.nl
 feeds.papiamentu.belastingdienst-cn.nl
+feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -1793,6 +1797,7 @@ hybrid.domeinenrz.nl
 hybridexo.cbs.nl
 i-cms.defensie.nl
 i-cms1.defensie.nl
+i-login.mijncn.nl
 i-site1.defensie.nl
 i-www.defensie.nl
 i-www.government.nl
@@ -2057,10 +2062,12 @@ localhost.flevoland.nl
 localisation.test.zm.irealisatie.nl
 login-uzi.proeftuin.uzi-online.irealisatie.nl
 login.aaenmaas.nl
+login.acc.mijncn.nl
 login.cbs.nl
 login.databestanden.cbs.nl
 login.domeinenrz.nl
 login.irealisatie.nl
+login.mijncn.nl
 login.proeftuin.uzi-online.irealisatie.nl
 logius.nl
 lokalisatie-demo.proeftuin.gf.irealisatie.nl
@@ -2302,6 +2309,7 @@ mijn.tst.belastingdienst.nl
 mijn8.belastingdienst.nl
 mijnadministratie-acpt.brabant.nl
 mijnadministratie.brabant.nl
+mijncn.nl
 mijndouane-perf.acc.belastingdienst.nl
 mijndouane.acc.belastingdienst.nl
 mijndouane.belastingdienst.nl
@@ -2651,6 +2659,7 @@ opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
 opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
+opendata.english.mijncn.nl
 opendata.english.rekenkamer.nl
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
@@ -2724,7 +2733,9 @@ opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
+opendata.mijncn.nl
 opendata.papiamentu.belastingdienst-cn.nl
+opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
 openims-test.ctgb.nl
@@ -2786,6 +2797,7 @@ panter001b-relay.dictu.nl
 panter001b.dictu.nl
 panter011.dictu.nl
 papiamentu.belastingdienst-cn.nl
+papiamentu.mijncn.nl
 password-new.knmi.nl
 password.ctgb.nl
 password.knmi.nl
@@ -4081,6 +4093,7 @@ www.mi-cert.nl
 www.microfoonbanden.nl
 www.mijn.dus-i.nl
 www.mijn.rvo.nl
+www.mijncn.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.netftp.dictu.nl

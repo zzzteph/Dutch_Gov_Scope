@@ -2,12 +2,12 @@ www
 
 opendata
 feeds
-a-www
 english
-a-feeds
-a-opendata
+a-www
 feeds.english
 opendata.english
+a-feeds
+a-opendata
 test
 acc
 autodiscover
@@ -27,6 +27,7 @@ webmail
 www-acc
 prod
 portaal
+login
 sip
 webservices
 werkplek
@@ -37,7 +38,6 @@ www-ow
 www-p
 www-ts
 www-tst
-login
 beeldbank
 formulieren
 mdm
@@ -91,6 +91,9 @@ pushmail
 smtp
 smtp1
 geodata
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 academie
 adobe-analytics-dc
 adobe-tags
@@ -226,9 +229,6 @@ feature-demo-root.dev
 feature-ease-installer.dev
 wadsup
 asycuda
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 abat.acc
 abo.digilevering
 abr.acc
@@ -2596,3 +2596,5 @@ upnl-param.mijn
 upnl-zw-acc.mijn
 upnl-zw.mijn
 upnl.mijn
+i-login
+login.acc

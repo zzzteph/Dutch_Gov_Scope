@@ -774,6 +774,7 @@ https://english.kiesraad.nl
 https://english.kimnet.nl
 https://english.knmidata.nl
 https://english.marechaussee.nl
+https://english.mijncn.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -937,6 +938,7 @@ https://feeds.english.kiesraad.nl
 https://feeds.english.kimnet.nl
 https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
+https://feeds.english.mijncn.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -1009,7 +1011,9 @@ https://feeds.marechaussee.nl
 https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
 https://feeds.mensenrechten.nl
+https://feeds.mijncn.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
+https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -1143,6 +1147,7 @@ https://hulpmiddelen.farmatec.nl
 https://huurcommissie.nl
 https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
+https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
 https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
@@ -1300,6 +1305,7 @@ https://lo-ad.test.mgo.irealisatie.nl
 https://login.aaenmaas.nl
 https://login.cbs.nl
 https://login.databestanden.cbs.nl
+https://login.mijncn.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://logius.nl
 https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
@@ -1412,6 +1418,7 @@ https://mijn.knmi.nl
 https://mijn.rvo.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
+https://mijncn.nl
 https://mijndouane.belastingdienst.nl
 https://mijnloket.commissiemijnbouwschade.nl
 https://mijnsubsidies-acc.limburg.nl
@@ -1599,6 +1606,7 @@ https://opendata.english.kiesraad.nl
 https://opendata.english.kimnet.nl
 https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
+https://opendata.english.mijncn.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -1671,7 +1679,9 @@ https://opendata.marechaussee.nl
 https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
 https://opendata.mensenrechten.nl
+https://opendata.mijncn.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
+https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
 https://opvragen.ep-online.nl
@@ -1685,6 +1695,7 @@ https://overhandigingroadmapnucleairegeneeskunde.evenementenbureauvws.nl
 https://overzicht.cbs.nl
 https://ovverklaringen.belastingdienst.nl
 https://papiamentu.belastingdienst-cn.nl
+https://papiamentu.mijncn.nl
 https://password-new.knmi.nl
 https://password.ctgb.nl
 https://password.knmi.nl
@@ -2343,6 +2354,7 @@ https://www.mi-cert.nl
 https://www.microfoonbanden.nl
 https://www.mijn.dus-i.nl
 https://www.mijn.rvo.nl
+https://www.mijncn.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
