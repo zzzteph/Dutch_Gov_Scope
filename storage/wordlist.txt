@@ -65,6 +65,7 @@ ondertekenen
 sts
 academy
 ftp
+micollab
 _dmarc
 digikoppeling
 _autodiscover._tcp
@@ -128,6 +129,7 @@ geoserver
 hybrid
 osb
 proxy
+publicaties
 wifi
 www-test
 helpdesk
@@ -141,7 +143,6 @@ cdn
 chat
 content
 designsystem
-micollab
 onderzoek
 redactie
 tunnel
@@ -158,6 +159,7 @@ sf
 testconn
 formulier
 kennis
+oud
 i-www
 o-www
 t-www
@@ -1048,7 +1050,6 @@ osb-acpt
 osb-ontw
 osb-test
 psarchief
-publicaties
 s4a
 s4o
 s4p
@@ -1438,7 +1439,6 @@ mailhog.acc.monumentenregister
 mass
 monumentenregister
 noaa
-oud
 pom
 prd.archis
 preprod.idselect
@@ -2575,3 +2575,13 @@ preview
 productie
 toolkits
 intern
+complaintform
+gelijkloon
+klachtenformulier
+klachtenformulierlink
+leren
+mx1
+new
+oordelen
+publicaties.oud
+zoekservice
