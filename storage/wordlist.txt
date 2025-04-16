@@ -48,6 +48,7 @@ www-ow
 www-p
 www-ts
 www-tst
+www2
 dialin
 smtp
 acceptatie.beheer
@@ -59,7 +60,6 @@ _autodiscover._tcp
 a-magazines
 apps
 staging
-www2
 loket
 lync
 lyncdiscover
@@ -3521,3 +3521,4 @@ radar
 slimmestad
 uploadmodule
 bastion365
+kart
