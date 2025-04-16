@@ -2759,3 +2759,4 @@ mail.informatieservice
 o2.mail.informatieservice
 prod2.opendata
 tst.opendata
+easy
