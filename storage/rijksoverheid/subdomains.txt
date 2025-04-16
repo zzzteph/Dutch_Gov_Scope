@@ -353,6 +353,7 @@ acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
 acceptatie.mijn.donorregister.nl
+acceptatie.ordz.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.portaal.ncpeh.nl
@@ -1290,6 +1291,7 @@ elearning-irb.nctv.nl
 elearning-lcp-egt.nctv.nl
 elearning-msz.nza.nl
 elearning.cbi.eu
+elearning.ordz.nl
 elkeregiotelt.nl
 eloket.aaenmaas.nl
 eloket.flevoland.nl
@@ -1703,6 +1705,7 @@ feeds.oostvaarderskliniek.nl
 feeds.open-overheid.nl
 feeds.oprijk.nl
 feeds.opwegnaarseb.nl
+feeds.ordz.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -3177,6 +3180,7 @@ opendata.oostvaarderskliniek.nl
 opendata.open-overheid.nl
 opendata.oprijk.nl
 opendata.opwegnaarseb.nl
+opendata.ordz.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -3196,6 +3200,7 @@ opvragen.acc.ep-online.nl
 opvragen.ep-online.nl
 opwegnaarseb.nl
 orchestrator.ncsc.nl
+ordz.nl
 orfeus.knmi.nl
 orfeusdev.knmi.nl
 origin.api.contenttoolsrijksoverheid.nl
@@ -4729,6 +4734,7 @@ www.opendata.brabant.nl
 www.openkat.nl
 www.oprijk.nl
 www.opwegnaarseb.nl
+www.ordz.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
 www.proxy-epbd-acc.ep-online.nl
 www.proxy-epbd.ep-online.nl
