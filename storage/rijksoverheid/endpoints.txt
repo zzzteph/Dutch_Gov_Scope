@@ -1005,6 +1005,7 @@ https://feeds.lvmb.nl
 https://feeds.maatwerkvoormensen.nl
 https://feeds.marechaussee.nl
 https://feeds.medicineshortagesdefects.nl
+https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -1373,6 +1374,7 @@ https://meldingen.atkm.nl
 https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://meldproduct.nl
+https://meldpuntgeneesmiddelentekortendefecten.nl
 https://meldpuntwki.inspectie-jenv.nl
 https://menukaart.kansrijkestartnl.nl
 https://mft.webftp.dictu.nl
@@ -1653,6 +1655,7 @@ https://opendata.lvmb.nl
 https://opendata.maatwerkvoormensen.nl
 https://opendata.marechaussee.nl
 https://opendata.medicineshortagesdefects.nl
+https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opleiding-ola.belastingdienst.nl
 https://opvragen-preprod.ep-online.nl
@@ -2314,6 +2317,7 @@ https://www.marechaussee.nl
 https://www.medicijnkosten.nl
 https://www.medicineshortagesdefects.nl
 https://www.meldproduct.nl
+https://www.meldpuntgeneesmiddelentekortendefecten.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
