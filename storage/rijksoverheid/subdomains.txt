@@ -1633,6 +1633,7 @@ feeds.nix18.nl
 feeds.nl-alert.nl
 feeds.nl-works.com
 feeds.nlarbeidsinspectie.nl
+feeds.nllabourauthority.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -2664,6 +2665,7 @@ nl-dictu-rijkspas.dictu.nl
 nl-works.com
 nlarbeidsinspectie.nl
 nlinfrankrijk.nl
+nllabourauthority.nl
 nls.ndw.nu
 nmdc.knmi.nl
 nmdcacc.knmi.nl
@@ -2990,6 +2992,7 @@ opendata.nix18.nl
 opendata.nl-alert.nl
 opendata.nl-works.com
 opendata.nlarbeidsinspectie.nl
+opendata.nllabourauthority.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 openims-acc.ctgb.nl
@@ -4453,6 +4456,7 @@ www.nl-alert.nl
 www.nl-works.com
 www.nlarbeidsinspectie.nl
 www.nlinfrankrijk.nl
+www.nllabourauthority.nl
 www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl
