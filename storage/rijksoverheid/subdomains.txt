@@ -1443,6 +1443,7 @@ feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
+feeds.lintjes.nl
 feeds.papiamentu.belastingdienst-cn.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -1940,6 +1941,7 @@ limburg.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.test.cultureelerfgoed.nl
+lintjes.nl
 lip.ilent.nl
 lir.cibg.nl
 livecharts.cbs.nl
@@ -2582,6 +2584,7 @@ opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
+opendata.lintjes.nl
 opendata.papiamentu.belastingdienst-cn.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
@@ -3869,6 +3872,7 @@ www.leer-rijk.nl
 www.leerenontwikkelplein.nl
 www.lerenvoorveiligheid.nl
 www.limburg.nl
+www.lintjes.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
