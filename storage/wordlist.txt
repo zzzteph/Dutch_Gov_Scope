@@ -12,8 +12,8 @@ test
 acc
 autodiscover
 mail
-mijn
 magazines
+mijn
 a-english
 acceptatie
 api
@@ -2867,3 +2867,7 @@ strafdossiermh17
 verkeer.acc.loket
 verkeer.loket
 zsmgame
+contactformulier.acc
+contactformulier
+toezichtresultaten.acc
+toezichtresultaten

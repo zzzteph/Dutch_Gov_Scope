@@ -652,6 +652,8 @@ https://connectpeoplereg.belastingdienst.nl
 https://consexponano.nl
 https://constructiestukken.odmh.nl
 https://consultatie.knmi.nl
+https://contactformulier.acc.onderwijsinspectie.nl
+https://contactformulier.onderwijsinspectie.nl
 https://contactpuntbouwproducten.nl
 https://content.cbs.nl
 https://content.klopt.cibg.nl
@@ -879,6 +881,7 @@ https://english.nctv.nl
 https://english.ndw.nu
 https://english.nrgd.nl
 https://english.nvwa.nl
+https://english.onderwijsinspectie.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
@@ -1056,6 +1059,7 @@ https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
+https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -1165,6 +1169,7 @@ https://feeds.ocwincijfers.nl
 https://feeds.oecdguidelines.nl
 https://feeds.oesorichtlijnen.nl
 https://feeds.om.nl
+https://feeds.onderwijsinspectie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1536,6 +1541,7 @@ https://magazines.ncsc.nl
 https://magazines.nctv.nl
 https://magazines.nvwa.nl
 https://magazines.nza.nl
+https://magazines.onderwijsinspectie.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.cggp.nl
 https://mail.dihoo.nl
@@ -1767,6 +1773,7 @@ https://ondertekenen.brabant.nl
 https://ondertekenen.flevoland.nl
 https://ondertekenen.limburg.nl
 https://ondertekenentst.brabant.nl
+https://onderwijsinspectie.nl
 https://onderzoek.cbs.nl
 https://onderzoek.communicatierijk.nl
 https://onderzoek.nederlandwereldwijd.nl
@@ -1904,6 +1911,7 @@ https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
+https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -2014,6 +2022,7 @@ https://opendata.ocwincijfers.nl
 https://opendata.oecdguidelines.nl
 https://opendata.oesorichtlijnen.nl
 https://opendata.om.nl
+https://opendata.onderwijsinspectie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendisdata.nza.nl
@@ -2300,6 +2309,8 @@ https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toezichtdocumenten.igj.nl
+https://toezichtresultaten.acc.onderwijsinspectie.nl
+https://toezichtresultaten.onderwijsinspectie.nl
 https://toolkits.loketgezondleven.nl
 https://tovertool.nza.nl
 https://trillingsdata-acc.dictu.nl
@@ -2818,6 +2829,7 @@ https://www.ofgv.nl
 https://www.om.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.onbeperkttoegankelijk.nl
+https://www.onderwijsinspectie.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.ras-acc.nvwa.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
