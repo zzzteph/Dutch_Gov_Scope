@@ -56,6 +56,7 @@ vpn2
 meldingen
 ontwikkel
 geodata
+academie
 fs
 services
 zoeken
@@ -99,7 +100,6 @@ smtp1
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
-academie
 adobe-analytics-dc
 adobe-tags
 afspraken
@@ -2760,3 +2760,4 @@ o2.mail.informatieservice
 prod2.opendata
 tst.opendata
 easy
+rapporteursnet
