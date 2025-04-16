@@ -829,6 +829,7 @@ https://designsystem.cbs.nl
 https://designsystem.cibg.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
+https://deutsch.postedworkers.nl
 https://dev.api-sec.p-direkt.nl
 https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
@@ -1004,6 +1005,7 @@ https://english.ndw.nu
 https://english.nrgd.nl
 https://english.nvwa.nl
 https://english.onderwijsinspectie.nl
+https://english.postedworkers.nl
 https://english.rekenkamer.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
@@ -1184,6 +1186,7 @@ https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
 https://feeds.english.onderwijsinspectie.nl
+https://feeds.english.postedworkers.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -1312,6 +1315,7 @@ https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.politiekeambtsdragers.nl
+https://feeds.postedworkers.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -1776,6 +1780,7 @@ https://meldingen.atkm.nl
 https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://meldingwd.odmh.nl
+https://meldloket.postedworkers.nl
 https://meldproduct.nl
 https://meldpuntgeneesmiddelentekortendefecten.nl
 https://meldpuntwki.inspectie-jenv.nl
@@ -1871,6 +1876,8 @@ https://murder-case.om.nl
 https://mvstat.cbs.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
+https://myidp-acc.postedworkers.nl
+https://myidp.postedworkers.nl
 https://nac.nctv.nl
 https://nap-ev.ndw.nu
 https://nationaalcohortonderzoek.cbs.nl
@@ -2116,6 +2123,7 @@ https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
 https://opendata.english.onderwijsinspectie.nl
+https://opendata.english.postedworkers.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
@@ -2246,6 +2254,7 @@ https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.platformrijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
+https://opendata.postedworkers.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
@@ -2346,6 +2355,7 @@ https://portal.formulierdus-i.nl
 https://portal2.formulierdus-i.nl
 https://portalco.formulierdus-i.nl
 https://portalen.preproductie.digipoort.logius.nl
+https://postedworkers.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://prd.atlasleefomgeving.nl
@@ -2720,6 +2730,7 @@ https://upload.cbs.nl
 https://upnl.mijn.rvo.nl
 https://uren.acc.irealisatie.nl
 https://uren.irealisatie.nl
+https://url6099.mail.postedworkers.nl
 https://uzipas.lir.cibg.nl
 https://uzipas.portaal.ncpeh.nl
 https://vacatures.odmh.nl
@@ -3277,6 +3288,7 @@ https://www.pagw.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pns.nl
 https://www.politiekeambtsdragers.nl
+https://www.postedworkers.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
