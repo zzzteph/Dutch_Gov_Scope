@@ -19,8 +19,8 @@ acceptatie
 api
 a-feeds.a-english
 a-opendata.a-english
-cms
 intranet
+cms
 portaal
 vpn
 connect
@@ -75,6 +75,7 @@ chat
 ftp
 micollab
 onderzoek
+redactie
 digikoppeling
 dwo
 mam
@@ -160,7 +161,6 @@ content
 dashboards
 designsystem
 projecten
-redactie
 tunnel
 uag
 acceptatie.digikoppeling
@@ -2825,3 +2825,7 @@ zorgprestatiemodel
 zorgproducten-acc
 zorgproducten-test
 zorgproducten
+acc-open-wave
+gisviewer
+join
+open-wave
