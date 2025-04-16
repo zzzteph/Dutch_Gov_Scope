@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-english
 a-www
+english
 feeds.english
 opendata.english
 a-feeds
@@ -19,8 +19,8 @@ a-english
 a-feeds.a-english
 a-opendata.a-english
 cms
-api
 intranet
+api
 vpn
 connect
 webmail
@@ -2599,3 +2599,10 @@ upnl.mijn
 i-login
 login.acc
 mirt2016
+aip-acc
+aip
+e.awareness
+intranet-prod
+jet-test
+zakelijk-acc
+zakelijk

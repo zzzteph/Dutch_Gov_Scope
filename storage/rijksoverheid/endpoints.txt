@@ -25,6 +25,7 @@ http://adc.cbs.nl
 http://adc4.cbs.nl
 http://addressing.test.zm.irealisatie.nl
 http://ag-dcr.cibg.nl
+http://aip-acc.nationaalcoordinatorgroningen.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
@@ -336,6 +337,7 @@ https://agressieinzorgenwelzijnenhetdoenvanaangiftedenhaag.evenementenbureauvws.
 https://agressievrijwerken.nl
 https://agroberichtenbuitenland.nl
 https://ainformatieportaal.justid.nl
+https://aip.nationaalcoordinatorgroningen.nl
 https://aivd.nl
 https://akkoordverbeteringproductsamenstelling.nl
 https://algemenebestuursdienst.nl
@@ -715,6 +717,7 @@ https://dwo.knmi.nl
 https://e-akkoord.nl
 https://e-loket.ilent.nl
 https://e.acc.videobellen.douane.nl
+https://e.awareness.nationaalcoordinatorgroningen.nl
 https://e.flevoland.nl
 https://e.hhdelfland.nl
 https://e.logius.nl
@@ -1015,6 +1018,7 @@ https://feeds.mijncn.nl
 https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
 https://feeds.monitorlangdurigezorg.nl
+https://feeds.nationaalcoordinatorgroningen.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -1205,6 +1209,7 @@ https://intranet.flevoland.nl
 https://intranet.justid.nl
 https://intranet.justis.nl
 https://intranet.justitieleictorganisatie.nl
+https://intranet.nationaalcoordinatorgroningen.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://investeringsimpulsspv.nl
 https://iob-evaluatie.nl
@@ -1226,6 +1231,7 @@ https://jaarverslag2018.flevoland.nl
 https://jaeger.proeftuin.gf.irealisatie.nl
 https://jaeger.test.gf.irealisatie.nl
 https://jenvgegevens.nl
+https://jet-test.nationaalcoordinatorgroningen.nl
 https://jeugdautoriteit.nl
 https://jeugdconnect.nl
 https://jeugdmonitor-acc.cbs.nl
@@ -1459,6 +1465,7 @@ https://mvstat.cbs.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://nationaalcohortonderzoek.cbs.nl
+https://nationaalcoordinatorgroningen.nl
 https://natuurbeheerplan.flevoland.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
@@ -1690,6 +1697,7 @@ https://opendata.mijncn.nl
 https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
 https://opendata.monitorlangdurigezorg.nl
+https://opendata.nationaalcoordinatorgroningen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2371,6 +2379,7 @@ https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl
 https://www.monitorlangdurigezorg.nl
 https://www.monumentenregister.cultureelerfgoed.nl
+https://www.nationaalcoordinatorgroningen.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
