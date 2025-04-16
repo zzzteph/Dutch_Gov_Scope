@@ -1178,6 +1178,7 @@ https://feeds.onslevendlandschap.nl
 https://feeds.onswater.nl
 https://feeds.oostvaarderskliniek.nl
 https://feeds.open-overheid.nl
+https://feeds.oprijk.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://fhub.dictu.nl
@@ -2045,11 +2046,13 @@ https://opendata.onslevendlandschap.nl
 https://opendata.onswater.nl
 https://opendata.oostvaarderskliniek.nl
 https://opendata.open-overheid.nl
+https://opendata.oprijk.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendisdata.nza.nl
 https://openkat.nl
 https://opleiding-ola.belastingdienst.nl
+https://oprijk.nl
 https://opvragen-preprod.ep-online.nl
 https://opvragen.ep-online.nl
 https://origin.api.contenttoolsrijksoverheid.nl
@@ -2869,6 +2872,7 @@ https://www.oostvaarderskliniek.nl
 https://www.open-overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openkat.nl
+https://www.oprijk.nl
 https://www.ras-acc.nvwa.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tvs.dictu.nl

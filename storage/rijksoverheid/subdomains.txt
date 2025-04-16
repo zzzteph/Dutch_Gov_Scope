@@ -1698,6 +1698,7 @@ feeds.onslevendlandschap.nl
 feeds.onswater.nl
 feeds.oostvaarderskliniek.nl
 feeds.open-overheid.nl
+feeds.oprijk.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 fhub.dictu.nl
@@ -3169,6 +3170,7 @@ opendata.onslevendlandschap.nl
 opendata.onswater.nl
 opendata.oostvaarderskliniek.nl
 opendata.open-overheid.nl
+opendata.oprijk.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendisdata-acc.nza.nl
@@ -3180,6 +3182,7 @@ openims.ctgb.nl
 openkat.nl
 opleiding-ola.belastingdienst.nl
 opleiding.nl-alert.nl
+oprijk.nl
 opvragen-acc.ep-online.nl
 opvragen-acc1.ep-online.nl
 opvragen-preprod.ep-online.nl
@@ -4716,6 +4719,7 @@ www.open-overheid.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.openkat.nl
+www.oprijk.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
 www.proxy-epbd-acc.ep-online.nl
 www.proxy-epbd.ep-online.nl
