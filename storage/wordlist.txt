@@ -35,6 +35,7 @@ login
 beeldbank
 werkplek
 mdm
+ftp
 redactie
 data
 geo
@@ -46,9 +47,9 @@ www-p
 www-ts
 www-tst
 meet
+smtp
 acceptatie.beheer
 hybrid
-ftp
 geoservices
 onderzoek
 portal
@@ -64,7 +65,6 @@ vpn2
 meldingen
 ontwikkel
 pushmail
-smtp
 geodata
 academie
 fs
@@ -2876,3 +2876,5 @@ outbound
 webshop
 werkplaats-acc
 werkplaats
+pop
+pvs
