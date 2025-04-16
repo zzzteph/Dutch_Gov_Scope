@@ -1325,6 +1325,7 @@ https://feeds.raadopenbaarbestuur.nl
 https://feeds.raadrvs.nl
 https://feeds.rabarijk.nl
 https://feeds.rcgog.nl
+https://feeds.rcihh.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -2270,6 +2271,7 @@ https://opendata.raadopenbaarbestuur.nl
 https://opendata.raadrvs.nl
 https://opendata.rabarijk.nl
 https://opendata.rcgog.nl
+https://opendata.rcihh.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
@@ -3319,6 +3321,7 @@ https://www.raadrvs.nl
 https://www.rabarijk.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
+https://www.rcihh.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl

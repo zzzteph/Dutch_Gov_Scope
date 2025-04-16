@@ -2027,6 +2027,7 @@ feeds.raadopenbaarbestuur.nl
 feeds.raadrvs.nl
 feeds.rabarijk.nl
 feeds.rcgog.nl
+feeds.rcihh.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3630,6 +3631,7 @@ opendata.raadopenbaarbestuur.nl
 opendata.raadrvs.nl
 opendata.rabarijk.nl
 opendata.rcgog.nl
+opendata.rcihh.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -5488,6 +5490,7 @@ www.raadrvs.nl
 www.rabarijk.nl
 www.ras-acc.nvwa.nl
 www.rcgog.nl
+www.rcihh.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
