@@ -2043,6 +2043,7 @@ feeds.rcihh.nl
 feeds.rda.nl
 feeds.rdi.nl
 feeds.regelhulp.nl
+feeds.regiosaandegrens.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3659,6 +3660,7 @@ opendata.rcihh.nl
 opendata.rda.nl
 opendata.rdi.nl
 opendata.regelhulp.nl
+opendata.regiosaandegrens.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -4049,6 +4051,7 @@ regelgeving.omgevingswet.overheid.nl
 regelgeving.pre.omgevingswet.overheid.nl
 regelhulp.nl
 regels.overheid.nl
+regiosaandegrens.nl
 regiotaxi.flevoland.nl
 registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
@@ -5533,6 +5536,7 @@ www.rdi.nl
 www.rechtsbijstand.nl
 www.rechtwijzer.nl
 www.regelhulp.nl
+www.regiosaandegrens.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
