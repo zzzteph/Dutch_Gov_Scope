@@ -20,8 +20,8 @@ webmail
 a-feeds.a-english
 a-opendata.a-english
 api
-cms
 intranet
+cms
 vpn
 portaal
 _dmarc
