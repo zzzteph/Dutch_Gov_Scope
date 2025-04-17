@@ -74,7 +74,6 @@ kennisbank
 repository
 lyncdiscover
 maps
-sharepoint
 geodata
 fs
 ns2
@@ -118,6 +117,7 @@ mta-sts
 services
 sharepoint-acc
 sharepoint-conf
+sharepoint
 werken
 acceptatie.behandel
 acceptatie.webservices
