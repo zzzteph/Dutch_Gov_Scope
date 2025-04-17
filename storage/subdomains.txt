@@ -2141,6 +2141,7 @@ english.scp.nl
 english.sso3w.nl
 english.two-acs.com
 english.uitvoeringvanbeleidszw.nl
+english.vnacs.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
@@ -2417,6 +2418,7 @@ feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.two-acs.com
 feeds.english.uitvoeringvanbeleidszw.nl
+feeds.english.vnacs.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -2542,10 +2544,12 @@ feeds.overtoeslagen.nl
 feeds.p-direkt.nl
 feeds.pagw.nl
 feeds.papiamento.two-acs.com
+feeds.papiamento.vnacs.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.papiamentu.rijksdienstcn.com
 feeds.papiamentu.two-acs.com
+feeds.papiamentu.vnacs.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
@@ -2613,6 +2617,7 @@ feeds.veiligepubliekedienstverlening.nl
 feeds.vergoedingsns.nl
 feeds.versterkencyberweerbaarheid.nl
 feeds.veterinairtuchtcollege.nl
+feeds.vnacs.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4571,6 +4576,7 @@ opendata.english.scp.nl
 opendata.english.sso3w.nl
 opendata.english.two-acs.com
 opendata.english.uitvoeringvanbeleidszw.nl
+opendata.english.vnacs.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -4698,10 +4704,12 @@ opendata.overtoeslagen.nl
 opendata.p-direkt.nl
 opendata.pagw.nl
 opendata.papiamento.two-acs.com
+opendata.papiamento.vnacs.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.papiamentu.rijksdienstcn.com
 opendata.papiamentu.two-acs.com
+opendata.papiamentu.vnacs.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.platformrijksoverheid.nl
 opendata.politiekeambtsdragers.nl
@@ -4771,6 +4779,7 @@ opendata.veiligepubliekedienstverlening.nl
 opendata.vergoedingsns.nl
 opendata.versterkencyberweerbaarheid.nl
 opendata.veterinairtuchtcollege.nl
+opendata.vnacs.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -4886,10 +4895,12 @@ panter001b-relay.dictu.nl
 panter001b.dictu.nl
 panter011.dictu.nl
 papiamento.two-acs.com
+papiamento.vnacs.nl
 papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
 papiamentu.rijksdienstcn.com
 papiamentu.two-acs.com
+papiamentu.vnacs.nl
 partnerplaza.sso3w.nl
 pas.natura2000.nl
 password-new.knmi.nl
@@ -6552,6 +6563,7 @@ vlan2007_internet_uc-bgp-r01.svb.nl
 vluchtinfo-test.douane.nl
 vluchtinfo.douane.nl
 vm-ivra.ndw.nu
+vnacs.nl
 vocabs.cbs.nl
 vog.jeugdconnect.nl
 vogcheck.justis.nl
@@ -7471,6 +7483,7 @@ www.vergoedingsns.nl
 www.verhalenoverdeoorlog.nl
 www.versterkencyberweerbaarheid.nl
 www.veterinairtuchtcollege.nl
+www.vnacs.nl
 www.vt016ed.dictu.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl

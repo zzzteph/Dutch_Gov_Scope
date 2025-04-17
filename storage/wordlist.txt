@@ -4,9 +4,9 @@ opendata
 feeds
 a-www
 english
-a-opendata
 feeds.english
 opendata.english
+a-opendata
 a-feeds
 test
 autodiscover
@@ -45,6 +45,9 @@ _autodiscover._tcp
 geo
 apps
 dialin
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 beeldbank
 hybrid
 mdm
@@ -63,9 +66,6 @@ zaaksysteem
 kennisbank
 lyncdiscover
 sharepoint
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 fs
 ns2
 zoeken
@@ -338,6 +338,9 @@ fileshare
 a-magazinesintern
 statistiek
 plekchecker
+feeds.papiamento
+opendata.papiamento
+papiamento
 geoportal
 gisservices
 oa
@@ -4858,9 +4861,6 @@ sign1
 toeslagenanimatie
 toestemming.acc
 www8
-feeds.papiamento
-opendata.papiamento
-papiamento
 bereken
 acceptatie.aanvragen
 acceptatie.formulieren
