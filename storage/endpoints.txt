@@ -79,6 +79,7 @@ http://channels-az2.lpc.logius.nl
 http://chat.cbs.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
+http://cms-eef.waterschaplimburg.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://criminalfilesmh17.acc.prosecutionservice.nl
@@ -117,6 +118,9 @@ http://git.lpc.logius.nl
 http://gm-pre.mev.logius.nl
 http://gm.mev.logius.nl
 http://grafana.lpc.logius.nl
+http://gvopsawa-t.waterschaplimburg.nl
+http://gvopsawa.waterschaplimburg.nl
+http://h2ons.waterschaplimburg.nl
 http://hapi1.test.zm.irealisatie.nl
 http://hapi2.test.zm.irealisatie.nl
 http://harbor.az1.lpc.logius.nl
@@ -156,6 +160,7 @@ http://metadata.test.zm.irealisatie.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mobiel.douane.nl
+http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
 http://notificatie.api.ep-online.nl
 http://nvi.proeftuin.gf.irealisatie.nl
@@ -167,6 +172,7 @@ http://opleiding.nl-alert.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
+http://pdok.waterschaplimburg.nl
 http://pgodemo.test.zm.irealisatie.nl
 http://pm-bounces.ndw.nu
 http://pms-acc.dictu.nl
@@ -217,6 +223,8 @@ http://strafdossiermh17.acc.om.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://survey.cibg.nl
+http://test-cms-eef.waterschaplimburg.nl
+http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
 http://test-intranet.svb.nl
 http://test-machtigen.digipoort.logius.nl
@@ -244,6 +252,7 @@ http://uworktest.flevoland.nl
 http://uzi.acc.brba.nl
 http://uzi.brba.nl
 http://uzi.test.brba.nl
+http://videobellen.waterschaplimburg.nl
 http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://viya.rijkswaterstaat.nl
@@ -626,6 +635,7 @@ https://beeldbank.nimh.nl
 https://beeldbankbelastingdienst.nl
 https://beeldkompas.nl
 https://begrippen.hdsr.nl
+https://begrippen.waterschaplimburg.nl
 https://begrippenlijst.datawonen.nl
 https://begroting.brabant.nl
 https://begroting2019.flevoland.nl
@@ -733,6 +743,7 @@ https://broker-preprod.bronhouderportaal-bro.nl
 https://broker.bronhouderportaal-bro.nl
 https://bromonitor.nl
 https://bron.nl
+https://bron.waterschaplimburg.nl
 https://bronbeek.nl
 https://bronhouderportaal-bro.nl
 https://browser.dataplatform.knmi.nl
@@ -826,6 +837,7 @@ https://claircitydata.cbs.nl
 https://climexp.knmi.nl
 https://cloudstorage-koop.overheid.nl
 https://clusterbuster.nl
+https://cms-bron.waterschaplimburg.nl
 https://cms-extern.rvo.nl
 https://cms-info.ndw.nu
 https://cms-origin.klimaatscenarios-data.knmi.nl
@@ -1026,6 +1038,7 @@ https://dienstterugkeerenvertrek.nl
 https://diergeneesmiddeleninformatiebank.nl
 https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
+https://digikoppeling.waterschaplimburg.nl
 https://digilab.overheid.nl
 https://digitaal.raadopenbaarbestuur.nl
 https://digitaal.scp.nl
@@ -1123,6 +1136,7 @@ https://economicdiplomacy.rvo.nl
 https://ediensten.ind.nl
 https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
+https://eef.waterschaplimburg.nl
 https://eentegeneenzaamheid.nl
 https://eersteenthuis.nl
 https://efeat.org
@@ -1640,6 +1654,7 @@ https://forms.nvwa.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
 https://formulierdus-i.nl
+https://formulieren-preprod.waterschaplimburg.nl
 https://formulieren.brabant.nl
 https://formulieren.flevoland.nl
 https://formulieren.limburg.nl
@@ -1647,6 +1662,7 @@ https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
 https://formulieren.svb.nl
 https://formulieren.uziregister.nl
+https://formulieren.waterschaplimburg.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
@@ -1815,6 +1831,8 @@ https://iinterimrijk.nl
 https://iknowcimow.acc.omgevingswet.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.tst.omgevingswet.overheid.nl
+https://ikp-ota.waterschaplimburg.nl
+https://ikp.waterschaplimburg.nl
 https://ikvermoedhuiselijkgeweld.nl
 https://ikwerkvoornederland.nl
 https://ikz.nl
@@ -1841,8 +1859,10 @@ https://infrabeheer.rvb.rijkscloud.nl
 https://inkoopplein.dictu.nl
 https://inloggen-pre.limburg.nl
 https://inloggen-preprod.hhdelfland.nl
+https://inloggen-preprod.waterschaplimburg.nl
 https://inloggen.hhdelfland.nl
 https://inloggen.limburg.nl
+https://inloggen.waterschaplimburg.nl
 https://inmemoriam.dictu.nl
 https://innovatielab.koopoverheid.nl
 https://innovatieloket-acc.rijkswaterstaat.nl
@@ -2143,6 +2163,7 @@ https://mail.opwegnaarseb.nl
 https://mail.rijkscloud.nl
 https://mail.scp.nl
 https://mail.veiligheidsregioflevoland.nl
+https://mail.waterschaplimburg.nl
 https://mailcatch.acc.dpr.irealisatie.nl
 https://mailcatch.test.dpr.irealisatie.nl
 https://mailcatch.test.mgo.irealisatie.nl
@@ -2156,6 +2177,7 @@ https://manager.klopt.cibg.nl
 https://maps.aaenmaas.nl
 https://maps.ndw.nu
 https://maps.rijkswaterstaat.nl
+https://maps.waterschaplimburg.nl
 https://marechaussee.nl
 https://mars.rijkswaterstaat.nl
 https://mass.cultureelerfgoed.nl
@@ -2203,6 +2225,7 @@ https://melvin-acc.staging.ndw.nu
 https://melvin.ndw.nu
 https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
+https://metelkaar.waterschaplimburg.nl
 https://metelkaartrekkenwedegrens.nl
 https://mft-acc.svb.nl
 https://mft-prd.svb.nl
@@ -2444,6 +2467,7 @@ https://open.brabant.nl
 https://open.overheid.nl
 https://open.rijkswaterstaat.nl
 https://open.vechtstromen.nl
+https://open.waterschaplimburg.nl
 https://openbare-inspectieresultaten.nvwa.nl
 https://opendata.a2vonderenkerensheide.nl
 https://opendata.aanbiedersmedicijnen.nl
@@ -3046,6 +3070,7 @@ https://redactie.ofgv.nl
 https://redactie.vallei-veluwe.nl
 https://redactie.vechtstromen.nl
 https://redactie.veiligheidsregioflevoland.nl
+https://redactie.waterschaplimburg.nl
 https://referendum-backoffice.limburg.nl
 https://referendum.limburg.nl
 https://referentiegegevens.justid.nl
@@ -3243,6 +3268,8 @@ https://sonar.ndw.nu
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
 https://sorry.belastingdienst.nl
 https://spaceweather.knmi.nl
+https://spapps-t.waterschaplimburg.nl
+https://spapps.waterschaplimburg.nl
 https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
 https://sportenbewegenincijfers.nl
@@ -3356,6 +3383,7 @@ https://sts.cbs.nl
 https://sts.koop.overheid.nl
 https://stubs.tst.belastingdienst.nl
 https://subsidie.cultureelerfgoed.nl
+https://subsidie.waterschaplimburg.nl
 https://sumatra.huurcommissie.nl
 https://support.vechtstromen.nl
 https://survey-cache.platformrijksoverheid.nl
@@ -3376,6 +3404,7 @@ https://telewerken.om.nl
 https://test-api.stopheling.nl
 https://test-azure06.dictu.nl
 https://test-bp.stopheling.nl
+https://test-cms-bron.waterschaplimburg.nl
 https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
 https://test-cms.rvo.nl
@@ -3473,6 +3502,7 @@ https://topdesk-wvl.rijkswaterstaat.nl
 https://topdesk.rijkswaterstaat.nl
 https://topsectoren.nl
 https://tovertool.nza.nl
+https://transfer.waterschaplimburg.nl
 https://transitieproefdiervrijeinnovatie.nl
 https://travelpoint.sso3w.nl
 https://treatydatabase-acc.overheid.nl
@@ -3608,6 +3638,7 @@ https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
 https://water.omgevingswet.overheid.nl
 https://waterkwaliteitinbeeld.hdsr.nl
+https://waterschaplimburg.nl
 https://watertoetsportaal-a.hhdelfland.nl
 https://watertoetsportaal.hhdelfland.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
@@ -3667,6 +3698,7 @@ https://werkplek.justid.nl
 https://werkplek.rekenkamer.nl
 https://werkplek.vallei-veluwe.nl
 https://werkplek.vechtstromen.nl
+https://werkplek.waterschaplimburg.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://wetgeving.omgevingswet.overheid.nl
@@ -3678,6 +3710,7 @@ https://wetten.overheid.nl
 https://wetten.rvo.nl
 https://wifi.brabant.nl
 https://wifi.dictu.nl
+https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://wio.ilent.nl
@@ -4222,6 +4255,7 @@ https://www.volkshuisvestingnederland.nl
 https://www.voordejeugdenhetgezin.nl
 https://www.vrachtwagenheffing.nl
 https://www.vreemdelingenvisie.nl
+https://www.waterschaplimburg.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenbij.rijkswaterstaat.nl
