@@ -39,6 +39,7 @@ werkplek
 ftp
 geoservices
 onderzoek
+_autodiscover._tcp
 geo
 dialin
 smtp
@@ -46,7 +47,6 @@ beeldbank
 mdm
 portal
 redactie
-_autodiscover._tcp
 apps
 staging
 proto

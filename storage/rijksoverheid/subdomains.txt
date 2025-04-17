@@ -32,6 +32,7 @@ _autodiscover._tcp.dutchncca.nl
 _autodiscover._tcp.gezondeleefomgeving.nl
 _autodiscover._tcp.nationaalrapporteur.nl
 _autodiscover._tcp.rvig.nl
+_autodiscover._tcp.toezichtsociaaldomein.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.logius.nl
@@ -306,6 +307,7 @@ a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
 a-www.socialestabiliteit.nl
+a-www.toezichtsociaaldomein.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -2561,6 +2563,7 @@ feeds.toekomstreligieuserfgoed.nl
 feeds.toekomstvisiegewasbescherming2030.nl
 feeds.toetredingzorgaanbieders.nl
 feeds.toetsingscommissievp.nl
+feeds.toezichtsociaaldomein.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4679,6 +4682,7 @@ opendata.toekomstreligieuserfgoed.nl
 opendata.toekomstvisiegewasbescherming2030.nl
 opendata.toetredingzorgaanbieders.nl
 opendata.toetsingscommissievp.nl
+opendata.toezichtsociaaldomein.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -6201,6 +6205,7 @@ toezichtopzorgnetwerken.igj.nl
 toezichtresultaten.acc.onderwijsinspectie.nl
 toezichtresultaten.nl
 toezichtresultaten.onderwijsinspectie.nl
+toezichtsociaaldomein.nl
 toolbox-extremisme.nctv.nl
 toolkits.loketgezondleven.nl
 tools-acc.rijksinnovatiecommunity.nl
@@ -7308,6 +7313,7 @@ www.toeslagen.nl
 www.toetredingzorgaanbieders.nl
 www.toetsingscommissievp.nl
 www.toezichtresultaten.nl
+www.toezichtsociaaldomein.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
