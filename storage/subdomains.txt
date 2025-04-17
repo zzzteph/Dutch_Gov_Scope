@@ -5273,6 +5273,7 @@ proto.gipdatabank.nl
 proto.horizonscangeneesmiddelen.nl
 proto.istandaarden.nl
 proto.medicijnkosten.nl
+proto.zorgcijfersdatabank.nl
 prototype.cibg.nl
 proxy-epbd-acc.ep-online.nl
 proxy-epbd-w1091p0012.ep-online.nl
@@ -7001,6 +7002,7 @@ www-ac.gipdatabank.nl
 www-ac.horizonscangeneesmiddelen.nl
 www-ac.istandaarden.nl
 www-ac.medicijnkosten.nl
+www-ac.zorgcijfersdatabank.nl
 www-acc.cbs.nl
 www-acc.ep-online.nl
 www-acc.farmacotherapeutischkompas.nl
@@ -7008,6 +7010,7 @@ www-acc.gipdatabank.nl
 www-acc.horizonscangeneesmiddelen.nl
 www-acc.istandaarden.nl
 www-acc.medicijnkosten.nl
+www-acc.zorgcijfersdatabank.nl
 www-acc1.ep-online.nl
 www-acpt.brabant.nl
 www-dev.farmacotherapeutischkompas.nl
@@ -7015,6 +7018,7 @@ www-dev.gipdatabank.nl
 www-dev.horizonscangeneesmiddelen.nl
 www-dev.istandaarden.nl
 www-dev.medicijnkosten.nl
+www-dev.zorgcijfersdatabank.nl
 www-old.kiesraad.nl
 www-ontw.brabant.nl
 www-ow.farmacotherapeutischkompas.nl
@@ -7022,11 +7026,13 @@ www-ow.gipdatabank.nl
 www-ow.horizonscangeneesmiddelen.nl
 www-ow.istandaarden.nl
 www-ow.medicijnkosten.nl
+www-ow.zorgcijfersdatabank.nl
 www-p.farmacotherapeutischkompas.nl
 www-p.gipdatabank.nl
 www-p.horizonscangeneesmiddelen.nl
 www-p.istandaarden.nl
 www-p.medicijnkosten.nl
+www-p.zorgcijfersdatabank.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-test.brabant.nl
@@ -7036,11 +7042,13 @@ www-ts.gipdatabank.nl
 www-ts.horizonscangeneesmiddelen.nl
 www-ts.istandaarden.nl
 www-ts.medicijnkosten.nl
+www-ts.zorgcijfersdatabank.nl
 www-tst.farmacotherapeutischkompas.nl
 www-tst.gipdatabank.nl
 www-tst.horizonscangeneesmiddelen.nl
 www-tst.istandaarden.nl
 www-tst.medicijnkosten.nl
+www-tst.zorgcijfersdatabank.nl
 www.100aardgasvrijewijken.nl
 www.a2vonderenkerensheide.nl
 www.aaenmaas.nl
@@ -7647,6 +7655,7 @@ www.wrr.nl
 www.youthatheart.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www.zorgaanbiedersportaal.nl
+www.zorgcijfersdatabank.nl
 www1.hdsr.nl
 www1.rijkswaterstaat.nl
 www2.acc1.ep-online.nl
@@ -7711,6 +7720,7 @@ zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zorgaanbiedersportaal.nl
 zorgbeeld.nza.nl
+zorgcijfersdatabank.nl
 zorgenwerknetwerk.arboportaal.nl
 zorgprestatiemodel.nza.nl
 zorgproducten-acc.nza.nl

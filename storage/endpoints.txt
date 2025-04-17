@@ -3072,6 +3072,7 @@ https://proto.gipdatabank.nl
 https://proto.horizonscangeneesmiddelen.nl
 https://proto.istandaarden.nl
 https://proto.medicijnkosten.nl
+https://proto.zorgcijfersdatabank.nl
 https://prototype.cibg.nl
 https://ps1.platformrijksoverheid.nl
 https://ps2.platformrijksoverheid.nl
@@ -3806,6 +3807,7 @@ https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.gipdatabank.nl
 https://www-ac.horizonscangeneesmiddelen.nl
 https://www-ac.medicijnkosten.nl
+https://www-ac.zorgcijfersdatabank.nl
 https://www-acc.cbs.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www-test.cbs.nl
@@ -4353,6 +4355,7 @@ https://www.wodc.nl
 https://www.wrr.nl
 https://www.youthatheart.nl
 https://www.zorgaanbiedersportaal.nl
+https://www.zorgcijfersdatabank.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
 https://www2.om.nl
@@ -4384,6 +4387,7 @@ https://zoeken.zorgaanbiedersportaal.nl
 https://zoekservice.overheid.nl
 https://zorgaanbiedersportaal.nl
 https://zorgbeeld.nza.nl
+https://zorgcijfersdatabank.nl
 https://zorgenwerknetwerk.arboportaal.nl
 https://zorgprestatiemodel.nza.nl
 https://zorgproducten-acc.nza.nl
