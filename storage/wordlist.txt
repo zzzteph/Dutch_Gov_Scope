@@ -286,6 +286,7 @@ extranet
 projects
 nieuwsbrieven
 productie
+intern
 leren
 zoekservice
 kgr-acc.mijn
@@ -2607,7 +2608,6 @@ vault.lpc
 interventies
 prerelease
 toolkits
-intern
 complaintform
 gelijkloon
 klachtenformulier

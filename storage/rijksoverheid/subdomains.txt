@@ -3006,6 +3006,7 @@ intel.ncsc.nl
 intermediairdagen.belastingdienst.nl
 intern.catalogus.cultureelerfgoed.nl
 intern.magazinesrijkswaterstaat.nl
+intern.ssc-ictspecials.nl
 internal-docs.ndw.nu
 internationaal.ondernemen.overheid.nl
 internetsearch.rijkswaterstaat.nl
@@ -5525,6 +5526,7 @@ srv-zmb02-27.gn3.rijkscloud.nl
 srv-zmb02-34.gn3.rijkscloud.nl
 srv-zmb12-13.gn3.rijkscloud.nl
 ssc-ict.nl
+ssc-ictspecials.nl
 ssh.cbs.nl
 ssl-vpn.brabant.nl
 ssl.defensie.nl
@@ -6985,6 +6987,7 @@ www.sodm.nl
 www.spamtitan.cbi.eu
 www.sportenbewegenincijfers.nl
 www.ssc-ict.nl
+www.ssc-ictspecials.nl
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
