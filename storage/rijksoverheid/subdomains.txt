@@ -134,6 +134,7 @@ a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
+a-feeds.royal-house.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -207,6 +208,7 @@ a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
+a-opendata.royal-house.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
@@ -277,6 +279,7 @@ a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
+a-www.royal-house.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -2287,6 +2290,7 @@ feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
 feeds.rijksvastgoedbedrijf.nl
+feeds.royal-house.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4242,6 +4246,7 @@ opendata.rijksorganisatieodi.nl
 opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
 opendata.rijksvastgoedbedrijf.nl
+opendata.royal-house.nl
 opendata.rvb.rijkscloud.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
@@ -4820,6 +4825,7 @@ rob2000.rijkscloud.nl
 robxp.rapportage.rijkscloud.nl
 roomreservation.belastingdienst.nl
 routeringsvoorziening-pp1.logius.nl
+royal-house.nl
 rpx-qa.nza.nl
 rpx.nza.nl
 rstudio-almalinux.dgdoobi.rijkscloud.nl
@@ -6520,6 +6526,7 @@ www.rijksvastgoedbedrijf.nl
 www.rijkswaterstaat.nl
 www.risicokaart.flevoland.nl
 www.rivmmagazines.nl
+www.royal-house.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.spamtitan.cbi.eu
