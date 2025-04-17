@@ -56,6 +56,7 @@ http://autodiscover.odijmond.nl
 http://autodiscover.ofgv.nl
 http://autodiscover.schoolleidersregisterpo.nl
 http://autodiscover.scp.nl
+http://autodiscover.vallei-veluwe.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
@@ -442,6 +443,7 @@ https://adc3.cbs.nl
 https://adc7.cbs.nl
 https://adfs.flevoland.nl
 https://adfs.huurcommissie.nl
+https://adfs.vallei-veluwe.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adobe-analytics-dc.douane.nl
 https://adobe-analytics-dc.toeslagen.nl
@@ -1137,6 +1139,7 @@ https://elearning.platformrijksoverheid.nl
 https://elkeregiotelt.nl
 https://eloket.aaenmaas.nl
 https://eloket.flevoland.nl
+https://eloket.vallei-veluwe.nl
 https://emailtemplates.overheid.nl
 https://emissieautoriteit.nl
 https://emissionsauthority.nl
@@ -2289,6 +2292,7 @@ https://natura2000.nl
 https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
 https://nc-a.rvb.rijkscloud.nl
+https://nc-openbaar.vallei-veluwe.nl
 https://nc.rivm.rijkscloud.nl
 https://ncab.nl
 https://ncadierproevenbeleid.nl
@@ -2308,6 +2312,7 @@ https://nederlandtegengeorganiseerdemisdaad.nl
 https://nederlandwereldwijd.nl
 https://netherlandsworldwide.nl
 https://netwerkplatteland.nl
+https://neurontest.vallei-veluwe.nl
 https://nevenbetrekkingen.om.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
@@ -2830,6 +2835,7 @@ https://pkio.service.perf.omgevingswet.overheid.nl
 https://pkio.service.pre.omgevingswet.overheid.nl
 https://pkio.service.tst2905.omgevingswet.overheid.nl
 https://plan-plan-validatie.pre.omgevingswet.overheid.nl
+https://planonprod.vallei-veluwe.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
 https://pleio.kiesraad.nl
 https://pmm.belastingdienst.nl
@@ -2994,6 +3000,7 @@ https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
 https://redactie.ofgv.nl
+https://redactie.vallei-veluwe.nl
 https://referendum-backoffice.limburg.nl
 https://referendum.limburg.nl
 https://referentiegegevens.justid.nl
@@ -3374,6 +3381,7 @@ https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
 https://testeloket.flevoland.nl
+https://testeloket.vallei-veluwe.nl
 https://testgeoservices.knmi.nl
 https://testkennis.hdsr.nl
 https://testmail.scp.nl
@@ -3387,6 +3395,7 @@ https://tileserver.ndw.nu
 https://tl.iplo.nl
 https://tlokb.nl
 https://tmv.cibg.nl
+https://tmx.vallei-veluwe.nl
 https://tmxweb.rijkswaterstaat.nl
 https://toegangderden.rijkswaterstaat.nl
 https://toegankelijkheidsverklaring.nl
@@ -3465,6 +3474,7 @@ https://validatie-acc.justid.nl
 https://validatie.justid.nl
 https://validationcalculation.douane.nl
 https://validationcalculationtest.douane.nl
+https://vallei-veluwe.nl
 https://vault-infra.efiling.mijnoctrooi.rvo.nl
 https://vault.efiling.mijnoctrooi.rvo.nl
 https://vdbs.sso3w.nl
@@ -3589,6 +3599,7 @@ https://werkplek.brabant.nl
 https://werkplek.cbs.nl
 https://werkplek.justid.nl
 https://werkplek.rekenkamer.nl
+https://werkplek.vallei-veluwe.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://wetgeving.omgevingswet.overheid.nl
@@ -4126,6 +4137,7 @@ https://www.uitkomstgerichtezorg.nl
 https://www.uitvoeringvanbeleidszw.nl
 https://www.uwbeslagvrijevoet.nl
 https://www.uziregister.nl
+https://www.vallei-veluwe.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl

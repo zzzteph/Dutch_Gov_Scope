@@ -20,8 +20,8 @@ intranet
 webmail
 a-feeds.a-english
 a-opendata.a-english
-cms
 api
+cms
 vpn
 _dmarc
 prod
@@ -31,14 +31,15 @@ formulieren
 connect
 data
 meet
+werkplek
 www-acc
 a-magazines
 login
 webservices
-werkplek
 ftp
 geoservices
 onderzoek
+redactie
 _autodiscover._tcp
 geo
 dialin
@@ -46,7 +47,6 @@ smtp
 beeldbank
 mdm
 portal
-redactie
 apps
 staging
 proto
@@ -80,14 +80,18 @@ mam
 ns1
 werkenbij
 www.mijn
+adfs
 zaaksysteem-acc
 zaaksysteem
 forms
 inloggen
 git
 repository
+mx1
+eloket
 lync
 maps
+testeloket
 vpn2
 meldingen
 ontwikkel
@@ -111,6 +115,7 @@ beheer
 app
 connect-with
 esb
+geoportaal
 id
 kaarten
 ondertekenen
@@ -154,7 +159,6 @@ mailing
 connect-acpt
 enterpriseregistration
 acc.mijn
-adfs
 cmsintranet
 e
 test-cmsintranet
@@ -164,13 +168,10 @@ mijn-acc
 geoweb
 wiki
 preview
-mx1
 iam
 magazinesintern
 av
-eloket
 luchtfoto
-testeloket
 chw
 test.resultaten
 prd
@@ -208,7 +209,6 @@ zoek
 acs
 beeldbank-bo
 dataportaal
-geoportaal
 georegister
 geoserver
 nieuws
@@ -318,6 +318,7 @@ upnl-zw.mijn
 upnl.mijn
 acceptatie.portaal
 api.mijn
+mx2
 track
 aanvragen
 media
@@ -2653,7 +2654,6 @@ min1
 min2
 min3
 mx
-mx2
 ndn-onderzoek
 nspnws-cursus
 nspnws
@@ -4866,3 +4866,8 @@ acceptatie.aanvragen
 acceptatie.formulieren
 acceptatie.uzipas
 uzipas
+nc-openbaar
+neuronprod
+neurontest
+planonprod
+tmx
