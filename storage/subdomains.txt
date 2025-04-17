@@ -2567,6 +2567,7 @@ feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
 feeds.topsectoren.nl
 feeds.transitieproefdiervrijeinnovatie.nl
+feeds.tuchtcollege-gezondheidszorg.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3629,6 +3630,7 @@ magazines.riec.nl
 magazines.rijksoverheid.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
+magazines.tuchtcollege-gezondheidszorg.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
@@ -4689,6 +4691,7 @@ opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
 opendata.topsectoren.nl
 opendata.transitieproefdiervrijeinnovatie.nl
+opendata.tuchtcollege-gezondheidszorg.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -6256,6 +6259,7 @@ tst6.mijn.overheid.nl
 tst7.mijn.overheid.nl
 tst8.mijn.overheid.nl
 tst9.mijn.overheid.nl
+tuchtcollege-gezondheidszorg.nl
 tuchtrecht-acc.overheid.nl
 tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
@@ -7328,6 +7332,7 @@ www.topsectoren.nl
 www.tpaw.dictu.nl
 www.transitieproefdiervrijeinnovatie.nl
 www.tst2905.omgevingswet.overheid.nl
+www.tuchtcollege-gezondheidszorg.nl
 www.tvs.dictu.nl
 www.upnl-acc.rvo.nl
 www.veilig.cultureelerfgoed.nl
