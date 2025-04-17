@@ -347,6 +347,7 @@ plekchecker
 feeds.papiamento
 opendata.papiamento
 papiamento
+vacature
 geoportal
 gisservices
 oa
@@ -4913,4 +4914,3 @@ test-eef
 testdigikoppeling
 wikixl-saml.acceptatie
 wauke
-vacature
