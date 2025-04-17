@@ -2058,6 +2058,7 @@ feeds.regelhulp.nl
 feeds.regiosaandegrens.nl
 feeds.rekenkamer.nl
 feeds.riec.nl
+feeds.rijksbredekennisagenda.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3686,6 +3687,7 @@ opendata.regelhulp.nl
 opendata.regiosaandegrens.nl
 opendata.rekenkamer.nl
 opendata.riec.nl
+opendata.rijksbredekennisagenda.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -4116,6 +4118,7 @@ revproxy.cbs.nl
 rgs.cbs.nl
 rht.belastingdienst.nl
 riec.nl
+rijksbredekennisagenda.nl
 rijkskantoorproxy.belastingdienst.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
@@ -5575,6 +5578,7 @@ www.regulatoryscience.nl
 www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
 www.riec.nl
+www.rijksbredekennisagenda.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
