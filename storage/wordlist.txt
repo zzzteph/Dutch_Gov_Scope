@@ -18,9 +18,9 @@ a-english
 intranet
 webmail
 acceptatie
+api
 a-feeds.a-english
 a-opendata.a-english
-api
 cms
 _dmarc
 vpn
@@ -39,6 +39,7 @@ ftp
 www-acc
 a-magazines
 webservices
+zoeken
 geoservices
 onderzoek
 _autodiscover._tcp
@@ -48,7 +49,7 @@ dialin
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
-zoeken
+acceptatie.beheer
 beeldbank
 hybrid
 open
@@ -74,7 +75,8 @@ maps
 sharepoint
 fs
 ns2
-acceptatie.beheer
+acceptatie.mijn
+beheer
 app
 atlas
 kaarten
@@ -115,9 +117,8 @@ sharepoint-acc
 sharepoint-conf
 werken
 acceptatie.behandel
-acceptatie.mijn
 acceptatie.webservices
-beheer
+acceptatie.zoeken
 connect-with
 esb
 geoportaal
@@ -211,7 +212,6 @@ vc
 videobellen
 webdiensten
 poc
-acceptatie.zoeken
 behandel
 zoek
 acs
@@ -4924,3 +4924,13 @@ rijkstrainee
 rijkstrainees
 stagiairs
 www-sandbox
+acceptatie.beheer.locatieregister
+acceptatie.mijn.geschilleninstantie
+acceptatie.mijn.locatieregister
+acceptatie.mijn.melding
+acceptatie.mijn.toelatingsvergunning
+beheer.locatieregister
+mijn.geschilleninstantie
+mijn.locatieregister
+mijn.melding
+mijn.toelatingsvergunning
