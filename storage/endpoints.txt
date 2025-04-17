@@ -387,6 +387,7 @@ https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
 https://acc.toegankelijkheidsverklaring.nl
+https://acc.zorginzicht.nl
 https://acc.zsmgame.om.nl
 https://acc2.bronhouderportaal-bro.nl
 https://acc2.inspectieresultaten.nvwa.nl
@@ -2137,6 +2138,7 @@ https://loket-preprod.hhdelfland.nl
 https://loket.acceptatie.rijkswaterstaat.nl
 https://loket.hhdelfland.nl
 https://loket.rijkswaterstaat.nl
+https://loket.zorginzicht.nl
 https://loketduurzaameten.nl
 https://loketgentherapie.nl
 https://loketgezondleven.nl
@@ -3071,6 +3073,7 @@ https://projects-tst.rvo.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
 https://projects.rvo.nl
 https://prolander.nl
+https://promtoolbox.zorginzicht.nl
 https://prosecutionservice.nl
 https://protide.rijkswaterstaat.nl
 https://proto.farmacotherapeutischkompas.nl
@@ -3080,6 +3083,7 @@ https://proto.istandaarden.nl
 https://proto.medicijnkosten.nl
 https://proto.zorgcijfersdatabank.nl
 https://proto.zorginstituutnederland.nl
+https://proto.zorginzicht.nl
 https://prototype.cibg.nl
 https://ps1.platformrijksoverheid.nl
 https://ps2.platformrijksoverheid.nl
@@ -3818,6 +3822,7 @@ https://www-ac.horizonscangeneesmiddelen.nl
 https://www-ac.medicijnkosten.nl
 https://www-ac.zorgcijfersdatabank.nl
 https://www-ac.zorginstituutnederland.nl
+https://www-ac.zorginzicht.nl
 https://www-acc.cbs.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www-test.cbs.nl
@@ -4367,6 +4372,7 @@ https://www.youthatheart.nl
 https://www.zorgaanbiedersportaal.nl
 https://www.zorgcijfersdatabank.nl
 https://www.zorginstituutnederland.nl
+https://www.zorginzicht.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
 https://www2.om.nl
@@ -4401,6 +4407,7 @@ https://zorgbeeld.nza.nl
 https://zorgcijfersdatabank.nl
 https://zorgenwerknetwerk.arboportaal.nl
 https://zorginstituutnederland.nl
+https://zorginzicht.nl
 https://zorgprestatiemodel.nza.nl
 https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl

@@ -488,6 +488,7 @@ acc.uziregister.nl
 acc.web-static.rijkswaterstaat.nl
 acc.werkenbij.api.rijkswaterstaat.nl
 acc.zaak.services.cultureelerfgoed.nl
+acc.zorginzicht.nl
 acc.zsmgame.om.nl
 acc0.mijn.overheid.nl
 acc1.energiebesparingsverkenner.rvo.nl
@@ -3672,6 +3673,7 @@ loket.hhdelfland.nl
 loket.om.nl
 loket.overheid.nl
 loket.rijkswaterstaat.nl
+loket.zorginzicht.nl
 loketduurzaameten.nl
 loketgentherapie.nl
 loketgezondleven.nl
@@ -4434,6 +4436,7 @@ ocw-verhalen.nl
 ocwincijfers.nl
 odata.cbs.nl
 odata4.cbs.nl
+odb-ac.zorginzicht.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 odc-noord.rijkscloud.nl
@@ -5273,6 +5276,7 @@ projects.pages.mintst1.ix.rijkscloud.nl
 projects.rvo.nl
 prolander.nl
 prometheus.gn3.rijkscloud.nl
+promtoolbox.zorginzicht.nl
 prosecutionservice.nl
 protide.rijkswaterstaat.nl
 proto.farmacotherapeutischkompas.nl
@@ -5282,6 +5286,7 @@ proto.istandaarden.nl
 proto.medicijnkosten.nl
 proto.zorgcijfersdatabank.nl
 proto.zorginstituutnederland.nl
+proto.zorginzicht.nl
 prototype.cibg.nl
 proxy-epbd-acc.ep-online.nl
 proxy-epbd-w1091p0012.ep-online.nl
@@ -5983,6 +5988,7 @@ sonarqube.test.ix.rijkscloud.nl
 sonarqube2.devops.rvb.rijkscloud.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
+sp.zorginzicht.nl
 spaceweather.knmi.nl
 spamtitan.cbi.eu
 spapps-t.waterschaplimburg.nl
@@ -6453,6 +6459,8 @@ topsectoren.nl
 torenvalk.brabant.nl
 tovertool.nza.nl
 tpaw.dictu.nl
+tpk-ac.zorginzicht.nl
+tpk.zorginzicht.nl
 track.nederlandwereldwijd.nl
 track.netherlandsworldwide.nl
 trade-acc.rvo.nl
@@ -7015,6 +7023,7 @@ www-ac.istandaarden.nl
 www-ac.medicijnkosten.nl
 www-ac.zorgcijfersdatabank.nl
 www-ac.zorginstituutnederland.nl
+www-ac.zorginzicht.nl
 www-acc.cbs.nl
 www-acc.ep-online.nl
 www-acc.farmacotherapeutischkompas.nl
@@ -7024,6 +7033,7 @@ www-acc.istandaarden.nl
 www-acc.medicijnkosten.nl
 www-acc.zorgcijfersdatabank.nl
 www-acc.zorginstituutnederland.nl
+www-acc.zorginzicht.nl
 www-acc1.ep-online.nl
 www-acpt.brabant.nl
 www-dev.farmacotherapeutischkompas.nl
@@ -7033,6 +7043,7 @@ www-dev.istandaarden.nl
 www-dev.medicijnkosten.nl
 www-dev.zorgcijfersdatabank.nl
 www-dev.zorginstituutnederland.nl
+www-dev.zorginzicht.nl
 www-old.kiesraad.nl
 www-ontw.brabant.nl
 www-ow.farmacotherapeutischkompas.nl
@@ -7041,6 +7052,7 @@ www-ow.horizonscangeneesmiddelen.nl
 www-ow.istandaarden.nl
 www-ow.medicijnkosten.nl
 www-ow.zorgcijfersdatabank.nl
+www-ow.zorginzicht.nl
 www-p.farmacotherapeutischkompas.nl
 www-p.gipdatabank.nl
 www-p.horizonscangeneesmiddelen.nl
@@ -7048,6 +7060,8 @@ www-p.istandaarden.nl
 www-p.medicijnkosten.nl
 www-p.zorgcijfersdatabank.nl
 www-p.zorginstituutnederland.nl
+www-p.zorginzicht.nl
+www-pr.zorginzicht.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-test.brabant.nl
@@ -7058,6 +7072,7 @@ www-ts.horizonscangeneesmiddelen.nl
 www-ts.istandaarden.nl
 www-ts.medicijnkosten.nl
 www-ts.zorgcijfersdatabank.nl
+www-ts.zorginzicht.nl
 www-tst.farmacotherapeutischkompas.nl
 www-tst.gipdatabank.nl
 www-tst.horizonscangeneesmiddelen.nl
@@ -7065,6 +7080,7 @@ www-tst.istandaarden.nl
 www-tst.medicijnkosten.nl
 www-tst.zorgcijfersdatabank.nl
 www-tst.zorginstituutnederland.nl
+www-tst.zorginzicht.nl
 www.100aardgasvrijewijken.nl
 www.a2vonderenkerensheide.nl
 www.aaenmaas.nl
@@ -7673,8 +7689,10 @@ www.zoekeentolkvertaler.bureauwbtv.nl
 www.zorgaanbiedersportaal.nl
 www.zorgcijfersdatabank.nl
 www.zorginstituutnederland.nl
+www.zorginzicht.nl
 www1.hdsr.nl
 www1.rijkswaterstaat.nl
+www2-ts.zorginzicht.nl
 www2.acc1.ep-online.nl
 www2.acc1.webapplicaties.ep-online.nl
 www2.formulierdus-i.nl
@@ -7740,6 +7758,7 @@ zorgbeeld.nza.nl
 zorgcijfersdatabank.nl
 zorgenwerknetwerk.arboportaal.nl
 zorginstituutnederland.nl
+zorginzicht.nl
 zorgprestatiemodel.nza.nl
 zorgproducten-acc.nza.nl
 zorgproducten-test.nza.nl
