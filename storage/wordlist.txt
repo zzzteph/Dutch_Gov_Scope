@@ -170,6 +170,7 @@ mijn-acc
 wiki
 preview
 iam
+aanvragen
 magazinesintern
 av
 helloid
@@ -323,7 +324,6 @@ acceptatie.portaal
 api.mijn
 mx2
 track
-aanvragen
 media
 access
 e-learning

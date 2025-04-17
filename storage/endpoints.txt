@@ -2,6 +2,7 @@ http://1.ivory.nctv.nl
 http://AutoDiscover.hdsr.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
+http://aanvragen.vergoedingsns.nl
 http://acc-english.rvo.nl
 http://acc-website.rvo.nl
 http://acc.dpr.irealisatie.nl
@@ -1599,6 +1600,7 @@ https://feeds.uitvoeringvanbeleidszw.nl
 https://feeds.uwbeslagvrijevoet.nl
 https://feeds.uziregister.nl
 https://feeds.veiligepubliekedienstverlening.nl
+https://feeds.vergoedingsns.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -2764,6 +2766,7 @@ https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.uwbeslagvrijevoet.nl
 https://opendata.uziregister.nl
 https://opendata.veiligepubliekedienstverlening.nl
+https://opendata.vergoedingsns.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
@@ -3517,6 +3520,7 @@ https://vepapi.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
 https://verdragenbank-acc.overheid.nl
 https://verdragenbank.overheid.nl
+https://vergoedingsns.nl
 https://verkeer.acc.loket.om.nl
 https://verkeer.loket.om.nl
 https://verkeersbesluiten-preprd.overheid.nl
@@ -4179,6 +4183,7 @@ https://www.vechtstromen.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.veiligepubliekedienstverlening.nl
 https://www.veiligheidsregioflevoland.nl
+https://www.vergoedingsns.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenbij.rijkswaterstaat.nl
