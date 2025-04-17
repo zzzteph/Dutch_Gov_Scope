@@ -2452,6 +2452,7 @@ feeds.socialestabiliteit.nl
 feeds.sodm.nl
 feeds.ssc-ict.nl
 feeds.sso3w.nl
+feeds.staatscommissie2050.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4494,6 +4495,7 @@ opendata.socialestabiliteit.nl
 opendata.sodm.nl
 opendata.ssc-ict.nl
 opendata.sso3w.nl
+opendata.staatscommissie2050.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -5579,6 +5581,7 @@ sso.tst2905.omgevingswet.overheid.nl
 sso3w.nl
 ssp.estota.rijkscloud.nl
 ssp.ix.rijkscloud.nl
+staatscommissie2050.nl
 stadvanced.belastingdienst.nl
 stagefonds.formulierdus-i.nl
 staging-mijn.rvo.nl
@@ -7006,6 +7009,7 @@ www.sportenbewegenincijfers.nl
 www.ssc-ict.nl
 www.ssc-ictspecials.nl
 www.sso3w.nl
+www.staatscommissie2050.nl
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
