@@ -537,6 +537,7 @@ acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
 acceptatie.raadplegen.sbv-z.nl
 acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
+acceptatie.schoolleidersregisterpo.nl
 acceptatie.spin2.rijkswaterstaat.nl
 acceptatie.tea.bigregister.nl
 acceptatie.tmv.cibg.nl
@@ -590,6 +591,7 @@ addressing.test.zm.irealisatie.nl
 adfs.flevoland.nl
 adfs.hhdelfland.nl
 adfs.huurcommissie.nl
+admin.schoolleidersregisterpo.nl
 adobe-analytics-dc.belastingdienst.nl
 adobe-analytics-dc.douane.nl
 adobe-tags.belastingdienst.nl
@@ -859,6 +861,7 @@ autodiscover.overheid.nl
 autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
 autodiscover.rijksdienstcn.com
+autodiscover.schoolleidersregisterpo.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -1030,6 +1033,7 @@ betaalportaal.belastingdienst.nl
 betalen-cnf.belastingdienst.nl
 betalen.acc.belastingdienst.nl
 betalen.belastingdienst.nl
+betalen.schoolleidersregisterpo.nl
 betalen.str10.acc.belastingdienst.nl
 betalen.str11.acc.belastingdienst.nl
 betalen.str12.acc.belastingdienst.nl
@@ -2402,6 +2406,7 @@ feeds.ruimtelijkeordening.nl
 feeds.ruimtevoorderivier.nl
 feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
+feeds.schoolleidersregisterpo.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -2495,6 +2500,7 @@ ftp.dji.nl
 ftp.koop.overheid.nl
 ftp.ofgv.nl
 ftp.oostvaarderskliniek.nl
+ftp.schoolleidersregisterpo.nl
 ftpblaise.cbs.nl
 ftppro-migtest.knmi.nl
 ftppro.knmi.nl
@@ -4424,6 +4430,7 @@ opendata.ruimtevoorderivier.nl
 opendata.rvb.rijkscloud.nl
 opendata.samenwerkingrijknoord.nl
 opendata.sbv-z.nl
+opendata.schoolleidersregisterpo.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -5174,6 +5181,7 @@ schedule.justid.nl
 scheiden.belastingdienst.nl
 schemas.ep-online.nl
 scheveningen.rvb.rijkscloud.nl
+schoolleidersregisterpo.nl
 schouw.flevoland.nl
 screenconnect.hhdelfland.nl
 sdg.government.nl
@@ -6837,6 +6845,7 @@ www.rvo.nl
 www.rwsinnoveert.nl
 www.samenwerkingrijknoord.nl
 www.sbv-z.nl
+www.schoolleidersregisterpo.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
@@ -6906,6 +6915,7 @@ zoeken.belastingdienst.nl
 zoeken.bigregister.nl
 zoeken.cultureelerfgoed.nl
 zoeken.ondernemersplein.overheid.nl
+zoeken.schoolleidersregisterpo.nl
 zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zorgbeeld.nza.nl

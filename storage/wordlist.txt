@@ -9,14 +9,14 @@ a-feeds
 feeds.english
 opendata.english
 test
+autodiscover
 acc
 mail
-autodiscover
 magazines
 mijn
 a-english
-webmail
 acceptatie
+webmail
 intranet
 a-feeds.a-english
 a-opendata.a-english
@@ -34,6 +34,7 @@ www-acc
 webservices
 formulieren
 werkplek
+ftp
 geoservices
 geo
 a-magazines
@@ -42,7 +43,6 @@ login
 smtp
 beeldbank
 mdm
-ftp
 onderzoek
 portal
 redactie
@@ -59,6 +59,7 @@ www2
 loket
 lyncdiscover
 fs
+zoeken
 acceptatie.beheer
 atlas
 hybrid
@@ -88,7 +89,6 @@ papiamentu
 academie
 services
 werken
-zoeken
 acceptatie.behandel
 acceptatie.mijn
 acceptatie.webservices
@@ -165,6 +165,7 @@ b2btest-osb
 b2btest-rijks
 b2btest
 beta
+betalen
 download
 fibd1
 fibd2.acc
@@ -412,7 +413,6 @@ betaalportaal-cnf
 betaalportaal
 betalen-cnf
 betalen.acc
-betalen
 betalen.str10.acc
 betalen.str11.acc
 betalen.str12.acc
@@ -4573,3 +4573,4 @@ raadplegen-acc
 raadplegen-preprod
 uzipas.raadplegen
 webservice-preprod
+admin
