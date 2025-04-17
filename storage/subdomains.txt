@@ -2453,6 +2453,7 @@ feeds.sodm.nl
 feeds.ssc-ict.nl
 feeds.sso3w.nl
 feeds.staatscommissie2050.nl
+feeds.staatscommissierechtsstaat.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4496,6 +4497,7 @@ opendata.sodm.nl
 opendata.ssc-ict.nl
 opendata.sso3w.nl
 opendata.staatscommissie2050.nl
+opendata.staatscommissierechtsstaat.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -5582,6 +5584,7 @@ sso3w.nl
 ssp.estota.rijkscloud.nl
 ssp.ix.rijkscloud.nl
 staatscommissie2050.nl
+staatscommissierechtsstaat.nl
 stadvanced.belastingdienst.nl
 stagefonds.formulierdus-i.nl
 staging-mijn.rvo.nl
@@ -7010,6 +7013,7 @@ www.ssc-ict.nl
 www.ssc-ictspecials.nl
 www.sso3w.nl
 www.staatscommissie2050.nl
+www.staatscommissierechtsstaat.nl
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
