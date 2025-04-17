@@ -4,9 +4,9 @@ opendata
 feeds
 a-www
 english
+a-opendata
 feeds.english
 opendata.english
-a-opendata
 a-feeds
 test
 autodiscover
@@ -4913,3 +4913,4 @@ test-eef
 testdigikoppeling
 wikixl-saml.acceptatie
 wauke
+vacature
