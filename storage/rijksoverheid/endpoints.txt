@@ -81,6 +81,8 @@ http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crm.nza.nl
 http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
+http://dc.ssc-ict.nl
+http://dcpp.ssc-ict.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -468,6 +470,10 @@ https://animalfreeinnovationtpi.nl
 https://anonymous.api.dataplatform.knmi.nl
 https://antennebureau.nl
 https://antwoord.cbs.nl
+https://anyc-t01-a.ssc-ict.nl
+https://anyc-t02.ssc-ict.nl
+https://anyc-t03.ssc-ict.nl
+https://anyc.ssc-ict.nl
 https://aoep-iam.rvo.nl
 https://api-acc.dashboardgroningen.nl
 https://api-gateway.archis.cultureelerfgoed.nl
@@ -1485,6 +1491,7 @@ https://feeds.schoolleidersregisterpo.nl
 https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
+https://feeds.ssc-ict.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -2581,6 +2588,7 @@ https://opendata.schoolleidersregisterpo.nl
 https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
+https://opendata.ssc-ict.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
@@ -3014,6 +3022,7 @@ https://spaceweather.knmi.nl
 https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
 https://sportenbewegenincijfers.nl
+https://ssc-ict.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
 https://sso-acc2.bronhouderportaal-bro.nl
 https://sso.acc.omgevingswet.overheid.nl
@@ -3870,6 +3879,7 @@ https://www.slimwatermanagement.nl
 https://www.socialestabiliteit.nl
 https://www.sodm.nl
 https://www.sportenbewegenincijfers.nl
+https://www.ssc-ict.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
