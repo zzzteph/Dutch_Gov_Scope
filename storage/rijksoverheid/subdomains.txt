@@ -8,6 +8,7 @@ ACC-NL-DICTU-NHR-Sign.dictu.nl
 ACC.RD.dictu.nl
 AutoDiscover.hdsr.nl
 AutoDiscover.rijksdienstcn.com
+Autodiscover.tib-ivd.nl
 EPBDWebservices-acc.rvo.nl
 Internetdienstena.svb.nl
 Internetdienstenp.svb.nl
@@ -911,6 +912,7 @@ autodiscover.rijksdienstcn.com
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
 autodiscover.svb.nl
+autodiscover.tib-ivd.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -2533,6 +2535,7 @@ feeds.staatsexamensnt2.nl
 feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
+feeds.tib-ivd.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4004,6 +4007,7 @@ mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx.ncsc.nl
 mx001.ctivd.nl
+mx01.tib-ivd.nl
 mx1.mensenrechten.nl
 mx1.ncsc.nl
 mx1.ofgv.nl
@@ -4621,6 +4625,7 @@ opendata.staatsexamensnt2.nl
 opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
+opendata.tib-ivd.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -5942,6 +5947,7 @@ taranis.ncsc.nl
 tarief.douane.nl
 tarief.str4.acc.douane.nl
 taxonomie.cbs.nl
+tbbb.tib-ivd.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
 tea.bigregister.nl
@@ -6083,6 +6089,7 @@ testtunnelmdm.flevoland.nl
 teverantwoordenregelingen.rijksoverheid.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
 thesaurus.cultureelerfgoed.nl
+tib-ivd.nl
 tib.dataplatform.knmi.nl
 tiles.ndw.nu
 tileserver.ndw.nu
@@ -6503,6 +6510,7 @@ webmail.rijksdienstcn.com
 webmail.rijkswaterstaat.nl
 webmail.rsj.rijkscloud.nl
 webmail.rvo.nl
+webmail.tib-ivd.nl
 webserver.cbs.nl
 webservice-acc.energiebesparingsverkenner.rvo.nl
 webservice-acc.ep-online.nl
@@ -7209,6 +7217,7 @@ www.svb.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
+www.tib-ivd.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
