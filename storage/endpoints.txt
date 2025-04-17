@@ -106,6 +106,7 @@ http://harbor.az1.lpc.logius.nl
 http://harbor.az2.lpc.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 http://iam.rdi.nl
+http://idapps.npr.idm.rvig.nl
 http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
 http://int-prod-01.flevoland.nl
@@ -305,6 +306,7 @@ https://acc.inspectieresultaten.nvwa.nl
 https://acc.inspectieview.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.intranet.justis.nl
+https://acc.intranet.rvig.nl
 https://acc.justis.nl
 https://acc.justitieconnect.nl
 https://acc.leer-rijk.nl
@@ -314,6 +316,7 @@ https://acc.ncsc.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://acc.rd.dictu.nl
+https://acc.rvig.nl
 https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
@@ -321,6 +324,7 @@ https://acc.subsidie.cultureelerfgoed.nl
 https://acc.zsmgame.om.nl
 https://acc2.bronhouderportaal-bro.nl
 https://acc2.inspectieresultaten.nvwa.nl
+https://acc2.intranet.rvig.nl
 https://acc2.leer-rijk.nl
 https://accept.digitaleoverheid.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
@@ -408,6 +412,7 @@ https://agressieinzorgenwelzijnenhetdoenvanaangiftedenhaag.evenementenbureauvws.
 https://agressievrijwerken.nl
 https://agroberichtenbuitenland.nl
 https://ags.rijkswaterstaat.nl
+https://agw.idm.rvig.nl
 https://ainformatieportaal.justid.nl
 https://aip.nationaalcoordinatorgroningen.nl
 https://aivd.nl
@@ -459,6 +464,7 @@ https://api.nederlandwereldwijd.nl
 https://api.ondernemersplein.overheid.nl
 https://api.p-direkt.nl
 https://api.preprod.mijn.overheid.nl
+https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
 https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
@@ -1588,6 +1594,7 @@ https://ibw.datawonen.nl
 https://id.brabant.nl
 https://id.flevoland.nl
 https://id.limburg.nl
+https://idbs.idm.rvig.nl
 https://identificatie.rdi.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
@@ -1669,6 +1676,7 @@ https://intranet.justitieleictorganisatie.nl
 https://intranet.nationaalcoordinatorgroningen.nl
 https://intranet.odijmond.nl
 https://intranet.rsj.nl
+https://intranet.rvig.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://investeringsimpulsspv.nl
 https://iob-evaluatie.nl
@@ -1788,6 +1796,8 @@ https://labvantage-acc.nvwa.nl
 https://landelijkeopeningwte2024.evenementenbureauvws.nl
 https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 https://landelijkregisterkinderopvang.nl
+https://lap.api.reis.npr.idm.rvig.nl
+https://lap.rvp.reis.npr.idm.rvig.nl
 https://lc.cbs.nl
 https://ldentool.nl
 https://le-webservices-beta.belastingdienst.nl
@@ -1820,7 +1830,9 @@ https://lo-ad.test.mgo.irealisatie.nl
 https://login.aaenmaas.nl
 https://login.cbs.nl
 https://login.databestanden.cbs.nl
+https://login.idm.rvig.nl
 https://login.mijncn.nl
+https://login.npr.idm.rvig.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://logius.nl
 https://lokaleregelgeving-acc.overheid.nl
@@ -2620,10 +2632,12 @@ https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
 https://prod.asbestvolgsysteem.nl
 https://prod.dictu.nl
+https://prod.intranet.rvig.nl
 https://prod.justis.nl
 https://prod.mi-cert.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
+https://prod.rvig.nl
 https://proeftuin.uzi-online.irealisatie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
@@ -2650,8 +2664,12 @@ https://public-preprod.ep-online.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl
+https://publicaties-acc.rvig.nl
+https://publicaties-prod.rvig.nl
+https://publicaties-tst.rvig.nl
 https://publicaties.brabant.nl
 https://publicaties.mensenrechten.nl
+https://publicaties.rvig.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
@@ -2744,6 +2762,10 @@ https://rijksvastgoedbedrijf.nl
 https://rijkswaterstaat.nl
 https://rivmmagazines.nl
 https://rivmopendata.cbs.nl
+https://rni-portal-acc.rvig.nl
+https://rni-portal.rvig.nl
+https://rni-webform-acc.rvig.nl
+https://rni-webform.rvig.nl
 https://rob-2000.rijkscloud.nl
 https://rob2000.rijkscloud.nl
 https://royal-house.nl
@@ -2776,6 +2798,8 @@ https://ruimte.pre.omgevingswet.overheid.nl
 https://ruimtelijkeordening.nl
 https://ruimtevoorderivier.nl
 https://rvdmschaduwdraaien.nvwa.nl
+https://rvig.nl
+https://rvp.reis.idm.rvig.nl
 https://rw.belastingdienst.nl
 https://rwbg.flevoland.nl
 https://rwn.belastingdienst.nl
@@ -2997,6 +3021,7 @@ https://test.geoservices.cultureelerfgoed.nl
 https://test.handelingenbank.info
 https://test.intranet-demo.dictu.nl
 https://test.intranet.justis.nl
+https://test.intranet.rvig.nl
 https://test.justis.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
@@ -3009,6 +3034,7 @@ https://test.openbare-inspectieresultaten.nvwa.nl
 https://test.portaal.nlarbeidsinspectie.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://test.resultaten.nlarbeidsinspectie.nl
+https://test.rvig.nl
 https://test.spin2.rijkswaterstaat.nl
 https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
@@ -3678,6 +3704,7 @@ https://www.royalhonoursanddecorations.nl
 https://www.rsj.nl
 https://www.ruimtelijkeordening.nl
 https://www.ruimtevoorderivier.nl
+https://www.rvig.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl

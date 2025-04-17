@@ -19,6 +19,7 @@ _autodiscover._tcp.csirtdsp.nl
 _autodiscover._tcp.dutchncca.nl
 _autodiscover._tcp.gezondeleefomgeving.nl
 _autodiscover._tcp.nationaalrapporteur.nl
+_autodiscover._tcp.rvig.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.logius.nl
@@ -28,6 +29,7 @@ _dmarc.nza.nl
 _dmarc.p-direkt.nl
 _dmarc.rijksoverheid.nl
 _dmarc.rijksvastgoedbedrijf.nl
+_dmarc.rvig.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cluster1.a-cms.platformrijksoverheid.nl
@@ -391,6 +393,7 @@ acc.inspectieresultaten.nvwa.nl
 acc.inspectieview.nl
 acc.intranet-demo.dictu.nl
 acc.intranet.justis.nl
+acc.intranet.rvig.nl
 acc.irealisatie.nl
 acc.justis.nl
 acc.justitieconnect.nl
@@ -408,6 +411,7 @@ acc.opendata.nederlandwereldwijd.nl
 acc.picard.mijn.overheid.nl
 acc.rd.dictu.nl
 acc.render.map.services.cultureelerfgoed.nl
+acc.rvig.nl
 acc.spaceweather.knmi.nl
 acc.staging.justitieconnect.nl
 acc.statistiek.mijn.overheid.nl
@@ -425,6 +429,7 @@ acc1.mijn.overheid.nl
 acc1.picard.mijn.overheid.nl
 acc2.bronhouderportaal-bro.nl
 acc2.inspectieresultaten.nvwa.nl
+acc2.intranet.rvig.nl
 acc2.leer-rijk.nl
 acc2.mijn.overheid.nl
 acc3.mijn.overheid.nl
@@ -589,6 +594,8 @@ agressieinzorgenwelzijnenhetdoenvanaangiftedenhaag.evenementenbureauvws.nl
 agressievrijwerken.nl
 agroberichtenbuitenland.nl
 ags.rijkswaterstaat.nl
+agw.idm.rvig.nl
+agw.lap.idm.rvig.nl
 agw01-nomail.nza.nl
 ainformatieportaal.justid.nl
 aip-acc.nationaalcoordinatorgroningen.nl
@@ -686,6 +693,7 @@ api.p-direkt.nl
 api.performance.ix.rijkscloud.nl
 api.preprod.mijn.overheid.nl
 api.rdi.nl
+api.reis.idm.rvig.nl
 api.so.rijkscloud.nl
 api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
@@ -2738,6 +2746,9 @@ icce.knmi.nl
 id.brabant.nl
 id.flevoland.nl
 id.limburg.nl
+idapps.npr.idm.rvig.nl
+idbs.idm.rvig.nl
+idbs.npr.idm.rvig.nl
 ideal20-cnf.belastingdienst.nl
 ideal20-test.belastingdienst.nl
 ideal20.belastingdienst.nl
@@ -2858,6 +2869,7 @@ intranet.nationaalcoordinatorgroningen.nl
 intranet.odijmond.nl
 intranet.rijkswaterstaat.nl
 intranet.rsj.nl
+intranet.rvig.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
@@ -3119,6 +3131,8 @@ lam-dev.devops.rvb.rijkscloud.nl
 landelijkeopeningwte2024.evenementenbureauvws.nl
 landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 landelijkregisterkinderopvang.nl
+lap.api.reis.npr.idm.rvig.nl
+lap.rvp.reis.npr.idm.rvig.nl
 large.netftp.dictu.nl
 lb1.gn3.rijkscloud.nl
 lc.cbs.nl
@@ -3185,8 +3199,10 @@ login.acc.mijncn.nl
 login.cbs.nl
 login.databestanden.cbs.nl
 login.domeinenrz.nl
+login.idm.rvig.nl
 login.irealisatie.nl
 login.mijncn.nl
+login.npr.idm.rvig.nl
 login.proeftuin.uzi-online.irealisatie.nl
 login.rvb.rijkscloud.nl
 logius.nl
@@ -3322,6 +3338,8 @@ mail.rijkscloud.nl
 mail.rijksdienstcn.com
 mail.rvb.rijkscloud.nl
 mail.rw1.rijkscloud.nl
+mail.tmv-lap.rvig.nl
+mail.tmv.rvig.nl
 mail.zgw.rijkscloud.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
@@ -3336,6 +3354,7 @@ mail1.ec.rijkscloud.nl
 mail1.gn1.rijkscloud.nl
 mail1.gn3.rijkscloud.nl
 mail2.ec.rijkscloud.nl
+mail2.rvig.nl
 mail230.brabant.nl
 mail231.brabant.nl
 mail240.brabant.nl
@@ -4569,10 +4588,12 @@ prod.asbestvolgsysteem.nl
 prod.cultureelerfgoed.nl
 prod.dictu.nl
 prod.flevoland.nl
+prod.intranet.rvig.nl
 prod.justis.nl
 prod.mi-cert.nl
 prod.nl-alert.nl
 prod.radar.rdi.nl
+prod.rvig.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
 productie.loketgezondleven.nl
@@ -4641,9 +4662,13 @@ public.ep-online.nl
 public.mst-acc.ctgb.nl
 public.mst.ctgb.nl
 public.portal.ind.nl
+publicaties-acc.rvig.nl
+publicaties-prod.rvig.nl
+publicaties-tst.rvig.nl
 publicaties.brabant.nl
 publicaties.mensenrechten.nl
 publicaties.oud.mensenrechten.nl
+publicaties.rvig.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
 puc-acc.overheid.nl
@@ -4830,6 +4855,10 @@ rmq.ix.rijkscloud.nl
 rmq1.oai.rijkscloud.nl
 rmq1.ocw.rijkscloud.nl
 rmt.belastingdienst.nl
+rni-portal-acc.rvig.nl
+rni-portal.rvig.nl
+rni-webform-acc.rvig.nl
+rni-webform.rvig.nl
 rob-2000.rijkscloud.nl
 rob2000.rijkscloud.nl
 robxp.rapportage.rijkscloud.nl
@@ -4900,10 +4929,12 @@ rut.belastingdienst.nl
 rvdmschaduwdraaien.nvwa.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
+rvig.nl
 rvig.proeftuin.belastingdienst.nl
 rvmetadata.logius.nl
 rvp-beheer-demo.devops.rvb.rijkscloud.nl
 rvp-demo.devops.rvb.rijkscloud.nl
+rvp.reis.idm.rvig.nl
 rw.belastingdienst.nl
 rw1.rijkscloud.nl
 rwbg.flevoland.nl
@@ -5089,6 +5120,7 @@ sip.justid.nl
 sip.kiesraad.nl
 sip.om.nl
 sip.rijksrecherche.nl
+sip.rvig.nl
 sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
@@ -5124,6 +5156,7 @@ smtp.hhdelfland.nl
 smtp.ofgv.nl
 smtp.oostvaarderskliniek.nl
 smtp.rijksoverheid.nl
+smtp.tmv.rvig.nl
 smtp03.rijkscloud.nl
 smtp04.rijkscloud.nl
 smtp1.awti.nl
@@ -5462,6 +5495,7 @@ test.handelingenbank.info
 test.hcv.mijn.overheid.nl
 test.intranet-demo.dictu.nl
 test.intranet.justis.nl
+test.intranet.rvig.nl
 test.justis.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
@@ -5480,6 +5514,7 @@ test.rapportage.rijkscloud.nl
 test.rechtwijzer.nl
 test.resultaten.arbeidsinspectie.nl
 test.resultaten.nlarbeidsinspectie.nl
+test.rvig.nl
 test.spin2.rijkswaterstaat.nl
 test.status.cbs.nl
 test.stub.mijn.overheid.nl
@@ -5527,8 +5562,12 @@ tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
 tmv.cibg.nl
+tmv.rvig.nl
 tmxweb.rijkswaterstaat.nl
 toegangderden.rijkswaterstaat.nl
+toegangslaag-gn2.rvig.nl
+toegangslaag-gn3.rvig.nl
+toegangslaag.rvig.nl
 toelatingen.ctgb.nl
 toepasbare-regels-analyseren.acc.omgevingswet.overheid.nl
 toepasbare-regels-analyseren.int.omgevingswet.overheid.nl
@@ -6545,6 +6584,7 @@ www.royalhonoursanddecorations.nl
 www.rsj.nl
 www.ruimtelijkeordening.nl
 www.ruimtevoorderivier.nl
+www.rvig.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.spamtitan.cbi.eu
