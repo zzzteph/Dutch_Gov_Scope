@@ -41,6 +41,7 @@ ftp
 onderzoek
 redactie
 geo
+a-magazines
 proto
 www-ac
 www-dev
@@ -57,7 +58,6 @@ geoservices
 portal
 digikoppeling
 _autodiscover._tcp
-a-magazines
 apps
 staging
 loket
@@ -3529,3 +3529,6 @@ mailfilter01
 onsgeldontcijferd-test
 onsgeldontcijferd
 sslvpn
+mdm.zwb
+sentry1.zwb
+zwb
