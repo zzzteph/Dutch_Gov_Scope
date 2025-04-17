@@ -131,6 +131,7 @@ a-feeds.rekenkamer.nl
 a-feeds.riec.nl
 a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
+a-feeds.rijksrecherche.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -201,6 +202,7 @@ a-opendata.rekenkamer.nl
 a-opendata.riec.nl
 a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
+a-opendata.rijksrecherche.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
@@ -269,6 +271,7 @@ a-www.rekenkamer.nl
 a-www.riec.nl
 a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
+a-www.rijksrecherche.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -498,6 +501,7 @@ acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.cultureelerfgoed.nl
 acceptatiepan.emissieautoriteit.nl
 access.om.nl
+access.rijksrecherche.nl
 accounts.cbs.nl
 accounts.ix.rijkscloud.nl
 accounts.rijkscloud.nl
@@ -1337,6 +1341,7 @@ componenten-tst.overheid.nl
 componenten.overheid.nl
 conf.cbg-meb.nl
 conf.om.nl
+conf.rijksrecherche.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.jitsi.rijkscloud.nl
@@ -1571,6 +1576,7 @@ dialin.aaenmaas.nl
 dialin.justid.nl
 dialin.om.nl
 dialin.prolander.nl
+dialin.rijksrecherche.nl
 dictu.nl
 dictuext04.ymor.dictu.nl
 dictuext05.ymor.dictu.nl
@@ -2240,6 +2246,7 @@ feeds.rijksinnovatiecommunity.nl
 feeds.rijksinspecties.nl
 feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
+feeds.rijksrecherche.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3155,6 +3162,7 @@ lyncav.vico.dji.nl
 lyncdiscover.aaenmaas.nl
 lyncdiscover.justid.nl
 lyncdiscover.om.nl
+lyncdiscover.rijksrecherche.nl
 lyncmeet.dictu.nl
 lyncwebapps.dictu.nl
 m.huisvoorklokkenluiders.nl
@@ -3335,6 +3343,7 @@ meet.justid.nl
 meet.om.nl
 meet.prolander.nl
 meet.rijkscloud.nl
+meet.rijksrecherche.nl
 meldingbwt.odmh.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
@@ -4153,6 +4162,7 @@ opendata.rijksinnovatiecommunity.nl
 opendata.rijksinspecties.nl
 opendata.rijksorganisatieodi.nl
 opendata.rijksoverheid.nl
+opendata.rijksrecherche.nl
 opendata.rvb.rijkscloud.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
@@ -4705,6 +4715,7 @@ rijkspasocsp1-acc.extranet.dictu.nl
 rijkspasocsp1.extranet.dictu.nl
 rijkspasocsp2-acc.dictu.nl
 rijkspasocsp2.dictu.nl
+rijksrecherche.nl
 rijksweb.digikoppeling.diginetwerk.dictu.nl
 rivm.atlasleefomgeving.nl
 rivmopendata.cbs.nl
@@ -4966,6 +4977,7 @@ sip.emissieautoriteit.nl
 sip.justid.nl
 sip.kiesraad.nl
 sip.om.nl
+sip.rijksrecherche.nl
 sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
@@ -6358,6 +6370,7 @@ www.rijksinnovatiecommunity.nl
 www.rijksinspecties.nl
 www.rijksorganisatieodi.nl
 www.rijksoverheid.nl
+www.rijksrecherche.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl

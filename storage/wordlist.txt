@@ -26,15 +26,16 @@ vpn
 portaal
 _dmarc
 connect
-prod
-www-acc
 meet
 sip
+prod
+www-acc
 webservices
 formulieren
 werkplek
 data
 a-magazines
+dialin
 login
 smtp
 beeldbank
@@ -52,7 +53,7 @@ www-p
 www-ts
 www-tst
 www2
-dialin
+lyncdiscover
 fs
 acceptatie.beheer
 hybrid
@@ -67,7 +68,6 @@ staging
 loket
 git
 lync
-lyncdiscover
 sharepoint
 vpn2
 meldingen
@@ -91,6 +91,7 @@ kaarten
 ondertekenen
 sso
 static
+conf
 sts
 elearning
 academy
@@ -191,7 +192,6 @@ web.acc
 acc2
 broker
 doc
-conf
 enterpriseenrollment
 crm
 ts
@@ -271,6 +271,7 @@ api.mijn
 iam
 track
 media
+access
 import-acc.organisaties
 import.organisaties
 organisaties
@@ -2857,7 +2858,6 @@ transfer
 vr
 ws-izis
 acc.zsmgame
-access
 boetebase
 fcvpn
 leeromgeving
