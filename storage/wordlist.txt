@@ -186,6 +186,7 @@ sharepoint-conf
 start
 vc
 webdiensten
+poc
 acceptatie.zoeken
 behandel
 zoek
@@ -1072,7 +1073,6 @@ bewerken-acc
 bewerken-test
 bewerken
 collabora.poc1
-poc
 poc1
 acceptatie.advieswijzer
 acceptatie.api
