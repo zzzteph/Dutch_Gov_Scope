@@ -59,6 +59,7 @@ loket
 lyncdiscover
 fs
 acceptatie.beheer
+atlas
 hybrid
 docs
 chat
@@ -87,7 +88,6 @@ zoeken
 acceptatie.mijn
 acceptatie.webservices
 beheer
-atlas
 connect-with
 esb
 id
