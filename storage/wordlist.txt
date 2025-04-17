@@ -16,8 +16,8 @@ magazines
 mijn
 a-english
 intranet
-acceptatie
 webmail
+acceptatie
 a-feeds.a-english
 a-opendata.a-english
 api
@@ -141,6 +141,7 @@ t-cms
 externemail
 m365
 sf
+formulier
 kennis
 a-cms1
 a-cms2
@@ -166,6 +167,10 @@ cmsintranet
 e
 test-cmsintranet
 test-intranet
+csoacct
+csotest
+sandbox
+m
 mijn-acc
 wiki
 preview
@@ -240,7 +245,6 @@ tmv
 a-api
 password
 testconn
-formulier
 linkeddata
 oud
 subsidie
@@ -280,9 +284,7 @@ localhost
 preprodformulieren
 remote
 extern
-csoacct
-csotest
-sandbox
+odc
 coronadashboard
 sdg
 AutoDiscover
@@ -291,7 +293,6 @@ www1
 inloggen-preprod
 mobile
 telewerken
-m
 sdm
 acc.api
 vt
@@ -2040,7 +2041,6 @@ co
 portal2
 portalco
 stagefonds
-odc
 bibliotheek
 azure-a-poc
 ad
@@ -4914,3 +4914,13 @@ test-eef
 testdigikoppeling
 wikixl-saml.acceptatie
 wauke
+financials
+ict-ers
+icters
+inkopers
+jobs
+juristen
+rijkstrainee
+rijkstrainees
+stagiairs
+www-sandbox

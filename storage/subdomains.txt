@@ -1652,8 +1652,10 @@ csaf.data.security.ncsc.nl
 csirtdsp.nl
 csoacct.functiegebouwrijksoverheid.nl
 csoacct.ikwerkvoornederland.nl
+csoacct.werkenvoornederland.nl
 csotest.functiegebouwrijksoverheid.nl
 csotest.ikwerkvoornederland.nl
+csotest.werkenvoornederland.nl
 cst.rijkscloud.nl
 csw-bc.knmi.nl
 cta.rvo.nl
@@ -2673,6 +2675,7 @@ fileshare.rekenkamer.nl
 fileshare.rijksdienstcn.com
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
+financials.werkenvoornederland.nl
 financiengemeenten.nl
 fiod.acc.belastingdienst.nl
 flevoland.nl
@@ -2696,6 +2699,7 @@ forms.sodm.nl
 formulier-beheer.dus-i.nl
 formulier.cultureelerfgoed.nl
 formulier.emissieautoriteit.nl
+formulier.werkenvoornederland.nl
 formulierdus-i.nl
 formulieren-acc.nvwa.nl
 formulieren-preprod.waterschaplimburg.nl
@@ -3118,6 +3122,8 @@ ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
 ibw.datawonen.nl
 icce.knmi.nl
+ict-ers.werkenvoornederland.nl
+icters.werkenvoornederland.nl
 id.brabant.nl
 id.flevoland.nl
 id.limburg.nl
@@ -3193,6 +3199,7 @@ inkomen.toeslagen.nl
 inkoopplein-acc.dictu.nl
 inkoopplein.dictu.nl
 inkoopportaal.belastingdienst.nl
+inkopers.werkenvoornederland.nl
 inloggen-pre.limburg.nl
 inloggen-preprod.hhdelfland.nl
 inloggen-preprod.waterschaplimburg.nl
@@ -3351,6 +3358,7 @@ jitsi-videobridge.jitsi.rijkscloud.nl
 jitsi.iaas.rijkscloud.nl
 jitsi.rijkscloud.nl
 jmopendata.cbs.nl
+jobs.werkenvoornederland.nl
 join.odijmond.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
@@ -3401,6 +3409,7 @@ jupyter.shinyproxy.ix.rijkscloud.nl
 jupyter.sodm.rijkscloud.nl
 jupyter.test.ix.rijkscloud.nl
 jupyter.wntbzk.rijkscloud.nl
+juristen.werkenvoornederland.nl
 justid.nl
 justis.nl
 justitieconnect.nl
@@ -3681,6 +3690,7 @@ m-efiling.mijnoctrooi.rvo.nl
 m-preprod.efiling.mijnoctrooi.rvo.nl
 m.huisvoorklokkenluiders.nl
 m.rijkswaterstaat.nl
+m.werkenvoornederland.nl
 m365.ctgb.nl
 m365.knmi.nl
 m365.scp.nl
@@ -3719,6 +3729,7 @@ magazines.rijksoverheid.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
 magazines.tuchtcollege-gezondheidszorg.nl
+magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
@@ -4392,6 +4403,7 @@ odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 odc-noord.rijkscloud.nl
 odc.functiegebouwrijksoverheid.nl
+odc.werkenvoornederland.nl
 odctest.arbeidsinspectie.nl
 odijmond.nl
 odin.odmh.nl
@@ -5474,6 +5486,8 @@ rijkspasocsp1.extranet.dictu.nl
 rijkspasocsp2-acc.dictu.nl
 rijkspasocsp2.dictu.nl
 rijksrecherche.nl
+rijkstrainee.werkenvoornederland.nl
+rijkstrainees.werkenvoornederland.nl
 rijksvaccinatieprogramma.nl
 rijksvastgoedbedrijf.nl
 rijkswaterstaat.nl
@@ -5610,6 +5624,7 @@ saml-sign-olas10978.ont.belastingdienst.nl
 saml-sign-rv-pp1.belastingdienst.nl
 sandbox.functiegebouwrijksoverheid.nl
 sandbox.ikwerkvoornederland.nl
+sandbox.werkenvoornederland.nl
 sap-internet-test.belastingdienst.nl
 sap-internet.belastingdienst.nl
 sap-pi-px1.belastingdienst.nl
@@ -5978,6 +5993,7 @@ staatscommissietegendiscriminatieenracisme.nl
 staatsexamensnt2.nl
 stadvanced.belastingdienst.nl
 stagefonds.formulierdus-i.nl
+stagiairs.werkenvoornederland.nl
 staging-mijn.rvo.nl
 staging.acc.static.werkenbij.rijkswaterstaat.nl
 staging.acc.web-static.rijkswaterstaat.nl
@@ -6796,6 +6812,7 @@ webmail.rijkswaterstaat.nl
 webmail.rsj.rijkscloud.nl
 webmail.rvo.nl
 webmail.tib-ivd.nl
+webmail.werkenvoornederland.nl
 webserver.cbs.nl
 webservice-acc.energiebesparingsverkenner.rvo.nl
 webservice-acc.ep-online.nl
@@ -6861,6 +6878,7 @@ werkenbijdeeu.nl
 werkenbijderaadvanstate.nl
 werkenvoor.brabant.nl
 werkenvoorinternationaleorganisaties.nl
+werkenvoornederland.nl
 werkplaats-acc.onslevendlandschap.nl
 werkplaats.onslevendlandschap.nl
 werkplek.brabant.nl
@@ -6964,6 +6982,7 @@ www-p.gipdatabank.nl
 www-p.horizonscangeneesmiddelen.nl
 www-p.istandaarden.nl
 www-p.medicijnkosten.nl
+www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-test.brabant.nl
 www-test.cbs.nl
@@ -7573,6 +7592,7 @@ www.werkenbij.rijkswaterstaat.nl
 www.werkenbijdeeu.nl
 www.werkenbijderaadvanstate.nl
 www.werkenvoorinternationaleorganisaties.nl
+www.werkenvoornederland.nl
 www.windviewer.rvo.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
