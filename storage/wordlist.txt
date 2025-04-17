@@ -85,6 +85,7 @@ ns1
 werkenbij
 www.mijn
 adfs
+www-a
 zaaksysteem-acc
 forms
 inloggen
@@ -165,7 +166,6 @@ cmsintranet
 e
 test-cmsintranet
 test-intranet
-www-a
 mijn-acc
 wiki
 preview
