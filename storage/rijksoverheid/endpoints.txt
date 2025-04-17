@@ -439,6 +439,7 @@ https://adfs.flevoland.nl
 https://adfs.huurcommissie.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adobe-analytics-dc.douane.nl
+https://adobe-analytics-dc.toeslagen.nl
 https://adressering.proeftuin.gf.irealisatie.nl
 https://adressering.test.gf.irealisatie.nl
 https://adviescollegeicttoetsing.nl
@@ -1086,12 +1087,14 @@ https://e-loket.ilent.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.douane.nl
+https://e.acc.videobellen.toeslagen.nl
 https://e.awareness.nationaalcoordinatorgroningen.nl
 https://e.flevoland.nl
 https://e.garanties.rvo.nl
 https://e.hhdelfland.nl
 https://e.logius.nl
 https://e.videobellen.douane.nl
+https://e.videobellen.toeslagen.nl
 https://easy.nieuwsenkennisportaalbzk.nl
 https://easyrules.ilent.nl
 https://eavgb-acc.aivd.nl
@@ -1246,6 +1249,8 @@ https://feature-cicd-deployment.dev.bcld-config.nl
 https://feature-demo-child.dev.bcld-config.nl
 https://feature-demo-root.dev.bcld-config.nl
 https://feature-ease-installer.dev.bcld-config.nl
+https://fed01.toeslagen.nl
+https://fed01.tst.toeslagen.nl
 https://feedback.atkm.nl
 https://feedfoodtransfer.nl
 https://feeds.a2vonderenkerensheide.nl
@@ -1561,6 +1566,7 @@ https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
+https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
 https://files.iplo.nl
 https://files.klimaatadaptatienederland.nl
@@ -1689,6 +1695,7 @@ https://grondwaterportaal.hhdelfland.nl
 https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
+https://gtmt.toeslagen.nl
 https://gtmz.belastingdienst.nl
 https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
@@ -1706,6 +1713,7 @@ https://helpdesk.acc.irealisatie.nl
 https://helpdesk.brba.nl
 https://helpdesk.irealisatie.nl
 https://helpmee.cbs.nl
+https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
 https://hhdelfland.nl
 https://highcharts-acc.cbs.nl
@@ -3059,6 +3067,7 @@ https://sbl.limburg.nl
 https://sbv-z.nl
 https://scansys.huurcommissie.nl
 https://scatterometer.knmi.nl
+https://schadeherstel.acc.toeslagen.nl
 https://scheiden.belastingdienst.nl
 https://schoolleidersregisterpo.nl
 https://schoudersonderschoon.nl
@@ -3344,6 +3353,7 @@ https://toepasbare-regels.pre.omgevingswet.overheid.nl
 https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
+https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
 https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://toezichtresultaten.onderwijsinspectie.nl
@@ -3510,6 +3520,7 @@ https://werken.douane.nl
 https://werkenbij.douane.nl
 https://werkenbij.justid.nl
 https://werkenbij.rijkswaterstaat.nl
+https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
 https://werkenvoor.brabant.nl
 https://werkplaats-acc.onslevendlandschap.nl
@@ -4039,6 +4050,7 @@ https://www.toegankelijkheidsverklaring.nl
 https://www.toekomstglb.nl
 https://www.toekomstreligieuserfgoed.nl
 https://www.toekomstvisiegewasbescherming2030.nl
+https://www.toeslagen.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
 https://www.veilig.cultureelerfgoed.nl
