@@ -89,6 +89,7 @@ academie
 services
 werken
 zoeken
+acceptatie.behandel
 acceptatie.mijn
 acceptatie.webservices
 beheer
@@ -180,8 +181,8 @@ sharepoint-conf
 start
 vc
 webdiensten
-acceptatie.behandel
 acceptatie.zoeken
+behandel
 zoek
 acs
 app
@@ -244,6 +245,10 @@ feeds.dnadatabank
 opendata.dnadatabank
 enterpriseregistration
 ras
+acceptatie.raadplegen
+raadplegen
+webservice-acc
+webservice
 www.acc
 www3
 cpanel
@@ -1069,7 +1074,6 @@ acceptatie.advieswijzer
 acceptatie.api
 acceptatie.tea
 advieswijzer
-behandel
 tea
 acceptatie.zoek
 acs-acpt
@@ -1822,9 +1826,7 @@ verkooptest
 vpn3
 vuurwerk
 acc-raadplegen
-acceptatie.raadplegen
 mijn.adr
-raadplegen
 test.webservices
 bvinet
 e.acc.videobellen
@@ -1912,10 +1914,8 @@ services-acc1
 services-preprod
 signing-api-acc
 signing
-webservice-acc
 webservice-acc1
 webservice.acc
-webservice
 www-acc1
 www.proxy-epbd-acc
 www.proxy-epbd
@@ -4568,3 +4568,8 @@ www.sharingknowledge
 www.upnl-acc
 www.windviewer
 xploreus
+acceptatie.uzipas.raadplegen
+raadplegen-acc
+raadplegen-preprod
+uzipas.raadplegen
+webservice-preprod
