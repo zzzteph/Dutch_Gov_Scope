@@ -10,8 +10,8 @@ feeds.english
 opendata.english
 test
 autodiscover
-mail
 acc
+mail
 magazines
 mijn
 a-english
@@ -289,6 +289,9 @@ test.intranet
 extranet
 projects
 nieuwsbrieven
+acc-dictu
+prod-dictu
+test-dictu
 productie
 intern
 leren
@@ -2512,7 +2515,6 @@ aansluitsuite.digipoort
 aansluitsuite.preproductie.digipoort
 acc-dictu.comcms
 acc-dictu.kennisbank
-acc-dictu
 acc.oinregister
 acpt-machtigen.digipoort
 amp-idp-pre
@@ -2593,7 +2595,6 @@ preprod-portalen.digipoort
 preprod.bvd
 preprod.oinregister
 prod-dictu.comcms
-prod-dictu
 routeringsvoorziening-pp1
 rvmetadata
 sb-dictu
@@ -2602,7 +2603,6 @@ stelselcatalogus
 svn
 test-dictu.comcms
 test-dictu.kennisbank
-test-dictu
 test-machtigen.digipoort
 vault.lpc
 interventies

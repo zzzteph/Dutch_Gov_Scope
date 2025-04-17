@@ -353,6 +353,7 @@ acc-cms.rvo.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
+acc-dictu.toegankelijkheidsverklaring.nl
 acc-digikoppeling-sign.dictu.nl
 acc-dvu.rvo.nl
 acc-energiebesparingsverkenner-ws.rvo.nl
@@ -465,6 +466,7 @@ acc.statistiek.mijn.overheid.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie.cultureelerfgoed.nl
+acc.toegankelijkheidsverklaring.nl
 acc.translate.services.cultureelerfgoed.nl
 acc.web-static.rijkswaterstaat.nl
 acc.werkenbij.api.rijkswaterstaat.nl
@@ -4978,6 +4980,7 @@ procesweb-test.dictu.nl
 procesweb.dictu.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
+prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
 prod-nl-dictu-dkb-sign.dictu.nl
 prod-nl-nvwa-dkb-sign.dictu.nl
@@ -5990,6 +5993,7 @@ test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
+test-dictu.toegankelijkheidsverklaring.nl
 test-energielabels.gebouwen.overheid.nl
 test-english.rvo.nl
 test-internationaal.ondernemen.overheid.nl
@@ -6118,6 +6122,7 @@ toegangderden.rijkswaterstaat.nl
 toegangslaag-gn2.rvig.nl
 toegangslaag-gn3.rvig.nl
 toegangslaag.rvig.nl
+toegankelijkheidsverklaring.nl
 toelatingen.ctgb.nl
 toepasbare-regels-analyseren.acc.omgevingswet.overheid.nl
 toepasbare-regels-analyseren.int.omgevingswet.overheid.nl
@@ -7231,6 +7236,7 @@ www.testdigitalediensten.arbeidsinspectie.nl
 www.tib-ivd.nl
 www.tlokb.nl
 www.toegangspuntmobiliteit.nl
+www.toegankelijkheidsverklaring.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
