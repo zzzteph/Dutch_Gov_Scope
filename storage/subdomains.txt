@@ -2565,6 +2565,7 @@ feeds.toetredingzorgaanbieders.nl
 feeds.toetsingscommissievp.nl
 feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
+feeds.topsectoren.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4685,6 +4686,7 @@ opendata.toetredingzorgaanbieders.nl
 opendata.toetsingscommissievp.nl
 opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
+opendata.topsectoren.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -6216,6 +6218,7 @@ topcorridors.nl
 topdesk-iv.rijkswaterstaat.nl
 topdesk-wvl.rijkswaterstaat.nl
 topdesk.rijkswaterstaat.nl
+topsectoren.nl
 torenvalk.brabant.nl
 tovertool.nza.nl
 tpaw.dictu.nl
@@ -7318,6 +7321,7 @@ www.toetsingscommissievp.nl
 www.toezichtresultaten.nl
 www.toezichtsociaaldomein.nl
 www.topcorridors.nl
+www.topsectoren.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
