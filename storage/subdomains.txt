@@ -2538,6 +2538,7 @@ feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
 feeds.tlokb.nl
+feeds.toegangspuntmobiliteit.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -4631,6 +4632,7 @@ opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
 opendata.tlokb.nl
+opendata.toegangspuntmobiliteit.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -7228,6 +7230,7 @@ www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 www.tib-ivd.nl
 www.tlokb.nl
+www.toegangspuntmobiliteit.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
