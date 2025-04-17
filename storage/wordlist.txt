@@ -4,9 +4,9 @@ opendata
 feeds
 a-www
 english
-a-opendata
 feeds.english
 opendata.english
+a-opendata
 a-feeds
 test
 autodiscover
@@ -22,8 +22,8 @@ a-feeds.a-english
 a-opendata.a-english
 api
 cms
-vpn
 _dmarc
+vpn
 prod
 portaal
 formulieren
