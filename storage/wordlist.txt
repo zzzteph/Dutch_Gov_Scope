@@ -31,6 +31,7 @@ connect
 data
 meet
 www-acc
+a-magazines
 login
 webservices
 formulieren
@@ -38,7 +39,6 @@ werkplek
 ftp
 geoservices
 geo
-a-magazines
 dialin
 smtp
 beeldbank

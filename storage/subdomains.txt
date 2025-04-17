@@ -139,6 +139,7 @@ a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
 a-feeds.royal-house.nl
 a-feeds.sbv-z.nl
+a-feeds.socialestabiliteit.nl
 a-gebruiker.rvo.nl
 a-gebruikerbeheer.rvo.nl
 a-git.rijksoverheid.nl
@@ -152,6 +153,7 @@ a-magazines.forensischinstituut.nl
 a-magazines.government.nl
 a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
+a-magazines.socialestabiliteit.nl
 a-magazinesintern.rijksoverheid.nl
 a-magazinesintern.rijksvastgoedbedrijf.nl
 a-mediabank.rijksoverheidsvideo.nl
@@ -217,6 +219,7 @@ a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
 a-opendata.royal-house.nl
 a-opendata.sbv-z.nl
+a-opendata.socialestabiliteit.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
@@ -290,6 +293,7 @@ a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
+a-www.socialestabiliteit.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -2417,6 +2421,7 @@ feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
 feeds.schoolleidersregisterpo.nl
 feeds.scp.nl
+feeds.socialestabiliteit.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3445,6 +3450,7 @@ magazines.p-direkt.nl
 magazines.rdi.nl
 magazines.riec.nl
 magazines.rijksoverheid.nl
+magazines.socialestabiliteit.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
@@ -4451,6 +4457,7 @@ opendata.samenwerkingrijknoord.nl
 opendata.sbv-z.nl
 opendata.schoolleidersregisterpo.nl
 opendata.scp.nl
+opendata.socialestabiliteit.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -5395,6 +5402,7 @@ snelheidsovertredingen.om.nl
 snow-cw.dictu.nl
 soap.openbare-inspectieresultaten.nvwa.nl
 social.overheid.nl
+socialestabiliteit.nl
 socialmediamonitor.jeugdconnect.nl
 sonar-lts.test.ix.rijkscloud.nl
 sonar.devops.rvb.rijkscloud.nl
@@ -6880,6 +6888,7 @@ www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
 www.slimwatermanagement.nl
+www.socialestabiliteit.nl
 www.spamtitan.cbi.eu
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
