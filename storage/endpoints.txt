@@ -316,15 +316,18 @@ https://acc.bcld-config.nl
 https://acc.bestandenpostbus.nl
 https://acc.bromonitor.nl
 https://acc.bronhouderportaal-bro.nl
+https://acc.btp.sso3w.nl
 https://acc.cbi.eu
 https://acc.cerberus.cbs.nl
 https://acc.client.archis.cultureelerfgoed.nl
+https://acc.cmv-kandidaat.sso3w.nl
 https://acc.consexponano.nl
 https://acc.csirtdsp.nl
 https://acc.dashboardgroningen.nl
 https://acc.dictu.nl
 https://acc.e-akkoord.nl
 https://acc.e-loket.ilent.nl
+https://acc.expenses.sso3w.nl
 https://acc.gisextern.dictu.nl
 https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
@@ -336,6 +339,7 @@ https://acc.intranet.rvig.nl
 https://acc.justis.nl
 https://acc.justitieconnect.nl
 https://acc.leer-rijk.nl
+https://acc.mercurius.sso3w.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.natura2000.nl
 https://acc.ncsc.nl
@@ -787,6 +791,8 @@ https://cms.rvo.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://cmsintranet.scp.nl
+https://cmv-kandidaat.sso3w.nl
+https://cmv-opdrachtgever.sso3w.nl
 https://cn.cbs.nl
 https://co.formulierdus-i.nl
 https://codexalimentarius.nl
@@ -1138,6 +1144,7 @@ https://english.rijksdienstcn.com
 https://english.rivmmagazines.nl
 https://english.rvo.nl
 https://english.scp.nl
+https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -1159,6 +1166,7 @@ https://esb-preprod.flevoland.nl
 https://esb-t1.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
+https://esb.btp.sso3w.nl
 https://esb.flevoland.nl
 https://esb.rijkswaterstaat.nl
 https://etl.rijkswaterstaat.nl
@@ -1176,6 +1184,7 @@ https://exchange.flevoland.nl
 https://exchangerate.douane.nl
 https://exchangeratetest.douane.nl
 https://exons-website-manager.mijn.knmi.nl
+https://expenses.sso3w.nl
 https://expertisecentrummggz.nl
 https://extern.formulierdus-i.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
@@ -1492,6 +1501,7 @@ https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
 https://feeds.ssc-ict.nl
+https://feeds.sso3w.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -1987,6 +1997,7 @@ https://magazines.rdi.nl
 https://magazines.riec.nl
 https://magazines.rijksoverheid.nl
 https://magazines.socialestabiliteit.nl
+https://magazines.sso3w.nl
 https://magazinesintern.rijksoverheid.nl
 https://magazinesintern.rijksvastgoedbedrijf.nl
 https://magazinesrijkswaterstaat.nl
@@ -2590,6 +2601,7 @@ https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
 https://opendata.ssc-ict.nl
+https://opendata.sso3w.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
@@ -2637,6 +2649,7 @@ https://pages.ds-ocw.rijkscloud.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
 https://papiamentu.rijksdienstcn.com
+https://partnerplaza.sso3w.nl
 https://pas.natura2000.nl
 https://password-new.knmi.nl
 https://password.ctgb.nl
@@ -2709,6 +2722,7 @@ https://postedworkers.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://prd.atlasleefomgeving.nl
+https://prd.btp.sso3w.nl
 https://prd.consexponano.nl
 https://pre.omgevingswet.overheid.nl
 https://preprod.ep-online.nl
@@ -3050,6 +3064,7 @@ https://sso.perf.omgevingswet.overheid.nl
 https://sso.pre.omgevingswet.overheid.nl
 https://sso.rijksdienstcn.com
 https://sso.tst2905.omgevingswet.overheid.nl
+https://sso3w.nl
 https://ssp.ix.rijkscloud.nl
 https://stagefonds.formulierdus-i.nl
 https://staging.meldingen.ilent.nl
@@ -3216,6 +3231,7 @@ https://topdesk-iv.rijkswaterstaat.nl
 https://topdesk-wvl.rijkswaterstaat.nl
 https://topdesk.rijkswaterstaat.nl
 https://tovertool.nza.nl
+https://travelpoint.sso3w.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
 https://trillingsdata-acc.dictu.nl
@@ -3260,6 +3276,7 @@ https://validationcalculation.douane.nl
 https://validationcalculationtest.douane.nl
 https://vault-infra.efiling.mijnoctrooi.rvo.nl
 https://vault.efiling.mijnoctrooi.rvo.nl
+https://vdbs.sso3w.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
 https://veilig.cultureelerfgoed.nl
 https://veiligmailen.flevoland.nl
@@ -3883,6 +3900,7 @@ https://www.sodm.nl
 https://www.sportenbewegenincijfers.nl
 https://www.ssc-ict.nl
 https://www.ssc-ictspecials.nl
+https://www.sso3w.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl

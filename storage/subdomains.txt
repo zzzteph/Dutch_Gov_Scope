@@ -393,9 +393,11 @@ acc.beeldbellen.dji.nl
 acc.bestandenpostbus.nl
 acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
+acc.btp.sso3w.nl
 acc.cbi.eu
 acc.cerberus.cbs.nl
 acc.client.archis.cultureelerfgoed.nl
+acc.cmv-kandidaat.sso3w.nl
 acc.consexponano.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.cparegister.nl
@@ -412,6 +414,7 @@ acc.eentegeneenzaamheid.nl
 acc.eidas-stub.lpc.mijn.overheid.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 acc.ep-online.nl
+acc.expenses.sso3w.nl
 acc.flevoland.nl
 acc.forensischezorg.nl
 acc.gisextern.dictu.nl
@@ -428,6 +431,7 @@ acc.irealisatie.nl
 acc.justis.nl
 acc.justitieconnect.nl
 acc.leer-rijk.nl
+acc.mercurius.sso3w.nl
 acc.mgo.irealisatie.nl
 acc.mijn.dus-i.nl
 acc.mijn.knmi.nl
@@ -1435,6 +1439,8 @@ cmsgui.ondernemersplein.overheid.nl
 cmsintranet.flevoland.nl
 cmsintranet.scp.nl
 cmsvpn.defensie.nl
+cmv-kandidaat.sso3w.nl
+cmv-opdrachtgever.sso3w.nl
 cn.cbs.nl
 co.formulierdus-i.nl
 coba-sf-site1.dictu.nl
@@ -2016,6 +2022,7 @@ english.rijksdienstcn.com
 english.rivmmagazines.nl
 english.rvo.nl
 english.scp.nl
+english.sso3w.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
@@ -2045,6 +2052,7 @@ esb-preprod.flevoland.nl
 esb-t1.brabant.nl
 esb-test.brabant.nl
 esb.brabant.nl
+esb.btp.sso3w.nl
 esb.flevoland.nl
 esb.rijkswaterstaat.nl
 etl.rijkswaterstaat.nl
@@ -2088,6 +2096,7 @@ exchangerate.douane.nl
 exchangeratetest.douane.nl
 exons-website-manager.acc.mijn.knmi.nl
 exons-website-manager.mijn.knmi.nl
+expenses.sso3w.nl
 expertisecentrummggz.nl
 extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
@@ -2442,6 +2451,7 @@ feeds.scp.nl
 feeds.socialestabiliteit.nl
 feeds.sodm.nl
 feeds.ssc-ict.nl
+feeds.sso3w.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3473,6 +3483,7 @@ magazines.rdi.nl
 magazines.riec.nl
 magazines.rijksoverheid.nl
 magazines.socialestabiliteit.nl
+magazines.sso3w.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
@@ -4482,6 +4493,7 @@ opendata.scp.nl
 opendata.socialestabiliteit.nl
 opendata.sodm.nl
 opendata.ssc-ict.nl
+opendata.sso3w.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -4596,6 +4608,7 @@ panter011.dictu.nl
 papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
 papiamentu.rijksdienstcn.com
+partnerplaza.sso3w.nl
 pas.natura2000.nl
 password-new.knmi.nl
 password.ctgb.nl
@@ -4749,6 +4762,7 @@ pp2.toegang.overheid.nl
 prd-ez-rvo-ba.dictu.nl
 prd.archis.cultureelerfgoed.nl
 prd.atlasleefomgeving.nl
+prd.btp.sso3w.nl
 prd.consexponano.nl
 prd.web-static.rijkswaterstaat.nl
 pre.bronhouderportaal-bro.nl
@@ -5562,6 +5576,7 @@ sso.pre.omgevingswet.overheid.nl
 sso.rijksdienstcn.com
 sso.subsidie.cultureelerfgoed.nl
 sso.tst2905.omgevingswet.overheid.nl
+sso3w.nl
 ssp.estota.rijkscloud.nl
 ssp.ix.rijkscloud.nl
 stadvanced.belastingdienst.nl
@@ -5938,6 +5953,7 @@ track.netherlandsworldwide.nl
 trade-acc.rvo.nl
 trade.rvo.nl
 transfer.ofgv.nl
+travelpoint.sso3w.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
 trillingsdata-acc.dictu.nl
@@ -6065,6 +6081,7 @@ vctlgwpa01-ext.kdmz.belastingdienst.nl
 vctlgwpa01-int.kdmz.belastingdienst.nl
 vctlgwqa01-ext.kdmz.belastingdienst.nl
 vctlgwqa01-int.kdmz.belastingdienst.nl
+vdbs.sso3w.nl
 vecozo.dmz.belastingdienst.nl
 vegetatiemonitor.rijkswaterstaat.nl
 veilig.cultureelerfgoed.nl
@@ -6988,6 +7005,7 @@ www.spamtitan.cbi.eu
 www.sportenbewegenincijfers.nl
 www.ssc-ict.nl
 www.ssc-ictspecials.nl
+www.sso3w.nl
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
