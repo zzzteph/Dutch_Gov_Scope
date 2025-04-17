@@ -7,6 +7,7 @@
 ACC-NL-DICTU-NHR-Sign.dictu.nl
 ACC.RD.dictu.nl
 AutoDiscover.hdsr.nl
+AutoDiscover.rijksdienstcn.com
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 NL-DICTU-NHR-Sign.dictu.nl
@@ -70,6 +71,7 @@ a-english.ncadierproevenbeleid.nl
 a-english.ncsc.nl
 a-english.rda.nl
 a-english.rekenkamer.nl
+a-english.rijksdienstcn.com
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -82,6 +84,8 @@ a-feeds.a-english.igj.nl
 a-feeds.a-english.ncadierproevenbeleid.nl
 a-feeds.a-english.rda.nl
 a-feeds.a-english.rekenkamer.nl
+a-feeds.a-english.rijksdienstcn.com
+a-feeds.a-papiamentu.rijksdienstcn.com
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -121,6 +125,7 @@ a-feeds.raadopenbaarbestuur.nl
 a-feeds.rda.nl
 a-feeds.rekenkamer.nl
 a-feeds.riec.nl
+a-feeds.rijksdienstcn.com
 a-informatieservice.nederlandwereldwijd.nl
 a-logging.platformrijksoverheid.nl
 a-magazines.defensie.nl
@@ -142,6 +147,8 @@ a-opendata.a-english.igj.nl
 a-opendata.a-english.ncadierproevenbeleid.nl
 a-opendata.a-english.rda.nl
 a-opendata.a-english.rekenkamer.nl
+a-opendata.a-english.rijksdienstcn.com
+a-opendata.a-papiamentu.rijksdienstcn.com
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -182,7 +189,9 @@ a-opendata.raadopenbaarbestuur.nl
 a-opendata.rda.nl
 a-opendata.rekenkamer.nl
 a-opendata.riec.nl
+a-opendata.rijksdienstcn.com
 a-origin.api.contenttoolsrijksoverheid.nl
+a-papiamentu.rijksdienstcn.com
 a-ps1.platformrijksoverheid.nl
 a-ps2.platformrijksoverheid.nl
 a-ps3.platformrijksoverheid.nl
@@ -237,6 +246,7 @@ a-www.politiekeambtsdragers.nl
 a-www.rda.nl
 a-www.rekenkamer.nl
 a-www.riec.nl
+a-www.rijksdienstcn.com
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -739,6 +749,7 @@ autodiscover.ofgv.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
+autodiscover.rijksdienstcn.com
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -970,6 +981,7 @@ bodemrapportage.flevoland.nl
 bodemvizier.nl
 boetebase.om.nl
 bofeb.nl
+bon.rijksdienstcn.com
 boportaalkd.belastingdienst.nl
 boportaalkdo.belastingdienst.nl
 boportaalkdt.belastingdienst.nl
@@ -1787,6 +1799,7 @@ english.p-direkt.nl
 english.postedworkers.nl
 english.rda.nl
 english.rekenkamer.nl
+english.rijksdienstcn.com
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
@@ -2039,6 +2052,7 @@ feeds.english.p-direkt.nl
 feeds.english.postedworkers.nl
 feeds.english.rda.nl
 feeds.english.rekenkamer.nl
+feeds.english.rijksdienstcn.com
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -2165,6 +2179,7 @@ feeds.p-direkt.nl
 feeds.pagw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
+feeds.papiamentu.rijksdienstcn.com
 feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
 feeds.prosecutionservice.nl
@@ -2180,6 +2195,7 @@ feeds.regiosaandegrens.nl
 feeds.rekenkamer.nl
 feeds.riec.nl
 feeds.rijksbredekennisagenda.nl
+feeds.rijksdienstcn.com
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -2211,6 +2227,7 @@ files.iplo.nl
 files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
 fileshare.rekenkamer.nl
+fileshare.rijksdienstcn.com
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
 financiengemeenten.nl
@@ -2255,6 +2272,7 @@ fs-up-sts02.brabant.nl
 fs.belastingdienst.nl
 fs.ctgb.nl
 fs.knmi.nl
+fs.rijksdienstcn.com
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp-a-ags.dictu.nl
@@ -2991,6 +3009,7 @@ leerenontwikkelplein.nl
 leeromgeving.om.nl
 leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
+legacy.rijksdienstcn.com
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 leren.mensenrechten.nl
@@ -3158,6 +3177,7 @@ mail.open-overheid.nl
 mail.opwegnaarseb.nl
 mail.riec.nl
 mail.rijkscloud.nl
+mail.rijksdienstcn.com
 mail.rvb.rijkscloud.nl
 mail.rw1.rijkscloud.nl
 mail.zgw.rijkscloud.nl
@@ -3444,6 +3464,7 @@ mnd.overheid.nl
 mobicert.brabant.nl
 mobiel.douane.nl
 mobile.hhdelfland.nl
+mobile.rijksdienstcn.com
 mobilesync.knmi.nl
 mode-s.knmi.nl
 modellen.jenvgegevens.nl
@@ -3914,6 +3935,7 @@ opendata.english.p-direkt.nl
 opendata.english.postedworkers.nl
 opendata.english.rda.nl
 opendata.english.rekenkamer.nl
+opendata.english.rijksdienstcn.com
 opendata.english.sso3w.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -4042,6 +4064,7 @@ opendata.p-direkt.nl
 opendata.pagw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
+opendata.papiamentu.rijksdienstcn.com
 opendata.platformrijksoverheid.nl
 opendata.politiekeambtsdragers.nl
 opendata.postedworkers.nl
@@ -4058,6 +4081,7 @@ opendata.regiosaandegrens.nl
 opendata.rekenkamer.nl
 opendata.riec.nl
 opendata.rijksbredekennisagenda.nl
+opendata.rijksdienstcn.com
 opendata.rvb.rijkscloud.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
@@ -4166,10 +4190,12 @@ panter001b.dictu.nl
 panter011.dictu.nl
 papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
+papiamentu.rijksdienstcn.com
 pas.natura2000.nl
 password-new.knmi.nl
 password.ctgb.nl
 password.knmi.nl
+passwordreset.rijksdienstcn.com
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
@@ -4291,6 +4317,7 @@ portal.ind.nl
 portal.informatieproducten-test.duo.rijkscloud.nl
 portal.informatieproducten.duo.rijkscloud.nl
 portal.ip.test.duo.rijkscloud.nl
+portal.rijksdienstcn.com
 portal.shinyproxy.ix.rijkscloud.nl
 portal.test.datascience.rijkscloud.nl
 portal.test.ggdcontact.irealisatie.nl
@@ -4439,6 +4466,7 @@ puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
 puc.overheid.nl
+push.rijksdienstcn.com
 pushmail.awti.nl
 pushmail.flevoland.nl
 pushmail.onderwijsraad.nl
@@ -4585,6 +4613,7 @@ rht.belastingdienst.nl
 riec.nl
 rijksbredekennisagenda.nl
 rijkscloud.nl
+rijksdienstcn.com
 rijkskantoorproxy.belastingdienst.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
@@ -4958,6 +4987,7 @@ sso.istandaarden.nl
 sso.omgevingswet.overheid.nl
 sso.perf.omgevingswet.overheid.nl
 sso.pre.omgevingswet.overheid.nl
+sso.rijksdienstcn.com
 sso.subsidie.cultureelerfgoed.nl
 sso.tst2905.omgevingswet.overheid.nl
 ssp.estota.rijkscloud.nl
@@ -5487,6 +5517,7 @@ vpna-tst.dictu.nl
 vpna.dictu.nl
 vpnb-tst.dictu.nl
 vpnb.dictu.nl
+vpnbon.rijksdienstcn.com
 vpnodcn.dictu.nl
 vpntcn.dictu.nl
 vps-prod-01.flevoland.nl
@@ -5586,6 +5617,7 @@ webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
 webmail.rijkscloud.nl
+webmail.rijksdienstcn.com
 webmail.rsj.rijkscloud.nl
 webserver.cbs.nl
 webservice-acc.ep-online.nl
@@ -6207,6 +6239,7 @@ www.rekenkamer.nl
 www.riec.nl
 www.rijksbredekennisagenda.nl
 www.rijkscloud.nl
+www.rijksdienstcn.com
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl

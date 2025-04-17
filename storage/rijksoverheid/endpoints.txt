@@ -1039,6 +1039,7 @@ https://english.onderwijsinspectie.nl
 https://english.postedworkers.nl
 https://english.rda.nl
 https://english.rekenkamer.nl
+https://english.rijksdienstcn.com
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -1222,6 +1223,7 @@ https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.postedworkers.nl
 https://feeds.english.rda.nl
 https://feeds.english.rekenkamer.nl
+https://feeds.english.rijksdienstcn.com
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -1348,6 +1350,7 @@ https://feeds.p-direkt.nl
 https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
+https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.politiekeambtsdragers.nl
 https://feeds.postedworkers.nl
 https://feeds.prosecutionservice.nl
@@ -1363,6 +1366,7 @@ https://feeds.regiosaandegrens.nl
 https://feeds.rekenkamer.nl
 https://feeds.riec.nl
 https://feeds.rijksbredekennisagenda.nl
+https://feeds.rijksdienstcn.com
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -1373,6 +1377,7 @@ https://files.iplo.nl
 https://files.klimaatadaptatienederland.nl
 https://filesender.ctgb.nl
 https://fileshare.rekenkamer.nl
+https://fileshare.rijksdienstcn.com
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://financiengemeenten.nl
@@ -1398,6 +1403,7 @@ https://formulieren.odmh.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
+https://fs.rijksdienstcn.com
 https://fsvportaal.belastingdienst.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.dji.nl
@@ -2230,6 +2236,7 @@ https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.postedworkers.nl
 https://opendata.english.rda.nl
 https://opendata.english.rekenkamer.nl
+https://opendata.english.rijksdienstcn.com
 https://opendata.english.sso3w.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
@@ -2357,6 +2364,7 @@ https://opendata.p-direkt.nl
 https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
+https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.platformrijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
 https://opendata.postedworkers.nl
@@ -2373,6 +2381,7 @@ https://opendata.regiosaandegrens.nl
 https://opendata.rekenkamer.nl
 https://opendata.riec.nl
 https://opendata.rijksbredekennisagenda.nl
+https://opendata.rijksdienstcn.com
 https://opendata.rvb.rijkscloud.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
@@ -2418,6 +2427,7 @@ https://pacemweb.nl
 https://pages.ds-ocw.rijkscloud.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
+https://papiamentu.rijksdienstcn.com
 https://pas.natura2000.nl
 https://password-new.knmi.nl
 https://password.ctgb.nl
@@ -2479,6 +2489,7 @@ https://portal.datascience.rijkscloud.nl
 https://portal.formulierdus-i.nl
 https://portal.informatieproducten.duo.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
+https://portal.rijksdienstcn.com
 https://portal118.rijkscloud.nl
 https://portal2.formulierdus-i.nl
 https://portalco.formulierdus-i.nl
@@ -2630,6 +2641,7 @@ https://rgs.cbs.nl
 https://riec.nl
 https://rijksbredekennisagenda.nl
 https://rijkscloud.nl
+https://rijksdienstcn.com
 https://rivmopendata.cbs.nl
 https://rob-2000.rijkscloud.nl
 https://rob2000.rijkscloud.nl
@@ -2763,6 +2775,7 @@ https://sso.istandaarden.nl
 https://sso.omgevingswet.overheid.nl
 https://sso.perf.omgevingswet.overheid.nl
 https://sso.pre.omgevingswet.overheid.nl
+https://sso.rijksdienstcn.com
 https://sso.tst2905.omgevingswet.overheid.nl
 https://ssp.ix.rijkscloud.nl
 https://stagefonds.formulierdus-i.nl
@@ -2970,6 +2983,7 @@ https://vpna-tst.dictu.nl
 https://vpna.dictu.nl
 https://vpnb-tst.dictu.nl
 https://vpnb.dictu.nl
+https://vpnbon.rijksdienstcn.com
 https://vps-prod-01.flevoland.nl
 https://vri-admin.ndw.nu
 https://vt.landelijkregisterkinderopvang.nl
@@ -3496,6 +3510,7 @@ https://www.rekenkamer.nl
 https://www.riec.nl
 https://www.rijksbredekennisagenda.nl
 https://www.rijkscloud.nl
+https://www.rijksdienstcn.com
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
