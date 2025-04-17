@@ -1246,6 +1246,7 @@ https://english.vnacs.nl
 https://english.wkr.nl
 https://english.wodc.nl
 https://english.wrr.nl
+https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
 https://enterpriseenrollment.svb.nl
@@ -1450,6 +1451,7 @@ https://feeds.english.vnacs.nl
 https://feeds.english.wkr.nl
 https://feeds.english.wodc.nl
 https://feeds.english.wrr.nl
+https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
@@ -1663,6 +1665,7 @@ https://feeds.wkr.nl
 https://feeds.wodc.nl
 https://feeds.wrr.nl
 https://feeds.youthatheart.nl
+https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -2657,6 +2660,7 @@ https://opendata.english.vnacs.nl
 https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
+https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -2873,6 +2877,7 @@ https://opendata.wkr.nl
 https://opendata.wodc.nl
 https://opendata.wrr.nl
 https://opendata.youthatheart.nl
+https://opendata.zorginstituutnederland.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
@@ -2968,6 +2973,7 @@ https://plan-plan-validatie.pre.omgevingswet.overheid.nl
 https://planonprod.vallei-veluwe.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
 https://pleio.kiesraad.nl
+https://plek.zorginstituutnederland.nl
 https://pmm.belastingdienst.nl
 https://pms.dictu.nl
 https://pmz-pre.logius.nl
@@ -3073,6 +3079,7 @@ https://proto.horizonscangeneesmiddelen.nl
 https://proto.istandaarden.nl
 https://proto.medicijnkosten.nl
 https://proto.zorgcijfersdatabank.nl
+https://proto.zorginstituutnederland.nl
 https://prototype.cibg.nl
 https://ps1.platformrijksoverheid.nl
 https://ps2.platformrijksoverheid.nl
@@ -3246,6 +3253,7 @@ https://sa.belastingdienst.nl
 https://sadp.belastingdienst.nl
 https://samenveiligwerken.hhdelfland.nl
 https://samenwerken.brabant.nl
+https://samenwerken.zorginstituutnederland.nl
 https://samenwerkingrijknoord.nl
 https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
@@ -3268,6 +3276,7 @@ https://sdmx.cbs.nl
 https://search.developer.overheid.nl
 https://secure.vechtstromen.nl
 https://secure5.svb.nl
+https://securemail.zorginstituutnederland.nl
 https://securened.ncsc.nl
 https://securenet.ncsc.nl
 https://securetest.vechtstromen.nl
@@ -3808,6 +3817,7 @@ https://www-ac.gipdatabank.nl
 https://www-ac.horizonscangeneesmiddelen.nl
 https://www-ac.medicijnkosten.nl
 https://www-ac.zorgcijfersdatabank.nl
+https://www-ac.zorginstituutnederland.nl
 https://www-acc.cbs.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www-test.cbs.nl
@@ -4356,6 +4366,7 @@ https://www.wrr.nl
 https://www.youthatheart.nl
 https://www.zorgaanbiedersportaal.nl
 https://www.zorgcijfersdatabank.nl
+https://www.zorginstituutnederland.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
 https://www2.om.nl
@@ -4389,6 +4400,7 @@ https://zorgaanbiedersportaal.nl
 https://zorgbeeld.nza.nl
 https://zorgcijfersdatabank.nl
 https://zorgenwerknetwerk.arboportaal.nl
+https://zorginstituutnederland.nl
 https://zorgprestatiemodel.nza.nl
 https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl
