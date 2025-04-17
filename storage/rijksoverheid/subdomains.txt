@@ -543,6 +543,7 @@ acceptatie.raadplegen.sbv-z.nl
 acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.schoolleidersregisterpo.nl
 acceptatie.spin2.rijkswaterstaat.nl
+acceptatie.sportenbewegenincijfers.nl
 acceptatie.tea.bigregister.nl
 acceptatie.tmv.cibg.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
@@ -5431,6 +5432,7 @@ specials.brabant.nl
 spin.rijkswaterstaat.nl
 spin2.rijkswaterstaat.nl
 splunksyslog.dmz.belastingdienst.nl
+sportenbewegenincijfers.nl
 squit2go.ofgv.nl
 squit2gotest.ofgv.nl
 srv-52b05-19.gn2.rijkscloud.nl
@@ -6896,6 +6898,7 @@ www.slimwatermanagement.nl
 www.socialestabiliteit.nl
 www.sodm.nl
 www.spamtitan.cbi.eu
+www.sportenbewegenincijfers.nl
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
