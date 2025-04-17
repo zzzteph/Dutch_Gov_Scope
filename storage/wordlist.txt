@@ -20,8 +20,8 @@ intranet
 webmail
 a-feeds.a-english
 a-opendata.a-english
-api
 cms
+api
 vpn
 _dmarc
 prod
@@ -4824,3 +4824,7 @@ wwwtest.entreepgb
 Autodiscover
 mx01
 tbbb
+import
+importacc
+register-backend
+register
