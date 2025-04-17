@@ -68,6 +68,7 @@ http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
+http://cb.entreepgb.svb.nl
 http://cesar-database.knmi.nl
 http://cev.nl
 http://channels-az1.lpc.logius.nl
@@ -214,6 +215,7 @@ http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://survey.cibg.nl
 http://test-english.rvo.nl
+http://test-intranet.svb.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-website.rvo.nl
 http://test.atlasnatuurlijkkapitaal.nl
@@ -252,11 +254,20 @@ http://www.bacterial-meningitis.nl
 http://www.beeldbank.cultureelerfgoed.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
+http://www.entreepgb.svb.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
 https://100aardgasvrijewijken.nl
 https://55plus.datawonen.nl
 https://ACC.RD.dictu.nl
+https://RDSapplications00.svb.nl
+https://RDSapplications01.svb.nl
+https://RDSapplications02.svb.nl
+https://RDSapplications03.svb.nl
+https://RDSapplications04.svb.nl
+https://RDSapplications05.svb.nl
+https://RDSapplications06.svb.nl
+https://RDSapplications07.svb.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
 https://Test-Azure06.dictu.nl
@@ -514,14 +525,21 @@ https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
 https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
+https://apim-icc.svb.nl
 https://apis.developer.overheid.nl
 https://apkl.huisvoorklokkenluiders.nl
+https://app-a.svb.nl
 https://app-api.acc.mgo.irealisatie.nl
 https://app-api.test.mgo.irealisatie.nl
+https://app-o.svb.nl
+https://app-t.svb.nl
 https://app.brabant.nl
+https://app.svb.nl
 https://applicationframework.cibg.nl
 https://applications.klopt.cibg.nl
+https://applicationstest.svb.nl
 https://apps.jeugdconnect.nl
+https://apps.svb.nl
 https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
 https://archis.cultureelerfgoed.nl
@@ -534,6 +552,9 @@ https://asb.webftp.dictu.nl
 https://asbestovertredingen.nlarbeidsinspectie.nl
 https://asbestvolgsysteem.nl
 https://asbestvrijdak.nl
+https://assyst-a.svb.nl
+https://assyst-t.svb.nl
+https://assyst.svb.nl
 https://asycuda.belastingdienst-cn.nl
 https://atkm.nl
 https://atlas.brabant.nl
@@ -557,9 +578,11 @@ https://autodiscover.evenementenbureauvws.nl
 https://autodiscover.huisvoorklokkenluiders.nl
 https://autodiscover.koop.overheid.nl
 https://autodiscover.overheid.nl
+https://autodiscover.svb.nl
 https://autorisatie-preprod.brabant.nl
 https://autorisatie-prod.brabant.nl
 https://autoriteitnvs.nl
+https://autorization.entreepgb.svb.nl
 https://avd.datasluis.dictu.nl
 https://avgregisterrijksoverheid.nl
 https://awti.nl
@@ -721,6 +744,7 @@ https://cadmium-pig.apps.feedfoodtransfer.nl
 https://caelus-tool.nl
 https://callbook.rdi.nl
 https://campagnetoolkits.nl
+https://canary-svb.svb.nl
 https://caorijk.nl
 https://capi.cbs.nl
 https://careereventvws.evenementenbureauvws.nl
@@ -796,6 +820,7 @@ https://cms.rvo.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://cmsintranet.scp.nl
+https://cmsintranet.svb.nl
 https://cmv-kandidaat.sso3w.nl
 https://cmv-opdrachtgever.sso3w.nl
 https://cn.cbs.nl
@@ -951,6 +976,7 @@ https://denkmee.flevoland.nl
 https://design.ndw.nu
 https://designsystem.cbs.nl
 https://designsystem.cibg.nl
+https://desktop.entreepgb.svb.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
@@ -1011,6 +1037,7 @@ https://douane.nl
 https://download.belastingdienst.nl
 https://download.cbs.nl
 https://download.mail.scp.nl
+https://downloaddomain.svb.nl
 https://downloadpdf-preprod.ep-online.nl
 https://downloadpdf.ep-online.nl
 https://dp2021.deltaprogramma.nl
@@ -1155,8 +1182,10 @@ https://english.scp.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
+https://enterpriseenrollment.svb.nl
 https://enterpriseregistration.domeinenrz.nl
 https://enterpriseregistration.ofgv.nl
+https://enterpriseregistration.svb.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://ep-online.nl
@@ -1183,6 +1212,7 @@ https://eula.flevoland.nl
 https://europese-subsidies.rvo.nl
 https://euthanasiecommissie.nl
 https://evenementenbureauvws.nl
+https://events.svb.nl
 https://evserver1.flevoland.nl
 https://examenblad.nl
 https://examenbladmbo.nl
@@ -1550,6 +1580,7 @@ https://formulieren.flevoland.nl
 https://formulieren.limburg.nl
 https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
+https://formulieren.svb.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
@@ -1576,6 +1607,7 @@ https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
 https://gelijke-kansen.nl
 https://geluidskaart.odmh.nl
+https://gemeenten.svb.nl
 https://geneesmiddeleninformatiebank.nl
 https://generiekefuncties.datavoorgezondheid.nl
 https://gensys.flevoland.nl
@@ -1771,6 +1803,7 @@ https://intern.magazinesrijkswaterstaat.nl
 https://intern.ssc-ictspecials.nl
 https://internal-docs.ndw.nu
 https://internationaal.ondernemen.overheid.nl
+https://internetdienstensiam.svb.nl
 https://interventiedatabase.nl
 https://intpatch.omgevingswet.overheid.nl
 https://intra-cms-acc.rvo.nl
@@ -1790,6 +1823,7 @@ https://intranet.odijmond.nl
 https://intranet.rsj.nl
 https://intranet.rvig.nl
 https://intranet.scp.nl
+https://intranet.svb.nl
 https://intranetvan.rvo.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://investeringsimpulsspv.nl
@@ -1871,6 +1905,7 @@ https://kennis.hdsr.nl
 https://kennis.nponderwijs.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
+https://kennisbank.svb.nl
 https://kennisbankterrorisme.nctv.nl
 https://kenniscentrum.ofgv.nl
 https://kennisdelen.rvo.nl
@@ -1926,8 +1961,10 @@ https://leer-rijk.nl
 https://leerenontwikkelplein.nl
 https://leeromgeving.om.nl
 https://leerplatform.it-academieoverheid.nl
+https://leerplein.svb.nl
 https://leren.nza.nl
 https://lerenvoorveiligheid.nl
+https://leveranciersvdi.svb.nl
 https://lij.jeugdconnect.nl
 https://lil.cultureelerfgoed.nl
 https://limburg.nl
@@ -1936,6 +1973,7 @@ https://linkeddata.overheid.nl
 https://links.informatieservice.nederlandwereldwijd.nl
 https://lintjes.nl
 https://lir.cibg.nl
+https://live.svb.nl
 https://livecharts.cbs.nl
 https://lmr-noord.proeftuin.gf.irealisatie.nl
 https://lmr-noord.test.gf.irealisatie.nl
@@ -2091,6 +2129,8 @@ https://melvin.ndw.nu
 https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
 https://metelkaartrekkenwedegrens.nl
+https://mft-acc.svb.nl
+https://mft-prd.svb.nl
 https://mft.webftp.dictu.nl
 https://mgt.flevoland.nl
 https://mi-cert.nl
@@ -2130,13 +2170,18 @@ https://mijnloket.commissiemijnbouwschade.nl
 https://mijnncg.nl
 https://mijnoctrooi.mypage.rvo.nl
 https://mijnoctrooi.rvo.nl
+https://mijnpgb-siam.svb.nl
 https://mijnpgb.nl
+https://mijnpgb.svb.nl
 https://mijnrdtmnl.ndw.nu
 https://mijnsubsidies-acc.limburg.nl
 https://mijnsubsidies.limburg.nl
+https://mijnsvb.svb.nl
 https://mijntoken.dictu.nl
 https://mijntokenactiveren.logius.nl
+https://mijntpw.svb.nl
 https://mijnwerkplek.cbg-meb.nl
+https://mijnwmo-siam.svb.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
 https://minio.datafabriek.ienw.rijkscloud.nl
@@ -2184,6 +2229,7 @@ https://murder-case.om.nl
 https://mvstat.cbs.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
+https://mydesktop.svb.nl
 https://myidp-acc.postedworkers.nl
 https://myidp.postedworkers.nl
 https://nac.nctv.nl
@@ -2302,6 +2348,7 @@ https://onderzoek.communicatierijk.nl
 https://onderzoek.nederlandwereldwijd.nl
 https://onderzoek.odmh.nl
 https://onderzoek.rdi.nl
+https://onderzoek.svb.nl
 https://onderzoek2.cbs.nl
 https://onehealth.nl
 https://online.rijksinnovatiecommunity.nl
@@ -2657,6 +2704,7 @@ https://otv-web.proeftuin.gf.irealisatie.nl
 https://otv-web.test.gf.irealisatie.nl
 https://ouders-uit-elkaar.nl
 https://outbound.onderwijsraad.nl
+https://outlook.svb.nl
 https://ov-consumentenplatform.nl
 https://over-ons.belastingdienst.nl
 https://overalsnelinternet.nl
@@ -2671,6 +2719,7 @@ https://ovverklaringen.belastingdienst.nl
 https://p-direkt.nl
 https://pacemweb.nl
 https://pages.ds-ocw.rijkscloud.nl
+https://pages.svb.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
 https://papiamentu.rijksdienstcn.com
@@ -2683,10 +2732,12 @@ https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://perf.omgevingswet.overheid.nl
+https://pers.svb.nl
 https://persberichten.rijksoverheid.nl
 https://pesticidesdatabase.ctgb.nl
 https://pgadmin.analyse.ilt.rijkscloud.nl
 https://pgadmin4.analyse.ilt.rijkscloud.nl
+https://pgbverwerkingservice.entreepgb.svb.nl
 https://pge.nctv.nl
 https://pgw.belastingdienst.nl
 https://pih.belastingdienst.nl
@@ -2735,6 +2786,7 @@ https://portaal.nlarbeidsinspectie.nl
 https://portaal.prolander.nl
 https://portal.cbs.nl
 https://portal.datascience.rijkscloud.nl
+https://portal.entreepgb.svb.nl
 https://portal.formulierdus-i.nl
 https://portal.informatieproducten.duo.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
@@ -2858,6 +2910,8 @@ https://rd2.toegang.overheid.nl
 https://rda.nl
 https://rdi.nl
 https://rdsa.knmi.nl
+https://rdsapplications00.svb.nl
+https://rdsapplications06.svb.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
 https://rechtsbijstand.nl
@@ -2890,6 +2944,7 @@ https://reistijdtrajecten.ndw.nu
 https://rekenhulptransitievergoeding.nl
 https://rekenkamer.nl
 https://remote.flevoland.nl
+https://remotedesktop.svb.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
 https://repository-eto.officiele-overheidspublicaties.nl
@@ -2994,6 +3049,7 @@ https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
 https://sdmx.cbs.nl
 https://search.developer.overheid.nl
+https://secure5.svb.nl
 https://securened.ncsc.nl
 https://securenet.ncsc.nl
 https://securetransfer.rijkscloud.nl
@@ -3180,6 +3236,7 @@ https://survey-deploy.platformrijksoverheid.nl
 https://survey-metrics.platformrijksoverheid.nl
 https://survey.platformrijksoverheid.nl
 https://surveys.cbs.nl
+https://svb.nl
 https://synergy.huurcommissie.nl
 https://sys-staging-mijn.rvo.nl
 https://tarief.douane.nl
@@ -3194,6 +3251,7 @@ https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
 https://test-cms.rvo.nl
 https://test-cmsintranet.scp.nl
+https://test-cmsintranet.svb.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
@@ -3946,6 +4004,7 @@ https://www.startmetdelen.nl
 https://www.startmetoesorichtlijnen.nl
 https://www.stopheling.nl
 https://www.strafrechtketen.nl
+https://www.svb.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
