@@ -2,6 +2,8 @@ http://1.ivory.nctv.nl
 http://AutoDiscover.hdsr.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
+http://acc-english.rvo.nl
+http://acc-website.rvo.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
@@ -56,6 +58,7 @@ http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
 http://blaiseish2.cbs.nl
+http://bpa.rvo.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
 http://c-pki-acc.dictu.nl
@@ -74,6 +77,7 @@ http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crm.nza.nl
+http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
@@ -84,13 +88,17 @@ http://dns-web300.rijksoverheid.nl
 http://docs.lpc.logius.nl
 http://download.webmail.knmi.nl
 http://dse.lx.overheid.nl
+http://e-learning.rvo.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://embraceintranet.flevoland.nl
+http://english-data.rvo.nl
 http://extern.knmi.nl
 http://formulier-beheer.dus-i.nl
 http://ftp.ofgv.nl
 http://gatus.lpc.logius.nl
+http://gbatmv.rvo.nl
+http://gdi-a.rvo.nl
 http://geo2.flevoland.nl
 http://geoservices2.cbs.nl
 http://git-az1.lpc.logius.nl
@@ -111,6 +119,7 @@ http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
 http://int-prod-01.flevoland.nl
 http://interventies.loketgezondleven.nl
+http://intra-acc.rvo.nl
 http://jaeger.test.zm.irealisatie.nl
 http://kat.acc.irealisatie.nl
 http://kat.irealisatie.nl
@@ -156,6 +165,7 @@ http://prd.archis.cultureelerfgoed.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preprod.bvd.logius.nl
 http://prod.flevoland.nl
+http://prod.rvo.nl
 http://proeftuin.gf.irealisatie.nl
 http://projects.knmi.nl
 http://prs-stub.proeftuin.gf.irealisatie.nl
@@ -174,6 +184,7 @@ http://ref.omgevingswet.overheid.nl
 http://release.isis-web.nl
 http://repository-acc.officiele-overheidspublicaties.nl
 http://reserved-cesar-db.knmi.nl
+http://rhel-np-mijn.rvo.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -197,7 +208,9 @@ http://strafdossiermh17.acc.om.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://survey.cibg.nl
+http://test-english.rvo.nl
 http://test-machtigen.digipoort.logius.nl
+http://test-website.rvo.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.bestandenpostbus.nl
 http://test.chemischestoffengoedgeregeld.nl
@@ -213,6 +226,7 @@ http://test3.isis-web.nl
 http://testconn.knmi.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
+http://trade.rvo.nl
 http://tst.subsidie.cultureelerfgoed.nl
 http://uptime.bureauwbtv.nl
 http://uwork.flevoland.nl
@@ -272,6 +286,9 @@ https://academy.cbs.nl
 https://academy.forensischinstituut.nl
 https://academyforinternationalrelations.nl
 https://acc-ags.rijkswaterstaat.nl
+https://acc-cms.projecten.rvo.nl
+https://acc-cms.projects.rvo.nl
+https://acc-cms.rvo.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
@@ -280,6 +297,8 @@ https://acc-internationaal.ondernemen.overheid.nl
 https://acc-maps.rijkswaterstaat.nl
 https://acc-open-wave.odijmond.nl
 https://acc-referentiegegevens.justid.nl
+https://acc-webform.rvo.nl
+https://acc-wetten.rvo.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.api-sec.p-direkt.nl
@@ -301,6 +320,7 @@ https://acc.dictu.nl
 https://acc.e-akkoord.nl
 https://acc.e-loket.ilent.nl
 https://acc.gisextern.dictu.nl
+https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieresultaten.nvwa.nl
 https://acc.inspectieview.nl
@@ -317,6 +337,7 @@ https://acc.omgevingswet.overheid.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://acc.rd.dictu.nl
 https://acc.rvig.nl
+https://acc.rvo.nl
 https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
@@ -374,6 +395,7 @@ https://acceptatie.webservices.bigregister.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://accounts.cbs.nl
+https://achilles.rvo.nl
 https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://acs-acpt.brabant.nl
@@ -413,6 +435,7 @@ https://agressievrijwerken.nl
 https://agroberichtenbuitenland.nl
 https://ags.rijkswaterstaat.nl
 https://agw.idm.rvig.nl
+https://aiddata.rvo.nl
 https://ainformatieportaal.justid.nl
 https://aip.nationaalcoordinatorgroningen.nl
 https://aivd.nl
@@ -437,6 +460,7 @@ https://animalfreeinnovationtpi.nl
 https://anonymous.api.dataplatform.knmi.nl
 https://antennebureau.nl
 https://antwoord.cbs.nl
+https://aoep-iam.rvo.nl
 https://api-acc.dashboardgroningen.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
@@ -480,6 +504,7 @@ https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
 https://archis.cultureelerfgoed.nl
 https://archisarchief.cultureelerfgoed.nl
+https://argocd-infra.efiling.mijnoctrooi.rvo.nl
 https://aris.brabant.nl
 https://artifact-rd1.toegang.overheid.nl
 https://asb.datasluis.dictu.nl
@@ -498,6 +523,7 @@ https://atlasleefomgeving.nl
 https://atlasnatuurlijkkapitaal.nl
 https://auditdienstrijk.nl
 https://auth-acc.dictu.nl
+https://auth-iam.mijnoctrooi.mypage.rvo.nl
 https://auth.dictu.nl
 https://auth.ndw.nu
 https://auth.services.cultureelerfgoed.nl
@@ -732,6 +758,7 @@ https://claircitydata.cbs.nl
 https://climexp.knmi.nl
 https://cloudstorage-koop.overheid.nl
 https://clusterbuster.nl
+https://cms-extern.rvo.nl
 https://cms-info.ndw.nu
 https://cms-origin.klimaatscenarios-data.knmi.nl
 https://cms.beeldkompas.nl
@@ -739,6 +766,8 @@ https://cms.bureaubiosecurity.nl
 https://cms.contenttoolsrijksoverheid.nl
 https://cms.jeugdconnect.nl
 https://cms.mensenrechten.nl
+https://cms.projects.rvo.nl
+https://cms.rvo.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://cn.cbs.nl
@@ -763,6 +792,8 @@ https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://componenten.overheid.nl
 https://confluence.knmi.nl
+https://confluenceimg-acc.rvo.nl
+https://confluenceimg.rvo.nl
 https://connect-acpt.dji.nl
 https://connect-acpt.justitieleictorganisatie.nl
 https://connect-acpt.kinderbescherming.nl
@@ -806,12 +837,14 @@ https://crisiswerkplek.rijkswaterstaat.nl
 https://crm.cbi.eu
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
+https://crowdtech.rvo.nl
 https://csaf.data.security.ncsc.nl
 https://csirtdsp.nl
 https://csoacct.functiegebouwrijksoverheid.nl
 https://csoacct.ikwerkvoornederland.nl
 https://csotest.functiegebouwrijksoverheid.nl
 https://csotest.ikwerkvoornederland.nl
+https://cta.rvo.nl
 https://ctgb.nl
 https://ctivd.nl
 https://ctpveldzicht.nl
@@ -852,6 +885,7 @@ https://data.geo.cultureelerfgoed.nl
 https://data.knmi.nl
 https://data.ndw.nu
 https://data.overheid.nl
+https://data.rvo.nl
 https://data.staging.ndw.nu
 https://databestanden.cbs.nl
 https://dataderden.cbs.nl
@@ -875,6 +909,7 @@ https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://dcc-ienw.nl
+https://dcmp-upnl-idp.rvo.nl
 https://dcp-time-slot.cbg-meb.nl
 https://decentrale.regelgeving.overheid.nl
 https://defensie.nl
@@ -988,6 +1023,7 @@ https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.douane.nl
 https://e.awareness.nationaalcoordinatorgroningen.nl
 https://e.flevoland.nl
+https://e.garanties.rvo.nl
 https://e.hhdelfland.nl
 https://e.logius.nl
 https://e.videobellen.douane.nl
@@ -998,15 +1034,18 @@ https://eavgb.aivd.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
 https://ebms.contentbeheer.omgevingswet.overheid.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
+https://economicdiplomacy.rvo.nl
 https://ediensten.ind.nl
 https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
 https://eentegeneenzaamheid.nl
 https://eersteenthuis.nl
 https://efeat.org
+https://efiling.mijnoctrooi.rvo.nl
 https://efm.belastingdienst.nl
 https://eforms.ind.nl
 https://egain-com.cbs.nl
+https://egeo.rvo.nl
 https://egvap.knmi.nl
 https://ehd.emissieautoriteit.nl
 https://ehp.emissieautoriteit.nl
@@ -1028,6 +1067,7 @@ https://emailtemplates.overheid.nl
 https://emissieautoriteit.nl
 https://emissionsauthority.nl
 https://emm-online.nl
+https://emobility.rvo.nl
 https://enabling.omgevingswet.overheid.nl
 https://energierijkdenhaag.nl
 https://engine.acc.fhub.dictu.nl
@@ -1075,6 +1115,7 @@ https://english.rda.nl
 https://english.rekenkamer.nl
 https://english.rijksdienstcn.com
 https://english.rivmmagazines.nl
+https://english.rvo.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -1082,6 +1123,8 @@ https://enterpriseregistration.ofgv.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://ep-online.nl
+https://epbdwebservices-preprod.rvo.nl
+https://epbdwebservices.rvo.nl
 https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://error-reporting.ndw.nu
@@ -1099,6 +1142,7 @@ https://esb.rijkswaterstaat.nl
 https://etl.rijkswaterstaat.nl
 https://eubtw.belastingdienst.nl
 https://eula.flevoland.nl
+https://europese-subsidies.rvo.nl
 https://euthanasiecommissie.nl
 https://evenementenbureauvws.nl
 https://evserver1.flevoland.nl
@@ -1462,6 +1506,7 @@ https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
 https://functiegebouwrijksoverheid.nl
 https://gala2024.evenementenbureauvws.nl
+https://gdi-b.rvo.nl
 https://gdlo.belastingdienst.nl
 https://gebruiker-beheer.dus-i.nl
 https://gebruikersportaal-duo.preproductie.digipoort.logius.nl
@@ -1485,6 +1530,7 @@ https://geo.odmh.nl
 https://geo.rijkswaterstaat.nl
 https://geo3.flevoland.nl
 https://geobasisregistraties.nl
+https://geocontent.rvo.nl
 https://geodata.basisinformatie-overstromingen.nl
 https://geodata.cbs.nl
 https://geodiensten.flevoland.nl
@@ -1500,6 +1546,7 @@ https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
 https://geoservices.hdsr.nl
 https://geoservices.knmi.nl
+https://geoservices.rvo.nl
 https://geoweb.odmh.nl
 https://geoweb.rijkswaterstaat.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
@@ -1547,6 +1594,8 @@ https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
 https://gtmz.belastingdienst.nl
+https://gtpa-acc.rvo.nl
+https://gtpa.rvo.nl
 https://gw.defensie.nl
 https://halt-verwijs.jeugdconnect.nl
 https://handelingenbank.info
@@ -1585,6 +1634,7 @@ https://hwbp.nl
 https://hybrid.nza.nl
 https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
+https://iam.mijnoctrooi.mypage.rvo.nl
 https://iam.ndw.nu
 https://iam.rijkswaterstaat.nl
 https://ibabs.dictu.nl
@@ -1602,6 +1652,7 @@ https://idppoc-ont.dictu.nl
 https://idselect.cultureelerfgoed.nl
 https://igj.nl
 https://igj.rijkscloud.nl
+https://ih-static.rvo.nl
 https://ihg.cbs.nl
 https://iinterimrijk.nl
 https://iknowcimow.acc.omgevingswet.overheid.nl
@@ -1618,9 +1669,11 @@ https://import.organisaties.overheid.nl
 https://inburgeren.nl
 https://incassomachtigen.belastingdienst.nl
 https://ind.nl
+https://infographics.rvo.nl
 https://infomilcn.com
 https://infoportal.rdi.nl
 https://informatieanalyseteam.nl
+https://informatiehuis.rvo.nl
 https://informatiehuishouding.nl
 https://informatiemodel.istandaarden.nl
 https://informatieportaal.justid.nl
@@ -1664,6 +1717,9 @@ https://internal-docs.ndw.nu
 https://internationaal.ondernemen.overheid.nl
 https://interventiedatabase.nl
 https://intpatch.omgevingswet.overheid.nl
+https://intra-cms-acc.rvo.nl
+https://intra-cms.rvo.nl
+https://intra.rvo.nl
 https://intranet-bestanden.flevoland.nl
 https://intranet-demo.dictu.nl
 https://intranet.ad.hdsr.nl
@@ -1677,6 +1733,7 @@ https://intranet.nationaalcoordinatorgroningen.nl
 https://intranet.odijmond.nl
 https://intranet.rsj.nl
 https://intranet.rvig.nl
+https://intranetvan.rvo.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://investeringsimpulsspv.nl
 https://iob-evaluatie.nl
@@ -1717,6 +1774,8 @@ https://jeugdstatline.cbs.nl
 https://jip.inspectie-jenv.nl
 https://jira.dictu.nl
 https://jira.knmi.nl
+https://jiraimg-acc.rvo.nl
+https://jiraimg.rvo.nl
 https://jmopendata.cbs.nl
 https://join.odijmond.nl
 https://jokesmitprijs.nl
@@ -1757,6 +1816,7 @@ https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisbankterrorisme.nctv.nl
 https://kenniscentrum.ofgv.nl
+https://kennisdelen.rvo.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
@@ -1790,6 +1850,7 @@ https://koninklijkhuis.nl
 https://koopoverheid.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
+https://kostenkentallen.rvo.nl
 https://kpm.jeugdconnect.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://labvantage-acc.nvwa.nl
@@ -2004,6 +2065,8 @@ https://mijncn.nl
 https://mijndouane.belastingdienst.nl
 https://mijnloket.commissiemijnbouwschade.nl
 https://mijnncg.nl
+https://mijnoctrooi.mypage.rvo.nl
+https://mijnoctrooi.rvo.nl
 https://mijnpgb.nl
 https://mijnrdtmnl.ndw.nu
 https://mijnsubsidies-acc.limburg.nl
@@ -2034,10 +2097,12 @@ https://mode-s.knmi.nl
 https://modellen.jenvgegevens.nl
 https://modules.istandaarden.nl
 https://mogin.ndw.nu
+https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring-prod5.koop.overheid.nl
 https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
+https://monitoring.efiling.mijnoctrooi.rvo.nl
 https://monitorlangdurigezorg.nl
 https://monitorwonen.flevoland.nl
 https://monumentenregister.cultureelerfgoed.nl
@@ -2101,6 +2166,7 @@ https://nextcloud.rvb.rijkscloud.nl
 https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nieuws.brabant.nl
+https://nieuws.rvo.nl
 https://nieuwsbrief.examenblad.nl
 https://nieuwsbrieven.limburg.nl
 https://nieuwsbrieven.rijkswaterstaat.nl
@@ -2145,9 +2211,11 @@ https://odmh.nl
 https://oecdguidelines.nl
 https://oefenvragenlijst.cbs.nl
 https://oesorichtlijnen.nl
+https://offshorewind.rvo.nl
 https://ofgv.nl
 https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oinregister.logius.nl
+https://ojb.rvo.nl
 https://old-cms.contenttoolsrijksoverheid.nl
 https://old.belastingles.nl
 https://om-veld01.om.nl
@@ -2626,6 +2694,7 @@ https://private.acc.justitieconnect.nl
 https://private.acc.staging.justitieconnect.nl
 https://private.justitieconnect.nl
 https://private.staging.justitieconnect.nl
+https://prizmo-web.rvo.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod-dictu.comcms.logius.nl
@@ -2638,14 +2707,21 @@ https://prod.mi-cert.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
 https://prod.rvig.nl
+https://prod.wetten.rvo.nl
 https://proeftuin.uzi-online.irealisatie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
 https://profgeodata.static.basisinformatie-overstromingen.nl
+https://projecten-acc.rvo.nl
+https://projecten-tst.rvo.nl
 https://projecten.cbs.nl
 https://projecten.netwerkplatteland.nl
 https://projecten.rijksvastgoedbedrijf.nl
+https://projecten.rvo.nl
+https://projects-acc.rvo.nl
+https://projects-tst.rvo.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
+https://projects.rvo.nl
 https://prolander.nl
 https://prosecutionservice.nl
 https://protide.rijkswaterstaat.nl
@@ -2746,6 +2822,7 @@ https://resolver.pre.omgevingswet.overheid.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://rgs.cbs.nl
+https://rhel-p-mijn.rvo.nl
 https://rhel8.wabinfo.rijkswaterstaat.nl
 https://riec.nl
 https://rijksbredekennisagenda.nl
@@ -2799,6 +2876,7 @@ https://ruimtelijkeordening.nl
 https://ruimtevoorderivier.nl
 https://rvdmschaduwdraaien.nvwa.nl
 https://rvig.nl
+https://rvo.nl
 https://rvp.reis.idm.rvig.nl
 https://rw.belastingdienst.nl
 https://rwbg.flevoland.nl
@@ -2860,6 +2938,7 @@ https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://shared-services.ndw.nu
 https://sharepoint.aaenmaas.nl
+https://sharingknowledge.rvo.nl
 https://shiny.cursus.rijkscloud.nl
 https://shiny.datalab-2.ocw.rijkscloud.nl
 https://shiny.hr-ienw.rijkscloud.nl
@@ -2883,6 +2962,7 @@ https://soap.openbare-inspectieresultaten.nvwa.nl
 https://social.overheid.nl
 https://socialmediamonitor.jeugdconnect.nl
 https://sonar.ndw.nu
+https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
 https://sorry.belastingdienst.nl
 https://spaceweather.knmi.nl
 https://spin.rijkswaterstaat.nl
@@ -2954,6 +3034,7 @@ https://static.tst.staging.werkenbij.rijkswaterstaat.nl
 https://statistics.ind.nl
 https://statistiek.mijn.overheid.nl
 https://statistiek.rijksoverheid.nl
+https://statistiek.rvo.nl
 https://statline.cbs.nl
 https://stats.acc.mgo.irealisatie.nl
 https://stats.duo.rijkscloud.nl
@@ -2973,6 +3054,7 @@ https://stelselcatalogus.kta.omgevingswet.overheid.nl
 https://stelselcatalogus.omgevingswet.overheid.nl
 https://stelselcatalogus.pfm.omgevingswet.overheid.nl
 https://stelselcatalogus.pre.omgevingswet.overheid.nl
+https://stglb.rvo.nl
 https://stijlgids.rijkswaterstaat.nl
 https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
@@ -2993,17 +3075,22 @@ https://survey-metrics.platformrijksoverheid.nl
 https://survey.platformrijksoverheid.nl
 https://surveys.cbs.nl
 https://synergy.huurcommissie.nl
+https://sys-staging-mijn.rvo.nl
 https://tarief.douane.nl
 https://taxonomie.cbs.nl
 https://tea.bigregister.nl
 https://techniekacademie.rijkswaterstaat.nl
 https://telewerken.om.nl
 https://test-azure06.dictu.nl
+https://test-cms.projecten.rvo.nl
+https://test-cms.projects.rvo.nl
+https://test-cms.rvo.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-kpi-dashboard.ndw.nu
+https://test-wetten.rvo.nl
 https://test.actueel.nl-alert.nl
 https://test.belastingdienst-cn.nl
 https://test.bezoekerscentrum.rijkswaterstaat.nl
@@ -3019,6 +3106,7 @@ https://test.esb.rijkswaterstaat.nl
 https://test.flevoland.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.handelingenbank.info
+https://test.informatiehuis.rvo.nl
 https://test.intranet-demo.dictu.nl
 https://test.intranet.justis.nl
 https://test.intranet.rvig.nl
@@ -3035,6 +3123,7 @@ https://test.portaal.nlarbeidsinspectie.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://test.resultaten.nlarbeidsinspectie.nl
 https://test.rvig.nl
+https://test.rvo.nl
 https://test.spin2.rijkswaterstaat.nl
 https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
@@ -3092,6 +3181,7 @@ https://uitwisseling.cbs.nl
 https://uno.dfront.rijkscloud.nl
 https://upload.cbs.nl
 https://uploadmodule.rdi.nl
+https://upnl-idp.rvo.nl
 https://upnl.mijn.rvo.nl
 https://uren.acc.irealisatie.nl
 https://uren.irealisatie.nl
@@ -3106,6 +3196,8 @@ https://validatie-acc.justid.nl
 https://validatie.justid.nl
 https://validationcalculation.douane.nl
 https://validationcalculationtest.douane.nl
+https://vault-infra.efiling.mijnoctrooi.rvo.nl
+https://vault.efiling.mijnoctrooi.rvo.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
 https://veilig.cultureelerfgoed.nl
 https://veiligmailen.flevoland.nl
@@ -3174,6 +3266,8 @@ https://watertoetsportaal-a.hhdelfland.nl
 https://watertoetsportaal.hhdelfland.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
 https://waterwebservices.rijkswaterstaat.nl
+https://wba-acc.rvo.nl
+https://wba.rvo.nl
 https://wbp6.hhdelfland.nl
 https://web.acc.brba.nl
 https://web.acc.dpr.irealisatie.nl
@@ -3188,6 +3282,7 @@ https://webchat.klopt.cibg.nl
 https://webdiensten.belastingdienst.nl
 https://webdiensten.hdsr.nl
 https://webdisk.evenementenbureauvws.nl
+https://webform.rvo.nl
 https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
@@ -3229,6 +3324,7 @@ https://wetgevingskalender-acc.overheid.nl
 https://wetgevingskalender.overheid.nl
 https://wetten-acc.overheid.nl
 https://wetten.overheid.nl
+https://wetten.rvo.nl
 https://wifi.brabant.nl
 https://wifi.dictu.nl
 https://wikixl-saml.cultureelerfgoed.nl
@@ -3428,6 +3524,7 @@ https://www.dutchrapporteur.nl
 https://www.duurzame-infra.nl
 https://www.dwangindezorg.nl
 https://www.e-akkoord.nl
+https://www.economicdiplomacy.rvo.nl
 https://www.eentegeneenzaamheid.nl
 https://www.eersteenthuis.nl
 https://www.efeat.org
@@ -3501,6 +3598,7 @@ https://www.ikz.nl
 https://www.ilent.nl
 https://www.inburgeren.nl
 https://www.ind.nl
+https://www.infographics.rvo.nl
 https://www.infomilcn.com
 https://www.informatieanalyseteam.nl
 https://www.informatiehuishouding.nl
@@ -3542,6 +3640,7 @@ https://www.justitieconnect.nl
 https://www.justitieleictorganisatie.nl
 https://www.kabinetsformatie2023.nl
 https://www.kansrijkestartnl.nl
+https://www.kennisdelen.rvo.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
@@ -3634,6 +3733,7 @@ https://www.odijmond.nl
 https://www.odmh.nl
 https://www.oecdguidelines.nl
 https://www.oesorichtlijnen.nl
+https://www.offshorewind.rvo.nl
 https://www.ofgv.nl
 https://www.om.nl
 https://www.omgevingsplan.flevoland.nl
@@ -3705,6 +3805,8 @@ https://www.rsj.nl
 https://www.ruimtelijkeordening.nl
 https://www.ruimtevoorderivier.nl
 https://www.rvig.nl
+https://www.rvo.nl
+https://www.sharingknowledge.rvo.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
