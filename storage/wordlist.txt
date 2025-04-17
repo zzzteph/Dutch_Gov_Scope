@@ -27,10 +27,10 @@ _dmarc
 prod
 portaal
 sip
+formulieren
 connect
 data
 meet
-formulieren
 www-acc
 a-magazines
 login
@@ -319,6 +319,7 @@ upnl.mijn
 acceptatie.portaal
 api.mijn
 track
+aanvragen
 media
 access
 e-learning
@@ -2816,7 +2817,6 @@ www.inspectieresultaten
 www.openbare-inspectieresultaten
 www.ras-acc
 aanvragen-acc
-aanvragen
 acceptatie.crm
 agw01-nomail
 elearning-msz
@@ -4862,3 +4862,7 @@ feeds.papiamento
 opendata.papiamento
 papiamento
 bereken
+acceptatie.aanvragen
+acceptatie.formulieren
+acceptatie.uzipas
+uzipas
