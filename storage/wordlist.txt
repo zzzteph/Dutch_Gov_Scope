@@ -4,9 +4,9 @@ opendata
 feeds
 a-www
 english
+a-opendata
 feeds.english
 opendata.english
-a-opendata
 a-feeds
 test
 mail
@@ -98,6 +98,7 @@ academy
 cdn
 designsystem
 micollab
+projecten
 survey
 t-cms
 dwo
@@ -134,6 +135,7 @@ repository
 wiki
 preview
 mx1
+magazinesintern
 av
 eloket
 luchtfoto
@@ -198,7 +200,6 @@ ts
 accounts
 content
 dashboards
-projecten
 status
 tunnel
 uag
@@ -275,8 +276,8 @@ access
 import-acc.organisaties
 import.organisaties
 organisaties
-magazinesintern
 fileshare
+a-magazinesintern
 geoportal
 gisservices
 helloid
@@ -4162,7 +4163,6 @@ tools-acc
 tools
 a-git
 a-jira
-a-magazinesintern
 a-persberichten
 a-servicedesk
 a-static
@@ -4215,3 +4215,4 @@ a-mediabank
 a-server
 mediabank
 server
+landelijkevastgoeddag

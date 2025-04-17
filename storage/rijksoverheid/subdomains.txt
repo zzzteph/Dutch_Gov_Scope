@@ -27,6 +27,7 @@ _dmarc.nvwa.nl
 _dmarc.nza.nl
 _dmarc.p-direkt.nl
 _dmarc.rijksoverheid.nl
+_dmarc.rijksvastgoedbedrijf.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cluster1.a-cms.platformrijksoverheid.nl
@@ -132,6 +133,7 @@ a-feeds.riec.nl
 a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
+a-feeds.rijksvastgoedbedrijf.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -143,6 +145,7 @@ a-magazines.government.nl
 a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
+a-magazinesintern.rijksvastgoedbedrijf.nl
 a-mediabank.rijksoverheidsvideo.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
@@ -203,6 +206,7 @@ a-opendata.riec.nl
 a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
+a-opendata.rijksvastgoedbedrijf.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
@@ -272,6 +276,7 @@ a-www.riec.nl
 a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
+a-www.rijksvastgoedbedrijf.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -2247,6 +2252,7 @@ feeds.rijksinspecties.nl
 feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
+feeds.rijksvastgoedbedrijf.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3053,6 +3059,7 @@ labvantage-acc.nvwa.nl
 labvantage.nvwa.nl
 lam-dev.devops.rvb.rijkscloud.nl
 landelijkeopeningwte2024.evenementenbureauvws.nl
+landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 landelijkregisterkinderopvang.nl
 large.netftp.dictu.nl
 lb1.gn3.rijkscloud.nl
@@ -3201,6 +3208,7 @@ magazines.riec.nl
 magazines.rijksoverheid.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
+magazinesintern.rijksvastgoedbedrijf.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.aladdin.p-direkt.nl
@@ -4163,6 +4171,7 @@ opendata.rijksinspecties.nl
 opendata.rijksorganisatieodi.nl
 opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
+opendata.rijksvastgoedbedrijf.nl
 opendata.rvb.rijkscloud.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
@@ -4485,6 +4494,7 @@ profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
 projecten.cbs.nl
 projecten.netwerkplatteland.nl
+projecten.rijksvastgoedbedrijf.nl
 projects.knmi.nl
 projects.pages.ds-ocw.rijkscloud.nl
 projects.pages.mintst1.ix.rijkscloud.nl
@@ -4717,6 +4727,7 @@ rijkspasocsp2-acc.dictu.nl
 rijkspasocsp2.dictu.nl
 rijksrecherche.nl
 rijksvaccinatieprogramma.nl
+rijksvastgoedbedrijf.nl
 rijksweb.digikoppeling.diginetwerk.dictu.nl
 rivm.atlasleefomgeving.nl
 rivmopendata.cbs.nl
@@ -6373,6 +6384,7 @@ www.rijksorganisatieodi.nl
 www.rijksoverheid.nl
 www.rijksrecherche.nl
 www.rijksvaccinatieprogramma.nl
+www.rijksvastgoedbedrijf.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
