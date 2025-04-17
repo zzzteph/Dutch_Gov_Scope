@@ -45,6 +45,7 @@ _dmarc.rijksvastgoedbedrijf.nl
 _dmarc.rvig.nl
 _dmarc.ssc-ict.nl
 _dmarc.wkr.nl
+_dmarc.wodc.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cluster1.a-cms.platformrijksoverheid.nl
@@ -1598,6 +1599,7 @@ connect.ikz.nl
 connect.justitieleictorganisatie.nl
 connect.kinderbescherming.nl
 connect.knmi.nl
+connect.wodc.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -2156,6 +2158,7 @@ english.two-acs.com
 english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
 english.wkr.nl
+english.wodc.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
@@ -2434,6 +2437,7 @@ feeds.english.two-acs.com
 feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
 feeds.english.wkr.nl
+feeds.english.wodc.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -2644,6 +2648,7 @@ feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
 feeds.wkr.nl
+feeds.wodc.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -3787,6 +3792,7 @@ mail.tmv.rvig.nl
 mail.vechtstromen.nl
 mail.veiligheidsregioflevoland.nl
 mail.waterschaplimburg.nl
+mail.wodc.nl
 mail.zgw.rijkscloud.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
@@ -4628,6 +4634,7 @@ opendata.english.two-acs.com
 opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
 opendata.english.wkr.nl
+opendata.english.wodc.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -4842,6 +4849,7 @@ opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
 opendata.wkr.nl
+opendata.wodc.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -5446,6 +5454,7 @@ repository.istandaarden.nl
 repository.officiele-overheidspublicaties.nl
 repository.overheid.nl
 repository.scp.nl
+repository.wodc.nl
 research.cbs.nl
 reserved-cesar-db.knmi.nl
 resolv1.ec.rijkscloud.nl
@@ -6928,6 +6937,7 @@ wist-fpi.hhdelfland.nl
 wkr.nl
 wms-viewer.dataplatform.knmi.nl
 wms.aanpakringzuid.nl
+wodc.nl
 woo-formulier.rijksoverheid.nl
 wooincijfers.open-overheid.nl
 woordenboek.klimaatadaptatienederland.nl
@@ -7607,6 +7617,7 @@ www.wetbeschermingklokkenluiders.nl
 www.windopzee.nl
 www.windviewer.rvo.nl
 www.wkr.nl
+www.wodc.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
 www1.rijkswaterstaat.nl

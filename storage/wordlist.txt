@@ -29,9 +29,9 @@ portaal
 formulieren
 werkplek
 redactie
+connect
 meet
 sip
-connect
 data
 login
 smtp
@@ -68,6 +68,7 @@ loket
 zaaksysteem
 inloggen
 kennisbank
+repository
 lyncdiscover
 maps
 sharepoint
@@ -91,7 +92,6 @@ www-a
 zaaksysteem-acc
 forms
 git
-repository
 geoweb
 mx1
 eloket

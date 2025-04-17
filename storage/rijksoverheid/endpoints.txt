@@ -899,6 +899,7 @@ https://connect.ikz.nl
 https://connect.justitieleictorganisatie.nl
 https://connect.kinderbescherming.nl
 https://connect.knmi.nl
+https://connect.wodc.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://consexponano.nl
@@ -1233,6 +1234,7 @@ https://english.two-acs.com
 https://english.uitvoeringvanbeleidszw.nl
 https://english.vnacs.nl
 https://english.wkr.nl
+https://english.wodc.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
 https://enterpriseenrollment.svb.nl
@@ -1435,6 +1437,7 @@ https://feeds.english.two-acs.com
 https://feeds.english.uitvoeringvanbeleidszw.nl
 https://feeds.english.vnacs.nl
 https://feeds.english.wkr.nl
+https://feeds.english.wodc.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
@@ -1645,6 +1648,7 @@ https://feeds.werkenbijdeeu.nl
 https://feeds.werkenvoorinternationaleorganisaties.nl
 https://feeds.wetbeschermingklokkenluiders.nl
 https://feeds.wkr.nl
+https://feeds.wodc.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -2631,6 +2635,7 @@ https://opendata.english.two-acs.com
 https://opendata.english.uitvoeringvanbeleidszw.nl
 https://opendata.english.vnacs.nl
 https://opendata.english.wkr.nl
+https://opendata.english.wodc.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -2844,6 +2849,7 @@ https://opendata.werkenbijdeeu.nl
 https://opendata.werkenvoorinternationaleorganisaties.nl
 https://opendata.wetbeschermingklokkenluiders.nl
 https://opendata.wkr.nl
+https://opendata.wodc.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
@@ -3138,6 +3144,7 @@ https://repository.istandaarden.nl
 https://repository.officiele-overheidspublicaties.nl
 https://repository.overheid.nl
 https://repository.scp.nl
+https://repository.wodc.nl
 https://research.cbs.nl
 https://resolver.int.omgevingswet.overheid.nl
 https://resolver.kta.omgevingswet.overheid.nl
@@ -3762,6 +3769,7 @@ https://wio.ilent.nl
 https://wkr.nl
 https://wms-viewer.dataplatform.knmi.nl
 https://wms.aanpakringzuid.nl
+https://wodc.nl
 https://woo-formulier.rijksoverheid.nl
 https://wooincijfers.open-overheid.nl
 https://woordenboek.klimaatadaptatienederland.nl
@@ -4317,6 +4325,7 @@ https://www.werkenvoornederland.nl
 https://www.wetbeschermingklokkenluiders.nl
 https://www.windopzee.nl
 https://www.wkr.nl
+https://www.wodc.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
 https://www2.om.nl
