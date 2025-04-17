@@ -5,9 +5,9 @@ feeds
 a-www
 english
 a-opendata
-a-feeds
 feeds.english
 opendata.english
+a-feeds
 test
 autodiscover
 acc
@@ -61,6 +61,9 @@ loket
 kennisbank
 lyncdiscover
 sharepoint
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 fs
 ns2
 zoeken
@@ -90,9 +93,6 @@ meldingen
 ontwikkel
 pushmail
 geodata
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 academie
 adobe-analytics-dc
 adobe-tags
@@ -4858,3 +4858,6 @@ sign1
 toeslagenanimatie
 toestemming.acc
 www8
+feeds.papiamento
+opendata.papiamento
+papiamento
