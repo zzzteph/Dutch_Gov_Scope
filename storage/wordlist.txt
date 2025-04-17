@@ -74,6 +74,7 @@ apps
 www.mijn
 zaaksysteem-acc
 zaaksysteem
+forms
 inloggen
 kennisbank
 git
@@ -143,7 +144,6 @@ werkenbij
 acc.mijn
 adfs
 e
-forms
 mijn-acc
 geoweb
 wiki
@@ -285,6 +285,7 @@ test.intranet
 extranet
 projects
 nieuwsbrieven
+productie
 leren
 zoekservice
 kgr-acc.mijn
@@ -2604,7 +2605,6 @@ test-machtigen.digipoort
 vault.lpc
 interventies
 prerelease
-productie
 toolkits
 intern
 complaintform

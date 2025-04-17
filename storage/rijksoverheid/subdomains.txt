@@ -2422,6 +2422,7 @@ feeds.sbv-z.nl
 feeds.schoolleidersregisterpo.nl
 feeds.scp.nl
 feeds.socialestabiliteit.nl
+feeds.sodm.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -2475,6 +2476,7 @@ forms.hhdelfland.nl
 forms.iplo.nl
 forms.klopt.cibg.nl
 forms.nvwa.nl
+forms.sodm.nl
 formulier-beheer.dus-i.nl
 formulier.cultureelerfgoed.nl
 formulier.emissieautoriteit.nl
@@ -4458,6 +4460,7 @@ opendata.sbv-z.nl
 opendata.schoolleidersregisterpo.nl
 opendata.scp.nl
 opendata.socialestabiliteit.nl
+opendata.sodm.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
@@ -4795,6 +4798,7 @@ prod.wetten.rvo.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
 productie.loketgezondleven.nl
+productie.sodm.nl
 proeftuin.gf.irealisatie.nl
 proeftuin.uzi-online.irealisatie.nl
 professional.basisinformatie-overstromingen.nl
@@ -5404,6 +5408,7 @@ soap.openbare-inspectieresultaten.nvwa.nl
 social.overheid.nl
 socialestabiliteit.nl
 socialmediamonitor.jeugdconnect.nl
+sodm.nl
 sonar-lts.test.ix.rijkscloud.nl
 sonar.devops.rvb.rijkscloud.nl
 sonar.ix.rijkscloud.nl
@@ -6889,6 +6894,7 @@ www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
 www.slimwatermanagement.nl
 www.socialestabiliteit.nl
+www.sodm.nl
 www.spamtitan.cbi.eu
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
