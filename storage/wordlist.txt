@@ -2,6 +2,7 @@
 www
 opendata
 feeds
+acc
 proto
 www-ac
 www-acc
@@ -33,7 +34,6 @@ plek
 ra
 samenwerken
 securemail
-acc
 loket
 odb-ac
 promtoolbox
