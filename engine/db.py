@@ -14,6 +14,7 @@ class Scope(Base):
     name = Column(String, nullable=False, unique=True)
     type = Column(Enum("domains", "ip_range", name="scope_type"), nullable=False)
     tag = Column(String, nullable=True)
+    scanned = Column(Boolean, default=False)
     created_at = Column(DateTime, default=utc_now)
     updated_at = Column(DateTime, default=utc_now, onupdate=utc_now)
 

@@ -1,8 +1,0 @@
-acc.bcld-config.nl
-bcld-config.nl
-feature-cic-673.dev.bcld-config.nl
-feature-cicd-deployment.dev.bcld-config.nl
-feature-demo-child.dev.bcld-config.nl
-feature-demo-root.dev.bcld-config.nl
-feature-ease-installer.dev.bcld-config.nl
-www.bcld-config.nl
