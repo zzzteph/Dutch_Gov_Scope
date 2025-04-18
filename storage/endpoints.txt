@@ -1,5 +1,6 @@
 http://coalitieakkoord.zuid-holland.nl
 https://aanvragen.zuid-holland.nl
+https://acc.zorginzicht.nl
 https://admin.denkmee.zuid-holland.nl
 https://admin.openstad.zuid-holland.nl
 https://api.denkmee.zuid-holland.nl
@@ -46,6 +47,7 @@ https://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 https://kennis.zuid-holland.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
+https://loket.zorginzicht.nl
 https://lta-acc.zuid-holland.nl
 https://lta-tst.zuid-holland.nl
 https://lta.zuid-holland.nl
@@ -63,6 +65,8 @@ https://planmer-test.zuid-holland.nl
 https://planmer.zuid-holland.nl
 https://planregistratie-wonen.zuid-holland.nl
 https://preprod-belastingen.zuid-holland.nl
+https://promtoolbox.zorginzicht.nl
+https://proto.zorginzicht.nl
 https://redactie.zuid-holland.nl
 https://ro.zuid-holland.nl
 https://ruimtelijkeplannen.zuid-holland.nl
@@ -78,10 +82,13 @@ https://virtueel.zuid-holland.nl
 https://wapenfeiten.zuid-holland.nl
 https://werkenvoor.zuid-holland.nl
 https://windlansingerland.zuid-holland.nl
+https://www-ac.zorginzicht.nl
 https://www.denkmee.zuid-holland.nl
 https://www.openstad.zuid-holland.nl
 https://www.windlansingerland.zuid-holland.nl
+https://www.zorginzicht.nl
 https://www.zuid-holland.nl
 https://zaaksysteem-accept.zuid-holland.nl
 https://zaaksysteem.zuid-holland.nl
+https://zorginzicht.nl
 https://zuid-holland.nl
