@@ -67,6 +67,7 @@ http://blaiseish2.cbs.nl
 http://bpa.rvo.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
+http://bzv-a.brabant.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
@@ -803,7 +804,6 @@ https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvinet.douane.nl
 https://bvs.belastingdienst.nl
-https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://c2000.nl
 https://c3surf.knmi.nl
@@ -1296,7 +1296,6 @@ https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://error-reporting.ndw.nu
 https://esb-a1.brabant.nl
-https://esb-acpt.brabant.nl
 https://esb-ibabs-preprod.flevoland.nl
 https://esb-ibabs.flevoland.nl
 https://esb-p1.brabant.nl
