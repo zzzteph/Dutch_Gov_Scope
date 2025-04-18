@@ -17,7 +17,7 @@ def get_latest_unscanned_or_oldest_scanned():
         latest_unscanned = (
             session.query(Scope)
             .filter(Scope.type == "domains")
-            .order_by(Scope.updated_at.desc())
+            .order_by(Scope.updated_at.asc())
             .first()
     )
 
