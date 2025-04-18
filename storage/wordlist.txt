@@ -2,11 +2,11 @@ www
 
 opendata
 feeds
-english
 a-www
+english
+a-opendata
 feeds.english
 opendata.english
-a-opendata
 a-feeds
 test
 autodiscover
