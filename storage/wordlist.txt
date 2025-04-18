@@ -40,6 +40,7 @@ www-dev
 www-p
 www-tst
 login
+_autodiscover._tcp
 smtp
 ftp
 geoservices
@@ -51,7 +52,6 @@ webservices
 zoeken
 beeldbank
 onderzoek
-_autodiscover._tcp
 apps
 loket
 zaaksysteem
