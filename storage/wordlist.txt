@@ -1235,7 +1235,7 @@ viep.test
 web.test
 broker-preprod
 demo
-doc-acc
+dev
 int
 pre
 sad-acc
@@ -1244,6 +1244,7 @@ sso-acc-tno
 sso-acc1
 sso-acc2
 sso-demo
+sso-demo2
 sso-int
 sso-test
 uptime

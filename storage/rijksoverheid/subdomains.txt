@@ -1858,6 +1858,7 @@ detoekomstbegintnu.brabant.nl
 deutsch.postedworkers.nl
 dev.api-sec.p-direkt.nl
 dev.api.p-direkt.nl
+dev.bronhouderportaal-bro.nl
 dev.cbrnsecurity.nctv.nl
 dev.cerberus.cbs.nl
 dev.fib.ienw.rijkscloud.nl
@@ -1952,7 +1953,6 @@ dns2.dictu.nl
 dns2.overheid.nl
 dnsa3.cbs.nl
 dnsa4.cbs.nl
-doc-acc.bronhouderportaal-bro.nl
 doc.bronhouderportaal-bro.nl
 doc.leefbaarometer.nl
 docs.brba.eu
@@ -6096,6 +6096,7 @@ sso-acc-tno.bronhouderportaal-bro.nl
 sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
+sso-demo2.bronhouderportaal-bro.nl
 sso-int.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
 sso.acc.omgevingswet.overheid.nl
