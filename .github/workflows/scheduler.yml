@@ -102,13 +102,6 @@ jobs:
            mkdir storage
            python engine/publish.py
 
-      - name: Re-publish scope
-        run: python engine/scope_publish.py
-
-
-
-
-
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"

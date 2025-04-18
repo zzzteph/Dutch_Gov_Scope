@@ -23,6 +23,26 @@ def determine_type(entry):
     except ValueError:
         return "domains"
 
+def sync_scope():
+    scopes = session.query(Scope).order_by(Scope.updated_at.asc()).all()
+    
+    for scope in scopes:
+        found=False
+        for file_name in os.listdir(SCOPE_FOLDER):
+            if file_name.endswith(".txt"):
+                tag = os.path.splitext(file_name)[0]
+                file_path = os.path.join(SCOPE_FOLDER, file_name)
+                with open(file_path, "r", encoding="utf-8") as file:
+                    for line in file:
+                        entry = line.strip()
+                        if scope.tag==tag and scope.name==entry:
+                            found=True
+        if not found:
+            session.delete(scope)
+            session.commit()
+                        
+
+
 def process_scope_files():
     """Scans the scope folder, parses .txt files, and adds new scope entries."""
     if not os.path.exists(SCOPE_FOLDER):
@@ -33,7 +53,7 @@ def process_scope_files():
         if file_name.endswith(".txt"):
             tag = os.path.splitext(file_name)[0]
             file_path = os.path.join(SCOPE_FOLDER, file_name)
-
+            
             with open(file_path, "r", encoding="utf-8") as file:
                 for line in file:
                     entry = line.strip()
@@ -62,6 +82,7 @@ def add_scope_entry(name, tag):
 
 
 def main():
+    sync_scope()
     process_scope_files()
     session.commit()
     session.close()
