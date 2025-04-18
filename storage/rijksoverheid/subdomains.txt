@@ -1888,6 +1888,7 @@ dhcp2.gn1.rijkscloud.nl
 dhcp2.gn3.rijkscloud.nl
 dhcp2.rw1.rijkscloud.nl
 dialin.aaenmaas.nl
+dialin.cbg-meb.nl
 dialin.justid.nl
 dialin.om.nl
 dialin.prolander.nl

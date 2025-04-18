@@ -48,6 +48,7 @@ geo
 a-magazines
 www-ow
 www-ts
+dialin
 webservices
 zoeken
 beeldbank
@@ -55,7 +56,6 @@ onderzoek
 apps
 loket
 zaaksysteem
-dialin
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
