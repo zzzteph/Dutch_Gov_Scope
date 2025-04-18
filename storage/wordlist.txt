@@ -1,6 +1,7 @@
 
 www
 opendata
+feeds
 proto
 www-ac
 www-acc
@@ -9,7 +10,6 @@ www-p
 www-tst
 english
 feeds.english
-feeds
 opendata.english
 passwordmanager
 plek
