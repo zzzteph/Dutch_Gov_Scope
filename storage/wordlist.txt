@@ -370,6 +370,8 @@ eovgb
 fbadmin-eopg-acc
 fbadmin-eopg
 outbound-eopg
+sib-eopg-acc
+sib-eopg
 odctest
 www.testdigitalediensten
 zorgenwerknetwerk
