@@ -34,13 +34,13 @@ connect
 data
 meet
 sip
+_autodiscover._tcp
 proto
 www-ac
 www-dev
 www-p
 www-tst
 login
-_autodiscover._tcp
 smtp
 ftp
 geoservices

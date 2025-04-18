@@ -28,6 +28,7 @@ SFS.dictu.nl
 Test-Azure06.dictu.nl
 ZDPushservice.overheid.nl
 _autodiscover._tcp.antennebureau.nl
+_autodiscover._tcp.commissiemijnbouwschade.nl
 _autodiscover._tcp.csirtdsp.nl
 _autodiscover._tcp.dutchncca.nl
 _autodiscover._tcp.gezondeleefomgeving.nl
