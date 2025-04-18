@@ -299,6 +299,7 @@ intranet.belastingdienst.nl
 intratst.belastingdienst.nl
 isamproxyont.ont.belastingdienst.nl
 jong.belastingdienst.nl
+jouw.belastingdienst.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -337,6 +338,7 @@ mailer2.belastingdienst.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 merkportaal.belastingdienst.nl
+mijn-aanvraag.belastingdienst.nl
 mijn-acc1.belastingdienst.nl
 mijn-c1.tst.belastingdienst.nl
 mijn-c2.tst.belastingdienst.nl
@@ -520,6 +522,7 @@ portaal.wifi.belastingdienst.nl
 preprod-kvk.belastingdienst.nl
 presenteren.ont.belastingdienst.nl
 prod-kvk.belastingdienst.nl
+proxy.socint.acc.belastingdienst.nl
 proxy.socint.belastingdienst.nl
 psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl

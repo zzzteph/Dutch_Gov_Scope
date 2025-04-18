@@ -3444,6 +3444,7 @@ jobs.werkenvoornederland.nl
 join.odijmond.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
+jouw.belastingdienst.nl
 jupyter-almalinux.dgdoobi.rijkscloud.nl
 jupyter.abibzk.rijkscloud.nl
 jupyter.acc.rijkscloud.nl
@@ -4024,6 +4025,7 @@ micollabtest.cbs.nl
 microdata.cbs.nl
 microfoonbanden.nl
 mig.cbs.nl
+mijn-aanvraag.belastingdienst.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
 mijn-acc.rdi.nl
@@ -5365,6 +5367,7 @@ proxy-epbd.ep-online.nl
 proxy-lab.rvb.rijkscloud.nl
 proxy.brabant.nl
 proxy.cbs.nl
+proxy.socint.acc.belastingdienst.nl
 proxy.socint.belastingdienst.nl
 prp.svb.nl
 prs-stub.proeftuin.gf.irealisatie.nl
