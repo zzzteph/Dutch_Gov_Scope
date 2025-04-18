@@ -599,6 +599,7 @@ https://archeologie2.zuid-holland.nl
 https://archis.cultureelerfgoed.nl
 https://archisarchief.cultureelerfgoed.nl
 https://argocd-infra.efiling.mijnoctrooi.rvo.nl
+https://argon2.cbs.nl
 https://aris.brabant.nl
 https://artifact-rd1.toegang.overheid.nl
 https://asb.datasluis.dictu.nl
@@ -1794,6 +1795,7 @@ https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
 https://georegister.brabant.nl
 https://georegister.flevoland.nl
+https://geoserver.cbs.nl
 https://geoserver.limburg.nl
 https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
@@ -3339,7 +3341,9 @@ https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
 https://sandbox.werkenvoornederland.nl
 https://sb-dictu.logius.nl
+https://sbi-api.cbs.nl
 https://sbi.cbs.nl
+https://sbi2008.cbs.nl
 https://sbl.limburg.nl
 https://sbv-z.nl
 https://scansys.huurcommissie.nl
@@ -3877,6 +3881,7 @@ https://werkplek.rekenkamer.nl
 https://werkplek.vallei-veluwe.nl
 https://werkplek.vechtstromen.nl
 https://werkplek.waterschaplimburg.nl
+https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://wetbeschermingklokkenluiders.nl

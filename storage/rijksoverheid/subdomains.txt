@@ -824,6 +824,7 @@ apim-icc-a.svb.nl
 apim-icc-t.svb.nl
 apim-icc.svb.nl
 apis.developer.overheid.nl
+apisimplex.cbs.nl
 apitest.rapportage.rijkscloud.nl
 apkl.huisvoorklokkenluiders.nl
 apl-ecaccess-acpt.knmi.nl
@@ -878,6 +879,7 @@ archisarchief.cultureelerfgoed.nl
 argocd-infra-edu.efiling.mijnoctrooi.rvo.nl
 argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl
 argocd-infra.efiling.mijnoctrooi.rvo.nl
+argon2.cbs.nl
 aris.brabant.nl
 artifact-acc.rd.dictu.nl
 artifact-fibb1.belastingdienst.nl
@@ -2752,6 +2754,7 @@ fmhaaglanden.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 focus.jitsi.rijkscloud.nl
+fonts.cbs.nl
 forensicinstitute.nl
 forensischezorg.nl
 forensischinstituut.nl
@@ -2866,6 +2869,7 @@ gebruikersportaal.preproductie.digipoort.logius.nl
 gebruikersportaalt.belastingdienst.nl
 gebruikregistratie-acc.inspectieview.nl
 gebruikregistratie.inspectieview.nl
+gecko.cbs.nl
 gegevensbijbesluiten.overheid.nl
 gegevensdelen.acc.mijn.overheid.nl
 gegevensdelen.acc.picard.mijn.overheid.nl
@@ -2937,6 +2941,7 @@ georegister-intern.flevoland.nl
 georegister.brabant.nl
 georegister.flevoland.nl
 geoserver.brabant.nl
+geoserver.cbs.nl
 geoserver.limburg.nl
 geoservertest.brabant.nl
 geoservices.cbs.nl
@@ -3062,6 +3067,7 @@ grondwaterportaal-a.hhdelfland.nl
 grondwaterportaal.hhdelfland.nl
 grondwaterstand.brabant.nl
 gsa-rest-test.belastingdienst.nl
+gslb.cbs.nl
 gtmb.belastingdienst.nl
 gtmb.str10.acc.belastingdienst.nl
 gtmb.str10.tst.belastingdienst.nl
@@ -3922,6 +3928,7 @@ mailrelay2.overheid.nl
 mailrelayh3.cbs.nl
 mailrelayh4.cbs.nl
 mailrelayh5.cbs.nl
+mailrelayh6.cbs.nl
 mailserver.service.nvwa.nl
 mam.ctgb.nl
 mam.justid.nl
@@ -5837,7 +5844,9 @@ sbc-prd-b-tenant01.ssc-ict.nl
 sbc-prd-b-tenant02.dwrt2.ssc-ict.nl
 sbc-prd-b-tenant03.dwrt3.ssc-ict.nl
 sbc-prd-b-tenant04.dwrt4.ssc-ict.nl
+sbi-api.cbs.nl
 sbi.cbs.nl
+sbi2008.cbs.nl
 sbl.limburg.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
 sbv-z.nl
@@ -7046,6 +7055,7 @@ werkplek.rekenkamer.nl
 werkplek.vallei-veluwe.nl
 werkplek.vechtstromen.nl
 werkplek.waterschaplimburg.nl
+werkplekom.cbs.nl
 werkpleksso.cbs.nl
 werkplektest.cbs.nl
 wetbeschermingklokkenluiders.nl

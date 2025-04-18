@@ -18,6 +18,7 @@ https://adc7.cbs.nl
 https://afasmail.cbs.nl
 https://afspraken.cbs.nl
 https://antwoord.cbs.nl
+https://argon2.cbs.nl
 https://azwstatline.cbs.nl
 https://beeldbank-beheer.cbs.nl
 https://beeldbank.cbs.nl
@@ -52,6 +53,7 @@ https://egain-com.cbs.nl
 https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
 https://geodata.cbs.nl
+https://geoserver.cbs.nl
 https://geoservices.cbs.nl
 https://good.cbs.nl
 https://helpmee.cbs.nl
@@ -104,7 +106,9 @@ https://redactie.cbs.nl
 https://research.cbs.nl
 https://rgs.cbs.nl
 https://rivmopendata.cbs.nl
+https://sbi-api.cbs.nl
 https://sbi.cbs.nl
+https://sbi2008.cbs.nl
 https://sdmx.cbs.nl
 https://smartsurveys.cbs.nl
 https://statline.cbs.nl
@@ -124,6 +128,7 @@ https://vocabs.cbs.nl
 https://webserver.cbs.nl
 https://welkombij.cbs.nl
 https://werkplek.cbs.nl
+https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://www-acc.cbs.nl

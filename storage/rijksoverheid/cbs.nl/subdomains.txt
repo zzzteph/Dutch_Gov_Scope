@@ -15,6 +15,8 @@ afasmail.cbs.nl
 afspraken.cbs.nl
 amunet.cbs.nl
 antwoord.cbs.nl
+apisimplex.cbs.nl
+argon2.cbs.nl
 autodiscover.cbs.nl
 azwstatline.cbs.nl
 beeldbank-beheer.cbs.nl
@@ -59,13 +61,17 @@ download.cbs.nl
 ebms.cbs.nl
 egain-com.cbs.nl
 eu2016.cbs.nl
+fonts.cbs.nl
 ftp.cbs.nl
 ftpblaise.cbs.nl
 fubecasper.cbs.nl
+gecko.cbs.nl
 geodata.cbs.nl
+geoserver.cbs.nl
 geoservices.cbs.nl
 geoservices2.cbs.nl
 good.cbs.nl
+gslb.cbs.nl
 helpmee.cbs.nl
 highcharts-acc.cbs.nl
 highcharts-test.cbs.nl
@@ -95,6 +101,7 @@ mail.dev.cbs.nl
 mailrelayh3.cbs.nl
 mailrelayh4.cbs.nl
 mailrelayh5.cbs.nl
+mailrelayh6.cbs.nl
 matchingsapp.cbs.nl
 mbg.cbs.nl
 mediaportal.cbs.nl
@@ -134,7 +141,9 @@ research.cbs.nl
 revproxy.cbs.nl
 rgs.cbs.nl
 rivmopendata.cbs.nl
+sbi-api.cbs.nl
 sbi.cbs.nl
+sbi2008.cbs.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
 sdmx-dataviewer.cbs.nl
@@ -171,6 +180,7 @@ vpn2.cbs.nl
 webserver.cbs.nl
 welkombij.cbs.nl
 werkplek.cbs.nl
+werkplekom.cbs.nl
 werkpleksso.cbs.nl
 werkplektest.cbs.nl
 www-acc.cbs.nl

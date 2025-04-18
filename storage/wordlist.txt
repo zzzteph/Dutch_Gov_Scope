@@ -124,6 +124,7 @@ acceptatie.webservices
 acceptatie.zoeken
 connect-with
 esb
+geoserver
 id
 ondertekenen
 publicaties
@@ -218,7 +219,6 @@ acs
 beeldbank-bo
 dataportaal
 georegister
-geoserver
 nieuws
 osb
 proxy
@@ -1281,6 +1281,8 @@ adc7
 afasmail
 amunet
 antwoord
+apisimplex
+argon2
 azwstatline
 beeldbank-beheer
 beo
@@ -1314,10 +1316,13 @@ dossierportal
 ebms
 egain-com
 eu2016
+fonts
 ftpblaise
 fubecasper
+gecko
 geoservices2
 good
+gslb
 helpmee
 highcharts-acc
 highcharts-test
@@ -1346,6 +1351,7 @@ mail.dev
 mailrelayh3
 mailrelayh4
 mailrelayh5
+mailrelayh6
 matchingsapp
 mbg
 mediaportal
@@ -1375,7 +1381,9 @@ research
 revproxy
 rgs
 rivmopendata
+sbi-api
 sbi
+sbi2008
 sdmx-api-beta
 sdmx-dataexplorer-beta
 sdmx-dataviewer
@@ -1405,6 +1413,7 @@ vocabs
 vpn1
 webserver
 welkombij
+werkplekom
 werkpleksso
 werkplektest
 www.databestanden
