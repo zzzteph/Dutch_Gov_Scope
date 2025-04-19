@@ -19,6 +19,7 @@ admin.openstad.zuid-holland.nl
 adviescollegeicttoetsing.nl
 adviescollegeregeldruk.nl
 adviescollegeveiligheidgroningen.nl
+adviesraadinternationalevraagstukken.nl
 api.denkmee.zuid-holland.nl
 api.openstad.zuid-holland.nl
 archeologie.zuid-holland.nl
@@ -58,6 +59,7 @@ feeds.adviescollegeicttoetsing.nl
 feeds.adviescollegeregeldruk.nl
 feeds.adviescollegeveiligheidgroningen.nl
 feeds.adviescommissievolkenrecht.nl
+feeds.adviesraadinternationalevraagstukken.nl
 feeds.english.zorginstituutnederland.nl
 feeds.zorginstituutnederland.nl
 forms.zuid-holland.nl
@@ -110,6 +112,7 @@ opendata.adviescollegeicttoetsing.nl
 opendata.adviescollegeregeldruk.nl
 opendata.adviescollegeveiligheidgroningen.nl
 opendata.adviescommissievolkenrecht.nl
+opendata.adviesraadinternationalevraagstukken.nl
 opendata.english.zorginstituutnederland.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -185,6 +188,7 @@ www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
 www.adviescollegeveiligheidgroningen.nl
 www.adviescommissievolkenrecht.nl
+www.adviesraadinternationalevraagstukken.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.windlansingerland.zuid-holland.nl
