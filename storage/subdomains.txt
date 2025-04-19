@@ -62,6 +62,7 @@ acc.bcld-config.nl
 acc.bestandenpostbus.nl
 acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
+acc.cbi.eu
 acc.zorginzicht.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
@@ -162,6 +163,7 @@ autodiscover.aaenmaas.nl
 autodiscover.awti.nl
 autodiscover.beschermdecultuurgoederen.nl
 autodiscover.brabant.nl
+autodiscover.cbi.eu
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -336,6 +338,7 @@ captiveportal.belastingdienst.nl
 catshuis.nl
 cbg-meb.nl
 cbgjaarverslag.nl
+cbi.eu
 cciwebstats.belastingdienst.nl
 ccn2.belastingdienst.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
@@ -366,6 +369,9 @@ cpapps.belastingdienst.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
 cptst.vcdn.belastingdienst.nl
+crm.cbi.eu
+crmacc.cbi.eu
+crmtest.cbi.eu
 css.openstad.zuid-holland.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
@@ -417,6 +423,7 @@ eavgb-acc.aivd.nl
 eavgb.aivd.nl
 efm.belastingdienst.nl
 eladownload.belastingdienst.nl
+elearning.cbi.eu
 eloket.aaenmaas.nl
 email.brabant.nl
 emm.belastingdienst.nl
@@ -739,6 +746,7 @@ mail.bodemvizier.nl
 mail.bofeb.nl
 mail.bureauwsnp.nl
 mail.cbg-meb.nl
+mail.cbi.eu
 mail240.brabant.nl
 mail241.brabant.nl
 mailer1.belastingdienst.nl
@@ -1138,6 +1146,7 @@ smtp82.belastingdienst.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 sp.zorginzicht.nl
+spamtitan.cbi.eu
 specials-acpt.brabant.nl
 specials.brabant.nl
 splunksyslog.dmz.belastingdienst.nl
@@ -1181,6 +1190,7 @@ test.bodemloket.nl
 test.bromonitor.nl
 test.bronhouderportaal-bro.nl
 test.caelus-tool.nl
+test.cbi.eu
 test.resultaten.arbeidsinspectie.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
@@ -1198,6 +1208,7 @@ toestemming.belastingdienst.nl
 torenvalk.brabant.nl
 tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
+ts.cbi.eu
 uptime.bureauwbtv.nl
 uzi.acc.brba.nl
 uzi.brba.nl
@@ -1487,6 +1498,7 @@ www.caorijk.nl
 www.catshuis.nl
 www.cbg-meb.nl
 www.cbgjaarverslag.nl
+www.cbi.eu
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
@@ -1496,6 +1508,7 @@ www.opendata.brabant.nl
 www.openstad.zuid-holland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
+www.spamtitan.cbi.eu
 www.testdigitalediensten.arbeidsinspectie.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl

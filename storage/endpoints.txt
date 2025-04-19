@@ -52,6 +52,7 @@ https://acc.bcld-config.nl
 https://acc.bestandenpostbus.nl
 https://acc.bromonitor.nl
 https://acc.bronhouderportaal-bro.nl
+https://acc.cbi.eu
 https://acc.zorginzicht.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
@@ -194,6 +195,7 @@ https://caorijk.nl
 https://catshuis.nl
 https://cbg-meb.nl
 https://cbgjaarverslag.nl
+https://cbi.eu
 https://cciwebstats.belastingdienst.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://chw.aandeslagmetdeomgevingswet.nl
@@ -208,6 +210,9 @@ https://connectpeoplereg.belastingdienst.nl
 https://corsa-acpt.brabant.nl
 https://corsa.brabant.nl
 https://corsa2023.brabant.nl
+https://crm.cbi.eu
+https://crmacc.cbi.eu
+https://crmtest.cbi.eu
 https://css.openstad.zuid-holland.nl
 https://data.zuid-holland.nl
 https://dataloket.zuid-holland.nl
@@ -524,6 +529,7 @@ https://subsidieregister.zuid-holland.nl
 https://tea.bigregister.nl
 https://test.belastingdienst-cn.nl
 https://test.bromonitor.nl
+https://test.cbi.eu
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
 https://thesaurus.zuid-holland.nl
@@ -665,6 +671,7 @@ https://www.caorijk.nl
 https://www.catshuis.nl
 https://www.cbg-meb.nl
 https://www.cbgjaarverslag.nl
+https://www.cbi.eu
 https://www.dataportaal.brabant.nl
 https://www.denkmee.zuid-holland.nl
 https://www.openstad.zuid-holland.nl
