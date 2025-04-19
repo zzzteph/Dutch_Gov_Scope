@@ -29,6 +29,9 @@ webmail
 chw
 web01
 wms
+a-feeds
+a-opendata
+a-www
 english
 feeds.english
 opendata.english
