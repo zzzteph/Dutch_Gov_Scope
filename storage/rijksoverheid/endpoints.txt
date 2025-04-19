@@ -57,9 +57,11 @@ https://atlasnatuurlijkkapitaal.nl
 https://auditdienstrijk.nl
 https://auth.denkmee.zuid-holland.nl
 https://auth.openstad.zuid-holland.nl
+https://autodiscover.awti.nl
 https://autoriteitnvs.nl
 https://avghelpdeskzorg.nl
 https://avgregisterrijksoverheid.nl
+https://awti.nl
 https://b-acc.asbestvolgsysteem.nl
 https://beeldarchief.zuid-holland.nl
 https://beeldarchiefbeheer.zuid-holland.nl
@@ -116,6 +118,7 @@ https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
+https://feeds.awti.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.zorginstituutnederland.nl
@@ -188,6 +191,7 @@ https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
+https://opendata.awti.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.zorginstituutnederland.nl
@@ -205,6 +209,7 @@ https://prod.asbestvolgsysteem.nl
 https://promtoolbox.zorginzicht.nl
 https://proto.zorginstituutnederland.nl
 https://proto.zorginzicht.nl
+https://pushmail.awti.nl
 https://redactie.zuid-holland.nl
 https://ro.zuid-holland.nl
 https://ruimtelijkeplannen.zuid-holland.nl
@@ -213,6 +218,8 @@ https://securemail.zorginstituutnederland.nl
 https://sib-eopg-acc.aivd.nl
 https://sib-eopg.aivd.nl
 https://slimmerreizen.zuid-holland.nl
+https://smtp.awti.nl
+https://smtp1.awti.nl
 https://staatvan.zuid-holland.nl
 https://staten.zuid-holland.nl
 https://subsidieportaal.zuid-holland.nl
@@ -278,6 +285,7 @@ https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
+https://www.awti.nl
 https://www.denkmee.zuid-holland.nl
 https://www.openstad.zuid-holland.nl
 https://www.windlansingerland.zuid-holland.nl

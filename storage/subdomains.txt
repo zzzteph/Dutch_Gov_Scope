@@ -79,10 +79,12 @@ auditdienstrijk.nl
 auth.denkmee.zuid-holland.nl
 auth.openstad.zuid-holland.nl
 autodiscover.aaenmaas.nl
+autodiscover.awti.nl
 autoriteitnvs.nl
 av.aaenmaas.nl
 avghelpdeskzorg.nl
 avgregisterrijksoverheid.nl
+awti.nl
 b-acc.asbestvolgsysteem.nl
 beeldarchief.zuid-holland.nl
 beeldarchiefbeheer.zuid-holland.nl
@@ -142,6 +144,7 @@ feeds.atkm.nl
 feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
+feeds.awti.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.zorginstituutnederland.nl
@@ -219,6 +222,7 @@ opendata.atkm.nl
 opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
+opendata.awti.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.zorginstituutnederland.nl
@@ -238,7 +242,9 @@ prod.asbestvolgsysteem.nl
 promtoolbox.zorginzicht.nl
 proto.zorginstituutnederland.nl
 proto.zorginzicht.nl
+pushmail.awti.nl
 ra.zorginstituutnederland.nl
+rdgateway.awti.nl
 redactie.zuid-holland.nl
 rivm.atlasleefomgeving.nl
 ro.zuid-holland.nl
@@ -249,6 +255,8 @@ sib-eopg-acc.aivd.nl
 sib-eopg.aivd.nl
 sip.aaenmaas.nl
 slimmerreizen.zuid-holland.nl
+smtp.awti.nl
+smtp1.awti.nl
 sp.zorginzicht.nl
 staatvan.zuid-holland.nl
 staten.zuid-holland.nl
@@ -335,6 +343,7 @@ www.auditdienstrijk.nl
 www.autoriteitnvs.nl
 www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
+www.awti.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.testdigitalediensten.arbeidsinspectie.nl

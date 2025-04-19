@@ -10,6 +10,7 @@ english
 feeds.english
 opendata.english
 test
+autodiscover
 a-english
 a-feeds.a-english
 a-opendata.a-english
@@ -21,7 +22,6 @@ www-acc
 www-dev
 www-p
 www-tst
-autodiscover
 av
 dialin
 eloket
@@ -62,6 +62,10 @@ feedback
 meldingen
 prd
 rivm
+pushmail
+rdgateway
+smtp
+smtp1
 passwordmanager
 plek
 ra
