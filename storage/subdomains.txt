@@ -309,6 +309,7 @@ bureaubiosecurity.nl
 bureauncdr.nl
 bureausaneringverkeerslawaai.nl
 bureauwbtv.nl
+bureauwsnp.nl
 bvs.belastingdienst.nl
 bzv-a.brabant.nl
 bzv.brabant.nl
@@ -704,6 +705,7 @@ mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.bodemvizier.nl
 mail.bofeb.nl
+mail.bureauwsnp.nl
 mail240.brabant.nl
 mail241.brabant.nl
 mailer1.belastingdienst.nl
@@ -1299,6 +1301,8 @@ wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
 windlansingerland.zuid-holland.nl
 wms.aanpakringzuid.nl
+ws-acc.bureauwsnp.nl
+ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
 wus-encryptie.acc.belastingdienst.nl
@@ -1423,10 +1427,12 @@ www.bureaubiosecurity.nl
 www.bureauncdr.nl
 www.bureausaneringverkeerslawaai.nl
 www.bureauwbtv.nl
+www.bureauwsnp.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
 www.kaarten.brabant.nl
+www.mail.bureauwsnp.nl
 www.opendata.brabant.nl
 www.openstad.zuid-holland.nl
 www.sharepoint-conf.belastingdienst.nl

@@ -17,6 +17,7 @@ a-feeds.a-english
 a-opendata.a-english
 acceptatie
 api
+mail
 webmail
 ontwikkel
 smtp1
@@ -28,7 +29,6 @@ ns4
 vpn
 webservices
 zoeken
-mail
 atlas
 beeldbank
 geoportaal
@@ -1029,6 +1029,9 @@ sso
 uptime
 www.zoekeentolkvertaler
 zoekeentolkvertaler
+ws-acc
+ws
+www.mail
 passwordmanager
 plek
 ra
