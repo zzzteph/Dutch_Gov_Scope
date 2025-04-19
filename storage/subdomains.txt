@@ -45,6 +45,7 @@ acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
 acc.avgregisterrijksoverheid.nl
 acc.bcld-config.nl
+acc.bestandenpostbus.nl
 acc.zorginzicht.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
@@ -185,6 +186,7 @@ benchmarkenindepubliekesector.nl
 beoordelingarbeidsrelatie.nl
 beoordelingscommissiedopingzaken.nl
 beschermdecultuurgoederen.nl
+bestandenpostbus.nl
 beta.belastingdienst.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
@@ -198,6 +200,9 @@ betalen.str13.acc.belastingdienst.nl
 betalen.str14.acc.belastingdienst.nl
 betalen.str30.acc.belastingdienst.nl
 beterwordenvancorona.zuid-holland.nl
+bewerken-acc.bestandenpostbus.nl
+bewerken-test.bestandenpostbus.nl
+bewerken.bestandenpostbus.nl
 bezet.belastingdienst.nl
 bezwaar.atkm.nl
 bideo.belastingdienst.nl
@@ -233,6 +238,7 @@ circulair.zuid-holland.nl
 cms.beeldkompas.nl
 cms.denkmee.zuid-holland.nl
 coalitieakkoord.zuid-holland.nl
+collabora.poc1.bestandenpostbus.nl
 communicatie.zuid-holland.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
@@ -790,6 +796,8 @@ pm8.belastingdienst.nl
 pm9.belastingdienst.nl
 pmc.belastingdienst.nl
 pmm.belastingdienst.nl
+poc.bestandenpostbus.nl
+poc1.bestandenpostbus.nl
 portaal.acc.belastingdienst.nl
 portaal.belastingdienst.nl
 portaal.tst.belastingdienst.nl
@@ -908,6 +916,7 @@ test.antennebureau.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
 test.belastingdienst-cn.nl
+test.bestandenpostbus.nl
 test.resultaten.arbeidsinspectie.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
@@ -1149,6 +1158,7 @@ www.benchmarkenindepubliekesector.nl
 www.beoordelingarbeidsrelatie.nl
 www.beoordelingscommissiedopingzaken.nl
 www.beschermdecultuurgoederen.nl
+www.bestandenpostbus.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
 www.openstad.zuid-holland.nl
