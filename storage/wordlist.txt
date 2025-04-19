@@ -11,10 +11,10 @@ english
 feeds.english
 opendata.english
 autodiscover
+acceptatie
 mijn
 mail
 a-english
-acceptatie
 a-feeds.a-english
 a-opendata.a-english
 api
@@ -1297,6 +1297,7 @@ uzipas.lir
 webchat.klopt
 webservices.lrza
 www2.zorgcsp
+www.acceptatie
 passwordmanager
 plek
 ra
