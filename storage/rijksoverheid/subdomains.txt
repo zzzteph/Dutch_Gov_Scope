@@ -1,5 +1,6 @@
 100aardgasvrijewijken.nl
 _autodiscover._tcp.belastingdienst-cn.nl
+_autodiscover._tcp.ceg.nl
 a-english.aivd.nl
 a-english.autoriteitnvs.nl
 a-english.bigregister.nl
@@ -380,6 +381,7 @@ cciwebstats.belastingdienst.nl
 ccmo.nl
 ccn2.belastingdienst.nl
 cdn.cbs.nl
+ceg.nl
 censushub.cbs.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl
@@ -592,6 +594,7 @@ feeds.campagnetoolkits.nl
 feeds.caorijk.nl
 feeds.cbg-meb.nl
 feeds.ccmo.nl
+feeds.ceg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1091,6 +1094,7 @@ opendata.caorijk.nl
 opendata.cbg-meb.nl
 opendata.cbs.nl
 opendata.ccmo.nl
+opendata.ceg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1694,6 +1698,7 @@ www.cbgjaarverslag.nl
 www.cbi.eu
 www.cbs.nl
 www.ccmo.nl
+www.ceg.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl

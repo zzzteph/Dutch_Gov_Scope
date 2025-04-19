@@ -32,6 +32,7 @@ vpn2
 webmail
 smtp1
 cms
+_autodiscover._tcp
 afspraken
 beta
 download
@@ -103,7 +104,6 @@ feature-demo-child.dev
 feature-demo-root.dev
 feature-ease-installer.dev
 wadsup
-_autodiscover._tcp
 asycuda
 feeds.papiamentu
 opendata.papiamentu
