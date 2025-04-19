@@ -21,6 +21,7 @@ webmail
 ontwikkel
 smtp1
 geodata
+cms
 govroam
 ns3
 ns4
@@ -90,7 +91,6 @@ feature-cicd-deployment.dev
 feature-demo-child.dev
 feature-demo-root.dev
 feature-ease-installer.dev
-cms
 wadsup
 _autodiscover._tcp
 asycuda
