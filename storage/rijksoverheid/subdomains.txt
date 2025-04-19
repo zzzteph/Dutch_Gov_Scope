@@ -3,11 +3,14 @@ a-english.aivd.nl
 a-feeds.a-english.aivd.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
+a-feeds.antennebureau.nl
 a-opendata.a-english.aivd.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
+a-opendata.antennebureau.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
+a-www.antennebureau.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -42,6 +45,7 @@ allesoverbiologisch.nl
 ambassadeursconferentie.nl
 ambtelijkerechtspositie.nl
 animalfreeinnovationtpi.nl
+antennebureau.nl
 api.denkmee.zuid-holland.nl
 api.openstad.zuid-holland.nl
 archeologie.zuid-holland.nl
@@ -98,6 +102,7 @@ feeds.aivd.nl
 feeds.algemenebestuursdienst.nl
 feeds.allesoverbiologisch.nl
 feeds.animalfreeinnovationtpi.nl
+feeds.antennebureau.nl
 feeds.english.aivd.nl
 feeds.english.zorginstituutnederland.nl
 feeds.zorginstituutnederland.nl
@@ -162,6 +167,7 @@ opendata.aivd.nl
 opendata.algemenebestuursdienst.nl
 opendata.allesoverbiologisch.nl
 opendata.animalfreeinnovationtpi.nl
+opendata.antennebureau.nl
 opendata.english.aivd.nl
 opendata.english.zorginstituutnederland.nl
 opendata.zorginstituutnederland.nl
@@ -193,6 +199,7 @@ staatvan.zuid-holland.nl
 staten.zuid-holland.nl
 subsidieportaal.zuid-holland.nl
 subsidieregister.zuid-holland.nl
+test.antennebureau.nl
 testeloket.aaenmaas.nl
 thesaurus.zuid-holland.nl
 toekomstscenarios.zuid-holland.nl
@@ -255,6 +262,7 @@ www.allesoverbiologisch.nl
 www.ambassadeursconferentie.nl
 www.ambtelijkerechtspositie.nl
 www.animalfreeinnovationtpi.nl
+www.antennebureau.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.windlansingerland.zuid-holland.nl
