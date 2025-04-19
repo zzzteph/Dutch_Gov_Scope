@@ -47,6 +47,7 @@ fbadmin-eopg
 outbound-eopg
 sib-eopg-acc
 sib-eopg
+magazines
 passwordmanager
 plek
 ra
