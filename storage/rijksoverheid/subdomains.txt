@@ -397,6 +397,7 @@ centraalexamenvwo.nl
 centrale-eindtoets-po.nl
 centralecommissiedierproeven.nl
 cerberus.cbs.nl
+cert.nl
 cert.test2gbav.belastingdienst.nl
 chat.cbs.nl
 chw.aandeslagmetdeomgevingswet.nl
@@ -607,6 +608,7 @@ feeds.cbg-meb.nl
 feeds.ccmo.nl
 feeds.ceg.nl
 feeds.centralecommissiedierproeven.nl
+feeds.cert.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1108,6 +1110,7 @@ opendata.cbs.nl
 opendata.ccmo.nl
 opendata.ceg.nl
 opendata.centralecommissiedierproeven.nl
+opendata.cert.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1719,6 +1722,7 @@ www.centraalexamenvmbo.nl
 www.centraalexamenvo.nl
 www.centraalexamenvwo.nl
 www.centralecommissiedierproeven.nl
+www.cert.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
