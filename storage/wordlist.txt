@@ -16,6 +16,7 @@ a-feeds.a-english
 a-opendata.a-english
 acceptatie
 ontwikkel
+geodata
 proto
 www-ac
 www-acc
@@ -66,6 +67,10 @@ pushmail
 rdgateway
 smtp
 smtp1
+dataservice
+professional
+profgeodata.dynamic
+profgeodata.static
 passwordmanager
 plek
 ra
@@ -115,7 +120,6 @@ geo-stats
 geo-test
 geo-tools
 geo
-geodata
 geoportaal
 geoservices
 icdesk

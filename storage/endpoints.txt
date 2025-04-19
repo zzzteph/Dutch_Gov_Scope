@@ -65,6 +65,7 @@ https://avghelpdeskzorg.nl
 https://avgregisterrijksoverheid.nl
 https://awti.nl
 https://b-acc.asbestvolgsysteem.nl
+https://basisinformatie-overstromingen.nl
 https://beeldarchief.zuid-holland.nl
 https://beeldarchiefbeheer.zuid-holland.nl
 https://beeldbank.zuid-holland.nl
@@ -79,6 +80,7 @@ https://communicatie.zuid-holland.nl
 https://css.openstad.zuid-holland.nl
 https://data.zuid-holland.nl
 https://dataloket.zuid-holland.nl
+https://dataservice.basisinformatie-overstromingen.nl
 https://denkmee.zuid-holland.nl
 https://denkmeemet.zuid-holland.nl
 https://dialin.aaenmaas.nl
@@ -131,6 +133,7 @@ https://geo-fms.zuid-holland.nl
 https://geo-stats.zuid-holland.nl
 https://geo-tools.zuid-holland.nl
 https://geo.zuid-holland.nl
+https://geodata.basisinformatie-overstromingen.nl
 https://geodata.zuid-holland.nl
 https://geoportaal.zuid-holland.nl
 https://geoservices.zuid-holland.nl
@@ -208,6 +211,9 @@ https://plek.zorginstituutnederland.nl
 https://prd.atlasleefomgeving.nl
 https://preprod-belastingen.zuid-holland.nl
 https://prod.asbestvolgsysteem.nl
+https://professional.basisinformatie-overstromingen.nl
+https://profgeodata.dynamic.basisinformatie-overstromingen.nl
+https://profgeodata.static.basisinformatie-overstromingen.nl
 https://promtoolbox.zorginzicht.nl
 https://proto.zorginstituutnederland.nl
 https://proto.zorginzicht.nl
@@ -288,6 +294,7 @@ https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
 https://www.awti.nl
+https://www.basisinformatie-overstromingen.nl
 https://www.denkmee.zuid-holland.nl
 https://www.openstad.zuid-holland.nl
 https://www.windlansingerland.zuid-holland.nl
