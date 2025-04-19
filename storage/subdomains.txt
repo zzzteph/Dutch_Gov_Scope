@@ -18,6 +18,7 @@ a-feeds.autoriteitnvs.nl
 a-feeds.avghelpdeskzorg.nl
 a-feeds.bigregister.nl
 a-feeds.cbg-meb.nl
+a-feeds.centralecommissiedierproeven.nl
 a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
@@ -30,6 +31,7 @@ a-opendata.autoriteitnvs.nl
 a-opendata.avghelpdeskzorg.nl
 a-opendata.bigregister.nl
 a-opendata.cbg-meb.nl
+a-opendata.centralecommissiedierproeven.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.antennebureau.nl
@@ -39,6 +41,7 @@ a-www.avghelpdeskzorg.nl
 a-www.bigregister.nl
 a-www.cbg-meb.nl
 a-www.cbgjaarverslag.nl
+a-www.centralecommissiedierproeven.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -392,6 +395,7 @@ centraalexamenvmbo.nl
 centraalexamenvo.nl
 centraalexamenvwo.nl
 centrale-eindtoets-po.nl
+centralecommissiedierproeven.nl
 cerberus.cbs.nl
 cert.test2gbav.belastingdienst.nl
 chat.cbs.nl
@@ -602,6 +606,7 @@ feeds.caorijk.nl
 feeds.cbg-meb.nl
 feeds.ccmo.nl
 feeds.ceg.nl
+feeds.centralecommissiedierproeven.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1102,6 +1107,7 @@ opendata.cbg-meb.nl
 opendata.cbs.nl
 opendata.ccmo.nl
 opendata.ceg.nl
+opendata.centralecommissiedierproeven.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1712,6 +1718,7 @@ www.centraalexamenmbo.nl
 www.centraalexamenvmbo.nl
 www.centraalexamenvo.nl
 www.centraalexamenvwo.nl
+www.centralecommissiedierproeven.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
