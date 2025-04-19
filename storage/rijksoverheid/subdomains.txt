@@ -12,11 +12,13 @@ aboutnetherlandscustoms.nl
 academievoorinternationalebetrekkingen.nl
 academyforinternationalrelations.nl
 acc.aanbiedersmedicijnen.nl
+acc.adviescollegeveiligheidgroningen.nl
 acc.zorginzicht.nl
 admin.denkmee.zuid-holland.nl
 admin.openstad.zuid-holland.nl
 adviescollegeicttoetsing.nl
 adviescollegeregeldruk.nl
+adviescollegeveiligheidgroningen.nl
 api.denkmee.zuid-holland.nl
 api.openstad.zuid-holland.nl
 archeologie.zuid-holland.nl
@@ -54,6 +56,7 @@ feeds.academievoorinternationalebetrekkingen.nl
 feeds.academyforinternationalrelations.nl
 feeds.adviescollegeicttoetsing.nl
 feeds.adviescollegeregeldruk.nl
+feeds.adviescollegeveiligheidgroningen.nl
 feeds.english.zorginstituutnederland.nl
 feeds.zorginstituutnederland.nl
 forms.zuid-holland.nl
@@ -104,6 +107,7 @@ opendata.academievoorinternationalebetrekkingen.nl
 opendata.academyforinternationalrelations.nl
 opendata.adviescollegeicttoetsing.nl
 opendata.adviescollegeregeldruk.nl
+opendata.adviescollegeveiligheidgroningen.nl
 opendata.english.zorginstituutnederland.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -177,6 +181,7 @@ www.academievoorinternationalebetrekkingen.nl
 www.academyforinternationalrelations.nl
 www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
+www.adviescollegeveiligheidgroningen.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.windlansingerland.zuid-holland.nl
