@@ -30,6 +30,7 @@ acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
 acc.zorginzicht.nl
 acceptatie.atlasleefomgeving.nl
+acceptatie.atlasnatuurlijkkapitaal.nl
 admin.denkmee.zuid-holland.nl
 admin.openstad.zuid-holland.nl
 adviescollegeicttoetsing.nl
@@ -63,6 +64,7 @@ atkm.nl
 atlas.zuid-holland.nl
 atlasinfectieziekten.nl
 atlasleefomgeving.nl
+atlasnatuurlijkkapitaal.nl
 auth.denkmee.zuid-holland.nl
 auth.openstad.zuid-holland.nl
 autodiscover.aaenmaas.nl
@@ -170,6 +172,7 @@ odctest.arbeidsinspectie.nl
 omgevingsbeleid.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
 ontwikkel.atlasleefomgeving.nl
+ontwikkel.atlasnatuurlijkkapitaal.nl
 opendata.a2vonderenkerensheide.nl
 opendata.aanbiedersmedicijnen.nl
 opendata.aboutnetherlandscustoms.nl
@@ -230,6 +233,7 @@ subsidieportaal.zuid-holland.nl
 subsidieregister.zuid-holland.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
+test.atlasnatuurlijkkapitaal.nl
 test.resultaten.arbeidsinspectie.nl
 testeloket.aaenmaas.nl
 thesaurus.zuid-holland.nl
@@ -303,6 +307,7 @@ www.asbestvrijdak.nl
 www.atkm.nl
 www.atlasinfectieziekten.nl
 www.atlasleefomgeving.nl
+www.atlasnatuurlijkkapitaal.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.testdigitalediensten.arbeidsinspectie.nl

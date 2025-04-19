@@ -6,10 +6,12 @@ a-feeds
 a-opendata
 a-www
 acc
+test
 english
 feeds.english
 opendata.english
-test
+acceptatie
+ontwikkel
 proto
 www-ac
 www-acc
@@ -58,8 +60,6 @@ prod
 bezwaar
 feedback
 meldingen
-acceptatie
-ontwikkel
 prd
 rivm
 passwordmanager
