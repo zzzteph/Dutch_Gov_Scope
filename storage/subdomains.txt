@@ -1,7 +1,13 @@
 100aardgasvrijewijken.nl
+a-english.aivd.nl
+a-feeds.a-english.aivd.nl
 a-feeds.agroberichtenbuitenland.nl
+a-feeds.aivd.nl
+a-opendata.a-english.aivd.nl
 a-opendata.agroberichtenbuitenland.nl
+a-opendata.aivd.nl
 a-www.agroberichtenbuitenland.nl
+a-www.aivd.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -29,6 +35,7 @@ advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
 agressievrijwerken.nl
 agroberichtenbuitenland.nl
+aivd.nl
 api.denkmee.zuid-holland.nl
 api.openstad.zuid-holland.nl
 archeologie.zuid-holland.nl
@@ -57,8 +64,15 @@ denkmeemet.zuid-holland.nl
 dialin.aaenmaas.nl
 digitaalmkb.zuid-holland.nl
 e.denkmee.zuid-holland.nl
+eavgb-acc.aivd.nl
+eavgb.aivd.nl
 eloket.aaenmaas.nl
+english.aivd.nl
 english.zorginstituutnederland.nl
+eovgb-acc.aivd.nl
+eovgb.aivd.nl
+fbadmin-eopg-acc.aivd.nl
+fbadmin-eopg.aivd.nl
 feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
 feeds.aboutnetherlandscustoms.nl
@@ -74,6 +88,8 @@ feeds.advisorycommitteeinternationallaw.nl
 feeds.advisorycouncilinternationalaffairs.nl
 feeds.aeriusproducten.nl
 feeds.agroberichtenbuitenland.nl
+feeds.aivd.nl
+feeds.english.aivd.nl
 feeds.english.zorginstituutnederland.nl
 feeds.zorginstituutnederland.nl
 forms.zuid-holland.nl
@@ -132,10 +148,13 @@ opendata.advisorycommitteeinternationallaw.nl
 opendata.advisorycouncilinternationalaffairs.nl
 opendata.aeriusproducten.nl
 opendata.agroberichtenbuitenland.nl
+opendata.aivd.nl
+opendata.english.aivd.nl
 opendata.english.zorginstituutnederland.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 openstad.zuid-holland.nl
+outbound-eopg.aivd.nl
 passwordmanager.zorginstituutnederland.nl
 planmer-acc.zuid-holland.nl
 planmer-test.zuid-holland.nl
@@ -152,6 +171,8 @@ ro.zuid-holland.nl
 ruimtelijkeplannen.zuid-holland.nl
 samenwerken.zorginstituutnederland.nl
 securemail.zorginstituutnederland.nl
+sib-eopg-acc.aivd.nl
+sib-eopg.aivd.nl
 sip.aaenmaas.nl
 slimmerreizen.zuid-holland.nl
 sp.zorginzicht.nl
@@ -214,6 +235,7 @@ www.advisorycouncilinternationalaffairs.nl
 www.aeriusproducten.nl
 www.agressievrijwerken.nl
 www.agroberichtenbuitenland.nl
+www.aivd.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.windlansingerland.zuid-holland.nl
