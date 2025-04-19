@@ -116,6 +116,7 @@ api-ota.belastingdienst.nl
 api.belastingdienst.nl
 api.bigregister.nl
 api.brabant.nl
+api.caelus-tool.nl
 api.denkmee.zuid-holland.nl
 api.openstad.zuid-holland.nl
 aplbepa01.belastingdienst.nl
@@ -315,6 +316,7 @@ bzv-a.brabant.nl
 bzv.brabant.nl
 c2000.nl
 cabinetspecialenvoy.com
+caelus-tool.nl
 calendartst.brabant.nl
 cap.om.belastingdienst.nl
 captiveportal.belastingdienst.nl
@@ -1136,6 +1138,7 @@ test.bestandenpostbus.nl
 test.bodemloket.nl
 test.bromonitor.nl
 test.bronhouderportaal-bro.nl
+test.caelus-tool.nl
 test.resultaten.arbeidsinspectie.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl

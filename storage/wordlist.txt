@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-acc
 test
+acc
 a-feeds
 a-opendata
 a-www
@@ -12,11 +12,11 @@ feeds.english
 opendata.english
 mijn
 autodiscover
+api
 a-english
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
-api
 mail
 webmail
 ontwikkel
