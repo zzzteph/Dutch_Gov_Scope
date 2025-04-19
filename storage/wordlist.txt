@@ -78,6 +78,12 @@ feature-demo-root.dev
 feature-ease-installer.dev
 cms
 wadsup
+_autodiscover._tcp
+asycuda
+feeds.papiamentu
+mijn
+opendata.papiamentu
+papiamentu
 passwordmanager
 plek
 ra
