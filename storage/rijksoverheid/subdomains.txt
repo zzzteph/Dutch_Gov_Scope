@@ -38,6 +38,7 @@ academyforinternationalrelations.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
 acc.avgregisterrijksoverheid.nl
+acc.bcld-config.nl
 acc.zorginzicht.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
@@ -89,6 +90,7 @@ b-acc.asbestvolgsysteem.nl
 bacterial-meningitis.nl
 basisinformatie-overstromingen.nl
 basisregistratieondergrond.nl
+bcld-config.nl
 beeldarchief.zuid-holland.nl
 beeldarchiefbeheer.zuid-holland.nl
 beeldbank.zuid-holland.nl
@@ -120,6 +122,11 @@ eovgb-acc.aivd.nl
 eovgb.aivd.nl
 fbadmin-eopg-acc.aivd.nl
 fbadmin-eopg.aivd.nl
+feature-cic-673.dev.bcld-config.nl
+feature-cicd-deployment.dev.bcld-config.nl
+feature-demo-child.dev.bcld-config.nl
+feature-demo-root.dev.bcld-config.nl
+feature-ease-installer.dev.bcld-config.nl
 feedback.atkm.nl
 feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
@@ -355,6 +362,7 @@ www.awti.nl
 www.bacterial-meningitis.nl
 www.basisinformatie-overstromingen.nl
 www.basisregistratieondergrond.nl
+www.bcld-config.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.testdigitalediensten.arbeidsinspectie.nl

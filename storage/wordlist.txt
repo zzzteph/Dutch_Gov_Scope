@@ -71,6 +71,11 @@ dataservice
 professional
 profgeodata.dynamic
 profgeodata.static
+feature-cic-673.dev
+feature-cicd-deployment.dev
+feature-demo-child.dev
+feature-demo-root.dev
+feature-ease-installer.dev
 passwordmanager
 plek
 ra
