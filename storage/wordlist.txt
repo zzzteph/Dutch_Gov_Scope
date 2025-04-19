@@ -5,12 +5,12 @@ feeds
 test
 acc
 a-www
+english
 a-feeds
 a-opendata
-english
-autodiscover
 feeds.english
 opendata.english
+autodiscover
 mijn
 a-english
 mail
@@ -1223,6 +1223,8 @@ www.databestanden
 www.historisch
 www.ihg
 www1
+ncp-api-1
+toetsingonline
 passwordmanager
 plek
 ra
