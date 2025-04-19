@@ -12,8 +12,8 @@ feeds.english
 opendata.english
 autodiscover
 mijn
-a-english
 mail
+a-english
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
@@ -1225,6 +1225,7 @@ www.ihg
 www1
 ncp-api-1
 toetsingonline
+mta-sts.mail
 passwordmanager
 plek
 ra
