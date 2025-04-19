@@ -81,6 +81,7 @@ acceptatie.behandel.bigregister.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.bodemloket.nl
 acceptatie.cbs.nl
+acceptatie.chemischestoffengoedgeregeld.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.tea.bigregister.nl
 acceptatie.webservices.bigregister.nl
@@ -403,6 +404,7 @@ cev.nl
 cevo.nl
 cggp.nl
 chat.cbs.nl
+chemischestoffengoedgeregeld.nl
 chw.aandeslagmetdeomgevingswet.nl
 circulair.zuid-holland.nl
 claircitydata.cbs.nl
@@ -1389,6 +1391,7 @@ test.caelus-tool.nl
 test.cbi.eu
 test.cbs.nl
 test.cerberus.cbs.nl
+test.chemischestoffengoedgeregeld.nl
 test.ebms.cbs.nl
 test.resultaten.arbeidsinspectie.nl
 test.status.cbs.nl
@@ -1731,6 +1734,7 @@ www.cert.nl
 www.cev.nl
 www.cevo.nl
 www.cggp.nl
+www.chemischestoffengoedgeregeld.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
