@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-test
 a-www
+test
 a-feeds
 a-opendata
 acc
@@ -53,6 +53,7 @@ www-test
 sts
 designsystem
 geoservices
+onderzoek
 portal
 redactie
 proto
@@ -1166,7 +1167,6 @@ odata
 odata4
 oefenvragenlijst
 onderhoud
-onderzoek
 onderzoek2
 oosweb
 oto
@@ -1300,6 +1300,7 @@ www2.zorgcsp
 www.acceptatie
 mijnloket-acc
 mijnloket
+ons
 passwordmanager
 plek
 ra
