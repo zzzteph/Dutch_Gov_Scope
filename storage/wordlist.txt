@@ -1034,6 +1034,7 @@ ws
 www.mail
 relay1
 relay2
+static
 passwordmanager
 plek
 ra
