@@ -97,6 +97,7 @@ beeldbank.zuid-holland.nl
 beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
 beeldkompas.nl
+beheerautoriteitwaddenzee.nl
 belastingen.zuid-holland.nl
 beterwordenvancorona.zuid-holland.nl
 bezwaar.atkm.nl
@@ -159,6 +160,7 @@ feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
 feeds.awti.nl
+feeds.beheerautoriteitwaddenzee.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.zorginstituutnederland.nl
@@ -238,6 +240,7 @@ opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
 opendata.awti.nl
+opendata.beheerautoriteitwaddenzee.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.zorginstituutnederland.nl
@@ -294,6 +297,7 @@ vgr.zuid-holland.nl
 virtueel.zuid-holland.nl
 vpn2.aaenmaas.nl
 wachtwoordwijzigen.aaenmaas.nl
+wadsup.beheerautoriteitwaddenzee.nl
 wapenfeiten.zuid-holland.nl
 web.aaenmaas.nl
 web01.aaninhetdonker.nl
@@ -368,6 +372,7 @@ www.basisregistratieondergrond.nl
 www.bcld-config.nl
 www.beeldbankbelastingdienst.nl
 www.beeldkompas.nl
+www.beheerautoriteitwaddenzee.nl
 www.denkmee.zuid-holland.nl
 www.openstad.zuid-holland.nl
 www.testdigitalediensten.arbeidsinspectie.nl
