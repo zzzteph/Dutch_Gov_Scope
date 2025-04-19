@@ -6,10 +6,13 @@ a-feeds
 a-opendata
 a-www
 acc
-test
 english
 feeds.english
 opendata.english
+test
+a-english
+a-feeds.a-english
+a-opendata.a-english
 acceptatie
 ontwikkel
 proto
@@ -38,9 +41,6 @@ webmail
 chw
 web01
 wms
-a-english
-a-feeds.a-english
-a-opendata.a-english
 eavgb-acc
 eavgb
 eovgb-acc

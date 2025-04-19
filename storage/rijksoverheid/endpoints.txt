@@ -56,6 +56,7 @@ https://atlasnatuurlijkkapitaal.nl
 https://auditdienstrijk.nl
 https://auth.denkmee.zuid-holland.nl
 https://auth.openstad.zuid-holland.nl
+https://autoriteitnvs.nl
 https://b-acc.asbestvolgsysteem.nl
 https://beeldarchief.zuid-holland.nl
 https://beeldarchiefbeheer.zuid-holland.nl
@@ -80,6 +81,7 @@ https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://eloket.aaenmaas.nl
 https://english.aivd.nl
+https://english.autoriteitnvs.nl
 https://english.zorginstituutnederland.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
@@ -109,7 +111,9 @@ https://feeds.arboportaal.nl
 https://feeds.asbestvrijdak.nl
 https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
+https://feeds.autoriteitnvs.nl
 https://feeds.english.aivd.nl
+https://feeds.english.autoriteitnvs.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.zorginstituutnederland.nl
 https://forms.zuid-holland.nl
@@ -178,7 +182,9 @@ https://opendata.arboportaal.nl
 https://opendata.asbestvrijdak.nl
 https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
+https://opendata.autoriteitnvs.nl
 https://opendata.english.aivd.nl
+https://opendata.english.autoriteitnvs.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -264,6 +270,7 @@ https://www.atlasinfectieziekten.nl
 https://www.atlasleefomgeving.nl
 https://www.atlasnatuurlijkkapitaal.nl
 https://www.auditdienstrijk.nl
+https://www.autoriteitnvs.nl
 https://www.denkmee.zuid-holland.nl
 https://www.openstad.zuid-holland.nl
 https://www.windlansingerland.zuid-holland.nl
