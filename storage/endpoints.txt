@@ -1,9 +1,11 @@
 http://acc.avgregisterrijksoverheid.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
+http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acceptatie.zoek.bodemambities.nl
 http://adc.cbs.nl
 http://adc4.cbs.nl
+http://ag-dcr.cibg.nl
 http://atlas-acpt.brabant.nl
 http://autodiscover.aaenmaas.nl
 http://bacterial-meningitis.nl
@@ -22,6 +24,7 @@ http://mijn-api.cbs.nl
 http://odata4.cbs.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oosweb.cbs.nl
+http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
 http://samenwerkruimten-conf.belastingdienst.nl
@@ -31,9 +34,12 @@ http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://slechtvalk.brabant.nl
 http://specials.brabant.nl
+http://stijlgids.cibg.nl
+http://survey.cibg.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.bestandenpostbus.nl
 http://test.chemischestoffengoedgeregeld.nl
+http://test.digikoppeling.cibg.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
 http://uptime.bureauwbtv.nl
@@ -73,10 +79,25 @@ https://acc.cerberus.cbs.nl
 https://acc.zorginzicht.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
+https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.behandel.bigregister.nl
+https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.bigregister.nl
+https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
+https://acceptatie.beheer.lir.cibg.nl
+https://acceptatie.beheer.lrza.cibg.nl
+https://acceptatie.bestandsportaal.cibg.nl
+https://acceptatie.designsystem.cibg.nl
+https://acceptatie.drms.cibg.nl
+https://acceptatie.lir.cibg.nl
+https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
+https://acceptatie.portaal.competent.cibg.nl
+https://acceptatie.portaal.digilevering.cibg.nl
+https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.tea.bigregister.nl
+https://acceptatie.tmv.cibg.nl
+https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.zoeken.bigregister.nl
 https://accounts.cbs.nl
@@ -116,8 +137,11 @@ https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.caelus-tool.nl
 https://api.denkmee.zuid-holland.nl
+https://api.klopt.cibg.nl
 https://api.openstad.zuid-holland.nl
 https://app.brabant.nl
+https://applicationframework.cibg.nl
+https://applications.klopt.cibg.nl
 https://arbeidsinspectie.nl
 https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
@@ -159,7 +183,11 @@ https://beeldbankbelastingdienst.nl
 https://beeldkompas.nl
 https://begroting.brabant.nl
 https://behandel.bigregister.nl
+https://behandel.generiekeregistratiedienst.cibg.nl
 https://beheer.bigregister.nl
+https://beheer.generiekeregistratiedienst.cibg.nl
+https://beheer.lir.cibg.nl
+https://beheer.lrza.cibg.nl
 https://beheerautoriteitwaddenzee.nl
 https://belastingdienst-academie.nl
 https://belastingdienst-cn.nl
@@ -173,6 +201,7 @@ https://beoordelingscommissiedopingzaken.nl
 https://beschermdecultuurgoederen.nl
 https://bestandenpostbus.nl
 https://bestandslevering.cbs.nl
+https://bestandsportaal.cibg.nl
 https://beta.belastingdienst.nl
 https://beta.cbs.nl
 https://betalen-cnf.belastingdienst.nl
@@ -235,6 +264,7 @@ https://cbs.nl
 https://cciwebstats.belastingdienst.nl
 https://ccmo.nl
 https://cdn.cbs.nl
+https://cdn.klopt.cibg.nl
 https://ceg.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://centraalexamen.nl
@@ -249,8 +279,10 @@ https://cerberus.cbs.nl
 https://cert.nl
 https://cevo.nl
 https://cggp.nl
+https://chatapi.klopt.cibg.nl
 https://chemischestoffengoedgeregeld.nl
 https://chw.aandeslagmetdeomgevingswet.nl
+https://cibg.nl
 https://circulair.zuid-holland.nl
 https://claircitydata.cbs.nl
 https://cms.beeldkompas.nl
@@ -262,6 +294,7 @@ https://connect-with.brabant.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://content.cbs.nl
+https://content.klopt.cibg.nl
 https://content1.cbs.nl
 https://contentadapter.cbs.nl
 https://corsa-acpt.brabant.nl
@@ -291,6 +324,8 @@ https://demo2.bronhouderportaal-bro.nl
 https://denkmee.zuid-holland.nl
 https://denkmeemet.zuid-holland.nl
 https://designsystem.cbs.nl
+https://designsystem.cibg.nl
+https://desktop.klopt.cibg.nl
 https://dev.cerberus.cbs.nl
 https://dialin.aaenmaas.nl
 https://digicheck.brabant.nl
@@ -304,6 +339,7 @@ https://download.belastingdienst.nl
 https://download.cbs.nl
 https://draf-acpt.brabant.nl
 https://draf.brabant.nl
+https://drms.cibg.nl
 https://dva.belastingdienst.nl
 https://e.denkmee.zuid-holland.nl
 https://eavgb-acc.aivd.nl
@@ -380,6 +416,7 @@ https://feeds.ccmo.nl
 https://feeds.ceg.nl
 https://feeds.centralecommissiedierproeven.nl
 https://feeds.cert.nl
+https://feeds.cibg.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -398,6 +435,7 @@ https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
+https://forms.klopt.cibg.nl
 https://forms.zuid-holland.nl
 https://formulieren.brabant.nl
 https://fsvportaal.belastingdienst.nl
@@ -470,6 +508,7 @@ https://klanttoegang.cbs.nl
 https://lc.cbs.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
+https://lir.cibg.nl
 https://livecharts.cbs.nl
 https://login.aaenmaas.nl
 https://login.cbs.nl
@@ -485,6 +524,7 @@ https://magazine.zuid-holland.nl
 https://magazines.algemenebestuursdienst.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
+https://manager.klopt.cibg.nl
 https://maps.aaenmaas.nl
 https://matchingsapp.cbs.nl
 https://mbg.cbs.nl
@@ -493,6 +533,7 @@ https://mdm.cbg-meb.nl
 https://mediaportal.cbs.nl
 https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
+https://meldingen.klopt.cibg.nl
 https://micollab.cbs.nl
 https://micollabtest.cbs.nl
 https://microdata.cbs.nl
@@ -586,6 +627,7 @@ https://opendata.ccmo.nl
 https://opendata.ceg.nl
 https://opendata.centralecommissiedierproeven.nl
 https://opendata.cert.nl
+https://opendata.cibg.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -614,6 +656,8 @@ https://pmm.belastingdienst.nl
 https://poc1.bestandenpostbus.nl
 https://politieopendata.cbs.nl
 https://portaal.belastingdienst.nl
+https://portaal.competent.cibg.nl
+https://portaal.digilevering.cibg.nl
 https://portal.cbs.nl
 https://prd.atlasleefomgeving.nl
 https://preprod-belastingen.zuid-holland.nl
@@ -625,6 +669,7 @@ https://projecten.cbs.nl
 https://promtoolbox.zorginzicht.nl
 https://proto.zorginstituutnederland.nl
 https://proto.zorginzicht.nl
+https://prototype.cibg.nl
 https://psarchief.brabant.nl
 https://publicaties.brabant.nl
 https://pushmail.awti.nl
@@ -681,9 +726,11 @@ https://test.belastingdienst-cn.nl
 https://test.bromonitor.nl
 https://test.cbi.eu
 https://test.cerberus.cbs.nl
+https://test.publicwebservices.cibg.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
 https://thesaurus.zuid-holland.nl
+https://tmv.cibg.nl
 https://toekomstscenarios.zuid-holland.nl
 https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
@@ -693,6 +740,7 @@ https://tunnel1.cbs.nl
 https://uag.cbs.nl
 https://uitwisseling.cbs.nl
 https://upload.cbs.nl
+https://uzipas.lir.cibg.nl
 https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepkms.vcdn.belastingdienst.nl
@@ -720,6 +768,7 @@ https://wapenfeiten.zuid-holland.nl
 https://web.acc.brba.nl
 https://web.test.brba.nl
 https://web01.aaninhetdonker.nl
+https://webchat.klopt.cibg.nl
 https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://webmail.brabant.nl
@@ -849,6 +898,7 @@ https://www.centralecommissiedierproeven.nl
 https://www.cert.nl
 https://www.cevo.nl
 https://www.chemischestoffengoedgeregeld.nl
+https://www.cibg.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.denkmee.zuid-holland.nl
