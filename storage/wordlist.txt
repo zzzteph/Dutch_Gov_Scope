@@ -10,8 +10,8 @@ test
 english
 feeds.english
 opendata.english
-autodiscover
 mijn
+autodiscover
 a-english
 a-feeds.a-english
 a-opendata.a-english
