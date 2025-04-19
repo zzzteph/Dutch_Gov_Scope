@@ -284,6 +284,7 @@ brainps.brabant.nl
 brains-acc.brabant.nl
 brains.brabant.nl
 brba.eu
+brba.nl
 bri-olo.belastingdienst.nl
 bri.belastingdienst.nl
 brm-test.belastingdienst.nl
@@ -591,6 +592,7 @@ gtmzperf.acc.belastingdienst.nl
 gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
 helloid.aaenmaas.nl
+helpdesk.brba.nl
 herstel.acc.belastingdienst.nl
 hrz-uag-ext.belastingdienst.nl
 huisstijl.acc.belastingdienst.nl
@@ -648,6 +650,7 @@ kavaanalyticstst.vcdn.belastingdienst.nl
 kavaont.vcdn.belastingdienst.nl
 kavatst.vcdn.belastingdienst.nl
 kdmz.belastingdienst.nl
+keiko.brba.nl
 kennis-fiod.acc.belastingdienst.nl
 kennis.zuid-holland.nl
 kennisgroepen.acc.belastingdienst.nl
@@ -1027,6 +1030,7 @@ securemail.zorginstituutnederland.nl
 sepm.belastingdienst.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
+sftp-out.brba.nl
 sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.belastingdienst.nl
 sharepoint-conf.belastingdienst.nl
@@ -1104,6 +1108,9 @@ toestemming.belastingdienst.nl
 torenvalk.brabant.nl
 tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
+uzi.acc.brba.nl
+uzi.brba.nl
+uzi.test.brba.nl
 va_do.belastingdienst.nl
 vaartuigvolgsysteem.zuid-holland.nl
 vc.belastingdienst.nl
@@ -1171,6 +1178,9 @@ video.belastingdienst.nl
 videobellen.belastingdienst.nl
 videoserver.brabant.nl
 videoserver2.brabant.nl
+viep.acc.brba.nl
+viep.brba.nl
+viep.test.brba.nl
 vinden.belastingdienst.nl
 virtueel.zuid-holland.nl
 voi.brabant.nl
@@ -1199,6 +1209,8 @@ wd.belastingdienst.nl
 wd.ont.belastingdienst.nl
 wdt.belastingdienst.nl
 web.aaenmaas.nl
+web.acc.brba.nl
+web.test.brba.nl
 web01.aaninhetdonker.nl
 webapps-acc.belastingdienst.nl
 webapps.belastingdienst.nl
@@ -1362,6 +1374,7 @@ www.bodemvizier.nl
 www.bofeb.nl
 www.brabant.nl
 www.braic.nl
+www.brba.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
