@@ -25,6 +25,7 @@ vpn
 webservices
 beeldbank
 login
+sip
 vpn2
 webmail
 prod
@@ -44,7 +45,7 @@ av
 dialin
 lync
 meet
-sip
+meldingen
 prd
 smtp1
 adobe-analytics-dc
@@ -98,6 +99,7 @@ digikoppeling2
 a-cms
 t-cms
 data
+formulier
 geo
 kennis
 thesaurus
@@ -136,7 +138,6 @@ zorgenwerknetwerk
 b-acc
 bezwaar
 feedback
-meldingen
 rivm
 pushmail
 rdgateway
@@ -1395,7 +1396,6 @@ catalogus
 data.geo
 erfgoedmonitor
 faro
-formulier
 foto-opdracht
 idselect
 intern.catalogus
@@ -1778,6 +1778,22 @@ mailings
 max
 www.acc.mijn
 www.mijn
+acceptatiepan
+cher
+ehd
+ehp
+ehp2
+ehpzee
+mivp
+pan
+preprodcher
+preprodehd
+preprodehp
+preprodehp2
+preprodehpzee
+preprodmivp
+preprodrev
+rev
 passwordmanager
 plek
 ra
