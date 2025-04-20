@@ -759,6 +759,7 @@ https://feeds.forensicinstitute.nl
 https://feeds.forensischezorg.nl
 https://feeds.forensischinstituut.nl
 https://feeds.gelijke-kansen.nl
+https://feeds.geobasisregistraties.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -808,6 +809,7 @@ https://geo-tools.zuid-holland.nl
 https://geo.flevoland.nl
 https://geo.zuid-holland.nl
 https://geo3.flevoland.nl
+https://geobasisregistraties.nl
 https://geodata.basisinformatie-overstromingen.nl
 https://geodata.cbs.nl
 https://geodata.zuid-holland.nl
@@ -1148,6 +1150,7 @@ https://opendata.forensicinstitute.nl
 https://opendata.forensischezorg.nl
 https://opendata.forensischinstituut.nl
 https://opendata.gelijke-kansen.nl
+https://opendata.geobasisregistraties.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -1612,6 +1615,7 @@ https://www.formulierdus-i.nl
 https://www.functiegebouwrijksoverheid.nl
 https://www.gelijke-kansen.nl
 https://www.geneesmiddeleninformatiebank.nl
+https://www.geobasisregistraties.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
