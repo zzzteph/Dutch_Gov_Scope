@@ -1158,6 +1158,7 @@ feeds.fmhaaglanden.nl
 feeds.forensicinstitute.nl
 feeds.forensischezorg.nl
 feeds.forensischinstituut.nl
+feeds.gelijke-kansen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1254,6 +1255,7 @@ gegevensportaal.acc.belastingdienst.nl
 gegevensportaal.belastingdienst.nl
 gegevensuitwisseling.acc.belastingdienst.nl
 gegevensuitwisseling.belastingdienst.nl
+gelijke-kansen.nl
 gembrp.belastingdienst.nl
 generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
@@ -1975,6 +1977,7 @@ opendata.fmhaaglanden.nl
 opendata.forensicinstitute.nl
 opendata.forensischezorg.nl
 opendata.forensischinstituut.nl
+opendata.gelijke-kansen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2961,6 +2964,7 @@ www.forensischezorg.nl
 www.forensischinstituut.nl
 www.formulierdus-i.nl
 www.functiegebouwrijksoverheid.nl
+www.gelijke-kansen.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
