@@ -338,6 +338,7 @@ https://crmtest.cbi.eu
 https://csirtdsp.nl
 https://css.openstad.zuid-holland.nl
 https://ctgb.nl
+https://ctivd.nl
 https://dashboards.cbs.nl
 https://data.zuid-holland.nl
 https://databestanden.cbs.nl
@@ -391,6 +392,7 @@ https://english.cbg-meb.nl
 https://english.cbgjaarverslag.nl
 https://english.ccmo.nl
 https://english.ctgb.nl
+https://english.ctivd.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://eovgb-acc.aivd.nl
@@ -462,6 +464,7 @@ https://feeds.commissievanaanbestedingsexperts.nl
 https://feeds.communicatierijk.nl
 https://feeds.compensationsns.nl
 https://feeds.ctgb.nl
+https://feeds.ctivd.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -469,6 +472,7 @@ https://feeds.english.bigregister.nl
 https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
+https://feeds.english.ctivd.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
@@ -690,6 +694,7 @@ https://opendata.commissievanaanbestedingsexperts.nl
 https://opendata.communicatierijk.nl
 https://opendata.compensationsns.nl
 https://opendata.ctgb.nl
+https://opendata.ctivd.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -697,6 +702,7 @@ https://opendata.english.bigregister.nl
 https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
+https://opendata.english.ctivd.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
@@ -988,6 +994,7 @@ https://www.contactpuntbouwproducten.nl
 https://www.crisis.nl
 https://www.csirtdsp.nl
 https://www.ctgb.nl
+https://www.ctivd.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.denkmee.zuid-holland.nl
