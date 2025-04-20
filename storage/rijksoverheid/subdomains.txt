@@ -1178,6 +1178,7 @@ feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
+feeds.gouverneurcuracao.com
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1324,6 +1325,7 @@ gobiernudireino.nl
 good.cbs.nl
 goudenpiramide.nl
 gouverneuraruba.com
+gouverneurcuracao.com
 govroam.belastingdienst.nl
 govroam.brabant.nl
 gpa-rest-test.belastingdienst.nl
@@ -2020,6 +2022,7 @@ opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
+opendata.gouverneurcuracao.com
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3029,6 +3032,7 @@ www.gobiernodireino.nl
 www.gobiernudireino.nl
 www.goudenpiramide.nl
 www.gouverneuraruba.com
+www.gouverneurcuracao.com
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
