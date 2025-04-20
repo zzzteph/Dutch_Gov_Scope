@@ -14,10 +14,10 @@ mail
 autodiscover
 a-english
 mijn
+magazines
 acceptatie
 a-feeds.a-english
 a-opendata.a-english
-magazines
 cms
 api
 www-acc
@@ -27,6 +27,7 @@ vpn
 prod
 webservices
 beeldbank
+a-magazines
 proto
 www-ac
 www-dev
@@ -51,7 +52,6 @@ portal
 connect
 data
 geo
-a-magazines
 www-ow
 www-ts
 av
@@ -125,6 +125,9 @@ t-cms
 formulier
 kennis
 thesaurus
+i-www
+o-www
+t-www
 apps
 mail01
 mailing
@@ -1466,13 +1469,11 @@ gw
 i-cms
 i-cms1
 i-site1
-i-www
 mrt
 nimh-beeldbank
 o-cms
 o-cms1
 o-site1
-o-www
 site1
 site2
 site3
@@ -1480,7 +1481,6 @@ site4
 ssl
 t-cms1
 t-site1
-t-www
 dp2021
 dp2022
 dp2023
@@ -1963,6 +1963,8 @@ csotest
 odc
 sandbox
 bibliotheek
+coronadashboard
+sdg
 passwordmanager
 plek
 ra

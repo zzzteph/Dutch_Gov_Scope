@@ -55,9 +55,11 @@ a-feeds.forensicinstitute.nl
 a-feeds.forensischinstituut.nl
 a-feeds.geobasisregistraties.nl
 a-feeds.gezondheidsraad.nl
+a-feeds.government.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
+a-magazines.government.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -90,6 +92,7 @@ a-opendata.forensicinstitute.nl
 a-opendata.forensischinstituut.nl
 a-opendata.geobasisregistraties.nl
 a-opendata.gezondheidsraad.nl
+a-opendata.government.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -117,6 +120,7 @@ a-www.forensischinstituut.nl
 a-www.geobasisregistraties.nl
 a-www.gezondheidsraad.nl
 a-www.gobiernudireino.nl
+a-www.government.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -731,6 +735,7 @@ content.klopt.cibg.nl
 content1.cbs.nl
 contentadapter.cbs.nl
 contenttoolsrijksoverheid.nl
+coronadashboard.government.nl
 corsa-acpt.brabant.nl
 corsa.brabant.nl
 corsa2023.brabant.nl
@@ -1179,6 +1184,7 @@ feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
 feeds.gouverneurcuracao.com
+feeds.government.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1326,6 +1332,7 @@ good.cbs.nl
 goudenpiramide.nl
 gouverneuraruba.com
 gouverneurcuracao.com
+government.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
 gpa-rest-test.belastingdienst.nl
@@ -1391,6 +1398,7 @@ i-cms.defensie.nl
 i-cms1.defensie.nl
 i-site1.defensie.nl
 i-www.defensie.nl
+i-www.government.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
 ibabs.dictu.nl
@@ -1567,6 +1575,7 @@ magazines.deltaprogramma.nl
 magazines.dji.nl
 magazines.emissieautoriteit.nl
 magazines.forensischinstituut.nl
+magazines.government.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.beeldbellen.dji.nl
@@ -1827,6 +1836,7 @@ o-cms.defensie.nl
 o-cms1.defensie.nl
 o-site1.defensie.nl
 o-www.defensie.nl
+o-www.government.nl
 o1-api.contenttoolsrijksoverheid.nl
 o1-cms.contenttoolsrijksoverheid.nl
 o1-next-cms.contenttoolsrijksoverheid.nl
@@ -2023,6 +2033,7 @@ opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
 opendata.gouverneurcuracao.com
+opendata.government.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2297,6 +2308,7 @@ sbopg1scs01.prod.sap.belastingdienst.nl
 scheiden.belastingdienst.nl
 schemas.ep-online.nl
 schouw.flevoland.nl
+sdg.government.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
 sdmx-dataviewer.cbs.nl
@@ -2432,6 +2444,7 @@ t-old-cms.contenttoolsrijksoverheid.nl
 t-site1.defensie.nl
 t-test.belastingdienst.nl
 t-www.defensie.nl
+t-www.government.nl
 t.cultureelerfgoed.nl
 tarief.douane.nl
 tarief.str4.acc.douane.nl
@@ -3033,6 +3046,7 @@ www.gobiernudireino.nl
 www.goudenpiramide.nl
 www.gouverneuraruba.com
 www.gouverneurcuracao.com
+www.government.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
