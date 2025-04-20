@@ -600,6 +600,7 @@ datawonen.nl
 datumprikker.belastingdienst.nl
 db.cbg-meb.nl
 dbpmo.belastingdienst.nl
+dcc-ienw.nl
 dcp-time-slot.cbg-meb.nl
 delta.belastingdienst.nl
 demo.bronhouderportaal-bro.nl
@@ -793,6 +794,7 @@ feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
 feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
+feeds.dcc-ienw.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1391,6 +1393,7 @@ opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
 opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
+opendata.dcc-ienw.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2107,6 +2110,7 @@ www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.datavoorgezondheid.nl
 www.datawonen.nl
+www.dcc-ienw.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl

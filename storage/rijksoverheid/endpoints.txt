@@ -392,6 +392,7 @@ https://datavoorgezondheid.nl
 https://datawonen.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
+https://dcc-ienw.nl
 https://dcp-time-slot.cbg-meb.nl
 https://delta.belastingdienst.nl
 https://demo.bronhouderportaal-bro.nl
@@ -517,6 +518,7 @@ https://feeds.cvte.nl
 https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
 https://feeds.datavoorgezondheid.nl
+https://feeds.dcc-ienw.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -776,6 +778,7 @@ https://opendata.cvte.nl
 https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
 https://opendata.datavoorgezondheid.nl
+https://opendata.dcc-ienw.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1105,6 +1108,7 @@ https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.datavoorgezondheid.nl
 https://www.datawonen.nl
+https://www.dcc-ienw.nl
 https://www.denkmee.zuid-holland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
