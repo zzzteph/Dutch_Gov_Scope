@@ -621,6 +621,7 @@ dcc-ienw.nl
 dcp-time-slot.cbg-meb.nl
 defensie.nl
 delta.belastingdienst.nl
+deltaprogramma.nl
 demo.bronhouderportaal-bro.nl
 demo2.bronhouderportaal-bro.nl
 denkmee.zuid-holland.nl
@@ -656,6 +657,11 @@ doemee.cbs.nl
 dossierportal.cbs.nl
 download.belastingdienst.nl
 download.cbs.nl
+dp2021.deltaprogramma.nl
+dp2022.deltaprogramma.nl
+dp2023.deltaprogramma.nl
+dp2024.deltaprogramma.nl
+dp2025.deltaprogramma.nl
 dpe.belastingdienst.nl
 dplockers.brabant.nl
 draf-acpt.brabant.nl
@@ -695,6 +701,7 @@ english.ctivd.nl
 english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
 english.defensie.nl
+english.deltaprogramma.nl
 english.zorginstituutnederland.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
@@ -816,6 +823,7 @@ feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
 feeds.dcc-ienw.nl
 feeds.defensie.nl
+feeds.deltaprogramma.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -826,6 +834,7 @@ feeds.english.ctgb.nl
 feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
+feeds.english.deltaprogramma.nl
 feeds.english.zorginstituutnederland.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
@@ -1106,6 +1115,7 @@ magazines.algemenebestuursdienst.nl
 magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
+magazines.deltaprogramma.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.bodemvizier.nl
@@ -1429,6 +1439,7 @@ opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
 opendata.dcc-ienw.nl
 opendata.defensie.nl
+opendata.deltaprogramma.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1439,6 +1450,7 @@ opendata.english.ctgb.nl
 opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
+opendata.english.deltaprogramma.nl
 opendata.english.zorginstituutnederland.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
@@ -2157,6 +2169,7 @@ www.datavoorgezondheid.nl
 www.datawonen.nl
 www.dcc-ienw.nl
 www.defensie.nl
+www.deltaprogramma.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl

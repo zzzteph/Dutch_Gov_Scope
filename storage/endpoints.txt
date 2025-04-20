@@ -396,6 +396,7 @@ https://dcc-ienw.nl
 https://dcp-time-slot.cbg-meb.nl
 https://defensie.nl
 https://delta.belastingdienst.nl
+https://deltaprogramma.nl
 https://demo.bronhouderportaal-bro.nl
 https://demo2.bronhouderportaal-bro.nl
 https://denkmee.zuid-holland.nl
@@ -415,6 +416,11 @@ https://doemee.cbs.nl
 https://dossierportal.cbs.nl
 https://download.belastingdienst.nl
 https://download.cbs.nl
+https://dp2021.deltaprogramma.nl
+https://dp2022.deltaprogramma.nl
+https://dp2023.deltaprogramma.nl
+https://dp2024.deltaprogramma.nl
+https://dp2025.deltaprogramma.nl
 https://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://drms.cibg.nl
@@ -438,6 +444,7 @@ https://english.ctgb.nl
 https://english.ctivd.nl
 https://english.cultureelerfgoed.nl
 https://english.defensie.nl
+https://english.deltaprogramma.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://eovgb-acc.aivd.nl
@@ -522,6 +529,7 @@ https://feeds.cybersecurityraad.nl
 https://feeds.datavoorgezondheid.nl
 https://feeds.dcc-ienw.nl
 https://feeds.defensie.nl
+https://feeds.deltaprogramma.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -532,6 +540,7 @@ https://feeds.english.ctgb.nl
 https://feeds.english.ctivd.nl
 https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.defensie.nl
+https://feeds.english.deltaprogramma.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
@@ -652,6 +661,7 @@ https://magazines.algemenebestuursdienst.nl
 https://magazines.cultureelerfgoed.nl
 https://magazines.cybersecurityraad.nl
 https://magazines.defensie.nl
+https://magazines.deltaprogramma.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
 https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
@@ -787,6 +797,7 @@ https://opendata.cybersecurityraad.nl
 https://opendata.datavoorgezondheid.nl
 https://opendata.dcc-ienw.nl
 https://opendata.defensie.nl
+https://opendata.deltaprogramma.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -797,6 +808,7 @@ https://opendata.english.ctgb.nl
 https://opendata.english.ctivd.nl
 https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.defensie.nl
+https://opendata.english.deltaprogramma.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
@@ -1119,6 +1131,7 @@ https://www.datavoorgezondheid.nl
 https://www.datawonen.nl
 https://www.dcc-ienw.nl
 https://www.defensie.nl
+https://www.deltaprogramma.nl
 https://www.denkmee.zuid-holland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl

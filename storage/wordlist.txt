@@ -8,9 +8,9 @@ a-feeds
 a-opendata
 english
 acc
-autodiscover
 feeds.english
 opendata.english
+autodiscover
 mail
 a-english
 a-feeds.a-english
@@ -1471,6 +1471,11 @@ ssl
 t-cms1
 t-site1
 t-www
+dp2021
+dp2022
+dp2023
+dp2024
+dp2025
 passwordmanager
 plek
 ra
