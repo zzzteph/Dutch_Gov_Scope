@@ -57,6 +57,7 @@ a-feeds.forensischinstituut.nl
 a-feeds.geobasisregistraties.nl
 a-feeds.gezondheidsraad.nl
 a-feeds.government.nl
+a-feeds.healthcouncil.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
@@ -94,6 +95,7 @@ a-opendata.forensischinstituut.nl
 a-opendata.geobasisregistraties.nl
 a-opendata.gezondheidsraad.nl
 a-opendata.government.nl
+a-opendata.healthcouncil.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -122,6 +124,7 @@ a-www.geobasisregistraties.nl
 a-www.gezondheidsraad.nl
 a-www.gobiernudireino.nl
 a-www.government.nl
+a-www.healthcouncil.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1198,6 +1201,7 @@ feeds.government.nl
 feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
+feeds.healthcouncil.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1397,6 +1401,7 @@ handelingenbank.info
 hansken.nl
 hcib.datawonen.nl
 hdsr.nl
+healthcouncil.nl
 helloid.aaenmaas.nl
 helpdesk.brba.nl
 helpmee.cbs.nl
@@ -2066,6 +2071,7 @@ opendata.government.nl
 opendata.grenzeloossamenwerken.nl
 opendata.groeiennaarmorgen.nl
 opendata.hansken.nl
+opendata.healthcouncil.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3099,6 +3105,7 @@ www.gtmx.acc.belastingdienst.nl
 www.handelingenbank.info
 www.hansken.nl
 www.hdsr.nl
+www.healthcouncil.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
