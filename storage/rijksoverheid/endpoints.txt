@@ -750,6 +750,7 @@ https://feeds.expertisecentrummggz.nl
 https://feeds.farmatec.nl
 https://feeds.fmhaaglanden.nl
 https://feeds.forensicinstitute.nl
+https://feeds.forensischezorg.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -767,6 +768,7 @@ https://fmhaaglanden.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://forensicinstitute.nl
+https://forensischezorg.nl
 https://forms.klopt.cibg.nl
 https://forms.zuid-holland.nl
 https://formulier.cultureelerfgoed.nl
@@ -1127,6 +1129,7 @@ https://opendata.expertisecentrummggz.nl
 https://opendata.farmatec.nl
 https://opendata.fmhaaglanden.nl
 https://opendata.forensicinstitute.nl
+https://opendata.forensischezorg.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -1580,6 +1583,7 @@ https://www.financiengemeenten.nl
 https://www.flevoland.nl
 https://www.fmhaaglanden.nl
 https://www.forensicinstitute.nl
+https://www.forensischezorg.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
