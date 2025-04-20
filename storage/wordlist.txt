@@ -6,8 +6,8 @@ test
 a-www
 a-feeds
 a-opendata
-english
 acc
+english
 autodiscover
 feeds.english
 opendata.english
@@ -1429,6 +1429,7 @@ www.monumentenregister
 www.test.monumentenregister
 www.veilig
 examenplein
+api-acc
 passwordmanager
 plek
 ra

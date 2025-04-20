@@ -100,6 +100,7 @@ https://acc.cerberus.cbs.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.consexponano.nl
 https://acc.csirtdsp.nl
+https://acc.dashboardgroningen.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
@@ -163,12 +164,14 @@ https://animalfreeinnovationtpi.nl
 https://antennebureau.nl
 https://antisemitismebestrijding.nl
 https://antwoord.cbs.nl
+https://api-acc.dashboardgroningen.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.caelus-tool.nl
 https://api.contenttoolsrijksoverheid.nl
+https://api.dashboardgroningen.nl
 https://api.denkmee.zuid-holland.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
@@ -1080,6 +1083,7 @@ https://www.cultuursubsidie.nl
 https://www.cvte.nl
 https://www.cybersecuritycouncil.nl
 https://www.cybersecurityraad.nl
+https://www.dashboardgroningen.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.denkmee.zuid-holland.nl
