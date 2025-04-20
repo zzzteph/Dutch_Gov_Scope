@@ -49,6 +49,7 @@ a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
 a-feeds.dggf.nl
 a-magazines.defensie.nl
+a-magazines.dji.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -132,6 +133,7 @@ acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
 acc.bcld-config.nl
+acc.beeldbellen.dji.nl
 acc.bestandenpostbus.nl
 acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
@@ -412,6 +414,7 @@ beeldbank.cultureelerfgoed.nl
 beeldbank.zuid-holland.nl
 beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
+beeldbellen.dji.nl
 beeldkompas.nl
 begrippenlijst.datawonen.nl
 begroting.brabant.nl
@@ -569,6 +572,7 @@ cciwebstats.belastingdienst.nl
 ccmo.nl
 ccn2.belastingdienst.nl
 cdn.cbs.nl
+cdn.dji.nl
 cdn.klopt.cibg.nl
 ceg.nl
 censushub.cbs.nl
@@ -627,9 +631,11 @@ conf.cbg-meb.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 connect-acc.dictu.nl
+connect-acpt.dji.nl
 connect-with.brabant.nl
 connect.ctgb.nl
 connect.dictu.nl
+connect.dji.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -734,6 +740,7 @@ digitaalvergaderen.ont.belastingdienst.nl
 digitaleoverheid.nl
 dihoo.eu
 dihoo.nl
+dji.nl
 dkb.dictu.nl
 dns.belastingdienst.nl
 dns1.dictu.nl
@@ -756,14 +763,21 @@ dpe.belastingdienst.nl
 dplockers.brabant.nl
 draf-acpt.brabant.nl
 draf.brabant.nl
+drife-f.dji.nl
 drms.cibg.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
 duurzameescaperoom-light-vr.belastingdienst.nl
 duurzameescaperoom-vr.belastingdienst.nl
 dva.belastingdienst.nl
+dvfz-acc-auth.dji.nl
+dvfz-acc.dji.nl
+dvfz-auth.dji.nl
+dvfz.dji.nl
 dwo.ctgb.nl
 e.denkmee.zuid-holland.nl
+eagle-acc.dji.nl
+eagle.dji.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
 ebms.cbs.nl
@@ -943,6 +957,7 @@ feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
 feeds.dihoo.nl
+feeds.dji.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1011,6 +1026,7 @@ ftp-a.ags.dictu.nl
 ftp-p.ags.dictu.nl
 ftp.cbs.nl
 ftp.ctpveldzicht.nl
+ftp.dji.nl
 ftpblaise.cbs.nl
 ftpsconfpriv.belastingdienst.nl
 ftpsconfpriv.egb-kps.belastingdienst.nl
@@ -1168,6 +1184,7 @@ intranet-demo.dictu.nl
 intranet.belastingdienst.nl
 intranet.ctgb.nl
 intranet.cultureelerfgoed.nl
+intranet.dji.nl
 intratst.belastingdienst.nl
 investerenin.zuid-holland.nl
 ipsec1.dictu.nl
@@ -1266,6 +1283,7 @@ lucom-client.dictu.nl
 lync.aaenmaas.nl
 lync.dictu.nl
 lyncaccess.dictu.nl
+lyncav.vico.dji.nl
 lyncdiscover.aaenmaas.nl
 lyncmeet.dictu.nl
 lyncwebapps.dictu.nl
@@ -1278,8 +1296,10 @@ magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
 magazines.deltaprogramma.nl
+magazines.dji.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
+mail.beeldbellen.dji.nl
 mail.bodemvizier.nl
 mail.bofeb.nl
 mail.bureauwsnp.nl
@@ -1292,6 +1312,7 @@ mail.ctivd.nl
 mail.dev.cbs.nl
 mail.dictu.nl
 mail.dihoo.nl
+mail.dji.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail02.bulk.dictu.nl
@@ -1636,6 +1657,7 @@ opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
 opendata.dihoo.nl
+opendata.dji.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1707,6 +1729,7 @@ pih.acc.belastingdienst.nl
 pih.belastingdienst.nl
 piv-rest-test.belastingdienst.nl
 piv-rest.belastingdienst.nl
+plan.beeldbellen.dji.nl
 planmer-acc.zuid-holland.nl
 planmer-test.zuid-holland.nl
 planmer.zuid-holland.nl
@@ -1906,6 +1929,7 @@ simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
 sip.aaenmaas.nl
 sip.cbg-meb.nl
+sip.vico.dji.nl
 sipreg.belastingdienst.nl
 sis.brabant.nl
 site1.defensie.nl
@@ -2016,6 +2040,7 @@ test.cultureelerfgoed.nl
 test.dictu.nl
 test.digikoppeling.cibg.nl
 test.digitaleoverheid.nl
+test.dji.nl
 test.ebms.cbs.nl
 test.geoservices.cultureelerfgoed.nl
 test.intranet-demo.dictu.nl
@@ -2139,6 +2164,8 @@ verzekeringsproducten.belastingdienst.nl
 vgr.zuid-holland.nl
 via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
+video-acc.beeldbellen.dji.nl
+video.beeldbellen.dji.nl
 video.belastingdienst.nl
 videobellen.belastingdienst.nl
 videoplatform.cbs.nl
@@ -2470,6 +2497,7 @@ www.digitaalstelselmobiliteitsdata.nl
 www.digitaleoverheid.nl
 www.dihoo.eu
 www.dihoo.nl
+www.dji.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
