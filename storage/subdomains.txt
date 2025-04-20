@@ -79,6 +79,7 @@ acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
 acc.cbi.eu
 acc.cerberus.cbs.nl
+acc.consexponano.nl
 acc.zorginzicht.nl
 accebms.cbs.nl
 acceptatie.advieswijzer.bigregister.nl
@@ -100,6 +101,7 @@ acceptatie.brba.cibg.nl
 acceptatie.cbs.nl
 acceptatie.chemischestoffengoedgeregeld.nl
 acceptatie.clusterbuster.nl
+acceptatie.consexponano.nl
 acceptatie.designsystem.cibg.nl
 acceptatie.digikoppeling-dcr.cibg.nl
 acceptatie.digikoppeling.cibg.nl
@@ -484,6 +486,7 @@ connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
 connectpeoplereg.belastingdienst.nl
+consexponano.nl
 content.cbs.nl
 content.klopt.cibg.nl
 content1.cbs.nl
@@ -1303,6 +1306,7 @@ portaal.wifi.belastingdienst.nl
 portal.cbs.nl
 portal.cibg.nl
 prd.atlasleefomgeving.nl
+prd.consexponano.nl
 pre.bronhouderportaal-bro.nl
 preprod-belastingen.zuid-holland.nl
 preprod-kvk.belastingdienst.nl
@@ -1860,6 +1864,7 @@ www.commissievanaanbestedingsexperts.nl
 www.communicatierijk.nl
 www.community-gatewayreview.nl
 www.compensationsns.nl
+www.consexponano.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl

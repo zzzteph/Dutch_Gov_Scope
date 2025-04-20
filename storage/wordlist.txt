@@ -10,8 +10,8 @@ acc
 english
 feeds.english
 opendata.english
-autodiscover
 acceptatie
+autodiscover
 mijn
 mail
 a-english
@@ -30,6 +30,7 @@ meet
 sip
 vpn2
 webmail
+prd
 smtp1
 cms
 _autodiscover._tcp
@@ -92,7 +93,6 @@ prod
 bezwaar
 feedback
 meldingen
-prd
 rivm
 pushmail
 rdgateway
