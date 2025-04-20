@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-test
 english
+test
 a-www
 a-feeds
 a-opendata
@@ -16,12 +16,13 @@ a-english
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
-magazines
 mijn
+magazines
 api
 cms
 intranet
 vpn
+webservices
 beeldbank
 login
 vpn2
@@ -30,8 +31,10 @@ prod
 ontwikkel
 geodata
 _autodiscover._tcp
-webservices
 zoeken
+acceptatie.beheer
+acceptatie.mijn
+acceptatie.webservices
 werkplek
 ftp
 geoservices
@@ -55,10 +58,8 @@ ns4
 portaal
 vc
 acceptatie.behandel
-acceptatie.beheer
-acceptatie.mijn
-acceptatie.webservices
 acceptatie.zoeken
+beheer
 atlas
 dataportaal
 geoportaal
@@ -892,7 +893,6 @@ acceptatie.api
 acceptatie.tea
 advieswijzer
 behandel
-beheer
 tea
 acceptatie.zoek
 zoek
@@ -1744,6 +1744,11 @@ verkoop
 verkooptest
 vpn3
 vuurwerk
+acc-raadplegen
+acceptatie.raadplegen
+mijn.adr
+raadplegen
+test.webservices
 passwordmanager
 plek
 ra
