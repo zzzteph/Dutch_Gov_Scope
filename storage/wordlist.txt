@@ -56,6 +56,7 @@ www-test
 mdm
 sts
 designsystem
+ftp
 geoservices
 onderzoek
 portal
@@ -1114,7 +1115,6 @@ dossierportal
 ebms
 egain-com
 eu2016
-ftp
 ftpblaise
 fubecasper
 gecko
@@ -1363,6 +1363,7 @@ toelatingen
 emailcluster
 mx001
 wwwnieuw
+staging.english
 passwordmanager
 plek
 ra
