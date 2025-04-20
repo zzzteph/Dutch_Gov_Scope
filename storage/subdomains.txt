@@ -9,10 +9,12 @@ a-english.autoriteitnvs.nl
 a-english.bigregister.nl
 a-english.cbg-meb.nl
 a-english.cbgjaarverslag.nl
+a-english.ctgb.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
 a-feeds.a-english.cbg-meb.nl
+a-feeds.a-english.ctgb.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -24,12 +26,14 @@ a-feeds.cbg-meb.nl
 a-feeds.centralecommissiedierproeven.nl
 a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
+a-feeds.ctgb.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
 a-opendata.a-english.cbg-meb.nl
+a-opendata.a-english.ctgb.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -41,6 +45,7 @@ a-opendata.cbg-meb.nl
 a-opendata.centralecommissiedierproeven.nl
 a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
+a-opendata.ctgb.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
@@ -54,6 +59,7 @@ a-www.cbgjaarverslag.nl
 a-www.centralecommissiedierproeven.nl
 a-www.cibg.nl
 a-www.communicatierijk.nl
+a-www.ctgb.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -131,6 +137,8 @@ acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
 accounts.cbs.nl
 ace_nat17.belastingdienst.nl
+acm-acc.ctgb.nl
+acm.ctgb.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
 adc.cbs.nl
@@ -239,6 +247,7 @@ autodiscover.brabant.nl
 autodiscover.cbi.eu
 autodiscover.cbs.nl
 autodiscover.contactpuntbouwproducten.nl
+autodiscover.ctgb.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -358,6 +367,7 @@ bideo.belastingdienst.nl
 bigregister.nl
 bijleen.belastingdienst.nl
 binnenhofrenovatie.nl
+biociden.ctgb.nl
 biociden.nl
 biosecuritykwetsbaarheidsanalyse.nl
 biosecurityselfscan.nl
@@ -492,6 +502,7 @@ conf.cbg-meb.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 connect-with.brabant.nl
+connect.ctgb.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -518,6 +529,7 @@ crmacc.cbi.eu
 crmtest.cbi.eu
 csirtdsp.nl
 css.openstad.zuid-holland.nl
+ctgb.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
@@ -583,6 +595,7 @@ duo2.belastingdienst.nl
 duurzameescaperoom-light-vr.belastingdienst.nl
 duurzameescaperoom-vr.belastingdienst.nl
 dva.belastingdienst.nl
+dwo.ctgb.nl
 e.denkmee.zuid-holland.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
@@ -604,6 +617,7 @@ english.brabant.nl
 english.cbg-meb.nl
 english.cbgjaarverslag.nl
 english.ccmo.nl
+english.ctgb.nl
 english.zorginstituutnederland.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
@@ -640,6 +654,7 @@ event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
 extern-abv-acc.belastingdienst.nl
+externemail.ctgb.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
 f2b.belastingdienst.nl
@@ -710,12 +725,14 @@ feeds.commissiemijnbouwschade.nl
 feeds.commissievanaanbestedingsexperts.nl
 feeds.communicatierijk.nl
 feeds.compensationsns.nl
+feeds.ctgb.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
 feeds.english.bigregister.nl
 feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
+feeds.english.ctgb.nl
 feeds.english.zorginstituutnederland.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
@@ -743,6 +760,7 @@ fibt1.belastingdienst.nl
 fibt2.acc.belastingdienst.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
+filesender.ctgb.nl
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
 fiod.acc.belastingdienst.nl
@@ -759,6 +777,7 @@ fs-ms-exdns04.brabant.nl
 fs-up-sts01.brabant.nl
 fs-up-sts02.brabant.nl
 fs.belastingdienst.nl
+fs.ctgb.nl
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp.cbs.nl
@@ -807,6 +826,7 @@ geoservertest.brabant.nl
 geoservices.cbs.nl
 geoservices.zuid-holland.nl
 geoservices2.cbs.nl
+gewasbeschermingsmiddelen.ctgb.nl
 good.cbs.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
@@ -890,6 +910,7 @@ instroom.belastingdienst.nl
 int.bronhouderportaal-bro.nl
 intermediairdagen.belastingdienst.nl
 intranet.belastingdienst.nl
+intranet.ctgb.nl
 intratst.belastingdienst.nl
 investerenin.zuid-holland.nl
 isamproxyont.ont.belastingdienst.nl
@@ -963,6 +984,7 @@ lta-tst.zuid-holland.nl
 lta.zuid-holland.nl
 lync.aaenmaas.nl
 lyncdiscover.aaenmaas.nl
+m365.ctgb.nl
 magazine.zuid-holland.nl
 magazines.algemenebestuursdienst.nl
 mail.bapi.belastingdienst.nl
@@ -974,6 +996,7 @@ mail.cbg-meb.nl
 mail.cbi.eu
 mail.cggp.nl
 mail.contactpuntbouwproducten.nl
+mail.ctgb.nl
 mail.dev.cbs.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -984,14 +1007,17 @@ mailrelayh3.cbs.nl
 mailrelayh4.cbs.nl
 mailrelayh5.cbs.nl
 mailrelayh6.cbs.nl
+mam.ctgb.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
 matchingsapp.cbs.nl
 mbg.cbs.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
+mdm-acc.ctgb.nl
 mdm-t.cbg-meb.nl
 mdm.cbg-meb.nl
+mdm.ctgb.nl
 mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
@@ -1109,6 +1135,10 @@ moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
+mst-acc.ctgb.nl
+mst-ci.ctgb.nl
+mst-test.ctgb.nl
+mst.ctgb.nl
 mta-sts.belastingdienst.nl
 mta-sts.mail.cggp.nl
 mtls-tmx-dap-eu.acc.belastingdienst.nl
@@ -1256,16 +1286,22 @@ opendata.commissiemijnbouwschade.nl
 opendata.commissievanaanbestedingsexperts.nl
 opendata.communicatierijk.nl
 opendata.compensationsns.nl
+opendata.ctgb.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
 opendata.english.bigregister.nl
 opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
+opendata.english.ctgb.nl
 opendata.english.zorginstituutnederland.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
+openims-acc.ctgb.nl
+openims-dev.ctgb.nl
+openims-test.ctgb.nl
+openims.ctgb.nl
 openstad.zuid-holland.nl
 opleiding-ola.belastingdienst.nl
 origin.api.contenttoolsrijksoverheid.nl
@@ -1298,7 +1334,9 @@ ovverklaringen.belastingdienst.nl
 owa.contactpuntbouwproducten.nl
 p285st201.utsjaca01.belastingdienst.nl
 papiamentu.belastingdienst-cn.nl
+password.ctgb.nl
 passwordmanager.zorginstituutnederland.nl
+pesticidesdatabase.ctgb.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
 pih.acc.belastingdienst.nl
@@ -1368,6 +1406,8 @@ psarchief.brabant.nl
 psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl
 psproxy.belastingdienst.nl
+public.mst-acc.ctgb.nl
+public.mst.ctgb.nl
 publicaties.brabant.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
@@ -1447,6 +1487,7 @@ seg.cbs.nl
 sepm.belastingdienst.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
+sf.ctgb.nl
 sftp-out.brba.nl
 sftp.cbs.nl
 sftp.test.cbs.nl
@@ -1532,6 +1573,7 @@ te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
 tea.bigregister.nl
 test-ccb.cbs.nl
+test-mam.ctgb.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
@@ -1554,6 +1596,7 @@ test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
 test.status.cbs.nl
 test2gbav.belastingdienst.nl
+testconn.ctgb.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testeloket.aaenmaas.nl
@@ -1564,6 +1607,7 @@ tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
 tmv.cibg.nl
 toekomstscenarios.zuid-holland.nl
+toelatingen.ctgb.nl
 toestemming-acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
 toestemming.belastingdienst.nl
@@ -1737,6 +1781,7 @@ werkenvoor.brabant.nl
 werkenvoor.zuid-holland.nl
 werkplek.brabant.nl
 werkplek.cbs.nl
+werkplek.ctgb.nl
 werkplekom.cbs.nl
 werkpleksso.cbs.nl
 werkplektest.cbs.nl
@@ -1914,6 +1959,7 @@ www.consexponano.nl
 www.contactpuntbouwproducten.nl
 www.crisis.nl
 www.csirtdsp.nl
+www.ctgb.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
