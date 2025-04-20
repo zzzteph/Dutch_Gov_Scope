@@ -5,10 +5,10 @@ feeds
 english
 test
 a-www
-a-feeds
-a-opendata
 feeds.english
 opendata.english
+a-feeds
+a-opendata
 acc
 mail
 autodiscover
@@ -101,6 +101,7 @@ geo
 kennis
 thesaurus
 a-magazines
+mail01
 proto
 www-ac
 www-dev
@@ -1598,7 +1599,6 @@ lyncaccess
 lyncmeet
 lyncwebapps
 mail01.bulk
-mail01
 mail02.bulk
 mail02
 mail03.bulk
