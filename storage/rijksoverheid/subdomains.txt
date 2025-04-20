@@ -733,6 +733,7 @@ digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 digitaleoverheid.nl
 dihoo.eu
+dihoo.nl
 dkb.dictu.nl
 dns.belastingdienst.nl
 dns1.dictu.nl
@@ -941,6 +942,7 @@ feeds.dggf.nl
 feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
+feeds.dihoo.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1289,6 +1291,7 @@ mail.ctgb.nl
 mail.ctivd.nl
 mail.dev.cbs.nl
 mail.dictu.nl
+mail.dihoo.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail02.bulk.dictu.nl
@@ -1632,6 +1635,7 @@ opendata.dggf.nl
 opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
+opendata.dihoo.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2465,6 +2469,7 @@ www.diergeneesmiddeleninformatiebank.nl
 www.digitaalstelselmobiliteitsdata.nl
 www.digitaleoverheid.nl
 www.dihoo.eu
+www.dihoo.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
