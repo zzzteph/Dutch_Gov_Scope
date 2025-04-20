@@ -86,6 +86,7 @@ acc.cbi.eu
 acc.cerberus.cbs.nl
 acc.consexponano.nl
 acc.cparegister.nl
+acc.csirtdsp.nl
 acc.zorginzicht.nl
 accebms.cbs.nl
 acceptatie.advieswijzer.bigregister.nl
@@ -515,6 +516,7 @@ crisis.nl
 crm.cbi.eu
 crmacc.cbi.eu
 crmtest.cbi.eu
+csirtdsp.nl
 css.openstad.zuid-holland.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
@@ -1545,6 +1547,7 @@ test.cerberus.cbs.nl
 test.chemischestoffengoedgeregeld.nl
 test.contactpuntbouwproducten.nl
 test.crisis.nl
+test.csirtdsp.nl
 test.digikoppeling.cibg.nl
 test.ebms.cbs.nl
 test.publicwebservices.cibg.nl
@@ -1910,6 +1913,7 @@ www.compensationsns.nl
 www.consexponano.nl
 www.contactpuntbouwproducten.nl
 www.crisis.nl
+www.csirtdsp.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl

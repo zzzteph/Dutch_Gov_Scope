@@ -86,6 +86,7 @@ https://acc.bronhouderportaal-bro.nl
 https://acc.cbi.eu
 https://acc.cerberus.cbs.nl
 https://acc.consexponano.nl
+https://acc.csirtdsp.nl
 https://acc.zorginzicht.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
@@ -329,6 +330,7 @@ https://crisis.nl
 https://crm.cbi.eu
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
+https://csirtdsp.nl
 https://css.openstad.zuid-holland.nl
 https://dashboards.cbs.nl
 https://data.zuid-holland.nl
@@ -775,6 +777,7 @@ https://test.bromonitor.nl
 https://test.cbi.eu
 https://test.cerberus.cbs.nl
 https://test.crisis.nl
+https://test.csirtdsp.nl
 https://test.publicwebservices.cibg.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testeloket.aaenmaas.nl
@@ -962,6 +965,7 @@ https://www.compensationsns.nl
 https://www.consexponano.nl
 https://www.contactpuntbouwproducten.nl
 https://www.crisis.nl
+https://www.csirtdsp.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.denkmee.zuid-holland.nl
