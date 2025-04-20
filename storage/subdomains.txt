@@ -355,6 +355,7 @@ api.openstad.zuid-holland.nl
 apikey-preprod.ep-online.nl
 apikey.ep-online.nl
 apisimplex.cbs.nl
+apkl.huisvoorklokkenluiders.nl
 aplbepa01.belastingdienst.nl
 aplbeqa01.belastingdienst.nl
 app.brabant.nl
@@ -421,6 +422,7 @@ autodiscover.evenementenbureauvws.nl
 autodiscover.flevoland.nl
 autodiscover.hdsr.nl
 autodiscover.hhdelfland.nl
+autodiscover.huisvoorklokkenluiders.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -1222,6 +1224,7 @@ feeds.hoesterkstaik.nl
 feeds.hogeraadvanadel.nl
 feeds.houdmisdaaduitjebuurt.nl
 feeds.huiselijkgeweld.nl
+feeds.huisvoorklokkenluiders.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1456,6 +1459,7 @@ hrz-uag-ext.belastingdienst.nl
 huiselijkgeweld.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
+huisvoorklokkenluiders.nl
 hulpmiddelen.farmatec.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
@@ -1507,6 +1511,7 @@ instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
 int.bronhouderportaal-bro.nl
+integriteitswijzer.huisvoorklokkenluiders.nl
 intermediairdagen.belastingdienst.nl
 intern.catalogus.cultureelerfgoed.nl
 intranet-acc.flevoland.nl
@@ -1638,6 +1643,7 @@ lyncav.vico.dji.nl
 lyncdiscover.aaenmaas.nl
 lyncmeet.dictu.nl
 lyncwebapps.dictu.nl
+m.huisvoorklokkenluiders.nl
 m365.ctgb.nl
 maatwerkadvies-preprod.api.ep-online.nl
 maatwerkadvies.api.ep-online.nl
@@ -2124,6 +2130,7 @@ opendata.hoesterkstaik.nl
 opendata.hogeraadvanadel.nl
 opendata.houdmisdaaduitjebuurt.nl
 opendata.huiselijkgeweld.nl
+opendata.huisvoorklokkenluiders.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3197,6 +3204,7 @@ www.horizonscangeneesmiddelen.nl
 www.houdmisdaaduitjebuurt.nl
 www.hrcommunityrijk.nl
 www.huiselijkgeweld.nl
+www.huisvoorklokkenluiders.nl
 www.ihg.cbs.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl

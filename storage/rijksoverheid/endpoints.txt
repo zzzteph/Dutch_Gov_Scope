@@ -247,6 +247,7 @@ https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.openstad.zuid-holland.nl
 https://apikey.ep-online.nl
+https://apkl.huisvoorklokkenluiders.nl
 https://app.brabant.nl
 https://applicationframework.cibg.nl
 https://applications.klopt.cibg.nl
@@ -279,6 +280,7 @@ https://authpms-acc.dictu.nl
 https://autodiscover.awti.nl
 https://autodiscover.cvte.nl
 https://autodiscover.evenementenbureauvws.nl
+https://autodiscover.huisvoorklokkenluiders.nl
 https://autorisatie-preprod.brabant.nl
 https://autorisatie-prod.brabant.nl
 https://autoriteitnvs.nl
@@ -794,6 +796,7 @@ https://feeds.hoesterkstaik.nl
 https://feeds.hogeraadvanadel.nl
 https://feeds.houdmisdaaduitjebuurt.nl
 https://feeds.huiselijkgeweld.nl
+https://feeds.huisvoorklokkenluiders.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -910,6 +913,7 @@ https://horizonscangeneesmiddelen.nl
 https://houdmisdaaduitjebuurt.nl
 https://huiselijkgeweld.nl
 https://huisstijl.belastingdienst.nl
+https://huisvoorklokkenluiders.nl
 https://hulpmiddelen.farmatec.nl
 https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
@@ -930,6 +934,7 @@ https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
 https://inmemoriam.dictu.nl
 https://instroom.belastingdienst.nl
+https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intranet-bestanden.flevoland.nl
@@ -997,6 +1002,7 @@ https://luchtfoto.flevoland.nl
 https://lustrumleaguerijk.evenementenbureauvws.nl
 https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
+https://m.huisvoorklokkenluiders.nl
 https://maatwerkadvies.api.ep-online.nl
 https://magazine.zuid-holland.nl
 https://magazines.algemenebestuursdienst.nl
@@ -1246,6 +1252,7 @@ https://opendata.hoesterkstaik.nl
 https://opendata.hogeraadvanadel.nl
 https://opendata.houdmisdaaduitjebuurt.nl
 https://opendata.huiselijkgeweld.nl
+https://opendata.huisvoorklokkenluiders.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -1761,6 +1768,7 @@ https://www.horizonscangeneesmiddelen.nl
 https://www.houdmisdaaduitjebuurt.nl
 https://www.hrcommunityrijk.nl
 https://www.huiselijkgeweld.nl
+https://www.huisvoorklokkenluiders.nl
 https://www.ihg.cbs.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
