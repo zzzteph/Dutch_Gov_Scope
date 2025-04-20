@@ -1,3 +1,5 @@
+http://a-next-cms.contenttoolsrijksoverheid.nl
+http://a-old-cms.contenttoolsrijksoverheid.nl
 http://acc.avgregisterrijksoverheid.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
@@ -58,6 +60,9 @@ http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
 https://100aardgasvrijewijken.nl
+https://a-api.contenttoolsrijksoverheid.nl
+https://a-cms.contenttoolsrijksoverheid.nl
+https://a-origin.api.contenttoolsrijksoverheid.nl
 https://a2vonderenkerensheide.nl
 https://aaenmaas.nl
 https://aanbiedersmedicijnen.nl
@@ -141,6 +146,7 @@ https://api-ota.belastingdienst.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.caelus-tool.nl
+https://api.contenttoolsrijksoverheid.nl
 https://api.denkmee.zuid-holland.nl
 https://api.klopt.cibg.nl
 https://api.openstad.zuid-holland.nl
@@ -295,6 +301,7 @@ https://claircitydata.cbs.nl
 https://clusterbuster.nl
 https://cms.beeldkompas.nl
 https://cms.bureaubiosecurity.nl
+https://cms.contenttoolsrijksoverheid.nl
 https://cms.denkmee.zuid-holland.nl
 https://cn.cbs.nl
 https://codexalimentarius.nl
@@ -598,6 +605,7 @@ https://oa.aaenmaas.nl
 https://odata.cbs.nl
 https://odb.belastingdienst.nl
 https://oefenvragenlijst.cbs.nl
+https://old-cms.contenttoolsrijksoverheid.nl
 https://old.belastingles.nl
 https://omgevingsbeleid.zuid-holland.nl
 https://omgevingsdocumenten.zuid-holland.nl
@@ -676,6 +684,7 @@ https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
 https://openstad.zuid-holland.nl
 https://opleiding-ola.belastingdienst.nl
+https://origin.api.contenttoolsrijksoverheid.nl
 https://oto.cbs.nl
 https://over-ons.belastingdienst.nl
 https://overzicht.cbs.nl

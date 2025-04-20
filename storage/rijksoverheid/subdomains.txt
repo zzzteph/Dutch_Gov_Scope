@@ -2,6 +2,8 @@
 _autodiscover._tcp.belastingdienst-cn.nl
 _autodiscover._tcp.ceg.nl
 _dmarc.cibg.nl
+a-api.contenttoolsrijksoverheid.nl
+a-cms.contenttoolsrijksoverheid.nl
 a-english.aivd.nl
 a-english.autoriteitnvs.nl
 a-english.bigregister.nl
@@ -22,6 +24,8 @@ a-feeds.cbg-meb.nl
 a-feeds.centralecommissiedierproeven.nl
 a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
+a-next-cms.contenttoolsrijksoverheid.nl
+a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
@@ -37,6 +41,7 @@ a-opendata.cbg-meb.nl
 a-opendata.centralecommissiedierproeven.nl
 a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
+a-origin.api.contenttoolsrijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.antennebureau.nl
@@ -185,6 +190,7 @@ api.belastingdienst.nl
 api.bigregister.nl
 api.brabant.nl
 api.caelus-tool.nl
+api.contenttoolsrijksoverheid.nl
 api.denkmee.zuid-holland.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
@@ -465,6 +471,7 @@ claircitydata.cbs.nl
 clusterbuster.nl
 cms.beeldkompas.nl
 cms.bureaubiosecurity.nl
+cms.contenttoolsrijksoverheid.nl
 cms.denkmee.zuid-holland.nl
 cn.cbs.nl
 coalitieakkoord.zuid-holland.nl
@@ -493,6 +500,7 @@ content.cbs.nl
 content.klopt.cibg.nl
 content1.cbs.nl
 contentadapter.cbs.nl
+contenttoolsrijksoverheid.nl
 corsa-acpt.brabant.nl
 corsa.brabant.nl
 corsa2023.brabant.nl
@@ -1128,6 +1136,26 @@ ns3.belastingdienst.nl
 ns3.brabant.nl
 ns4.belastingdienst.nl
 ns4.brabant.nl
+o1-api.contenttoolsrijksoverheid.nl
+o1-cms.contenttoolsrijksoverheid.nl
+o1-next-cms.contenttoolsrijksoverheid.nl
+o1-old-cms.contenttoolsrijksoverheid.nl
+o2-api.contenttoolsrijksoverheid.nl
+o2-cms.contenttoolsrijksoverheid.nl
+o2-next-cms.contenttoolsrijksoverheid.nl
+o2-old-cms.contenttoolsrijksoverheid.nl
+o3-api.contenttoolsrijksoverheid.nl
+o3-cms.contenttoolsrijksoverheid.nl
+o3-next-cms.contenttoolsrijksoverheid.nl
+o3-old-cms.contenttoolsrijksoverheid.nl
+o4-api.contenttoolsrijksoverheid.nl
+o4-cms.contenttoolsrijksoverheid.nl
+o4-next-cms.contenttoolsrijksoverheid.nl
+o4-old-cms.contenttoolsrijksoverheid.nl
+o5-api.contenttoolsrijksoverheid.nl
+o5-cms.contenttoolsrijksoverheid.nl
+o5-next-cms.contenttoolsrijksoverheid.nl
+o5-old-cms.contenttoolsrijksoverheid.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
 o5002proxvapp.ont.belastingdienst.nl
@@ -1143,6 +1171,7 @@ officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
 oladc_85_prod_vs36.poort.belastingdienst.nl
+old-cms.contenttoolsrijksoverheid.nl
 old.belastingles.nl
 ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
@@ -1234,6 +1263,7 @@ opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 openstad.zuid-holland.nl
 opleiding-ola.belastingdienst.nl
+origin.api.contenttoolsrijksoverheid.nl
 osb-acpt.brabant.nl
 osb-ontw.brabant.nl
 osb-test.brabant.nl
@@ -1487,6 +1517,10 @@ survey.cibg.nl
 surveys.cbs.nl
 sva-mix.prod.belastingdienst.nl
 sva.prod.belastingdienst.nl
+t-api.contenttoolsrijksoverheid.nl
+t-cms.contenttoolsrijksoverheid.nl
+t-next-cms.contenttoolsrijksoverheid.nl
+t-old-cms.contenttoolsrijksoverheid.nl
 t-test.belastingdienst.nl
 taxonomie.cbs.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
