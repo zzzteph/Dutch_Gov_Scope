@@ -1380,6 +1380,7 @@ gtmzperf.acc.belastingdienst.nl
 gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
 gw.defensie.nl
+handelingenbank.info
 hcib.datawonen.nl
 helloid.aaenmaas.nl
 helpdesk.brba.nl
@@ -1603,6 +1604,7 @@ mail.evenementenbureauvws.nl
 mail.flevoland.nl
 mail.forensicinstitute.nl
 mail.forensischinstituut.nl
+mail.handelingenbank.info
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail01.dsta.nl
@@ -2490,6 +2492,7 @@ test.ebms.cbs.nl
 test.flevoland.nl
 test.geoservices.cultureelerfgoed.nl
 test.gezondeleefomgeving.nl
+test.handelingenbank.info
 test.intranet-demo.dictu.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
@@ -3060,6 +3063,7 @@ www.grensinfo.nl
 www.grenzeloossamenwerken.nl
 www.groeiennaarmorgen.nl
 www.gtmx.acc.belastingdienst.nl
+www.handelingenbank.info
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
