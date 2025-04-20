@@ -905,6 +905,7 @@ enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
 ep-online.nl
+erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
 esb-a1.brabant.nl
 esb-acpt.brabant.nl
@@ -1078,6 +1079,7 @@ feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.zorginstituutnederland.nl
+feeds.erfgoeddeal.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1826,6 +1828,7 @@ opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.zorginstituutnederland.nl
+opendata.erfgoeddeal.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2742,6 +2745,7 @@ www.emissionsauthority.nl
 www.emm-online.nl
 www.energierijkdenhaag.nl
 www.ep-online.nl
+www.erfgoeddeal.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
