@@ -41,6 +41,7 @@ http://longread.brabant.nl
 http://mail.dev.cbs.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
+http://mobiel.douane.nl
 http://odata4.cbs.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oosweb.cbs.nl
@@ -177,6 +178,7 @@ https://adc7.cbs.nl
 https://admin.denkmee.zuid-holland.nl
 https://admin.openstad.zuid-holland.nl
 https://adobe-analytics-dc.belastingdienst.nl
+https://adobe-analytics-dc.douane.nl
 https://adviescollegeicttoetsing.nl
 https://adviescollegeregeldruk.nl
 https://adviescollegeveiligheidgroningen.nl
@@ -338,6 +340,7 @@ https://bureauncdr.nl
 https://bureausaneringverkeerslawaai.nl
 https://bureauwbtv.nl
 https://bureauwsnp.nl
+https://bvinet.douane.nl
 https://bvs.belastingdienst.nl
 https://bzv-a.brabant.nl
 https://bzv.brabant.nl
@@ -478,6 +481,7 @@ https://doemee.cbs.nl
 https://domeinenrz.nl
 https://donorregister.nl
 https://dossierportal.cbs.nl
+https://douane.nl
 https://download.belastingdienst.nl
 https://download.cbs.nl
 https://dp2021.deltaprogramma.nl
@@ -492,7 +496,9 @@ https://drms.cibg.nl
 https://dva.belastingdienst.nl
 https://dvfz.dji.nl
 https://dwo.ctgb.nl
+https://e.acc.videobellen.douane.nl
 https://e.denkmee.zuid-holland.nl
+https://e.videobellen.douane.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://efm.belastingdienst.nl
@@ -530,6 +536,8 @@ https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://eubtw.belastingdienst.nl
 https://examenplein.cvte.nl
+https://exchangerate.douane.nl
+https://exchangeratetest.douane.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
 https://faro.cultureelerfgoed.nl
@@ -820,6 +828,7 @@ https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://nationaalcohortonderzoek.cbs.nl
 https://natura2000-data.zuid-holland.nl
+https://nh.douane.nl
 https://nieuws.brabant.nl
 https://nieuwsbrief.zuid-holland.nl
 https://nimh-beeldbank.defensie.nl
@@ -1045,6 +1054,7 @@ https://subsidieportaal.zuid-holland.nl
 https://subsidieregister.zuid-holland.nl
 https://surveys.cbs.nl
 https://syswov.datawonen.nl
+https://tarief.douane.nl
 https://taxonomie.cbs.nl
 https://tea.bigregister.nl
 https://test-azure06.dictu.nl
@@ -1083,6 +1093,8 @@ https://uag.cbs.nl
 https://uitwisseling.cbs.nl
 https://upload.cbs.nl
 https://uzipas.lir.cibg.nl
+https://validationcalculation.douane.nl
+https://validationcalculationtest.douane.nl
 https://veilig.cultureelerfgoed.nl
 https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
@@ -1132,6 +1144,8 @@ https://website.belastingdienst.nl
 https://wegen.brabant.nl
 https://welkombij.cbs.nl
 https://werken.belastingdienst.nl
+https://werken.douane.nl
+https://werkenbij.douane.nl
 https://werkenvoor.brabant.nl
 https://werkenvoor.zuid-holland.nl
 https://werkplek.brabant.nl
@@ -1145,6 +1159,7 @@ https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://windlansingerland.zuid-holland.nl
 https://wms.aanpakringzuid.nl
+https://wpx-80-aix-http.douane.nl
 https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
 https://www-acc.cbs.nl
@@ -1304,6 +1319,7 @@ https://www.dihoo.nl
 https://www.dji.nl
 https://www.domeinenrz.nl
 https://www.donorregister.nl
+https://www.douane.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl
