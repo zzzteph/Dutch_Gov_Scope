@@ -1218,6 +1218,7 @@ feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
 feeds.healthcouncil.nl
+feeds.hoesterkstaik.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1444,6 +1445,7 @@ historisch.cbs.nl
 historische-luchtfoto.flevoland.nl
 historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
+hoesterkstaik.nl
 hrz-uag-ext.belastingdienst.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
@@ -2111,6 +2113,7 @@ opendata.groeiennaarmorgen.nl
 opendata.hansken.nl
 opendata.healthcouncil.nl
 opendata.hhdelfland.nl
+opendata.hoesterkstaik.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3170,6 +3173,7 @@ www.healthcouncil.nl
 www.hetverhaalvan.flevoland.nl
 www.hhdelfland.nl
 www.historisch.cbs.nl
+www.hoesterkstaik.nl
 www.ihg.cbs.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
