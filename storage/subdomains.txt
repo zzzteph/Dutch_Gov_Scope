@@ -952,6 +952,7 @@ english.dsta.nl
 english.euthanasiecommissie.nl
 english.farmatec.nl
 english.forensischinstituut.nl
+english.globalhealthhub.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1155,6 +1156,7 @@ feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.euthanasiecommissie.nl
 feeds.english.farmatec.nl
+feeds.english.globalhealthhub.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1168,6 +1170,7 @@ feeds.forensischinstituut.nl
 feeds.gelijke-kansen.nl
 feeds.geobasisregistraties.nl
 feeds.gezondheidsraad.nl
+feeds.globalhealthhub.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1306,6 +1309,7 @@ gipdatabank.nl
 gisextern.dictu.nl
 gitlab-acc.dictu.nl
 gitlab.dictu.nl
+globalhealthhub.nl
 good.cbs.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
@@ -1982,6 +1986,7 @@ opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.euthanasiecommissie.nl
 opendata.english.farmatec.nl
+opendata.english.globalhealthhub.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -1995,6 +2000,7 @@ opendata.forensischinstituut.nl
 opendata.gelijke-kansen.nl
 opendata.geobasisregistraties.nl
 opendata.gezondheidsraad.nl
+opendata.globalhealthhub.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2997,6 +3003,7 @@ www.gezondeleefomgeving.nl
 www.gezondheidsraad.nl
 www.ggo-vergunningen.nl
 www.gipdatabank.nl
+www.globalhealthhub.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
