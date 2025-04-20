@@ -53,6 +53,7 @@ atlas
 dataportaal
 geoportaal
 geoserver
+kaarten
 proxy
 samenwerken
 werkenvoor
@@ -957,7 +958,6 @@ informatie-acpt
 informatie-ext
 informatie-rws
 kaartbank
-kaarten
 longread
 mail240
 mail241
@@ -1431,6 +1431,17 @@ www.veilig
 examenplein
 api-acc
 generiekefuncties
+55plus
+begrippenlijst
+btiv
+dfg
+hcib
+ibw
+mn
+primos
+pwik
+syswov
+vois
 passwordmanager
 plek
 ra

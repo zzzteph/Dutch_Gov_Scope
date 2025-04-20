@@ -1,4 +1,5 @@
 100aardgasvrijewijken.nl
+55plus.datawonen.nl
 _autodiscover._tcp.belastingdienst-cn.nl
 _autodiscover._tcp.ceg.nl
 _dmarc.cibg.nl
@@ -348,6 +349,7 @@ beeldbank.zuid-holland.nl
 beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
 beeldkompas.nl
+begrippenlijst.datawonen.nl
 begroting.brabant.nl
 behandel.bigregister.nl
 behandel.generiekeregistratiedienst.cibg.nl
@@ -456,6 +458,7 @@ bronbeek.nl
 bronhouderportaal-bro.nl
 brp-test.belastingdienst.nl
 brp.belastingdienst.nl
+btiv.datawonen.nl
 btube.belastingdienst.nl
 btubeont.vcdn.belastingdienst.nl
 btubetst.vcdn.belastingdienst.nl
@@ -593,6 +596,7 @@ dataservice.basisinformatie-overstromingen.nl
 dataset.cbs.nl
 datasets.cbs.nl
 datavoorgezondheid.nl
+datawonen.nl
 datumprikker.belastingdienst.nl
 db.cbg-meb.nl
 dbpmo.belastingdienst.nl
@@ -608,6 +612,7 @@ desktop.klopt.cibg.nl
 detoekomstbegintnu.brabant.nl
 dev.bronhouderportaal-bro.nl
 dev.cerberus.cbs.nl
+dfg.datawonen.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 digicheck.brabant.nl
@@ -938,6 +943,7 @@ gtmz.str14.acc.belastingdienst.nl
 gtmzperf.acc.belastingdienst.nl
 gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
+hcib.datawonen.nl
 helloid.aaenmaas.nl
 helpdesk.brba.nl
 helpmee.cbs.nl
@@ -955,6 +961,7 @@ hybrid.brabant.nl
 hybridexo.cbs.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
+ibw.datawonen.nl
 icdesk.zuid-holland.nl
 id.brabant.nl
 ideal20-cnf.belastingdienst.nl
@@ -1005,6 +1012,7 @@ jmopendata.cbs.nl
 jong.belastingdienst.nl
 kaartbank.brabant.nl
 kaarten.brabant.nl
+kaarten.datawonen.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -1211,6 +1219,7 @@ mlzstatline.cbs.nl
 mm.acc.belastingdienst.nl
 mm.belastingdienst.nl
 mm.ont.belastingdienst.nl
+mn.datawonen.nl
 mobicert.brabant.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 monitorleefomgeving.zuid-holland.nl
@@ -1489,6 +1498,7 @@ preprod-belastingen.zuid-holland.nl
 preprod-kvk.belastingdienst.nl
 preprod.idselect.cultureelerfgoed.nl
 presenteren.ont.belastingdienst.nl
+primos.datawonen.nl
 prod-kvk.belastingdienst.nl
 prod.asbestvolgsysteem.nl
 prod.cultureelerfgoed.nl
@@ -1516,6 +1526,7 @@ publicwebservices.cibg.nl
 pushmail.awti.nl
 pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
+pwik.datawonen.nl
 qapbldexte2.belastingdienst.nl
 qbes.cbs.nl
 ra.zorginstituutnederland.nl
@@ -1669,6 +1680,7 @@ survey.cibg.nl
 surveys.cbs.nl
 sva-mix.prod.belastingdienst.nl
 sva.prod.belastingdienst.nl
+syswov.datawonen.nl
 t-api.contenttoolsrijksoverheid.nl
 t-cms.contenttoolsrijksoverheid.nl
 t-next-cms.contenttoolsrijksoverheid.nl
@@ -1819,6 +1831,7 @@ vinden.belastingdienst.nl
 virtueel.zuid-holland.nl
 vocabs.cbs.nl
 voi.brabant.nl
+vois.datawonen.nl
 vpg-aag-test.belastingdienst.nl
 vpn.belastingdienst.nl
 vpn.brabant.nl
@@ -2093,6 +2106,7 @@ www.dashboardgroningen.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.datavoorgezondheid.nl
+www.datawonen.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl

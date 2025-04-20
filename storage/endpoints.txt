@@ -69,6 +69,7 @@ http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
 https://100aardgasvrijewijken.nl
+https://55plus.datawonen.nl
 https://a-api.contenttoolsrijksoverheid.nl
 https://a-cms.contenttoolsrijksoverheid.nl
 https://a-origin.api.contenttoolsrijksoverheid.nl
@@ -223,6 +224,7 @@ https://beeldbank.zuid-holland.nl
 https://beeldbankbeheer.zuid-holland.nl
 https://beeldbankbelastingdienst.nl
 https://beeldkompas.nl
+https://begrippenlijst.datawonen.nl
 https://begroting.brabant.nl
 https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
@@ -284,6 +286,7 @@ https://bromonitor.nl
 https://bron.nl
 https://bronbeek.nl
 https://bronhouderportaal-bro.nl
+https://btiv.datawonen.nl
 https://bureaubiosecurity.nl
 https://bureauncdr.nl
 https://bureausaneringverkeerslawaai.nl
@@ -386,6 +389,7 @@ https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
 https://datavoorgezondheid.nl
+https://datawonen.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://dcp-time-slot.cbg-meb.nl
@@ -398,6 +402,7 @@ https://designsystem.cbs.nl
 https://designsystem.cibg.nl
 https://desktop.klopt.cibg.nl
 https://dev.cerberus.cbs.nl
+https://dfg.datawonen.nl
 https://dialin.aaenmaas.nl
 https://digicheck.brabant.nl
 https://digitaalmkb.zuid-holland.nl
@@ -570,6 +575,7 @@ https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
 https://gtmz.belastingdienst.nl
+https://hcib.datawonen.nl
 https://helloid.aaenmaas.nl
 https://helpdesk.brba.nl
 https://helpmee.cbs.nl
@@ -579,6 +585,7 @@ https://historisch.cbs.nl
 https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://huisstijl.belastingdienst.nl
+https://ibw.datawonen.nl
 https://icdesk.zuid-holland.nl
 https://id.brabant.nl
 https://idselect.cultureelerfgoed.nl
@@ -607,6 +614,7 @@ https://jeugdstatline.cbs.nl
 https://jmopendata.cbs.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
+https://kaarten.datawonen.nl
 https://kavaanalytics.vcdn.belastingdienst.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
@@ -669,6 +677,7 @@ https://mkbstatline.cbs.nl
 https://mlzopendata.cbs.nl
 https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
+https://mn.datawonen.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitorleefomgeving.zuid-holland.nl
 https://monumentenregister.cultureelerfgoed.nl
@@ -809,6 +818,7 @@ https://prd.atlasleefomgeving.nl
 https://prd.consexponano.nl
 https://preprod-belastingen.zuid-holland.nl
 https://preprod.idselect.cultureelerfgoed.nl
+https://primos.datawonen.nl
 https://prod.asbestvolgsysteem.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
@@ -822,6 +832,7 @@ https://psarchief.brabant.nl
 https://public.mst.ctgb.nl
 https://publicaties.brabant.nl
 https://pushmail.awti.nl
+https://pwik.datawonen.nl
 https://redactie-acc.cbs.nl
 https://redactie.cbs.nl
 https://redactie.zuid-holland.nl
@@ -872,6 +883,7 @@ https://subsidie.cultureelerfgoed.nl
 https://subsidieportaal.zuid-holland.nl
 https://subsidieregister.zuid-holland.nl
 https://surveys.cbs.nl
+https://syswov.datawonen.nl
 https://taxonomie.cbs.nl
 https://tea.bigregister.nl
 https://test.belastingdienst-cn.nl
@@ -918,6 +930,7 @@ https://viep.test.brba.nl
 https://vinden.belastingdienst.nl
 https://virtueel.zuid-holland.nl
 https://vocabs.cbs.nl
+https://vois.datawonen.nl
 https://vpn.brabant.nl
 https://vpn.cbg-meb.nl
 https://vpn2.aaenmaas.nl
@@ -1091,6 +1104,7 @@ https://www.dashboardgroningen.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.datavoorgezondheid.nl
+https://www.datawonen.nl
 https://www.denkmee.zuid-holland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
