@@ -1173,6 +1173,7 @@ feeds.gezondheidsraad.nl
 feeds.globalhealthhub.nl
 feeds.gobernadoraruba.com
 feeds.gobernadorkorsou.com
+feeds.gobiernodireino.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1314,6 +1315,7 @@ gitlab.dictu.nl
 globalhealthhub.nl
 gobernadoraruba.com
 gobernadorkorsou.com
+gobiernodireino.nl
 good.cbs.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
@@ -2007,6 +2009,7 @@ opendata.gezondheidsraad.nl
 opendata.globalhealthhub.nl
 opendata.gobernadoraruba.com
 opendata.gobernadorkorsou.com
+opendata.gobiernodireino.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3012,6 +3015,7 @@ www.gipdatabank.nl
 www.globalhealthhub.nl
 www.gobernadoraruba.com
 www.gobernadorkorsou.com
+www.gobiernodireino.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
