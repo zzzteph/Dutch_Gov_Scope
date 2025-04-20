@@ -17,6 +17,7 @@ a-english.cbgjaarverslag.nl
 a-english.ctgb.nl
 a-english.ctivd.nl
 a-english.defensie.nl
+a-english.dggf.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -24,6 +25,7 @@ a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
 a-feeds.a-english.ctivd.nl
 a-feeds.a-english.defensie.nl
+a-feeds.a-english.dggf.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -39,6 +41,7 @@ a-feeds.ctgb.nl
 a-feeds.ctivd.nl
 a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
+a-feeds.dggf.nl
 a-magazines.defensie.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
@@ -49,6 +52,7 @@ a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
 a-opendata.a-english.ctivd.nl
 a-opendata.a-english.defensie.nl
+a-opendata.a-english.dggf.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -64,6 +68,7 @@ a-opendata.ctgb.nl
 a-opendata.ctivd.nl
 a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
+a-opendata.dggf.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -83,6 +88,7 @@ a-www.ctgb.nl
 a-www.ctivd.nl
 a-www.cultuursubsidie.nl
 a-www.defensie.nl
+a-www.dggf.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -640,6 +646,7 @@ dev.bronhouderportaal-bro.nl
 dev.cerberus.cbs.nl
 dezi.nl
 dfg.datawonen.nl
+dggf.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 digicheck.brabant.nl
@@ -709,6 +716,7 @@ english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
 english.defensie.nl
 english.deltaprogramma.nl
+english.dggf.nl
 english.zorginstituutnederland.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
@@ -834,6 +842,7 @@ feeds.deltaprogramma.nl
 feeds.denkdoeduurzaam.nl
 feeds.deutsch.postedworkers.nl
 feeds.dezi.nl
+feeds.dggf.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -845,6 +854,7 @@ feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
+feeds.english.dggf.nl
 feeds.english.zorginstituutnederland.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
@@ -1453,6 +1463,7 @@ opendata.deltaprogramma.nl
 opendata.denkdoeduurzaam.nl
 opendata.deutsch.postedworkers.nl
 opendata.dezi.nl
+opendata.dggf.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1464,6 +1475,7 @@ opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
+opendata.english.dggf.nl
 opendata.english.zorginstituutnederland.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
@@ -2186,6 +2198,7 @@ www.deltaprogramma.nl
 www.denkdoeduurzaam.nl
 www.denkmee.zuid-holland.nl
 www.dezi.nl
+www.dggf.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
