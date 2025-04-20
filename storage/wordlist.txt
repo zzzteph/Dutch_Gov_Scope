@@ -42,6 +42,7 @@ mdm
 academy
 ftp
 geoservices
+portal
 connect
 data
 geo
@@ -112,7 +113,6 @@ cdn
 designsystem
 micollab
 onderzoek
-portal
 redactie
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
@@ -1952,6 +1952,12 @@ www.risicokaart
 dnajaarverslag2011
 jaarverslag2011
 mijnacademy
+co
+extern
+portal2
+portalco
+stagefonds
+www2
 passwordmanager
 plek
 ra
