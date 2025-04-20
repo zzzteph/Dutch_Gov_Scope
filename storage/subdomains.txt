@@ -742,6 +742,7 @@ dihoo.eu
 dihoo.nl
 dji.nl
 dkb.dictu.nl
+dnadatabank.forensischinstituut.nl
 dns.belastingdienst.nl
 dns1.dictu.nl
 dns2.dictu.nl
@@ -958,6 +959,7 @@ feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
 feeds.dihoo.nl
 feeds.dji.nl
+feeds.dnadatabank.forensischinstituut.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1658,6 +1660,7 @@ opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
 opendata.dihoo.nl
 opendata.dji.nl
+opendata.dnadatabank.forensischinstituut.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl

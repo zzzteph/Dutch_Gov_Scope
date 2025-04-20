@@ -1729,6 +1729,9 @@ plan.beeldbellen
 sip.vico
 video-acc.beeldbellen
 video.beeldbellen
+dnadatabank
+feeds.dnadatabank
+opendata.dnadatabank
 passwordmanager
 plek
 ra
