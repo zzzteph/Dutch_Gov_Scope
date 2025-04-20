@@ -573,6 +573,7 @@ ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
 cultureelerfgoed.nl
 cultuursubsidie.nl
+cybersecuritycouncil.nl
 dagstaatmonitors.brabant.nl
 dashboards.cbs.nl
 data.cultureelerfgoed.nl
@@ -779,6 +780,7 @@ feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
 feeds.cvte.nl
+feeds.cybersecuritycouncil.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1368,6 +1370,7 @@ opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
 opendata.cvte.nl
+opendata.cybersecuritycouncil.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2073,6 +2076,7 @@ www.ctpveldzicht.nl
 www.cultureelerfgoed.nl
 www.cultuursubsidie.nl
 www.cvte.nl
+www.cybersecuritycouncil.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
