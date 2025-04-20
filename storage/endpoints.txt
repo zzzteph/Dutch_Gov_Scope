@@ -198,6 +198,7 @@ https://auth.denkmee.zuid-holland.nl
 https://auth.openstad.zuid-holland.nl
 https://auth.services.cultureelerfgoed.nl
 https://autodiscover.awti.nl
+https://autodiscover.cvte.nl
 https://autorisatie-preprod.brabant.nl
 https://autorisatie-prod.brabant.nl
 https://autoriteitnvs.nl
@@ -434,6 +435,7 @@ https://esb-t1.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://eubtw.belastingdienst.nl
+https://examenplein.cvte.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
 https://faro.cultureelerfgoed.nl
@@ -500,6 +502,7 @@ https://feeds.ctivd.nl
 https://feeds.ctpveldzicht.nl
 https://feeds.cultureelerfgoed.nl
 https://feeds.cultuursubsidie.nl
+https://feeds.cvte.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -749,6 +752,7 @@ https://opendata.ctivd.nl
 https://opendata.ctpveldzicht.nl
 https://opendata.cultureelerfgoed.nl
 https://opendata.cultuursubsidie.nl
+https://opendata.cvte.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1066,6 +1070,7 @@ https://www.ctivd.nl
 https://www.ctpveldzicht.nl
 https://www.cultureelerfgoed.nl
 https://www.cultuursubsidie.nl
+https://www.cvte.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.denkmee.zuid-holland.nl
