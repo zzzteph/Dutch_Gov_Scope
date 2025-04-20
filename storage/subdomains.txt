@@ -50,6 +50,7 @@ a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
 a-feeds.dggf.nl
 a-feeds.dus-i.nl
+a-feeds.dwangindezorg.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-next-cms.contenttoolsrijksoverheid.nl
@@ -79,6 +80,7 @@ a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
 a-opendata.dggf.nl
 a-opendata.dus-i.nl
+a-opendata.dwangindezorg.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -100,6 +102,7 @@ a-www.cultuursubsidie.nl
 a-www.defensie.nl
 a-www.dggf.nl
 a-www.dus-i.nl
+a-www.dwangindezorg.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -812,6 +815,7 @@ dvfz-acc-auth.dji.nl
 dvfz-acc.dji.nl
 dvfz-auth.dji.nl
 dvfz.dji.nl
+dwangindezorg.nl
 dwo.ctgb.nl
 e.acc.videobellen.douane.nl
 e.denkmee.zuid-holland.nl
@@ -1013,6 +1017,7 @@ feeds.dutchncca.nl
 feeds.dutchoffshorewindatlas.nl
 feeds.dutchrapporteur.nl
 feeds.duurzame-infra.nl
+feeds.dwangindezorg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1745,6 +1750,7 @@ opendata.dutchncca.nl
 opendata.dutchoffshorewindatlas.nl
 opendata.dutchrapporteur.nl
 opendata.duurzame-infra.nl
+opendata.dwangindezorg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2626,6 +2632,7 @@ www.dutchncca.nl
 www.dutchoffshorewindatlas.nl
 www.dutchrapporteur.nl
 www.duurzame-infra.nl
+www.dwangindezorg.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
