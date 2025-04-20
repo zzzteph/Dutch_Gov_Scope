@@ -13,10 +13,10 @@ acc
 mail
 autodiscover
 a-english
+mijn
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
-mijn
 magazines
 api
 cms
@@ -86,6 +86,7 @@ samenwerken
 werkenvoor
 wifi
 www-test
+static
 mdm
 sts
 cdn
@@ -107,6 +108,7 @@ thesaurus
 a-magazines
 mail01
 mailing
+nieuwsbrief
 proto
 www-ac
 www-dev
@@ -1058,7 +1060,6 @@ ws
 www.mail
 relay1
 relay2
-static
 b2bi-acc
 b2bi
 conf
@@ -1860,6 +1861,9 @@ lustrumleaguerijk
 overhandigingroadmapnucleairegeneeskunde
 voicejouwzeggenschapjouwkracht2024
 webdisk
+piwik
+piwik2
+www.nieuwsbrief
 passwordmanager
 plek
 ra
@@ -1922,7 +1926,6 @@ magazine
 monitor-klimaatadaptatie
 monitorleefomgeving
 natura2000-data
-nieuwsbrief
 omgevingsbeleid
 omgevingsdocumenten
 openstad
