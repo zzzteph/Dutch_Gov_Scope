@@ -20,6 +20,7 @@ mijn
 magazines
 api
 cms
+webmail
 intranet
 vpn
 webservices
@@ -28,7 +29,6 @@ www-acc
 login
 sip
 vpn2
-webmail
 prod
 ontwikkel
 geodata
@@ -1849,6 +1849,17 @@ www.proxy-epbd
 www2.acc1
 www2.acc1.webapplicaties
 www3
+aangiftebereidheid
+cpanel
+cpcalendars
+cpcontacts
+gala2024
+komerbij-pakket2024
+landelijkeopeningwte2024
+lustrumleaguerijk
+overhandigingroadmapnucleairegeneeskunde
+voicejouwzeggenschapjouwkracht2024
+webdisk
 passwordmanager
 plek
 ra
