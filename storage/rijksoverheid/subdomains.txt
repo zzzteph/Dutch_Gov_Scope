@@ -1138,6 +1138,7 @@ feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
 feeds.expertisecentrummggz.nl
 feeds.farmatec.nl
+feeds.fmhaaglanden.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1173,6 +1174,7 @@ filetransfer.ont.belastingdienst.nl
 financiengemeenten.nl
 fiod.acc.belastingdienst.nl
 flevoland.nl
+fmhaaglanden.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 forms.klopt.cibg.nl
@@ -1939,6 +1941,7 @@ opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
 opendata.farmatec.nl
+opendata.fmhaaglanden.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2914,6 +2917,7 @@ www.farmatec.nl
 www.fbb-handreiking.nl
 www.financiengemeenten.nl
 www.flevoland.nl
+www.fmhaaglanden.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
