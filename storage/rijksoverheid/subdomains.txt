@@ -212,6 +212,7 @@ acceptatie.drms.cibg.nl
 acceptatie.dustex.nl
 acceptatie.ebms.digikoppeling.cibg.nl
 acceptatie.geoservices.cultureelerfgoed.nl
+acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
@@ -908,6 +909,7 @@ english.domeinenrz.nl
 english.donorregister.nl
 english.dsta.nl
 english.euthanasiecommissie.nl
+english.farmatec.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -979,6 +981,7 @@ f2b.belastingdienst.nl
 facilitor.brabant.nl
 fad-gegevens-sit.belastingdienst.nl
 farmacotherapeutischkompas.nl
+farmatec.nl
 faro.cultureelerfgoed.nl
 fatcacrs.belastingdienst.nl
 fatcacrstest.belastingdienst.nl
@@ -1100,11 +1103,13 @@ feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.euthanasiecommissie.nl
+feeds.english.farmatec.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
 feeds.expertisecentrummggz.nl
+feeds.farmatec.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1275,6 +1280,7 @@ historischebeeldenbeheer.cbs.nl
 hrz-uag-ext.belastingdienst.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
+hulpmiddelen.farmatec.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
 hybridexo.cbs.nl
@@ -1861,11 +1867,13 @@ opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.euthanasiecommissie.nl
+opendata.english.farmatec.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
+opendata.farmatec.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2805,6 +2813,7 @@ www.examenbladmbo.nl
 www.excellentescholen.nl
 www.expertisecentrummggz.nl
 www.farmacotherapeutischkompas.nl
+www.farmatec.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl

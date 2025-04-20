@@ -4,11 +4,11 @@ opendata
 feeds
 english
 a-www
+feeds.english
+opendata.english
 test
 a-feeds
 a-opendata
-feeds.english
-opendata.english
 acc
 mail
 autodiscover
@@ -1873,6 +1873,8 @@ cms-ow
 cms-p
 cms-ts
 cms-tst
+acceptatie.hulpmiddelen
+hulpmiddelen
 passwordmanager
 plek
 ra
