@@ -20,6 +20,7 @@ http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
+http://autodiscover.domeinenrz.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bureau-reach.nl
@@ -182,6 +183,7 @@ https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
 https://aeriusproducten.nl
 https://afasmail.cbs.nl
+https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
 https://afspraken.cbs.nl
 https://agressievrijwerken.nl
@@ -468,6 +470,7 @@ https://doc-acc.bronhouderportaal-bro.nl
 https://doc.bronhouderportaal-bro.nl
 https://docs.brba.eu
 https://doemee.cbs.nl
+https://domeinenrz.nl
 https://dossierportal.cbs.nl
 https://download.belastingdienst.nl
 https://download.cbs.nl
@@ -506,8 +509,10 @@ https://english.defensie.nl
 https://english.deltaprogramma.nl
 https://english.dggf.nl
 https://english.dienstterugkeerenvertrek.nl
+https://english.domeinenrz.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
+https://enterpriseregistration.domeinenrz.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
@@ -601,6 +606,7 @@ https://feeds.dihoo.eu
 https://feeds.dihoo.nl
 https://feeds.dji.nl
 https://feeds.dnadatabank.forensischinstituut.nl
+https://feeds.domeinenrz.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -614,6 +620,7 @@ https://feeds.english.defensie.nl
 https://feeds.english.deltaprogramma.nl
 https://feeds.english.dggf.nl
 https://feeds.english.dienstterugkeerenvertrek.nl
+https://feeds.english.domeinenrz.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
@@ -900,6 +907,7 @@ https://opendata.dihoo.eu
 https://opendata.dihoo.nl
 https://opendata.dji.nl
 https://opendata.dnadatabank.forensischinstituut.nl
+https://opendata.domeinenrz.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -913,6 +921,7 @@ https://opendata.english.defensie.nl
 https://opendata.english.deltaprogramma.nl
 https://opendata.english.dggf.nl
 https://opendata.english.dienstterugkeerenvertrek.nl
+https://opendata.english.domeinenrz.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
@@ -1066,6 +1075,8 @@ https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepkms.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
+https://verkoop.domeinenrz.nl
+https://verkooptest.domeinenrz.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
 https://vgr.zuid-holland.nl
@@ -1091,6 +1102,7 @@ https://vpnb-tst.dictu.nl
 https://vpnb.dictu.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://vuurwerk.domeinenrz.nl
 https://wachtwoord.brabant.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
@@ -1277,6 +1289,7 @@ https://www.digitaleoverheid.nl
 https://www.dihoo.eu
 https://www.dihoo.nl
 https://www.dji.nl
+https://www.domeinenrz.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl
