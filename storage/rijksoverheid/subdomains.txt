@@ -230,6 +230,7 @@ autodiscover.beschermdecultuurgoederen.nl
 autodiscover.brabant.nl
 autodiscover.cbi.eu
 autodiscover.cbs.nl
+autodiscover.contactpuntbouwproducten.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -487,6 +488,7 @@ connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
 connectpeoplereg.belastingdienst.nl
 consexponano.nl
+contactpuntbouwproducten.nl
 content.cbs.nl
 content.klopt.cibg.nl
 content1.cbs.nl
@@ -958,6 +960,7 @@ mail.bureauwsnp.nl
 mail.cbg-meb.nl
 mail.cbi.eu
 mail.cggp.nl
+mail.contactpuntbouwproducten.nl
 mail.dev.cbs.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -1257,6 +1260,7 @@ over-ons.belastingdienst.nl
 overzicht.cbs.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
+owa.contactpuntbouwproducten.nl
 p285st201.utsjaca01.belastingdienst.nl
 papiamentu.belastingdienst-cn.nl
 passwordmanager.zorginstituutnederland.nl
@@ -1502,6 +1506,7 @@ test.cbi.eu
 test.cbs.nl
 test.cerberus.cbs.nl
 test.chemischestoffengoedgeregeld.nl
+test.contactpuntbouwproducten.nl
 test.digikoppeling.cibg.nl
 test.ebms.cbs.nl
 test.publicwebservices.cibg.nl
@@ -1865,6 +1870,7 @@ www.communicatierijk.nl
 www.community-gatewayreview.nl
 www.compensationsns.nl
 www.consexponano.nl
+www.contactpuntbouwproducten.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl

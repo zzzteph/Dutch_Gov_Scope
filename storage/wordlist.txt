@@ -2,18 +2,18 @@ www
 
 opendata
 feeds
-a-www
 test
+a-www
 a-feeds
 a-opendata
 acc
 english
+autodiscover
 feeds.english
 opendata.english
 acceptatie
-autodiscover
-mijn
 mail
+mijn
 a-english
 a-feeds.a-english
 a-opendata.a-english
@@ -1301,6 +1301,7 @@ www.acceptatie
 mijnloket-acc
 mijnloket
 ons
+owa
 passwordmanager
 plek
 ra
