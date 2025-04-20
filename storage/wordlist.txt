@@ -3,10 +3,10 @@ www
 opendata
 feeds
 a-www
+english
 test
 a-feeds
 a-opendata
-english
 acc
 feeds.english
 opendata.english
@@ -50,6 +50,7 @@ govroam
 ns2
 ns3
 ns4
+portaal
 vc
 acceptatie.behandel
 acceptatie.beheer
@@ -638,7 +639,6 @@ pm9
 pmc
 pmm
 portaal.acc
-portaal
 portaal.tst
 portaal.wifi
 preprod-kvk

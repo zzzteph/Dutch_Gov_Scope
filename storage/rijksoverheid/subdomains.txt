@@ -712,6 +712,7 @@ dictu.nl
 dictuext04.ymor.dictu.nl
 dictuext05.ymor.dictu.nl
 dictumagazines.nl
+dienstterugkeerenvertrek.nl
 digicheck.brabant.nl
 digikoppeling-dcr.cibg.nl
 digikoppeling.cibg.nl
@@ -790,6 +791,7 @@ english.cultureelerfgoed.nl
 english.defensie.nl
 english.deltaprogramma.nl
 english.dggf.nl
+english.dienstterugkeerenvertrek.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -931,6 +933,7 @@ feeds.denkdoeduurzaam.nl
 feeds.deutsch.postedworkers.nl
 feeds.dezi.nl
 feeds.dggf.nl
+feeds.dienstterugkeerenvertrek.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -943,6 +946,7 @@ feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
 feeds.english.dggf.nl
+feeds.english.dienstterugkeerenvertrek.nl
 feeds.english.zorginstituutnederland.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
@@ -1616,6 +1620,7 @@ opendata.denkdoeduurzaam.nl
 opendata.deutsch.postedworkers.nl
 opendata.dezi.nl
 opendata.dggf.nl
+opendata.dienstterugkeerenvertrek.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1628,6 +1633,7 @@ opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
 opendata.english.dggf.nl
+opendata.english.dienstterugkeerenvertrek.nl
 opendata.english.zorginstituutnederland.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
@@ -1724,6 +1730,7 @@ pom.cultureelerfgoed.nl
 portaal.acc.belastingdienst.nl
 portaal.belastingdienst.nl
 portaal.competent.cibg.nl
+portaal.dienstterugkeerenvertrek.nl
 portaal.digilevering.cibg.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
@@ -2440,6 +2447,7 @@ www.dezi.nl
 www.dggf.nl
 www.dictu.nl
 www.dictumagazines.nl
+www.dienstterugkeerenvertrek.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
