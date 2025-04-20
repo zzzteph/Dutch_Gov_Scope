@@ -30,6 +30,7 @@ a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
 a-feeds.ctivd.nl
+a-feeds.cultuursubsidie.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -51,6 +52,7 @@ a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
 a-opendata.ctivd.nl
+a-opendata.cultuursubsidie.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
@@ -66,6 +68,7 @@ a-www.cibg.nl
 a-www.communicatierijk.nl
 a-www.ctgb.nl
 a-www.ctivd.nl
+a-www.cultuursubsidie.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -568,6 +571,7 @@ cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
 cultureelerfgoed.nl
+cultuursubsidie.nl
 dagstaatmonitors.brabant.nl
 dashboards.cbs.nl
 data.cultureelerfgoed.nl
@@ -771,6 +775,7 @@ feeds.ctgb.nl
 feeds.ctivd.nl
 feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
+feeds.cultuursubsidie.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1358,6 +1363,7 @@ opendata.ctgb.nl
 opendata.ctivd.nl
 opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
+opendata.cultuursubsidie.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2061,6 +2067,7 @@ www.ctgb.nl
 www.ctivd.nl
 www.ctpveldzicht.nl
 www.cultureelerfgoed.nl
+www.cultuursubsidie.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
