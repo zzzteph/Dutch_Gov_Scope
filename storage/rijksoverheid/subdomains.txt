@@ -89,6 +89,9 @@ acc-lrza.services.cibg.nl
 acc-vinden.cbs.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
+acc.api-gateway.archis.cultureelerfgoed.nl
+acc.archis.cultureelerfgoed.nl
+acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
 acc.bcld-config.nl
 acc.bestandenpostbus.nl
@@ -96,15 +99,25 @@ acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
 acc.cbi.eu
 acc.cerberus.cbs.nl
+acc.client.archis.cultureelerfgoed.nl
 acc.consexponano.nl
 acc.cparegister.nl
 acc.csirtdsp.nl
+acc.encoded.api-gateway.archis.cultureelerfgoed.nl
+acc.gml.map.services.cultureelerfgoed.nl
+acc.monumentenregister.cultureelerfgoed.nl
+acc.render.map.services.cultureelerfgoed.nl
+acc.stor.services.cultureelerfgoed.nl
+acc.subsidie.cultureelerfgoed.nl
+acc.translate.services.cultureelerfgoed.nl
+acc.zaak.services.cultureelerfgoed.nl
 acc.zorginzicht.nl
 accebms.cbs.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
 acceptatie.applicationframework.cibg.nl
+acceptatie.archis.cultureelerfgoed.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.behandel.bigregister.nl
@@ -120,6 +133,7 @@ acceptatie.brba.cibg.nl
 acceptatie.cbs.nl
 acceptatie.chemischestoffengoedgeregeld.nl
 acceptatie.clusterbuster.nl
+acceptatie.cmis.cultureelerfgoed.nl
 acceptatie.consexponano.nl
 acceptatie.designsystem.cibg.nl
 acceptatie.digikoppeling-dcr.cibg.nl
@@ -127,6 +141,7 @@ acceptatie.digikoppeling.cibg.nl
 acceptatie.digikoppeling2.cibg.nl
 acceptatie.drms.cibg.nl
 acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
@@ -141,6 +156,7 @@ acceptatie.webservices.bigregister.nl
 acceptatie.webservices.lrza.cibg.nl
 acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
+acceptatie.zoeken.cultureelerfgoed.nl
 accounts.cbs.nl
 ace_nat17.belastingdienst.nl
 acm-acc.ctgb.nl
@@ -201,6 +217,7 @@ apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
 api-acpt.brabant.nl
+api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
 api.belastingdienst.nl
 api.bigregister.nl
@@ -210,6 +227,7 @@ api.contenttoolsrijksoverheid.nl
 api.denkmee.zuid-holland.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
+api.linkeddata.cultureelerfgoed.nl
 api.openstad.zuid-holland.nl
 apisimplex.cbs.nl
 aplbepa01.belastingdienst.nl
@@ -225,6 +243,8 @@ arbeidsmigratieingoedebanen.nl
 arboportaal.nl
 archeologie.zuid-holland.nl
 archeologie2.zuid-holland.nl
+archis.cultureelerfgoed.nl
+archisarchief.cultureelerfgoed.nl
 argon2.cbs.nl
 aris.brabant.nl
 artifact-fibb1.belastingdienst.nl
@@ -246,6 +266,7 @@ atlasnatuurlijkkapitaal.nl
 auditdienstrijk.nl
 auth.denkmee.zuid-holland.nl
 auth.openstad.zuid-holland.nl
+auth.services.cultureelerfgoed.nl
 autodiscover.aaenmaas.nl
 autodiscover.awti.nl
 autodiscover.beschermdecultuurgoederen.nl
@@ -255,6 +276,7 @@ autodiscover.cbs.nl
 autodiscover.contactpuntbouwproducten.nl
 autodiscover.ctgb.nl
 autodiscover.ctivd.nl
+autodiscover.cultureelerfgoed.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -314,6 +336,7 @@ beeldbank-beheer.cbs.nl
 beeldbank-bo.brabant.nl
 beeldbank.brabant.nl
 beeldbank.cbs.nl
+beeldbank.cultureelerfgoed.nl
 beeldbank.zuid-holland.nl
 beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
@@ -448,6 +471,7 @@ cap.om.belastingdienst.nl
 capi.cbs.nl
 captiveportal.belastingdienst.nl
 carrier.cbs.nl
+catalogus.cultureelerfgoed.nl
 cati-lt.cbs.nl
 catshuis.nl
 cbg-meb.nl
@@ -543,8 +567,11 @@ cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
+cultureelerfgoed.nl
 dagstaatmonitors.brabant.nl
 dashboards.cbs.nl
+data.cultureelerfgoed.nl
+data.geo.cultureelerfgoed.nl
 data.zuid-holland.nl
 databestanden.cbs.nl
 dataderden.cbs.nl
@@ -630,11 +657,13 @@ english.ccmo.nl
 english.ctgb.nl
 english.ctivd.nl
 english.ctpveldzicht.nl
+english.cultureelerfgoed.nl
 english.zorginstituutnederland.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
+erfgoedmonitor.cultureelerfgoed.nl
 esb-a1.brabant.nl
 esb-acpt.brabant.nl
 esb-ontw.brabant.nl
@@ -672,6 +701,7 @@ extra-vpn.belastingdienst.nl
 f2b.belastingdienst.nl
 facilitor.brabant.nl
 fad-gegevens-sit.belastingdienst.nl
+faro.cultureelerfgoed.nl
 fatcacrs.belastingdienst.nl
 fatcacrstest.belastingdienst.nl
 fbadmin-eopg-acc.aivd.nl
@@ -740,6 +770,7 @@ feeds.compensationsns.nl
 feeds.ctgb.nl
 feeds.ctivd.nl
 feeds.ctpveldzicht.nl
+feeds.cultureelerfgoed.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -748,6 +779,7 @@ feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
 feeds.english.ctgb.nl
 feeds.english.ctivd.nl
+feeds.english.cultureelerfgoed.nl
 feeds.english.zorginstituutnederland.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
@@ -783,9 +815,11 @@ fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 forms.klopt.cibg.nl
 forms.zuid-holland.nl
+formulier.cultureelerfgoed.nl
 formulieren.brabant.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
+foto-opdracht.cultureelerfgoed.nl
 fs-ms-exdns01.brabant.nl
 fs-ms-exdns03.brabant.nl
 fs-ms-exdns04.brabant.nl
@@ -827,6 +861,7 @@ geo-fms.zuid-holland.nl
 geo-stats.zuid-holland.nl
 geo-test.zuid-holland.nl
 geo-tools.zuid-holland.nl
+geo.cultureelerfgoed.nl
 geo.zuid-holland.nl
 geodata.basisinformatie-overstromingen.nl
 geodata.cbs.nl
@@ -840,6 +875,7 @@ geoserver.brabant.nl
 geoserver.cbs.nl
 geoservertest.brabant.nl
 geoservices.cbs.nl
+geoservices.cultureelerfgoed.nl
 geoservices.zuid-holland.nl
 geoservices2.cbs.nl
 gewasbeschermingsmiddelen.ctgb.nl
@@ -907,6 +943,7 @@ ideal20-cnf.belastingdienst.nl
 ideal20-test.belastingdienst.nl
 ideal20.belastingdienst.nl
 idro.ont.belastingdienst.nl
+idselect.cultureelerfgoed.nl
 idtst.brabant.nl
 iex.acc.belastingdienst.nl
 ihg.cbs.nl
@@ -925,8 +962,10 @@ inkoopportaal.belastingdienst.nl
 instroom.belastingdienst.nl
 int.bronhouderportaal-bro.nl
 intermediairdagen.belastingdienst.nl
+intern.catalogus.cultureelerfgoed.nl
 intranet.belastingdienst.nl
 intranet.ctgb.nl
+intranet.cultureelerfgoed.nl
 intratst.belastingdienst.nl
 investerenin.zuid-holland.nl
 isamproxyont.ont.belastingdienst.nl
@@ -966,6 +1005,8 @@ kavatst.vcdn.belastingdienst.nl
 kdmz.belastingdienst.nl
 keiko.brba.nl
 kennis-fiod.acc.belastingdienst.nl
+kennis-staging.cultureelerfgoed.nl
+kennis.cultureelerfgoed.nl
 kennis.zuid-holland.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
@@ -984,6 +1025,10 @@ leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
+lil.cultureelerfgoed.nl
+linkeddata.accept.cultureelerfgoed.nl
+linkeddata.cultureelerfgoed.nl
+linkeddata.test.cultureelerfgoed.nl
 lir.cibg.nl
 livecharts.cbs.nl
 login.aaenmaas.nl
@@ -1003,6 +1048,7 @@ lyncdiscover.aaenmaas.nl
 m365.ctgb.nl
 magazine.zuid-holland.nl
 magazines.algemenebestuursdienst.nl
+magazines.cultureelerfgoed.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.bodemvizier.nl
@@ -1020,6 +1066,7 @@ mail241.brabant.nl
 mailer1.belastingdienst.nl
 mailer2.belastingdienst.nl
 mailfilter.brabant.nl
+mailhog.acc.monumentenregister.cultureelerfgoed.nl
 mailrelayh3.cbs.nl
 mailrelayh4.cbs.nl
 mailrelayh5.cbs.nl
@@ -1027,6 +1074,7 @@ mailrelayh6.cbs.nl
 mam.ctgb.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
+mass.cultureelerfgoed.nl
 matchingsapp.cbs.nl
 mbg.cbs.nl
 mc.belastingdienst.nl
@@ -1147,6 +1195,7 @@ mm.ont.belastingdienst.nl
 mobicert.brabant.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 monitorleefomgeving.zuid-holland.nl
+monumentenregister.cultureelerfgoed.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
@@ -1182,6 +1231,7 @@ natura2000-data.zuid-holland.nl
 ncp-api-1.ccmo.nl
 nieuws.brabant.nl
 nieuwsbrief.zuid-holland.nl
+noaa.cultureelerfgoed.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 ns2.belastingdienst.nl
@@ -1307,6 +1357,7 @@ opendata.compensationsns.nl
 opendata.ctgb.nl
 opendata.ctivd.nl
 opendata.ctpveldzicht.nl
+opendata.cultureelerfgoed.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1315,6 +1366,7 @@ opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
 opendata.english.ctgb.nl
 opendata.english.ctivd.nl
+opendata.english.cultureelerfgoed.nl
 opendata.english.zorginstituutnederland.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
@@ -1345,6 +1397,7 @@ ots-dtp.belastingdienst.nl
 ots-onp.belastingdienst.nl
 ots-trial.belastingdienst.nl
 ots-vzp.belastingdienst.nl
+oud.cultureelerfgoed.nl
 outbound-eopg.aivd.nl
 outlook.cbs.nl
 over-ons.acc.belastingdienst.nl
@@ -1395,6 +1448,7 @@ pmm.belastingdienst.nl
 poc.bestandenpostbus.nl
 poc1.bestandenpostbus.nl
 politieopendata.cbs.nl
+pom.cultureelerfgoed.nl
 portaal.acc.belastingdienst.nl
 portaal.belastingdienst.nl
 portaal.competent.cibg.nl
@@ -1403,14 +1457,17 @@ portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
 portal.cbs.nl
 portal.cibg.nl
+prd.archis.cultureelerfgoed.nl
 prd.atlasleefomgeving.nl
 prd.consexponano.nl
 pre.bronhouderportaal-bro.nl
 preprod-belastingen.zuid-holland.nl
 preprod-kvk.belastingdienst.nl
+preprod.idselect.cultureelerfgoed.nl
 presenteren.ont.belastingdienst.nl
 prod-kvk.belastingdienst.nl
 prod.asbestvolgsysteem.nl
+prod.cultureelerfgoed.nl
 professional.basisinformatie-overstromingen.nl
 profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
@@ -1558,6 +1615,7 @@ sso-demo2.bronhouderportaal-bro.nl
 sso-int.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
 sso.bronhouderportaal-bro.nl
+sso.subsidie.cultureelerfgoed.nl
 staatvan.zuid-holland.nl
 stadvanced.belastingdienst.nl
 staging.english.ctpveldzicht.nl
@@ -1571,6 +1629,7 @@ static.caorijk.nl
 statline.cbs.nl
 status.cbs.nl
 stijlgids.cibg.nl
+stor.services.cultureelerfgoed.nl
 storage.databestanden.cbs.nl
 storing.cbs.nl
 sts.cbg-meb.nl
@@ -1579,6 +1638,7 @@ stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
 stturn1-tst.belastingdienst.nl
 stubs.tst.belastingdienst.nl
+subsidie.cultureelerfgoed.nl
 subsidieportaal.zuid-holland.nl
 subsidieregister.zuid-holland.nl
 survey.cibg.nl
@@ -1590,6 +1650,7 @@ t-cms.contenttoolsrijksoverheid.nl
 t-next-cms.contenttoolsrijksoverheid.nl
 t-old-cms.contenttoolsrijksoverheid.nl
 t-test.belastingdienst.nl
+t.cultureelerfgoed.nl
 taxonomie.cbs.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
@@ -1612,17 +1673,25 @@ test.chemischestoffengoedgeregeld.nl
 test.contactpuntbouwproducten.nl
 test.crisis.nl
 test.csirtdsp.nl
+test.cultureelerfgoed.nl
 test.digikoppeling.cibg.nl
 test.ebms.cbs.nl
+test.geoservices.cultureelerfgoed.nl
+test.kennis-staging.cultureelerfgoed.nl
+test.kennis.cultureelerfgoed.nl
+test.monumentenregister.cultureelerfgoed.nl
 test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
 test.status.cbs.nl
+test.t.cultureelerfgoed.nl
+test.veilig.cultureelerfgoed.nl
 test2gbav.belastingdienst.nl
 testconn.ctgb.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testeloket.aaenmaas.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
+thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
@@ -1638,6 +1707,7 @@ torenvalk.brabant.nl
 tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
 ts.cbi.eu
+tst.subsidie.cultureelerfgoed.nl
 tunnel.cbs.nl
 tunnel1.cbs.nl
 uag.cbs.nl
@@ -1680,6 +1750,7 @@ vctlgwpa01-int.kdmz.belastingdienst.nl
 vctlgwqa01-ext.kdmz.belastingdienst.nl
 vctlgwqa01-int.kdmz.belastingdienst.nl
 vecozo.dmz.belastingdienst.nl
+veilig.cultureelerfgoed.nl
 veiling.acc.belastingdienst.nl
 veiling.belastingdienst.nl
 vep.belastingdienst.nl
@@ -1811,6 +1882,8 @@ werkplektest.cbs.nl
 wifi.brabant.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
+wikixl-saml.cultureelerfgoed.nl
+wikixl-saml.test.cultureelerfgoed.nl
 windlansingerland.zuid-holland.nl
 wms.aanpakringzuid.nl
 ws-acc.bureauwsnp.nl
@@ -1865,6 +1938,7 @@ www.abdtopconsult.nl
 www.aboutnetherlandscustoms.nl
 www.academievoorinternationalebetrekkingen.nl
 www.academyforinternationalrelations.nl
+www.acc.monumentenregister.cultureelerfgoed.nl
 www.acceptatie.clusterbuster.nl
 www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
@@ -1904,6 +1978,7 @@ www.bacterial-meningitis.nl
 www.basisinformatie-overstromingen.nl
 www.basisregistratieondergrond.nl
 www.bcld-config.nl
+www.beeldbank.cultureelerfgoed.nl
 www.beeldbankbelastingdienst.nl
 www.beeldkompas.nl
 www.beheerautoriteitwaddenzee.nl
@@ -1985,6 +2060,7 @@ www.csirtdsp.nl
 www.ctgb.nl
 www.ctivd.nl
 www.ctpveldzicht.nl
+www.cultureelerfgoed.nl
 www.databestanden.cbs.nl
 www.dataportaal.brabant.nl
 www.denkmee.zuid-holland.nl
@@ -1993,12 +2069,15 @@ www.historisch.cbs.nl
 www.ihg.cbs.nl
 www.kaarten.brabant.nl
 www.mail.bureauwsnp.nl
+www.monumentenregister.cultureelerfgoed.nl
 www.opendata.brabant.nl
 www.openstad.zuid-holland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.spamtitan.cbi.eu
+www.test.monumentenregister.cultureelerfgoed.nl
 www.testdigitalediensten.arbeidsinspectie.nl
+www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
 www.wegen.brabant.nl
@@ -2024,6 +2103,7 @@ zoek.bodemambities.nl
 zoekeentolkvertaler.bureauwbtv.nl
 zoeken.belastingdienst.nl
 zoeken.bigregister.nl
+zoeken.cultureelerfgoed.nl
 zorgenwerknetwerk.arboportaal.nl
 zorginstituutnederland.nl
 zorginzicht.nl

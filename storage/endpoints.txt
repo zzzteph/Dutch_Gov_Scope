@@ -1,6 +1,11 @@
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
 http://acc.avgregisterrijksoverheid.nl
+http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
+http://acc.gml.map.services.cultureelerfgoed.nl
+http://acc.render.map.services.cultureelerfgoed.nl
+http://acc.translate.services.cultureelerfgoed.nl
+http://acc.zaak.services.cultureelerfgoed.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
 http://acceptatie.clusterbuster.nl
@@ -30,6 +35,7 @@ http://mijn-api.cbs.nl
 http://odata4.cbs.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oosweb.cbs.nl
+http://prd.archis.cultureelerfgoed.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
@@ -48,6 +54,7 @@ http://test.chemischestoffengoedgeregeld.nl
 http://test.digikoppeling.cibg.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
+http://tst.subsidie.cultureelerfgoed.nl
 http://uptime.bureauwbtv.nl
 http://uzi.acc.brba.nl
 http://uzi.brba.nl
@@ -57,6 +64,7 @@ http://videoserver2.brabant.nl
 http://voi.brabant.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.bacterial-meningitis.nl
+http://www.beeldbank.cultureelerfgoed.nl
 http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
@@ -80,18 +88,26 @@ https://academievoorinternationalebetrekkingen.nl
 https://academy.cbs.nl
 https://academyforinternationalrelations.nl
 https://acc.adviescollegeveiligheidgroningen.nl
+https://acc.api-gateway.archis.cultureelerfgoed.nl
+https://acc.archis.cultureelerfgoed.nl
+https://acc.auth.services.cultureelerfgoed.nl
 https://acc.bcld-config.nl
 https://acc.bestandenpostbus.nl
 https://acc.bromonitor.nl
 https://acc.bronhouderportaal-bro.nl
 https://acc.cbi.eu
 https://acc.cerberus.cbs.nl
+https://acc.client.archis.cultureelerfgoed.nl
 https://acc.consexponano.nl
 https://acc.csirtdsp.nl
+https://acc.monumentenregister.cultureelerfgoed.nl
+https://acc.stor.services.cultureelerfgoed.nl
+https://acc.subsidie.cultureelerfgoed.nl
 https://acc.zorginzicht.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.applicationframework.cibg.nl
+https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.behandel.bigregister.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.bigregister.nl
@@ -101,6 +117,7 @@ https://acceptatie.beheer.lrza.cibg.nl
 https://acceptatie.bestandsportaal.cibg.nl
 https://acceptatie.designsystem.cibg.nl
 https://acceptatie.drms.cibg.nl
+https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
@@ -146,6 +163,7 @@ https://animalfreeinnovationtpi.nl
 https://antennebureau.nl
 https://antisemitismebestrijding.nl
 https://antwoord.cbs.nl
+https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
@@ -153,6 +171,7 @@ https://api.caelus-tool.nl
 https://api.contenttoolsrijksoverheid.nl
 https://api.denkmee.zuid-holland.nl
 https://api.klopt.cibg.nl
+https://api.linkeddata.cultureelerfgoed.nl
 https://api.openstad.zuid-holland.nl
 https://app.brabant.nl
 https://applicationframework.cibg.nl
@@ -162,6 +181,8 @@ https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
 https://archeologie.zuid-holland.nl
 https://archeologie2.zuid-holland.nl
+https://archis.cultureelerfgoed.nl
+https://archisarchief.cultureelerfgoed.nl
 https://argon2.cbs.nl
 https://aris.brabant.nl
 https://asbestvolgsysteem.nl
@@ -175,6 +196,7 @@ https://atlasnatuurlijkkapitaal.nl
 https://auditdienstrijk.nl
 https://auth.denkmee.zuid-holland.nl
 https://auth.openstad.zuid-holland.nl
+https://auth.services.cultureelerfgoed.nl
 https://autodiscover.awti.nl
 https://autorisatie-preprod.brabant.nl
 https://autorisatie-prod.brabant.nl
@@ -192,6 +214,7 @@ https://beeldarchiefbeheer.zuid-holland.nl
 https://beeldbank-beheer.cbs.nl
 https://beeldbank.brabant.nl
 https://beeldbank.cbs.nl
+https://beeldbank.cultureelerfgoed.nl
 https://beeldbank.zuid-holland.nl
 https://beeldbankbeheer.zuid-holland.nl
 https://beeldbankbelastingdienst.nl
@@ -271,6 +294,7 @@ https://caelus-tool.nl
 https://campagnetoolkits.nl
 https://caorijk.nl
 https://capi.cbs.nl
+https://catalogus.cultureelerfgoed.nl
 https://catshuis.nl
 https://cbg-meb.nl
 https://cbgjaarverslag.nl
@@ -340,7 +364,10 @@ https://css.openstad.zuid-holland.nl
 https://ctgb.nl
 https://ctivd.nl
 https://ctpveldzicht.nl
+https://cultureelerfgoed.nl
 https://dashboards.cbs.nl
+https://data.cultureelerfgoed.nl
+https://data.geo.cultureelerfgoed.nl
 https://data.zuid-holland.nl
 https://databestanden.cbs.nl
 https://dataderden.cbs.nl
@@ -394,10 +421,12 @@ https://english.cbgjaarverslag.nl
 https://english.ccmo.nl
 https://english.ctgb.nl
 https://english.ctivd.nl
+https://english.cultureelerfgoed.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
+https://erfgoedmonitor.cultureelerfgoed.nl
 https://esb-a1.brabant.nl
 https://esb-p1.brabant.nl
 https://esb-t1.brabant.nl
@@ -406,6 +435,7 @@ https://esb.brabant.nl
 https://eubtw.belastingdienst.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
+https://faro.cultureelerfgoed.nl
 https://feature-cic-673.dev.bcld-config.nl
 https://feature-cicd-deployment.dev.bcld-config.nl
 https://feature-demo-child.dev.bcld-config.nl
@@ -467,6 +497,7 @@ https://feeds.compensationsns.nl
 https://feeds.ctgb.nl
 https://feeds.ctivd.nl
 https://feeds.ctpveldzicht.nl
+https://feeds.cultureelerfgoed.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -475,6 +506,7 @@ https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
 https://feeds.english.ctivd.nl
+https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
@@ -490,7 +522,9 @@ https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://forms.klopt.cibg.nl
 https://forms.zuid-holland.nl
+https://formulier.cultureelerfgoed.nl
 https://formulieren.brabant.nl
+https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
 https://ftpblaise.cbs.nl
@@ -512,6 +546,7 @@ https://geoportaal.zuid-holland.nl
 https://georegister.brabant.nl
 https://geoserver.cbs.nl
 https://geoservices.cbs.nl
+https://geoservices.cultureelerfgoed.nl
 https://geoservices.zuid-holland.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://good.cbs.nl
@@ -531,6 +566,7 @@ https://historischebeeldenbeheer.cbs.nl
 https://huisstijl.belastingdienst.nl
 https://icdesk.zuid-holland.nl
 https://id.brabant.nl
+https://idselect.cultureelerfgoed.nl
 https://ihg.cbs.nl
 https://img.denkmee.zuid-holland.nl
 https://img.openstad.zuid-holland.nl
@@ -538,6 +574,8 @@ https://inbeeld.zuid-holland.nl
 https://incassomachtigen.belastingdienst.nl
 https://instroom.belastingdienst.nl
 https://intermediairdagen.belastingdienst.nl
+https://intern.catalogus.cultureelerfgoed.nl
+https://intranet.cultureelerfgoed.nl
 https://investerenin.zuid-holland.nl
 https://isi.cbs.nl
 https://iv3-controle-api.cbs.nl
@@ -555,6 +593,8 @@ https://jmopendata.cbs.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
 https://kavaanalytics.vcdn.belastingdienst.nl
+https://kennis-staging.cultureelerfgoed.nl
+https://kennis.cultureelerfgoed.nl
 https://kennis.zuid-holland.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
@@ -563,6 +603,8 @@ https://klanttoegang.cbs.nl
 https://lc.cbs.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
+https://lil.cultureelerfgoed.nl
+https://linkeddata.cultureelerfgoed.nl
 https://lir.cibg.nl
 https://livecharts.cbs.nl
 https://login.aaenmaas.nl
@@ -577,10 +619,13 @@ https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
 https://magazine.zuid-holland.nl
 https://magazines.algemenebestuursdienst.nl
+https://magazines.cultureelerfgoed.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
+https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
 https://manager.klopt.cibg.nl
 https://maps.aaenmaas.nl
+https://mass.cultureelerfgoed.nl
 https://matchingsapp.cbs.nl
 https://mbg.cbs.nl
 https://mdm-t.cbg-meb.nl
@@ -610,6 +655,7 @@ https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitorleefomgeving.zuid-holland.nl
+https://monumentenregister.cultureelerfgoed.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mta-sts.mail.cggp.nl
@@ -624,6 +670,7 @@ https://nationaalcohortonderzoek.cbs.nl
 https://natura2000-data.zuid-holland.nl
 https://nieuws.brabant.nl
 https://nieuwsbrief.zuid-holland.nl
+https://noaa.cultureelerfgoed.nl
 https://oa.aaenmaas.nl
 https://odata.cbs.nl
 https://odb.belastingdienst.nl
@@ -698,6 +745,7 @@ https://opendata.compensationsns.nl
 https://opendata.ctgb.nl
 https://opendata.ctivd.nl
 https://opendata.ctpveldzicht.nl
+https://opendata.cultureelerfgoed.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -706,6 +754,7 @@ https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
 https://opendata.english.ctivd.nl
+https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
@@ -730,6 +779,7 @@ https://plek.zorginstituutnederland.nl
 https://pmm.belastingdienst.nl
 https://poc1.bestandenpostbus.nl
 https://politieopendata.cbs.nl
+https://pom.cultureelerfgoed.nl
 https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
 https://portaal.digilevering.cibg.nl
@@ -737,6 +787,7 @@ https://portal.cbs.nl
 https://prd.atlasleefomgeving.nl
 https://prd.consexponano.nl
 https://preprod-belastingen.zuid-holland.nl
+https://preprod.idselect.cultureelerfgoed.nl
 https://prod.asbestvolgsysteem.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
@@ -790,11 +841,13 @@ https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
 https://staten.zuid-holland.nl
 https://statline.cbs.nl
+https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl
 https://sts.cbg-meb.nl
 https://sts.cbs.nl
 https://stubs.tst.belastingdienst.nl
+https://subsidie.cultureelerfgoed.nl
 https://subsidieportaal.zuid-holland.nl
 https://subsidieregister.zuid-holland.nl
 https://surveys.cbs.nl
@@ -806,10 +859,15 @@ https://test.cbi.eu
 https://test.cerberus.cbs.nl
 https://test.crisis.nl
 https://test.csirtdsp.nl
+https://test.geoservices.cultureelerfgoed.nl
+https://test.kennis-staging.cultureelerfgoed.nl
+https://test.kennis.cultureelerfgoed.nl
+https://test.monumentenregister.cultureelerfgoed.nl
 https://test.publicwebservices.cibg.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
+https://thesaurus.cultureelerfgoed.nl
 https://thesaurus.zuid-holland.nl
 https://tmv.cibg.nl
 https://toekomstscenarios.zuid-holland.nl
@@ -823,6 +881,7 @@ https://uag.cbs.nl
 https://uitwisseling.cbs.nl
 https://upload.cbs.nl
 https://uzipas.lir.cibg.nl
+https://veilig.cultureelerfgoed.nl
 https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepkms.vcdn.belastingdienst.nl
@@ -867,6 +926,8 @@ https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://wifi.brabant.nl
+https://wikixl-saml.cultureelerfgoed.nl
+https://wikixl-saml.test.cultureelerfgoed.nl
 https://windlansingerland.zuid-holland.nl
 https://wms.aanpakringzuid.nl
 https://www-ac.zorginstituutnederland.nl
@@ -886,6 +947,7 @@ https://www.abdtopconsult.nl
 https://www.aboutnetherlandscustoms.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academyforinternationalrelations.nl
+https://www.acc.monumentenregister.cultureelerfgoed.nl
 https://www.adviescollegeicttoetsing.nl
 https://www.adviescollegeregeldruk.nl
 https://www.adviescollegeveiligheidgroningen.nl
@@ -999,12 +1061,16 @@ https://www.csirtdsp.nl
 https://www.ctgb.nl
 https://www.ctivd.nl
 https://www.ctpveldzicht.nl
+https://www.cultureelerfgoed.nl
 https://www.databestanden.cbs.nl
 https://www.dataportaal.brabant.nl
 https://www.denkmee.zuid-holland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
+https://www.monumentenregister.cultureelerfgoed.nl
 https://www.openstad.zuid-holland.nl
+https://www.test.monumentenregister.cultureelerfgoed.nl
+https://www.veilig.cultureelerfgoed.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
 https://www.windlansingerland.zuid-holland.nl
@@ -1020,6 +1086,7 @@ https://zaaksysteem-accept.zuid-holland.nl
 https://zaaksysteem.zuid-holland.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl
+https://zoeken.cultureelerfgoed.nl
 https://zorgenwerknetwerk.arboportaal.nl
 https://zorginstituutnederland.nl
 https://zorginzicht.nl
