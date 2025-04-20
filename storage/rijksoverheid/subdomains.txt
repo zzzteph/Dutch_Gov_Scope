@@ -740,6 +740,8 @@ crm.cbi.eu
 crmacc.cbi.eu
 crmtest.cbi.eu
 csirtdsp.nl
+csoacct.functiegebouwrijksoverheid.nl
+csotest.functiegebouwrijksoverheid.nl
 css.openstad.zuid-holland.nl
 ctgb.nl
 ctivd.nl
@@ -1234,6 +1236,7 @@ ftpspub.belastingdienst.nl
 ftpstaopriv.belastingdienst.nl
 ftpstaopub.belastingdienst.nl
 fubecasper.cbs.nl
+functiegebouwrijksoverheid.nl
 gala2024.evenementenbureauvws.nl
 gb-test.brabant.nl
 gba-bvr-ftps.belastingdienst.nl
@@ -1817,6 +1820,7 @@ odata4.cbs.nl
 odb-ac.zorginzicht.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
+odc.functiegebouwrijksoverheid.nl
 odctest.arbeidsinspectie.nl
 oefenvragenlijst.cbs.nl
 officeonline-acc.belastingdienst.nl
@@ -2230,6 +2234,7 @@ samenwerkruimten-intern.belastingdienst.nl
 samenwerkruimten.belastingdienst.nl
 saml-sign-olas10978.ont.belastingdienst.nl
 saml-sign-rv-pp1.belastingdienst.nl
+sandbox.functiegebouwrijksoverheid.nl
 sap-internet-test.belastingdienst.nl
 sap-internet.belastingdienst.nl
 sap-pi-px1.belastingdienst.nl
@@ -2955,6 +2960,7 @@ www.forensicinstitute.nl
 www.forensischezorg.nl
 www.forensischinstituut.nl
 www.formulierdus-i.nl
+www.functiegebouwrijksoverheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl

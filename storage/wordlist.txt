@@ -1958,6 +1958,10 @@ portal2
 portalco
 stagefonds
 www2
+csoacct
+csotest
+odc
+sandbox
 passwordmanager
 plek
 ra
