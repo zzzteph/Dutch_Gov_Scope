@@ -20,6 +20,7 @@ mijn
 api
 beeldbank
 webmail
+magazines
 ontwikkel
 geodata
 cms
@@ -35,7 +36,6 @@ login
 meet
 sip
 vpn2
-magazines
 prod
 prd
 smtp1
