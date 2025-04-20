@@ -429,6 +429,7 @@ awakta01.belastingdienst.nl
 awti.nl
 axx-test.belastingdienst.nl
 axx.belastingdienst.nl
+azure-a-poc.grensinfo.nl
 azwstatline.cbs.nl
 b-acc.asbestvolgsysteem.nl
 b2b-gemnet.belastingdienst.nl
@@ -1338,6 +1339,7 @@ govroam.brabant.nl
 gpa-rest-test.belastingdienst.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
+grensinfo.nl
 grondwaterstand.brabant.nl
 gsa-rest-test.belastingdienst.nl
 gslb.cbs.nl
@@ -2786,6 +2788,7 @@ wustest-gemnet.belastingdienst.nl
 wustest-osb.belastingdienst.nl
 wustest-rijks.belastingdienst.nl
 wustest.belastingdienst.nl
+www-a.grensinfo.nl
 www-ac.farmacotherapeutischkompas.nl
 www-ac.gipdatabank.nl
 www-ac.zorginstituutnederland.nl
@@ -3047,6 +3050,7 @@ www.goudenpiramide.nl
 www.gouverneuraruba.com
 www.gouverneurcuracao.com
 www.government.nl
+www.grensinfo.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
