@@ -3,13 +3,13 @@ www
 opendata
 feeds
 english
-test
 a-www
+test
+a-feeds
+a-opendata
 feeds.english
 opendata.english
 acc
-a-feeds
-a-opendata
 mail
 autodiscover
 a-english
@@ -106,6 +106,7 @@ wifi
 www-test
 static
 sts
+academy
 cdn
 designsystem
 micollab
@@ -1083,7 +1084,6 @@ elearning
 spamtitan
 ts
 www.spamtitan
-academy
 acc-ccb
 acc-vinden
 acc.cerberus
