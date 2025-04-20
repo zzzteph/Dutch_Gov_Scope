@@ -1187,6 +1187,7 @@ feeds.gouverneuraruba.com
 feeds.gouverneurcuracao.com
 feeds.government.nl
 feeds.grenzeloossamenwerken.nl
+feeds.groeiennaarmorgen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1342,6 +1343,7 @@ gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 grensinfo.nl
 grenzeloossamenwerken.nl
+groeiennaarmorgen.nl
 grondwaterstand.brabant.nl
 gsa-rest-test.belastingdienst.nl
 gslb.cbs.nl
@@ -2039,6 +2041,7 @@ opendata.gouverneuraruba.com
 opendata.gouverneurcuracao.com
 opendata.government.nl
 opendata.grenzeloossamenwerken.nl
+opendata.groeiennaarmorgen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3055,6 +3058,7 @@ www.gouverneurcuracao.com
 www.government.nl
 www.grensinfo.nl
 www.grenzeloossamenwerken.nl
+www.groeiennaarmorgen.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.historisch.cbs.nl
