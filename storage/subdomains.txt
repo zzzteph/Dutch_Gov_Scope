@@ -1221,6 +1221,7 @@ feeds.healthcouncil.nl
 feeds.hoesterkstaik.nl
 feeds.hogeraadvanadel.nl
 feeds.houdmisdaaduitjebuurt.nl
+feeds.huiselijkgeweld.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1452,6 +1453,7 @@ hogeraadvanadel.nl
 horizonscangeneesmiddelen.nl
 houdmisdaaduitjebuurt.nl
 hrz-uag-ext.belastingdienst.nl
+huiselijkgeweld.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
 hulpmiddelen.farmatec.nl
@@ -2121,6 +2123,7 @@ opendata.hhdelfland.nl
 opendata.hoesterkstaik.nl
 opendata.hogeraadvanadel.nl
 opendata.houdmisdaaduitjebuurt.nl
+opendata.huiselijkgeweld.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3193,6 +3196,7 @@ www.hogeraadvanadel.nl
 www.horizonscangeneesmiddelen.nl
 www.houdmisdaaduitjebuurt.nl
 www.hrcommunityrijk.nl
+www.huiselijkgeweld.nl
 www.ihg.cbs.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
