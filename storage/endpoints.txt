@@ -530,6 +530,7 @@ https://feeds.datavoorgezondheid.nl
 https://feeds.dcc-ienw.nl
 https://feeds.defensie.nl
 https://feeds.deltaprogramma.nl
+https://feeds.denkdoeduurzaam.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -798,6 +799,7 @@ https://opendata.datavoorgezondheid.nl
 https://opendata.dcc-ienw.nl
 https://opendata.defensie.nl
 https://opendata.deltaprogramma.nl
+https://opendata.denkdoeduurzaam.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1132,6 +1134,7 @@ https://www.datawonen.nl
 https://www.dcc-ienw.nl
 https://www.defensie.nl
 https://www.deltaprogramma.nl
+https://www.denkdoeduurzaam.nl
 https://www.denkmee.zuid-holland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl

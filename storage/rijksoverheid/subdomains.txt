@@ -824,6 +824,7 @@ feeds.datavoorgezondheid.nl
 feeds.dcc-ienw.nl
 feeds.defensie.nl
 feeds.deltaprogramma.nl
+feeds.denkdoeduurzaam.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1440,6 +1441,7 @@ opendata.datavoorgezondheid.nl
 opendata.dcc-ienw.nl
 opendata.defensie.nl
 opendata.deltaprogramma.nl
+opendata.denkdoeduurzaam.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2170,6 +2172,7 @@ www.datawonen.nl
 www.dcc-ienw.nl
 www.defensie.nl
 www.deltaprogramma.nl
+www.denkdoeduurzaam.nl
 www.denkmee.zuid-holland.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
