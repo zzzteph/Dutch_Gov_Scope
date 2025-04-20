@@ -211,6 +211,7 @@ acceptatie.digikoppeling2.dictu.nl
 acceptatie.drms.cibg.nl
 acceptatie.dustex.nl
 acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.feedfoodtransfer.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.lir.cibg.nl
@@ -330,6 +331,7 @@ appcontent.belastingdienst.nl
 applicationframework.cibg.nl
 applications.klopt.cibg.nl
 apps.dictu.nl
+apps.feedfoodtransfer.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
 arbeidsinspectie.nl

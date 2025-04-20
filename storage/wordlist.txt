@@ -14,9 +14,9 @@ mail
 autodiscover
 a-english
 mijn
+acceptatie
 a-feeds.a-english
 a-opendata.a-english
-acceptatie
 magazines
 cms
 api
@@ -111,6 +111,7 @@ geo
 kennis
 thesaurus
 a-magazines
+apps
 mail01
 mailing
 nieuwsbrief
@@ -1509,7 +1510,6 @@ acceptatie.rijksweb.digikoppeling.diginetwerk
 acceptatie.webservices1
 acceptatie.webservices2
 anoniem.netftp
-apps
 artifact-acc.rd
 asb.datasluis
 asb.webftp
