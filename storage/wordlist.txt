@@ -24,6 +24,7 @@ beeldbank
 webmail
 ontwikkel
 geodata
+_autodiscover._tcp
 intranet
 vpn
 zoeken
@@ -39,7 +40,6 @@ vpn2
 prod
 prd
 smtp1
-_autodiscover._tcp
 afspraken
 beta
 download
@@ -48,6 +48,9 @@ govroam
 ns3
 ns4
 webservices
+acceptatie.behandel
+acceptatie.beheer
+acceptatie.mijn
 acceptatie.zoeken
 atlas
 dataportaal
@@ -876,9 +879,6 @@ poc
 poc1
 acceptatie.advieswijzer
 acceptatie.api
-acceptatie.behandel
-acceptatie.beheer
-acceptatie.mijn
 acceptatie.tea
 acceptatie.webservices
 advieswijzer
@@ -1479,6 +1479,7 @@ dp2025
 deutsch
 feeds.deutsch
 opendata.deutsch
+acceptatie.abonnee
 passwordmanager
 plek
 ra

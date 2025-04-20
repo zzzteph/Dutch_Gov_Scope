@@ -106,13 +106,16 @@ https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
 https://acc.zorginzicht.nl
+https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.behandel.bigregister.nl
+https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.bigregister.nl
+https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
 https://acceptatie.beheer.lrza.cibg.nl
@@ -123,6 +126,7 @@ https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
+https://acceptatie.mijn.dezi.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.publicwebservices.cibg.nl
@@ -406,6 +410,7 @@ https://designsystem.cibg.nl
 https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
 https://dev.cerberus.cbs.nl
+https://dezi.nl
 https://dfg.datawonen.nl
 https://dialin.aaenmaas.nl
 https://digicheck.brabant.nl
@@ -533,6 +538,7 @@ https://feeds.defensie.nl
 https://feeds.deltaprogramma.nl
 https://feeds.denkdoeduurzaam.nl
 https://feeds.deutsch.postedworkers.nl
+https://feeds.dezi.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -803,6 +809,7 @@ https://opendata.defensie.nl
 https://opendata.deltaprogramma.nl
 https://opendata.denkdoeduurzaam.nl
 https://opendata.deutsch.postedworkers.nl
+https://opendata.dezi.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1139,6 +1146,7 @@ https://www.defensie.nl
 https://www.deltaprogramma.nl
 https://www.denkdoeduurzaam.nl
 https://www.denkmee.zuid-holland.nl
+https://www.dezi.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.monumentenregister.cultureelerfgoed.nl
