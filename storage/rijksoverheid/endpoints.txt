@@ -761,6 +761,7 @@ https://feeds.forensischezorg.nl
 https://feeds.forensischinstituut.nl
 https://feeds.gelijke-kansen.nl
 https://feeds.geobasisregistraties.nl
+https://feeds.gezondheidsraad.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -827,6 +828,7 @@ https://geoservices.cultureelerfgoed.nl
 https://geoservices.zuid-holland.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://gezondeleefomgeving.nl
+https://gezondheidsraad.nl
 https://gisextern.dictu.nl
 https://good.cbs.nl
 https://gpi.belastingdienst.nl
@@ -1153,6 +1155,7 @@ https://opendata.forensischezorg.nl
 https://opendata.forensischinstituut.nl
 https://opendata.gelijke-kansen.nl
 https://opendata.geobasisregistraties.nl
+https://opendata.gezondheidsraad.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -1619,6 +1622,7 @@ https://www.gelijke-kansen.nl
 https://www.geneesmiddeleninformatiebank.nl
 https://www.geobasisregistraties.nl
 https://www.gezondeleefomgeving.nl
+https://www.gezondheidsraad.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
