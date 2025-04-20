@@ -561,6 +561,7 @@ https://english.dienstterugkeerenvertrek.nl
 https://english.domeinenrz.nl
 https://english.donorregister.nl
 https://english.dsta.nl
+https://english.euthanasiecommissie.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -575,6 +576,7 @@ https://esb-t1.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://eubtw.belastingdienst.nl
+https://euthanasiecommissie.nl
 https://examenplein.cvte.nl
 https://exchangerate.douane.nl
 https://exchangeratetest.douane.nl
@@ -693,8 +695,10 @@ https://feeds.english.dienstterugkeerenvertrek.nl
 https://feeds.english.domeinenrz.nl
 https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
+https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
+https://feeds.euthanasiecommissie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -1023,8 +1027,10 @@ https://opendata.english.dienstterugkeerenvertrek.nl
 https://opendata.english.domeinenrz.nl
 https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
+https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
+https://opendata.euthanasiecommissie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -1440,6 +1446,7 @@ https://www.emm-online.nl
 https://www.energierijkdenhaag.nl
 https://www.ep-online.nl
 https://www.erfgoeddeal.nl
+https://www.euthanasiecommissie.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www.mijn.dus-i.nl

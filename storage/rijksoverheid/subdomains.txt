@@ -894,6 +894,7 @@ english.dienstterugkeerenvertrek.nl
 english.domeinenrz.nl
 english.donorregister.nl
 english.dsta.nl
+english.euthanasiecommissie.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -929,6 +930,7 @@ eubtw.belastingdienst.nl
 eubtw.str15.acc.belastingdienst.nl
 eubtw.str2.tst.belastingdienst.nl
 euem.dictu.nl
+euthanasiecommissie.nl
 eux-olo.belastingdienst.nl
 eux-tao.belastingdienst.nl
 evat-test2.belastingdienst.nl
@@ -1078,8 +1080,10 @@ feeds.english.dienstterugkeerenvertrek.nl
 feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
+feeds.english.euthanasiecommissie.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
+feeds.euthanasiecommissie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1827,8 +1831,10 @@ opendata.english.dienstterugkeerenvertrek.nl
 opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
+opendata.english.euthanasiecommissie.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
+opendata.euthanasiecommissie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2746,6 +2752,7 @@ www.emm-online.nl
 www.energierijkdenhaag.nl
 www.ep-online.nl
 www.erfgoeddeal.nl
+www.euthanasiecommissie.nl
 www.gtmx.acc.belastingdienst.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
