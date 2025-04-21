@@ -6,9 +6,9 @@ a-www
 english
 a-feeds
 a-opendata
-acc
 feeds.english
 opendata.english
+acc
 test
 autodiscover
 mail
@@ -30,6 +30,7 @@ www-ac
 www-dev
 www-p
 www-tst
+sip
 prod
 portaal
 webservices
@@ -38,7 +39,6 @@ werkplek
 www-ow
 www-ts
 login
-sip
 zoeken
 mdm
 geoservices
@@ -100,6 +100,7 @@ mysites
 ns2
 ns3
 ns4
+pleio
 sharepoint-acc
 sharepoint-conf
 sharepoint
@@ -168,6 +169,7 @@ csotest
 sandbox
 www-a
 zaaksysteem-acc
+kennisbank
 zaaksysteem-accept
 sdm
 staging
@@ -681,7 +683,6 @@ piv-rest
 planon.acc
 platformafpakken-fiod.acc
 pleio-test
-pleio
 pm-acc
 pm-ont
 pm
@@ -2012,7 +2013,6 @@ grondwaterportaal-a
 grondwaterportaal
 inloggen-preprod
 inloggen
-kennisbank
 loket-preprod
 mobile
 mysitestest
@@ -2342,6 +2342,7 @@ private.acc.staging
 private
 private.staging
 menukaart
+www-old
 passwordmanager
 plek
 ra

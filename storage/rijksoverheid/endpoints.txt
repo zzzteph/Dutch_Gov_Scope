@@ -721,6 +721,7 @@ https://english.igj.nl
 https://english.ilent.nl
 https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
+https://english.kiesraad.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -877,6 +878,7 @@ https://feeds.english.igj.nl
 https://feeds.english.ilent.nl
 https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
+https://feeds.english.kiesraad.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -929,6 +931,7 @@ https://feeds.justitieleictorganisatie.nl
 https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
+https://feeds.kiesraad.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -1164,6 +1167,7 @@ https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
+https://kiesraad.nl
 https://kimi-infodeling.jeugdconnect.nl
 https://kimi.jeugdconnect.nl
 https://klanttoegang.cbs.nl
@@ -1462,6 +1466,7 @@ https://opendata.english.igj.nl
 https://opendata.english.ilent.nl
 https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
+https://opendata.english.kiesraad.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
@@ -1514,6 +1519,7 @@ https://opendata.justitieleictorganisatie.nl
 https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
+https://opendata.kiesraad.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -1538,6 +1544,7 @@ https://planmer-acc.zuid-holland.nl
 https://planmer-test.zuid-holland.nl
 https://planmer.zuid-holland.nl
 https://planregistratie-wonen.zuid-holland.nl
+https://pleio.kiesraad.nl
 https://plek.zorginstituutnederland.nl
 https://pmm.belastingdienst.nl
 https://pms.dictu.nl
@@ -2141,6 +2148,7 @@ https://www.justitieleictorganisatie.nl
 https://www.kabinetsformatie2023.nl
 https://www.kansrijkestartnl.nl
 https://www.kennisvandeoverheid.nl
+https://www.kiesraad.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
