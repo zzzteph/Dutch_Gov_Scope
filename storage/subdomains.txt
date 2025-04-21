@@ -1349,6 +1349,7 @@ feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
 feeds.jenvgegevens.nl
+feeds.jeugdautoriteit.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1725,6 +1726,7 @@ jaguar001b.dictu.nl
 jaguar010.dictu.nl
 jaguar010a.dictu.nl
 jaguar010b.dictu.nl
+jeugdautoriteit.nl
 jeugdmonitor-acc.cbs.nl
 jeugdmonitor-prod.cbs.nl
 jeugdmonitor.cbs.nl
@@ -1866,6 +1868,7 @@ magazines.government.nl
 magazines.ilent.nl
 magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
+magazines.jeugdautoriteit.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
@@ -2393,6 +2396,7 @@ opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
 opendata.jenvgegevens.nl
+opendata.jeugdautoriteit.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3627,6 +3631,7 @@ www.it-academieoverheid.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
 www.jenvgegevens.nl
+www.jeugdautoriteit.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
