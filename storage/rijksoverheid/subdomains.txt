@@ -1343,6 +1343,7 @@ feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
 feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
+feeds.it-academieoverheid.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1783,6 +1784,7 @@ le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
+leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
@@ -2381,6 +2383,7 @@ opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
 opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
+opendata.it-academieoverheid.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3611,6 +3614,7 @@ www.irealisatie.nl
 www.ishetafval.nl
 www.isis-web.nl
 www.istandaarden.nl
+www.it-academieoverheid.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl

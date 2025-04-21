@@ -2297,6 +2297,7 @@ registry
 repository.acceptatie
 repository
 sso.acceptatie
+leerplatform
 passwordmanager
 plek
 ra
