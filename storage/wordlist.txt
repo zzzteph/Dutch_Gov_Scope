@@ -12,8 +12,8 @@ acc
 test
 autodiscover
 mail
-magazines
 mijn
+magazines
 a-english
 acceptatie
 a-feeds.a-english
@@ -22,13 +22,14 @@ cms
 api
 vpn
 www-acc
-webmail
 intranet
+webmail
 proto
 www-ac
 www-dev
 www-p
 www-tst
+prod
 portaal
 webservices
 beeldbank
@@ -38,7 +39,6 @@ www-ow
 www-ts
 login
 sip
-prod
 zoeken
 mdm
 geoservices
@@ -2328,6 +2328,12 @@ validatie-acc
 validatie
 xmam
 xmdm
+acc.intranet
+boa
+jaarverslag
+test.intranet
+validata
+vogcheck
 passwordmanager
 plek
 ra
