@@ -20,10 +20,11 @@ a-feeds.a-english
 a-opendata.a-english
 cms
 api
+intranet
 vpn
 www-acc
-intranet
 webmail
+connect
 proto
 www-ac
 www-dev
@@ -34,7 +35,6 @@ portaal
 webservices
 beeldbank
 werkplek
-connect
 www-ow
 www-ts
 login
@@ -136,6 +136,7 @@ chat
 designsystem
 micollab
 onderzoek
+tunnel
 www1
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
@@ -152,6 +153,7 @@ o-www
 t-www
 mail01
 mailing
+connect-acpt
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
@@ -1252,7 +1254,6 @@ test-ccb
 test.cerberus
 test.ebms
 test.status
-tunnel
 tunnel1
 uag
 uitwisseling
@@ -1738,7 +1739,6 @@ www.magazine-en
 www.magazine-nl
 acc.beeldbellen
 beeldbellen
-connect-acpt
 drife-f
 dvfz-acc-auth
 dvfz-acc
