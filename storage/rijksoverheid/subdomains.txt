@@ -13,6 +13,7 @@ _autodiscover._tcp.belastingdienst-cn.nl
 _autodiscover._tcp.ceg.nl
 _autodiscover._tcp.dezi.nl
 _autodiscover._tcp.kimnet.nl
+_autodiscover._tcp.natura2000.nl
 _dmarc.cibg.nl
 a-api.contenttoolsrijksoverheid.nl
 a-cms.contenttoolsrijksoverheid.nl
@@ -247,6 +248,7 @@ acc.mgo.irealisatie.nl
 acc.mijn.dus-i.nl
 acc.mijn.knmi.nl
 acc.monumentenregister.cultureelerfgoed.nl
+acc.natura2000.nl
 acc.oinregister.logius.nl
 acc.rd.dictu.nl
 acc.render.map.services.cultureelerfgoed.nl
@@ -2511,6 +2513,7 @@ nationaalrapporteur.nl
 nationaalwegenbestand.nl
 nationalebijenstrategie.nl
 natura2000-data.zuid-holland.nl
+natura2000.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
 neries.knmi.nl
@@ -2897,6 +2900,7 @@ panter001b.dictu.nl
 panter011.dictu.nl
 papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
+pas.natura2000.nl
 password-new.knmi.nl
 password.ctgb.nl
 password.knmi.nl
@@ -3462,6 +3466,7 @@ test.loketgezondleven.nl
 test.mgo.irealisatie.nl
 test.mi-cert.nl
 test.monumentenregister.cultureelerfgoed.nl
+test.natura2000.nl
 test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
 test.status.cbs.nl
@@ -4256,6 +4261,7 @@ www.nationaalgroeifonds.nl
 www.nationaalrapporteur.nl
 www.nationaalwegenbestand.nl
 www.nationalebijenstrategie.nl
+www.natura2000.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl

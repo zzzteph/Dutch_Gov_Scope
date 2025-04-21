@@ -35,6 +35,7 @@ www-ow
 www-ts
 login
 sip
+_autodiscover._tcp
 portaal
 webservices
 beeldbank
@@ -43,7 +44,6 @@ geoservices
 data
 geo
 geodata
-_autodiscover._tcp
 zoeken
 formulieren
 mdm
@@ -2617,6 +2617,7 @@ lab.geodata
 ngr.acceptatie
 ngr.ontwikkeling
 secure.geodata2
+pas
 passwordmanager
 plek
 ra
