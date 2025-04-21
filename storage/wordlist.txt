@@ -42,6 +42,7 @@ werkplek
 geoservices
 data
 geo
+geodata
 _autodiscover._tcp
 zoeken
 formulieren
@@ -54,7 +55,6 @@ meet
 vpn2
 meldingen
 ontwikkel
-geodata
 fs
 services
 acceptatie.beheer
@@ -2612,6 +2612,11 @@ intranet-prod
 jet-test
 zakelijk-acc
 zakelijk
+geodata1
+lab.geodata
+ngr.acceptatie
+ngr.ontwikkeling
+secure.geodata2
 passwordmanager
 plek
 ra

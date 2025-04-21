@@ -1521,11 +1521,13 @@ https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://nationaalcohortonderzoek.cbs.nl
 https://nationaalcoordinatorgroningen.nl
+https://nationaalgeoregister.nl
 https://natura2000-data.zuid-holland.nl
 https://natuurbeheerplan.flevoland.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
+https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nieuws.brabant.nl
 https://nieuwsbrief.examenblad.nl
@@ -2474,6 +2476,7 @@ https://www.mobiliteitsscan-info.nl
 https://www.monitorlangdurigezorg.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nationaalcoordinatorgroningen.nl
+https://www.nationaalgeoregister.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl
