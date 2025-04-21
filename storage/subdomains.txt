@@ -1457,6 +1457,7 @@ feeds.kimnet.nl
 feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
 feeds.knmidata.nl
+feeds.knmiprojects.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1935,6 +1936,7 @@ klussenbank.dictu.nl
 knmi-inet.knmi.nl
 knmi.nl
 knmidata.nl
+knmiprojects.nl
 komerbij-pakket2024.evenementenbureauvws.nl
 kp-moss-ut.tst.belastingdienst.nl
 kpm.jeugdconnect.nl
@@ -2600,6 +2602,7 @@ opendata.kimnet.nl
 opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
 opendata.knmidata.nl
+opendata.knmiprojects.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3917,6 +3920,7 @@ www.klimaatakkoord.nl
 www.klimaatscenarios-data.knmi.nl
 www.knmi.nl
 www.knmidata.nl
+www.knmiprojects.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
