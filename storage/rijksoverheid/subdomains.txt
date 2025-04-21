@@ -2031,6 +2031,8 @@ kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
+kgr-acc.mijn.rvo.nl
+kgr.mijn.rvo.nl
 kibana-prod.lpc.logius.nl
 kibana.lpc.logius.nl
 kiesraad.nl
@@ -2247,6 +2249,8 @@ max.test.mgo.irealisatie.nl
 mbg-ota.dictu.nl
 mbg-proxy.flevoland.nl
 mbg.cbs.nl
+mc-upnl-acc.mijn.rvo.nl
+mc-upnl.mijn.rvo.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
@@ -2324,6 +2328,7 @@ mijn.inburgeren.nl
 mijn.justis.nl
 mijn.knmi.nl
 mijn.ont.belastingdienst.nl
+mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
 mijn.str11.acc.belastingdienst.nl
@@ -3478,6 +3483,13 @@ uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
 uitwisseling.cbs.nl
 upload.cbs.nl
+upnl-acc-businesstest.mijn.rvo.nl
+upnl-acc-inregel.mijn.rvo.nl
+upnl-acc.mijn.rvo.nl
+upnl-param.mijn.rvo.nl
+upnl-zw-acc.mijn.rvo.nl
+upnl-zw.mijn.rvo.nl
+upnl.mijn.rvo.nl
 uptime.bureauwbtv.nl
 uren.acc.irealisatie.nl
 uren.irealisatie.nl
@@ -4176,6 +4188,7 @@ www.metelkaartrekkenwedegrens.nl
 www.mi-cert.nl
 www.microfoonbanden.nl
 www.mijn.dus-i.nl
+www.mijn.rvo.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.netftp.dictu.nl
