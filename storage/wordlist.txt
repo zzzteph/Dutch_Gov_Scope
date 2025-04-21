@@ -147,6 +147,9 @@ nieuwsbrief
 denkmee
 e
 remote
+csoacct
+csotest
+sandbox
 www-a
 zaaksysteem
 forms
@@ -1963,10 +1966,7 @@ portal2
 portalco
 stagefonds
 www2
-csoacct
-csotest
 odc
-sandbox
 bibliotheek
 coronadashboard
 sdg
