@@ -585,6 +585,7 @@ https://cms.bureaubiosecurity.nl
 https://cms.contenttoolsrijksoverheid.nl
 https://cms.denkmee.zuid-holland.nl
 https://cms.jeugdconnect.nl
+https://cms.mensenrechten.nl
 https://cmsintranet.flevoland.nl
 https://cn.cbs.nl
 https://co.formulierdus-i.nl
@@ -600,6 +601,7 @@ https://communicatie.zuid-holland.nl
 https://communicatierijk.nl
 https://community-gatewayreview.nl
 https://competentie.flevoland.nl
+https://complaintform.mensenrechten.nl
 https://confluence.knmi.nl
 https://connect-acpt.dji.nl
 https://connect-acpt.justitieleictorganisatie.nl
@@ -1038,6 +1040,7 @@ https://feeds.maatwerkvoormensen.nl
 https://feeds.marechaussee.nl
 https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
+https://feeds.mensenrechten.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -1301,6 +1304,8 @@ https://kimi-infodeling.jeugdconnect.nl
 https://kimi.jeugdconnect.nl
 https://kimnet.nl
 https://kinderbescherming.nl
+https://klachtenformulier.mensenrechten.nl
+https://klachtenformulierlink.mensenrechten.nl
 https://klanttoegang.cbs.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
@@ -1429,11 +1434,13 @@ https://meldingen.klopt.cibg.nl
 https://meldproduct.nl
 https://meldpuntgeneesmiddelentekortendefecten.nl
 https://meldpuntwki.inspectie-jenv.nl
+https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
 https://mft.webftp.dictu.nl
 https://mgt.flevoland.nl
 https://micollab.cbs.nl
 https://micollab.flevoland.nl
+https://micollab.mensenrechten.nl
 https://micollabtest.cbs.nl
 https://microdata.cbs.nl
 https://mig.cbs.nl
@@ -1524,6 +1531,7 @@ https://onderzoek.cbs.nl
 https://onderzoek.communicatierijk.nl
 https://onderzoek2.cbs.nl
 https://ons.communicatierijk.nl
+https://oordelen.mensenrechten.nl
 https://open.brabant.nl
 https://opendata.a2vonderenkerensheide.nl
 https://opendata.aanbiedersmedicijnen.nl
@@ -1714,6 +1722,7 @@ https://opendata.maatwerkvoormensen.nl
 https://opendata.marechaussee.nl
 https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
+https://opendata.mensenrechten.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -1813,6 +1822,7 @@ https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl
 https://publicaties.brabant.nl
+https://publicaties.mensenrechten.nl
 https://pushmail.awti.nl
 https://pushmail.flevoland.nl
 https://pwik.datawonen.nl
@@ -2412,6 +2422,7 @@ https://www.medicijnkosten.nl
 https://www.medicineshortagesdefects.nl
 https://www.meldproduct.nl
 https://www.meldpuntgeneesmiddelentekortendefecten.nl
+https://www.mensenrechten.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl

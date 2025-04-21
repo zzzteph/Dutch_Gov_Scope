@@ -889,6 +889,7 @@ cms.farmacotherapeutischkompas.nl
 cms.hhdelfland.nl
 cms.jeugdconnect.nl
 cms.knmi.nl
+cms.mensenrechten.nl
 cms1.defensie.nl
 cms2.defensie.nl
 cmsdev.defensie.nl
@@ -916,6 +917,7 @@ communicatierijk.nl
 community-gatewayreview.nl
 competent.cibg.nl
 competentie.flevoland.nl
+complaintform.mensenrechten.nl
 conf.cbg-meb.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
@@ -1527,6 +1529,7 @@ feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
+feeds.mensenrechten.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1655,6 +1658,7 @@ gegevensportaal.belastingdienst.nl
 gegevensuitwisseling.acc.belastingdienst.nl
 gegevensuitwisseling.belastingdienst.nl
 gelijke-kansen.nl
+gelijkloon.mensenrechten.nl
 gembrp.belastingdienst.nl
 geneesmiddeleninformatiebank.nl
 generiekefuncties.datavoorgezondheid.nl
@@ -2036,6 +2040,8 @@ kimi.jeugdconnect.nl
 kimnet.nl
 kinderbescherming.nl
 kko.dictu.nl
+klachtenformulier.mensenrechten.nl
+klachtenformulierlink.mensenrechten.nl
 klanttoegang.cbs.nl
 klimaatadaptatienederland.nl
 klimaatakkoord.nl
@@ -2073,6 +2079,7 @@ leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
+leren.mensenrechten.nl
 lerenvoorveiligheid.nl
 lij.jeugdconnect.nl
 lil.cultureelerfgoed.nl
@@ -2187,6 +2194,7 @@ mail.forensicinstitute.nl
 mail.forensischinstituut.nl
 mail.handelingenbank.info
 mail.huurcommissie.nl
+mail.mensenrechten.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail01.dsta.nl
@@ -2269,6 +2277,7 @@ meldingen.klopt.cibg.nl
 meldproduct.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
+mensenrechten.nl
 menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
 messagebox.test.ggdcontact.irealisatie.nl
@@ -2282,6 +2291,7 @@ mft.webftp.dictu.nl
 mgt.flevoland.nl
 micollab.cbs.nl
 micollab.flevoland.nl
+micollab.mensenrechten.nl
 micollabtest.cbs.nl
 microdata.cbs.nl
 mig.cbs.nl
@@ -2443,6 +2453,7 @@ mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx001.ctivd.nl
+mx1.mensenrechten.nl
 mysite-acc.belastingdienst.nl
 mysite.belastingdienst.nl
 mysites-conf.belastingdienst.nl
@@ -2459,6 +2470,7 @@ ncp-api-1.ccmo.nl
 neries.knmi.nl
 netauth.knmi.nl
 netftp.dictu.nl
+new.mensenrechten.nl
 new.mijn.knmi.nl
 nextcloud.acc.irealisatie.nl
 nextcloud.irealisatie.nl
@@ -2564,6 +2576,7 @@ ontimegtw.ont.belastingdienst.nl
 ontwikkel.atlasleefomgeving.nl
 ontwikkel.atlasnatuurlijkkapitaal.nl
 ontwikkel.cbs.nl
+oordelen.mensenrechten.nl
 oosweb.cbs.nl
 open.brabant.nl
 opendap-dm1.knmi.nl
@@ -2759,6 +2772,7 @@ opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
+opendata.mensenrechten.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -2994,6 +3008,8 @@ public.mst-acc.ctgb.nl
 public.mst.ctgb.nl
 public.portal.ind.nl
 publicaties.brabant.nl
+publicaties.mensenrechten.nl
+publicaties.oud.mensenrechten.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
 pushmail.awti.nl
@@ -4150,6 +4166,7 @@ www.medicijnkosten.nl
 www.medicineshortagesdefects.nl
 www.meldproduct.nl
 www.meldpuntgeneesmiddelentekortendefecten.nl
+www.mensenrechten.nl
 www.mijn.dus-i.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
@@ -4214,6 +4231,7 @@ zoeken.belastingdienst.nl
 zoeken.bigregister.nl
 zoeken.cultureelerfgoed.nl
 zoeken.hdsr.nl
+zoekservice.mensenrechten.nl
 zorgenwerknetwerk.arboportaal.nl
 zorginstituutnederland.nl
 zorginzicht.nl
