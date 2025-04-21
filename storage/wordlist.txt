@@ -8,8 +8,8 @@ a-feeds
 a-opendata
 feeds.english
 opendata.english
-test
 acc
+test
 autodiscover
 mail
 mijn
@@ -169,10 +169,12 @@ werkenbij
 acc.mijn
 www.acc
 nieuwsbrief
+piwik
 denkmee
 e
 remote
 extern
+www2
 csoacct
 csotest
 sandbox
@@ -1883,7 +1885,6 @@ lustrumleaguerijk
 overhandigingroadmapnucleairegeneeskunde
 voicejouwzeggenschapjouwkracht2024
 webdisk
-piwik
 piwik2
 www.nieuwsbrief
 cms-ac
@@ -1972,7 +1973,6 @@ co
 portal2
 portalco
 stagefonds
-www2
 odc
 bibliotheek
 coronadashboard
@@ -2464,6 +2464,7 @@ wow
 www.daggegevens
 www.klimaatscenarios-data
 innovatielab
+acc2
 passwordmanager
 plek
 ra
