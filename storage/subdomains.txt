@@ -67,6 +67,7 @@ a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
 a-feeds.jaarverantwoordingzorg.nl
 a-feeds.klimaatakkoord.nl
+a-feeds.koninklijkhuis.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
@@ -110,6 +111,7 @@ a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
 a-opendata.jaarverantwoordingzorg.nl
 a-opendata.klimaatakkoord.nl
+a-opendata.koninklijkhuis.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -143,6 +145,7 @@ a-www.igj.nl
 a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
 a-www.klimaatakkoord.nl
+a-www.koninklijkhuis.nl
 a.kimnet.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1458,6 +1461,7 @@ feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
 feeds.knmidata.nl
 feeds.knmiprojects.nl
+feeds.koninklijkhuis.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1939,6 +1943,7 @@ knmidata.nl
 knmiprojects.nl
 koaportaal.nl
 komerbij-pakket2024.evenementenbureauvws.nl
+koninklijkhuis.nl
 kp-moss-ut.tst.belastingdienst.nl
 kpm.jeugdconnect.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
@@ -2604,6 +2609,7 @@ opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
 opendata.knmidata.nl
 opendata.knmiprojects.nl
+opendata.koninklijkhuis.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3922,6 +3928,7 @@ www.klimaatscenarios-data.knmi.nl
 www.knmi.nl
 www.knmidata.nl
 www.knmiprojects.nl
+www.koninklijkhuis.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
