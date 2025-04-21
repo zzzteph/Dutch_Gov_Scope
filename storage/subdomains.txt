@@ -1232,6 +1232,7 @@ english.iob-evaluatie.nl
 english.kiesraad.nl
 english.kimnet.nl
 english.knmidata.nl
+english.marechaussee.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1455,6 +1456,7 @@ feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
 feeds.english.knmidata.nl
+feeds.english.marechaussee.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1522,6 +1524,7 @@ feeds.lintjes.nl
 feeds.loonaangifteketen.nl
 feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
+feeds.marechaussee.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -2221,6 +2224,7 @@ mam.knmi.nl
 managedservices.logius.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
+marechaussee.nl
 mass.cultureelerfgoed.nl
 master-browser.dataplatform.knmi.nl
 matchingsapp.cbs.nl
@@ -2679,6 +2683,7 @@ opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
 opendata.english.knmidata.nl
+opendata.english.marechaussee.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -2747,6 +2752,7 @@ opendata.lintjes.nl
 opendata.loonaangifteketen.nl
 opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
+opendata.marechaussee.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4125,6 +4131,7 @@ www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.magazinesrijkswaterstaat.nl
 www.mail.bureauwsnp.nl
+www.marechaussee.nl
 www.mijn.dus-i.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
