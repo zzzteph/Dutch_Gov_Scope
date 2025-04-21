@@ -267,6 +267,7 @@ acceptatie.ebms.digikoppeling.cibg.nl
 acceptatie.feedfoodtransfer.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.hulpmiddelen.farmatec.nl
+acceptatie.isis-web.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
@@ -1690,6 +1691,7 @@ irmpol.dictu.nl
 isamproxyont.ont.belastingdienst.nl
 ishetafval.nl
 isi.cbs.nl
+isis-web.nl
 itp-acc.ilent.nl
 itp.ilent.nl
 iv3-controle-api.cbs.nl
@@ -2614,6 +2616,7 @@ registreren-acc1.ep-online.nl
 registreren.ep-online.nl
 relay1.c2000.nl
 relay2.c2000.nl
+release.isis-web.nl
 remote-pa.hdsr.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
@@ -2935,6 +2938,7 @@ test20200722a.dictu.nl
 test20200722c.dictu.nl
 test20200722d.dictu.nl
 test2gbav.belastingdienst.nl
+test3.isis-web.nl
 test300.dictu.nl
 testbegrippen.hdsr.nl
 testconn.ctgb.nl
@@ -3587,6 +3591,7 @@ www.iob-evaluatie.nl
 www.iplo.nl
 www.irealisatie.nl
 www.ishetafval.nl
+www.isis-web.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl

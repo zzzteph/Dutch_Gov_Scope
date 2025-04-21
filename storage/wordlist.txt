@@ -15,9 +15,9 @@ autodiscover
 mijn
 magazines
 a-english
+acceptatie
 a-feeds.a-english
 a-opendata.a-english
-acceptatie
 vpn
 cms
 api
@@ -2288,6 +2288,8 @@ web.test.mgo
 www.test.zm
 yivi.proeftuin.uzi-online
 zvs.woo
+release
+test3
 passwordmanager
 plek
 ra

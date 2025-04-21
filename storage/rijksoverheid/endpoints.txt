@@ -16,6 +16,7 @@ http://acceptatie.atlasnatuurlijkkapitaal.nl
 http://acceptatie.clusterbuster.nl
 http://acceptatie.consexponano.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
+http://acceptatie.isis-web.nl
 http://acceptatie.zoek.bodemambities.nl
 http://acme2.proeftuin.uzi-online.irealisatie.nl
 http://adc.cbs.nl
@@ -105,6 +106,7 @@ http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
 http://qualification-api.test.zm.irealisatie.nl
 http://qualification.test.zm.irealisatie.nl
+http://release.isis-web.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -137,6 +139,7 @@ http://test.dusi.irealisatie.nl
 http://test.gf.irealisatie.nl
 http://test.mgo.irealisatie.nl
 http://test.woo.irealisatie.nl
+http://test3.isis-web.nl
 http://timeline.test.zm.irealisatie.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
@@ -1084,6 +1087,7 @@ https://iplo.nl
 https://irealisatie.nl
 https://ishetafval.nl
 https://isi.cbs.nl
+https://isis-web.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-controle.cbs.nl
 https://iv3statline.cbs.nl
@@ -2033,6 +2037,7 @@ https://www.iob-evaluatie.nl
 https://www.iplo.nl
 https://www.irealisatie.nl
 https://www.ishetafval.nl
+https://www.isis-web.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
