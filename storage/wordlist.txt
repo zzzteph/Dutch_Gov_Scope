@@ -24,6 +24,7 @@ vpn
 www-acc
 webmail
 intranet
+portaal
 webservices
 beeldbank
 connect
@@ -33,7 +34,6 @@ www-dev
 www-p
 www-tst
 prod
-portaal
 zoeken
 werkplek
 geoservices
