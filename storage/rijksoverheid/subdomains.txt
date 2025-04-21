@@ -159,6 +159,9 @@ aaninhetdonker.nl
 aanmeldenrws.nl
 aanmerking.nl
 aanpakringzuid.nl
+aansluitsuite.acceptatie.digipoort.logius.nl
+aansluitsuite.digipoort.logius.nl
+aansluitsuite.preproductie.digipoort.logius.nl
 aanvraag.dus-i.nl
 aanvragen.zuid-holland.nl
 abat.acc.belastingdienst.nl
@@ -175,6 +178,9 @@ academy.forensicinstitute.nl
 academy.forensischinstituut.nl
 academyforinternationalrelations.nl
 acc-ccb.cbs.nl
+acc-dictu.comcms.logius.nl
+acc-dictu.kennisbank.logius.nl
+acc-dictu.logius.nl
 acc-digikoppeling-sign.dictu.nl
 acc-ez-rvo-ba.dictu.nl
 acc-gcms-client-certificaat.dictu.nl
@@ -237,6 +243,7 @@ acc.mgo.irealisatie.nl
 acc.mijn.dus-i.nl
 acc.mijn.knmi.nl
 acc.monumentenregister.cultureelerfgoed.nl
+acc.oinregister.logius.nl
 acc.rd.dictu.nl
 acc.render.map.services.cultureelerfgoed.nl
 acc.spaceweather.knmi.nl
@@ -323,6 +330,7 @@ ace_nat17.belastingdienst.nl
 acm-acc.ctgb.nl
 acm.ctgb.nl
 acme2.proeftuin.uzi-online.irealisatie.nl
+acpt-machtigen.digipoort.logius.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
 ad.hdsr.nl
@@ -380,6 +388,10 @@ amlc.acc.belastingdienst.nl
 amlc.ont.belastingdienst.nl
 amlceu.acc.belastingdienst.nl
 amlcnl.acc.belastingdienst.nl
+amp-idp-pre.logius.nl
+amp-idp.logius.nl
+amp-pre.logius.nl
+amp.logius.nl
 amunet.cbs.nl
 analytics.dataplatform.knmi.nl
 animalfreeinnovationtpi.nl
@@ -462,6 +474,7 @@ artifact-fibt1.belastingdienst.nl
 artifact-fibt2.acc.belastingdienst.nl
 artifact-fibz1.belastingdienst.nl
 artifact-fibz2.acc.belastingdienst.nl
+artifact-rv-pp1.logius.nl
 asb.datasluis.dictu.nl
 asb.webftp.dictu.nl
 asbestvolgsysteem.nl
@@ -528,6 +541,10 @@ awakta01.belastingdienst.nl
 awti.nl
 axx-test.belastingdienst.nl
 axx.belastingdienst.nl
+az1.acc.belastingdienst.data.logius.nl
+az1.prd.belastingdienst.data.logius.nl
+az2.acc.belastingdienst.data.logius.nl
+az2.prd.belastingdienst.data.logius.nl
 azure-a-poc.grensinfo.nl
 azwstatline.cbs.nl
 b-acc.asbestvolgsysteem.nl
@@ -607,8 +624,12 @@ beheer.generiekeregistratiedienst.cibg.nl
 beheer.lir.cibg.nl
 beheer.lrza.cibg.nl
 beheerautoriteitwaddenzee.nl
+beheerportaal.acceptatie.digipoort.logius.nl
+beheerportaal.digipoort.logius.nl
+beheerportaal.preproductie.digipoort.logius.nl
 belastingdienst-academie.nl
 belastingdienst-cn.nl
+belastingdienst.data.logius.nl
 belastingdienst.nl
 belastingen.zuid-holland.nl
 belastingles.nl
@@ -743,6 +764,9 @@ bureauwsnp.nl
 burgerloket.acceptatie.hhdelfland.nl
 burgerloket.hhdelfland.nl
 burgerloket.test.hhdelfland.nl
+bvd-pre.mev.logius.nl
+bvd.logius.nl
+bvd.mev.logius.nl
 bvinet.douane.nl
 bvlfls.knmi.nl
 bvs.belastingdienst.nl
@@ -755,6 +779,14 @@ c-pki.dictu.nl
 c-pki.extranet.dictu.nl
 c2000.nl
 c3surf.knmi.nl
+ca-devportal-pre.logius.nl
+ca-devportal-tst.logius.nl
+ca-devportal.logius.nl
+ca-idp-pre.logius.nl
+ca-idp-tst.logius.nl
+ca-idp.logius.nl
+ca-tst.logius.nl
+ca.logius.nl
 cabauw.knmi.nl
 cabinetspecialenvoy.com
 caelus-tool.nl
@@ -807,6 +839,10 @@ cesar-database.knmi.nl
 cev.nl
 cevo.nl
 cggp.nl
+channels-az1.lpc.logius.nl
+channels-az2.lpc.logius.nl
+channels.logius.nl
+channels.lpc.logius.nl
 chat.cbs.nl
 chat.ind.nl
 chatapi.klopt.cibg.nl
@@ -826,6 +862,8 @@ circulaireviaducten.nl
 circulairinkopen.nl
 cjib.huurcommissie.nl
 claircitydata.cbs.nl
+clienteleitsm-acceptatie.logius.nl
+clienteleitsm.logius.nl
 climate4impact.knmi.nl
 climexp.knmi.nl
 clusterbuster.nl
@@ -864,6 +902,7 @@ collabora.acc.irealisatie.nl
 collabora.irealisatie.nl
 collabora.poc1.bestandenpostbus.nl
 collegevanrijksadviseurs.nl
+comcms.logius.nl
 commissaris.brabant.nl
 commissiecelz.nl
 commissiemijnbouwschade.nl
@@ -1048,6 +1087,7 @@ doc-acc.bronhouderportaal-bro.nl
 doc.bronhouderportaal-bro.nl
 doc.leefbaarometer.nl
 docs.brba.eu
+docs.lpc.logius.nl
 documentenapplicatie.igj.nl
 doemee.cbs.nl
 domeinenrz.nl
@@ -1109,6 +1149,7 @@ e.acc.videobellen.douane.nl
 e.denkmee.zuid-holland.nl
 e.flevoland.nl
 e.hhdelfland.nl
+e.logius.nl
 e.videobellen.douane.nl
 eagle-acc.dji.nl
 eagle.dji.nl
@@ -1570,6 +1611,7 @@ fubecasper.cbs.nl
 functiegebouwrijksoverheid.nl
 gala2024.evenementenbureauvws.nl
 gateway.test.ggdcontact.irealisatie.nl
+gatus.lpc.logius.nl
 gb-test.brabant.nl
 gba-bvr-ftps.belastingdienst.nl
 gba-bvr.belastingdienst.nl
@@ -1579,7 +1621,19 @@ gdlo.acc.belastingdienst.nl
 gdlo.belastingdienst.nl
 gebiedsprofielen.zuid-holland.nl
 gebruiker-beheer.dus-i.nl
+gebruikersportaal-duo.acceptatie.digipoort.logius.nl
+gebruikersportaal-duo.digipoort.logius.nl
+gebruikersportaal-duo.preproductie.digipoort.logius.nl
+gebruikersportaal-kvk.acceptatie.digipoort.logius.nl
+gebruikersportaal-kvk.digipoort.logius.nl
+gebruikersportaal-kvk.preproductie.digipoort.logius.nl
+gebruikersportaal-sbr.acceptatie.digipoort.logius.nl
+gebruikersportaal-sbr.digipoort.logius.nl
+gebruikersportaal-sbr.preproductie.digipoort.logius.nl
+gebruikersportaal.acceptatie.digipoort.logius.nl
 gebruikersportaal.belastingdienst.nl
+gebruikersportaal.digipoort.logius.nl
+gebruikersportaal.preproductie.digipoort.logius.nl
 gebruikersportaalt.belastingdienst.nl
 gebruikregistratie-acc.inspectieview.nl
 gebruikregistratie.inspectieview.nl
@@ -1643,12 +1697,19 @@ gezondheidsraad.nl
 ggo-vergunningen.nl
 gipdatabank.nl
 gisextern.dictu.nl
+git-az1.lpc.logius.nl
+git-az2.lpc.logius.nl
 git.irealisatie.nl
 git.knmi.nl
+git.logius.nl
+git.lpc.logius.nl
+gitdocumentatie.logius.nl
 gitlab-acc.dictu.nl
 gitlab.dictu.nl
 gladheid.knmi.nl
 globalhealthhub.nl
+gm-pre.mev.logius.nl
+gm.mev.logius.nl
 gobernadoraruba.com
 gobernadorkorsou.com
 gobiernodireino.nl
@@ -1663,6 +1724,7 @@ govroam.brabant.nl
 gpa-rest-test.belastingdienst.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
+grafana.lpc.logius.nl
 grensinfo.nl
 grenzeloossamenwerken.nl
 grip.informatiehuishouding.nl
@@ -1713,6 +1775,8 @@ hansken.nl
 hapi.spaceweather.knmi.nl
 hapi1.test.zm.irealisatie.nl
 hapi2.test.zm.irealisatie.nl
+harbor.az1.lpc.logius.nl
+harbor.az2.lpc.logius.nl
 harmonie.knmi.nl
 hcib.datawonen.nl
 hdsr.nl
@@ -1757,6 +1821,9 @@ i-www.defensie.nl
 i-www.government.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
+iam-containerplatform-az1.lpc.logius.nl
+iam-containerplatform.logius.nl
+iam-containerplatform.lpc.logius.nl
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
@@ -1841,6 +1908,9 @@ intranet.justid.nl
 intranet.justis.nl
 intranet.justitieleictorganisatie.nl
 intratst.belastingdienst.nl
+intrekkingsportaal.acceptatie.digipoort.logius.nl
+intrekkingsportaal.digipoort.logius.nl
+intrekkingsportaal.preproductie.digipoort.logius.nl
 investerenin.zuid-holland.nl
 investeringsimpulsspv.nl
 iob-evaluatie.nl
@@ -1934,6 +2004,7 @@ kennis.hdsr.nl
 kennis.zuid-holland.nl
 kennisbank.hhdelfland.nl
 kennisbank.kiesraad.nl
+kennisbank.logius.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
@@ -1942,6 +2013,8 @@ kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
+kibana-prod.lpc.logius.nl
+kibana.lpc.logius.nl
 kiesraad.nl
 kik-v.nl
 kimi-infodeling.jeugdconnect.nl
@@ -2014,6 +2087,7 @@ login.databestanden.cbs.nl
 login.domeinenrz.nl
 login.irealisatie.nl
 login.proeftuin.uzi-online.irealisatie.nl
+logius.nl
 lokalisatie-demo.proeftuin.gf.irealisatie.nl
 lokalisatie-demo.test.gf.irealisatie.nl
 loket-acc.hdsr.nl
@@ -2050,6 +2124,7 @@ m365.ctgb.nl
 m365.knmi.nl
 maatwerkadvies-preprod.api.ep-online.nl
 maatwerkadvies.api.ep-online.nl
+machtigen.digipoort.logius.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazine.zuid-holland.nl
@@ -2117,6 +2192,7 @@ mailfilter.brabant.nl
 mailhog.acc.monumentenregister.cultureelerfgoed.nl
 mailing.dictu.nl
 mailing.dus-i.nl
+mailing.logius.nl
 mailings.dus-i.nl
 mailmdm.flevoland.nl
 mailrelayh3.cbs.nl
@@ -2126,6 +2202,7 @@ mailrelayh6.cbs.nl
 mam.ctgb.nl
 mam.justid.nl
 mam.knmi.nl
+managedservices.logius.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
 mass.cultureelerfgoed.nl
@@ -2263,6 +2340,7 @@ mijnloket.commissiemijnbouwschade.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 mijntoken.dictu.nl
+mijntokenactiveren.logius.nl
 mijnwerkplek.cbg-meb.nl
 mijnzakelijk-perf.acc.belastingdienst.nl
 mijnzakelijk.acc.belastingdienst.nl
@@ -2319,6 +2397,7 @@ msgcpp-ogc-realtime.knmi.nl
 msgcpp.knmi.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
+msp-a.logius.nl
 mst-acc.ctgb.nl
 mst-ci.ctgb.nl
 mst-test.ctgb.nl
@@ -2359,6 +2438,7 @@ netftp.dictu.nl
 new.mijn.knmi.nl
 nextcloud.acc.irealisatie.nl
 nextcloud.irealisatie.nl
+nexus.lpc.logius.nl
 nh.acc.douane.nl
 nh.douane.nl
 nhr.flevoland.nl
@@ -2431,6 +2511,7 @@ officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
+oinregister.logius.nl
 oladc_85_prod_vs36.poort.belastingdienst.nl
 old-cms.contenttoolsrijksoverheid.nl
 old.belastingles.nl
@@ -2764,6 +2845,8 @@ pmc.belastingdienst.nl
 pmm.belastingdienst.nl
 pms-acc.dictu.nl
 pms.dictu.nl
+pmz-pre.logius.nl
+pmz.logius.nl
 poc.bestandenpostbus.nl
 poc1.bestandenpostbus.nl
 politieopendata.cbs.nl
@@ -2786,6 +2869,8 @@ portal.ind.nl
 portal.test.ggdcontact.irealisatie.nl
 portal2.formulierdus-i.nl
 portalco.formulierdus-i.nl
+portalen.acceptatie.digipoort.logius.nl
+portalen.preproductie.digipoort.logius.nl
 positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
@@ -2797,9 +2882,13 @@ prd.consexponano.nl
 pre.bronhouderportaal-bro.nl
 preprod-belastingen.zuid-holland.nl
 preprod-kvk.belastingdienst.nl
+preprod-machtigen.digipoort.logius.nl
+preprod-portalen.digipoort.logius.nl
 preprod-tvs-rd.dictu.nl
+preprod.bvd.logius.nl
 preprod.ep-online.nl
 preprod.idselect.cultureelerfgoed.nl
+preprod.oinregister.logius.nl
 preprodcher.emissieautoriteit.nl
 preprodehd.emissieautoriteit.nl
 preprodehp.emissieautoriteit.nl
@@ -2819,6 +2908,8 @@ private.justitieconnect.nl
 private.staging.justitieconnect.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
+prod-dictu.comcms.logius.nl
+prod-dictu.logius.nl
 prod-kvk.belastingdienst.nl
 prod-nl-dictu-dkb-sign.dictu.nl
 prod-nl-nvwa-dkb-sign.dictu.nl
@@ -2942,11 +3033,13 @@ rivmopendata.cbs.nl
 rmt.belastingdienst.nl
 ro.zuid-holland.nl
 roomreservation.belastingdienst.nl
+routeringsvoorziening-pp1.logius.nl
 ruimtelijkeplannen.zuid-holland.nl
 rut.belastingdienst.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
 rvig.proeftuin.belastingdienst.nl
+rvmetadata.logius.nl
 rw.belastingdienst.nl
 rwbg.flevoland.nl
 rwn.belastingdienst.nl
@@ -2990,6 +3083,7 @@ sasbi-acc.ilent.nl
 sasbi.ilent.nl
 sat.irealisatie.nl
 satarchive.knmi.nl
+sb-dictu.logius.nl
 sbi-api.cbs.nl
 sbi.cbs.nl
 sbi2008.cbs.nl
@@ -3093,6 +3187,7 @@ smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
 snow-cw.dictu.nl
 socialmediamonitor.jeugdconnect.nl
+sonarqube.lpc.logius.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 sp.zorginzicht.nl
@@ -3146,6 +3241,7 @@ stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
 status.cbs.nl
 stc.ilent.nl
+stelselcatalogus.logius.nl
 stijlgids.cibg.nl
 stor.services.cultureelerfgoed.nl
 storage.databestanden.cbs.nl
@@ -3172,6 +3268,7 @@ surveys.cbs.nl
 sva-mix.prod.belastingdienst.nl
 sva.prod.belastingdienst.nl
 svmsta.dictu.nl
+svn.logius.nl
 synergy.huurcommissie.nl
 syswov.datawonen.nl
 t-api.contenttoolsrijksoverheid.nl
@@ -3206,7 +3303,11 @@ telewerken.hhdelfland.nl
 test-azure06.dictu.nl
 test-ccb.cbs.nl
 test-cmsintranet.flevoland.nl
+test-dictu.comcms.logius.nl
+test-dictu.kennisbank.logius.nl
+test-dictu.logius.nl
 test-intranet.flevoland.nl
+test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
@@ -3337,6 +3438,7 @@ validatie-acc.justid.nl
 validatie.justid.nl
 validationcalculation.douane.nl
 validationcalculationtest.douane.nl
+vault.lpc.logius.nl
 vc.belastingdienst.nl
 vc.dictu.nl
 vcbewepa02c.kdmz.belastingdienst.nl
@@ -3585,6 +3687,7 @@ wifi.brabant.nl
 wifi.dictu.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
+wiki.logius.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 windlansingerland.zuid-holland.nl
@@ -3987,6 +4090,7 @@ www.leerenontwikkelplein.nl
 www.lerenvoorveiligheid.nl
 www.limburg.nl
 www.lintjes.nl
+www.logius.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
