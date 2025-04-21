@@ -1470,6 +1470,7 @@ feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
+feeds.leerenontwikkelplein.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1972,6 +1973,7 @@ leefbaarometer.nl
 leer-rijk.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
+leerenontwikkelplein.nl
 leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
@@ -2628,6 +2630,7 @@ opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
+opendata.leerenontwikkelplein.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3542,6 +3545,8 @@ websign.brabant.nl
 website.acc.belastingdienst.nl
 website.belastingdienst.nl
 wegen.brabant.nl
+welkom-zandbak.leerenontwikkelplein.nl
+welkom.leerenontwikkelplein.nl
 welkombij.cbs.nl
 werken.belastingdienst.nl
 werken.douane.nl
@@ -3957,6 +3962,7 @@ www.ldentool.nl
 www.leefbaarenveilig.nl
 www.leefbaarometer.nl
 www.leer-rijk.nl
+www.leerenontwikkelplein.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
