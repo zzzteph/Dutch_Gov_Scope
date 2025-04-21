@@ -1290,6 +1290,7 @@ feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
 feeds.ilent.nl
 feeds.informatieanalyseteam.nl
+feeds.informatiehuishouding.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1460,6 +1461,7 @@ gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 grensinfo.nl
 grenzeloossamenwerken.nl
+grip.informatiehuishouding.nl
 groeiennaarmorgen.nl
 grondwaterportaal-a.hhdelfland.nl
 grondwaterportaal.hhdelfland.nl
@@ -1585,6 +1587,7 @@ informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
 informatieanalyseteam.nl
+informatiehuishouding.nl
 inkoopplein-acc.dictu.nl
 inkoopplein.dictu.nl
 inkoopportaal.belastingdienst.nl
@@ -1751,6 +1754,7 @@ magazines.emissieautoriteit.nl
 magazines.forensischinstituut.nl
 magazines.government.nl
 magazines.ilent.nl
+magazines.informatiehuishouding.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
@@ -2240,6 +2244,7 @@ opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
 opendata.ilent.nl
 opendata.informatieanalyseteam.nl
+opendata.informatiehuishouding.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3384,6 +3389,7 @@ www.inburgeren.nl
 www.ind.nl
 www.infomilcn.com
 www.informatieanalyseteam.nl
+www.informatiehuishouding.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
