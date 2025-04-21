@@ -19,9 +19,9 @@ a-english
 cms
 a-feeds.a-english
 a-opendata.a-english
+intranet
 www-acc
 api
-intranet
 vpn
 connect
 webmail
@@ -2605,6 +2605,13 @@ upnl.mijn
 i-login
 login.acc
 mirt2016
+aip-acc
+aip
+e.awareness
+intranet-prod
+jet-test
+zakelijk-acc
+zakelijk
 passwordmanager
 plek
 ra

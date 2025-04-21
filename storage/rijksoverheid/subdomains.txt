@@ -152,6 +152,7 @@ a-www.klimaatakkoord.nl
 a-www.koninklijkhuis.nl
 a-www.koopoverheid.nl
 a-www.loonaangifteketen.nl
+a-www.nationaalcoordinatorgroningen.nl
 a.kimnet.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -380,6 +381,8 @@ ag-dcr.cibg.nl
 agressievrijwerken.nl
 agroberichtenbuitenland.nl
 ainformatieportaal.justid.nl
+aip-acc.nationaalcoordinatorgroningen.nl
+aip.nationaalcoordinatorgroningen.nl
 aivd.nl
 akkoordverbeteringproductsamenstelling.nl
 alerting.hdsr.nl
@@ -1152,6 +1155,7 @@ dwo.knmi.nl
 e-akkoord.nl
 e-loket.ilent.nl
 e.acc.videobellen.douane.nl
+e.awareness.nationaalcoordinatorgroningen.nl
 e.denkmee.zuid-holland.nl
 e.flevoland.nl
 e.hhdelfland.nl
@@ -1536,6 +1540,7 @@ feeds.mijncn.nl
 feeds.mijnpgb.nl
 feeds.mirtoverzicht.nl
 feeds.monitorlangdurigezorg.nl
+feeds.nationaalcoordinatorgroningen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -1924,6 +1929,7 @@ interventies.loketgezondleven.nl
 intranet-acc.flevoland.nl
 intranet-bestanden.flevoland.nl
 intranet-demo.dictu.nl
+intranet-prod.nationaalcoordinatorgroningen.nl
 intranet.ad.hdsr.nl
 intranet.belastingdienst.nl
 intranet.ctgb.nl
@@ -1933,6 +1939,7 @@ intranet.flevoland.nl
 intranet.justid.nl
 intranet.justis.nl
 intranet.justitieleictorganisatie.nl
+intranet.nationaalcoordinatorgroningen.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
@@ -1978,6 +1985,7 @@ jaguar001b.dictu.nl
 jaguar010.dictu.nl
 jaguar010a.dictu.nl
 jaguar010b.dictu.nl
+jet-test.nationaalcoordinatorgroningen.nl
 jeugdautoriteit.nl
 jeugdconnect.nl
 jeugdmonitor-acc.cbs.nl
@@ -2488,6 +2496,7 @@ mytoken.dictu.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcohortonderzoek.cbs.nl
+nationaalcoordinatorgroningen.nl
 natura2000-data.zuid-holland.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
@@ -2802,6 +2811,7 @@ opendata.mijncn.nl
 opendata.mijnpgb.nl
 opendata.mirtoverzicht.nl
 opendata.monitorlangdurigezorg.nl
+opendata.nationaalcoordinatorgroningen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4220,6 +4230,7 @@ www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
 www.monitorlangdurigezorg.nl
 www.monumentenregister.cultureelerfgoed.nl
+www.nationaalcoordinatorgroningen.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl
@@ -4274,6 +4285,8 @@ zaaksysteem-accept.zuid-holland.nl
 zaaksysteem.hdsr.nl
 zaaksysteem.inspectie-jenv.nl
 zaaksysteem.zuid-holland.nl
+zakelijk-acc.nationaalcoordinatorgroningen.nl
+zakelijk.nationaalcoordinatorgroningen.nl
 zelfbediening.belastingdienst.nl
 zoek.bodemambities.nl
 zoekeentolkvertaler.bureauwbtv.nl
