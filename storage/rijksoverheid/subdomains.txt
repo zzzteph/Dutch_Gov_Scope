@@ -437,6 +437,7 @@ api.jeugdconnect.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
+api.nationaalwegenbestand.nl
 api.openstad.zuid-holland.nl
 api.spaceweather.knmi.nl
 apikey-preprod.ep-online.nl
@@ -1543,6 +1544,7 @@ feeds.monitorlangdurigezorg.nl
 feeds.nationaalcoordinatorgroningen.nl
 feeds.nationaalgroeifonds.nl
 feeds.nationaalrapporteur.nl
+feeds.nationaalwegenbestand.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2008,6 +2010,7 @@ justis.nl
 justitieconnect.nl
 justitieleictorganisatie.nl
 kaart.flevoland.nl
+kaart.nationaalwegenbestand.nl
 kaartbank.brabant.nl
 kaarten.brabant.nl
 kaarten.datawonen.nl
@@ -2504,6 +2507,7 @@ nationaalcohortonderzoek.cbs.nl
 nationaalcoordinatorgroningen.nl
 nationaalgeoregister.nl
 nationaalrapporteur.nl
+nationaalwegenbestand.nl
 natura2000-data.zuid-holland.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
@@ -2823,6 +2827,7 @@ opendata.monitorlangdurigezorg.nl
 opendata.nationaalcoordinatorgroningen.nl
 opendata.nationaalgroeifonds.nl
 opendata.nationaalrapporteur.nl
+opendata.nationaalwegenbestand.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4246,6 +4251,7 @@ www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl
 www.nationaalrapporteur.nl
+www.nationaalwegenbestand.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl
