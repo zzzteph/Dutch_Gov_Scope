@@ -18,10 +18,10 @@ a-english
 acceptatie
 a-feeds.a-english
 a-opendata.a-english
-vpn
-www-acc
 cms
 api
+vpn
+www-acc
 webmail
 proto
 www-ac
@@ -44,6 +44,7 @@ portal
 data
 geo
 a-magazines
+apps
 sip
 vpn2
 meldingen
@@ -64,7 +65,6 @@ ftp
 redactie
 digikoppeling
 kennis
-apps
 adfs
 loket
 zaaksysteem
@@ -2299,6 +2299,15 @@ repository
 sso.acceptatie
 leerplatform
 modellen
+halt-verwijs
+kimi-infodeling
+kimi
+kpm
+lij
+privacy
+slachtoffer
+socialmediamonitor
+vog
 passwordmanager
 plek
 ra
