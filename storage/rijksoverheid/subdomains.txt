@@ -419,8 +419,11 @@ amp-idp-pre.logius.nl
 amp-idp.logius.nl
 amp-pre.logius.nl
 amp.logius.nl
+ams-closures.ndw.nu
 amunet.cbs.nl
 analytics.dataplatform.knmi.nl
+analytics.ndw.nu
+analytics.staging.ndw.nu
 animalfreeinnovationtpi.nl
 anoniem.netftp.dictu.nl
 anonymous.api.dataplatform.knmi.nl
@@ -528,6 +531,7 @@ auth-tst.dictu.nl
 auth.dataplatform.knmi.nl
 auth.denkmee.zuid-holland.nl
 auth.dictu.nl
+auth.ndw.nu
 auth.openstad.zuid-holland.nl
 auth.services.cultureelerfgoed.nl
 auth20.dictu.nl
@@ -610,6 +614,7 @@ b2btest-rijks.belastingdienst.nl
 b2btest-rijks.douane.nl
 b2btest.belastingdienst.nl
 b2btest.douane.nl
+backbone.ndw.nu
 backend.isms.cibg.nl
 backend.socint.acc.belastingdienst.nl
 backend.socint.belastingdienst.nl
@@ -672,6 +677,7 @@ beo.cbs.nl
 beoordeling.dus-i.nl
 beoordelingarbeidsrelatie.nl
 beoordelingscommissiedopingzaken.nl
+bereikbaarheid.ndw.nu
 beschermdecultuurgoederen.nl
 bestandenpostbus.nl
 bestandslevering.cbs.nl
@@ -822,6 +828,7 @@ ca-idp-tst.logius.nl
 ca-idp.logius.nl
 ca-tst.logius.nl
 ca.logius.nl
+caas.ndw.nu
 cabauw.knmi.nl
 cabinetspecialenvoy.com
 caelus-tool.nl
@@ -841,6 +848,7 @@ cawuitwijkfirewall.hdsr.nl
 cbg-meb.nl
 cbgjaarverslag.nl
 cbi.eu
+cbm.ndw.nu
 cbo-a.dictu.nl
 cbo-b.dictu.nl
 cbo.dictu.nl
@@ -908,6 +916,7 @@ clusterbuster.nl
 cms-ac.farmacotherapeutischkompas.nl
 cms-acc.farmacotherapeutischkompas.nl
 cms-dev.farmacotherapeutischkompas.nl
+cms-info.ndw.nu
 cms-origin.klimaatscenarios-data.knmi.nl
 cms-ow.farmacotherapeutischkompas.nl
 cms-p.farmacotherapeutischkompas.nl
@@ -1025,28 +1034,39 @@ cultuursubsidie.nl
 cyberawareness.nctv.nl
 cybersecuritycouncil.nl
 cybersecurityraad.nl
+d2val.staging.ndw.nu
 daf-eforms.ind.nl
 daf.ind.nl
+dafne.ndw.nu
 daggegevens.knmi.nl
 dagstaatmonitors.brabant.nl
+daisi.ndw.nu
 damg.knmi.nl
 dashboard.ikz.nl
 dashboards.cbs.nl
+dashboards.ndw.nu
+dashboards.staging.ndw.nu
 data-seismo-dev.knmi.nl
+data-streamer.ndw.nu
 data.cultureelerfgoed.nl
 data.flevoland.nl
 data.geo.cultureelerfgoed.nl
 data.ilent.nl
 data.knmi.nl
+data.ndw.nu
+data.staging.ndw.nu
 data.zuid-holland.nl
 databestanden.cbs.nl
 dataderden.cbs.nl
+datafusion.ndw.nu
 datalab.knmi.nl
 dataloket.zuid-holland.nl
+datamonitor.ndw.nu
 dataplatform.knmi.nl
 dataportaal.brabant.nl
 dataportaal.cbs.nl
 dataportal.cbs.nl
+dataquality.ndw.nu
 dataservice.basisinformatie-overstromingen.nl
 dataset.cbs.nl
 datasets.cbs.nl
@@ -1071,6 +1091,7 @@ demo2.bronhouderportaal-bro.nl
 denkmee.flevoland.nl
 denkmee.zuid-holland.nl
 denkmeemet.zuid-holland.nl
+design.ndw.nu
 designsystem.cbs.nl
 designsystem.cibg.nl
 desktop.flevoland.nl
@@ -1082,6 +1103,8 @@ dev.cbrnsecurity.nctv.nl
 dev.cerberus.cbs.nl
 dev.kennisbankterrorisme.nctv.nl
 developer.dataplatform.knmi.nl
+dexter.ndw.nu
+dexter.staging.ndw.nu
 dezi.nl
 dfg.datawonen.nl
 dfp.domeinenrz.nl
@@ -1093,6 +1116,7 @@ dictu.nl
 dictuext04.ymor.dictu.nl
 dictuext05.ymor.dictu.nl
 dictumagazines.nl
+diego.ndw.nu
 dienstterugkeerenvertrek.nl
 diergeneesmiddeleninformatiebank.nl
 digi.ilent.nl
@@ -1132,6 +1156,7 @@ doc.bronhouderportaal-bro.nl
 doc.leefbaarometer.nl
 docs.brba.eu
 docs.lpc.logius.nl
+docs.ndw.nu
 documentenapplicatie.igj.nl
 doemee.cbs.nl
 domeinenrz.nl
@@ -1162,6 +1187,7 @@ draf-acpt.brabant.nl
 draf.brabant.nl
 drife-f.dji.nl
 drms.cibg.nl
+drs.ndw.nu
 dsta.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
@@ -1181,6 +1207,7 @@ dvfz-acc-auth.dji.nl
 dvfz-acc.dji.nl
 dvfz-auth.dji.nl
 dvfz.dji.nl
+dvmservices.ndw.nu
 dvp-proxy.acc.mgo.irealisatie.nl
 dvp-proxy.test.mgo.irealisatie.nl
 dwangindezorg.nl
@@ -1282,6 +1309,7 @@ english.mijncn.nl
 english.ncadierproevenbeleid.nl
 english.ncsc.nl
 english.nctv.nl
+english.ndw.nu
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1295,6 +1323,7 @@ eovgb.aivd.nl
 ep-online.nl
 erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
+error-reporting.ndw.nu
 esb-a1.brabant.nl
 esb-acpt.brabant.nl
 esb-ibabs-preprod.flevoland.nl
@@ -1373,6 +1402,7 @@ f1130b.dictu.nl
 f2b.belastingdienst.nl
 facilitor.brabant.nl
 fad-gegevens-sit.belastingdienst.nl
+faq.ndw.nu
 farmacotherapeutischkompas.nl
 farmatec.nl
 faro.cultureelerfgoed.nl
@@ -1381,6 +1411,7 @@ fatcacrstest.belastingdienst.nl
 fbadmin-eopg-acc.aivd.nl
 fbadmin-eopg.aivd.nl
 fbb-handreiking.nl
+fbmonitor.ndw.nu
 fcinet.acc.belastingdienst.nl
 feature-cic-673.dev.bcld-config.nl
 feature-cicd-deployment.dev.bcld-config.nl
@@ -1511,6 +1542,7 @@ feeds.english.mijncn.nl
 feeds.english.ncadierproevenbeleid.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
+feeds.english.ndw.nu
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1596,6 +1628,7 @@ feeds.ncadierproevenbeleid.nl
 feeds.ncpeh.nl
 feeds.ncsc.nl
 feeds.nctv.nl
+feeds.ndw.nu
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -1751,6 +1784,7 @@ geodata.nationaalgeoregister.nl
 geodata.zuid-holland.nl
 geodata1.nationaalgeoregister.nl
 geodiensten.flevoland.nl
+geojson-converter.ndw.nu
 geopoc.brabant.nl
 geoportaal-acceptatie.brabant.nl
 geoportaal.brabant.nl
@@ -1865,6 +1899,7 @@ hapi2.test.zm.irealisatie.nl
 harbor.az1.lpc.logius.nl
 harbor.az2.lpc.logius.nl
 harmonie.knmi.nl
+havik.ndw.nu
 hcib.datawonen.nl
 hdsr.nl
 healthcouncil.nl
@@ -1912,6 +1947,7 @@ iah.belastingdienst.nl
 iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
+iam.ndw.nu
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
@@ -1985,6 +2021,7 @@ intel.ncsc.nl
 intermediairdagen.belastingdienst.nl
 intern.catalogus.cultureelerfgoed.nl
 intern.magazinesrijkswaterstaat.nl
+internal-docs.ndw.nu
 interventiedatabase.nl
 interventies.loketgezondleven.nl
 intranet-acc.flevoland.nl
@@ -2073,6 +2110,7 @@ kaarten.hdsr.nl
 kabinetsformatie2023.nl
 kansrijkestartnl.nl
 kantoor.hdsr.nl
+karin.ndw.nu
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -2110,6 +2148,7 @@ kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
+keycloak.ndw.nu
 kgr-acc.mijn.rvo.nl
 kgr.mijn.rvo.nl
 kibana-prod.lpc.logius.nl
@@ -2321,6 +2360,7 @@ mam.knmi.nl
 managedservices.logius.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
+maps.ndw.nu
 marechaussee.nl
 mass.cultureelerfgoed.nl
 master-browser.dataplatform.knmi.nl
@@ -2367,6 +2407,7 @@ meldproduct.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
 melissa.ncsc.nl
+melvin.ndw.nu
 mensenrechten.nl
 menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
@@ -2415,6 +2456,7 @@ mijn.inburgeren.nl
 mijn.justis.nl
 mijn.knmi.nl
 mijn.ncsc.nl
+mijn.ndw.nu
 mijn.ont.belastingdienst.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
@@ -2471,6 +2513,7 @@ mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
 mijnncg.nl
 mijnpgb.nl
+mijnrdtmnl.ndw.nu
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 mijntoken.dictu.nl
@@ -2508,6 +2551,11 @@ mirt2016.mirtoverzicht.nl
 mirtoverzicht.nl
 mivp.emissieautoriteit.nl
 mkbstatline.cbs.nl
+mlops-models.ndw.nu
+mlops-monitoring.ndw.nu
+mlops-platform.ndw.nu
+mlops-platform.staging.ndw.nu
+mlops-tracking.ndw.nu
 mlzopendata.cbs.nl
 mlzstatline.cbs.nl
 mm.acc.belastingdienst.nl
@@ -2521,6 +2569,7 @@ mobilesync.knmi.nl
 mode-s.knmi.nl
 modellen.jenvgegevens.nl
 modules.istandaarden.nl
+mogin.ndw.nu
 monitor-klimaatadaptatie.zuid-holland.nl
 monitorlangdurigezorg.nl
 monitorleefomgeving.zuid-holland.nl
@@ -2571,6 +2620,7 @@ mysites.hhdelfland.nl
 mysitestest.hhdelfland.nl
 mytoken.dictu.nl
 nac.nctv.nl
+nap-ev.ndw.nu
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcohortonderzoek.cbs.nl
@@ -2584,10 +2634,15 @@ natura2000.nl
 natuurbeheerplan.flevoland.nl
 ncab.nl
 ncadierproevenbeleid.nl
+ncis-ref.ndw.nu
+ncis.ndw.nu
+ncis.staging.ndw.nu
 ncp-api-1.ccmo.nl
 ncpeh.nl
 ncsc.nl
 ndn-onderzoek.ncsc.nl
+ndw.nu
+ndwviewer.ndw.nu
 neries.knmi.nl
 netauth.knmi.nl
 netftp.dictu.nl
@@ -2608,6 +2663,7 @@ nieuwsbrieven.limburg.nl
 nimh-beeldbank.defensie.nl
 nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
+nls.ndw.nu
 nmdc.knmi.nl
 nmdcacc.knmi.nl
 nmdctest.knmi.nl
@@ -2628,6 +2684,9 @@ ns4.belastingdienst.nl
 ns4.brabant.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
+nt.ndw.nu
+ntm.ndw.nu
+ntm.staging.ndw.nu
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 o-cms.defensie.nl
@@ -2703,6 +2762,7 @@ ontwikkel.atlasnatuurlijkkapitaal.nl
 ontwikkel.cbs.nl
 oordelen.mensenrechten.nl
 oosweb.cbs.nl
+open-data.ndw.nu
 open.brabant.nl
 opendap-dm1.knmi.nl
 opendap-dm2.knmi.nl
@@ -2830,6 +2890,7 @@ opendata.english.mijncn.nl
 opendata.english.ncadierproevenbeleid.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
+opendata.english.ndw.nu
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -2916,6 +2977,7 @@ opendata.ncadierproevenbeleid.nl
 opendata.ncpeh.nl
 opendata.ncsc.nl
 opendata.nctv.nl
+opendata.ndw.nu
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -3167,6 +3229,7 @@ publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
 pushmail.awti.nl
 pushmail.flevoland.nl
+put-kpi-dashboard.ndw.nu
 pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 pwik.datawonen.nl
@@ -3189,6 +3252,7 @@ rdgateway.awti.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
 rdsa.knmi.nl
+realtime.ndw.nu
 redactie-acc.cbs.nl
 redactie-test.cbs.nl
 redactie-tl.iplo.nl
@@ -3205,6 +3269,7 @@ registreren-acc1.ep-online.nl
 registreren.ep-online.nl
 registry.acceptatie.istandaarden.nl
 registry.istandaarden.nl
+reistijdtrajecten.ndw.nu
 relay1.c2000.nl
 relay2.c2000.nl
 release.isis-web.nl
@@ -3239,6 +3304,7 @@ rmt.belastingdienst.nl
 ro.zuid-holland.nl
 roomreservation.belastingdienst.nl
 routeringsvoorziening-pp1.logius.nl
+rt.ndw.nu
 ruimtelijkeplannen.zuid-holland.nl
 rut.belastingdienst.nl
 rvig-productie.belastingdienst.nl
@@ -3250,6 +3316,7 @@ rwbg.flevoland.nl
 rwn.belastingdienst.nl
 rwo.dictu.nl
 s.checkjeprijs.huurcommissie.nl
+s.ndw.nu
 s4a.brabant.nl
 s4o.brabant.nl
 s4p.brabant.nl
@@ -3316,8 +3383,10 @@ secure.knmi.nl
 securemail.zorginstituutnederland.nl
 securened.ncsc.nl
 securenet.ncsc.nl
+security.ndw.nu
 securityzkh.nctv.nl
 seg.cbs.nl
+sentry.ndw.nu
 sepm.belastingdienst.nl
 servicedesk.dictu.nl
 services-acc.ep-online.nl
@@ -3341,6 +3410,7 @@ sfs.dictu.nl
 sftp-out.brba.nl
 sftp.cbs.nl
 sftp.test.cbs.nl
+shared-services.ndw.nu
 sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.belastingdienst.nl
 sharepoint-acc.douane.nl
@@ -3377,6 +3447,7 @@ site3.defensie.nl
 site4.defensie.nl
 slachtoffer.jeugdconnect.nl
 slechtvalk.brabant.nl
+slim-reizen.ndw.nu
 slimmerreizen.zuid-holland.nl
 sltn.bzv.brabant.nl
 smartmobility.flevoland.nl
@@ -3396,6 +3467,7 @@ smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
 snow-cw.dictu.nl
 socialmediamonitor.jeugdconnect.nl
+sonar.ndw.nu
 sonarqube.lpc.logius.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
@@ -3426,6 +3498,7 @@ staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
 staging.justitieconnect.nl
 staging.meldingen.ilent.nl
+staging.ndw.nu
 start.acc.dusi.irealisatie.nl
 start.belastingdienst.nl
 start.dus-i.nl
@@ -3446,6 +3519,7 @@ statistics.ind.nl
 statline.cbs.nl
 stats.acc.mgo.irealisatie.nl
 stats.irealisatie.nl
+stats.ndw.nu
 stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
 status.cbs.nl
@@ -3518,6 +3592,7 @@ test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
 test-intranet.flevoland.nl
+test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
 test.antennebureau.nl
@@ -3597,6 +3672,8 @@ tgsb-btssrv-ut.tst.belastingdienst.nl
 thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
 tib.dataplatform.knmi.nl
+tiles.ndw.nu
+tileserver.ndw.nu
 timeline.test.zm.irealisatie.nl
 tip.ncsc.nl
 tl.iplo.nl
@@ -3621,6 +3698,7 @@ tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
 trillingsdata-acc.dictu.nl
 trillingsdata.dictu.nl
+truck-parking.ndw.nu
 ts.cbi.eu
 tst-referentiegegevens.justid.nl
 tst.inspectieview.nl
@@ -3723,6 +3801,7 @@ vepvod.vcdn.belastingdienst.nl
 vepvodont.vcdn.belastingdienst.nl
 vepvodtst.vcdn.belastingdienst.nl
 vergaderen.belastingdienst.nl
+verkeersveiligheid.ndw.nu
 verkoop.domeinenrz.nl
 verkooptest.domeinenrz.nl
 verleendekinderopvang.acc.belastingdienst.nl
@@ -3745,11 +3824,14 @@ viep.acc.brba.nl
 viep.brba.nl
 viep.test.brba.nl
 viewer.test.zm.irealisatie.nl
+vild.ndw.nu
 vinden.belastingdienst.nl
 virtueel.zuid-holland.nl
 visieopidentiteit.digitaleoverheid.nl
+viz.ndw.nu
 vluchtinfo-test.douane.nl
 vluchtinfo.douane.nl
+vm-ivra.ndw.nu
 vocabs.cbs.nl
 vog.jeugdconnect.nl
 vogcheck.justis.nl
@@ -3779,6 +3861,7 @@ vpnb.dictu.nl
 vpnodcn.dictu.nl
 vpntcn.dictu.nl
 vps-prod-01.flevoland.nl
+vri-admin.ndw.nu
 vs-tst-auth.dictu.nl
 vs_mijn.str13.tst.belastingdienst.nl
 vs_mijnzakelijk.str10.tst.belastingdienst.nl
@@ -3896,6 +3979,7 @@ websign.brabant.nl
 website.acc.belastingdienst.nl
 website.belastingdienst.nl
 wegen.brabant.nl
+wegkenmerken.ndw.nu
 welkom-zandbak.leerenontwikkelplein.nl
 welkom.leerenontwikkelplein.nl
 welkombij.cbs.nl
@@ -4366,11 +4450,14 @@ www.nationalebijenstrategie.nl
 www.natura2000.nl
 www.ncab.nl
 www.ncadierproevenbeleid.nl
+www.ncis.ndw.nu
 www.ncpeh.nl
 www.ncsc.nl
 www.nctv.nl
+www.ndw.nu
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
+www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl
 www.openstad.zuid-holland.nl
