@@ -14,11 +14,11 @@ autodiscover
 mail
 mijn
 magazines
-acceptatie
 a-english
-cms
+acceptatie
 a-feeds.a-english
 a-opendata.a-english
+cms
 api
 intranet
 www-acc

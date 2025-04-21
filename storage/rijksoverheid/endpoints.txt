@@ -814,6 +814,7 @@ https://english.kimnet.nl
 https://english.knmidata.nl
 https://english.marechaussee.nl
 https://english.mijncn.nl
+https://english.ncadierproevenbeleid.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -976,6 +977,7 @@ https://feeds.english.kimnet.nl
 https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
 https://feeds.english.mijncn.nl
+https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -1057,6 +1059,7 @@ https://feeds.nationaalrapporteur.nl
 https://feeds.nationaalwegenbestand.nl
 https://feeds.nationalebijenstrategie.nl
 https://feeds.ncab.nl
+https://feeds.ncadierproevenbeleid.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1535,6 +1538,7 @@ https://natura2000-data.zuid-holland.nl
 https://natura2000.nl
 https://natuurbeheerplan.flevoland.nl
 https://ncab.nl
+https://ncadierproevenbeleid.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
@@ -1693,6 +1697,7 @@ https://opendata.english.kimnet.nl
 https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
 https://opendata.english.mijncn.nl
+https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
@@ -1774,6 +1779,7 @@ https://opendata.nationaalrapporteur.nl
 https://opendata.nationaalwegenbestand.nl
 https://opendata.nationalebijenstrategie.nl
 https://opendata.ncab.nl
+https://opendata.ncadierproevenbeleid.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2501,6 +2507,7 @@ https://www.nationaalwegenbestand.nl
 https://www.nationalebijenstrategie.nl
 https://www.natura2000.nl
 https://www.ncab.nl
+https://www.ncadierproevenbeleid.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl
