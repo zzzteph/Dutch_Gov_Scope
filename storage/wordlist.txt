@@ -8,8 +8,8 @@ a-feeds
 a-opendata
 feeds.english
 opendata.english
-acc
 test
+acc
 autodiscover
 mail
 mijn
@@ -38,6 +38,7 @@ beeldbank
 werkplek
 geoservices
 data
+geo
 www-ow
 www-ts
 login
@@ -45,7 +46,6 @@ _autodiscover._tcp
 zoeken
 mdm
 portal
-geo
 a-magazines
 apps
 dialin
@@ -134,6 +134,7 @@ www-test
 helpdesk
 web.acc
 broker
+doc
 sso
 static
 chat
@@ -1087,7 +1088,6 @@ demo
 demo2
 dev
 doc-acc
-doc
 int
 pre
 sad-acc

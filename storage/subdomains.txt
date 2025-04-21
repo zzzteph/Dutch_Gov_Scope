@@ -1042,6 +1042,7 @@ dnsa3.cbs.nl
 dnsa4.cbs.nl
 doc-acc.bronhouderportaal-bro.nl
 doc.bronhouderportaal-bro.nl
+doc.leefbaarometer.nl
 docs.brba.eu
 documentenapplicatie.igj.nl
 doemee.cbs.nl
@@ -1593,6 +1594,7 @@ geo-tools.zuid-holland.nl
 geo.cultureelerfgoed.nl
 geo.flevoland.nl
 geo.hhdelfland.nl
+geo.leefbaarometer.nl
 geo.zuid-holland.nl
 geo2.flevoland.nl
 geo3.flevoland.nl
@@ -1964,6 +1966,7 @@ ldentool.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 leefbaarenveilig.nl
+leefbaarometer.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leerplatform.it-academieoverheid.nl
@@ -3214,6 +3217,7 @@ test.justis.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 test.kinderbescherming.nl
+test.leefbaarometer.nl
 test.mgo.irealisatie.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.publicwebservices.cibg.nl
@@ -3947,6 +3951,7 @@ www.landelijkregisterkinderopvang.nl
 www.large.netftp.dictu.nl
 www.ldentool.nl
 www.leefbaarenveilig.nl
+www.leefbaarometer.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
