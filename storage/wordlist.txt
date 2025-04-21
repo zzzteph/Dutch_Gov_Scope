@@ -3,9 +3,9 @@ www
 opendata
 feeds
 a-www
-english
 a-feeds
 a-opendata
+english
 feeds.english
 opendata.english
 test
@@ -13,8 +13,8 @@ acc
 mail
 autodiscover
 mijn
-a-english
 magazines
+a-english
 a-feeds.a-english
 a-opendata.a-english
 acceptatie
@@ -67,6 +67,7 @@ kennis
 apps
 adfs
 loket
+zaaksysteem
 av
 dialin
 eloket
@@ -154,7 +155,7 @@ csoacct
 csotest
 sandbox
 www-a
-zaaksysteem
+zaaksysteem-acc
 forms
 zaaksysteem-accept
 sdm
@@ -1991,7 +1992,6 @@ uconnect-acc
 uconnect
 waterkwaliteitinbeeld
 wsus
-zaaksysteem-acc
 burgerloket.acceptatie
 burgerloket
 burgerloket.test
@@ -2141,6 +2141,8 @@ statistics
 www.academie
 xmpp.chat
 grip
+jip
+meldpuntwki
 passwordmanager
 plek
 ra
