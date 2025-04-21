@@ -1629,6 +1629,7 @@ feeds.ncpeh.nl
 feeds.ncsc.nl
 feeds.nctv.nl
 feeds.ndw.nu
+feeds.nederlanddigitaal.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2643,6 +2644,7 @@ ncsc.nl
 ndn-onderzoek.ncsc.nl
 ndw.nu
 ndwviewer.ndw.nu
+nederlanddigitaal.nl
 neries.knmi.nl
 netauth.knmi.nl
 netftp.dictu.nl
@@ -2978,6 +2980,7 @@ opendata.ncpeh.nl
 opendata.ncsc.nl
 opendata.nctv.nl
 opendata.ndw.nu
+opendata.nederlanddigitaal.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4455,6 +4458,7 @@ www.ncpeh.nl
 www.ncsc.nl
 www.nctv.nl
 www.ndw.nu
+www.nederlanddigitaal.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.nt.ndw.nu
