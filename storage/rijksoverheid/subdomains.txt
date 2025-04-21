@@ -1348,6 +1348,7 @@ feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
+feeds.jenvgegevens.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -2084,6 +2085,7 @@ mn.datawonen.nl
 mobicert.brabant.nl
 mobiel.douane.nl
 mobile.hhdelfland.nl
+modellen.jenvgegevens.nl
 modules.istandaarden.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 monitorleefomgeving.zuid-holland.nl
@@ -2390,6 +2392,7 @@ opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
+opendata.jenvgegevens.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3623,6 +3626,7 @@ www.istandaarden.nl
 www.it-academieoverheid.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
+www.jenvgegevens.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
