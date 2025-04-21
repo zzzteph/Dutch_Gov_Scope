@@ -1643,6 +1643,7 @@ feeds.nederlanddigitaal.nl
 feeds.nederlandse-sportraad.nl
 feeds.nederlandtegengeorganiseerdemisdaad.nl
 feeds.netwerkplatteland.nl
+feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2681,6 +2682,7 @@ nieuws.brabant.nl
 nieuwsbrief.examenblad.nl
 nieuwsbrief.zuid-holland.nl
 nieuwsbrieven.limburg.nl
+nieuwsbrievenminocw.nl
 nimh-beeldbank.defensie.nl
 nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
@@ -3006,6 +3008,7 @@ opendata.nederlandse-sportraad.nl
 opendata.nederlandtegengeorganiseerdemisdaad.nl
 opendata.nederlandwereldwijd.nl
 opendata.netwerkplatteland.nl
+opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4498,6 +4501,7 @@ www.netftp.dictu.nl
 www.netherlandsworldwide.nl
 www.netwerkplatteland.nl
 www.nieuwsbrief.examenblad.nl
+www.nieuwsbrievenminocw.nl
 www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl
