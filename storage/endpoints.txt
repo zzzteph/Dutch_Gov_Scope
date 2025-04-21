@@ -976,6 +976,7 @@ https://feeds.knmidata.nl
 https://feeds.knmiprojects.nl
 https://feeds.koninklijkhuis.nl
 https://feeds.koopoverheid.nl
+https://feeds.leefbaarenveilig.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -1245,6 +1246,7 @@ https://lc.cbs.nl
 https://ldentool.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
+https://leefbaarenveilig.nl
 https://leerplatform.it-academieoverheid.nl
 https://lij.jeugdconnect.nl
 https://lil.cultureelerfgoed.nl
@@ -1602,6 +1604,7 @@ https://opendata.knmidata.nl
 https://opendata.knmiprojects.nl
 https://opendata.koninklijkhuis.nl
 https://opendata.koopoverheid.nl
+https://opendata.leefbaarenveilig.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -2258,6 +2261,7 @@ https://www.koninklijkhuis.nl
 https://www.koopoverheid.nl
 https://www.landelijkregisterkinderopvang.nl
 https://www.ldentool.nl
+https://www.leefbaarenveilig.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl

@@ -1466,6 +1466,7 @@ feeds.knmidata.nl
 feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
+feeds.leefbaarenveilig.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1962,6 +1963,7 @@ lc.cbs.nl
 ldentool.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
+leefbaarenveilig.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leerplatform.it-academieoverheid.nl
@@ -2619,6 +2621,7 @@ opendata.knmidata.nl
 opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
+opendata.leefbaarenveilig.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3943,6 +3946,7 @@ www.koopoverheid.nl
 www.landelijkregisterkinderopvang.nl
 www.large.netftp.dictu.nl
 www.ldentool.nl
+www.leefbaarenveilig.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
