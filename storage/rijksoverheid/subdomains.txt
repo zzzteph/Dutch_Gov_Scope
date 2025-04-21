@@ -1542,6 +1542,7 @@ feeds.mirtoverzicht.nl
 feeds.monitorlangdurigezorg.nl
 feeds.nationaalcoordinatorgroningen.nl
 feeds.nationaalgroeifonds.nl
+feeds.nationaalrapporteur.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2502,6 +2503,7 @@ nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcohortonderzoek.cbs.nl
 nationaalcoordinatorgroningen.nl
 nationaalgeoregister.nl
+nationaalrapporteur.nl
 natura2000-data.zuid-holland.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
@@ -2820,6 +2822,7 @@ opendata.mirtoverzicht.nl
 opendata.monitorlangdurigezorg.nl
 opendata.nationaalcoordinatorgroningen.nl
 opendata.nationaalgroeifonds.nl
+opendata.nationaalrapporteur.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4242,6 +4245,7 @@ www.monumentenregister.cultureelerfgoed.nl
 www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl
+www.nationaalrapporteur.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl
