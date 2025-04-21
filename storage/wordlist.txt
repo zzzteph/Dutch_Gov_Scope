@@ -3,9 +3,9 @@ www
 opendata
 feeds
 a-www
+english
 a-feeds
 a-opendata
-english
 feeds.english
 opendata.english
 test
@@ -2143,6 +2143,7 @@ xmpp.chat
 grip
 jip
 meldpuntwki
+brs
 passwordmanager
 plek
 ra
