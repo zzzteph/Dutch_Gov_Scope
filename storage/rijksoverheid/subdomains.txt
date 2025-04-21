@@ -1521,6 +1521,7 @@ feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
 feeds.loonaangifteketen.nl
 feeds.lvmb.nl
+feeds.maatwerkvoormensen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -2136,6 +2137,7 @@ m365.ctgb.nl
 m365.knmi.nl
 maatwerkadvies-preprod.api.ep-online.nl
 maatwerkadvies.api.ep-online.nl
+maatwerkvoormensen.nl
 machtigen.digipoort.logius.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
@@ -2742,6 +2744,7 @@ opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
 opendata.loonaangifteketen.nl
 opendata.lvmb.nl
+opendata.maatwerkvoormensen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4115,6 +4118,7 @@ www.loketgentherapie.nl
 www.loketgezondleven.nl
 www.loonaangifteketen.nl
 www.lvmb.nl
+www.maatwerkvoormensen.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 www.mail.bureauwsnp.nl
