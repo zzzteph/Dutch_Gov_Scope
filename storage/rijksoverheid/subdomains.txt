@@ -1375,6 +1375,7 @@ feeds.kabinetsformatie2023.nl
 feeds.kansrijkestartnl.nl
 feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
+feeds.kik-v.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1819,6 +1820,7 @@ kennisvandeoverheid.nl
 ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
 kiesraad.nl
+kik-v.nl
 kimi-infodeling.jeugdconnect.nl
 kimi.jeugdconnect.nl
 kko.dictu.nl
@@ -2460,6 +2462,7 @@ opendata.kabinetsformatie2023.nl
 opendata.kansrijkestartnl.nl
 opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
+opendata.kik-v.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3738,6 +3741,7 @@ www.kabinetsformatie2023.nl
 www.kansrijkestartnl.nl
 www.kennisvandeoverheid.nl
 www.kiesraad.nl
+www.kik-v.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
