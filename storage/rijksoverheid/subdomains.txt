@@ -1371,6 +1371,7 @@ feeds.justid.nl
 feeds.justitieleictorganisatie.nl
 feeds.kabinetsformatie2023.nl
 feeds.kansrijkestartnl.nl
+feeds.kennisvandeoverheid.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1810,6 +1811,7 @@ kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 kennissysteem.cibg.nl
+kennisvandeoverheid.nl
 ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
 kimi-infodeling.jeugdconnect.nl
@@ -2450,6 +2452,7 @@ opendata.justid.nl
 opendata.justitieleictorganisatie.nl
 opendata.kabinetsformatie2023.nl
 opendata.kansrijkestartnl.nl
+opendata.kennisvandeoverheid.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3723,6 +3726,7 @@ www.justitieleictorganisatie.nl
 www.kaarten.brabant.nl
 www.kabinetsformatie2023.nl
 www.kansrijkestartnl.nl
+www.kennisvandeoverheid.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
