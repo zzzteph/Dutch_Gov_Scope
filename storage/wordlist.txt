@@ -12,8 +12,8 @@ acc
 test
 autodiscover
 mail
-mijn
 magazines
+mijn
 a-english
 acceptatie
 a-feeds.a-english
@@ -23,8 +23,8 @@ api
 intranet
 vpn
 www-acc
-webmail
 connect
+webmail
 proto
 www-ac
 www-dev
@@ -67,6 +67,7 @@ ftp
 redactie
 digikoppeling
 kennis
+connect-acpt
 adfs
 loket
 zaaksysteem
@@ -154,7 +155,6 @@ o-www
 t-www
 mail01
 mailing
-connect-acpt
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
@@ -2344,6 +2344,7 @@ private.staging
 menukaart
 www-old
 a
+test2
 passwordmanager
 plek
 ra
