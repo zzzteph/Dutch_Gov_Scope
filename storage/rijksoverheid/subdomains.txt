@@ -268,6 +268,7 @@ acceptatie.feedfoodtransfer.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.isis-web.nl
+acceptatie.istandaarden.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
@@ -1649,6 +1650,7 @@ informatie-ext.brabant.nl
 informatie-rws.brabant.nl
 informatieanalyseteam.nl
 informatiehuishouding.nl
+informatiemodel.istandaarden.nl
 inkoopplein-acc.dictu.nl
 inkoopplein.dictu.nl
 inkoopportaal.belastingdienst.nl
@@ -1692,6 +1694,7 @@ isamproxyont.ont.belastingdienst.nl
 ishetafval.nl
 isi.cbs.nl
 isis-web.nl
+istandaarden.nl
 itp-acc.ilent.nl
 itp.ilent.nl
 iv3-controle-api.cbs.nl
@@ -2074,6 +2077,7 @@ mn.datawonen.nl
 mobicert.brabant.nl
 mobiel.douane.nl
 mobile.hhdelfland.nl
+modules.istandaarden.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 monitorleefomgeving.zuid-holland.nl
 monitorwonen.flevoland.nl
@@ -2554,6 +2558,7 @@ promtoolbox.zorginzicht.nl
 proto.farmacotherapeutischkompas.nl
 proto.gipdatabank.nl
 proto.horizonscangeneesmiddelen.nl
+proto.istandaarden.nl
 proto.zorginstituutnederland.nl
 proto.zorginzicht.nl
 prototype.cibg.nl
@@ -2614,6 +2619,8 @@ regiotaxi.flevoland.nl
 registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
 registreren.ep-online.nl
+registry.acceptatie.istandaarden.nl
+registry.istandaarden.nl
 relay1.c2000.nl
 relay2.c2000.nl
 release.isis-web.nl
@@ -2621,6 +2628,8 @@ remote-pa.hdsr.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remotetest.hhdelfland.nl
+repository.acceptatie.istandaarden.nl
+repository.istandaarden.nl
 research.cbs.nl
 rev.emissieautoriteit.nl
 revproxy.cbs.nl
@@ -2796,7 +2805,9 @@ sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
 sso-int.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
+sso.acceptatie.istandaarden.nl
 sso.bronhouderportaal-bro.nl
+sso.istandaarden.nl
 sso.subsidie.cultureelerfgoed.nl
 staatvan.zuid-holland.nl
 stadvanced.belastingdienst.nl
@@ -3276,6 +3287,7 @@ www-a.huurcommissie.nl
 www-ac.farmacotherapeutischkompas.nl
 www-ac.gipdatabank.nl
 www-ac.horizonscangeneesmiddelen.nl
+www-ac.istandaarden.nl
 www-ac.zorginstituutnederland.nl
 www-ac.zorginzicht.nl
 www-acc.cbs.nl
@@ -3283,6 +3295,7 @@ www-acc.ep-online.nl
 www-acc.farmacotherapeutischkompas.nl
 www-acc.gipdatabank.nl
 www-acc.horizonscangeneesmiddelen.nl
+www-acc.istandaarden.nl
 www-acc.zorginstituutnederland.nl
 www-acc.zorginzicht.nl
 www-acc1.ep-online.nl
@@ -3290,16 +3303,19 @@ www-acpt.brabant.nl
 www-dev.farmacotherapeutischkompas.nl
 www-dev.gipdatabank.nl
 www-dev.horizonscangeneesmiddelen.nl
+www-dev.istandaarden.nl
 www-dev.zorginstituutnederland.nl
 www-dev.zorginzicht.nl
 www-ontw.brabant.nl
 www-ow.farmacotherapeutischkompas.nl
 www-ow.gipdatabank.nl
 www-ow.horizonscangeneesmiddelen.nl
+www-ow.istandaarden.nl
 www-ow.zorginzicht.nl
 www-p.farmacotherapeutischkompas.nl
 www-p.gipdatabank.nl
 www-p.horizonscangeneesmiddelen.nl
+www-p.istandaarden.nl
 www-p.zorginstituutnederland.nl
 www-p.zorginzicht.nl
 www-pr.zorginzicht.nl
@@ -3309,10 +3325,12 @@ www-test.cbs.nl
 www-ts.farmacotherapeutischkompas.nl
 www-ts.gipdatabank.nl
 www-ts.horizonscangeneesmiddelen.nl
+www-ts.istandaarden.nl
 www-ts.zorginzicht.nl
 www-tst.farmacotherapeutischkompas.nl
 www-tst.gipdatabank.nl
 www-tst.horizonscangeneesmiddelen.nl
+www-tst.istandaarden.nl
 www-tst.zorginstituutnederland.nl
 www-tst.zorginzicht.nl
 www.100aardgasvrijewijken.nl
@@ -3592,6 +3610,7 @@ www.iplo.nl
 www.irealisatie.nl
 www.ishetafval.nl
 www.isis-web.nl
+www.istandaarden.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
