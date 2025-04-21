@@ -31,12 +31,12 @@ www-dev
 www-p
 www-tst
 prod
+portaal
 www-ow
 www-ts
 login
 sip
 _autodiscover._tcp
-portaal
 webservices
 beeldbank
 werkplek
@@ -60,6 +60,7 @@ services
 acceptatie.beheer
 acceptatie.mijn
 acceptatie.webservices
+beheer
 atlas
 connect-with
 geoportaal
@@ -127,7 +128,6 @@ webdiensten
 werken
 acceptatie.behandel
 acceptatie.zoeken
-beheer
 beeldbank-bo
 dataportaal
 esb
@@ -2618,6 +2618,9 @@ ngr.acceptatie
 ngr.ontwikkeling
 secure.geodata2
 pas
+acceptatie.portaal
+acceptatie.uzipas.portaal
+uzipas.portaal
 passwordmanager
 plek
 ra
