@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-a-www
 english
+a-www
 a-feeds
 a-opendata
 feeds.english
@@ -197,6 +197,7 @@ sdm
 staging
 vt
 files
+privacy
 mx1
 helloid
 maps
@@ -2305,7 +2306,6 @@ kimi-infodeling
 kimi
 kpm
 lij
-privacy
 slachtoffer
 socialmediamonitor
 vog
@@ -2655,6 +2655,27 @@ tip
 vulnerabilities
 vulnerabilities.test
 wds
+1.ivory
+2.ivory
+3.ivory
+4.ivory
+cbrnsecurity
+cyberawareness
+dev.cbrnsecurity
+dev.kennisbankterrorisme
+elearning-atb
+elearning-basiscrisisbeheersing
+elearning-irb
+elearning-lcp-egt
+extreemrechts
+kennisbankterrorisme
+lplp
+nac
+pge
+radicaalofpuberaal
+securityzkh
+symbolenbank
+toolbox-extremisme
 passwordmanager
 plek
 ra

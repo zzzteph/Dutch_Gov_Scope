@@ -1,4 +1,8 @@
+1.ivory.nctv.nl
 100aardgasvrijewijken.nl
+2.ivory.nctv.nl
+3.ivory.nctv.nl
+4.ivory.nctv.nl
 55plus.datawonen.nl
 ACC-NL-DICTU-NHR-Sign.dictu.nl
 ACC.RD.dictu.nl
@@ -841,6 +845,7 @@ cbo-a.dictu.nl
 cbo-b.dictu.nl
 cbo.dictu.nl
 cbp.test.mgo.irealisatie.nl
+cbrnsecurity.nctv.nl
 cbs.cbs.nl
 cbs.nl
 ccc.acc.irealisatie.nl
@@ -1017,6 +1022,7 @@ ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
 cultureelerfgoed.nl
 cultuursubsidie.nl
+cyberawareness.nctv.nl
 cybersecuritycouncil.nl
 cybersecurityraad.nl
 daf-eforms.ind.nl
@@ -1072,7 +1078,9 @@ desktop.klopt.cibg.nl
 detoekomstbegintnu.brabant.nl
 deutsch.postedworkers.nl
 dev.bronhouderportaal-bro.nl
+dev.cbrnsecurity.nctv.nl
 dev.cerberus.cbs.nl
+dev.kennisbankterrorisme.nctv.nl
 developer.dataplatform.knmi.nl
 dezi.nl
 dfg.datawonen.nl
@@ -1219,6 +1227,10 @@ ehs.flevoland.nl
 ehv-shc-mgb-01.huurcommissie.nl
 ehv-shc-mvb-01.huurcommissie.nl
 eladownload.belastingdienst.nl
+elearning-atb.nctv.nl
+elearning-basiscrisisbeheersing.nctv.nl
+elearning-irb.nctv.nl
+elearning-lcp-egt.nctv.nl
 elearning.cbi.eu
 elkeregiotelt.nl
 eloket.aaenmaas.nl
@@ -1269,6 +1281,7 @@ english.marechaussee.nl
 english.mijncn.nl
 english.ncadierproevenbeleid.nl
 english.ncsc.nl
+english.nctv.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1346,6 +1359,7 @@ externemailsaas.knmi.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
 extranet.knmi.nl
+extreemrechts.nctv.nl
 ez-rvo-ba-acc-2018.dictu.nl
 ez-rvo-ba-acc-2019.dictu.nl
 ez-rvo-ba-acc-2020.dictu.nl
@@ -1496,6 +1510,7 @@ feeds.english.marechaussee.nl
 feeds.english.mijncn.nl
 feeds.english.ncadierproevenbeleid.nl
 feeds.english.ncsc.nl
+feeds.english.nctv.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1580,6 +1595,7 @@ feeds.ncab.nl
 feeds.ncadierproevenbeleid.nl
 feeds.ncpeh.nl
 feeds.ncsc.nl
+feeds.nctv.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2085,6 +2101,7 @@ kennis.zuid-holland.nl
 kennisbank.hhdelfland.nl
 kennisbank.kiesraad.nl
 kennisbank.logius.nl
+kennisbankterrorisme.nctv.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
@@ -2189,6 +2206,7 @@ loketgezondleven.nl
 longread.brabant.nl
 longreads.cbs.nl
 loonaangifteketen.nl
+lplp.nctv.nl
 lrbh2ha.belastingdienst.nl
 lrbh2hb.belastingdienst.nl
 lrs.proeftuin.gf.irealisatie.nl
@@ -2237,6 +2255,7 @@ magazines.inspectie-jenv.nl
 magazines.jeugdautoriteit.nl
 magazines.kinderbescherming.nl
 magazines.ncsc.nl
+magazines.nctv.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
@@ -2551,6 +2570,7 @@ mysites.belastingdienst.nl
 mysites.hhdelfland.nl
 mysitestest.hhdelfland.nl
 mytoken.dictu.nl
+nac.nctv.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcohortonderzoek.cbs.nl
@@ -2809,6 +2829,7 @@ opendata.english.marechaussee.nl
 opendata.english.mijncn.nl
 opendata.english.ncadierproevenbeleid.nl
 opendata.english.ncsc.nl
+opendata.english.nctv.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -2894,6 +2915,7 @@ opendata.ncab.nl
 opendata.ncadierproevenbeleid.nl
 opendata.ncpeh.nl
 opendata.ncsc.nl
+opendata.nctv.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -2967,6 +2989,7 @@ password.ctgb.nl
 password.knmi.nl
 passwordmanager.zorginstituutnederland.nl
 pesticidesdatabase.ctgb.nl
+pge.nctv.nl
 pgodemo.test.zm.irealisatie.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
@@ -3077,6 +3100,7 @@ primos.datawonen.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
 privacy.jeugdconnect.nl
+privacy.nctv.nl
 private.acc.justitieconnect.nl
 private.acc.staging.justitieconnect.nl
 private.justitieconnect.nl
@@ -3154,6 +3178,7 @@ qualification-api.test.zm.irealisatie.nl
 qualification.test.zm.irealisatie.nl
 ra.zorginstituutnederland.nl
 raadplegen.donorregister.nl
+radicaalofpuberaal.nctv.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
 ras.domeinenrz.nl
@@ -3291,6 +3316,7 @@ secure.knmi.nl
 securemail.zorginstituutnederland.nl
 securened.ncsc.nl
 securenet.ncsc.nl
+securityzkh.nctv.nl
 seg.cbs.nl
 sepm.belastingdienst.nl
 servicedesk.dictu.nl
@@ -3452,6 +3478,7 @@ sva-mix.prod.belastingdienst.nl
 sva.prod.belastingdienst.nl
 svmsta.dictu.nl
 svn.logius.nl
+symbolenbank.nctv.nl
 synergy.huurcommissie.nl
 syswov.datawonen.nl
 t-api.contenttoolsrijksoverheid.nl
@@ -3586,6 +3613,7 @@ toestemming.belastingdienst.nl
 toetsingonline.ccmo.nl
 toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
+toolbox-extremisme.nctv.nl
 toolkits.loketgezondleven.nl
 torenvalk.brabant.nl
 tpaw.dictu.nl
@@ -4340,6 +4368,7 @@ www.ncab.nl
 www.ncadierproevenbeleid.nl
 www.ncpeh.nl
 www.ncsc.nl
+www.nctv.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl
