@@ -19,10 +19,10 @@ a-english
 a-feeds.a-english
 a-opendata.a-english
 cms
+www-acc
 api
 intranet
 vpn
-www-acc
 connect
 webmail
 proto
@@ -30,6 +30,8 @@ www-ac
 www-dev
 www-p
 www-tst
+www-ow
+www-ts
 sip
 prod
 portaal
@@ -39,8 +41,6 @@ werkplek
 geoservices
 data
 geo
-www-ow
-www-ts
 login
 _autodiscover._tcp
 zoeken
