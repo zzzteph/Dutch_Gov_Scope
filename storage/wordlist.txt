@@ -32,6 +32,7 @@ www-p
 www-tst
 prod
 portaal
+beeldbank
 data
 www-ow
 www-ts
@@ -39,7 +40,6 @@ login
 sip
 _autodiscover._tcp
 webservices
-beeldbank
 werkplek
 geoservices
 geo
