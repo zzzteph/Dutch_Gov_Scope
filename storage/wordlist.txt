@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-a-www
 english
+a-www
 a-feeds
 a-opendata
 feeds.english
@@ -39,6 +39,7 @@ werkplek
 www-ow
 www-ts
 login
+_autodiscover._tcp
 zoeken
 mdm
 geoservices
@@ -53,7 +54,6 @@ vpn2
 meldingen
 ontwikkel
 geodata
-_autodiscover._tcp
 services
 acceptatie.beheer
 acceptatie.mijn
@@ -2343,6 +2343,7 @@ private
 private.staging
 menukaart
 www-old
+a
 passwordmanager
 plek
 ra

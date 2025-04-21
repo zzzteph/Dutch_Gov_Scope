@@ -722,6 +722,7 @@ https://english.ilent.nl
 https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
 https://english.kiesraad.nl
+https://english.kimnet.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -879,6 +880,7 @@ https://feeds.english.ilent.nl
 https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
 https://feeds.english.kiesraad.nl
+https://feeds.english.kimnet.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -933,6 +935,7 @@ https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
 https://feeds.kiesraad.nl
 https://feeds.kik-v.nl
+https://feeds.kimnet.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
@@ -1172,6 +1175,7 @@ https://kiesraad.nl
 https://kik-v.nl
 https://kimi-infodeling.jeugdconnect.nl
 https://kimi.jeugdconnect.nl
+https://kimnet.nl
 https://klanttoegang.cbs.nl
 https://klussenbank-acc.dictu.nl
 https://klussenbank.dictu.nl
@@ -1469,6 +1473,7 @@ https://opendata.english.ilent.nl
 https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
 https://opendata.english.kiesraad.nl
+https://opendata.english.kimnet.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
@@ -1523,6 +1528,7 @@ https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
 https://opendata.kiesraad.nl
 https://opendata.kik-v.nl
+https://opendata.kimnet.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -2153,6 +2159,7 @@ https://www.kansrijkestartnl.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
+https://www.kimnet.nl
 https://www.mijn.dus-i.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrief.examenblad.nl
