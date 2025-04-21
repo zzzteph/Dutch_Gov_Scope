@@ -64,6 +64,7 @@ a-feeds.government.nl
 a-feeds.healthcouncil.nl
 a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
+a-feeds.jaarverantwoordingzorg.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
@@ -105,6 +106,7 @@ a-opendata.government.nl
 a-opendata.healthcouncil.nl
 a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
+a-opendata.jaarverantwoordingzorg.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
@@ -136,6 +138,7 @@ a-www.government.nl
 a-www.healthcouncil.nl
 a-www.igj.nl
 a-www.inspectie-jenv.nl
+a-www.jaarverantwoordingzorg.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1344,6 +1347,7 @@ feeds.inspectiebtd.nl
 feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
+feeds.jaarverantwoordingzorg.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1707,6 +1711,7 @@ jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
+jaarverantwoordingzorg.nl
 jaarverslag2011.forensischinstituut.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
@@ -2384,6 +2389,7 @@ opendata.inspectiebtd.nl
 opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
+opendata.jaarverantwoordingzorg.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3615,6 +3621,7 @@ www.ishetafval.nl
 www.isis-web.nl
 www.istandaarden.nl
 www.it-academieoverheid.nl
+www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
