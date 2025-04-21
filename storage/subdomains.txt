@@ -220,11 +220,13 @@ acc.intranet-demo.dictu.nl
 acc.intranet.justis.nl
 acc.irealisatie.nl
 acc.justis.nl
+acc.justitieconnect.nl
 acc.mgo.irealisatie.nl
 acc.mijn.dus-i.nl
 acc.monumentenregister.cultureelerfgoed.nl
 acc.rd.dictu.nl
 acc.render.map.services.cultureelerfgoed.nl
+acc.staging.justitieconnect.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.subsidie.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
@@ -1761,6 +1763,7 @@ jokesmitprijs.nl
 jong.belastingdienst.nl
 justid.nl
 justis.nl
+justitieconnect.nl
 kaart.flevoland.nl
 kaartbank.brabant.nl
 kaarten.brabant.nl
@@ -2001,6 +2004,8 @@ messagebox.test.ggdcontact.irealisatie.nl
 metadata-b.test.zm.irealisatie.nl
 metadata-c.test.zm.irealisatie.nl
 metadata.test.zm.irealisatie.nl
+metrics-acc.justitieconnect.nl
+metrics.justitieconnect.nl
 metrixinbound.inspecteur.ilent.nl
 mft.webftp.dictu.nl
 mgt.flevoland.nl
@@ -2591,6 +2596,10 @@ preprodrev.emissieautoriteit.nl
 presenteren.ont.belastingdienst.nl
 primos.datawonen.nl
 privacy.jeugdconnect.nl
+private.acc.justitieconnect.nl
+private.acc.staging.justitieconnect.nl
+private.justitieconnect.nl
+private.staging.justitieconnect.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 prod-kvk.belastingdienst.nl
@@ -2878,6 +2887,7 @@ stadvanced.belastingdienst.nl
 stagefonds.formulierdus-i.nl
 staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
+staging.justitieconnect.nl
 staging.meldingen.ilent.nl
 start.acc.dusi.irealisatie.nl
 start.belastingdienst.nl
@@ -3694,6 +3704,7 @@ www.jeugdconnect.nl
 www.jokesmitprijs.nl
 www.justid.nl
 www.justis.nl
+www.justitieconnect.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl

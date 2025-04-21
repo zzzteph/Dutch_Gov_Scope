@@ -6,9 +6,9 @@ a-www
 english
 a-feeds
 a-opendata
+acc
 feeds.english
 opendata.english
-acc
 test
 autodiscover
 mail
@@ -168,6 +168,7 @@ www-a
 zaaksysteem-acc
 zaaksysteem-accept
 sdm
+staging
 helloid
 maps
 oa
@@ -2124,7 +2125,6 @@ sasbi
 staging.meldingen
 stc
 wio
-staging
 vt-mijn
 vt
 beheer.chat
@@ -2334,6 +2334,13 @@ jaarverslag
 test.intranet
 validata
 vogcheck
+acc.staging
+metrics-acc
+metrics
+private.acc
+private.acc.staging
+private
+private.staging
 passwordmanager
 plek
 ra
