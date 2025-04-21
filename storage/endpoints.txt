@@ -1056,6 +1056,7 @@ https://feeds.nationaalgroeifonds.nl
 https://feeds.nationaalrapporteur.nl
 https://feeds.nationaalwegenbestand.nl
 https://feeds.nationalebijenstrategie.nl
+https://feeds.ncab.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1533,6 +1534,7 @@ https://nationalebijenstrategie.nl
 https://natura2000-data.zuid-holland.nl
 https://natura2000.nl
 https://natuurbeheerplan.flevoland.nl
+https://ncab.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.irealisatie.nl
@@ -1771,6 +1773,7 @@ https://opendata.nationaalgroeifonds.nl
 https://opendata.nationaalrapporteur.nl
 https://opendata.nationaalwegenbestand.nl
 https://opendata.nationalebijenstrategie.nl
+https://opendata.ncab.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2497,6 +2500,7 @@ https://www.nationaalrapporteur.nl
 https://www.nationaalwegenbestand.nl
 https://www.nationalebijenstrategie.nl
 https://www.natura2000.nl
+https://www.ncab.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl
