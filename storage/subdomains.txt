@@ -1300,6 +1300,7 @@ feeds.informatieanalyseteam.nl
 feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
+feeds.inspectiebtd.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1607,6 +1608,7 @@ inspecteur.ilent.nl
 inspectie-checklist.nl
 inspectie-jenv.nl
 inspectie-oe.nl
+inspectiebtd.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
@@ -2263,6 +2265,7 @@ opendata.informatieanalyseteam.nl
 opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
+opendata.inspectiebtd.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3411,6 +3414,7 @@ www.informatiehuishouding.nl
 www.inspectie-checklist.nl
 www.inspectie-jenv.nl
 www.inspectie-oe.nl
+www.inspectiebtd.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
