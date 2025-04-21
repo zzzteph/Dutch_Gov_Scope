@@ -20,6 +20,7 @@ _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.natura2000.nl
 _dmarc.cibg.nl
 a-api.contenttoolsrijksoverheid.nl
+a-api.nederlandwereldwijd.nl
 a-cms.contenttoolsrijksoverheid.nl
 a-cms.defensie.nl
 a-cms1.defensie.nl
@@ -79,6 +80,7 @@ a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
 a-feeds.loonaangifteketen.nl
 a-feeds.ncadierproevenbeleid.nl
+a-informatieservice.nederlandwereldwijd.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
@@ -130,6 +132,7 @@ a-opendata.ncadierproevenbeleid.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-site1.defensie.nl
 a-site2.defensie.nl
+a-voorlichting.nederlandwereldwijd.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.antennebureau.nl
@@ -165,6 +168,7 @@ a-www.koopoverheid.nl
 a-www.loonaangifteketen.nl
 a-www.nationaalcoordinatorgroningen.nl
 a-www.ncadierproevenbeleid.nl
+a-www.nederlandwereldwijd.nl
 a.kimnet.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -248,6 +252,7 @@ acc.forensischezorg.nl
 acc.gisextern.dictu.nl
 acc.gml.map.services.cultureelerfgoed.nl
 acc.hhdelfland.nl
+acc.informatieservice.nederlandwereldwijd.nl
 acc.inspectieview.nl
 acc.intranet-demo.dictu.nl
 acc.intranet.justis.nl
@@ -262,6 +267,7 @@ acc.monumentenregister.cultureelerfgoed.nl
 acc.natura2000.nl
 acc.ncsc.nl
 acc.oinregister.logius.nl
+acc.opendata.nederlandwereldwijd.nl
 acc.rd.dictu.nl
 acc.render.map.services.cultureelerfgoed.nl
 acc.spaceweather.knmi.nl
@@ -466,6 +472,7 @@ api.mijn.ncsc.nl
 api.mijn.test.ncsc.nl
 api.nationaalwegenbestand.nl
 api.ncsc.nl
+api.nederlandwereldwijd.nl
 api.openstad.zuid-holland.nl
 api.spaceweather.knmi.nl
 apikey-preprod.ep-online.nl
@@ -1101,7 +1108,9 @@ deutsch.postedworkers.nl
 dev.bronhouderportaal-bro.nl
 dev.cbrnsecurity.nctv.nl
 dev.cerberus.cbs.nl
+dev.informatieservice.nederlandwereldwijd.nl
 dev.kennisbankterrorisme.nctv.nl
+dev.opendata.nederlandwereldwijd.nl
 developer.dataplatform.knmi.nl
 dexter.ndw.nu
 dexter.staging.ndw.nu
@@ -1999,6 +2008,7 @@ informatieanalyseteam.nl
 informatiehuishouding.nl
 informatiemodel.istandaarden.nl
 informatieportaal.justid.nl
+informatieservice.nederlandwereldwijd.nl
 inkoopplein-acc.dictu.nl
 inkoopplein.dictu.nl
 inkoopportaal.belastingdienst.nl
@@ -2649,6 +2659,7 @@ ndwviewer.ndw.nu
 nederlanddigitaal.nl
 nederlandse-sportraad.nl
 nederlandtegengeorganiseerdemisdaad.nl
+nederlandwereldwijd.nl
 neries.knmi.nl
 netauth.knmi.nl
 netftp.dictu.nl
@@ -2708,6 +2719,7 @@ o2-api.contenttoolsrijksoverheid.nl
 o2-cms.contenttoolsrijksoverheid.nl
 o2-next-cms.contenttoolsrijksoverheid.nl
 o2-old-cms.contenttoolsrijksoverheid.nl
+o2.mail.informatieservice.nederlandwereldwijd.nl
 o3-api.contenttoolsrijksoverheid.nl
 o3-cms.contenttoolsrijksoverheid.nl
 o3-next-cms.contenttoolsrijksoverheid.nl
@@ -2757,6 +2769,7 @@ ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
 onderzoek.cbs.nl
 onderzoek.communicatierijk.nl
+onderzoek.nederlandwereldwijd.nl
 onderzoek2.cbs.nl
 onlineaangifte.str1.acc.belastingdienst.nl
 ons.communicatierijk.nl
@@ -2987,6 +3000,7 @@ opendata.ndw.nu
 opendata.nederlanddigitaal.nl
 opendata.nederlandse-sportraad.nl
 opendata.nederlandtegengeorganiseerdemisdaad.nl
+opendata.nederlandwereldwijd.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -3167,6 +3181,7 @@ preprodrev.emissieautoriteit.nl
 prerelease.loketgezondleven.nl
 presenteren.ont.belastingdienst.nl
 preview.loketgezondleven.nl
+preview.nederlandwereldwijd.nl
 primos.datawonen.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
@@ -3189,6 +3204,7 @@ prod.dictu.nl
 prod.flevoland.nl
 prod.justis.nl
 prod.mi-cert.nl
+prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
 productie.loketgezondleven.nl
 proeftuin.gf.irealisatie.nl
@@ -3705,12 +3721,14 @@ torenvalk.brabant.nl
 tpaw.dictu.nl
 tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
+track.nederlandwereldwijd.nl
 trillingsdata-acc.dictu.nl
 trillingsdata.dictu.nl
 truck-parking.ndw.nu
 ts.cbi.eu
 tst-referentiegegevens.justid.nl
 tst.inspectieview.nl
+tst.opendata.nederlandwereldwijd.nl
 tst.subsidie.cultureelerfgoed.nl
 tunnel.cbs.nl
 tunnel.justitieleictorganisatie.nl
@@ -4467,6 +4485,7 @@ www.ndw.nu
 www.nederlanddigitaal.nl
 www.nederlandse-sportraad.nl
 www.nederlandtegengeorganiseerdemisdaad.nl
+www.nederlandwereldwijd.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.nt.ndw.nu
