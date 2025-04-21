@@ -1051,6 +1051,7 @@ https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
 https://feeds.monitorlangdurigezorg.nl
 https://feeds.nationaalcoordinatorgroningen.nl
+https://feeds.nationaalgroeifonds.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1758,6 +1759,7 @@ https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
 https://opendata.monitorlangdurigezorg.nl
 https://opendata.nationaalcoordinatorgroningen.nl
+https://opendata.nationaalgroeifonds.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2477,6 +2479,7 @@ https://www.monitorlangdurigezorg.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgeoregister.nl
+https://www.nationaalgroeifonds.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl

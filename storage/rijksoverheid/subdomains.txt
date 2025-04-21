@@ -1541,6 +1541,7 @@ feeds.mijnpgb.nl
 feeds.mirtoverzicht.nl
 feeds.monitorlangdurigezorg.nl
 feeds.nationaalcoordinatorgroningen.nl
+feeds.nationaalgroeifonds.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2818,6 +2819,7 @@ opendata.mijnpgb.nl
 opendata.mirtoverzicht.nl
 opendata.monitorlangdurigezorg.nl
 opendata.nationaalcoordinatorgroningen.nl
+opendata.nationaalgroeifonds.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4239,6 +4241,7 @@ www.monitorlangdurigezorg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
+www.nationaalgroeifonds.nl
 www.netftp.dictu.nl
 www.nieuwsbrief.examenblad.nl
 www.omgevingsplan.flevoland.nl
