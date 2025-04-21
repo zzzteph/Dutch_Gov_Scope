@@ -37,6 +37,7 @@ portaal
 zoeken
 werkplek
 geoservices
+portal
 data
 geo
 a-magazines
@@ -60,7 +61,6 @@ mdm
 sts
 academy
 ftp
-portal
 redactie
 digikoppeling
 kennis
@@ -77,6 +77,7 @@ prd
 pushmail
 smtp
 smtp1
+academie
 adobe-analytics-dc
 adobe-tags
 afspraken
@@ -124,6 +125,7 @@ www-test
 broker
 static
 cdn
+chat
 designsystem
 micollab
 onderzoek
@@ -201,7 +203,6 @@ abat.acc
 abo.digilevering
 abr
 academie.acc
-academie
 ace_nat17
 amlc.acc
 amlc.ont
@@ -1136,7 +1137,6 @@ cati-lt
 cbs
 censushub
 cerberus
-chat
 claircitydata
 cn
 content
@@ -2127,6 +2127,19 @@ wio
 staging
 vt-mijn
 vt
+beheer.chat
+checkout-acc.portal
+checkout-tst.portal
+checkout.portal
+daf-eforms
+daf
+ediensten
+eforms
+oap
+public.portal
+statistics
+www.academie
+xmpp.chat
 passwordmanager
 plek
 ra

@@ -151,6 +151,7 @@ aboutnetherlandscustoms.nl
 abr.belastingdienst.nl
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
+academie.ind.nl
 academievoorinternationalebetrekkingen.nl
 academy.cbs.nl
 academy.forensicinstitute.nl
@@ -533,6 +534,7 @@ behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
 beheer-bzv.brabant.nl
 beheer.bigregister.nl
+beheer.chat.ind.nl
 beheer.donorregister.nl
 beheer.generiekeregistratiedienst.cibg.nl
 beheer.lir.cibg.nl
@@ -715,8 +717,12 @@ cev.nl
 cevo.nl
 cggp.nl
 chat.cbs.nl
+chat.ind.nl
 chatapi.klopt.cibg.nl
 checkjeprijs.huurcommissie.nl
+checkout-acc.portal.ind.nl
+checkout-tst.portal.ind.nl
+checkout.portal.ind.nl
 chemischestoffengoedgeregeld.nl
 cher.emissieautoriteit.nl
 chw.aandeslagmetdeomgevingswet.nl
@@ -825,6 +831,8 @@ cultureelerfgoed.nl
 cultuursubsidie.nl
 cybersecuritycouncil.nl
 cybersecurityraad.nl
+daf-eforms.ind.nl
+daf.ind.nl
 dagstaatmonitors.brabant.nl
 dashboard.ikz.nl
 dashboards.cbs.nl
@@ -978,6 +986,7 @@ easyrules.ilent.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
 ebms.cbs.nl
+ediensten.ind.nl
 editorial.defensie.nl
 edocs.hhdelfland.nl
 edocstest.hhdelfland.nl
@@ -985,6 +994,7 @@ eentegeneenzaamheid.nl
 eersteenthuis.nl
 efeat.org
 efm.belastingdienst.nl
+eforms.ind.nl
 egain-com.cbs.nl
 ehd.emissieautoriteit.nl
 eherkenning.services.cibg.nl
@@ -1569,6 +1579,7 @@ incassomachtigen.belastingdienst.nl
 incassomachtigen.str10.acc.belastingdienst.nl
 incassomachtigen.str11.acc.belastingdienst.nl
 incassomachtigen.str13.acc.belastingdienst.nl
+ind.nl
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
@@ -2035,6 +2046,7 @@ o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
 o5002proxvapp.ont.belastingdienst.nl
 oa.aaenmaas.nl
+oap.ind.nl
 odata.cbs.nl
 odata4.cbs.nl
 odb-ac.zorginzicht.nl
@@ -2346,6 +2358,7 @@ portaal.wifi.belastingdienst.nl
 portal.cbs.nl
 portal.cibg.nl
 portal.formulierdus-i.nl
+portal.ind.nl
 portal2.formulierdus-i.nl
 portalco.formulierdus-i.nl
 positconnect.ikz.nl
@@ -2413,6 +2426,7 @@ public-preprod.ep-online.nl
 public.ep-online.nl
 public.mst-acc.ctgb.nl
 public.mst.ctgb.nl
+public.portal.ind.nl
 publicaties.brabant.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
@@ -2641,6 +2655,7 @@ staten.zuid-holland.nl
 stateninformatie.flevoland.nl
 static.caorijk.nl
 static.examenblad.nl
+statistics.ind.nl
 statline.cbs.nl
 status.cbs.nl
 stc.ilent.nl
@@ -3120,6 +3135,7 @@ www.aanpakringzuid.nl
 www.abdtopconsult.nl
 www.abonneren.toezichtdocumenten.igj.nl
 www.aboutnetherlandscustoms.nl
+www.academie.ind.nl
 www.academievoorinternationalebetrekkingen.nl
 www.academyforinternationalrelations.nl
 www.acc-nl-nvwa-dkb-sign.dictu.nl
@@ -3362,6 +3378,7 @@ www.ikwerkvoornederland.nl
 www.ikz.nl
 www.ilent.nl
 www.inburgeren.nl
+www.ind.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
@@ -3411,6 +3428,7 @@ wwwrijksacademienl.belastingdienst.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
 xml.belastingdienst.nl
+xmpp.chat.ind.nl
 zaaksysteem-acc.hdsr.nl
 zaaksysteem-accept.huurcommissie.nl
 zaaksysteem-accept.zuid-holland.nl
