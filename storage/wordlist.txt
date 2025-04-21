@@ -68,12 +68,14 @@ apps
 adfs
 loket
 zaaksysteem
+forms
 av
 dialin
 eloket
 lync
 meet
 testeloket
+chw
 prd
 pushmail
 smtp
@@ -157,7 +159,6 @@ csotest
 sandbox
 www-a
 zaaksysteem-acc
-forms
 zaaksysteem-accept
 sdm
 helloid
@@ -166,7 +167,6 @@ maps
 oa
 wachtwoordwijzigen
 web
-chw
 web01
 wms
 eavgb-acc
@@ -2161,6 +2161,9 @@ www.acc.auth.wegvervoer
 www.binnenvaart.acc
 www.binnenvaart
 archief
+files
+redactie-tl
+tl
 passwordmanager
 plek
 ra

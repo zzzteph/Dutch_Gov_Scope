@@ -742,6 +742,7 @@ checkout.portal.ind.nl
 chemischestoffengoedgeregeld.nl
 cher.emissieautoriteit.nl
 chw.aandeslagmetdeomgevingswet.nl
+chw.iplo.nl
 cibg.nl
 circulair.zuid-holland.nl
 circulaireviaducten.nl
@@ -1345,6 +1346,7 @@ fibt1.belastingdienst.nl
 fibt2.acc.belastingdienst.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
+files.iplo.nl
 filesender.ctgb.nl
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
@@ -1359,6 +1361,7 @@ forensicinstitute.nl
 forensischezorg.nl
 forensischinstituut.nl
 forms.hhdelfland.nl
+forms.iplo.nl
 forms.klopt.cibg.nl
 forms.zuid-holland.nl
 formulier-beheer.dus-i.nl
@@ -1648,6 +1651,7 @@ intratst.belastingdienst.nl
 investerenin.zuid-holland.nl
 investeringsimpulsspv.nl
 iob-evaluatie.nl
+iplo.nl
 ipsec1.dictu.nl
 ipsec2.dictu.nl
 irmpol-acc.dictu.nl
@@ -2503,6 +2507,7 @@ rcm.belastingdienst.nl
 rdgateway.awti.nl
 redactie-acc.cbs.nl
 redactie-test.cbs.nl
+redactie-tl.iplo.nl
 redactie.cbs.nl
 redactie.hdsr.nl
 redactie.zuid-holland.nl
@@ -2833,6 +2838,7 @@ testtunnelmdm.flevoland.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
 thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
+tl.iplo.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
@@ -3450,6 +3456,7 @@ www.inspectieview.nl
 www.interventiedatabase.nl
 www.investeringsimpulsspv.nl
 www.iob-evaluatie.nl
+www.iplo.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.large.netftp.dictu.nl
