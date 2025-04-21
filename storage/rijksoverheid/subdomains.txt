@@ -1526,6 +1526,7 @@ feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
+feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -2266,6 +2267,7 @@ meldingen.emissieautoriteit.nl
 meldingen.ilent.nl
 meldingen.klopt.cibg.nl
 meldproduct.nl
+meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
 menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
@@ -2756,6 +2758,7 @@ opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
+opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4146,6 +4149,7 @@ www.marechaussee.nl
 www.medicijnkosten.nl
 www.medicineshortagesdefects.nl
 www.meldproduct.nl
+www.meldpuntgeneesmiddelentekortendefecten.nl
 www.mijn.dus-i.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
