@@ -1175,6 +1175,7 @@ english.inspectie-oe.nl
 english.iob-evaluatie.nl
 english.kiesraad.nl
 english.kimnet.nl
+english.knmidata.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1397,6 +1398,7 @@ feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
+feeds.english.knmidata.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1454,6 +1456,7 @@ feeds.kik-v.nl
 feeds.kimnet.nl
 feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
+feeds.knmidata.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
@@ -1931,6 +1934,7 @@ klussenbank-acc.dictu.nl
 klussenbank.dictu.nl
 knmi-inet.knmi.nl
 knmi.nl
+knmidata.nl
 komerbij-pakket2024.evenementenbureauvws.nl
 kp-moss-ut.tst.belastingdienst.nl
 kpm.jeugdconnect.nl
@@ -2536,6 +2540,7 @@ opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
+opendata.english.knmidata.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -2594,6 +2599,7 @@ opendata.kik-v.nl
 opendata.kimnet.nl
 opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
+opendata.knmidata.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -3910,6 +3916,7 @@ www.klimaatadaptatienederland.nl
 www.klimaatakkoord.nl
 www.klimaatscenarios-data.knmi.nl
 www.knmi.nl
+www.knmidata.nl
 www.large.netftp.dictu.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
