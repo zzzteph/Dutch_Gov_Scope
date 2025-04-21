@@ -33,6 +33,7 @@ www-tst
 prod
 www-ow
 www-ts
+login
 sip
 portaal
 webservices
@@ -41,7 +42,6 @@ werkplek
 geoservices
 data
 geo
-login
 _autodiscover._tcp
 zoeken
 formulieren
@@ -96,6 +96,9 @@ prd
 pushmail
 smtp
 smtp1
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 academie
 adobe-analytics-dc
 adobe-tags
@@ -226,9 +229,6 @@ feature-demo-root.dev
 feature-ease-installer.dev
 wadsup
 asycuda
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 abat.acc
 abo.digilevering
 abr
@@ -2602,6 +2602,8 @@ upnl-param.mijn
 upnl-zw-acc.mijn
 upnl-zw.mijn
 upnl.mijn
+i-login
+login.acc
 passwordmanager
 plek
 ra
