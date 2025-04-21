@@ -181,6 +181,7 @@ kennisbank
 zaaksysteem-accept
 sdm
 staging
+vt
 files
 git
 helloid
@@ -2128,7 +2129,6 @@ staging.meldingen
 stc
 wio
 vt-mijn
-vt
 beheer.chat
 checkout-acc.portal
 checkout-tst.portal
