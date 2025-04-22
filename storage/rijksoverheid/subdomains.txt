@@ -1659,6 +1659,7 @@ feeds.nl-alert.nl
 feeds.nl-works.com
 feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
+feeds.nponderwijs.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2166,6 +2167,7 @@ kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
 kennis.cultureelerfgoed.nl
 kennis.hdsr.nl
+kennis.nponderwijs.nl
 kennis.zuid-holland.nl
 kennisbank.hhdelfland.nl
 kennisbank.kiesraad.nl
@@ -3043,6 +3045,7 @@ opendata.nl-alert.nl
 opendata.nl-works.com
 opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
+opendata.nponderwijs.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4556,6 +4559,7 @@ www.nl-works.com
 www.nlarbeidsinspectie.nl
 www.nlinfrankrijk.nl
 www.nllabourauthority.nl
+www.nponderwijs.nl
 www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl

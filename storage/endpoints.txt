@@ -1150,6 +1150,7 @@ https://feeds.nl-alert.nl
 https://feeds.nl-works.com
 https://feeds.nlarbeidsinspectie.nl
 https://feeds.nllabourauthority.nl
+https://feeds.nponderwijs.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1412,6 +1413,7 @@ https://kavaanalytics.vcdn.belastingdienst.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
 https://kennis.hdsr.nl
+https://kennis.nponderwijs.nl
 https://kennis.zuid-holland.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
@@ -1947,6 +1949,7 @@ https://opendata.nl-alert.nl
 https://opendata.nl-works.com
 https://opendata.nlarbeidsinspectie.nl
 https://opendata.nllabourauthority.nl
+https://opendata.nponderwijs.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2742,6 +2745,7 @@ https://www.nl-works.com
 https://www.nlarbeidsinspectie.nl
 https://www.nlinfrankrijk.nl
 https://www.nllabourauthority.nl
+https://www.nponderwijs.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl
