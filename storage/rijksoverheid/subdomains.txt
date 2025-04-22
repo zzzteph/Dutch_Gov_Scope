@@ -363,6 +363,7 @@ acpt-machtigen.digipoort.logius.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
 acs.ncsc.nl
+actueel.nl-alert.nl
 ad.hdsr.nl
 adaguc-services-geoweb.knmi.nl
 adaguc.knmi.nl
@@ -490,6 +491,7 @@ apothekersregister.igj.nl
 app-api.acc.mgo.irealisatie.nl
 app-api.test.mgo.irealisatie.nl
 app.brabant.nl
+app.nl-alert.nl
 appcontent.belastingdienst.nl
 applicationframework.cibg.nl
 applications.klopt.cibg.nl
@@ -1650,6 +1652,7 @@ feeds.nieuwsbrievenminocw.nl
 feeds.nifp.nl
 feeds.nimh.nl
 feeds.nix18.nl
+feeds.nl-alert.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2241,6 +2244,9 @@ lmr-oost.test.gf.irealisatie.nl
 lmr-zuid.proeftuin.gf.irealisatie.nl
 lmr-zuid.test.gf.irealisatie.nl
 lmr.proeftuin.gf.irealisatie.nl
+lms.opleiding.nl-alert.nl
+lms.prod.nl-alert.nl
+lms.test.nl-alert.nl
 lo-ad.acc.mgo.irealisatie.nl
 lo-ad.test.mgo.irealisatie.nl
 localisation.test.zm.irealisatie.nl
@@ -2694,6 +2700,7 @@ nifp.nl
 nimh-beeldbank.defensie.nl
 nimh.nl
 nix18.nl
+nl-alert.nl
 nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
 nls.ndw.nu
@@ -3022,6 +3029,7 @@ opendata.nieuwsbrievenminocw.nl
 opendata.nifp.nl
 opendata.nimh.nl
 opendata.nix18.nl
+opendata.nl-alert.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -3032,6 +3040,7 @@ openims-test.ctgb.nl
 openims.ctgb.nl
 openstad.zuid-holland.nl
 opleiding-ola.belastingdienst.nl
+opleiding.nl-alert.nl
 opvragen-acc.ep-online.nl
 opvragen-acc1.ep-online.nl
 opvragen-preprod.ep-online.nl
@@ -3226,6 +3235,7 @@ prod.dictu.nl
 prod.flevoland.nl
 prod.justis.nl
 prod.mi-cert.nl
+prod.nl-alert.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
 productie.loketgezondleven.nl
@@ -3644,6 +3654,7 @@ test-intranet.flevoland.nl
 test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
+test.actueel.nl-alert.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
@@ -3686,6 +3697,7 @@ test.mi-cert.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.natura2000.nl
 test.ncsc.nl
+test.nl-alert.nl
 test.publicwebservices.cibg.nl
 test.resultaten.arbeidsinspectie.nl
 test.status.cbs.nl
@@ -4520,6 +4532,7 @@ www.nieuwsenkennisportaalbzk.nl
 www.nifp.nl
 www.nimh.nl
 www.nix18.nl
+www.nl-alert.nl
 www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl

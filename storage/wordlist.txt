@@ -25,12 +25,12 @@ www-acc
 vpn
 connect
 webmail
+prod
 proto
 www-ac
 www-dev
 www-p
 www-tst
-prod
 portaal
 beeldbank
 data
@@ -135,6 +135,7 @@ werken
 acceptatie.behandel
 acceptatie.zoeken
 acs
+app
 beeldbank-bo
 dataportaal
 esb
@@ -981,7 +982,6 @@ acceptatie.zoek
 zoek
 acs-acpt
 api-acpt
-app
 aris
 atlas-acpt
 autorisatie-preprod
@@ -2761,6 +2761,12 @@ prod2.opendata
 tst.opendata
 easy
 rapporteursnet
+actueel
+lms.opleiding
+lms.prod
+lms.test
+opleiding
+test.actueel
 passwordmanager
 plek
 ra
