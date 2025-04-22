@@ -26,12 +26,12 @@ vpn
 connect
 webmail
 prod
+portaal
 proto
 www-ac
 www-dev
 www-p
 www-tst
-portaal
 beeldbank
 data
 www-ow
@@ -99,6 +99,7 @@ lyncdiscover
 maps
 testeloket
 chw
+test.resultaten
 prd
 pushmail
 smtp
@@ -161,6 +162,7 @@ projecten
 tunnel
 uag
 www1
+_dmarc
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
@@ -208,6 +210,7 @@ files
 stats
 privacy
 mx1
+acceptatie.portaal
 track
 helloid
 oa
@@ -225,7 +228,6 @@ outbound-eopg
 sib-eopg-acc
 sib-eopg
 odctest
-test.resultaten
 www.testdigitalediensten
 zorgenwerknetwerk
 b-acc
@@ -1296,7 +1298,6 @@ www.ihg
 ncp-api-1
 toetsingonline
 mta-sts.mail
-_dmarc
 acc-lrza.services
 acceptatie.api.kcc
 acceptatie.applicationframework
@@ -2619,7 +2620,6 @@ ngr.acceptatie
 ngr.ontwikkeling
 secure.geodata2
 pas
-acceptatie.portaal
 acceptatie.uzipas.portaal
 uzipas.portaal
 advisories-acceptatie
@@ -2767,6 +2767,11 @@ lms.prod
 lms.test
 opleiding
 test.actueel
+asbestovertredingen
+resultaten
+selector1._domainkey
+selector2._domainkey
+test.portaal
 passwordmanager
 plek
 ra
