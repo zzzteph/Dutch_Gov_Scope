@@ -2322,6 +2322,7 @@ feeds.rijksrecherche.nl
 feeds.rijksvastgoedbedrijf.nl
 feeds.royal-house.nl
 feeds.royalhonoursanddecorations.nl
+feeds.rsj.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2900,6 +2901,7 @@ intranet.justitieleictorganisatie.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.odijmond.nl
 intranet.rijkswaterstaat.nl
+intranet.rsj.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
@@ -4309,6 +4311,7 @@ opendata.rijksrecherche.nl
 opendata.rijksvastgoedbedrijf.nl
 opendata.royal-house.nl
 opendata.royalhonoursanddecorations.nl
+opendata.rsj.nl
 opendata.rvb.rijkscloud.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4910,6 +4913,7 @@ royal-house.nl
 royalhonoursanddecorations.nl
 rpx-qa.nza.nl
 rpx.nza.nl
+rsj.nl
 rstudio-almalinux.dgdoobi.rijkscloud.nl
 rstudio.abibzk.rijkscloud.nl
 rstudio.acc.rijkscloud.nl
@@ -6646,6 +6650,7 @@ www.risicokaart.flevoland.nl
 www.rivmmagazines.nl
 www.royal-house.nl
 www.royalhonoursanddecorations.nl
+www.rsj.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.spamtitan.cbi.eu
