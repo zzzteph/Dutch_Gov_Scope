@@ -101,6 +101,7 @@ http://interventies.loketgezondleven.nl
 http://jaeger.test.zm.irealisatie.nl
 http://kat.acc.irealisatie.nl
 http://kat.irealisatie.nl
+http://kec.officiele-overheidspublicaties.nl
 http://keiko.brba.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
@@ -2182,8 +2183,11 @@ https://registry.acceptatie.istandaarden.nl
 https://registry.istandaarden.nl
 https://reistijdtrajecten.ndw.nu
 https://remote.flevoland.nl
+https://repository-acc.officiele-overheidspublicaties.nl
+https://repository-eto.officiele-overheidspublicaties.nl
 https://repository.acceptatie.istandaarden.nl
 https://repository.istandaarden.nl
+https://repository.officiele-overheidspublicaties.nl
 https://research.cbs.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl

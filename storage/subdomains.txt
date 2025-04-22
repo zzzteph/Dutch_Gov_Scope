@@ -2006,6 +2006,7 @@ hogeraadvanadel.nl
 horizonscangeneesmiddelen.nl
 houdmisdaaduitjebuurt.nl
 hrz-uag-ext.belastingdienst.nl
+htmleditor.officiele-overheidspublicaties.nl
 huiselijkgeweld.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
@@ -2223,6 +2224,7 @@ kavaont.vcdn.belastingdienst.nl
 kavatst.vcdn.belastingdienst.nl
 kc.ilent.nl
 kdmz.belastingdienst.nl
+kec.officiele-overheidspublicaties.nl
 keiko.brba.nl
 kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
@@ -2874,6 +2876,7 @@ oesorichtlijnen.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
+officiele-overheidspublicaties.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
 oinregister.logius.nl
 oladc_85_prod_vs36.poort.belastingdienst.nl
@@ -3465,8 +3468,11 @@ remote-pa.hdsr.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remotetest.hhdelfland.nl
+repository-acc.officiele-overheidspublicaties.nl
+repository-eto.officiele-overheidspublicaties.nl
 repository.acceptatie.istandaarden.nl
 repository.istandaarden.nl
+repository.officiele-overheidspublicaties.nl
 research.cbs.nl
 reserved-cesar-db.knmi.nl
 resultaten.nlarbeidsinspectie.nl
@@ -4697,6 +4703,7 @@ www.odijmond.nl
 www.odmh.nl
 www.oecdguidelines.nl
 www.oesorichtlijnen.nl
+www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
