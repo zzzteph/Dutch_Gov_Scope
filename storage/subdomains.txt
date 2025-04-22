@@ -139,6 +139,7 @@ a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
 a-feeds.royal-house.nl
+a-feeds.sbv-z.nl
 a-gebruiker.rvo.nl
 a-gebruikerbeheer.rvo.nl
 a-git.rijksoverheid.nl
@@ -216,6 +217,7 @@ a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
 a-opendata.royal-house.nl
+a-opendata.sbv-z.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
@@ -288,6 +290,7 @@ a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
+a-www.sbv-z.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -479,6 +482,7 @@ acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.isms.cibg.nl
+acceptatie.behandel.sbv-z.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.beheer.dezi.nl
 acceptatie.beheer.donorregister.nl
@@ -528,6 +532,7 @@ acceptatie.portaal.nlarbeidsinspectie.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
+acceptatie.raadplegen.sbv-z.nl
 acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.spin2.rijkswaterstaat.nl
 acceptatie.tea.bigregister.nl
@@ -535,6 +540,7 @@ acceptatie.tmv.cibg.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
 acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
+acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.webservices.dictu.nl
 acceptatie.webservices.donorregister.nl
@@ -964,6 +970,7 @@ begroting2020.flevoland.nl
 behandel.bigregister.nl
 behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
+behandel.sbv-z.nl
 beheer-acc.energiebesparingsverkenner.rvo.nl
 beheer-acc1.energiebesparingsverkenner.rvo.nl
 beheer-bzv.brabant.nl
@@ -2426,6 +2433,7 @@ feeds.rsj.nl
 feeds.ruimtelijkeordening.nl
 feeds.ruimtevoorderivier.nl
 feeds.samenwerkingrijknoord.nl
+feeds.sbv-z.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4482,6 +4490,7 @@ opendata.ruimtelijkeordening.nl
 opendata.ruimtevoorderivier.nl
 opendata.rvb.rijkscloud.nl
 opendata.samenwerkingrijknoord.nl
+opendata.sbv-z.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -4938,7 +4947,10 @@ quality-time.devops.rvb.rijkscloud.nl
 qvw-test.rvo.nl
 ra.zorginstituutnederland.nl
 raadopenbaarbestuur.nl
+raadplegen-acc.sbv-z.nl
+raadplegen-preprod.sbv-z.nl
 raadplegen.donorregister.nl
+raadplegen.sbv-z.nl
 raadrvs.nl
 raadvoorcultuur.nl
 rabarijk.nl
@@ -5246,6 +5258,7 @@ sbi.cbs.nl
 sbi2008.cbs.nl
 sbl.limburg.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
+sbv-z.nl
 scansys.huurcommissie.nl
 scatterometer.knmi.nl
 schedule.justid.nl
@@ -5966,6 +5979,7 @@ uzi.brba.nl
 uzi.test.brba.nl
 uzipas.lir.cibg.nl
 uzipas.portaal.ncpeh.nl
+uzipas.raadplegen.sbv-z.nl
 va_do.belastingdienst.nl
 vaartuigvolgsysteem.zuid-holland.nl
 vacatures.odmh.nl
@@ -6252,16 +6266,19 @@ webmail.rsj.rijkscloud.nl
 webmail.rvo.nl
 webservice-acc.energiebesparingsverkenner.rvo.nl
 webservice-acc.ep-online.nl
+webservice-acc.sbv-z.nl
 webservice-acc1.energiebesparingsverkenner.rvo.nl
 webservice-acc1.ep-online.nl
 webservice-at-acc.diginetwerk.dictu.nl
 webservice-at-ont.diginetwerk.dictu.nl
 webservice-at-prd.diginetwerk.dictu.nl
 webservice-at-tst.diginetwerk.dictu.nl
+webservice-preprod.sbv-z.nl
 webservice-tdv.igj.nl
 webservice.acc.ep-online.nl
 webservice.energiebesparingsverkenner.rvo.nl
 webservice.ep-online.nl
+webservice.sbv-z.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
 webservices-dbb-acc.igj.nl
@@ -6940,6 +6957,7 @@ www.rvig.nl
 www.rvo.nl
 www.rwsinnoveert.nl
 www.samenwerkingrijknoord.nl
+www.sbv-z.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
