@@ -1027,6 +1027,8 @@ connectpeoplereg.belastingdienst.nl
 consexponano.nl
 constructiestukken.odmh.nl
 consultatie.knmi.nl
+contactformulier.acc.onderwijsinspectie.nl
+contactformulier.onderwijsinspectie.nl
 contactpuntbouwproducten.nl
 content.cbs.nl
 content.klopt.cibg.nl
@@ -1364,6 +1366,7 @@ english.nctv.nl
 english.ndw.nu
 english.nrgd.nl
 english.nvwa.nl
+english.onderwijsinspectie.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1601,6 +1604,7 @@ feeds.english.nctv.nl
 feeds.english.ndw.nu
 feeds.english.nrgd.nl
 feeds.english.nvwa.nl
+feeds.english.onderwijsinspectie.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1709,6 +1713,7 @@ feeds.ocwincijfers.nl
 feeds.oecdguidelines.nl
 feeds.oesorichtlijnen.nl
 feeds.om.nl
+feeds.onderwijsinspectie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2415,6 +2420,7 @@ magazines.ncsc.nl
 magazines.nctv.nl
 magazines.nvwa.nl
 magazines.nza.nl
+magazines.onderwijsinspectie.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.bapi.belastingdienst.nl
@@ -2926,6 +2932,7 @@ ondertekenen.brabant.nl
 ondertekenen.flevoland.nl
 ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
+onderwijsinspectie.nl
 onderzoek.cbs.nl
 onderzoek.communicatierijk.nl
 onderzoek.nederlandwereldwijd.nl
@@ -3074,6 +3081,7 @@ opendata.english.nctv.nl
 opendata.english.ndw.nu
 opendata.english.nrgd.nl
 opendata.english.nvwa.nl
+opendata.english.onderwijsinspectie.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -3184,6 +3192,7 @@ opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
 opendata.oesorichtlijnen.nl
 opendata.om.nl
+opendata.onderwijsinspectie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -3936,6 +3945,8 @@ toestemming.belastingdienst.nl
 toetsingonline.ccmo.nl
 toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
+toezichtresultaten.acc.onderwijsinspectie.nl
+toezichtresultaten.onderwijsinspectie.nl
 toolbox-extremisme.nctv.nl
 toolkits.loketgezondleven.nl
 torenvalk.brabant.nl
@@ -4756,6 +4767,7 @@ www.ofgv.nl
 www.om.nl
 www.omgevingsplan.flevoland.nl
 www.onbeperkttoegankelijk.nl
+www.onderwijsinspectie.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.openstad.zuid-holland.nl

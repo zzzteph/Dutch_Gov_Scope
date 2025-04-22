@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-a-www
 english
+a-www
 feeds.english
 opendata.english
 a-feeds
@@ -12,8 +12,8 @@ test
 acc
 autodiscover
 mail
-mijn
 magazines
+mijn
 a-english
 acceptatie
 api
@@ -2867,6 +2867,10 @@ strafdossiermh17
 verkeer.acc.loket
 verkeer.loket
 zsmgame
+contactformulier.acc
+contactformulier
+toezichtresultaten.acc
+toezichtresultaten
 passwordmanager
 plek
 ra
