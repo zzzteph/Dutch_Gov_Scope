@@ -24,10 +24,10 @@ cms
 intranet
 vpn
 www-acc
+_autodiscover._tcp
 portaal
 connect
 prod
-_autodiscover._tcp
 data
 proto
 www-ac

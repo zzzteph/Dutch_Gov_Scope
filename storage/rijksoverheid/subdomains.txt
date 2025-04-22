@@ -22,6 +22,7 @@ _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.natura2000.nl
 _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
+_autodiscover._tcp.rijksorganisatieodi.nl
 _dmarc.cibg.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
@@ -2227,6 +2228,7 @@ feeds.rijksdienstcn.com
 feeds.rijksinkoopsamenwerking.nl
 feeds.rijksinnovatiecommunity.nl
 feeds.rijksinspecties.nl
+feeds.rijksorganisatieodi.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4149,6 +4151,7 @@ opendata.rijksdienstcn.com
 opendata.rijksinkoopsamenwerking.nl
 opendata.rijksinnovatiecommunity.nl
 opendata.rijksinspecties.nl
+opendata.rijksorganisatieodi.nl
 opendata.rvb.rijkscloud.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4703,6 +4706,7 @@ rijksinkoopsamenwerking.nl
 rijksinnovatiecommunity.nl
 rijksinspecties.nl
 rijkskantoorproxy.belastingdienst.nl
+rijksorganisatieodi.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
 rijkspascp-acc.extranet.dictu.nl
@@ -6374,6 +6378,7 @@ www.rijkshuisstijl.nl
 www.rijksinkoopsamenwerking.nl
 www.rijksinnovatiecommunity.nl
 www.rijksinspecties.nl
+www.rijksorganisatieodi.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
