@@ -270,6 +270,8 @@ https://acc-open-wave.odijmond.nl
 https://acc-referentiegegevens.justid.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
+https://acc.api-sec.p-direkt.nl
+https://acc.api.p-direkt.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 https://acc.bcld-config.nl
@@ -410,6 +412,7 @@ https://antwoord.cbs.nl
 https://api-acc.dashboardgroningen.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
+https://api-sec.p-direkt.nl
 https://api.acc.ncsc.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
@@ -428,6 +431,7 @@ https://api.ncsc.nl
 https://api.nederlandwereldwijd.nl
 https://api.ondernemersplein.overheid.nl
 https://api.openstad.zuid-holland.nl
+https://api.p-direkt.nl
 https://api.preprod.mijn.overheid.nl
 https://api.standaarden.overheid.nl
 https://apikey.ep-online.nl
@@ -850,6 +854,8 @@ https://designsystem.cibg.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
+https://dev.api-sec.p-direkt.nl
+https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
 https://dev.cerberus.cbs.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
@@ -1320,6 +1326,7 @@ https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
 https://feeds.overheidvannu.nl
 https://feeds.overtoeslagen.nl
+https://feeds.p-direkt.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1650,6 +1657,8 @@ https://klimaatakkoord.nl
 https://klimaatscenarios-data.knmi.nl
 https://klussenbank-acc.dictu.nl
 https://klussenbank.dictu.nl
+https://kms-test.p-direkt.nl
+https://kms.p-direkt.nl
 https://knmi.nl
 https://knmidata.nl
 https://knmiprojects.nl
@@ -1919,6 +1928,8 @@ https://ncis.ndw.nu
 https://ncis.staging.ndw.nu
 https://ncpeh.nl
 https://ncsc.nl
+https://ndev.api-sec.p-direkt.nl
+https://ndev.api.p-direkt.nl
 https://ndw.nu
 https://ndwviewer.ndw.nu
 https://nederlanddigitaal.nl
@@ -2269,6 +2280,7 @@ https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
 https://opendata.overheidvannu.nl
 https://opendata.overtoeslagen.nl
+https://opendata.p-direkt.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2310,6 +2322,7 @@ https://overheidvannu.nl
 https://overtoeslagen.nl
 https://overzicht.cbs.nl
 https://ovverklaringen.belastingdienst.nl
+https://p-direkt.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
 https://pas.natura2000.nl
@@ -3318,6 +3331,7 @@ https://www.overdedouane.nl
 https://www.overheid.nl
 https://www.overheidvannu.nl
 https://www.overtoeslagen.nl
+https://www.p-direkt.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl

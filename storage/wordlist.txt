@@ -47,6 +47,7 @@ werkplek
 mdm
 ftp
 geoservices
+_dmarc
 loket
 dialin
 meet
@@ -59,7 +60,6 @@ kaarten
 cdn
 onderzoek
 portal
-_dmarc
 digikoppeling
 kennis
 a-magazines
@@ -122,6 +122,7 @@ papiamentu
 adobe-analytics-dc
 adobe-tags
 afspraken
+appstore
 b2b
 b2btest-gemnet
 b2btest-osb
@@ -225,6 +226,7 @@ telewerken
 zaaksysteem-accept
 mijn-acc
 sdm
+acc.api
 vt
 files
 stats
@@ -298,7 +300,6 @@ aplbepa01
 aplbeqa01
 appcontent
 appstore-ont
-appstore
 artifact-fibb1
 artifact-fibb2.acc
 artifact-fibe2.acc
@@ -2119,7 +2120,6 @@ positconnect
 positpm
 positwb
 acc.api-auth
-acc.api
 acc.b2b.digi
 acc.b2b
 acc.data
@@ -3392,6 +3392,27 @@ zdpushservice
 zoekdienst-preprod
 zoekdienst
 zoeken.ondernemersplein
+acc.api-sec
+aladdin
+api-sec
+api.appstore
+bwi.minbzk.nl
+dev.api-sec
+dev.api
+grc-apps
+grc
+grct-apps
+grct
+kms-test
+kms
+magazines.english
+magazinesintern
+mail.aladdin
+ndev.api-sec
+ndev.api
+static.aladdin
+static.appstore
+stats.aladdin
 passwordmanager
 plek
 ra
