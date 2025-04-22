@@ -73,12 +73,15 @@ http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://coalitieakkoord.zuid-holland.nl
 http://coronadashboard.government.nl
+http://coronadashboard.rijksoverheid.nl
 http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crm.nza.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
 http://detoekomstbegintnu.brabant.nl
+http://dns-web10.rijksoverheid.nl
+http://dns-web300.rijksoverheid.nl
 http://docs.lpc.logius.nl
 http://download.webmail.knmi.nl
 http://dse.lx.overheid.nl
@@ -979,6 +982,8 @@ https://e-certnl-sch.nvwa.nl
 https://e-certnl.nvwa.nl
 https://e-learning.opwegnaarseb.nl
 https://e-loket.ilent.nl
+https://e-mailabonnementen.rijksoverheid.nl
+https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.douane.nl
 https://e.awareness.nationaalcoordinatorgroningen.nl
 https://e.denkmee.zuid-holland.nl
@@ -1376,6 +1381,7 @@ https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.papiamentu.rijksdienstcn.com
+https://feeds.persberichten.rijksoverheid.nl
 https://feeds.politiekeambtsdragers.nl
 https://feeds.postedworkers.nl
 https://feeds.prosecutionservice.nl
@@ -1397,6 +1403,7 @@ https://feeds.rijksinkoopsamenwerking.nl
 https://feeds.rijksinnovatiecommunity.nl
 https://feeds.rijksinspecties.nl
 https://feeds.rijksorganisatieodi.nl
+https://feeds.rijksoverheid.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -1611,6 +1618,7 @@ https://informatiehuishouding.nl
 https://informatiemodel.istandaarden.nl
 https://informatieportaal.justid.nl
 https://informatieproducten.duo.rijkscloud.nl
+https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://informatieservice.nederlandwereldwijd.nl
 https://infrabeheer.rvb.rijkscloud.nl
 https://inkoopplein.dictu.nl
@@ -1872,6 +1880,8 @@ https://magazines.onderwijsinspectie.nl
 https://magazines.overheidvannu.nl
 https://magazines.rdi.nl
 https://magazines.riec.nl
+https://magazines.rijksoverheid.nl
+https://magazinesintern.rijksoverheid.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
@@ -2420,6 +2430,7 @@ https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.papiamentu.rijksdienstcn.com
+https://opendata.persberichten.rijksoverheid.nl
 https://opendata.platformrijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
 https://opendata.postedworkers.nl
@@ -2442,6 +2453,7 @@ https://opendata.rijksinkoopsamenwerking.nl
 https://opendata.rijksinnovatiecommunity.nl
 https://opendata.rijksinspecties.nl
 https://opendata.rijksorganisatieodi.nl
+https://opendata.rijksoverheid.nl
 https://opendata.rvb.rijkscloud.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -2501,6 +2513,7 @@ https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://perf.omgevingswet.overheid.nl
+https://persberichten.rijksoverheid.nl
 https://pesticidesdatabase.ctgb.nl
 https://pgadmin.analyse.ilt.rijkscloud.nl
 https://pgadmin4.analyse.ilt.rijkscloud.nl
@@ -2724,6 +2737,7 @@ https://rijksinkoopsamenwerking.nl
 https://rijksinnovatiecommunity.nl
 https://rijksinspecties.nl
 https://rijksorganisatieodi.nl
+https://rijksoverheid.nl
 https://rivmopendata.cbs.nl
 https://ro.zuid-holland.nl
 https://rob-2000.rijkscloud.nl
@@ -2777,6 +2791,7 @@ https://scansys.huurcommissie.nl
 https://scatterometer.knmi.nl
 https://scheiden.belastingdienst.nl
 https://sdg.government.nl
+https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
 https://sdmx.cbs.nl
 https://search.developer.overheid.nl
@@ -2888,9 +2903,11 @@ https://static.demo.mijn.overheid.nl
 https://static.developer.overheid.nl
 https://static.mijn.overheid.nl
 https://static.preprod.mijn.overheid.nl
+https://static.rijksoverheid.nl
 https://static.test.dpr.irealisatie.nl
 https://statistics.ind.nl
 https://statistiek.mijn.overheid.nl
+https://statistiek.rijksoverheid.nl
 https://statline.cbs.nl
 https://stats.acc.mgo.irealisatie.nl
 https://stats.duo.rijkscloud.nl
@@ -2980,6 +2997,7 @@ https://testgeoservices.knmi.nl
 https://testkennis.hdsr.nl
 https://testmdm.flevoland.nl
 https://testmonitorwonen.flevoland.nl
+https://teverantwoordenregelingen.rijksoverheid.nl
 https://thesaurus.cultureelerfgoed.nl
 https://thesaurus.zuid-holland.nl
 https://tiles.ndw.nu
@@ -3167,6 +3185,7 @@ https://windlansingerland.zuid-holland.nl
 https://wio.ilent.nl
 https://wms-viewer.dataplatform.knmi.nl
 https://wms.aanpakringzuid.nl
+https://woo-formulier.rijksoverheid.nl
 https://wooincijfers.open-overheid.nl
 https://woordenboek.klimaatadaptatienederland.nl
 https://wordimport.drop.overheid.nl
@@ -3625,6 +3644,7 @@ https://www.rijksinkoopsamenwerking.nl
 https://www.rijksinnovatiecommunity.nl
 https://www.rijksinspecties.nl
 https://www.rijksorganisatieodi.nl
+https://www.rijksoverheid.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
