@@ -2069,6 +2069,7 @@ feeds.rcihh.nl
 feeds.rda.nl
 feeds.rdi.nl
 feeds.regelhulp.nl
+feeds.regiosaandegrens.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -3714,6 +3715,7 @@ opendata.rcihh.nl
 opendata.rda.nl
 opendata.rdi.nl
 opendata.regelhulp.nl
+opendata.regiosaandegrens.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -5645,6 +5647,7 @@ www.rdi.nl
 www.rechtsbijstand.nl
 www.rechtwijzer.nl
 www.regelhulp.nl
+www.regiosaandegrens.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
