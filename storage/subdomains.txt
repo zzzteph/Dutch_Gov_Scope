@@ -868,6 +868,7 @@ autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
 autodiscover.rijksdienstcn.com
 autodiscover.schoolleidersregisterpo.nl
+autodiscover.scp.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -1439,6 +1440,7 @@ cmsdev.platformrijksoverheid.nl
 cmsdev.rijksoverheid.nl
 cmsgui.ondernemersplein.overheid.nl
 cmsintranet.flevoland.nl
+cmsintranet.scp.nl
 cmsvpn.defensie.nl
 cn.cbs.nl
 co.formulierdus-i.nl
@@ -1755,10 +1757,12 @@ digipoort-wus-acc1.belastingdienst.nl
 digipoort-wus-acc2.belastingdienst.nl
 digipoort-wus.belastingdienst.nl
 digitaal.raadopenbaarbestuur.nl
+digitaal.scp.nl
 digitaalmkb.zuid-holland.nl
 digitaalstelselmobiliteitsdata.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
+digital.scp.nl
 digitaleoverheid.nl
 dihoo.eu
 dihoo.nl
@@ -1804,6 +1808,7 @@ dossierportal.cbs.nl
 douane.nl
 download.belastingdienst.nl
 download.cbs.nl
+download.mail.scp.nl
 download.webmail.knmi.nl
 downloadmutation-acc.ep-online.nl
 downloadmutation-acc1.ep-online.nl
@@ -1871,6 +1876,7 @@ dwangindezorg.nl
 dwo.ctgb.nl
 dwo.justid.nl
 dwo.knmi.nl
+dwo.scp.nl
 e-akkoord.nl
 e-certnl-acc.nvwa.nl
 e-certnl-sch.nvwa.nl
@@ -2017,6 +2023,7 @@ english.rekenkamer.nl
 english.rijksdienstcn.com
 english.rivmmagazines.nl
 english.rvo.nl
+english.scp.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -2098,6 +2105,7 @@ externe-mail.knmi.nl
 externe-veiligheid.omgevingswet.overheid.nl
 externemail.ctgb.nl
 externemail.knmi.nl
+externemail.scp.nl
 externemail01.knmi.nl
 externemail02.knmi.nl
 externemailsaas.knmi.nl
@@ -2278,6 +2286,7 @@ feeds.english.postedworkers.nl
 feeds.english.rda.nl
 feeds.english.rekenkamer.nl
 feeds.english.rijksdienstcn.com
+feeds.english.scp.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -2439,6 +2448,7 @@ feeds.ruimtevoorderivier.nl
 feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
 feeds.schoolleidersregisterpo.nl
+feeds.scp.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -3050,6 +3060,7 @@ intranet.rijkswaterstaat.nl
 intranet.rsj.nl
 intranet.rvig.nl
 intranet.rvo.nl
+intranet.scp.nl
 intranetvan.rvo.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
@@ -3401,6 +3412,7 @@ login.mijncn.nl
 login.npr.idm.rvig.nl
 login.proeftuin.uzi-online.irealisatie.nl
 login.rvb.rijkscloud.nl
+login.scp.nl
 logius.nl
 lokaleregelgeving-acc.overheid.nl
 lokaleregelgeving-eto.overheid.nl
@@ -3463,6 +3475,7 @@ m-preprod.efiling.mijnoctrooi.rvo.nl
 m.huisvoorklokkenluiders.nl
 m365.ctgb.nl
 m365.knmi.nl
+m365.scp.nl
 maatwerkadvies-preprod.api.ep-online.nl
 maatwerkadvies.api.ep-online.nl
 maatwerkvoormensen.nl
@@ -3540,6 +3553,7 @@ mail.rijkscloud.nl
 mail.rijksdienstcn.com
 mail.rvb.rijkscloud.nl
 mail.rw1.rijkscloud.nl
+mail.scp.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
 mail.zgw.rijkscloud.nl
@@ -3572,6 +3586,7 @@ mailer2.belastingdienst.nl
 mailfilter.brabant.nl
 mailfilter01.rekenkamer.nl
 mailhog.acc.monumentenregister.cultureelerfgoed.nl
+mailhost.scp.nl
 mailing.dictu.nl
 mailing.dus-i.nl
 mailing.logius.nl
@@ -3587,6 +3602,7 @@ mailserver.service.nvwa.nl
 mam.ctgb.nl
 mam.justid.nl
 mam.knmi.nl
+mam.scp.nl
 managedservices.logius.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
@@ -4035,10 +4051,12 @@ ns1.dictu.nl
 ns1.ec.rijkscloud.nl
 ns1.gslb.dictu.nl
 ns1.rekenkamer.nl
+ns1.scp.nl
 ns2.belastingdienst.nl
 ns2.dictu.nl
 ns2.ec.rijkscloud.nl
 ns2.gslb.dictu.nl
+ns2.scp.nl
 ns3.belastingdienst.nl
 ns3.brabant.nl
 ns4.belastingdienst.nl
@@ -4333,6 +4351,7 @@ opendata.english.postedworkers.nl
 opendata.english.rda.nl
 opendata.english.rekenkamer.nl
 opendata.english.rijksdienstcn.com
+opendata.english.scp.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -4498,6 +4517,7 @@ opendata.rvb.rijkscloud.nl
 opendata.samenwerkingrijknoord.nl
 opendata.sbv-z.nl
 opendata.schoolleidersregisterpo.nl
+opendata.scp.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -5064,6 +5084,7 @@ repository.acceptatie.istandaarden.nl
 repository.istandaarden.nl
 repository.officiele-overheidspublicaties.nl
 repository.overheid.nl
+repository.scp.nl
 research.cbs.nl
 reserved-cesar-db.knmi.nl
 resolv1.ec.rijkscloud.nl
@@ -5275,6 +5296,7 @@ scheveningen.rvb.rijkscloud.nl
 schoolleidersregisterpo.nl
 schoudersonderschoon.nl
 schouw.flevoland.nl
+scp.nl
 screenconnect.hhdelfland.nl
 sdg.government.nl
 sdg.rijksoverheid.nl
@@ -5342,6 +5364,7 @@ sf-aaa.dictu.nl
 sf-szc.dictu.nl
 sf.ctgb.nl
 sf.knmi.nl
+sf.scp.nl
 sfbedgepool.justid.nl
 sfbrppool01.justid.nl
 sfbwconf.justid.nl
@@ -5751,6 +5774,7 @@ test-cms.projecten.rvo.nl
 test-cms.projects.rvo.nl
 test-cms.rvo.nl
 test-cmsintranet.flevoland.nl
+test-cmsintranet.scp.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
@@ -5758,6 +5782,7 @@ test-energielabels.gebouwen.overheid.nl
 test-english.rvo.nl
 test-internationaal.ondernemen.overheid.nl
 test-intranet.flevoland.nl
+test-intranet.scp.nl
 test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
@@ -5852,6 +5877,7 @@ testeloket.flevoland.nl
 testgeoservices.knmi.nl
 testhf.gn2.rijkscloud.nl
 testkennis.hdsr.nl
+testmail.scp.nl
 testmailmdm.flevoland.nl
 testmdm.flevoland.nl
 testmonitorwonen.flevoland.nl
@@ -6969,6 +6995,7 @@ www.samenwerkingrijknoord.nl
 www.sbv-z.nl
 www.schoolleidersregisterpo.nl
 www.schoudersonderschoon.nl
+www.scp.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl

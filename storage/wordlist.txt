@@ -9,15 +9,15 @@ a-feeds
 feeds.english
 opendata.english
 test
-acc
 mail
 autodiscover
+acc
 magazines
 mijn
 a-english
 acceptatie
-webmail
 intranet
+webmail
 a-feeds.a-english
 a-opendata.a-english
 cms
@@ -40,6 +40,7 @@ www-dev
 www-p
 www-tst
 dialin
+login
 webservices
 beeldbank
 formulieren
@@ -50,7 +51,6 @@ a-magazines
 www-ow
 www-ts
 loket
-login
 smtp
 zoeken
 atlas
@@ -70,6 +70,8 @@ chat
 projecten
 digikoppeling
 a-cms
+dwo
+mam
 kennis
 apps
 www.mijn
@@ -80,6 +82,7 @@ inloggen
 kennisbank
 staging
 git
+repository
 lync
 maps
 vpn2
@@ -90,6 +93,7 @@ feeds.papiamentu
 opendata.papiamentu
 papiamentu
 academie
+ns2
 services
 werken
 acceptatie.behandel
@@ -115,8 +119,9 @@ micollab
 www1
 stijlgids
 survey
-dwo
-mam
+externemail
+m365
+sf
 a-cms1
 a-cms2
 a-site1
@@ -135,13 +140,13 @@ site4
 t-www
 jira
 mailing
+ns1
 connect-acpt
 werkenbij
 acc.mijn
 adfs
 e
 mijn-acc
-repository
 geoweb
 wiki
 preview
@@ -174,7 +179,6 @@ govroam
 mijn.acc
 mta-sts
 mysites
-ns2
 ns3
 ns4
 pleio
@@ -218,10 +222,7 @@ digikoppeling2
 tmv
 a-api
 t-cms
-externemail
-m365
 password
-sf
 testconn
 formulier
 linkeddata
@@ -241,7 +242,6 @@ dns1
 dns2
 gitlab
 mail01
-ns1
 servicedesk
 dnadatabank
 feeds.dnadatabank
@@ -256,11 +256,14 @@ www3
 cpanel
 nieuwsbrief
 piwik
+cmsintranet
 denkmee
 kaart
 legacy
 preprodformulieren
 remote
+test-cmsintranet
+test-intranet
 extern
 csoacct
 csotest
@@ -308,6 +311,7 @@ import.organisaties
 data-acc
 standaarden
 wetten
+digitaal
 fileshare
 a-magazinesintern
 statistiek
@@ -1954,7 +1958,6 @@ begroting2019
 begroting2020
 bezoekersdata
 bodemrapportage
-cmsintranet
 competentie
 desktop
 ehs
@@ -1999,8 +2002,6 @@ rwbg
 schouw
 smartmobility
 stateninformatie
-test-cmsintranet
-test-intranet
 testmailmdm
 testmdm
 testmonitorwonen
@@ -3513,7 +3514,6 @@ url6099.mail
 gis
 criminalfilesmh17.acc
 criminalfilesmh17
-digitaal
 forum
 adviezen
 appl
@@ -4583,6 +4583,10 @@ raadplegen-preprod
 uzipas.raadplegen
 webservice-preprod
 admin
+digital
+download.mail
+mailhost
+testmail
 passwordmanager
 plek
 ra
