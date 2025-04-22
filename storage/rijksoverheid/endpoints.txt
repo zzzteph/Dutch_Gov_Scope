@@ -1200,6 +1200,7 @@ https://feeds.onderwijsraad.nl
 https://feeds.onderwijsregio.nl
 https://feeds.onslevendlandschap.nl
 https://feeds.onswater.nl
+https://feeds.oostvaarderskliniek.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1840,6 +1841,7 @@ https://ons.communicatierijk.nl
 https://onslevendlandschap.nl
 https://onswater.nl
 https://oordelen.mensenrechten.nl
+https://oostvaarderskliniek.nl
 https://open-data.ndw.nu
 https://open-wave.odijmond.nl
 https://open.brabant.nl
@@ -2085,6 +2087,7 @@ https://opendata.onderwijsraad.nl
 https://opendata.onderwijsregio.nl
 https://opendata.onslevendlandschap.nl
 https://opendata.onswater.nl
+https://opendata.oostvaarderskliniek.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2207,6 +2210,7 @@ https://pushmail.awti.nl
 https://pushmail.flevoland.nl
 https://pushmail.onderwijsraad.nl
 https://put-kpi-dashboard.ndw.nu
+https://pvs.oostvaarderskliniek.nl
 https://pwik.datawonen.nl
 https://raadplegen.donorregister.nl
 https://radicaalofpuberaal.nctv.nl
@@ -2941,6 +2945,7 @@ https://www.onderwijsregio.nl
 https://www.onehealth.nl
 https://www.onslevendlandschap.nl
 https://www.onswater.nl
+https://www.oostvaarderskliniek.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openstad.zuid-holland.nl
 https://www.ras-acc.nvwa.nl

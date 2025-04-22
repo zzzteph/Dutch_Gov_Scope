@@ -10,8 +10,8 @@ a-feeds
 a-opendata
 test
 acc
-autodiscover
 mail
+autodiscover
 magazines
 mijn
 a-english
@@ -45,15 +45,16 @@ login
 _autodiscover._tcp
 werkplek
 mdm
+ftp
 geoservices
 dialin
 meet
+smtp
 geodata
 zoeken
 atlas
 hybrid
 kaarten
-ftp
 onderzoek
 portal
 _dmarc
@@ -69,7 +70,6 @@ vpn2
 meldingen
 ontwikkel
 pushmail
-smtp
 academie
 fs
 services
@@ -2876,6 +2876,8 @@ outbound
 webshop
 werkplaats-acc
 werkplaats
+pop
+pvs
 passwordmanager
 plek
 ra
