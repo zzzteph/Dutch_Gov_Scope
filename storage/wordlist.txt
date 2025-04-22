@@ -68,6 +68,7 @@ lyncdiscover
 vpn2
 meldingen
 ontwikkel
+pushmail
 smtp
 academie
 fs
@@ -108,7 +109,7 @@ testeloket
 chw
 test.resultaten
 prd
-pushmail
+rdgateway
 smtp1
 feeds.papiamentu
 opendata.papiamentu
@@ -164,6 +165,7 @@ static
 conf
 enterpriseenrollment
 crm
+ts
 dashboards
 designsystem
 projecten
@@ -219,6 +221,7 @@ files
 stats
 repository
 privacy
+extranet
 geoweb
 leren
 acceptatie.portaal
@@ -247,7 +250,6 @@ b-acc
 bezwaar
 feedback
 rivm
-rdgateway
 dataservice
 professional
 profgeodata.dynamic
@@ -1149,7 +1151,6 @@ crmacc
 crmtest
 elearning
 spamtitan
-ts
 www.spamtitan
 acc-ccb
 acc-vinden
@@ -2410,7 +2411,6 @@ externe-mail
 externemail01
 externemail02
 externemailsaas
-extranet
 ftp-migtest
 ftp-test01
 ftppro-migtest
@@ -2871,6 +2871,9 @@ contactformulier.acc
 contactformulier
 toezichtresultaten.acc
 toezichtresultaten
+formdesk
+outbound
+webshop
 passwordmanager
 plek
 ra
