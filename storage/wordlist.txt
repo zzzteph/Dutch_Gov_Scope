@@ -51,6 +51,7 @@ www-ts
 loket
 login
 smtp
+atlas
 mdm
 ftp
 onderzoek
@@ -60,7 +61,6 @@ lyncdiscover
 geodata
 fs
 zoeken
-atlas
 hybrid
 kaarten
 docs

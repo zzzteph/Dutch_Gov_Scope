@@ -764,6 +764,7 @@ atlas-acpt.brabant.nl
 atlas.brabant.nl
 atlas.limburg.nl
 atlas.odmh.nl
+atlas.ruimtelijkeordening.nl
 atlas.zuid-holland.nl
 atlasinfectieziekten.nl
 atlasleefomgeving.nl
@@ -2323,6 +2324,7 @@ feeds.rijksvastgoedbedrijf.nl
 feeds.royal-house.nl
 feeds.royalhonoursanddecorations.nl
 feeds.rsj.nl
+feeds.ruimtelijkeordening.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4312,6 +4314,7 @@ opendata.rijksvastgoedbedrijf.nl
 opendata.royal-house.nl
 opendata.royalhonoursanddecorations.nl
 opendata.rsj.nl
+opendata.ruimtelijkeordening.nl
 opendata.rvb.rijkscloud.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4968,6 +4971,7 @@ ruimte.kta.omgevingswet.overheid.nl
 ruimte.omgevingswet.overheid.nl
 ruimte.pfm.omgevingswet.overheid.nl
 ruimte.pre.omgevingswet.overheid.nl
+ruimtelijkeordening.nl
 ruimtelijkeplannen.zuid-holland.nl
 rut.belastingdienst.nl
 rvdmschaduwdraaien.nvwa.nl
@@ -6651,6 +6655,7 @@ www.rivmmagazines.nl
 www.royal-house.nl
 www.royalhonoursanddecorations.nl
 www.rsj.nl
+www.ruimtelijkeordening.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.spamtitan.cbi.eu
