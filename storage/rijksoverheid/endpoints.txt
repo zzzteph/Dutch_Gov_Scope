@@ -1406,6 +1406,7 @@ https://feeds.rijksinspecties.nl
 https://feeds.rijksorganisatieodi.nl
 https://feeds.rijksoverheid.nl
 https://feeds.rijksrecherche.nl
+https://feeds.rijksvastgoedbedrijf.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -1792,6 +1793,7 @@ https://kpm.jeugdconnect.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://labvantage-acc.nvwa.nl
 https://landelijkeopeningwte2024.evenementenbureauvws.nl
+https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 https://landelijkregisterkinderopvang.nl
 https://lc.cbs.nl
 https://ldentool.nl
@@ -1885,6 +1887,7 @@ https://magazines.rdi.nl
 https://magazines.riec.nl
 https://magazines.rijksoverheid.nl
 https://magazinesintern.rijksoverheid.nl
+https://magazinesintern.rijksvastgoedbedrijf.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
@@ -2460,6 +2463,7 @@ https://opendata.rijksinspecties.nl
 https://opendata.rijksorganisatieodi.nl
 https://opendata.rijksoverheid.nl
 https://opendata.rijksrecherche.nl
+https://opendata.rijksvastgoedbedrijf.nl
 https://opendata.rvb.rijkscloud.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -2632,6 +2636,7 @@ https://profgeodata.dynamic.basisinformatie-overstromingen.nl
 https://profgeodata.static.basisinformatie-overstromingen.nl
 https://projecten.cbs.nl
 https://projecten.netwerkplatteland.nl
+https://projecten.rijksvastgoedbedrijf.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
 https://prolander.nl
 https://promtoolbox.zorginzicht.nl
@@ -2746,6 +2751,7 @@ https://rijksorganisatieodi.nl
 https://rijksoverheid.nl
 https://rijksrecherche.nl
 https://rijksvaccinatieprogramma.nl
+https://rijksvastgoedbedrijf.nl
 https://rivmopendata.cbs.nl
 https://ro.zuid-holland.nl
 https://rob-2000.rijkscloud.nl
@@ -3657,6 +3663,7 @@ https://www.rijksorganisatieodi.nl
 https://www.rijksoverheid.nl
 https://www.rijksrecherche.nl
 https://www.rijksvaccinatieprogramma.nl
+https://www.rijksvastgoedbedrijf.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl

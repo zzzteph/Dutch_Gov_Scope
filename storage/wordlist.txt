@@ -30,6 +30,7 @@ connect
 meet
 sip
 prod
+_dmarc
 data
 proto
 www-ac
@@ -42,7 +43,6 @@ beeldbank
 formulieren
 werkplek
 redactie
-_dmarc
 geo
 a-magazines
 www-ow
@@ -102,6 +102,7 @@ elearning
 academy
 designsystem
 micollab
+projecten
 survey
 dwo
 mam
@@ -136,6 +137,7 @@ repository
 wiki
 preview
 mx1
+magazinesintern
 av
 eloket
 maps
@@ -197,7 +199,6 @@ crm
 ts
 accounts
 dashboards
-projecten
 status
 tunnel
 uag
@@ -279,8 +280,8 @@ media
 access
 import-acc.organisaties
 import.organisaties
-magazinesintern
 fileshare
+a-magazinesintern
 helloid
 oa
 wachtwoordwijzigen
@@ -4167,7 +4168,6 @@ tools-acc
 tools
 a-git
 a-jira
-a-magazinesintern
 a-persberichten
 a-servicedesk
 a-static
@@ -4215,6 +4215,7 @@ a-mediabank
 a-server
 mediabank
 server
+landelijkevastgoeddag
 passwordmanager
 plek
 ra
