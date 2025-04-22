@@ -14,12 +14,12 @@ mail
 autodiscover
 magazines
 mijn
-acceptatie
 a-english
+acceptatie
 api
-cms
 a-feeds.a-english
 a-opendata.a-english
+cms
 intranet
 vpn
 webmail
@@ -34,6 +34,7 @@ www-dev
 www-p
 www-tst
 sip
+_autodiscover._tcp
 webservices
 beeldbank
 formulieren
@@ -44,7 +45,6 @@ www-ts
 dialin
 login
 meet
-_autodiscover._tcp
 werkplek
 mdm
 ftp
