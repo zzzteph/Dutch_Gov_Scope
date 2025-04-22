@@ -48,6 +48,7 @@ geodata
 zoeken
 mdm
 portal
+_dmarc
 kennis
 a-magazines
 apps
@@ -68,6 +69,7 @@ atlas
 connect-with
 geoportaal
 geoserver
+hybrid
 id
 kaarten
 ondertekenen
@@ -79,7 +81,6 @@ ftp
 micollab
 onderzoek
 redactie
-_dmarc
 digikoppeling
 dwo
 mam
@@ -122,6 +123,7 @@ fibd1
 fibd2.acc
 govroam
 mijn.acc
+mta-sts
 mysites
 ns2
 ns3
@@ -142,7 +144,6 @@ beeldbank-bo
 dataportaal
 esb
 georegister
-hybrid
 osb
 proxy
 publicaties
@@ -157,6 +158,7 @@ broker
 doc
 sso
 static
+crm
 dashboards
 designsystem
 projecten
@@ -211,9 +213,11 @@ vt
 files
 stats
 privacy
+leren
 mx1
 acceptatie.portaal
 track
+aanvragen
 helloid
 oa
 wachtwoordwijzigen
@@ -651,7 +655,6 @@ moodleont.vcdn
 moodletst.vcdn
 msnp-tegemoetkoming.acc
 msnp-tegemoetkoming
-mta-sts
 mtls-tmx-dap-eu.acc
 mtls-tmx-dap-eu
 mul-mbc
@@ -1137,7 +1140,6 @@ mdmeas
 mdmvpn-t
 mdmvpn
 mijnwerkplek
-crm
 crmacc
 crmtest
 elearning
@@ -2588,7 +2590,6 @@ complaintform
 gelijkloon
 klachtenformulier
 klachtenformulierlink
-leren
 new
 oordelen
 publicaties.oud
@@ -2800,6 +2801,30 @@ vtrack
 www.inspectieresultaten
 www.openbare-inspectieresultaten
 www.ras-acc
+aanvragen-acc
+acceptatie.crm
+agw01-nomail
+elearning-msz
+itsupport
+jv
+nza-form1
+nza-form2
+nza-form3
+nza-form4
+nza-form5
+nza-form6
+opendisdata-acc
+opendisdata
+rpx-qa
+rpx
+tovertool
+wachttijden
+werkenbijde
+zorgbeeld
+zorgprestatiemodel
+zorgproducten-acc
+zorgproducten-test
+zorgproducten
 passwordmanager
 plek
 ra
@@ -2811,7 +2836,6 @@ tpk-ac
 tpk
 www-pr
 www2-ts
-aanvragen
 admin.denkmee
 admin.openstad
 api.denkmee
