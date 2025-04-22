@@ -1145,6 +1145,7 @@ https://feeds.nifp.nl
 https://feeds.nimh.nl
 https://feeds.nix18.nl
 https://feeds.nl-alert.nl
+https://feeds.nl-works.com
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1681,6 +1682,7 @@ https://nimh-beeldbank.defensie.nl
 https://nimh.nl
 https://nix18.nl
 https://nl-alert.nl
+https://nl-works.com
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
@@ -1935,6 +1937,7 @@ https://opendata.nifp.nl
 https://opendata.nimh.nl
 https://opendata.nix18.nl
 https://opendata.nl-alert.nl
+https://opendata.nl-works.com
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2722,6 +2725,7 @@ https://www.nifp.nl
 https://www.nimh.nl
 https://www.nix18.nl
 https://www.nl-alert.nl
+https://www.nl-works.com
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl
