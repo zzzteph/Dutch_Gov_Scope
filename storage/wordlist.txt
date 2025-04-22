@@ -58,6 +58,7 @@ mdm
 onderzoek
 portal
 www2
+forms
 lyncdiscover
 geodata
 fs
@@ -77,7 +78,6 @@ apps
 www.mijn
 zaaksysteem-acc
 zaaksysteem
-forms
 inloggen
 kennisbank
 staging
@@ -287,6 +287,7 @@ test.intranet
 extranet
 projects
 nieuwsbrieven
+productie
 leren
 zoekservice
 kgr-acc.mijn
@@ -2610,7 +2611,6 @@ test-machtigen.digipoort
 vault.lpc
 interventies
 prerelease
-productie
 toolkits
 intern
 complaintform
