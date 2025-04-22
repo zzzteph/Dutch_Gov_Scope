@@ -1319,6 +1319,7 @@ https://feeds.ordz.nl
 https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
 https://feeds.overheidvannu.nl
+https://feeds.overtoeslagen.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -2267,6 +2268,7 @@ https://opendata.ordz.nl
 https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
 https://opendata.overheidvannu.nl
+https://opendata.overtoeslagen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2305,6 +2307,7 @@ https://overdedouane.nl
 https://overhandigingroadmapnucleairegeneeskunde.evenementenbureauvws.nl
 https://overheid.nl
 https://overheidvannu.nl
+https://overtoeslagen.nl
 https://overzicht.cbs.nl
 https://ovverklaringen.belastingdienst.nl
 https://papiamentu.belastingdienst-cn.nl
@@ -3314,6 +3317,7 @@ https://www.overalsnelinternet.nl
 https://www.overdedouane.nl
 https://www.overheid.nl
 https://www.overheidvannu.nl
+https://www.overtoeslagen.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl
