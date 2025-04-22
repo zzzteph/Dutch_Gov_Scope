@@ -1718,6 +1718,7 @@ feeds.onderwijsinspectie.nl
 feeds.onderwijsraad.nl
 feeds.onderwijsregio.nl
 feeds.onslevendlandschap.nl
+feeds.onswater.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2950,6 +2951,7 @@ onehealth.nl
 onlineaangifte.str1.acc.belastingdienst.nl
 ons.communicatierijk.nl
 onslevendlandschap.nl
+onswater.nl
 ont.belastingdienst.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
@@ -3206,6 +3208,7 @@ opendata.onderwijsinspectie.nl
 opendata.onderwijsraad.nl
 opendata.onderwijsregio.nl
 opendata.onslevendlandschap.nl
+opendata.onswater.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4792,6 +4795,7 @@ www.onderwijsraad.nl
 www.onderwijsregio.nl
 www.onehealth.nl
 www.onslevendlandschap.nl
+www.onswater.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.openstad.zuid-holland.nl
