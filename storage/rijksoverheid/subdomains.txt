@@ -2226,6 +2226,7 @@ feeds.rijksbredekennisagenda.nl
 feeds.rijksdienstcn.com
 feeds.rijksinkoopsamenwerking.nl
 feeds.rijksinnovatiecommunity.nl
+feeds.rijksinspecties.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4147,6 +4148,7 @@ opendata.rijksbredekennisagenda.nl
 opendata.rijksdienstcn.com
 opendata.rijksinkoopsamenwerking.nl
 opendata.rijksinnovatiecommunity.nl
+opendata.rijksinspecties.nl
 opendata.rvb.rijkscloud.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4699,6 +4701,7 @@ rijksdienstcn.com
 rijkshuisstijl.nl
 rijksinkoopsamenwerking.nl
 rijksinnovatiecommunity.nl
+rijksinspecties.nl
 rijkskantoorproxy.belastingdienst.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
@@ -6370,6 +6373,7 @@ www.rijksdienstcn.com
 www.rijkshuisstijl.nl
 www.rijksinkoopsamenwerking.nl
 www.rijksinnovatiecommunity.nl
+www.rijksinspecties.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl

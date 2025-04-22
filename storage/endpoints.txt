@@ -1395,6 +1395,7 @@ https://feeds.rijksbredekennisagenda.nl
 https://feeds.rijksdienstcn.com
 https://feeds.rijksinkoopsamenwerking.nl
 https://feeds.rijksinnovatiecommunity.nl
+https://feeds.rijksinspecties.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -2438,6 +2439,7 @@ https://opendata.rijksbredekennisagenda.nl
 https://opendata.rijksdienstcn.com
 https://opendata.rijksinkoopsamenwerking.nl
 https://opendata.rijksinnovatiecommunity.nl
+https://opendata.rijksinspecties.nl
 https://opendata.rvb.rijkscloud.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
@@ -2718,6 +2720,7 @@ https://rijksdienstcn.com
 https://rijkshuisstijl.nl
 https://rijksinkoopsamenwerking.nl
 https://rijksinnovatiecommunity.nl
+https://rijksinspecties.nl
 https://rivmopendata.cbs.nl
 https://ro.zuid-holland.nl
 https://rob-2000.rijkscloud.nl
@@ -3617,6 +3620,7 @@ https://www.rijksdienstcn.com
 https://www.rijkshuisstijl.nl
 https://www.rijksinkoopsamenwerking.nl
 https://www.rijksinnovatiecommunity.nl
+https://www.rijksinspecties.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
