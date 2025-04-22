@@ -1328,6 +1328,7 @@ english.ncadierproevenbeleid.nl
 english.ncsc.nl
 english.nctv.nl
 english.ndw.nu
+english.nrgd.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -1561,6 +1562,7 @@ feeds.english.ncadierproevenbeleid.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
 feeds.english.ndw.nu
+feeds.english.nrgd.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1660,6 +1662,7 @@ feeds.nl-works.com
 feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
 feeds.nponderwijs.nl
+feeds.nrgd.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2725,6 +2728,7 @@ notificatie-preprod.api.ep-online.nl
 notificatie.api.ep-online.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
+nrgd.nl
 ns1.dictu.nl
 ns1.gslb.dictu.nl
 ns2.belastingdienst.nl
@@ -2945,6 +2949,7 @@ opendata.english.ncadierproevenbeleid.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
 opendata.english.ndw.nu
+opendata.english.nrgd.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -3046,6 +3051,7 @@ opendata.nl-works.com
 opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
 opendata.nponderwijs.nl
+opendata.nrgd.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4560,6 +4566,7 @@ www.nlarbeidsinspectie.nl
 www.nlinfrankrijk.nl
 www.nllabourauthority.nl
 www.nponderwijs.nl
+www.nrgd.nl
 www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl

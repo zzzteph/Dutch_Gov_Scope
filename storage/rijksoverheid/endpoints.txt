@@ -882,6 +882,7 @@ https://english.ncadierproevenbeleid.nl
 https://english.ncsc.nl
 https://english.nctv.nl
 https://english.ndw.nu
+https://english.nrgd.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -1052,6 +1053,7 @@ https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
+https://feeds.english.nrgd.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -1151,6 +1153,7 @@ https://feeds.nl-works.com
 https://feeds.nlarbeidsinspectie.nl
 https://feeds.nllabourauthority.nl
 https://feeds.nponderwijs.nl
+https://feeds.nrgd.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1696,6 +1699,7 @@ https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://notificatie-preprod.api.ep-online.nl
+https://nrgd.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
 https://ntm.staging.ndw.nu
@@ -1850,6 +1854,7 @@ https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
+https://opendata.english.nrgd.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
@@ -1950,6 +1955,7 @@ https://opendata.nl-works.com
 https://opendata.nlarbeidsinspectie.nl
 https://opendata.nllabourauthority.nl
 https://opendata.nponderwijs.nl
+https://opendata.nrgd.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2746,6 +2752,7 @@ https://www.nlarbeidsinspectie.nl
 https://www.nlinfrankrijk.nl
 https://www.nllabourauthority.nl
 https://www.nponderwijs.nl
+https://www.nrgd.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl
