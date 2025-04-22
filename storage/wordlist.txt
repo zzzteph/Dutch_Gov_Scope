@@ -27,6 +27,8 @@ www-acc
 _autodiscover._tcp
 portaal
 connect
+meet
+sip
 prod
 data
 proto
@@ -34,8 +36,7 @@ www-ac
 www-dev
 www-p
 www-tst
-meet
-sip
+dialin
 webservices
 beeldbank
 formulieren
@@ -46,7 +47,6 @@ geo
 a-magazines
 www-ow
 www-ts
-dialin
 login
 smtp
 mdm
@@ -56,6 +56,7 @@ onderzoek
 portal
 www2
 loket
+lyncdiscover
 geodata
 fs
 zoeken
@@ -73,7 +74,6 @@ zaaksysteem
 forms
 git
 lync
-lyncdiscover
 vpn2
 meldingen
 ontwikkel
@@ -96,6 +96,7 @@ ondertekenen
 publicaties
 sso
 static
+conf
 sts
 elearning
 academy
@@ -191,7 +192,6 @@ helpdesk
 web.acc
 broker
 doc
-conf
 enterpriseenrollment
 crm
 ts
@@ -276,6 +276,7 @@ a-voorlichting
 track
 aanvragen
 media
+access
 import-acc.organisaties
 import.organisaties
 magazinesintern
@@ -2856,7 +2857,6 @@ transfer
 vr
 ws-izis
 acc.zsmgame
-access
 boetebase
 fcvpn
 leeromgeving
