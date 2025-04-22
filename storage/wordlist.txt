@@ -165,6 +165,7 @@ static
 conf
 enterpriseenrollment
 crm
+elearning
 ts
 dashboards
 designsystem
@@ -1150,7 +1151,6 @@ mdmvpn
 mijnwerkplek
 crmacc
 crmtest
-elearning
 spamtitan
 www.spamtitan
 acc-ccb
