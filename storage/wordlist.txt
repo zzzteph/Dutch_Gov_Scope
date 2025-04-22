@@ -24,9 +24,9 @@ intranet
 vpn
 webmail
 www-acc
+portaal
 connect
 prod
-portaal
 data
 proto
 www-ac
@@ -41,7 +41,9 @@ redactie
 geo
 www-ow
 www-ts
+dialin
 login
+meet
 _autodiscover._tcp
 werkplek
 mdm
@@ -49,8 +51,6 @@ ftp
 geoservices
 _dmarc
 loket
-dialin
-meet
 smtp
 geodata
 zoeken
@@ -67,6 +67,7 @@ apps
 www2
 zaaksysteem
 forms
+lync
 lyncdiscover
 vpn2
 meldingen
@@ -111,7 +112,6 @@ preview
 mx1
 av
 eloket
-lync
 maps
 testeloket
 chw
@@ -3507,6 +3507,7 @@ myidp-acc
 myidp
 o1.ptr2462.mail
 url6099.mail
+gis
 passwordmanager
 plek
 ra
