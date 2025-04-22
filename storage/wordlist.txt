@@ -27,6 +27,7 @@ www-acc
 portaal
 connect
 prod
+_autodiscover._tcp
 data
 proto
 www-ac
@@ -34,7 +35,6 @@ www-dev
 www-p
 www-tst
 sip
-_autodiscover._tcp
 webservices
 beeldbank
 formulieren
@@ -49,6 +49,7 @@ werkplek
 mdm
 ftp
 geoservices
+onderzoek
 _dmarc
 loket
 smtp
@@ -58,7 +59,6 @@ atlas
 hybrid
 kaarten
 cdn
-onderzoek
 portal
 digikoppeling
 kennis
@@ -105,6 +105,7 @@ adfs
 e
 zaaksysteem-acc
 kennisbank
+mijn-acc
 staging
 git
 repository
@@ -242,7 +243,6 @@ www-a
 inloggen
 telewerken
 zaaksysteem-accept
-mijn-acc
 sdm
 acc.api
 vt
@@ -254,6 +254,7 @@ geoweb
 leren
 zoekservice
 acceptatie.portaal
+iam
 track
 aanvragen
 media
@@ -2709,7 +2710,6 @@ faq
 fbmonitor
 geojson-converter
 havik
-iam
 internal-docs
 karin
 keycloak
@@ -3513,6 +3513,15 @@ criminalfilesmh17
 digitaal
 forum
 adviezen
+appl
+callbook
+identificatie
+infoportal
+nox.radar
+prod.radar
+radar
+slimmestad
+uploadmodule
 passwordmanager
 plek
 ra

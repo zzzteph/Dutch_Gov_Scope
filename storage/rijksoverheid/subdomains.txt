@@ -20,6 +20,7 @@ _autodiscover._tcp.dezi.nl
 _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.natura2000.nl
 _autodiscover._tcp.rda.nl
+_autodiscover._tcp.rdi.nl
 _dmarc.cibg.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
@@ -597,6 +598,7 @@ api.ondernemersplein.overheid.nl
 api.openstad.zuid-holland.nl
 api.p-direkt.nl
 api.preprod.mijn.overheid.nl
+api.rdi.nl
 api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
 api.tst.mijn.overheid.nl
@@ -623,6 +625,7 @@ app-api.test.mgo.irealisatie.nl
 app.brabant.nl
 app.nl-alert.nl
 appcontent.belastingdienst.nl
+appl.rdi.nl
 applicationframework.cibg.nl
 applications.klopt.cibg.nl
 apps.dictu.nl
@@ -1039,6 +1042,7 @@ cabauw.knmi.nl
 cabinetspecialenvoy.com
 caelus-tool.nl
 calendartst.brabant.nl
+callbook.rdi.nl
 campagnetoolkits.nl
 caorijk.nl
 cap.om.belastingdienst.nl
@@ -2062,6 +2066,7 @@ feeds.rabarijk.nl
 feeds.rcgog.nl
 feeds.rcihh.nl
 feeds.rda.nl
+feeds.rdi.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2424,6 +2429,7 @@ iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
 iam.ndw.nu
+iam.rdi.nl
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
@@ -2436,6 +2442,7 @@ id.limburg.nl
 ideal20-cnf.belastingdienst.nl
 ideal20-test.belastingdienst.nl
 ideal20.belastingdienst.nl
+identificatie.rdi.nl
 identifier-acc.overheid.nl
 identifier-preprod.overheid.nl
 identifier.overheid.nl
@@ -2473,6 +2480,7 @@ incassomachtigen.str10.acc.belastingdienst.nl
 incassomachtigen.str11.acc.belastingdienst.nl
 incassomachtigen.str13.acc.belastingdienst.nl
 ind.nl
+infoportal.rdi.nl
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
@@ -2844,6 +2852,7 @@ magazines.nza.nl
 magazines.onderwijsinspectie.nl
 magazines.overheidvannu.nl
 magazines.p-direkt.nl
+magazines.rdi.nl
 magazinesintern.p-direkt.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
@@ -3004,6 +3013,7 @@ microfoonbanden.nl
 mig.cbs.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
+mijn-acc.rdi.nl
 mijn-acc1.belastingdienst.nl
 mijn-api.cbs.nl
 mijn-c1.tst.belastingdienst.nl
@@ -3034,6 +3044,7 @@ mijn.ndw.nu
 mijn.nvwa.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
+mijn.rdi.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -3284,6 +3295,7 @@ noaa.cultureelerfgoed.nl
 node1.acc.statistiek.mijn.overheid.nl
 notificatie-preprod.api.ep-online.nl
 notificatie.api.ep-online.nl
+nox.radar.rdi.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 nrgd.nl
@@ -3402,6 +3414,7 @@ onderzoek.cbs.nl
 onderzoek.communicatierijk.nl
 onderzoek.nederlandwereldwijd.nl
 onderzoek.odmh.nl
+onderzoek.rdi.nl
 onderzoek2.cbs.nl
 onehealth.nl
 onlineaangifte.str1.acc.belastingdienst.nl
@@ -3696,6 +3709,7 @@ opendata.rabarijk.nl
 opendata.rcgog.nl
 opendata.rcihh.nl
 opendata.rda.nl
+opendata.rdi.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -3977,6 +3991,7 @@ prod.flevoland.nl
 prod.justis.nl
 prod.mi-cert.nl
 prod.nl-alert.nl
+prod.radar.rdi.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
 productie.loketgezondleven.nl
@@ -4057,6 +4072,7 @@ raadplegen.donorregister.nl
 raadrvs.nl
 raadvoorcultuur.nl
 rabarijk.nl
+radar.rdi.nl
 radicaalofpuberaal.nctv.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
@@ -4074,6 +4090,7 @@ rd2.toegang.overheid.nl
 rda.nl
 rdgateway.awti.nl
 rdgateway.onderwijsraad.nl
+rdi.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
 rdsa.knmi.nl
@@ -4334,6 +4351,7 @@ slachtoffer.jeugdconnect.nl
 slechtvalk.brabant.nl
 slim-reizen.ndw.nu
 slimmerreizen.zuid-holland.nl
+slimmestad.rdi.nl
 sltn.bzv.brabant.nl
 smartmobility.flevoland.nl
 smartsurveys.cbs.nl
@@ -4741,6 +4759,7 @@ uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
 uitwisseling.cbs.nl
 upload.cbs.nl
+uploadmodule.rdi.nl
 upnl-acc-businesstest.mijn.rvo.nl
 upnl-acc-inregel.mijn.rvo.nl
 upnl-acc.mijn.rvo.nl
@@ -5614,6 +5633,7 @@ www.ras-acc.nvwa.nl
 www.rcgog.nl
 www.rcihh.nl
 www.rda.nl
+www.rdi.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl

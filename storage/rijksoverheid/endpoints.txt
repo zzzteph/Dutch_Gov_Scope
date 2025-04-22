@@ -35,7 +35,9 @@ http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
+http://api.rdi.nl
 http://apikey-preprod.ep-online.nl
+http://appl.rdi.nl
 http://atlas-acpt.brabant.nl
 http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
@@ -103,6 +105,7 @@ http://hapi2.test.zm.irealisatie.nl
 http://harbor.az1.lpc.logius.nl
 http://harbor.az2.lpc.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl
+http://iam.rdi.nl
 http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
 http://int-prod-01.flevoland.nl
@@ -650,6 +653,7 @@ https://caas.ndw.nu
 https://cabauw.knmi.nl
 https://cabinetspecialenvoy.com
 https://caelus-tool.nl
+https://callbook.rdi.nl
 https://campagnetoolkits.nl
 https://caorijk.nl
 https://capi.cbs.nl
@@ -1353,6 +1357,7 @@ https://feeds.rabarijk.nl
 https://feeds.rcgog.nl
 https://feeds.rcihh.nl
 https://feeds.rda.nl
+https://feeds.rdi.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -1523,6 +1528,7 @@ https://icdesk.zuid-holland.nl
 https://id.brabant.nl
 https://id.flevoland.nl
 https://id.limburg.nl
+https://identificatie.rdi.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
 https://idppoc-ont.dictu.nl
@@ -1544,6 +1550,7 @@ https://inbeeld.zuid-holland.nl
 https://inburgeren.nl
 https://incassomachtigen.belastingdienst.nl
 https://ind.nl
+https://infoportal.rdi.nl
 https://informatieanalyseteam.nl
 https://informatiehuishouding.nl
 https://informatiemodel.istandaarden.nl
@@ -1785,6 +1792,7 @@ https://magazines.nvwa.nl
 https://magazines.nza.nl
 https://magazines.onderwijsinspectie.nl
 https://magazines.overheidvannu.nl
+https://magazines.rdi.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
@@ -1875,6 +1883,7 @@ https://mijn.ncsc.nl
 https://mijn.ndw.nu
 https://mijn.nvwa.nl
 https://mijn.overheid.nl
+https://mijn.rdi.nl
 https://mijn.rvo.nl
 https://mijn.test.ncsc.nl
 https://mijnadministratie-acpt.brabant.nl
@@ -2044,6 +2053,7 @@ https://onderzoek.cbs.nl
 https://onderzoek.communicatierijk.nl
 https://onderzoek.nederlandwereldwijd.nl
 https://onderzoek.odmh.nl
+https://onderzoek.rdi.nl
 https://onderzoek2.cbs.nl
 https://onehealth.nl
 https://ons.communicatierijk.nl
@@ -2325,6 +2335,7 @@ https://opendata.rabarijk.nl
 https://opendata.rcgog.nl
 https://opendata.rcihh.nl
 https://opendata.rda.nl
+https://opendata.rdi.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
 https://opendata1.platformrijksoverheid.nl
@@ -2478,6 +2489,7 @@ https://prod.dictu.nl
 https://prod.justis.nl
 https://prod.mi-cert.nl
 https://prod.nl-alert.nl
+https://prod.radar.rdi.nl
 https://proeftuin.uzi-online.irealisatie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
@@ -2522,6 +2534,7 @@ https://raadplegen.donorregister.nl
 https://raadrvs.nl
 https://raadvoorcultuur.nl
 https://rabarijk.nl
+https://radar.rdi.nl
 https://radicaalofpuberaal.nctv.nl
 https://rapporteursnet.nifp.nl
 https://ras-acc.nvwa.nl
@@ -2531,6 +2544,7 @@ https://rcihh.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
 https://rda.nl
+https://rdi.nl
 https://rdsa.knmi.nl
 https://realtime.ndw.nu
 https://redactie-acc.cbs.nl
@@ -2654,6 +2668,7 @@ https://sip.om.nl
 https://slachtoffer.jeugdconnect.nl
 https://slim-reizen.ndw.nu
 https://slimmerreizen.zuid-holland.nl
+https://slimmestad.rdi.nl
 https://smartsurveys.cbs.nl
 https://smtp.awti.nl
 https://smtp1.awti.nl
@@ -2841,6 +2856,7 @@ https://uconnect-acc.hdsr.nl
 https://uconnect.hdsr.nl
 https://uitwisseling.cbs.nl
 https://upload.cbs.nl
+https://uploadmodule.rdi.nl
 https://upnl.mijn.rvo.nl
 https://uren.acc.irealisatie.nl
 https://uren.irealisatie.nl
@@ -3422,6 +3438,7 @@ https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
 https://www.rcihh.nl
 https://www.rda.nl
+https://www.rdi.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
