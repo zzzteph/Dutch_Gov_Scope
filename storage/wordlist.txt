@@ -4,14 +4,14 @@ opendata
 feeds
 a-www
 english
+a-opendata
 feeds.english
 opendata.english
-a-opendata
 a-feeds
 test
 acc
-autodiscover
 mail
+autodiscover
 magazines
 mijn
 a-english
@@ -51,6 +51,7 @@ ftp
 geoservices
 onderzoek
 _dmarc
+a-magazines
 www2
 loket
 smtp
@@ -63,7 +64,6 @@ cdn
 portal
 digikoppeling
 kennis
-a-magazines
 apps
 zaaksysteem
 forms
@@ -3531,6 +3531,9 @@ mailfilter01
 onsgeldontcijferd-test
 onsgeldontcijferd
 sslvpn
+mdm.zwb
+sentry1.zwb
+zwb
 passwordmanager
 plek
 ra

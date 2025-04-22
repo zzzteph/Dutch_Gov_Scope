@@ -121,12 +121,14 @@ a-feeds.politiekeambtsdragers.nl
 a-feeds.raadopenbaarbestuur.nl
 a-feeds.rda.nl
 a-feeds.rekenkamer.nl
+a-feeds.riec.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-logging.platformrijksoverheid.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
 a-magazines.government.nl
+a-magazines.riec.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -180,6 +182,7 @@ a-opendata.politiekeambtsdragers.nl
 a-opendata.raadopenbaarbestuur.nl
 a-opendata.rda.nl
 a-opendata.rekenkamer.nl
+a-opendata.riec.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-ps1.platformrijksoverheid.nl
 a-ps2.platformrijksoverheid.nl
@@ -234,6 +237,7 @@ a-www.politiekeambtsdragers.nl
 a-www.raadopenbaarbestuur.nl
 a-www.rda.nl
 a-www.rekenkamer.nl
+a-www.riec.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -2081,6 +2085,7 @@ feeds.rdi.nl
 feeds.regelhulp.nl
 feeds.regiosaandegrens.nl
 feeds.rekenkamer.nl
+feeds.riec.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2870,6 +2875,7 @@ magazines.onderwijsinspectie.nl
 magazines.overheidvannu.nl
 magazines.p-direkt.nl
 magazines.rdi.nl
+magazines.riec.nl
 magazinesintern.p-direkt.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
@@ -2905,6 +2911,7 @@ mail.onderwijsraad.nl
 mail.oostvaarderskliniek.nl
 mail.open-overheid.nl
 mail.opwegnaarseb.nl
+mail.riec.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail01.dsta.nl
@@ -2980,6 +2987,7 @@ mdm.ctgb.nl
 mdm.flevoland.nl
 mdm.justid.nl
 mdm.om.nl
+mdm.zwb.riec.nl
 mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
@@ -3735,6 +3743,7 @@ opendata.rdi.nl
 opendata.regelhulp.nl
 opendata.regiosaandegrens.nl
 opendata.rekenkamer.nl
+opendata.riec.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -4180,6 +4189,7 @@ review.developer.overheid.nl
 revproxy.cbs.nl
 rgs.cbs.nl
 rht.belastingdienst.nl
+riec.nl
 rijkskantoorproxy.belastingdienst.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
@@ -4296,6 +4306,7 @@ seg.cbs.nl
 selector1._domainkey.nlarbeidsinspectie.nl
 selector2._domainkey.nlarbeidsinspectie.nl
 sentry.ndw.nu
+sentry1.zwb.riec.nl
 sepm.belastingdienst.nl
 service.acc.omgevingswet.overheid.nl
 service.bta.omgevingswet.overheid.nl
@@ -5677,6 +5688,7 @@ www.regiosaandegrens.nl
 www.regulatoryscience.nl
 www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
+www.riec.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
@@ -5761,3 +5773,4 @@ zta-ota.belastingdienst.nl
 zta.belastingdienst.nl
 zuid-holland.nl
 zvs.woo.irealisatie.nl
+zwb.riec.nl
