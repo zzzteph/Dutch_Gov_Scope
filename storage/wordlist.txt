@@ -83,6 +83,7 @@ geoserver
 id
 ondertekenen
 publicaties
+docs
 sts
 academy
 cdn
@@ -155,7 +156,6 @@ samenwerken
 werkenvoor
 wifi
 www-test
-docs
 helpdesk
 web.acc
 broker
