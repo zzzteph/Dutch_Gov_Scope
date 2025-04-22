@@ -21,9 +21,9 @@ a-feeds.a-english
 a-opendata.a-english
 cms
 intranet
+webmail
 vpn
 www-acc
-webmail
 connect
 prod
 portaal
@@ -55,6 +55,7 @@ zoeken
 atlas
 hybrid
 kaarten
+cdn
 onderzoek
 portal
 _dmarc
@@ -86,7 +87,6 @@ publicaties
 docs
 sts
 academy
-cdn
 chat
 micollab
 dwo
@@ -200,6 +200,7 @@ werkenbij
 acc.mijn
 www.mijn
 www.acc
+cpanel
 nieuwsbrief
 piwik
 denkmee
@@ -1892,7 +1893,6 @@ www2.acc1
 www2.acc1.webapplicaties
 www3
 aangiftebereidheid
-cpanel
 cpcalendars
 cpcontacts
 gala2024
@@ -2879,6 +2879,7 @@ werkplaats
 pop
 pvs
 wooincijfers
+e-learning
 passwordmanager
 plek
 ra
