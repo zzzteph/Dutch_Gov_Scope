@@ -2051,6 +2051,7 @@ feeds.raadrvs.nl
 feeds.raadvoorcultuur.nl
 feeds.rabarijk.nl
 feeds.rcgog.nl
+feeds.rcihh.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -3682,6 +3683,7 @@ opendata.raadrvs.nl
 opendata.raadvoorcultuur.nl
 opendata.rabarijk.nl
 opendata.rcgog.nl
+opendata.rcihh.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -4053,6 +4055,7 @@ ras.nvwa.nl
 ras2.domeinenrz.nl
 rat.belastingdienst.nl
 rcgog.nl
+rcihh.nl
 rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
@@ -5596,6 +5599,7 @@ www.raadvoorcultuur.nl
 www.rabarijk.nl
 www.ras-acc.nvwa.nl
 www.rcgog.nl
+www.rcihh.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl

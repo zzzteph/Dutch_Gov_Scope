@@ -1349,6 +1349,7 @@ https://feeds.raadrvs.nl
 https://feeds.raadvoorcultuur.nl
 https://feeds.rabarijk.nl
 https://feeds.rcgog.nl
+https://feeds.rcihh.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -2318,6 +2319,7 @@ https://opendata.raadrvs.nl
 https://opendata.raadvoorcultuur.nl
 https://opendata.rabarijk.nl
 https://opendata.rcgog.nl
+https://opendata.rcihh.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
 https://opendata1.platformrijksoverheid.nl
@@ -2520,6 +2522,7 @@ https://rapporteursnet.nifp.nl
 https://ras-acc.nvwa.nl
 https://ras.nvwa.nl
 https://rcgog.nl
+https://rcihh.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
 https://rdsa.knmi.nl
@@ -3411,6 +3414,7 @@ https://www.raadvoorcultuur.nl
 https://www.rabarijk.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
+https://www.rcihh.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
