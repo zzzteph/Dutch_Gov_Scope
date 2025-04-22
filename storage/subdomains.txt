@@ -1649,6 +1649,7 @@ feeds.netwerkplatteland.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.nifp.nl
 feeds.nimh.nl
+feeds.nix18.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2692,6 +2693,7 @@ nieuwsenkennisportaalbzk.nl
 nifp.nl
 nimh-beeldbank.defensie.nl
 nimh.nl
+nix18.nl
 nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
 nls.ndw.nu
@@ -3019,6 +3021,7 @@ opendata.netwerkplatteland.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nifp.nl
 opendata.nimh.nl
+opendata.nix18.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4516,6 +4519,7 @@ www.nieuwsbrievenminocw.nl
 www.nieuwsenkennisportaalbzk.nl
 www.nifp.nl
 www.nimh.nl
+www.nix18.nl
 www.nt.ndw.nu
 www.omgevingsplan.flevoland.nl
 www.opendata.brabant.nl
