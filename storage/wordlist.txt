@@ -10,8 +10,8 @@ a-opendata
 a-feeds
 test
 acc
-mail
 autodiscover
+mail
 magazines
 mijn
 a-english
@@ -20,9 +20,9 @@ api
 a-feeds.a-english
 a-opendata.a-english
 cms
+webmail
 intranet
 vpn
-webmail
 www-acc
 portaal
 connect
@@ -38,6 +38,7 @@ sip
 webservices
 beeldbank
 formulieren
+werkplek
 redactie
 geo
 www-ow
@@ -45,7 +46,6 @@ www-ts
 dialin
 login
 meet
-werkplek
 mdm
 ftp
 geoservices
@@ -76,6 +76,7 @@ pushmail
 academie
 fs
 services
+werken
 acceptatie.beheer
 acceptatie.mijn
 acceptatie.webservices
@@ -150,7 +151,6 @@ sharepoint
 start
 vc
 webdiensten
-werken
 acceptatie.behandel
 acceptatie.zoeken
 zoek
@@ -221,6 +221,7 @@ dns1
 dns2
 jira
 mail01
+ns1
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
@@ -1675,7 +1676,6 @@ mytoken
 netftp
 nl-dictu-nhr-sign
 nl-dictu-rijkspas
-ns1
 ns1.gslb
 ns2.gslb
 panter001
@@ -3524,6 +3524,13 @@ slimmestad
 uploadmodule
 bastion365
 kart
+coronarekening
+fileshare
+hybridmail
+mailfilter01
+onsgeldontcijferd-test
+onsgeldontcijferd
+sslvpn
 passwordmanager
 plek
 ra
