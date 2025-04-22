@@ -56,6 +56,7 @@ http://autodiscover.knmi.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
 http://autodiscover.ofgv.nl
+http://autodiscover.schoolleidersregisterpo.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
@@ -102,6 +103,7 @@ http://extern.knmi.nl
 http://ezines.rvo.nl
 http://formulier-beheer.dus-i.nl
 http://ftp.ofgv.nl
+http://ftp.schoolleidersregisterpo.nl
 http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
@@ -640,6 +642,7 @@ https://beta.belastingdienst.nl
 https://beta.cbs.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
+https://betalen.schoolleidersregisterpo.nl
 https://betaopendata.cbs.nl
 https://beterwordenvancorona.zuid-holland.nl
 https://bevolkingsprognose.brabant.nl
@@ -1494,6 +1497,7 @@ https://feeds.ruimtelijkeordening.nl
 https://feeds.ruimtevoorderivier.nl
 https://feeds.samenwerkingrijknoord.nl
 https://feeds.sbv-z.nl
+https://feeds.schoolleidersregisterpo.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -2607,6 +2611,7 @@ https://opendata.ruimtevoorderivier.nl
 https://opendata.rvb.rijkscloud.nl
 https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
+https://opendata.schoolleidersregisterpo.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
 https://opendata1.platformrijksoverheid.nl
@@ -2985,6 +2990,7 @@ https://sbv-z.nl
 https://scansys.huurcommissie.nl
 https://scatterometer.knmi.nl
 https://scheiden.belastingdienst.nl
+https://schoolleidersregisterpo.nl
 https://sdg.government.nl
 https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
@@ -3922,6 +3928,7 @@ https://www.rvo.nl
 https://www.rwsinnoveert.nl
 https://www.samenwerkingrijknoord.nl
 https://www.sbv-z.nl
+https://www.schoolleidersregisterpo.nl
 https://www.sharingknowledge.rvo.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tst2905.omgevingswet.overheid.nl

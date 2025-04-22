@@ -15,8 +15,8 @@ autodiscover
 magazines
 mijn
 a-english
-webmail
 acceptatie
+webmail
 intranet
 a-feeds.a-english
 a-opendata.a-english
@@ -44,6 +44,7 @@ webservices
 beeldbank
 formulieren
 werkplek
+ftp
 redactie
 a-magazines
 www-ow
@@ -51,16 +52,15 @@ www-ts
 loket
 login
 smtp
+zoeken
 atlas
 mdm
-ftp
 onderzoek
 portal
 www2
 lyncdiscover
 geodata
 fs
-zoeken
 hybrid
 kaarten
 publicaties
@@ -166,6 +166,7 @@ b2btest-osb
 b2btest-rijks
 b2btest
 beta
+betalen
 download
 fibd1
 fibd2.acc
@@ -411,7 +412,6 @@ betaalportaal-cnf
 betaalportaal
 betalen-cnf
 betalen.acc
-betalen
 betalen.str10.acc
 betalen.str11.acc
 betalen.str12.acc
@@ -4582,6 +4582,7 @@ raadplegen-acc
 raadplegen-preprod
 uzipas.raadplegen
 webservice-preprod
+admin
 passwordmanager
 plek
 ra
