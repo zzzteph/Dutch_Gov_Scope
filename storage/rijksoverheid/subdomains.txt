@@ -111,6 +111,7 @@ a-feeds.loonaangifteketen.nl
 a-feeds.ncadierproevenbeleid.nl
 a-feeds.nza.nl
 a-feeds.ocwincijfers.nl
+a-feeds.politiekeambtsdragers.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-logging.platformrijksoverheid.nl
 a-magazines.defensie.nl
@@ -164,6 +165,7 @@ a-opendata.ncadierproevenbeleid.nl
 a-opendata.nza.nl
 a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
+a-opendata.politiekeambtsdragers.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-ps1.platformrijksoverheid.nl
 a-ps2.platformrijksoverheid.nl
@@ -214,6 +216,7 @@ a-www.netherlandsworldwide.nl
 a-www.nza.nl
 a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
+a-www.politiekeambtsdragers.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -559,6 +562,7 @@ api.appstore.p-direkt.nl
 api.belastingdienst.nl
 api.bigregister.nl
 api.brabant.nl
+api.burgemeesterworden.politiekeambtsdragers.nl
 api.caelus-tool.nl
 api.contenttoolsrijksoverheid.nl
 api.dashboardgroningen.nl
@@ -989,6 +993,7 @@ bureauncdr.nl
 bureausaneringverkeerslawaai.nl
 bureauwbtv.nl
 bureauwsnp.nl
+burgemeesterworden.politiekeambtsdragers.nl
 burgerloket.acceptatie.hhdelfland.nl
 burgerloket.hhdelfland.nl
 burgerloket.test.hhdelfland.nl
@@ -1455,6 +1460,7 @@ digitaalvergaderen.ont.belastingdienst.nl
 digitaleoverheid.nl
 dihoo.eu
 dihoo.nl
+diversiteitsplein.politiekeambtsdragers.nl
 dji.nl
 dkb.dictu.nl
 dmo.omgevingswet.overheid.nl
@@ -2026,6 +2032,7 @@ feeds.p-direkt.nl
 feeds.pagw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
+feeds.politiekeambtsdragers.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -3637,6 +3644,7 @@ opendata.pagw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.platformrijksoverheid.nl
+opendata.politiekeambtsdragers.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -3826,6 +3834,7 @@ pmz.logius.nl
 pns.nl
 poc.bestandenpostbus.nl
 poc1.bestandenpostbus.nl
+politiekeambtsdragers.nl
 politieopendata.cbs.nl
 pom.cultureelerfgoed.nl
 pop.oostvaarderskliniek.nl
@@ -5526,6 +5535,7 @@ www.pagw.nl
 www.perf.omgevingswet.overheid.nl
 www.platformrijksoverheid.nl
 www.pns.nl
+www.politiekeambtsdragers.nl
 www.pre.omgevingswet.overheid.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
 www.proxy-epbd-acc.ep-online.nl

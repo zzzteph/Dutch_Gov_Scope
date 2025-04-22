@@ -417,6 +417,7 @@ https://api-sec.p-direkt.nl
 https://api.acc.ncsc.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
+https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.caelus-tool.nl
 https://api.contenttoolsrijksoverheid.nl
 https://api.dashboardgroningen.nl
@@ -631,6 +632,7 @@ https://bureauncdr.nl
 https://bureausaneringverkeerslawaai.nl
 https://bureauwbtv.nl
 https://bureauwsnp.nl
+https://burgemeesterworden.politiekeambtsdragers.nl
 https://burgerloket.hhdelfland.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
@@ -885,6 +887,7 @@ https://digitaalstelselmobiliteitsdata.nl
 https://digitaleoverheid.nl
 https://dihoo.eu
 https://dihoo.nl
+https://diversiteitsplein.politiekeambtsdragers.nl
 https://dji.nl
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
@@ -1332,6 +1335,7 @@ https://feeds.p-direkt.nl
 https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
+https://feeds.politiekeambtsdragers.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -2288,6 +2292,7 @@ https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.platformrijksoverheid.nl
+https://opendata.politiekeambtsdragers.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
 https://opendata1.platformrijksoverheid.nl
@@ -2380,6 +2385,7 @@ https://pmz-pre.logius.nl
 https://pmz.logius.nl
 https://pns.nl
 https://poc1.bestandenpostbus.nl
+https://politiekeambtsdragers.nl
 https://politieopendata.cbs.nl
 https://pom.cultureelerfgoed.nl
 https://portaal-a.ikz.nl
@@ -3359,6 +3365,7 @@ https://www.pacemweb.nl
 https://www.pagw.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pns.nl
+https://www.politiekeambtsdragers.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
