@@ -2321,6 +2321,7 @@ feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
 feeds.rijksvastgoedbedrijf.nl
 feeds.royal-house.nl
+feeds.royalhonoursanddecorations.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4307,6 +4308,7 @@ opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
 opendata.rijksvastgoedbedrijf.nl
 opendata.royal-house.nl
+opendata.royalhonoursanddecorations.nl
 opendata.rvb.rijkscloud.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
@@ -4905,6 +4907,7 @@ robxp.rapportage.rijkscloud.nl
 roomreservation.belastingdienst.nl
 routeringsvoorziening-pp1.logius.nl
 royal-house.nl
+royalhonoursanddecorations.nl
 rpx-qa.nza.nl
 rpx.nza.nl
 rstudio-almalinux.dgdoobi.rijkscloud.nl
@@ -6642,6 +6645,7 @@ www.rijkswaterstaat.nl
 www.risicokaart.flevoland.nl
 www.rivmmagazines.nl
 www.royal-house.nl
+www.royalhonoursanddecorations.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.spamtitan.cbi.eu
