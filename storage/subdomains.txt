@@ -144,6 +144,7 @@ a-magazines.government.nl
 a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
+a-mediabank.rijksoverheidsvideo.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -209,6 +210,7 @@ a-ps1.platformrijksoverheid.nl
 a-ps2.platformrijksoverheid.nl
 a-ps3.platformrijksoverheid.nl
 a-ps4.platformrijksoverheid.nl
+a-server.rijksoverheidsvideo.nl
 a-servicedesk.rijksoverheid.nl
 a-site1.defensie.nl
 a-site1.platformrijksoverheid.nl
@@ -3379,6 +3381,7 @@ mdmvpn.cbg-meb.nl
 med-srv20.rijksoverheid.nl
 media.odmh.nl
 media.om.nl
+mediabank.rijksoverheidsvideo.nl
 mediaportal.cbs.nl
 meepraten.flevoland.nl
 meet.aaenmaas.nl
@@ -4769,6 +4772,7 @@ rijksinspecties.nl
 rijkskantoorproxy.belastingdienst.nl
 rijksorganisatieodi.nl
 rijksoverheid.nl
+rijksoverheidsvideo.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
 rijkspascp-acc.extranet.dictu.nl
@@ -4952,6 +4956,7 @@ sentry.iaas.rijkscloud.nl
 sentry.ndw.nu
 sentry1.zwb.riec.nl
 sepm.belastingdienst.nl
+server.rijksoverheidsvideo.nl
 service.acc.omgevingswet.overheid.nl
 service.bta.omgevingswet.overheid.nl
 service.dmo.omgevingswet.overheid.nl
