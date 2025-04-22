@@ -1154,6 +1154,7 @@ https://feeds.nlarbeidsinspectie.nl
 https://feeds.nllabourauthority.nl
 https://feeds.nponderwijs.nl
 https://feeds.nrgd.nl
+https://feeds.nutriscorevoorbedrijven.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.zorginstituutnederland.nl
@@ -1703,6 +1704,7 @@ https://nrgd.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
 https://ntm.staging.ndw.nu
+https://nutriscorevoorbedrijven.nl
 https://oa.aaenmaas.nl
 https://oap.ind.nl
 https://odata.cbs.nl
@@ -1956,6 +1958,7 @@ https://opendata.nlarbeidsinspectie.nl
 https://opendata.nllabourauthority.nl
 https://opendata.nponderwijs.nl
 https://opendata.nrgd.nl
+https://opendata.nutriscorevoorbedrijven.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.zorginstituutnederland.nl
@@ -2754,6 +2757,7 @@ https://www.nllabourauthority.nl
 https://www.nponderwijs.nl
 https://www.nrgd.nl
 https://www.nt.ndw.nu
+https://www.nutriscorevoorbedrijven.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openstad.zuid-holland.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
