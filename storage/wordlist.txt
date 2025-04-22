@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-a-www
 english
+a-www
 feeds.english
 opendata.english
 a-opendata
@@ -212,6 +212,9 @@ site2
 site3
 site4
 t-www
+deutsch
+feeds.deutsch
+opendata.deutsch
 auth
 dns1
 dns2
@@ -1540,9 +1543,6 @@ dp2022
 dp2023
 dp2024
 dp2025
-deutsch
-feeds.deutsch
-opendata.deutsch
 acceptatie.abonnee
 ACC-NL-DICTU-NHR-Sign
 ACC.RD
@@ -3499,6 +3499,14 @@ hielprikapp
 api.burgemeesterworden
 burgemeesterworden
 diversiteitsplein
+meldloket-acc
+meldloket-pa
+meldloket-test
+meldloket
+myidp-acc
+myidp
+o1.ptr2462.mail
+url6099.mail
 passwordmanager
 plek
 ra
