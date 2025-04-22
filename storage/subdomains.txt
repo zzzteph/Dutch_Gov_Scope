@@ -1946,6 +1946,7 @@ feeds.overdedouane.nl
 feeds.overheidvannu.nl
 feeds.overtoeslagen.nl
 feeds.p-direkt.nl
+feeds.pagw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -3550,6 +3551,7 @@ opendata.overdedouane.nl
 opendata.overheidvannu.nl
 opendata.overtoeslagen.nl
 opendata.p-direkt.nl
+opendata.pagw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -3638,6 +3640,7 @@ p-crl.justid.nl
 p-direkt.nl
 p285st201.utsjaca01.belastingdienst.nl
 pacemweb.nl
+pagw.nl
 pan.emissieautoriteit.nl
 panter001.dictu.nl
 panter001a-relay.dictu.nl
@@ -4327,6 +4330,7 @@ storage.test.mgo.irealisatie.nl
 storing.cbs.nl
 strafdossiermh17.acc.om.nl
 strafdossiermh17.om.nl
+streefbeelden.pagw.nl
 sts.cbg-meb.nl
 sts.cbs.nl
 sts.hhdelfland.nl
@@ -5413,6 +5417,7 @@ www.overheidvannu.nl
 www.overtoeslagen.nl
 www.p-direkt.nl
 www.pacemweb.nl
+www.pagw.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
