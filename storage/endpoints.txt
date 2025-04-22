@@ -980,6 +980,7 @@ https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
 https://elearning-msz.nza.nl
 https://elearning.ordz.nl
+https://elearning.platformrijksoverheid.nl
 https://elkeregiotelt.nl
 https://eloket.aaenmaas.nl
 https://eloket.flevoland.nl
@@ -2286,8 +2287,13 @@ https://opendata.p-direkt.nl
 https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
+https://opendata.platformrijksoverheid.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
+https://opendata1.platformrijksoverheid.nl
+https://opendata2.platformrijksoverheid.nl
+https://opendata3.platformrijksoverheid.nl
+https://opendata4.platformrijksoverheid.nl
 https://opendisdata.nza.nl
 https://openkat.nl
 https://openstad.zuid-holland.nl
@@ -2446,6 +2452,10 @@ https://proto.medicijnkosten.nl
 https://proto.zorginstituutnederland.nl
 https://proto.zorginzicht.nl
 https://prototype.cibg.nl
+https://ps1.platformrijksoverheid.nl
+https://ps2.platformrijksoverheid.nl
+https://ps3.platformrijksoverheid.nl
+https://ps4.platformrijksoverheid.nl
 https://psarchief.brabant.nl
 https://public-preprod.ep-online.nl
 https://public.ep-online.nl
@@ -2682,6 +2692,12 @@ https://subsidie.cultureelerfgoed.nl
 https://subsidieportaal.zuid-holland.nl
 https://subsidieregister.zuid-holland.nl
 https://sumatra.huurcommissie.nl
+https://survey-cache.platformrijksoverheid.nl
+https://survey-collect.platformrijksoverheid.nl
+https://survey-debug.platformrijksoverheid.nl
+https://survey-deploy.platformrijksoverheid.nl
+https://survey-metrics.platformrijksoverheid.nl
+https://survey.platformrijksoverheid.nl
 https://surveys.cbs.nl
 https://synergy.huurcommissie.nl
 https://syswov.datawonen.nl
