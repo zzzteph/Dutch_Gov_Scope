@@ -2489,6 +2489,7 @@ feeds.ssc-ict.nl
 feeds.sso3w.nl
 feeds.staatscommissie2050.nl
 feeds.staatscommissierechtsstaat.nl
+feeds.staatscommissietegendiscriminatieenracisme.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4569,6 +4570,7 @@ opendata.ssc-ict.nl
 opendata.sso3w.nl
 opendata.staatscommissie2050.nl
 opendata.staatscommissierechtsstaat.nl
+opendata.staatscommissietegendiscriminatieenracisme.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -5685,6 +5687,7 @@ ssp.estota.rijkscloud.nl
 ssp.ix.rijkscloud.nl
 staatscommissie2050.nl
 staatscommissierechtsstaat.nl
+staatscommissietegendiscriminatieenracisme.nl
 staatvan.zuid-holland.nl
 stadvanced.belastingdienst.nl
 stagefonds.formulierdus-i.nl
@@ -7140,6 +7143,7 @@ www.ssc-ictspecials.nl
 www.sso3w.nl
 www.staatscommissie2050.nl
 www.staatscommissierechtsstaat.nl
+www.staatscommissietegendiscriminatieenracisme.nl
 www.staging.rijkswaterstaat.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
