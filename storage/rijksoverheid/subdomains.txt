@@ -1720,6 +1720,7 @@ feeds.onderwijsregio.nl
 feeds.onslevendlandschap.nl
 feeds.onswater.nl
 feeds.oostvaarderskliniek.nl
+feeds.open-overheid.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.zorginstituutnederland.nl
@@ -2459,6 +2460,7 @@ mail.odmh.nl
 mail.ofgv.nl
 mail.onderwijsraad.nl
 mail.oostvaarderskliniek.nl
+mail.open-overheid.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail01.dsta.nl
@@ -2965,6 +2967,7 @@ oordelen.mensenrechten.nl
 oostvaarderskliniek.nl
 oosweb.cbs.nl
 open-data.ndw.nu
+open-overheid.nl
 open-wave.odijmond.nl
 open.brabant.nl
 openbare-inspectieresultaten.nvwa.nl
@@ -3214,6 +3217,7 @@ opendata.onderwijsregio.nl
 opendata.onslevendlandschap.nl
 opendata.onswater.nl
 opendata.oostvaarderskliniek.nl
+opendata.open-overheid.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.zorginstituutnederland.nl
@@ -4315,6 +4319,7 @@ wio.ilent.nl
 wist-fpi.hhdelfland.nl
 wms-viewer.dataplatform.knmi.nl
 wms.aanpakringzuid.nl
+wooincijfers.open-overheid.nl
 woordenboek.klimaatadaptatienederland.nl
 workspace.hhdelfland.nl
 wow.knmi.nl
@@ -4805,6 +4810,7 @@ www.onehealth.nl
 www.onslevendlandschap.nl
 www.onswater.nl
 www.oostvaarderskliniek.nl
+www.open-overheid.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.openstad.zuid-holland.nl
