@@ -48,6 +48,7 @@ geodata
 zoeken
 mdm
 portal
+redactie
 _dmarc
 kennis
 a-magazines
@@ -80,7 +81,6 @@ chat
 ftp
 micollab
 onderzoek
-redactie
 digikoppeling
 dwo
 mam
@@ -2825,6 +2825,9 @@ zorgprestatiemodel
 zorgproducten-acc
 zorgproducten-test
 zorgproducten
+acc-open-wave
+gisviewer
+open-wave
 passwordmanager
 plek
 ra

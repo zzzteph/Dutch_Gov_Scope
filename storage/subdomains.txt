@@ -222,6 +222,7 @@ acc-nl-dictu-dkb-sign.dictu.nl
 acc-nl-dictu-nhr-sign.dictu.nl
 acc-nl-dictu-rijkspas.dictu.nl
 acc-nl-nvwa-dkb-sign.dictu.nl
+acc-open-wave.odijmond.nl
 acc-raadplegen.donorregister.nl
 acc-rd.dictu.nl
 acc-referentiegegevens.justid.nl
@@ -588,6 +589,7 @@ autodiscover.inspectie-oe.nl
 autodiscover.justid.nl
 autodiscover.knmi.nl
 autodiscover.nza.nl
+autodiscover.odijmond.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -1881,6 +1883,7 @@ gezondheidsraad.nl
 ggo-vergunningen.nl
 gipdatabank.nl
 gisextern.dictu.nl
+gisviewer.odijmond.nl
 git-az1.lpc.logius.nl
 git-az2.lpc.logius.nl
 git.irealisatie.nl
@@ -2107,6 +2110,7 @@ intranet.justid.nl
 intranet.justis.nl
 intranet.justitieleictorganisatie.nl
 intranet.nationaalcoordinatorgroningen.nl
+intranet.odijmond.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
@@ -2843,6 +2847,7 @@ odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 odc.functiegebouwrijksoverheid.nl
 odctest.arbeidsinspectie.nl
+odijmond.nl
 oefenvragenlijst.cbs.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
@@ -2881,6 +2886,7 @@ ontwikkel.cbs.nl
 oordelen.mensenrechten.nl
 oosweb.cbs.nl
 open-data.ndw.nu
+open-wave.odijmond.nl
 open.brabant.nl
 openbare-inspectieresultaten.nvwa.nl
 opendap-dm1.knmi.nl
@@ -3411,6 +3417,7 @@ redactie-test.cbs.nl
 redactie-tl.iplo.nl
 redactie.cbs.nl
 redactie.hdsr.nl
+redactie.odijmond.nl
 redactie.zuid-holland.nl
 redmine.knmi.nl
 referendum-backoffice.limburg.nl
@@ -4657,6 +4664,7 @@ www.nvwa.nl
 www.nza.nl
 www.ocw-verhalen.nl
 www.ocwincijfers.nl
+www.odijmond.nl
 www.omgevingsplan.flevoland.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
