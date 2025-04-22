@@ -10,15 +10,15 @@ opendata.english
 a-feeds
 test
 mail
-acc
 autodiscover
+acc
 magazines
 mijn
 a-english
 acceptatie
-api
 a-feeds.a-english
 a-opendata.a-english
+api
 webmail
 cms
 intranet
@@ -50,12 +50,14 @@ mdm
 ftp
 geoservices
 onderzoek
+portal
 _dmarc
 a-magazines
 www2
 loket
 smtp
 geodata
+fs
 zoeken
 atlas
 hybrid
@@ -63,7 +65,6 @@ kaarten
 docs
 cdn
 chat
-portal
 digikoppeling
 kennis
 apps
@@ -75,8 +76,10 @@ vpn2
 meldingen
 ontwikkel
 pushmail
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 academie
-fs
 services
 werken
 acceptatie.beheer
@@ -89,6 +92,7 @@ geoserver
 id
 ondertekenen
 publicaties
+sso
 sts
 elearning
 academy
@@ -121,9 +125,6 @@ test.resultaten
 prd
 rdgateway
 smtp1
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 adobe-analytics-dc
 adobe-tags
 afspraken
@@ -171,7 +172,6 @@ helpdesk
 web.acc
 broker
 doc
-sso
 static
 conf
 enterpriseenrollment
@@ -237,6 +237,7 @@ nieuwsbrief
 piwik
 denkmee
 kaart
+legacy
 preprodformulieren
 remote
 extern
@@ -244,7 +245,9 @@ csoacct
 csotest
 sandbox
 www-a
+AutoDiscover
 inloggen
+mobile
 telewerken
 zaaksysteem-accept
 sdm
@@ -265,6 +268,7 @@ aanvragen
 media
 import-acc.organisaties
 import.organisaties
+fileshare
 helloid
 oa
 wachtwoordwijzigen
@@ -1949,7 +1953,6 @@ intranet-acc
 intranet-bestanden
 jaarverslag2017
 jaarverslag2018
-legacy
 luchtfoto
 mailmdm
 mbg-proxy
@@ -1999,7 +2002,6 @@ bibliotheek
 coronadashboard
 sdg
 azure-a-poc
-AutoDiscover
 ad
 alerting
 begrippen
@@ -2037,7 +2039,6 @@ grondwaterportaal-a
 grondwaterportaal
 inloggen-preprod
 loket-preprod
-mobile
 mysitestest
 rand
 remotetest
@@ -3525,7 +3526,6 @@ uploadmodule
 bastion365
 kart
 coronarekening
-fileshare
 hybridmail
 mailfilter01
 onsgeldontcijferd-test
@@ -4155,6 +4155,13 @@ webmail.rsj
 whatsip.test.ix
 www.rapportage
 zabbix6.mintst2
+a-feeds.a-papiamentu
+a-opendata.a-papiamentu
+a-papiamentu
+bon
+passwordreset
+push
+vpnbon
 passwordmanager
 plek
 ra
