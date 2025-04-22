@@ -21,10 +21,10 @@ a-feeds.a-english
 a-opendata.a-english
 cms
 intranet
-www-acc
 vpn
-connect
+www-acc
 webmail
+connect
 prod
 portaal
 proto
@@ -34,6 +34,7 @@ www-p
 www-tst
 beeldbank
 formulieren
+redactie
 data
 geo
 www-ow
@@ -44,12 +45,13 @@ _autodiscover._tcp
 webservices
 werkplek
 geoservices
-redactie
 geodata
 zoeken
 atlas
+hybrid
 kaarten
 mdm
+ftp
 onderzoek
 portal
 _dmarc
@@ -64,6 +66,7 @@ meet
 vpn2
 meldingen
 ontwikkel
+smtp
 academie
 fs
 services
@@ -74,7 +77,6 @@ beheer
 connect-with
 geoportaal
 geoserver
-hybrid
 id
 ondertekenen
 publicaties
@@ -82,7 +84,6 @@ sts
 academy
 cdn
 chat
-ftp
 micollab
 dwo
 mam
@@ -96,6 +97,7 @@ kennisbank
 staging
 git
 preview
+mx1
 av
 eloket
 lync
@@ -106,7 +108,6 @@ chw
 test.resultaten
 prd
 pushmail
-smtp
 smtp1
 feeds.papiamentu
 opendata.papiamentu
@@ -159,6 +160,7 @@ broker
 doc
 sso
 static
+enterpriseenrollment
 crm
 dashboards
 designsystem
@@ -217,7 +219,6 @@ repository
 privacy
 geoweb
 leren
-mx1
 acceptatie.portaal
 track
 aanvragen
@@ -1137,7 +1138,6 @@ b2bi
 conf
 db
 dcp-time-slot
-enterpriseenrollment
 mdm-t
 mdmeas
 mdmvpn-t
@@ -2843,6 +2843,14 @@ htmleditor
 kec
 repository-acc
 repository-eto
+izis
+kenniscentrum
+ofgvtransfer
+squit2go
+squit2gotest
+transfer
+vr
+ws-izis
 passwordmanager
 plek
 ra

@@ -49,6 +49,7 @@ http://autodiscover.hhdelfland.nl
 http://autodiscover.knmi.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
+http://autodiscover.ofgv.nl
 http://bacterial-meningitis.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
@@ -79,6 +80,7 @@ http://eagle.dji.nl
 http://embraceintranet.flevoland.nl
 http://extern.knmi.nl
 http://formulier-beheer.dus-i.nl
+http://ftp.ofgv.nl
 http://gatus.lpc.logius.nl
 http://geo2.flevoland.nl
 http://geoservices2.cbs.nl
@@ -904,6 +906,7 @@ https://english.nrgd.nl
 https://english.nvwa.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
+https://enterpriseenrollment.ofgv.nl
 https://enterpriseregistration.domeinenrz.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
@@ -1466,6 +1469,7 @@ https://kennis.zuid-holland.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisbankterrorisme.nctv.nl
+https://kenniscentrum.ofgv.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
@@ -1780,6 +1784,7 @@ https://odmh.nl
 https://oecdguidelines.nl
 https://oefenvragenlijst.cbs.nl
 https://oesorichtlijnen.nl
+https://ofgv.nl
 https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oinregister.logius.nl
 https://old-cms.contenttoolsrijksoverheid.nl
@@ -2172,6 +2177,7 @@ https://redactie.cbs.nl
 https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
+https://redactie.ofgv.nl
 https://redactie.zuid-holland.nl
 https://referendum-backoffice.limburg.nl
 https://referendum.limburg.nl
@@ -2459,6 +2465,7 @@ https://webforms.belastingdienst.nl
 https://webmail.brabant.nl
 https://webmail.evenementenbureauvws.nl
 https://webmail.flevoland.nl
+https://webmail.ofgv.nl
 https://webservice.ep-online.nl
 https://webservices.bigregister.nl
 https://webservices.hdsr.nl
@@ -2868,6 +2875,7 @@ https://www.odijmond.nl
 https://www.odmh.nl
 https://www.oecdguidelines.nl
 https://www.oesorichtlijnen.nl
+https://www.ofgv.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openstad.zuid-holland.nl

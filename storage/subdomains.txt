@@ -591,6 +591,7 @@ autodiscover.justid.nl
 autodiscover.knmi.nl
 autodiscover.nza.nl
 autodiscover.odijmond.nl
+autodiscover.ofgv.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -1364,6 +1365,7 @@ enquete-demo.dictu.nl
 enquete-tst.dictu.nl
 enquete.dictu.nl
 enterpriseenrollment.cbg-meb.nl
+enterpriseenrollment.ofgv.nl
 enterpriseregistration.domeinenrz.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
@@ -1784,6 +1786,7 @@ ftp-test01.knmi.nl
 ftp.cbs.nl
 ftp.ctpveldzicht.nl
 ftp.dji.nl
+ftp.ofgv.nl
 ftpblaise.cbs.nl
 ftppro-migtest.knmi.nl
 ftppro.knmi.nl
@@ -2018,6 +2021,7 @@ hwbp.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
 hybrid.nza.nl
+hybrid.ofgv.nl
 hybridexo.cbs.nl
 i-certnl.nvwa.nl
 i-cms.defensie.nl
@@ -2156,6 +2160,7 @@ ivo-acc.nvwa.nl
 ivo.nvwa.nl
 iwelcome-preprod.nvwa.nl
 iwelcome.nvwa.nl
+izis.ofgv.nl
 jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl
@@ -2236,6 +2241,7 @@ kennisbank.hhdelfland.nl
 kennisbank.kiesraad.nl
 kennisbank.logius.nl
 kennisbankterrorisme.nctv.nl
+kenniscentrum.ofgv.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
@@ -2426,6 +2432,7 @@ mail.handelingenbank.info
 mail.huurcommissie.nl
 mail.mensenrechten.nl
 mail.odmh.nl
+mail.ofgv.nl
 mail01.bulk.dictu.nl
 mail01.dictu.nl
 mail01.dsta.nl
@@ -2723,6 +2730,7 @@ mx.ncsc.nl
 mx001.ctivd.nl
 mx1.mensenrechten.nl
 mx1.ncsc.nl
+mx1.ofgv.nl
 mx2.ncsc.nl
 mysite-acc.belastingdienst.nl
 mysite.belastingdienst.nl
@@ -2877,6 +2885,8 @@ officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
 officiele-overheidspublicaties.nl
+ofgv.nl
+ofgvtransfer.ofgv.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
 oinregister.logius.nl
 oladc_85_prod_vs36.poort.belastingdienst.nl
@@ -3449,6 +3459,7 @@ redactie.cbs.nl
 redactie.hdsr.nl
 redactie.odijmond.nl
 redactie.odmh.nl
+redactie.ofgv.nl
 redactie.zuid-holland.nl
 redmine.knmi.nl
 referendum-backoffice.limburg.nl
@@ -3656,6 +3667,7 @@ smtp.awti.nl
 smtp.bapi.belastingdienst.nl
 smtp.bapicft.belastingdienst.nl
 smtp.hhdelfland.nl
+smtp.ofgv.nl
 smtp1.awti.nl
 smtp1.belastingdienst.nl
 smtp11.belastingdienst.nl
@@ -3678,6 +3690,8 @@ spamtitan.cbi.eu
 specials-acpt.brabant.nl
 specials.brabant.nl
 splunksyslog.dmz.belastingdienst.nl
+squit2go.ofgv.nl
+squit2gotest.ofgv.nl
 ssh.cbs.nl
 ssl-vpn.brabant.nl
 ssl.defensie.nl
@@ -3905,6 +3919,7 @@ tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
 track.nederlandwereldwijd.nl
 track.netherlandsworldwide.nl
+transfer.ofgv.nl
 trillingsdata-acc.dictu.nl
 trillingsdata.dictu.nl
 truck-parking.ndw.nu
@@ -4063,6 +4078,7 @@ vpn.flevoland.nl
 vpn.huurcommissie.nl
 vpn.ikz.nl
 vpn.irealisatie.nl
+vpn.ofgv.nl
 vpn1.cbs.nl
 vpn2.aaenmaas.nl
 vpn2.cbs.nl
@@ -4075,6 +4091,7 @@ vpnb.dictu.nl
 vpnodcn.dictu.nl
 vpntcn.dictu.nl
 vps-prod-01.flevoland.nl
+vr.ofgv.nl
 vri-admin.ndw.nu
 vs-tst-auth.dictu.nl
 vs_mijn.str13.tst.belastingdienst.nl
@@ -4163,6 +4180,7 @@ webmail.evenementenbureauvws.nl
 webmail.flevoland.nl
 webmail.huurcommissie.nl
 webmail.knmi.nl
+webmail.ofgv.nl
 webservice-acc.ep-online.nl
 webservice-acc1.ep-online.nl
 webservice-at-acc.diginetwerk.dictu.nl
@@ -4232,6 +4250,7 @@ wow.knmi.nl
 wpx-80-aix-http.acc.douane.nl
 wpx-80-aix-http.douane.nl
 ws-acc.bureauwsnp.nl
+ws-izis.ofgv.nl
 ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
@@ -4704,6 +4723,7 @@ www.odmh.nl
 www.oecdguidelines.nl
 www.oesorichtlijnen.nl
 www.officiele-overheidspublicaties.nl
+www.ofgv.nl
 www.omgevingsplan.flevoland.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
