@@ -352,6 +352,7 @@ plekchecker
 feeds.papiamento
 opendata.papiamento
 papiamento
+vacature
 oa
 wachtwoordwijzigen
 web
@@ -4938,7 +4939,6 @@ test-eef
 testdigikoppeling
 wikixl-saml.acceptatie
 wauke
-vacature
 passwordmanager
 plek
 ra
