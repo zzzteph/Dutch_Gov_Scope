@@ -10,8 +10,8 @@ feeds.english
 opendata.english
 test
 autodiscover
-acc
 mail
+acc
 magazines
 mijn
 a-english
@@ -25,6 +25,7 @@ api
 vpn
 prod
 _autodiscover._tcp
+redactie
 www-acc
 _dmarc
 data
@@ -32,7 +33,6 @@ meet
 portaal
 formulieren
 werkplek
-redactie
 connect
 login
 sip
@@ -4910,6 +4910,7 @@ www.basisregistratie
 www.mta-sts
 www.topdesk
 toolbox
+elo
 passwordmanager
 plek
 ra
