@@ -2645,6 +2645,7 @@ feeds.uitkomstgerichtezorg.nl
 feeds.uitvoeringvanbeleidszw.nl
 feeds.uwbeslagvrijevoet.nl
 feeds.uziregister.nl
+feeds.veiligepubliekedienstverlening.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4839,6 +4840,7 @@ opendata.uitkomstgerichtezorg.nl
 opendata.uitvoeringvanbeleidszw.nl
 opendata.uwbeslagvrijevoet.nl
 opendata.uziregister.nl
+opendata.veiligepubliekedienstverlening.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6413,6 +6415,7 @@ toezichtresultaten.nl
 toezichtresultaten.onderwijsinspectie.nl
 toezichtsociaaldomein.nl
 toolbox-extremisme.nctv.nl
+toolbox.veiligepubliekedienstverlening.nl
 toolkits.loketgezondleven.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.rijksinnovatiecommunity.nl
@@ -6580,6 +6583,7 @@ vechtstromen.nl
 vecozo.dmz.belastingdienst.nl
 vegetatiemonitor.rijkswaterstaat.nl
 veilig.cultureelerfgoed.nl
+veiligepubliekedienstverlening.nl
 veiligmailen.flevoland.nl
 veiling.acc.belastingdienst.nl
 veiling.belastingdienst.nl
@@ -7584,6 +7588,7 @@ www.vallei-veluwe.nl
 www.vangbuitenshuis.nl
 www.vechtstromen.nl
 www.veilig.cultureelerfgoed.nl
+www.veiligepubliekedienstverlening.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
 www.vt016ed.dictu.nl
