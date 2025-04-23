@@ -2604,6 +2604,7 @@ feeds.toetsingscommissievp.nl
 feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
 feeds.topsectoren.nl
+feeds.transitieproefdiervrijeinnovatie.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4766,6 +4767,7 @@ opendata.toetsingscommissievp.nl
 opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
 opendata.topsectoren.nl
+opendata.transitieproefdiervrijeinnovatie.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6345,6 +6347,7 @@ track.netherlandsworldwide.nl
 trade-acc.rvo.nl
 trade.rvo.nl
 transfer.ofgv.nl
+transitieproefdiervrijeinnovatie.nl
 travelpoint.sso3w.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
@@ -7461,6 +7464,7 @@ www.toezichtsociaaldomein.nl
 www.topcorridors.nl
 www.topsectoren.nl
 www.tpaw.dictu.nl
+www.transitieproefdiervrijeinnovatie.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
 www.upnl-acc.rvo.nl
