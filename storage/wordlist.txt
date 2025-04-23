@@ -48,6 +48,7 @@ www-p
 www-tst
 dialin
 webservices
+zoeken
 beeldbank
 onderzoek
 apps
@@ -57,7 +58,6 @@ loket
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
-zoeken
 atlas
 hybrid
 kaarten
