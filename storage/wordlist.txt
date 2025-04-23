@@ -24,10 +24,10 @@ a-opendata.a-english
 api
 vpn
 prod
+_autodiscover._tcp
 www-acc
 _dmarc
 data
-_autodiscover._tcp
 portaal
 connect
 meet

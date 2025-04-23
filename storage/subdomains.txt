@@ -35,6 +35,7 @@ _autodiscover._tcp.natura2000.nl
 _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
 _autodiscover._tcp.rijksorganisatieodi.nl
+_autodiscover._tcp.toetredingzorgaanbieders.nl
 _dmarc.cibg.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
@@ -2597,6 +2598,7 @@ feeds.toegangspuntmobiliteit.nl
 feeds.toekomstglb.nl
 feeds.toekomstreligieuserfgoed.nl
 feeds.toekomstvisiegewasbescherming2030.nl
+feeds.toetredingzorgaanbieders.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4754,6 +4756,7 @@ opendata.toegangspuntmobiliteit.nl
 opendata.toekomstglb.nl
 opendata.toekomstreligieuserfgoed.nl
 opendata.toekomstvisiegewasbescherming2030.nl
+opendata.toetredingzorgaanbieders.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6305,6 +6308,7 @@ toestemming-tst.belastingdienst.nl
 toestemming.acc.toeslagen.nl
 toestemming.belastingdienst.nl
 toestemming.toeslagen.nl
+toetredingzorgaanbieders.nl
 toetsingonline.ccmo.nl
 toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
@@ -7436,6 +7440,7 @@ www.toekomstglb.nl
 www.toekomstreligieuserfgoed.nl
 www.toekomstvisiegewasbescherming2030.nl
 www.toeslagen.nl
+www.toetredingzorgaanbieders.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
