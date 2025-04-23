@@ -25,11 +25,11 @@ api
 vpn
 prod
 redactie
+_dmarc
 _autodiscover._tcp
 formulieren
 werkplek
 www-acc
-_dmarc
 data
 meet
 portaal

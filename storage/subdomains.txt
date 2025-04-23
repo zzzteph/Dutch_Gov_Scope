@@ -45,6 +45,7 @@ _dmarc.rijksoverheid.nl
 _dmarc.rijksvastgoedbedrijf.nl
 _dmarc.rvig.nl
 _dmarc.ssc-ict.nl
+_dmarc.wkr.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cluster1.a-cms.platformrijksoverheid.nl
@@ -2189,6 +2190,7 @@ english.sso3w.nl
 english.two-acs.com
 english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
+english.wkr.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -2468,6 +2470,7 @@ feeds.english.sso3w.nl
 feeds.english.two-acs.com
 feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
+feeds.english.wkr.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -2679,6 +2682,7 @@ feeds.werkenaanonspensioen.nl
 feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
+feeds.wkr.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4704,6 +4708,7 @@ opendata.english.sso3w.nl
 opendata.english.two-acs.com
 opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
+opendata.english.wkr.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -4919,6 +4924,7 @@ opendata.werkenaanonspensioen.nl
 opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
+opendata.wkr.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -7051,6 +7057,7 @@ windopzee.nl
 windviewer.rvo.nl
 wio.ilent.nl
 wist-fpi.hhdelfland.nl
+wkr.nl
 wms-viewer.dataplatform.knmi.nl
 wms.aanpakringzuid.nl
 woo-formulier.rijksoverheid.nl
@@ -7750,6 +7757,7 @@ www.wetbeschermingklokkenluiders.nl
 www.windlansingerland.zuid-holland.nl
 www.windopzee.nl
 www.windviewer.rvo.nl
+www.wkr.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www.zorginstituutnederland.nl
 www.zorginzicht.nl
