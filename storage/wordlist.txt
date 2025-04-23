@@ -18,10 +18,10 @@ a-english
 intranet
 webmail
 acceptatie
+api
 a-feeds.a-english
 a-opendata.a-english
 cms
-api
 vpn
 _dmarc
 prod
@@ -37,6 +37,7 @@ portaal
 login
 sip
 smtp
+zoeken
 ftp
 geoservices
 geo
@@ -48,7 +49,6 @@ www-p
 www-tst
 dialin
 webservices
-zoeken
 beeldbank
 onderzoek
 apps
@@ -78,6 +78,9 @@ maps
 geodata
 fs
 werken
+acceptatie.beheer
+acceptatie.mijn
+beheer
 app
 geoportaal
 publicaties
@@ -120,10 +123,8 @@ sharepoint-acc
 sharepoint-conf
 sharepoint
 acceptatie.behandel
-acceptatie.beheer
-acceptatie.mijn
 acceptatie.webservices
-beheer
+acceptatie.zoeken
 connect-with
 esb
 geoserver
@@ -212,7 +213,6 @@ vc
 videobellen
 webdiensten
 poc
-acceptatie.zoeken
 behandel
 zoek
 acs
@@ -4949,6 +4949,16 @@ rijkstrainee
 rijkstrainees
 stagiairs
 www-sandbox
+acceptatie.beheer.locatieregister
+acceptatie.mijn.geschilleninstantie
+acceptatie.mijn.locatieregister
+acceptatie.mijn.melding
+acceptatie.mijn.toelatingsvergunning
+beheer.locatieregister
+mijn.geschilleninstantie
+mijn.locatieregister
+mijn.melding
+mijn.toelatingsvergunning
 passwordmanager
 plek
 ra

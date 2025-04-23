@@ -416,7 +416,9 @@ https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.donorregister.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
+https://acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
 https://acceptatie.beheer.lrza.cibg.nl
+https://acceptatie.beheer.zorgaanbiedersportaal.nl
 https://acceptatie.bestandsportaal.cibg.nl
 https://acceptatie.botova.rijkswaterstaat.nl
 https://acceptatie.designsystem.cibg.nl
@@ -433,6 +435,11 @@ https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
 https://acceptatie.mijn.dezi.nl
 https://acceptatie.mijn.donorregister.nl
+https://acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.zorgaanbiedersportaal.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
@@ -451,6 +458,7 @@ https://acceptatie.uzipas.uziregister.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
+https://acceptatie.zoeken.zorgaanbiedersportaal.nl
 https://accounts.cbs.nl
 https://accp-bp.stopheling.nl
 https://accp-dol.stopheling.nl
@@ -673,8 +681,10 @@ https://beheer.chat.ind.nl
 https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.lir.cibg.nl
+https://beheer.locatieregister.zorgaanbiedersportaal.nl
 https://beheer.lrza.cibg.nl
 https://beheer.ncpeh.nl
+https://beheer.zorgaanbiedersportaal.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://beheerportaal.bta.omgevingswet.overheid.nl
@@ -2329,11 +2339,14 @@ https://mijn.cbs.nl
 https://mijn.donorregister.nl
 https://mijn.examenblad.nl
 https://mijn.examenbladmbo.nl
+https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 https://mijn.huurcommissie.nl
 https://mijn.igj.nl
 https://mijn.inburgeren.nl
 https://mijn.justis.nl
 https://mijn.knmi.nl
+https://mijn.locatieregister.zorgaanbiedersportaal.nl
+https://mijn.melding.zorgaanbiedersportaal.nl
 https://mijn.ncsc.nl
 https://mijn.ndw.nu
 https://mijn.nvwa.nl
@@ -2341,7 +2354,9 @@ https://mijn.overheid.nl
 https://mijn.rdi.nl
 https://mijn.rvo.nl
 https://mijn.test.ncsc.nl
+https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
+https://mijn.zorgaanbiedersportaal.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
 https://mijncn.nl
@@ -4445,6 +4460,7 @@ https://www.wkr.nl
 https://www.wodc.nl
 https://www.wrr.nl
 https://www.youthatheart.nl
+https://www.zorgaanbiedersportaal.nl
 https://www.zorginstituutnederland.nl
 https://www.zorginzicht.nl
 https://www.zuid-holland.nl
@@ -4476,7 +4492,9 @@ https://zoeken.bigregister.nl
 https://zoeken.cultureelerfgoed.nl
 https://zoeken.ondernemersplein.overheid.nl
 https://zoeken.werkenaanonspensioen.nl
+https://zoeken.zorgaanbiedersportaal.nl
 https://zoekservice.overheid.nl
+https://zorgaanbiedersportaal.nl
 https://zorgbeeld.nza.nl
 https://zorgenwerknetwerk.arboportaal.nl
 https://zorginstituutnederland.nl
