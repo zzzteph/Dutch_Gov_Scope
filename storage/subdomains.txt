@@ -629,6 +629,7 @@ addressing.test.zm.irealisatie.nl
 adfs.flevoland.nl
 adfs.hhdelfland.nl
 adfs.huurcommissie.nl
+adfs.vallei-veluwe.nl
 admin.denkmee.zuid-holland.nl
 admin.openstad.zuid-holland.nl
 admin.schoolleidersregisterpo.nl
@@ -791,6 +792,7 @@ api.tst3.mijn.overheid.nl
 api.tst4.mijn.overheid.nl
 api.tst5.mijn.overheid.nl
 api.tst6.mijn.overheid.nl
+api.vallei-veluwe.nl
 apikey-preprod.ep-online.nl
 apikey.ep-online.nl
 apim-icc-a.svb.nl
@@ -937,6 +939,7 @@ autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
 autodiscover.svb.nl
 autodiscover.tib-ivd.nl
+autodiscover.vallei-veluwe.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -2088,6 +2091,7 @@ elkdmz1.gn2.rijkscloud.nl
 elkeregiotelt.nl
 eloket.aaenmaas.nl
 eloket.flevoland.nl
+eloket.vallei-veluwe.nl
 email.brabant.nl
 emailcluster.ctivd.nl
 emailtemplates.overheid.nl
@@ -2852,6 +2856,7 @@ geopoc.brabant.nl
 geoportaal-acceptatie.brabant.nl
 geoportaal.brabant.nl
 geoportaal.hhdelfland.nl
+geoportaal.vallei-veluwe.nl
 geoportaal.zuid-holland.nl
 geoportaalhhd.hhdelfland.nl
 geoportaaltest.hhdelfland.nl
@@ -4165,7 +4170,9 @@ mx1.mensenrechten.nl
 mx1.ncsc.nl
 mx1.ofgv.nl
 mx1.svb.nl
+mx1.vallei-veluwe.nl
 mx2.ncsc.nl
+mx2.vallei-veluwe.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
@@ -4194,6 +4201,7 @@ natura2000.nl
 natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
 nc-a.rvb.rijkscloud.nl
+nc-openbaar.vallei-veluwe.nl
 nc.mindemo.rijkscloud.nl
 nc.rivm.rijkscloud.nl
 ncab.nl
@@ -4218,6 +4226,8 @@ netauth.knmi.nl
 netftp.dictu.nl
 netherlandsworldwide.nl
 netwerkplatteland.nl
+neuronprod.vallei-veluwe.nl
+neurontest.vallei-veluwe.nl
 nevenbetrekkingen.om.nl
 new.mensenrechten.nl
 new.mijn.knmi.nl
@@ -5005,6 +5015,7 @@ planmer-acc.zuid-holland.nl
 planmer-test.zuid-holland.nl
 planmer.zuid-holland.nl
 planon.acc.belastingdienst.nl
+planonprod.vallei-veluwe.nl
 planregistratie-wonen.zuid-holland.nl
 plantool.huurcommissie.nl
 platform-acc.analyse.ilt.rijkscloud.nl
@@ -5350,6 +5361,7 @@ redactie.hdsr.nl
 redactie.odijmond.nl
 redactie.odmh.nl
 redactie.ofgv.nl
+redactie.vallei-veluwe.nl
 redactie.zuid-holland.nl
 redash.iaas.rijkscloud.nl
 redhat2.gn2.rijkscloud.nl
@@ -6308,6 +6320,7 @@ testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testeloket.aaenmaas.nl
 testeloket.flevoland.nl
+testeloket.vallei-veluwe.nl
 testgeoservices.knmi.nl
 testhf.gn2.rijkscloud.nl
 testkennis.hdsr.nl
@@ -6335,6 +6348,7 @@ tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
 tmv.cibg.nl
 tmv.rvig.nl
+tmx.vallei-veluwe.nl
 tmxweb.rijkswaterstaat.nl
 toegangderden.rijkswaterstaat.nl
 toegangslaag-gn2.rvig.nl
@@ -6486,6 +6500,7 @@ validatie-acc.justid.nl
 validatie.justid.nl
 validationcalculation.douane.nl
 validationcalculationtest.douane.nl
+vallei-veluwe.nl
 vastgoedvanhetrijk.rvo.nl
 vault-edu.efiling.mijnoctrooi.rvo.nl
 vault-infra-edu.efiling.mijnoctrooi.rvo.nl
@@ -6838,6 +6853,7 @@ werkplek.ctgb.nl
 werkplek.hdsr.nl
 werkplek.justid.nl
 werkplek.rekenkamer.nl
+werkplek.vallei-veluwe.nl
 werkplekom.cbs.nl
 werkpleksso.cbs.nl
 werkplektest.cbs.nl
@@ -7523,6 +7539,7 @@ www.uitvoeringvanbeleidszw.nl
 www.upnl-acc.rvo.nl
 www.uwbeslagvrijevoet.nl
 www.uziregister.nl
+www.vallei-veluwe.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl

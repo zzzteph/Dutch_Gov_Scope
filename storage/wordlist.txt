@@ -33,7 +33,9 @@ formulieren
 connect
 meet
 sip
+werkplek
 geoservices
+redactie
 geo
 a-magazines
 proto
@@ -45,10 +47,8 @@ dialin
 login
 webservices
 beeldbank
-werkplek
 ftp
 onderzoek
-redactie
 www-ow
 www-ts
 loket
@@ -61,6 +61,7 @@ apps
 www2
 forms
 kennisbank
+mx1
 lyncdiscover
 geodata
 feeds.papiamentu
@@ -68,6 +69,7 @@ opendata.papiamentu
 papiamentu
 fs
 werken
+geoportaal
 hybrid
 kaarten
 publicaties
@@ -83,15 +85,17 @@ kennis
 ns1
 werkenbij
 www.mijn
+adfs
 zaaksysteem-acc
 zaaksysteem
 inloggen
 staging
 git
 repository
-mx1
+eloket
 lync
 maps
+testeloket
 vpn2
 meldingen
 ontwikkel
@@ -117,7 +121,6 @@ beheer
 app
 connect-with
 esb
-geoportaal
 geoserver
 id
 ondertekenen
@@ -157,7 +160,6 @@ jira
 mailing
 connect-acpt
 acc.mijn
-adfs
 cmsintranet
 e
 test-cmsintranet
@@ -171,8 +173,6 @@ iam
 aanvragen
 magazinesintern
 av
-eloket
-testeloket
 chw
 test.resultaten
 prd
@@ -324,6 +324,7 @@ upnl-zw-acc.mijn
 upnl-zw.mijn
 upnl.mijn
 acceptatie.portaal
+mx2
 a-voorlichting
 track
 media
@@ -2659,7 +2660,6 @@ min1
 min2
 min3
 mx
-mx2
 ndn-onderzoek
 nspnws-cursus
 nspnws
@@ -4884,6 +4884,11 @@ acceptatie.aanvragen
 acceptatie.formulieren
 acceptatie.uzipas
 uzipas
+nc-openbaar
+neuronprod
+neurontest
+planonprod
+tmx
 passwordmanager
 plek
 ra
