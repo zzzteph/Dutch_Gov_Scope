@@ -2650,6 +2650,7 @@ feeds.uziregister.nl
 feeds.veiligepubliekedienstverlening.nl
 feeds.vergoedingsns.nl
 feeds.versterkencyberweerbaarheid.nl
+feeds.veterinairtuchtcollege.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4848,6 +4849,7 @@ opendata.uziregister.nl
 opendata.veiligepubliekedienstverlening.nl
 opendata.vergoedingsns.nl
 opendata.versterkencyberweerbaarheid.nl
+opendata.veterinairtuchtcollege.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6635,6 +6637,7 @@ verpakkingen.belastingdienst.nl
 versterkencyberweerbaarheid.nl
 verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
+veterinairtuchtcollege.nl
 vgc-acc.nvwa.nl
 vgc.nvwa.nl
 vglas-a.svb.nl
@@ -7608,6 +7611,7 @@ www.vepkmstst.vcdn.belastingdienst.nl
 www.vergoedingsns.nl
 www.verhalenoverdeoorlog.nl
 www.versterkencyberweerbaarheid.nl
+www.veterinairtuchtcollege.nl
 www.vt016ed.dictu.nl
 www.watergegevens.rijkswaterstaat.nl
 www.wegen.brabant.nl
