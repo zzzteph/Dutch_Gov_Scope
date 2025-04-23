@@ -2194,6 +2194,7 @@ english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
 english.wkr.nl
 english.wodc.nl
+english.wrr.nl
 english.zorginstituutnederland.nl
 enquete-acc.dictu.nl
 enquete-demo.dictu.nl
@@ -2475,6 +2476,7 @@ feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
+feeds.english.wrr.nl
 feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -2688,6 +2690,7 @@ feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
 feeds.wkr.nl
 feeds.wodc.nl
+feeds.wrr.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -3813,6 +3816,7 @@ magazines.socialestabiliteit.nl
 magazines.sso3w.nl
 magazines.tuchtcollege-gezondheidszorg.nl
 magazines.werkenvoornederland.nl
+magazines.wrr.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
@@ -4716,6 +4720,7 @@ opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
+opendata.english.wrr.nl
 opendata.english.zorginstituutnederland.nl
 opendata.erfgoeddeal.nl
 opendata.euthanasiecommissie.nl
@@ -4933,6 +4938,7 @@ opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
 opendata.wkr.nl
 opendata.wodc.nl
+opendata.wrr.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -7078,6 +7084,7 @@ workspace.hhdelfland.nl
 wow.knmi.nl
 wpx-80-aix-http.acc.douane.nl
 wpx-80-aix-http.douane.nl
+wrr.nl
 ws-acc.bureauwsnp.nl
 ws-izis.ofgv.nl
 ws.bureauwsnp.nl
@@ -7769,6 +7776,7 @@ www.windopzee.nl
 www.windviewer.rvo.nl
 www.wkr.nl
 www.wodc.nl
+www.wrr.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www.zorginstituutnederland.nl
 www.zorginzicht.nl

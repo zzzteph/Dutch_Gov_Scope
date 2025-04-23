@@ -5,9 +5,9 @@ feeds
 a-www
 english
 a-opendata
-a-feeds
 feeds.english
 opendata.english
+a-feeds
 test
 mail
 autodiscover
