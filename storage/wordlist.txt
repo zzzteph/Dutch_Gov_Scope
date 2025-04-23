@@ -9,8 +9,8 @@ a-feeds
 feeds.english
 opendata.english
 test
-autodiscover
 mail
+autodiscover
 acc
 magazines
 mijn
@@ -23,17 +23,17 @@ a-opendata.a-english
 cms
 api
 vpn
+_dmarc
 prod
 redactie
-_dmarc
 _autodiscover._tcp
 formulieren
 werkplek
 www-acc
+connect
 data
 meet
 portaal
-connect
 login
 sip
 smtp
@@ -71,6 +71,7 @@ zaaksysteem
 forms
 inloggen
 kennisbank
+repository
 mx1
 lyncdiscover
 maps
@@ -95,7 +96,6 @@ www-a
 zaaksysteem-acc
 staging
 git
-repository
 geoweb
 aanvragen
 eloket
