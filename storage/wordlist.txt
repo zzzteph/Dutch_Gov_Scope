@@ -355,9 +355,13 @@ feeds.papiamento
 opendata.papiamento
 papiamento
 vacature
+geoportal
+gisservices
 oa
 wachtwoordwijzigen
 web
+webgis
+webgisacc
 web01
 wms
 eavgb-acc

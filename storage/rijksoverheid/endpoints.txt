@@ -1783,6 +1783,7 @@ https://geojson-converter.ndw.nu
 https://geoportaal-acceptatie.brabant.nl
 https://geoportaal.brabant.nl
 https://geoportaal.zuid-holland.nl
+https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
 https://georegister.brabant.nl
 https://georegister.flevoland.nl
@@ -1804,6 +1805,7 @@ https://ggo-vergunningen.nl
 https://gipdatabank.nl
 https://gis.prolander.nl
 https://gisextern.dictu.nl
+https://gisservices.aaenmaas.nl
 https://gisviewer.odijmond.nl
 https://git-dev.rijkscloud.nl
 https://git.dfront.rijkscloud.nl
@@ -3832,6 +3834,8 @@ https://webdiensten.hdsr.nl
 https://webdisk.evenementenbureauvws.nl
 https://webform.rvo.nl
 https://webforms.belastingdienst.nl
+https://webgis.aaenmaas.nl
+https://webgisacc.aaenmaas.nl
 https://webmail.brabant.nl
 https://webmail.evenementenbureauvws.nl
 https://webmail.flevoland.nl

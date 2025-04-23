@@ -2934,6 +2934,7 @@ geoportaal.vallei-veluwe.nl
 geoportaal.zuid-holland.nl
 geoportaalhhd.hhdelfland.nl
 geoportaaltest.hhdelfland.nl
+geoportal.aaenmaas.nl
 georegister-intern.flevoland.nl
 georegister.brabant.nl
 georegister.flevoland.nl
@@ -2972,6 +2973,7 @@ gis-release.devops.rvb.rijkscloud.nl
 gis.prolander.nl
 gisbim-app-dev.devops.rvb.rijkscloud.nl
 gisextern.dictu.nl
+gisservices.aaenmaas.nl
 gisviewer.odijmond.nl
 git-az1.lpc.logius.nl
 git-az2.lpc.logius.nl
@@ -6965,6 +6967,8 @@ webforms.acc.belastingdienst.nl
 webforms.belastingdienst.nl
 webftp.dictu.nl
 webftptest.dictu.nl
+webgis.aaenmaas.nl
+webgisacc.aaenmaas.nl
 webmail-a.huurcommissie.nl
 webmail-acpt.brabant.nl
 webmail.aaenmaas.nl
