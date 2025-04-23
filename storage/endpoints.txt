@@ -312,6 +312,7 @@ https://acc-cms.rvo.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
+https://acc-dictu.toegankelijkheidsverklaring.nl
 https://acc-geo.rijkswaterstaat.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc-maps.rijkswaterstaat.nl
@@ -367,6 +368,7 @@ https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
+https://acc.toegankelijkheidsverklaring.nl
 https://acc.zorginzicht.nl
 https://acc.zsmgame.om.nl
 https://acc2.inspectieresultaten.nvwa.nl
@@ -2904,6 +2906,7 @@ https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
+https://prod-dictu.toegankelijkheidsverklaring.nl
 https://prod.asbestvolgsysteem.nl
 https://prod.dictu.nl
 https://prod.intranet.rvig.nl
@@ -3350,6 +3353,7 @@ https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
+https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intranet.flevoland.nl
 https://test-intranet.scp.nl
@@ -3413,6 +3417,7 @@ https://tmv.cibg.nl
 https://tmxweb.rijkswaterstaat.nl
 https://toegangderden.rijkswaterstaat.nl
 https://toegangspuntmobiliteit.nl
+https://toegankelijkheidsverklaring.nl
 https://toekomstscenarios.zuid-holland.nl
 https://toelatingen.ctgb.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
@@ -4120,6 +4125,7 @@ https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tib-ivd.nl
 https://www.tlokb.nl
 https://www.toegangspuntmobiliteit.nl
+https://www.toegankelijkheidsverklaring.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tvs.dictu.nl
 https://www.veilig.cultureelerfgoed.nl
