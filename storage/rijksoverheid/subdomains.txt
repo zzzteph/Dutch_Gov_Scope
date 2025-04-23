@@ -2658,6 +2658,7 @@ feeds.veterinairtuchtcollege.nl
 feeds.vnacs.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
+feeds.vrachtwagenheffing.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4863,6 +4864,7 @@ opendata.veterinairtuchtcollege.nl
 opendata.vnacs.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
+opendata.vrachtwagenheffing.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6751,6 +6753,7 @@ vpntcn.dictu.nl
 vpr.rijkswaterstaat.nl
 vps-prod-01.flevoland.nl
 vr.ofgv.nl
+vrachtwagenheffing.nl
 vri-admin.ndw.nu
 vs-tst-auth.dictu.nl
 vs_mijn.str13.tst.belastingdienst.nl
@@ -7633,6 +7636,7 @@ www.veterinairtuchtcollege.nl
 www.vnacs.nl
 www.volkshuisvestingnederland.nl
 www.voordejeugdenhetgezin.nl
+www.vrachtwagenheffing.nl
 www.vt016ed.dictu.nl
 www.watergegevens.rijkswaterstaat.nl
 www.wegen.brabant.nl
