@@ -1496,6 +1496,7 @@ cms.platformrijksoverheid.nl
 cms.projects.rvo.nl
 cms.rijksoverheid.nl
 cms.rvo.nl
+cms.tlokb.nl
 cms1.defensie.nl
 cms1.platformrijksoverheid.nl
 cms1.rijksoverheid.nl
@@ -2570,6 +2571,7 @@ feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
+feeds.tlokb.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -3091,6 +3093,8 @@ img.openstad.zuid-holland.nl
 implementatiecoachdi.nl
 import-acc.organisaties.overheid.nl
 import.organisaties.overheid.nl
+import.tlokb.nl
+importacc.tlokb.nl
 inbeeld.zuid-holland.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
 inbewaringstelling.webservices-dbb.igj.nl
@@ -4695,6 +4699,7 @@ opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
+opendata.tlokb.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -5063,6 +5068,7 @@ prod.nl-alert.nl
 prod.radar.rdi.nl
 prod.rvig.nl
 prod.rvo.nl
+prod.tlokb.nl
 prod.wetten.rvo.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
@@ -5251,6 +5257,8 @@ regelingen-tst.rvo.nl
 regelingen.rvo.nl
 regels.overheid.nl
 regiotaxi.flevoland.nl
+register-backend.tlokb.nl
+register.tlokb.nl
 registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
 registreren.ep-online.nl
@@ -6197,6 +6205,7 @@ tileserver.ndw.nu
 timeline.test.zm.irealisatie.nl
 tip.ncsc.nl
 tl.iplo.nl
+tlokb.nl
 tm.knmi.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
@@ -7341,6 +7350,7 @@ www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 www.tib-ivd.nl
+www.tlokb.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
