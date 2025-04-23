@@ -63,6 +63,9 @@ forms
 kennisbank
 lyncdiscover
 geodata
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 fs
 werken
 hybrid
@@ -93,9 +96,6 @@ vpn2
 meldingen
 ontwikkel
 pushmail
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 academie
 adobe-analytics-dc
 adobe-tags
@@ -4876,6 +4876,9 @@ sign1
 toeslagenanimatie
 toestemming.acc
 www8
+feeds.papiamento
+opendata.papiamento
+papiamento
 passwordmanager
 plek
 ra
