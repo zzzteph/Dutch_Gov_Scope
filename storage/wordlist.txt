@@ -95,6 +95,7 @@ staging
 git
 repository
 geoweb
+aanvragen
 eloket
 lync
 maps
@@ -171,7 +172,6 @@ mijn-acc
 wiki
 preview
 iam
-aanvragen
 magazinesintern
 av
 helloid

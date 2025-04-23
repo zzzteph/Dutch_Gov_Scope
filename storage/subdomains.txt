@@ -335,6 +335,7 @@ aanvraag.dus-i.nl
 aanvragen-acc.nza.nl
 aanvragen.nza.nl
 aanvragen.uziregister.nl
+aanvragen.vergoedingsns.nl
 aanvragen.zuid-holland.nl
 abat.acc.belastingdienst.nl
 abibzk.rijkscloud.nl
@@ -2647,6 +2648,7 @@ feeds.uitvoeringvanbeleidszw.nl
 feeds.uwbeslagvrijevoet.nl
 feeds.uziregister.nl
 feeds.veiligepubliekedienstverlening.nl
+feeds.vergoedingsns.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4843,6 +4845,7 @@ opendata.uitvoeringvanbeleidszw.nl
 opendata.uwbeslagvrijevoet.nl
 opendata.uziregister.nl
 opendata.veiligepubliekedienstverlening.nl
+opendata.vergoedingsns.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6614,6 +6617,7 @@ vepvodtst.vcdn.belastingdienst.nl
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
 vergaderen.belastingdienst.nl
+vergoedingsns.nl
 verkeer.acc.loket.om.nl
 verkeer.loket.om.nl
 verkeersbesluiten-acc.overheid.nl
@@ -7596,6 +7600,7 @@ www.veiligepubliekedienstverlening.nl
 www.veiligheidsregioflevoland.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
+www.vergoedingsns.nl
 www.vt016ed.dictu.nl
 www.watergegevens.rijkswaterstaat.nl
 www.wegen.brabant.nl
