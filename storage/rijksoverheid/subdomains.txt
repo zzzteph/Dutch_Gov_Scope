@@ -308,6 +308,7 @@ a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
 a-www.socialestabiliteit.nl
+a-www.toezichtsociaaldomein.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -2600,6 +2601,7 @@ feeds.toekomstreligieuserfgoed.nl
 feeds.toekomstvisiegewasbescherming2030.nl
 feeds.toetredingzorgaanbieders.nl
 feeds.toetsingscommissievp.nl
+feeds.toezichtsociaaldomein.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4759,6 +4761,7 @@ opendata.toekomstreligieuserfgoed.nl
 opendata.toekomstvisiegewasbescherming2030.nl
 opendata.toetredingzorgaanbieders.nl
 opendata.toetsingscommissievp.nl
+opendata.toezichtsociaaldomein.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6318,6 +6321,7 @@ toezichtopzorgnetwerken.igj.nl
 toezichtresultaten.acc.onderwijsinspectie.nl
 toezichtresultaten.nl
 toezichtresultaten.onderwijsinspectie.nl
+toezichtsociaaldomein.nl
 toolbox-extremisme.nctv.nl
 toolkits.loketgezondleven.nl
 tools-acc.rijksinnovatiecommunity.nl
@@ -7447,6 +7451,7 @@ www.toeslagen.nl
 www.toetredingzorgaanbieders.nl
 www.toetsingscommissievp.nl
 www.toezichtresultaten.nl
+www.toezichtsociaaldomein.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
