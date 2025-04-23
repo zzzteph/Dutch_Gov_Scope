@@ -2572,6 +2572,7 @@ feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
 feeds.tlokb.nl
+feeds.toegangspuntmobiliteit.nl
 feeds.zorginstituutnederland.nl
 fhub.dictu.nl
 fibb-perf.acc.belastingdienst.nl
@@ -4700,6 +4701,7 @@ opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
 opendata.tlokb.nl
+opendata.toegangspuntmobiliteit.nl
 opendata.zorginstituutnederland.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
@@ -6217,6 +6219,7 @@ toegangderden.rijkswaterstaat.nl
 toegangslaag-gn2.rvig.nl
 toegangslaag-gn3.rvig.nl
 toegangslaag.rvig.nl
+toegangspuntmobiliteit.nl
 toekomstscenarios.zuid-holland.nl
 toelatingen.ctgb.nl
 toepasbare-regels-analyseren.acc.omgevingswet.overheid.nl
@@ -7351,6 +7354,7 @@ www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 www.tib-ivd.nl
 www.tlokb.nl
+www.toegangspuntmobiliteit.nl
 www.tpaw.dictu.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tvs.dictu.nl
