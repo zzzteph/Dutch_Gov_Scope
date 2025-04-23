@@ -29,10 +29,10 @@ www-acc
 _dmarc
 data
 portaal
+formulieren
 connect
 meet
 sip
-formulieren
 geoservices
 geo
 a-magazines
@@ -168,6 +168,7 @@ geoweb
 wiki
 preview
 iam
+aanvragen
 magazinesintern
 av
 eloket
@@ -325,7 +326,6 @@ upnl.mijn
 acceptatie.portaal
 a-voorlichting
 track
-aanvragen
 media
 access
 e-learning
@@ -4880,6 +4880,10 @@ feeds.papiamento
 opendata.papiamento
 papiamento
 bereken
+acceptatie.aanvragen
+acceptatie.formulieren
+acceptatie.uzipas
+uzipas
 passwordmanager
 plek
 ra
