@@ -570,6 +570,10 @@ access.rijksrecherche.nl
 accounts.cbs.nl
 accounts.ix.rijkscloud.nl
 accounts.rijkscloud.nl
+accp-bp.stopheling.nl
+accp-dol.stopheling.nl
+accp-dor.stopheling.nl
+accp-dorbeheer.stopheling.nl
 ace_nat17.belastingdienst.nl
 achilles-acc.rvo.nl
 achilles.rvo.nl
@@ -1153,6 +1157,7 @@ boub-api-acc.overheid.nl
 boub-api.overheid.nl
 bouw.omgevingswet.overheid.nl
 bp-bb-ut.tst.belastingdienst.nl
+bp.stopheling.nl
 bpa.rvo.nl
 bpp.datasluis.dictu.nl
 bpp.webftp.dictu.nl
@@ -1827,9 +1832,12 @@ doculoket-acc.overheid.nl
 doculoket.overheid.nl
 documentenapplicatie.igj.nl
 doemee.cbs.nl
+dol.stopheling.nl
 domeinenrz.nl
 domeinnaamregistratie.rijksoverheid.nl
 donorregister.nl
+dor.stopheling.nl
+dorbeheer.stopheling.nl
 dossierportal.cbs.nl
 douane.nl
 download.belastingdienst.nl
@@ -3491,6 +3499,8 @@ lrza.services.cibg.nl
 lta-acc.zuid-holland.nl
 lta-tst.zuid-holland.nl
 lta.zuid-holland.nl
+ltu-admin.stopheling.nl
+ltu-api.stopheling.nl
 lucht.omgevingswet.overheid.nl
 luchtfoto.flevoland.nl
 luchtvaartmeteo-test.knmi.nl
@@ -4593,6 +4603,7 @@ openkat.nl
 openstack.gn2.rijkscloud.nl
 openstack.gn3.rijkscloud.nl
 openstad.zuid-holland.nl
+opkopersregister.stopheling.nl
 opleiding-ola.belastingdienst.nl
 opleiding.nl-alert.nl
 opleiding.spin2.rijkswaterstaat.nl
@@ -5819,6 +5830,7 @@ stglb.rvo.nl
 stijlgids.cibg.nl
 stijlgids.overheid.nl
 stijlgids.rijkswaterstaat.nl
+stopheling.nl
 stor.services.cultureelerfgoed.nl
 storage.databestanden.cbs.nl
 storage.test.mgo.irealisatie.nl
@@ -5908,13 +5920,16 @@ telewerk.huurcommissie.nl
 telewerken.hhdelfland.nl
 telewerken.om.nl
 tenantapp.ec.rijkscloud.nl
+test-api.stopheling.nl
 test-azure06.dictu.nl
+test-bp.stopheling.nl
 test-ccb.cbs.nl
 test-cms.projecten.rvo.nl
 test-cms.projects.rvo.nl
 test-cms.rvo.nl
 test-cmsintranet.flevoland.nl
 test-cmsintranet.scp.nl
+test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
@@ -5990,6 +6005,7 @@ test.rvig.nl
 test.rvo.nl
 test.spin2.rijkswaterstaat.nl
 test.status.cbs.nl
+test.stopheling.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
 test.veilig.cultureelerfgoed.nl
@@ -7156,6 +7172,7 @@ www.staatsexamensnt2.nl
 www.staging.rijkswaterstaat.nl
 www.startmetdelen.nl
 www.startmetoesorichtlijnen.nl
+www.stopheling.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
