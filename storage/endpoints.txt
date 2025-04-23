@@ -1213,6 +1213,7 @@ https://english.rvo.nl
 https://english.scp.nl
 https://english.sso3w.nl
 https://english.two-acs.com
+https://english.uitvoeringvanbeleidszw.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
@@ -1410,6 +1411,7 @@ https://feeds.english.rijksdienstcn.com
 https://feeds.english.scp.nl
 https://feeds.english.sso3w.nl
 https://feeds.english.two-acs.com
+https://feeds.english.uitvoeringvanbeleidszw.nl
 https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -1601,6 +1603,7 @@ https://feeds.tuchtcollege-gezondheidszorg.nl
 https://feeds.two-acs.com
 https://feeds.uitelkaarmetkinderen.nl
 https://feeds.uitkomstgerichtezorg.nl
+https://feeds.uitvoeringvanbeleidszw.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
 https://fibb1.belastingdienst.nl
@@ -2584,6 +2587,7 @@ https://opendata.english.rijksdienstcn.com
 https://opendata.english.scp.nl
 https://opendata.english.sso3w.nl
 https://opendata.english.two-acs.com
+https://opendata.english.uitvoeringvanbeleidszw.nl
 https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
@@ -2778,6 +2782,7 @@ https://opendata.tuchtcollege-gezondheidszorg.nl
 https://opendata.two-acs.com
 https://opendata.uitelkaarmetkinderen.nl
 https://opendata.uitkomstgerichtezorg.nl
+https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
 https://opendata1.platformrijksoverheid.nl
@@ -3519,6 +3524,7 @@ https://uconnect-acc.hdsr.nl
 https://uconnect.hdsr.nl
 https://uitelkaarmetkinderen.nl
 https://uitkomstgerichtezorg.nl
+https://uitvoeringvanbeleidszw.nl
 https://uitwisseling.cbs.nl
 https://uno.dfront.rijkscloud.nl
 https://upload.cbs.nl
@@ -4207,6 +4213,7 @@ https://www.tvs.dictu.nl
 https://www.two-acs.com
 https://www.uitelkaarmetkinderen.nl
 https://www.uitkomstgerichtezorg.nl
+https://www.uitvoeringvanbeleidszw.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
