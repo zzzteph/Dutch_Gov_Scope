@@ -54,6 +54,9 @@ apps
 www-ow
 www-ts
 loket
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 zoeken
 atlas
 hybrid
@@ -67,9 +70,6 @@ kennisbank
 mx1
 lyncdiscover
 geodata
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 fs
 werken
 app
@@ -343,6 +343,9 @@ fileshare
 a-magazinesintern
 statistiek
 plekchecker
+feeds.papiamento
+opendata.papiamento
+papiamento
 oa
 wachtwoordwijzigen
 web
@@ -4876,9 +4879,6 @@ sign1
 toeslagenanimatie
 toestemming.acc
 www8
-feeds.papiamento
-opendata.papiamento
-papiamento
 bereken
 acceptatie.aanvragen
 acceptatie.formulieren
