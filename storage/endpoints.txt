@@ -165,6 +165,7 @@ http://nexus.lpc.logius.nl
 http://notificatie.api.ep-online.nl
 http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
+http://nzrdashboard.vzinfo.nl
 http://odata4.cbs.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oosweb.cbs.nl
@@ -767,6 +768,7 @@ https://bureauwbtv.nl
 https://bureauwsnp.nl
 https://burgemeesterworden.politiekeambtsdragers.nl
 https://burgerloket.hhdelfland.nl
+https://buurtatlas.vzinfo.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvinet.douane.nl
@@ -2326,6 +2328,7 @@ https://mode-s.knmi.nl
 https://modellen.jenvgegevens.nl
 https://modules.istandaarden.nl
 https://mogin.ndw.nu
+https://mondgezondheidsdashboard.vzinfo.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring-prod5.koop.overheid.nl
@@ -3424,6 +3427,8 @@ https://stelselcatalogus.kta.omgevingswet.overheid.nl
 https://stelselcatalogus.omgevingswet.overheid.nl
 https://stelselcatalogus.pfm.omgevingswet.overheid.nl
 https://stelselcatalogus.pre.omgevingswet.overheid.nl
+https://sterftedashboard-regionaal.vzinfo.nl
+https://sterftedashboard.vzinfo.nl
 https://stglb.rvo.nl
 https://stijlgids.rijkswaterstaat.nl
 https://stopheling.nl
@@ -3695,6 +3700,7 @@ https://vtsd.belastingdienst.nl
 https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
 https://vuurwerk.domeinenrz.nl
+https://vzinfo.nl
 https://wabinfo.rijkswaterstaat.nl
 https://wachttijden.nza.nl
 https://wachtwoord.brabant.nl
@@ -4320,6 +4326,7 @@ https://www.veterinairtuchtcollege.nl
 https://www.vnacs.nl
 https://www.volkshuisvestingnederland.nl
 https://www.voordejeugdenhetgezin.nl
+https://www.vzinfo.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenbij.rijkswaterstaat.nl
@@ -4348,6 +4355,7 @@ https://zaaksysteem.inspectie-jenv.nl
 https://zaaksysteem.odmh.nl
 https://zaaksysteem.vechtstromen.nl
 https://zaaksysteem.zuid-holland.nl
+https://ziektelast.vzinfo.nl
 https://zoekdienst.overheid.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl

@@ -1296,6 +1296,7 @@ burgerloket.acceptatie.hhdelfland.nl
 burgerloket.hhdelfland.nl
 burgerloket.test.hhdelfland.nl
 butler.rijkscloud.nl
+buurtatlas.vzinfo.nl
 bvd-pre.mev.logius.nl
 bvd.logius.nl
 bvd.mev.logius.nl
@@ -4142,6 +4143,7 @@ mode-s.knmi.nl
 modellen.jenvgegevens.nl
 modules.istandaarden.nl
 mogin.ndw.nu
+mondgezondheidsdashboard.vzinfo.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 monitor.rijksoverheid.nl
 monitor01.iaas.rijkscloud.nl
@@ -4386,6 +4388,7 @@ nza-form4.nza.nl
 nza-form5.nza.nl
 nza-form6.nza.nl
 nza.nl
+nzrdashboard.vzinfo.nl
 o-cms.defensie.nl
 o-cms.platformrijksoverheid.nl
 o-cms1.defensie.nl
@@ -6168,6 +6171,8 @@ stelselcatalogus.omgevingswet.overheid.nl
 stelselcatalogus.pfm.omgevingswet.overheid.nl
 stelselcatalogus.pre.omgevingswet.overheid.nl
 stepprx.rijkscloud.nl
+sterftedashboard-regionaal.vzinfo.nl
+sterftedashboard.vzinfo.nl
 stglb.rvo.nl
 stijlgids.cibg.nl
 stijlgids.overheid.nl
@@ -6775,6 +6780,7 @@ vtsd.belastingdienst.nl
 vulnerabilities.ncsc.nl
 vulnerabilities.test.ncsc.nl
 vuurwerk.domeinenrz.nl
+vzinfo.nl
 w3dxweb.knmi.nl
 wabinfo.rijkswaterstaat.nl
 wachttijden.nza.nl
@@ -7641,6 +7647,7 @@ www.voordejeugdenhetgezin.nl
 www.vrachtwagenheffing.nl
 www.vreemdelingenvisie.nl
 www.vt016ed.dictu.nl
+www.vzinfo.nl
 www.watergegevens.rijkswaterstaat.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
@@ -7700,6 +7707,7 @@ zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 zdpushservice.overheid.nl
 zelfbediening.belastingdienst.nl
+ziektelast.vzinfo.nl
 zoek.bodemambities.nl
 zoek.overheid.nl
 zoekdienst-preprod.overheid.nl
