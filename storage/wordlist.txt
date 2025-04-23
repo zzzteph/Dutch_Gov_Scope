@@ -16,8 +16,8 @@ magazines
 mijn
 a-english
 intranet
-acceptatie
 webmail
+acceptatie
 a-feeds.a-english
 a-opendata.a-english
 cms
@@ -144,6 +144,7 @@ survey
 externemail
 m365
 sf
+formulier
 a-cms1
 a-cms2
 a-site1
@@ -168,6 +169,9 @@ cmsintranet
 e
 test-cmsintranet
 test-intranet
+csoacct
+csotest
+sandbox
 mijn-acc
 wiki
 preview
@@ -243,7 +247,6 @@ a-api
 t-cms
 password
 testconn
-formulier
 linkeddata
 subsidie
 thesaurus
@@ -286,9 +289,7 @@ legacy
 preprodformulieren
 remote
 extern
-csoacct
-csotest
-sandbox
+odc
 coronadashboard
 sdg
 AutoDiscover
@@ -296,6 +297,7 @@ begrippen
 inloggen-preprod
 mobile
 telewerken
+m
 zaaksysteem-accept
 sdm
 acc.api
@@ -2043,7 +2045,6 @@ co
 portal2
 portalco
 stagefonds
-odc
 bibliotheek
 azure-a-poc
 ad
@@ -2102,7 +2103,6 @@ wist-fpi
 workspace
 apkl
 integriteitswijzer
-m
 acceptatie-checkjeprijs
 checkjeprijs
 cjib
@@ -4939,6 +4939,16 @@ test-eef
 testdigikoppeling
 wikixl-saml.acceptatie
 wauke
+financials
+ict-ers
+icters
+inkopers
+jobs
+juristen
+rijkstrainee
+rijkstrainees
+stagiairs
+www-sandbox
 passwordmanager
 plek
 ra
