@@ -229,6 +229,7 @@ werkenvoor
 www-test
 helpdesk
 web.acc
+acc2
 broker
 doc
 enterpriseenrollment
@@ -1241,7 +1242,6 @@ sso-acc-tno
 sso-acc1
 sso-acc2
 sso-demo
-sso-demo2
 sso-int
 sso-test
 uptime
@@ -2519,7 +2519,6 @@ wow
 www.daggegevens
 www.klimaatscenarios-data
 innovatielab
-acc2
 welkom-zandbak
 welkom
 inloggen-pre

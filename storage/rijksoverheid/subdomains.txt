@@ -497,6 +497,7 @@ acc1.energiebesparingsverkenner.rvo.nl
 acc1.ep-online.nl
 acc1.mijn.overheid.nl
 acc1.picard.mijn.overheid.nl
+acc2.bronhouderportaal-bro.nl
 acc2.inspectieresultaten.nvwa.nl
 acc2.intranet.rvig.nl
 acc2.leer-rijk.nl
@@ -6125,7 +6126,6 @@ sso-acc-tno.bronhouderportaal-bro.nl
 sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
-sso-demo2.bronhouderportaal-bro.nl
 sso-int.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
 sso.acc.omgevingswet.overheid.nl

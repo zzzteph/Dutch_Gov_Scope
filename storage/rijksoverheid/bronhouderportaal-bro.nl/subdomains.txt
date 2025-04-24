@@ -1,4 +1,5 @@
 acc.bronhouderportaal-bro.nl
+acc2.bronhouderportaal-bro.nl
 broker-preprod.bronhouderportaal-bro.nl
 broker.bronhouderportaal-bro.nl
 bronhouderportaal-bro.nl
@@ -15,7 +16,6 @@ sso-acc-tno.bronhouderportaal-bro.nl
 sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
-sso-demo2.bronhouderportaal-bro.nl
 sso-int.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
 sso.bronhouderportaal-bro.nl
