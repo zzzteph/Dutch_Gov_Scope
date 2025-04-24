@@ -22,8 +22,8 @@ api
 a-feeds.a-english
 a-opendata.a-english
 cms
-vpn
 _dmarc
+vpn
 prod
 _autodiscover._tcp
 redactie
