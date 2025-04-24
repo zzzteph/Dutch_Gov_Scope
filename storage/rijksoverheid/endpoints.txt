@@ -61,6 +61,7 @@ http://autodiscover.scp.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
 http://bacterial-meningitis.nl
+http://beta-dataportal.cbs.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
 http://bpa.rvo.nl
@@ -797,6 +798,7 @@ https://browser.dataplatform.knmi.nl
 https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
+https://btb.cbs.nl
 https://btiv.datawonen.nl
 https://bureaubiosecurity.nl
 https://bureauncdr.nl
@@ -3928,6 +3930,7 @@ https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
 https://www-acc.cbs.nl
 https://www-sandbox.werkenvoornederland.nl
+https://www-test.cbs.nl
 https://www.100aardgasvrijewijken.nl
 https://www.a2vonderenkerensheide.nl
 https://www.aaenmaas.nl

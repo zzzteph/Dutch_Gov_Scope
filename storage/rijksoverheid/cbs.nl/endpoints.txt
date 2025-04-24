@@ -1,5 +1,6 @@
 http://adc.cbs.nl
 http://adc4.cbs.nl
+http://beta-dataportal.cbs.nl
 http://chat.cbs.nl
 http://geoservices2.cbs.nl
 http://mail.dev.cbs.nl
@@ -27,6 +28,7 @@ https://beta.cbs.nl
 https://betaopendata.cbs.nl
 https://blaise.cbs.nl
 https://blaisesupport.cbs.nl
+https://btb.cbs.nl
 https://capi.cbs.nl
 https://cbs.cbs.nl
 https://cbs.nl
@@ -131,6 +133,7 @@ https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://www-acc.cbs.nl
+https://www-test.cbs.nl
 https://www.cbs.nl
 https://www.databestanden.cbs.nl
 https://www.historisch.cbs.nl
