@@ -1,5 +1,6 @@
 abat.acc.belastingdienst.nl
 abo.digilevering.belastingdienst.nl
+abr.acc.belastingdienst.nl
 abr.belastingdienst.nl
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
@@ -12,6 +13,7 @@ amlc.ont.belastingdienst.nl
 amlceu.acc.belastingdienst.nl
 amlcnl.acc.belastingdienst.nl
 apbldexta1.belastingdienst.nl
+apbldexte1.belastingdienst.nl
 apbldexti1.belastingdienst.nl
 apdnsa03-ha-p.dmz.belastingdienst.nl
 apdnsa03-ha-q.dmz.belastingdienst.nl
@@ -55,7 +57,6 @@ b2b.belastingdienst.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
 b2bftp-gemnet.belastingdienst.nl
-b2bftp-osb.belastingdienst.nl
 b2bftp-rijks.belastingdienst.nl
 b2bftp.belastingdienst.nl
 b2bftptest-gemnet.belastingdienst.nl
@@ -142,6 +143,7 @@ digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 dns.belastingdienst.nl
 download.belastingdienst.nl
+download1.belastingdienst.nl
 dpe.belastingdienst.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
@@ -151,6 +153,7 @@ dva.belastingdienst.nl
 efm.belastingdienst.nl
 eladownload.belastingdienst.nl
 emm.belastingdienst.nl
+enterpriseregistration.belastingdienst.nl
 enterpriseregistration.pc.belastingdienst.nl
 etoegang-acc.belastingdienst.nl
 etoegang-mtls-acc.belastingdienst.nl
@@ -319,7 +322,6 @@ kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
-ketentestnvr.belastingdienst.nl
 kp-moss-ut.tst.belastingdienst.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
@@ -419,6 +421,7 @@ mm.ont.belastingdienst.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
+moses.ont.belastingdienst.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
 mta-sts.belastingdienst.nl
@@ -446,7 +449,6 @@ ns3.belastingdienst.nl
 ns4.belastingdienst.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
-o5002proxvapp.ont.belastingdienst.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 officeonline-acc.belastingdienst.nl
@@ -720,6 +722,7 @@ webservices.belastingdienst.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
+webservices.str13.tst.belastingdienst.nl
 webservices.str30.acc.belastingdienst.nl
 website.acc.belastingdienst.nl
 website.belastingdienst.nl

@@ -116,6 +116,7 @@ b2btest-gemnet
 b2btest-osb
 b2btest-rijks
 b2btest
+enterpriseregistration
 mta-sts
 ns2
 services
@@ -269,7 +270,6 @@ servicedesk
 dnadatabank
 feeds.dnadatabank
 opendata.dnadatabank
-enterpriseregistration
 ras
 acceptatie.raadplegen
 raadplegen
@@ -393,6 +393,7 @@ wadsup
 asycuda
 abat.acc
 abo.digilevering
+abr.acc
 abr
 academie.acc
 ace_nat17
@@ -401,6 +402,7 @@ amlc.ont
 amlceu.acc
 amlcnl.acc
 apbldexta1
+apbldexte1
 apbldexti1
 apdnsa03-ha-p.dmz
 apdnsa03-ha-q.dmz
@@ -437,7 +439,6 @@ b2b-security
 b2bcesop
 b2bcesoptest
 b2bftp-gemnet
-b2bftp-osb
 b2bftp-rijks
 b2bftp
 b2bftptest-gemnet
@@ -516,6 +517,7 @@ digipoort-wus
 digitaalvergaderen
 digitaalvergaderen.ont
 dns
+download1
 dpe
 duo2-test
 duo2
@@ -685,7 +687,6 @@ kennisgroepen.acc
 kennisgroepen
 kennisnetwerk.acc
 kennisnetwerk
-ketentestnvr
 kp-moss-ut.tst
 le-webservices-beta
 le-webservices
@@ -782,6 +783,7 @@ mm.ont
 moodle.vcdn
 moodleont.vcdn
 moodletst.vcdn
+moses.ont
 msnp-tegemoetkoming.acc
 msnp-tegemoetkoming
 mtls-tmx-dap-eu.acc
@@ -804,7 +806,6 @@ nple-test
 nple
 o5000proxvapp.ont
 o5001proxvapp.ont
-o5002proxvapp.ont
 odb.acc
 odb
 officeonline-acc
@@ -1063,6 +1064,7 @@ webservices-test4
 webservices.str10.acc
 webservices.str12.acc
 webservices.str13.acc
+webservices.str13.tst
 webservices.str30.acc
 website.acc
 website

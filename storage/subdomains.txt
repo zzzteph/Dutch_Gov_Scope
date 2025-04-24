@@ -350,6 +350,7 @@ abibzk.rijkscloud.nl
 abo.digilevering.belastingdienst.nl
 abonneren.toezichtdocumenten.igj.nl
 aboutnetherlandscustoms.nl
+abr.acc.belastingdienst.nl
 abr.belastingdienst.nl
 ac.sa.svb.nl
 academie.acc.belastingdienst.nl
@@ -743,6 +744,7 @@ anyc.ssc-ict.nl
 anyremote.ssc-ict.nl
 aoep-iam.rvo.nl
 apbldexta1.belastingdienst.nl
+apbldexte1.belastingdienst.nl
 apbldexti1.belastingdienst.nl
 apdnsa03-ha-p.dmz.belastingdienst.nl
 apdnsa03-ha-q.dmz.belastingdienst.nl
@@ -1017,7 +1019,6 @@ b2b.toeslagen.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
 b2bftp-gemnet.belastingdienst.nl
-b2bftp-osb.belastingdienst.nl
 b2bftp-rijks.belastingdienst.nl
 b2bftp.belastingdienst.nl
 b2bftptest-gemnet.belastingdienst.nl
@@ -1980,6 +1981,7 @@ download.belastingdienst.nl
 download.cbs.nl
 download.mail.scp.nl
 download.webmail.knmi.nl
+download1.belastingdienst.nl
 downloaddomain.svb.nl
 downloadmutation-acc.ep-online.nl
 downloadmutation-acc1.ep-online.nl
@@ -2217,6 +2219,7 @@ enquete-tst.dictu.nl
 enquete.dictu.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
+enterpriseregistration.belastingdienst.nl
 enterpriseregistration.domeinenrz.nl
 enterpriseregistration.pc.belastingdienst.nl
 enterpriseregistration.svb.nl
@@ -3570,7 +3573,6 @@ kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
-ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
 keycloak-acc.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
@@ -4243,6 +4245,7 @@ moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
 moordzaak.om.nl
+moses.ont.belastingdienst.nl
 mq.esb.rijkswaterstaat.nl
 mqtt.dataplatform.knmi.nl
 mrcdb.rijkscloud.nl
@@ -4504,7 +4507,6 @@ o5-next-cms.contenttoolsrijksoverheid.nl
 o5-old-cms.contenttoolsrijksoverheid.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
-o5002proxvapp.ont.belastingdienst.nl
 oa.aaenmaas.nl
 oap.ind.nl
 ob.mijn.overheid.nl
@@ -7024,6 +7026,7 @@ webservices.om.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
+webservices.str13.tst.belastingdienst.nl
 webservices.str30.acc.belastingdienst.nl
 webservices1.dictu.nl
 webservices2.dictu.nl
