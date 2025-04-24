@@ -170,6 +170,7 @@ http://metadata.test.zm.irealisatie.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mobiel.douane.nl
+http://monumentenregister.cultureelerfgoed.nl
 http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
 http://notificatie.api.ep-online.nl
@@ -257,7 +258,6 @@ http://timeline.test.zm.irealisatie.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
 http://trade.rvo.nl
-http://tst.subsidie.cultureelerfgoed.nl
 http://uptime.bureauwbtv.nl
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
@@ -2426,7 +2426,6 @@ https://monitoring.efiling.mijnoctrooi.rvo.nl
 https://monitorlangdurigezorg.nl
 https://monitorleefomgeving.zuid-holland.nl
 https://monitorwonen.flevoland.nl
-https://monumentenregister.cultureelerfgoed.nl
 https://moordzaak.om.nl
 https://mqtt.dataplatform.knmi.nl
 https://msgcpp.knmi.nl
@@ -3689,6 +3688,7 @@ https://truck-parking.ndw.nu
 https://ts.onderwijsraad.nl
 https://tst-referentiegegevens.justid.nl
 https://tst.opendata.nederlandwereldwijd.nl
+https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtcollege-gezondheidszorg.nl
 https://tuchtrecht-acc.overheid.nl
