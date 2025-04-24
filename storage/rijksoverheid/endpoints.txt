@@ -5,7 +5,6 @@ http://a-old-cms.contenttoolsrijksoverheid.nl
 http://aanvragen.vergoedingsns.nl
 http://acc-english.rvo.nl
 http://acc-website.rvo.nl
-http://acc.avgregisterrijksoverheid.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
@@ -353,6 +352,7 @@ https://acc.api-sec.p-direkt.nl
 https://acc.api.p-direkt.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
+https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
 https://acc.beeldbellen.dji.nl
 https://acc.bestandenpostbus.nl
