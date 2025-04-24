@@ -25,9 +25,9 @@ cms
 vpn
 _dmarc
 prod
+_autodiscover._tcp
 redactie
 www-acc
-_autodiscover._tcp
 formulieren
 werkplek
 connect
