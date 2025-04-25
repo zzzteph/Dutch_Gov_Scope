@@ -32,6 +32,7 @@ _autodiscover._tcp.cbi.eu
 _autodiscover._tcp.ceg.nl
 _autodiscover._tcp.dezi.nl
 _autodiscover._tcp.emissieautoriteit.nl
+_autodiscover._tcp.emissionsauthority.nl
 _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.natura2000.nl
 _autodiscover._tcp.rda.nl
