@@ -13,7 +13,6 @@ http://rijkspasocsp1.extranet.dictu.nl
 http://rijkspasocsp2-acc.dictu.nl
 http://rijkspasocsp2.dictu.nl
 https://ACC.RD.dictu.nl
-https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
 https://Test-Azure06.dictu.nl
 https://acc.dictu.nl
@@ -52,7 +51,6 @@ https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod.dictu.nl
 https://servicedesk.dictu.nl
-https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
