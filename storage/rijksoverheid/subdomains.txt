@@ -39,6 +39,7 @@ _autodiscover._tcp.rijksorganisatieodi.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
+_dmarc.dji.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
 _dmarc.nza.nl
