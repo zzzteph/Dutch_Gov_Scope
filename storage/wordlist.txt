@@ -54,6 +54,7 @@ webservices
 beeldbank
 onderzoek
 apps
+kennisbank
 loket
 feeds.papiamentu
 opendata.papiamentu
@@ -70,7 +71,6 @@ www2
 zaaksysteem
 forms
 inloggen
-kennisbank
 repository
 mx1
 lyncdiscover
