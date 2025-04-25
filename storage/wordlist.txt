@@ -23,9 +23,9 @@ a-feeds.a-english
 a-opendata.a-english
 cms
 _dmarc
+_autodiscover._tcp
 vpn
 prod
-_autodiscover._tcp
 redactie
 www-acc
 portaal
