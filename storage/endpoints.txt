@@ -102,7 +102,6 @@ http://download.webmail.knmi.nl
 http://dse.lx.overheid.nl
 http://dva.test.mgo.irealisatie.nl
 http://e-learning.rvo.nl
-http://e.flevoland.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://embraceintranet.flevoland.nl
@@ -243,8 +242,10 @@ http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://survey.cibg.nl
 http://test-cms-eef.waterschaplimburg.nl
+http://test-cmsintranet.flevoland.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
+http://test-intranet.flevoland.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-website.rvo.nl
 http://test.atlasnatuurlijkkapitaal.nl
@@ -1190,6 +1191,7 @@ https://e.acc.videobellen.douane.nl
 https://e.acc.videobellen.toeslagen.nl
 https://e.awareness.nationaalcoordinatorgroningen.nl
 https://e.denkmee.zuid-holland.nl
+https://e.flevoland.nl
 https://e.garanties.rvo.nl
 https://e.hhdelfland.nl
 https://e.logius.nl
@@ -3582,7 +3584,6 @@ https://test-cms-bron.waterschaplimburg.nl
 https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
 https://test-cms.rvo.nl
-https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.scp.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
@@ -3590,7 +3591,6 @@ https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-internationaal.ondernemen.overheid.nl
-https://test-intranet.flevoland.nl
 https://test-intranet.scp.nl
 https://test-kpi-dashboard.ndw.nu
 https://test-wetten.rvo.nl
