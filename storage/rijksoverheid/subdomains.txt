@@ -856,6 +856,7 @@ applicationstest.svb.nl
 apps-a.svb.nl
 apps-dev.vechtstromen.nl
 apps-tst.vechtstromen.nl
+apps.acceptatie.feedfoodtransfer.nl
 apps.alma.jvs.ix.rijkscloud.nl
 apps.dictu.nl
 apps.feedfoodtransfer.nl
@@ -1357,6 +1358,7 @@ ca.logius.nl
 caas.ndw.nu
 cabauw.knmi.nl
 cabinetspecialenvoy.com
+cadmium-pig.apps.feedfoodtransfer.nl
 caelus-tool.nl
 calendartst.brabant.nl
 callbook.rdi.nl
@@ -2372,6 +2374,7 @@ fed01.toeslagen.nl
 fed01.tst.toeslagen.nl
 federation.brabant.nl
 feedback.atkm.nl
+feedfoodtransfer.nl
 feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
 feeds.aboutnetherlandscustoms.nl
@@ -3015,6 +3018,7 @@ git.quattro.rijkscloud.nl
 git.rijksoverheid.nl
 git.tst.rijkscloud.nl
 gitdocumentatie.logius.nl
+github.apps.feedfoodtransfer.nl
 gitlab-acc.dictu.nl
 gitlab.analyse.ilt.rijkscloud.nl
 gitlab.anvs.rijkscloud.nl
@@ -7452,6 +7456,7 @@ www.expertisecentrummggz.nl
 www.farmacotherapeutischkompas.nl
 www.farmatec.nl
 www.fbb-handreiking.nl
+www.feedfoodtransfer.nl
 www.financiengemeenten.nl
 www.flevoland.nl
 www.fmhaaglanden.nl
