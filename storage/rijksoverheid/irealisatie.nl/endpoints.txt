@@ -2,6 +2,7 @@ http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://acc.irealisatie.nl
 http://acc.mgo.irealisatie.nl
+http://acc.woo.irealisatie.nl
 http://acme2.proeftuin.uzi-online.irealisatie.nl
 http://addressing.test.zm.irealisatie.nl
 http://dva.test.mgo.irealisatie.nl
@@ -18,6 +19,7 @@ http://lmr.proeftuin.gf.irealisatie.nl
 http://localisation.test.zm.irealisatie.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
+http://lokalisatie-demo.test.gf.irealisatie.nl
 http://mcsd.test.zm.irealisatie.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
@@ -33,7 +35,7 @@ http://prs-stub.test.gf.irealisatie.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
 http://pseudonym.test.zm.irealisatie.nl
-http://qualification-api.test.zm.irealisatie.nl
+http://qualification-admin.test.zm.irealisatie.nl
 http://qualification.test.zm.irealisatie.nl
 http://sat.irealisatie.nl
 http://stats.test.zm.irealisatie.nl
@@ -43,8 +45,8 @@ http://test.dusi.irealisatie.nl
 http://test.gf.irealisatie.nl
 http://test.mgo.irealisatie.nl
 http://test.woo.irealisatie.nl
-http://timeline.test.zm.irealisatie.nl
 http://web.proeftuin.gf.irealisatie.nl
+http://webtooling.irealisatie.nl
 https://adressering.proeftuin.gf.irealisatie.nl
 https://adressering.test.gf.irealisatie.nl
 https://app-api.acc.mgo.irealisatie.nl
@@ -77,7 +79,6 @@ https://lo-ad.acc.mgo.irealisatie.nl
 https://lo-ad.test.mgo.irealisatie.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
-https://lokalisatie-demo.test.gf.irealisatie.nl
 https://lrs.proeftuin.gf.irealisatie.nl
 https://lrs.test.gf.irealisatie.nl
 https://mailcatch.acc.dpr.irealisatie.nl

@@ -14,6 +14,7 @@ http://acc.mgo.irealisatie.nl
 http://acc.oinregister.logius.nl
 http://acc.render.map.services.cultureelerfgoed.nl
 http://acc.translate.services.cultureelerfgoed.nl
+http://acc.woo.irealisatie.nl
 http://acc.zaak.services.cultureelerfgoed.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
@@ -161,6 +162,7 @@ http://lmr.proeftuin.gf.irealisatie.nl
 http://localisation.test.zm.irealisatie.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
+http://lokalisatie-demo.test.gf.irealisatie.nl
 http://longread.brabant.nl
 http://maatwerkadvies-preprod.api.ep-online.nl
 http://mail.dev.cbs.nl
@@ -211,7 +213,7 @@ http://public-preprod.ep-online.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
-http://qualification-api.test.zm.irealisatie.nl
+http://qualification-admin.test.zm.irealisatie.nl
 http://qualification.test.zm.irealisatie.nl
 http://ref.omgevingswet.overheid.nl
 http://release.isis-web.nl
@@ -265,7 +267,6 @@ http://test.mgo.irealisatie.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
-http://timeline.test.zm.irealisatie.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
 http://trade.rvo.nl
@@ -285,6 +286,7 @@ http://w3dxweb.knmi.nl
 http://web.proeftuin.gf.irealisatie.nl
 http://webmail.knmi.nl
 http://webmail.werkenvoornederland.nl
+http://webtooling.irealisatie.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.bacterial-meningitis.nl
 http://www.beeldbank.cultureelerfgoed.nl
@@ -2211,7 +2213,6 @@ https://lokaleregelgeving-acc.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://lokaleregelgeving.overheid.nl
 https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
-https://lokalisatie-demo.test.gf.irealisatie.nl
 https://loket-preprod.hhdelfland.nl
 https://loket.acceptatie.rijkswaterstaat.nl
 https://loket.hhdelfland.nl

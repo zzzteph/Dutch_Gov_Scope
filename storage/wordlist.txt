@@ -2243,6 +2243,7 @@ tl
 acc.dpr
 acc.dusi
 acc.mgo
+acc.woo
 acme2.proeftuin.uzi-online
 addressing.test.zm
 adressering.proeftuin.gf
@@ -2358,6 +2359,7 @@ web.proeftuin.gf
 web.test.dpr
 web.test.gf
 web.test.mgo
+webtooling
 www.test.zm
 yivi.proeftuin.uzi-online
 zvs.woo
