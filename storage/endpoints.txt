@@ -111,6 +111,7 @@ http://ezines.rvo.nl
 http://feeds.english.dggf.nl
 http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
+http://feeds.investeringsimpulsspv.nl
 http://formulier-beheer.dus-i.nl
 http://ftp.ofgv.nl
 http://ftp.schoolleidersregisterpo.nl
@@ -143,6 +144,7 @@ http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
 http://int-prod-01.flevoland.nl
 http://interventies.loketgezondleven.nl
+http://investeringsimpulsspv.nl
 http://jaeger.test.zm.irealisatie.nl
 http://juristen.werkenvoornederland.nl
 http://kat.acc.irealisatie.nl
@@ -185,6 +187,7 @@ http://oosweb.cbs.nl
 http://opendata.english.dggf.nl
 http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
+http://opendata.investeringsimpulsspv.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
@@ -289,6 +292,7 @@ http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
 http://www.entreepgb.svb.nl
+http://www.investeringsimpulsspv.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
@@ -1540,7 +1544,6 @@ https://feeds.informatiehuishouding.nl
 https://feeds.inspectie-jenv.nl
 https://feeds.inspectie-oe.nl
 https://feeds.inspectiebtd.nl
-https://feeds.investeringsimpulsspv.nl
 https://feeds.iob-evaluatie.nl
 https://feeds.it-academieoverheid.nl
 https://feeds.jaarverantwoordingzorg.nl
@@ -2025,7 +2028,6 @@ https://intranet.vechtstromen.nl
 https://intranetvan.rvo.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://investerenin.zuid-holland.nl
-https://investeringsimpulsspv.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://ip.rijkscloud.nl
@@ -2780,7 +2782,6 @@ https://opendata.informatiehuishouding.nl
 https://opendata.inspectie-jenv.nl
 https://opendata.inspectie-oe.nl
 https://opendata.inspectiebtd.nl
-https://opendata.investeringsimpulsspv.nl
 https://opendata.iob-evaluatie.nl
 https://opendata.it-academieoverheid.nl
 https://opendata.jaarverantwoordingzorg.nl
@@ -4220,7 +4221,6 @@ https://www.integratie.omgevingswet.overheid.nl
 https://www.integratie02.omgevingswet.overheid.nl
 https://www.interventiedatabase.nl
 https://www.intpatch.omgevingswet.overheid.nl
-https://www.investeringsimpulsspv.nl
 https://www.iob-evaluatie.nl
 https://www.iplo.nl
 https://www.irealisatie.nl
