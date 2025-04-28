@@ -164,6 +164,7 @@ http://maatwerkadvies-preprod.api.ep-online.nl
 http://mail.dev.cbs.nl
 http://mail.flevoland.nl
 http://mcsd.test.zm.irealisatie.nl
+http://meldingen.ilent.nl
 http://meridian.rijkswaterstaat.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
@@ -234,6 +235,7 @@ http://slechtvalk.brabant.nl
 http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
 http://stagiairs.werkenvoornederland.nl
+http://staging.meldingen.ilent.nl
 http://stats.test.zm.irealisatie.nl
 http://stijlgids.cibg.nl
 http://storage.test.mgo.irealisatie.nl
