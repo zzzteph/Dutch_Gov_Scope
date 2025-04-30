@@ -174,6 +174,7 @@ test-intranet
 csoacct
 csotest
 sandbox
+m
 mijn-acc
 wiki
 preview
@@ -299,7 +300,6 @@ begrippen
 inloggen-preprod
 mobile
 telewerken
-m
 zaaksysteem-accept
 sdm
 acc.api
