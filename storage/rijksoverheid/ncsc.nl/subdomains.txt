@@ -12,7 +12,9 @@ api.ncsc.nl
 bvpn.ncsc.nl
 charlie.ncsc.nl
 chat.ncsc.nl
+chat2.ncsc.nl
 csaf.data.security.ncsc.nl
+dmarcreport.ncsc.nl
 english.ncsc.nl
 feeds.english.ncsc.nl
 feeds.ncsc.nl
@@ -35,6 +37,7 @@ ncsc.nl
 ndn-onderzoek.ncsc.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
+nwrar-acc.ncsc.nl
 opendata.english.ncsc.nl
 opendata.ncsc.nl
 orchestrator.ncsc.nl
