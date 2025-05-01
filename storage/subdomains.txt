@@ -2769,6 +2769,7 @@ fibt2.acc.belastingdienst.nl
 fibt2.acc.toeslagen.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
+file.ndw.nu
 files.iplo.nl
 files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
@@ -3239,6 +3240,7 @@ iam.mijnoctrooi.mypage.rvo.nl
 iam.ndw.nu
 iam.rdi.nl
 iam.rijkswaterstaat.nl
+iam.staging.ndw.nu
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
@@ -5553,6 +5555,7 @@ rdsapplications05.svb.nl
 rdsapplications06.svb.nl
 rdsapplications07.svb.nl
 realtime.ndw.nu
+realtime.staging.ndw.nu
 rechtsbijstand.nl
 rechtwijzer.nl
 redactie-acc.cbs.nl

@@ -30,9 +30,11 @@ https://faq.ndw.nu
 https://fbmonitor.ndw.nu
 https://feeds.english.ndw.nu
 https://feeds.ndw.nu
+https://file.ndw.nu
 https://geojson-converter.ndw.nu
 https://havik.ndw.nu
 https://iam.ndw.nu
+https://iam.staging.ndw.nu
 https://internal-docs.ndw.nu
 https://karin.ndw.nu
 https://keycloak.ndw.nu
@@ -61,6 +63,7 @@ https://opendata.english.ndw.nu
 https://opendata.ndw.nu
 https://put-kpi-dashboard.ndw.nu
 https://realtime.ndw.nu
+https://realtime.staging.ndw.nu
 https://reistijdtrajecten.ndw.nu
 https://rt.ndw.nu
 https://s.ndw.nu

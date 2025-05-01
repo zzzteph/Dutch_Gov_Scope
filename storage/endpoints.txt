@@ -1731,6 +1731,7 @@ https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
+https://file.ndw.nu
 https://files.iplo.nl
 https://files.klimaatadaptatienederland.nl
 https://filesender.ctgb.nl
@@ -1923,6 +1924,7 @@ https://iam-containerplatform.lpc.logius.nl
 https://iam.mijnoctrooi.mypage.rvo.nl
 https://iam.ndw.nu
 https://iam.rijkswaterstaat.nl
+https://iam.staging.ndw.nu
 https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
 https://ibg.webftp.dictu.nl
@@ -3237,6 +3239,7 @@ https://rdsapplications02.svb.nl
 https://rdsapplications03.svb.nl
 https://rdsapplications07.svb.nl
 https://realtime.ndw.nu
+https://realtime.staging.ndw.nu
 https://rechtsbijstand.nl
 https://rechtwijzer.nl
 https://redactie-acc.cbs.nl

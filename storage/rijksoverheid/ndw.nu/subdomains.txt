@@ -31,9 +31,11 @@ faq.ndw.nu
 fbmonitor.ndw.nu
 feeds.english.ndw.nu
 feeds.ndw.nu
+file.ndw.nu
 geojson-converter.ndw.nu
 havik.ndw.nu
 iam.ndw.nu
+iam.staging.ndw.nu
 internal-docs.ndw.nu
 karin.ndw.nu
 keycloak.ndw.nu
@@ -62,6 +64,7 @@ opendata.english.ndw.nu
 opendata.ndw.nu
 put-kpi-dashboard.ndw.nu
 realtime.ndw.nu
+realtime.staging.ndw.nu
 reistijdtrajecten.ndw.nu
 rt.ndw.nu
 s.ndw.nu
