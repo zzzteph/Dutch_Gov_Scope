@@ -339,6 +339,7 @@ acceptatie.portaal
 mx2
 a-voorlichting
 track
+voorlichting
 media
 transfer
 access
@@ -2802,6 +2803,7 @@ acc.opendata
 dev.informatieservice
 dev.opendata
 informatieservice
+links.informatieservice
 o2.mail.informatieservice
 prod2.opendata
 tst.opendata
@@ -4238,7 +4240,6 @@ t-voor1
 teverantwoordenregelingen
 voor1
 voor2
-voorlichting
 webtest10
 woo-formulier
 a-mediabank
