@@ -59,6 +59,7 @@ loket
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
+acceptatie.beheer
 atlas
 hybrid
 kaarten
@@ -78,7 +79,6 @@ maps
 geodata
 fs
 werken
-acceptatie.beheer
 acceptatie.mijn
 beheer
 app
