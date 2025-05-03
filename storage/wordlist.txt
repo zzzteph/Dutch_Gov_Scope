@@ -77,6 +77,7 @@ mx1
 lyncdiscover
 maps
 geodata
+enterpriseregistration
 fs
 werken
 acceptatie.mijn
@@ -116,7 +117,6 @@ b2btest-gemnet
 b2btest-osb
 b2btest-rijks
 b2btest
-enterpriseregistration
 mta-sts
 ns2
 services
