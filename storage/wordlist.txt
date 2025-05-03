@@ -347,6 +347,7 @@ pop
 e-learning
 import-acc.organisaties
 import.organisaties
+organisaties
 data-acc
 standaarden
 wetten
@@ -3202,7 +3203,6 @@ oproepingen
 organisaties-acc
 organisaties-redactie-acc
 organisaties-redactie
-organisaties
 oss.developer
 pdc.acc.omgevingswet
 pdc.int.omgevingswet
