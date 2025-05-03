@@ -805,6 +805,7 @@ api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
 api.mijn.acc.ncsc.nl
 api.mijn.ncsc.nl
+api.mijn.overheid.nl
 api.mijn.test.ncsc.nl
 api.nationaalwegenbestand.nl
 api.ncsc.nl
@@ -827,6 +828,7 @@ api.tst3.mijn.overheid.nl
 api.tst4.mijn.overheid.nl
 api.tst5.mijn.overheid.nl
 api.tst6.mijn.overheid.nl
+api.tst7.mijn.overheid.nl
 api.vallei-veluwe.nl
 api.zorgaanbiedersportaal.nl
 apikey-preprod.ep-online.nl
@@ -1417,6 +1419,7 @@ cbm.tst3.mijn.overheid.nl
 cbm.tst4.mijn.overheid.nl
 cbm.tst5.mijn.overheid.nl
 cbm.tst6.mijn.overheid.nl
+cbm.tst7.mijn.overheid.nl
 cbnaan.entreepgb.svb.nl
 cbo-a.dictu.nl
 cbo-b.dictu.nl
@@ -2925,6 +2928,7 @@ gegevensdelen.tst3.mijn.overheid.nl
 gegevensdelen.tst4.mijn.overheid.nl
 gegevensdelen.tst5.mijn.overheid.nl
 gegevensdelen.tst6.mijn.overheid.nl
+gegevensdelen.tst7.mijn.overheid.nl
 gegevensportaal.acc.belastingdienst.nl
 gegevensportaal.belastingdienst.nl
 gegevensuitwisseling.acc.belastingdienst.nl

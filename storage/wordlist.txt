@@ -336,6 +336,7 @@ upnl-zw-acc.mijn
 upnl-zw.mijn
 upnl.mijn
 acceptatie.portaal
+api.mijn
 mx2
 a-voorlichting
 track
@@ -2671,7 +2672,6 @@ advisories
 advisories.test
 api.acc
 api.mijn.acc
-api.mijn
 api.mijn.test
 bvpn
 charlie
@@ -2973,6 +2973,7 @@ api.tst3.mijn
 api.tst4.mijn
 api.tst5.mijn
 api.tst6.mijn
+api.tst7.mijn
 apis.developer
 artifact-pp1.toegang
 artifact-pp2.toegang
@@ -3047,6 +3048,7 @@ cbm.tst3.mijn
 cbm.tst4.mijn
 cbm.tst5.mijn
 cbm.tst6.mijn
+cbm.tst7.mijn
 cia.acp.ondernemersplein
 cia.ondernemersplein
 cia.staging.ondernemersplein
@@ -3135,6 +3137,7 @@ gegevensdelen.tst3.mijn
 gegevensdelen.tst4.mijn
 gegevensdelen.tst5.mijn
 gegevensdelen.tst6.mijn
+gegevensdelen.tst7.mijn
 identifier-acc
 identifier-preprod
 identifier

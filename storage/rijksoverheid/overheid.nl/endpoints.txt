@@ -1,4 +1,4 @@
-http://cbm.demo.mijn.overheid.nl
+http://boub-api-acc.overheid.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -14,6 +14,7 @@ https://algoritme.overheid.nl
 https://algoritmen.overheid.nl
 https://algoritmes.overheid.nl
 https://almanak.overheid.nl
+https://api.mijn.overheid.nl
 https://api.ondernemersplein.overheid.nl
 https://api.preprod.mijn.overheid.nl
 https://api.standaarden.overheid.nl
@@ -47,7 +48,6 @@ https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
 https://bgt.basisregistraties.overheid.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
-https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bouw.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl
@@ -55,6 +55,7 @@ https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
+https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://cia.acp.ondernemersplein.overheid.nl

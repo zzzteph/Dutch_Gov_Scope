@@ -37,6 +37,7 @@ api.acc2.mijn.overheid.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
+api.mijn.overheid.nl
 api.ondernemersplein.overheid.nl
 api.preprod.mijn.overheid.nl
 api.standaarden.overheid.nl
@@ -48,6 +49,7 @@ api.tst3.mijn.overheid.nl
 api.tst4.mijn.overheid.nl
 api.tst5.mijn.overheid.nl
 api.tst6.mijn.overheid.nl
+api.tst7.mijn.overheid.nl
 apis.developer.overheid.nl
 artifact-pp1.toegang.overheid.nl
 artifact-pp2.toegang.overheid.nl
@@ -123,6 +125,7 @@ cbm.tst3.mijn.overheid.nl
 cbm.tst4.mijn.overheid.nl
 cbm.tst5.mijn.overheid.nl
 cbm.tst6.mijn.overheid.nl
+cbm.tst7.mijn.overheid.nl
 cia.acp.ondernemersplein.overheid.nl
 cia.ondernemersplein.overheid.nl
 cia.staging.ondernemersplein.overheid.nl
@@ -216,6 +219,7 @@ gegevensdelen.tst3.mijn.overheid.nl
 gegevensdelen.tst4.mijn.overheid.nl
 gegevensdelen.tst5.mijn.overheid.nl
 gegevensdelen.tst6.mijn.overheid.nl
+gegevensdelen.tst7.mijn.overheid.nl
 identifier-acc.overheid.nl
 identifier-preprod.overheid.nl
 identifier.overheid.nl

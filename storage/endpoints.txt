@@ -65,6 +65,7 @@ http://bacterial-meningitis.nl
 http://beta-dataportal.cbs.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
+http://boub-api-acc.overheid.nl
 http://bpa.rvo.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
@@ -74,7 +75,6 @@ http://c-pki.extranet.dictu.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
 http://cb.entreepgb.svb.nl
-http://cbm.demo.mijn.overheid.nl
 http://cesar-database.knmi.nl
 http://cev.nl
 http://channels-az1.lpc.logius.nl
@@ -583,6 +583,7 @@ https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.mijn.acc.ncsc.nl
 https://api.mijn.ncsc.nl
+https://api.mijn.overheid.nl
 https://api.mijn.test.ncsc.nl
 https://api.ncsc.nl
 https://api.nederlandwereldwijd.nl
@@ -790,7 +791,6 @@ https://bodemvizier.nl
 https://boetebase.om.nl
 https://bofeb.nl
 https://botova.rijkswaterstaat.nl
-https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bouw.omgevingswet.overheid.nl
 https://bp.stopheling.nl
@@ -854,6 +854,7 @@ https://cawuitwijkfirewall.hdsr.nl
 https://cbg-meb.nl
 https://cbgjaarverslag.nl
 https://cbi.eu
+https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.ndw.nu
 https://cbm.preprod.mijn.overheid.nl
