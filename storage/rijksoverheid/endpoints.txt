@@ -1829,7 +1829,6 @@ https://geoservices.knmi.nl
 https://geoservices.rvo.nl
 https://geoservices.zuid-holland.nl
 https://geoweb.odmh.nl
-https://geoweb.rijkswaterstaat.nl
 https://geoweb.vechtstromen.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://gezondeleefomgeving.nl
@@ -4530,6 +4529,7 @@ https://zaaksysteem-accept.zuid-holland.nl
 https://zaaksysteem.hdsr.nl
 https://zaaksysteem.inspectie-jenv.nl
 https://zaaksysteem.odmh.nl
+https://zaaksysteem.rijkswaterstaat.nl
 https://zaaksysteem.vechtstromen.nl
 https://zaaksysteem.zuid-holland.nl
 https://ziektelast.vzinfo.nl

@@ -23,7 +23,6 @@ https://esb.rijkswaterstaat.nl
 https://etl.rijkswaterstaat.nl
 https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://geo.rijkswaterstaat.nl
-https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://innovatieloket-acc.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl
@@ -84,4 +83,5 @@ https://www.bezoekerscentrum.rijkswaterstaat.nl
 https://www.rijkswaterstaat.nl
 https://www.werkenbij.rijkswaterstaat.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
+https://zaaksysteem.rijkswaterstaat.nl
 https://zwerfafval.rijkswaterstaat.nl
