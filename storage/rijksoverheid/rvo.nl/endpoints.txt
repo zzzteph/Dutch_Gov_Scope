@@ -3,10 +3,12 @@ http://acc-website.rvo.nl
 http://bpa.rvo.nl
 http://d7.rvo.nl
 http://e-learning.rvo.nl
+http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
 http://ezines.rvo.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
+http://intra-acc.rvo.nl
 http://prod.rvo.nl
 http://rhel-np-mijn.rvo.nl
 http://test-english.rvo.nl
@@ -27,6 +29,7 @@ https://auth-iam.mijnoctrooi.mypage.rvo.nl
 https://cms-extern.rvo.nl
 https://cms.projects.rvo.nl
 https://cms.rvo.nl
+https://cms.werkenbij.rvo.nl
 https://confluenceimg-acc.rvo.nl
 https://confluenceimg.rvo.nl
 https://crowdtech.rvo.nl
@@ -51,7 +54,6 @@ https://iam.mijnoctrooi.mypage.rvo.nl
 https://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
-https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl

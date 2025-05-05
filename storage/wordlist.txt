@@ -69,6 +69,7 @@ mdm
 portal
 digikoppeling
 kennis
+werkenbij
 www2
 forms
 inloggen
@@ -93,7 +94,6 @@ a-cms
 dwo
 mam
 ns1
-werkenbij
 www.mijn
 adfs
 www-a
@@ -4461,6 +4461,7 @@ clientcert-test
 clientcert
 cms-extern
 cms.projects
+cms.werkenbij
 confluenceimg-acc
 confluenceimg
 crowdtech
@@ -4484,6 +4485,7 @@ emobility-acc
 emobility
 energiebesparingsverkenner-ws
 energiebesparingsverkenner
+energielabel-checker
 energieslag
 english-data
 epbdwebservices-acc
@@ -4534,7 +4536,6 @@ monitoring-edu.efiling.mijnoctrooi
 monitoring-infra-edu.efiling.mijnoctrooi
 monitoring-infra-preprod.efiling.mijnoctrooi
 monitoring-infra.efiling.mijnoctrooi
-monitoring-preprod.efiling.mijnoctrooi
 monitoring.efiling.mijnoctrooi
 offshorewind
 ojb

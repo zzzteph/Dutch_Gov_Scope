@@ -56,6 +56,7 @@ clientcert.rvo.nl
 cms-extern.rvo.nl
 cms.projects.rvo.nl
 cms.rvo.nl
+cms.werkenbij.rvo.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
 crowdtech.rvo.nl
@@ -81,6 +82,7 @@ emobility-acc.rvo.nl
 emobility.rvo.nl
 energiebesparingsverkenner-ws.rvo.nl
 energiebesparingsverkenner.rvo.nl
+energielabel-checker.rvo.nl
 energieslag.rvo.nl
 english-data.rvo.nl
 english.rvo.nl
@@ -141,7 +143,6 @@ monitoring-edu.efiling.mijnoctrooi.rvo.nl
 monitoring-infra-edu.efiling.mijnoctrooi.rvo.nl
 monitoring-infra-preprod.efiling.mijnoctrooi.rvo.nl
 monitoring-infra.efiling.mijnoctrooi.rvo.nl
-monitoring-preprod.efiling.mijnoctrooi.rvo.nl
 monitoring.efiling.mijnoctrooi.rvo.nl
 nieuws.rvo.nl
 offshorewind.rvo.nl
@@ -226,6 +227,7 @@ webservice-acc1.energiebesparingsverkenner.rvo.nl
 webservice.energiebesparingsverkenner.rvo.nl
 webwinkel.rvo.nl
 wereldzaken.rvo.nl
+werkenbij.rvo.nl
 wetten.rvo.nl
 windviewer.rvo.nl
 www.acc-energiebesparingsverkenner.rvo.nl
