@@ -4533,6 +4533,7 @@ o-cms1.rijksoverheid.nl
 o-site1.defensie.nl
 o-site1.platformrijksoverheid.nl
 o-site1.rijksoverheid.nl
+o-static.rijksoverheid.nl
 o-voor1.rijksoverheid.nl
 o-www.defensie.nl
 o-www.government.nl
@@ -6397,6 +6398,7 @@ syswov.datawonen.nl
 t-api.contenttoolsrijksoverheid.nl
 t-cms.contenttoolsrijksoverheid.nl
 t-cms.defensie.nl
+t-cms.rijksoverheid.nl
 t-cms1.defensie.nl
 t-cms1.rijksoverheid.nl
 t-feeds.rijksoverheid.nl
@@ -6407,6 +6409,7 @@ t-persberichten.rijksoverheid.nl
 t-ps.platformrijksoverheid.nl
 t-site1.defensie.nl
 t-site1.rijksoverheid.nl
+t-static.rijksoverheid.nl
 t-test.belastingdienst.nl
 t-voor1.rijksoverheid.nl
 t-www.defensie.nl

@@ -143,6 +143,7 @@ micollab
 www1
 stijlgids
 survey
+t-cms
 externemail
 m365
 sf
@@ -248,7 +249,6 @@ acceptatie.digikoppeling2
 digikoppeling2
 tmv
 a-api
-t-cms
 password
 testconn
 linkeddata
@@ -4229,6 +4229,7 @@ i-voor1
 informatiepuntkinderopvangtoeslag
 med-srv20
 monitor
+o-static
 o-voor1
 opendata.persberichten
 persberichten
@@ -4240,6 +4241,7 @@ site8
 t-feeds
 t-magazines
 t-persberichten
+t-static
 t-voor1
 teverantwoordenregelingen
 voor1

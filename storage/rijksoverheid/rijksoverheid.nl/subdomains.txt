@@ -53,6 +53,7 @@ med-srv20.rijksoverheid.nl
 monitor.rijksoverheid.nl
 o-cms1.rijksoverheid.nl
 o-site1.rijksoverheid.nl
+o-static.rijksoverheid.nl
 o-voor1.rijksoverheid.nl
 o-www.rijksoverheid.nl
 opendata.persberichten.rijksoverheid.nl
@@ -73,11 +74,13 @@ site8.rijksoverheid.nl
 smtp.rijksoverheid.nl
 static.rijksoverheid.nl
 statistiek.rijksoverheid.nl
+t-cms.rijksoverheid.nl
 t-cms1.rijksoverheid.nl
 t-feeds.rijksoverheid.nl
 t-magazines.rijksoverheid.nl
 t-persberichten.rijksoverheid.nl
 t-site1.rijksoverheid.nl
+t-static.rijksoverheid.nl
 t-voor1.rijksoverheid.nl
 t-www.rijksoverheid.nl
 teverantwoordenregelingen.rijksoverheid.nl
