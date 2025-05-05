@@ -34,13 +34,13 @@ werkplek
 connect
 data
 meet
+sip
 proto
 www-ac
 www-dev
 www-p
 www-tst
 login
-sip
 smtp
 zoeken
 ftp
