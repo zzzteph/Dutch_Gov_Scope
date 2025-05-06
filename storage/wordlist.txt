@@ -18,11 +18,11 @@ a-english
 intranet
 webmail
 acceptatie
+_autodiscover._tcp
 api
 a-feeds.a-english
 a-opendata.a-english
 cms
-_autodiscover._tcp
 _dmarc
 vpn
 prod

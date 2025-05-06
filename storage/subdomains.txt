@@ -40,6 +40,7 @@ _autodiscover._tcp.natura2000.nl
 _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
 _autodiscover._tcp.rijksorganisatieodi.nl
+_autodiscover._tcp.tlokb.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
