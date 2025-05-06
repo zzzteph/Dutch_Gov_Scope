@@ -1319,6 +1319,7 @@ https://english.wrr.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
+https://enterpriseenrollment.svb.nl
 https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.domeinenrz.nl
 https://enterpriseregistration.ofgv.nl
@@ -3235,9 +3236,11 @@ https://rda.nl
 https://rdi.nl
 https://rdsa.knmi.nl
 https://rdsapplications00.svb.nl
-https://rdsapplications01.svb.nl
 https://rdsapplications02.svb.nl
 https://rdsapplications03.svb.nl
+https://rdsapplications04.svb.nl
+https://rdsapplications05.svb.nl
+https://rdsapplications06.svb.nl
 https://rdsapplications07.svb.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
@@ -3609,6 +3612,7 @@ https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
 https://test-cms.rvo.nl
 https://test-cmsintranet.scp.nl
+https://test-cmsintranet.svb.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
@@ -3616,6 +3620,7 @@ https://test-dictu.logius.nl
 https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intranet.scp.nl
+https://test-intranet.svb.nl
 https://test-kpi-dashboard.ndw.nu
 https://test-wetten.rvo.nl
 https://test.actueel.nl-alert.nl

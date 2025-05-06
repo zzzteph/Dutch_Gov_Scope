@@ -2256,6 +2256,7 @@ enquete-tst.dictu.nl
 enquete.dictu.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
+enterpriseenrollment.svb.nl
 enterpriseregistration.belastingdienst.nl
 enterpriseregistration.domeinenrz.nl
 enterpriseregistration.ofgv.nl
@@ -4347,7 +4348,10 @@ mx1.ofgv.nl
 mx1.svb.nl
 mx1.vallei-veluwe.nl
 mx2.ncsc.nl
+mx2.svb.nl
 mx2.vallei-veluwe.nl
+mx3.svb.nl
+mx4.svb.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl

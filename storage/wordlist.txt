@@ -135,6 +135,7 @@ wifi
 sso
 static
 conf
+enterpriseenrollment
 sts
 elearning
 academy
@@ -179,6 +180,7 @@ m
 mijn-acc
 wiki
 preview
+mx2
 iam
 magazinesintern
 av
@@ -233,7 +235,6 @@ web.acc
 acc2
 broker
 doc
-enterpriseenrollment
 crm
 ts
 accounts
@@ -336,7 +337,6 @@ upnl-zw.mijn
 upnl.mijn
 acceptatie.portaal
 api.mijn
-mx2
 a-voorlichting
 track
 voorlichting
@@ -4831,6 +4831,8 @@ msft-tst
 msft
 mta-a
 mta-p
+mx3
+mx4
 mydesktop
 pages
 pers

@@ -60,6 +60,7 @@ desktoponte.entreepgb.svb.nl
 desktoptepr.entreepgb.svb.nl
 desktoptest.entreepgb.svb.nl
 downloaddomain.svb.nl
+enterpriseenrollment.svb.nl
 enterpriseregistration.svb.nl
 entreepgb.svb.nl
 events.svb.nl
@@ -96,6 +97,9 @@ msft.svb.nl
 mta-a.svb.nl
 mta-p.svb.nl
 mx1.svb.nl
+mx2.svb.nl
+mx3.svb.nl
+mx4.svb.nl
 mydesktop.svb.nl
 ns1.svb.nl
 onderzoek.svb.nl
