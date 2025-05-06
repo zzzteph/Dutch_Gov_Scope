@@ -215,7 +215,6 @@ toestemming
 vc
 videobellen
 webdiensten
-poc
 behandel
 zoek
 acs
@@ -1111,6 +1110,7 @@ bewerken-acc
 bewerken-test
 bewerken
 collabora.poc1
+poc
 poc1
 acceptatie.advieswijzer
 acceptatie.api
