@@ -123,6 +123,7 @@ services
 sharepoint-acc
 sharepoint-conf
 sharepoint
+videobellen
 acceptatie.behandel
 acceptatie.webservices
 acceptatie.zoeken
@@ -215,7 +216,6 @@ sa
 start
 toestemming
 vc
-videobellen
 webdiensten
 behandel
 zoek
