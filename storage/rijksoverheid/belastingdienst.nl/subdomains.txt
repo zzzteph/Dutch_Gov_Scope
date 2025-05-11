@@ -12,6 +12,7 @@ amlc.acc.belastingdienst.nl
 amlc.ont.belastingdienst.nl
 amlceu.acc.belastingdienst.nl
 amlcnl.acc.belastingdienst.nl
+amx.belastingdienst.nl
 apbldexta1.belastingdienst.nl
 apbldexte1.belastingdienst.nl
 apbldexti1.belastingdienst.nl
@@ -57,6 +58,7 @@ b2b.belastingdienst.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
 b2bftp-gemnet.belastingdienst.nl
+b2bftp-osb.belastingdienst.nl
 b2bftp-rijks.belastingdienst.nl
 b2bftp.belastingdienst.nl
 b2bftptest-gemnet.belastingdienst.nl
@@ -132,6 +134,7 @@ cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
 datumprikker.belastingdienst.nl
+dbcrco.belastingdienst.nl
 dbpmo.belastingdienst.nl
 delta.belastingdienst.nl
 digipoort-vpn1.belastingdienst.nl
@@ -301,6 +304,7 @@ intranet.belastingdienst.nl
 intratst.belastingdienst.nl
 isamproxyont.ont.belastingdienst.nl
 jong.belastingdienst.nl
+jouw.belastingdienst.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -322,6 +326,7 @@ kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
+ketentestnvr.belastingdienst.nl
 kp-moss-ut.tst.belastingdienst.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
@@ -449,6 +454,7 @@ ns3.belastingdienst.nl
 ns4.belastingdienst.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
+o5002proxvapp.ont.belastingdienst.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 officeonline-acc.belastingdienst.nl
@@ -747,6 +753,7 @@ wustest-osb.belastingdienst.nl
 wustest-rijks.belastingdienst.nl
 wustest.belastingdienst.nl
 www.belastingdienst.nl
+www.carriere.belastingdienst.nl
 www.gtmx.acc.belastingdienst.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl

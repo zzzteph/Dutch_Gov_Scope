@@ -745,6 +745,7 @@ amp-pre.logius.nl
 amp.logius.nl
 ams-closures.ndw.nu
 amunet.cbs.nl
+amx.belastingdienst.nl
 analytics.dataplatform.knmi.nl
 analytics.feni.ienw.rijkscloud.nl
 analytics.ienw.rijkscloud.nl
@@ -1043,6 +1044,7 @@ b2b.toeslagen.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
 b2bftp-gemnet.belastingdienst.nl
+b2bftp-osb.belastingdienst.nl
 b2bftp-rijks.belastingdienst.nl
 b2bftp.belastingdienst.nl
 b2bftptest-gemnet.belastingdienst.nl
@@ -1846,6 +1848,7 @@ dbb-acc.igj.nl
 dbb.igj.nl
 dbbprodmta01.dbb.igj.nl
 dbbtamta01.dbb-acc.igj.nl
+dbcrco.belastingdienst.nl
 dbe-t.rvb.rijkscloud.nl
 dbpmo.belastingdienst.nl
 dc.ssc-ict.nl
@@ -3514,6 +3517,7 @@ jmopendata.cbs.nl
 jobs.werkenvoornederland.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
+jouw.belastingdienst.nl
 jupyter-almalinux.dgdoobi.rijkscloud.nl
 jupyter.abibzk.rijkscloud.nl
 jupyter.acc.rijkscloud.nl
@@ -3625,6 +3629,7 @@ kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
+ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
 keycloak-acc.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
@@ -4573,6 +4578,7 @@ o5-next-cms.contenttoolsrijksoverheid.nl
 o5-old-cms.contenttoolsrijksoverheid.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
+o5002proxvapp.ont.belastingdienst.nl
 oa.aaenmaas.nl
 oap.ind.nl
 ob.mijn.overheid.nl
@@ -7411,6 +7417,7 @@ www.c2000.nl
 www.cabinetspecialenvoy.com
 www.campagnetoolkits.nl
 www.caorijk.nl
+www.carriere.belastingdienst.nl
 www.catshuis.nl
 www.cbg-meb.nl
 www.cbgjaarverslag.nl

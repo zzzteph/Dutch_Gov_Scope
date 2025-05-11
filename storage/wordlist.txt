@@ -408,6 +408,7 @@ amlc.acc
 amlc.ont
 amlceu.acc
 amlcnl.acc
+amx
 apbldexta1
 apbldexte1
 apbldexti1
@@ -446,6 +447,7 @@ b2b-security
 b2bcesop
 b2bcesoptest
 b2bftp-gemnet
+b2bftp-osb
 b2bftp-rijks
 b2bftp
 b2bftptest-gemnet
@@ -514,6 +516,7 @@ cts4k
 ctstest
 ctstest4k
 datumprikker
+dbcrco
 dbpmo
 delta
 digipoort-vpn1
@@ -673,6 +676,7 @@ intermediairdagen
 intratst
 isamproxyont.ont
 jong
+jouw
 kasdimsigning-cnf
 kasdimsigning
 kasdimsigning.test
@@ -694,6 +698,7 @@ kennisgroepen.acc
 kennisgroepen
 kennisnetwerk.acc
 kennisnetwerk
+ketentestnvr
 kp-moss-ut.tst
 le-webservices-beta
 le-webservices
@@ -813,6 +818,7 @@ nple-test
 nple
 o5000proxvapp.ont
 o5001proxvapp.ont
+o5002proxvapp.ont
 odb.acc
 odb
 officeonline-acc
@@ -1094,6 +1100,7 @@ wustest-gemnet
 wustest-osb
 wustest-rijks
 wustest
+www.carriere
 www.gtmx.acc
 www.sharepoint-conf
 www.sharepoint
