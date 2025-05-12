@@ -413,6 +413,7 @@ acc-raadplegen.donorregister.nl
 acc-rd.dictu.nl
 acc-referentiegegevens.justid.nl
 acc-saml.rd.2wssl.dictu.nl
+acc-v2.bronhouderportaal-bro.nl
 acc-vinden.cbs.nl
 acc-webform.rvo.nl
 acc-webservice-tdv.igj.nl
@@ -6201,6 +6202,7 @@ sso-acc-tno.bronhouderportaal-bro.nl
 sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
+sso-demo2.bronhouderportaal-bro.nl
 sso-int.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
 sso.acc.omgevingswet.overheid.nl
