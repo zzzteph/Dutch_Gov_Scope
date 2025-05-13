@@ -124,6 +124,7 @@ http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
 http://geo2.flevoland.nl
+http://geoserver.cbs.nl
 http://geoservices2.cbs.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
@@ -758,6 +759,7 @@ https://besluitpreviewservice.overheid.nl
 https://bestandenpostbus.nl
 https://bestandslevering.cbs.nl
 https://bestandsportaal.cibg.nl
+https://beta-iv3-controle.cbs.nl
 https://beta.belastingdienst.nl
 https://beta.cbs.nl
 https://betalen-cnf.belastingdienst.nl
@@ -1048,6 +1050,7 @@ https://dashboards.ipi.rijkscloud.nl
 https://dashboards.ndw.nu
 https://dashboards.rdi.rijkscloud.nl
 https://dashboards.staging.ndw.nu
+https://dashboards.test.cbs.nl
 https://data-acc.overheid.nl
 https://data-streamer.ndw.nu
 https://data.cultureelerfgoed.nl
@@ -1828,7 +1831,6 @@ https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
 https://georegister.brabant.nl
 https://georegister.flevoland.nl
-https://geoserver.cbs.nl
 https://geoserver.limburg.nl
 https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
@@ -1906,6 +1908,7 @@ https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
 https://hhdelfland.nl
 https://highcharts-acc.cbs.nl
+https://highcharts-test.cbs.nl
 https://highcharts.cbs.nl
 https://hip-acc.huurcommissie.nl
 https://hip.huurcommissie.nl
@@ -2060,6 +2063,7 @@ https://istandaarden.nl
 https://it-academieoverheid.nl
 https://itsupport.nza.nl
 https://iv3-controle-api.cbs.nl
+https://iv3-controle.beta.cbs.nl
 https://iv3-controle.cbs.nl
 https://iv3statline.cbs.nl
 https://ivo-acc.nvwa.nl
@@ -3890,6 +3894,7 @@ https://webmail.flevoland.nl
 https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
 https://webmail.rijkscloud.nl
+https://webserver.cbs.nl
 https://webservice-acc.sbv-z.nl
 https://webservice.ep-online.nl
 https://webservice.sbv-z.nl

@@ -24,6 +24,7 @@ beeldbank.cbs.nl
 beo.cbs.nl
 bestandslevering.cbs.nl
 beta-dataportal.cbs.nl
+beta-iv3-controle.cbs.nl
 beta.cbs.nl
 beta.opendata.cbs.nl
 betalinkeddata.cbs.nl
@@ -47,6 +48,7 @@ content.cbs.nl
 content1.cbs.nl
 contentadapter.cbs.nl
 dashboards.cbs.nl
+dashboards.test.cbs.nl
 databestanden.cbs.nl
 dataderden.cbs.nl
 dataportaal.cbs.nl
@@ -72,7 +74,6 @@ geoserver.cbs.nl
 geoservices.cbs.nl
 geoservices2.cbs.nl
 good.cbs.nl
-gslb.cbs.nl
 helpmee.cbs.nl
 highcharts-acc.cbs.nl
 highcharts-test.cbs.nl
@@ -84,6 +85,7 @@ hybridexo.cbs.nl
 ihg.cbs.nl
 isi.cbs.nl
 iv3-controle-api.cbs.nl
+iv3-controle.beta.cbs.nl
 iv3-controle.cbs.nl
 iv3-pilot.cbs.nl
 iv3statline.cbs.nl
@@ -109,6 +111,8 @@ mediaportal.cbs.nl
 micollab.cbs.nl
 micollabtest.cbs.nl
 microdata.cbs.nl
+microdata2.cbs.nl
+microdatavpn.cbs.nl
 mig.cbs.nl
 mijn-api.cbs.nl
 mijn.cbs.nl
@@ -178,6 +182,7 @@ videos.cbs.nl
 vocabs.cbs.nl
 vpn1.cbs.nl
 vpn2.cbs.nl
+webserver.cbs.nl
 welkombij.cbs.nl
 werkplek.cbs.nl
 werkplekom.cbs.nl

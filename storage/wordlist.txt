@@ -1302,6 +1302,7 @@ beeldbank-beheer
 beo
 bestandslevering
 beta-dataportal
+beta-iv3-controle
 beta.opendata
 betalinkeddata
 betaopendata
@@ -1319,6 +1320,7 @@ claircitydata
 cn
 content1
 contentadapter
+dashboards.test
 databestanden
 dataderden
 dataportal
@@ -1337,7 +1339,6 @@ fubecasper
 gecko
 geoservices2
 good
-gslb
 helpmee
 highcharts-acc
 highcharts-test
@@ -1349,6 +1350,7 @@ hybridexo
 ihg
 isi
 iv3-controle-api
+iv3-controle.beta
 iv3-controle
 iv3-pilot
 iv3statline
@@ -1372,6 +1374,8 @@ mbg
 mediaportal
 micollabtest
 microdata
+microdata2
+microdatavpn
 mig
 mijn-api
 mkbstatline
@@ -1426,6 +1430,7 @@ videoplatform
 videos
 vocabs
 vpn1
+webserver
 welkombij
 werkplekom
 werkpleksso

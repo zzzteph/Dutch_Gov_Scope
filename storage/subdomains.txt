@@ -1186,6 +1186,7 @@ bestandenpostbus.nl
 bestandslevering.cbs.nl
 bestandsportaal.cibg.nl
 beta-dataportal.cbs.nl
+beta-iv3-controle.cbs.nl
 beta.belastingdienst.nl
 beta.cbs.nl
 beta.opendata.cbs.nl
@@ -1802,6 +1803,7 @@ dashboards.rdi.rijkscloud.nl
 dashboards.secdemo.rijkscloud.nl
 dashboards.sodm.rijkscloud.nl
 dashboards.staging.ndw.nu
+dashboards.test.cbs.nl
 dashboards.test.ix.rijkscloud.nl
 data-acc.overheid.nl
 data-acc.rijkswaterstaat.nl
@@ -3121,7 +3123,6 @@ grondwaterportaal-a.hhdelfland.nl
 grondwaterportaal.hhdelfland.nl
 grondwaterstand.brabant.nl
 gsa-rest-test.belastingdienst.nl
-gslb.cbs.nl
 gtmb.belastingdienst.nl
 gtmb.str10.acc.belastingdienst.nl
 gtmb.str10.tst.belastingdienst.nl
@@ -3460,6 +3461,7 @@ itsupport.nza.nl
 iuc-acceptatie.rijkscloud.nl
 iuc-wsgi-acc.rijkscloud.nl
 iv3-controle-api.cbs.nl
+iv3-controle.beta.cbs.nl
 iv3-controle.cbs.nl
 iv3-pilot.cbs.nl
 iv3statline.cbs.nl
@@ -4102,6 +4104,8 @@ micollab.flevoland.nl
 micollab.mensenrechten.nl
 micollabtest.cbs.nl
 microdata.cbs.nl
+microdata2.cbs.nl
+microdatavpn.cbs.nl
 microfoonbanden.nl
 mig.cbs.nl
 mijn-acc.igj.nl
@@ -7082,6 +7086,7 @@ webmail.rsj.rijkscloud.nl
 webmail.rvo.nl
 webmail.tib-ivd.nl
 webmail.werkenvoornederland.nl
+webserver.cbs.nl
 webservice-acc.energiebesparingsverkenner.rvo.nl
 webservice-acc.ep-online.nl
 webservice-acc.sbv-z.nl
