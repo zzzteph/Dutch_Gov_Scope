@@ -80,6 +80,7 @@ maps
 geodata
 enterpriseregistration
 fs
+services
 werken
 acceptatie.mijn
 beheer
@@ -119,7 +120,6 @@ b2btest-rijks
 b2btest
 mta-sts
 ns2
-services
 sharepoint-acc
 sharepoint-conf
 sharepoint
