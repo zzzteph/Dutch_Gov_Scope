@@ -6406,7 +6406,6 @@ survey-debug.platformrijksoverheid.nl
 survey-deploy.platformrijksoverheid.nl
 survey-metrics.platformrijksoverheid.nl
 survey-test.igj.nl
-survey.cibg.nl
 survey.igj.nl
 survey.platformrijksoverheid.nl
 surveys.cbs.nl
@@ -6511,6 +6510,7 @@ test.caelus-tool.nl
 test.cbi.eu
 test.cbs.nl
 test.cerberus.cbs.nl
+test.cibg.nl
 test.contactpuntbouwproducten.nl
 test.crisis.nl
 test.csirtdsp.nl

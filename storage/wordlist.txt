@@ -8,9 +8,9 @@ a-opendata
 feeds.english
 opendata.english
 a-feeds
+test
 mail
 autodiscover
-test
 acc
 magazines
 mijn
@@ -144,7 +144,6 @@ designsystem
 micollab
 www1
 stijlgids
-survey
 t-cms
 externemail
 m365
@@ -303,6 +302,7 @@ mobile
 telewerken
 zaaksysteem-accept
 sdm
+survey
 acc.api
 vt
 authenticatie

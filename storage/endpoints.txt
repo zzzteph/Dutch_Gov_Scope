@@ -258,7 +258,6 @@ http://storage.test.mgo.irealisatie.nl
 http://strafdossiermh17.acc.om.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
-http://survey.cibg.nl
 http://test-cms-eef.waterschaplimburg.nl
 http://test-cmsintranet.flevoland.nl
 http://test-eef.waterschaplimburg.nl
@@ -3656,7 +3655,6 @@ https://test.ncsc.nl
 https://test.nl-alert.nl
 https://test.openbare-inspectieresultaten.nvwa.nl
 https://test.portaal.nlarbeidsinspectie.nl
-https://test.publicwebservices.cibg.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://test.resultaten.nlarbeidsinspectie.nl
 https://test.rvig.nl
