@@ -1557,7 +1557,6 @@ public.mst
 test-mam
 toelatingen
 emailcluster
-mx001
 wwwnieuw
 staging.english
 acc.api-gateway.archis
