@@ -16,9 +16,9 @@ magazines
 mijn
 intranet
 a-english
+_autodiscover._tcp
 webmail
 acceptatie
-_autodiscover._tcp
 api
 a-feeds.a-english
 a-opendata.a-english

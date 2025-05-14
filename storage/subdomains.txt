@@ -30,6 +30,7 @@ ZDPushservice.overheid.nl
 _autodiscover._tcp.belastingdienst-cn.nl
 _autodiscover._tcp.cbi.eu
 _autodiscover._tcp.ceg.nl
+_autodiscover._tcp.commissievanaanbestedingsexperts.nl
 _autodiscover._tcp.dezi.nl
 _autodiscover._tcp.emissieautoriteit.nl
 _autodiscover._tcp.emissionsauthority.nl
