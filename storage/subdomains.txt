@@ -99,7 +99,6 @@ a-english.cbgjaarverslag.nl
 a-english.ctgb.nl
 a-english.ctivd.nl
 a-english.defensie.nl
-a-english.dggf.nl
 a-english.dsta.nl
 a-english.igj.nl
 a-english.ncadierproevenbeleid.nl
@@ -115,7 +114,6 @@ a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
 a-feeds.a-english.ctivd.nl
 a-feeds.a-english.defensie.nl
-a-feeds.a-english.dggf.nl
 a-feeds.a-english.igj.nl
 a-feeds.a-english.ncadierproevenbeleid.nl
 a-feeds.a-english.rda.nl
@@ -138,7 +136,6 @@ a-feeds.ctgb.nl
 a-feeds.ctivd.nl
 a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
-a-feeds.dggf.nl
 a-feeds.dus-i.nl
 a-feeds.dwangindezorg.nl
 a-feeds.forensicinstitute.nl
@@ -197,7 +194,6 @@ a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
 a-opendata.a-english.ctivd.nl
 a-opendata.a-english.defensie.nl
-a-opendata.a-english.dggf.nl
 a-opendata.a-english.igj.nl
 a-opendata.a-english.ncadierproevenbeleid.nl
 a-opendata.a-english.rda.nl
@@ -220,7 +216,6 @@ a-opendata.ctgb.nl
 a-opendata.ctivd.nl
 a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
-a-opendata.dggf.nl
 a-opendata.dus-i.nl
 a-opendata.dwangindezorg.nl
 a-opendata.forensicinstitute.nl
@@ -292,7 +287,6 @@ a-www.ctgb.nl
 a-www.ctivd.nl
 a-www.cultuursubsidie.nl
 a-www.defensie.nl
-a-www.dggf.nl
 a-www.dus-i.nl
 a-www.dwangindezorg.nl
 a-www.forensicinstitute.nl
@@ -2476,7 +2470,6 @@ feeds.deltaprogramma.nl
 feeds.denkdoeduurzaam.nl
 feeds.deutsch.postedworkers.nl
 feeds.dezi.nl
-feeds.dggf.nl
 feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
@@ -4759,7 +4752,6 @@ opendata.deltaprogramma.nl
 opendata.denkdoeduurzaam.nl
 opendata.deutsch.postedworkers.nl
 opendata.dezi.nl
-opendata.dggf.nl
 opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
