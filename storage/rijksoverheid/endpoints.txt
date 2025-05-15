@@ -113,6 +113,7 @@ http://english-data.rvo.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
 http://feeds.english.dggf.nl
+http://feeds.english.dienstterugkeerenvertrek.nl
 http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
 http://feeds.investeringsimpulsspv.nl
@@ -195,6 +196,7 @@ http://odata4.cbs.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oosweb.cbs.nl
 http://opendata.english.dggf.nl
+http://opendata.english.dienstterugkeerenvertrek.nl
 http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
 http://opendata.investeringsimpulsspv.nl
@@ -1488,7 +1490,6 @@ https://feeds.english.ctivd.nl
 https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.defensie.nl
 https://feeds.english.deltaprogramma.nl
-https://feeds.english.dienstterugkeerenvertrek.nl
 https://feeds.english.domeinenrz.nl
 https://feeds.english.dsta.nl
 https://feeds.english.euthanasiecommissie.nl
@@ -2728,7 +2729,6 @@ https://opendata.english.ctivd.nl
 https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.defensie.nl
 https://opendata.english.deltaprogramma.nl
-https://opendata.english.dienstterugkeerenvertrek.nl
 https://opendata.english.domeinenrz.nl
 https://opendata.english.dsta.nl
 https://opendata.english.euthanasiecommissie.nl
