@@ -3,7 +3,6 @@ http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
 http://iltbuildserver.dictu.nl
-http://pms-acc.dictu.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -46,6 +45,7 @@ https://klussenbank.dictu.nl
 https://mailing.dictu.nl
 https://mft.webftp.dictu.nl
 https://mijntoken.dictu.nl
+https://pms-acc.dictu.nl
 https://pms.dictu.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl

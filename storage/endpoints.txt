@@ -203,7 +203,6 @@ http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
 http://pdok.waterschaplimburg.nl
 http://pgodemo.test.zm.irealisatie.nl
-http://pms-acc.dictu.nl
 http://prd.archis.cultureelerfgoed.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preprod.bvd.logius.nl
@@ -3081,6 +3080,7 @@ https://platform-acc.analyse.ilt.rijkscloud.nl
 https://pleio.kiesraad.nl
 https://plek.zorginstituutnederland.nl
 https://pmm.belastingdienst.nl
+https://pms-acc.dictu.nl
 https://pms.dictu.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl

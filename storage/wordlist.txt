@@ -1698,6 +1698,7 @@ dictuext05.ymor
 digikoppeling.diginetwerk
 dkb
 dmzntp1
+dmzntp2
 encryption-auth-acc
 encryption-auth-prod
 engine.acc.fhub
