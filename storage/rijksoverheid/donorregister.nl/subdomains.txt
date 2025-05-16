@@ -1,3 +1,4 @@
+_dmarc.donorregister.nl
 acc-raadplegen.donorregister.nl
 acceptatie.beheer.donorregister.nl
 acceptatie.mijn.donorregister.nl
@@ -6,13 +7,12 @@ acceptatie.webservices.donorregister.nl
 beheer.donorregister.nl
 donorregister.nl
 english.donorregister.nl
-feeds.donorregister.nl
 feeds.english.donorregister.nl
 mijn.adr.donorregister.nl
 mijn.donorregister.nl
-opendata.donorregister.nl
 opendata.english.donorregister.nl
 raadplegen.donorregister.nl
+staging.donorregister.nl
 test.webservices.donorregister.nl
 webservices.donorregister.nl
 www.donorregister.nl

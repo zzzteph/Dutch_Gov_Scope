@@ -48,6 +48,7 @@ _autodiscover._tcp.uziregister.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.dji.nl
+_dmarc.donorregister.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
 _dmarc.nza.nl
@@ -2478,7 +2479,6 @@ feeds.dihoo.nl
 feeds.dji.nl
 feeds.dnadatabank.forensischinstituut.nl
 feeds.domeinenrz.nl
-feeds.donorregister.nl
 feeds.dsta.nl
 feeds.dus-i.nl
 feeds.dutchncca.nl
@@ -4760,7 +4760,6 @@ opendata.dihoo.nl
 opendata.dji.nl
 opendata.dnadatabank.forensischinstituut.nl
 opendata.domeinenrz.nl
-opendata.donorregister.nl
 opendata.dsta.nl
 opendata.dus-i.nl
 opendata.dutchncca.nl
@@ -6243,6 +6242,7 @@ stagiairs.werkenvoornederland.nl
 staging-mijn.rvo.nl
 staging.acc.static.werkenbij.rijkswaterstaat.nl
 staging.acc.web-static.rijkswaterstaat.nl
+staging.donorregister.nl
 staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
 staging.justitieconnect.nl
