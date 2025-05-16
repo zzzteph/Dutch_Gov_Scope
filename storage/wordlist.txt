@@ -1894,6 +1894,7 @@ vuurwerk
 acc-raadplegen
 mijn.adr
 test.webservices
+assistent.internetaankopen
 bvinet
 exchangerate
 exchangeratetest
@@ -1910,6 +1911,7 @@ vluchtinfo-test
 vluchtinfo
 wpx-80-aix-http.acc
 wpx-80-aix-http
+zoekengebruikstarief
 aanvraag
 beoordeling
 formulier-beheer
