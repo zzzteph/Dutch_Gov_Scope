@@ -174,7 +174,6 @@ http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
 http://lokalisatie-demo.test.gf.irealisatie.nl
 http://longread.brabant.nl
-http://maatwerkadvies-preprod.api.ep-online.nl
 http://mail.dev.cbs.nl
 http://mail.flevoland.nl
 http://mcsd.test.zm.irealisatie.nl
@@ -218,7 +217,6 @@ http://prs.rijkswaterstaat.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
 http://pseudonym.test.zm.irealisatie.nl
-http://public-preprod.ep-online.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
@@ -2253,6 +2251,7 @@ https://lyncdiscover.om.nl
 https://lyncdiscover.rijksrecherche.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.werkenvoornederland.nl
+https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
 https://maatwerkvoormensen.nl
 https://machtigen.digipoort.logius.nl
@@ -3186,6 +3185,7 @@ https://ps2.platformrijksoverheid.nl
 https://ps3.platformrijksoverheid.nl
 https://ps4.platformrijksoverheid.nl
 https://psarchief.brabant.nl
+https://public-preprod.ep-online.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl
