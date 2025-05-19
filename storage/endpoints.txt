@@ -177,7 +177,6 @@ http://longread.brabant.nl
 http://mail.dev.cbs.nl
 http://mail.flevoland.nl
 http://mcsd.test.zm.irealisatie.nl
-http://meldingen.ilent.nl
 http://meridian.rijkswaterstaat.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
@@ -250,7 +249,6 @@ http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
-http://staging.meldingen.ilent.nl
 http://stats.test.zm.irealisatie.nl
 http://stijlgids.cibg.nl
 http://storage.test.mgo.irealisatie.nl
@@ -2334,6 +2332,7 @@ https://meet.rijkscloud.nl
 https://meet.rijksrecherche.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
+https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://meldingwd.odmh.nl
 https://meldloket.postedworkers.nl
@@ -3478,6 +3477,7 @@ https://staatscommissierechtsstaat.nl
 https://staatscommissietegendiscriminatieenracisme.nl
 https://staatsexamensnt2.nl
 https://stagefonds.formulierdus-i.nl
+https://staging.meldingen.ilent.nl
 https://standaarden-acc.overheid.nl
 https://standaarden-tst.overheid.nl
 https://standaarden.omgevingswet.overheid.nl
