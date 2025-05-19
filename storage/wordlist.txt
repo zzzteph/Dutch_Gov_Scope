@@ -2277,6 +2277,8 @@ dva.acc.mgo
 dva.test.mgo
 dvp-proxy.acc.mgo
 dvp-proxy.test.mgo
+emax.test.gf
+fdocs.test.gf
 gateway.test.ggdcontact
 hapi1.test.zm
 hapi2.test.zm
@@ -2325,9 +2327,11 @@ metadata-b.test.zm
 metadata-c.test.zm
 metadata.test.zm
 nextcloud.acc
+noc
 nvi.proeftuin.gf
 nvi.test.gf
 oidc.proeftuin.uzi-online
+orac.test.gf
 otv-stub.proeftuin.gf
 otv-stub.test.gf
 otv-web.proeftuin.gf

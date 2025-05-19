@@ -23,6 +23,8 @@ dva.acc.mgo.irealisatie.nl
 dva.test.mgo.irealisatie.nl
 dvp-proxy.acc.mgo.irealisatie.nl
 dvp-proxy.test.mgo.irealisatie.nl
+emax.test.gf.irealisatie.nl
+fdocs.test.gf.irealisatie.nl
 gateway.test.ggdcontact.irealisatie.nl
 git.irealisatie.nl
 hapi1.test.zm.irealisatie.nl
@@ -76,9 +78,11 @@ metadata-c.test.zm.irealisatie.nl
 metadata.test.zm.irealisatie.nl
 nextcloud.acc.irealisatie.nl
 nextcloud.irealisatie.nl
+noc.irealisatie.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
+orac.test.gf.irealisatie.nl
 otv-stub.proeftuin.gf.irealisatie.nl
 otv-stub.test.gf.irealisatie.nl
 otv-web.proeftuin.gf.irealisatie.nl
