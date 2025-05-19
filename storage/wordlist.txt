@@ -8,9 +8,9 @@ a-opendata
 feeds.english
 opendata.english
 a-feeds
+autodiscover
 test
 mail
-autodiscover
 acc
 magazines
 mijn
