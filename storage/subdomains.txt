@@ -2592,7 +2592,6 @@ feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
 feeds.kimnet.nl
-feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
 feeds.knmidata.nl
 feeds.knmiprojects.nl
@@ -4865,7 +4864,6 @@ opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
 opendata.kimnet.nl
-opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
 opendata.knmidata.nl
 opendata.knmiprojects.nl
