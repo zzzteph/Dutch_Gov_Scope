@@ -117,7 +117,6 @@ http://feeds.english.dggf.nl
 http://feeds.english.dienstterugkeerenvertrek.nl
 http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
-http://feeds.leefbaarenveilig.nl
 http://formulier-beheer.dus-i.nl
 http://ftp.ofgv.nl
 http://ftp.schoolleidersregisterpo.nl
@@ -165,7 +164,6 @@ http://kibana.lpc.logius.nl
 http://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie.proeftuin.gf.irealisatie.nl
-http://leefbaarenveilig.nl
 http://linkextractor.overheid.nl
 http://lmr.proeftuin.gf.irealisatie.nl
 http://localisation.test.zm.irealisatie.nl
@@ -297,7 +295,6 @@ http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
 http://www.entreepgb.svb.nl
-http://www.leefbaarenveilig.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
@@ -1562,6 +1559,7 @@ https://feeds.knmidata.nl
 https://feeds.knmiprojects.nl
 https://feeds.koninklijkhuis.nl
 https://feeds.koopoverheid.nl
+https://feeds.leefbaarenveilig.nl
 https://feeds.leerenontwikkelplein.nl
 https://feeds.lintjes.nl
 https://feeds.loonaangifteketen.nl
@@ -2164,6 +2162,7 @@ https://lc.cbs.nl
 https://ldentool.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
+https://leefbaarenveilig.nl
 https://leefbaarometer.nl
 https://leer-rijk.nl
 https://leerenontwikkelplein.nl
@@ -4254,6 +4253,7 @@ https://www.koninklijkhuis.nl
 https://www.koopoverheid.nl
 https://www.landelijkregisterkinderopvang.nl
 https://www.ldentool.nl
+https://www.leefbaarenveilig.nl
 https://www.leefbaarometer.nl
 https://www.leer-rijk.nl
 https://www.leerenontwikkelplein.nl
