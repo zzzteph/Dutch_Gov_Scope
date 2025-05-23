@@ -2688,6 +2688,7 @@ pas
 acceptatie.uzipas.portaal
 uzipas.portaal
 advisories-acceptatie
+advisories.acc
 advisories
 advisories.test
 api.acc
@@ -2719,6 +2720,7 @@ securened
 securenet
 taranis
 tip
+vulnerabilities.acc
 vulnerabilities
 vulnerabilities.test
 wds

@@ -2,6 +2,7 @@ a-english.ncsc.nl
 acc.ncsc.nl
 acs.ncsc.nl
 advisories-acceptatie.ncsc.nl
+advisories.acc.ncsc.nl
 advisories.ncsc.nl
 advisories.test.ncsc.nl
 api.acc.ncsc.nl
@@ -49,6 +50,7 @@ taranis.ncsc.nl
 test.ncsc.nl
 tip.ncsc.nl
 uag.ncsc.nl
+vulnerabilities.acc.ncsc.nl
 vulnerabilities.ncsc.nl
 vulnerabilities.test.ncsc.nl
 wds.ncsc.nl
