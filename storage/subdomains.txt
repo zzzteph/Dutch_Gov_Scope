@@ -980,6 +980,7 @@ autodiscover.inspectie-oe.nl
 autodiscover.justid.nl
 autodiscover.knmi.nl
 autodiscover.koop.overheid.nl
+autodiscover.ndw.nu
 autodiscover.nza.nl
 autodiscover.odijmond.nl
 autodiscover.ofgv.nl
@@ -1337,6 +1338,7 @@ btiv.datawonen.nl
 btube.belastingdienst.nl
 btubeont.vcdn.belastingdienst.nl
 btubetst.vcdn.belastingdienst.nl
+budgy.ndw.nu
 bureau-reach.nl
 bureaubiosecurity.nl
 bureauncdr.nl
@@ -2017,6 +2019,7 @@ donorregister.nl
 dor.stopheling.nl
 dorbeheer.stopheling.nl
 dossierportal.cbs.nl
+dotnl.ndw.nu
 douane.nl
 download.belastingdienst.nl
 download.cbs.nl
@@ -7103,6 +7106,7 @@ webtooling.irealisatie.nl
 webwinkel.rvo.nl
 wegen.brabant.nl
 wegkenmerken.ndw.nu
+wegkenmerken.staging.ndw.nu
 wegwijzermensenhandel.nl
 welkom-zandbak.leerenontwikkelplein.nl
 welkom.leerenontwikkelplein.nl

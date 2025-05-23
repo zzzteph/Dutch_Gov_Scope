@@ -92,6 +92,7 @@ http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crm.nza.nl
 http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
+http://dataquality.ndw.nu
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
 http://demo1-systemteam.overheid.nl
@@ -180,6 +181,10 @@ http://metadata-c.test.zm.irealisatie.nl
 http://metadata.test.zm.irealisatie.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
+http://mlops-models.ndw.nu
+http://mlops-monitoring.ndw.nu
+http://mlops-platform.ndw.nu
+http://mlops-tracking.ndw.nu
 http://mobiel.douane.nl
 http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
@@ -651,6 +656,7 @@ https://autodiscover.cvte.nl
 https://autodiscover.huisvoorklokkenluiders.nl
 https://autodiscover.hwbp.nl
 https://autodiscover.koop.overheid.nl
+https://autodiscover.ndw.nu
 https://autodiscover.overheid.nl
 https://autodiscover.svb.nl
 https://autorisatie-preprod.brabant.nl
@@ -812,6 +818,7 @@ https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
 https://btb.cbs.nl
 https://btiv.datawonen.nl
+https://budgy.ndw.nu
 https://bureaubiosecurity.nl
 https://bureauncdr.nl
 https://bureausaneringverkeerslawaai.nl
@@ -1053,7 +1060,6 @@ https://dataplatform.knmi.nl
 https://dataportaal.brabant.nl
 https://dataportaal.cbs.nl
 https://dataportal.cbs.nl
-https://dataquality.ndw.nu
 https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
@@ -1143,6 +1149,7 @@ https://donorregister.nl
 https://dor.stopheling.nl
 https://dorbeheer.stopheling.nl
 https://dossierportal.cbs.nl
+https://dotnl.ndw.nu
 https://douane.nl
 https://download.belastingdienst.nl
 https://download.cbs.nl
@@ -2406,11 +2413,7 @@ https://mirtoverzicht.nl
 https://mivp.emissieautoriteit.nl
 https://mkbstatline.cbs.nl
 https://mks.esb.rijkswaterstaat.nl
-https://mlops-models.ndw.nu
-https://mlops-monitoring.ndw.nu
-https://mlops-platform.ndw.nu
 https://mlops-platform.staging.ndw.nu
-https://mlops-tracking.ndw.nu
 https://mlzopendata.cbs.nl
 https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
@@ -3861,6 +3864,7 @@ https://webservices.om.nl
 https://website.belastingdienst.nl
 https://wegen.brabant.nl
 https://wegkenmerken.ndw.nu
+https://wegkenmerken.staging.ndw.nu
 https://wegwijzermensenhandel.nl
 https://welkom-zandbak.leerenontwikkelplein.nl
 https://welkom.leerenontwikkelplein.nl

@@ -2,8 +2,10 @@ ams-closures.ndw.nu
 analytics.ndw.nu
 analytics.staging.ndw.nu
 auth.ndw.nu
+autodiscover.ndw.nu
 backbone.ndw.nu
 bereikbaarheid.ndw.nu
+budgy.ndw.nu
 caas.ndw.nu
 cbm.ndw.nu
 cms-info.ndw.nu
@@ -23,6 +25,7 @@ dexter.ndw.nu
 dexter.staging.ndw.nu
 diego.ndw.nu
 docs.ndw.nu
+dotnl.ndw.nu
 drs.ndw.nu
 dvmservices.ndw.nu
 english.ndw.nu
@@ -85,6 +88,7 @@ viz.ndw.nu
 vm-ivra.ndw.nu
 vri-admin.ndw.nu
 wegkenmerken.ndw.nu
+wegkenmerken.staging.ndw.nu
 www.ncis.ndw.nu
 www.ndw.nu
 www.nt.ndw.nu
