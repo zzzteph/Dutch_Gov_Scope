@@ -1,4 +1,3 @@
-http://boub-api-acc.overheid.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -48,6 +47,7 @@ https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
 https://bgt.basisregistraties.overheid.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
+https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bouw.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl

@@ -65,7 +65,6 @@ http://bacterial-meningitis.nl
 http://beta-dataportal.cbs.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
-http://boub-api-acc.overheid.nl
 http://bpa.rvo.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
@@ -791,6 +790,7 @@ https://bodemvizier.nl
 https://boetebase.om.nl
 https://bofeb.nl
 https://botova.rijkswaterstaat.nl
+https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bouw.omgevingswet.overheid.nl
 https://bp.stopheling.nl
