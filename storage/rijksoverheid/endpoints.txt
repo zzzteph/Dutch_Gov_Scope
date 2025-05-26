@@ -1037,6 +1037,7 @@ https://dashboards.ipi.rijkscloud.nl
 https://dashboards.ndw.nu
 https://dashboards.rdi.rijkscloud.nl
 https://dashboards.staging.ndw.nu
+https://dashboards.test.analyse.ilt.rijkscloud.nl
 https://dashboards.test.cbs.nl
 https://data-acc.overheid.nl
 https://data-streamer.ndw.nu
@@ -2124,6 +2125,7 @@ https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.ndw.nu
 https://keycloak.rdi.rijkscloud.nl
+https://keycloak.test.analyse.ilt.rijkscloud.nl
 https://kgr.mijn.rvo.nl
 https://kiesraad.nl
 https://kik-v.nl
@@ -3033,6 +3035,7 @@ https://planmer.zuid-holland.nl
 https://planonprod.vallei-veluwe.nl
 https://planregistratie-wonen.zuid-holland.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
+https://platform.analyse.ilt.rijkscloud.nl
 https://pleio.kiesraad.nl
 https://plek.zorginstituutnederland.nl
 https://pmm.belastingdienst.nl

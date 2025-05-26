@@ -817,6 +817,7 @@ api.openstad.zuid-holland.nl
 api.p-direkt.nl
 api.performance.ix.rijkscloud.nl
 api.preprod.mijn.overheid.nl
+api.rapportage.rijkscloud.nl
 api.rdi.nl
 api.reis.idm.rvig.nl
 api.so.rijkscloud.nl
@@ -1796,6 +1797,7 @@ dashboards.rdi.rijkscloud.nl
 dashboards.secdemo.rijkscloud.nl
 dashboards.sodm.rijkscloud.nl
 dashboards.staging.ndw.nu
+dashboards.test.analyse.ilt.rijkscloud.nl
 dashboards.test.cbs.nl
 dashboards.test.ix.rijkscloud.nl
 data-acc.overheid.nl
@@ -2085,6 +2087,7 @@ dvrvb-api.rvb.rijkscloud.nl
 dvrvb-app-dev.devops.rvb.rijkscloud.nl
 dvrvb-gui-acc.rvb.rijkscloud.nl
 dvrvb-gui-dev.devops.rvb.rijkscloud.nl
+dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
 dvu.rvo.nl
 dwangindezorg.nl
@@ -3050,6 +3053,7 @@ gitlab.keycloak.rijkscloud.nl
 gitlab.mintst1.ix.rijkscloud.nl
 gitlab.primary.rijkscloud.nl
 gitlab.prisma.rijkscloud.nl
+gitlab.rdi.rijkscloud.nl
 gitlab.rijkscloud.nl
 gitlab.ritp.rijkscloud.nl
 gitlab.rvb.rijkscloud.nl
@@ -3626,6 +3630,7 @@ keycloak.mintst.rijkscloud.nl
 keycloak.ndw.nu
 keycloak.rdi.rijkscloud.nl
 keycloak.sodm.rijkscloud.nl
+keycloak.test.analyse.ilt.rijkscloud.nl
 keycloak.test.ix.rijkscloud.nl
 kgr-acc.mijn.rvo.nl
 kgr.mijn.rvo.nl
@@ -3997,6 +4002,7 @@ matchingsapp.cbs.nl
 matomo-cdk.dataplatform.knmi.nl
 matomo.dataplatform.knmi.nl
 matra-south.rvo.nl
+matrix.ix.rijkscloud.nl
 matroos.rijkswaterstaat.nl
 matter.minaz.rijkscloud.nl
 max.acc.mgo.irealisatie.nl
@@ -5218,6 +5224,7 @@ planonprod.vallei-veluwe.nl
 planregistratie-wonen.zuid-holland.nl
 plantool.huurcommissie.nl
 platform-acc.analyse.ilt.rijkscloud.nl
+platform.analyse.ilt.rijkscloud.nl
 platformafpakken-fiod.acc.belastingdienst.nl
 platformrijksoverheid.nl
 plato.dictu.nl
@@ -5504,6 +5511,7 @@ qualification-admin.test.zm.irealisatie.nl
 qualification-api.test.zm.irealisatie.nl
 qualification.test.zm.irealisatie.nl
 quality-time-2.devops.rvb.rijkscloud.nl
+quality-time-ldap.devops.rvb.rijkscloud.nl
 quality-time.devops.rvb.rijkscloud.nl
 qvw-test.rvo.nl
 ra.zorginstituutnederland.nl
@@ -6944,6 +6952,8 @@ vs_mijnzakelijk.str10.tst.belastingdienst.nl
 vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
 vscode.analyse.ilt.rijkscloud.nl
+vscode.idlab.ilt.rijkscloud.nl
+vscode.ix.rijkscloud.nl
 vt-mijn.inburgeren.nl
 vt.inburgeren.nl
 vt.landelijkregisterkinderopvang.nl

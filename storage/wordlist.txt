@@ -3613,6 +3613,7 @@ api.dbe-t.rvb
 api.ienw.ix
 api.ix
 api.performance.ix
+api.rapportage
 api.so
 apitest.rapportage
 apps.alma.jvs.ix
@@ -3675,6 +3676,7 @@ dashboards.ipi
 dashboards.rdi
 dashboards.secdemo
 dashboards.sodm
+dashboards.test.analyse.ilt
 dashboards.test.ix
 datadrop.datafabriek.ienw
 datadrop.dev-datafabriek.ienw
@@ -3706,6 +3708,7 @@ dvrvb-api.rvb
 dvrvb-app-dev.devops.rvb
 dvrvb-gui-acc.rvb
 dvrvb-gui-dev.devops.rvb
+dvrvb-o.devops.rvb
 dvrvb.rvb
 eaweb.rvb
 elk.dgdoobi
@@ -3762,6 +3765,7 @@ gitlab.keycloak
 gitlab.mintst1.ix
 gitlab.primary
 gitlab.prisma
+gitlab.rdi
 gitlab.ritp
 gitlab.rvb
 gitlab.rvig
@@ -3867,6 +3871,7 @@ keycloak.dgdoobi
 keycloak.mintst
 keycloak.rdi
 keycloak.sodm
+keycloak.test.analyse.ilt
 keycloak.test.ix
 kibana.anvs-infra
 kibana.bzknpr
@@ -3904,6 +3909,7 @@ mail1.ec
 mail1.gn1
 mail1.gn3
 mail2.ec
+matrix.ix
 matter.minaz
 minio.datafabriek.ienw
 minio.dev-datafabriek.ienw
@@ -3990,6 +3996,7 @@ pgadmin.test.ix
 pgadmin4.analyse.ilt
 pgalab1.rvb
 platform-acc.analyse.ilt
+platform.analyse.ilt
 portaal-acceptatie
 portaal-iuc-acceptatie
 portal-performance.test.ix
@@ -4023,6 +4030,7 @@ prx2.rw1
 pw.rvb
 pypostcode.dev-datafabriek.ienw
 quality-time-2.devops.rvb
+quality-time-ldap.devops.rvb
 quality-time.devops.rvb
 rabbitmq.rvb
 rally.gn2
@@ -4219,6 +4227,8 @@ vpn04.ec
 vpn1.ec
 vpn2.ec
 vscode.analyse.ilt
+vscode.idlab.ilt
+vscode.ix
 webmail.rsj
 whatsip.test.ix
 www.rapportage

@@ -16,6 +16,7 @@ https://dashboards.ilt-idlab.rijkscloud.nl
 https://dashboards.ilt.rijkscloud.nl
 https://dashboards.ipi.rijkscloud.nl
 https://dashboards.rdi.rijkscloud.nl
+https://dashboards.test.analyse.ilt.rijkscloud.nl
 https://datadrop.datafabriek.ienw.rijkscloud.nl
 https://datatool.datafabriek.ienw.rijkscloud.nl
 https://dbe-t.rvb.rijkscloud.nl
@@ -56,6 +57,7 @@ https://jupyter.rdi.rijkscloud.nl
 https://jupyter.ritp.rijkscloud.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.rdi.rijkscloud.nl
+https://keycloak.test.analyse.ilt.rijkscloud.nl
 https://mail.dgdoobi.rijkscloud.nl
 https://mail.rijkscloud.nl
 https://meet.rijkscloud.nl
@@ -72,6 +74,7 @@ https://pages.ds-ocw.rijkscloud.nl
 https://pgadmin.analyse.ilt.rijkscloud.nl
 https://pgadmin4.analyse.ilt.rijkscloud.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
+https://platform.analyse.ilt.rijkscloud.nl
 https://portal.datascience.rijkscloud.nl
 https://portal.informatieproducten.duo.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
