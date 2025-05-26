@@ -100,6 +100,7 @@ www.mijn
 adfs
 www-a
 zaaksysteem-acc
+m
 git
 geoweb
 aanvragen
@@ -176,7 +177,6 @@ test-intranet
 csoacct
 csotest
 sandbox
-m
 mijn-acc
 wiki
 preview
@@ -4312,10 +4312,7 @@ acp.staging
 acp.staging.werkenbij
 ags
 alliant
-am.acp
-am.ont
 am
-am.tst
 bathymetrie
 bezoekerscentrum
 bmm
@@ -4414,6 +4411,7 @@ web-static
 werkenbij.api
 www.bezoekerscentrum
 www.staging
+www.staging.werkenbij
 www.watergegevens
 www.werkenbij
 zwerfafval

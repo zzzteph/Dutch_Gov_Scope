@@ -18,10 +18,7 @@ acp.staging.rijkswaterstaat.nl
 acp.staging.werkenbij.rijkswaterstaat.nl
 ags.rijkswaterstaat.nl
 alliant.rijkswaterstaat.nl
-am.acp.rijkswaterstaat.nl
-am.ont.rijkswaterstaat.nl
 am.rijkswaterstaat.nl
-am.tst.rijkswaterstaat.nl
 bathymetrie.rijkswaterstaat.nl
 bezoekerscentrum.rijkswaterstaat.nl
 bmm.rijkswaterstaat.nl
@@ -61,6 +58,7 @@ live.web8.rijkswaterstaat.nl
 live.werkenbij.rijkswaterstaat.nl
 loket.acceptatie.rijkswaterstaat.nl
 loket.rijkswaterstaat.nl
+m.rijkswaterstaat.nl
 maps.rijkswaterstaat.nl
 mars.rijkswaterstaat.nl
 matroos.rijkswaterstaat.nl
@@ -141,6 +139,7 @@ werkenbij.rijkswaterstaat.nl
 www.bezoekerscentrum.rijkswaterstaat.nl
 www.rijkswaterstaat.nl
 www.staging.rijkswaterstaat.nl
+www.staging.werkenbij.rijkswaterstaat.nl
 www.watergegevens.rijkswaterstaat.nl
 www.werkenbij.rijkswaterstaat.nl
 www1.rijkswaterstaat.nl
