@@ -159,7 +159,6 @@ a-feeds.politiekeambtsdragers.nl
 a-feeds.raadopenbaarbestuur.nl
 a-feeds.rda.nl
 a-feeds.rekenkamer.nl
-a-feeds.riec.nl
 a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
@@ -240,7 +239,6 @@ a-opendata.politiekeambtsdragers.nl
 a-opendata.raadopenbaarbestuur.nl
 a-opendata.rda.nl
 a-opendata.rekenkamer.nl
-a-opendata.riec.nl
 a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
@@ -316,7 +314,6 @@ a-www.politiekeambtsdragers.nl
 a-www.raadopenbaarbestuur.nl
 a-www.rda.nl
 a-www.rekenkamer.nl
-a-www.riec.nl
 a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
@@ -2679,7 +2676,6 @@ feeds.rdi.nl
 feeds.regelhulp.nl
 feeds.regiosaandegrens.nl
 feeds.rekenkamer.nl
-feeds.riec.nl
 feeds.rijksbredekennisagenda.nl
 feeds.rijksdienstcn.com
 feeds.rijksinkoopsamenwerking.nl
@@ -4947,7 +4943,6 @@ opendata.rdi.nl
 opendata.regelhulp.nl
 opendata.regiosaandegrens.nl
 opendata.rekenkamer.nl
-opendata.riec.nl
 opendata.rijksbredekennisagenda.nl
 opendata.rijksdienstcn.com
 opendata.rijksinkoopsamenwerking.nl
