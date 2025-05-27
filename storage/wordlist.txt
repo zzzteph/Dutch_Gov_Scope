@@ -4758,6 +4758,7 @@ sbc-prd-b-tenant01
 sbc-prd-b-tenant02.dwrt2
 sbc-prd-b-tenant03.dwrt3
 sbc-prd-b-tenant04.dwrt4
+3wbalie
 acc.btp
 acc.cmv-kandidaat
 acc.expenses
@@ -4767,9 +4768,12 @@ cmv-opdrachtgever
 esb.btp
 esb.expenses
 expenses
+mercurius
 partnerplaza
 prd.btp
+prod.mercurius
 travelpoint
+tst.mercurius
 vdbs
 accp-bp
 accp-dol

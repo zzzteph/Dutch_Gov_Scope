@@ -303,6 +303,7 @@ http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
 http://zoeken.hdsr.nl
 https://100aardgasvrijewijken.nl
+https://3wbalie.sso3w.nl
 https://55plus.datawonen.nl
 https://ACC.RD.dictu.nl
 https://RDSapplications00.svb.nl
@@ -2347,6 +2348,7 @@ https://melissa.ncsc.nl
 https://melvin.ndw.nu
 https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
+https://mercurius.sso3w.nl
 https://metelkaar.waterschaplimburg.nl
 https://metelkaartrekkenwedegrens.nl
 https://mft-acc.svb.nl
@@ -3117,6 +3119,7 @@ https://prod.asbestvolgsysteem.nl
 https://prod.dictu.nl
 https://prod.intranet.rvig.nl
 https://prod.justis.nl
+https://prod.mercurius.sso3w.nl
 https://prod.mi-cert.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
@@ -3689,6 +3692,7 @@ https://trillingsdata.dictu.nl
 https://truck-parking.ndw.nu
 https://ts.onderwijsraad.nl
 https://tst-referentiegegevens.justid.nl
+https://tst.mercurius.sso3w.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtcollege-gezondheidszorg.nl
