@@ -5,6 +5,7 @@ acc2.intranet.rvig.nl
 agw.idm.rvig.nl
 agw.lap.idm.rvig.nl
 api.reis.idm.rvig.nl
+apigw.brp.lap.idm.rvig.nl
 idapps.npr.idm.rvig.nl
 idbs.idm.rvig.nl
 idbs.npr.idm.rvig.nl
@@ -16,6 +17,7 @@ login.idm.rvig.nl
 login.npr.idm.rvig.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
+mail2.rvig.nl
 prod.intranet.rvig.nl
 prod.rvig.nl
 publicaties-acc.rvig.nl
@@ -30,6 +32,7 @@ rvig.nl
 rvp.reis.idm.rvig.nl
 sip.rvig.nl
 smtp.tmv.rvig.nl
+stopid.reis.lap.idm.rvig.nl
 test.intranet.rvig.nl
 test.rvig.nl
 tmv.rvig.nl

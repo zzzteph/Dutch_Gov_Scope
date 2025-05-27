@@ -4419,6 +4419,7 @@ acc2.intranet
 agw.idm
 agw.lap.idm
 api.reis.idm
+apigw.brp.lap.idm
 idapps.npr.idm
 idbs.idm
 idbs.npr.idm
@@ -4429,6 +4430,7 @@ login.idm
 login.npr.idm
 mail.tmv-lap
 mail.tmv
+mail2
 prod.intranet
 publicaties-acc
 publicaties-prod
@@ -4439,6 +4441,7 @@ rni-webform-acc
 rni-webform
 rvp.reis.idm
 smtp.tmv
+stopid.reis.lap.idm
 toegangslaag-gn2
 toegangslaag-gn3
 toegangslaag

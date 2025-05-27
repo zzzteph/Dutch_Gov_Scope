@@ -831,6 +831,7 @@ api.tst6.mijn.overheid.nl
 api.tst7.mijn.overheid.nl
 api.vallei-veluwe.nl
 api.zorgaanbiedersportaal.nl
+apigw.brp.lap.idm.rvig.nl
 apikey-preprod.ep-online.nl
 apikey.ep-online.nl
 apim-icc-a.svb.nl
@@ -3950,6 +3951,7 @@ mail1.ec.rijkscloud.nl
 mail1.gn1.rijkscloud.nl
 mail1.gn3.rijkscloud.nl
 mail2.ec.rijkscloud.nl
+mail2.rvig.nl
 mail230.brabant.nl
 mail231.brabant.nl
 mail240.brabant.nl
@@ -6342,6 +6344,7 @@ stijlgids.cibg.nl
 stijlgids.overheid.nl
 stijlgids.rijkswaterstaat.nl
 stopheling.nl
+stopid.reis.lap.idm.rvig.nl
 stor.services.cultureelerfgoed.nl
 storage.databestanden.cbs.nl
 storage.test.mgo.irealisatie.nl
