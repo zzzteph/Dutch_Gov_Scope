@@ -147,10 +147,11 @@ http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
 http://int-prod-01.flevoland.nl
-http://intra-acc.rvo.nl
+http://intra-cms-acc.rvo.nl
 http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 http://jaeger.test.zm.irealisatie.nl
+http://jiraimg-acc.rvo.nl
 http://juristen.werkenvoornederland.nl
 http://kat.acc.irealisatie.nl
 http://kat.irealisatie.nl
@@ -178,6 +179,7 @@ http://metadata-c.test.zm.irealisatie.nl
 http://metadata.test.zm.irealisatie.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
+http://mijn.rvo.nl
 http://mlops-models.ndw.nu
 http://mlops-monitoring.ndw.nu
 http://mlops-platform.ndw.nu
@@ -2000,7 +2002,7 @@ https://internationaal.ondernemen.overheid.nl
 https://internetdienstensiam.svb.nl
 https://interventiedatabase.nl
 https://intpatch.omgevingswet.overheid.nl
-https://intra-cms-acc.rvo.nl
+https://intra-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
 https://intranet-bestanden.flevoland.nl
@@ -2065,7 +2067,6 @@ https://jeugdstatline.cbs.nl
 https://jip.inspectie-jenv.nl
 https://jira.dictu.nl
 https://jira.knmi.nl
-https://jiraimg-acc.rvo.nl
 https://jiraimg.rvo.nl
 https://jmopendata.cbs.nl
 https://jobs.werkenvoornederland.nl
