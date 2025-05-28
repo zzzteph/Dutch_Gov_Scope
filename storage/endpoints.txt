@@ -255,6 +255,7 @@ http://storage.test.mgo.irealisatie.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://test-cms-eef.waterschaplimburg.nl
+http://test-cmsintranet.svb.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
 http://test-machtigen.digipoort.logius.nl
@@ -2243,6 +2244,7 @@ https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
 https://maatwerkvoormensen.nl
 https://machtigen.digipoort.logius.nl
+https://maf-a.svb.nl
 https://magazine.zuid-holland.nl
 https://magazines.algemenebestuursdienst.nl
 https://magazines.cultureelerfgoed.nl
@@ -3199,11 +3201,9 @@ https://rda.nl
 https://rdi.nl
 https://rdsa.knmi.nl
 https://rdsapplications00.svb.nl
+https://rdsapplications01.svb.nl
 https://rdsapplications02.svb.nl
 https://rdsapplications03.svb.nl
-https://rdsapplications04.svb.nl
-https://rdsapplications05.svb.nl
-https://rdsapplications06.svb.nl
 https://rdsapplications07.svb.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
@@ -3244,6 +3244,7 @@ https://reistijdtrajecten.ndw.nu
 https://rekenhulptransitievergoeding.nl
 https://rekenkamer.nl
 https://remote.flevoland.nl
+https://remotedesktop.svb.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
 https://repository-acc.officiele-overheidspublicaties.nl
@@ -3434,6 +3435,7 @@ https://spapps-t.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
 https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
+https://splunk-a.svb.nl
 https://sportenbewegenincijfers.nl
 https://ssc-ict.nl
 https://ssc-ictspecials.nl
@@ -3582,7 +3584,6 @@ https://test-cms.projects.rvo.nl
 https://test-cms.rvo.nl
 https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.scp.nl
-https://test-cmsintranet.svb.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl

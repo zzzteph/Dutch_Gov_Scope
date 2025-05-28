@@ -1,4 +1,5 @@
 http://cb.entreepgb.svb.nl
+http://test-cmsintranet.svb.nl
 http://www.entreepgb.svb.nl
 https://RDSapplications00.svb.nl
 https://RDSapplications01.svb.nl
@@ -35,6 +36,7 @@ https://kennisbank.svb.nl
 https://leerplein.svb.nl
 https://leveranciersvdi.svb.nl
 https://live.svb.nl
+https://maf-a.svb.nl
 https://mft-acc.svb.nl
 https://mft-prd.svb.nl
 https://mijnpgb-siam.svb.nl
@@ -50,14 +52,13 @@ https://pers.svb.nl
 https://pgbverwerkingservice.entreepgb.svb.nl
 https://portal.entreepgb.svb.nl
 https://rdsapplications00.svb.nl
+https://rdsapplications01.svb.nl
 https://rdsapplications02.svb.nl
 https://rdsapplications03.svb.nl
-https://rdsapplications04.svb.nl
-https://rdsapplications05.svb.nl
-https://rdsapplications06.svb.nl
 https://rdsapplications07.svb.nl
+https://remotedesktop.svb.nl
 https://secure5.svb.nl
+https://splunk-a.svb.nl
 https://svb.nl
-https://test-cmsintranet.svb.nl
 https://test-intranet.svb.nl
 https://www.svb.nl

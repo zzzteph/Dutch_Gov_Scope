@@ -77,6 +77,8 @@ kennisbank.svb.nl
 leerplein.svb.nl
 leveranciersvdi.svb.nl
 live.svb.nl
+maf-a.svb.nl
+maf-oh.svb.nl
 mail.entreepgb.svb.nl
 marba.svb.nl
 mft-acc.svb.nl
@@ -137,7 +139,9 @@ remotedesktop.svb.nl
 sa.svb.nl
 secure4.svb.nl
 secure5.svb.nl
+splunk-a.svb.nl
 svb.nl
+svbappo.svb.nl
 test-cmsintranet.svb.nl
 test-intranet.svb.nl
 uc.sa.svb.nl

@@ -3852,6 +3852,8 @@ maatwerkadvies.api.ep-online.nl
 maatwerkvoormensen.nl
 machtigen-ont.toeslagen.nl
 machtigen.digipoort.logius.nl
+maf-a.svb.nl
+maf-oh.svb.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazine.zuid-holland.nl
@@ -6164,6 +6166,7 @@ specials-acpt.brabant.nl
 specials.brabant.nl
 spin.rijkswaterstaat.nl
 spin2.rijkswaterstaat.nl
+splunk-a.svb.nl
 splunksyslog.dmz.belastingdienst.nl
 sportenbewegenincijfers.nl
 squit2go.ofgv.nl
@@ -6392,6 +6395,7 @@ surveys.cbs.nl
 sva-mix.prod.belastingdienst.nl
 sva.prod.belastingdienst.nl
 svb.nl
+svbappo.svb.nl
 svmsta.dictu.nl
 svn.logius.nl
 symbolenbank.nctv.nl

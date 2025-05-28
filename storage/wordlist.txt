@@ -4857,6 +4857,8 @@ internetdienstensiamacc
 leerplein
 leveranciersvdi
 live
+maf-a
+maf-oh
 mail.entreepgb
 marba
 mft-acc
@@ -4911,6 +4913,8 @@ rdsapplications07
 remotedesktop
 secure4
 secure5
+splunk-a
+svbappo
 uc.sa
 vglas-a
 vglas-p
