@@ -2705,7 +2705,6 @@ feeds.staatscommissie2050.nl
 feeds.staatscommissierechtsstaat.nl
 feeds.staatscommissietegendiscriminatieenracisme.nl
 feeds.staatsexamensnt2.nl
-feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
@@ -4980,7 +4979,6 @@ opendata.staatscommissie2050.nl
 opendata.staatscommissierechtsstaat.nl
 opendata.staatscommissietegendiscriminatieenracisme.nl
 opendata.staatsexamensnt2.nl
-opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
@@ -6249,6 +6247,7 @@ start.dus-i.nl
 start.test.dusi.irealisatie.nl
 startformulier.brabant.nl
 startformuliertest.brabant.nl
+startmetdelen.nl
 startmetoesorichtlijnen.nl
 startpagina.rijkscloud.nl
 startportaal.belastingdienst.nl
