@@ -3393,6 +3393,7 @@ intranet-acc.flevoland.nl
 intranet-bestanden.flevoland.nl
 intranet-demo.dictu.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
+intranet.acc.toeslagen.nl
 intranet.ad.hdsr.nl
 intranet.autoriteitnvs.nl
 intranet.belastingdienst.nl
@@ -3405,12 +3406,14 @@ intranet.justis.nl
 intranet.justitieleictorganisatie.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.odijmond.nl
+intranet.ont.toeslagen.nl
 intranet.rijkswaterstaat.nl
 intranet.rsj.nl
 intranet.rvig.nl
 intranet.rvo.nl
 intranet.scp.nl
 intranet.svb.nl
+intranet.tst.toeslagen.nl
 intranet.vechtstromen.nl
 intranetvan.rvo.nl
 intratst.belastingdienst.nl
