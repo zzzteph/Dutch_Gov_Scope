@@ -2255,6 +2255,7 @@ english.scp.nl
 english.sso3w.nl
 english.two-acs.com
 english.vnacs.nl
+english.vrachtwagenheffing.nl
 english.wkr.nl
 english.wodc.nl
 english.wrr.nl
@@ -2535,6 +2536,7 @@ feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.two-acs.com
 feeds.english.vnacs.nl
+feeds.english.vrachtwagenheffing.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
 feeds.english.wrr.nl
@@ -2724,6 +2726,7 @@ feeds.versterkencyberweerbaarheid.nl
 feeds.vnacs.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
+feeds.vrachtwagenheffing.nl
 feeds.wegwijzermensenhandel.nl
 feeds.werkaanuitvoering.nl
 feeds.werkelijkeschade.nl
@@ -3860,6 +3863,7 @@ magazines.deltaprogramma.nl
 magazines.dji.nl
 magazines.emissieautoriteit.nl
 magazines.english.p-direkt.nl
+magazines.english.vrachtwagenheffing.nl
 magazines.forensischinstituut.nl
 magazines.government.nl
 magazines.ilent.nl
@@ -3880,11 +3884,14 @@ magazines.rijksoverheid.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
 magazines.tuchtcollege-gezondheidszorg.nl
+magazines.vrachtwagenheffing.nl
 magazines.werkenvoornederland.nl
 magazines.wrr.nl
+magazinesintern.english.vrachtwagenheffing.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
+magazinesintern.vrachtwagenheffing.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.aladdin.p-direkt.nl
@@ -4806,6 +4813,7 @@ opendata.english.scp.nl
 opendata.english.sso3w.nl
 opendata.english.two-acs.com
 opendata.english.vnacs.nl
+opendata.english.vrachtwagenheffing.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
 opendata.english.wrr.nl
@@ -4999,6 +5007,7 @@ opendata.versterkencyberweerbaarheid.nl
 opendata.vnacs.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
+opendata.vrachtwagenheffing.nl
 opendata.wegwijzermensenhandel.nl
 opendata.werkaanuitvoering.nl
 opendata.werkelijkeschade.nl

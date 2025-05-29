@@ -4,9 +4,9 @@ opendata
 feeds
 a-www
 english
-a-opendata
 feeds.english
 opendata.english
+a-opendata
 a-feeds
 autodiscover
 mail
@@ -104,6 +104,7 @@ m
 git
 geoweb
 aanvragen
+magazinesintern
 eloket
 lync
 testeloket
@@ -182,7 +183,6 @@ wiki
 preview
 mx2
 iam
-magazinesintern
 av
 helloid
 chw
@@ -350,6 +350,7 @@ organisaties
 data-acc
 standaarden
 wetten
+magazines.english
 digitaal
 fileshare
 a-magazinesintern
@@ -3476,7 +3477,6 @@ grct-apps
 grct
 kms-test
 kms
-magazines.english
 mail.aladdin
 ndev.api-sec
 ndev.api
@@ -5012,6 +5012,7 @@ www.mta-sts
 www.topdesk
 toolbox
 elo
+magazinesintern.english
 buurtatlas
 mondgezondheidsdashboard
 nzrdashboard
