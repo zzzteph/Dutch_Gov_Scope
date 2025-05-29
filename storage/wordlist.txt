@@ -4,9 +4,9 @@ opendata
 feeds
 a-www
 english
+a-opendata
 feeds.english
 opendata.english
-a-opendata
 a-feeds
 autodiscover
 mail
@@ -16,9 +16,9 @@ magazines
 mijn
 _autodiscover._tcp
 intranet
-a-english
 acceptatie
 webmail
+a-english
 api
 cms
 _dmarc

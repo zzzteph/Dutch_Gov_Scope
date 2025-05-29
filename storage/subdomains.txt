@@ -109,7 +109,6 @@ a-english.ncsc.nl
 a-english.rda.nl
 a-english.rekenkamer.nl
 a-english.rijksdienstcn.com
-a-english.uitvoeringvanbeleidszw.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -122,7 +121,6 @@ a-feeds.a-english.ncadierproevenbeleid.nl
 a-feeds.a-english.rda.nl
 a-feeds.a-english.rekenkamer.nl
 a-feeds.a-english.rijksdienstcn.com
-a-feeds.a-english.uitvoeringvanbeleidszw.nl
 a-feeds.a-papiamentu.rijksdienstcn.com
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
@@ -201,7 +199,6 @@ a-opendata.a-english.ncadierproevenbeleid.nl
 a-opendata.a-english.rda.nl
 a-opendata.a-english.rekenkamer.nl
 a-opendata.a-english.rijksdienstcn.com
-a-opendata.a-english.uitvoeringvanbeleidszw.nl
 a-opendata.a-papiamentu.rijksdienstcn.com
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
@@ -2257,7 +2254,6 @@ english.rvo.nl
 english.scp.nl
 english.sso3w.nl
 english.two-acs.com
-english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
 english.wkr.nl
 english.wodc.nl
@@ -2538,7 +2534,6 @@ feeds.english.rijksdienstcn.com
 feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.two-acs.com
-feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
@@ -4812,7 +4807,6 @@ opendata.english.rijksdienstcn.com
 opendata.english.scp.nl
 opendata.english.sso3w.nl
 opendata.english.two-acs.com
-opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
