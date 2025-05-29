@@ -4,7 +4,6 @@ cms-bron.waterschaplimburg.nl
 cms-eef.waterschaplimburg.nl
 digikoppeling.waterschaplimburg.nl
 eef.waterschaplimburg.nl
-formulieren-preprod.waterschaplimburg.nl
 formulieren.waterschaplimburg.nl
 gvopsawa-t.waterschaplimburg.nl
 gvopsawa.waterschaplimburg.nl
@@ -31,6 +30,8 @@ test-cms-eef.waterschaplimburg.nl
 test-eef.waterschaplimburg.nl
 testdigikoppeling.waterschaplimburg.nl
 transfer.waterschaplimburg.nl
+uffprod25.waterschaplimburg.nl
+ufftest25.waterschaplimburg.nl
 videobellen.waterschaplimburg.nl
 waterschaplimburg.nl
 werkplek.waterschaplimburg.nl
