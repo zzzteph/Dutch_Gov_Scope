@@ -100,7 +100,6 @@ www.mijn
 adfs
 www-a
 zaaksysteem-acc
-m
 git
 geoweb
 aanvragen
@@ -178,6 +177,7 @@ test-intranet
 csoacct
 csotest
 sandbox
+m
 mijn-acc
 wiki
 preview
