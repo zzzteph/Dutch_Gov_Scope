@@ -181,6 +181,10 @@ m
 mijn-acc
 wiki
 preview
+www-acc2
+www-dev2
+www-p2
+www-tst2
 mx2
 iam
 av
@@ -321,10 +325,6 @@ prod-dictu
 test-dictu
 productie
 intern
-www-acc2
-www-dev2
-www-p2
-www-tst2
 leren
 zoekservice
 kgr-acc.mijn
