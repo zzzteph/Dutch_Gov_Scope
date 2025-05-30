@@ -1166,6 +1166,8 @@ belastingdienst.data.logius.nl
 belastingdienst.nl
 belastingen.zuid-holland.nl
 belastingles.nl
+beleidsmonitor-acc.zuid-holland.nl
+beleidsmonitor-tst.zuid-holland.nl
 benchmarkenindepubliekesector.nl
 beo.cbs.nl
 beoordeling.dus-i.nl
@@ -3460,6 +3462,7 @@ jaarjournaal.rvo.nl
 jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl
+jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 jaarverantwoordingzorg.nl
