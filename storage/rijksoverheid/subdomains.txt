@@ -7243,6 +7243,7 @@ www-acc.zorginstituutnederland.nl
 www-acc.zorginzicht.nl
 www-acc1.ep-online.nl
 www-acc2.medicijnkosten.nl
+www-acc2.zorgcijfersdatabank.nl
 www-acpt.brabant.nl
 www-dev.farmacotherapeutischkompas.nl
 www-dev.gipdatabank.nl
@@ -7253,6 +7254,7 @@ www-dev.zorgcijfersdatabank.nl
 www-dev.zorginstituutnederland.nl
 www-dev.zorginzicht.nl
 www-dev2.medicijnkosten.nl
+www-dev2.zorgcijfersdatabank.nl
 www-old.kiesraad.nl
 www-ontw.brabant.nl
 www-ow.farmacotherapeutischkompas.nl
@@ -7271,6 +7273,7 @@ www-p.zorgcijfersdatabank.nl
 www-p.zorginstituutnederland.nl
 www-p.zorginzicht.nl
 www-p2.medicijnkosten.nl
+www-p2.zorgcijfersdatabank.nl
 www-pr.zorginzicht.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
@@ -7292,6 +7295,7 @@ www-tst.zorgcijfersdatabank.nl
 www-tst.zorginstituutnederland.nl
 www-tst.zorginzicht.nl
 www-tst2.medicijnkosten.nl
+www-tst2.zorgcijfersdatabank.nl
 www.100aardgasvrijewijken.nl
 www.a2vonderenkerensheide.nl
 www.aaenmaas.nl
