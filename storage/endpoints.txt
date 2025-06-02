@@ -67,7 +67,6 @@ http://bibliotheek.gezondeleefomgeving.nl
 http://bpa.rvo.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
-http://bzv-a.brabant.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
@@ -837,6 +836,7 @@ https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvinet.douane.nl
 https://bvs.belastingdienst.nl
+https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://c2000.nl
 https://c3surf.knmi.nl
@@ -3470,6 +3470,7 @@ https://standaarden.rijkswaterstaat.nl
 https://start.acc.dusi.irealisatie.nl
 https://start.dus-i.nl
 https://start.test.dusi.irealisatie.nl
+https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
 https://startmetdelen.nl
 https://startmetoesorichtlijnen.nl
