@@ -180,6 +180,7 @@ evenementen.belastingdienst.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
+evvv.belastingdienst.nl
 extern-abv-acc.belastingdienst.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
@@ -608,11 +609,13 @@ te205vcciw12f.dmzota.ont.belastingdienst.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
+testpki.belastingdienst.nl
+testpkio.belastingdienst.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
-tmd.ont.belastingdienst.nl
 toestemming-acc.belastingdienst.nl
+toestemming-burger.acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
 toestemming.belastingdienst.nl
 va_do.belastingdienst.nl
@@ -711,6 +714,7 @@ webdiensten.belastingdienst.nl
 webdiensten.str10.acc.belastingdienst.nl
 webdiensten.str12.acc.belastingdienst.nl
 webdiensten.str13.acc.belastingdienst.nl
+webdiensten.str13.tst.belastingdienst.nl
 webdiensten.str2.tst.belastingdienst.nl
 webdiensten.str3.tst.belastingdienst.nl
 webdiensten.str30.acc.belastingdienst.nl
@@ -733,6 +737,7 @@ webservices.str30.acc.belastingdienst.nl
 website.acc.belastingdienst.nl
 website.belastingdienst.nl
 werken.belastingdienst.nl
+werkenbij.belastingdienst.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
 wsgwhc-acc.belastingdienst.nl

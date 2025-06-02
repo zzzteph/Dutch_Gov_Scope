@@ -51,6 +51,7 @@ www-ow
 www-ts
 dialin
 webservices
+werkenbij
 beeldbank
 onderzoek
 apps
@@ -70,7 +71,6 @@ portal
 digikoppeling
 kennis
 staging
-werkenbij
 www2
 forms
 inloggen
@@ -564,6 +564,7 @@ evenementen
 event.acc
 event
 event.tst
+evvv
 extern-abv-acc
 extgmea02.ss
 extra-vpn
@@ -967,11 +968,13 @@ te205vcciw12f.dmzota.ont
 test2gbav
 testdigitaalvergaderen
 testdigitaalvergaderen.ont
+testpki
+testpkio
 tgsb-btssrv-ut.tst
 tmd.acc
 tmd
-tmd.ont
 toestemming-acc
+toestemming-burger.acc
 toestemming-tst
 va_do
 vcbewepa02c.kdmz
@@ -1065,6 +1068,7 @@ webdiensten.acc
 webdiensten.str10.acc
 webdiensten.str12.acc
 webdiensten.str13.acc
+webdiensten.str13.tst
 webdiensten.str2.tst
 webdiensten.str3.tst
 webdiensten.str30.acc

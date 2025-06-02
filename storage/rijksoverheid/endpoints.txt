@@ -1760,7 +1760,6 @@ https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
 https://functiegebouwrijksoverheid.nl
 https://gdi-b.rvo.nl
-https://gdlo.belastingdienst.nl
 https://gebiedsprofielen.zuid-holland.nl
 https://gebruiker-beheer.dus-i.nl
 https://gebruikersportaal-duo.preproductie.digipoort.logius.nl
@@ -1772,7 +1771,6 @@ https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
-https://gegevensuitwisseling.belastingdienst.nl
 https://gelijke-kansen.nl
 https://geluidskaart.odmh.nl
 https://gemeenten.svb.nl
@@ -1849,7 +1847,6 @@ https://goudenpiramide.nl
 https://gouverneuraruba.com
 https://gouverneurcuracao.com
 https://government.nl
-https://gpi.belastingdienst.nl
 https://grensinfo.nl
 https://grenzeloossamenwerken.nl
 https://grip.informatiehuishouding.nl
@@ -2972,7 +2969,6 @@ https://overheidvannu.nl
 https://overstroomik.rijkswaterstaat.nl
 https://overtoeslagen.nl
 https://overzicht.cbs.nl
-https://ovverklaringen.belastingdienst.nl
 https://p-direkt.nl
 https://pacemweb.nl
 https://pages.ds-ocw.rijkscloud.nl
@@ -3756,9 +3752,7 @@ https://verkeersbesluiten.overheid.nl
 https://verkeersveiligheid.ndw.nu
 https://verkoop.domeinenrz.nl
 https://verkooptest.domeinenrz.nl
-https://verleendekinderopvang.belastingdienst.nl
 https://versterkencyberweerbaarheid.nl
-https://verzekeringsproducten.belastingdienst.nl
 https://veterinairtuchtcollege.nl
 https://vgc-acc.nvwa.nl
 https://vgc.nvwa.nl
@@ -3815,7 +3809,6 @@ https://wachttijden.nza.nl
 https://wachtwoord.brabant.nl
 https://wachtwoord.rijkswaterstaat.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
-https://wagenparkgegevens.belastingdienst.nl
 https://wapenfeiten.zuid-holland.nl
 https://water.omgevingswet.overheid.nl
 https://waterkwaliteitinbeeld.hdsr.nl
@@ -3871,6 +3864,7 @@ https://werken.belastingdienst.nl
 https://werken.douane.nl
 https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
+https://werkenbij.belastingdienst.nl
 https://werkenbij.douane.nl
 https://werkenbij.justid.nl
 https://werkenbij.rijkswaterstaat.nl
