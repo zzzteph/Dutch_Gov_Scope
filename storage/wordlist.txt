@@ -1267,8 +1267,11 @@ sso-acc1
 sso-acc2
 sso-demo
 sso-demo2
+sso-dev
 sso-int
+sso-test-tno
 sso-test
+test-tno
 uptime
 www.zoekeentolkvertaler
 zoekeentolkvertaler

@@ -6186,7 +6186,9 @@ sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
+sso-dev.bronhouderportaal-bro.nl
 sso-int.bronhouderportaal-bro.nl
+sso-test-tno.bronhouderportaal-bro.nl
 sso-test.bronhouderportaal-bro.nl
 sso.acc.omgevingswet.overheid.nl
 sso.acceptatie.istandaarden.nl
@@ -6476,6 +6478,7 @@ test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
 test-mijn.rvo.nl
+test-tno.bronhouderportaal-bro.nl
 test-website.rvo.nl
 test-wetten.rvo.nl
 test.actueel.nl-alert.nl
