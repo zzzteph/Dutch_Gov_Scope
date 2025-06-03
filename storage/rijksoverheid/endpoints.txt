@@ -27,6 +27,7 @@ http://acceptatie.loketgezondleven.nl
 http://acceptatie.pacemweb.nl
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://acceptatie.zoek.bodemambities.nl
+http://accounts.cbs.nl
 http://acme2.proeftuin.uzi-online.irealisatie.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
@@ -120,7 +121,6 @@ http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
 http://geo2.flevoland.nl
-http://geoserver.cbs.nl
 http://geoservices2.cbs.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
@@ -486,7 +486,6 @@ https://acceptatie.webservices.bigregister.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acceptatie.zoeken.zorgaanbiedersportaal.nl
-https://accounts.cbs.nl
 https://accp-bp.stopheling.nl
 https://accp-dol.stopheling.nl
 https://accp-dor.stopheling.nl
@@ -1095,7 +1094,6 @@ https://denkmee.zuid-holland.nl
 https://denkmeemet.zuid-holland.nl
 https://denw.hdsr.nl
 https://design.ndw.nu
-https://designsystem.cbs.nl
 https://designsystem.cibg.nl
 https://desktop.entreepgb.svb.nl
 https://desktop.flevoland.nl
@@ -1802,6 +1800,7 @@ https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
 https://georegister.brabant.nl
 https://georegister.flevoland.nl
+https://geoserver.cbs.nl
 https://geoserver.limburg.nl
 https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
@@ -1879,8 +1878,6 @@ https://helpmee.cbs.nl
 https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
 https://hhdelfland.nl
-https://highcharts-acc.cbs.nl
-https://highcharts-test.cbs.nl
 https://highcharts.cbs.nl
 https://hip-acc.huurcommissie.nl
 https://hip.huurcommissie.nl
@@ -3196,7 +3193,6 @@ https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
 https://rechtsbijstand.nl
 https://rechtwijzer.nl
-https://redactie-acc.cbs.nl
 https://redactie-tl.iplo.nl
 https://redactie.cbs.nl
 https://redactie.hdsr.nl
@@ -3925,9 +3921,7 @@ https://www-ac.medicijnkosten.nl
 https://www-ac.zorgcijfersdatabank.nl
 https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
-https://www-acc.cbs.nl
 https://www-sandbox.werkenvoornederland.nl
-https://www-test.cbs.nl
 https://www.100aardgasvrijewijken.nl
 https://www.a2vonderenkerensheide.nl
 https://www.aaenmaas.nl
