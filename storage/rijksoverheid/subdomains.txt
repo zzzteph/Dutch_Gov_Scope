@@ -529,7 +529,6 @@ acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
 acceptatie.applicationframework.cibg.nl
-acceptatie.archis.cultureelerfgoed.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.behandel.bigregister.nl
@@ -617,7 +616,6 @@ acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
 acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
-acceptatie.zoeken.cultureelerfgoed.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
 acceptatie2.spin.rijkswaterstaat.nl
 acceptatiepan.emissieautoriteit.nl

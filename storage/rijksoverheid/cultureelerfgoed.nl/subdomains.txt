@@ -10,10 +10,8 @@ acc.stor.services.cultureelerfgoed.nl
 acc.subsidie.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
-acceptatie.archis.cultureelerfgoed.nl
 acceptatie.cmis.cultureelerfgoed.nl
 acceptatie.geoservices.cultureelerfgoed.nl
-acceptatie.zoeken.cultureelerfgoed.nl
 api-gateway.archis.cultureelerfgoed.nl
 api.linkeddata.cultureelerfgoed.nl
 archis.cultureelerfgoed.nl

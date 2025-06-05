@@ -127,7 +127,6 @@ sharepoint
 videobellen
 acceptatie.behandel
 acceptatie.webservices
-acceptatie.zoeken
 connect-with
 esb
 geoserver
@@ -221,6 +220,7 @@ start
 toestemming
 vc
 webdiensten
+acceptatie.zoeken
 behandel
 zoek
 acs
@@ -1581,7 +1581,6 @@ acc.stor.services
 acc.subsidie
 acc.translate.services
 acc.zaak.services
-acceptatie.archis
 acceptatie.cmis
 acceptatie.geoservices
 api-gateway.archis

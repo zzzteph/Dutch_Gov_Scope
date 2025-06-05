@@ -6,7 +6,6 @@ http://acc.zaak.services.cultureelerfgoed.nl
 http://prd.archis.cultureelerfgoed.nl
 http://services.cultureelerfgoed.nl
 http://tst.subsidie.cultureelerfgoed.nl
-http://www.beeldbank.cultureelerfgoed.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
@@ -14,7 +13,6 @@ https://acc.client.archis.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
-https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api.linkeddata.cultureelerfgoed.nl
@@ -61,6 +59,7 @@ https://veilig.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
+https://www.beeldbank.cultureelerfgoed.nl
 https://www.cultureelerfgoed.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl

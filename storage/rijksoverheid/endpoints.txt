@@ -298,7 +298,6 @@ http://webservice-preprod.sbv-z.nl
 http://webtooling.irealisatie.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.bacterial-meningitis.nl
-http://www.beeldbank.cultureelerfgoed.nl
 http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
@@ -434,7 +433,6 @@ https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.applicationframework.cibg.nl
-https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.behandel.bigregister.nl
 https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
@@ -3981,6 +3979,7 @@ https://www.basisinformatie-overstromingen.nl
 https://www.basisregistratie.vechtstromen.nl
 https://www.basisregistratieondergrond.nl
 https://www.bcld-config.nl
+https://www.beeldbank.cultureelerfgoed.nl
 https://www.beeldbankbelastingdienst.nl
 https://www.beeldkompas.nl
 https://www.begroting2020.flevoland.nl
