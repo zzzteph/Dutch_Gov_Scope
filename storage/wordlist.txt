@@ -18,8 +18,8 @@ _autodiscover._tcp
 intranet
 acceptatie
 webmail
-a-english
 api
+a-english
 cms
 _dmarc
 a-feeds.a-english
