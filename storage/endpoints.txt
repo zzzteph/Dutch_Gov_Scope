@@ -207,6 +207,7 @@ http://otv-web.test.gf.irealisatie.nl
 http://p-crl.justid.nl
 http://pdok.waterschaplimburg.nl
 http://pgodemo.test.zm.irealisatie.nl
+http://pms-acc.dictu.nl
 http://prd.archis.cultureelerfgoed.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preprod.bvd.logius.nl
@@ -275,6 +276,7 @@ http://testconn.knmi.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
 http://trade.rvo.nl
+http://trillingsdata-acc.dictu.nl
 http://tst.subsidie.cultureelerfgoed.nl
 http://tws-esb.rijkswaterstaat.nl
 http://uffprod25.waterschaplimburg.nl
@@ -318,6 +320,7 @@ https://RDSapplications04.svb.nl
 https://RDSapplications05.svb.nl
 https://RDSapplications06.svb.nl
 https://RDSapplications07.svb.nl
+https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
 https://Test-Azure06.dictu.nl
 https://a-api.contenttoolsrijksoverheid.nl
@@ -3024,7 +3027,6 @@ https://platform.analyse.ilt.rijkscloud.nl
 https://pleio.kiesraad.nl
 https://plek.zorginstituutnederland.nl
 https://pmm.belastingdienst.nl
-https://pms-acc.dictu.nl
 https://pms.dictu.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
@@ -3377,6 +3379,7 @@ https://services.belastingdienst.nl
 https://services.ep-online.nl
 https://sf.ctgb.nl
 https://sf.knmi.nl
+https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://shared-services.ndw.nu
 https://sharingknowledge.rvo.nl
@@ -3670,7 +3673,6 @@ https://transitieproefdiervrijeinnovatie.nl
 https://travelpoint.sso3w.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
-https://trillingsdata-acc.dictu.nl
 https://trillingsdata.dictu.nl
 https://truck-parking.ndw.nu
 https://ts.onderwijsraad.nl
@@ -3893,7 +3895,6 @@ https://wetten-acc.overheid.nl
 https://wetten.overheid.nl
 https://wetten.rvo.nl
 https://wifi.brabant.nl
-https://wifi.dictu.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl

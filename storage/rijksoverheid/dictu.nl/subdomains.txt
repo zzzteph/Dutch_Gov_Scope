@@ -29,7 +29,6 @@ anoniem.netftp.dictu.nl
 apps.dictu.nl
 artifact-acc.rd.dictu.nl
 asb.datasluis.dictu.nl
-asb.webftp.dictu.nl
 auth-acc.dictu.nl
 auth-tst.dictu.nl
 auth.dictu.nl
@@ -37,12 +36,10 @@ auth20.dictu.nl
 authpms-acc.dictu.nl
 authpms.dictu.nl
 avd.datasluis.dictu.nl
-avd.webftp.dictu.nl
 bod1-o.dictu.nl
 bod1-t.dictu.nl
 bod2-o.dictu.nl
 bpp.datasluis.dictu.nl
-bpp.webftp.dictu.nl
 c-pki-acc.dictu.nl
 c-pki-acc.extranet.dictu.nl
 c-pki.dictu.nl
