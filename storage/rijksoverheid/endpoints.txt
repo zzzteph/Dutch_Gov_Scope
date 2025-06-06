@@ -381,6 +381,7 @@ https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
+https://acc.beeldbellen.dji.nl
 https://acc.bestandenpostbus.nl
 https://acc.bromonitor.nl
 https://acc.bronhouderportaal-bro.nl
@@ -696,6 +697,7 @@ https://beeldbank.nimh.nl
 https://beeldbank.zuid-holland.nl
 https://beeldbankbeheer.zuid-holland.nl
 https://beeldbankbelastingdienst.nl
+https://beeldbellen.dji.nl
 https://beeldkompas.nl
 https://begrippen.hdsr.nl
 https://begrippen.waterschaplimburg.nl
@@ -3754,6 +3756,8 @@ https://vgc-acc.nvwa.nl
 https://vgc.nvwa.nl
 https://vgr.zuid-holland.nl
 https://viaany.vechtstromen.nl
+https://video-acc.beeldbellen.dji.nl
+https://video.beeldbellen.dji.nl
 https://videobellen.belastingdienst.nl
 https://videoleren.nvwa.nl
 https://videos.cbs.nl
