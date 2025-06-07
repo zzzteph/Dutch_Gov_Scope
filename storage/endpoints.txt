@@ -41,6 +41,7 @@ http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
 http://api.rdi.nl
+http://apikey-preprod.ep-online.nl
 http://appl.rdi.nl
 http://atlas-acpt.brabant.nl
 http://authenticatie-acc.inspectieview.nl
@@ -168,6 +169,7 @@ http://localisation.test.zm.irealisatie.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
 http://longread.brabant.nl
+http://maatwerkadvies-preprod.api.ep-online.nl
 http://mail.dev.cbs.nl
 http://mail.flevoland.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
@@ -188,7 +190,6 @@ http://mobiel.douane.nl
 http://monitor-klimaatadaptatie.zuid-holland.nl
 http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
-http://notificatie-preprod.api.ep-online.nl
 http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
 http://nzrdashboard.vzinfo.nl
@@ -599,7 +600,6 @@ https://api.p-direkt.nl
 https://api.preprod.mijn.overheid.nl
 https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
-https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
 https://apim-icc.svb.nl
 https://apis.developer.overheid.nl
@@ -2235,7 +2235,6 @@ https://lyncdiscover.om.nl
 https://lyncdiscover.rijksrecherche.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.rijkswaterstaat.nl
-https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
 https://maatwerkvoormensen.nl
 https://machtigen.digipoort.logius.nl
@@ -2523,6 +2522,7 @@ https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://noorddrive.rijkscloud.nl
+https://notificatie-preprod.api.ep-online.nl
 https://notificatie.api.ep-online.nl
 https://nponderwijs.nl
 https://nrgd.nl
