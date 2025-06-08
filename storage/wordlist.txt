@@ -98,6 +98,10 @@ mam
 ns1
 www.mijn
 adfs
+www-acc2
+www-dev2
+www-p2
+www-tst2
 www-a
 zaaksysteem-acc
 git
@@ -181,10 +185,6 @@ m
 mijn-acc
 wiki
 preview
-www-acc2
-www-dev2
-www-p2
-www-tst2
 mx2
 iam
 av

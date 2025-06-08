@@ -7242,6 +7242,7 @@ www-acc.zorgcijfersdatabank.nl
 www-acc.zorginstituutnederland.nl
 www-acc.zorginzicht.nl
 www-acc1.ep-online.nl
+www-acc2.gipdatabank.nl
 www-acc2.medicijnkosten.nl
 www-acc2.zorgcijfersdatabank.nl
 www-acc2.zorginzicht.nl
@@ -7254,6 +7255,7 @@ www-dev.medicijnkosten.nl
 www-dev.zorgcijfersdatabank.nl
 www-dev.zorginstituutnederland.nl
 www-dev.zorginzicht.nl
+www-dev2.gipdatabank.nl
 www-dev2.medicijnkosten.nl
 www-dev2.zorgcijfersdatabank.nl
 www-dev2.zorginzicht.nl
@@ -7274,6 +7276,7 @@ www-p.medicijnkosten.nl
 www-p.zorgcijfersdatabank.nl
 www-p.zorginstituutnederland.nl
 www-p.zorginzicht.nl
+www-p2.gipdatabank.nl
 www-p2.medicijnkosten.nl
 www-p2.zorgcijfersdatabank.nl
 www-p2.zorginzicht.nl
@@ -7297,6 +7300,7 @@ www-tst.medicijnkosten.nl
 www-tst.zorgcijfersdatabank.nl
 www-tst.zorginstituutnederland.nl
 www-tst.zorginzicht.nl
+www-tst2.gipdatabank.nl
 www-tst2.medicijnkosten.nl
 www-tst2.zorgcijfersdatabank.nl
 www-tst2.zorginzicht.nl
