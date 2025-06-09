@@ -72,6 +72,10 @@ digikoppeling
 kennis
 staging
 www2
+www-acc2
+www-dev2
+www-p2
+www-tst2
 forms
 inloggen
 repository
@@ -98,10 +102,6 @@ mam
 ns1
 www.mijn
 adfs
-www-acc2
-www-dev2
-www-p2
-www-tst2
 www-a
 zaaksysteem-acc
 git
