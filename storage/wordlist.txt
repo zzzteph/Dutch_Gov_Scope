@@ -112,7 +112,6 @@ eloket
 lync
 testeloket
 vpn2
-meldingen
 ontwikkel
 pushmail
 academie
@@ -191,6 +190,7 @@ av
 helloid
 chw
 test.resultaten
+meldingen
 prd
 rdgateway
 smtp1
@@ -2221,7 +2221,6 @@ metrixinbound.inspecteur
 povv-poc
 sasbi-acc
 sasbi
-staging.meldingen
 stc
 wio
 en
