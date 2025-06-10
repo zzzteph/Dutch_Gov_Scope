@@ -173,7 +173,6 @@ http://maatwerkadvies-preprod.api.ep-online.nl
 http://mail.dev.cbs.nl
 http://mail.flevoland.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
-http://mcsd-supplier.test.gf.irealisatie.nl
 http://mcsd.test.zm.irealisatie.nl
 http://meridian.rijkswaterstaat.nl
 http://metadata-b.test.zm.irealisatie.nl
@@ -203,10 +202,8 @@ http://opendata.english.domeinenrz.nl
 http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
 http://opendisdata.nza.nl
-http://orac.test.gf.irealisatie.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
-http://otv-web.test.gf.irealisatie.nl
 http://p-crl.justid.nl
 http://pdok.waterschaplimburg.nl
 http://pgodemo.test.zm.irealisatie.nl
@@ -223,11 +220,13 @@ http://prs-stub.test.gf.irealisatie.nl
 http://prs.rijkswaterstaat.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
+http://pseudonym.test.zm.irealisatie.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
 http://qualification-admin.test.zm.irealisatie.nl
 http://qualification-api.test.zm.irealisatie.nl
+http://qualification.test.zm.irealisatie.nl
 http://ref.omgevingswet.overheid.nl
 http://release.isis-web.nl
 http://reserved-cesar-db.knmi.nl
@@ -272,6 +271,7 @@ http://test.bestandenpostbus.nl
 http://test.digikoppeling.cibg.nl
 http://test.dpr.irealisatie.nl
 http://test.dusi.irealisatie.nl
+http://test.gf.irealisatie.nl
 http://test.loketgezondleven.nl
 http://test.mgo.irealisatie.nl
 http://test.woo.irealisatie.nl
@@ -871,6 +871,7 @@ https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.ndw.nu
 https://cbm.preprod.mijn.overheid.nl
+https://cbp.acc.mgo.irealisatie.nl
 https://cbp.test.mgo.irealisatie.nl
 https://cbrnsecurity.nctv.nl
 https://cbs.cbs.nl
@@ -2315,6 +2316,7 @@ https://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 https://mcsd-registratie-portaal.test.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
+https://mcsd-supplier.test.gf.irealisatie.nl
 https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
@@ -2944,6 +2946,7 @@ https://oproepingen.overheid.nl
 https://opvragen-preprod.ep-online.nl
 https://opvragen.ep-online.nl
 https://opwegnaarseb.nl
+https://orac.test.gf.irealisatie.nl
 https://ordz.nl
 https://organisaties-acc.overheid.nl
 https://organisaties-redactie-acc.overheid.nl
@@ -2954,6 +2957,7 @@ https://origin.klimaatscenarios-data.knmi.nl
 https://oss.developer.overheid.nl
 https://oto.cbs.nl
 https://otv-web.proeftuin.gf.irealisatie.nl
+https://otv-web.test.gf.irealisatie.nl
 https://ouders-uit-elkaar.nl
 https://outbound.onderwijsraad.nl
 https://outlook.svb.nl
