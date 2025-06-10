@@ -56,6 +56,10 @@ beeldbank
 onderzoek
 apps
 kennisbank
+www-acc2
+www-dev2
+www-p2
+www-tst2
 loket
 zaaksysteem
 feeds.papiamentu
@@ -72,10 +76,6 @@ digikoppeling
 kennis
 staging
 www2
-www-acc2
-www-dev2
-www-p2
-www-tst2
 forms
 inloggen
 repository
