@@ -81,6 +81,7 @@ hapi.spaceweather.knmi.nl
 harmonie.knmi.nl
 icce.knmi.nl
 iris.knmi.nl
+jaarverslag.knmi.nl
 jira.knmi.nl
 klimaatscenarios-data.knmi.nl
 knmi-inet.knmi.nl
@@ -100,7 +101,6 @@ msgcpp-ogc-archive.knmi.nl
 msgcpp-ogc-realtime.knmi.nl
 msgcpp.knmi.nl
 neries.knmi.nl
-netauth.knmi.nl
 new.mijn.knmi.nl
 nmdc.knmi.nl
 nmdcacc.knmi.nl

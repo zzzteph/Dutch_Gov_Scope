@@ -315,6 +315,7 @@ stats
 privacy
 guest
 acc.intranet
+jaarverslag
 test.intranet
 extranet
 projects
@@ -2428,7 +2429,6 @@ xmdm
 boa
 e-learningbibob.acc
 e-learningbibob
-jaarverslag
 validata
 vogcheck
 acc.staging
@@ -2526,7 +2526,6 @@ msgcpp-ogc-archive
 msgcpp-ogc-realtime
 msgcpp
 neries
-netauth
 new.mijn
 nmdc
 nmdcacc
