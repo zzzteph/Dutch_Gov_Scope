@@ -116,6 +116,8 @@ http://feeds.english.dienstterugkeerenvertrek.nl
 http://feeds.english.domeinenrz.nl
 http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
+http://feeds.english.mijncn.nl
+http://feeds.papiamentu.mijncn.nl
 http://formulier-beheer.dus-i.nl
 http://fs.ctgb.nl
 http://ftp.ofgv.nl
@@ -201,6 +203,8 @@ http://opendata.english.dienstterugkeerenvertrek.nl
 http://opendata.english.domeinenrz.nl
 http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
+http://opendata.english.mijncn.nl
+http://opendata.papiamentu.mijncn.nl
 http://opendisdata.nza.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
@@ -1501,7 +1505,6 @@ https://feeds.english.kiesraad.nl
 https://feeds.english.kimnet.nl
 https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
-https://feeds.english.mijncn.nl
 https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
@@ -1637,7 +1640,6 @@ https://feeds.pagw.nl
 https://feeds.papiamento.two-acs.com
 https://feeds.papiamento.vnacs.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
-https://feeds.papiamentu.mijncn.nl
 https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.papiamentu.two-acs.com
 https://feeds.papiamentu.vnacs.nl
@@ -2708,7 +2710,6 @@ https://opendata.english.kiesraad.nl
 https://opendata.english.kimnet.nl
 https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
-https://opendata.english.mijncn.nl
 https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
@@ -2845,7 +2846,6 @@ https://opendata.pagw.nl
 https://opendata.papiamento.two-acs.com
 https://opendata.papiamento.vnacs.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
-https://opendata.papiamentu.mijncn.nl
 https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.papiamentu.two-acs.com
 https://opendata.papiamentu.vnacs.nl
