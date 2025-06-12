@@ -1016,10 +1016,6 @@ awakta01.belastingdienst.nl
 awti.nl
 axx-test.belastingdienst.nl
 axx.belastingdienst.nl
-az1.acc.belastingdienst.data.logius.nl
-az1.prd.belastingdienst.data.logius.nl
-az2.acc.belastingdienst.data.logius.nl
-az2.prd.belastingdienst.data.logius.nl
 azwstatline.cbs.nl
 b-acc.asbestvolgsysteem.nl
 b2b-gemnet.belastingdienst.nl
@@ -1160,7 +1156,6 @@ beheersite-drp-preprd.overheid.nl
 beheersite-drp.overheid.nl
 belastingdienst-academie.nl
 belastingdienst-cn.nl
-belastingdienst.data.logius.nl
 belastingdienst.nl
 belastingen.zuid-holland.nl
 belastingles.nl

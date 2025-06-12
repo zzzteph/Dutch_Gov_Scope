@@ -2580,14 +2580,9 @@ amp-idp
 amp-pre
 amp
 artifact-rv-pp1
-az1.acc.belastingdienst.data
-az1.prd.belastingdienst.data
-az2.acc.belastingdienst.data
-az2.prd.belastingdienst.data
 beheerportaal.acceptatie.digipoort
 beheerportaal.digipoort
 beheerportaal.preproductie.digipoort
-belastingdienst.data
 bvd-pre.mev
 bvd
 bvd.mev
