@@ -1016,7 +1016,9 @@ https://crm.cbi.eu
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
 https://crowdtech.rvo.nl
+https://csaf.data.security.acc.ncsc.nl
 https://csaf.data.security.ncsc.nl
+https://csaf.data.security.test.ncsc.nl
 https://csirtdsp.nl
 https://csoacct.functiegebouwrijksoverheid.nl
 https://csoacct.ikwerkvoornederland.nl
@@ -1994,6 +1996,8 @@ https://inte2e.omgevingswet.overheid.nl
 https://integratie.omgevingswet.overheid.nl
 https://integratie02.omgevingswet.overheid.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
+https://intel-acc.ncsc.nl
+https://intel.ncsc.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intern.magazinesrijkswaterstaat.nl

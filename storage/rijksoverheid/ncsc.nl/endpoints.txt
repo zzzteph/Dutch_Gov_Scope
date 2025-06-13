@@ -8,12 +8,16 @@ https://api.mijn.ncsc.nl
 https://api.mijn.test.ncsc.nl
 https://api.ncsc.nl
 https://chat.ncsc.nl
+https://csaf.data.security.acc.ncsc.nl
 https://csaf.data.security.ncsc.nl
+https://csaf.data.security.test.ncsc.nl
 https://english.ncsc.nl
 https://feeds.english.ncsc.nl
 https://feeds.ncsc.nl
 https://gl.ncsc.nl
 https://gl1.ncsc.nl
+https://intel-acc.ncsc.nl
+https://intel.ncsc.nl
 https://magazines.ncsc.nl
 https://melissa.ncsc.nl
 https://mijn.acc.ncsc.nl
