@@ -1,8 +1,4 @@
-http://dataquality.ndw.nu
-http://mlops-models.ndw.nu
-http://mlops-monitoring.ndw.nu
-http://mlops-platform.ndw.nu
-http://mlops-tracking.ndw.nu
+http://pm-bounces.ndw.nu
 https://ams-closures.ndw.nu
 https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
@@ -10,6 +6,7 @@ https://auth.ndw.nu
 https://autodiscover.ndw.nu
 https://backbone.ndw.nu
 https://bereikbaarheid.ndw.nu
+https://bereikbaarheid.staging.ndw.nu
 https://budgy.ndw.nu
 https://caas.ndw.nu
 https://cbm.ndw.nu
@@ -24,6 +21,7 @@ https://data.ndw.nu
 https://data.staging.ndw.nu
 https://datafusion.ndw.nu
 https://datamonitor.ndw.nu
+https://dataquality.ndw.nu
 https://design.ndw.nu
 https://dexter.ndw.nu
 https://dexter.staging.ndw.nu
@@ -46,10 +44,15 @@ https://internal-docs.ndw.nu
 https://karin.ndw.nu
 https://keycloak.ndw.nu
 https://maps.ndw.nu
+https://maps.staging.ndw.nu
 https://melvin.ndw.nu
 https://mijn.ndw.nu
 https://mijnrdtmnl.ndw.nu
+https://mlops-models.ndw.nu
+https://mlops-monitoring.ndw.nu
+https://mlops-platform.ndw.nu
 https://mlops-platform.staging.ndw.nu
+https://mlops-tracking.ndw.nu
 https://mogin.ndw.nu
 https://nap-ev.ndw.nu
 https://ncis-ref.ndw.nu
@@ -58,6 +61,7 @@ https://ncis.staging.ndw.nu
 https://ndw.nu
 https://ndwviewer.ndw.nu
 https://nls.ndw.nu
+https://nls.staging.ndw.nu
 https://nt.ndw.nu
 https://ntm.ndw.nu
 https://ntm.staging.ndw.nu

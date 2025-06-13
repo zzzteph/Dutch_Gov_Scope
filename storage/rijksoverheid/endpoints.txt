@@ -89,7 +89,6 @@ http://coronadashboard.rijksoverheid.nl
 http://crm.nza.nl
 http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
-http://dataquality.ndw.nu
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
 http://demo1-systemteam.overheid.nl
@@ -183,10 +182,6 @@ http://metadata.test.zm.irealisatie.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.rvo.nl
-http://mlops-models.ndw.nu
-http://mlops-monitoring.ndw.nu
-http://mlops-platform.ndw.nu
-http://mlops-tracking.ndw.nu
 http://mobiel.douane.nl
 http://monitor-klimaatadaptatie.zuid-holland.nl
 http://nextcloud.waterschaplimburg.nl
@@ -211,6 +206,7 @@ http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
 http://pdok.waterschaplimburg.nl
 http://pgodemo.test.zm.irealisatie.nl
+http://pm-bounces.ndw.nu
 http://pms-acc.dictu.nl
 http://prd.archis.cultureelerfgoed.nl
 http://preprod-machtigen.digipoort.logius.nl
@@ -759,6 +755,7 @@ https://beoordeling.dus-i.nl
 https://beoordelingarbeidsrelatie.nl
 https://beoordelingscommissiedopingzaken.nl
 https://bereikbaarheid.ndw.nu
+https://bereikbaarheid.staging.ndw.nu
 https://bereken.uwbeslagvrijevoet.nl
 https://beschermdecultuurgoederen.nl
 https://besluitpreviewservice-eto.overheid.nl
@@ -1084,6 +1081,7 @@ https://dataplatform.knmi.nl
 https://dataportaal.brabant.nl
 https://dataportaal.cbs.nl
 https://dataportal.cbs.nl
+https://dataquality.ndw.nu
 https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
@@ -2307,6 +2305,7 @@ https://manager.klopt.cibg.nl
 https://maps.aaenmaas.nl
 https://maps.ndw.nu
 https://maps.rijkswaterstaat.nl
+https://maps.staging.ndw.nu
 https://maps.waterschaplimburg.nl
 https://marechaussee.nl
 https://mars.rijkswaterstaat.nl
@@ -2420,7 +2419,11 @@ https://mirtoverzicht.nl
 https://mivp.emissieautoriteit.nl
 https://mkbstatline.cbs.nl
 https://mks.esb.rijkswaterstaat.nl
+https://mlops-models.ndw.nu
+https://mlops-monitoring.ndw.nu
+https://mlops-platform.ndw.nu
 https://mlops-platform.staging.ndw.nu
+https://mlops-tracking.ndw.nu
 https://mlzopendata.cbs.nl
 https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
@@ -2527,6 +2530,7 @@ https://nlarbeidsinspectie.nl
 https://nlinfrankrijk.nl
 https://nllabourauthority.nl
 https://nls.ndw.nu
+https://nls.staging.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://noorddrive.rijkscloud.nl

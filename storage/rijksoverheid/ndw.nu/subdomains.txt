@@ -5,6 +5,7 @@ auth.ndw.nu
 autodiscover.ndw.nu
 backbone.ndw.nu
 bereikbaarheid.ndw.nu
+bereikbaarheid.staging.ndw.nu
 budgy.ndw.nu
 caas.ndw.nu
 cbm.ndw.nu
@@ -43,6 +44,7 @@ internal-docs.ndw.nu
 karin.ndw.nu
 keycloak.ndw.nu
 maps.ndw.nu
+maps.staging.ndw.nu
 melvin.ndw.nu
 mijn.ndw.nu
 mijnrdtmnl.ndw.nu
@@ -59,12 +61,15 @@ ncis.staging.ndw.nu
 ndw.nu
 ndwviewer.ndw.nu
 nls.ndw.nu
+nls.staging.ndw.nu
 nt.ndw.nu
 ntm.ndw.nu
 ntm.staging.ndw.nu
 open-data.ndw.nu
+opendata-ref.ndw.nu
 opendata.english.ndw.nu
 opendata.ndw.nu
+pm-bounces.ndw.nu
 put-kpi-dashboard.ndw.nu
 realtime.ndw.nu
 realtime.staging.ndw.nu
