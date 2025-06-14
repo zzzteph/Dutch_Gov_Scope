@@ -67,7 +67,6 @@ opendata.papiamentu
 papiamentu
 acceptatie.beheer
 atlas
-hybrid
 kaarten
 open
 mdm
@@ -91,6 +90,7 @@ acceptatie.mijn
 beheer
 app
 geoportaal
+hybrid
 publicaties
 docs
 cdn

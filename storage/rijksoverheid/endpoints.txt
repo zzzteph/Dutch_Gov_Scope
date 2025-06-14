@@ -200,7 +200,6 @@ http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
 http://opendata.english.mijncn.nl
 http://opendata.papiamentu.mijncn.nl
-http://opendisdata.nza.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
@@ -1905,7 +1904,6 @@ https://hulpmiddelen.farmatec.nl
 https://huurcommissie.nl
 https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
-https://hybrid.nza.nl
 https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam.mijnoctrooi.mypage.rvo.nl
@@ -2934,6 +2932,7 @@ https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl
 https://opendata3.platformrijksoverheid.nl
 https://opendata4.platformrijksoverheid.nl
+https://opendisdata.nza.nl
 https://openkat.nl
 https://openstad.zuid-holland.nl
 https://opkopersregister.stopheling.nl
