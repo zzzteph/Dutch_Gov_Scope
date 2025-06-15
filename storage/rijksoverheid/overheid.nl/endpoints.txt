@@ -8,6 +8,7 @@ http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc.omgevingswet.overheid.nl
+https://acc.wegwijzer.overheid.nl
 https://afval.omgevingswet.overheid.nl
 https://algoritme.overheid.nl
 https://algoritmen.overheid.nl
@@ -153,6 +154,7 @@ https://natuur.omgevingswet.overheid.nl
 https://omgevingswet.overheid.nl
 https://ondernemersplein.overheid.nl
 https://ondersteuning.omgevingswet.overheid.nl
+https://onderzoek.wegwijzer.overheid.nl
 https://open-acc.overheid.nl
 https://open.overheid.nl
 https://oproepingen-api-preprd-poc.overheid.nl
@@ -194,6 +196,7 @@ https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://pre.omgevingswet.overheid.nl
 https://preprod.mijn.overheid.nl
+https://preview.wegwijzer.overheid.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
@@ -295,13 +298,16 @@ https://verdragenbank-acc.overheid.nl
 https://verdragenbank.overheid.nl
 https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.overheid.nl
+https://voorlichting.wegwijzer.overheid.nl
 https://water.omgevingswet.overheid.nl
+https://wegwijzer.overheid.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
 https://wetgevingskalender-acc.overheid.nl
 https://wetgevingskalender.overheid.nl
 https://wetten-acc.overheid.nl
 https://wetten.overheid.nl
+https://woo-dashboards.overheid.nl
 https://wordimport.drop.overheid.nl
 https://www.acc.omgevingswet.overheid.nl
 https://www.bta.omgevingswet.overheid.nl
