@@ -117,6 +117,7 @@ http://feeds.english.domeinenrz.nl
 http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
 http://feeds.english.mijncn.nl
+http://feeds.english.rda.nl
 http://feeds.papiamentu.mijncn.nl
 http://formulier-beheer.dus-i.nl
 http://fs.ctgb.nl
@@ -199,6 +200,7 @@ http://opendata.english.domeinenrz.nl
 http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
 http://opendata.english.mijncn.nl
+http://opendata.english.rda.nl
 http://opendata.papiamentu.mijncn.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
@@ -1512,7 +1514,6 @@ https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
 https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.postedworkers.nl
-https://feeds.english.rda.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.rijksdienstcn.com
 https://feeds.english.scp.nl
@@ -2720,7 +2721,6 @@ https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
 https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.postedworkers.nl
-https://opendata.english.rda.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.rijksdienstcn.com
 https://opendata.english.scp.nl
