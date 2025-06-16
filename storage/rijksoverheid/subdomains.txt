@@ -2178,6 +2178,7 @@ elearning-zvjz-medewerkers.nctv.nl
 elearning.cbi.eu
 elearning.ordz.nl
 elearning.platformrijksoverheid.nl
+elk-sectrans.rijkscloud.nl
 elk.dgdoobi.rijkscloud.nl
 elkdmz1.ec.rijkscloud.nl
 elkdmz1.gn1.rijkscloud.nl
@@ -3474,6 +3475,8 @@ jaguar001b.dictu.nl
 jaguar010.dictu.nl
 jaguar010a.dictu.nl
 jaguar010b.dictu.nl
+jenkins-2.devops.rvb.rijkscloud.nl
+jenkins-test-2.devops.rvb.rijkscloud.nl
 jenkins-test.devops.rvb.rijkscloud.nl
 jenkins.devops.rvb.rijkscloud.nl
 jenkins.koopvm.rijkscloud.nl
@@ -3523,6 +3526,7 @@ jupyter.fib.ienw.rijkscloud.nl
 jupyter.horizon.ienw.rijkscloud.nl
 jupyter.hr-ienm.rijkscloud.nl
 jupyter.hr-ienw.rijkscloud.nl
+jupyter.idlab.ilt.rijkscloud.nl
 jupyter.ilt-analyse.rijkscloud.nl
 jupyter.ilt-zz.rijkscloud.nl
 jupyter.ilt.rijkscloud.nl
@@ -3614,6 +3618,7 @@ kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
+kevin.devops.rvb.rijkscloud.nl
 keycloak-acc.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
 keycloak.analyse.ilt.rijkscloud.nl
@@ -5153,6 +5158,7 @@ pgadmin.analyse.ilt.rijkscloud.nl
 pgadmin.demo.ix.rijkscloud.nl
 pgadmin.dev.fib.ienw.rijkscloud.nl
 pgadmin.dgdoobi.rijkscloud.nl
+pgadmin.rapportage.rijkscloud.nl
 pgadmin.sodm.rijkscloud.nl
 pgadmin.test.ix.rijkscloud.nl
 pgadmin4.analyse.ilt.rijkscloud.nl
@@ -5735,6 +5741,7 @@ rstudio.fib.ienw.rijkscloud.nl
 rstudio.horizon.ienw.rijkscloud.nl
 rstudio.hr-ienm.rijkscloud.nl
 rstudio.hr-ienw.rijkscloud.nl
+rstudio.idlab.ilt.rijkscloud.nl
 rstudio.ilt-analyse.rijkscloud.nl
 rstudio.ilt.rijkscloud.nl
 rstudio.informatieproducten-test.duo.rijkscloud.nl

@@ -3714,6 +3714,7 @@ dvrvb-gui-dev.devops.rvb
 dvrvb-o.devops.rvb
 dvrvb.rvb
 eaweb.rvb
+elk-sectrans
 elk.dgdoobi
 elkdmz1.ec
 elkdmz1.gn1
@@ -3811,6 +3812,8 @@ iuc-wsgi-acc
 ivi.rvb
 ix-mail
 ix
+jenkins-2.devops.rvb
+jenkins-test-2.devops.rvb
 jenkins-test.devops.rvb
 jenkins.devops.rvb
 jenkins.koopvm
@@ -3840,6 +3843,7 @@ jupyter.fib.ienw
 jupyter.horizon.ienw
 jupyter.hr-ienm
 jupyter.hr-ienw
+jupyter.idlab.ilt
 jupyter.ilt-analyse
 jupyter.ilt-zz
 jupyter.ilt
@@ -3866,6 +3870,7 @@ jupyter.shinyproxy.ix
 jupyter.sodm
 jupyter.test.ix
 jupyter.wntbzk
+kevin.devops.rvb
 keycloak-acc.rvb
 keycloak-devops.devops.rvb
 keycloak.analyse.ilt
@@ -3994,6 +3999,7 @@ pgadmin.analyse.ilt
 pgadmin.demo.ix
 pgadmin.dev.fib.ienw
 pgadmin.dgdoobi
+pgadmin.rapportage
 pgadmin.sodm
 pgadmin.test.ix
 pgadmin4.analyse.ilt
@@ -4102,6 +4108,7 @@ rstudio.fib.ienw
 rstudio.horizon.ienw
 rstudio.hr-ienm
 rstudio.hr-ienw
+rstudio.idlab.ilt
 rstudio.ilt-analyse
 rstudio.ilt
 rstudio.informatieproducten-test.duo
