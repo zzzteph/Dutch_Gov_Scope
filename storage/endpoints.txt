@@ -256,7 +256,6 @@ http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
 http://sterftedashboard.vzinfo.nl
 http://stijlgids.cibg.nl
-http://stopid.reis.lap.idm.rvig.nl
 http://storage.test.mgo.irealisatie.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
@@ -3523,6 +3522,7 @@ https://sterftedashboard-regionaal.vzinfo.nl
 https://stglb.rvo.nl
 https://stijlgids.rijkswaterstaat.nl
 https://stopheling.nl
+https://stopid.reis.lap.idm.rvig.nl
 https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl
