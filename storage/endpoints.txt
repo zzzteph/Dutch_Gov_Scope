@@ -257,7 +257,6 @@ http://storage.test.mgo.irealisatie.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://test-cms-eef.waterschaplimburg.nl
-http://test-cmsintranet.svb.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
 http://test-intranet.flevoland.nl
@@ -3184,8 +3183,7 @@ https://rdsa.knmi.nl
 https://rdsapplications00.svb.nl
 https://rdsapplications01.svb.nl
 https://rdsapplications02.svb.nl
-https://rdsapplications03.svb.nl
-https://rdsapplications07.svb.nl
+https://rdsapplications06.svb.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
 https://rechtsbijstand.nl
@@ -3566,6 +3564,7 @@ https://test-cms.projects.rvo.nl
 https://test-cms.rvo.nl
 https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.scp.nl
+https://test-cmsintranet.svb.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
