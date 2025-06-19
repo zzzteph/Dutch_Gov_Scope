@@ -117,7 +117,10 @@ http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
 http://feeds.english.mijncn.nl
 http://feeds.english.rda.nl
+http://feeds.english.vnacs.nl
+http://feeds.papiamento.vnacs.nl
 http://feeds.papiamentu.mijncn.nl
+http://feeds.papiamentu.vnacs.nl
 http://formulier-beheer.dus-i.nl
 http://fs.ctgb.nl
 http://ftp.ofgv.nl
@@ -197,7 +200,10 @@ http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
 http://opendata.english.mijncn.nl
 http://opendata.english.rda.nl
+http://opendata.english.vnacs.nl
+http://opendata.papiamento.vnacs.nl
 http://opendata.papiamentu.mijncn.nl
+http://opendata.papiamentu.vnacs.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
@@ -1513,7 +1519,6 @@ https://feeds.english.rijksdienstcn.com
 https://feeds.english.scp.nl
 https://feeds.english.sso3w.nl
 https://feeds.english.two-acs.com
-https://feeds.english.vnacs.nl
 https://feeds.english.wkr.nl
 https://feeds.english.wodc.nl
 https://feeds.english.wrr.nl
@@ -1628,11 +1633,9 @@ https://feeds.overheidvannu.nl
 https://feeds.overtoeslagen.nl
 https://feeds.p-direkt.nl
 https://feeds.papiamento.two-acs.com
-https://feeds.papiamento.vnacs.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.papiamentu.two-acs.com
-https://feeds.papiamentu.vnacs.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.politiekeambtsdragers.nl
 https://feeds.postedworkers.nl
@@ -2722,7 +2725,6 @@ https://opendata.english.rijksdienstcn.com
 https://opendata.english.scp.nl
 https://opendata.english.sso3w.nl
 https://opendata.english.two-acs.com
-https://opendata.english.vnacs.nl
 https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
@@ -2838,11 +2840,9 @@ https://opendata.overheidvannu.nl
 https://opendata.overtoeslagen.nl
 https://opendata.p-direkt.nl
 https://opendata.papiamento.two-acs.com
-https://opendata.papiamento.vnacs.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.papiamentu.two-acs.com
-https://opendata.papiamentu.vnacs.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.platformrijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
