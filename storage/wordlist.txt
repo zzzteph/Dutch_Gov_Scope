@@ -47,6 +47,7 @@ ftp
 geoservices
 geo
 a-magazines
+kennisbank
 www-ow
 www-ts
 dialin
@@ -55,7 +56,6 @@ werkenbij
 beeldbank
 onderzoek
 apps
-kennisbank
 www-acc2
 www-dev2
 www-p2
