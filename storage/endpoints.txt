@@ -124,6 +124,7 @@ http://feeds.english.farmatec.nl
 http://feeds.english.mijncn.nl
 http://feeds.english.rda.nl
 http://feeds.english.vnacs.nl
+http://feeds.english.zorginstituutnederland.nl
 http://feeds.papiamento.vnacs.nl
 http://feeds.papiamentu.mijncn.nl
 http://feeds.papiamentu.vnacs.nl
@@ -222,6 +223,7 @@ http://opendata.english.farmatec.nl
 http://opendata.english.mijncn.nl
 http://opendata.english.rda.nl
 http://opendata.english.vnacs.nl
+http://opendata.english.zorginstituutnederland.nl
 http://opendata.papiamento.vnacs.nl
 http://opendata.papiamentu.mijncn.nl
 http://opendata.papiamentu.vnacs.nl
@@ -1553,7 +1555,6 @@ https://feeds.english.two-acs.com
 https://feeds.english.wkr.nl
 https://feeds.english.wodc.nl
 https://feeds.english.wrr.nl
-https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
@@ -2762,7 +2763,6 @@ https://opendata.english.two-acs.com
 https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
-https://opendata.english.zorginstituutnederland.nl
 https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
