@@ -33,8 +33,6 @@ www-acc
 portaal
 connect
 data
-meet
-sip
 proto
 www-ac
 www-dev
@@ -43,6 +41,8 @@ www-tst
 login
 smtp
 zoeken
+meet
+sip
 ftp
 geoservices
 geo
@@ -50,7 +50,6 @@ a-magazines
 kennisbank
 www-ow
 www-ts
-dialin
 webservices
 werkenbij
 beeldbank
@@ -68,6 +67,7 @@ acceptatie.beheer
 atlas
 kaarten
 open
+dialin
 mdm
 portal
 digikoppeling
@@ -80,7 +80,6 @@ inloggen
 repository
 geoweb
 mx1
-lyncdiscover
 maps
 geodata
 enterpriseregistration
@@ -108,7 +107,6 @@ git
 aanvragen
 magazinesintern
 eloket
-lync
 testeloket
 vpn2
 ontwikkel
@@ -181,11 +179,11 @@ csotest
 sandbox
 m
 mijn-acc
+lyncdiscover
 wiki
 preview
 mx2
 iam
-av
 helloid
 chw
 test.resultaten
@@ -273,6 +271,7 @@ auth
 dns1
 dns2
 gitlab
+lync
 mail01
 servicedesk
 dnadatabank
@@ -1272,6 +1271,7 @@ ws
 www.mail
 relay1
 relay2
+av
 b2bi-acc
 b2bi
 db

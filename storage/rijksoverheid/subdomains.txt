@@ -1004,7 +1004,6 @@ autorizationnaan.entreepgb.svb.nl
 autorizationonte.entreepgb.svb.nl
 autorizationtepr.entreepgb.svb.nl
 autorizationtest.entreepgb.svb.nl
-av.aaenmaas.nl
 av.cbg-meb.nl
 avb.rvo.nl
 avd.datasluis.dictu.nl
@@ -1929,7 +1928,6 @@ dhcp2.ec.rijkscloud.nl
 dhcp2.gn1.rijkscloud.nl
 dhcp2.gn3.rijkscloud.nl
 dhcp2.rw1.rijkscloud.nl
-dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 dialin.justid.nl
 dialin.om.nl
@@ -3839,12 +3837,10 @@ lvbb-perf-acc.overheid.nl
 lvbb-preprod.overheid.nl
 lvbb-tst.overheid.nl
 lvmb.nl
-lync.aaenmaas.nl
 lync.dictu.nl
 lync.prolander.nl
 lyncaccess.dictu.nl
 lyncav.vico.dji.nl
-lyncdiscover.aaenmaas.nl
 lyncdiscover.justid.nl
 lyncdiscover.om.nl
 lyncdiscover.rijksrecherche.nl
@@ -4063,7 +4059,6 @@ mediaportal.cbs.nl
 medicijnkosten.nl
 medicineshortagesdefects.nl
 meepraten.flevoland.nl
-meet.aaenmaas.nl
 meet.cbg-meb.nl
 meet.justid.nl
 meet.om.nl
@@ -6086,7 +6081,6 @@ signing.ep-online.nl
 signing.pre.brabant.nl
 simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
-sip.aaenmaas.nl
 sip.cbg-meb.nl
 sip.emissieautoriteit.nl
 sip.justid.nl
