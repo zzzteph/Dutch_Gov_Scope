@@ -27,6 +27,7 @@ RDSapplications07.svb.nl
 SFS-ACC.dictu.nl
 SFS.dictu.nl
 Test-Azure06.dictu.nl
+_autodiscover._tcp.aanbiedersmedicijnen.nl
 _autodiscover._tcp.adviescollegeveiligheidgroningen.nl
 _autodiscover._tcp.belastingdienst-cn.nl
 _autodiscover._tcp.cbi.eu
