@@ -1014,7 +1014,6 @@ aw-content.belastingdienst.nl
 aw-ds.belastingdienst.nl
 aw-ftp.belastingdienst.nl
 aw-seg.belastingdienst.nl
-aw-tunnel.belastingdienst.nl
 awa001.acc.belastingdienst.nl
 awakta01.belastingdienst.nl
 awti.nl
@@ -1053,7 +1052,6 @@ b2btest-gemnet.toeslagen.nl
 b2btest-osb.belastingdienst.nl
 b2btest-osb.douane.nl
 b2btest-osb.toeslagen.nl
-b2btest-rijks.belastingdienst.nl
 b2btest-rijks.douane.nl
 b2btest-rijks.toeslagen.nl
 b2btest.belastingdienst.nl
@@ -1071,7 +1069,6 @@ bag2.basisregistraties.overheid.nl
 balie.acc.woo.irealisatie.nl
 balie.dpr.irealisatie.nl
 balie.woo.irealisatie.nl
-bapicft.belastingdienst.nl
 basisinformatie-overstromingen.nl
 basisregistratie.vechtstromen.nl
 basisregistratieondergrond.nl
@@ -1653,7 +1650,6 @@ componenten.overheid.nl
 conf.cbg-meb.nl
 conf.om.nl
 conf.rijksrecherche.nl
-conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.jitsi.rijkscloud.nl
 confluence.knmi.nl
@@ -1850,7 +1846,6 @@ dbbprodmta01.dbb.igj.nl
 dbbtamta01.dbb-acc.igj.nl
 dbcrco.belastingdienst.nl
 dbe-t.rvb.rijkscloud.nl
-dbpmo.belastingdienst.nl
 dc.ssc-ict.nl
 dcc-ienw.nl
 dcmp-upnl-idp-acc.rvo.nl
@@ -2332,7 +2327,6 @@ euthanasiecommissie.nl
 eux-olo.belastingdienst.nl
 eux-tao.belastingdienst.nl
 evat-test2.belastingdienst.nl
-evat.belastingdienst.nl
 evatbeheer.belastingdienst.nl
 evenementen.belastingdienst.nl
 evenementenbureauvws.nl
@@ -2365,7 +2359,6 @@ externemail.scp.nl
 externemail01.knmi.nl
 externemail02.knmi.nl
 externemailsaas.knmi.nl
-extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
 extranet.knmi.nl
 extranet.onderwijsraad.nl
@@ -2759,7 +2752,6 @@ fibe2-samlsign-douane.acc.belastingdienst.nl
 fibe2-samlsign-toeslagen.acc.belastingdienst.nl
 fibe2-samlsign.acc.belastingdienst.nl
 fibe2.acc.belastingdienst.nl
-fibi1-samlsign.belastingdienst.nl
 fibi1.belastingdienst.nl
 fibi2.acc.belastingdienst.nl
 fibt1.belastingdienst.nl
@@ -2828,7 +2820,6 @@ fs-ms-exdns03.brabant.nl
 fs-ms-exdns04.brabant.nl
 fs-up-sts01.brabant.nl
 fs-up-sts02.brabant.nl
-fs.belastingdienst.nl
 fs.ctgb.nl
 fs.knmi.nl
 fs.rijksdienstcn.com
@@ -2867,10 +2858,8 @@ functiegebouwrijksoverheid.nl
 gateway.test.ggdcontact.irealisatie.nl
 gatus.lpc.logius.nl
 gb-test.brabant.nl
-gba-bvr-ftps.belastingdienst.nl
 gba-bvr.belastingdienst.nl
 gbatmv.rvo.nl
-gbav.belastingdienst.nl
 gcms-client-certificaat.dictu.nl
 gdi-a.rvo.nl
 gdi-b.rvo.nl
@@ -2937,7 +2926,6 @@ gemeenten-a.svb.nl
 gemeenten.svb.nl
 geneesmiddeleninformatiebank.nl
 generiekefuncties.datavoorgezondheid.nl
-generiekportaal.tst.belastingdienst.nl
 gensys.flevoland.nl
 geo-fms.zuid-holland.nl
 geo-secure-test.zuid-holland.nl
@@ -3592,12 +3580,10 @@ kasidealsigning-test.belastingdienst.nl
 kasidealsigning.belastingdienst.nl
 kat.acc.irealisatie.nl
 kat.irealisatie.nl
-kava-admin.vcdn.belastingdienst.nl
 kava-adminont.vcdn.belastingdienst.nl
 kava-admintst.vcdn.belastingdienst.nl
 kava.vcdn.belastingdienst.nl
 kavaanalytics.vcdn.belastingdienst.nl
-kavaanalyticsont.vcdn.belastingdienst.nl
 kavaanalyticstst.vcdn.belastingdienst.nl
 kavaont.vcdn.belastingdienst.nl
 kavatst.vcdn.belastingdienst.nl
@@ -3694,7 +3680,6 @@ koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
 koppelvlak.overheid.nl
 kostenkentallen.rvo.nl
-kp-moss-ut.tst.belastingdienst.nl
 kpm.jeugdconnect.nl
 krv-art.cvr.rvb.rijkscloud.nl
 krv-art.devops.rvb.rijkscloud.nl
@@ -4315,7 +4300,6 @@ monitorwonen.flevoland.nl
 monumentenregister.cultureelerfgoed.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
-moodletst.vcdn.belastingdienst.nl
 moordzaak.om.nl
 moses.ont.belastingdienst.nl
 mq.esb.rijkswaterstaat.nl
@@ -4373,7 +4357,6 @@ mxrelay2.overheid.nl
 mydesktop.svb.nl
 myidp-acc.postedworkers.nl
 myidp.postedworkers.nl
-mysite-acc.belastingdienst.nl
 mysite.belastingdienst.nl
 mysites-conf.belastingdienst.nl
 mysites.belastingdienst.nl
@@ -5262,7 +5245,6 @@ pm6.belastingdienst.nl
 pm7.belastingdienst.nl
 pm8.belastingdienst.nl
 pm9.belastingdienst.nl
-pmc.belastingdienst.nl
 pmm.belastingdienst.nl
 pms-acc.dictu.nl
 pms.dictu.nl
@@ -6028,7 +6010,6 @@ sftp.cbs.nl
 sftp.test.cbs.nl
 shared-services.ndw.nu
 sharepoint-acc-ext.belastingdienst.nl
-sharepoint-acc.belastingdienst.nl
 sharepoint-acc.douane.nl
 sharepoint-acc.toeslagen.nl
 sharepoint-conf.belastingdienst.nl
@@ -6122,7 +6103,6 @@ sltn.bzv.brabant.nl
 smartmobility.flevoland.nl
 smartsurveys.cbs.nl
 smtp.awti.nl
-smtp.bapi.belastingdienst.nl
 smtp.bapicft.belastingdienst.nl
 smtp.hhdelfland.nl
 smtp.ofgv.nl
@@ -6444,8 +6424,6 @@ tarief.douane.nl
 tarief.str4.acc.douane.nl
 taxonomie.cbs.nl
 tbbb.tib-ivd.nl
-te205vcciw12.dmzota.ont.belastingdienst.nl
-te205vcciw12f.dmzota.ont.belastingdienst.nl
 tea.bigregister.nl
 teams.hhdelfland.nl
 teamstest.hhdelfland.nl
@@ -6596,7 +6574,6 @@ testpki.belastingdienst.nl
 testpkio.belastingdienst.nl
 testtunnelmdm.flevoland.nl
 teverantwoordenregelingen.rijksoverheid.nl
-tgsb-btssrv-ut.tst.belastingdienst.nl
 thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
 tib-ivd.nl
@@ -6610,6 +6587,7 @@ tlokb.nl
 tm.knmi.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
+tmd.ont.belastingdienst.nl
 tmv.cibg.nl
 tmv.rvig.nl
 tmx.vallei-veluwe.nl
@@ -6799,8 +6777,6 @@ vcbsmepa11.kdmz.belastingdienst.nl
 vcbsmeqa11-ec-ms.kdmz.belastingdienst.nl
 vcbsmeqa11.kdmz.belastingdienst.nl
 vcbsmeqa12.kdmz.belastingdienst.nl
-vcbtewepa02c.kdmz.belastingdienst.nl
-vcbteweqa02c.kdmz.belastingdienst.nl
 vcbtmrepa01-int.kdmz.belastingdienst.nl
 vcbtmreqa01-int.kdmz.belastingdienst.nl
 vcbucms02a.kdmz.belastingdienst.nl

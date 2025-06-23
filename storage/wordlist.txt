@@ -83,7 +83,6 @@ mx1
 maps
 geodata
 enterpriseregistration
-fs
 services
 werken
 acceptatie.mijn
@@ -117,11 +116,9 @@ adobe-tags
 b2b
 b2btest-gemnet
 b2btest-osb
-b2btest-rijks
 b2btest
 mta-sts
 ns2
-sharepoint-acc
 sharepoint-conf
 sharepoint
 videobellen
@@ -146,6 +143,7 @@ www1
 survey
 t-cms
 externemail
+fs
 m365
 sf
 formulier
@@ -280,9 +278,11 @@ opendata.dnadatabank
 ras
 acceptatie.raadplegen
 raadplegen
+b2btest-rijks
 e.acc.videobellen
 e.videobellen
 mobiel
+sharepoint-acc
 webservice-acc
 webservice
 www.acc
@@ -432,7 +432,6 @@ aw-content
 aw-ds
 aw-ftp
 aw-seg
-aw-tunnel
 awa001.acc
 awakta01
 axx-test
@@ -452,7 +451,6 @@ b2bftptest
 b2bsftp
 backend.socint.acc
 backend.socint
-bapicft
 bat
 bat.ont
 bdmz-reth473
@@ -495,7 +493,6 @@ ccn2
 centraalaanspreekpuntpensioenen.acc
 centraalaanspreekpuntpensioenen
 cert.test2gbav
-conference-2-belastingdienst1.vc
 conference-3-belastingdienst1.vc
 connectpeople.acc
 connectpeople
@@ -512,7 +509,6 @@ ctstest
 ctstest4k
 datumprikker
 dbcrco
-dbpmo
 delta
 digipoort-vpn1
 digipoort-vpn2
@@ -549,7 +545,6 @@ eubtw.str2.tst
 eux-olo
 eux-tao
 evat-test2
-evat
 evatbeheer
 evenementen
 event.acc
@@ -557,7 +552,6 @@ event
 event.tst
 evvv
 extern-abv-acc
-extgmea02.ss
 extra-vpn
 f2b
 fad-gegevens-sit
@@ -580,7 +574,6 @@ fibe2-samlsign-douane.acc
 fibe2-samlsign-toeslagen.acc
 fibe2-samlsign.acc
 fibe2.acc
-fibi1-samlsign
 fibi1
 fibi2.acc
 fibz1
@@ -602,9 +595,7 @@ ftpspriv.egb-kps
 ftpspub
 ftpstaopriv
 ftpstaopub
-gba-bvr-ftps
 gba-bvr
-gbav
 gdlo.acc
 gdlo
 gebruikersportaal
@@ -614,7 +605,6 @@ gegevensportaal
 gegevensuitwisseling.acc
 gegevensuitwisseling
 gembrp
-generiekportaal.tst
 gpa-rest-test
 gpi.acc
 gpi
@@ -679,12 +669,10 @@ kasdimsigning.test
 kasidealsigning-cnf
 kasidealsigning-test
 kasidealsigning
-kava-admin.vcdn
 kava-adminont.vcdn
 kava-admintst.vcdn
 kava.vcdn
 kavaanalytics.vcdn
-kavaanalyticsont.vcdn
 kavaanalyticstst.vcdn
 kavaont.vcdn
 kavatst.vcdn
@@ -695,7 +683,6 @@ kennisgroepen
 kennisnetwerk.acc
 kennisnetwerk
 ketentestnvr
-kp-moss-ut.tst
 le-webservices-beta
 le-webservices
 leereco.acc
@@ -790,7 +777,6 @@ mm
 mm.ont
 moodle.vcdn
 moodleont.vcdn
-moodletst.vcdn
 moses.ont
 msnp-tegemoetkoming.acc
 msnp-tegemoetkoming
@@ -805,7 +791,6 @@ mwr-app-api-ota
 mwr-app-api
 mwr-app-cdn-ota
 mwr-app-cdn
-mysite-acc
 mysite
 mysites-conf
 nat_o5001vmfavapp.ont
@@ -877,7 +862,6 @@ pm6
 pm7
 pm8
 pm9
-pmc
 pmm
 portaal.acc
 portaal.tst
@@ -932,7 +916,6 @@ sharepoint-acc-ext
 sharepoint-ext-conf
 sharepoint-ext
 sipreg
-smtp.bapi
 smtp.bapicft
 smtp11
 smtp12
@@ -954,16 +937,14 @@ stubs.tst
 sva-mix.prod
 sva.prod
 t-test
-te205vcciw12.dmzota.ont
-te205vcciw12f.dmzota.ont
 test2gbav
 testdigitaalvergaderen
 testdigitaalvergaderen.ont
 testpki
 testpkio
-tgsb-btssrv-ut.tst
 tmd.acc
 tmd
+tmd.ont
 toestemming-acc
 toestemming-burger.acc
 toestemming-tst
@@ -976,8 +957,6 @@ vcbsmepa11.kdmz
 vcbsmeqa11-ec-ms.kdmz
 vcbsmeqa11.kdmz
 vcbsmeqa12.kdmz
-vcbtewepa02c.kdmz
-vcbteweqa02c.kdmz
 vcbtmrepa01-int.kdmz
 vcbtmreqa01-int.kdmz
 vcbucms02a.kdmz
