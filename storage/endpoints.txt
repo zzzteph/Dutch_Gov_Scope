@@ -1388,7 +1388,6 @@ https://esb-ibabs.flevoland.nl
 https://esb-p1.brabant.nl
 https://esb-preprod.flevoland.nl
 https://esb-t1.brabant.nl
-https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://esb.btp.sso3w.nl
 https://esb.expenses.sso3w.nl
@@ -3852,6 +3851,7 @@ https://web.test.brba.nl
 https://web.test.dpr.irealisatie.nl
 https://web.test.mgo.irealisatie.nl
 https://web01.aaninhetdonker.nl
+https://webcast.brabant.nl
 https://webchat.klopt.cibg.nl
 https://webdiensten.belastingdienst.nl
 https://webdiensten.hdsr.nl
