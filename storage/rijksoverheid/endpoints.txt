@@ -40,6 +40,7 @@ http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
+http://api.contenttoolsrijksoverheid.nl
 http://api.rdi.nl
 http://apikey-preprod.ep-online.nl
 http://appl.rdi.nl
@@ -614,7 +615,6 @@ https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.caelus-tool.nl
-https://api.contenttoolsrijksoverheid.nl
 https://api.cursus.rijkscloud.nl
 https://api.dashboardgroningen.nl
 https://api.dataplatform.knmi.nl
