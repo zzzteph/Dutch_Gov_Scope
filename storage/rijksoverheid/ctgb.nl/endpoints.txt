@@ -1,5 +1,4 @@
 http://autodiscover.ctgb.nl
-http://fs.ctgb.nl
 https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://biociden.ctgb.nl
@@ -10,6 +9,7 @@ https://english.ctgb.nl
 https://feeds.ctgb.nl
 https://feeds.english.ctgb.nl
 https://filesender.ctgb.nl
+https://fs.ctgb.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://opendata.ctgb.nl
 https://opendata.english.ctgb.nl
