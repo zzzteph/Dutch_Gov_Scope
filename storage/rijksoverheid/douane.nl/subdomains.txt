@@ -1,7 +1,6 @@
 adobe-analytics-dc.douane.nl
 adobe-tags.douane.nl
 assistent.internetaankopen.douane.nl
-b2btest-gemnet.douane.nl
 b2btest-osb.douane.nl
 b2btest-rijks.douane.nl
 b2btest.douane.nl
@@ -16,13 +15,10 @@ fibd2.acc.douane.nl
 ier-online.douane.nl
 kennisbank.douane.nl
 mobiel.douane.nl
-mvt.exportvalidation.hsm.acc.douane.nl
 mvt.exportvalidation.hsm.douane.nl
 nh.acc.douane.nl
 nh.douane.nl
 sharepoint-acc.douane.nl
-sharepoint-conf.douane.nl
-sharepoint.douane.nl
 tarief.douane.nl
 tarief.str4.acc.douane.nl
 validationcalculation.douane.nl

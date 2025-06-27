@@ -114,13 +114,10 @@ academie
 adobe-analytics-dc
 adobe-tags
 b2b
-b2btest-gemnet
 b2btest-osb
 b2btest
 mta-sts
 ns2
-sharepoint-conf
-sharepoint
 videobellen
 acceptatie.behandel
 acceptatie.webservices
@@ -195,6 +192,7 @@ artifact-fibt1
 b2b-gemnet
 b2b-osb
 b2b-rijks
+b2btest-gemnet
 beta
 betalen
 download
@@ -211,6 +209,8 @@ ns3
 ns4
 pleio
 sa
+sharepoint-conf
+sharepoint
 start
 toestemming
 vc
@@ -1885,7 +1885,6 @@ bvinet
 exchangerate
 exchangeratetest
 ier-online
-mvt.exportvalidation.hsm.acc
 mvt.exportvalidation.hsm
 nh.acc
 nh

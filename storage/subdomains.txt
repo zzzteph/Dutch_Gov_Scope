@@ -1046,7 +1046,6 @@ b2bi-acc.cbg-meb.nl
 b2bi.cbg-meb.nl
 b2bsftp.belastingdienst.nl
 b2btest-gemnet.belastingdienst.nl
-b2btest-gemnet.douane.nl
 b2btest-gemnet.toeslagen.nl
 b2btest-osb.belastingdienst.nl
 b2btest-osb.douane.nl
@@ -4330,7 +4329,6 @@ mul-redirect.belastingdienst.nl
 mul.belastingdienst.nl
 murder-case.om.nl
 mvstat.cbs.nl
-mvt.exportvalidation.hsm.acc.douane.nl
 mvt.exportvalidation.hsm.douane.nl
 mwr-app-api-ota.belastingdienst.nl
 mwr-app-api.belastingdienst.nl
@@ -6007,12 +6005,10 @@ sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.douane.nl
 sharepoint-acc.toeslagen.nl
 sharepoint-conf.belastingdienst.nl
-sharepoint-conf.douane.nl
 sharepoint-conf.toeslagen.nl
 sharepoint-ext-conf.belastingdienst.nl
 sharepoint-ext.belastingdienst.nl
 sharepoint.belastingdienst.nl
-sharepoint.douane.nl
 sharepoint.toeslagen.nl
 sharingknowledge.rvo.nl
 shiny.abibzk.rijkscloud.nl
