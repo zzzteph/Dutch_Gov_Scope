@@ -117,6 +117,7 @@ http://english-data.rvo.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
 http://feeds.english.ctivd.nl
+http://feeds.english.deltaprogramma.nl
 http://feeds.english.dggf.nl
 http://feeds.english.dienstterugkeerenvertrek.nl
 http://feeds.english.domeinenrz.nl
@@ -215,6 +216,7 @@ http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oogop.zuid-holland.nl
 http://oosweb.cbs.nl
 http://opendata.english.ctivd.nl
+http://opendata.english.deltaprogramma.nl
 http://opendata.english.dggf.nl
 http://opendata.english.dienstterugkeerenvertrek.nl
 http://opendata.english.domeinenrz.nl
@@ -1521,7 +1523,6 @@ https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
 https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.defensie.nl
-https://feeds.english.deltaprogramma.nl
 https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.globalhealthhub.nl
 https://feeds.english.igj.nl
@@ -2723,7 +2724,6 @@ https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
 https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.defensie.nl
-https://opendata.english.deltaprogramma.nl
 https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.globalhealthhub.nl
 https://opendata.english.igj.nl
