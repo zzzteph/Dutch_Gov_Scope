@@ -4661,7 +4661,9 @@ ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
 ontwikkel.atlasleefomgeving.nl
 ontwikkel.atlasnatuurlijkkapitaal.nl
+ontwikkel.auth.dezi.nl
 ontwikkel.cbs.nl
+ontwikkel.uzipas.dezi.nl
 oogop.zuid-holland.nl
 oordelen.mensenrechten.nl
 oostvaarderskliniek.nl
@@ -6470,6 +6472,7 @@ test.actueel.nl-alert.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
+test.auth.dezi.nl
 test.belastingdienst-cn.nl
 test.bestandenpostbus.nl
 test.bezoekerscentrum.rijkswaterstaat.nl
@@ -6529,6 +6532,7 @@ test.status.cbs.nl
 test.stopheling.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
+test.uzipas.dezi.nl
 test.veilig.cultureelerfgoed.nl
 test.webservices.donorregister.nl
 test.woo.irealisatie.nl
