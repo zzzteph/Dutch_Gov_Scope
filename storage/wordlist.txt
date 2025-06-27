@@ -1648,7 +1648,6 @@ acc.gisextern
 acc.intranet-demo
 acc.rd
 acceptatie.digikoppeling.diginetwerk
-acceptatie.rijksweb.digikoppeling.diginetwerk
 acceptatie.webservices1
 acceptatie.webservices2
 anoniem.netftp
@@ -1713,6 +1712,7 @@ ibabs
 ibg.datasluis
 ibg.webftp
 idppoc-ont
+idppoc-sp-ont
 iltbuildserver
 iltontwikkel
 inkoopplein-acc
@@ -1801,6 +1801,7 @@ snow-cw
 svmsta
 test-azure06
 test.intranet-demo
+test12
 test202007201227
 test202007201240
 test202007201242

@@ -2,8 +2,8 @@ http://authpms.dictu.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
+http://idppoc-sp-ont.dictu.nl
 http://iltbuildserver.dictu.nl
-http://pms-acc.dictu.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -12,7 +12,6 @@ http://rijkspascrlcert2.dictu.nl
 http://rijkspasocsp1.extranet.dictu.nl
 http://rijkspasocsp2-acc.dictu.nl
 http://rijkspasocsp2.dictu.nl
-http://trillingsdata-acc.dictu.nl
 https://ACC.RD.dictu.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
@@ -48,6 +47,7 @@ https://klussenbank.dictu.nl
 https://mailing.dictu.nl
 https://mft.webftp.dictu.nl
 https://mijntoken.dictu.nl
+https://pms-acc.dictu.nl
 https://pms.dictu.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
@@ -61,14 +61,12 @@ https://snow-cw.dictu.nl
 https://test-azure06.dictu.nl
 https://test.dictu.nl
 https://test.intranet-demo.dictu.nl
+https://trillingsdata-acc.dictu.nl
 https://trillingsdata.dictu.nl
 https://tvep.dictu.nl
 https://tvs.dictu.nl
-https://vpn-tst.dictu.nl
 https://vpn.dictu.nl
-https://vpna-tst.dictu.nl
 https://vpna.dictu.nl
-https://vpnb-tst.dictu.nl
 https://vpnb.dictu.nl
 https://www.dictu.nl
 https://www.tvs.dictu.nl

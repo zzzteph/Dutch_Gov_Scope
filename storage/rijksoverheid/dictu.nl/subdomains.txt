@@ -21,7 +21,6 @@ acc.rd.dictu.nl
 acceptatie.digikoppeling.dictu.nl
 acceptatie.digikoppeling.diginetwerk.dictu.nl
 acceptatie.digikoppeling2.dictu.nl
-acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.webservices.dictu.nl
 acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
@@ -96,6 +95,7 @@ ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
 idppoc-ont.dictu.nl
+idppoc-sp-ont.dictu.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 inkoopplein-acc.dictu.nl
@@ -194,6 +194,7 @@ svmsta.dictu.nl
 test-azure06.dictu.nl
 test.dictu.nl
 test.intranet-demo.dictu.nl
+test12.dictu.nl
 test202007201227.dictu.nl
 test202007201240.dictu.nl
 test202007201242.dictu.nl

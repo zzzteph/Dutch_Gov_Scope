@@ -599,7 +599,6 @@ acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
 acceptatie.raadplegen.sbv-z.nl
-acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.schoolleidersregisterpo.nl
 acceptatie.spin2.rijkswaterstaat.nl
 acceptatie.sportenbewegenincijfers.nl
@@ -3254,6 +3253,7 @@ identifier-preprod.overheid.nl
 identifier.overheid.nl
 idm.rvig.nl
 idppoc-ont.dictu.nl
+idppoc-sp-ont.dictu.nl
 idro.ont.belastingdienst.nl
 idselect.cultureelerfgoed.nl
 idtst.brabant.nl
@@ -6536,6 +6536,7 @@ test.uzipas.dezi.nl
 test.veilig.cultureelerfgoed.nl
 test.webservices.donorregister.nl
 test.woo.irealisatie.nl
+test12.dictu.nl
 test2.kinderbescherming.nl
 test202007201227.dictu.nl
 test202007201240.dictu.nl
