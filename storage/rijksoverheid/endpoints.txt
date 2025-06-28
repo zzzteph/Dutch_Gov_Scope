@@ -361,7 +361,6 @@ http://www.bureau-reach.nl
 http://www.cev.nl
 http://www.entreepgb.svb.nl
 http://www.ep-online.nl
-http://www.erfgoeddeal.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
@@ -1561,7 +1560,6 @@ https://feeds.english.two-acs.com
 https://feeds.english.wkr.nl
 https://feeds.english.wodc.nl
 https://feeds.english.wrr.nl
-https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
 https://feeds.expertisecentrummggz.nl
@@ -2759,7 +2757,6 @@ https://opendata.english.two-acs.com
 https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
-https://opendata.erfgoeddeal.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
@@ -4132,6 +4129,7 @@ https://www.emissionsauthority.nl
 https://www.emm-online.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.energierijkdenhaag.nl
+https://www.erfgoeddeal.nl
 https://www.euthanasiecommissie.nl
 https://www.evenementenbureauvws.nl
 https://www.examenblad.nl
