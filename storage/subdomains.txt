@@ -2536,7 +2536,6 @@ feeds.english.wodc.nl
 feeds.english.wrr.nl
 feeds.english.zorginstituutnederland.nl
 feeds.euthanasiecommissie.nl
-feeds.expertisecentrummggz.nl
 feeds.fmhaaglanden.nl
 feeds.forensicinstitute.nl
 feeds.forensischezorg.nl
@@ -4805,7 +4804,6 @@ opendata.english.wodc.nl
 opendata.english.wrr.nl
 opendata.english.zorginstituutnederland.nl
 opendata.euthanasiecommissie.nl
-opendata.expertisecentrummggz.nl
 opendata.fmhaaglanden.nl
 opendata.forensicinstitute.nl
 opendata.forensischezorg.nl
