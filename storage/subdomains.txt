@@ -7088,7 +7088,6 @@ webservices.belastingdienst.nl
 webservices.bigregister.nl
 webservices.dictu.nl
 webservices.donorregister.nl
-webservices.hdsr.nl
 webservices.lrza.cibg.nl
 webservices.om.nl
 webservices.str10.acc.belastingdienst.nl
@@ -7197,7 +7196,6 @@ ws-izis.ofgv.nl
 ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
-wsus.hdsr.nl
 wus-encryptie.acc.belastingdienst.nl
 wus-encryptie.belastingdienst.nl
 wus-gemnet.belastingdienst.nl

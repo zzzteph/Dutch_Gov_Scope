@@ -50,7 +50,6 @@ a-magazines
 kennisbank
 www-ow
 www-ts
-webservices
 werkenbij
 beeldbank
 onderzoek
@@ -63,6 +62,7 @@ zaaksysteem
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
+webservices
 acceptatie.beheer
 atlas
 kaarten
@@ -2075,7 +2075,6 @@ uconnect-acc
 uconnect
 waterkwaliteitinbeeld
 watermerk
-wsus
 burgerloket.acceptatie
 burgerloket
 burgerloket.test
