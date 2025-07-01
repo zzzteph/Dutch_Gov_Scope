@@ -11,6 +11,7 @@ http://acc.dusi.irealisatie.nl
 http://acc.e-loket.ilent.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
+http://acc.inspectieview.nl
 http://acc.irealisatie.nl
 http://acc.mgo.irealisatie.nl
 http://acc.oinregister.logius.nl
@@ -72,6 +73,7 @@ http://bacterial-meningitis.nl
 http://beheermlo.zuid-holland.nl
 http://beta-dataportal.cbs.nl
 http://bevolkingsonderzoek.nl
+http://bh-integratie.inspectieview.nl
 http://bibliotheek.gezondeleefomgeving.nl
 http://bpa.rvo.nl
 http://bureau-reach.nl
@@ -147,6 +149,8 @@ http://ftp.schoolleidersregisterpo.nl
 http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
+http://gebruikregistratie-acc.inspectieview.nl
+http://gebruikregistratie.inspectieview.nl
 http://geo-secure-test.zuid-holland.nl
 http://geo-secure.zuid-holland.nl
 http://geo2.flevoland.nl
@@ -175,6 +179,7 @@ http://idppoc-sp-ont.dictu.nl
 http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
+http://inspectieview.nl
 http://int-prod-01.flevoland.nl
 http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
@@ -356,6 +361,7 @@ http://webmail.knmi.nl
 http://webmail.werkenvoornederland.nl
 http://webservice.ep-online.nl
 http://webtooling.irealisatie.nl
+http://www.acc.inspectieview.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.bacterial-meningitis.nl
 http://www.bevolkingsonderzoek.nl
@@ -363,6 +369,7 @@ http://www.bureau-reach.nl
 http://www.cev.nl
 http://www.entreepgb.svb.nl
 http://www.ep-online.nl
+http://www.inspectieview.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
@@ -462,7 +469,6 @@ https://acc.gisextern.dictu.nl
 https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieresultaten.nvwa.nl
-https://acc.inspectieview.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.intranet.justis.nl
 https://acc.intranet.rvig.nl
@@ -833,7 +839,6 @@ https://bezoekersdata.flevoland.nl
 https://bezwaar.atkm.nl
 https://bezwaarschriftenocw.nl
 https://bgt.basisregistraties.overheid.nl
-https://bh-integratie.inspectieview.nl
 https://big-register.nl
 https://bigregister.nl
 https://binnenhofrenovatie.nl
@@ -1795,8 +1800,6 @@ https://gebruiker-beheer.dus-i.nl
 https://gebruikersportaal-duo.preproductie.digipoort.logius.nl
 https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl
 https://gebruikersportaal.preproductie.digipoort.logius.nl
-https://gebruikregistratie-acc.inspectieview.nl
-https://gebruikregistratie.inspectieview.nl
 https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
@@ -2005,7 +2008,6 @@ https://inspectie-jenv.nl
 https://inspectie-oe.nl
 https://inspectiebtd.nl
 https://inspectieresultaten.nvwa.nl
-https://inspectieview.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -3943,7 +3945,6 @@ https://www.aboutnetherlandscustoms.nl
 https://www.academie.ind.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academyforinternationalrelations.nl
-https://www.acc.inspectieview.nl
 https://www.acc.mijn.dus-i.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.omgevingswet.overheid.nl
@@ -4191,7 +4192,6 @@ https://www.inspectie-jenv.nl
 https://www.inspectie-oe.nl
 https://www.inspectiebtd.nl
 https://www.inspectieresultaten.nvwa.nl
-https://www.inspectieview.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
