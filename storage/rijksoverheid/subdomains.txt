@@ -2563,7 +2563,6 @@ feeds.hwbp.nl
 feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
 feeds.ilent.nl
-feeds.informatieanalyseteam.nl
 feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
@@ -4831,7 +4830,6 @@ opendata.hwbp.nl
 opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
 opendata.ilent.nl
-opendata.informatieanalyseteam.nl
 opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
