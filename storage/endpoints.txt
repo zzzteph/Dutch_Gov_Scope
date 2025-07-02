@@ -133,6 +133,7 @@ http://feeds.english.dienstterugkeerenvertrek.nl
 http://feeds.english.domeinenrz.nl
 http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
+http://feeds.english.kimnet.nl
 http://feeds.english.mijncn.nl
 http://feeds.english.rda.nl
 http://feeds.english.vnacs.nl
@@ -240,6 +241,7 @@ http://opendata.english.dienstterugkeerenvertrek.nl
 http://opendata.english.domeinenrz.nl
 http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
+http://opendata.english.kimnet.nl
 http://opendata.english.mijncn.nl
 http://opendata.english.rda.nl
 http://opendata.english.vnacs.nl
@@ -1545,7 +1547,6 @@ https://feeds.english.ilent.nl
 https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
 https://feeds.english.kiesraad.nl
-https://feeds.english.kimnet.nl
 https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
 https://feeds.english.ncadierproevenbeleid.nl
@@ -2733,7 +2734,6 @@ https://opendata.english.ilent.nl
 https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
 https://opendata.english.kiesraad.nl
-https://opendata.english.kimnet.nl
 https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
 https://opendata.english.ncadierproevenbeleid.nl
