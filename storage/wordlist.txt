@@ -323,6 +323,7 @@ extranet
 projects
 secure
 nieuwsbrieven
+vacatures
 acc-dictu
 prod-dictu
 test-dictu
@@ -2543,7 +2544,6 @@ referendum
 sbl
 www.atlas
 www.geoserver
-www.mijnsubsidies-acc
 aansluitsuite.acceptatie.digipoort
 aansluitsuite.digipoort
 aansluitsuite.preproductie.digipoort
@@ -2897,7 +2897,6 @@ geodocs
 meldingbwt
 meldingwd
 odin
-vacatures
 repository-acc
 repository-eto
 izis
