@@ -53,6 +53,7 @@ _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.dji.nl
 _dmarc.donorregister.nl
+_dmarc.logius.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
 _dmarc.nza.nl
@@ -2111,7 +2112,6 @@ e.denkmee.zuid-holland.nl
 e.flevoland.nl
 e.garanties.rvo.nl
 e.hhdelfland.nl
-e.logius.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 eagle-acc.dji.nl

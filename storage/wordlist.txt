@@ -19,9 +19,9 @@ intranet
 acceptatie
 webmail
 api
+_dmarc
 a-english
 cms
-_dmarc
 a-feeds.a-english
 a-opendata.a-english
 vpn
@@ -166,7 +166,6 @@ connect-acpt
 acc.mijn
 www.mijn
 cmsintranet
-e
 test-cmsintranet
 test-intranet
 csoacct
@@ -290,6 +289,7 @@ www3
 nieuwsbrief
 piwik
 denkmee
+e
 kaart
 legacy
 luchtfoto

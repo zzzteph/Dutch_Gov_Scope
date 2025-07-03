@@ -1,3 +1,4 @@
+_dmarc.logius.nl
 aansluitsuite.acceptatie.digipoort.logius.nl
 aansluitsuite.digipoort.logius.nl
 aansluitsuite.preproductie.digipoort.logius.nl
@@ -33,7 +34,6 @@ clienteleitsm-acceptatie.logius.nl
 clienteleitsm.logius.nl
 comcms.logius.nl
 docs.lpc.logius.nl
-e.logius.nl
 gatus.lpc.logius.nl
 gebruikersportaal-duo.acceptatie.digipoort.logius.nl
 gebruikersportaal-duo.digipoort.logius.nl
