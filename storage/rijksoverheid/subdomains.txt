@@ -173,7 +173,6 @@ a-feeds.werkenbijdeeu.nl
 a-gebruiker.rvo.nl
 a-gebruikerbeheer.rvo.nl
 a-git.rijksoverheid.nl
-a-informatieservice.nederlandwereldwijd.nl
 a-inloggen.rvo.nl
 a-jira.rijksoverheid.nl
 a-logging.platformrijksoverheid.nl
@@ -1939,6 +1938,7 @@ diergeneesmiddeleninformatiebank.nl
 digi.ilent.nl
 digicheck.brabant.nl
 digid-stub.lpc.mijn.overheid.nl
+digidafspraak.nederlandwereldwijd.nl
 digikoppeling-dcr.cibg.nl
 digikoppeling-test.hdsr.nl
 digikoppeling.cibg.nl

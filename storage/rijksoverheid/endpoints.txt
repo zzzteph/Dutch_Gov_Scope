@@ -395,7 +395,6 @@ https://Test-Azure06.dictu.nl
 https://a-api.contenttoolsrijksoverheid.nl
 https://a-api.nederlandwereldwijd.nl
 https://a-cms.contenttoolsrijksoverheid.nl
-https://a-informatieservice.nederlandwereldwijd.nl
 https://a-origin.api.contenttoolsrijksoverheid.nl
 https://a-voorlichting.nederlandwereldwijd.nl
 https://a-www.nederlandwereldwijd.nl
@@ -1200,6 +1199,7 @@ https://dienstterugkeerenvertrek.nl
 https://diergeneesmiddeleninformatiebank.nl
 https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
+https://digidafspraak.nederlandwereldwijd.nl
 https://digikoppeling.waterschaplimburg.nl
 https://digilab.overheid.nl
 https://digitaal.raadopenbaarbestuur.nl
