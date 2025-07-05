@@ -347,6 +347,7 @@ api.mijn
 a-voorlichting
 track
 voorlichting
+projecten-acc
 media
 transfer
 access
@@ -4603,7 +4604,6 @@ prizmo-acc
 prizmo-web
 prizmo
 prod.wetten
-projecten-acc
 projecten-tst
 projects-acc
 projects-tst
