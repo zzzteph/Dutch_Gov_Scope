@@ -1,9 +1,4 @@
 http://autodiscover.ofgv.nl
-http://ftp.ofgv.nl
-https://enterpriseenrollment.ofgv.nl
-https://enterpriseregistration.ofgv.nl
-https://kenniscentrum.ofgv.nl
-https://ofgv.nl
-https://redactie.ofgv.nl
-https://webmail.ofgv.nl
-https://www.ofgv.nl
+http://enterpriseenrollment.ofgv.nl
+http://ofgv.nl
+http://webmail.ofgv.nl
