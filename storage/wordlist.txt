@@ -3003,6 +3003,7 @@ artifact-pp1.toegang
 artifact-pp2.toegang
 artifact-rd1.toegang
 artifact-rd2.toegang
+asl.omgevingswet
 autodiscover.koop
 bag.acceptatie.basisregistraties
 bag.basisregistraties
@@ -3086,7 +3087,6 @@ cmsgui.ondernemersplein
 cognitatie.acc.omgevingswet
 cognitatie.omgevingswet
 cognitatie.tst.omgevingswet
-community.developer
 componenten-acc
 componenten-tst
 componenten
@@ -3124,7 +3124,6 @@ digilab
 dmo.omgevingswet
 doculoket-acc
 doculoket
-drop-acc
 drop-api-preprd-poc
 drop-api-preprd
 drop-api
@@ -3147,6 +3146,8 @@ enabling.omgevingswet
 externe-veiligheid.omgevingswet
 forum.developer
 ftp.koop
+gegevensbijbesluiten-concept
+gegevensbijbesluiten-redactie
 gegevensbijbesluiten
 gegevensdelen.acc.mijn
 gegevensdelen.acc.picard.mijn
@@ -3395,7 +3396,6 @@ sts.koop
 stub.demo.mijn
 stub.mijn
 stubs.lpc.mijn
-technische-documentatie.oep
 test-energielabels.gebouwen
 test-internationaal.ondernemen
 test.hcv.mijn

@@ -56,6 +56,7 @@ artifact-pp1.toegang.overheid.nl
 artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
+asl.omgevingswet.overheid.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 bag.acceptatie.basisregistraties.overheid.nl
@@ -140,7 +141,6 @@ cmsgui.ondernemersplein.overheid.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
-community.developer.overheid.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
@@ -183,7 +183,6 @@ dns1.overheid.nl
 dns2.overheid.nl
 doculoket-acc.overheid.nl
 doculoket.overheid.nl
-drop-acc.overheid.nl
 drop-api-preprd-poc.overheid.nl
 drop-api-preprd.overheid.nl
 drop-api.overheid.nl
@@ -206,6 +205,8 @@ enabling.omgevingswet.overheid.nl
 externe-veiligheid.omgevingswet.overheid.nl
 forum.developer.overheid.nl
 ftp.koop.overheid.nl
+gegevensbijbesluiten-concept.overheid.nl
+gegevensbijbesluiten-redactie.overheid.nl
 gegevensbijbesluiten.overheid.nl
 gegevensdelen.acc.mijn.overheid.nl
 gegevensdelen.acc.picard.mijn.overheid.nl
@@ -463,7 +464,6 @@ sts.koop.overheid.nl
 stub.demo.mijn.overheid.nl
 stub.mijn.overheid.nl
 stubs.lpc.mijn.overheid.nl
-technische-documentatie.oep.overheid.nl
 test-energielabels.gebouwen.overheid.nl
 test-internationaal.ondernemen.overheid.nl
 test.hcv.mijn.overheid.nl
