@@ -762,6 +762,7 @@ apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
 api-acc.dashboardgroningen.nl
+api-acc.rdi.nl
 api-acpt.brabant.nl
 api-auth.ilent.nl
 api-gateway.archis.cultureelerfgoed.nl
@@ -3193,6 +3194,7 @@ i-www.government.nl
 i-www.rijksoverheid.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
+iam-acc.rdi.nl
 iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
@@ -6664,6 +6666,7 @@ uitvoeringvanbeleidszw.nl
 uitwisseling.cbs.nl
 uno.dfront.rijkscloud.nl
 upload.cbs.nl
+uploadmodule-acc.rdi.nl
 uploadmodule.rdi.nl
 upnl-acc-businesstest.mijn.rvo.nl
 upnl-acc-inregel.mijn.rvo.nl

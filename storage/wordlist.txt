@@ -254,6 +254,7 @@ linkeddata
 oud
 subsidie
 thesaurus
+api-acc
 gw
 i-cms
 i-cms1
@@ -1613,7 +1614,6 @@ www.test.monumentenregister
 www.veilig
 examenplein
 testcloud
-api-acc
 generiekefuncties
 55plus
 begrippenlijst
@@ -3587,12 +3587,14 @@ forum
 adviezen
 appl
 callbook
+iam-acc
 identificatie
 infoportal
 nox.radar
 prod.radar
 radar
 slimmestad
+uploadmodule-acc
 uploadmodule
 bastion365
 kart

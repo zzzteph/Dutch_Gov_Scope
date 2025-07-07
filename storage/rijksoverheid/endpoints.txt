@@ -45,7 +45,6 @@ http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
 http://api.contenttoolsrijksoverheid.nl
-http://api.rdi.nl
 http://apikey-preprod.ep-online.nl
 http://apikey.ep-online.nl
 http://appl.rdi.nl
@@ -172,7 +171,6 @@ http://hapi2.test.zm.irealisatie.nl
 http://harbor.az1.lpc.logius.nl
 http://harbor.az2.lpc.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl
-http://iam.rdi.nl
 http://ic-desk-functions.zuid-holland.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
@@ -638,6 +636,7 @@ https://anyc-t03.ssc-ict.nl
 https://anyc.ssc-ict.nl
 https://aoep-iam.rvo.nl
 https://api-acc.dashboardgroningen.nl
+https://api-acc.rdi.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
 https://api-sec.p-direkt.nl
@@ -665,6 +664,7 @@ https://api.ondernemersplein.overheid.nl
 https://api.openstad.zuid-holland.nl
 https://api.p-direkt.nl
 https://api.preprod.mijn.overheid.nl
+https://api.rdi.nl
 https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
 https://apim-icc.svb.nl
@@ -1926,9 +1926,11 @@ https://huurcommissie.nl
 https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
 https://i-login.mijncn.nl
+https://iam-acc.rdi.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam.mijnoctrooi.mypage.rvo.nl
 https://iam.ndw.nu
+https://iam.rdi.nl
 https://iam.rijkswaterstaat.nl
 https://iam.staging.ndw.nu
 https://ibabs.dictu.nl
@@ -3682,6 +3684,7 @@ https://uitvoeringvanbeleidszw.nl
 https://uitwisseling.cbs.nl
 https://uno.dfront.rijkscloud.nl
 https://upload.cbs.nl
+https://uploadmodule-acc.rdi.nl
 https://uploadmodule.rdi.nl
 https://upnl-idp.rvo.nl
 https://upnl.mijn.rvo.nl

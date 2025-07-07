@@ -1,8 +1,10 @@
-http://api.rdi.nl
 http://appl.rdi.nl
-http://iam.rdi.nl
+https://api-acc.rdi.nl
+https://api.rdi.nl
 https://callbook.rdi.nl
 https://feeds.rdi.nl
+https://iam-acc.rdi.nl
+https://iam.rdi.nl
 https://identificatie.rdi.nl
 https://infoportal.rdi.nl
 https://magazines.rdi.nl
@@ -13,5 +15,6 @@ https://prod.radar.rdi.nl
 https://radar.rdi.nl
 https://rdi.nl
 https://slimmestad.rdi.nl
+https://uploadmodule-acc.rdi.nl
 https://uploadmodule.rdi.nl
 https://www.rdi.nl

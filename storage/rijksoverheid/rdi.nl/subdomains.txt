@@ -1,8 +1,10 @@
 _autodiscover._tcp.rdi.nl
+api-acc.rdi.nl
 api.rdi.nl
 appl.rdi.nl
 callbook.rdi.nl
 feeds.rdi.nl
+iam-acc.rdi.nl
 iam.rdi.nl
 identificatie.rdi.nl
 infoportal.rdi.nl
@@ -16,5 +18,6 @@ prod.radar.rdi.nl
 radar.rdi.nl
 rdi.nl
 slimmestad.rdi.nl
+uploadmodule-acc.rdi.nl
 uploadmodule.rdi.nl
 www.rdi.nl
