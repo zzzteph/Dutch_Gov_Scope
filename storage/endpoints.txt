@@ -135,6 +135,7 @@ http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
 http://feeds.english.kimnet.nl
 http://feeds.english.mijncn.nl
+http://feeds.english.postedworkers.nl
 http://feeds.english.rda.nl
 http://feeds.english.vnacs.nl
 http://feeds.english.zorginstituutnederland.nl
@@ -244,6 +245,7 @@ http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
 http://opendata.english.kimnet.nl
 http://opendata.english.mijncn.nl
+http://opendata.english.postedworkers.nl
 http://opendata.english.rda.nl
 http://opendata.english.vnacs.nl
 http://opendata.english.zorginstituutnederland.nl
@@ -1556,7 +1558,6 @@ https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
 https://feeds.english.onderwijsinspectie.nl
-https://feeds.english.postedworkers.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.rijksdienstcn.com
 https://feeds.english.scp.nl
@@ -2734,7 +2735,6 @@ https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
 https://opendata.english.onderwijsinspectie.nl
-https://opendata.english.postedworkers.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.rijksdienstcn.com
 https://opendata.english.scp.nl
