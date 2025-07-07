@@ -158,7 +158,6 @@ a-feeds.ncadierproevenbeleid.nl
 a-feeds.nza.nl
 a-feeds.ocwincijfers.nl
 a-feeds.politiekeambtsdragers.nl
-a-feeds.raadopenbaarbestuur.nl
 a-feeds.rda.nl
 a-feeds.rekenkamer.nl
 a-feeds.rijksdienstcn.com
@@ -236,7 +235,6 @@ a-opendata.nza.nl
 a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
 a-opendata.politiekeambtsdragers.nl
-a-opendata.raadopenbaarbestuur.nl
 a-opendata.rda.nl
 a-opendata.rekenkamer.nl
 a-opendata.rijksdienstcn.com
@@ -312,7 +310,6 @@ a-www.nza.nl
 a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
 a-www.politiekeambtsdragers.nl
-a-www.raadopenbaarbestuur.nl
 a-www.rda.nl
 a-www.rekenkamer.nl
 a-www.rijksdienstcn.com
@@ -2640,7 +2637,6 @@ feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
 feeds.prosecutionservice.nl
-feeds.raadopenbaarbestuur.nl
 feeds.raadrvs.nl
 feeds.raadvoorcultuur.nl
 feeds.rabarijk.nl
@@ -4904,7 +4900,6 @@ opendata.platformrijksoverheid.nl
 opendata.politiekeambtsdragers.nl
 opendata.postedworkers.nl
 opendata.prosecutionservice.nl
-opendata.raadopenbaarbestuur.nl
 opendata.raadrvs.nl
 opendata.raadvoorcultuur.nl
 opendata.rabarijk.nl
