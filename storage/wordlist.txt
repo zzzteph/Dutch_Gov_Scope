@@ -296,6 +296,7 @@ legacy
 luchtfoto
 preprodformulieren
 remote
+veiligmailen
 extern
 odc
 bibliotheek
@@ -2054,7 +2055,6 @@ testtunnelmdm
 tunnelmdm
 uwork
 uworktest
-veiligmailen
 vps-prod-01
 www.begroting2020
 www.bodemrapportage
