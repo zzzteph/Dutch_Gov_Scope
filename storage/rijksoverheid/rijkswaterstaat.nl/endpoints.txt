@@ -1,5 +1,6 @@
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://data-acc.rijkswaterstaat.nl
+http://loket.acceptatie.rijkswaterstaat.nl
 http://meridian.rijkswaterstaat.nl
 http://prs.rijkswaterstaat.nl
 http://tws-esb.rijkswaterstaat.nl
@@ -27,7 +28,6 @@ https://innovatieloket-acc.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl
 https://innovatieloket.rijkswaterstaat.nl
 https://klimaateffectatlas.rijkswaterstaat.nl
-https://loket.acceptatie.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://m.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl

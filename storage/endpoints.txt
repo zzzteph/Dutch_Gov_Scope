@@ -200,6 +200,7 @@ http://localisation.test.zm.irealisatie.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
 http://lokalisatie-demo.test.gf.irealisatie.nl
+http://loket.acceptatie.rijkswaterstaat.nl
 http://longread.brabant.nl
 http://luchtfoto.zuid-holland.nl
 http://maatwerkadvies-preprod.api.ep-online.nl
@@ -2233,7 +2234,6 @@ https://lokaleregelgeving-eto.overheid.nl
 https://lokaleregelgeving.overheid.nl
 https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
 https://loket-preprod.hhdelfland.nl
-https://loket.acceptatie.rijkswaterstaat.nl
 https://loket.hhdelfland.nl
 https://loket.rijkswaterstaat.nl
 https://loket.zorginzicht.nl
