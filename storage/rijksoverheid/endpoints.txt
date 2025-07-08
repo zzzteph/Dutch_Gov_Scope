@@ -174,7 +174,6 @@ http://iam-containerplatform-az1.lpc.logius.nl
 http://ic-desk-functions.zuid-holland.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
-http://idapps.npr.idm.rvig.nl
 http://idppoc-sp-ont.dictu.nl
 http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
@@ -1187,6 +1186,7 @@ https://dev.opendata.nederlandwereldwijd.nl
 https://developer.dataplatform.knmi.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
+https://developer.rvig.nl
 https://dexter.ndw.nu
 https://dexter.staging.ndw.nu
 https://dezi.nl
@@ -2184,8 +2184,6 @@ https://labvantage-acc.nvwa.nl
 https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 https://landelijkregisterkinderopvang.nl
 https://landscape.test.gf.irealisatie.nl
-https://lap.api.reis.npr.idm.rvig.nl
-https://lap.rvp.reis.npr.idm.rvig.nl
 https://lc.cbs.nl
 https://ldentool.nl
 https://le-webservices-beta.belastingdienst.nl
@@ -2223,7 +2221,6 @@ https://login.cbs.nl
 https://login.databestanden.cbs.nl
 https://login.idm.rvig.nl
 https://login.mijncn.nl
-https://login.npr.idm.rvig.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://login.scp.nl
 https://login.vechtstromen.nl
@@ -3497,7 +3494,6 @@ https://sterftedashboard-regionaal.vzinfo.nl
 https://stglb.rvo.nl
 https://stijlgids.rijkswaterstaat.nl
 https://stopheling.nl
-https://stopid.reis.lap.idm.rvig.nl
 https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl

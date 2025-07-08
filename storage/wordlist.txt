@@ -359,6 +359,7 @@ import-acc.organisaties
 import.organisaties
 organisaties
 data-acc
+developer
 standaarden
 wetten
 magazines.english
@@ -3118,7 +3119,6 @@ demo.mijn
 demo1-systemteam
 demo2-systemteam
 developer.omgevingswet
-developer
 digid-stub.lpc.mijn
 digilab
 dmo.omgevingswet
