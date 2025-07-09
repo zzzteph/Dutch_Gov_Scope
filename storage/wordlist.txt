@@ -4792,12 +4792,15 @@ prod.mercurius
 travelpoint
 tst.mercurius
 vdbs
+accp-api
 accp-bp
 accp-dol
 accp-dor
 accp-dorbeheer
+accp
 bp
 dol
+dor-api
 dor
 dorbeheer
 ltu-admin
@@ -4806,6 +4809,9 @@ opkopersregister
 test-api
 test-bp
 test-developer
+test-dol
+test-dor
+test-dorbeheer
 Internetdienstena
 Internetdienstenp
 RDSapplications00

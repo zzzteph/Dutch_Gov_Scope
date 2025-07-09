@@ -619,10 +619,12 @@ access.rijksrecherche.nl
 accounts.cbs.nl
 accounts.ix.rijkscloud.nl
 accounts.rijkscloud.nl
+accp-api.stopheling.nl
 accp-bp.stopheling.nl
 accp-dol.stopheling.nl
 accp-dor.stopheling.nl
 accp-dorbeheer.stopheling.nl
+accp.stopheling.nl
 ace_nat17.belastingdienst.nl
 achilles-acc.rvo.nl
 achilles.rvo.nl
@@ -2004,6 +2006,7 @@ dol.stopheling.nl
 domeinenrz.nl
 domeinnaamregistratie.rijksoverheid.nl
 donorregister.nl
+dor-api.stopheling.nl
 dor.stopheling.nl
 dorbeheer.stopheling.nl
 dossierportal.cbs.nl
@@ -6406,6 +6409,9 @@ test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
 test-dictu.toegankelijkheidsverklaring.nl
+test-dol.stopheling.nl
+test-dor.stopheling.nl
+test-dorbeheer.stopheling.nl
 test-eef.waterschaplimburg.nl
 test-energielabels.gebouwen.overheid.nl
 test-english.rvo.nl

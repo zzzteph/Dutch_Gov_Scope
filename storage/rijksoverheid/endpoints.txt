@@ -563,10 +563,12 @@ https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acceptatie.zoeken.zorgaanbiedersportaal.nl
 https://accounts.cbs.nl
+https://accp-api.stopheling.nl
 https://accp-bp.stopheling.nl
 https://accp-dol.stopheling.nl
 https://accp-dor.stopheling.nl
 https://accp-dorbeheer.stopheling.nl
+https://accp.stopheling.nl
 https://achilles.rvo.nl
 https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
@@ -1232,6 +1234,7 @@ https://doemee.cbs.nl
 https://dol.stopheling.nl
 https://domeinenrz.nl
 https://donorregister.nl
+https://dor-api.stopheling.nl
 https://dor.stopheling.nl
 https://dorbeheer.stopheling.nl
 https://dossierportal.cbs.nl
@@ -3542,6 +3545,9 @@ https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-dictu.toegankelijkheidsverklaring.nl
+https://test-dol.stopheling.nl
+https://test-dor.stopheling.nl
+https://test-dorbeheer.stopheling.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intranet.scp.nl
 https://test-intranet.svb.nl

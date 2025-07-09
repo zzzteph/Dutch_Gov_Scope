@@ -1,9 +1,12 @@
+https://accp-api.stopheling.nl
 https://accp-bp.stopheling.nl
 https://accp-dol.stopheling.nl
 https://accp-dor.stopheling.nl
 https://accp-dorbeheer.stopheling.nl
+https://accp.stopheling.nl
 https://bp.stopheling.nl
 https://dol.stopheling.nl
+https://dor-api.stopheling.nl
 https://dor.stopheling.nl
 https://dorbeheer.stopheling.nl
 https://ltu-admin.stopheling.nl
@@ -13,5 +16,8 @@ https://stopheling.nl
 https://test-api.stopheling.nl
 https://test-bp.stopheling.nl
 https://test-developer.stopheling.nl
+https://test-dol.stopheling.nl
+https://test-dor.stopheling.nl
+https://test-dorbeheer.stopheling.nl
 https://test.stopheling.nl
 https://www.stopheling.nl
