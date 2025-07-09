@@ -41,8 +41,6 @@ https://efiling.mijnoctrooi.rvo.nl
 https://egeo.rvo.nl
 https://emobility.rvo.nl
 https://english.rvo.nl
-https://epbdwebservices-preprod.rvo.nl
-https://epbdwebservices.rvo.nl
 https://europese-subsidies.rvo.nl
 https://gdi-b.rvo.nl
 https://geocontent.rvo.nl
@@ -98,6 +96,7 @@ https://upnl-idp.rvo.nl
 https://upnl.mijn.rvo.nl
 https://vault-infra.efiling.mijnoctrooi.rvo.nl
 https://vault.efiling.mijnoctrooi.rvo.nl
+https://vorijkbo-tst.rvo.nl
 https://wba-acc.rvo.nl
 https://wba.rvo.nl
 https://webform.rvo.nl
