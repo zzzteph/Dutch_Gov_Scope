@@ -2,6 +2,8 @@
 acc.btp.sso3w.nl
 acc.cmv-kandidaat.sso3w.nl
 acc.expenses.sso3w.nl
+acc.gps-sa-api.sso3w.nl
+acc.gps-sa.sso3w.nl
 acc.mercurius.sso3w.nl
 cmv-kandidaat.sso3w.nl
 cmv-opdrachtgever.sso3w.nl
@@ -11,6 +13,8 @@ esb.expenses.sso3w.nl
 expenses.sso3w.nl
 feeds.english.sso3w.nl
 feeds.sso3w.nl
+gps-sa-api.sso3w.nl
+gps-sa.sso3w.nl
 magazines.sso3w.nl
 mercurius.sso3w.nl
 opendata.english.sso3w.nl

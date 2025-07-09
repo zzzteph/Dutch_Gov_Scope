@@ -4775,12 +4775,16 @@ sbc-prd-b-tenant04.dwrt4
 acc.btp
 acc.cmv-kandidaat
 acc.expenses
+acc.gps-sa-api
+acc.gps-sa
 acc.mercurius
 cmv-kandidaat
 cmv-opdrachtgever
 esb.btp
 esb.expenses
 expenses
+gps-sa-api
+gps-sa
 mercurius
 partnerplaza
 prd.btp

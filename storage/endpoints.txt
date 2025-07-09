@@ -11,6 +11,7 @@ http://acc.dusi.irealisatie.nl
 http://acc.e-loket.ilent.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
+http://acc.gps-sa.sso3w.nl
 http://acc.inspectieview.nl
 http://acc.irealisatie.nl
 http://acc.mgo.irealisatie.nl
@@ -469,6 +470,7 @@ https://acc.e-akkoord.nl
 https://acc.expenses.sso3w.nl
 https://acc.fhub.dictu.nl
 https://acc.gisextern.dictu.nl
+https://acc.gps-sa-api.sso3w.nl
 https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieresultaten.nvwa.nl
@@ -1867,6 +1869,8 @@ https://goudenpiramide.nl
 https://gouverneuraruba.com
 https://gouverneurcuracao.com
 https://government.nl
+https://gps-sa-api.sso3w.nl
+https://gps-sa.sso3w.nl
 https://grensinfo.nl
 https://grenzeloossamenwerken.nl
 https://grip.informatiehuishouding.nl

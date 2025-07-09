@@ -450,6 +450,8 @@ acc.flevoland.nl
 acc.forensischezorg.nl
 acc.gisextern.dictu.nl
 acc.gml.map.services.cultureelerfgoed.nl
+acc.gps-sa-api.sso3w.nl
+acc.gps-sa.sso3w.nl
 acc.hhdelfland.nl
 acc.informatiehuis.rvo.nl
 acc.informatieservice.nederlandwereldwijd.nl
@@ -3051,6 +3053,8 @@ gpa-rest-test.belastingdienst.nl
 gpa-tvs4-prod.rvo.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
+gps-sa-api.sso3w.nl
+gps-sa.sso3w.nl
 grafana.ix.rijkscloud.nl
 grafana.lpc.logius.nl
 grc-apps.p-direkt.nl
