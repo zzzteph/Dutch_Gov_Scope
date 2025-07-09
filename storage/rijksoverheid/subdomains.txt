@@ -1370,7 +1370,6 @@ caelus-tool.nl
 calendartst.brabant.nl
 callbook.rdi.nl
 campagnetoolkits.nl
-canary-svb.svb.nl
 caorijk.nl
 cap.om.belastingdienst.nl
 capi.cbs.nl
@@ -3823,6 +3822,7 @@ machtigen-ont.toeslagen.nl
 machtigen.digipoort.logius.nl
 maf-a.svb.nl
 maf-oh.svb.nl
+maf.svb.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazine.zuid-holland.nl
@@ -4481,6 +4481,7 @@ ns2.dictu.nl
 ns2.ec.rijkscloud.nl
 ns2.gslb.dictu.nl
 ns2.scp.nl
+ns2.svb.nl
 ns3.belastingdienst.nl
 ns3.brabant.nl
 ns4.belastingdienst.nl

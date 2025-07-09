@@ -20,7 +20,6 @@ https://assyst-t.svb.nl
 https://assyst.svb.nl
 https://autodiscover.svb.nl
 https://autorization.entreepgb.svb.nl
-https://canary-svb.svb.nl
 https://cmsintranet.svb.nl
 https://desktop.entreepgb.svb.nl
 https://downloaddomain.svb.nl
@@ -36,6 +35,7 @@ https://leerplein.svb.nl
 https://leveranciersvdi.svb.nl
 https://live.svb.nl
 https://maf-a.svb.nl
+https://maf.svb.nl
 https://mft-acc.svb.nl
 https://mft-prd.svb.nl
 https://mijnpgb-siam.svb.nl
@@ -50,10 +50,11 @@ https://pages.svb.nl
 https://pers.svb.nl
 https://pgbverwerkingservice.entreepgb.svb.nl
 https://portal.entreepgb.svb.nl
-https://rdsapplications00.svb.nl
 https://rdsapplications01.svb.nl
 https://rdsapplications02.svb.nl
-https://rdsapplications06.svb.nl
+https://rdsapplications03.svb.nl
+https://rdsapplications04.svb.nl
+https://rdsapplications05.svb.nl
 https://remotedesktop.svb.nl
 https://secure5.svb.nl
 https://splunk-a.svb.nl

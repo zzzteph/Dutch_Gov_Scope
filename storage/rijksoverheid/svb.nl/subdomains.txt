@@ -33,7 +33,6 @@ autorizationnaan.entreepgb.svb.nl
 autorizationonte.entreepgb.svb.nl
 autorizationtepr.entreepgb.svb.nl
 autorizationtest.entreepgb.svb.nl
-canary-svb.svb.nl
 cb.entreepgb.svb.nl
 cbaccp.entreepgb.svb.nl
 cbaccp2.entreepgb.svb.nl
@@ -79,6 +78,7 @@ leveranciersvdi.svb.nl
 live.svb.nl
 maf-a.svb.nl
 maf-oh.svb.nl
+maf.svb.nl
 mail.entreepgb.svb.nl
 marba.svb.nl
 mft-acc.svb.nl
@@ -104,6 +104,7 @@ mx3.svb.nl
 mx4.svb.nl
 mydesktop.svb.nl
 ns1.svb.nl
+ns2.svb.nl
 onderzoek.svb.nl
 outlook.svb.nl
 pages.svb.nl

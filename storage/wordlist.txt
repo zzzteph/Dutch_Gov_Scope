@@ -83,6 +83,7 @@ mx1
 maps
 geodata
 enterpriseregistration
+ns2
 services
 werken
 acceptatie.mijn
@@ -118,7 +119,6 @@ b2b
 b2btest-osb
 b2btest
 mta-sts
-ns2
 videobellen
 acceptatie.behandel
 acceptatie.webservices
@@ -4843,7 +4843,6 @@ autorizationnaan.entreepgb
 autorizationonte.entreepgb
 autorizationtepr.entreepgb
 autorizationtest.entreepgb
-canary-svb
 cb.entreepgb
 cbaccp.entreepgb
 cbaccp2.entreepgb
@@ -4882,6 +4881,7 @@ leveranciersvdi
 live
 maf-a
 maf-oh
+maf
 mail.entreepgb
 marba
 mft-acc
