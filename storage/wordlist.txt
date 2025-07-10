@@ -59,8 +59,6 @@ www-dev2
 www-p2
 www-tst2
 zaaksysteem
-feeds.papiamentu
-opendata.papiamentu
 papiamentu
 webservices
 acceptatie.beheer
@@ -82,6 +80,8 @@ geoweb
 mx1
 maps
 geodata
+feeds.papiamentu
+opendata.papiamentu
 enterpriseregistration
 ns2
 services
@@ -368,7 +368,6 @@ fileshare
 a-magazinesintern
 statistiek
 plekchecker
-feeds.papiamento
 opendata.papiamento
 papiamento
 vacature
@@ -5036,6 +5035,7 @@ www.mta-sts
 www.topdesk
 toolbox
 elo
+feeds.papiamento
 magazinesintern.english
 buurtatlas
 mondgezondheidsdashboard
