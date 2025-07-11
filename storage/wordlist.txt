@@ -80,8 +80,6 @@ geoweb
 mx1
 maps
 geodata
-feeds.papiamentu
-opendata.papiamentu
 enterpriseregistration
 ns2
 services
@@ -112,6 +110,8 @@ testeloket
 vpn2
 ontwikkel
 pushmail
+feeds.papiamentu
+opendata.papiamentu
 academie
 adobe-analytics-dc
 adobe-tags
@@ -368,7 +368,6 @@ fileshare
 a-magazinesintern
 statistiek
 plekchecker
-opendata.papiamento
 papiamento
 vacature
 geoportal
@@ -5002,6 +5001,7 @@ sign1
 toeslagenanimatie
 toestemming.acc
 www8
+opendata.papiamento
 bereken
 acceptatie.aanvragen
 acceptatie.formulieren
@@ -5035,7 +5035,6 @@ www.mta-sts
 www.topdesk
 toolbox
 elo
-feeds.papiamento
 magazinesintern.english
 buurtatlas
 mondgezondheidsdashboard

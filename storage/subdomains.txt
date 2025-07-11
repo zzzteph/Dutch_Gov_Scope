@@ -2522,7 +2522,6 @@ feeds.english.rekenkamer.nl
 feeds.english.rijksdienstcn.com
 feeds.english.scp.nl
 feeds.english.sso3w.nl
-feeds.english.vnacs.nl
 feeds.english.vrachtwagenheffing.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
@@ -2623,11 +2622,9 @@ feeds.overdedouane.nl
 feeds.overheidvannu.nl
 feeds.overtoeslagen.nl
 feeds.p-direkt.nl
-feeds.papiamento.vnacs.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.papiamentu.rijksdienstcn.com
-feeds.papiamentu.vnacs.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
@@ -2677,7 +2674,6 @@ feeds.uitvoeringvanbeleidszw.nl
 feeds.uziregister.nl
 feeds.veiligepubliekedienstverlening.nl
 feeds.versterkencyberweerbaarheid.nl
-feeds.vnacs.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
 feeds.vrachtwagenheffing.nl
@@ -4776,7 +4772,6 @@ opendata.english.rekenkamer.nl
 opendata.english.rijksdienstcn.com
 opendata.english.scp.nl
 opendata.english.sso3w.nl
-opendata.english.vnacs.nl
 opendata.english.vrachtwagenheffing.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
@@ -4880,11 +4875,9 @@ opendata.overheidvannu.nl
 opendata.overtoeslagen.nl
 opendata.p-direkt.nl
 opendata.papiamento.two-acs.com
-opendata.papiamento.vnacs.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.papiamentu.rijksdienstcn.com
-opendata.papiamentu.vnacs.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.platformrijksoverheid.nl
 opendata.politiekeambtsdragers.nl
@@ -4936,7 +4929,6 @@ opendata.uitvoeringvanbeleidszw.nl
 opendata.uziregister.nl
 opendata.veiligepubliekedienstverlening.nl
 opendata.versterkencyberweerbaarheid.nl
-opendata.vnacs.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
 opendata.vrachtwagenheffing.nl
