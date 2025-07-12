@@ -177,6 +177,9 @@ http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
 http://inspectieview.nl
 http://int-prod-01.flevoland.nl
+http://jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
+http://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
+http://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 http://jaeger.test.zm.irealisatie.nl
@@ -214,6 +217,7 @@ http://mijn.adr.donorregister.nl
 http://mijn.zuid-holland.nl
 http://mobiel.douane.nl
 http://mobielgis-test.zuid-holland.nl
+http://monitor-klimaatadaptatie.zuid-holland.nl
 http://n211wippolderlaan.zuid-holland.nl
 http://naaldwijk.zuid-holland.nl
 http://natuurlijk.zuid-holland.nl
@@ -306,6 +310,7 @@ http://shinyserver.zuid-holland.nl
 http://slechtvalk.brabant.nl
 http://slimmebruggen-backend.zuid-holland.nl
 http://slimmebruggen.zuid-holland.nl
+http://slimmerreizen.zuid-holland.nl
 http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
 http://staatvan.zuid-holland.nl
@@ -368,6 +373,7 @@ http://www.cev.nl
 http://www.entreepgb.svb.nl
 http://www.ep-online.nl
 http://www.inspectieview.nl
+http://www.slimmerreizen.zuid-holland.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
@@ -2059,10 +2065,6 @@ https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
 https://iwelcome.nvwa.nl
-https://jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
-https://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
-https://jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl
-https://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
@@ -2440,7 +2442,6 @@ https://modellen.jenvgegevens.nl
 https://modules.istandaarden.nl
 https://mogin.ndw.nu
 https://mondgezondheidsdashboard.vzinfo.nl
-https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring-prod5.koop.overheid.nl
 https://monitoring-prod6.koop.overheid.nl
@@ -3354,7 +3355,6 @@ https://sip.om.nl
 https://sip.rijksrecherche.nl
 https://slachtoffer.jeugdconnect.nl
 https://slim-reizen.ndw.nu
-https://slimmerreizen.zuid-holland.nl
 https://slimmestad.rdi.nl
 https://slimwatermanagement.nl
 https://smartsurveys.cbs.nl
