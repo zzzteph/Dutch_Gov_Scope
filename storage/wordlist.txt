@@ -8,8 +8,8 @@ a-opendata
 feeds.english
 opendata.english
 a-feeds
-autodiscover
 mail
+autodiscover
 test
 acc
 magazines

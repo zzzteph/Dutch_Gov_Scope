@@ -957,7 +957,6 @@ authpms-acc.dictu.nl
 authpms.dictu.nl
 autodiscover.aaenmaas.nl
 autodiscover.awti.nl
-autodiscover.beschermdecultuurgoederen.nl
 autodiscover.brabant.nl
 autodiscover.cbi.eu
 autodiscover.cbs.nl
@@ -2436,7 +2435,6 @@ feeds.avghelpdeskzorg.nl
 feeds.awti.nl
 feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
-feeds.beschermdecultuurgoederen.nl
 feeds.bigregister.nl
 feeds.binnenhofrenovatie.nl
 feeds.bureauncdr.nl
@@ -4689,7 +4687,6 @@ opendata.avghelpdeskzorg.nl
 opendata.awti.nl
 opendata.beheerautoriteitwaddenzee.nl
 opendata.belastingdienst-cn.nl
-opendata.beschermdecultuurgoederen.nl
 opendata.bigregister.nl
 opendata.binnenhofrenovatie.nl
 opendata.brabant.nl
