@@ -1,3 +1,4 @@
+http://fsvportaal.belastingdienst.nl
 http://pwa001.belastingdienst.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
@@ -23,6 +24,7 @@ https://delta.belastingdienst.nl
 https://download.belastingdienst.nl
 https://dva.belastingdienst.nl
 https://efm.belastingdienst.nl
+https://enterpriseenrollment.belastingdienst.nl
 https://enterpriseregistration.belastingdienst.nl
 https://eubtw.belastingdienst.nl
 https://f2b.belastingdienst.nl
@@ -35,7 +37,6 @@ https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
-https://fsvportaal.belastingdienst.nl
 https://gegevensportaal.belastingdienst.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
@@ -81,6 +82,7 @@ https://services.belastingdienst.nl
 https://sorry.belastingdienst.nl
 https://stubs.tst.belastingdienst.nl
 https://toestemming-acc.belastingdienst.nl
+https://toestemming-burger.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://veiling.belastingdienst.nl

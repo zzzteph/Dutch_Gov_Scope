@@ -141,6 +141,7 @@ http://feeds.papiamentu.mijncn.nl
 http://fmeserver.zuid-holland.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.zuid-holland.nl
+http://fsvportaal.belastingdienst.nl
 http://ftp.schoolleidersregisterpo.nl
 http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
@@ -1392,6 +1393,7 @@ https://english.wkr.nl
 https://english.wodc.nl
 https://english.wrr.nl
 https://english.zorginstituutnederland.nl
+https://enterpriseenrollment.belastingdienst.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.svb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -1758,7 +1760,6 @@ https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
 https://fs.rijksdienstcn.com
-https://fsvportaal.belastingdienst.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.dji.nl
 https://ftp.oostvaarderskliniek.nl
@@ -3593,6 +3594,7 @@ https://toepasbare-regels.omgevingswet.overheid.nl
 https://toepasbare-regels.pre.omgevingswet.overheid.nl
 https://toeslagen.nl
 https://toestemming-acc.belastingdienst.nl
+https://toestemming-burger.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
