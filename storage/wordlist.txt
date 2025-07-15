@@ -1269,9 +1269,7 @@ demo
 demo2
 dev
 doc-acc
-int
 pre
-sad-acc
 sad
 sso-acc-tno
 sso-acc1
@@ -1279,9 +1277,7 @@ sso-acc2
 sso-demo
 sso-demo2
 sso-dev
-sso-int
 sso-test-tno
-sso-test
 test-tno
 uptime
 www.zoekeentolkvertaler

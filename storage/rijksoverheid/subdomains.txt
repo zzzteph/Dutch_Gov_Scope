@@ -3319,7 +3319,6 @@ inspectieview.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
-int.bronhouderportaal-bro.nl
 int.omgevingswet.overheid.nl
 int02.omgevingswet.overheid.nl
 int12.omgevingswet.overheid.nl
@@ -5753,7 +5752,6 @@ sa-ota.belastingdienst.nl
 sa-tst.belastingdienst.nl
 sa.belastingdienst.nl
 sa.svb.nl
-sad-acc.bronhouderportaal-bro.nl
 sad.bronhouderportaal-bro.nl
 sadp.acc.belastingdienst.nl
 sadp.belastingdienst.nl
@@ -6123,9 +6121,7 @@ sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
 sso-dev.bronhouderportaal-bro.nl
-sso-int.bronhouderportaal-bro.nl
 sso-test-tno.bronhouderportaal-bro.nl
-sso-test.bronhouderportaal-bro.nl
 sso.acc.omgevingswet.overheid.nl
 sso.acceptatie.istandaarden.nl
 sso.bronhouderportaal-bro.nl
