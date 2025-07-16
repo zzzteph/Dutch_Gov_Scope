@@ -21,6 +21,7 @@ https://argon2.cbs.nl
 https://azwstatline.cbs.nl
 https://beeldbank-beheer.cbs.nl
 https://beeldbank.cbs.nl
+https://beh-iam.acceptatie.cbs.nl
 https://beo.cbs.nl
 https://bestandslevering.cbs.nl
 https://beta-iv3-controle.cbs.nl
@@ -77,6 +78,7 @@ https://jeugdstatline.cbs.nl
 https://jmopendata.cbs.nl
 https://klanttoegang.cbs.nl
 https://lc.cbs.nl
+https://licensemanagerblaise.cbs.nl
 https://livecharts.cbs.nl
 https://login.cbs.nl
 https://login.databestanden.cbs.nl
@@ -105,7 +107,6 @@ https://overzicht.cbs.nl
 https://politieopendata.cbs.nl
 https://portal.cbs.nl
 https://projecten.cbs.nl
-https://redactie-test.cbs.nl
 https://redactie.cbs.nl
 https://research.cbs.nl
 https://rgs.cbs.nl

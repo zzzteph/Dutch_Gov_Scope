@@ -1318,6 +1318,7 @@ apisimplex
 argon2
 azwstatline
 beeldbank-beheer
+beh-iam.acceptatie
 beo
 bestandslevering
 beta-dataportal
@@ -1380,6 +1381,7 @@ jeugdstatline
 jmopendata
 klanttoegang
 lc
+licensemanagerblaise
 livecharts
 login.databestanden
 longreads

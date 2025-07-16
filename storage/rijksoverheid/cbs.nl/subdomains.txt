@@ -21,6 +21,7 @@ autodiscover.cbs.nl
 azwstatline.cbs.nl
 beeldbank-beheer.cbs.nl
 beeldbank.cbs.nl
+beh-iam.acceptatie.cbs.nl
 beo.cbs.nl
 bestandslevering.cbs.nl
 beta-dataportal.cbs.nl
@@ -96,6 +97,7 @@ jeugdstatline.cbs.nl
 jmopendata.cbs.nl
 klanttoegang.cbs.nl
 lc.cbs.nl
+licensemanagerblaise.cbs.nl
 livecharts.cbs.nl
 login.cbs.nl
 login.databestanden.cbs.nl
