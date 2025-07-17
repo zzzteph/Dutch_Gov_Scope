@@ -1479,7 +1479,6 @@ acceptatie.ebms.digikoppeling
 acceptatie.lir
 acceptatie.meldingen.klopt
 acceptatie.portaal.competent
-acceptatie.portaal.digilevering
 acceptatie.publicwebservices-dcr
 acceptatie.publicwebservices
 acceptatie.tmv
@@ -1515,7 +1514,6 @@ lrza.services
 manager.klopt
 meldingen.klopt
 portaal.competent
-portaal.digilevering
 prototype
 publicwebservices-dcr
 publicwebservices

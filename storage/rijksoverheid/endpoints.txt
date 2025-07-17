@@ -541,7 +541,6 @@ https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.zorgaanbiedersportaal.nl
 https://acceptatie.portaal.competent.cibg.nl
-https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
 https://acceptatie.portaal.nlarbeidsinspectie.nl
 https://acceptatie.publicwebservices.cibg.nl
@@ -2987,7 +2986,6 @@ https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
 https://portaal.ctgb.nl
 https://portaal.dienstterugkeerenvertrek.nl
-https://portaal.digilevering.cibg.nl
 https://portaal.huurcommissie.nl
 https://portaal.ikz.nl
 https://portaal.interventiedatabase.nl
@@ -3098,6 +3096,7 @@ https://publicaties.brabant.nl
 https://publicaties.mensenrechten.nl
 https://publicaties.odmh.nl
 https://publicaties.rvig.nl
+https://publicwebservices.cibg.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl

@@ -21,7 +21,6 @@ acceptatie.ebms.digikoppeling.cibg.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.portaal.competent.cibg.nl
-acceptatie.portaal.digilevering.cibg.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.tmv.cibg.nl
@@ -63,7 +62,6 @@ manager.klopt.cibg.nl
 meldingen.klopt.cibg.nl
 opendata.cibg.nl
 portaal.competent.cibg.nl
-portaal.digilevering.cibg.nl
 portal.cibg.nl
 prototype.cibg.nl
 publicwebservices-dcr.cibg.nl
