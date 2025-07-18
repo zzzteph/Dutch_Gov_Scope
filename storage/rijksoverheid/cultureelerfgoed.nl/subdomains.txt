@@ -2,14 +2,9 @@ acc.api-gateway.archis.cultureelerfgoed.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.client.archis.cultureelerfgoed.nl
-acc.encoded.api-gateway.archis.cultureelerfgoed.nl
-acc.gml.map.services.cultureelerfgoed.nl
 acc.monumentenregister.cultureelerfgoed.nl
-acc.render.map.services.cultureelerfgoed.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.subsidie.cultureelerfgoed.nl
-acc.translate.services.cultureelerfgoed.nl
-acc.zaak.services.cultureelerfgoed.nl
 acceptatie.cmis.cultureelerfgoed.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 api-gateway.archis.cultureelerfgoed.nl
@@ -64,10 +59,8 @@ test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.t.cultureelerfgoed.nl
-test.veilig.cultureelerfgoed.nl
 thesaurus.cultureelerfgoed.nl
 tst.subsidie.cultureelerfgoed.nl
-veilig.cultureelerfgoed.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
@@ -75,5 +68,4 @@ www.beeldbank.cultureelerfgoed.nl
 www.cultureelerfgoed.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.test.monumentenregister.cultureelerfgoed.nl
-www.veilig.cultureelerfgoed.nl
 zoeken.cultureelerfgoed.nl

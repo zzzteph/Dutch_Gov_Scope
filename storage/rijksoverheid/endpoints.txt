@@ -9,17 +9,12 @@ http://acc-website.rvo.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://acc.e-loket.ilent.nl
-http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
-http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.gps-sa.sso3w.nl
 http://acc.inspectieview.nl
 http://acc.irealisatie.nl
 http://acc.mgo.irealisatie.nl
 http://acc.oinregister.logius.nl
-http://acc.render.map.services.cultureelerfgoed.nl
-http://acc.translate.services.cultureelerfgoed.nl
 http://acc.woo.irealisatie.nl
-http://acc.zaak.services.cultureelerfgoed.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
 http://acceptatie.clusterbuster.nl
@@ -298,7 +293,6 @@ http://samenwerkruimten.belastingdienst.nl
 http://sat.irealisatie.nl
 http://seg.cbs.nl
 http://services-preprod.ep-online.nl
-http://services.cultureelerfgoed.nl
 http://services.ep-online.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
@@ -336,7 +330,6 @@ http://testconn.knmi.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
 http://trade.rvo.nl
-http://tst.subsidie.cultureelerfgoed.nl
 http://tws-esb.rijkswaterstaat.nl
 http://uffprod25.waterschaplimburg.nl
 http://ufftest25.waterschaplimburg.nl
@@ -3612,6 +3605,7 @@ https://ts.onderwijsraad.nl
 https://tst-referentiegegevens.justid.nl
 https://tst.mercurius.sso3w.nl
 https://tst.opendata.nederlandwereldwijd.nl
+https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtcollege-gezondheidszorg.nl
 https://tuchtrecht-acc.overheid.nl
@@ -3666,7 +3660,6 @@ https://vaultfs.vechtstromen.nl
 https://vdbs.sso3w.nl
 https://vechtstromen.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
-https://veilig.cultureelerfgoed.nl
 https://veiligepubliekedienstverlening.nl
 https://veiligheidsregioflevoland.nl
 https://veiligmailen.flevoland.nl
@@ -4370,7 +4363,6 @@ https://www.uziregister.nl
 https://www.vallei-veluwe.nl
 https://www.vangbuitenshuis.nl
 https://www.vechtstromen.nl
-https://www.veilig.cultureelerfgoed.nl
 https://www.veiligepubliekedienstverlening.nl
 https://www.veiligheidsregioflevoland.nl
 https://www.verhalenoverdeoorlog.nl

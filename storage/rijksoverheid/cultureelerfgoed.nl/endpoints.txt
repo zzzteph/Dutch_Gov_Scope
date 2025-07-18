@@ -1,11 +1,4 @@
-http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
-http://acc.gml.map.services.cultureelerfgoed.nl
-http://acc.render.map.services.cultureelerfgoed.nl
-http://acc.translate.services.cultureelerfgoed.nl
-http://acc.zaak.services.cultureelerfgoed.nl
 http://prd.archis.cultureelerfgoed.nl
-http://services.cultureelerfgoed.nl
-http://tst.subsidie.cultureelerfgoed.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
@@ -55,7 +48,7 @@ https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://thesaurus.cultureelerfgoed.nl
-https://veilig.cultureelerfgoed.nl
+https://tst.subsidie.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
@@ -63,5 +56,4 @@ https://www.beeldbank.cultureelerfgoed.nl
 https://www.cultureelerfgoed.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
-https://www.veilig.cultureelerfgoed.nl
 https://zoeken.cultureelerfgoed.nl
