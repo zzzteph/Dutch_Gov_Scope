@@ -22,10 +22,10 @@ api
 _dmarc
 cms
 a-english
-a-feeds.a-english
-a-opendata.a-english
 vpn
 werkplek
+a-feeds.a-english
+a-opendata.a-english
 prod
 formulieren
 redactie

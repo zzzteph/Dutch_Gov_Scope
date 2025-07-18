@@ -102,7 +102,6 @@ a-english.autoriteitnvs.nl
 a-english.bigregister.nl
 a-english.cbg-meb.nl
 a-english.ctgb.nl
-a-english.ctivd.nl
 a-english.defensie.nl
 a-english.igj.nl
 a-english.ncadierproevenbeleid.nl
@@ -114,7 +113,6 @@ a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
 a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
-a-feeds.a-english.ctivd.nl
 a-feeds.a-english.defensie.nl
 a-feeds.a-english.igj.nl
 a-feeds.a-english.ncadierproevenbeleid.nl
@@ -133,7 +131,6 @@ a-feeds.centralecommissiedierproeven.nl
 a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
-a-feeds.ctivd.nl
 a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
 a-feeds.dus-i.nl
@@ -187,7 +184,6 @@ a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
 a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
-a-opendata.a-english.ctivd.nl
 a-opendata.a-english.defensie.nl
 a-opendata.a-english.igj.nl
 a-opendata.a-english.ncadierproevenbeleid.nl
@@ -206,7 +202,6 @@ a-opendata.centralecommissiedierproeven.nl
 a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
-a-opendata.ctivd.nl
 a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
 a-opendata.dus-i.nl
@@ -273,7 +268,6 @@ a-www.centralecommissiedierproeven.nl
 a-www.cibg.nl
 a-www.communicatierijk.nl
 a-www.ctgb.nl
-a-www.ctivd.nl
 a-www.cultuursubsidie.nl
 a-www.defensie.nl
 a-www.dictumagazines.nl
@@ -2451,7 +2445,6 @@ feeds.commissiemijnbouwschade.nl
 feeds.commissievanaanbestedingsexperts.nl
 feeds.communicatierijk.nl
 feeds.ctgb.nl
-feeds.ctivd.nl
 feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
 feeds.cvte.nl
@@ -2486,7 +2479,6 @@ feeds.english.bigregister.nl
 feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
 feeds.english.ctgb.nl
-feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
@@ -4702,7 +4694,6 @@ opendata.commissiemijnbouwschade.nl
 opendata.commissievanaanbestedingsexperts.nl
 opendata.communicatierijk.nl
 opendata.ctgb.nl
-opendata.ctivd.nl
 opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
 opendata.cvte.nl
@@ -4737,7 +4728,6 @@ opendata.english.bigregister.nl
 opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
 opendata.english.ctgb.nl
-opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
