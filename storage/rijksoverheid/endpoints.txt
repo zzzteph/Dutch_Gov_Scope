@@ -162,7 +162,6 @@ http://iam-containerplatform-az1.lpc.logius.nl
 http://ic-desk-functions.zuid-holland.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
-http://idppoc-sp-ont.dictu.nl
 http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
@@ -378,7 +377,6 @@ https://RDSapplications06.svb.nl
 https://RDSapplications07.svb.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
-https://Test-Azure06.dictu.nl
 https://a-api.contenttoolsrijksoverheid.nl
 https://a-api.nederlandwereldwijd.nl
 https://a-cms.contenttoolsrijksoverheid.nl
@@ -1911,6 +1909,7 @@ https://identificatie.rdi.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
 https://idppoc-ont.dictu.nl
+https://idppoc-sp-ont.dictu.nl
 https://idselect.cultureelerfgoed.nl
 https://igj.nl
 https://igj.rijkscloud.nl
@@ -3478,7 +3477,6 @@ https://tea.bigregister.nl
 https://techniekacademie.rijkswaterstaat.nl
 https://telewerken.om.nl
 https://test-api.stopheling.nl
-https://test-azure06.dictu.nl
 https://test-bp.stopheling.nl
 https://test-cms-bron.waterschaplimburg.nl
 https://test-cms.projecten.rvo.nl

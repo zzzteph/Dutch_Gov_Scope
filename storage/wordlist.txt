@@ -1662,7 +1662,6 @@ ACC.RD
 NL-DICTU-NHR-Sign
 SFS-ACC
 SFS
-Test-Azure06
 acc-digikoppeling-sign
 acc-ez-rvo-ba
 acc-gcms-client-certificaat
@@ -1677,6 +1676,7 @@ acc.gisextern
 acc.intranet-demo
 acc.rd
 acceptatie.digikoppeling.diginetwerk
+acceptatie.rijksweb.digikoppeling.diginetwerk
 acceptatie.webservices1
 acceptatie.webservices2
 anoniem.netftp
@@ -1828,7 +1828,6 @@ simplesamlidp-acc
 simplesamlidp
 snow-cw
 svmsta
-test-azure06
 test.intranet-demo
 test12
 test202007201227

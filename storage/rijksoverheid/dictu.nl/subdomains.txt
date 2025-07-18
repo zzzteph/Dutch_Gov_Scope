@@ -3,7 +3,6 @@ ACC.RD.dictu.nl
 NL-DICTU-NHR-Sign.dictu.nl
 SFS-ACC.dictu.nl
 SFS.dictu.nl
-Test-Azure06.dictu.nl
 acc-digikoppeling-sign.dictu.nl
 acc-ez-rvo-ba.dictu.nl
 acc-gcms-client-certificaat.dictu.nl
@@ -21,6 +20,7 @@ acc.rd.dictu.nl
 acceptatie.digikoppeling.dictu.nl
 acceptatie.digikoppeling.diginetwerk.dictu.nl
 acceptatie.digikoppeling2.dictu.nl
+acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.webservices.dictu.nl
 acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
@@ -191,7 +191,6 @@ simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
 snow-cw.dictu.nl
 svmsta.dictu.nl
-test-azure06.dictu.nl
 test.dictu.nl
 test.intranet-demo.dictu.nl
 test12.dictu.nl

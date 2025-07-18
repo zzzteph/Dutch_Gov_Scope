@@ -26,7 +26,6 @@ RDSapplications06.svb.nl
 RDSapplications07.svb.nl
 SFS-ACC.dictu.nl
 SFS.dictu.nl
-Test-Azure06.dictu.nl
 _autodiscover._tcp.aanbiedersmedicijnen.nl
 _autodiscover._tcp.adviescollegeveiligheidgroningen.nl
 _autodiscover._tcp.belastingdienst-cn.nl
@@ -578,6 +577,7 @@ acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
 acceptatie.raadplegen.sbv-z.nl
+acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.schoolleidersregisterpo.nl
 acceptatie.spin2.rijkswaterstaat.nl
 acceptatie.sportenbewegenincijfers.nl
@@ -6356,7 +6356,6 @@ telewerken.hhdelfland.nl
 telewerken.om.nl
 tenantapp.ec.rijkscloud.nl
 test-api.stopheling.nl
-test-azure06.dictu.nl
 test-bp.stopheling.nl
 test-bron.waterschaplimburg.nl
 test-ccb.cbs.nl
