@@ -118,11 +118,14 @@ academie
 adobe-analytics-dc
 adobe-tags
 b2b
+b2btest-gemnet
 b2btest-osb
 b2btest-rijks
 b2btest
 mta-sts
 sharepoint-acc
+sharepoint-conf
+sharepoint
 videobellen
 acceptatie.behandel
 acceptatie.webservices
@@ -193,7 +196,6 @@ artifact-fibt1
 b2b-gemnet
 b2b-osb
 b2b-rijks
-b2btest-gemnet
 beta
 betalen
 download
@@ -210,12 +212,11 @@ ns3
 ns4
 pleio
 sa
-sharepoint-conf
-sharepoint
 start
 toestemming
 vc
 webdiensten
+website
 acceptatie.zoeken
 behandel
 zoek
@@ -1098,7 +1099,6 @@ webservices.str13.acc
 webservices.str13.tst
 webservices.str30.acc
 website.acc
-website
 wifilab
 wifiradius.isl
 wsgwhc-acc
@@ -1913,6 +1913,7 @@ bvinet
 exchangerate
 exchangeratetest
 ier-online
+mvt.exportvalidation.hsm.acc
 mvt.exportvalidation.hsm
 nh.acc
 nh
