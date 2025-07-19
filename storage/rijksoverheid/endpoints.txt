@@ -120,7 +120,6 @@ http://enterpriseenrollment.ofgv.nl
 http://ep-online.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
-http://feeds.english.domeinenrz.nl
 http://feeds.english.donorregister.nl
 http://feeds.english.farmatec.nl
 http://feeds.english.kimnet.nl
@@ -224,7 +223,6 @@ http://old-cms.contenttoolsrijksoverheid.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oogop.zuid-holland.nl
 http://oosweb.cbs.nl
-http://opendata.english.domeinenrz.nl
 http://opendata.english.donorregister.nl
 http://opendata.english.farmatec.nl
 http://opendata.english.kimnet.nl
@@ -1339,7 +1337,6 @@ https://english.defensie.nl
 https://english.deltaprogramma.nl
 https://english.dggf.nl
 https://english.dienstterugkeerenvertrek.nl
-https://english.domeinenrz.nl
 https://english.donorregister.nl
 https://english.dsta.nl
 https://english.euthanasiecommissie.nl
@@ -3666,8 +3663,6 @@ https://verkeer.loket.om.nl
 https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.overheid.nl
 https://verkeersveiligheid.ndw.nu
-https://verkoop.domeinenrz.nl
-https://verkooptest.domeinenrz.nl
 https://versterkencyberweerbaarheid.nl
 https://verzorgingsplaats.ndw.nu
 https://veterinairtuchtcollege.nl
