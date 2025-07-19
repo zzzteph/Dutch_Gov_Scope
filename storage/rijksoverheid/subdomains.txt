@@ -2475,7 +2475,6 @@ feeds.english.ccmo.nl
 feeds.english.ctgb.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
-feeds.english.donorregister.nl
 feeds.english.euthanasiecommissie.nl
 feeds.english.farmatec.nl
 feeds.english.globalhealthhub.nl
@@ -4719,7 +4718,6 @@ opendata.english.ccmo.nl
 opendata.english.ctgb.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
-opendata.english.donorregister.nl
 opendata.english.euthanasiecommissie.nl
 opendata.english.farmatec.nl
 opendata.english.globalhealthhub.nl
