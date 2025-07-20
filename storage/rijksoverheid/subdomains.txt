@@ -2474,7 +2474,6 @@ feeds.english.ccmo.nl
 feeds.english.ctgb.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
-feeds.english.farmatec.nl
 feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
 feeds.english.ilent.nl
@@ -4715,7 +4714,6 @@ opendata.english.ccmo.nl
 opendata.english.ctgb.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
-opendata.english.farmatec.nl
 opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
 opendata.english.ilent.nl
