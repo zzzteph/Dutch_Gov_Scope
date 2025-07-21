@@ -49,6 +49,7 @@ geo
 kennisbank
 www-ow
 www-ts
+webservices
 werkenbij
 beeldbank
 onderzoek
@@ -60,7 +61,6 @@ www-p2
 www-tst2
 zaaksysteem
 papiamentu
-webservices
 acceptatie.beheer
 atlas
 kaarten
@@ -2102,6 +2102,7 @@ uconnect-acc
 uconnect
 waterkwaliteitinbeeld
 watermerk
+wsus
 burgerloket.acceptatie
 burgerloket
 burgerloket.test
