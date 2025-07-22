@@ -2477,7 +2477,6 @@ feeds.english.defensie.nl
 feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
 feeds.english.ilent.nl
-feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
@@ -4716,7 +4715,6 @@ opendata.english.defensie.nl
 opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
 opendata.english.ilent.nl
-opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
