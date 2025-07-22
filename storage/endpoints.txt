@@ -8,7 +8,6 @@ http://acc-staten.zuid-holland.nl
 http://acc-website.rvo.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
-http://acc.e-loket.ilent.nl
 http://acc.gps-sa.sso3w.nl
 http://acc.inspectieview.nl
 http://acc.irealisatie.nl
@@ -104,7 +103,6 @@ http://duurzaam-mkb.zuid-holland.nl
 http://dva.acc.mgo.irealisatie.nl
 http://dva.test.mgo.irealisatie.nl
 http://e-learning.rvo.nl
-http://e-loket.ilent.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://eformulieren.zuid-holland.nl
@@ -419,6 +417,7 @@ https://acc.csirtdsp.nl
 https://acc.dashboardgroningen.nl
 https://acc.dictu.nl
 https://acc.e-akkoord.nl
+https://acc.e-loket.ilent.nl
 https://acc.expenses.sso3w.nl
 https://acc.fhub.dictu.nl
 https://acc.gisextern.dictu.nl
@@ -1238,6 +1237,7 @@ https://e-certnl.nvwa.nl
 https://e-learning.opwegnaarseb.nl
 https://e-learningbibob.acc.justis.nl
 https://e-learningbibob.justis.nl
+https://e-loket.ilent.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.douane.nl
