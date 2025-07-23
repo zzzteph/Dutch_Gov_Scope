@@ -1,5 +1,6 @@
 acc.intranet.justis.nl
 acc.justis.nl
+acc.naamswijziging.justis.nl
 e-learningbibob.acc.justis.nl
 e-learningbibob.justis.nl
 intranet.justis.nl
@@ -9,6 +10,7 @@ mijn.justis.nl
 prod.justis.nl
 test.intranet.justis.nl
 test.justis.nl
+test.naamswijziging.justis.nl
 validata.justis.nl
 vogcheck.justis.nl
 www.justis.nl

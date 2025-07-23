@@ -460,6 +460,7 @@ acc.mijn.dus-i.nl
 acc.mijn.knmi.nl
 acc.mijn.overheid.nl
 acc.monumentenregister.cultureelerfgoed.nl
+acc.naamswijziging.justis.nl
 acc.natura2000.nl
 acc.ncsc.nl
 acc.oinregister.logius.nl
@@ -6420,6 +6421,7 @@ test.loketgezondleven.nl
 test.mgo.irealisatie.nl
 test.mi-cert.nl
 test.monumentenregister.cultureelerfgoed.nl
+test.naamswijziging.justis.nl
 test.natura2000.nl
 test.ncsc.nl
 test.nl-alert.nl

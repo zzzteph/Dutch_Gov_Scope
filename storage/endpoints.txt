@@ -427,6 +427,7 @@ https://acc.justitieconnect.nl
 https://acc.leer-rijk.nl
 https://acc.mercurius.sso3w.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
+https://acc.naamswijziging.justis.nl
 https://acc.natura2000.nl
 https://acc.ncsc.nl
 https://acc.omgevingswet.overheid.nl
@@ -3477,6 +3478,7 @@ https://test.kennis.cultureelerfgoed.nl
 https://test.leefbaarometer.nl
 https://test.mi-cert.nl
 https://test.monumentenregister.cultureelerfgoed.nl
+https://test.naamswijziging.justis.nl
 https://test.natura2000.nl
 https://test.ncsc.nl
 https://test.nl-alert.nl
