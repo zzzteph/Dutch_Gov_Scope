@@ -110,7 +110,6 @@ http://english-data.rvo.nl
 http://enterpriseenrollment.ofgv.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
-http://feeds.english.kimnet.nl
 http://feeds.english.mijncn.nl
 http://feeds.english.postedworkers.nl
 http://feeds.english.rda.nl
@@ -203,7 +202,6 @@ http://old-cms.contenttoolsrijksoverheid.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oogop.zuid-holland.nl
 http://oosweb.cbs.nl
-http://opendata.english.kimnet.nl
 http://opendata.english.mijncn.nl
 http://opendata.english.postedworkers.nl
 http://opendata.english.rda.nl
@@ -1536,7 +1534,6 @@ https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
 https://feeds.kiesraad.nl
 https://feeds.kik-v.nl
-https://feeds.kimnet.nl
 https://feeds.klimaatakkoord.nl
 https://feeds.knmidata.nl
 https://feeds.knmiprojects.nl
@@ -2682,7 +2679,6 @@ https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
 https://opendata.kiesraad.nl
 https://opendata.kik-v.nl
-https://opendata.kimnet.nl
 https://opendata.klimaatakkoord.nl
 https://opendata.knmidata.nl
 https://opendata.knmiprojects.nl
