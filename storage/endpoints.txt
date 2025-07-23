@@ -171,7 +171,6 @@ http://lmr.proeftuin.gf.irealisatie.nl
 http://localisation.test.zm.irealisatie.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
-http://lokalisatie-demo.test.gf.irealisatie.nl
 http://loket.acceptatie.rijkswaterstaat.nl
 http://longread.brabant.nl
 http://luchtfoto.zuid-holland.nl
@@ -210,6 +209,7 @@ http://opendata.english.postedworkers.nl
 http://opendata.english.rda.nl
 http://opendata.papiamento.two-acs.com
 http://opendata.papiamentu.mijncn.nl
+http://orac.test.gf.irealisatie.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
@@ -229,14 +229,13 @@ http://projects.knmi.nl
 http://prs-stub.proeftuin.gf.irealisatie.nl
 http://prs-stub.test.gf.irealisatie.nl
 http://prs.rijkswaterstaat.nl
-http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
-http://pseudonym.test.zm.irealisatie.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
 http://qualification-admin.test.zm.irealisatie.nl
 http://qualification-api.test.zm.irealisatie.nl
+http://qualification.test.zm.irealisatie.nl
 http://ref.omgevingswet.overheid.nl
 http://release.isis-web.nl
 http://reserved-cesar-db.knmi.nl
@@ -267,6 +266,7 @@ http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
+http://stats.test.zm.irealisatie.nl
 http://sterftedashboard.vzinfo.nl
 http://stijlgids.cibg.nl
 http://storage.test.mgo.irealisatie.nl
@@ -2151,6 +2151,7 @@ https://lokaleregelgeving-acc.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://lokaleregelgeving.overheid.nl
 https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
+https://lokalisatie-demo.test.gf.irealisatie.nl
 https://loket-preprod.hhdelfland.nl
 https://loket.hhdelfland.nl
 https://loket.rijkswaterstaat.nl
@@ -2818,7 +2819,6 @@ https://oproepingen-preprd.overheid.nl
 https://oproepingen.overheid.nl
 https://opvragen.ep-online.nl
 https://opwegnaarseb.nl
-https://orac.test.gf.irealisatie.nl
 https://ordz.nl
 https://organisaties-acc.overheid.nl
 https://organisaties-redactie-acc.overheid.nl
