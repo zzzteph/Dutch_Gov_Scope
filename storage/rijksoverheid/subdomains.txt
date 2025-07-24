@@ -762,6 +762,7 @@ api-performance.test.ix.rijkscloud.nl
 api-sec.p-direkt.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
+api.acc.spaceweather.knmi.nl
 api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
 api.amx.belastingdienst.nl
@@ -3099,6 +3100,7 @@ handhaving.vrachtwagenheffing.nl
 handleiding-iuc-acceptatie.rijkscloud.nl
 handleiding.rijksoverheid.nl
 hansken.nl
+hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 hapi1.test.zm.irealisatie.nl
 hapi2.test.zm.irealisatie.nl

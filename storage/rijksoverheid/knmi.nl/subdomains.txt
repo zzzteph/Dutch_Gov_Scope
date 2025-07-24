@@ -4,6 +4,7 @@ adaguc-services-geoweb.knmi.nl
 adaguc.knmi.nl
 analytics.dataplatform.knmi.nl
 anonymous.api.dataplatform.knmi.nl
+api.acc.spaceweather.knmi.nl
 api.dataplatform.knmi.nl
 api.spaceweather.knmi.nl
 apl-ecaccess-acpt.knmi.nl
@@ -78,6 +79,7 @@ git.knmi.nl
 gladheid.knmi.nl
 gnss4swec.knmi.nl
 gwc.knmi.nl
+hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 harmonie.knmi.nl
 icce.knmi.nl
