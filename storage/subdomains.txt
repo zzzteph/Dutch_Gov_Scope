@@ -2505,7 +2505,6 @@ feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
-feeds.english.mijncn.nl
 feeds.english.ncadierproevenbeleid.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
@@ -2617,7 +2616,6 @@ feeds.overheidvannu.nl
 feeds.overtoeslagen.nl
 feeds.p-direkt.nl
 feeds.papiamentu.belastingdienst-cn.nl
-feeds.papiamentu.mijncn.nl
 feeds.papiamentu.rijksdienstcn.com
 feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
@@ -4750,7 +4748,6 @@ opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
-opendata.english.mijncn.nl
 opendata.english.ncadierproevenbeleid.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
@@ -4865,7 +4862,6 @@ opendata.overtoeslagen.nl
 opendata.p-direkt.nl
 opendata.papiamento.two-acs.com
 opendata.papiamentu.belastingdienst-cn.nl
-opendata.papiamentu.mijncn.nl
 opendata.papiamentu.rijksdienstcn.com
 opendata.persberichten.rijksoverheid.nl
 opendata.platformrijksoverheid.nl

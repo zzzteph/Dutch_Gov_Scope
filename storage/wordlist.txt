@@ -112,8 +112,6 @@ testeloket
 vpn2
 ontwikkel
 pushmail
-feeds.papiamentu
-opendata.papiamentu
 academie
 adobe-analytics-dc
 adobe-tags
@@ -190,6 +188,8 @@ meldingen
 prd
 rdgateway
 smtp1
+feeds.papiamentu
+opendata.papiamentu
 afspraken
 appstore
 artifact-fibt1
