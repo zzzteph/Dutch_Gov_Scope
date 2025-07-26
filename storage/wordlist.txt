@@ -93,6 +93,7 @@ geoportaal
 hybrid
 publicaties
 docs
+static
 cdn
 chat
 projecten
@@ -134,7 +135,6 @@ id
 ondertekenen
 wifi
 sso
-static
 conf
 sts
 elearning
