@@ -6,9 +6,9 @@ english
 a-www
 a-opendata
 a-feeds
+mail
 feeds.english
 opendata.english
-mail
 autodiscover
 test
 acc
@@ -2819,9 +2819,11 @@ geojson-converter
 havik
 iam.staging
 internal-docs
+inweva
 karin
 keycloak
 maps.staging
+melvin-acc.staging
 melvin
 mijnrdtmnl
 mlops-models
