@@ -126,7 +126,6 @@ http://eformulieren.zuid-holland.nl
 http://embraceintranet.flevoland.nl
 http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
-http://enterpriseenrollment.ofgv.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
 http://feeds.english.postedworkers.nl
@@ -135,6 +134,7 @@ http://fmeserver.zuid-holland.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.zuid-holland.nl
 http://fsvportaal.belastingdienst.nl
+http://ftp.ofgv.nl
 http://ftp.schoolleidersregisterpo.nl
 http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
@@ -222,7 +222,6 @@ http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
 http://nzrdashboard.vzinfo.nl
 http://odata4.cbs.nl
-http://ofgv.nl
 http://old-cms.contenttoolsrijksoverheid.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oogop.zuid-holland.nl
@@ -332,7 +331,6 @@ http://w3dxweb.knmi.nl
 http://warmtetransitieatlas.zuid-holland.nl
 http://web.proeftuin.gf.irealisatie.nl
 http://webmail.knmi.nl
-http://webmail.ofgv.nl
 http://webmail.werkenvoornederland.nl
 http://webtooling.irealisatie.nl
 http://www.acceptatie.clusterbuster.nl
@@ -1368,9 +1366,11 @@ https://english.wrr.nl
 https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.belastingdienst.nl
 https://enterpriseenrollment.cbg-meb.nl
+https://enterpriseenrollment.ofgv.nl
 https://enterpriseenrollment.svb.nl
 https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.domeinenrz.nl
+https://enterpriseregistration.ofgv.nl
 https://enterpriseregistration.svb.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
@@ -2084,6 +2084,7 @@ https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisbank.svb.nl
 https://kennisbankterrorisme.nctv.nl
+https://kenniscentrum.ofgv.nl
 https://kennisdelen.rvo.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
@@ -2527,6 +2528,7 @@ https://oecdguidelines.nl
 https://oefenvragenlijst.cbs.nl
 https://oesorichtlijnen.nl
 https://offshorewind.rvo.nl
+https://ofgv.nl
 https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oinregister.logius.nl
 https://ojb.rvo.nl
@@ -3095,6 +3097,7 @@ https://redactie.cbs.nl
 https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
+https://redactie.ofgv.nl
 https://redactie.vallei-veluwe.nl
 https://redactie.vechtstromen.nl
 https://redactie.veiligheidsregioflevoland.nl
@@ -3738,6 +3741,7 @@ https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
 https://webmail.brabant.nl
 https://webmail.flevoland.nl
+https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
 https://webmail.rijkscloud.nl
 https://webserver.cbs.nl
@@ -4212,6 +4216,7 @@ https://www.odmh.nl
 https://www.oecdguidelines.nl
 https://www.oesorichtlijnen.nl
 https://www.offshorewind.rvo.nl
+https://www.ofgv.nl
 https://www.om.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
