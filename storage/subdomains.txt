@@ -41,6 +41,7 @@ _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.mijncn.nl
 _autodiscover._tcp.nationaalrapporteur.nl
 _autodiscover._tcp.natura2000.nl
+_autodiscover._tcp.nvwa.nl
 _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
 _autodiscover._tcp.rijksorganisatieodi.nl
@@ -5901,6 +5902,7 @@ service.inte2e.omgevingswet.overheid.nl
 service.integratie.omgevingswet.overheid.nl
 service.integratie02.omgevingswet.overheid.nl
 service.intpatch.omgevingswet.overheid.nl
+service.nvwa.nl
 service.omgevingswet.overheid.nl
 service.perf.omgevingswet.overheid.nl
 service.pre.omgevingswet.overheid.nl

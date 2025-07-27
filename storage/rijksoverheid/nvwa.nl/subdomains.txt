@@ -1,3 +1,4 @@
+_autodiscover._tcp.nvwa.nl
 _dmarc.nvwa.nl
 acc.inspectieresultaten.nvwa.nl
 acc2.inspectieresultaten.nvwa.nl
@@ -29,6 +30,7 @@ opendata.nvwa.nl
 ras-acc.nvwa.nl
 ras.nvwa.nl
 rvdmschaduwdraaien.nvwa.nl
+service.nvwa.nl
 soap.openbare-inspectieresultaten.nvwa.nl
 test.openbare-inspectieresultaten.nvwa.nl
 vgc-acc.nvwa.nl
