@@ -462,7 +462,6 @@ https://acc.subsidie.cultureelerfgoed.nl
 https://acc.toegankelijkheidsverklaring.nl
 https://acc.wegwijzer.overheid.nl
 https://acc.zorginzicht.nl
-https://acc.zsmgame.om.nl
 https://acc2.bronhouderportaal-bro.nl
 https://acc2.inspectieresultaten.nvwa.nl
 https://acc2.intranet.rvig.nl
@@ -836,7 +835,6 @@ https://bodemambities.nl
 https://bodemloket.nl
 https://bodemrapportage.flevoland.nl
 https://bodemvizier.nl
-https://boetebase.om.nl
 https://bofeb.nl
 https://botova.rijkswaterstaat.nl
 https://boub-api-acc.overheid.nl
@@ -1164,7 +1162,6 @@ https://dexter.staging.ndw.nu
 https://dezi.nl
 https://dfg.datawonen.nl
 https://dggf.nl
-https://dialin.om.nl
 https://dialin.rijksrecherche.nl
 https://dialin2.vechtstromen.nl
 https://dictu.nl
@@ -1420,7 +1417,6 @@ https://farmatec.nl
 https://faro.cultureelerfgoed.nl
 https://fbb-handreiking.nl
 https://fbmonitor.ndw.nu
-https://fcvpn.om.nl
 https://fdocs.test.gf.irealisatie.nl
 https://feature-cic-673.dev.bcld-config.nl
 https://feature-cicd-deployment.dev.bcld-config.nl
@@ -2198,7 +2194,6 @@ https://lvbb-perf-acc.overheid.nl
 https://lvbb-preprod.overheid.nl
 https://lvbb-tst.overheid.nl
 https://lvmb.nl
-https://lyncdiscover.om.nl
 https://lyncdiscover.rijksrecherche.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.rijkswaterstaat.nl
@@ -2287,7 +2282,6 @@ https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
 https://mdm.justid.nl
-https://mdm.om.nl
 https://mdm.zwb.riec.nl
 https://media.odmh.nl
 https://media.om.nl
@@ -2296,7 +2290,6 @@ https://mediaportal.cbs.nl
 https://medicijnkosten.nl
 https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
-https://meet.om.nl
 https://meet.rijkscloud.nl
 https://meet.rijksrecherche.nl
 https://meldingbwt.odmh.nl
@@ -2389,7 +2382,6 @@ https://mlops-tracking.ndw.nu
 https://mlzopendata.cbs.nl
 https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
-https://mms-gw.om.nl
 https://mn.datawonen.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
@@ -2465,7 +2457,6 @@ https://netherlandsworldwide.nl
 https://netwerkplatteland.nl
 https://neuronprod.vallei-veluwe.nl
 https://neurontest.vallei-veluwe.nl
-https://nevenbetrekkingen.om.nl
 https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.dgdoobi.rijkscloud.nl
@@ -2533,7 +2524,6 @@ https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oinregister.logius.nl
 https://ojb.rvo.nl
 https://old.belastingles.nl
-https://om-veld01.om.nl
 https://om.nl
 https://omgevingsbeleid.zuid-holland.nl
 https://omgevingsdocumenten.zuid-holland.nl
@@ -3301,7 +3291,6 @@ https://smartsurveys.cbs.nl
 https://smtp.awti.nl
 https://smtp.oostvaarderskliniek.nl
 https://smtp1.awti.nl
-https://snelheidsovertredingen.om.nl
 https://snow-cw.dictu.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl
 https://social.overheid.nl
@@ -3424,8 +3413,6 @@ https://stopheling.nl
 https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl
-https://strafdossiermh17.acc.om.nl
-https://strafdossiermh17.om.nl
 https://strafrechtketen.nl
 https://streefbeelden.pagw.nl
 https://sts.cbg-meb.nl
@@ -3455,7 +3442,6 @@ https://tarief.douane.nl
 https://taxonomie.cbs.nl
 https://tea.bigregister.nl
 https://techniekacademie.rijkswaterstaat.nl
-https://telewerken.om.nl
 https://test-api.stopheling.nl
 https://test-bp.stopheling.nl
 https://test-cms-bron.waterschaplimburg.nl
@@ -3750,7 +3736,6 @@ https://webservice.ep-online.nl
 https://webservice.sbv-z.nl
 https://webservices.bigregister.nl
 https://webservices.hdsr.nl
-https://webservices.om.nl
 https://website.belastingdienst.nl
 https://website.douane.nl
 https://wegen.brabant.nl
@@ -3783,7 +3768,6 @@ https://werkplaats-acc.onslevendlandschap.nl
 https://werkplaats.onslevendlandschap.nl
 https://werkplek.cbs.nl
 https://werkplek.justid.nl
-https://werkplek.om.nl
 https://werkplek.rekenkamer.nl
 https://werkplek.vallei-veluwe.nl
 https://werkplek.vechtstromen.nl
@@ -4378,7 +4362,6 @@ https://www.zuid-holland.nl
 https://www1.cbs.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
-https://www2.om.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
 https://xential-acpt.brabant.nl
@@ -4417,7 +4400,6 @@ https://zorginzicht.nl
 https://zorgprestatiemodel.nza.nl
 https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl
-https://zsmgame.om.nl
 https://zuid-holland.nl
 https://zvs.woo.irealisatie.nl
 https://zwerfafval.rijkswaterstaat.nl
