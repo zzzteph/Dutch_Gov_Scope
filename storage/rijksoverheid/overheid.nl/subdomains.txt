@@ -25,8 +25,6 @@ acceptatie.omgevingswet.overheid.nl
 ack.omgevingswet.overheid.nl
 acp.ondernemersplein.overheid.nl
 activemq.beheer.intpatch.omgevingswet.overheid.nl
-afval.acc.omgevingswet.overheid.nl
-afval.omgevingswet.overheid.nl
 algoritme.overheid.nl
 algoritmen.overheid.nl
 algoritmes.overheid.nl
@@ -94,11 +92,10 @@ beheersite-drp-preprd.overheid.nl
 beheersite-drp.overheid.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
+bestanden.koop.overheid.nl
 bgt.basisregistraties.overheid.nl
-bodem-ondergrond.omgevingswet.overheid.nl
 boub-api-acc.overheid.nl
 boub-api.overheid.nl
-bouw.omgevingswet.overheid.nl
 brk.acceptatie.basisregistraties.overheid.nl
 brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
@@ -150,7 +147,6 @@ content.omgevingswet.overheid.nl
 contentbeheer.acc.omgevingswet.overheid.nl
 contentbeheer.omgevingswet.overheid.nl
 contentbeheer.tst.omgevingswet.overheid.nl
-cultureel-erfgoed.omgevingswet.overheid.nl
 cursus.drop.overheid.nl
 cv-mailrelay1.overheid.nl
 cv-mailrelay2.overheid.nl
@@ -183,10 +179,12 @@ dns1.overheid.nl
 dns2.overheid.nl
 doculoket-acc.overheid.nl
 doculoket.overheid.nl
+drop-api-acc-poc.overheid.nl
 drop-api-preprd-poc.overheid.nl
 drop-api-preprd.overheid.nl
 drop-api.overheid.nl
 drop-preprd.overheid.nl
+drop-tst.overheid.nl
 drop.overheid.nl
 drpbeheerservice-acc.overheid.nl
 drpbeheerservice-preprd.overheid.nl
@@ -202,7 +200,6 @@ editor-drp.overheid.nl
 eidas-stub.lpc.mijn.overheid.nl
 emailtemplates.overheid.nl
 enabling.omgevingswet.overheid.nl
-externe-veiligheid.omgevingswet.overheid.nl
 forum.developer.overheid.nl
 ftp.koop.overheid.nl
 gegevensbijbesluiten-concept.overheid.nl
@@ -259,7 +256,6 @@ linkextractor.overheid.nl
 lokaleregelgeving-acc.overheid.nl
 lokaleregelgeving-eto.overheid.nl
 lokaleregelgeving.overheid.nl
-lucht.omgevingswet.overheid.nl
 lvbb-acc.overheid.nl
 lvbb-asl.overheid.nl
 lvbb-fto.overheid.nl
@@ -281,7 +277,6 @@ monitoring-test6.koop.overheid.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
-natuur.omgevingswet.overheid.nl
 node1.acc.statistiek.mijn.overheid.nl
 ob.mijn.overheid.nl
 omgevingswet.overheid.nl
@@ -362,11 +357,9 @@ resolver.pfm.omgevingswet.overheid.nl
 resolver.pre.omgevingswet.overheid.nl
 review.developer.overheid.nl
 ruimte.dmo.omgevingswet.overheid.nl
-ruimte.int.omgevingswet.overheid.nl
 ruimte.kta.omgevingswet.overheid.nl
 ruimte.omgevingswet.overheid.nl
 ruimte.pfm.omgevingswet.overheid.nl
-ruimte.pre.omgevingswet.overheid.nl
 samenwerkportaal.pre.omgevingswet.overheid.nl
 sdgapi.ondernemersplein.overheid.nl
 search.developer.overheid.nl
@@ -447,6 +440,7 @@ static.tst6.mijn.overheid.nl
 static.tst7.mijn.overheid.nl
 static.tst8.mijn.overheid.nl
 static.tst9.mijn.overheid.nl
+static.wegwijzer.overheid.nl
 statistiek.mijn.overheid.nl
 status.omgevingswet.overheid.nl
 status.pre.omgevingswet.overheid.nl
@@ -464,6 +458,7 @@ sts.koop.overheid.nl
 stub.demo.mijn.overheid.nl
 stub.mijn.overheid.nl
 stubs.lpc.mijn.overheid.nl
+technische-documentatie.oep.overheid.nl
 test-energielabels.gebouwen.overheid.nl
 test-internationaal.ondernemen.overheid.nl
 test.hcv.mijn.overheid.nl
@@ -501,7 +496,6 @@ verkeersbesluiten-preprd.overheid.nl
 verkeersbesluiten.overheid.nl
 voorlichting.wegwijzer.overheid.nl
 vpn.koop.overheid.nl
-water.omgevingswet.overheid.nl
 wegwijzer.overheid.nl
 wetgeving.acc.omgevingswet.overheid.nl
 wetgeving.int.omgevingswet.overheid.nl
@@ -535,6 +529,7 @@ www.overheid.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.tst2905.omgevingswet.overheid.nl
+zandbak.wegwijzer.overheid.nl
 zoek.overheid.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl

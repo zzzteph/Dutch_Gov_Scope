@@ -3027,8 +3027,6 @@ acceptatie.omgevingswet
 ack.omgevingswet
 acp.ondernemersplein
 activemq.beheer.intpatch.omgevingswet
-afval.acc.omgevingswet
-afval.omgevingswet
 algoritme
 algoritmen
 algoritmes
@@ -3094,11 +3092,10 @@ beheersite-drp-preprd
 beheersite-drp
 besluitpreviewservice-eto
 besluitpreviewservice
+bestanden.koop
 bgt.basisregistraties
-bodem-ondergrond.omgevingswet
 boub-api-acc
 boub-api
-bouw.omgevingswet
 brk.acceptatie.basisregistraties
 brk.basisregistraties
 brk.test.basisregistraties
@@ -3150,7 +3147,6 @@ content.omgevingswet
 contentbeheer.acc.omgevingswet
 contentbeheer.omgevingswet
 contentbeheer.tst.omgevingswet
-cultureel-erfgoed.omgevingswet
 cursus.drop
 cv-mailrelay1
 cv-mailrelay2
@@ -3177,10 +3173,12 @@ digilab
 dmo.omgevingswet
 doculoket-acc
 doculoket
+drop-api-acc-poc
 drop-api-preprd-poc
 drop-api-preprd
 drop-api
 drop-preprd
+drop-tst
 drop
 drpbeheerservice-acc
 drpbeheerservice-preprd
@@ -3196,7 +3194,6 @@ editor-drp
 eidas-stub.lpc.mijn
 emailtemplates
 enabling.omgevingswet
-externe-veiligheid.omgevingswet
 forum.developer
 ftp.koop
 gegevensbijbesluiten-concept
@@ -3250,7 +3247,6 @@ linkextractor
 lokaleregelgeving-acc
 lokaleregelgeving-eto
 lokaleregelgeving
-lucht.omgevingswet
 lvbb-acc
 lvbb-asl
 lvbb-fto
@@ -3271,7 +3267,6 @@ monitoring-test6.koop
 mxrelay
 mxrelay1
 mxrelay2
-natuur.omgevingswet
 node1.acc.statistiek.mijn
 ob.mijn
 omgevingswet
@@ -3348,11 +3343,9 @@ resolver.pfm.omgevingswet
 resolver.pre.omgevingswet
 review.developer
 ruimte.dmo.omgevingswet
-ruimte.int.omgevingswet
 ruimte.kta.omgevingswet
 ruimte.omgevingswet
 ruimte.pfm.omgevingswet
-ruimte.pre.omgevingswet
 samenwerkportaal.pre.omgevingswet
 sdgapi.ondernemersplein
 search.developer
@@ -3432,6 +3425,7 @@ static.tst6.mijn
 static.tst7.mijn
 static.tst8.mijn
 static.tst9.mijn
+static.wegwijzer
 statistiek.mijn
 status.omgevingswet
 status.pre.omgevingswet
@@ -3449,6 +3443,7 @@ sts.koop
 stub.demo.mijn
 stub.mijn
 stubs.lpc.mijn
+technische-documentatie.oep
 test-energielabels.gebouwen
 test-internationaal.ondernemen
 test.hcv.mijn
@@ -3486,7 +3481,6 @@ verkeersbesluiten-preprd
 verkeersbesluiten
 voorlichting.wegwijzer
 vpn.koop
-water.omgevingswet
 wegwijzer
 wetgeving.acc.omgevingswet
 wetgeving.int.omgevingswet
@@ -3517,6 +3511,7 @@ www.omgevingswet
 www.perf.omgevingswet
 www.pre.omgevingswet
 www.tst2905.omgevingswet
+zandbak.wegwijzer
 zoekdienst-preprod
 zoekdienst
 zoeken.ondernemersplein

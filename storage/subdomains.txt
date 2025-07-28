@@ -683,8 +683,6 @@ afmelden.ep-online.nl
 afspraak.domeinenrz.nl
 afspraken.belastingdienst.nl
 afspraken.cbs.nl
-afval.acc.omgevingswet.overheid.nl
-afval.omgevingswet.overheid.nl
 ag-dcr.cibg.nl
 agressievrijwerken.nl
 agroberichtenbuitenland.nl
@@ -1163,6 +1161,7 @@ bereken.uwbeslagvrijevoet.nl
 beschermdecultuurgoederen.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
+bestanden.koop.overheid.nl
 bestandenpostbus.nl
 bestandslevering.cbs.nl
 bestandsportaal.cibg.nl
@@ -1250,7 +1249,6 @@ bob.rvo.nl
 bod1-o.dictu.nl
 bod1-t.dictu.nl
 bod2-o.dictu.nl
-bodem-ondergrond.omgevingswet.overheid.nl
 bodemambities.nl
 bodematlas.brabant.nl
 bodemloket.nl
@@ -1265,7 +1263,6 @@ boportaalkdt.belastingdienst.nl
 botova.rijkswaterstaat.nl
 boub-api-acc.overheid.nl
 boub-api.overheid.nl
-bouw.omgevingswet.overheid.nl
 bp-bb-ut.tst.belastingdienst.nl
 bp.stopheling.nl
 bpa.rvo.nl
@@ -1733,7 +1730,6 @@ cts.test.woo.irealisatie.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
-cultureel-erfgoed.omgevingswet.overheid.nl
 cultureelerfgoed.nl
 cultuursubsidie.nl
 cursus.drop.overheid.nl
@@ -2051,10 +2047,12 @@ draf-acpt.brabant.nl
 draf.brabant.nl
 drife-f.dji.nl
 drms.cibg.nl
+drop-api-acc-poc.overheid.nl
 drop-api-preprd-poc.overheid.nl
 drop-api-preprd.overheid.nl
 drop-api.overheid.nl
 drop-preprd.overheid.nl
+drop-tst.overheid.nl
 drop.overheid.nl
 drpbeheerservice-acc.overheid.nl
 drpbeheerservice-preprd.overheid.nl
@@ -2366,7 +2364,6 @@ extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
 extern.knmi.nl
 externe-mail.knmi.nl
-externe-veiligheid.omgevingswet.overheid.nl
 externemail.ctgb.nl
 externemail.knmi.nl
 externemail.scp.nl
@@ -3788,7 +3785,6 @@ lta-tst.zuid-holland.nl
 lta.zuid-holland.nl
 ltu-admin.stopheling.nl
 ltu-api.stopheling.nl
-lucht.omgevingswet.overheid.nl
 luchtfoto.flevoland.nl
 luchtfoto.zuid-holland.nl
 luchtvaartmeteo-test.knmi.nl
@@ -4362,7 +4358,6 @@ nationaalwegenbestand.nl
 nationalebijenstrategie.nl
 natura2000-data.zuid-holland.nl
 natura2000.nl
-natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
 natuurlijk.zuid-holland.nl
 natuurvanuitdelucht.zuid-holland.nl
@@ -5696,11 +5691,9 @@ rstudio.walter.rijkscloud.nl
 rt.ndw.nu
 rte.ssc-ict.nl
 ruimte.dmo.omgevingswet.overheid.nl
-ruimte.int.omgevingswet.overheid.nl
 ruimte.kta.omgevingswet.overheid.nl
 ruimte.omgevingswet.overheid.nl
 ruimte.pfm.omgevingswet.overheid.nl
-ruimte.pre.omgevingswet.overheid.nl
 ruimtelijkeordening.nl
 ruimtelijkeplannen.zuid-holland.nl
 ruimtevoorderivier.nl
@@ -6232,6 +6225,7 @@ static.tst6.mijn.overheid.nl
 static.tst7.mijn.overheid.nl
 static.tst8.mijn.overheid.nl
 static.tst9.mijn.overheid.nl
+static.wegwijzer.overheid.nl
 staticresources.rijkswaterstaat.nl
 statistics.ind.nl
 statistiek.mijn.overheid.nl
@@ -6358,6 +6352,7 @@ tea.bigregister.nl
 teams.hhdelfland.nl
 teamstest.hhdelfland.nl
 techniekacademie.rijkswaterstaat.nl
+technische-documentatie.oep.overheid.nl
 tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
 tekortkomingen-wvggz.webservices-dbb.igj.nl
 tekortkomingen-wzd.webservices-dbb-acc.igj.nl
@@ -6931,7 +6926,6 @@ wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
 wapenfeiten.zuid-holland.nl
 warmtetransitieatlas.zuid-holland.nl
-water.omgevingswet.overheid.nl
 watergegevens.rijkswaterstaat.nl
 waterkwaliteitinbeeld.hdsr.nl
 watermerk.hdsr.nl
@@ -7926,6 +7920,7 @@ zabbix6.mintst2.rijkscloud.nl
 zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 zandbak.nvwa.nl
+zandbak.wegwijzer.overheid.nl
 zelfbediening.belastingdienst.nl
 ziektelast.vzinfo.nl
 zoek.bodemambities.nl
