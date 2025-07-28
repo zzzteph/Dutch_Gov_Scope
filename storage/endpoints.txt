@@ -128,7 +128,6 @@ http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
-http://feeds.english.postedworkers.nl
 http://feeds.english.rda.nl
 http://fmeserver.zuid-holland.nl
 http://formulier-beheer.dus-i.nl
@@ -239,7 +238,6 @@ http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oogop.zuid-holland.nl
 http://oosweb.cbs.nl
 http://open-acc.overheid.nl
-http://opendata.english.postedworkers.nl
 http://opendata.english.rda.nl
 http://opendata.papiamento.two-acs.com
 http://orac.test.gf.irealisatie.nl
@@ -1648,7 +1646,6 @@ https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.politiekeambtsdragers.nl
-https://feeds.postedworkers.nl
 https://feeds.prosecutionservice.nl
 https://feeds.raadrvs.nl
 https://feeds.raadvoorcultuur.nl
@@ -2768,7 +2765,6 @@ https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.platformrijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
-https://opendata.postedworkers.nl
 https://opendata.prosecutionservice.nl
 https://opendata.raadrvs.nl
 https://opendata.raadvoorcultuur.nl
