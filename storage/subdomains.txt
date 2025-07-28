@@ -2614,7 +2614,6 @@ feeds.papiamentu.rijksdienstcn.com
 feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.prosecutionservice.nl
-feeds.raadrvs.nl
 feeds.raadvoorcultuur.nl
 feeds.rabarijk.nl
 feeds.rdi.nl
@@ -4860,7 +4859,6 @@ opendata.persberichten.rijksoverheid.nl
 opendata.platformrijksoverheid.nl
 opendata.politiekeambtsdragers.nl
 opendata.prosecutionservice.nl
-opendata.raadrvs.nl
 opendata.raadvoorcultuur.nl
 opendata.rabarijk.nl
 opendata.rdi.nl
