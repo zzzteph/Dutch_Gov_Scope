@@ -16,8 +16,8 @@ magazines
 mijn
 _autodiscover._tcp
 intranet
-acceptatie
 webmail
+acceptatie
 api
 _dmarc
 cms
