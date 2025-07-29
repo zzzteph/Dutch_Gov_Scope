@@ -54,7 +54,6 @@ werkenbij
 beeldbank
 open
 onderzoek
-a-magazines
 apps
 www-acc2
 www-dev2
@@ -70,6 +69,7 @@ mdm
 portal
 digikoppeling
 kennis
+a-magazines
 staging
 www2
 loket
