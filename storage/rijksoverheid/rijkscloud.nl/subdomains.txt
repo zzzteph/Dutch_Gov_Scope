@@ -392,6 +392,7 @@ osg-test.gn2.rijkscloud.nl
 osg.gn2.rijkscloud.nl
 osg.gn3.rijkscloud.nl
 pages.ds-ocw.rijkscloud.nl
+pages.gitlab.analyse.ilt.rijkscloud.nl
 pages.mintst1.ix.rijkscloud.nl
 performance.ix.rijkscloud.nl
 performance.rijkscloud.nl
