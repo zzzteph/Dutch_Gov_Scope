@@ -8,10 +8,10 @@ a-opendata
 a-feeds
 mail
 autodiscover
-feeds.english
-opendata.english
 test
 acc
+feeds.english
+opendata.english
 magazines
 mijn
 _autodiscover._tcp

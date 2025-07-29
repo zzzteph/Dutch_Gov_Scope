@@ -2510,7 +2510,6 @@ feeds.english.nrgd.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
 feeds.english.p-direkt.nl
-feeds.english.rda.nl
 feeds.english.rekenkamer.nl
 feeds.english.rijksdienstcn.com
 feeds.english.scp.nl
@@ -4751,7 +4750,6 @@ opendata.english.nrgd.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
 opendata.english.p-direkt.nl
-opendata.english.rda.nl
 opendata.english.rekenkamer.nl
 opendata.english.rijksdienstcn.com
 opendata.english.scp.nl
