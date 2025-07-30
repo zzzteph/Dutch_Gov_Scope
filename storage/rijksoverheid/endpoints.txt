@@ -129,6 +129,7 @@ http://english-data.rvo.nl
 http://english.rivmmagazines.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
+http://feeds.english.sso3w.nl
 http://fmeserver.zuid-holland.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.zuid-holland.nl
@@ -484,7 +485,6 @@ https://acc.eva.logius.nl
 https://acc.expenses.sso3w.nl
 https://acc.fhub.dictu.nl
 https://acc.gisextern.dictu.nl
-https://acc.gps-sa-api.sso3w.nl
 https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieresultaten.nvwa.nl
@@ -1554,7 +1554,6 @@ https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.english.rijksdienstcn.com
 https://feeds.english.scp.nl
-https://feeds.english.sso3w.nl
 https://feeds.english.wkr.nl
 https://feeds.english.wodc.nl
 https://feeds.english.wrr.nl
@@ -1841,7 +1840,6 @@ https://goudenpiramide.nl
 https://gouverneuraruba.com
 https://gouverneurcuracao.com
 https://government.nl
-https://gps-sa-api.sso3w.nl
 https://gps-sa.sso3w.nl
 https://grensinfo.nl
 https://grenzeloossamenwerken.nl
@@ -2665,7 +2663,6 @@ https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.rekenkamer.nl
 https://opendata.english.rijksdienstcn.com
 https://opendata.english.scp.nl
-https://opendata.english.sso3w.nl
 https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
