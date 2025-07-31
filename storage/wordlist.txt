@@ -64,6 +64,7 @@ papiamentu
 acceptatie.beheer
 atlas
 kaarten
+docs
 dialin
 mdm
 portal
@@ -92,7 +93,6 @@ app
 geoportaal
 hybrid
 publicaties
-docs
 static
 cdn
 chat
