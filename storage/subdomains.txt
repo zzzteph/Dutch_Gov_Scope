@@ -2515,7 +2515,6 @@ feeds.english.rijksdienstcn.com
 feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.vrachtwagenheffing.nl
-feeds.english.wodc.nl
 feeds.english.wrr.nl
 feeds.euthanasiecommissie.nl
 feeds.fmhaaglanden.nl
@@ -4745,7 +4744,6 @@ opendata.english.rekenkamer.nl
 opendata.english.rijksdienstcn.com
 opendata.english.scp.nl
 opendata.english.vrachtwagenheffing.nl
-opendata.english.wodc.nl
 opendata.english.wrr.nl
 opendata.euthanasiecommissie.nl
 opendata.fmhaaglanden.nl
