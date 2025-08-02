@@ -162,7 +162,6 @@ a-feeds.royal-house.nl
 a-feeds.sbv-z.nl
 a-feeds.socialestabiliteit.nl
 a-feeds.uitvoeringvanbeleidszw.nl
-a-feeds.werkenbijdeeu.nl
 a-gebruiker.rvo.nl
 a-gebruikerbeheer.rvo.nl
 a-git.rijksoverheid.nl
@@ -232,7 +231,6 @@ a-opendata.royal-house.nl
 a-opendata.sbv-z.nl
 a-opendata.socialestabiliteit.nl
 a-opendata.uitvoeringvanbeleidszw.nl
-a-opendata.werkenbijdeeu.nl
 a-origin.api.contenttoolsrijksoverheid.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
@@ -307,7 +305,6 @@ a-www.toezichtsociaaldomein.nl
 a-www.tuchtcollege-gezondheidszorg.nl
 a-www.uitvoeringvanbeleidszw.nl
 a-www.vreemdelingenvisie.nl
-a-www.werkenbijdeeu.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
@@ -2663,7 +2660,6 @@ feeds.voordejeugdenhetgezin.nl
 feeds.vrachtwagenheffing.nl
 feeds.werkaanuitvoering.nl
 feeds.werkenaanonspensioen.nl
-feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
 feeds.wkr.nl
@@ -4901,7 +4897,6 @@ opendata.voordejeugdenhetgezin.nl
 opendata.vrachtwagenheffing.nl
 opendata.werkaanuitvoering.nl
 opendata.werkenaanonspensioen.nl
-opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
 opendata.wkr.nl
