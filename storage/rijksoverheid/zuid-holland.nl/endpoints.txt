@@ -20,13 +20,11 @@ http://koopkoppeling.zuid-holland.nl
 http://luchtfoto.zuid-holland.nl
 http://mijn.zuid-holland.nl
 http://mobielgis-test.zuid-holland.nl
-http://monitor-klimaatadaptatie.zuid-holland.nl
 http://n211wippolderlaan.zuid-holland.nl
 http://naaldwijk.zuid-holland.nl
 http://natuurlijk.zuid-holland.nl
 http://natuurvanuitdelucht.zuid-holland.nl
 http://oogop.zuid-holland.nl
-http://planregistratie-wonen.zuid-holland.nl
 http://projectenatlas.zuid-holland.nl
 http://shinyserver.zuid-holland.nl
 http://slimmebruggen-backend.zuid-holland.nl
@@ -88,6 +86,7 @@ https://lta-acc.zuid-holland.nl
 https://lta-tst.zuid-holland.nl
 https://lta.zuid-holland.nl
 https://magazine.zuid-holland.nl
+https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitorleefomgeving.zuid-holland.nl
 https://natura2000-data.zuid-holland.nl
 https://nieuwsbrief.zuid-holland.nl
@@ -98,6 +97,7 @@ https://openstad.zuid-holland.nl
 https://planmer-acc.zuid-holland.nl
 https://planmer-test.zuid-holland.nl
 https://planmer.zuid-holland.nl
+https://planregistratie-wonen.zuid-holland.nl
 https://preprod-belastingen.zuid-holland.nl
 https://redactie.zuid-holland.nl
 https://ro.zuid-holland.nl

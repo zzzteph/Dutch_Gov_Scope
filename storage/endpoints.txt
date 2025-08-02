@@ -222,7 +222,6 @@ http://mijn.adr.donorregister.nl
 http://mijn.zuid-holland.nl
 http://mobiel.douane.nl
 http://mobielgis-test.zuid-holland.nl
-http://monitor-klimaatadaptatie.zuid-holland.nl
 http://n211wippolderlaan.zuid-holland.nl
 http://naaldwijk.zuid-holland.nl
 http://natuurlijk.zuid-holland.nl
@@ -256,7 +255,6 @@ http://pkio.service.int2905.omgevingswet.overheid.nl
 http://pkio.service.omgevingswet.overheid.nl
 http://pkio.service.pre.omgevingswet.overheid.nl
 http://plan-plan-validatie.pre.omgevingswet.overheid.nl
-http://planregistratie-wonen.zuid-holland.nl
 http://pm-bounces.ndw.nu
 http://prd.archis.cultureelerfgoed.nl
 http://preprod-machtigen.digipoort.logius.nl
@@ -2400,6 +2398,7 @@ https://modellen.jenvgegevens.nl
 https://modules.istandaarden.nl
 https://mogin.ndw.nu
 https://mondgezondheidsdashboard.vzinfo.nl
+https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring-prod5.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
@@ -2883,6 +2882,7 @@ https://planmer-acc.zuid-holland.nl
 https://planmer-test.zuid-holland.nl
 https://planmer.zuid-holland.nl
 https://planonprod.vallei-veluwe.nl
+https://planregistratie-wonen.zuid-holland.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
 https://platform.analyse.ilt.rijkscloud.nl
 https://pleio.kiesraad.nl
