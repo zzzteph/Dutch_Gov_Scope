@@ -382,6 +382,8 @@ web01
 wms
 auth-admin-eopg-acc
 auth-admin-eopg
+auth-eopg-acc
+auth-eopg
 eavgb-acc
 eavgb
 eovgb-acc
