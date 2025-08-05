@@ -2487,7 +2487,6 @@ feeds.emm-online.nl
 feeds.energierijkdenhaag.nl
 feeds.english.aivd.nl
 feeds.english.belastingdienst-cn.nl
-feeds.english.bigregister.nl
 feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
 feeds.english.ctgb.nl
@@ -4716,7 +4715,6 @@ opendata.emm-online.nl
 opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.belastingdienst-cn.nl
-opendata.english.bigregister.nl
 opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
 opendata.english.ctgb.nl
