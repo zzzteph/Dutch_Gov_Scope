@@ -1274,6 +1274,7 @@ https://drop-api.overheid.nl
 https://drop-preprd.overheid.nl
 https://drop.overheid.nl
 https://drs.ndw.nu
+https://dso.brabant.nl
 https://dsta.nl
 https://dus-i.nl
 https://dustex.nl
@@ -1426,7 +1427,6 @@ https://esb-ibabs.flevoland.nl
 https://esb-p1.brabant.nl
 https://esb-preprod.flevoland.nl
 https://esb-t1.brabant.nl
-https://esb.brabant.nl
 https://esb.btp.sso3w.nl
 https://esb.expenses.sso3w.nl
 https://esb.flevoland.nl
