@@ -1,7 +1,6 @@
 http://adc.cbs.nl
 http://adc4.cbs.nl
 http://beta-dataportal.cbs.nl
-http://chat.cbs.nl
 http://mail.dev.cbs.nl
 http://mijn-api.cbs.nl
 http://odata4.cbs.nl
@@ -61,7 +60,6 @@ https://geoserver.cbs.nl
 https://geoservices.cbs.nl
 https://good.cbs.nl
 https://helpmee.cbs.nl
-https://highcharts-test.cbs.nl
 https://highcharts.cbs.nl
 https://historisch.cbs.nl
 https://historischebeelden.cbs.nl
@@ -126,6 +124,7 @@ https://test.cerberus.cbs.nl
 https://tunnel.cbs.nl
 https://tunnel1.cbs.nl
 https://uag.cbs.nl
+https://uitgaven.cbs.nl
 https://uitwisseling.cbs.nl
 https://upload.cbs.nl
 https://videos.cbs.nl
@@ -136,7 +135,6 @@ https://werkplek.cbs.nl
 https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
-https://www-test.cbs.nl
 https://www.cbs.nl
 https://www.databestanden.cbs.nl
 https://www.historisch.cbs.nl

@@ -42,7 +42,6 @@ cbs.nl
 cdn.cbs.nl
 censushub.cbs.nl
 cerberus.cbs.nl
-chat.cbs.nl
 claircitydata.cbs.nl
 cn.cbs.nl
 content.cbs.nl
@@ -177,6 +176,7 @@ test.status.cbs.nl
 tunnel.cbs.nl
 tunnel1.cbs.nl
 uag.cbs.nl
+uitgaven.cbs.nl
 uitwisseling.cbs.nl
 upload.cbs.nl
 videoplatform.cbs.nl

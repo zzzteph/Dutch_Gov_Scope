@@ -75,7 +75,6 @@ http://cesar-database.knmi.nl
 http://cev.nl
 http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
-http://chat.cbs.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://cms-eef.waterschaplimburg.nl
@@ -1868,7 +1867,6 @@ https://helpmee.cbs.nl
 https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
 https://hhdelfland.nl
-https://highcharts-test.cbs.nl
 https://highcharts.cbs.nl
 https://hip-acc.huurcommissie.nl
 https://hip.huurcommissie.nl
@@ -3513,6 +3511,7 @@ https://uag.cbs.nl
 https://uconnect-acc.hdsr.nl
 https://uconnect.hdsr.nl
 https://uitelkaarmetkinderen.nl
+https://uitgaven.cbs.nl
 https://uitkomstgerichtezorg.nl
 https://uitvoeringvanbeleidszw.nl
 https://uitwisseling.cbs.nl
@@ -3733,7 +3732,6 @@ https://www-ac.zorgcijfersdatabank.nl
 https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
 https://www-sandbox.werkenvoornederland.nl
-https://www-test.cbs.nl
 https://www.100aardgasvrijewijken.nl
 https://www.a2vonderenkerensheide.nl
 https://www.aaenmaas.nl

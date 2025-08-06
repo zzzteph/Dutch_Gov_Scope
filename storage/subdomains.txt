@@ -1461,7 +1461,6 @@ channels.logius.nl
 channels.lpc.logius.nl
 charlie.ncsc.nl
 chat-dev.rijkscloud.nl
-chat.cbs.nl
 chat.datascience.rijkscloud.nl
 chat.ind.nl
 chat.ix.rijkscloud.nl
@@ -6601,6 +6600,7 @@ uconnect.hdsr.nl
 uffprod25.waterschaplimburg.nl
 ufftest25.waterschaplimburg.nl
 uitelkaarmetkinderen.nl
+uitgaven.cbs.nl
 uitkomstgerichtezorg.nl
 uitvoeringvanbeleidszw.nl
 uitwisseling.cbs.nl

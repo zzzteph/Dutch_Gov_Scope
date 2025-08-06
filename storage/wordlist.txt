@@ -95,7 +95,6 @@ hybrid
 publicaties
 static
 cdn
-chat
 projecten
 a-cms
 dwo
@@ -177,6 +176,7 @@ csotest
 sandbox
 m
 mijn-acc
+chat
 lyncdiscover
 wiki
 preview
@@ -1445,6 +1445,7 @@ test.cerberus
 test.ebms
 test.status
 tunnel1
+uitgaven
 uitwisseling
 upload
 videoplatform
