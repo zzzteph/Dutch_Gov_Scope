@@ -5,7 +5,6 @@ broker-preprod.bronhouderportaal-bro.nl
 broker.bronhouderportaal-bro.nl
 bronhouderportaal-bro.nl
 demo.bronhouderportaal-bro.nl
-demo2.bronhouderportaal-bro.nl
 dev.bronhouderportaal-bro.nl
 doc-acc.bronhouderportaal-bro.nl
 doc.bronhouderportaal-bro.nl
@@ -17,8 +16,6 @@ sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
 sso-dev.bronhouderportaal-bro.nl
-sso-test-tno.bronhouderportaal-bro.nl
 sso.bronhouderportaal-bro.nl
-test-tno.bronhouderportaal-bro.nl
 test.bronhouderportaal-bro.nl
 www.bronhouderportaal-bro.nl

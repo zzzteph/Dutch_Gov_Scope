@@ -1849,7 +1849,6 @@ demo.ix.rijkscloud.nl
 demo.mijn.overheid.nl
 demo1-systemteam.overheid.nl
 demo2-systemteam.overheid.nl
-demo2.bronhouderportaal-bro.nl
 demowebsite.ix.rijkscloud.nl
 denkdoeduurzaam.nl
 denkmee.flevoland.nl
@@ -6070,7 +6069,6 @@ sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
 sso-dev.bronhouderportaal-bro.nl
-sso-test-tno.bronhouderportaal-bro.nl
 sso.acc.omgevingswet.overheid.nl
 sso.acceptatie.istandaarden.nl
 sso.bronhouderportaal-bro.nl
@@ -6364,7 +6362,6 @@ test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
 test-mijn.rvo.nl
-test-tno.bronhouderportaal-bro.nl
 test-website.rvo.nl
 test-wetten.rvo.nl
 test.actueel.nl-alert.nl
