@@ -128,7 +128,6 @@ a-feeds.autoriteitnvs.nl
 a-feeds.bigregister.nl
 a-feeds.cbg-meb.nl
 a-feeds.cibg.nl
-a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
 a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
@@ -194,7 +193,6 @@ a-opendata.autoriteitnvs.nl
 a-opendata.bigregister.nl
 a-opendata.cbg-meb.nl
 a-opendata.cibg.nl
-a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
 a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
@@ -257,7 +255,6 @@ a-www.autoriteitnvs.nl
 a-www.bigregister.nl
 a-www.cbg-meb.nl
 a-www.cibg.nl
-a-www.communicatierijk.nl
 a-www.ctgb.nl
 a-www.cultuursubsidie.nl
 a-www.defensie.nl
@@ -2454,7 +2451,6 @@ feeds.collegevanrijksadviseurs.nl
 feeds.commissiecelz.nl
 feeds.commissiemijnbouwschade.nl
 feeds.commissievanaanbestedingsexperts.nl
-feeds.communicatierijk.nl
 feeds.ctgb.nl
 feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
@@ -4681,7 +4677,6 @@ opendata.collegevanrijksadviseurs.nl
 opendata.commissiecelz.nl
 opendata.commissiemijnbouwschade.nl
 opendata.commissievanaanbestedingsexperts.nl
-opendata.communicatierijk.nl
 opendata.ctgb.nl
 opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
