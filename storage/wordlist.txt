@@ -1605,12 +1605,12 @@ kennis-staging
 lil
 linkeddata.accept
 linkeddata.test
+mail.mass
 mailhog.acc.monumentenregister
 mass
 monumentenregister
 noaa
 pom
-prd.archis
 preprod.idselect
 sso.subsidie
 stor.services

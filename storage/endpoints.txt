@@ -256,7 +256,6 @@ http://pkio.service.omgevingswet.overheid.nl
 http://pkio.service.pre.omgevingswet.overheid.nl
 http://plan-plan-validatie.pre.omgevingswet.overheid.nl
 http://pm-bounces.ndw.nu
-http://prd.archis.cultureelerfgoed.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preprod.bvd.logius.nl
 http://prod.flevoland.nl
@@ -347,6 +346,7 @@ http://toepasbare-regels.omgevingswet.overheid.nl
 http://toetsingonline.ccmo.nl
 http://torenvalk.brabant.nl
 http://trade.rvo.nl
+http://tst.subsidie.cultureelerfgoed.nl
 http://tuchtrecht-service-acc.overheid.nl
 http://tuchtrecht-service-tst.overheid.nl
 http://tuchtrecht-service.overheid.nl
@@ -2247,6 +2247,7 @@ https://mail.dgdoobi.rijkscloud.nl
 https://mail.dihoo.nl
 https://mail.handelingenbank.info
 https://mail.koop.overheid.nl
+https://mail.mass.cultureelerfgoed.nl
 https://mail.ndw.nu
 https://mail.oostvaarderskliniek.nl
 https://mail.open-overheid.nl
@@ -3494,7 +3495,6 @@ https://ts.onderwijsraad.nl
 https://tst-referentiegegevens.justid.nl
 https://tst.mercurius.sso3w.nl
 https://tst.opendata.nederlandwereldwijd.nl
-https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtcollege-gezondheidszorg.nl
 https://tunnel.cbs.nl

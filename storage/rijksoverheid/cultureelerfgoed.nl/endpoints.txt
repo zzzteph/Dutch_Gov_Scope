@@ -1,4 +1,4 @@
-http://prd.archis.cultureelerfgoed.nl
+http://tst.subsidie.cultureelerfgoed.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
@@ -33,6 +33,7 @@ https://kennis.cultureelerfgoed.nl
 https://lil.cultureelerfgoed.nl
 https://linkeddata.cultureelerfgoed.nl
 https://magazines.cultureelerfgoed.nl
+https://mail.mass.cultureelerfgoed.nl
 https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
 https://mass.cultureelerfgoed.nl
 https://monumentenregister.cultureelerfgoed.nl
@@ -48,7 +49,6 @@ https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://thesaurus.cultureelerfgoed.nl
-https://tst.subsidie.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl

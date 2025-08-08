@@ -3852,6 +3852,7 @@ mail.community-gatewayreview.nl
 mail.contactpuntbouwproducten.nl
 mail.ctgb.nl
 mail.ctivd.nl
+mail.cultureelerfgoed.nl
 mail.dev.cbs.nl
 mail.dgdoobi.rijkscloud.nl
 mail.dictu.nl
@@ -3867,6 +3868,7 @@ mail.handelingenbank.info
 mail.huurcommissie.nl
 mail.ienw.rijkscloud.nl
 mail.koop.overheid.nl
+mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
 mail.ndw.nu
 mail.nifp.nl
@@ -5192,7 +5194,6 @@ pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
 pra.svb.nl
 prd-ez-rvo-ba.dictu.nl
-prd.archis.cultureelerfgoed.nl
 prd.atlasleefomgeving.nl
 prd.btp.sso3w.nl
 prd.consexponano.nl

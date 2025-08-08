@@ -37,6 +37,8 @@ linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.test.cultureelerfgoed.nl
 magazines.cultureelerfgoed.nl
+mail.cultureelerfgoed.nl
+mail.mass.cultureelerfgoed.nl
 mailhog.acc.monumentenregister.cultureelerfgoed.nl
 mass.cultureelerfgoed.nl
 monumentenregister.cultureelerfgoed.nl
@@ -45,7 +47,6 @@ opendata.cultureelerfgoed.nl
 opendata.english.cultureelerfgoed.nl
 oud.cultureelerfgoed.nl
 pom.cultureelerfgoed.nl
-prd.archis.cultureelerfgoed.nl
 preprod.idselect.cultureelerfgoed.nl
 prod.cultureelerfgoed.nl
 services.cultureelerfgoed.nl
