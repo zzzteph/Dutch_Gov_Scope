@@ -1,5 +1,6 @@
 _autodiscover._tcp.dezi.nl
 acceptatie.abonnee.dezi.nl
+acceptatie.auth.dezi.nl
 acceptatie.behandel.dezi.nl
 acceptatie.beheer.dezi.nl
 acceptatie.mijn.dezi.nl

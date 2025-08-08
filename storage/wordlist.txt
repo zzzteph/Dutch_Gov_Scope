@@ -1655,6 +1655,7 @@ dp2024
 dp2025
 dp2026
 acceptatie.abonnee
+acceptatie.auth
 ontwikkel.auth
 ontwikkel.uzipas
 test.auth
