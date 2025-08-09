@@ -1682,7 +1682,11 @@ acceptatie.digikoppeling.diginetwerk
 acceptatie.rijksweb.digikoppeling.diginetwerk
 acceptatie.webservices1
 acceptatie.webservices2
+anm-acc
 anoniem.netftp
+apimgr-acc
+apiportal-acc
+apitraffic-acc
 artifact-acc.rd
 asb.datasluis
 auth-acc

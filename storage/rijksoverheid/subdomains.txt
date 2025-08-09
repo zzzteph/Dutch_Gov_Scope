@@ -714,6 +714,7 @@ analytics.ienw.rijkscloud.nl
 analytics.ndw.nu
 analytics.staging.ndw.nu
 animalfreeinnovationtpi.nl
+anm-acc.dictu.nl
 anoniem.netftp.dictu.nl
 anonymous.api.dataplatform.knmi.nl
 antennebureau.nl
@@ -811,9 +812,12 @@ apikey.ep-online.nl
 apim-icc-a.svb.nl
 apim-icc-t.svb.nl
 apim-icc.svb.nl
+apimgr-acc.dictu.nl
+apiportal-acc.dictu.nl
 apis.developer.overheid.nl
 apisimplex.cbs.nl
 apitest.rapportage.rijkscloud.nl
+apitraffic-acc.dictu.nl
 apkl.huisvoorklokkenluiders.nl
 apl-ecaccess-acpt.knmi.nl
 apl-ecaccess-new.knmi.nl

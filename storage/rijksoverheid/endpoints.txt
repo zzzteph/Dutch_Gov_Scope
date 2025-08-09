@@ -41,6 +41,7 @@ http://archief.zuid-holland.nl
 http://atlas-acpt.brabant.nl
 http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
+http://authpms-acc.dictu.nl
 http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.contactpuntbouwproducten.nl
@@ -690,6 +691,7 @@ https://api.standaarden.overheid.nl
 https://apikey.ep-online.nl
 https://apim-icc.svb.nl
 https://apis.developer.overheid.nl
+https://apitraffic-acc.dictu.nl
 https://apkl.huisvoorklokkenluiders.nl
 https://app-a.svb.nl
 https://app-api.acc.mgo.irealisatie.nl
@@ -746,7 +748,6 @@ https://auth.ndw.nu
 https://auth.openstad.zuid-holland.nl
 https://auth.services.cultureelerfgoed.nl
 https://auth20.dictu.nl
-https://authpms-acc.dictu.nl
 https://autodiscover.awti.nl
 https://autodiscover.cvte.nl
 https://autodiscover.huisvoorklokkenluiders.nl

@@ -1,3 +1,4 @@
+http://authpms-acc.dictu.nl
 http://authpms.dictu.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
@@ -19,11 +20,11 @@ https://acc.fhub.dictu.nl
 https://acc.gisextern.dictu.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.rd.dictu.nl
+https://apitraffic-acc.dictu.nl
 https://asb.datasluis.dictu.nl
 https://auth-acc.dictu.nl
 https://auth.dictu.nl
 https://auth20.dictu.nl
-https://authpms-acc.dictu.nl
 https://avd.datasluis.dictu.nl
 https://bpp.datasluis.dictu.nl
 https://datasluis.dictu.nl
