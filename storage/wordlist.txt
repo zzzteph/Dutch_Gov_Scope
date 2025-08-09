@@ -86,6 +86,7 @@ enterpriseregistration
 fs
 ns2
 services
+videobellen
 werken
 acceptatie.mijn
 beheer
@@ -125,7 +126,6 @@ mta-sts
 sharepoint-acc
 sharepoint-conf
 sharepoint
-videobellen
 acceptatie.behandel
 acceptatie.webservices
 connect-with
