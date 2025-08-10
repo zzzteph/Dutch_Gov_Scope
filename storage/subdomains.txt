@@ -36,6 +36,7 @@ _autodiscover._tcp.csirtdsp.nl
 _autodiscover._tcp.dezi.nl
 _autodiscover._tcp.emissieautoriteit.nl
 _autodiscover._tcp.emissionsauthority.nl
+_autodiscover._tcp.farmatec.nl
 _autodiscover._tcp.huurcommissie.nl
 _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.mijncn.nl
@@ -508,6 +509,7 @@ acceptatie.auth.dezi.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
+acceptatie.behandel.hulpmiddelen.farmatec.nl
 acceptatie.behandel.isms.cibg.nl
 acceptatie.behandel.sbv-z.nl
 acceptatie.beheer.bigregister.nl
@@ -553,6 +555,7 @@ acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
 acceptatie.mijn.donorregister.nl
 acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
+acceptatie.mijn.hulpmiddelen.farmatec.nl
 acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl

@@ -13,8 +13,8 @@ acc
 feeds.english
 opendata.english
 magazines
-mijn
 _autodiscover._tcp
+mijn
 intranet
 webmail
 acceptatie
@@ -2016,7 +2016,9 @@ cms-ow
 cms-p
 cms-ts
 cms-tst
+acceptatie.behandel.hulpmiddelen
 acceptatie.hulpmiddelen
+acceptatie.mijn.hulpmiddelen
 hulpmiddelen
 apps.acceptatie
 cadmium-pig.apps
