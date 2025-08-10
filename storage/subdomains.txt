@@ -2505,7 +2505,6 @@ feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.vrachtwagenheffing.nl
 feeds.english.wrr.nl
-feeds.euthanasiecommissie.nl
 feeds.fmhaaglanden.nl
 feeds.forensicinstitute.nl
 feeds.forensischezorg.nl
@@ -4729,7 +4728,6 @@ opendata.english.rijksdienstcn.com
 opendata.english.scp.nl
 opendata.english.vrachtwagenheffing.nl
 opendata.english.wrr.nl
-opendata.euthanasiecommissie.nl
 opendata.fmhaaglanden.nl
 opendata.forensicinstitute.nl
 opendata.forensischezorg.nl
