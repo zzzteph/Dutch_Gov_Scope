@@ -210,7 +210,6 @@ http://lpc-p-az2.elastic.lpc.logius.nl
 http://lpc-p-az2.kibana.lpc.logius.nl
 http://luchtfoto.zuid-holland.nl
 http://lvbb-tst.overheid.nl
-http://maatwerkadvies-preprod.api.ep-online.nl
 http://mail.dev.cbs.nl
 http://matrix.ix.rijkscloud.nl
 http://mcsd-registratie-portaal.test.gf.irealisatie.nl
@@ -302,7 +301,6 @@ http://sat.irealisatie.nl
 http://seg.cbs.nl
 http://service.int.omgevingswet.overheid.nl
 http://service.int2905.omgevingswet.overheid.nl
-http://services-preprod.ep-online.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://shinyserver.zuid-holland.nl
@@ -2205,6 +2203,7 @@ https://lvbb-preprod.overheid.nl
 https://lvmb.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.rijkswaterstaat.nl
+https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
 https://maatwerkvoormensen.nl
 https://machtigen.digipoort.logius.nl
@@ -3206,6 +3205,7 @@ https://service.perf.omgevingswet.overheid.nl
 https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://servicedesk.dictu.nl
+https://services-preprod.ep-online.nl
 https://services.belastingdienst.nl
 https://services.ep-online.nl
 https://sf.knmi.nl
