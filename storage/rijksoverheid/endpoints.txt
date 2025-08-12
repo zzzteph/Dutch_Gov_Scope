@@ -1381,6 +1381,7 @@ https://english.dsta.nl
 https://english.euthanasiecommissie.nl
 https://english.farmatec.nl
 https://english.globalhealthhub.nl
+https://english.igj.nl
 https://english.ilent.nl
 https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
@@ -1535,6 +1536,7 @@ https://feeds.english.ctgb.nl
 https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.defensie.nl
 https://feeds.english.globalhealthhub.nl
+https://feeds.english.igj.nl
 https://feeds.english.ilent.nl
 https://feeds.english.iob-evaluatie.nl
 https://feeds.english.kiesraad.nl
@@ -1570,6 +1572,7 @@ https://feeds.healthcouncil.nl
 https://feeds.huiselijkgeweld.nl
 https://feeds.huurcommissie.nl
 https://feeds.hwbp.nl
+https://feeds.igj.nl
 https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.ilent.nl
 https://feeds.informatiehuishouding.nl
@@ -1903,6 +1906,7 @@ https://identifier.overheid.nl
 https://idppoc-ont.dictu.nl
 https://idppoc-sp-ont.dictu.nl
 https://idselect.cultureelerfgoed.nl
+https://igj.nl
 https://igj.rijkscloud.nl
 https://ih-static.rvo.nl
 https://ihg.cbs.nl
@@ -2630,6 +2634,7 @@ https://opendata.english.ctgb.nl
 https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.defensie.nl
 https://opendata.english.globalhealthhub.nl
+https://opendata.english.igj.nl
 https://opendata.english.ilent.nl
 https://opendata.english.iob-evaluatie.nl
 https://opendata.english.kiesraad.nl
@@ -2665,6 +2670,7 @@ https://opendata.healthcouncil.nl
 https://opendata.huiselijkgeweld.nl
 https://opendata.huurcommissie.nl
 https://opendata.hwbp.nl
+https://opendata.igj.nl
 https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.ilent.nl
 https://opendata.informatiehuishouding.nl
@@ -3964,6 +3970,7 @@ https://www.huiselijkgeweld.nl
 https://www.huisvoorklokkenluiders.nl
 https://www.huurcommissie.nl
 https://www.hwbp.nl
+https://www.igj.nl
 https://www.ihg.cbs.nl
 https://www.iinterimrijk.nl
 https://www.ikvermoedhuiselijkgeweld.nl
