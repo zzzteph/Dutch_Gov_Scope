@@ -11,8 +11,8 @@ autodiscover
 test
 acc
 feeds.english
-opendata.english
 magazines
+opendata.english
 _autodiscover._tcp
 mijn
 intranet
