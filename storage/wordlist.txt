@@ -95,6 +95,7 @@ geoportaal
 hybrid
 publicaties
 static
+elearning
 cdn
 projecten
 a-cms
@@ -137,7 +138,6 @@ wifi
 sso
 conf
 sts
-elearning
 academy
 designsystem
 micollab
