@@ -2302,6 +2302,7 @@ dvp-proxy.test.mgo
 emax.test.gf
 fdocs.test.gf
 gateway.test.ggdcontact
+gfportal.test.gf
 hapi1.test.zm
 hapi2.test.zm
 helpdesk.acc
@@ -2313,7 +2314,6 @@ kat
 kwalificatie-admin-api.proeftuin.gf
 kwalificatie-api.proeftuin.gf
 kwalificatie.proeftuin.gf
-landscape.test.gf
 lmr-noord.proeftuin.gf
 lmr-noord.test.gf
 lmr-oost.proeftuin.gf
@@ -2373,11 +2373,13 @@ qualification-api.test.zm
 qualification.test.zm
 sat
 siem.acc
+siem
 start.acc.dusi
 start.test.dusi
 static.acc.dpr
 static.test.dpr
 stats.acc.mgo
+stats.test.gf
 stats.test.mgo
 stats.test.zm
 storage.test.mgo

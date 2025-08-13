@@ -27,6 +27,7 @@ dvp-proxy.test.mgo.irealisatie.nl
 emax.test.gf.irealisatie.nl
 fdocs.test.gf.irealisatie.nl
 gateway.test.ggdcontact.irealisatie.nl
+gfportal.test.gf.irealisatie.nl
 git.irealisatie.nl
 hapi1.test.zm.irealisatie.nl
 hapi2.test.zm.irealisatie.nl
@@ -41,7 +42,6 @@ kat.irealisatie.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
-landscape.test.gf.irealisatie.nl
 lmr-noord.proeftuin.gf.irealisatie.nl
 lmr-noord.test.gf.irealisatie.nl
 lmr-oost.proeftuin.gf.irealisatie.nl
@@ -103,12 +103,14 @@ qualification-api.test.zm.irealisatie.nl
 qualification.test.zm.irealisatie.nl
 sat.irealisatie.nl
 siem.acc.irealisatie.nl
+siem.irealisatie.nl
 start.acc.dusi.irealisatie.nl
 start.test.dusi.irealisatie.nl
 static.acc.dpr.irealisatie.nl
 static.test.dpr.irealisatie.nl
 stats.acc.mgo.irealisatie.nl
 stats.irealisatie.nl
+stats.test.gf.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
 storage.test.mgo.irealisatie.nl

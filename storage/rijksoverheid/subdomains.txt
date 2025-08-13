@@ -2920,6 +2920,7 @@ geoweb.zuid-holland.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gezondeleefomgeving.nl
 gezondheidsraad.nl
+gfportal.test.gf.irealisatie.nl
 ggo-vergunningen.nl
 gipdatabank.nl
 gis-art.cvr.rvb.rijkscloud.nl
@@ -3636,7 +3637,6 @@ labvantage.nvwa.nl
 lam-dev.devops.rvb.rijkscloud.nl
 landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 landelijkregisterkinderopvang.nl
-landscape.test.gf.irealisatie.nl
 lap.api.reis.npr.idm.rvig.nl
 lap.rvp.reis.npr.idm.rvig.nl
 large.netftp.dictu.nl
@@ -5921,6 +5921,7 @@ siam.rvo.nl
 sib-eopg-acc.aivd.nl
 sib-eopg.aivd.nl
 siem.acc.irealisatie.nl
+siem.irealisatie.nl
 sign1-acc.toeslagen.nl
 sign1.toeslagen.nl
 signing-api-acc.ep-online.nl
@@ -6183,6 +6184,7 @@ stats.datascience.rijkscloud.nl
 stats.duo.rijkscloud.nl
 stats.irealisatie.nl
 stats.ndw.nu
+stats.test.gf.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
 status-acceptatie.rijkscloud.nl
