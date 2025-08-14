@@ -11,7 +11,6 @@ http://acc.dusi.irealisatie.nl
 http://acc.gps-sa.sso3w.nl
 http://acc.irealisatie.nl
 http://acc.mgo.irealisatie.nl
-http://acc.oinregister.logius.nl
 http://acc.woo.irealisatie.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
@@ -123,6 +122,7 @@ http://eco-a-az2.kibana.lpc.logius.nl
 http://eco-p-az1.elastic.lpc.logius.nl
 http://eco-p-az1.kibana.lpc.logius.nl
 http://eco-p-az2.elastic.lpc.logius.nl
+http://eco-p-az2.kibana.lpc.logius.nl
 http://eformulieren.zuid-holland.nl
 http://embraceintranet.flevoland.nl
 http://energielabel-checker.rvo.nl
@@ -160,7 +160,6 @@ http://hapi1.test.zm.irealisatie.nl
 http://hapi2.test.zm.irealisatie.nl
 http://harbor.az1.lpc.logius.nl
 http://harbor.az2.lpc.logius.nl
-http://iam-containerplatform-az1.lpc.logius.nl
 http://ic-desk-functions.zuid-holland.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
@@ -258,7 +257,6 @@ http://pkio.service.omgevingswet.overheid.nl
 http://pkio.service.pre.omgevingswet.overheid.nl
 http://plan-plan-validatie.pre.omgevingswet.overheid.nl
 http://pm-bounces.ndw.nu
-http://preprod-machtigen.digipoort.logius.nl
 http://preprod.bvd.logius.nl
 http://prod.flevoland.nl
 http://prod.rvo.nl
@@ -472,6 +470,7 @@ https://acc.bestandenpostbus.nl
 https://acc.bromonitor.nl
 https://acc.bronhouderportaal-bro.nl
 https://acc.btp.sso3w.nl
+https://acc.bvd.logius.nl
 https://acc.cbi.eu
 https://acc.cerberus.cbs.nl
 https://acc.client.archis.cultureelerfgoed.nl
@@ -1888,6 +1887,8 @@ https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
 https://i-login.mijncn.nl
 https://iam-acc.rdi.nl
+https://iam-containerplatform-az1.lpc.logius.nl
+https://iam-containerplatform-az2.lpc.logius.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam.mijnoctrooi.mypage.rvo.nl
 https://iam.ndw.nu
@@ -2914,6 +2915,7 @@ https://prd.atlasleefomgeving.nl
 https://prd.btp.sso3w.nl
 https://prd.consexponano.nl
 https://preprod-belastingen.zuid-holland.nl
+https://preprod-machtigen.digipoort.logius.nl
 https://preprod.ep-online.nl
 https://preprod.iam.rijkswaterstaat.nl
 https://preprod.idselect.cultureelerfgoed.nl

@@ -405,6 +405,7 @@ acc.bestandenpostbus.nl
 acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
 acc.btp.sso3w.nl
+acc.bvd.logius.nl
 acc.cbi.eu
 acc.cerberus.cbs.nl
 acc.client.archis.cultureelerfgoed.nl
@@ -2143,6 +2144,7 @@ eco-a-az2.kibana.lpc.logius.nl
 eco-p-az1.elastic.lpc.logius.nl
 eco-p-az1.kibana.lpc.logius.nl
 eco-p-az2.elastic.lpc.logius.nl
+eco-p-az2.kibana.lpc.logius.nl
 economicdiplomacy.rvo.nl
 ecxs.knmi.nl
 edicrop-acc.rvo.nl
@@ -3018,6 +3020,8 @@ gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 gps-sa-api.sso3w.nl
 gps-sa.sso3w.nl
+grafana-az1.lpc.logius.nl
+grafana-az2.lpc.logius.nl
 grafana.ix.rijkscloud.nl
 grafana.lpc.logius.nl
 grc-apps.p-direkt.nl
@@ -3161,6 +3165,7 @@ iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
 iam-acc.rdi.nl
 iam-containerplatform-az1.lpc.logius.nl
+iam-containerplatform-az2.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
 iam-ext.intranet.rijkswaterstaat.nl
@@ -3193,6 +3198,7 @@ identifier-acc.overheid.nl
 identifier-preprod.overheid.nl
 identifier.overheid.nl
 idm.rvig.nl
+idp-dgp.preproductie.digipoort.logius.nl
 idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
 idro.ont.belastingdienst.nl
@@ -6011,6 +6017,8 @@ sonar.devops.rvb.rijkscloud.nl
 sonar.ix.rijkscloud.nl
 sonar.ndw.nu
 sonarqube-2.devops.rvb.rijkscloud.nl
+sonarqube-az1.lpc.logius.nl
+sonarqube-az2.lpc.logius.nl
 sonarqube-infra-edu.efiling.mijnoctrooi.rvo.nl
 sonarqube-infra-preprod.efiling.mijnoctrooi.rvo.nl
 sonarqube-infra.efiling.mijnoctrooi.rvo.nl

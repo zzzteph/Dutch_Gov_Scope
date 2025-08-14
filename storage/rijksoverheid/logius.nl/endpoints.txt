@@ -1,4 +1,3 @@
-http://acc.oinregister.logius.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
@@ -31,6 +30,7 @@ http://eco-a-az2.kibana.lpc.logius.nl
 http://eco-p-az1.elastic.lpc.logius.nl
 http://eco-p-az1.kibana.lpc.logius.nl
 http://eco-p-az2.elastic.lpc.logius.nl
+http://eco-p-az2.kibana.lpc.logius.nl
 http://gatus.lpc.logius.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
@@ -40,7 +40,6 @@ http://gm.mev.logius.nl
 http://grafana.lpc.logius.nl
 http://harbor.az1.lpc.logius.nl
 http://harbor.az2.lpc.logius.nl
-http://iam-containerplatform-az1.lpc.logius.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
 http://lpc-o-az1.elastic.lpc.logius.nl
@@ -52,7 +51,6 @@ http://lpc-p-az1.kibana.lpc.logius.nl
 http://lpc-p-az2.elastic.lpc.logius.nl
 http://lpc-p-az2.kibana.lpc.logius.nl
 http://nexus.lpc.logius.nl
-http://preprod-machtigen.digipoort.logius.nl
 http://preprod.bvd.logius.nl
 http://sonarqube.lpc.logius.nl
 http://test-machtigen.digipoort.logius.nl
@@ -60,6 +58,7 @@ https://aansluitsuite.preproductie.digipoort.logius.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
+https://acc.bvd.logius.nl
 https://acc.eva.logius.nl
 https://beheerportaal.preproductie.digipoort.logius.nl
 https://bvd-pre.mev.logius.nl
@@ -72,6 +71,8 @@ https://gebruikersportaal-duo.preproductie.digipoort.logius.nl
 https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl
 https://gebruikersportaal.preproductie.digipoort.logius.nl
 https://gitdocumentatie.logius.nl
+https://iam-containerplatform-az1.lpc.logius.nl
+https://iam-containerplatform-az2.lpc.logius.nl
 https://iam-containerplatform.lpc.logius.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://kennisbank.logius.nl
@@ -83,6 +84,7 @@ https://oinregister.logius.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
 https://portalen.preproductie.digipoort.logius.nl
+https://preprod-machtigen.digipoort.logius.nl
 https://preprod.oinregister.logius.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl

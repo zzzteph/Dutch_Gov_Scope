@@ -2594,6 +2594,7 @@ aansluitsuite.digipoort
 aansluitsuite.preproductie.digipoort
 acc-dictu.comcms
 acc-dictu.kennisbank
+acc.bvd
 acc.eva
 acc.oinregister
 acpt-machtigen.digipoort
@@ -2644,6 +2645,7 @@ eco-a-az2.kibana.lpc
 eco-p-az1.elastic.lpc
 eco-p-az1.kibana.lpc
 eco-p-az2.elastic.lpc
+eco-p-az2.kibana.lpc
 eva
 gatus.lpc
 gebruikersportaal-duo.acceptatie.digipoort
@@ -2664,12 +2666,16 @@ git.lpc
 gitdocumentatie
 gm-pre.mev
 gm.mev
+grafana-az1.lpc
+grafana-az2.lpc
 grafana.lpc
 harbor.az1.lpc
 harbor.az2.lpc
 iam-containerplatform-az1.lpc
+iam-containerplatform-az2.lpc
 iam-containerplatform
 iam-containerplatform.lpc
+idp-dgp.preproductie.digipoort
 intrekkingsportaal.acceptatie.digipoort
 intrekkingsportaal.digipoort
 intrekkingsportaal.preproductie.digipoort
@@ -2701,6 +2707,8 @@ prod-dictu.comcms
 routeringsvoorziening-pp1
 rvmetadata
 sb-dictu
+sonarqube-az1.lpc
+sonarqube-az2.lpc
 sonarqube.lpc
 stelselcatalogus
 svn
