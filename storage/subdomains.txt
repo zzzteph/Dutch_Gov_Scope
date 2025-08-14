@@ -415,6 +415,7 @@ acc.cparegister.nl
 acc.csirtdsp.nl
 acc.dashboardgroningen.nl
 acc.data.ilent.nl
+acc.dataverkenner.knmi.nl
 acc.dictu.nl
 acc.digid-stub.lpc.mijn.overheid.nl
 acc.dpr.irealisatie.nl
@@ -1882,6 +1883,7 @@ dev.api.p-direkt.nl
 dev.bronhouderportaal-bro.nl
 dev.cbrnsecurity.nctv.nl
 dev.cerberus.cbs.nl
+dev.dataverkenner.knmi.nl
 dev.fib.ienw.rijkscloud.nl
 dev.informatieservice.nederlandwereldwijd.nl
 dev.kennisbankterrorisme.nctv.nl

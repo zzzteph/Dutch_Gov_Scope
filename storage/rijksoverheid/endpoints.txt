@@ -1201,6 +1201,7 @@ https://dev.api-sec.p-direkt.nl
 https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
 https://dev.cerberus.cbs.nl
+https://dev.dataverkenner.knmi.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kennisbankterrorisme.nctv.nl
 https://dev.opendata.nederlandwereldwijd.nl
@@ -3206,7 +3207,6 @@ https://servicedesk.dictu.nl
 https://services-preprod.ep-online.nl
 https://services.belastingdienst.nl
 https://services.ep-online.nl
-https://sf.knmi.nl
 https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://share.cvte.nl

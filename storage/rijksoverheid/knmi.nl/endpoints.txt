@@ -25,6 +25,7 @@ https://daggegevens.knmi.nl
 https://data.knmi.nl
 https://datalab.knmi.nl
 https://dataplatform.knmi.nl
+https://dev.dataverkenner.knmi.nl
 https://developer.dataplatform.knmi.nl
 https://dwo.knmi.nl
 https://egvap.knmi.nl
@@ -48,7 +49,6 @@ https://password-new.knmi.nl
 https://password.knmi.nl
 https://rdsa.knmi.nl
 https://scatterometer.knmi.nl
-https://sf.knmi.nl
 https://spaceweather.knmi.nl
 https://testgeoservices.knmi.nl
 https://tyk-cdn.dataplatform.knmi.nl
