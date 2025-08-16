@@ -1,4 +1,5 @@
 http://pm-bounces.ndw.nu
+https://acceptatie-melvin.ndw.nu
 https://ams-closures.ndw.nu
 https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
@@ -33,7 +34,6 @@ https://english.ndw.nu
 https://error-reporting.ndw.nu
 https://faq.ndw.nu
 https://fbmonitor.ndw.nu
-https://feeds.english.ndw.nu
 https://feeds.ndw.nu
 https://file.ndw.nu
 https://geojson-converter.ndw.nu
@@ -62,6 +62,7 @@ https://ncis-ref.ndw.nu
 https://ncis.ndw.nu
 https://ncis.staging.ndw.nu
 https://ndw.nu
+https://ndwiki.ndw.nu
 https://ndwviewer.ndw.nu
 https://nls.ndw.nu
 https://nls.staging.ndw.nu
@@ -69,7 +70,6 @@ https://nt.ndw.nu
 https://ntm.ndw.nu
 https://ntm.staging.ndw.nu
 https://open-data.ndw.nu
-https://opendata.english.ndw.nu
 https://opendata.ndw.nu
 https://put-kpi-dashboard.ndw.nu
 https://realtime.ndw.nu
@@ -80,6 +80,7 @@ https://s.ndw.nu
 https://security.ndw.nu
 https://sentry.ndw.nu
 https://shared-services.ndw.nu
+https://shared-services.staging.ndw.nu
 https://slim-reizen.ndw.nu
 https://sonar.ndw.nu
 https://stats.ndw.nu
@@ -98,3 +99,4 @@ https://wegkenmerken.staging.ndw.nu
 https://www.ncis.ndw.nu
 https://www.ndw.nu
 https://www.nt.ndw.nu
+https://xdev.staging.ndw.nu

@@ -497,6 +497,7 @@ accebms.cbs.nl
 accept.digitaleoverheid.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie-checkjeprijs.huurcommissie.nl
+acceptatie-melvin.ndw.nu
 acceptatie-odc-noord.rijkscloud.nl
 acceptatie-zaaksysteem.vechtstromen.nl
 acceptatie.aanvragen.uziregister.nl
@@ -2501,7 +2502,6 @@ feeds.english.marechaussee.nl
 feeds.english.ncadierproevenbeleid.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
-feeds.english.ndw.nu
 feeds.english.nrgd.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
@@ -4360,6 +4360,7 @@ ndev.api-sec.p-direkt.nl
 ndev.api.p-direkt.nl
 ndn-onderzoek.ncsc.nl
 ndw.nu
+ndwiki.ndw.nu
 ndwviewer.ndw.nu
 nederlanddigitaal.nl
 nederlandse-sportraad.nl
@@ -4723,7 +4724,6 @@ opendata.english.marechaussee.nl
 opendata.english.ncadierproevenbeleid.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
-opendata.english.ndw.nu
 opendata.english.nrgd.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
@@ -5882,6 +5882,7 @@ sftp.cbs.nl
 sftp.test.cbs.nl
 share.cvte.nl
 shared-services.ndw.nu
+shared-services.staging.ndw.nu
 sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.belastingdienst.nl
 sharepoint-acc.douane.nl
@@ -7854,6 +7855,7 @@ wwwnieuw.ctivd.nl
 wwwrijksacademienl.belastingdienst.nl
 wwwtepr.entreepgb.svb.nl
 wwwtest.entreepgb.svb.nl
+xdev.staging.ndw.nu
 xential-acpt.brabant.nl
 xential.brabant.nl
 xmam.justid.nl

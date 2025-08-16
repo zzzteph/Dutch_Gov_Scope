@@ -1,3 +1,4 @@
+acceptatie-melvin.ndw.nu
 ams-closures.ndw.nu
 analytics.ndw.nu
 analytics.staging.ndw.nu
@@ -33,7 +34,6 @@ english.ndw.nu
 error-reporting.ndw.nu
 faq.ndw.nu
 fbmonitor.ndw.nu
-feeds.english.ndw.nu
 feeds.ndw.nu
 file.ndw.nu
 geojson-converter.ndw.nu
@@ -62,6 +62,7 @@ ncis-ref.ndw.nu
 ncis.ndw.nu
 ncis.staging.ndw.nu
 ndw.nu
+ndwiki.ndw.nu
 ndwviewer.ndw.nu
 nls.ndw.nu
 nls.staging.ndw.nu
@@ -70,7 +71,6 @@ ntm.ndw.nu
 ntm.staging.ndw.nu
 open-data.ndw.nu
 opendata-ref.ndw.nu
-opendata.english.ndw.nu
 opendata.ndw.nu
 pm-bounces.ndw.nu
 put-kpi-dashboard.ndw.nu
@@ -82,6 +82,7 @@ s.ndw.nu
 security.ndw.nu
 sentry.ndw.nu
 shared-services.ndw.nu
+shared-services.staging.ndw.nu
 slim-reizen.ndw.nu
 sonar.ndw.nu
 staging.ndw.nu
@@ -101,3 +102,4 @@ wegkenmerken.staging.ndw.nu
 www.ncis.ndw.nu
 www.ndw.nu
 www.nt.ndw.nu
+xdev.staging.ndw.nu

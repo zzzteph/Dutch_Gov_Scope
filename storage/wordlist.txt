@@ -10,10 +10,10 @@ mail
 autodiscover
 test
 acc
-feeds.english
 magazines
-opendata.english
+feeds.english
 _autodiscover._tcp
+opendata.english
 mijn
 intranet
 webmail
@@ -2804,6 +2804,7 @@ radicaalofpuberaal
 securityzkh
 symbolenbank
 toolbox-extremisme
+acceptatie-melvin
 ams-closures
 analytics
 analytics.staging
@@ -2855,6 +2856,7 @@ nap-ev
 ncis-ref
 ncis
 ncis.staging
+ndwiki
 ndwviewer
 nls
 nls.staging
@@ -2873,6 +2875,7 @@ s
 security
 sentry
 shared-services
+shared-services.staging
 slim-reizen
 sonar
 test-kpi-dashboard
@@ -2889,6 +2892,7 @@ wegkenmerken
 wegkenmerken.staging
 www.ncis
 www.nt
+xdev.staging
 acc.informatieservice
 acc.opendata
 dev.informatieservice

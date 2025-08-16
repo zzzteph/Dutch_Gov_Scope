@@ -518,6 +518,7 @@ https://acc2.intranet.rvig.nl
 https://acc2.leer-rijk.nl
 https://accept.digitaleoverheid.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
+https://acceptatie-melvin.ndw.nu
 https://acceptatie-zaaksysteem.vechtstromen.nl
 https://acceptatie.aanvragen.uziregister.nl
 https://acceptatie.abonnee.dezi.nl
@@ -1546,7 +1547,6 @@ https://feeds.english.marechaussee.nl
 https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
-https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
 https://feeds.english.onderwijsinspectie.nl
@@ -2453,6 +2453,7 @@ https://nctv.nl
 https://ndev.api-sec.p-direkt.nl
 https://ndev.api.p-direkt.nl
 https://ndw.nu
+https://ndwiki.ndw.nu
 https://ndwviewer.ndw.nu
 https://nederlanddigitaal.nl
 https://nederlandse-sportraad.nl
@@ -2640,7 +2641,6 @@ https://opendata.english.marechaussee.nl
 https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
-https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
 https://opendata.english.onderwijsinspectie.nl
@@ -3211,6 +3211,7 @@ https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://share.cvte.nl
 https://shared-services.ndw.nu
+https://shared-services.staging.ndw.nu
 https://sharingknowledge.rvo.nl
 https://shiny.cursus.rijkscloud.nl
 https://shiny.datalab-2.ocw.rijkscloud.nl
@@ -4266,6 +4267,7 @@ https://www1.cbs.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
 https://wwwrijksacademienl.belastingdienst.nl
+https://xdev.staging.ndw.nu
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
 https://xmpp.chat.ind.nl
