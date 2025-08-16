@@ -4117,7 +4117,6 @@ mijn.str3.tst.belastingdienst.nl
 mijn.str30.acc.belastingdienst.nl
 mijn.str59.ont.belastingdienst.nl
 mijn.str60.ont.belastingdienst.nl
-mijn.test.ncsc.nl
 mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
@@ -5823,7 +5822,6 @@ secure4.svb.nl
 secure5.svb.nl
 securemail.zorginstituutnederland.nl
 securened.ncsc.nl
-securenet.ncsc.nl
 securetest.vechtstromen.nl
 securetransfer.rijkscloud.nl
 security.ndw.nu

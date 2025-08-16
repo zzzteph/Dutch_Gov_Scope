@@ -2764,7 +2764,6 @@ gl1
 intel-acc
 intel
 melissa
-mijn.test
 min1
 min2
 min3
@@ -2777,7 +2776,6 @@ orchestrator
 privaat-acceptatie.octomon
 privaat.octomon
 securened
-securenet
 taranis
 tip
 vulnerabilities.acc
