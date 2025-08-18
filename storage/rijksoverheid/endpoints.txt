@@ -20,6 +20,7 @@ http://acceptatie.crm.nza.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acceptatie.isis-web.nl
 http://acceptatie.loketgezondleven.nl
+http://acceptatie.pacemweb.nl
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://acceptatie.zoek.bodemambities.nl
 http://acme2.proeftuin.uzi-online.irealisatie.nl
@@ -233,7 +234,6 @@ http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
 http://p-crl.justid.nl
-http://pacemweb.nl
 http://pdok.waterschaplimburg.nl
 http://pm-bounces.ndw.nu
 http://preprod.bvd.logius.nl
@@ -2808,6 +2808,7 @@ https://overstroomik.rijkswaterstaat.nl
 https://overtoeslagen.nl
 https://overzicht.cbs.nl
 https://p-direkt.nl
+https://pacemweb.nl
 https://pages.ds-ocw.rijkscloud.nl
 https://pages.svb.nl
 https://pagw.nl
