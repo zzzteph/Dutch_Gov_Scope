@@ -220,7 +220,6 @@ webdiensten
 website
 acceptatie.zoeken
 behandel
-zoek
 acs
 beeldbank-bo
 dataportaal
@@ -1147,6 +1146,7 @@ acceptatie.tea
 advieswijzer
 tea
 acceptatie.zoek
+zoek
 acs-acpt
 api-acpt
 aris
