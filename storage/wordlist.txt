@@ -3683,6 +3683,10 @@ zwb
 abibzk
 acceptatie-odc-noord
 accounts.ix
+accounts.kim
+accounts.minszw
+accounts.mintst2
+analyse-pipeline.pages.gitlab.analyse.ilt
 analytics.feni.ienw
 analytics.ienw
 api-performance.test.ix
@@ -3780,6 +3784,7 @@ dhcp2.gn3
 dhcp2.rw1
 dns.ix
 dvrvb-a.rvb
+dvrvb-api-a.rvb
 dvrvb-api-acc.rvb
 dvrvb-api-o.devops.rvb
 dvrvb-api.rvb
@@ -3841,6 +3846,7 @@ gitlab.gn2
 gitlab.gn3
 gitlab.ix
 gitlab.keycloak
+gitlab.kim
 gitlab.mintst1.ix
 gitlab.primary
 gitlab.prisma
@@ -3888,6 +3894,7 @@ ivi.rvb
 ix-mail
 ix
 jenkins-2.devops.rvb
+jenkins-rgv.devops.rvb
 jenkins-test-2.devops.rvb
 jenkins-test.devops.rvb
 jenkins.devops.rvb
@@ -3945,6 +3952,11 @@ jupyter.shinyproxy.ix
 jupyter.sodm
 jupyter.test.ix
 jupyter.wntbzk
+jupyter02.p-direkt
+jupyter02.sodm
+jupyter03.sodm
+jupyterhub01.mintst2
+jupyterhub02.mintst2
 kevin.devops.rvb
 keycloak-acc.rvb
 keycloak-devops.devops.rvb
@@ -3981,6 +3993,9 @@ lab1.rvb
 lam-dev.devops.rvb
 lb1.gn3
 loadtest.test
+login-a.rvb
+login-net.rvb
+login-oms.rvb
 login.rvb
 mail.dgdoobi
 mail.gn2
@@ -4076,6 +4091,7 @@ pgadmin.analyse.ilt
 pgadmin.demo.ix
 pgadmin.dev.fib.ienw
 pgadmin.dgdoobi
+pgadmin.insp
 pgadmin.rapportage
 pgadmin.sodm
 pgadmin.test.ix
@@ -4133,6 +4149,7 @@ registry.gitlab.datascience
 registry.gitlab.dgdoobi
 registry.gitlab.docdirekt
 registry.gitlab.ix
+registry.gitlab.kim
 registry.gitlab.mintst1.ix
 registry.gitlab.rdi
 registry.gitlab.rvb
@@ -4213,6 +4230,12 @@ rstudio.sodm
 rstudio.test.ix
 rstudio.vcloud.ix
 rstudio.walter
+rstudio01.mintst2
+rstudio02.mintst2
+rstudio02.p-direkt
+rstudio02.sodm
+rstudio03.sodm
+rvb
 rvp-beheer-demo.devops.rvb
 rvp-demo.devops.rvb
 rw1
@@ -4251,6 +4274,7 @@ shiny.rws
 shiny.secdemo
 shiny.test.ix
 shiny.walter
+shiny02.p-direkt
 smtp03
 smtp04
 smtp1.rvb
@@ -4282,6 +4306,7 @@ superset.dgdoobi
 synapse
 tenantapp.ec
 test.rapportage
+test.thms
 testapi.ix
 testapp.devops.rvb
 testhf.gn2
@@ -4316,6 +4341,7 @@ vpn2.ec
 vscode.analyse.ilt
 vscode.idlab.ilt
 vscode.ix
+vscode.kim
 webmail.rsj
 whatsip.test.ix
 www.rapportage

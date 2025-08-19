@@ -602,6 +602,9 @@ access.om.nl
 access.rijksrecherche.nl
 accounts.cbs.nl
 accounts.ix.rijkscloud.nl
+accounts.kim.rijkscloud.nl
+accounts.minszw.rijkscloud.nl
+accounts.mintst2.rijkscloud.nl
 accounts.rijkscloud.nl
 accp-api.stopheling.nl
 accp-bp.stopheling.nl
@@ -715,6 +718,7 @@ amp.logius.nl
 ams-closures.ndw.nu
 amunet.cbs.nl
 amx.belastingdienst.nl
+analyse-pipeline.pages.gitlab.analyse.ilt.rijkscloud.nl
 analytics.dataplatform.knmi.nl
 analytics.feni.ienw.rijkscloud.nl
 analytics.ienw.rijkscloud.nl
@@ -2087,6 +2091,7 @@ dvmservices.ndw.nu
 dvp-proxy.acc.mgo.irealisatie.nl
 dvp-proxy.test.mgo.irealisatie.nl
 dvrvb-a.rvb.rijkscloud.nl
+dvrvb-api-a.rvb.rijkscloud.nl
 dvrvb-api-acc.rvb.rijkscloud.nl
 dvrvb-api-o.devops.rvb.rijkscloud.nl
 dvrvb-api.rvb.rijkscloud.nl
@@ -2972,6 +2977,7 @@ gitlab.gn2.rijkscloud.nl
 gitlab.gn3.rijkscloud.nl
 gitlab.ix.rijkscloud.nl
 gitlab.keycloak.rijkscloud.nl
+gitlab.kim.rijkscloud.nl
 gitlab.mintst1.ix.rijkscloud.nl
 gitlab.primary.rijkscloud.nl
 gitlab.prisma.rijkscloud.nl
@@ -3418,6 +3424,7 @@ jaguar010.dictu.nl
 jaguar010a.dictu.nl
 jaguar010b.dictu.nl
 jenkins-2.devops.rvb.rijkscloud.nl
+jenkins-rgv.devops.rvb.rijkscloud.nl
 jenkins-test-2.devops.rvb.rijkscloud.nl
 jenkins-test.devops.rvb.rijkscloud.nl
 jenkins.devops.rvb.rijkscloud.nl
@@ -3500,6 +3507,11 @@ jupyter.shinyproxy.ix.rijkscloud.nl
 jupyter.sodm.rijkscloud.nl
 jupyter.test.ix.rijkscloud.nl
 jupyter.wntbzk.rijkscloud.nl
+jupyter02.p-direkt.rijkscloud.nl
+jupyter02.sodm.rijkscloud.nl
+jupyter03.sodm.rijkscloud.nl
+jupyterhub01.mintst2.rijkscloud.nl
+jupyterhub02.mintst2.rijkscloud.nl
 juristen.werkenvoornederland.nl
 justid.nl
 justis.nl
@@ -3715,6 +3727,9 @@ loadtest.test.rijkscloud.nl
 localhost.vechtstromen.nl
 localisation.test.zm.irealisatie.nl
 logging.platformrijksoverheid.nl
+login-a.rvb.rijkscloud.nl
+login-net.rvb.rijkscloud.nl
+login-oms.rvb.rijkscloud.nl
 login-uzi.proeftuin.uzi-online.irealisatie.nl
 login.aaenmaas.nl
 login.acc.mijncn.nl
@@ -5033,6 +5048,7 @@ pgadmin.analyse.ilt.rijkscloud.nl
 pgadmin.demo.ix.rijkscloud.nl
 pgadmin.dev.fib.ienw.rijkscloud.nl
 pgadmin.dgdoobi.rijkscloud.nl
+pgadmin.insp.rijkscloud.nl
 pgadmin.rapportage.rijkscloud.nl
 pgadmin.sodm.rijkscloud.nl
 pgadmin.test.ix.rijkscloud.nl
@@ -5478,6 +5494,7 @@ registry.gitlab.datascience.rijkscloud.nl
 registry.gitlab.dgdoobi.rijkscloud.nl
 registry.gitlab.docdirekt.rijkscloud.nl
 registry.gitlab.ix.rijkscloud.nl
+registry.gitlab.kim.rijkscloud.nl
 registry.gitlab.mintst1.ix.rijkscloud.nl
 registry.gitlab.rdi.rijkscloud.nl
 registry.gitlab.rvb.rijkscloud.nl
@@ -5644,6 +5661,11 @@ rstudio.sodm.rijkscloud.nl
 rstudio.test.ix.rijkscloud.nl
 rstudio.vcloud.ix.rijkscloud.nl
 rstudio.walter.rijkscloud.nl
+rstudio01.mintst2.rijkscloud.nl
+rstudio02.mintst2.rijkscloud.nl
+rstudio02.p-direkt.rijkscloud.nl
+rstudio02.sodm.rijkscloud.nl
+rstudio03.sodm.rijkscloud.nl
 rt.ndw.nu
 rte.ssc-ict.nl
 ruimte.dmo.omgevingswet.overheid.nl
@@ -5654,6 +5676,7 @@ ruimtelijkeordening.nl
 ruimtelijkeplannen.zuid-holland.nl
 ruimtevoorderivier.nl
 rut.belastingdienst.nl
+rvb.rijkscloud.nl
 rvdmschaduwdraaien.nvwa.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
@@ -5925,6 +5948,7 @@ shiny.rws.rijkscloud.nl
 shiny.secdemo.rijkscloud.nl
 shiny.test.ix.rijkscloud.nl
 shiny.walter.rijkscloud.nl
+shiny02.p-direkt.rijkscloud.nl
 shinyserver.zuid-holland.nl
 shopper.huurcommissie.nl
 siam.rvo.nl
@@ -6423,6 +6447,7 @@ test.status.cbs.nl
 test.stopheling.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
+test.thms.rijkscloud.nl
 test.uzipas.dezi.nl
 test.webservices.donorregister.nl
 test.woo.irealisatie.nl
@@ -6859,6 +6884,7 @@ vs_webdiensten.str13.tst.belastingdienst.nl
 vscode.analyse.ilt.rijkscloud.nl
 vscode.idlab.ilt.rijkscloud.nl
 vscode.ix.rijkscloud.nl
+vscode.kim.rijkscloud.nl
 vt-mijn.inburgeren.nl
 vt.inburgeren.nl
 vt.landelijkregisterkinderopvang.nl

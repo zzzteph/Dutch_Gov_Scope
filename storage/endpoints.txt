@@ -531,6 +531,8 @@ https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acceptatie.zoeken.zorgaanbiedersportaal.nl
 https://accounts.cbs.nl
+https://accounts.kim.rijkscloud.nl
+https://accounts.minszw.rijkscloud.nl
 https://accp-api.stopheling.nl
 https://accp-bp.stopheling.nl
 https://accp-dol.stopheling.nl
@@ -593,8 +595,6 @@ https://am.rijkswaterstaat.nl
 https://ambassadeursconferentie.nl
 https://ambtelijkerechtspositie.nl
 https://ams-closures.ndw.nu
-https://analytics.feni.ienw.rijkscloud.nl
-https://analytics.ienw.rijkscloud.nl
 https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
 https://animalfreeinnovationtpi.nl
@@ -939,7 +939,6 @@ https://channels.lpc.logius.nl
 https://chat-dev.rijkscloud.nl
 https://chat.datascience.rijkscloud.nl
 https://chat.ind.nl
-https://chat.ix.rijkscloud.nl
 https://chat.ncsc.nl
 https://chatapi.klopt.cibg.nl
 https://checkjeprijs.huurcommissie.nl
@@ -1076,7 +1075,6 @@ https://d2val.staging.ndw.nu
 https://dafne.ndw.nu
 https://daggegevens.knmi.nl
 https://daisi.ndw.nu
-https://dashboard.analytics.ienw.rijkscloud.nl
 https://dashboard.ikz.nl
 https://dashboardgroningen.nl
 https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl
@@ -1106,7 +1104,6 @@ https://data.staging.ndw.nu
 https://data.zuid-holland.nl
 https://databestanden.cbs.nl
 https://dataderden.cbs.nl
-https://datadrop.datafabriek.ienw.rijkscloud.nl
 https://datafusion.ndw.nu
 https://datalab.knmi.nl
 https://dataloket.zuid-holland.nl
@@ -1120,7 +1117,6 @@ https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
 https://datasluis.dictu.nl
-https://datatool.datafabriek.ienw.rijkscloud.nl
 https://datavoorgezondheid.nl
 https://datawonen.nl
 https://datumprikker.belastingdienst.nl
@@ -1768,7 +1764,6 @@ https://gitdocumentatie.logius.nl
 https://github.apps.feedfoodtransfer.nl
 https://gitlab.datascience.rijkscloud.nl
 https://gitlab.ds-ocw.rijkscloud.nl
-https://gitlab.ix.rijkscloud.nl
 https://gitlab.ritp.rijkscloud.nl
 https://gitlab.wibo.ienw.rijkscloud.nl
 https://gl.ncsc.nl
@@ -2344,7 +2339,6 @@ https://mijnwerkplek.cbg-meb.nl
 https://mijnwmo-siam.svb.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
-https://minio.datafabriek.ienw.rijkscloud.nl
 https://mirtoverzicht.nl
 https://mivp.emissieautoriteit.nl
 https://mkbstatline.cbs.nl
@@ -2437,7 +2431,6 @@ https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.dgdoobi.rijkscloud.nl
 https://nextcloud.irealisatie.nl
-https://nextcloud.ix.rijkscloud.nl
 https://nextcloud.rijkspas.rijkscloud.nl
 https://nextcloud.rvb.rijkscloud.nl
 https://ngr.acceptatie.nationaalgeoregister.nl
@@ -3061,7 +3054,6 @@ https://register.tlokb.nl
 https://registreren.ep-online.nl
 https://registry.acceptatie.istandaarden.nl
 https://registry.gitlab.datascience.rijkscloud.nl
-https://registry.gitlab.ix.rijkscloud.nl
 https://registry.gitlab.wibo.ienw.rijkscloud.nl
 https://registry.istandaarden.nl
 https://regulatoryscience.nl
@@ -3189,7 +3181,6 @@ https://securened.ncsc.nl
 https://securetest.vechtstromen.nl
 https://securetransfer.rijkscloud.nl
 https://security.ndw.nu
-https://sensu.ix.rijkscloud.nl
 https://sentry.ndw.nu
 https://server.rijksoverheidsvideo.nl
 https://service.acc.omgevingswet.overheid.nl

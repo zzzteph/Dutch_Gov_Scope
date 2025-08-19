@@ -1,7 +1,11 @@
 abibzk.rijkscloud.nl
 acceptatie-odc-noord.rijkscloud.nl
 accounts.ix.rijkscloud.nl
+accounts.kim.rijkscloud.nl
+accounts.minszw.rijkscloud.nl
+accounts.mintst2.rijkscloud.nl
 accounts.rijkscloud.nl
+analyse-pipeline.pages.gitlab.analyse.ilt.rijkscloud.nl
 analytics.feni.ienw.rijkscloud.nl
 analytics.ienw.rijkscloud.nl
 api-performance.test.ix.rijkscloud.nl
@@ -101,6 +105,7 @@ dhcp2.rw1.rijkscloud.nl
 dns.ix.rijkscloud.nl
 docs.rijkscloud.nl
 dvrvb-a.rvb.rijkscloud.nl
+dvrvb-api-a.rvb.rijkscloud.nl
 dvrvb-api-acc.rvb.rijkscloud.nl
 dvrvb-api-o.devops.rvb.rijkscloud.nl
 dvrvb-api.rvb.rijkscloud.nl
@@ -162,6 +167,7 @@ gitlab.gn2.rijkscloud.nl
 gitlab.gn3.rijkscloud.nl
 gitlab.ix.rijkscloud.nl
 gitlab.keycloak.rijkscloud.nl
+gitlab.kim.rijkscloud.nl
 gitlab.mintst1.ix.rijkscloud.nl
 gitlab.primary.rijkscloud.nl
 gitlab.prisma.rijkscloud.nl
@@ -210,6 +216,7 @@ ivi.rvb.rijkscloud.nl
 ix-mail.rijkscloud.nl
 ix.rijkscloud.nl
 jenkins-2.devops.rvb.rijkscloud.nl
+jenkins-rgv.devops.rvb.rijkscloud.nl
 jenkins-test-2.devops.rvb.rijkscloud.nl
 jenkins-test.devops.rvb.rijkscloud.nl
 jenkins.devops.rvb.rijkscloud.nl
@@ -267,6 +274,11 @@ jupyter.shinyproxy.ix.rijkscloud.nl
 jupyter.sodm.rijkscloud.nl
 jupyter.test.ix.rijkscloud.nl
 jupyter.wntbzk.rijkscloud.nl
+jupyter02.p-direkt.rijkscloud.nl
+jupyter02.sodm.rijkscloud.nl
+jupyter03.sodm.rijkscloud.nl
+jupyterhub01.mintst2.rijkscloud.nl
+jupyterhub02.mintst2.rijkscloud.nl
 kevin.devops.rvb.rijkscloud.nl
 keycloak-acc.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
@@ -303,6 +315,9 @@ lab1.rvb.rijkscloud.nl
 lam-dev.devops.rvb.rijkscloud.nl
 lb1.gn3.rijkscloud.nl
 loadtest.test.rijkscloud.nl
+login-a.rvb.rijkscloud.nl
+login-net.rvb.rijkscloud.nl
+login-oms.rvb.rijkscloud.nl
 login.rvb.rijkscloud.nl
 mail.dgdoobi.rijkscloud.nl
 mail.gn2.rijkscloud.nl
@@ -400,6 +415,7 @@ pgadmin.analyse.ilt.rijkscloud.nl
 pgadmin.demo.ix.rijkscloud.nl
 pgadmin.dev.fib.ienw.rijkscloud.nl
 pgadmin.dgdoobi.rijkscloud.nl
+pgadmin.insp.rijkscloud.nl
 pgadmin.rapportage.rijkscloud.nl
 pgadmin.sodm.rijkscloud.nl
 pgadmin.test.ix.rijkscloud.nl
@@ -457,6 +473,7 @@ registry.gitlab.datascience.rijkscloud.nl
 registry.gitlab.dgdoobi.rijkscloud.nl
 registry.gitlab.docdirekt.rijkscloud.nl
 registry.gitlab.ix.rijkscloud.nl
+registry.gitlab.kim.rijkscloud.nl
 registry.gitlab.mintst1.ix.rijkscloud.nl
 registry.gitlab.rdi.rijkscloud.nl
 registry.gitlab.rvb.rijkscloud.nl
@@ -538,6 +555,12 @@ rstudio.sodm.rijkscloud.nl
 rstudio.test.ix.rijkscloud.nl
 rstudio.vcloud.ix.rijkscloud.nl
 rstudio.walter.rijkscloud.nl
+rstudio01.mintst2.rijkscloud.nl
+rstudio02.mintst2.rijkscloud.nl
+rstudio02.p-direkt.rijkscloud.nl
+rstudio02.sodm.rijkscloud.nl
+rstudio03.sodm.rijkscloud.nl
+rvb.rijkscloud.nl
 rvp-beheer-demo.devops.rvb.rijkscloud.nl
 rvp-demo.devops.rvb.rijkscloud.nl
 rw1.rijkscloud.nl
@@ -576,6 +599,7 @@ shiny.rws.rijkscloud.nl
 shiny.secdemo.rijkscloud.nl
 shiny.test.ix.rijkscloud.nl
 shiny.walter.rijkscloud.nl
+shiny02.p-direkt.rijkscloud.nl
 smtp03.rijkscloud.nl
 smtp04.rijkscloud.nl
 smtp1.rvb.rijkscloud.nl
@@ -608,6 +632,7 @@ superset.dgdoobi.rijkscloud.nl
 synapse.rijkscloud.nl
 tenantapp.ec.rijkscloud.nl
 test.rapportage.rijkscloud.nl
+test.thms.rijkscloud.nl
 testapi.ix.rijkscloud.nl
 testapp.devops.rvb.rijkscloud.nl
 testhf.gn2.rijkscloud.nl
@@ -642,6 +667,7 @@ vpn2.ec.rijkscloud.nl
 vscode.analyse.ilt.rijkscloud.nl
 vscode.idlab.ilt.rijkscloud.nl
 vscode.ix.rijkscloud.nl
+vscode.kim.rijkscloud.nl
 webmail.rijkscloud.nl
 webmail.rsj.rijkscloud.nl
 whatsip.test.ix.rijkscloud.nl

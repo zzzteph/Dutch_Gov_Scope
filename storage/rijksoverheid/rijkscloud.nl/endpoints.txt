@@ -1,13 +1,11 @@
 http://matrix.ix.rijkscloud.nl
-https://analytics.feni.ienw.rijkscloud.nl
-https://analytics.ienw.rijkscloud.nl
+https://accounts.kim.rijkscloud.nl
+https://accounts.minszw.rijkscloud.nl
 https://api.cursus.rijkscloud.nl
 https://api.dbe-t.rvb.rijkscloud.nl
 https://api.ix.rijkscloud.nl
 https://chat-dev.rijkscloud.nl
 https://chat.datascience.rijkscloud.nl
-https://chat.ix.rijkscloud.nl
-https://dashboard.analytics.ienw.rijkscloud.nl
 https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl
 https://dashboards-private.ilt.rijkscloud.nl
 https://dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl
@@ -18,8 +16,6 @@ https://dashboards.ilt.rijkscloud.nl
 https://dashboards.ipi.rijkscloud.nl
 https://dashboards.rdi.rijkscloud.nl
 https://dashboards.test.analyse.ilt.rijkscloud.nl
-https://datadrop.datafabriek.ienw.rijkscloud.nl
-https://datatool.datafabriek.ienw.rijkscloud.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://git-dev.rijkscloud.nl
@@ -28,7 +24,6 @@ https://git.dictu.rijkscloud.nl
 https://git.iaas.rijkscloud.nl
 https://gitlab.datascience.rijkscloud.nl
 https://gitlab.ds-ocw.rijkscloud.nl
-https://gitlab.ix.rijkscloud.nl
 https://gitlab.ritp.rijkscloud.nl
 https://gitlab.wibo.ienw.rijkscloud.nl
 https://gn2.meet.rijkscloud.nl
@@ -63,11 +58,9 @@ https://keycloak.test.analyse.ilt.rijkscloud.nl
 https://mail.dgdoobi.rijkscloud.nl
 https://mail.rijkscloud.nl
 https://meet.rijkscloud.nl
-https://minio.datafabriek.ienw.rijkscloud.nl
 https://nc-a.rvb.rijkscloud.nl
 https://nc.rivm.rijkscloud.nl
 https://nextcloud.dgdoobi.rijkscloud.nl
-https://nextcloud.ix.rijkscloud.nl
 https://nextcloud.rijkspas.rijkscloud.nl
 https://nextcloud.rvb.rijkscloud.nl
 https://noorddrive.rijkscloud.nl
@@ -85,7 +78,6 @@ https://projects.pages.ds-ocw.rijkscloud.nl
 https://pw.rvb.rijkscloud.nl
 https://rb.rvb.rijkscloud.nl
 https://registry.gitlab.datascience.rijkscloud.nl
-https://registry.gitlab.ix.rijkscloud.nl
 https://registry.gitlab.wibo.ienw.rijkscloud.nl
 https://rijkscloud.nl
 https://rob-2000.rijkscloud.nl
@@ -107,7 +99,6 @@ https://rstudio.kim.rijkscloud.nl
 https://rstudio.rdi.rijkscloud.nl
 https://rstudio.ritp.rijkscloud.nl
 https://securetransfer.rijkscloud.nl
-https://sensu.ix.rijkscloud.nl
 https://shiny.cursus.rijkscloud.nl
 https://shiny.datalab-2.ocw.rijkscloud.nl
 https://shiny.hr-ienw.rijkscloud.nl
