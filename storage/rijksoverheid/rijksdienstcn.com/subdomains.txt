@@ -12,7 +12,6 @@ autodiscover.rijksdienstcn.com
 bon.rijksdienstcn.com
 english.rijksdienstcn.com
 feeds.english.rijksdienstcn.com
-feeds.papiamentu.rijksdienstcn.com
 feeds.rijksdienstcn.com
 fileshare.rijksdienstcn.com
 fs.rijksdienstcn.com
@@ -20,7 +19,6 @@ legacy.rijksdienstcn.com
 mail.rijksdienstcn.com
 mobile.rijksdienstcn.com
 opendata.english.rijksdienstcn.com
-opendata.papiamentu.rijksdienstcn.com
 opendata.rijksdienstcn.com
 papiamentu.rijksdienstcn.com
 portal.rijksdienstcn.com

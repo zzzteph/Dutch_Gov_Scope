@@ -189,8 +189,6 @@ meldingen
 prd
 rdgateway
 smtp1
-feeds.papiamentu
-opendata.papiamentu
 afspraken
 appstore
 artifact-fibt1
@@ -410,6 +408,8 @@ feature-demo-root.dev
 feature-ease-installer.dev
 wadsup
 asycuda
+feeds.papiamentu
+opendata.papiamentu
 abat.acc
 abo.digilevering
 abr.acc
