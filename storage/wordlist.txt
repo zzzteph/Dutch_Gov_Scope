@@ -10,11 +10,11 @@ mail
 autodiscover
 test
 acc
-feeds.english
 magazines
 _autodiscover._tcp
-opendata.english
+feeds.english
 mijn
+opendata.english
 intranet
 acceptatie
 webmail

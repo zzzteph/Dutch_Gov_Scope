@@ -6,7 +6,6 @@ download.mail.scp.nl
 dwo.scp.nl
 english.scp.nl
 externemail.scp.nl
-feeds.english.scp.nl
 feeds.scp.nl
 intranet.scp.nl
 login.scp.nl
@@ -16,7 +15,6 @@ mailhost.scp.nl
 mam.scp.nl
 ns1.scp.nl
 ns2.scp.nl
-opendata.english.scp.nl
 opendata.scp.nl
 repository.scp.nl
 scp.nl

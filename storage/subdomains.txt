@@ -2514,7 +2514,6 @@ feeds.english.onderwijsinspectie.nl
 feeds.english.p-direkt.nl
 feeds.english.rekenkamer.nl
 feeds.english.rijksdienstcn.com
-feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.vrachtwagenheffing.nl
 feeds.english.wrr.nl
@@ -4750,7 +4749,6 @@ opendata.english.onderwijsinspectie.nl
 opendata.english.p-direkt.nl
 opendata.english.rekenkamer.nl
 opendata.english.rijksdienstcn.com
-opendata.english.scp.nl
 opendata.english.vrachtwagenheffing.nl
 opendata.english.wrr.nl
 opendata.fmhaaglanden.nl
