@@ -3194,6 +3194,7 @@ id.brabant.nl
 id.flevoland.nl
 id.limburg.nl
 idapps.npr.idm.rvig.nl
+idbs-esp.npr.idm.rvig.nl
 idbs.idm.rvig.nl
 idbs.npr.idm.rvig.nl
 ideal20-cnf.belastingdienst.nl
@@ -3727,6 +3728,7 @@ localhost.vechtstromen.nl
 localisation.test.zm.irealisatie.nl
 logging.platformrijksoverheid.nl
 login-a.rvb.rijkscloud.nl
+login-esp.npr.idm.rvig.nl
 login-net.rvb.rijkscloud.nl
 login-oms.rvb.rijkscloud.nl
 login-uzi.proeftuin.uzi-online.irealisatie.nl

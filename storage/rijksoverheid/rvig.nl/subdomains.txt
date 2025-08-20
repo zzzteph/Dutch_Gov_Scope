@@ -8,12 +8,14 @@ api.reis.idm.rvig.nl
 apigw.brp.lap.idm.rvig.nl
 developer.rvig.nl
 idapps.npr.idm.rvig.nl
+idbs-esp.npr.idm.rvig.nl
 idbs.idm.rvig.nl
 idbs.npr.idm.rvig.nl
 idm.rvig.nl
 intranet.rvig.nl
 lap.api.reis.npr.idm.rvig.nl
 lap.rvp.reis.npr.idm.rvig.nl
+login-esp.npr.idm.rvig.nl
 login.idm.rvig.nl
 login.npr.idm.rvig.nl
 mail.tmv-lap.rvig.nl

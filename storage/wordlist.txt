@@ -4536,11 +4536,13 @@ agw.lap.idm
 api.reis.idm
 apigw.brp.lap.idm
 idapps.npr.idm
+idbs-esp.npr.idm
 idbs.idm
 idbs.npr.idm
 idm
 lap.api.reis.npr.idm
 lap.rvp.reis.npr.idm
+login-esp.npr.idm
 login.idm
 login.npr.idm
 mail.tmv-lap
