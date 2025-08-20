@@ -8,8 +8,8 @@ http://english-data.rvo.nl
 http://ezines.rvo.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
+http://intra-acc.rvo.nl
 http://prod.rvo.nl
-http://rhel-np-mijn.rvo.nl
 http://test-english.rvo.nl
 http://test-website.rvo.nl
 http://trade.rvo.nl
@@ -51,7 +51,6 @@ https://iam.mijnoctrooi.mypage.rvo.nl
 https://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
-https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
@@ -79,7 +78,6 @@ https://projecten.rvo.nl
 https://projects-acc.rvo.nl
 https://projects-tst.rvo.nl
 https://projects.rvo.nl
-https://rhel-p-mijn.rvo.nl
 https://rvo.nl
 https://sharingknowledge.rvo.nl
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl

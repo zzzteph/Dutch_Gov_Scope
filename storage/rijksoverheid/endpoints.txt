@@ -166,6 +166,7 @@ http://iltbuildserver.dictu.nl
 http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
 http://int-prod-01.flevoland.nl
+http://intra-acc.rvo.nl
 http://intranet.ctgb.nl
 http://jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
@@ -255,7 +256,6 @@ http://raadplegen-preprod.sbv-z.nl
 http://ref.omgevingswet.overheid.nl
 http://release.isis-web.nl
 http://reserved-cesar-db.knmi.nl
-http://rhel-np-mijn.rvo.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -1939,7 +1939,6 @@ https://internationaal.ondernemen.overheid.nl
 https://internetdienstensiam.svb.nl
 https://interventiedatabase.nl
 https://intpatch.omgevingswet.overheid.nl
-https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
@@ -3080,7 +3079,6 @@ https://resolver.pre.omgevingswet.overheid.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://rgs.cbs.nl
-https://rhel-p-mijn.rvo.nl
 https://rhel8.wabinfo.rijkswaterstaat.nl
 https://riec.nl
 https://rijksbredekennisagenda.nl
