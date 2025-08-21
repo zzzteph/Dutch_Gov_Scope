@@ -4812,6 +4812,7 @@ deployer
 ds.acc
 dwrt2
 dwrt3
+dwrt4
 ekvvpn
 plekchecker-auth
 rte
