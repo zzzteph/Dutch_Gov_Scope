@@ -10,8 +10,8 @@ mail
 autodiscover
 test
 acc
-magazines
 _autodiscover._tcp
+magazines
 feeds.english
 mijn
 opendata.english
