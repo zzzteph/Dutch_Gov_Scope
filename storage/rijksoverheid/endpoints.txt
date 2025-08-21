@@ -8,7 +8,6 @@ http://acc-staten.zuid-holland.nl
 http://acc-website.rvo.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
-http://acc.gps-sa.sso3w.nl
 http://acc.irealisatie.nl
 http://acc.mgo.irealisatie.nl
 http://acc.woo.irealisatie.nl
@@ -435,6 +434,7 @@ https://acc.eva.logius.nl
 https://acc.expenses.sso3w.nl
 https://acc.fhub.dictu.nl
 https://acc.gisextern.dictu.nl
+https://acc.gps-sa.sso3w.nl
 https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieresultaten.nvwa.nl
