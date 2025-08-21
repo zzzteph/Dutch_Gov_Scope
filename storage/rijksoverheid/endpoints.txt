@@ -3018,8 +3018,8 @@ https://rdsa.knmi.nl
 https://rdsapplications00.svb.nl
 https://rdsapplications01.svb.nl
 https://rdsapplications02.svb.nl
-https://rdsapplications03.svb.nl
 https://rdsapplications04.svb.nl
+https://rdsapplications06.svb.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
 https://rechtsbijstand.nl
@@ -3056,6 +3056,7 @@ https://reistijdtrajecten.ndw.nu
 https://rekenhulptransitievergoeding.nl
 https://rekenkamer.nl
 https://remote.flevoland.nl
+https://remotedesktop.svb.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
 https://repository-acc.officiele-overheidspublicaties.nl
