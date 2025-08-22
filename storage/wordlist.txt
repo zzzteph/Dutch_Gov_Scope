@@ -164,6 +164,7 @@ site2
 site3
 site4
 t-www
+auth
 jira
 mailing
 connect-acpt
@@ -266,7 +267,6 @@ t-site1
 deutsch
 feeds.deutsch
 opendata.deutsch
-auth
 dns1
 dns2
 gitlab
