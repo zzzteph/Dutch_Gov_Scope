@@ -28,16 +28,19 @@ http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
 http://adc.cbs.nl
 http://adc4.cbs.nl
 http://addressing.test.zm.irealisatie.nl
+http://admin.openstad.zuid-holland.nl
 http://ag-dcr.cibg.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
+http://api.openstad.zuid-holland.nl
 http://apikey-preprod.ep-online.nl
 http://appl.rdi.nl
 http://archief.zuid-holland.nl
 http://atlas-acpt.brabant.nl
+http://auth.openstad.zuid-holland.nl
 http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
 http://authpms-acc.dictu.nl
@@ -82,6 +85,7 @@ http://coalitieakkoord.zuid-holland.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://crm.nza.nl
+http://css.openstad.zuid-holland.nl
 http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
 http://dc.ssc-ict.nl
@@ -162,6 +166,7 @@ http://ic-desk-functions.zuid-holland.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
 http://iltbuildserver.dictu.nl
+http://img.openstad.zuid-holland.nl
 http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
 http://int-prod-01.flevoland.nl
@@ -230,6 +235,7 @@ http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oogop.zuid-holland.nl
 http://oosweb.cbs.nl
 http://opendata.papiamento.two-acs.com
+http://openstad.zuid-holland.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
@@ -272,6 +278,7 @@ http://seg.cbs.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://shinyserver.zuid-holland.nl
+http://sis.zuid-holland.nl
 http://slechtvalk.brabant.nl
 http://slimmebruggen-backend.zuid-holland.nl
 http://slimmebruggen.zuid-holland.nl
@@ -336,6 +343,7 @@ http://www.biociden.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
 http://www.entreepgb.svb.nl
+http://www.openstad.zuid-holland.nl
 http://www.rivmmagazines.nl
 http://www.slimmerreizen.zuid-holland.nl
 http://www.toezichtresultaten.nl
@@ -548,7 +556,6 @@ https://adc7.cbs.nl
 https://adfs.flevoland.nl
 https://adfs.vallei-veluwe.nl
 https://admin.denkmee.zuid-holland.nl
-https://admin.openstad.zuid-holland.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adobe-analytics-dc.douane.nl
 https://adobe-analytics-dc.toeslagen.nl
@@ -632,7 +639,6 @@ https://api.mijn.test.ncsc.nl
 https://api.ncsc.nl
 https://api.nederlandwereldwijd.nl
 https://api.ondernemersplein.overheid.nl
-https://api.openstad.zuid-holland.nl
 https://api.p-direkt.nl
 https://api.preprod.mijn.overheid.nl
 https://api.rdi.nl
@@ -695,7 +701,6 @@ https://auth-iam.mijnoctrooi.mypage.rvo.nl
 https://auth.denkmee.zuid-holland.nl
 https://auth.dictu.nl
 https://auth.ndw.nu
-https://auth.openstad.zuid-holland.nl
 https://auth.services.cultureelerfgoed.nl
 https://auth20.dictu.nl
 https://autodiscover.awti.nl
@@ -1055,7 +1060,6 @@ https://csoacct.werkenvoornederland.nl
 https://csotest.functiegebouwrijksoverheid.nl
 https://csotest.ikwerkvoornederland.nl
 https://csotest.werkenvoornederland.nl
-https://css.openstad.zuid-holland.nl
 https://cta.rvo.nl
 https://ctgb.nl
 https://ctivd.nl
@@ -1872,7 +1876,6 @@ https://ikz.nl
 https://ilent.nl
 https://images.analyse.ilt.rijkscloud.nl
 https://img.denkmee.zuid-holland.nl
-https://img.openstad.zuid-holland.nl
 https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://inbeeld.zuid-holland.nl
@@ -2758,7 +2761,6 @@ https://opendata3.platformrijksoverheid.nl
 https://opendata4.platformrijksoverheid.nl
 https://opendisdata.nza.nl
 https://openkat.nl
-https://openstad.zuid-holland.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -4150,7 +4152,6 @@ https://www.oostvaarderskliniek.nl
 https://www.open-overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openkat.nl
-https://www.openstad.zuid-holland.nl
 https://www.oprijk.nl
 https://www.opwegnaarseb.nl
 https://www.ordz.nl
