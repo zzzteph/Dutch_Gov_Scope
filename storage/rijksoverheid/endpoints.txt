@@ -288,7 +288,6 @@ http://styleguide.cibg.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://technische-documentatie.oep.overheid.nl
-http://test-bron.waterschaplimburg.nl
 http://test-cms-eef.waterschaplimburg.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
@@ -3380,6 +3379,7 @@ https://tea.bigregister.nl
 https://techniekacademie.rijkswaterstaat.nl
 https://test-api.stopheling.nl
 https://test-bp.stopheling.nl
+https://test-bron.waterschaplimburg.nl
 https://test-cms-bron.waterschaplimburg.nl
 https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
