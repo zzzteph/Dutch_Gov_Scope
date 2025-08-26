@@ -472,6 +472,7 @@ b2bftptest
 b2bsftp
 backend.socint.acc
 backend.socint
+bapicft
 bat
 bat.ont
 bdmz-reth473

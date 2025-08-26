@@ -137,7 +137,6 @@ http://feeds.english.sso3w.nl
 http://fmeserver.zuid-holland.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.zuid-holland.nl
-http://fsvportaal.belastingdienst.nl
 http://ftp.ofgv.nl
 http://ftp.schoolleidersregisterpo.nl
 http://gatus.lpc.logius.nl
@@ -284,6 +283,7 @@ http://slimmebruggen-backend.zuid-holland.nl
 http://slimmebruggen.zuid-holland.nl
 http://slimmerreizen.zuid-holland.nl
 http://sonarqube.lpc.logius.nl
+http://sorry.belastingdienst.nl
 http://specials.brabant.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
@@ -336,6 +336,7 @@ http://web.proeftuin.gf.irealisatie.nl
 http://webmail.knmi.nl
 http://webmail.werkenvoornederland.nl
 http://webtooling.irealisatie.nl
+http://werkenbij.belastingdienst.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.bacterial-meningitis.nl
 http://www.bevolkingsonderzoek.nl
@@ -347,6 +348,8 @@ http://www.openstad.zuid-holland.nl
 http://www.rivmmagazines.nl
 http://www.slimmerreizen.zuid-holland.nl
 http://www.toezichtresultaten.nl
+http://wwwfcinetorg.belastingdienst.nl
+http://wwwrijksacademienl.belastingdienst.nl
 http://zoekdienst-preprod.overheid.nl
 http://zoeken.hdsr.nl
 http://zonnewijzer.zuid-holland.nl
@@ -1685,6 +1688,7 @@ https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
 https://fs.rijksdienstcn.com
+https://fsvportaal.belastingdienst.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.dji.nl
 https://ftp.oostvaarderskliniek.nl
@@ -3475,7 +3479,7 @@ https://toepasbare-regels.omgevingswet.overheid.nl
 https://toepasbare-regels.pre.omgevingswet.overheid.nl
 https://toeslagen.nl
 https://toestemming-acc.belastingdienst.nl
-https://toestemming-burger.belastingdienst.nl
+https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
 https://toetredingzorgaanbieders.nl
@@ -3626,6 +3630,7 @@ https://vri-admin.ndw.nu
 https://vrijstellingmelden.vrachtwagenheffing.nl
 https://vt.landelijkregisterkinderopvang.nl
 https://vts.belastingdienst.nl
+https://vtsd.belastingdienst.nl
 https://vulnerabilities.acc.ncsc.nl
 https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
@@ -3691,7 +3696,6 @@ https://werken.belastingdienst.nl
 https://werken.douane.nl
 https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
-https://werkenbij.belastingdienst.nl
 https://werkenbij.douane.nl
 https://werkenbij.justid.nl
 https://werkenbij.rijkswaterstaat.nl
@@ -4301,7 +4305,6 @@ https://www.zuid-holland.nl
 https://www1.cbs.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
-https://wwwrijksacademienl.belastingdienst.nl
 https://xdev.staging.ndw.nu
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl

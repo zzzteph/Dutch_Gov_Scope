@@ -1,9 +1,12 @@
-http://fsvportaal.belastingdienst.nl
 http://pwa001.belastingdienst.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
+http://sorry.belastingdienst.nl
+http://werkenbij.belastingdienst.nl
+http://wwwfcinetorg.belastingdienst.nl
+http://wwwrijksacademienl.belastingdienst.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
 https://adobe-analytics-dc.belastingdienst.nl
@@ -37,6 +40,7 @@ https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
+https://fsvportaal.belastingdienst.nl
 https://gegevensportaal.belastingdienst.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
@@ -80,7 +84,7 @@ https://sadp.belastingdienst.nl
 https://scheiden.belastingdienst.nl
 https://services.belastingdienst.nl
 https://toestemming-acc.belastingdienst.nl
-https://toestemming-burger.belastingdienst.nl
+https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
@@ -89,10 +93,9 @@ https://vepvod.vcdn.belastingdienst.nl
 https://videobellen.belastingdienst.nl
 https://vinden.belastingdienst.nl
 https://vts.belastingdienst.nl
+https://vtsd.belastingdienst.nl
 https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://website.belastingdienst.nl
 https://werken.belastingdienst.nl
-https://werkenbij.belastingdienst.nl
 https://www.werken.belastingdienst.nl
-https://wwwrijksacademienl.belastingdienst.nl
