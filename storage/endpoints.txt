@@ -166,7 +166,6 @@ http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
 http://iltbuildserver.dictu.nl
 http://img.openstad.zuid-holland.nl
-http://informatie-rws.brabant.nl
 http://inkopers.werkenvoornederland.nl
 http://int-prod-01.flevoland.nl
 http://intra-acc.rvo.nl
@@ -278,7 +277,6 @@ http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://shinyserver.zuid-holland.nl
 http://sis.zuid-holland.nl
-http://slechtvalk.brabant.nl
 http://slimmebruggen-backend.zuid-holland.nl
 http://slimmebruggen.zuid-holland.nl
 http://slimmerreizen.zuid-holland.nl
@@ -312,7 +310,6 @@ http://test3.isis-web.nl
 http://testconn.knmi.nl
 http://timeline.test.zm.irealisatie.nl
 http://toetsingonline.ccmo.nl
-http://torenvalk.brabant.nl
 http://trade.rvo.nl
 http://tst.subsidie.cultureelerfgoed.nl
 http://tws-esb.rijkswaterstaat.nl
@@ -840,6 +837,7 @@ https://bkk.odmh.nl
 https://blaeudamo-a.vechtstromen.nl
 https://blaise.cbs.nl
 https://blaisesupport.cbs.nl
+https://blog.brabant.nl
 https://blogs.brabant.nl
 https://bmm2016.rijkswaterstaat.nl
 https://bodemambities.nl
@@ -1412,7 +1410,6 @@ https://extern.formulierdus-i.nl
 https://extranet.onderwijsraad.nl
 https://extreemrechts.nctv.nl
 https://f2b.belastingdienst.nl
-https://facilitor.brabant.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://faq.ndw.nu
 https://farmacotherapeutischkompas.nl
@@ -2036,9 +2033,7 @@ https://justitieconnect.nl
 https://justitieleictorganisatie.nl
 https://jv.nza.nl
 https://kaart.flevoland.nl
-https://kaartbank.brabant.nl
 https://kaarten-demo.overheid.nl
-https://kaarten.brabant.nl
 https://kaarten.datawonen.nl
 https://kaarten.hdsr.nl
 https://kaarten.odmh.nl
@@ -2563,7 +2558,6 @@ https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.belastingdienst-cn.nl
 https://opendata.bigregister.nl
 https://opendata.binnenhofrenovatie.nl
-https://opendata.brabant.nl
 https://opendata.bureauncdr.nl
 https://opendata.cabinetspecialenvoy.com
 https://opendata.campagnetoolkits.nl
@@ -3149,7 +3143,6 @@ https://s4p.brabant.nl
 https://sa.belastingdienst.nl
 https://sadp.belastingdienst.nl
 https://samenveiligwerken.hhdelfland.nl
-https://samenwerken.brabant.nl
 https://samenwerken.zorginstituutnederland.nl
 https://samenwerkingrijknoord.nl
 https://sandbox.functiegebouwrijksoverheid.nl

@@ -221,6 +221,7 @@ acceptatie.zoeken
 behandel
 acs
 beeldbank-bo
+blog
 dataportaal
 georegister
 nieuws
@@ -3705,7 +3706,6 @@ apps.jvs.ix
 apps.jvs1.lgs
 auth.jitsi
 bbapitest.ix
-blog
 bob-art.cvr.rvb
 bob-art.devops.rvb
 bob-demo.cvr.rvb
