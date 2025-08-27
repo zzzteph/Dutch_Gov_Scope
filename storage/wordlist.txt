@@ -1272,7 +1272,7 @@ web.test
 acc-v2
 broker-preprod
 demo
-dev
+demo2
 doc-acc
 pre
 sad
@@ -1282,6 +1282,8 @@ sso-acc2
 sso-demo
 sso-demo2
 sso-dev
+sso-test-tno
+test-tno
 uptime
 www.zoekeentolkvertaler
 zoekeentolkvertaler
