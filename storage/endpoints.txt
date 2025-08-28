@@ -301,7 +301,6 @@ http://test-machtigen.digipoort.logius.nl
 http://test-website.rvo.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.bestandenpostbus.nl
-http://test.digikoppeling.cibg.nl
 http://test.dpr.irealisatie.nl
 http://test.dusi.irealisatie.nl
 http://test.loketgezondleven.nl
@@ -2984,6 +2983,7 @@ https://publicaties.brabant.nl
 https://publicaties.mensenrechten.nl
 https://publicaties.odmh.nl
 https://publicaties.rvig.nl
+https://publicwebservices.cibg.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl

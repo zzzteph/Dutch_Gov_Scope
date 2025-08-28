@@ -3,7 +3,6 @@ http://ag-dcr.cibg.nl
 http://publicwebservices-dcr.cibg.nl
 http://stijlgids.cibg.nl
 http://styleguide.cibg.nl
-http://test.digikoppeling.cibg.nl
 https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
@@ -41,6 +40,7 @@ https://meldingen.klopt.cibg.nl
 https://opendata.cibg.nl
 https://portaal.competent.cibg.nl
 https://prototype.cibg.nl
+https://publicwebservices.cibg.nl
 https://survey.cibg.nl
 https://tmv.cibg.nl
 https://uzipas.lir.cibg.nl
