@@ -10,6 +10,7 @@ adc2.cbs.nl
 adc3.cbs.nl
 adc4.cbs.nl
 adc5.cbs.nl
+adc6.cbs.nl
 adc7.cbs.nl
 afasmail.cbs.nl
 afspraken.cbs.nl
@@ -26,6 +27,7 @@ beo.cbs.nl
 bestandslevering.cbs.nl
 beta-dataportal.cbs.nl
 beta-iv3-controle.cbs.nl
+beta-odata4.cbs.nl
 beta.cbs.nl
 beta.opendata.cbs.nl
 betalinkeddata.cbs.nl
@@ -159,6 +161,7 @@ sdmx.cbs.nl
 seg.cbs.nl
 sftp.cbs.nl
 sftp.test.cbs.nl
+sftp4dummies.cbs.nl
 smartsurveys.cbs.nl
 ssh.cbs.nl
 statline.cbs.nl

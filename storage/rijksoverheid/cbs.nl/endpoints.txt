@@ -1,6 +1,7 @@
 http://adc.cbs.nl
 http://adc4.cbs.nl
 http://beta-dataportal.cbs.nl
+http://beta-odata4.cbs.nl
 http://mail.dev.cbs.nl
 http://mijn-api.cbs.nl
 http://odata4.cbs.nl
@@ -24,7 +25,6 @@ https://beh-iam.acceptatie.cbs.nl
 https://beo.cbs.nl
 https://bestandslevering.cbs.nl
 https://beta-iv3-controle.cbs.nl
-https://beta.cbs.nl
 https://betaopendata.cbs.nl
 https://blaise.cbs.nl
 https://blaisesupport.cbs.nl

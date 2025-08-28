@@ -1315,6 +1315,7 @@ adc2
 adc3
 adc4
 adc5
+adc6
 adc7
 afasmail
 amunet
@@ -1328,6 +1329,7 @@ beo
 bestandslevering
 beta-dataportal
 beta-iv3-controle
+beta-odata4
 beta.opendata
 betalinkeddata
 betaopendata
@@ -1438,6 +1440,7 @@ sdmx
 seg
 sftp
 sftp.test
+sftp4dummies
 smartsurveys
 ssh
 statline

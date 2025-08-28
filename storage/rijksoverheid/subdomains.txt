@@ -640,6 +640,7 @@ adc2.cbs.nl
 adc3.cbs.nl
 adc4.cbs.nl
 adc5.cbs.nl
+adc6.cbs.nl
 adc7.cbs.nl
 addressing.test.zm.irealisatie.nl
 adfs.flevoland.nl
@@ -1175,6 +1176,7 @@ bestandslevering.cbs.nl
 bestandsportaal.cibg.nl
 beta-dataportal.cbs.nl
 beta-iv3-controle.cbs.nl
+beta-odata4.cbs.nl
 beta.belastingdienst.nl
 beta.cbs.nl
 beta.opendata.cbs.nl
@@ -5911,6 +5913,7 @@ sfs.dictu.nl
 sftp-out.brba.nl
 sftp.cbs.nl
 sftp.test.cbs.nl
+sftp4dummies.cbs.nl
 share.cvte.nl
 shared-services.ndw.nu
 shared-services.staging.ndw.nu

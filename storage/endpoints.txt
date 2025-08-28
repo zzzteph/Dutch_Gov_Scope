@@ -63,6 +63,7 @@ http://autodiscover.vechtstromen.nl
 http://bacterial-meningitis.nl
 http://beheermlo.zuid-holland.nl
 http://beta-dataportal.cbs.nl
+http://beta-odata4.cbs.nl
 http://bevolkingsonderzoek.nl
 http://bibliotheek.gezondeleefomgeving.nl
 http://bpa.rvo.nl
@@ -808,7 +809,6 @@ https://bestandslevering.cbs.nl
 https://bestandsportaal.cibg.nl
 https://beta-iv3-controle.cbs.nl
 https://beta.belastingdienst.nl
-https://beta.cbs.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
 https://betalen.schoolleidersregisterpo.nl
