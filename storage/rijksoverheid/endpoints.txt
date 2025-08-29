@@ -10,6 +10,7 @@ http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://acc.irealisatie.nl
 http://acc.mgo.irealisatie.nl
+http://acc.subsidie.cultureelerfgoed.nl
 http://acc.woo.irealisatie.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
@@ -311,7 +312,6 @@ http://testconn.knmi.nl
 http://timeline.test.zm.irealisatie.nl
 http://toetsingonline.ccmo.nl
 http://trade.rvo.nl
-http://tst.subsidie.cultureelerfgoed.nl
 http://tws-esb.rijkswaterstaat.nl
 http://uffprod25.waterschaplimburg.nl
 http://ufftest25.waterschaplimburg.nl
@@ -464,7 +464,6 @@ https://acc.rvo.nl
 https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
-https://acc.subsidie.cultureelerfgoed.nl
 https://acc.wegwijzer.overheid.nl
 https://acc.zorginzicht.nl
 https://acc2.bronhouderportaal-bro.nl
@@ -1118,6 +1117,7 @@ https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
 https://datasluis.dictu.nl
+https://datastories.cultureelerfgoed.nl
 https://datavoorgezondheid.nl
 https://datawonen.nl
 https://datumprikker.belastingdienst.nl
@@ -3502,6 +3502,7 @@ https://ts.onderwijsraad.nl
 https://tst-referentiegegevens.justid.nl
 https://tst.mercurius.sso3w.nl
 https://tst.opendata.nederlandwereldwijd.nl
+https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtcollege-gezondheidszorg.nl
 https://tuchtrecht-acc.overheid.nl

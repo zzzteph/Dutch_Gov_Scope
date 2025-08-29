@@ -1604,6 +1604,7 @@ archisarchief
 auth.services
 catalogus
 data.geo
+datastories
 erfgoedmonitor
 faro
 foto-opdracht
