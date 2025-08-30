@@ -44,7 +44,6 @@ http://atlas-acpt.brabant.nl
 http://auth.openstad.zuid-holland.nl
 http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
-http://authpms-acc.dictu.nl
 http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.contactpuntbouwproducten.nl
@@ -700,6 +699,7 @@ https://auth.dictu.nl
 https://auth.ndw.nu
 https://auth.services.cultureelerfgoed.nl
 https://auth20.dictu.nl
+https://authpms-acc.dictu.nl
 https://autodiscover.awti.nl
 https://autodiscover.cvte.nl
 https://autodiscover.huisvoorklokkenluiders.nl
