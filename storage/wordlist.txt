@@ -276,8 +276,6 @@ lync
 mail01
 servicedesk
 dnadatabank
-feeds.dnadatabank
-opendata.dnadatabank
 ras
 acceptatie.raadplegen
 raadplegen
@@ -2100,8 +2098,10 @@ www.jaarverslag2018
 www.omgevingsplan
 www.risicokaart
 dnajaarverslag2011
+feeds.dnadatabank
 jaarverslag2011
 mijnacademy
+opendata.dnadatabank
 co
 portal2
 portalco
