@@ -510,6 +510,7 @@ acceptatie.applicationframework.cibg.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.auth.dezi.nl
+acceptatie.authlab.dezi.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
@@ -582,6 +583,7 @@ acceptatie.sportenbewegenincijfers.nl
 acceptatie.tea.bigregister.nl
 acceptatie.tmv.cibg.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
+acceptatie.uzipas.auth.dezi.nl
 acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
@@ -948,6 +950,7 @@ auth20.dictu.nl
 authenticatie-acc.inspectieview.nl
 authenticatie.inspectieview.nl
 authenticatie.svb.nl
+authlab.dezi.nl
 authpms-acc.dictu.nl
 authpms.dictu.nl
 autodiscover.aaenmaas.nl
@@ -4659,6 +4662,7 @@ ontwikkel.atlasleefomgeving.nl
 ontwikkel.atlasnatuurlijkkapitaal.nl
 ontwikkel.auth.dezi.nl
 ontwikkel.cbs.nl
+ontwikkel.uzipas.auth.dezi.nl
 ontwikkel.uzipas.dezi.nl
 oogop.zuid-holland.nl
 oordelen.mensenrechten.nl
@@ -6463,6 +6467,7 @@ test.stopheling.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
 test.thms.rijkscloud.nl
+test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
 test.webservices.donorregister.nl
 test.woo.irealisatie.nl

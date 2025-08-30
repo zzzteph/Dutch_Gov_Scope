@@ -1665,9 +1665,14 @@ dp2025
 dp2026
 acceptatie.abonnee
 acceptatie.auth
+acceptatie.authlab
+acceptatie.uzipas.auth
+authlab
 ontwikkel.auth
+ontwikkel.uzipas.auth
 ontwikkel.uzipas
 test.auth
+test.uzipas.auth
 test.uzipas
 ACC-NL-DICTU-NHR-Sign
 ACC.RD
