@@ -37,7 +37,6 @@ http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
 http://api.openstad.zuid-holland.nl
-http://apikey-preprod.ep-online.nl
 http://appl.rdi.nl
 http://archief.zuid-holland.nl
 http://atlas-acpt.brabant.nl
@@ -224,6 +223,8 @@ http://natuurlijk.zuid-holland.nl
 http://natuurvanuitdelucht.zuid-holland.nl
 http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
+http://notificatie-preprod.api.ep-online.nl
+http://notificatie.api.ep-online.nl
 http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
 http://nzrdashboard.vzinfo.nl
@@ -251,6 +252,7 @@ http://prs.rijkswaterstaat.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
 http://pseudonym.test.zm.irealisatie.nl
+http://public-preprod.ep-online.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
@@ -273,6 +275,7 @@ http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sat.irealisatie.nl
 http://seg.cbs.nl
+http://services-preprod.ep-online.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://shinyserver.zuid-holland.nl
@@ -640,6 +643,7 @@ https://api.preprod.mijn.overheid.nl
 https://api.rdi.nl
 https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
+https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
 https://apim-icc.svb.nl
 https://apis.developer.overheid.nl
@@ -2447,8 +2451,6 @@ https://nls.staging.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://noorddrive.rijkscloud.nl
-https://notificatie-preprod.api.ep-online.nl
-https://notificatie.api.ep-online.nl
 https://nponderwijs.nl
 https://nrgd.nl
 https://nt.ndw.nu
@@ -2963,7 +2965,6 @@ https://ps2.platformrijksoverheid.nl
 https://ps3.platformrijksoverheid.nl
 https://ps4.platformrijksoverheid.nl
 https://psarchief.brabant.nl
-https://public-preprod.ep-online.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl
@@ -3187,7 +3188,6 @@ https://service.perf.omgevingswet.overheid.nl
 https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://servicedesk.dictu.nl
-https://services-preprod.ep-online.nl
 https://services.belastingdienst.nl
 https://services.ep-online.nl
 https://sfs-acc.dictu.nl
