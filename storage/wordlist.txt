@@ -12,8 +12,8 @@ test
 acc
 _autodiscover._tcp
 magazines
-feeds.english
 mijn
+feeds.english
 opendata.english
 intranet
 acceptatie

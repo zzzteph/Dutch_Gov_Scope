@@ -2516,7 +2516,6 @@ feeds.english.ccmo.nl
 feeds.english.ctgb.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
-feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
 feeds.english.ilent.nl
 feeds.english.kiesraad.nl
@@ -2540,7 +2539,6 @@ feeds.forensischezorg.nl
 feeds.forensischinstituut.nl
 feeds.geobasisregistraties.nl
 feeds.gezondheidsraad.nl
-feeds.globalhealthhub.nl
 feeds.gobernadorkorsou.com
 feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
@@ -4754,7 +4752,6 @@ opendata.english.ccmo.nl
 opendata.english.ctgb.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
-opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
 opendata.english.ilent.nl
 opendata.english.kiesraad.nl
@@ -4777,7 +4774,6 @@ opendata.forensischezorg.nl
 opendata.forensischinstituut.nl
 opendata.geobasisregistraties.nl
 opendata.gezondheidsraad.nl
-opendata.globalhealthhub.nl
 opendata.gobernadorkorsou.com
 opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
