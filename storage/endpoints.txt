@@ -146,6 +146,7 @@ http://geo-secure-test.zuid-holland.nl
 http://geo-secure.zuid-holland.nl
 http://geo2.flevoland.nl
 http://geoweb.zuid-holland.nl
+http://gfportal.test.gf.irealisatie.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.irealisatie.nl
@@ -200,18 +201,17 @@ http://lpc-p-az1.elastic.lpc.logius.nl
 http://lpc-p-az1.kibana.lpc.logius.nl
 http://lpc-p-az2.elastic.lpc.logius.nl
 http://lpc-p-az2.kibana.lpc.logius.nl
-http://lrs.test.gf.irealisatie.nl
 http://luchtfoto.zuid-holland.nl
 http://mail.dev.cbs.nl
 http://matrix.ix.rijkscloud.nl
 http://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
 http://mcsd-registratie-portaal.test.gf.irealisatie.nl
+http://mcsd-supplier.test.gf.irealisatie.nl
 http://mcsd.test.zm.irealisatie.nl
 http://meridian.rijkswaterstaat.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
-http://metadata.test.zm.irealisatie.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.zuid-holland.nl
@@ -240,6 +240,7 @@ http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
 http://p-crl.justid.nl
 http://pdok.waterschaplimburg.nl
+http://pgodemo.test.zm.irealisatie.nl
 http://pm-bounces.ndw.nu
 http://preprod.bvd.logius.nl
 http://prod.flevoland.nl
@@ -248,6 +249,7 @@ http://proeftuin.gf.irealisatie.nl
 http://projectenatlas.zuid-holland.nl
 http://projects.knmi.nl
 http://prs-stub.proeftuin.gf.irealisatie.nl
+http://prs-stub.test.gf.irealisatie.nl
 http://prs.rijkswaterstaat.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
@@ -256,7 +258,7 @@ http://public-preprod.ep-online.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
-http://qualification-api.test.zm.irealisatie.nl
+http://qualification.test.zm.irealisatie.nl
 http://ref.omgevingswet.overheid.nl
 http://release.isis-web.nl
 http://reserved-cesar-db.knmi.nl
@@ -279,6 +281,8 @@ http://services-preprod.ep-online.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://shinyserver.zuid-holland.nl
+http://siem.acc.irealisatie.nl
+http://siem.irealisatie.nl
 http://sis.zuid-holland.nl
 http://slimmebruggen-backend.zuid-holland.nl
 http://slimmebruggen.zuid-holland.nl
@@ -288,7 +292,7 @@ http://sorry.belastingdienst.nl
 http://specials.brabant.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
-http://stats.test.gf.irealisatie.nl
+http://status.proeftuin.gf.irealisatie.nl
 http://sterftedashboard.vzinfo.nl
 http://stijlgids.cibg.nl
 http://storage.test.mgo.irealisatie.nl
@@ -310,7 +314,6 @@ http://test.mgo.irealisatie.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
-http://timeline.test.zm.irealisatie.nl
 http://toetsingonline.ccmo.nl
 http://trade.rvo.nl
 http://tws-esb.rijkswaterstaat.nl
@@ -1749,7 +1752,6 @@ https://geoweb.vechtstromen.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://gezondeleefomgeving.nl
 https://gezondheidsraad.nl
-https://gfportal.test.gf.irealisatie.nl
 https://ggo-vergunningen.nl
 https://gipdatabank.nl
 https://gis.prolander.nl
@@ -2039,6 +2041,7 @@ https://kabinetsformatie2023.nl
 https://kansrijkestartnl.nl
 https://kantoor.hdsr.nl
 https://karin.ndw.nu
+https://katpilot.acc.irealisatie.nl
 https://kavaanalytics.vcdn.belastingdienst.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
@@ -2153,6 +2156,7 @@ https://loketgezondleven.nl
 https://longreads.cbs.nl
 https://loonaangifteketen.nl
 https://lrs.proeftuin.gf.irealisatie.nl
+https://lrs.test.gf.irealisatie.nl
 https://lta-acc.zuid-holland.nl
 https://lta-tst.zuid-holland.nl
 https://lta.zuid-holland.nl
@@ -2245,7 +2249,6 @@ https://mbg.cbs.nl
 https://mc-upnl.mijn.rvo.nl
 https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
-https://mcsd-supplier.test.gf.irealisatie.nl
 https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
@@ -3196,8 +3199,6 @@ https://shiny.ritp.rijkscloud.nl
 https://shopper.huurcommissie.nl
 https://sib-eopg-acc.aivd.nl
 https://sib-eopg.aivd.nl
-https://siem.acc.irealisatie.nl
-https://siem.irealisatie.nl
 https://signing.pre.brabant.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl

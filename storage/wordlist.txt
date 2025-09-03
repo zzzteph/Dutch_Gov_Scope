@@ -2334,6 +2334,7 @@ jaeger.test.gf
 jaeger.test.zm
 kat.acc
 kat
+katpilot.acc
 kwalificatie-admin-api.proeftuin.gf
 kwalificatie-api.proeftuin.gf
 kwalificatie.proeftuin.gf
@@ -2405,6 +2406,8 @@ stats.acc.mgo
 stats.test.gf
 stats.test.mgo
 stats.test.zm
+status.proeftuin.gf
+status.test.gf
 storage.test.mgo
 test.dpr
 test.dusi

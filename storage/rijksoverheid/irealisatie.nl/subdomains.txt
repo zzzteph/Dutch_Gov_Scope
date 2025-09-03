@@ -39,6 +39,7 @@ jaeger.test.gf.irealisatie.nl
 jaeger.test.zm.irealisatie.nl
 kat.acc.irealisatie.nl
 kat.irealisatie.nl
+katpilot.acc.irealisatie.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
@@ -113,6 +114,8 @@ stats.irealisatie.nl
 stats.test.gf.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
+status.proeftuin.gf.irealisatie.nl
+status.test.gf.irealisatie.nl
 storage.test.mgo.irealisatie.nl
 test.dpr.irealisatie.nl
 test.dusi.irealisatie.nl

@@ -3550,6 +3550,7 @@ kasidealsigning-test.belastingdienst.nl
 kasidealsigning.belastingdienst.nl
 kat.acc.irealisatie.nl
 kat.irealisatie.nl
+katpilot.acc.irealisatie.nl
 kava-admin.vcdn.belastingdienst.nl
 kava-adminont.vcdn.belastingdienst.nl
 kava-admintst.vcdn.belastingdienst.nl
@@ -6236,7 +6237,9 @@ status.cbs.nl
 status.gn3.rijkscloud.nl
 status.omgevingswet.overheid.nl
 status.pre.omgevingswet.overheid.nl
+status.proeftuin.gf.irealisatie.nl
 status.rijkscloud.nl
+status.test.gf.irealisatie.nl
 stc.ilent.nl
 stcrtin-acc.overheid.nl
 stcrtin-preprd.overheid.nl
