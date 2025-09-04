@@ -26,7 +26,7 @@ ods_path = Path("/tmp/result.ods")
 csv_path = Path("/tmp/result.csv")
 
 base_url = "https://www.communicatierijk.nl"
-page_url = base_url + "/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid"
+page_url = base_url + "/documenten/2016/05/26/websiteregister"
 
 response = requests.get(page_url, verify=False)
 response.raise_for_status()
