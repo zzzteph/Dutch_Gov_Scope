@@ -177,6 +177,7 @@ csotest
 sandbox
 m
 mijn-acc
+vt
 chat
 lyncdiscover
 wiki
@@ -308,7 +309,6 @@ telewerken
 zaaksysteem-accept
 sdm
 acc.api
-vt
 authenticatie
 archief
 files
