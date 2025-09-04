@@ -35,7 +35,7 @@ match = re.search(r'href="([^"]+\.ods)"', response.text)
 if not match:
     raise Exception("ODS link not found")
 
-ods_url = base_url + match.group(1)
+ods_url = match.group(1)
 ods_data = requests.get(ods_url, verify=False)
 ods_data.raise_for_status()
 ods_path.write_bytes(ods_data.content)
