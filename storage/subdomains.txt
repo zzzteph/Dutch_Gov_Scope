@@ -38,6 +38,7 @@ _autodiscover._tcp.emissieautoriteit.nl
 _autodiscover._tcp.emissionsauthority.nl
 _autodiscover._tcp.farmatec.nl
 _autodiscover._tcp.huurcommissie.nl
+_autodiscover._tcp.jeugdautoriteit.nl
 _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.mijncn.nl
 _autodiscover._tcp.nationaalrapporteur.nl
@@ -2556,7 +2557,6 @@ feeds.inspectiebtd.nl
 feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
 feeds.jenvgegevens.nl
-feeds.jeugdautoriteit.nl
 feeds.justid.nl
 feeds.kabinetsformatie2023.nl
 feeds.kansrijkestartnl.nl
@@ -4787,7 +4787,6 @@ opendata.inspectiebtd.nl
 opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
 opendata.jenvgegevens.nl
-opendata.jeugdautoriteit.nl
 opendata.justid.nl
 opendata.kabinetsformatie2023.nl
 opendata.kansrijkestartnl.nl
