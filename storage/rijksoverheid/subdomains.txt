@@ -317,6 +317,7 @@ aanbiedersmedicijnen.nl
 aandeslagmetdeomgevingswet.nl
 aangetekendmailen.nza.nl
 aaninhetdonker.nl
+aankoopcalculator.aerius.nl
 aanmelden.huurcommissie.nl
 aanmeldenrws.nl
 aanmerking.nl
@@ -505,13 +506,22 @@ acc9.mijn.overheid.nl
 accebms.cbs.nl
 accept.digitaleoverheid.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
+acceptatie-calculator.aerius.nl
 acceptatie-checkjeprijs.huurcommissie.nl
+acceptatie-connect.aerius.nl
+acceptatie-imaer.aerius.nl
+acceptatie-melding.aerius.nl
 acceptatie-melvin.ndw.nu
+acceptatie-monitor.aerius.nl
 acceptatie-odc-noord.rijkscloud.nl
+acceptatie-pdok.aerius.nl
+acceptatie-register.aerius.nl
+acceptatie-scenario.aerius.nl
 acceptatie-zaaksysteem.vechtstromen.nl
 acceptatie.aanvragen.uziregister.nl
 acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
+acceptatie.aerius.nl
 acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
 acceptatie.applicationframework.cibg.nl
@@ -689,6 +699,7 @@ advisories.ncsc.nl
 advisories.test.ncsc.nl
 advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
+aerius.nl
 aeriusproducten.nl
 afasmail.cbs.nl
 aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
@@ -951,6 +962,7 @@ auth-acc.dictu.nl
 auth-admin-eopg-acc.aivd.nl
 auth-admin-eopg.aivd.nl
 auth-binnenvaart.acc.inspectieview.nl
+auth-dev.aerius.nl
 auth-edu-iam.mijnoctrooi.mypage.rvo.nl
 auth-edu.mijnoctrooi.mypage.rvo.nl
 auth-eopg-acc.aivd.nl
@@ -958,6 +970,10 @@ auth-eopg.aivd.nl
 auth-iam.mijnoctrooi.mypage.rvo.nl
 auth-preprod-iam.mijnoctrooi.mypage.rvo.nl
 auth-preprod.mijnoctrooi.mypage.rvo.nl
+auth-register-dev.aerius.nl
+auth-register-gat.aerius.nl
+auth-register-pentest.aerius.nl
+auth-register.aerius.nl
 auth-tst.dictu.nl
 auth.acm.nl
 auth.dataplatform.knmi.nl
@@ -1407,6 +1423,7 @@ cabauw.knmi.nl
 cabinetspecialenvoy.com
 cadmium-pig.apps.feedfoodtransfer.nl
 caelus-tool.nl
+calculator.aerius.nl
 calendartst.brabant.nl
 callbook.rdi.nl
 campagnetoolkits.nl
@@ -1699,6 +1716,7 @@ connect-with.flevoland.nl
 connect-with.limburg.nl
 connect.acceptatie.hhdelfland.nl
 connect.acm.nl
+connect.aerius.nl
 connect.ctgb.nl
 connect.dictu.nl
 connect.dji.nl
@@ -1937,6 +1955,7 @@ desktoptepr.entreepgb.svb.nl
 desktoptest.entreepgb.svb.nl
 detoekomstbegintnu.brabant.nl
 deutsch.postedworkers.nl
+dev.aerius.nl
 dev.api-sec.p-direkt.nl
 dev.api.p-direkt.nl
 dev.cbrnsecurity.nctv.nl
@@ -2070,6 +2089,7 @@ dnsa4.cbs.nl
 doc-acc.bronhouderportaal-bro.nl
 doc.bronhouderportaal-bro.nl
 doc.leefbaarometer.nl
+docs.aerius.nl
 docs.brba.eu
 docs.lpc.logius.nl
 docs.ndw.nu
@@ -2471,6 +2491,7 @@ f2b.belastingdienst.nl
 facilitor.brabant.nl
 factuur.dbe-t.rvb.rijkscloud.nl
 fad-gegevens-sit.belastingdienst.nl
+fame.aerius.nl
 faq.ndw.nu
 farmacotherapeutischkompas.nl
 farmatec.nl
@@ -3301,6 +3322,7 @@ ikz.nl
 ilent.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
+imaer.aerius.nl
 images.analyse.ilt.rijkscloud.nl
 img.denkmee.zuid-holland.nl
 img.openstad.zuid-holland.nl
@@ -3754,6 +3776,7 @@ leerplatform.it-academieoverheid.nl
 leerplein.svb.nl
 legacy.flevoland.nl
 legacy.rijksdienstcn.com
+legend.aerius.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 leren.mensenrechten.nl
@@ -3761,9 +3784,11 @@ leren.nza.nl
 lerenvoorveiligheid.nl
 leveranciersvdi.svb.nl
 licensemanagerblaise.cbs.nl
+lightning.aerius.nl
 lij.jeugdconnect.nl
 lil.cultureelerfgoed.nl
 limburg.nl
+link.aerius.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
@@ -4066,6 +4091,7 @@ matra-south.rvo.nl
 matrix.ix.rijkscloud.nl
 matroos.rijkswaterstaat.nl
 matter.minaz.rijkscloud.nl
+mattermost.aerius.nl
 max.acc.mgo.irealisatie.nl
 max.dus-i.nl
 max.proeftuin.uzi-online.irealisatie.nl
@@ -4096,6 +4122,7 @@ mdm.zwb.riec.nl
 mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
+meander.aerius.nl
 med-srv20.rijksoverheid.nl
 media.odmh.nl
 media.om.nl
@@ -4112,6 +4139,7 @@ meet.rijksrecherche.nl
 meet.vechtstromen.nl
 meeting.acm.nl
 meeting.services.acm.nl
+melding.aerius.nl
 meldingbwt.odmh.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
@@ -4145,6 +4173,7 @@ metrixinbound.inspecteur.ilent.nl
 mft-acc.svb.nl
 mft-prd.svb.nl
 mft.webftp.dictu.nl
+mgmt.aerius.nl
 mgt.flevoland.nl
 mi-cert.nl
 micollab.cbs.nl
@@ -4345,6 +4374,7 @@ modules.istandaarden.nl
 mogin.ndw.nu
 mondgezondheidsdashboard.vzinfo.nl
 monitor-klimaatadaptatie.zuid-holland.nl
+monitor.aerius.nl
 monitor.rijksoverheid.nl
 monitor01.iaas.rijkscloud.nl
 monitoring-edu.efiling.mijnoctrooi.rvo.nl
@@ -4494,6 +4524,8 @@ nextcloud.rvb.rijkscloud.nl
 nextcloud.tst.rijkscloud.nl
 nextcloud.waterschaplimburg.nl
 nextcloudpoc.ienwfib.rijkscloud.nl
+nexus-docker.aerius.nl
+nexus.aerius.nl
 nexus.cvm.rijkscloud.nl
 nexus.devops.rvb.rijkscloud.nl
 nexus.lpc.logius.nl
@@ -5117,6 +5149,7 @@ pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
+pdok.aerius.nl
 pdok.waterschaplimburg.nl
 pensioen.toeslagen.nl
 perf.omgevingswet.overheid.nl
@@ -5288,6 +5321,7 @@ postedworkers.nl
 povv-poc.ilent.nl
 pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
+pr.aerius.nl
 pra.svb.nl
 prd-ez-rvo-ba.dictu.nl
 prd.atlasleefomgeving.nl
@@ -5562,10 +5596,13 @@ regelhulp.nl
 regelingen-acc.rvo.nl
 regelingen-tst.rvo.nl
 regelingen.rvo.nl
+regelingsondersteuning.aerius.nl
 regels.overheid.nl
 regiosaandegrens.nl
 regiotaxi.flevoland.nl
 register-backend.tlokb.nl
+register-pentest.aerius.nl
+register.aerius.nl
 register.tlokb.nl
 registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
@@ -5903,6 +5940,7 @@ sbopg1scs01.prod.sap.belastingdienst.nl
 sbv-z.nl
 scansys.huurcommissie.nl
 scatterometer.knmi.nl
+scenario.aerius.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
 schedule.justid.nl
@@ -5925,6 +5963,7 @@ sdmx-dataviewer.cbs.nl
 sdmx-search-beta.cbs.nl
 sdmx-share.cbs.nl
 sdmx.cbs.nl
+search.aerius.nl
 search.developer.overheid.nl
 sectransfer-acc.rijkscloud.nl
 sectstssp.ix.rijkscloud.nl
@@ -6449,6 +6488,7 @@ tenantapp.ec.rijkscloud.nl
 test-api.stopheling.nl
 test-bp.stopheling.nl
 test-bron.waterschaplimburg.nl
+test-calculator.aerius.nl
 test-ccb.cbs.nl
 test-cms-bron.waterschaplimburg.nl
 test-cms-eef.waterschaplimburg.nl
@@ -6458,6 +6498,7 @@ test-cms.rvo.nl
 test-cmsintranet.flevoland.nl
 test-cmsintranet.scp.nl
 test-cmsintranet.svb.nl
+test-connect.aerius.nl
 test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
@@ -6476,12 +6517,17 @@ test-intranet.svb.nl
 test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
+test-melding.aerius.nl
 test-mijn.rvo.nl
+test-monitor.aerius.nl
+test-register.aerius.nl
+test-scenario.aerius.nl
 test-tno.bronhouderportaal-bro.nl
 test-website.rvo.nl
 test-wetten.rvo.nl
 test.actueel.nl-alert.nl
 test.adviescollegeveiligheidgroningen.nl
+test.aerius.nl
 test.antennebureau.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
@@ -7418,6 +7464,7 @@ www.adviesraadinternationalevraagstukken.nl
 www.adviesraadmigratie.nl
 www.advisorycommitteeinternationallaw.nl
 www.advisorycouncilinternationalaffairs.nl
+www.aerius.nl
 www.aeriusproducten.nl
 www.agressievrijwerken.nl
 www.agroberichtenbuitenland.nl
@@ -7745,6 +7792,7 @@ www.magazine-nl.digitaleoverheid.nl
 www.magazinesrijkswaterstaat.nl
 www.mail.bureauwsnp.nl
 www.marechaussee.nl
+www.mattermost.aerius.nl
 www.medicijnkosten.nl
 www.medicineshortagesdefects.nl
 www.meldproduct.nl

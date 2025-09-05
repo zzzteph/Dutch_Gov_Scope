@@ -485,11 +485,20 @@ https://acc2.intranet.rvig.nl
 https://acc2.leer-rijk.nl
 https://accept.digitaleoverheid.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
+https://acceptatie-calculator.aerius.nl
+https://acceptatie-connect.aerius.nl
+https://acceptatie-imaer.aerius.nl
+https://acceptatie-melding.aerius.nl
 https://acceptatie-melvin.ndw.nu
+https://acceptatie-monitor.aerius.nl
+https://acceptatie-pdok.aerius.nl
+https://acceptatie-register.aerius.nl
+https://acceptatie-scenario.aerius.nl
 https://acceptatie-zaaksysteem.vechtstromen.nl
 https://acceptatie.aanvragen.uziregister.nl
 https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
+https://acceptatie.aerius.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.authlab.dezi.nl
@@ -592,6 +601,7 @@ https://advisories.ncsc.nl
 https://advisories.test.ncsc.nl
 https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
+https://aerius.nl
 https://aeriusproducten.nl
 https://afasmail.cbs.nl
 https://aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
@@ -715,9 +725,13 @@ https://atlasleefomgeving.nl
 https://atlasnatuurlijkkapitaal.nl
 https://auditdienstrijk.nl
 https://auth-acc.dictu.nl
+https://auth-dev.aerius.nl
 https://auth-eopg-acc.aivd.nl
 https://auth-eopg.aivd.nl
 https://auth-iam.mijnoctrooi.mypage.rvo.nl
+https://auth-register-dev.aerius.nl
+https://auth-register-gat.aerius.nl
+https://auth-register.aerius.nl
 https://auth.denkmee.zuid-holland.nl
 https://auth.dictu.nl
 https://auth.ndw.nu
@@ -916,6 +930,7 @@ https://cabauw.knmi.nl
 https://cabinetspecialenvoy.com
 https://cadmium-pig.apps.feedfoodtransfer.nl
 https://caelus-tool.nl
+https://calculator.aerius.nl
 https://callbook.rdi.nl
 https://campagnetoolkits.nl
 https://caorijk.nl
@@ -1034,6 +1049,7 @@ https://connect-acpt.kinderbescherming.nl
 https://connect-with.brabant.nl
 https://connect-with.flevoland.nl
 https://connect-with.limburg.nl
+https://connect.aerius.nl
 https://connect.ctgb.nl
 https://connect.dji.nl
 https://connect.ikz.nl
@@ -1218,6 +1234,7 @@ https://dnadatabank.forensischinstituut.nl
 https://doc-acc.bronhouderportaal-bro.nl
 https://doc.bronhouderportaal-bro.nl
 https://doc.leefbaarometer.nl
+https://docs.aerius.nl
 https://docs.brba.eu
 https://docs.ndw.nu
 https://docs.openkat.nl
@@ -1442,6 +1459,7 @@ https://extranet.onderwijsraad.nl
 https://extreemrechts.nctv.nl
 https://f2b.belastingdienst.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
+https://fame.aerius.nl
 https://faq.ndw.nu
 https://farmacotherapeutischkompas.nl
 https://farmatec.nl
@@ -1895,6 +1913,7 @@ https://ikvermoedhuiselijkgeweld.nl
 https://ikwerkvoornederland.nl
 https://ikz.nl
 https://ilent.nl
+https://imaer.aerius.nl
 https://images.analyse.ilt.rijkscloud.nl
 https://img.denkmee.zuid-holland.nl
 https://import-acc.organisaties.overheid.nl
@@ -2130,13 +2149,16 @@ https://leerenontwikkelplein.nl
 https://leeromgeving.om.nl
 https://leerplatform.it-academieoverheid.nl
 https://leerplein.svb.nl
+https://legend.aerius.nl
 https://leren.nza.nl
 https://lerenvoorveiligheid.nl
 https://leveranciersvdi.svb.nl
 https://licensemanagerblaise.cbs.nl
+https://lightning.aerius.nl
 https://lij.jeugdconnect.nl
 https://lil.cultureelerfgoed.nl
 https://limburg.nl
+https://link.aerius.nl
 https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
 https://links.informatieservice.nederlandwereldwijd.nl
@@ -2261,6 +2283,7 @@ https://marechaussee.nl
 https://mars.rijkswaterstaat.nl
 https://mass.cultureelerfgoed.nl
 https://matchingsapp.cbs.nl
+https://mattermost.aerius.nl
 https://max.acc.mgo.irealisatie.nl
 https://max.dus-i.nl
 https://max.proeftuin.uzi-online.irealisatie.nl
@@ -2275,6 +2298,7 @@ https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
 https://mdm.justid.nl
 https://mdm.zwb.riec.nl
+https://meander.aerius.nl
 https://media.odmh.nl
 https://media.om.nl
 https://mediaportal.cbs.nl
@@ -2283,6 +2307,7 @@ https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
 https://meet.rijkscloud.nl
 https://meeting.acm.nl
+https://melding.aerius.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
 https://meldingen.klopt.cibg.nl
@@ -2302,6 +2327,7 @@ https://metelkaartrekkenwedegrens.nl
 https://mft-acc.svb.nl
 https://mft-prd.svb.nl
 https://mft.webftp.dictu.nl
+https://mgmt.aerius.nl
 https://mgt.flevoland.nl
 https://mi-cert.nl
 https://micollab.cbs.nl
@@ -2381,6 +2407,7 @@ https://modules.istandaarden.nl
 https://mogin.ndw.nu
 https://mondgezondheidsdashboard.vzinfo.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
+https://monitor.aerius.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring-prod5.koop.overheid.nl
 https://monitoring-prod6.koop.overheid.nl
@@ -2454,6 +2481,8 @@ https://nextcloud.dgdoobi.rijkscloud.nl
 https://nextcloud.irealisatie.nl
 https://nextcloud.rijkspas.rijkscloud.nl
 https://nextcloud.rvb.rijkscloud.nl
+https://nexus-docker.aerius.nl
+https://nexus.aerius.nl
 https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nieuws.brabant.nl
@@ -2824,6 +2853,7 @@ https://password.knmi.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
+https://pdok.aerius.nl
 https://perf.omgevingswet.overheid.nl
 https://pers.svb.nl
 https://persberichten.rijksoverheid.nl
@@ -2900,6 +2930,7 @@ https://portalen.preproductie.digipoort.logius.nl
 https://postedworkers.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
+https://pr.aerius.nl
 https://prd.atlasleefomgeving.nl
 https://prd.btp.sso3w.nl
 https://prd.consexponano.nl
@@ -3051,10 +3082,13 @@ https://referentiegegevens.justid.nl
 https://regelgeving.omgevingswet.overheid.nl
 https://regelgeving.pre.omgevingswet.overheid.nl
 https://regelhulp.nl
+https://regelingsondersteuning.aerius.nl
 https://regels.overheid.nl
 https://regiosaandegrens.nl
 https://regiotaxi.flevoland.nl
 https://register-backend.tlokb.nl
+https://register-pentest.aerius.nl
+https://register.aerius.nl
 https://register.tlokb.nl
 https://registreren.ep-online.nl
 https://registry.acceptatie.istandaarden.nl
@@ -3169,6 +3203,7 @@ https://sbl.limburg.nl
 https://sbv-z.nl
 https://scansys.huurcommissie.nl
 https://scatterometer.knmi.nl
+https://scenario.aerius.nl
 https://schadeherstel.acc.toeslagen.nl
 https://schadeherstel.toeslagen.nl
 https://scheiden.belastingdienst.nl
@@ -3179,6 +3214,7 @@ https://sdg.government.nl
 https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
 https://sdmx.cbs.nl
+https://search.aerius.nl
 https://search.developer.overheid.nl
 https://secure.vechtstromen.nl
 https://secure5.svb.nl
@@ -3389,6 +3425,7 @@ https://techniekacademie.rijkswaterstaat.nl
 https://test-api.stopheling.nl
 https://test-bp.stopheling.nl
 https://test-bron.waterschaplimburg.nl
+https://test-calculator.aerius.nl
 https://test-cms-bron.waterschaplimburg.nl
 https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
@@ -3396,6 +3433,7 @@ https://test-cms.rvo.nl
 https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.scp.nl
 https://test-cmsintranet.svb.nl
+https://test-connect.aerius.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
@@ -3409,9 +3447,14 @@ https://test-intranet.flevoland.nl
 https://test-intranet.scp.nl
 https://test-intranet.svb.nl
 https://test-kpi-dashboard.ndw.nu
+https://test-melding.aerius.nl
+https://test-monitor.aerius.nl
+https://test-register.aerius.nl
+https://test-scenario.aerius.nl
 https://test-wetten.rvo.nl
 https://test.actueel.nl-alert.nl
 https://test.adviescollegeveiligheidgroningen.nl
+https://test.aerius.nl
 https://test.belastingdienst-cn.nl
 https://test.bezoekerscentrum.rijkswaterstaat.nl
 https://test.botova.rijkswaterstaat.nl
@@ -3809,6 +3852,7 @@ https://www.adviesraadinternationalevraagstukken.nl
 https://www.adviesraadmigratie.nl
 https://www.advisorycommitteeinternationallaw.nl
 https://www.advisorycouncilinternationalaffairs.nl
+https://www.aerius.nl
 https://www.aeriusproducten.nl
 https://www.agressievrijwerken.nl
 https://www.agroberichtenbuitenland.nl
@@ -4108,6 +4152,7 @@ https://www.lvmb.nl
 https://www.maatwerkvoormensen.nl
 https://www.magazinesrijkswaterstaat.nl
 https://www.marechaussee.nl
+https://www.mattermost.aerius.nl
 https://www.medicijnkosten.nl
 https://www.medicineshortagesdefects.nl
 https://www.meldproduct.nl
