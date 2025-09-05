@@ -45,6 +45,7 @@ http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
 http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
+http://autodiscover.actal.nl
 http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
@@ -562,6 +563,7 @@ https://acm.nl
 https://acoi.nl
 https://acs-acpt.brabant.nl
 https://acs.brabant.nl
+https://actal.nl
 https://actueel.nl-alert.nl
 https://adaguc.knmi.nl
 https://adc3.cbs.nl
@@ -2219,6 +2221,7 @@ https://magazines.wrr.nl
 https://magazinesintern.rijksoverheid.nl
 https://magazinesintern.rijksvastgoedbedrijf.nl
 https://magazinesrijkswaterstaat.nl
+https://mail.actal.nl
 https://mail.aladdin.p-direkt.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
@@ -3791,6 +3794,7 @@ https://www.acc.omgevingswet.overheid.nl
 https://www.acceleratethechange.nl
 https://www.acm.nl
 https://www.acoi.nl
+https://www.actal.nl
 https://www.adviescollegeicttoetsing.nl
 https://www.adviescollegeregeldruk.nl
 https://www.adviescollegeveiligheidgroningen.nl

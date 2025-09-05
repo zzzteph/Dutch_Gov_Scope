@@ -106,6 +106,7 @@ auth
 ns1
 www.mijn
 adfs
+remote
 www-a
 zaaksysteem-acc
 git
@@ -171,7 +172,6 @@ connect-acpt
 acc.mijn
 cmsintranet
 denkmee
-remote
 test-cmsintranet
 test-intranet
 csoacct

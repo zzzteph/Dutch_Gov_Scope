@@ -641,6 +641,7 @@ acpt-machtigen.digipoort.logius.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
 acs.ncsc.nl
+actal.nl
 activemq.beheer.intpatch.omgevingswet.overheid.nl
 actueel.nl-alert.nl
 ad.hdsr.nl
@@ -976,6 +977,7 @@ authpms-acc.dictu.nl
 authpms.dictu.nl
 autodiscover.aaenmaas.nl
 autodiscover.acm.nl
+autodiscover.actal.nl
 autodiscover.awti.nl
 autodiscover.beschermdecultuurgoederen.nl
 autodiscover.brabant.nl
@@ -3933,6 +3935,7 @@ magazinesintern.vrachtwagenheffing.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.acm.nl
+mail.actal.nl
 mail.aladdin.p-direkt.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
@@ -5588,6 +5591,7 @@ relay2.c2000.nl
 release.isis-web.nl
 remote-pa.hdsr.nl
 remote.acm.nl
+remote.actal.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remote.services.acm.nl
@@ -7397,6 +7401,7 @@ www.achilles-acc.rvo.nl
 www.achilles.rvo.nl
 www.acm.nl
 www.acoi.nl
+www.actal.nl
 www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
 www.adviescollegeveiligheidgroningen.nl
