@@ -46,6 +46,7 @@ http://authenticatie.inspectieview.nl
 http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.actal.nl
+http://autodiscover.afm.nl
 http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
@@ -169,6 +170,7 @@ http://iltbuildserver.dictu.nl
 http://img.openstad.zuid-holland.nl
 http://inkopers.werkenvoornederland.nl
 http://int-prod-01.flevoland.nl
+http://intern.afm.nl
 http://intra-acc.rvo.nl
 http://intranet.ctgb.nl
 http://jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
@@ -423,8 +425,10 @@ https://acc-maps.rijkswaterstaat.nl
 https://acc-open-wave.odijmond.nl
 https://acc-referentiegegevens.justid.nl
 https://acc-v2.bronhouderportaal-bro.nl
+https://acc-vergelijkingskaart.afm.nl
 https://acc-webform.rvo.nl
 https://acc-wetten.rvo.nl
+https://acc-www.afm.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.api-sec.p-direkt.nl
@@ -556,6 +560,8 @@ https://acceptatie.webservices.bigregister.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acceptatie.zoeken.zorgaanbiedersportaal.nl
+https://accnew-cms.afm.nl
+https://accnew-www.afm.nl
 https://accounts.cbs.nl
 https://accounts.kim.rijkscloud.nl
 https://accounts.minszw.rijkscloud.nl
@@ -605,6 +611,9 @@ https://aerius.nl
 https://aeriusproducten.nl
 https://afasmail.cbs.nl
 https://aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
+https://afm.nl
+https://afmacademy.afm.nl
+https://afmcmg.afm.nl
 https://afmelden.ep-online.nl
 https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
@@ -641,12 +650,17 @@ https://anyc-t02.ssc-ict.nl
 https://anyc-t03.ssc-ict.nl
 https://anyc.ssc-ict.nl
 https://aoep-iam.rvo.nl
+https://aovpn.afm.nl
+https://api-acc.afm.nl
 https://api-acc.dashboardgroningen.nl
 https://api-acc.rdi.nl
+https://api-dev.afm.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
 https://api-sec.p-direkt.nl
+https://api-tst.afm.nl
 https://api.acc.ncsc.nl
+https://api.afm.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.burgemeesterworden.politiekeambtsdragers.nl
@@ -780,6 +794,7 @@ https://beeldbankbeheer.zuid-holland.nl
 https://beeldbankbelastingdienst.nl
 https://beeldbellen.dji.nl
 https://beeldkompas.nl
+https://beginnenbij.afm.nl
 https://begrippen.hdsr.nl
 https://begrippen.waterschaplimburg.nl
 https://begroting.brabant.nl
@@ -1037,6 +1052,7 @@ https://communicatierijk.nl
 https://community-gatewayreview.nl
 https://competentie.flevoland.nl
 https://complaintform.mensenrechten.nl
+https://compliance.afm.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://componenten.overheid.nl
@@ -1106,6 +1122,7 @@ https://cts.test.woo.irealisatie.nl
 https://cultureelerfgoed.nl
 https://cultuursubsidie.nl
 https://cursus.drop.overheid.nl
+https://cursusprospectus.afm.nl
 https://cvte.nl
 https://cyberawareness.nctv.nl
 https://cybersecuritycouncil.nl
@@ -1186,6 +1203,10 @@ https://desktop.entreepgb.svb.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
+https://dev-cms.afm.nl
+https://dev-id.afm.nl
+https://dev-vergelijkingskaart.afm.nl
+https://dev-www.afm.nl
 https://dev.api-sec.p-direkt.nl
 https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
@@ -1344,6 +1365,7 @@ https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
 https://elearning-msz.nza.nl
 https://elearning-zvjz-medewerkers.nctv.nl
+https://elearning.afm.nl
 https://elearning.istandaarden.nl
 https://elearning.ordz.nl
 https://elearning.platformrijksoverheid.nl
@@ -1352,6 +1374,7 @@ https://elo.veiligheidsregioflevoland.nl
 https://eloket.aaenmaas.nl
 https://eloket.flevoland.nl
 https://eloket.vallei-veluwe.nl
+https://email.afm.nl
 https://emailtemplates.overheid.nl
 https://emax.test.gf.irealisatie.nl
 https://emissieautoriteit.nl
@@ -1691,6 +1714,7 @@ https://files.klimaatadaptatienederland.nl
 https://filesender.ctgb.nl
 https://fileshare.rekenkamer.nl
 https://fileshare.rijksdienstcn.com
+https://filetransfer.afm.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://financiengemeenten.nl
@@ -1712,7 +1736,9 @@ https://forms.zuid-holland.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
 https://formulierdus-i.nl
+https://formulieren-acc.afm.nl
 https://formulieren-preprod.waterschaplimburg.nl
+https://formulieren.afm.nl
 https://formulieren.brabant.nl
 https://formulieren.flevoland.nl
 https://formulieren.limburg.nl
@@ -1722,6 +1748,7 @@ https://formulieren.svb.nl
 https://formulieren.uziregister.nl
 https://formulieren.waterschaplimburg.nl
 https://foto-opdracht.cultureelerfgoed.nl
+https://fs.afm.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
 https://fs.rijksdienstcn.com
@@ -1732,6 +1759,7 @@ https://ftp.oostvaarderskliniek.nl
 https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
 https://functiegebouwrijksoverheid.nl
+https://gateway.afm.nl
 https://gdi-b.rvo.nl
 https://gebiedsprofielen.zuid-holland.nl
 https://gebruiker-beheer.dus-i.nl
@@ -2273,6 +2301,9 @@ https://mailing.dictu.nl
 https://mailing.dus-i.nl
 https://mailing.logius.nl
 https://mailings.dus-i.nl
+https://management.api-acc.afm.nl
+https://management.api-dev.afm.nl
+https://management.api.afm.nl
 https://manager.klopt.cibg.nl
 https://maps.aaenmaas.nl
 https://maps.ndw.nu
@@ -2906,6 +2937,7 @@ https://politieopendata.cbs.nl
 https://pom.cultureelerfgoed.nl
 https://pop.oostvaarderskliniek.nl
 https://portaal-a.ikz.nl
+https://portaal.afm.nl
 https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
 https://portaal.ctgb.nl
@@ -2916,6 +2948,10 @@ https://portaal.interventiedatabase.nl
 https://portaal.ncpeh.nl
 https://portaal.nlarbeidsinspectie.nl
 https://portaal.prolander.nl
+https://portal.api-acc.afm.nl
+https://portal.api-dev.afm.nl
+https://portal.api-tst.afm.nl
+https://portal.api.afm.nl
 https://portal.cbs.nl
 https://portal.datascience.rijkscloud.nl
 https://portal.entreepgb.svb.nl
@@ -3021,6 +3057,7 @@ https://public.portal.ind.nl
 https://publicaties-acc.rvig.nl
 https://publicaties-prod.rvig.nl
 https://publicaties-tst.rvig.nl
+https://publicaties.afm.nl
 https://publicaties.brabant.nl
 https://publicaties.mensenrechten.nl
 https://publicaties.odmh.nl
@@ -3332,6 +3369,7 @@ https://standaarden.rijkswaterstaat.nl
 https://start.acc.dusi.irealisatie.nl
 https://start.dus-i.nl
 https://start.test.dusi.irealisatie.nl
+https://startat.afm.nl
 https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
 https://startmetdelen.nl
@@ -3392,6 +3430,10 @@ https://sterftedashboard-regionaal.vzinfo.nl
 https://stglb.rvo.nl
 https://stijlgids.rijkswaterstaat.nl
 https://stopheling.nl
+https://stor.portaal-acc.afm.nl
+https://stor.portaal-dev.afm.nl
+https://stor.portaal-tst.afm.nl
+https://stor.portaal.afm.nl
 https://stor.services.cultureelerfgoed.nl
 https://storage.databestanden.cbs.nl
 https://storing.cbs.nl
@@ -3553,6 +3595,7 @@ https://trillingsdata.dictu.nl
 https://truck-parking.ndw.nu
 https://ts.onderwijsraad.nl
 https://tst-referentiegegevens.justid.nl
+https://tst-vergelijkingskaart.afm.nl
 https://tst.mercurius.sso3w.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://tst.subsidie.cultureelerfgoed.nl
@@ -3593,6 +3636,7 @@ https://uzipas.portaal.ncpeh.nl
 https://uzipas.raadplegen.sbv-z.nl
 https://uzipas.uziregister.nl
 https://uziregister.nl
+https://vacatures.afm.nl
 https://vacatures.limburg.nl
 https://vacatures.odmh.nl
 https://vad.acc.mgo.irealisatie.nl
@@ -3621,6 +3665,7 @@ https://vepkms.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
 https://verdragenbank-acc.overheid.nl
 https://verdragenbank.overheid.nl
+https://vergelijkingskaart.afm.nl
 https://vergoedingsns.nl
 https://verhalenoverdeoorlog.nl
 https://verkeer.acc.loket.om.nl
@@ -3628,6 +3673,7 @@ https://verkeer.loket.om.nl
 https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.overheid.nl
 https://verkeersveiligheid.ndw.nu
+https://verslaggeving.afm.nl
 https://versterkencyberweerbaarheid.nl
 https://verwerkingen.rijksoverheid.nl
 https://verzorgingsplaats.ndw.nu
@@ -3759,6 +3805,7 @@ https://werkenvoornederland.nl
 https://werkplaats-acc.onslevendlandschap.nl
 https://werkplaats.onslevendlandschap.nl
 https://werkplek.acm.nl
+https://werkplek.afm.nl
 https://werkplek.cbs.nl
 https://werkplek.justid.nl
 https://werkplek.rekenkamer.nl
@@ -3854,6 +3901,7 @@ https://www.advisorycommitteeinternationallaw.nl
 https://www.advisorycouncilinternationalaffairs.nl
 https://www.aerius.nl
 https://www.aeriusproducten.nl
+https://www.afm.nl
 https://www.agressievrijwerken.nl
 https://www.agroberichtenbuitenland.nl
 https://www.aivd.nl
@@ -3985,6 +4033,7 @@ https://www.dictu.nl
 https://www.dictumagazines.nl
 https://www.dienstterugkeerenvertrek.nl
 https://www.diergeneesmiddeleninformatiebank.nl
+https://www.digitaal.loket.afm.nl
 https://www.digitaalstelselmobiliteitsdata.nl
 https://www.digitaleoverheid.nl
 https://www.dihoo.eu
@@ -4144,6 +4193,7 @@ https://www.lerenvoorveiligheid.nl
 https://www.limburg.nl
 https://www.lintjes.nl
 https://www.logius.nl
+https://www.loket.afm.nl
 https://www.loketduurzaameten.nl
 https://www.loketgentherapie.nl
 https://www.loketgezondleven.nl

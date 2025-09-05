@@ -391,12 +391,14 @@ acc-referentiegegevens.justid.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-staten.zuid-holland.nl
 acc-v2.bronhouderportaal-bro.nl
+acc-vergelijkingskaart.afm.nl
 acc-vinden.cbs.nl
 acc-webform.rvo.nl
 acc-webservice-tdv.igj.nl
 acc-website.rvo.nl
 acc-wetten.rvo.nl
 acc-windviewer.rvo.nl
+acc-www.afm.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
 acc.api-auth.ilent.nl
@@ -621,6 +623,8 @@ acceptatie2.spin.rijkswaterstaat.nl
 acceptatiepan.emissieautoriteit.nl
 access.om.nl
 access.rijksrecherche.nl
+accnew-cms.afm.nl
+accnew-www.afm.nl
 accounts.cbs.nl
 accounts.ix.rijkscloud.nl
 accounts.kim.rijkscloud.nl
@@ -703,6 +707,9 @@ aerius.nl
 aeriusproducten.nl
 afasmail.cbs.nl
 aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
+afm.nl
+afmacademy.afm.nl
+afmcmg.afm.nl
 afmelden-acc.ep-online.nl
 afmelden-acc1.ep-online.nl
 afmelden-preprod.ep-online.nl
@@ -769,6 +776,7 @@ anyc-t03.ssc-ict.nl
 anyc.ssc-ict.nl
 anyremote.ssc-ict.nl
 aoep-iam.rvo.nl
+aovpn.afm.nl
 apbldexta1.belastingdienst.nl
 apbldexte1.belastingdienst.nl
 apbldexti1.belastingdienst.nl
@@ -784,20 +792,24 @@ apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
 api-a.acm.nl
 api-a.services.acm.nl
+api-acc.afm.nl
 api-acc.dashboardgroningen.nl
 api-acc.rdi.nl
 api-acpt.brabant.nl
 api-auth.ilent.nl
+api-dev.afm.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
 api-performance.test.ix.rijkscloud.nl
 api-sec.p-direkt.nl
+api-tst.afm.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
 api.acc.spaceweather.knmi.nl
 api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
 api.acm.nl
+api.afm.nl
 api.amx.belastingdienst.nl
 api.appstore.p-direkt.nl
 api.belastingdienst.nl
@@ -998,6 +1010,7 @@ authpms.dictu.nl
 autodiscover.aaenmaas.nl
 autodiscover.acm.nl
 autodiscover.actal.nl
+autodiscover.afm.nl
 autodiscover.awti.nl
 autodiscover.beschermdecultuurgoederen.nl
 autodiscover.brabant.nl
@@ -1145,6 +1158,7 @@ beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
 beeldbellen.dji.nl
 beeldkompas.nl
+beginnenbij.afm.nl
 begrippen.hdsr.nl
 begrippen.waterschaplimburg.nl
 begrippenlijst.datawonen.nl
@@ -1624,6 +1638,7 @@ cms-ow.farmacotherapeutischkompas.nl
 cms-p.farmacotherapeutischkompas.nl
 cms-ts.farmacotherapeutischkompas.nl
 cms-tst.farmacotherapeutischkompas.nl
+cms.afm.nl
 cms.beeldkompas.nl
 cms.bureaubiosecurity.nl
 cms.contenttoolsrijksoverheid.nl
@@ -1695,6 +1710,7 @@ compensationsns.nl
 competent.cibg.nl
 competentie.flevoland.nl
 complaintform.mensenrechten.nl
+compliance.afm.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
@@ -1762,6 +1778,7 @@ cpapps.belastingdienst.nl
 cparegister.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
+cprsprod.afm.nl
 cptst.vcdn.belastingdienst.nl
 criminalfilesmh17.acc.prosecutionservice.nl
 criminalfilesmh17.prosecutionservice.nl
@@ -1803,6 +1820,7 @@ ctstest4k.belastingdienst.nl
 cultureelerfgoed.nl
 cultuursubsidie.nl
 cursus.drop.overheid.nl
+cursusprospectus.afm.nl
 cv-mailrelay1.overheid.nl
 cv-mailrelay2.overheid.nl
 cv-mailrelay3.overheid.nl
@@ -1955,6 +1973,10 @@ desktoptepr.entreepgb.svb.nl
 desktoptest.entreepgb.svb.nl
 detoekomstbegintnu.brabant.nl
 deutsch.postedworkers.nl
+dev-cms.afm.nl
+dev-id.afm.nl
+dev-vergelijkingskaart.afm.nl
+dev-www.afm.nl
 dev.aerius.nl
 dev.api-sec.p-direkt.nl
 dev.api.p-direkt.nl
@@ -2041,6 +2063,7 @@ digipoort-wus-acc2.belastingdienst.nl
 digipoort-wus.belastingdienst.nl
 digipoort.logius.nl
 digit.vechtstromen.nl
+digitaal.loket.afm.nl
 digitaal.raadopenbaarbestuur.nl
 digitaal.scp.nl
 digitaalmkb.zuid-holland.nl
@@ -2281,6 +2304,7 @@ elearning-irb.nctv.nl
 elearning-lcp-egt.nctv.nl
 elearning-msz.nza.nl
 elearning-zvjz-medewerkers.nctv.nl
+elearning.afm.nl
 elearning.cbi.eu
 elearning.istandaarden.nl
 elearning.ordz.nl
@@ -2295,6 +2319,7 @@ elo.veiligheidsregioflevoland.nl
 eloket.aaenmaas.nl
 eloket.flevoland.nl
 eloket.vallei-veluwe.nl
+email.afm.nl
 email.brabant.nl
 emailcluster.ctivd.nl
 emailtemplates.overheid.nl
@@ -2446,6 +2471,10 @@ event.tst.belastingdienst.nl
 events.svb.nl
 evserver1.flevoland.nl
 evvv.belastingdienst.nl
+ewerken-acc.afm.nl
+ewerken.afm.nl
+ewerken2-acc.afm.nl
+ewerken2.afm.nl
 ews-external.justid.nl
 examenblad.nl
 examenbladmbo.nl
@@ -2775,6 +2804,7 @@ files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
 fileshare.rekenkamer.nl
 fileshare.rijksdienstcn.com
+filetransfer.afm.nl
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
 financials.werkenvoornederland.nl
@@ -2809,8 +2839,10 @@ formulier.cultureelerfgoed.nl
 formulier.emissieautoriteit.nl
 formulier.werkenvoornederland.nl
 formulierdus-i.nl
+formulieren-acc.afm.nl
 formulieren-acc.nvwa.nl
 formulieren-preprod.waterschaplimburg.nl
+formulieren.afm.nl
 formulieren.brabant.nl
 formulieren.flevoland.nl
 formulieren.huurcommissie.nl
@@ -2833,6 +2865,7 @@ fs-ms-exdns03.brabant.nl
 fs-ms-exdns04.brabant.nl
 fs-up-sts01.brabant.nl
 fs-up-sts02.brabant.nl
+fs.afm.nl
 fs.belastingdienst.nl
 fs.ctgb.nl
 fs.knmi.nl
@@ -2870,6 +2903,7 @@ ftpstaopub.belastingdienst.nl
 fubecasper.cbs.nl
 functiegebouwrijksoverheid.nl
 gasten.acm.nl
+gateway.afm.nl
 gateway.test.ggdcontact.irealisatie.nl
 gatus.lpc.logius.nl
 gb-test.brabant.nl
@@ -3234,6 +3268,7 @@ hulpmiddelen.farmatec.nl
 huurcommissie.nl
 huurprijscheck.huurcommissie.nl
 hwbp.nl
+hybrid.afm.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
 hybrid.ofgv.nl
@@ -3401,6 +3436,7 @@ integriteitswijzer.huisvoorklokkenluiders.nl
 intel-acc.ncsc.nl
 intel.ncsc.nl
 intermediairdagen.belastingdienst.nl
+intern.afm.nl
 intern.catalogus.cultureelerfgoed.nl
 intern.magazinesrijkswaterstaat.nl
 intern.ssc-ictspecials.nl
@@ -3411,6 +3447,7 @@ internetdienstenp.svb.nl
 internetdienstensiam.svb.nl
 internetdienstensiamacc.svb.nl
 internetsearch.rijkswaterstaat.nl
+interventie.afm.nl
 interventiedatabase.nl
 intpatch.omgevingswet.overheid.nl
 intra-acc.rvo.nl
@@ -3448,6 +3485,7 @@ intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
+inventory.afm.nl
 investerenin.zuid-holland.nl
 investeringsimpulsspv.nl
 inweva.ndw.nu
@@ -3746,6 +3784,7 @@ krv-demo.cvr.rvb.rijkscloud.nl
 krv-demo.devops.rvb.rijkscloud.nl
 krv-release.cvr.rvb.rijkscloud.nl
 krv-release.devops.rvb.rijkscloud.nl
+kvkdataservice.afm.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
@@ -3853,6 +3892,7 @@ lokalisatie-demo.test.gf.irealisatie.nl
 loket-acc.hdsr.nl
 loket-preprod.hhdelfland.nl
 loket.acceptatie.rijkswaterstaat.nl
+loket.afm.nl
 loket.hdsr.nl
 loket.hhdelfland.nl
 loket.om.nl
@@ -3965,6 +4005,7 @@ magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
 mail.acm.nl
 mail.actal.nl
+mail.afm.nl
 mail.aladdin.p-direkt.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
@@ -4033,6 +4074,7 @@ mail1.ec.rijkscloud.nl
 mail1.gn1.rijkscloud.nl
 mail1.gn3.rijkscloud.nl
 mail2.acm.nl
+mail2.afm.nl
 mail2.ec.rijkscloud.nl
 mail2.rvig.nl
 mail230.brabant.nl
@@ -4072,6 +4114,9 @@ mam.justid.nl
 mam.knmi.nl
 mam.scp.nl
 managedservices.logius.nl
+management.api-acc.afm.nl
+management.api-dev.afm.nl
+management.api.afm.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
 maps.ndw.nu
@@ -5269,9 +5314,13 @@ pom.cultureelerfgoed.nl
 pop.oostvaarderskliniek.nl
 pop.vechtstromen.nl
 portaal-a.ikz.nl
+portaal-acc.afm.nl
 portaal-acceptatie.rijkscloud.nl
+portaal-dev.afm.nl
 portaal-iuc-acceptatie.rijkscloud.nl
+portaal-tst.afm.nl
 portaal.acc.belastingdienst.nl
+portaal.afm.nl
 portaal.belastingdienst.nl
 portaal.competent.cibg.nl
 portaal.ctgb.nl
@@ -5285,6 +5334,11 @@ portaal.prolander.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
 portal-performance.test.ix.rijkscloud.nl
+portal.afm.nl
+portal.api-acc.afm.nl
+portal.api-dev.afm.nl
+portal.api-tst.afm.nl
+portal.api.afm.nl
 portal.cbs.nl
 portal.cibg.nl
 portal.datascience.rijkscloud.nl
@@ -5487,6 +5541,7 @@ public.portal.ind.nl
 publicaties-acc.rvig.nl
 publicaties-prod.rvig.nl
 publicaties-tst.rvig.nl
+publicaties.afm.nl
 publicaties.brabant.nl
 publicaties.mensenrechten.nl
 publicaties.odmh.nl
@@ -6164,6 +6219,7 @@ smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
 snelheidsovertredingen.om.nl
 snow-cw.dictu.nl
+snow.afm.nl
 soap.openbare-inspectieresultaten.nvwa.nl
 social.overheid.nl
 socialestabiliteit.nl
@@ -6198,6 +6254,9 @@ spin2.rijkswaterstaat.nl
 splunk-a.svb.nl
 splunksyslog.dmz.belastingdienst.nl
 sportenbewegenincijfers.nl
+spot-on-acc.afm.nl
+spot-on-dt.afm.nl
+spot-on.afm.nl
 squit2go.ofgv.nl
 squit2gotest.ofgv.nl
 srv-52b05-19.gn2.rijkscloud.nl
@@ -6276,6 +6335,7 @@ start.acc.dusi.irealisatie.nl
 start.belastingdienst.nl
 start.dus-i.nl
 start.test.dusi.irealisatie.nl
+startat.afm.nl
 startformulier.brabant.nl
 startformuliertest.brabant.nl
 startmetdelen.nl
@@ -6384,6 +6444,10 @@ stijlgids.cibg.nl
 stijlgids.rijkswaterstaat.nl
 stopheling.nl
 stopid.reis.lap.idm.rvig.nl
+stor.portaal-acc.afm.nl
+stor.portaal-dev.afm.nl
+stor.portaal-tst.afm.nl
+stor.portaal.afm.nl
 stor.services.cultureelerfgoed.nl
 storage.databestanden.cbs.nl
 storage.test.mgo.irealisatie.nl
@@ -6412,6 +6476,7 @@ sumatra.huurcommissie.nl
 superset.demo.ix.rijkscloud.nl
 superset.dev.fib.ienw.rijkscloud.nl
 superset.dgdoobi.rijkscloud.nl
+suppliers.afm.nl
 support.vechtstromen.nl
 survey-acc.igj.nl
 survey-beheer.igj.nl
@@ -6715,11 +6780,17 @@ treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
 trillingsdata-acc.dictu.nl
 trillingsdata.dictu.nl
+trs.afm.nl
+trs2prod.afm.nl
+trs2test.afm.nl
+trsacc.afm.nl
+trstest.afm.nl
 truck-parking.ndw.nu
 ts.cbi.eu
 ts.onderwijsraad.nl
 tst-energiebesparingsverkenner.rvo.nl
 tst-referentiegegevens.justid.nl
+tst-vergelijkingskaart.afm.nl
 tst.inspectieview.nl
 tst.live.rijkswaterstaat.nl
 tst.live.werkenbij.rijkswaterstaat.nl
@@ -6813,6 +6884,7 @@ va_do.belastingdienst.nl
 vaartuigvolgsysteem.zuid-holland.nl
 vacature.werkenbijdeeu.nl
 vacature.werkenvoorinternationaleorganisaties.nl
+vacatures.afm.nl
 vacatures.limburg.nl
 vacatures.odmh.nl
 vad.acc.mgo.irealisatie.nl
@@ -6900,6 +6972,7 @@ vepvodtst.vcdn.belastingdienst.nl
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
 vergaderen.belastingdienst.nl
+vergelijkingskaart.afm.nl
 vergoedingsns.nl
 verhalenoverdeoorlog.nl
 verkeer.acc.loket.om.nl
@@ -6913,6 +6986,7 @@ verkooptest.domeinenrz.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
+verslaggeving.afm.nl
 versterkencyberweerbaarheid.nl
 verwerkingen.rijksoverheid.nl
 verzekeringsproducten.acc.belastingdienst.nl
@@ -6982,6 +7056,7 @@ vpn-ssp.devops.rvb.rijkscloud.nl
 vpn-tst.dictu.nl
 vpn-ump.devops.rvb.rijkscloud.nl
 vpn.acm.nl
+vpn.afm.nl
 vpn.belastingdienst.nl
 vpn.brabant.nl
 vpn.cbg-meb.nl
@@ -7138,6 +7213,7 @@ webgisacc.aaenmaas.nl
 webmail-a.huurcommissie.nl
 webmail-acpt.brabant.nl
 webmail.aaenmaas.nl
+webmail.afm.nl
 webmail.brabant.nl
 webmail.ctivd.nl
 webmail.flevoland.nl
@@ -7231,6 +7307,7 @@ werkenvoornederland.nl
 werkplaats-acc.onslevendlandschap.nl
 werkplaats.onslevendlandschap.nl
 werkplek.acm.nl
+werkplek.afm.nl
 werkplek.brabant.nl
 werkplek.cbs.nl
 werkplek.ctgb.nl
@@ -7466,6 +7543,7 @@ www.advisorycommitteeinternationallaw.nl
 www.advisorycouncilinternationalaffairs.nl
 www.aerius.nl
 www.aeriusproducten.nl
+www.afm.nl
 www.agressievrijwerken.nl
 www.agroberichtenbuitenland.nl
 www.aivd.nl
@@ -7615,6 +7693,7 @@ www.dictu.nl
 www.dictumagazines.nl
 www.dienstterugkeerenvertrek.nl
 www.diergeneesmiddeleninformatiebank.nl
+www.digitaal.loket.afm.nl
 www.digitaalstelselmobiliteitsdata.nl
 www.digitaleoverheid.nl
 www.dihoo.eu
@@ -7781,6 +7860,7 @@ www.lerenvoorveiligheid.nl
 www.limburg.nl
 www.lintjes.nl
 www.logius.nl
+www.loket.afm.nl
 www.loketduurzaameten.nl
 www.loketgentherapie.nl
 www.loketgezondleven.nl
