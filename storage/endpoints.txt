@@ -1009,6 +1009,7 @@ https://autodiscover.svb.nl
 https://autorisatie-preprod.brabant.nl
 https://autorisatie-prod.brabant.nl
 https://autoriteitnvs.nl
+https://autoriteitpersoonsgegevens.nl
 https://autorization.entreepgb.svb.nl
 https://avd.datasluis.dictu.nl
 https://avghelpdeskzorg.nl
@@ -1478,6 +1479,7 @@ https://componenten.overheid.nl
 https://confluence.knmi.nl
 https://confluenceimg-acc.rvo.nl
 https://confluenceimg.rvo.nl
+https://connect-acpt.autoriteitpersoonsgegevens.nl
 https://connect-acpt.dji.nl
 https://connect-acpt.justitieleictorganisatie.nl
 https://connect-acpt.kinderbescherming.nl
@@ -1487,6 +1489,7 @@ https://connect-with.brabant.nl
 https://connect-with.flevoland.nl
 https://connect-with.limburg.nl
 https://connect.aerius.nl
+https://connect.autoriteitpersoonsgegevens.nl
 https://connect.ctgb.nl
 https://connect.dji.nl
 https://connect.ikz.nl
@@ -1641,6 +1644,8 @@ https://databestanden.cbs.nl
 https://dataderden.cbs.nl
 https://datafusion.ndw.nu
 https://datalab.knmi.nl
+https://datalekken-acc.autoriteitpersoonsgegevens.nl
+https://datalekken.autoriteitpersoonsgegevens.nl
 https://dataloket.zuid-holland.nl
 https://datamonitor.ndw.nu
 https://dataplatform.knmi.nl
@@ -1961,6 +1966,8 @@ https://env1.arcgis.com
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://ep-online.nl
+https://epmm.acpt.autoriteitpersoonsgegevens.nl
+https://epmm.autoriteitpersoonsgegevens.nl
 https://equity-nyc.hub.arcgis.com
 https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
@@ -2738,6 +2745,8 @@ https://kimi.jeugdconnect.nl
 https://kimnet.nl
 https://kinderbescherming.nl
 https://kkl-new-kkl.hub.arcgis.com
+https://klachten-acc.autoriteitpersoonsgegevens.nl
+https://klachten.autoriteitpersoonsgegevens.nl
 https://klachtenformulier.mensenrechten.nl
 https://klachtenformulierlink.mensenrechten.nl
 https://klanttoegang.cbs.nl
@@ -3166,6 +3175,7 @@ https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nieuws.brabant.nl
 https://nieuws.rvo.nl
+https://nieuwsbrief.autoriteitpersoonsgegevens.nl
 https://nieuwsbrief.examenblad.nl
 https://nieuwsbrief.zuid-holland.nl
 https://nieuwsbrieven.limburg.nl
@@ -4715,6 +4725,7 @@ https://www.atlasofmutualheritage.nl
 https://www.atr-regeldruk.nl
 https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
+https://www.autoriteitpersoonsgegevens.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
 https://www.awti.nl
@@ -4815,6 +4826,7 @@ https://www.dashboardgroningen.nl
 https://www.data-islandcountygis.opendata.arcgis.com
 https://www.data-nycgov.opendata.arcgis.com
 https://www.databestanden.cbs.nl
+https://www.datalekken-acc.autoriteitpersoonsgegevens.nl
 https://www.dataportaal.brabant.nl
 https://www.datavoorgezondheid.nl
 https://www.dcc-ienw.nl

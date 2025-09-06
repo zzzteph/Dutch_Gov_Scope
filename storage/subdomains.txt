@@ -487,6 +487,7 @@ acc.api.ilent.nl
 acc.api.p-direkt.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
+acc.autoriteitpersoonsgegevens.nl
 acc.avgregisterrijksoverheid.nl
 acc.b2b.digi.ilent.nl
 acc.b2b.ilent.nl
@@ -724,6 +725,7 @@ accp-dol.stopheling.nl
 accp-dor.stopheling.nl
 accp-dorbeheer.stopheling.nl
 accp.stopheling.nl
+accsite.autoriteitpersoonsgegevens.nl
 ace_nat17.belastingdienst.nl
 acgsa.maps.arcgis.com
 achd-substance-use-adcogov-health.hub.arcgis.com
@@ -1293,6 +1295,7 @@ autodiscover.vechtstromen.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
+autoriteitpersoonsgegevens.nl
 autorization.entreepgb.svb.nl
 autorizationaccp.entreepgb.svb.nl
 autorizationaccp2.entreepgb.svb.nl
@@ -2149,6 +2152,7 @@ confluence.knmi.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
 connect-acc.dictu.nl
+connect-acpt.autoriteitpersoonsgegevens.nl
 connect-acpt.dji.nl
 connect-acpt.justitieleictorganisatie.nl
 connect-acpt.kinderbescherming.nl
@@ -2160,6 +2164,7 @@ connect-with.limburg.nl
 connect.acceptatie.hhdelfland.nl
 connect.acm.nl
 connect.aerius.nl
+connect.autoriteitpersoonsgegevens.nl
 connect.ctgb.nl
 connect.dictu.nl
 connect.dji.nl
@@ -2381,6 +2386,8 @@ dataiku.diobzk.rijkscloud.nl
 dataiku.michel.rijkscloud.nl
 dataiku.rws.rijkscloud.nl
 datalab.knmi.nl
+datalekken-acc.autoriteitpersoonsgegevens.nl
+datalekken.autoriteitpersoonsgegevens.nl
 dataloket.zuid-holland.nl
 datamonitor.ndw.nu
 dataplatform.knmi.nl
@@ -2408,6 +2415,7 @@ dbbtamta01.dbb-acc.igj.nl
 dbcrco.belastingdienst.nl
 dbe-t.rvb.rijkscloud.nl
 dbpmo.belastingdienst.nl
+dc.autoriteitpersoonsgegevens.nl
 dc.ssc-ict.nl
 dcc-ienw.nl
 dcmp-upnl-idp-acc.rvo.nl
@@ -2939,6 +2947,12 @@ ep-online.nl
 epbdwebservices-acc.rvo.nl
 epbdwebservices-preprod.rvo.nl
 epbdwebservices.rvo.nl
+epmm.acpt.autoriteitpersoonsgegevens.nl
+epmm.autoriteitpersoonsgegevens.nl
+epmmsen01.acpt.autoriteitpersoonsgegevens.nl
+epmmsen01.autoriteitpersoonsgegevens.nl
+epmmsen02.acpt.autoriteitpersoonsgegevens.nl
+epmmsen02.autoriteitpersoonsgegevens.nl
 equity-nyc.hub.arcgis.com
 erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
@@ -4356,6 +4370,8 @@ kit-demo.cvr.rvb.rijkscloud.nl
 kit-release.cvr.rvb.rijkscloud.nl
 kkl-new-kkl.hub.arcgis.com
 kko.dictu.nl
+klachten-acc.autoriteitpersoonsgegevens.nl
+klachten.autoriteitpersoonsgegevens.nl
 klachtenformulier.mensenrechten.nl
 klachtenformulierlink.mensenrechten.nl
 klantportaal.rvo.nl
@@ -5242,6 +5258,7 @@ nhr.flevoland.nl
 nieuw.acm.nl
 nieuws.brabant.nl
 nieuws.rvo.nl
+nieuwsbrief.autoriteitpersoonsgegevens.nl
 nieuwsbrief.examenblad.nl
 nieuwsbrief.zuid-holland.nl
 nieuwsbrieven.limburg.nl
@@ -8391,6 +8408,7 @@ www.atr-regeldruk.nl
 www.auditdienstrijk.nl
 www.authentication.acm.nl
 www.autoriteitnvs.nl
+www.autoriteitpersoonsgegevens.nl
 www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
 www.awti.nl
@@ -8504,6 +8522,7 @@ www.dashboardgroningen.nl
 www.data-islandcountygis.opendata.arcgis.com
 www.data-nycgov.opendata.arcgis.com
 www.databestanden.cbs.nl
+www.datalekken-acc.autoriteitpersoonsgegevens.nl
 www.dataportaal.brabant.nl
 www.datavoorgezondheid.nl
 www.datawonen.nl
