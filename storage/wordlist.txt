@@ -5,8 +5,8 @@ feeds
 english
 a-www
 mail
-a-opendata
 autodiscover
+a-opendata
 a-feeds
 test
 acc
@@ -48,6 +48,7 @@ ftp
 geoservices
 geo
 apps
+staging
 www-ow
 www-ts
 webservices
@@ -58,7 +59,6 @@ docs
 onderzoek
 portal
 digikoppeling
-staging
 www-acc2
 www-dev2
 www-p2
@@ -79,6 +79,7 @@ mdm
 elearning
 kennis
 a-magazines
+e
 www2
 forms
 inloggen
@@ -108,13 +109,13 @@ auth
 ns1
 www.mijn
 adfs
-e
 remote
 www-a
 zaaksysteem-acc
 git
 aanvragen
 magazinesintern
+link
 eloket
 luchtfoto
 testeloket
@@ -195,7 +196,6 @@ mx2
 iam
 media
 mail2
-link
 helloid
 chw
 test.resultaten
@@ -382,6 +382,7 @@ register
 papiamento
 pdok
 vacature
+magazine
 geoportal
 gisservices
 gisservicesacc
@@ -5291,7 +5292,6 @@ koopkoppeling
 lta-acc
 lta-tst
 lta
-magazine
 mobielgis-test
 monitor-klimaatadaptatie
 monitorleefomgeving
@@ -5553,3 +5553,5 @@ test.redactie
 www.acceptatie.redactie
 www.redactie
 www.test
+watdraagjijbij
+www.watdraagjijbij
