@@ -6,8 +6,8 @@ english
 a-www
 mail
 a-opendata
-a-feeds
 autodiscover
+a-feeds
 test
 acc
 _autodiscover._tcp
@@ -108,6 +108,7 @@ auth
 ns1
 www.mijn
 adfs
+e
 remote
 www-a
 zaaksysteem-acc
@@ -173,7 +174,6 @@ connect-acpt
 acc.mijn
 cmsintranet
 denkmee
-e
 test-cmsintranet
 test-intranet
 csoacct
@@ -194,6 +194,7 @@ mx2
 iam
 media
 mail2
+link
 helloid
 chw
 test.resultaten
@@ -380,7 +381,6 @@ register
 papiamento
 pdok
 vacature
-link
 geoportal
 gisservices
 gisservicesacc
