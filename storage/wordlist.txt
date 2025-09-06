@@ -33,6 +33,7 @@ portaal
 redactie
 www-acc
 data
+kennisbank
 proto
 www-ac
 www-dev
@@ -47,7 +48,6 @@ ftp
 geoservices
 geo
 apps
-kennisbank
 www-ow
 www-ts
 webservices
@@ -58,6 +58,7 @@ docs
 onderzoek
 portal
 digikoppeling
+staging
 www-acc2
 www-dev2
 www-p2
@@ -76,7 +77,6 @@ mdm
 elearning
 kennis
 a-magazines
-staging
 www2
 forms
 inloggen
