@@ -351,6 +351,7 @@ http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
 http://www.entreepgb.svb.nl
+http://www.me2.alterra.nl
 http://www.openstad.zuid-holland.nl
 http://www.rivmmagazines.nl
 http://www.slimmerreizen.zuid-holland.nl
@@ -1104,6 +1105,8 @@ https://coronarekening.rekenkamer.nl
 https://corsa-acpt.brabant.nl
 https://corsa.brabant.nl
 https://corsa2023.brabant.nl
+https://cost832.alterra.nl
+https://cost869.alterra.nl
 https://cpanel.opwegnaarseb.nl
 https://cparegister.nl
 https://crisis.nl
@@ -2049,6 +2052,7 @@ https://ip4.rijkscloud.nl
 https://ip6.rijkscloud.nl
 https://ipi.rijkscloud.nl
 https://iplo.nl
+https://ipw4.alterra.nl
 https://irealisatie.nl
 https://iris.knmi.nl
 https://ishetafval.nl
@@ -2899,6 +2903,7 @@ https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pdok.aerius.nl
 https://perf.omgevingswet.overheid.nl
+https://perpest.alterra.nl
 https://pers.svb.nl
 https://persberichten.rijksoverheid.nl
 https://pesticidesdatabase.ctgb.nl
@@ -3006,6 +3011,7 @@ https://preview.api.dataplatform.knmi.nl
 https://preview.nederlandwereldwijd.nl
 https://preview.netherlandsworldwide.nl
 https://preview.wegwijzer.overheid.nl
+https://primet.alterra.nl
 https://privaat.octomon.ncsc.nl
 https://privacy.jeugdconnect.nl
 https://privacy.nctv.nl
@@ -3475,6 +3481,7 @@ https://survey.cibg.nl
 https://survey.platformrijksoverheid.nl
 https://surveys.cbs.nl
 https://svb.nl
+https://swap.alterra.nl
 https://symbolenbank.nctv.nl
 https://synergy.huurcommissie.nl
 https://sys-staging-mijn.rvo.nl
@@ -3570,6 +3577,7 @@ https://tiles.ndw.nu
 https://tileserver.ndw.nu
 https://tl.iplo.nl
 https://tlokb.nl
+https://tmp.swap.alterra.nl
 https://tmv.cibg.nl
 https://tmx.vallei-veluwe.nl
 https://tmxweb.rijkswaterstaat.nl
@@ -3936,6 +3944,7 @@ https://www.algemenebestuursdienst.nl
 https://www.alleenjijbepaalt.nl
 https://www.allesoverbiologisch.nl
 https://www.allesoversport.nl
+https://www.alterra.nl
 https://www.ambassadeursconferentie.nl
 https://www.ambtelijkerechtspositie.nl
 https://www.animalfreeinnovationtpi.nl
@@ -4035,6 +4044,8 @@ https://www.communicatierijk.nl
 https://www.community-gatewayreview.nl
 https://www.consexponano.nl
 https://www.contactpuntbouwproducten.nl
+https://www.cost832.alterra.nl
+https://www.cost869.alterra.nl
 https://www.crisis.nl
 https://www.csirtdsp.nl
 https://www.ctgb.nl
@@ -4180,6 +4191,7 @@ https://www.intpatch.omgevingswet.overheid.nl
 https://www.investeringsimpulsspv.nl
 https://www.iob-evaluatie.nl
 https://www.iplo.nl
+https://www.ipw4.alterra.nl
 https://www.irealisatie.nl
 https://www.ishetafval.nl
 https://www.isis-web.nl
@@ -4281,6 +4293,7 @@ https://www.nl-works.com
 https://www.nlarbeidsinspectie.nl
 https://www.nlinfrankrijk.nl
 https://www.nllabourauthority.nl
+https://www.nmi.alterra.nl
 https://www.nponderwijs.nl
 https://www.nrgd.nl
 https://www.nt.ndw.nu
@@ -4312,6 +4325,7 @@ https://www.openkat.nl
 https://www.oprijk.nl
 https://www.opwegnaarseb.nl
 https://www.ordz.nl
+https://www.otter.alterra.nl
 https://www.ouders-uit-elkaar.nl
 https://www.ov-consumentenplatform.nl
 https://www.overalsnelinternet.nl
@@ -4323,10 +4337,12 @@ https://www.p-direkt.nl
 https://www.pacemweb.nl
 https://www.pagw.nl
 https://www.perf.omgevingswet.overheid.nl
+https://www.perpest.alterra.nl
 https://www.pns.nl
 https://www.politiekeambtsdragers.nl
 https://www.postedworkers.nl
 https://www.pre.omgevingswet.overheid.nl
+https://www.primet.alterra.nl
 https://www.prolander.nl
 https://www.prosecutionservice.nl
 https://www.raadopenbaarbestuur.nl
@@ -4386,9 +4402,12 @@ https://www.staatscommissietegendiscriminatieenracisme.nl
 https://www.staatsexamensnt2.nl
 https://www.startmetdelen.nl
 https://www.startmetoesorichtlijnen.nl
+https://www.stone.alterra.nl
 https://www.stopheling.nl
 https://www.strafrechtketen.nl
 https://www.svb.nl
+https://www.swap.alterra.nl
+https://www.synbiosys.alterra.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tib-ivd.nl
 https://www.tlokb.nl

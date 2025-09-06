@@ -751,6 +751,7 @@ allesoversport.nl
 alliant.rijkswaterstaat.nl
 alm.cibg.nl
 almanak.overheid.nl
+alterra.nl
 am.rijkswaterstaat.nl
 ambassadeursconferentie.nl
 ambtelijkerechtspositie.nl
@@ -976,6 +977,7 @@ atlas.limburg.nl
 atlas.odmh.nl
 atlas.ruimtelijkeordening.nl
 atlas.zuid-holland.nl
+atlasanders-test.alterra.nl
 atlasinfectieziekten.nl
 atlasleefomgeving.nl
 atlasnatuurlijkkapitaal.nl
@@ -1784,6 +1786,8 @@ coronarekening.rekenkamer.nl
 corsa-acpt.brabant.nl
 corsa.brabant.nl
 corsa2023.brabant.nl
+cost832.alterra.nl
+cost869.alterra.nl
 cp.vcdn.belastingdienst.nl
 cpanel.opwegnaarseb.nl
 cpapps.belastingdienst.nl
@@ -3248,6 +3252,7 @@ hdsr.nl
 healthcouncil.nl
 helloid.aaenmaas.nl
 helloid.vechtstromen.nl
+help200x.alterra.nl
 helpdesk.acc.irealisatie.nl
 helpdesk.brba.nl
 helpdesk.irealisatie.nl
@@ -3516,6 +3521,7 @@ ipsec.acm.nl
 ipsec.services.acm.nl
 ipsec1.dictu.nl
 ipsec2.dictu.nl
+ipw4.alterra.nl
 irealisatie.nl
 iris.knmi.nl
 irmpol-acc.dictu.nl
@@ -5217,6 +5223,7 @@ pensioen.toeslagen.nl
 perf.omgevingswet.overheid.nl
 performance.ix.rijkscloud.nl
 performance.rijkscloud.nl
+perpest.alterra.nl
 pers.svb.nl
 persberichten.rijksoverheid.nl
 pesticidesdatabase.ctgb.nl
@@ -5438,6 +5445,7 @@ preview.loketgezondleven.nl
 preview.nederlandwereldwijd.nl
 preview.netherlandsworldwide.nl
 preview.wegwijzer.overheid.nl
+primet.alterra.nl
 primos.datawonen.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
@@ -5517,6 +5525,7 @@ proxy-epbd.ep-online.nl
 proxy-lab.rvb.rijkscloud.nl
 proxy.brabant.nl
 proxy.cbs.nl
+proxy.geodata.alterra.nl
 proxy.socint.belastingdienst.nl
 prp.svb.nl
 prs-stub.proeftuin.gf.irealisatie.nl
@@ -6169,6 +6178,7 @@ signing-auth-prod.dictu.nl
 signing.ep-online.nl
 signing.pre.brabant.nl
 simcms.ahn.nl
+simlandscape.alterra.nl
 simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
 sip.cbg-meb.nl
@@ -6520,8 +6530,10 @@ svbappa.svb.nl
 svbappo.svb.nl
 svmsta.dictu.nl
 svn.logius.nl
+swap.alterra.nl
 symbolenbank.nctv.nl
 synapse.rijkscloud.nl
+synbiosys.alterra.nl
 synergy.huurcommissie.nl
 sys-mijn.rvo.nl
 sys-staging-mijn.rvo.nl
@@ -6736,6 +6748,7 @@ tm.knmi.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
+tmp.swap.alterra.nl
 tmv.cibg.nl
 tmv.rvig.nl
 tmx.vallei-veluwe.nl
@@ -7583,6 +7596,7 @@ www.algemenebestuursdienst.nl
 www.alleenjijbepaalt.nl
 www.allesoverbiologisch.nl
 www.allesoversport.nl
+www.alterra.nl
 www.ambassadeursconferentie.nl
 www.ambtelijkerechtspositie.nl
 www.animalfreeinnovationtpi.nl
@@ -7699,6 +7713,8 @@ www.community-gatewayreview.nl
 www.connect.dictu.nl
 www.consexponano.nl
 www.contactpuntbouwproducten.nl
+www.cost832.alterra.nl
+www.cost869.alterra.nl
 www.crisis.nl
 www.csirtdsp.nl
 www.ctgb.nl
@@ -7737,6 +7753,7 @@ www.domeinenrz.nl
 www.donorregister.nl
 www.douane.nl
 www.draaiboekpsie.nl
+www.droplet.alterra.nl
 www.dsta.nl
 www.dus-i.nl
 www.dustex.nl
@@ -7782,6 +7799,7 @@ www.functiegebouwrijksoverheid.nl
 www.gelijke-kansen.nl
 www.geneesmiddeleninformatiebank.nl
 www.geobasisregistraties.nl
+www.geodata.alterra.nl
 www.geoserver.limburg.nl
 www.gezondeleefomgeving.nl
 www.gezondheidsraad.nl
@@ -7799,6 +7817,7 @@ www.government.nl
 www.grensinfo.nl
 www.grenzeloossamenwerken.nl
 www.groeiennaarmorgen.nl
+www.groenwonen.alterra.nl
 www.gtmx.acc.belastingdienst.nl
 www.handelingenbank.info
 www.hansken.nl
@@ -7850,6 +7869,7 @@ www.intpatch.omgevingswet.overheid.nl
 www.investeringsimpulsspv.nl
 www.iob-evaluatie.nl
 www.iplo.nl
+www.ipw4.alterra.nl
 www.irealisatie.nl
 www.ishetafval.nl
 www.isis-web.nl
@@ -7906,6 +7926,7 @@ www.magazinesrijkswaterstaat.nl
 www.mail.bureauwsnp.nl
 www.marechaussee.nl
 www.mattermost.aerius.nl
+www.me2.alterra.nl
 www.medicijnkosten.nl
 www.medicineshortagesdefects.nl
 www.meldproduct.nl
@@ -7957,6 +7978,7 @@ www.nl-works.com
 www.nlarbeidsinspectie.nl
 www.nlinfrankrijk.nl
 www.nllabourauthority.nl
+www.nmi.alterra.nl
 www.nponderwijs.nl
 www.nrgd.nl
 www.nt.ndw.nu
@@ -7990,6 +8012,7 @@ www.openstad.zuid-holland.nl
 www.oprijk.nl
 www.opwegnaarseb.nl
 www.ordz.nl
+www.otter.alterra.nl
 www.ouders-uit-elkaar.nl
 www.ov-consumentenplatform.nl
 www.overalsnelinternet.nl
@@ -8000,13 +8023,17 @@ www.overtoeslagen.nl
 www.p-direkt.nl
 www.pacemweb.nl
 www.pagw.nl
+www.pearl.alterra.nl
+www.peatwise.alterra.nl
 www.perf.omgevingswet.overheid.nl
+www.perpest.alterra.nl
 www.platformrijksoverheid.nl
 www.plekchecker.rvo.nl
 www.pns.nl
 www.politiekeambtsdragers.nl
 www.postedworkers.nl
 www.pre.omgevingswet.overheid.nl
+www.primet.alterra.nl
 www.prizmo-acc.rvo.nl
 www.prizmo.rvo.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
@@ -8082,9 +8109,12 @@ www.staging.rijkswaterstaat.nl
 www.staging.werkenbij.rijkswaterstaat.nl
 www.startmetdelen.nl
 www.startmetoesorichtlijnen.nl
+www.stone.alterra.nl
 www.stopheling.nl
 www.strafrechtketen.nl
 www.svb.nl
+www.swap.alterra.nl
+www.synbiosys.alterra.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
