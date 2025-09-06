@@ -182,6 +182,7 @@ m
 mijn-acc
 vt
 chat
+tst
 lyncdiscover
 jaarverslag
 vacatures
@@ -220,6 +221,7 @@ mijn.acc
 mysites
 ns3
 ns4
+ont
 pleio
 sa
 start
@@ -319,7 +321,6 @@ zaaksysteem-accept
 sdm
 acc.api
 authenticatie
-tst
 archief
 files
 nextcloud
@@ -859,7 +860,6 @@ olsgqa50
 onboarding.acc
 onboarding
 onlineaangifte.str1.acc
-ont
 ontimegtw
 ontimegtw.ont
 opleiding-ola
