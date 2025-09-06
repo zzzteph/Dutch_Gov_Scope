@@ -66,6 +66,8 @@ www-tst2
 loket
 zaaksysteem
 papiamentu
+adobe-analytics-dc
+adobe-tags
 fs
 acceptatie.beheer
 atlas
@@ -85,8 +87,6 @@ geoweb
 mx1
 maps
 geodata
-adobe-analytics-dc
-adobe-tags
 enterpriseenrollment
 enterpriseregistration
 ns2
