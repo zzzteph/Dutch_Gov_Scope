@@ -772,6 +772,7 @@ address-data-management-docogo.hub.arcgis.com
 address-outreach-pcg.hub.arcgis.com
 addressing-homelessness-muniorg.hub.arcgis.com
 addressing.test.zm.irealisatie.nl
+adfs.architectenregister.nl
 adfs.flevoland.nl
 adfs.hhdelfland.nl
 adfs.huurcommissie.nl
@@ -1136,6 +1137,7 @@ archief.zuid-holland.nl
 archiefviewer.knmi.nl
 archis.cultureelerfgoed.nl
 archisarchief.cultureelerfgoed.nl
+architectenregister.nl
 architecture.arcgis.com
 arcscripts.arcgis.com
 argenteuil-geo-open-data-ca-ab.hub.arcgis.com
@@ -1356,6 +1358,7 @@ b2btest.belastingdienst.nl
 b2btest.douane.nl
 b2btest.toeslagen.nl
 backbone.ndw.nu
+backend.architectenregister.nl
 backend.isms.cibg.nl
 backend.socint.acc.belastingdienst.nl
 backend.socint.belastingdienst.nl
@@ -6129,10 +6132,12 @@ prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
 prod-nl-dictu-dkb-sign.dictu.nl
 prod-nl-nvwa-dkb-sign.dictu.nl
+prod.architectwebservice.architectenregister.nl
 prod.asbestvolgsysteem.nl
 prod.cultureelerfgoed.nl
 prod.dictu.nl
 prod.flevoland.nl
+prod.ifundswebservice.architectenregister.nl
 prod.intranet.rvig.nl
 prod.justis.nl
 prod.mercurius.sso3w.nl
@@ -6383,6 +6388,7 @@ release.isis-web.nl
 remote-pa.hdsr.nl
 remote.acm.nl
 remote.actal.nl
+remote.architectenregister.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remote.services.acm.nl
@@ -7334,6 +7340,7 @@ test.adviescollegeveiligheidgroningen.nl
 test.aerius.nl
 test.antennebureau.nl
 test.aquo.nl
+test.architectwebservice.architectenregister.nl
 test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
 test.auth.dezi.nl
@@ -7367,6 +7374,7 @@ test.gezondeleefomgeving.nl
 test.gf.irealisatie.nl
 test.handelingenbank.info
 test.hcv.mijn.overheid.nl
+test.ifundswebservice.architectenregister.nl
 test.informatiehuis.rvo.nl
 test.intranet-demo.dictu.nl
 test.intranet.justis.nl
@@ -8361,6 +8369,7 @@ www.arbeidsmigratieingoedebanen.nl
 www.arbocatalogusmbo.nl
 www.arboportaal.nl
 www.arcgis.com
+www.architectenregister.nl
 www.asbestvolgsysteem.nl
 www.asbestvrijdak.nl
 www.asl.omgevingswet.overheid.nl

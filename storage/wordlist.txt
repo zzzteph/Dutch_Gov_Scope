@@ -79,7 +79,9 @@ mdm
 elearning
 kennis
 a-magazines
+adfs
 e
+remote
 www2
 forms
 inloggen
@@ -109,8 +111,6 @@ mam
 auth
 ns1
 www.mijn
-adfs
-remote
 www-a
 zaaksysteem-acc
 git
@@ -6236,3 +6236,8 @@ www.data-nycgov.opendata
 www.uv.maps
 wycopa.maps
 zartico.maps
+backend
+prod.architectwebservice
+prod.ifundswebservice
+test.architectwebservice
+test.ifundswebservice
