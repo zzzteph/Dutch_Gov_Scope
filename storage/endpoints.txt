@@ -65,6 +65,7 @@ http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.actal.nl
 http://autodiscover.afm.nl
+http://autodiscover.atgb.nl
 http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
@@ -956,6 +957,7 @@ https://astro.arcgis.com
 https://astrogeology-usgs.hub.arcgis.com
 https://asycuda.belastingdienst-cn.nl
 https://atc-covid19data-austin.hub.arcgis.com
+https://atgb.nl
 https://atkm.nl
 https://atlante-del-paesaggio-provinciaperugia.hub.arcgis.com
 https://atlas-smwk.hub.arcgis.com
@@ -4698,6 +4700,7 @@ https://www.arcgis.com
 https://www.architectenregister.nl
 https://www.asbestvolgsysteem.nl
 https://www.asbestvrijdak.nl
+https://www.atgb.nl
 https://www.atkm.nl
 https://www.atlas.limburg.nl
 https://www.atlasinfectieziekten.nl
