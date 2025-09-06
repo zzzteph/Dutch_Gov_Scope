@@ -85,6 +85,8 @@ geoweb
 mx1
 maps
 geodata
+adobe-analytics-dc
+adobe-tags
 enterpriseenrollment
 enterpriseregistration
 ns2
@@ -119,8 +121,6 @@ vpn2
 ontwikkel
 pushmail
 academie
-adobe-analytics-dc
-adobe-tags
 b2b
 b2btest-gemnet
 b2btest-osb
