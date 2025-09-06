@@ -1404,6 +1404,7 @@ bathymetrie.rijkswaterstaat.nl
 bay-lake-rpc-covid-19-economic-hub-baylakerpc.hub.arcgis.com
 bayshoretrail-doorcounty-baylakerpc.hub.arcgis.com
 bbapitest.ix.rijkscloud.nl
+bblonline.nl
 bcem-coronavirus-bentear.hub.arcgis.com
 bcld-config.nl
 bcrpwt.knmi.nl
@@ -2496,6 +2497,7 @@ developer.omgevingswet.overheid.nl
 developer.overheid.nl
 developer.rvig.nl
 developers.arcgis.com
+development.bblonline.nl
 devext.arcgis.com
 dexter.ndw.nu
 dexter.staging.ndw.nu
@@ -4657,6 +4659,7 @@ mail.aquo.nl
 mail.atr-regeldruk.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
+mail.bblonline.nl
 mail.beeldbellen.dji.nl
 mail.bodemvizier.nl
 mail.bofeb.nl
@@ -8418,6 +8421,7 @@ www.bankdataretrievalportal.nl
 www.basisinformatie-overstromingen.nl
 www.basisregistratie.vechtstromen.nl
 www.basisregistratieondergrond.nl
+www.bblonline.nl
 www.bcld-config.nl
 www.beeldbank.cultureelerfgoed.nl
 www.beeldbankbelastingdienst.nl
