@@ -15,8 +15,8 @@ magazines
 mijn
 feeds.english
 opendata.english
-intranet
 acceptatie
+intranet
 api
 webmail
 cms
@@ -25,12 +25,12 @@ vpn
 werkplek
 a-english
 formulieren
+redactie
 connect
 a-feeds.a-english
 a-opendata.a-english
 prod
 portaal
-redactie
 www-acc
 data
 kennisbank
@@ -151,6 +151,7 @@ externemail
 m365
 sf
 formulier
+oud
 api-acc
 a-cms1
 a-cms2
@@ -266,12 +267,12 @@ acceptatie.digikoppeling2
 digikoppeling2
 stijlgids
 tmv
+www.acceptatie
 a-api
 password
 testconn
 auth.services
 linkeddata
-oud
 subsidie
 thesaurus
 gw
@@ -1541,7 +1542,6 @@ uzipas.lir
 webchat.klopt
 webservices.lrza
 www2.zorgcsp
-www.acceptatie
 mijnloket-acc
 mijnloket
 ons
@@ -5547,3 +5547,9 @@ www.blikvooruit
 www.diversiteitsportaal
 www.loopbaanadvies
 eijsden.dbsync
+acceptatie.redactie
+standaard
+test.redactie
+www.acceptatie.redactie
+www.redactie
+www.test
