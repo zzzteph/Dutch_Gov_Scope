@@ -173,6 +173,7 @@ connect-acpt
 acc.mijn
 cmsintranet
 denkmee
+e
 test-cmsintranet
 test-intranet
 csoacct
@@ -301,7 +302,6 @@ www.acc
 www3
 nieuwsbrief
 piwik
-e
 exchange
 kaart
 legacy
@@ -380,6 +380,7 @@ register
 papiamento
 pdok
 vacature
+link
 geoportal
 gisservices
 gisservicesacc
@@ -5419,7 +5420,6 @@ fame
 imaer
 legend
 lightning
-link
 mattermost
 meander
 melding
@@ -5534,3 +5534,15 @@ www.synbiosys
 alert
 missing
 rss
+blikvooruit
+diversiteitsportaal
+loopbaanadvies
+subsidies-backend.acceptatie
+subsidies-backend
+subsidies-login.acceptatie
+subsidies-login
+subsidies.acceptatie
+subsidies
+www.blikvooruit
+www.diversiteitsportaal
+www.loopbaanadvies
