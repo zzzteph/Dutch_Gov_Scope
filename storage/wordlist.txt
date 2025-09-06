@@ -17,8 +17,8 @@ feeds.english
 opendata.english
 acceptatie
 intranet
-api
 webmail
+api
 cms
 _dmarc
 vpn

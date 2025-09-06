@@ -66,6 +66,7 @@ http://autodiscover.aaenmaas.nl
 http://autodiscover.actal.nl
 http://autodiscover.afm.nl
 http://autodiscover.atgb.nl
+http://autodiscover.atr-regeldruk.nl
 http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
@@ -970,6 +971,7 @@ https://atlasinfectieziekten.nl
 https://atlasleefomgeving.nl
 https://atlasnatuurlijkkapitaal.nl
 https://atlasofmutualheritage.nl
+https://atr-regeldruk.nl
 https://atviri-duomenys-ltdata.hub.arcgis.com
 https://auditdienstrijk.nl
 https://augustagis.maps.arcgis.com
@@ -2893,6 +2895,7 @@ https://magazinesintern.rijksvastgoedbedrijf.nl
 https://magazinesrijkswaterstaat.nl
 https://mail.actal.nl
 https://mail.aladdin.p-direkt.nl
+https://mail.atr-regeldruk.nl
 https://mail.bofeb.nl
 https://mail.cggp.nl
 https://mail.community-gatewayreview.nl
@@ -4519,6 +4522,7 @@ https://webform.rvo.nl
 https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
+https://webmail.atr-regeldruk.nl
 https://webmail.brabant.nl
 https://webmail.flevoland.nl
 https://webmail.ofgv.nl
@@ -4708,6 +4712,7 @@ https://www.atlasinfectieziekten.nl
 https://www.atlasleefomgeving.nl
 https://www.atlasnatuurlijkkapitaal.nl
 https://www.atlasofmutualheritage.nl
+https://www.atr-regeldruk.nl
 https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
