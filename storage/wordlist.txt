@@ -157,6 +157,7 @@ m365
 sf
 formulier
 oud
+share
 api-acc
 a-cms1
 a-cms2
@@ -278,7 +279,6 @@ auth.services
 linkeddata
 subsidie
 thesaurus
-share
 gw
 i-cms
 i-cms1
@@ -392,6 +392,11 @@ pdok
 vacature
 securemail
 magazine
+acceptatie-nieuw
+productie-nieuw
+share.acceptatie-nieuw
+share.test-nieuw
+test-nieuw
 geoportal
 gisservices
 gisservicesacc
@@ -6275,9 +6280,6 @@ nlrdms
 rws-bic-p01
 securemailnew
 srkbroker
-acceptatie-nieuw
 internal
-productie-nieuw
-share.acceptatie-nieuw
-share.test-nieuw
-test-nieuw
+deployment
+o2.ptr8287

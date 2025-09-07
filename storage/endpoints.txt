@@ -599,6 +599,7 @@ https://acceptatie-melding.aerius.nl
 https://acceptatie-melvin.ndw.nu
 https://acceptatie-monitor.aerius.nl
 https://acceptatie-nieuw.bidbook.eu
+https://acceptatie-nieuw.biedboek.nl
 https://acceptatie-pdok.aerius.nl
 https://acceptatie-register.aerius.nl
 https://acceptatie-scenario.aerius.nl
@@ -1176,6 +1177,7 @@ https://bh-integratie.inspectieview.nl
 https://bibliotheek.knmi.nl
 https://bics.nl
 https://bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
+https://biedboek.nl
 https://big-dam-swamp-intersection-scdot.hub.arcgis.com
 https://big-register.nl
 https://big-stone-county-hmp-umn.hub.arcgis.com
@@ -1704,6 +1706,7 @@ https://denkmee.flevoland.nl
 https://denkmee.zuid-holland.nl
 https://denkmeemet.zuid-holland.nl
 https://denw.hdsr.nl
+https://deployment.biedboek.nl
 https://design.ndw.nu
 https://designsystem.cbs.nl
 https://designsystem.cibg.nl
@@ -3734,6 +3737,7 @@ https://prod.rvig.nl
 https://prod.tlokb.nl
 https://prod.wetten.rvo.nl
 https://productie-nieuw.bidbook.eu
+https://productie-nieuw.biedboek.nl
 https://proeftuin.uzi-online.irealisatie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
@@ -4025,8 +4029,11 @@ https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://share-open-data-citywindsor.hub.arcgis.com
 https://share.acceptatie-nieuw.bidbook.eu
+https://share.acceptatie-nieuw.biedboek.nl
+https://share.biedboek.nl
 https://share.cvte.nl
 https://share.test-nieuw.bidbook.eu
+https://share.test-nieuw.biedboek.nl
 https://shared-services.ndw.nu
 https://shared-services.staging.ndw.nu
 https://sharingknowledge.rvo.nl
@@ -4258,6 +4265,7 @@ https://test-kpi-dashboard.ndw.nu
 https://test-melding.aerius.nl
 https://test-monitor.aerius.nl
 https://test-nieuw.bidbook.eu
+https://test-nieuw.biedboek.nl
 https://test-register.aerius.nl
 https://test-scenario.aerius.nl
 https://test-wetten.rvo.nl
@@ -4788,6 +4796,7 @@ https://www.bezwaarschriftenocw.nl
 https://www.bibliopolis.nl
 https://www.bics.nl
 https://www.bidbook.eu
+https://www.biedboek.nl
 https://www.big-register.nl
 https://www.bigregister.nl
 https://www.binnenhofrenovatie.nl

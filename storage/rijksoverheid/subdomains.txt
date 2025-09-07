@@ -597,6 +597,7 @@ acceptatie-melding.aerius.nl
 acceptatie-melvin.ndw.nu
 acceptatie-monitor.aerius.nl
 acceptatie-nieuw.bidbook.eu
+acceptatie-nieuw.biedboek.nl
 acceptatie-odc-noord.rijkscloud.nl
 acceptatie-pdok.aerius.nl
 acceptatie-register.aerius.nl
@@ -1590,6 +1591,7 @@ bibliotheek.knmi.nl
 bics.nl
 bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
 bideo.belastingdienst.nl
+biedboek.nl
 big-dam-swamp-intersection-scdot.hub.arcgis.com
 big-register.nl
 big-stone-county-hmp-umn.hub.arcgis.com
@@ -2469,6 +2471,7 @@ denkmee.zuid-holland.nl
 denkmeemet.zuid-holland.nl
 denw.hdsr.nl
 deployer.ssc-ict.nl
+deployment.biedboek.nl
 design.ndw.nu
 designsystem.cbs.nl
 designsystem.cibg.nl
@@ -5429,6 +5432,7 @@ o2-cms.contenttoolsrijksoverheid.nl
 o2-next-cms.contenttoolsrijksoverheid.nl
 o2-old-cms.contenttoolsrijksoverheid.nl
 o2.mail.informatieservice.nederlandwereldwijd.nl
+o2.ptr8287.biedboek.nl
 o3-api.contenttoolsrijksoverheid.nl
 o3-cms.contenttoolsrijksoverheid.nl
 o3-next-cms.contenttoolsrijksoverheid.nl
@@ -6208,6 +6212,7 @@ prod.wetten.rvo.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
 productie-nieuw.bidbook.eu
+productie-nieuw.biedboek.nl
 productie.loketgezondleven.nl
 productie.sodm.nl
 proeftuin.gf.irealisatie.nl
@@ -6868,9 +6873,12 @@ sftp.test.cbs.nl
 sftp4dummies.cbs.nl
 share-open-data-citywindsor.hub.arcgis.com
 share.acceptatie-nieuw.bidbook.eu
+share.acceptatie-nieuw.biedboek.nl
 share.bidbook.eu
+share.biedboek.nl
 share.cvte.nl
 share.test-nieuw.bidbook.eu
+share.test-nieuw.biedboek.nl
 shared-services.ndw.nu
 shared-services.staging.ndw.nu
 sharepoint-acc-ext.belastingdienst.nl
@@ -7397,6 +7405,7 @@ test-melding.aerius.nl
 test-mijn.rvo.nl
 test-monitor.aerius.nl
 test-nieuw.bidbook.eu
+test-nieuw.biedboek.nl
 test-register.aerius.nl
 test-scenario.aerius.nl
 test-tno.bronhouderportaal-bro.nl
@@ -8496,6 +8505,7 @@ www.bgt-client-certificaat.rvo.nl
 www.bibliopolis.nl
 www.bics.nl
 www.bidbook.eu
+www.biedboek.nl
 www.big-register.nl
 www.bigregister.nl
 www.binnenhofrenovatie.nl
