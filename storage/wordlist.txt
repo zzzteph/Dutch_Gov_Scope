@@ -16,8 +16,8 @@ mijn
 feeds.english
 opendata.english
 acceptatie
-intranet
 webmail
+intranet
 api
 cms
 _dmarc
@@ -278,6 +278,7 @@ auth.services
 linkeddata
 subsidie
 thesaurus
+share
 gw
 i-cms
 i-cms1
@@ -1653,7 +1654,6 @@ www.monumentenregister
 www.test.monumentenregister
 collabra
 examenplein
-share
 testcloud
 generiekefuncties
 55plus
@@ -6275,3 +6275,9 @@ nlrdms
 rws-bic-p01
 securemailnew
 srkbroker
+acceptatie-nieuw
+internal
+productie-nieuw
+share.acceptatie-nieuw
+share.test-nieuw
+test-nieuw

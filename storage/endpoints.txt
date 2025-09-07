@@ -314,6 +314,7 @@ http://samenwerkruimten.belastingdienst.nl
 http://sat.irealisatie.nl
 http://seg.cbs.nl
 http://services-preprod.ep-online.nl
+http://share.bidbook.eu
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://shinyserver.zuid-holland.nl
@@ -597,6 +598,7 @@ https://acceptatie-imaer.aerius.nl
 https://acceptatie-melding.aerius.nl
 https://acceptatie-melvin.ndw.nu
 https://acceptatie-monitor.aerius.nl
+https://acceptatie-nieuw.bidbook.eu
 https://acceptatie-pdok.aerius.nl
 https://acceptatie-register.aerius.nl
 https://acceptatie-scenario.aerius.nl
@@ -3731,6 +3733,7 @@ https://prod.radar.rdi.nl
 https://prod.rvig.nl
 https://prod.tlokb.nl
 https://prod.wetten.rvo.nl
+https://productie-nieuw.bidbook.eu
 https://proeftuin.uzi-online.irealisatie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
@@ -4021,7 +4024,9 @@ https://sf.knmi.nl
 https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://share-open-data-citywindsor.hub.arcgis.com
+https://share.acceptatie-nieuw.bidbook.eu
 https://share.cvte.nl
+https://share.test-nieuw.bidbook.eu
 https://shared-services.ndw.nu
 https://shared-services.staging.ndw.nu
 https://sharingknowledge.rvo.nl
@@ -4252,6 +4257,7 @@ https://test-intranet.svb.nl
 https://test-kpi-dashboard.ndw.nu
 https://test-melding.aerius.nl
 https://test-monitor.aerius.nl
+https://test-nieuw.bidbook.eu
 https://test-register.aerius.nl
 https://test-scenario.aerius.nl
 https://test-wetten.rvo.nl
@@ -4781,6 +4787,7 @@ https://www.bezoekerscentrum.rijkswaterstaat.nl
 https://www.bezwaarschriftenocw.nl
 https://www.bibliopolis.nl
 https://www.bics.nl
+https://www.bidbook.eu
 https://www.big-register.nl
 https://www.bigregister.nl
 https://www.binnenhofrenovatie.nl
