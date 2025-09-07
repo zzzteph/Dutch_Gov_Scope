@@ -1412,6 +1412,7 @@ bcsorf.knmi.nl
 bcstat-bc-gis.hub.arcgis.com
 bdagov.maps.arcgis.com
 bdkh-bdkh.hub.arcgis.com
+bdmuseum.nl
 bdmz-reth473.belastingdienst.nl
 bdx.domeinenrz.nl
 be305about-mdc.hub.arcgis.com
@@ -7070,6 +7071,7 @@ staging.acc.static.werkenbij.rijkswaterstaat.nl
 staging.acc.web-static.rijkswaterstaat.nl
 staging.agroforestrynetwerk.nl
 staging.arbeidsmarktplatformpo.nl
+staging.bdmuseum.nl
 staging.donorregister.nl
 staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
@@ -7480,6 +7482,7 @@ thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
 tib-ivd.nl
 tib.dataplatform.knmi.nl
+tickets.bdmuseum.nl
 tiledimageservices-eu1.arcgis.com
 tiledimageservices.arcgis.com
 tiles.ndw.nu
@@ -8423,6 +8426,7 @@ www.basisregistratie.vechtstromen.nl
 www.basisregistratieondergrond.nl
 www.bblonline.nl
 www.bcld-config.nl
+www.bdmuseum.nl
 www.beeldbank.cultureelerfgoed.nl
 www.beeldbankbelastingdienst.nl
 www.beeldkompas.nl
@@ -8909,6 +8913,7 @@ www.staatscommissie2050.nl
 www.staatscommissierechtsstaat.nl
 www.staatscommissietegendiscriminatieenracisme.nl
 www.staatsexamensnt2.nl
+www.staging.bdmuseum.nl
 www.staging.rijkswaterstaat.nl
 www.staging.werkenbij.rijkswaterstaat.nl
 www.startmetdelen.nl
