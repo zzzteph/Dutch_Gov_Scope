@@ -67,6 +67,7 @@ http://autodiscover.actal.nl
 http://autodiscover.afm.nl
 http://autodiscover.atgb.nl
 http://autodiscover.atr-regeldruk.nl
+http://autodiscover.bkd.eu
 http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
@@ -81,6 +82,7 @@ http://autodiscover.schoolleidersregisterpo.nl
 http://autodiscover.scp.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
+http://azfortigate.bkd.eu
 http://bacterial-meningitis.nl
 http://bayplanviewer.bics.nl
 http://beeldenvanderaad.nl
@@ -368,6 +370,7 @@ http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://viya.rijkswaterstaat.nl
 http://voi.brabant.nl
+http://vpn.bkd.eu
 http://vth.zuid-holland.nl
 http://w3dxweb.knmi.nl
 http://warmtetransitieatlas.zuid-holland.nl
@@ -668,6 +671,7 @@ https://acceptatie.webservices.bigregister.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acceptatie.zoeken.zorgaanbiedersportaal.nl
+https://acceptatiedigikoppeling.bkd.eu
 https://acceso-datos-ambientales-invemar.hub.arcgis.com
 https://accessibleayr-swecouk.hub.arcgis.com
 https://accnew-cms.afm.nl
@@ -1202,6 +1206,7 @@ https://biosecurityvulnerabilityscan.nl
 https://biosecurityzelfscan.nl
 https://biotechnologie.nl
 https://biss-lra-soem.hub.arcgis.com
+https://bkd.eu
 https://bkk.odmh.nl
 https://blackcountry-blackcountry.hub.arcgis.com
 https://blaeudamo-a.vechtstromen.nl
@@ -1756,6 +1761,7 @@ https://diergeneesmiddeleninformatiebank.nl
 https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://digidafspraak.nederlandwereldwijd.nl
+https://digikoppeling.bkd.eu
 https://digikoppeling.waterschaplimburg.nl
 https://digilab.overheid.nl
 https://digitaal.raadopenbaarbestuur.nl
@@ -1775,6 +1781,7 @@ https://dioxins-wild-cattle.apps.feedfoodtransfer.nl
 https://diversiteitsplein.politiekeambtsdragers.nl
 https://diversiteitsportaal.aofondsrijk.nl
 https://dji.nl
+https://dkl.bkd.eu
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
 https://doc-acc.bronhouderportaal-bro.nl
@@ -2036,6 +2043,7 @@ https://experiencedev.arcgis.com
 https://expertisecentrummggz.nl
 https://explore-humanitarian.hub.arcgis.com
 https://explorer.arcgis.com
+https://export.bkd.eu
 https://extern.formulierdus-i.nl
 https://extranet.onderwijsraad.nl
 https://extreemrechts.nctv.nl
@@ -2461,6 +2469,7 @@ https://gtpa.rvo.nl
 https://gw.defensie.nl
 https://gwv.maps.arcgis.com
 https://halt-verwijs.jeugdconnect.nl
+https://handboek.bkd.eu
 https://handboek.toeslagen.nl
 https://handelingenbank.info
 https://handhaving.vrachtwagenheffing.nl
@@ -2687,6 +2696,7 @@ https://iwelcome.nvwa.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
+https://jaarverslag2024.bkd.eu
 https://jaeger.proeftuin.gf.irealisatie.nl
 https://jaeger.test.gf.irealisatie.nl
 https://jduke7.maps.arcgis.com
@@ -2833,6 +2843,7 @@ https://link.aofondsrijk.nl
 https://link.aovvt.nl
 https://link.arbeidsmarktplatformpo.nl
 https://link.arbocatalogusmbo.nl
+https://link.bkd.eu
 https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
 https://links.informatieservice.nederlandwereldwijd.nl
@@ -3049,6 +3060,7 @@ https://mijn.acm.nl
 https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
 https://mijn.bigregister.nl
+https://mijn.bkd.eu
 https://mijn.cbs.nl
 https://mijn.donorregister.nl
 https://mijn.examenblad.nl
@@ -4243,6 +4255,7 @@ https://taupo.maps.arcgis.com
 https://taxonomie.cbs.nl
 https://tea.bigregister.nl
 https://techniekacademie.rijkswaterstaat.nl
+https://teelt.bkd.eu
 https://terrell.maps.arcgis.com
 https://test-api.stopheling.nl
 https://test-bp.stopheling.nl
@@ -4577,6 +4590,7 @@ https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
 https://webmail.atr-regeldruk.nl
+https://webmail.bkd.eu
 https://webmail.brabant.nl
 https://webmail.flevoland.nl
 https://webmail.ofgv.nl
@@ -4817,6 +4831,7 @@ https://www.biosecurityselfscan.nl
 https://www.biosecurityvulnerabilityscan.nl
 https://www.biosecurityzelfscan.nl
 https://www.biotechnologie.nl
+https://www.bkd.eu
 https://www.blikvooruit.aofondsrijk.nl
 https://www.bodemambities.nl
 https://www.bodemloket.nl
@@ -5030,6 +5045,7 @@ https://www.istandaarden.nl
 https://www.it-academieoverheid.nl
 https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
+https://www.jaarverslag2024.bkd.eu
 https://www.jenvgegevens.nl
 https://www.jeugdautoriteit.nl
 https://www.jeugdconnect.nl

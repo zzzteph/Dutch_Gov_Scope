@@ -708,6 +708,7 @@ acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
 acceptatie2.spin.rijkswaterstaat.nl
+acceptatiedigikoppeling.bkd.eu
 acceptatiepan.emissieautoriteit.nl
 acceso-datos-ambientales-invemar.hub.arcgis.com
 access.om.nl
@@ -1266,6 +1267,7 @@ autodiscover.atgb.nl
 autodiscover.atr-regeldruk.nl
 autodiscover.awti.nl
 autodiscover.beschermdecultuurgoederen.nl
+autodiscover.bkd.eu
 autodiscover.brabant.nl
 autodiscover.cbi.eu
 autodiscover.cbs.nl
@@ -1331,6 +1333,7 @@ axx-test.belastingdienst.nl
 axx.belastingdienst.nl
 ayuntamiento-de-cieza-aytocieza.hub.arcgis.com
 ayuntamientodebaza-atpca.hub.arcgis.com
+azfortigate.bkd.eu
 azgeo-data-hub-agic.hub.arcgis.com
 azgeo-open-data-agic.hub.arcgis.com
 azwstatline.cbs.nl
@@ -1623,6 +1626,7 @@ biosecurityzelfscan.nl
 biotechnologie.nl
 biss-lra-soem.hub.arcgis.com
 bjfw01.knmi.nl
+bkd.eu
 bkk.odmh.nl
 blackcountry-blackcountry.hub.arcgis.com
 blaeudamo-a.vechtstromen.nl
@@ -2580,6 +2584,7 @@ digidafspraak.nederlandwereldwijd.nl
 digikoppeling-dcr.cibg.nl
 digikoppeling-test.hdsr.nl
 digikoppeling.acm.nl
+digikoppeling.bkd.eu
 digikoppeling.cibg.nl
 digikoppeling.dictu.nl
 digikoppeling.diginetwerk.dictu.nl
@@ -2621,6 +2626,7 @@ diversiteitsplein.politiekeambtsdragers.nl
 diversiteitsportaal.aofondsrijk.nl
 dji.nl
 dkb.dictu.nl
+dkl.bkd.eu
 dmarcreport.ncsc.nl
 dmo.omgevingswet.overheid.nl
 dms.hhdelfland.nl
@@ -3067,6 +3073,7 @@ experiencedev.arcgis.com
 expertisecentrummggz.nl
 explore-humanitarian.hub.arcgis.com
 explorer.arcgis.com
+export.bkd.eu
 extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
 extern.knmi.nl
@@ -3831,6 +3838,7 @@ gwc.knmi.nl
 gwv.maps.arcgis.com
 h2ons.waterschaplimburg.nl
 halt-verwijs.jeugdconnect.nl
+handboek.bkd.eu
 handboek.toeslagen.nl
 handelingenbank.info
 handelsmissies.rvo.nl
@@ -4198,6 +4206,7 @@ jaarverslag.knmi.nl
 jaarverslag2011.forensischinstituut.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
+jaarverslag2024.bkd.eu
 jaeger.proeftuin.gf.irealisatie.nl
 jaeger.test.gf.irealisatie.nl
 jaeger.test.zm.irealisatie.nl
@@ -4497,6 +4506,7 @@ link.aofondsrijk.nl
 link.aovvt.nl
 link.arbeidsmarktplatformpo.nl
 link.arbocatalogusmbo.nl
+link.bkd.eu
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
@@ -4955,6 +4965,7 @@ mijn.adr.donorregister.nl
 mijn.belastingdienst-cn.nl
 mijn.belastingdienst.nl
 mijn.bigregister.nl
+mijn.bkd.eu
 mijn.bofeb.nl
 mijn.bron.nl
 mijn.cbs.nl
@@ -5196,6 +5207,7 @@ mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx.ncsc.nl
 mx01.tib-ivd.nl
+mx02.bkd.eu
 mx1.mensenrechten.nl
 mx1.ncsc.nl
 mx1.ofgv.nl
@@ -5437,6 +5449,7 @@ o1-cms.contenttoolsrijksoverheid.nl
 o1-next-cms.contenttoolsrijksoverheid.nl
 o1-old-cms.contenttoolsrijksoverheid.nl
 o1.ptr2462.mail.postedworkers.nl
+o1.ptr6815.bkd.eu
 o2-api.contenttoolsrijksoverheid.nl
 o2-cms.contenttoolsrijksoverheid.nl
 o2-next-cms.contenttoolsrijksoverheid.nl
@@ -6997,6 +7010,7 @@ smartsurveys.cbs.nl
 smtp.awti.nl
 smtp.bapi.belastingdienst.nl
 smtp.bapicft.belastingdienst.nl
+smtp.bkd.eu
 smtp.hhdelfland.nl
 smtp.ofgv.nl
 smtp.oostvaarderskliniek.nl
@@ -7367,6 +7381,7 @@ teams.hhdelfland.nl
 teamstest.hhdelfland.nl
 techniekacademie.rijkswaterstaat.nl
 technische-documentatie.oep.overheid.nl
+teelt.bkd.eu
 tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
 tekortkomingen-wvggz.webservices-dbb.igj.nl
 tekortkomingen-wzd.webservices-dbb-acc.igj.nl
@@ -7376,6 +7391,7 @@ tekortschieten-wvggz.webservices-dbb.igj.nl
 tekortschieten-wzd.webservices-dbb-acc.igj.nl
 tekortschieten-wzd.webservices-dbb.igj.nl
 telewerk.huurcommissie.nl
+telewerken.bkd.eu
 telewerken.hhdelfland.nl
 telewerken.om.nl
 tenantapp.ec.rijkscloud.nl
@@ -7923,6 +7939,7 @@ vpn-ump.devops.rvb.rijkscloud.nl
 vpn.acm.nl
 vpn.afm.nl
 vpn.belastingdienst.nl
+vpn.bkd.eu
 vpn.brabant.nl
 vpn.cbg-meb.nl
 vpn.dictu.nl
@@ -8085,6 +8102,7 @@ webmail.aaenmaas.nl
 webmail.afm.nl
 webmail.atr-regeldruk.nl
 webmail.bidbook.eu
+webmail.bkd.eu
 webmail.brabant.nl
 webmail.ctivd.nl
 webmail.flevoland.nl
@@ -8532,6 +8550,7 @@ www.biosecurityselfscan.nl
 www.biosecurityvulnerabilityscan.nl
 www.biosecurityzelfscan.nl
 www.biotechnologie.nl
+www.bkd.eu
 www.blikvooruit.aofondsrijk.nl
 www.bodemambities.nl
 www.bodemloket.nl
@@ -8760,6 +8779,7 @@ www.istandaarden.nl
 www.it-academieoverheid.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
+www.jaarverslag2024.bkd.eu
 www.jenvgegevens.nl
 www.jeugdautoriteit.nl
 www.jeugdconnect.nl

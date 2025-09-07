@@ -15,8 +15,8 @@ magazines
 mijn
 feeds.english
 opendata.english
-acceptatie
 webmail
+acceptatie
 intranet
 api
 cms
@@ -33,6 +33,7 @@ prod
 portaal
 www-acc
 data
+smtp
 apps
 staging
 kennisbank
@@ -42,12 +43,12 @@ www-dev
 www-p
 www-tst
 login
-smtp
 zoeken
 meet
 sip
 ftp
 geoservices
+digikoppeling
 geo
 www-ow
 www-ts
@@ -58,13 +59,13 @@ open
 docs
 onderzoek
 portal
-digikoppeling
 www-acc2
 www-dev2
 www-p2
 www-tst2
 loket
 zaaksysteem
+link
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -89,7 +90,6 @@ inloggen
 repository
 geoweb
 mx1
-link
 maps
 geodata
 enterpriseenrollment
@@ -188,6 +188,7 @@ test-intranet
 csoacct
 csotest
 sandbox
+telewerken
 m
 mijn-acc
 vt
@@ -323,7 +324,6 @@ AutoDiscover
 begrippen
 inloggen-preprod
 mobile
-telewerken
 zaaksysteem-accept
 sdm
 acc.api
@@ -387,6 +387,7 @@ www.staging
 plekchecker
 dc
 register
+handboek
 papiamento
 support
 pdok
@@ -5119,7 +5120,6 @@ gtmt.str12.acc
 gtmt.str13.acc
 gtmt.str14.acc
 gtmtperf.acc
-handboek
 herstel
 inkomen
 intranet.acc
@@ -6283,3 +6283,12 @@ srkbroker
 internal
 deployment
 o2.ptr8287
+acceptatiedigikoppeling
+azfortigate
+dkl
+export
+jaarverslag2024
+mx02
+o1.ptr6815
+teelt
+www.jaarverslag2024
