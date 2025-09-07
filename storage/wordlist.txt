@@ -177,6 +177,7 @@ site2
 site3
 site4
 t-www
+gitlab
 jira
 mailing
 acc.mijn
@@ -219,6 +220,7 @@ b2b-osb
 b2b-rijks
 beta
 betalen
+delta
 download
 fibd1
 fibd2.acc
@@ -293,7 +295,6 @@ feeds.deutsch
 opendata.deutsch
 dns1
 dns2
-gitlab
 lync
 mail01
 servicedesk
@@ -359,6 +360,7 @@ upnl-zw.mijn
 upnl.mijn
 acceptatie.portaal
 api.mijn
+charlie
 sentry
 a-voorlichting
 track
@@ -378,6 +380,7 @@ wetten
 magazines.english
 digitaal
 fileshare
+gitlab.test
 bon
 a-magazinesintern
 monitor
@@ -564,7 +567,6 @@ ctstest4k
 datumprikker
 dbcrco
 dbpmo
-delta
 digipoort-vpn1
 digipoort-vpn2
 digipoort-wus-acc1
@@ -2800,7 +2802,6 @@ api.acc
 api.mijn.acc
 api.mijn.test
 bvpn
-charlie
 chat2
 csaf.data.security.acc
 csaf.data.security
@@ -3902,7 +3903,6 @@ gitlab.sander.develop
 gitlab.secondary
 gitlab.sodm
 gitlab.test.ix
-gitlab.test
 gitlab.testing
 gitlab.wibo.ienw
 gitlab.wk
@@ -6292,3 +6292,11 @@ mx02
 o1.ptr6815
 teelt
 www.jaarverslag2024
+echo
+inkijk.demo
+inkijkmail1
+inkijkmail2
+office
+porto
+registry-bto
+sgr

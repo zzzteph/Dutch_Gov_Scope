@@ -1628,6 +1628,7 @@ biss-lra-soem.hub.arcgis.com
 bjfw01.knmi.nl
 bkd.eu
 bkk.odmh.nl
+bkwi.nl
 blackcountry-blackcountry.hub.arcgis.com
 blaeudamo-a.vechtstromen.nl
 blaine-county-montana-elections-blainecounty-mt.hub.arcgis.com
@@ -1963,6 +1964,7 @@ channels.logius.nl
 channels.lpc.logius.nl
 charged3-hub-ifs-mpr.hub.arcgis.com
 chargerrecommendation-dcgis.hub.arcgis.com
+charlie.bkwi.nl
 charlie.ncsc.nl
 chascogis.maps.arcgis.com
 chat-dev.rijkscloud.nl
@@ -2460,6 +2462,7 @@ decreg-acc.overheid.nl
 deegsnccu.maps.arcgis.com
 defensie.nl
 delta.belastingdienst.nl
+delta.bkwi.nl
 deltaprogramma.nl
 demo-en.web.ssc-ict.nl
 demo-geoservices.rijkswaterstaat.nl
@@ -2808,6 +2811,7 @@ ebms.service.bta.omgevingswet.overheid.nl
 ecaccess-bologna.knmi.nl
 ecaccess.knmi.nl
 ecadadaguc.knmi.nl
+echo.bkwi.nl
 eco-a-az1.elastic.lpc.logius.nl
 eco-a-az1.kibana.lpc.logius.nl
 eco-a-az2.elastic.lpc.logius.nl
@@ -3700,6 +3704,7 @@ github.apps.feedfoodtransfer.nl
 gitlab-acc.dictu.nl
 gitlab.analyse.ilt.rijkscloud.nl
 gitlab.anvs.rijkscloud.nl
+gitlab.bkwi.nl
 gitlab.datascience.rijkscloud.nl
 gitlab.dgdoobi.rijkscloud.nl
 gitlab.dictu.nl
@@ -3722,6 +3727,7 @@ gitlab.rvig.rijkscloud.nl
 gitlab.sander.develop.rijkscloud.nl
 gitlab.secondary.rijkscloud.nl
 gitlab.sodm.rijkscloud.nl
+gitlab.test.bkwi.nl
 gitlab.test.ix.rijkscloud.nl
 gitlab.test.rijkscloud.nl
 gitlab.testing.rijkscloud.nl
@@ -4046,6 +4052,9 @@ informatieproducten.duo.rijkscloud.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 informatieservice.nederlandwereldwijd.nl
 infrabeheer.rvb.rijkscloud.nl
+inkijk.demo.bkwi.nl
+inkijkmail1.bkwi.nl
+inkijkmail2.bkwi.nl
 inkomen.toeslagen.nl
 inkoopplein-acc.dictu.nl
 inkoopplein.dictu.nl
@@ -5498,6 +5507,7 @@ oecdguidelines.nl
 oefenvragenlijst.cbs.nl
 oesorichtlijnen.nl
 ofallon.maps.arcgis.com
+office.bkwi.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
@@ -6140,6 +6150,7 @@ portalnaan.entreepgb.svb.nl
 portalonte.entreepgb.svb.nl
 portaltepr.entreepgb.svb.nl
 portaltest.entreepgb.svb.nl
+porto.bkwi.nl
 positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
@@ -6449,6 +6460,7 @@ register.tlokb.nl
 registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
 registreren.ep-online.nl
+registry-bto.bkwi.nl
 registry.acceptatie.istandaarden.nl
 registry.git.ivho.rijkscloud.nl
 registry.git.oai.rijkscloud.nl
@@ -6895,6 +6907,7 @@ sftp-out.brba.nl
 sftp.cbs.nl
 sftp.test.cbs.nl
 sftp4dummies.cbs.nl
+sgr.bkwi.nl
 share-open-data-citywindsor.hub.arcgis.com
 share.acceptatie-nieuw.bidbook.eu
 share.acceptatie-nieuw.biedboek.nl
@@ -8551,6 +8564,7 @@ www.biosecurityvulnerabilityscan.nl
 www.biosecurityzelfscan.nl
 www.biotechnologie.nl
 www.bkd.eu
+www.bkwi.nl
 www.blikvooruit.aofondsrijk.nl
 www.bodemambities.nl
 www.bodemloket.nl
