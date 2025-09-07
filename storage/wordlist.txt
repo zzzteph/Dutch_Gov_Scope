@@ -122,6 +122,7 @@ luchtfoto
 testeloket
 vpn2
 ontwikkel
+prd
 pushmail
 academie
 b2b
@@ -141,6 +142,7 @@ esb
 geoserver
 id
 ondertekenen
+acc2
 doc
 sso
 conf
@@ -206,7 +208,6 @@ helloid
 chw
 test.resultaten
 meldingen
-prd
 rdgateway
 smtp1
 afspraken
@@ -256,8 +257,8 @@ werkenvoor
 www-test
 helpdesk
 web.acc
-acc2
 broker
+demo
 crm
 ts
 content
@@ -1294,7 +1295,6 @@ viep.test
 web.test
 acc-v2
 broker-preprod
-demo
 demo2
 doc-acc
 pre
