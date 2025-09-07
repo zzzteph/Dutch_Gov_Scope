@@ -77,6 +77,7 @@ publicaties
 dialin
 mdm
 elearning
+cdn
 kennis
 a-magazines
 adfs
@@ -103,7 +104,6 @@ app
 geoportaal
 wifi
 static
-cdn
 projecten
 a-cms
 dwo
