@@ -82,6 +82,7 @@ http://autodiscover.scp.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
 http://bacterial-meningitis.nl
+http://bayplanviewer.bics.nl
 http://beeldenvanderaad.nl
 http://beheermlo.zuid-holland.nl
 http://beirut-built-environment-database-base-map-aub.hub.arcgis.com
@@ -255,6 +256,8 @@ http://natuurlijk.zuid-holland.nl
 http://natuurvanuitdelucht.zuid-holland.nl
 http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
+http://nlhull.bics.nl
+http://nlrdms.bics.nl
 http://notificatie-preprod.api.ep-online.nl
 http://notificatie.api.ep-online.nl
 http://nvi.proeftuin.gf.irealisatie.nl
@@ -537,6 +540,7 @@ https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
 https://acc.beeldbellen.dji.nl
 https://acc.bestandenpostbus.nl
+https://acc.bics.nl
 https://acc.bromonitor.nl
 https://acc.bronhouderportaal-bro.nl
 https://acc.btp.sso3w.nl
@@ -1168,6 +1172,7 @@ https://bgfg-outcomes-24-austin.hub.arcgis.com
 https://bgt.basisregistraties.overheid.nl
 https://bh-integratie.inspectieview.nl
 https://bibliotheek.knmi.nl
+https://bics.nl
 https://bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
 https://big-dam-swamp-intersection-scdot.hub.arcgis.com
 https://big-register.nl
@@ -2484,6 +2489,8 @@ https://horizonscangeneesmiddelen.nl
 https://hotnews.maps.arcgis.com
 https://houdmisdaaduitjebuurt.nl
 https://hrcommunityrijk.nl
+https://hs.bics.nl
+https://hsacc.bics.nl
 https://hub-ai-assistant.arcgis.com
 https://hub-co-grant-mn-us.hub.arcgis.com
 https://hub-eccounty.hub.arcgis.com
@@ -2823,6 +2830,7 @@ https://live.svb.nl
 https://livecharts.cbs.nl
 https://livingatlas.arcgis.com
 https://livingstone.maps.arcgis.com
+https://livra2.bics.nl
 https://lkod-iprpraha.hub.arcgis.com
 https://lmr-noord.proeftuin.gf.irealisatie.nl
 https://lmr-noord.test.gf.irealisatie.nl
@@ -3936,6 +3944,7 @@ https://rvp.reis.idm.rvig.nl
 https://rw.belastingdienst.nl
 https://rwbg.flevoland.nl
 https://rwn.belastingdienst.nl
+https://rws-bic-p01.bics.nl
 https://rwsinnoveert.nl
 https://s.checkjeprijs.huurcommissie.nl
 https://s.ndw.nu
@@ -4771,6 +4780,7 @@ https://www.bewustbodemgebruik.nl
 https://www.bezoekerscentrum.rijkswaterstaat.nl
 https://www.bezwaarschriftenocw.nl
 https://www.bibliopolis.nl
+https://www.bics.nl
 https://www.big-register.nl
 https://www.bigregister.nl
 https://www.binnenhofrenovatie.nl

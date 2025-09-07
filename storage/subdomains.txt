@@ -495,6 +495,7 @@ acc.bcld-config.nl
 acc.beeldbellen.dji.nl
 acc.belastingdienst.nl
 acc.bestandenpostbus.nl
+acc.bics.nl
 acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
 acc.btp.sso3w.nl
@@ -751,6 +752,7 @@ act-13-program-crawfordcountypa.hub.arcgis.com
 actal.nl
 actiemonitoringce.nl
 actioncenter-whitestown-in.hub.arcgis.com
+activation.bics.nl
 active-land-use-permits-cityofpoulsbo.hub.arcgis.com
 activemq.beheer.intpatch.omgevingswet.overheid.nl
 activitydashboard.arcgis.com
@@ -1402,6 +1404,9 @@ bat.ont.belastingdienst.nl
 bata-next-wave-nelsonnygaard.hub.arcgis.com
 bathymetrie.rijkswaterstaat.nl
 bay-lake-rpc-covid-19-economic-hub-baylakerpc.hub.arcgis.com
+bayplanviewer.bics.nl
+bayplanviewer2.bics.nl
+bayplanviewer3.bics.nl
 bayshoretrail-doorcounty-baylakerpc.hub.arcgis.com
 bbapitest.ix.rijkscloud.nl
 bblonline.nl
@@ -1580,6 +1585,7 @@ bhlsa03.knmi.nl
 bhlsa04.knmi.nl
 bibliotheek.gezondeleefomgeving.nl
 bibliotheek.knmi.nl
+bics.nl
 bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
 bideo.belastingdienst.nl
 big-dam-swamp-intersection-scdot.hub.arcgis.com
@@ -2694,6 +2700,9 @@ drs.ndw.nu
 drus-cd.arcgis.com
 drus-ei.arcgis.com
 ds.acc.ssc-ict.nl
+ds.bics.nl
+ds2.bics.nl
+ds3.bics.nl
 dse.lx.overheid.nl
 dso.brabant.nl
 dsta.nl
@@ -3862,6 +3871,8 @@ hotnews.maps.arcgis.com
 houdmisdaaduitjebuurt.nl
 hrcommunityrijk.nl
 hrz-uag-ext.belastingdienst.nl
+hs.bics.nl
+hsacc.bics.nl
 hub-ai-assistant.arcgis.com
 hub-co-grant-mn-us.hub.arcgis.com
 hub-eccounty.hub.arcgis.com
@@ -4493,6 +4504,9 @@ live.werkenbij.rijkswaterstaat.nl
 livecharts.cbs.nl
 livingatlas.arcgis.com
 livingstone.maps.arcgis.com
+livra.bics.nl
+livra2.bics.nl
+livra3.bics.nl
 lkod-iprpraha.hub.arcgis.com
 lmr-noord.proeftuin.gf.irealisatie.nl
 lmr-noord.test.gf.irealisatie.nl
@@ -5292,8 +5306,12 @@ nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
 nl-works.com
 nlarbeidsinspectie.nl
+nlhull.bics.nl
+nlhull2.bics.nl
+nlhull3.bics.nl
 nlinfrankrijk.nl
 nllabourauthority.nl
+nlrdms.bics.nl
 nls.ndw.nu
 nls.staging.ndw.nu
 nmdc.knmi.nl
@@ -6614,6 +6632,7 @@ rw1.rijkscloud.nl
 rwbg.flevoland.nl
 rwn.belastingdienst.nl
 rwo.dictu.nl
+rws-bic-p01.bics.nl
 rwsinnoveert.nl
 rxs.acm.nl
 rxs.services.acm.nl
@@ -6775,7 +6794,9 @@ secure.knmi.nl
 secure.vechtstromen.nl
 secure4.svb.nl
 secure5.svb.nl
+securemail.bics.nl
 securemail.zorginstituutnederland.nl
+securemailnew.bics.nl
 securened.ncsc.nl
 securetest.vechtstromen.nl
 securetransfer.rijkscloud.nl
@@ -7020,6 +7041,7 @@ spot-on-dt.afm.nl
 spot-on.afm.nl
 squit2go.ofgv.nl
 squit2gotest.ofgv.nl
+srkbroker.bics.nl
 srv-52b05-19.gn2.rijkscloud.nl
 srv-52b13-13.gn2.rijkscloud.nl
 srv-zmb02-27.gn3.rijkscloud.nl
@@ -8462,6 +8484,7 @@ www.bezwaarschriftenocw.nl
 www.bgt-client-certificaat-acc.rvo.nl
 www.bgt-client-certificaat.rvo.nl
 www.bibliopolis.nl
+www.bics.nl
 www.big-register.nl
 www.bigregister.nl
 www.binnenhofrenovatie.nl
