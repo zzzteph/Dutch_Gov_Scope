@@ -8,8 +8,8 @@ a-www
 autodiscover
 a-opendata
 a-feeds
-acc
 test
+acc
 _autodiscover._tcp
 mijn
 magazines
@@ -54,6 +54,7 @@ www-ow
 www-ts
 webservices
 werkenbij
+beheer
 beeldbank
 open
 docs
@@ -72,8 +73,9 @@ papiamentu
 adobe-analytics-dc
 adobe-tags
 fs
+services
 acceptatie.beheer
-beheer
+app
 atlas
 hybrid
 kaarten
@@ -96,11 +98,9 @@ geodata
 enterpriseenrollment
 enterpriseregistration
 ns2
-services
 videobellen
 werken
 acceptatie.mijn
-app
 geoportaal
 wifi
 static
@@ -135,6 +135,7 @@ mta-sts
 sharepoint-acc
 sharepoint-conf
 sharepoint
+website
 acceptatie.behandel
 acceptatie.webservices
 blog
@@ -242,7 +243,6 @@ start
 toestemming
 vc
 webdiensten
-website
 acceptatie.zoeken
 behandel
 acs
@@ -307,6 +307,7 @@ raadplegen
 e.acc.videobellen
 e.videobellen
 mobiel
+services-acc
 webservice-acc
 webservice
 www.acc
@@ -329,6 +330,7 @@ inloggen-preprod
 mobile
 zaaksysteem-accept
 sdm
+dashboard
 acc.api
 ediensten
 authenticatie
@@ -2035,7 +2037,6 @@ registreren-acc
 registreren-acc1
 registreren
 schemas
-services-acc
 services-acc1
 services-preprod
 signing-api-acc
@@ -2257,7 +2258,6 @@ webservice-tdv
 webservices-dbb-acc
 webservices-dbb
 www.abonneren.toezichtdocumenten
-dashboard
 portaal-a
 positconnect
 positpm
@@ -6321,3 +6321,10 @@ rental
 sst
 bft-plein-acc
 bft-plein
+actie-acc
+actie
+alerteren
+app-acc
+beheer-acc
+dashboard-acc
+web02

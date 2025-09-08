@@ -761,6 +761,8 @@ acs.brabant.nl
 acs.ncsc.nl
 act-13-program-crawfordcountypa.hub.arcgis.com
 actal.nl
+actie-acc.burgernet.nl
+actie.burgernet.nl
 actiemonitoringce.nl
 actioncenter-whitestown-in.hub.arcgis.com
 activation.bics.nl
@@ -907,6 +909,7 @@ albemarle-county-coronavirus-response-albemarle.hub.arcgis.com
 alcoa-ec2020.hub.arcgis.com
 alella-valorizasm.hub.arcgis.com
 alert.amberalert.nl
+alerteren.burgernet.nl
 alerting.hdsr.nl
 alfamatoolkit-lisboaenova.hub.arcgis.com
 algemenebestuursdienst.nl
@@ -1094,12 +1097,14 @@ aplekchecker.ssc-ict.nl
 apopka.maps.arcgis.com
 apothekersregister.igj.nl
 app-a.svb.nl
+app-acc.burgernet.nl
 app-api.acc.mgo.irealisatie.nl
 app-api.test.mgo.irealisatie.nl
 app-o.svb.nl
 app-planttes-eulaliabota.hub.arcgis.com
 app-t.svb.nl
 app.brabant.nl
+app.burgernet.nl
 app.nl-alert.nl
 app.svb.nl
 app.vechtstromen.nl
@@ -1472,6 +1477,7 @@ behandel.bigregister.nl
 behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
 behandel.sbv-z.nl
+beheer-acc.burgernet.nl
 beheer-acc.energiebesparingsverkenner.rvo.nl
 beheer-acc1.energiebesparingsverkenner.rvo.nl
 beheer-bzv.brabant.nl
@@ -1479,6 +1485,7 @@ beheer.acceptatie.omgevingswet.overheid.nl
 beheer.ack.omgevingswet.overheid.nl
 beheer.bigregister.nl
 beheer.bodemrichtlijn.nl
+beheer.burgernet.nl
 beheer.chat.ind.nl
 beheer.donorregister.nl
 beheer.energiebesparingsverkenner.rvo.nl
@@ -1791,6 +1798,7 @@ burgerberaadklimaat.nl
 burgerloket.acceptatie.hhdelfland.nl
 burgerloket.hhdelfland.nl
 burgerloket.test.hhdelfland.nl
+burgernet.nl
 bus-priority-dcgis.hub.arcgis.com
 butler.rijkscloud.nl
 butte-county-collaborative-group-bcrcd.hub.arcgis.com
@@ -2375,7 +2383,9 @@ dash-ebb-a-az2.mijn.overheid.nl
 dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
 dash-mt.mijn.overheid.nl
+dashboard-acc.burgernet.nl
 dashboard.analytics.ienw.rijkscloud.nl
+dashboard.burgernet.nl
 dashboard.ikz.nl
 dashboardgroningen.nl
 dashboards-at.dstrial-inspectieraad.rijkscloud.nl
@@ -6932,12 +6942,14 @@ service.pre.omgevingswet.overheid.nl
 service.tst2905.omgevingswet.overheid.nl
 servicedesk.dictu.nl
 servicedesk.rijksoverheid.nl
+services-acc.burgernet.nl
 services-acc.ep-online.nl
 services-acc1.ep-online.nl
 services-preprod.ep-online.nl
 services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
+services.burgernet.nl
 services.cultureelerfgoed.nl
 services.ep-online.nl
 services.ilent.nl
@@ -7521,6 +7533,7 @@ test.bodemloket.nl
 test.botova.rijkswaterstaat.nl
 test.bromonitor.nl
 test.bronhouderportaal-bro.nl
+test.burgernet.nl
 test.caelus-tool.nl
 test.cbi.eu
 test.cbs.nl
@@ -8132,6 +8145,7 @@ web.test.dpr.irealisatie.nl
 web.test.gf.irealisatie.nl
 web.test.mgo.irealisatie.nl
 web01.aaninhetdonker.nl
+web02.burgernet.nl
 webaccess.knmi.nl
 webapps-acc.belastingdienst.nl
 webapps.belastingdienst.nl
@@ -8229,6 +8243,7 @@ webshop.onderwijsraad.nl
 websign.brabant.nl
 website.acc.belastingdienst.nl
 website.belastingdienst.nl
+website.burgernet.nl
 website.douane.nl
 webtest10.rijksoverheid.nl
 webtooling.irealisatie.nl
@@ -8658,6 +8673,7 @@ www.bureautoetsinginvesteringen.nl
 www.bureauwbtv.nl
 www.bureauwsnp.nl
 www.burgerberaadklimaat.nl
+www.burgernet.nl
 www.c2000.nl
 www.cabinetspecialenvoy.com
 www.campagnetoolkits.nl

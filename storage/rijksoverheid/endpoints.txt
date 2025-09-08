@@ -349,6 +349,7 @@ http://test-machtigen.digipoort.logius.nl
 http://test-website.rvo.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.bestandenpostbus.nl
+http://test.burgernet.nl
 http://test.dpr.irealisatie.nl
 http://test.dusi.irealisatie.nl
 http://test.loketgezondleven.nl
@@ -706,6 +707,8 @@ https://acs-hosted-feature-layers-faq-esri.hub.arcgis.com
 https://acs.brabant.nl
 https://act-13-program-crawfordcountypa.hub.arcgis.com
 https://actal.nl
+https://actie-acc.burgernet.nl
+https://actie.burgernet.nl
 https://actiemonitoringce.nl
 https://actioncenter-whitestown-in.hub.arcgis.com
 https://active-land-use-permits-cityofpoulsbo.hub.arcgis.com
@@ -921,6 +924,7 @@ https://app-o.svb.nl
 https://app-planttes-eulaliabota.hub.arcgis.com
 https://app-t.svb.nl
 https://app.brabant.nl
+https://app.burgernet.nl
 https://app.svb.nl
 https://app.vechtstromen.nl
 https://applicationframework.cibg.nl
@@ -1105,8 +1109,10 @@ https://beh-iam.acceptatie.cbs.nl
 https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://behandel.sbv-z.nl
+https://beheer-acc.burgernet.nl
 https://beheer.bigregister.nl
 https://beheer.bodemrichtlijn.nl
+https://beheer.burgernet.nl
 https://beheer.chat.ind.nl
 https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
@@ -1310,6 +1316,7 @@ https://bureauwsnp.nl
 https://burgemeesterworden.politiekeambtsdragers.nl
 https://burgerberaadklimaat.nl
 https://burgerloket.hhdelfland.nl
+https://burgernet.nl
 https://bus-priority-dcgis.hub.arcgis.com
 https://butte-county-collaborative-group-bcrcd.hub.arcgis.com
 https://buurtatlas.vzinfo.nl
@@ -1645,6 +1652,8 @@ https://daggegevens.knmi.nl
 https://daisi.ndw.nu
 https://dallas-census-datahub-dallasgis.hub.arcgis.com
 https://damage-assessment-3-pema.hub.arcgis.com
+https://dashboard-acc.burgernet.nl
+https://dashboard.burgernet.nl
 https://dashboard.ikz.nl
 https://dashboardgroningen.nl
 https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl
@@ -4082,7 +4091,9 @@ https://service.perf.omgevingswet.overheid.nl
 https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://servicedesk.dictu.nl
+https://services-acc.burgernet.nl
 https://services.belastingdienst.nl
+https://services.burgernet.nl
 https://services.ep-online.nl
 https://services7.arcgis.com
 https://sf.knmi.nl
@@ -4916,6 +4927,7 @@ https://www.bureautoetsinginvesteringen.nl
 https://www.bureauwbtv.nl
 https://www.bureauwsnp.nl
 https://www.burgerberaadklimaat.nl
+https://www.burgernet.nl
 https://www.c2000.nl
 https://www.cabinetspecialenvoy.com
 https://www.campagnetoolkits.nl
