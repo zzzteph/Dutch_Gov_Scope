@@ -1275,6 +1275,7 @@ autodiscover.awti.nl
 autodiscover.beschermdecultuurgoederen.nl
 autodiscover.bkd.eu
 autodiscover.brabant.nl
+autodiscover.bureauft.nl
 autodiscover.cbi.eu
 autodiscover.cbs.nl
 autodiscover.contactpuntbouwproducten.nl
@@ -1587,6 +1588,8 @@ bezoekersdata.flevoland.nl
 bezpiecznykrakow-gmk.hub.arcgis.com
 bezwaar.atkm.nl
 bezwaarschriftenocw.nl
+bft-plein-acc.bureauft.nl
+bft-plein.bureauft.nl
 bgfg-outcomes-24-austin.hub.arcgis.com
 bgt-acc.rvo.nl
 bgt-client-certificaat-acc.rvo.nl
@@ -1777,6 +1780,7 @@ buitenplaatselswout.nl
 bupi-cmmangualde.hub.arcgis.com
 bureau-reach.nl
 bureaubiosecurity.nl
+bureauft.nl
 bureauncdr.nl
 bureausaneringverkeerslawaai.nl
 bureauwbtv.nl
@@ -2848,6 +2852,7 @@ ecu.maps.arcgis.com
 ecxs.knmi.nl
 edicrop-acc.rvo.nl
 edicrop.rvo.nl
+ediensten.bureauft.nl
 ediensten.ind.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
@@ -4755,6 +4760,7 @@ mail.bodemvizier.nl
 mail.bofeb.nl
 mail.boswachtersblog.nl
 mail.brandweer.nl
+mail.bureauft.nl
 mail.bureauwsnp.nl
 mail.cbg-meb.nl
 mail.cbi.eu
@@ -6527,6 +6533,7 @@ remote-pa.hdsr.nl
 remote.acm.nl
 remote.actal.nl
 remote.architectenregister.nl
+remote.bureauft.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remote.services.acm.nl
@@ -7380,6 +7387,7 @@ survey-debug.platformrijksoverheid.nl
 survey-deploy.platformrijksoverheid.nl
 survey-metrics.platformrijksoverheid.nl
 survey-test.igj.nl
+survey.bureauft.nl
 survey.cibg.nl
 survey.igj.nl
 survey.platformrijksoverheid.nl
@@ -7784,6 +7792,7 @@ upnl-zw-acc.mijn.rvo.nl
 upnl-zw.mijn.rvo.nl
 upnl.mijn.rvo.nl
 upri-roes-rvs.preprod.rvo.nl
+uptime.bureauft.nl
 uptime.bureauwbtv.nl
 uracimamaps.maps.arcgis.com
 urbanworkshop.maps.arcgis.com
@@ -7998,6 +8007,7 @@ vpn.afm.nl
 vpn.belastingdienst.nl
 vpn.bkd.eu
 vpn.brabant.nl
+vpn.bureauft.nl
 vpn.cbg-meb.nl
 vpn.dictu.nl
 vpn.flevoland.nl
@@ -8639,6 +8649,7 @@ www.buitenlevenvakanties.nl
 www.buitenplaatselswout.nl
 www.bureau-reach.nl
 www.bureaubiosecurity.nl
+www.bureauft.nl
 www.bureauncdr.nl
 www.bureausaneringverkeerslawaai.nl
 www.bureauwbtv.nl

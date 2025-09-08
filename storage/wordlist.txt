@@ -3,8 +3,8 @@ www
 opendata
 feeds
 english
-a-www
 mail
+a-www
 autodiscover
 a-opendata
 a-feeds
@@ -20,8 +20,8 @@ webmail
 intranet
 api
 cms
-_dmarc
 vpn
+_dmarc
 werkplek
 redactie
 connect
@@ -60,6 +60,7 @@ docs
 onderzoek
 portal
 e
+remote
 www-acc2
 www-dev2
 www-p2
@@ -84,7 +85,6 @@ cdn
 kennis
 a-magazines
 adfs
-remote
 www2
 forms
 inloggen
@@ -105,6 +105,7 @@ geoportaal
 wifi
 static
 projecten
+survey
 a-cms
 dwo
 mam
@@ -152,7 +153,6 @@ accounts
 designsystem
 micollab
 www1
-survey
 t-cms
 externemail
 m365
@@ -263,6 +263,7 @@ helpdesk
 web.acc
 broker
 demo
+uptime
 crm
 ts
 content
@@ -329,6 +330,7 @@ mobile
 zaaksysteem-accept
 sdm
 acc.api
+ediensten
 authenticatie
 archief
 nextcloud
@@ -1312,7 +1314,6 @@ sso-demo2
 sso-dev
 sso-test-tno
 test-tno
-uptime
 www.zoekeentolkvertaler
 zoekeentolkvertaler
 ws-acc
@@ -2293,7 +2294,6 @@ checkout-tst.portal
 checkout.portal
 daf-eforms
 daf
-ediensten
 eforms
 oap
 public.portal
@@ -6319,3 +6319,5 @@ id.dblogistiek
 accept.mijn
 rental
 sst
+bft-plein-acc
+bft-plein

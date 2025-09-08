@@ -68,6 +68,7 @@ http://autodiscover.afm.nl
 http://autodiscover.atgb.nl
 http://autodiscover.atr-regeldruk.nl
 http://autodiscover.bkd.eu
+http://autodiscover.bureauft.nl
 http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
@@ -91,6 +92,8 @@ http://beirut-built-environment-database-base-map-aub.hub.arcgis.com
 http://beta-dataportal.cbs.nl
 http://beta-odata4.cbs.nl
 http://bevolkingsonderzoek.nl
+http://bft-plein-acc.bureauft.nl
+http://bft-plein.bureauft.nl
 http://bibliotheek.gezondeleefomgeving.nl
 http://bpa.rvo.nl
 http://bridge-repair-d3p6-scdot.hub.arcgis.com
@@ -359,6 +362,7 @@ http://trade.rvo.nl
 http://tws-esb.rijkswaterstaat.nl
 http://uffprod25.waterschaplimburg.nl
 http://ufftest25.waterschaplimburg.nl
+http://uptime.bureauft.nl
 http://uptime.bureauwbtv.nl
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
@@ -1297,6 +1301,7 @@ https://buitenlevenvakanties.nl
 https://buitenplaatselswout.nl
 https://bupi-cmmangualde.hub.arcgis.com
 https://bureaubiosecurity.nl
+https://bureauft.nl
 https://bureauncdr.nl
 https://bureausaneringverkeerslawaai.nl
 https://bureauwbtv.nl
@@ -2978,6 +2983,7 @@ https://mail.bewustbodemgebruik.nl
 https://mail.bofeb.nl
 https://mail.boswachtersblog.nl
 https://mail.brandweer.nl
+https://mail.bureauft.nl
 https://mail.cggp.nl
 https://mail.community-gatewayreview.nl
 https://mail.dgdoobi.rijkscloud.nl
@@ -3914,6 +3920,7 @@ https://reistijdtrajecten.ndw.nu
 https://rekenhulptransitievergoeding.nl
 https://rekenkamer.nl
 https://remote.acm.nl
+https://remote.bureauft.nl
 https://remote.flevoland.nl
 https://remote.services.acm.nl
 https://remotedesktop.svb.nl
@@ -4275,6 +4282,7 @@ https://survey-collect.platformrijksoverheid.nl
 https://survey-debug.platformrijksoverheid.nl
 https://survey-deploy.platformrijksoverheid.nl
 https://survey-metrics.platformrijksoverheid.nl
+https://survey.bureauft.nl
 https://survey.cibg.nl
 https://survey.platformrijksoverheid.nl
 https://survey123.arcgis.com
@@ -4565,6 +4573,7 @@ https://voorlichting.wegwijzer.overheid.nl
 https://vorijkbo-tst.rvo.nl
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn.brabant.nl
+https://vpn.bureauft.nl
 https://vpn.cbg-meb.nl
 https://vpn.dictu.nl
 https://vpn.ikz.nl
@@ -4898,6 +4907,7 @@ https://www.bta.omgevingswet.overheid.nl
 https://www.buitenlevenvakanties.nl
 https://www.buitenplaatselswout.nl
 https://www.bureaubiosecurity.nl
+https://www.bureauft.nl
 https://www.bureauncdr.nl
 https://www.bureausaneringverkeerslawaai.nl
 https://www.bureauwbtv.nl
