@@ -15,18 +15,18 @@ magazines
 mijn
 feeds.english
 opendata.english
-acceptatie
 webmail
+acceptatie
 intranet
 api
 cms
 _dmarc
 vpn
 werkplek
+redactie
 connect
 a-english
 formulieren
-redactie
 a-feeds.a-english
 a-opendata.a-english
 prod
@@ -393,6 +393,7 @@ register
 handboek
 papiamento
 support
+elo
 pdok
 vacature
 securemail
@@ -5179,7 +5180,6 @@ www.basisregistratie
 www.mta-sts
 www.topdesk
 toolbox
-elo
 communicatieportaal
 handhaving
 magazinesintern.english
@@ -6309,3 +6309,10 @@ rijksoverheid
 www.rijksoverheid
 ncdr
 szw-via
+beta.dblogistiek
+dblogistiek
+elotest
+id-beheer-beta.dblogistiek
+id-beheer.dblogistiek
+id-beta.dblogistiek
+id.dblogistiek

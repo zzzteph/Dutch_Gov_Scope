@@ -1161,6 +1161,7 @@ https://bestandslevering.cbs.nl
 https://bestandsportaal.cibg.nl
 https://beta-iv3-controle.cbs.nl
 https://beta.belastingdienst.nl
+https://beta.dblogistiek.brandweer.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
 https://betalen.schoolleidersregisterpo.nl
@@ -1255,6 +1256,7 @@ https://brainps.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
 https://brandam.nl
+https://brandweer.nl
 https://brba.eu
 https://brba.nl
 https://brevard-gis-open-data-hub-brevardbocc.hub.arcgis.com
@@ -1705,6 +1707,7 @@ https://dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://dbe-t.rvb.rijkscloud.nl
+https://dblogistiek.brandweer.nl
 https://dcc-ienw.nl
 https://dcmp-upnl-idp.rvo.nl
 https://dcp-time-slot.cbg-meb.nl
@@ -1932,10 +1935,12 @@ https://elevation.arcgis.com
 https://elevation2dev.arcgis.com
 https://elevation3d.arcgis.com
 https://elkeregiotelt.nl
+https://elo.brandweer.nl
 https://elo.veiligheidsregioflevoland.nl
 https://eloket.aaenmaas.nl
 https://eloket.flevoland.nl
 https://eloket.vallei-veluwe.nl
+https://elotest.brandweer.nl
 https://elpasoco.maps.arcgis.com
 https://email.afm.nl
 https://emailtemplates.overheid.nl
@@ -2557,7 +2562,11 @@ https://ibg.datasluis.dictu.nl
 https://ibg.webftp.dictu.nl
 https://icdesk.zuid-holland.nl
 https://icorridor-fr-mto-on-ca.hub.arcgis.com
+https://id-beheer-beta.dblogistiek.brandweer.nl
+https://id-beheer.dblogistiek.brandweer.nl
+https://id-beta.dblogistiek.brandweer.nl
 https://id.brabant.nl
+https://id.dblogistiek.brandweer.nl
 https://id.flevoland.nl
 https://id.limburg.nl
 https://idbs.idm.rvig.nl
@@ -2963,6 +2972,7 @@ https://mail.atr-regeldruk.nl
 https://mail.bewustbodemgebruik.nl
 https://mail.bofeb.nl
 https://mail.boswachtersblog.nl
+https://mail.brandweer.nl
 https://mail.cggp.nl
 https://mail.community-gatewayreview.nl
 https://mail.dgdoobi.rijkscloud.nl
@@ -3863,6 +3873,7 @@ https://rechtsbijstand.nl
 https://rechtwijzer.nl
 https://redactie-tl.iplo.nl
 https://redactie.aquo.nl
+https://redactie.brandweer.nl
 https://redactie.cbs.nl
 https://redactie.hdsr.nl
 https://redactie.odijmond.nl
@@ -4612,6 +4623,7 @@ https://webgisacc.aaenmaas.nl
 https://webmail.atr-regeldruk.nl
 https://webmail.bkd.eu
 https://webmail.brabant.nl
+https://webmail.brandweer.nl
 https://webmail.flevoland.nl
 https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
@@ -4869,6 +4881,7 @@ https://www.bouwbesluit.com
 https://www.brabant.nl
 https://www.braic.nl
 https://www.brandam.nl
+https://www.brandweer.nl
 https://www.brba.nl
 https://www.brienenoordbrug.nl
 https://www.bromonitor.nl

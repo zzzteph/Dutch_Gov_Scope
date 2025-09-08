@@ -1551,6 +1551,7 @@ beta-iv3-controle.cbs.nl
 beta-odata4.cbs.nl
 beta.belastingdienst.nl
 beta.cbs.nl
+beta.dblogistiek.brandweer.nl
 beta.opendata.cbs.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
@@ -1712,6 +1713,7 @@ brains-acc.brabant.nl
 brains.brabant.nl
 brandam.nl
 brandportal.cbs.nl
+brandweer.nl
 brba.eu
 brba.nl
 brevard-gis-open-data-hub-brevardbocc.hub.arcgis.com
@@ -2459,6 +2461,7 @@ dbbprodmta01.dbb.igj.nl
 dbbtamta01.dbb-acc.igj.nl
 dbcrco.belastingdienst.nl
 dbe-t.rvb.rijkscloud.nl
+dblogistiek.brandweer.nl
 dbpmo.belastingdienst.nl
 dc.autoriteitpersoonsgegevens.nl
 dc.ssc-ict.nl
@@ -2896,10 +2899,12 @@ elkdmz1.ec.rijkscloud.nl
 elkdmz1.gn1.rijkscloud.nl
 elkdmz1.gn2.rijkscloud.nl
 elkeregiotelt.nl
+elo.brandweer.nl
 elo.veiligheidsregioflevoland.nl
 eloket.aaenmaas.nl
 eloket.flevoland.nl
 eloket.vallei-veluwe.nl
+elotest.brandweer.nl
 elpasoco.maps.arcgis.com
 email.afm.nl
 email.brabant.nl
@@ -3979,7 +3984,11 @@ icgw.services.acm.nl
 icorridor-fr-mto-on-ca.hub.arcgis.com
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
+id-beheer-beta.dblogistiek.brandweer.nl
+id-beheer.dblogistiek.brandweer.nl
+id-beta.dblogistiek.brandweer.nl
 id.brabant.nl
+id.dblogistiek.brandweer.nl
 id.flevoland.nl
 id.limburg.nl
 idapps.npr.idm.rvig.nl
@@ -4736,6 +4745,7 @@ mail.boa-expertisecentrum.nl
 mail.bodemvizier.nl
 mail.bofeb.nl
 mail.boswachtersblog.nl
+mail.brandweer.nl
 mail.bureauwsnp.nl
 mail.cbg-meb.nl
 mail.cbi.eu
@@ -6442,6 +6452,7 @@ redactie-acc.cbs.nl
 redactie-test.cbs.nl
 redactie-tl.iplo.nl
 redactie.aquo.nl
+redactie.brandweer.nl
 redactie.cbs.nl
 redactie.hdsr.nl
 redactie.odijmond.nl
@@ -8138,6 +8149,7 @@ webmail.atr-regeldruk.nl
 webmail.bidbook.eu
 webmail.bkd.eu
 webmail.brabant.nl
+webmail.brandweer.nl
 webmail.ctivd.nl
 webmail.flevoland.nl
 webmail.huurcommissie.nl
@@ -8602,6 +8614,7 @@ www.bouwbesluit.com
 www.brabant.nl
 www.braic.nl
 www.brandam.nl
+www.brandweer.nl
 www.brba.nl
 www.brienenoordbrug.nl
 www.bromonitor.nl
