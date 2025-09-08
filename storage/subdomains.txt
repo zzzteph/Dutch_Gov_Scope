@@ -958,6 +958,7 @@ analysis3.az-int.arcgis.com
 analysis8.arcgis.com
 analysis8.az-int.arcgis.com
 analytics-solutions-esridech.hub.arcgis.com
+analytics.caop.nl
 analytics.dataplatform.knmi.nl
 analytics.feni.ienw.rijkscloud.nl
 analytics.ienw.rijkscloud.nl
@@ -1281,6 +1282,7 @@ autodiscover.beschermdecultuurgoederen.nl
 autodiscover.bkd.eu
 autodiscover.brabant.nl
 autodiscover.bureauft.nl
+autodiscover.caop.nl
 autodiscover.cbi.eu
 autodiscover.cbs.nl
 autodiscover.contactpuntbouwproducten.nl
@@ -1611,6 +1613,7 @@ bhlsa03.knmi.nl
 bhlsa04.knmi.nl
 bibliotheek.gezondeleefomgeving.nl
 bibliotheek.knmi.nl
+bibliotheekwerk.caop.nl
 bics.nl
 bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
 bideo.belastingdienst.nl
@@ -1853,6 +1856,8 @@ campus-map-gallery-gtfacilities.hub.arcgis.com
 cams-lacounty.hub.arcgis.com
 cannabisbureau.nl
 canyon-comeback-marioncounty.hub.arcgis.com
+caop.nl
+caopmgw01.caop.nl
 caorijk.nl
 cap.om.belastingdienst.nl
 capi.cbs.nl
@@ -3481,6 +3486,7 @@ formulieren-acc.nvwa.nl
 formulieren-preprod.waterschaplimburg.nl
 formulieren.afm.nl
 formulieren.brabant.nl
+formulieren.caop.nl
 formulieren.flevoland.nl
 formulieren.huurcommissie.nl
 formulieren.limburg.nl
@@ -4411,6 +4417,7 @@ keiko.brba.nl
 kemperms.maps.arcgis.com
 kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
+kennis.caop.nl
 kennis.cultureelerfgoed.nl
 kennis.hdsr.nl
 kennis.nponderwijs.nl
@@ -4479,6 +4486,7 @@ klachten-acc.autoriteitpersoonsgegevens.nl
 klachten.autoriteitpersoonsgegevens.nl
 klachtenformulier.mensenrechten.nl
 klachtenformulierlink.mensenrechten.nl
+klantportaal.caop.nl
 klantportaal.rvo.nl
 klanttoegang.cbs.nl
 klimaatadaptatienederland.nl
@@ -4543,6 +4551,8 @@ leerenontwikkelplein.nl
 leeromgeving.om.nl
 leerplatform.it-academieoverheid.nl
 leerplein.svb.nl
+leerstoel.caop.nl
+leerstoelen.caop.nl
 legacy.flevoland.nl
 legacy.rijksdienstcn.com
 legend.aerius.nl
@@ -4566,6 +4576,7 @@ link.aovvt.nl
 link.arbeidsmarktplatformpo.nl
 link.arbocatalogusmbo.nl
 link.bkd.eu
+link.caop.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
@@ -4720,6 +4731,7 @@ maf.svb.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazine.arbeidsmarktplatformpo.nl
+magazine.caop.nl
 magazine.zuid-holland.nl
 magazines-ienw.rijksoverheid.nl
 magazines.agendastad.nl
@@ -4778,6 +4790,7 @@ mail.brandweer.nl
 mail.bureauft.nl
 mail.bureauwsnp.nl
 mail.c2coe.org
+mail.caop.nl
 mail.cbg-meb.nl
 mail.cbi.eu
 mail.cggp.nl
@@ -4945,6 +4958,7 @@ mdmvpn.cbg-meb.nl
 meadhunt.maps.arcgis.com
 meander.aerius.nl
 med-srv20.rijksoverheid.nl
+medezeggenschap.caop.nl
 media.amberalert.nl
 media.odmh.nl
 media.om.nl
@@ -5298,6 +5312,7 @@ mysites.belastingdienst.nl
 mysites.hhdelfland.nl
 mysitestest.hhdelfland.nl
 mytoken.dictu.nl
+n-central.caop.nl
 n211wippolderlaan.zuid-holland.nl
 naaldwijk.zuid-holland.nl
 nac.nctv.nl
@@ -5383,6 +5398,7 @@ nieuws.rvo.nl
 nieuwsbrief.autoriteitpersoonsgegevens.nl
 nieuwsbrief.examenblad.nl
 nieuwsbrief.zuid-holland.nl
+nieuwsbrieven.caop.nl
 nieuwsbrieven.limburg.nl
 nieuwsbrieven.rijkswaterstaat.nl
 nieuwsbrievenminocw.nl
@@ -5583,6 +5599,7 @@ oladc_85_prod_vs36.poort.belastingdienst.nl
 oladc_85_vs86.acc.toeslagen.nl
 old-cms.contenttoolsrijksoverheid.nl
 old.belastingles.nl
+old.caop.nl
 oldsmar.maps.arcgis.com
 ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
@@ -5609,6 +5626,7 @@ ondertekenentst.brabant.nl
 onderwijsinspectie.nl
 onderwijsraad.nl
 onderwijsregio.nl
+onderzoek.caop.nl
 onderzoek.cbs.nl
 onderzoek.communicatierijk.nl
 onderzoek.nederlandwereldwijd.nl
@@ -5999,6 +6017,7 @@ p-crl.justid.nl
 p-direkt.nl
 p285st201.utsjaca01.belastingdienst.nl
 pacemweb.nl
+paco.caop.nl
 pages.ds-ocw.rijkscloud.nl
 pages.gitlab.analyse.ilt.rijkscloud.nl
 pages.internal.nza.nl
@@ -6550,6 +6569,7 @@ remote.acm.nl
 remote.actal.nl
 remote.architectenregister.nl
 remote.bureauft.nl
+remote.caop.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remote.services.acm.nl
@@ -6655,6 +6675,7 @@ rob-2000.rijkscloud.nl
 rob2000.rijkscloud.nl
 robxp.rapportage.rijkscloud.nl
 roomreservation.belastingdienst.nl
+rop.caop.nl
 routeringsvoorziening-pp1.logius.nl
 royal-house.nl
 royalhonoursanddecorations.nl
@@ -7222,6 +7243,7 @@ staging.acc.web-static.rijkswaterstaat.nl
 staging.agroforestrynetwerk.nl
 staging.arbeidsmarktplatformpo.nl
 staging.bdmuseum.nl
+staging.caop.nl
 staging.donorregister.nl
 staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
@@ -7348,7 +7370,9 @@ stelselcatalogus.pre.omgevingswet.overheid.nl
 stepprx.rijkscloud.nl
 sterftedashboard-regionaal.vzinfo.nl
 sterftedashboard.vzinfo.nl
+steunpunt.caop.nl
 stglb.rvo.nl
+stichting.caop.nl
 stijlgids.cibg.nl
 stijlgids.rijkswaterstaat.nl
 stopheling.nl
@@ -7450,6 +7474,7 @@ t-www.defensie.nl
 t-www.government.nl
 t-www.rijksoverheid.nl
 t.cultureelerfgoed.nl
+tagging.caop.nl
 taranis.ncsc.nl
 tarief.douane.nl
 tarief.str4.acc.douane.nl
@@ -7641,6 +7666,7 @@ thesaurus.zuid-holland.nl
 tib-ivd.nl
 tib.dataplatform.knmi.nl
 tickets.bdmuseum.nl
+tijdschrijven.caop.nl
 tiledimageservices-eu1.arcgis.com
 tiledimageservices.arcgis.com
 tiles.ndw.nu
@@ -7716,6 +7742,7 @@ track.nederlandwereldwijd.nl
 track.netherlandsworldwide.nl
 trade-acc.rvo.nl
 trade.rvo.nl
+training.caop.nl
 transfer.ofgv.nl
 transfer.waterschaplimburg.nl
 transitieproefdiervrijeinnovatie.nl
@@ -8069,6 +8096,8 @@ vpr.rijkswaterstaat.nl
 vps-prod-01.flevoland.nl
 vr.ofgv.nl
 vrachtwagenheffing.nl
+vragen.caop.nl
+vragenlijst.caop.nl
 vreemdelingenvisie.nl
 vri-admin.ndw.nu
 vrijstellingmelden.vrachtwagenheffing.nl
@@ -8192,6 +8221,7 @@ webmail.bidbook.eu
 webmail.bkd.eu
 webmail.brabant.nl
 webmail.brandweer.nl
+webmail.caop.nl
 webmail.ctivd.nl
 webmail.flevoland.nl
 webmail.huurcommissie.nl
@@ -8206,6 +8236,7 @@ webmail.rsj.rijkscloud.nl
 webmail.rvo.nl
 webmail.tib-ivd.nl
 webmail.werkenvoornederland.nl
+webredactie.caop.nl
 webserver.cbs.nl
 webservice-acc.energiebesparingsverkenner.rvo.nl
 webservice-acc.ep-online.nl
@@ -8258,6 +8289,7 @@ wegkenmerken.staging.ndw.nu
 wegwijzer.overheid.nl
 wegwijzermensenhandel.nl
 welkom-zandbak.leerenontwikkelplein.nl
+welkom.caop.nl
 welkom.leerenontwikkelplein.nl
 welkombij.cbs.nl
 wellesleyma.maps.arcgis.com
@@ -8683,6 +8715,7 @@ www.c2coe.org
 www.cabinetspecialenvoy.com
 www.campagnetoolkits.nl
 www.cannabisbureau.nl
+www.caop.nl
 www.caorijk.nl
 www.carriere.belastingdienst.nl
 www.catshuis.nl
