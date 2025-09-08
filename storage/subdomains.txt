@@ -411,6 +411,9 @@ aapi-community-hub-aauc.hub.arcgis.com
 abat.acc.belastingdienst.nl
 abdtopconsult.nl
 abibzk.rijkscloud.nl
+abk-acc.cbr.nl
+abk-tst.cbr.nl
+abk.cbr.nl
 abo.digilevering.belastingdienst.nl
 abonneren.toezichtdocumenten.igj.nl
 abortionfacilitydatabase-ucsf.hub.arcgis.com
@@ -1286,6 +1289,7 @@ autodiscover.brabant.nl
 autodiscover.bureauft.nl
 autodiscover.caop.nl
 autodiscover.cbi.eu
+autodiscover.cbr.nl
 autodiscover.cbs.nl
 autodiscover.contactpuntbouwproducten.nl
 autodiscover.ctgb.nl
@@ -1553,6 +1557,7 @@ bereikbaarheid.ndw.nu
 bereikbaarheid.staging.ndw.nu
 bereikbaarheidvooriedereen.nl
 bereken.uwbeslagvrijevoet.nl
+beroepschauffeur.cbr.nl
 berwyn-inspection-hub-gis-mmsa.hub.arcgis.com
 beschermdecultuurgoederen.nl
 besluitpreviewservice-eto.overheid.nl
@@ -1940,6 +1945,7 @@ cbonte.entreepgb.svb.nl
 cbp.acc.mgo.irealisatie.nl
 cbp.test.mgo.irealisatie.nl
 cbpbes.com
+cbr.nl
 cbrnsecurity.nctv.nl
 cbs.cbs.nl
 cbs.nl
@@ -1997,6 +2003,9 @@ cerberus.cbs.nl
 ceremonial-conveyances-austin.hub.arcgis.com
 cert.nl
 cert.test2gbav.belastingdienst.nl
+certificeren-toezicht-acc.cbr.nl
+certificeren-toezicht-tst.cbr.nl
+certificeren-toezicht.cbr.nl
 cesar-database.knmi.nl
 cest-cusec.hub.arcgis.com
 cest-p4-cusec.hub.arcgis.com
@@ -2033,6 +2042,7 @@ chemischestoffengoedgeregeld.nl
 cher.emissieautoriteit.nl
 chesapeake-deij2-chesbay.hub.arcgis.com
 chester-county-s-gis-hub-chesco.hub.arcgis.com
+chip.cbr.nl
 christina-cleanup-dnrec.hub.arcgis.com
 chw.aandeslagmetdeomgevingswet.nl
 chw.iplo.nl
@@ -3118,6 +3128,7 @@ ews-external.justid.nl
 examenblad.nl
 examenbladmbo.nl
 examenplein.cvte.nl
+examinatoragenda.cbr.nl
 excellentescholen.nl
 exchange.acm.nl
 exchange.flevoland.nl
@@ -3145,6 +3156,7 @@ externemail02.knmi.nl
 externemailsaas.knmi.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
+extranet.cbr.nl
 extranet.knmi.nl
 extranet.onderwijsraad.nl
 extreemrechts.nctv.nl
@@ -3165,7 +3177,9 @@ facilitor.brabant.nl
 factuur.dbe-t.rvb.rijkscloud.nl
 fad-gegevens-sit.belastingdienst.nl
 fame.aerius.nl
+faq.cbr.nl
 faq.ndw.nu
+faqacc.cbr.nl
 farmacotherapeutischkompas.nl
 farmatec.nl
 faro.cultureelerfgoed.nl
@@ -3454,6 +3468,9 @@ filetransfer.afm.nl
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
 financials.werkenvoornederland.nl
+financieel-acc.cbr.nl
+financieel-tst.cbr.nl
+financieel.cbr.nl
 financiengemeenten.nl
 fiod.acc.belastingdienst.nl
 flair-demo.flevoland.nl
@@ -3709,6 +3726,9 @@ geoweb.odmh.nl
 geoweb.rijkswaterstaat.nl
 geoweb.vechtstromen.nl
 geoweb.zuid-holland.nl
+geschiktheid-acc.cbr.nl
+geschiktheid-tst.cbr.nl
+geschiktheid.cbr.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gezondeleefomgeving.nl
 gezondheidsraad.nl
@@ -4027,6 +4047,8 @@ icters.werkenvoornederland.nl
 id-beheer-beta.dblogistiek.brandweer.nl
 id-beheer.dblogistiek.brandweer.nl
 id-beta.dblogistiek.brandweer.nl
+id-broker-ota.cbr.nl
+id-broker.cbr.nl
 id.brabant.nl
 id.dblogistiek.brandweer.nl
 id.flevoland.nl
@@ -4491,6 +4513,7 @@ klachten-acc.autoriteitpersoonsgegevens.nl
 klachten.autoriteitpersoonsgegevens.nl
 klachtenformulier.mensenrechten.nl
 klachtenformulierlink.mensenrechten.nl
+klantonderzoek.cbr.nl
 klantportaal.caop.nl
 klantportaal.rvo.nl
 klanttoegang.cbs.nl
@@ -4963,6 +4986,9 @@ mdmvpn.cbg-meb.nl
 meadhunt.maps.arcgis.com
 meander.aerius.nl
 med-srv20.rijksoverheid.nl
+medewerker-acc.cbr.nl
+medewerker-tst.cbr.nl
+medewerker.cbr.nl
 medezeggenschap.caop.nl
 media.amberalert.nl
 media.odmh.nl
@@ -5054,6 +5080,7 @@ mijn.bkd.eu
 mijn.bofeb.nl
 mijn.bron.nl
 mijn.buitenlevenvakanties.nl
+mijn.cbr.nl
 mijn.cbs.nl
 mijn.donorregister.nl
 mijn.dus-i.nl
@@ -5099,8 +5126,10 @@ mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
 mijn.zorgaanbiedersportaal.nl
 mijn.zuid-holland.nl
+mijn2acc01.cbr.nl
 mijn8.belastingdienst.nl
 mijnacademy.forensischinstituut.nl
+mijnacc01.cbr.nl
 mijnadministratie-acpt.brabant.nl
 mijnadministratie.brabant.nl
 mijncn.nl
@@ -5147,6 +5176,7 @@ mijntoken.dictu.nl
 mijntokenactiveren.logius.nl
 mijntpw-a.svb.nl
 mijntpw.svb.nl
+mijntst01.cbr.nl
 mijnwerkplek.cbg-meb.nl
 mijnwmo-siam-a.svb.nl
 mijnwmo-siam.svb.nl
@@ -5273,6 +5303,7 @@ mta-sts.belastingdienst.nl
 mta-sts.mail.cggp.nl
 mta-sts.nza.nl
 mta-sts.vechtstromen.nl
+mta.cbr.nl
 mtdphhs.maps.arcgis.com
 mtls-tmx-dap-eu.acc.belastingdienst.nl
 mtls-tmx-dap-eu.belastingdienst.nl
@@ -5928,6 +5959,12 @@ openstack.gn2.rijkscloud.nl
 openstack.gn3.rijkscloud.nl
 openstad.zuid-holland.nl
 opkopersregister.stopheling.nl
+opleidersadministratie-acc.cbr.nl
+opleidersadministratie-tst.cbr.nl
+opleidersadministratie.cbr.nl
+opleidersportaal-acc.cbr.nl
+opleidersportaal-tst.cbr.nl
+opleidersportaal.cbr.nl
 opleiding-ola.belastingdienst.nl
 opleiding.nl-alert.nl
 opleiding.spin2.rijkswaterstaat.nl
@@ -6002,6 +6039,9 @@ outbound-eopg.aivd.nl
 outbound.onderwijsraad.nl
 outlook.cbs.nl
 outlook.svb.nl
+output-acc.cbr.nl
+output-tst.cbr.nl
+output.cbr.nl
 ov-consumentenplatform.nl
 over-ons.acc.belastingdienst.nl
 over-ons.belastingdienst.nl
@@ -6065,6 +6105,9 @@ perpest.alterra.nl
 perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
 pers.svb.nl
 persberichten.rijksoverheid.nl
+personen-acc.cbr.nl
+personen-tst.cbr.nl
+personen.cbr.nl
 pesticidesdatabase.ctgb.nl
 pfos-pfoa-cow.apps.feedfoodtransfer.nl
 pgadmin.analyse.ilt.rijkscloud.nl
@@ -6087,6 +6130,7 @@ pgbverwerkingservicetepr.entreepgb.svb.nl
 pgbverwerkingservicetest.entreepgb.svb.nl
 pge.nctv.nl
 pgodemo.test.zm.irealisatie.nl
+pgv.cbr.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
 pianoo-p.dictu.nl
@@ -6333,6 +6377,9 @@ productie-nieuw.bidbook.eu
 productie-nieuw.biedboek.nl
 productie.loketgezondleven.nl
 productie.sodm.nl
+productontwikkeling-acc.cbr.nl
+productontwikkeling-tst.cbr.nl
+productontwikkeling.cbr.nl
 proeftuin.gf.irealisatie.nl
 proeftuin.uzi-online.irealisatie.nl
 professional.basisinformatie-overstromingen.nl
@@ -6632,6 +6679,12 @@ rht.belastingdienst.nl
 ri-department-of-health-covid-19-case-data-rihealth.hub.arcgis.com
 ricegis.maps.arcgis.com
 riec.nl
+rijbewijs.cbr.nl
+rijbewijzen-acc.cbr.nl
+rijbewijzen-tst.cbr.nl
+rijbewijzen.cbr.nl
+rijdata-acc.cbr.nl
+rijdata.cbr.nl
 rijksbredekennisagenda.nl
 rijkscloud.nl
 rijksdienstcn.com
@@ -7116,6 +7169,7 @@ smtp.awti.nl
 smtp.bapi.belastingdienst.nl
 smtp.bapicft.belastingdienst.nl
 smtp.bkd.eu
+smtp.cbr.nl
 smtp.hhdelfland.nl
 smtp.ofgv.nl
 smtp.oostvaarderskliniek.nl
@@ -7132,6 +7186,7 @@ smtp1.rvb.rijkscloud.nl
 smtp11.belastingdienst.nl
 smtp12.belastingdienst.nl
 smtp2.belastingdienst.nl
+smtp2.cbr.nl
 smtp2.mijn.overheid.nl
 smtp3.mijn.overheid.nl
 smtp31.belastingdienst.nl
@@ -7259,6 +7314,9 @@ staging.prd.web-static.rijkswaterstaat.nl
 staging.rijkswaterstaat.nl
 staging.static.werkenbij.rijkswaterstaat.nl
 staging.werkenbij.rijkswaterstaat.nl
+stamdata-acc.cbr.nl
+stamdata-tst.cbr.nl
+stamdata.cbr.nl
 standaard.aquo.nl
 standaarden-acc.overheid.nl
 standaarden-tst.overheid.nl
@@ -7423,7 +7481,10 @@ superset.demo.ix.rijkscloud.nl
 superset.dev.fib.ienw.rijkscloud.nl
 superset.dgdoobi.rijkscloud.nl
 suppliers.afm.nl
+support-acc.cbr.nl
+support-tst.cbr.nl
 support.arcgis.com
+support.cbr.nl
 support.vechtstromen.nl
 survey-acc.igj.nl
 survey-beheer.igj.nl
@@ -7666,6 +7727,7 @@ testpkio.belastingdienst.nl
 testtunnelmdm.flevoland.nl
 teverantwoordenregelingen.rijksoverheid.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
+theoriereservering.cbr.nl
 thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
 tib-ivd.nl
@@ -7693,6 +7755,8 @@ tmv.cibg.nl
 tmv.rvig.nl
 tmx.vallei-veluwe.nl
 tmxweb.rijkswaterstaat.nl
+toegang-tst.cbr.nl
+toegang.cbr.nl
 toegangderden.rijkswaterstaat.nl
 toegangslaag-gn2.rvig.nl
 toegangslaag-gn3.rvig.nl
@@ -7733,11 +7797,14 @@ toolbox.veiligepubliekedienstverlening.nl
 toolkits.loketgezondleven.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.rijksinnovatiecommunity.nl
+top.cbr.nl
+topacc.cbr.nl
 topcorridors.nl
 topdesk-iv.rijkswaterstaat.nl
 topdesk-wvl.rijkswaterstaat.nl
 topdesk.rijkswaterstaat.nl
 topsectoren.nl
+topswb.cbr.nl
 torenvalk.brabant.nl
 tovertool.nza.nl
 tpaw.dictu.nl
@@ -7745,6 +7812,7 @@ tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
 track.nederlandwereldwijd.nl
 track.netherlandsworldwide.nl
+tracking.cbr.nl
 trade-acc.rvo.nl
 trade.rvo.nl
 training.caop.nl
@@ -7873,6 +7941,9 @@ uzipas.raadplegen.sbv-z.nl
 uzipas.uziregister.nl
 uziregister.nl
 va_do.belastingdienst.nl
+vaardigheid-acc.cbr.nl
+vaardigheid-tst.cbr.nl
+vaardigheid.cbr.nl
 vaartuigvolgsysteem.zuid-holland.nl
 vacature.werkenbijdeeu.nl
 vacature.werkenvoorinternationaleorganisaties.nl
@@ -7881,6 +7952,7 @@ vacatures.limburg.nl
 vacatures.odmh.nl
 vad.acc.mgo.irealisatie.nl
 vad.test.mgo.irealisatie.nl
+vademecum.cbr.nl
 validata.justis.nl
 validatie-acc.justid.nl
 validatie.justid.nl
@@ -7931,6 +8003,7 @@ vctlgwpa01-ext.kdmz.belastingdienst.nl
 vctlgwpa01-int.kdmz.belastingdienst.nl
 vctlgwqa01-ext.kdmz.belastingdienst.nl
 vctlgwqa01-int.kdmz.belastingdienst.nl
+vd.cbr.nl
 vdbs.sso3w.nl
 vechtstromen.nl
 vecozo.dmz.belastingdienst.nl
@@ -8060,6 +8133,7 @@ vpn.bkd.eu
 vpn.brabant.nl
 vpn.bureauft.nl
 vpn.cbg-meb.nl
+vpn.cbr.nl
 vpn.dictu.nl
 vpn.flevoland.nl
 vpn.huurcommissie.nl
@@ -8227,6 +8301,7 @@ webmail.bkd.eu
 webmail.brabant.nl
 webmail.brandweer.nl
 webmail.caop.nl
+webmail.cbr.nl
 webmail.ctivd.nl
 webmail.flevoland.nl
 webmail.huurcommissie.nl
@@ -8392,8 +8467,14 @@ wpx-80-aix-http.acc.douane.nl
 wpx-80-aix-http.douane.nl
 wrr.nl
 ws-acc.bureauwsnp.nl
+ws-acc.cbr.nl
 ws-izis.ofgv.nl
+ws-psp.cbr.nl
+ws-zd.cbr.nl
+ws-zdacc.cbr.nl
+ws-zdtst.cbr.nl
 ws.bureauwsnp.nl
+ws.cbr.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
 wsus.hdsr.nl
@@ -8731,6 +8812,7 @@ www.cbg-meb.nl
 www.cbgjaarverslag.nl
 www.cbi.eu
 www.cbpbes.com
+www.cbr.nl
 www.cbs.nl
 www.ccmo.nl
 www.ceg.nl
@@ -9266,8 +9348,10 @@ www3.ep-online.nl
 www3.platformrijksoverheid.nl
 www4.platformrijksoverheid.nl
 www8.toeslagen.nl
+wwwacc01.cbr.nl
 wwwaccp.entreepgb.svb.nl
 wwwdemo.entreepgb.svb.nl
+wwwdev01.cbr.nl
 wwweduc.entreepgb.svb.nl
 wwwfcinetorg.belastingdienst.nl
 wwwnaan.entreepgb.svb.nl
@@ -9275,6 +9359,7 @@ wwwnieuw.ctivd.nl
 wwwrijksacademienl.belastingdienst.nl
 wwwtepr.entreepgb.svb.nl
 wwwtest.entreepgb.svb.nl
+wwwtst01.cbr.nl
 wycopa.maps.arcgis.com
 xdev.staging.ndw.nu
 xential-acpt.brabant.nl
