@@ -8,8 +8,8 @@ autodiscover
 a-www
 a-opendata
 acc
-a-feeds
 test
+a-feeds
 mijn
 _autodiscover._tcp
 magazines
@@ -27,14 +27,14 @@ formulieren
 redactie
 connect
 a-english
+data
 a-feeds.a-english
 a-opendata.a-english
 prod
 portaal
 www-acc
-data
-smtp
 staging
+smtp
 apps
 kennisbank
 proto
@@ -6417,3 +6417,4 @@ wwwacc01
 wwwdev01
 wwwtst01
 juno
+watson

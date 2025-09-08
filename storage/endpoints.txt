@@ -1411,6 +1411,7 @@ https://cciwebstats.belastingdienst.nl
 https://ccmo.nl
 https://cdbg-dr-leegis.hub.arcgis.com
 https://cdfd.nl
+https://cdho.nl
 https://cdn-a.arcgis.com
 https://cdn-mediaprogram.maps.arcgis.com
 https://cdn.cbs.nl
@@ -1713,6 +1714,7 @@ https://data-wcc.opendata.arcgis.com
 https://data-winterspringsfl.hub.arcgis.com
 https://data-wshd.opendata.arcgis.com
 https://data.aquo.nl
+https://data.cdho.nl
 https://data.cultureelerfgoed.nl
 https://data.flevoland.nl
 https://data.geo.cultureelerfgoed.nl
@@ -4263,6 +4265,7 @@ https://staatsexamensnt2.nl
 https://stagefonds.formulierdus-i.nl
 https://staging.agroforestrynetwerk.nl
 https://staging.bdmuseum.nl
+https://staging.cdho.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
 https://stamdata.cbr.nl
@@ -4435,6 +4438,7 @@ https://test.bezoekerscentrum.rijkswaterstaat.nl
 https://test.botova.rijkswaterstaat.nl
 https://test.bromonitor.nl
 https://test.cbi.eu
+https://test.cdho.nl
 https://test.cerberus.cbs.nl
 https://test.csirtdsp.nl
 https://test.dictu.nl
@@ -4718,6 +4722,7 @@ https://watertoetsportaal-a.hhdelfland.nl
 https://watertoetsportaal.hhdelfland.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
 https://waterwebservices.rijkswaterstaat.nl
+https://watson.cdho.nl
 https://waukeshacounty.maps.arcgis.com
 https://wayback-usw2.maptiles.arcgis.com
 https://wba-acc.rvo.nl
@@ -5043,6 +5048,7 @@ https://www.cbs.nl
 https://www.cbsinuwbuurt.nl
 https://www.ccmo.nl
 https://www.cdfd.nl
+https://www.cdho.nl
 https://www.ceg.nl
 https://www.centraalexamen.nl
 https://www.centraalexamenhavo.nl
