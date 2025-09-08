@@ -7,8 +7,8 @@ mail
 a-www
 autodiscover
 a-opendata
-a-feeds
 acc
+a-feeds
 test
 _autodiscover._tcp
 mijn
