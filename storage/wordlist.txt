@@ -8,8 +8,8 @@ mail
 autodiscover
 a-opendata
 a-feeds
-test
 acc
+test
 _autodiscover._tcp
 magazines
 mijn

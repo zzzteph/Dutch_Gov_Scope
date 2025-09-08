@@ -498,6 +498,7 @@ acc.belastingdienst.nl
 acc.bestandenpostbus.nl
 acc.bics.nl
 acc.bio-overheid.nl
+acc.broloket.nl
 acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
 acc.btp.sso3w.nl
@@ -1737,6 +1738,7 @@ broker-preprod.bronhouderportaal-bro.nl
 broker.bronhouderportaal-bro.nl
 broker.cloudtop.rijkscloud.nl
 broker.huurcommissie.nl
+broloket.nl
 bromonitor.nl
 bron.nl
 bron.waterschaplimburg.nl
@@ -8617,6 +8619,7 @@ www.brandam.nl
 www.brandweer.nl
 www.brba.nl
 www.brienenoordbrug.nl
+www.broloket.nl
 www.bromonitor.nl
 www.bron.nl
 www.bronbeek.nl
