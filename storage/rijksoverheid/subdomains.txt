@@ -503,6 +503,7 @@ acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
 acc.btp.sso3w.nl
 acc.bvd.logius.nl
+acc.carbonbudgetexplorer.eu
 acc.cbi.eu
 acc.cerberus.cbs.nl
 acc.client.archis.cultureelerfgoed.nl
@@ -1864,6 +1865,7 @@ capi.cbs.nl
 capmetro-etod-nelsonnygaard.hub.arcgis.com
 captiveportal.belastingdienst.nl
 carbon-southend.hub.arcgis.com
+carbonbudgetexplorer.eu
 cares-act-arp-meckgov.hub.arcgis.com
 cares-act-hudsoncogis.hub.arcgis.com
 carmarthenshire-gbi-strategy-eng-luc.hub.arcgis.com
@@ -8717,6 +8719,7 @@ www.campagnetoolkits.nl
 www.cannabisbureau.nl
 www.caop.nl
 www.caorijk.nl
+www.carbonbudgetexplorer.eu
 www.carriere.belastingdienst.nl
 www.catshuis.nl
 www.cbg-meb.nl

@@ -8,8 +8,8 @@ a-www
 autodiscover
 a-opendata
 a-feeds
-test
 acc
+test
 _autodiscover._tcp
 mijn
 magazines
