@@ -131,6 +131,7 @@ b2btest-gemnet
 b2btest-osb
 b2btest-rijks
 b2btest
+beta
 mta-sts
 sharepoint-acc
 sharepoint-conf
@@ -224,7 +225,6 @@ artifact-fibt1
 b2b-gemnet
 b2b-osb
 b2b-rijks
-beta
 betalen
 delta
 download
