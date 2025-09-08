@@ -592,6 +592,7 @@ acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
 accebms.cbs.nl
 accept.digitaleoverheid.nl
+accept.mijn.buitenlevenvakanties.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie-calculator.aerius.nl
 acceptatie-checkjeprijs.huurcommissie.nl
@@ -640,6 +641,7 @@ acceptatie.blauwegolfverbindend.nl
 acceptatie.bodemloket.nl
 acceptatie.botova.rijkswaterstaat.nl
 acceptatie.brba.cibg.nl
+acceptatie.buitenlevenvakanties.nl
 acceptatie.cbs.nl
 acceptatie.chemischestoffengoedgeregeld.nl
 acceptatie.clusterbuster.nl
@@ -1019,6 +1021,7 @@ api.appstore.p-direkt.nl
 api.belastingdienst.nl
 api.bigregister.nl
 api.brabant.nl
+api.buitenlevenvakanties.nl
 api.burgemeesterworden.politiekeambtsdragers.nl
 api.caelus-tool.nl
 api.contenttoolsrijksoverheid.nl
@@ -1769,6 +1772,7 @@ btx311-bur.hub.arcgis.com
 budget-de-la-gente-cotgis.hub.arcgis.com
 budgy.ndw.nu
 building-inspection-pictoucounty.hub.arcgis.com
+buitenlevenvakanties.nl
 bupi-cmmangualde.hub.arcgis.com
 bureau-reach.nl
 bureaubiosecurity.nl
@@ -2805,6 +2809,7 @@ e.aofondsrijk.nl
 e.aovvt.nl
 e.arbeidsmarktplatformpo.nl
 e.awareness.nationaalcoordinatorgroningen.nl
+e.buitenlevenvakanties.nl
 e.denkmee.zuid-holland.nl
 e.flevoland.nl
 e.garanties.rvo.nl
@@ -3408,6 +3413,7 @@ fibt2.acc.toeslagen.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
 file.ndw.nu
+files.buitenlevenvakanties.nl
 files.iplo.nl
 files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
@@ -5005,6 +5011,7 @@ mijn.bigregister.nl
 mijn.bkd.eu
 mijn.bofeb.nl
 mijn.bron.nl
+mijn.buitenlevenvakanties.nl
 mijn.cbs.nl
 mijn.donorregister.nl
 mijn.dus-i.nl
@@ -6524,6 +6531,7 @@ remote.hhdelfland.nl
 remote.services.acm.nl
 remotedesktop.svb.nl
 remotetest.hhdelfland.nl
+rental.buitenlevenvakanties.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
 repo.allesoversport.nl
@@ -7173,6 +7181,7 @@ sso.tst2905.omgevingswet.overheid.nl
 sso3w.nl
 ssp.estota.rijkscloud.nl
 ssp.ix.rijkscloud.nl
+sst.buitenlevenvakanties.nl
 staatscommissie2050.nl
 staatscommissierechtsstaat.nl
 staatscommissietegendiscriminatieenracisme.nl
@@ -8625,6 +8634,7 @@ www.bron.nl
 www.bronbeek.nl
 www.bronhouderportaal-bro.nl
 www.bta.omgevingswet.overheid.nl
+www.buitenlevenvakanties.nl
 www.bureau-reach.nl
 www.bureaubiosecurity.nl
 www.bureauncdr.nl

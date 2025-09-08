@@ -11,12 +11,12 @@ a-feeds
 acc
 test
 _autodiscover._tcp
-magazines
 mijn
+magazines
 feeds.english
 opendata.english
-webmail
 acceptatie
+webmail
 intranet
 api
 cms
@@ -59,6 +59,7 @@ open
 docs
 onderzoek
 portal
+e
 www-acc2
 www-dev2
 www-p2
@@ -83,7 +84,6 @@ cdn
 kennis
 a-magazines
 adfs
-e
 remote
 www2
 forms
@@ -195,6 +195,7 @@ mijn-acc
 vt
 chat
 tst
+files
 lyncdiscover
 jaarverslag
 vacatures
@@ -330,7 +331,6 @@ sdm
 acc.api
 authenticatie
 archief
-files
 nextcloud
 stats
 privacy
@@ -6316,3 +6316,6 @@ id-beheer-beta.dblogistiek
 id-beheer.dblogistiek
 id-beta.dblogistiek
 id.dblogistiek
+accept.mijn
+rental
+sst
