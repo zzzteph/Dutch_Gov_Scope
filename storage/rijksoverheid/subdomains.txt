@@ -1291,6 +1291,7 @@ autodiscover.caop.nl
 autodiscover.cbi.eu
 autodiscover.cbr.nl
 autodiscover.cbs.nl
+autodiscover.cdfd.nl
 autodiscover.contactpuntbouwproducten.nl
 autodiscover.ctgb.nl
 autodiscover.ctivd.nl
@@ -1959,6 +1960,7 @@ cciwebstats.belastingdienst.nl
 ccmo.nl
 ccn2.belastingdienst.nl
 cdbg-dr-leegis.hub.arcgis.com
+cdfd.nl
 cdn-a.arcgis.com
 cdn-mediaprogram.maps.arcgis.com
 cdn.biotechnologie.nl
@@ -2850,6 +2852,7 @@ e.aovvt.nl
 e.arbeidsmarktplatformpo.nl
 e.awareness.nationaalcoordinatorgroningen.nl
 e.buitenlevenvakanties.nl
+e.cdfd.nl
 e.denkmee.zuid-holland.nl
 e.flevoland.nl
 e.garanties.rvo.nl
@@ -4346,6 +4349,7 @@ jong.belastingdienst.nl
 jongerensite.belastingdienst.nl
 jouw.belastingdienst.nl
 joy.applicatie-domein.dji.nl
+juno.cdfd.nl
 jupyter-almalinux.dgdoobi.rijkscloud.nl
 jupyter.abibzk.rijkscloud.nl
 jupyter.acc.rijkscloud.nl
@@ -4606,6 +4610,7 @@ link.arbeidsmarktplatformpo.nl
 link.arbocatalogusmbo.nl
 link.bkd.eu
 link.caop.nl
+link.cdfd.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
@@ -8817,6 +8822,7 @@ www.cbr.nl
 www.cbs.nl
 www.cbsinuwbuurt.nl
 www.ccmo.nl
+www.cdfd.nl
 www.ceg.nl
 www.centraalexamen.nl
 www.centraalexamenhavo.nl

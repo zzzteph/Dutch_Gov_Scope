@@ -4,8 +4,8 @@ opendata
 feeds
 english
 mail
-a-www
 autodiscover
+a-www
 a-opendata
 acc
 a-feeds
@@ -42,6 +42,7 @@ www-ac
 www-dev
 www-p
 www-tst
+link
 login
 zoeken
 meet
@@ -53,8 +54,8 @@ digikoppeling
 geo
 www-ow
 www-ts
+e
 remote
-link
 webservices
 werkenbij
 beheer
@@ -63,7 +64,6 @@ open
 docs
 portal
 kennis
-e
 www-acc2
 www-dev2
 www-p2
@@ -6416,3 +6416,4 @@ ws-zdtst
 wwwacc01
 wwwdev01
 wwwtst01
+juno
