@@ -1101,6 +1101,7 @@ https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://behandel.sbv-z.nl
 https://beheer.bigregister.nl
+https://beheer.bodemrichtlijn.nl
 https://beheer.chat.ind.nl
 https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
@@ -1231,6 +1232,7 @@ https://boatoregon-geo.hub.arcgis.com
 https://bodemambities.nl
 https://bodemloket.nl
 https://bodemrapportage.flevoland.nl
+https://bodemrichtlijn.nl
 https://bodemvizier.nl
 https://boem-metaport-boem.hub.arcgis.com
 https://bofeb.nl
@@ -1749,6 +1751,7 @@ https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
 https://developer.rvig.nl
 https://developers.arcgis.com
+https://development.bodemrichtlijn.nl
 https://devext.arcgis.com
 https://dexter.ndw.nu
 https://dexter.staging.ndw.nu
@@ -2850,6 +2853,8 @@ https://link.arbocatalogusmbo.nl
 https://link.bkd.eu
 https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
+https://linkmanager.bodemrichtlijn.nl
+https://linkmanager5.bodemrichtlijn.nl
 https://links.informatieservice.nederlandwereldwijd.nl
 https://lintjes.nl
 https://lir.cibg.nl
@@ -3817,6 +3822,7 @@ https://put-kpi-dashboard.ndw.nu
 https://pvs.oostvaarderskliniek.nl
 https://pw.rvb.rijkscloud.nl
 https://qaext.arcgis.com
+https://quest.bodemrichtlijn.nl
 https://raadopenbaarbestuur.nl
 https://raadplegen-acc.sbv-z.nl
 https://raadplegen.donorregister.nl
@@ -4521,6 +4527,7 @@ https://vild.ndw.nu
 https://vinden.belastingdienst.nl
 https://virtueel.zuid-holland.nl
 https://viz.ndw.nu
+https://vizier.bodemrichtlijn.nl
 https://vm-ivra.ndw.nu
 https://vnacs.nl
 https://vocabs.cbs.nl
@@ -4845,6 +4852,7 @@ https://www.boa-expertisecentrum.nl
 https://www.bodemambities.nl
 https://www.bodemloket.nl
 https://www.bodemrapportage.flevoland.nl
+https://www.bodemrichtlijn.nl
 https://www.bodemvizier.nl
 https://www.bofeb.nl
 https://www.brabant.nl

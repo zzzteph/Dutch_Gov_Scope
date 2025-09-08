@@ -1473,6 +1473,7 @@ beheer-bzv.brabant.nl
 beheer.acceptatie.omgevingswet.overheid.nl
 beheer.ack.omgevingswet.overheid.nl
 beheer.bigregister.nl
+beheer.bodemrichtlijn.nl
 beheer.chat.ind.nl
 beheer.donorregister.nl
 beheer.energiebesparingsverkenner.rvo.nl
@@ -1672,6 +1673,7 @@ bodemambities.nl
 bodematlas.brabant.nl
 bodemloket.nl
 bodemrapportage.flevoland.nl
+bodemrichtlijn.nl
 bodemvizier.nl
 boem-metaport-boem.hub.arcgis.com
 boetebase.om.nl
@@ -2538,6 +2540,7 @@ developer.overheid.nl
 developer.rvig.nl
 developers.arcgis.com
 development.bblonline.nl
+development.bodemrichtlijn.nl
 devext.arcgis.com
 dexter.ndw.nu
 dexter.staging.ndw.nu
@@ -4526,6 +4529,8 @@ linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
 linkeddata.test.cultureelerfgoed.nl
 linkextractor.overheid.nl
+linkmanager.bodemrichtlijn.nl
+linkmanager5.bodemrichtlijn.nl
 links.informatieservice.nederlandwereldwijd.nl
 lintjes.nl
 lip.ilent.nl
@@ -6373,6 +6378,7 @@ qualification.test.zm.irealisatie.nl
 quality-time-2.devops.rvb.rijkscloud.nl
 quality-time-ldap.devops.rvb.rijkscloud.nl
 quality-time.devops.rvb.rijkscloud.nl
+quest.bodemrichtlijn.nl
 qvw-test.rvo.nl
 ra.zorginstituutnederland.nl
 raadopenbaarbestuur.nl
@@ -7925,6 +7931,7 @@ vitaal.matroos.rijkswaterstaat.nl
 vite.dev.fib.ienw.rijkscloud.nl
 viya.rijkswaterstaat.nl
 viz.ndw.nu
+vizier.bodemrichtlijn.nl
 vlan2006_internet_ac-bgp-r01-1.svb.nl
 vlan2006_internet_ac-bgp-r01-2.svb.nl
 vlan2006_internet_ac-bgp-r01.svb.nl
@@ -8578,6 +8585,7 @@ www.boa-expertisecentrum.nl
 www.bodemambities.nl
 www.bodemloket.nl
 www.bodemrapportage.flevoland.nl
+www.bodemrichtlijn.nl
 www.bodemvizier.nl
 www.bofeb.nl
 www.brabant.nl
