@@ -225,6 +225,7 @@ media
 developer
 mail2
 magazine
+dev
 helloid
 chw
 test.resultaten
@@ -421,7 +422,6 @@ pdok
 vacature
 securemail
 mr
-dev
 acc-www
 cm
 development
@@ -6877,3 +6877,6 @@ vo-rijk-acc
 vpn4
 werkenbijhet-acc
 www.open
+askbot
+openid
+swirrl
