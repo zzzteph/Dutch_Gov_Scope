@@ -137,6 +137,7 @@ sharepoint-acc
 sharepoint-conf
 sharepoint
 website
+old
 acceptatie.behandel
 acceptatie.webservices
 blog
@@ -170,6 +171,7 @@ a-site2
 cms1
 cms2
 cmsdev
+gw
 i-www
 o-cms1
 o-site1
@@ -248,7 +250,6 @@ start
 toestemming
 vc
 webdiensten
-old
 acceptatie.zoeken
 behandel
 acs
@@ -293,7 +294,6 @@ auth.services
 linkeddata
 subsidie
 thesaurus
-gw
 i-cms
 i-cms1
 i-site1
@@ -6418,3 +6418,5 @@ wwwdev01
 wwwtst01
 juno
 watson
+integration
+production

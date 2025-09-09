@@ -191,6 +191,7 @@ http://gm.mev.logius.nl
 http://grafana.lpc.logius.nl
 http://gvopsawa-t.waterschaplimburg.nl
 http://gvopsawa.waterschaplimburg.nl
+http://gw.cea.nl
 http://h2ons.waterschaplimburg.nl
 http://hapi1.test.zm.irealisatie.nl
 http://hapi2.test.zm.irealisatie.nl
@@ -241,6 +242,7 @@ http://lpc-p-az2.elastic.lpc.logius.nl
 http://lpc-p-az2.kibana.lpc.logius.nl
 http://luchtfoto.zuid-holland.nl
 http://mail.agendavoorhetwaddengebied2050.nl
+http://mail.cea.nl
 http://mail.dev.cbs.nl
 http://matrix.ix.rijkscloud.nl
 http://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
@@ -271,6 +273,7 @@ http://nvi.test.gf.irealisatie.nl
 http://nzrdashboard.vzinfo.nl
 http://odata4.cbs.nl
 http://old-cms.contenttoolsrijksoverheid.nl
+http://old.cea.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oogop.zuid-holland.nl
 http://oosweb.cbs.nl
@@ -1420,6 +1423,7 @@ https://cdn.knmi.nl
 https://cdn.opwegnaarseb.nl
 https://cdndev.arcgis.com
 https://cdnqa.arcgis.com
+https://cea.nl
 https://cecoldo-dimar.hub.arcgis.com
 https://ceg.nl
 https://census-2020-dcpd.hub.arcgis.com
@@ -2704,6 +2708,7 @@ https://inte2e.omgevingswet.overheid.nl
 https://integrated-waste-management-fcsa.hub.arcgis.com
 https://integratie.omgevingswet.overheid.nl
 https://integratie02.omgevingswet.overheid.nl
+https://integration.cea.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intel-acc.ncsc.nl
 https://intel.ncsc.nl
@@ -3868,6 +3873,7 @@ https://prod.tlokb.nl
 https://prod.wetten.rvo.nl
 https://productie-nieuw.bidbook.eu
 https://productie-nieuw.biedboek.nl
+https://production.cea.nl
 https://productontwikkeling-acc.cbr.nl
 https://productontwikkeling-tst.cbr.nl
 https://productontwikkeling.cbr.nl
@@ -5049,6 +5055,7 @@ https://www.cbsinuwbuurt.nl
 https://www.ccmo.nl
 https://www.cdfd.nl
 https://www.cdho.nl
+https://www.cea.nl
 https://www.ceg.nl
 https://www.centraalexamen.nl
 https://www.centraalexamenhavo.nl
