@@ -94,6 +94,7 @@ repository
 geoweb
 mx1
 maps
+prd
 geodata
 enterpriseenrollment
 enterpriseregistration
@@ -103,12 +104,15 @@ werken
 acceptatie.mijn
 geoportaal
 wifi
+acc2
+demo
 static
 projecten
 survey
 a-cms
 dwo
 mam
+oud
 auth
 ns1
 connect-acpt
@@ -125,7 +129,6 @@ luchtfoto
 testeloket
 vpn2
 ontwikkel
-prd
 pushmail
 academie
 b2b
@@ -148,8 +151,6 @@ esb
 geoserver
 id
 ondertekenen
-acc2
-demo
 doc
 sso
 conf
@@ -164,7 +165,6 @@ externemail
 m365
 sf
 formulier
-oud
 share
 api-acc
 a-cms1
@@ -6490,3 +6490,5 @@ zm
 zw
 zw.prod
 zw.test
+matomo
+www.matomo

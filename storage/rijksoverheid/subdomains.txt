@@ -515,6 +515,7 @@ acc.cbi.eu
 acc.centruminternationaalrecht.nl
 acc.cerberus.cbs.nl
 acc.cimlk.nl
+acc.cip-overheid.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.cmv-kandidaat.sso3w.nl
 acc.consexponano.nl
@@ -589,6 +590,7 @@ acc1.mijn.overheid.nl
 acc1.picard.mijn.overheid.nl
 acc2.bio-overheid.nl
 acc2.bronhouderportaal-bro.nl
+acc2.cip-overheid.nl
 acc2.inspectieresultaten.nvwa.nl
 acc2.intranet.rvig.nl
 acc2.leer-rijk.nl
@@ -2094,6 +2096,7 @@ cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
 ciot.justid.nl
+cip-overheid.nl
 circulair.zuid-holland.nl
 circulaireviaducten.nl
 circulairinkopen.nl
@@ -2568,6 +2571,7 @@ demo-test.web.ssc-ict.nl
 demo.bio-overheid.nl
 demo.bronhouderportaal-bro.nl
 demo.chm-cbd.net
+demo.cip-overheid.nl
 demo.ix.rijkscloud.nl
 demo.mijn.overheid.nl
 demo.test.chm-cbd.net
@@ -5016,6 +5020,7 @@ mass.cultureelerfgoed.nl
 master-browser.dataplatform.knmi.nl
 matchingsapp.cbs.nl
 matomo-cdk.dataplatform.knmi.nl
+matomo.cip-overheid.nl
 matomo.dataplatform.knmi.nl
 matra-south.rvo.nl
 matrix.ix.rijkscloud.nl
@@ -6108,6 +6113,7 @@ otv-stub.test.gf.irealisatie.nl
 otv-web.proeftuin.gf.irealisatie.nl
 otv-web.test.gf.irealisatie.nl
 oud.aquo.nl
+oud.cip-overheid.nl
 oud.cultureelerfgoed.nl
 oud.mensenrechten.nl
 ouders-uit-elkaar.nl
@@ -6369,6 +6375,7 @@ prd-ez-rvo-ba.dictu.nl
 prd.atlasleefomgeving.nl
 prd.bio-overheid.nl
 prd.btp.sso3w.nl
+prd.cip-overheid.nl
 prd.consexponano.nl
 prd.web-static.rijkswaterstaat.nl
 pre.bronhouderportaal-bro.nl
@@ -8935,6 +8942,7 @@ www.chm-cbd.net
 www.cibbrina.eu
 www.cibg.nl
 www.cimlk.nl
+www.cip-overheid.nl
 www.circulaireviaducten.nl
 www.circulairinkopen.nl
 www.clusterbuster.nl
@@ -9166,6 +9174,7 @@ www.magazine-nl.digitaleoverheid.nl
 www.magazinesrijkswaterstaat.nl
 www.mail.bureauwsnp.nl
 www.marechaussee.nl
+www.matomo.cip-overheid.nl
 www.mattermost.aerius.nl
 www.me2.alterra.nl
 www.medicijnkosten.nl
