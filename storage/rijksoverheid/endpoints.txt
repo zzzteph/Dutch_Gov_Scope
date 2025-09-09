@@ -55,6 +55,7 @@ http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
+http://analytics-acc.cjib.nl
 http://analytics-solutions-esridech.hub.arcgis.com
 http://api.openstad.zuid-holland.nl
 http://appl.rdi.nl
@@ -105,6 +106,7 @@ http://bevolkingsonderzoek.nl
 http://bft-plein-acc.bureauft.nl
 http://bft-plein.bureauft.nl
 http://bibliotheek.gezondeleefomgeving.nl
+http://blauwe-knop-acc.cjib.nl
 http://bpa.rvo.nl
 http://bridge-repair-d3p6-scdot.hub.arcgis.com
 http://bureau-reach.nl
@@ -401,6 +403,7 @@ http://videobellen.waterschaplimburg.nl
 http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://viya.rijkswaterstaat.nl
+http://vo-rijk-acc.cjib.nl
 http://voi.brabant.nl
 http://vpn.bkd.eu
 http://vth.zuid-holland.nl
@@ -933,6 +936,7 @@ https://analysis3.arcgis.com
 https://analysis3.az-int.arcgis.com
 https://analysis8.arcgis.com
 https://analysis8.az-int.arcgis.com
+https://analytics.cjib.nl
 https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
 https://anderson-sc-comp-udo-hlplanning.hub.arcgis.com
@@ -1120,6 +1124,7 @@ https://autodiscover.arbocatalogusmbo.nl
 https://autodiscover.awti.nl
 https://autodiscover.caop.nl
 https://autodiscover.cdfd.nl
+https://autodiscover.cjib.nl
 https://autodiscover.cvte.nl
 https://autodiscover.huisvoorklokkenluiders.nl
 https://autodiscover.hwbp.nl
@@ -1318,6 +1323,7 @@ https://bike-ped-plan-candidate-project-listing-sapdcgis.hub.arcgis.com
 https://bikeparking-chicago.hub.arcgis.com
 https://billing.arcgis.com
 https://binnenhofrenovatie.nl
+https://binnenplein.cjib.nl
 https://binnl.nl
 https://bio-enerco.com
 https://bio-overheid.nl
@@ -1445,6 +1451,8 @@ https://burgerberaadklimaat.nl
 https://burgerloket.hhdelfland.nl
 https://burgernet.nl
 https://bus-priority-dcgis.hub.arcgis.com
+https://businessportaal-acc.cjib.nl
+https://businessportaal.cjib.nl
 https://butte-county-collaborative-group-bcrcd.hub.arcgis.com
 https://buurtatlas.vzinfo.nl
 https://bvd-pre.mev.logius.nl
@@ -1638,6 +1646,7 @@ https://city-of-winchester-open-data-1-winchestercity.hub.arcgis.com
 https://cityhall.maps.arcgis.com
 https://cityofkingman.maps.arcgis.com
 https://ciz.nl
+https://cjib.nl
 https://claircitydata.cbs.nl
 https://clallam-county-portal-clallam.hub.arcgis.com
 https://climate-arcgis-content.hub.arcgis.com
@@ -1980,6 +1989,8 @@ https://digikoppeling.waterschaplimburg.nl
 https://digilab.overheid.nl
 https://digitaal.raadopenbaarbestuur.nl
 https://digitaal.scp.nl
+https://digitaalloket-acc.cjib.nl
+https://digitaalloket.cjib.nl
 https://digitaalmkb.zuid-holland.nl
 https://digitaalstelselmobiliteitsdata.nl
 https://digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
@@ -2052,6 +2063,7 @@ https://drs.ndw.nu
 https://drus-cd.arcgis.com
 https://drus-ei.arcgis.com
 https://dso.brabant.nl
+https://dsp.cjib.nl
 https://dsta.nl
 https://dus-i.nl
 https://dustex.nl
@@ -3285,6 +3297,7 @@ https://mail.boswachtersblog.nl
 https://mail.brandweer.nl
 https://mail.bureauft.nl
 https://mail.cggp.nl
+https://mail.cjib.nl
 https://mail.community-gatewayreview.nl
 https://mail.dgdoobi.rijkscloud.nl
 https://mail.dihoo.nl
@@ -3686,6 +3699,7 @@ https://open-geography-portalx-ons.hub.arcgis.com
 https://open-overheid.nl
 https://open-wave.odijmond.nl
 https://open.brabant.nl
+https://open.cjib.nl
 https://open.odijmond.nl
 https://open.overheid.nl
 https://open.rijkswaterstaat.nl
@@ -3976,6 +3990,8 @@ https://pas.natura2000.nl
 https://password-new.knmi.nl
 https://password.ctgb.nl
 https://password.knmi.nl
+https://pay-acc.cjib.nl
+https://pay.cjib.nl
 https://pbc-gis-forum-pbcgisforum.hub.arcgis.com
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
@@ -5000,10 +5016,15 @@ https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn.brabant.nl
 https://vpn.bureauft.nl
 https://vpn.cbg-meb.nl
+https://vpn.cjib.nl
 https://vpn.dictu.nl
 https://vpn.ikz.nl
 https://vpn.irealisatie.nl
+https://vpn1.cjib.nl
 https://vpn2.aaenmaas.nl
+https://vpn2.cjib.nl
+https://vpn3.cjib.nl
+https://vpn4.cjib.nl
 https://vpna.dictu.nl
 https://vpnb.dictu.nl
 https://vpnbon.rijksdienstcn.com
@@ -5093,6 +5114,7 @@ https://wellesleyma.maps.arcgis.com
 https://werkaanuitvoering.nl
 https://werkelijkeschade.nl
 https://werken.belastingdienst.nl
+https://werken.cjib.nl
 https://werken.douane.nl
 https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
@@ -5396,6 +5418,7 @@ https://www.circularandfairictpact.com
 https://www.circularfestivals.nl
 https://www.cito.nl
 https://www.ciz.nl
+https://www.cjib.nl
 https://www.clusterbuster.nl
 https://www.codexalimentarius.nl
 https://www.collegevanrijksadviseurs.nl
@@ -5692,6 +5715,7 @@ https://www.onslevendlandschap.nl
 https://www.onswater.nl
 https://www.oostvaarderskliniek.nl
 https://www.open-overheid.nl
+https://www.open.cjib.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openkat.nl
 https://www.oprijk.nl

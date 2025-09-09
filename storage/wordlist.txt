@@ -28,11 +28,11 @@ redactie
 connect
 a-english
 prod
+www-acc
 data
 a-feeds.a-english
 a-opendata.a-english
 portaal
-www-acc
 staging
 smtp
 apps
@@ -46,6 +46,7 @@ remote
 link
 login
 zoeken
+open
 meet
 sip
 ftp
@@ -61,7 +62,6 @@ webservices
 werkenbij
 beheer
 beeldbank
-open
 docs
 kennis
 adfs
@@ -78,6 +78,7 @@ adobe-analytics-dc
 adobe-tags
 fs
 services
+werken
 acceptatie.beheer
 app
 atlas
@@ -94,13 +95,13 @@ repository
 geoweb
 mx1
 maps
+vpn2
 prd
 geodata
 enterpriseenrollment
 enterpriseregistration
 ns2
 videobellen
-werken
 acceptatie.mijn
 geoportaal
 wifi
@@ -125,6 +126,7 @@ zaaksysteem-acc
 chat
 tst
 git
+lyncdiscover
 preview
 aanvragen
 magazinesintern
@@ -132,7 +134,6 @@ support
 eloket
 luchtfoto
 testeloket
-vpn2
 ontwikkel
 pushmail
 academie
@@ -209,7 +210,6 @@ mijn-acc
 vt
 authenticatie
 files
-lyncdiscover
 jaarverslag
 extranet
 secure
@@ -218,6 +218,7 @@ vacatures
 wiki
 intern
 mx2
+analytics
 iam
 sentry
 media
@@ -287,6 +288,7 @@ outlook
 status
 tunnel
 uag
+vpn1
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
@@ -316,6 +318,7 @@ lync
 mail01
 dnadatabank
 ras
+vpn3
 acceptatie.raadplegen
 raadplegen
 e.acc.videobellen
@@ -379,7 +382,6 @@ upnl.mijn
 acceptatie.portaal
 api.mijn
 charlie
-analytics
 faq
 a-voorlichting
 track
@@ -409,6 +411,7 @@ www.staging
 applicaties
 klantportaal
 plekchecker
+siam
 dc
 register
 handboek
@@ -1504,7 +1507,6 @@ upload
 videoplatform
 videos
 vocabs
-vpn1
 webserver
 welkombij
 werkplekom
@@ -1965,7 +1967,6 @@ services-test
 services1
 verkoop
 verkooptest
-vpn3
 vuurwerk
 acc-raadplegen
 mijn.adr
@@ -4769,7 +4770,6 @@ regelingen
 rhel-np-mijn
 rhel-p-mijn
 sharingknowledge
-siam
 sonarqube-infra-edu.efiling.mijnoctrooi
 sonarqube-infra-preprod.efiling.mijnoctrooi
 sonarqube-infra.efiling.mijnoctrooi
@@ -6856,3 +6856,24 @@ veiligbestandenversturen
 www-staging
 www-test-apoyo
 www.mijnwlzaanvraag
+analytics-acc
+bbdc
+binnenplein
+blauwe-knop-acc
+bsp
+businessportaal-acc
+businessportaal
+digitaalloket-acc
+digitaalloket
+dsp
+pay-acc
+pay
+sfb
+sfbav
+sfbsip
+sfbwc
+sfbweb
+vo-rijk-acc
+vpn4
+werkenbijhet-acc
+www.open
