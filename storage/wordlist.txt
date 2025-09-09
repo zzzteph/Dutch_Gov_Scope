@@ -1,13 +1,13 @@
-
 www
+
 opendata
 feeds
 english
 mail
 autodiscover
 a-www
-a-opendata
 acc
+a-opendata
 test
 a-feeds
 mijn
@@ -115,6 +115,7 @@ connect-acpt
 www.mijn
 www-a
 zaaksysteem-acc
+tst
 git
 aanvragen
 magazinesintern
@@ -198,7 +199,6 @@ m
 mijn-acc
 vt
 chat
-tst
 files
 lyncdiscover
 jaarverslag
@@ -410,6 +410,7 @@ elo
 pdok
 vacature
 securemail
+dev
 development
 acceptatie-nieuw
 productie-nieuw
@@ -5421,7 +5422,6 @@ auth-register-gat
 auth-register-pentest
 auth-register
 calculator
-dev
 fame
 imaer
 legend

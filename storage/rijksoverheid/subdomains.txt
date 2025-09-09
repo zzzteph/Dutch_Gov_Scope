@@ -509,6 +509,7 @@ acc.bvd.logius.nl
 acc.carbonbudgetexplorer.eu
 acc.carbonbudgetexplorer.nl
 acc.cbi.eu
+acc.centruminternationaalrecht.nl
 acc.cerberus.cbs.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.cmv-kandidaat.sso3w.nl
@@ -2583,6 +2584,7 @@ dev.aerius.nl
 dev.api-sec.p-direkt.nl
 dev.api.p-direkt.nl
 dev.cbrnsecurity.nctv.nl
+dev.centruminternationaalrecht.nl
 dev.cerberus.cbs.nl
 dev.connect.acm.nl
 dev.dataverkenner.knmi.nl
@@ -7853,6 +7855,7 @@ tst-referentiegegevens.justid.nl
 tst-vergelijkingskaart.afm.nl
 tst.agrimatie.nl
 tst.antenneregister.nl
+tst.centruminternationaalrecht.nl
 tst.inspectieview.nl
 tst.live.rijkswaterstaat.nl
 tst.live.werkenbij.rijkswaterstaat.nl
@@ -8845,6 +8848,7 @@ www.centraalexamenvo.nl
 www.centraalexamenvwo.nl
 www.centrale-eindtoets-po.nl
 www.centralecommissiedierproeven.nl
+www.centruminternationaalrecht.nl
 www.cert.nl
 www.cev.nl
 www.cevo.nl

@@ -563,6 +563,7 @@ https://acc.bronhouderportaal-bro.nl
 https://acc.btp.sso3w.nl
 https://acc.bvd.logius.nl
 https://acc.cbi.eu
+https://acc.centruminternationaalrecht.nl
 https://acc.cerberus.cbs.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.cmv-kandidaat.sso3w.nl
@@ -1791,6 +1792,7 @@ https://dev-www.afm.nl
 https://dev.api-sec.p-direkt.nl
 https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
+https://dev.centruminternationaalrecht.nl
 https://dev.cerberus.cbs.nl
 https://dev.dataverkenner.knmi.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
@@ -4553,6 +4555,7 @@ https://truck-parking.ndw.nu
 https://ts.onderwijsraad.nl
 https://tst-referentiegegevens.justid.nl
 https://tst-vergelijkingskaart.afm.nl
+https://tst.centruminternationaalrecht.nl
 https://tst.mercurius.sso3w.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://tst.subsidie.cultureelerfgoed.nl
@@ -5065,6 +5068,7 @@ https://www.centraalexamenvo.nl
 https://www.centraalexamenvwo.nl
 https://www.centrale-eindtoets-po.nl
 https://www.centralecommissiedierproeven.nl
+https://www.centruminternationaalrecht.nl
 https://www.cert.nl
 https://www.cevo.nl
 https://www.chemischestoffengoedgeregeld.nl
