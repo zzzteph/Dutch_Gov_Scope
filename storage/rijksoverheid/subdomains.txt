@@ -541,6 +541,9 @@ aanpakringzuid.nl
 aansluitsuite.acceptatie.digipoort.logius.nl
 aansluitsuite.digipoort.logius.nl
 aansluitsuite.preproductie.digipoort.logius.nl
+aanvraag-beheer.ciz.nl
+aanvraag-uzi.ciz.nl
+aanvraag.ciz.nl
 aanvraag.dus-i.nl
 aanvragen-acc.nza.nl
 aanvragen.nza.nl
@@ -1291,6 +1294,7 @@ app.svb.nl
 app.vechtstromen.nl
 appcontent.belastingdienst.nl
 appl.rdi.nl
+applicaties.ciz.nl
 applicaties.rvo.nl
 applicationframework.cibg.nl
 applications.klopt.cibg.nl
@@ -1479,6 +1483,7 @@ autodiscover.cbr.nl
 autodiscover.cbs.nl
 autodiscover.cdfd.nl
 autodiscover.cito.nl
+autodiscover.ciz.nl
 autodiscover.contactpuntbouwproducten.nl
 autodiscover.ctgb.nl
 autodiscover.ctivd.nl
@@ -2331,6 +2336,7 @@ city-of-vancouver-wa-geo-hub-cityofvancouver.hub.arcgis.com
 city-of-winchester-open-data-1-winchestercity.hub.arcgis.com
 cityhall.maps.arcgis.com
 cityofkingman.maps.arcgis.com
+ciz.nl
 cjib.huurcommissie.nl
 clacc-mijn.rvo.nl
 claircitydata.cbs.nl
@@ -2742,6 +2748,8 @@ datafusion.ndw.nu
 dataiku.diobzk.rijkscloud.nl
 dataiku.michel.rijkscloud.nl
 dataiku.rws.rijkscloud.nl
+datakluis-portero.ciz.nl
+datakluis.ciz.nl
 datalab.knmi.nl
 datalekken-acc.autoriteitpersoonsgegevens.nl
 datalekken.autoriteitpersoonsgegevens.nl
@@ -4254,8 +4262,10 @@ helloid.aaenmaas.nl
 helloid.vechtstromen.nl
 help.arcgis.com
 help200x.alterra.nl
+helpdesk-test.ciz.nl
 helpdesk.acc.irealisatie.nl
 helpdesk.brba.nl
+helpdesk.ciz.nl
 helpdesk.irealisatie.nl
 helpmee.cbs.nl
 herstel.acc.belastingdienst.nl
@@ -4453,6 +4463,7 @@ inkopers.werkenvoornederland.nl
 inloggen-pre.limburg.nl
 inloggen-preprod.hhdelfland.nl
 inloggen-preprod.waterschaplimburg.nl
+inloggen.ciz.nl
 inloggen.hhdelfland.nl
 inloggen.limburg.nl
 inloggen.rijkswaterstaat.nl
@@ -4523,6 +4534,7 @@ intranet.acc.toeslagen.nl
 intranet.ad.hdsr.nl
 intranet.autoriteitnvs.nl
 intranet.belastingdienst.nl
+intranet.ciz.nl
 intranet.ctgb.nl
 intranet.cultureelerfgoed.nl
 intranet.dji.nl
@@ -4862,6 +4874,8 @@ konijn.hackaton.rijkscloud.nl
 koninklijkhuis.nl
 koopkoppeling.zuid-holland.nl
 koopoverheid.nl
+koppelpunt.ciz.nl
+koppelpunt.test.ciz.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
 koppelvlak.overheid.nl
@@ -4874,6 +4888,7 @@ krv-demo.cvr.rvb.rijkscloud.nl
 krv-demo.devops.rvb.rijkscloud.nl
 krv-release.cvr.rvb.rijkscloud.nl
 krv-release.devops.rvb.rijkscloud.nl
+ktv-servicedesk.ciz.nl
 kvkdataservice.afm.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
@@ -4931,6 +4946,7 @@ leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 leren.mensenrechten.nl
 leren.nza.nl
+lerenbij.ciz.nl
 lerenvoorveiligheid.nl
 letmemap-ptbocounty.hub.arcgis.com
 leveranciersvdi.svb.nl
@@ -5316,6 +5332,7 @@ master-browser.dataplatform.knmi.nl
 matchingsapp.cbs.nl
 matomo-cdk.dataplatform.knmi.nl
 matomo.cip-overheid.nl
+matomo.ciz.nl
 matomo.dataplatform.knmi.nl
 matra-south.rvo.nl
 matrix.ix.rijkscloud.nl
@@ -5548,6 +5565,7 @@ mijntpw-a.svb.nl
 mijntpw.svb.nl
 mijntst01.cbr.nl
 mijnwerkplek.cbg-meb.nl
+mijnwlzaanvraag.ciz.nl
 mijnwmo-siam-a.svb.nl
 mijnwmo-siam.svb.nl
 mijnzakelijk-perf.acc.belastingdienst.nl
@@ -6030,6 +6048,7 @@ onbeperkttoegankelijk.nl
 onboarding.acc.belastingdienst.nl
 onboarding.belastingdienst.nl
 onderhoud.cbs.nl
+onderhoud.ciz.nl
 ondernemersplein.overheid.nl
 ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
 ondersteuning.omgevingswet.overheid.nl
@@ -6049,6 +6068,7 @@ onderzoek.rdi.nl
 onderzoek.svb.nl
 onderzoek.wegwijzer.overheid.nl
 onderzoek2.cbs.nl
+onderzoeksapp.ciz.nl
 onehealth.nl
 online-maps-fontanaca.hub.arcgis.com
 online.rijksinnovatiecommunity.nl
@@ -7349,6 +7369,7 @@ sbc-prd-b-tenant01.ssc-ict.nl
 sbc-prd-b-tenant02.dwrt2.ssc-ict.nl
 sbc-prd-b-tenant03.dwrt3.ssc-ict.nl
 sbc-prd-b-tenant04.dwrt4.ssc-ict.nl
+sbc.ciz.nl
 sbi-api.cbs.nl
 sbi.cbs.nl
 sbi2008.cbs.nl
@@ -7411,6 +7432,7 @@ selector2._domainkey.nlarbeidsinspectie.nl
 semarnath1.maps.arcgis.com
 sensu.ix.rijkscloud.nl
 sentry.acm.nl
+sentry.ciz.nl
 sentry.iaas.rijkscloud.nl
 sentry.ndw.nu
 sentry.services.acm.nl
@@ -7438,6 +7460,7 @@ service.omgevingswet.overheid.nl
 service.perf.omgevingswet.overheid.nl
 service.pre.omgevingswet.overheid.nl
 service.tst2905.omgevingswet.overheid.nl
+servicedesk.ciz.nl
 servicedesk.dictu.nl
 servicedesk.rijksoverheid.nl
 services-acc.burgernet.nl
@@ -8193,6 +8216,7 @@ tmxweb.rijkswaterstaat.nl
 toegang-tst.cbr.nl
 toegang.cbr.nl
 toegangderden.rijkswaterstaat.nl
+toegangscode.ciz.nl
 toegangslaag-gn2.rvig.nl
 toegangslaag-gn3.rvig.nl
 toegangslaag.rvig.nl
@@ -8460,6 +8484,7 @@ vechtstromen.nl
 vecozo.dmz.belastingdienst.nl
 veelgesteldevragen.secure.cito.nl
 vegetatiemonitor.rijkswaterstaat.nl
+veiligbestandenversturen.ciz.nl
 veiligepubliekedienstverlening.nl
 veiligheidsregioflevoland.nl
 veiligmailen.flevoland.nl
@@ -8761,6 +8786,7 @@ webmail.brabant.nl
 webmail.brandweer.nl
 webmail.caop.nl
 webmail.cbr.nl
+webmail.ciz.nl
 webmail.ctivd.nl
 webmail.flevoland.nl
 webmail.huurcommissie.nl
@@ -9025,8 +9051,11 @@ www-p2.zorginzicht.nl
 www-pr.zorginzicht.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
+www-staging.ciz.nl
+www-test-apoyo.ciz.nl
 www-test.brabant.nl
 www-test.cbs.nl
+www-test.ciz.nl
 www-ts.farmacotherapeutischkompas.nl
 www-ts.gipdatabank.nl
 www-ts.horizonscangeneesmiddelen.nl
@@ -9308,6 +9337,7 @@ www.circulairmaterialenplan.nl
 www.circularandfairictpact.com
 www.circularfestivals.nl
 www.cito.nl
+www.ciz.nl
 www.clusterbuster.nl
 www.codexalimentarius.nl
 www.collegevanrijksadviseurs.nl
@@ -9557,6 +9587,7 @@ www.mijn.rvo.nl
 www.mijncn.nl
 www.mijnncg.nl
 www.mijnpgb.nl
+www.mijnwlzaanvraag.ciz.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
 www.monitorlangdurigezorg.nl

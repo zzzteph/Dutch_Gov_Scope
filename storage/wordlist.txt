@@ -14,8 +14,8 @@ mijn
 _autodiscover._tcp
 magazines
 feeds.english
-opendata.english
 webmail
+opendata.english
 acceptatie
 intranet
 api
@@ -72,6 +72,7 @@ www-p2
 www-tst2
 loket
 zaaksysteem
+inloggen
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -89,7 +90,6 @@ elearning
 cdn
 a-magazines
 forms
-inloggen
 repository
 geoweb
 mx1
@@ -158,6 +158,8 @@ esb
 geoserver
 id
 ondertekenen
+www-test
+helpdesk
 doc
 sso
 conf
@@ -191,6 +193,7 @@ site4
 t-www
 gitlab
 jira
+servicedesk
 acc.mijn
 nieuwsbrief
 cmsintranet
@@ -216,6 +219,7 @@ wiki
 intern
 mx2
 iam
+sentry
 media
 developer
 mail2
@@ -269,8 +273,6 @@ samenwerken
 sis
 wachtwoord
 werkenvoor
-www-test
-helpdesk
 web.acc
 broker
 uptime
@@ -280,6 +282,7 @@ crm
 ts
 content
 dashboards
+onderhoud
 outlook
 status
 tunnel
@@ -311,7 +314,6 @@ dns1
 dns2
 lync
 mail01
-servicedesk
 dnadatabank
 ras
 acceptatie.raadplegen
@@ -319,6 +321,7 @@ raadplegen
 e.acc.videobellen
 e.videobellen
 mobiel
+aanvraag
 services-acc
 webservice-acc
 webservice
@@ -378,7 +381,6 @@ api.mijn
 charlie
 analytics
 faq
-sentry
 a-voorlichting
 track
 voorlichting
@@ -404,6 +406,7 @@ monitor
 statistiek
 server
 www.staging
+applicaties
 klantportaal
 plekchecker
 dc
@@ -424,6 +427,7 @@ productie-nieuw
 share.acceptatie-nieuw
 share.test-nieuw
 test-nieuw
+matomo
 geoportal
 gisservices
 gisservicesacc
@@ -1456,7 +1460,6 @@ nationaalcohortonderzoek
 odata
 odata4
 oefenvragenlijst
-onderhoud
 onderzoek2
 oosweb
 oto
@@ -1985,7 +1988,6 @@ vluchtinfo
 wpx-80-aix-http.acc
 wpx-80-aix-http
 zoekengebruikstarief
-aanvraag
 beoordeling
 formulier-beheer
 gebruiker-beheer
@@ -4636,7 +4638,6 @@ achilles
 aiddata
 amglb
 aoep-iam
-applicaties
 argocd-infra-edu.efiling.mijnoctrooi
 argocd-infra-preprod.efiling.mijnoctrooi
 argocd-infra.efiling.mijnoctrooi
@@ -6490,7 +6491,6 @@ zm
 zw
 zw.prod
 zw.test
-matomo
 www.matomo
 100-47-169-195
 101-47-169-195
@@ -6839,3 +6839,20 @@ www.zml
 zml-a
 zml-t
 zml
+aanvraag-beheer
+aanvraag-uzi
+datakluis-portero
+datakluis
+helpdesk-test
+koppelpunt
+koppelpunt.test
+ktv-servicedesk
+lerenbij
+mijnwlzaanvraag
+onderzoeksapp
+sbc
+toegangscode
+veiligbestandenversturen
+www-staging
+www-test-apoyo
+www.mijnwlzaanvraag
