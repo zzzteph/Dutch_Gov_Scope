@@ -132,6 +132,7 @@ preview
 aanvragen
 magazinesintern
 support
+dev
 eloket
 luchtfoto
 testeloket
@@ -201,6 +202,7 @@ acc.mijn
 nieuwsbrief
 cmsintranet
 denkmee
+kaart
 test-cmsintranet
 test-intranet
 csoacct
@@ -226,7 +228,6 @@ media
 developer
 mail2
 magazine
-dev
 acc-www
 helloid
 chw
@@ -339,7 +340,6 @@ www3
 piwik
 desktop
 exchange
-kaart
 legacy
 preprodformulieren
 veiligmailen
