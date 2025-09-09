@@ -667,6 +667,7 @@ https://accept.digitaleoverheid.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://acceptatie-calculator.aerius.nl
 https://acceptatie-connect.aerius.nl
+https://acceptatie-identity.coa.nl
 https://acceptatie-imaer.aerius.nl
 https://acceptatie-melding.aerius.nl
 https://acceptatie-melvin.ndw.nu
@@ -1125,6 +1126,7 @@ https://autodiscover.awti.nl
 https://autodiscover.caop.nl
 https://autodiscover.cdfd.nl
 https://autodiscover.cjib.nl
+https://autodiscover.coa.nl
 https://autodiscover.cvte.nl
 https://autodiscover.huisvoorklokkenluiders.nl
 https://autodiscover.hwbp.nl
@@ -1682,6 +1684,8 @@ https://cn.cbs.nl
 https://co.chm-cbd.net
 https://co.formulierdus-i.nl
 https://co2emissiefactoren.nl
+https://coa.nl
+https://coaodc01gp01.coa.nl
 https://coastal-data-hub-theriverstrust.hub.arcgis.com
 https://coastalcomm.maps.arcgis.com
 https://cobb-covid-19-grocery-stores-and-inventory-cobbcountyga.hub.arcgis.com
@@ -1716,6 +1720,7 @@ https://compliance.afm.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://componenten.overheid.nl
+https://condor.coa.nl
 https://confluence.knmi.nl
 https://confluenceimg-acc.rvo.nl
 https://confluenceimg.rvo.nl
@@ -1978,6 +1983,7 @@ https://dexter.staging.ndw.nu
 https://dezi.nl
 https://dfw.maps.arcgis.com
 https://dggf.nl
+https://dialin.coa.nl
 https://dialin2.vechtstromen.nl
 https://dictu.nl
 https://dictumagazines.nl
@@ -2711,6 +2717,15 @@ https://goudenpiramide.nl
 https://gouverneuraruba.com
 https://gouverneurcuracao.com
 https://government.nl
+https://gp-infra.coa.nl
+https://gp-staging.coa.nl
+https://gp.coa.nl
+https://gp1coajb2.coa.nl
+https://gp2coajb2.coa.nl
+https://gp3coajb2.coa.nl
+https://gp4coajb2.coa.nl
+https://gp5coajb2.coa.nl
+https://gp6coajb2.coa.nl
 https://gps-sa.sso3w.nl
 https://granvillecounty.maps.arcgis.com
 https://greater-rift-valley-worldresources.hub.arcgis.com
@@ -2797,6 +2812,7 @@ https://hubcdn.arcgis.com
 https://hubqacdn.arcgis.com
 https://huiselijkgeweld.nl
 https://huisstijl.belastingdienst.nl
+https://huisstijl.coa.nl
 https://huisvoorklokkenluiders.nl
 https://hulpmiddelen.farmatec.nl
 https://huurcommissie.nl
@@ -3252,6 +3268,7 @@ https://lvbb-perf-acc.overheid.nl
 https://lvbb-preprod.overheid.nl
 https://lvbb-tst.overheid.nl
 https://lvmb.nl
+https://lyncdiscover.coa.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.rijkswaterstaat.nl
 https://ma.chm-cbd.net
@@ -3379,6 +3396,7 @@ https://mediaportal.cbs.nl
 https://medicijnkosten.nl
 https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
+https://meet.coa.nl
 https://meet.rijkscloud.nl
 https://meeting.acm.nl
 https://melding.aerius.nl
@@ -3585,6 +3603,7 @@ https://nexus.aerius.nl
 https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nieuws.brabant.nl
+https://nieuws.coa.nl
 https://nieuws.rvo.nl
 https://nieuwsbrief.autoriteitpersoonsgegevens.nl
 https://nieuwsbrief.examenblad.nl
@@ -3694,6 +3713,7 @@ https://onslevendlandschap.nl
 https://onswater.nl
 https://ontheffingaanvragen.vrachtwagenheffing.nl
 https://oordelen.mensenrechten.nl
+https://oos-p1.coa.nl
 https://oostvaarderskliniek.nl
 https://open-acc.overheid.nl
 https://open-data-ls-osp-sdg.hub.arcgis.com
@@ -4411,11 +4431,16 @@ https://sandbox.ikwerkvoornederland.nl
 https://sandbox.werkenvoornederland.nl
 https://sarasota.maps.arcgis.com
 https://sb-dictu.logius.nl
+https://sbae19-p1.coa.nl
 https://sbi-api.cbs.nl
 https://sbi.cbs.nl
 https://sbi2008.cbs.nl
 https://sbl.limburg.nl
 https://sbv-z.nl
+https://sbweb15-p1.coa.nl
+https://sbweb15-p2.coa.nl
+https://sbweb19-p1.coa.nl
+https://sbweb19-p2.coa.nl
 https://scansys.huurcommissie.nl
 https://scatterometer.knmi.nl
 https://scenario.aerius.nl
@@ -4501,8 +4526,10 @@ https://signing.pre.brabant.nl
 https://simcms.ahn.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
+https://sip.coa.nl
 https://sip.om.nl
 https://sip.rijksrecherche.nl
+https://sipfed.coa.nl
 https://sitescan-eu1.arcgis.com
 https://slachtoffer.jeugdconnect.nl
 https://slim-reizen.ndw.nu
@@ -4623,6 +4650,7 @@ https://statistics.ind.nl
 https://statistiek.mijn.overheid.nl
 https://statistiek.rijksoverheid.nl
 https://statistiek.rvo.nl
+https://statistieken.coa.nl
 https://statline.cbs.nl
 https://stats.acc.mgo.irealisatie.nl
 https://stats.duo.rijkscloud.nl
@@ -5024,6 +5052,7 @@ https://vpn.brabant.nl
 https://vpn.bureauft.nl
 https://vpn.cbg-meb.nl
 https://vpn.cjib.nl
+https://vpn.coa.nl
 https://vpn.dictu.nl
 https://vpn.ikz.nl
 https://vpn.irealisatie.nl
@@ -5125,6 +5154,7 @@ https://werken.cjib.nl
 https://werken.douane.nl
 https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
+https://werkenbij.coa.nl
 https://werkenbij.douane.nl
 https://werkenbij.justid.nl
 https://werkenbij.rijkswaterstaat.nl
@@ -5431,6 +5461,7 @@ https://www.climate4impact.eu
 https://www.clo.nl
 https://www.clusterbuster.nl
 https://www.co2emissiefactoren.nl
+https://www.coa.nl
 https://www.codexalimentarius.nl
 https://www.collegevanrijksadviseurs.nl
 https://www.commissiecelz.nl

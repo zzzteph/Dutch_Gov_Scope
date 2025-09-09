@@ -618,6 +618,7 @@ acc-rd.dictu.nl
 acc-referentiegegevens.justid.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-staten.zuid-holland.nl
+acc-tvs.coa.nl
 acc-v2.bronhouderportaal-bro.nl
 acc-vergelijkingskaart.afm.nl
 acc-vinden.cbs.nl
@@ -721,6 +722,7 @@ acc.rvo.nl
 acc.spaceweather.knmi.nl
 acc.staging.justitieconnect.nl
 acc.statistiek.mijn.overheid.nl
+acc.statistieken.coa.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie.cultureelerfgoed.nl
@@ -729,6 +731,7 @@ acc.web-static.rijkswaterstaat.nl
 acc.wegwijzer.overheid.nl
 acc.werkenbij.api.rijkswaterstaat.nl
 acc.woo.irealisatie.nl
+acc.www.coa.nl
 acc.zorginzicht.nl
 acc.zsmgame.om.nl
 acc0.mijn.overheid.nl
@@ -753,10 +756,12 @@ acc9.mijn.overheid.nl
 accebms.cbs.nl
 accept.digitaleoverheid.nl
 accept.mijn.buitenlevenvakanties.nl
+acceptatie-api.coa.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie-calculator.aerius.nl
 acceptatie-checkjeprijs.huurcommissie.nl
 acceptatie-connect.aerius.nl
+acceptatie-identity.coa.nl
 acceptatie-imaer.aerius.nl
 acceptatie-melding.aerius.nl
 acceptatie-melvin.ndw.nu
@@ -1215,6 +1220,7 @@ api.brabant.nl
 api.buitenlevenvakanties.nl
 api.burgemeesterworden.politiekeambtsdragers.nl
 api.caelus-tool.nl
+api.coa.nl
 api.contenttoolsrijksoverheid.nl
 api.cursus.rijkscloud.nl
 api.dashboardgroningen.nl
@@ -1490,6 +1496,7 @@ autodiscover.cdfd.nl
 autodiscover.cito.nl
 autodiscover.ciz.nl
 autodiscover.cjib.nl
+autodiscover.coa.nl
 autodiscover.contactpuntbouwproducten.nl
 autodiscover.ctgb.nl
 autodiscover.ctivd.nl
@@ -2263,6 +2270,7 @@ cevo.nl
 cf.chm-cbd.net
 cfgcmg.cito.nl
 cg.chm-cbd.net
+cgbs.coa.nl
 cggp.nl
 champaigncountyohio-gisopendata-cceo.hub.arcgis.com
 channels-az1.lpc.logius.nl
@@ -2463,7 +2471,9 @@ cn.cbs.nl
 co.chm-cbd.net
 co.formulierdus-i.nl
 co2emissiefactoren.nl
+coa.nl
 coalitieakkoord.zuid-holland.nl
+coaodc01gp01.coa.nl
 coastal-data-hub-theriverstrust.hub.arcgis.com
 coastalcomm.maps.arcgis.com
 coba-sf-site1.dictu.nl
@@ -2509,6 +2519,7 @@ compliance.afm.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
+condor.coa.nl
 conf.cbg-meb.nl
 conf.om.nl
 conf.rijksrecherche.nl
@@ -2922,6 +2933,7 @@ dhcp2.rw1.rijkscloud.nl
 di.acm.nl
 di.services.acm.nl
 dialin.cbg-meb.nl
+dialin.coa.nl
 dialin.justid.nl
 dialin.om.nl
 dialin.prolander.nl
@@ -3485,6 +3497,8 @@ f1130a.dictu.nl
 f1130b.dictu.nl
 f2b.belastingdienst.nl
 facilitor.brabant.nl
+facturatie-acc.coa.nl
+facturatie.coa.nl
 factuur.dbe-t.rvb.rijkscloud.nl
 fad-gegevens-sit.belastingdienst.nl
 fame.aerius.nl
@@ -4164,6 +4178,17 @@ gouverneurcuracao.com
 government.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
+gp-clientless.coa.nl
+gp-infra.coa.nl
+gp-staging.coa.nl
+gp-tst.coa.nl
+gp.coa.nl
+gp1coajb2.coa.nl
+gp2coajb2.coa.nl
+gp3coajb2.coa.nl
+gp4coajb2.coa.nl
+gp5coajb2.coa.nl
+gp6coajb2.coa.nl
 gpa-rest-test.belastingdienst.nl
 gpa-tvs4-prod.rvo.nl
 gpi.acc.belastingdienst.nl
@@ -4328,6 +4353,7 @@ hubqacdn.arcgis.com
 huiselijkgeweld.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
+huisstijl.coa.nl
 huisvoorklokkenluiders.nl
 hulpmiddelen.farmatec.nl
 huurcommissie.nl
@@ -4335,10 +4361,12 @@ huurprijscheck.huurcommissie.nl
 hwbp.nl
 hybrid.afm.nl
 hybrid.brabant.nl
+hybrid.coa.nl
 hybrid.domeinenrz.nl
 hybrid.ofgv.nl
 hybrid.vechtstromen.nl
 hybridexo.cbs.nl
+hybridmail.coa.nl
 hybridmail.rekenkamer.nl
 i-certnl.nvwa.nl
 i-cms.defensie.nl
@@ -4400,6 +4428,7 @@ identificatie.rdi.nl
 identifier-acc.overheid.nl
 identifier-preprod.overheid.nl
 identifier.overheid.nl
+identity.coa.nl
 idm.rvig.nl
 idp-dgp.preproductie.digipoort.logius.nl
 idppoc-ont.dictu.nl
@@ -5134,6 +5163,7 @@ lync.prolander.nl
 lyncaccess.dictu.nl
 lyncav.vico.dji.nl
 lyncdiscover.cjib.nl
+lyncdiscover.coa.nl
 lyncdiscover.justid.nl
 lyncdiscover.om.nl
 lyncdiscover.rijksrecherche.nl
@@ -5406,6 +5436,7 @@ medicijnkosten.nl
 medicineshortagesdefects.nl
 meepraten.flevoland.nl
 meet.cbg-meb.nl
+meet.coa.nl
 meet.justid.nl
 meet.om.nl
 meet.prolander.nl
@@ -5844,11 +5875,13 @@ nh.douane.nl
 nhr.flevoland.nl
 nieuw.acm.nl
 nieuws.brabant.nl
+nieuws.coa.nl
 nieuws.rvo.nl
 nieuwsbrief.autoriteitpersoonsgegevens.nl
 nieuwsbrief.examenblad.nl
 nieuwsbrief.zuid-holland.nl
 nieuwsbrieven.caop.nl
+nieuwsbrieven.coa.nl
 nieuwsbrieven.limburg.nl
 nieuwsbrieven.rijkswaterstaat.nl
 nieuwsbrievenminocw.nl
@@ -6118,6 +6151,7 @@ ontwikkel.uzipas.auth.dezi.nl
 ontwikkel.uzipas.dezi.nl
 oogop.zuid-holland.nl
 oordelen.mensenrechten.nl
+oos-p1.coa.nl
 oostvaarderskliniek.nl
 oosweb.cbs.nl
 open-acc.overheid.nl
@@ -7333,6 +7367,8 @@ satarchive.knmi.nl
 satellite.gn2.rijkscloud.nl
 satellite.gn3.rijkscloud.nl
 sb-dictu.logius.nl
+sbae15-p1.coa.nl
+sbae19-p1.coa.nl
 sbc-ota-A-tenant-C01.ssc-ict.nl
 sbc-ota-A-tenant01.ssc-ict.nl
 sbc-ota-A-tenant02.ssc-ict.nl
@@ -7402,6 +7438,12 @@ sbi2008.cbs.nl
 sbl.limburg.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
 sbv-z.nl
+sbwce15-p1.coa.nl
+sbwce19-p1.coa.nl
+sbweb15-p1.coa.nl
+sbweb15-p2.coa.nl
+sbweb19-p1.coa.nl
+sbweb19-p2.coa.nl
 scansys.huurcommissie.nl
 scatterometer.knmi.nl
 scenario.aerius.nl
@@ -7595,6 +7637,7 @@ simlandscape.alterra.nl
 simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
 sip.cbg-meb.nl
+sip.coa.nl
 sip.emissieautoriteit.nl
 sip.justid.nl
 sip.kiesraad.nl
@@ -7604,6 +7647,7 @@ sip.rvig.nl
 sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
+sipfed.coa.nl
 sipreg.belastingdienst.nl
 sis.brabant.nl
 sis.zuid-holland.nl
@@ -7872,6 +7916,7 @@ statistics.ind.nl
 statistiek.mijn.overheid.nl
 statistiek.rijksoverheid.nl
 statistiek.rvo.nl
+statistieken.coa.nl
 statline.cbs.nl
 stats.acc.mgo.irealisatie.nl
 stats.aladdin.p-direkt.nl
@@ -8161,6 +8206,7 @@ test.resultaten.nlarbeidsinspectie.nl
 test.rvig.nl
 test.rvo.nl
 test.spin2.rijkswaterstaat.nl
+test.statistieken.coa.nl
 test.status.cbs.nl
 test.stopheling.nl
 test.stub.mijn.overheid.nl
@@ -8170,6 +8216,7 @@ test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
 test.webservices.donorregister.nl
 test.woo.irealisatie.nl
+test.www.coa.nl
 test12.dictu.nl
 test2.kinderbescherming.nl
 test202007201227.dictu.nl
@@ -8375,6 +8422,7 @@ tunnelmdm.flevoland.nl
 turn.rijkscloud.nl
 tvep.dictu.nl
 tvs-rd.dictu.nl
+tvs.coa.nl
 tvs.dictu.nl
 two-acs.com
 tws-esb.rijkswaterstaat.nl
@@ -8655,6 +8703,7 @@ vpn.cbg-meb.nl
 vpn.cbr.nl
 vpn.cito.nl
 vpn.cjib.nl
+vpn.coa.nl
 vpn.dictu.nl
 vpn.flevoland.nl
 vpn.huurcommissie.nl
@@ -8911,6 +8960,7 @@ werken.toeslagen.nl
 werkenaanonspensioen.nl
 werkenbij.api.rijkswaterstaat.nl
 werkenbij.belastingdienst.nl
+werkenbij.coa.nl
 werkenbij.douane.nl
 werkenbij.justid.nl
 werkenbij.rijkswaterstaat.nl
@@ -9039,6 +9089,7 @@ www-ac.zorginstituutnederland.nl
 www-ac.zorginzicht.nl
 www-acc.cbs.nl
 www-acc.cjib.nl
+www-acc.coa.nl
 www-acc.ep-online.nl
 www-acc.farmacotherapeutischkompas.nl
 www-acc.gipdatabank.nl
@@ -9389,6 +9440,7 @@ www.climate4impact.eu
 www.clo.nl
 www.clusterbuster.nl
 www.co2emissiefactoren.nl
+www.coa.nl
 www.codexalimentarius.nl
 www.collegevanrijksadviseurs.nl
 www.commissiecelz.nl
