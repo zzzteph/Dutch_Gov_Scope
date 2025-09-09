@@ -226,6 +226,7 @@ developer
 mail2
 magazine
 dev
+acc-www
 helloid
 chw
 test.resultaten
@@ -422,7 +423,6 @@ pdok
 vacature
 securemail
 mr
-acc-www
 cm
 development
 acceptatie-nieuw
@@ -431,6 +431,7 @@ share.acceptatie-nieuw
 share.test-nieuw
 test-nieuw
 matomo
+tst-www
 geoportal
 gisservices
 gisservicesacc
@@ -6815,7 +6816,6 @@ trifork-cus.player
 trifork-tst.player
 trifork.player
 tst-www-staging
-tst-www
 ubuntunginxtest.secure
 umbraco
 upload.secure
@@ -6880,3 +6880,5 @@ www.open
 askbot
 openid
 swirrl
+snippet.acc
+snippet
