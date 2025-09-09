@@ -358,6 +358,7 @@ http://slimmerreizen.zuid-holland.nl
 http://sonarqube.lpc.logius.nl
 http://sorry.belastingdienst.nl
 http://specials.brabant.nl
+http://ssl.cokz.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
 http://status.proeftuin.gf.irealisatie.nl
@@ -428,6 +429,7 @@ http://www.slimmerreizen.zuid-holland.nl
 http://www.toezichtresultaten.nl
 http://wwwfcinetorg.belastingdienst.nl
 http://wwwrijksacademienl.belastingdienst.nl
+http://xelion.cokz.nl
 http://zoekdienst-preprod.overheid.nl
 http://zoeken.hdsr.nl
 http://zonnewijzer.zuid-holland.nl
@@ -589,6 +591,7 @@ https://acc-dictu.toegankelijkheidsverklaring.nl
 https://acc-geo.rijkswaterstaat.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc-maps.rijkswaterstaat.nl
+https://acc-mijn.cokz.nl
 https://acc-open-wave.odijmond.nl
 https://acc-referentiegegevens.justid.nl
 https://acc-v2.bronhouderportaal-bro.nl
@@ -1696,6 +1699,7 @@ https://cognitatie.acc.omgevingswet.overheid.nl
 https://cognitatie.omgevingswet.overheid.nl
 https://cognitatie.tst.omgevingswet.overheid.nl
 https://cohife-cohife.hub.arcgis.com
+https://cokz.nl
 https://collabora.acc.irealisatie.nl
 https://collabora.irealisatie.nl
 https://collabra.cvte.nl
@@ -3442,6 +3446,7 @@ https://mijn.bigregister.nl
 https://mijn.bkd.eu
 https://mijn.cbr.nl
 https://mijn.cbs.nl
+https://mijn.cokz.nl
 https://mijn.donorregister.nl
 https://mijn.examenblad.nl
 https://mijn.examenbladmbo.nl
@@ -5138,6 +5143,7 @@ https://webservices.bigregister.nl
 https://webservices.hdsr.nl
 https://website.belastingdienst.nl
 https://website.douane.nl
+https://webtest.cokz.nl
 https://wegen.brabant.nl
 https://wegkenmerken.ndw.nu
 https://wegkenmerken.staging.ndw.nu
@@ -5156,6 +5162,7 @@ https://werken.douane.nl
 https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
 https://werkenbij.coa.nl
+https://werkenbij.cokz.nl
 https://werkenbij.douane.nl
 https://werkenbij.justid.nl
 https://werkenbij.rijkswaterstaat.nl
@@ -5465,6 +5472,7 @@ https://www.co2emissiefactoren.nl
 https://www.coa.nl
 https://www.codexalimentarius.nl
 https://www.cogemjaarverslag.net
+https://www.cokz.nl
 https://www.collegevanrijksadviseurs.nl
 https://www.commissiecelz.nl
 https://www.commissiemijnbouwschade.nl

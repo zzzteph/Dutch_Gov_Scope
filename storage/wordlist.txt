@@ -13,8 +13,8 @@ a-feeds
 mijn
 _autodiscover._tcp
 magazines
-feeds.english
 webmail
+feeds.english
 opendata.english
 acceptatie
 intranet
@@ -35,6 +35,7 @@ a-opendata.a-english
 portaal
 staging
 smtp
+werkenbij
 meet
 sip
 apps
@@ -47,7 +48,6 @@ www-tst
 remote
 link
 login
-werkenbij
 zoeken
 open
 ftp
@@ -310,6 +310,7 @@ i-cms
 i-cms1
 i-site1
 o-cms
+ssl
 t-cms1
 t-site1
 deutsch
@@ -319,6 +320,7 @@ dns1
 dns2
 lync
 mail01
+mail02
 tvs
 dnadatabank
 ras
@@ -351,6 +353,7 @@ AutoDiscover
 begrippen
 inloggen-preprod
 mobile
+synergy
 zaaksysteem-accept
 sdm
 dashboard
@@ -413,6 +416,7 @@ monitor
 statistiek
 server
 www.staging
+acc-mijn
 applicaties
 klantportaal
 plekchecker
@@ -1702,7 +1706,6 @@ cmsvpn
 editorial
 mrt
 nimh-beeldbank
-ssl
 dp2021
 dp2022
 dp2023
@@ -1836,7 +1839,6 @@ lyncmeet
 lyncwebapps
 mail01.bulk
 mail02.bulk
-mail02
 mail03.bulk
 mail03
 mail04.bulk
@@ -2232,7 +2234,6 @@ s.checkjeprijs
 scansys
 shopper
 sumatra
-synergy
 telewerk
 vouch.checkjeprijs
 webmail-a
@@ -4628,7 +4629,6 @@ acc-ezine
 acc-geocontent
 acc-geoservices
 acc-infographics
-acc-mijn
 acc-webform
 acc-website
 acc-wetten
@@ -6917,3 +6917,9 @@ sipfed
 statistieken
 test.statistieken
 test.www
+key-acc
+key
+uitwijk
+webtest
+xelion
+ziem
