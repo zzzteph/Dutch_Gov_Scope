@@ -965,7 +965,9 @@ https://apabeheer-a.cito.nl
 https://apabeheer-t.cito.nl
 https://apabeheer.cito.nl
 https://apd-transparency-portal-auroraco.hub.arcgis.com
+https://api-a.competentnl.nl
 https://api-acc.afm.nl
+https://api-acc.competentnl.nl
 https://api-acc.dashboardgroningen.nl
 https://api-acc.rdi.nl
 https://api-dev.afm.nl
@@ -979,6 +981,7 @@ https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.caelus-tool.nl
+https://api.competentnl.nl
 https://api.contenttoolsrijksoverheid.nl
 https://api.cursus.rijkscloud.nl
 https://api.dashboardgroningen.nl
@@ -1726,6 +1729,7 @@ https://community-health-outreach-statelocaltryit.hub.arcgis.com
 https://communityanalyst.arcgis.com
 https://communitymaps.arcgis.com
 https://competentie.flevoland.nl
+https://competentnl.nl
 https://complaintform.mensenrechten.nl
 https://compliance.afm.nl
 https://componenten-acc.overheid.nl
@@ -1991,6 +1995,7 @@ https://developer.rvig.nl
 https://developers.arcgis.com
 https://development.bodemrichtlijn.nl
 https://devext.arcgis.com
+https://devportal.competentnl.nl
 https://dexter.ndw.nu
 https://dexter.staging.ndw.nu
 https://dezi.nl
@@ -3216,6 +3221,8 @@ https://link.arbocatalogusmbo.nl
 https://link.bkd.eu
 https://link.caop.nl
 https://link.cdfd.nl
+https://linkeddata-acc.competentnl.nl
+https://linkeddata.competentnl.nl
 https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
 https://linkmanager.bodemrichtlijn.nl
@@ -4568,6 +4575,9 @@ https://south-windsor-pocd-information-hub-southwindsorct.hub.arcgis.com
 https://spaceweather.knmi.nl
 https://spapps-t.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
+https://sparql-a.competentnl.nl
+https://sparql-acc.competentnl.nl
+https://sparql.competentnl.nl
 https://spatialdata-cbmdc.hub.arcgis.com
 https://spcgis-spc.hub.arcgis.com
 https://spin.rijkswaterstaat.nl
@@ -5497,6 +5507,7 @@ https://www.commit2data.nl
 https://www.communicatiekompas.nl
 https://www.communicatierijk.nl
 https://www.community-gatewayreview.nl
+https://www.competentnl.nl
 https://www.consexponano.nl
 https://www.contactpuntbouwproducten.nl
 https://www.cost832.alterra.nl

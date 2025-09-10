@@ -1195,8 +1195,10 @@ apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
 api-a.acm.nl
+api-a.competentnl.nl
 api-a.services.acm.nl
 api-acc.afm.nl
+api-acc.competentnl.nl
 api-acc.dashboardgroningen.nl
 api-acc.rdi.nl
 api-acpt.brabant.nl
@@ -1223,6 +1225,7 @@ api.buitenlevenvakanties.nl
 api.burgemeesterworden.politiekeambtsdragers.nl
 api.caelus-tool.nl
 api.coa.nl
+api.competentnl.nl
 api.contenttoolsrijksoverheid.nl
 api.cursus.rijkscloud.nl
 api.dashboardgroningen.nl
@@ -2524,6 +2527,7 @@ communitymaps.arcgis.com
 compensationsns.nl
 competent.cibg.nl
 competentie.flevoland.nl
+competentnl.nl
 complaintform.mensenrechten.nl
 compliance.afm.nl
 componenten-acc.overheid.nl
@@ -2913,6 +2917,7 @@ developers.arcgis.com
 development.bblonline.nl
 development.bodemrichtlijn.nl
 devext.arcgis.com
+devportal.competentnl.nl
 dexter.ndw.nu
 dexter.staging.ndw.nu
 dezi.nl
@@ -5047,7 +5052,9 @@ link.arbocatalogusmbo.nl
 link.bkd.eu
 link.caop.nl
 link.cdfd.nl
+linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
+linkeddata.competentnl.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
 linkeddata.test.cultureelerfgoed.nl
@@ -7763,6 +7770,9 @@ spaceweather.knmi.nl
 spamtitan.cbi.eu
 spapps-t.waterschaplimburg.nl
 spapps.waterschaplimburg.nl
+sparql-a.competentnl.nl
+sparql-acc.competentnl.nl
+sparql.competentnl.nl
 spatialdata-cbmdc.hub.arcgis.com
 spcgis-spc.hub.arcgis.com
 specials-acpt.brabant.nl
@@ -9488,6 +9498,7 @@ www.commit2data.nl
 www.communicatiekompas.nl
 www.communicatierijk.nl
 www.community-gatewayreview.nl
+www.competentnl.nl
 www.connect.dictu.nl
 www.consexponano.nl
 www.contactpuntbouwproducten.nl

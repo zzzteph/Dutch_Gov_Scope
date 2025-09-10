@@ -17,8 +17,8 @@ webmail
 feeds.english
 opendata.english
 acceptatie
-intranet
 api
+intranet
 vpn
 cms
 _dmarc
@@ -117,6 +117,7 @@ a-cms
 dwo
 mam
 oud
+api-acc
 auth
 mailing
 ns1
@@ -176,8 +177,8 @@ externemail
 m365
 sf
 formulier
+linkeddata
 share
-api-acc
 a-cms1
 a-cms2
 a-site1
@@ -304,7 +305,6 @@ password
 testconn
 auth.services
 catalogus
-linkeddata
 subsidie
 thesaurus
 i-cms
@@ -430,6 +430,7 @@ elo
 pdok
 vacature
 securemail
+api-a
 mr
 cm
 development
@@ -5345,7 +5346,6 @@ www.openstad
 www.slimmerreizen
 www.windlansingerland
 zonnewijzer
-api-a
 api-a.services
 api.services
 apps.services
@@ -6928,3 +6928,8 @@ develop
 playground
 relayaccept
 relayprod
+devportal
+linkeddata-acc
+sparql-a
+sparql-acc
+sparql
