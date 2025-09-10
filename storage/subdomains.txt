@@ -675,6 +675,7 @@ acc.coronatest.nl
 acc.cparegister.nl
 acc.cruksregister.nl
 acc.csirtdsp.nl
+acc.dashboardduurzaamheid.nl
 acc.dashboardgroningen.nl
 acc.data.ilent.nl
 acc.dataverkenner.knmi.nl
@@ -2765,6 +2766,7 @@ dashboard-acc.burgernet.nl
 dashboard.analytics.ienw.rijkscloud.nl
 dashboard.burgernet.nl
 dashboard.ikz.nl
+dashboardduurzaamheid.nl
 dashboardgroningen.nl
 dashboards-at.dstrial-inspectieraad.rijkscloud.nl
 dashboards-private.ilt.rijkscloud.nl
@@ -8541,6 +8543,7 @@ tst-www.clo.nl
 tst.agrimatie.nl
 tst.antenneregister.nl
 tst.centruminternationaalrecht.nl
+tst.dashboardduurzaamheid.nl
 tst.inspectieview.nl
 tst.live.rijkswaterstaat.nl
 tst.live.werkenbij.rijkswaterstaat.nl
