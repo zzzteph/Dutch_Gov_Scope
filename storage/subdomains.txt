@@ -1318,6 +1318,7 @@ app-planttes-eulaliabota.hub.arcgis.com
 app-t.svb.nl
 app.brabant.nl
 app.burgernet.nl
+app.dagvandeforensischezorg.nl
 app.nl-alert.nl
 app.svb.nl
 app.vechtstromen.nl
@@ -2749,6 +2750,7 @@ dafne.ndw.nu
 daggegevens.knmi.nl
 dagstaatmonitors.brabant.nl
 dagvandefg.nl
+dagvandeforensischezorg.nl
 daisi.ndw.nu
 dallas-census-datahub-dallasgis.hub.arcgis.com
 damage-assessment-3-pema.hub.arcgis.com
@@ -9436,6 +9438,7 @@ www.antenneregister.nl
 www.antisemitismebestrijding.nl
 www.aofondsrijk.nl
 www.aovvt.nl
+www.app.dagvandeforensischezorg.nl
 www.apps.dictu.nl
 www.aqualarm.nl
 www.aquo.nl
@@ -9660,6 +9663,7 @@ www.cybersecuritycouncil.nl
 www.cybersecurityraad.nl
 www.daggegevens.knmi.nl
 www.dagvandefg.nl
+www.dagvandeforensischezorg.nl
 www.dashboardgroningen.nl
 www.data-islandcountygis.opendata.arcgis.com
 www.data-nycgov.opendata.arcgis.com
