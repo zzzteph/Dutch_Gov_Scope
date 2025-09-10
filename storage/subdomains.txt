@@ -2768,6 +2768,7 @@ dashboard.burgernet.nl
 dashboard.ikz.nl
 dashboardduurzaamheid.nl
 dashboardgroningen.nl
+dashboardklimaatbeleid.nl
 dashboards-at.dstrial-inspectieraad.rijkscloud.nl
 dashboards-private.ilt.rijkscloud.nl
 dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl
@@ -9668,6 +9669,7 @@ www.daggegevens.knmi.nl
 www.dagvandefg.nl
 www.dagvandeforensischezorg.nl
 www.dashboardgroningen.nl
+www.dashboardklimaatbeleid.nl
 www.data-islandcountygis.opendata.arcgis.com
 www.data-nycgov.opendata.arcgis.com
 www.databestanden.cbs.nl
