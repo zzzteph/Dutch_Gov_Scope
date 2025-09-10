@@ -323,6 +323,7 @@ lync
 mail01
 mail02
 tvs
+accept
 dnadatabank
 ras
 vpn3
@@ -1941,7 +1942,6 @@ www.prod-nl-nvwa-dkb-sign
 www.tpaw
 www.tvs
 www.vt016ed
-accept
 magazine-en
 magazine-nl
 visieopidentiteit
@@ -6924,3 +6924,7 @@ webtest
 xelion
 ziem
 wo2
+develop
+playground
+relayaccept
+relayprod
