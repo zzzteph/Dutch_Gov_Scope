@@ -942,6 +942,7 @@ activitydashboard.arcgis.com
 actuality-education-fr.hub.arcgis.com
 actueel.nl-alert.nl
 acworthga-acworth.hub.arcgis.com
+ad-ldap.cpb.nl
 ad.hdsr.nl
 ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
 adaguc-services-geoweb.knmi.nl
@@ -1083,6 +1084,7 @@ aip-acc.nationaalcoordinatorgroningen.nl
 aip.nationaalcoordinatorgroningen.nl
 air-egle.hub.arcgis.com
 air-quality-1-themetoffice.hub.arcgis.com
+airwatch-gw.cpb.nl
 ais-program-lakecountymn.hub.arcgis.com
 aivd.nl
 ak-lsli-adec.hub.arcgis.com
@@ -1507,6 +1509,7 @@ autodiscover.ciz.nl
 autodiscover.cjib.nl
 autodiscover.coa.nl
 autodiscover.contactpuntbouwproducten.nl
+autodiscover.cpb.nl
 autodiscover.ctgb.nl
 autodiscover.ctivd.nl
 autodiscover.cultureelerfgoed.nl
@@ -2544,6 +2547,7 @@ conf.rijksrecherche.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.jitsi.rijkscloud.nl
+confluence.cpb.nl
 confluence.knmi.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
@@ -2640,6 +2644,11 @@ cp.vcdn.belastingdienst.nl
 cpanel.opwegnaarseb.nl
 cpapps.belastingdienst.nl
 cparegister.nl
+cpb-adprx-l01p-ext.cpb.nl
+cpb-mail-l01p.cpb.nl
+cpb-mail-l02p.cpb.nl
+cpb-xtweb-l01p.cpb.nl
+cpb.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
 cprsprod.afm.nl
@@ -3081,6 +3090,7 @@ dotnl.ndw.nu
 douane.nl
 download.belastingdienst.nl
 download.cbs.nl
+download.mail.cpb.nl
 download.mail.scp.nl
 download.webmail.knmi.nl
 download1.belastingdienst.nl
@@ -3165,6 +3175,7 @@ dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
 dvu.rvo.nl
 dwangindezorg.nl
+dwo.cpb.nl
 dwo.ctgb.nl
 dwo.justid.nl
 dwo.knmi.nl
@@ -3496,10 +3507,13 @@ extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
 extern.knmi.nl
 externe-mail.knmi.nl
+externemail.cpb.nl
 externemail.ctgb.nl
 externemail.knmi.nl
 externemail.scp.nl
+externemail01.cpb.nl
 externemail01.knmi.nl
+externemail02.cpb.nl
 externemail02.knmi.nl
 externemailsaas.knmi.nl
 extgmea02.ss.belastingdienst.nl
@@ -3555,6 +3569,7 @@ feature-demo-child.dev.bcld-config.nl
 feature-demo-root.dev.bcld-config.nl
 feature-ease-installer.dev.bcld-config.nl
 fed-tao.acc.toeslagen.nl
+fed.cpb.nl
 fed.toeslagen.nl
 fed01-acc.toeslagen.nl
 fed01.acc.toeslagen.nl
@@ -3888,6 +3903,7 @@ fs-up-sts01.brabant.nl
 fs-up-sts02.brabant.nl
 fs.afm.nl
 fs.belastingdienst.nl
+fs.cpb.nl
 fs.ctgb.nl
 fs.knmi.nl
 fs.rijksdienstcn.com
@@ -5211,6 +5227,7 @@ m-preprod.efiling.mijnoctrooi.rvo.nl
 m.huisvoorklokkenluiders.nl
 m.leefbaarometer.nl
 m.rijkswaterstaat.nl
+m365.cpb.nl
 m365.ctgb.nl
 m365.knmi.nl
 m365.scp.nl
@@ -5296,6 +5313,7 @@ mail.cjib.nl
 mail.collegesanering.nl
 mail.community-gatewayreview.nl
 mail.contactpuntbouwproducten.nl
+mail.cpb.nl
 mail.ctgb.nl
 mail.ctivd.nl
 mail.cultureelerfgoed.nl
@@ -7590,6 +7608,7 @@ services1.domeinenrz.nl
 services7.arcgis.com
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
+sf.cpb.nl
 sf.ctgb.nl
 sf.knmi.nl
 sf.scp.nl
@@ -9534,6 +9553,7 @@ www.cost832.alterra.nl
 www.cost869.alterra.nl
 www.courtmh17.com
 www.covm.nl
+www.cpb.nl
 www.crisis.nl
 www.csirtdsp.nl
 www.ctgb.nl

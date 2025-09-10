@@ -80,6 +80,7 @@ http://autodiscover.cbr.nl
 http://autodiscover.cito.nl
 http://autodiscover.ciz.nl
 http://autodiscover.contactpuntbouwproducten.nl
+http://autodiscover.cpb.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
 http://autodiscover.flevoland.nl
@@ -893,6 +894,7 @@ https://ainformatieportaal.justid.nl
 https://aip.nationaalcoordinatorgroningen.nl
 https://air-egle.hub.arcgis.com
 https://air-quality-1-themetoffice.hub.arcgis.com
+https://airwatch-gw.cpb.nl
 https://ais-program-lakecountymn.hub.arcgis.com
 https://aivd.nl
 https://ak-lsli-adec.hub.arcgis.com
@@ -1816,6 +1818,8 @@ https://covid19-sbcph.hub.arcgis.com
 https://cp-public-info-castlepines.hub.arcgis.com
 https://cpanel.opwegnaarseb.nl
 https://cparegister.nl
+https://cpb-xtweb-l01p.cpb.nl
+https://cpb.nl
 https://crc-hub-segrass.hub.arcgis.com
 https://crisis.nl
 https://crisiswerkplek.rijkswaterstaat.nl
@@ -2070,6 +2074,7 @@ https://dotnl.ndw.nu
 https://douane.nl
 https://download.belastingdienst.nl
 https://download.cbs.nl
+https://download.mail.cpb.nl
 https://download.mail.scp.nl
 https://downloaddomain.svb.nl
 https://downloadpdf.ep-online.nl
@@ -2109,6 +2114,7 @@ https://dvfz.dji.nl
 https://dvp-proxy.acc.mgo.irealisatie.nl
 https://dvp-proxy.test.mgo.irealisatie.nl
 https://dwangindezorg.nl
+https://dwo.cpb.nl
 https://dwo.ctgb.nl
 https://dwo.justid.nl
 https://dwo.knmi.nl
@@ -2336,6 +2342,7 @@ https://feature-cicd-deployment.dev.bcld-config.nl
 https://feature-demo-child.dev.bcld-config.nl
 https://feature-demo-root.dev.bcld-config.nl
 https://feature-ease-installer.dev.bcld-config.nl
+https://fed.cpb.nl
 https://fed01.toeslagen.nl
 https://fed01.tst.toeslagen.nl
 https://feedback.atkm.nl
@@ -2599,6 +2606,7 @@ https://foto-opdracht.cultureelerfgoed.nl
 https://fpm-fema.hub.arcgis.com
 https://fr.chm-cbd.net
 https://fs.afm.nl
+https://fs.cpb.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
 https://fs.rijksdienstcn.com
@@ -3347,6 +3355,7 @@ https://mail.cggp.nl
 https://mail.cjib.nl
 https://mail.collegesanering.nl
 https://mail.community-gatewayreview.nl
+https://mail.cpb.nl
 https://mail.dgdoobi.rijkscloud.nl
 https://mail.dihoo.nl
 https://mail.handelingenbank.info
@@ -5523,6 +5532,7 @@ https://www.cost832.alterra.nl
 https://www.cost869.alterra.nl
 https://www.courtmh17.com
 https://www.covm.nl
+https://www.cpb.nl
 https://www.crisis.nl
 https://www.csirtdsp.nl
 https://www.ctgb.nl

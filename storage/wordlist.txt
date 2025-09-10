@@ -59,6 +59,7 @@ geo
 www-ow
 www-ts
 e
+fs
 webservices
 beheer
 beeldbank
@@ -78,7 +79,6 @@ inloggen
 papiamentu
 adobe-analytics-dc
 adobe-tags
-fs
 services
 werken
 acceptatie.beheer
@@ -89,6 +89,7 @@ publicaties
 mdm
 elearning
 cdn
+dwo
 a-magazines
 forms
 repository
@@ -114,8 +115,10 @@ projecten
 www1
 survey
 a-cms
-dwo
+externemail
+m365
 mam
+sf
 oud
 api-acc
 auth
@@ -174,9 +177,6 @@ designsystem
 micollab
 www.acceptatie
 t-cms
-externemail
-m365
-sf
 formulier
 linkeddata
 share
@@ -367,6 +367,9 @@ privacy
 guest
 acc.intranet
 test.intranet
+confluence
+externemail01
+externemail02
 projects
 welkom
 acc-dictu
@@ -422,8 +425,10 @@ applicaties
 klantportaal
 plekchecker
 siam
+download.mail
 dc
 register
+fed
 handboek
 papiamento
 elo
@@ -2564,7 +2569,6 @@ climate4impact
 climexp
 cms-origin.klimaatscenarios-data
 codex
-confluence
 consultatie
 csw-bc
 daggegevens
@@ -2585,8 +2589,6 @@ euro4mvis
 exons-website-manager.acc.mijn
 exons-website-manager.mijn
 externe-mail
-externemail01
-externemail02
 externemailsaas
 ftp-migtest
 ftp-test01
@@ -4842,7 +4844,6 @@ uzipas.raadplegen
 webservice-preprod
 admin
 digital
-download.mail
 mailhost
 testmail
 anyc-acceptatie
@@ -5118,7 +5119,6 @@ import
 importacc
 register-backend
 fed-tao.acc
-fed
 fed01-acc
 fed01.acc
 fed01
@@ -6952,3 +6952,9 @@ uzi.gebruikers
 uzi.testuitslagen
 www.gezondheidsverklaring
 www.vragen
+ad-ldap
+airwatch-gw
+cpb-adprx-l01p-ext
+cpb-mail-l01p
+cpb-mail-l02p
+cpb-xtweb-l01p
