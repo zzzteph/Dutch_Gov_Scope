@@ -1918,6 +1918,7 @@ https://dashboards.staging.ndw.nu
 https://dashboards.test.analyse.ilt.rijkscloud.nl
 https://dashboards.test.cbs.nl
 https://dashboardsdev-api.arcgis.com
+https://daszogefietst.nl
 https://data-acc.overheid.nl
 https://data-bgky.hub.arcgis.com
 https://data-centrevaldeloire.hub.arcgis.com
@@ -5636,6 +5637,7 @@ https://www.dagvandefg.nl
 https://www.dagvandeforensischezorg.nl
 https://www.dashboardgroningen.nl
 https://www.dashboardklimaatbeleid.nl
+https://www.daszogefietst.nl
 https://www.data-islandcountygis.opendata.arcgis.com
 https://www.data-nycgov.opendata.arcgis.com
 https://www.databestanden.cbs.nl

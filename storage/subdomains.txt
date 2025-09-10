@@ -2791,6 +2791,7 @@ dashboards.test.analyse.ilt.rijkscloud.nl
 dashboards.test.cbs.nl
 dashboards.test.ix.rijkscloud.nl
 dashboardsdev-api.arcgis.com
+daszogefietst.nl
 data-acc.overheid.nl
 data-acc.rijkswaterstaat.nl
 data-bgky.hub.arcgis.com
@@ -9670,6 +9671,7 @@ www.dagvandefg.nl
 www.dagvandeforensischezorg.nl
 www.dashboardgroningen.nl
 www.dashboardklimaatbeleid.nl
+www.daszogefietst.nl
 www.data-islandcountygis.opendata.arcgis.com
 www.data-nycgov.opendata.arcgis.com
 www.databestanden.cbs.nl
