@@ -670,6 +670,7 @@ acc.clo.nl
 acc.cmv-kandidaat.sso3w.nl
 acc.consexponano.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
+acc.coronatest.nl
 acc.cparegister.nl
 acc.csirtdsp.nl
 acc.dashboardgroningen.nl
@@ -815,6 +816,7 @@ acceptatie.clusterbuster.nl
 acceptatie.cmis.cultureelerfgoed.nl
 acceptatie.consexponano.nl
 acceptatie.consuwijzer.nl
+acceptatie.coronatest.nl
 acceptatie.crm.nza.nl
 acceptatie.designsystem.cibg.nl
 acceptatie.digikoppeling-dcr.cibg.nl
@@ -1262,6 +1264,7 @@ api.services.acm.nl
 api.so.rijkscloud.nl
 api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
+api.testbijdrukte.coronatest.nl
 api.tst.mijn.overheid.nl
 api.tst0.mijn.overheid.nl
 api.tst1.mijn.overheid.nl
@@ -2604,6 +2607,7 @@ core.odmh.nl
 coronadashboard.government.nl
 coronadashboard.rijksoverheid.nl
 coronarekening.rekenkamer.nl
+coronatest.nl
 coronavirus-erac.hub.arcgis.com
 coronavirus-esrijapan-ej.hub.arcgis.com
 coronavirus-response-county-of-hawaii-hawaiicountygis.hub.arcgis.com
@@ -3020,6 +3024,7 @@ dj.chm-cbd.net
 dji.nl
 dkb.dictu.nl
 dkl.bkd.eu
+dl.coronatest.nl
 dmarcreport.ncsc.nl
 dmo.omgevingswet.overheid.nl
 dms.hhdelfland.nl
@@ -3950,6 +3955,7 @@ gebiedsprofielen.zuid-holland.nl
 gebruiker-beheer.dus-i.nl
 gebruiker.rvo.nl
 gebruikerbeheer.rvo.nl
+gebruikers.coronatest.nl
 gebruikersbeheer-a.cito.nl
 gebruikersbeheer-o.cito.nl
 gebruikersbeheer-t.cito.nl
@@ -4088,6 +4094,7 @@ geschiktheid.cbr.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gezondeleefomgeving.nl
 gezondheidsraad.nl
+gezondheidsverklaring.coronatest.nl
 gfportal.test.gf.irealisatie.nl
 ggm.acm.nl
 ggo-vergunningen.nl
@@ -4322,6 +4329,9 @@ hazardsupport-usfs.hub.arcgis.com
 hcib.datawonen.nl
 hdcgis.maps.arcgis.com
 hdsr.nl
+health-api.acc.coronatest.nl
+health-api.acceptatie.coronatest.nl
+health-api.test.coronatest.nl
 healthcouncil.nl
 helloid.aaenmaas.nl
 helloid.vechtstromen.nl
@@ -4544,6 +4554,7 @@ innovatielab.koopoverheid.nl
 innovatieloket-acc.rijkswaterstaat.nl
 innovatieloket-tst.rijkswaterstaat.nl
 innovatieloket.rijkswaterstaat.nl
+ins.testuitslagen.coronatest.nl
 insightsservices6.arcgis.com
 insightsservices9.arcgis.com
 inspecteur.ilent.nl
@@ -6777,6 +6788,7 @@ porto.bkwi.nl
 positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
+post.testuitslagen.coronatest.nl
 postedworkers.nl
 povv-poc.ilent.nl
 powhatancounty.maps.arcgis.com
@@ -6990,6 +7002,7 @@ pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 pwik.datawonen.nl
 pypostcode.dev-datafabriek.ienw.rijkscloud.nl
+qa.coronatest.nl
 qaext.arcgis.com
 qapbldexte2.belastingdienst.nl
 qbes.cbs.nl
@@ -8198,6 +8211,7 @@ test.cibg.nl
 test.commabz.nl
 test.consuwijzer.nl
 test.contactpuntbouwproducten.nl
+test.coronatest.nl
 test.csirtdsp.nl
 test.cultureelerfgoed.nl
 test.dictu.nl
@@ -8269,6 +8283,7 @@ test300.dictu.nl
 testapi.ix.rijkscloud.nl
 testapp.devops.rvb.rijkscloud.nl
 testbegrippen.hdsr.nl
+testbijdrukte.coronatest.nl
 testcloud.cvte.nl
 testconn.ctgb.nl
 testconn.knmi.nl
@@ -8294,6 +8309,7 @@ testreporter-a.secure.cito.nl
 testreporter.secure.cito.nl
 tests.constructieplatform.cito.nl
 testtunnelmdm.flevoland.nl
+testuitslagen.coronatest.nl
 teverantwoordenregelingen.rijksoverheid.nl
 tg.chm-cbd.net
 tg.test.chm-cbd.net
@@ -8516,6 +8532,9 @@ uren.acc.irealisatie.nl
 uren.irealisatie.nl
 url6099.mail.postedworkers.nl
 use1-geocode-ls.arcgis.com
+user-api.acc.coronatest.nl
+user-api.acceptatie.coronatest.nl
+user-api.test.coronatest.nl
 usw2-geocode.arcgis.com
 utah-county-data-sharing-hub-utahcounty.hub.arcgis.com
 utah-fire-info-utahdnr.hub.arcgis.com
@@ -8531,7 +8550,9 @@ uwork.flevoland.nl
 uworktest.flevoland.nl
 uzi.acc.brba.nl
 uzi.brba.nl
+uzi.gebruikers.coronatest.nl
 uzi.test.brba.nl
+uzi.testuitslagen.coronatest.nl
 uzipas.lir.cibg.nl
 uzipas.portaal.ncpeh.nl
 uzipas.raadplegen.sbv-z.nl
@@ -8789,6 +8810,7 @@ vps-prod-01.flevoland.nl
 vr.ofgv.nl
 vrachtwagenheffing.nl
 vragen.caop.nl
+vragen.coronatest.nl
 vragenlijst.caop.nl
 vreemdelingenvisie.nl
 vri-admin.ndw.nu
@@ -9258,6 +9280,7 @@ www.acc.omgevingswet.overheid.nl
 www.acceleratethechange.nl
 www.acceptatie.aquo.nl
 www.acceptatie.clusterbuster.nl
+www.acceptatie.coronatest.nl
 www.acceptatie.redactie.aquo.nl
 www.achilles-acc.rvo.nl
 www.achilles.rvo.nl
@@ -9506,6 +9529,7 @@ www.connect.dictu.nl
 www.consexponano.nl
 www.consuwijzer.nl
 www.contactpuntbouwproducten.nl
+www.coronatest.nl
 www.cost832.alterra.nl
 www.cost869.alterra.nl
 www.crisis.nl
@@ -9600,6 +9624,7 @@ www.geodata.alterra.nl
 www.geoserver.limburg.nl
 www.gezondeleefomgeving.nl
 www.gezondheidsraad.nl
+www.gezondheidsverklaring.coronatest.nl
 www.ggo-vergunningen.nl
 www.gipdatabank.nl
 www.globalhealthhub.nl
@@ -9926,6 +9951,7 @@ www.svb.nl
 www.swap.alterra.nl
 www.synbiosys.alterra.nl
 www.test.aquo.nl
+www.test.coronatest.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
@@ -9972,6 +9998,7 @@ www.vnacs.nl
 www.volkshuisvestingnederland.nl
 www.voordejeugdenhetgezin.nl
 www.vrachtwagenheffing.nl
+www.vragen.coronatest.nl
 www.vreemdelingenvisie.nl
 www.vt016ed.dictu.nl
 www.vzinfo.nl

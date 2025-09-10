@@ -172,6 +172,7 @@ sts
 accounts
 designsystem
 micollab
+www.acceptatie
 t-cms
 externemail
 m365
@@ -299,7 +300,6 @@ acceptatie.digikoppeling2
 digikoppeling2
 stijlgids
 tmv
-www.acceptatie
 a-api
 password
 testconn
@@ -432,6 +432,7 @@ vacature
 securemail
 api-a
 mr
+www.test
 cm
 development
 acceptatie-nieuw
@@ -439,6 +440,7 @@ productie-nieuw
 share.acceptatie-nieuw
 share.test-nieuw
 test-nieuw
+vragen
 matomo
 tst-www
 geoportal
@@ -5561,7 +5563,6 @@ standaard
 test.redactie
 www.acceptatie.redactie
 www.redactie
-www.test
 watdraagjijbij
 www.watdraagjijbij
 0001757-gdot.hub
@@ -6343,7 +6344,6 @@ stichting
 tagging
 tijdschrijven
 training
-vragen
 vragenlijst
 webredactie
 abk-acc
@@ -6933,3 +6933,22 @@ linkeddata-acc
 sparql-a
 sparql-acc
 sparql
+api.testbijdrukte
+dl
+gebruikers
+gezondheidsverklaring
+health-api.acc
+health-api.acceptatie
+health-api.test
+ins.testuitslagen
+post.testuitslagen
+qa
+testbijdrukte
+testuitslagen
+user-api.acc
+user-api.acceptatie
+user-api.test
+uzi.gebruikers
+uzi.testuitslagen
+www.gezondheidsverklaring
+www.vragen
