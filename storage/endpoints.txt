@@ -986,6 +986,7 @@ https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.caelus-tool.nl
 https://api.competentnl.nl
 https://api.contenttoolsrijksoverheid.nl
+https://api.crimediggers.nl
 https://api.cursus.rijkscloud.nl
 https://api.dashboardgroningen.nl
 https://api.dataplatform.knmi.nl
@@ -1558,6 +1559,7 @@ https://cdho.nl
 https://cdn-a.arcgis.com
 https://cdn-mediaprogram.maps.arcgis.com
 https://cdn.cbs.nl
+https://cdn.crimediggers.nl
 https://cdn.klopt.cibg.nl
 https://cdn.knmi.nl
 https://cdn.opwegnaarseb.nl
@@ -1821,6 +1823,7 @@ https://cparegister.nl
 https://cpb-xtweb-l01p.cpb.nl
 https://cpb.nl
 https://crc-hub-segrass.hub.arcgis.com
+https://crimediggers.nl
 https://crisis.nl
 https://crisiswerkplek.rijkswaterstaat.nl
 https://crm.cbi.eu
@@ -1990,6 +1993,7 @@ https://dev.centruminternationaalrecht.nl
 https://dev.cerberus.cbs.nl
 https://dev.climate4impact.eu
 https://dev.collectiefnatuurinclusief.nl
+https://dev.crimediggers.nl
 https://dev.dataverkenner.knmi.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kennisbankterrorisme.nctv.nl
@@ -3013,6 +3017,7 @@ https://ipi.rijkscloud.nl
 https://iplo.nl
 https://ipw4.alterra.nl
 https://iq.chm-cbd.net
+https://irc.crimediggers.nl
 https://irealisatie.nl
 https://iris.knmi.nl
 https://ishetafval.nl
@@ -4376,6 +4381,7 @@ https://resolver.kta.omgevingswet.overheid.nl
 https://resolver.omgevingswet.overheid.nl
 https://resolver.pfm.omgevingswet.overheid.nl
 https://resolver.pre.omgevingswet.overheid.nl
+https://rest.crimediggers.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://rfa.maps.arcgis.com
@@ -5533,6 +5539,7 @@ https://www.cost869.alterra.nl
 https://www.courtmh17.com
 https://www.covm.nl
 https://www.cpb.nl
+https://www.crimediggers.nl
 https://www.crisis.nl
 https://www.csirtdsp.nl
 https://www.ctgb.nl

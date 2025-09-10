@@ -1232,6 +1232,7 @@ api.caelus-tool.nl
 api.coa.nl
 api.competentnl.nl
 api.contenttoolsrijksoverheid.nl
+api.crimediggers.nl
 api.cursus.rijkscloud.nl
 api.dashboardgroningen.nl
 api.dataplatform.knmi.nl
@@ -2228,6 +2229,7 @@ cdn-a.arcgis.com
 cdn-mediaprogram.maps.arcgis.com
 cdn.biotechnologie.nl
 cdn.cbs.nl
+cdn.crimediggers.nl
 cdn.dji.nl
 cdn.klopt.cibg.nl
 cdn.knmi.nl
@@ -2443,6 +2445,7 @@ cms.beeldkompas.nl
 cms.bureaubiosecurity.nl
 cms.cito.nl
 cms.contenttoolsrijksoverheid.nl
+cms.crimediggers.nl
 cms.defensie.nl
 cms.denkmee.zuid-holland.nl
 cms.dsta.nl
@@ -2654,6 +2657,7 @@ cpont.vcdn.belastingdienst.nl
 cprsprod.afm.nl
 cptst.vcdn.belastingdienst.nl
 crc-hub-segrass.hub.arcgis.com
+crimediggers.nl
 criminalfilesmh17.acc.prosecutionservice.nl
 criminalfilesmh17.prosecutionservice.nl
 crisis.nl
@@ -2916,6 +2920,7 @@ dev.cerberus.cbs.nl
 dev.climate4impact.eu
 dev.collectiefnatuurinclusief.nl
 dev.connect.acm.nl
+dev.crimediggers.nl
 dev.dataverkenner.knmi.nl
 dev.fib.ienw.rijkscloud.nl
 dev.informatieservice.nederlandwereldwijd.nl
@@ -3498,6 +3503,7 @@ exons-website-manager.acc.mijn.knmi.nl
 exons-website-manager.mijn.knmi.nl
 expenses.sso3w.nl
 experience.arcgis.com
+experience.crimediggers.nl
 experiencedev.arcgis.com
 expertisecentrummggz.nl
 explore-humanitarian.hub.arcgis.com
@@ -4679,6 +4685,7 @@ ipsec1.dictu.nl
 ipsec2.dictu.nl
 ipw4.alterra.nl
 iq.chm-cbd.net
+irc.crimediggers.nl
 irealisatie.nl
 iris.knmi.nl
 irmpol-acc.dictu.nl
@@ -5314,6 +5321,7 @@ mail.collegesanering.nl
 mail.community-gatewayreview.nl
 mail.contactpuntbouwproducten.nl
 mail.cpb.nl
+mail.crimediggers.nl
 mail.ctgb.nl
 mail.ctivd.nl
 mail.cultureelerfgoed.nl
@@ -7215,6 +7223,7 @@ resolver.kta.omgevingswet.overheid.nl
 resolver.omgevingswet.overheid.nl
 resolver.pfm.omgevingswet.overheid.nl
 resolver.pre.omgevingswet.overheid.nl
+rest.crimediggers.nl
 resultaten.nlarbeidsinspectie.nl
 ret-a.secure.cito.nl
 rev.emissieautoriteit.nl
@@ -9554,6 +9563,7 @@ www.cost869.alterra.nl
 www.courtmh17.com
 www.covm.nl
 www.cpb.nl
+www.crimediggers.nl
 www.crisis.nl
 www.csirtdsp.nl
 www.ctgb.nl

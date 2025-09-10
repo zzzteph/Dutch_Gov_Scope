@@ -66,6 +66,7 @@ beeldbank
 hybrid
 docs
 dialin
+cdn
 kennis
 adfs
 www2
@@ -88,7 +89,6 @@ kaarten
 publicaties
 mdm
 elearning
-cdn
 dwo
 a-magazines
 forms
@@ -96,6 +96,7 @@ repository
 lyncdiscover
 geoweb
 mx1
+dev
 maps
 vpn2
 prd
@@ -136,7 +137,6 @@ preview
 aanvragen
 magazinesintern
 support
-dev
 eloket
 luchtfoto
 testeloket
@@ -439,6 +439,7 @@ api-a
 mr
 www.test
 cm
+experience
 development
 acceptatie-nieuw
 productie-nieuw
@@ -6028,7 +6029,6 @@ esri-disasterresponse.hub
 eu1-iot
 euc1-geocode
 euc1-tiledbasemaps
-experience
 experiencedev
 explore-humanitarian.hub
 explorer
@@ -6958,3 +6958,5 @@ cpb-adprx-l01p-ext
 cpb-mail-l01p
 cpb-mail-l02p
 cpb-xtweb-l01p
+irc
+rest
