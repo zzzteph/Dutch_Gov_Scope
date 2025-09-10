@@ -550,6 +550,7 @@ aanvragen.nza.nl
 aanvragen.uziregister.nl
 aanvragen.vergoedingsns.nl
 aanvragen.zuid-holland.nl
+aanwijzing-lokaal.cvdm.nl
 aapi-community-hub-aauc.hub.arcgis.com
 abat.acc.belastingdienst.nl
 abdtopconsult.nl
@@ -1185,6 +1186,7 @@ anyc.ssc-ict.nl
 anyremote.ssc-ict.nl
 aoep-iam.rvo.nl
 aofondsrijk.nl
+aov.cvdm.nl
 aovpn.afm.nl
 aovvt.nl
 apabeheer-a.cito.nl
@@ -1522,6 +1524,7 @@ autodiscover.ctgb.nl
 autodiscover.ctivd.nl
 autodiscover.cultureelerfgoed.nl
 autodiscover.cultuurparticipatie.nl
+autodiscover.cvdm.nl
 autodiscover.cvte.nl
 autodiscover.domeinenrz.nl
 autodiscover.flevoland.nl
@@ -1799,6 +1802,7 @@ bereken.uwbeslagvrijevoet.nl
 beroepschauffeur.cbr.nl
 berwyn-inspection-hub-gis-mmsa.hub.arcgis.com
 beschermdecultuurgoederen.nl
+besluiten.cvdm.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
 bestanden.alleenjijbepaalt.nl
@@ -1844,6 +1848,7 @@ bezoekerscentrum.rijkswaterstaat.nl
 bezoekersdata.flevoland.nl
 bezpiecznykrakow-gmk.hub.arcgis.com
 bezwaar.atkm.nl
+bezwaar.cvdm.nl
 bezwaarschriftenocw.nl
 bf.chm-cbd.net
 bf.test.chm-cbd.net
@@ -1957,6 +1962,7 @@ bodemloket.nl
 bodemrapportage.flevoland.nl
 bodemrichtlijn.nl
 bodemvizier.nl
+boekenprijs.cvdm.nl
 boem-metaport-boem.hub.arcgis.com
 boerenkpi.nl
 boetebase.om.nl
@@ -3325,6 +3331,7 @@ elkeregiotelt.nl
 elo.brandweer.nl
 elo.veiligheidsregioflevoland.nl
 eloket.aaenmaas.nl
+eloket.cvdm.nl
 eloket.flevoland.nl
 eloket.vallei-veluwe.nl
 elotest.brandweer.nl
@@ -4680,6 +4687,7 @@ intranet.tst.toeslagen.nl
 intranet.vechtstromen.nl
 intranetvan.rvo.nl
 intratst.belastingdienst.nl
+intrekkingeigenverzoek.cvdm.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
@@ -4747,6 +4755,7 @@ jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 jaarverantwoordingzorg.nl
 jaarverslag.acm.nl
+jaarverslag.cvdm.nl
 jaarverslag.justis.nl
 jaarverslag.knmi.nl
 jaarverslag2011.forensischinstituut.nl
@@ -5539,6 +5548,7 @@ meet.rijksrecherche.nl
 meet.vechtstromen.nl
 meeting.acm.nl
 meeting.services.acm.nl
+melding-cmoa.cvdm.nl
 melding.aerius.nl
 meldingbwt.odmh.nl
 meldingen.atkm.nl
@@ -5944,6 +5954,7 @@ netherlandsworldwide.nl
 netwerkplatteland.nl
 neuronprod.vallei-veluwe.nl
 neurontest.vallei-veluwe.nl
+nevenactiviteiten.cvdm.nl
 nevenbetrekkingen.om.nl
 new.mensenrechten.nl
 new.mijn.knmi.nl
@@ -7050,6 +7061,7 @@ publicaties.oud.mensenrechten.nl
 publicaties.rvig.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
+publieksvragen-en-signalen.cvdm.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
@@ -7182,6 +7194,7 @@ register-backend.tlokb.nl
 register-pentest.aerius.nl
 register.aerius.nl
 register.tlokb.nl
+registratiewebradiokanaal.cvdm.nl
 registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
 registreren.ep-online.nl
@@ -7644,6 +7657,7 @@ service.tst2905.omgevingswet.overheid.nl
 servicedesk.ciz.nl
 servicedesk.dictu.nl
 servicedesk.rijksoverheid.nl
+serviceportaal.cvdm.nl
 services-acc.burgernet.nl
 services-acc.ep-online.nl
 services-acc1.ep-online.nl
@@ -8365,6 +8379,7 @@ testdigikoppeling.waterschaplimburg.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testeloket.aaenmaas.nl
+testeloket.cvdm.nl
 testeloket.flevoland.nl
 testeloket.vallei-veluwe.nl
 testgeoservices.knmi.nl
@@ -8448,6 +8463,8 @@ toeslagenanimatie.toeslagen.nl
 toestemming-acc.belastingdienst.nl
 toestemming-burger.acc.belastingdienst.nl
 toestemming-burger.belastingdienst.nl
+toestemming-commercieel.cvdm.nl
+toestemming-evenement.cvdm.nl
 toestemming-tst.belastingdienst.nl
 toestemming.acc.toeslagen.nl
 toestemming.belastingdienst.nl
@@ -8768,6 +8785,8 @@ via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 viaany.vechtstromen.nl
 video-acc.beeldbellen.dji.nl
+video-uploader-aanmelding.cvdm.nl
+video-uploaders.cvdm.nl
 video.beeldbellen.dji.nl
 video.belastingdienst.nl
 videobellen.belastingdienst.nl
@@ -8840,6 +8859,7 @@ vpn.cbr.nl
 vpn.cito.nl
 vpn.cjib.nl
 vpn.coa.nl
+vpn.cvdm.nl
 vpn.dictu.nl
 vpn.flevoland.nl
 vpn.huurcommissie.nl
@@ -9105,6 +9125,7 @@ werkenbij.api.rijkswaterstaat.nl
 werkenbij.belastingdienst.nl
 werkenbij.coa.nl
 werkenbij.cokz.nl
+werkenbij.cvdm.nl
 werkenbij.douane.nl
 werkenbij.justid.nl
 werkenbij.rijkswaterstaat.nl
@@ -9182,6 +9203,7 @@ wolf.cito.nl
 wolf.secure.cito.nl
 woo-dashboards.overheid.nl
 woo-formulier.rijksoverheid.nl
+woo-verzoeken.cvdm.nl
 wooincijfers.open-overheid.nl
 woolwich-geohub-woolwich.hub.arcgis.com
 woordenboek.klimaatadaptatienederland.nl
@@ -9626,6 +9648,7 @@ www.ctpveldzicht.nl
 www.cultureelerfgoed.nl
 www.cultuurparticipatie.nl
 www.cultuursubsidie.nl
+www.cvdm.nl
 www.cvte.nl
 www.cybersecuritycouncil.nl
 www.cybersecurityraad.nl

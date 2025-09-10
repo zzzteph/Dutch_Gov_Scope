@@ -83,6 +83,7 @@ http://autodiscover.contactpuntbouwproducten.nl
 http://autodiscover.cpb.nl
 http://autodiscover.ctgb.nl
 http://autodiscover.cultuurparticipatie.nl
+http://autodiscover.cvdm.nl
 http://autodiscover.domeinenrz.nl
 http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
@@ -567,6 +568,7 @@ https://aanvragen.nza.nl
 https://aanvragen.uziregister.nl
 https://aanvragen.vergoedingsns.nl
 https://aanvragen.zuid-holland.nl
+https://aanwijzing-lokaal.cvdm.nl
 https://aapi-community-hub-aauc.hub.arcgis.com
 https://abdtopconsult.nl
 https://abk-acc.cbr.nl
@@ -1298,6 +1300,7 @@ https://bereikbaarheidvooriedereen.nl
 https://bereken.uwbeslagvrijevoet.nl
 https://berwyn-inspection-hub-gis-mmsa.hub.arcgis.com
 https://beschermdecultuurgoederen.nl
+https://besluiten.cvdm.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
 https://bestanden.koop.overheid.nl
@@ -1323,6 +1326,7 @@ https://bezoekerscentrum.rijkswaterstaat.nl
 https://bezoekersdata.flevoland.nl
 https://bezpiecznykrakow-gmk.hub.arcgis.com
 https://bezwaar.atkm.nl
+https://bezwaar.cvdm.nl
 https://bezwaarschriftenocw.nl
 https://bf.chm-cbd.net
 https://bf.test.chm-cbd.net
@@ -1395,6 +1399,7 @@ https://bodemloket.nl
 https://bodemrapportage.flevoland.nl
 https://bodemrichtlijn.nl
 https://bodemvizier.nl
+https://boekenprijs.cvdm.nl
 https://boem-metaport-boem.hub.arcgis.com
 https://boerenkpi.nl
 https://bofeb.nl
@@ -2217,6 +2222,7 @@ https://elkeregiotelt.nl
 https://elo.brandweer.nl
 https://elo.veiligheidsregioflevoland.nl
 https://eloket.aaenmaas.nl
+https://eloket.cvdm.nl
 https://eloket.flevoland.nl
 https://eloket.vallei-veluwe.nl
 https://elotest.brandweer.nl
@@ -3023,6 +3029,7 @@ https://intranet.scp.nl
 https://intranet.svb.nl
 https://intranet.vechtstromen.nl
 https://intranetvan.rvo.nl
+https://intrekkingeigenverzoek.cvdm.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://invester-i-slagelse-startside-slagelse.hub.arcgis.com
 https://investerenin.zuid-holland.nl
@@ -3471,6 +3478,7 @@ https://meepraten.flevoland.nl
 https://meet.coa.nl
 https://meet.rijkscloud.nl
 https://meeting.acm.nl
+https://melding-cmoa.cvdm.nl
 https://melding.aerius.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
@@ -3664,6 +3672,7 @@ https://netherlandsworldwide.nl
 https://netwerkplatteland.nl
 https://neuronprod.vallei-veluwe.nl
 https://neurontest.vallei-veluwe.nl
+https://nevenactiviteiten.cvdm.nl
 https://new.mijn.knmi.nl
 https://newton-open-geo-data-newtonmagis.hub.arcgis.com
 https://nextcloud.acc.irealisatie.nl
@@ -4304,6 +4313,7 @@ https://publicaties.mensenrechten.nl
 https://publicaties.odmh.nl
 https://publicaties.rvig.nl
 https://publicwebservices.cibg.nl
+https://publieksvragen-en-signalen.cvdm.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
@@ -4387,6 +4397,7 @@ https://register-backend.tlokb.nl
 https://register-pentest.aerius.nl
 https://register.aerius.nl
 https://register.tlokb.nl
+https://registratiewebradiokanaal.cvdm.nl
 https://registreren.ep-online.nl
 https://registry.acceptatie.istandaarden.nl
 https://registry.gitlab.datascience.rijkscloud.nl
@@ -4905,6 +4916,7 @@ https://testbegrippen.hdsr.nl
 https://testcloud.cvte.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
+https://testeloket.cvdm.nl
 https://testeloket.flevoland.nl
 https://testeloket.vallei-veluwe.nl
 https://testgeoservices.knmi.nl
@@ -4957,6 +4969,8 @@ https://toepasbare-regels.omgevingswet.overheid.nl
 https://toepasbare-regels.pre.omgevingswet.overheid.nl
 https://toeslagen.nl
 https://toestemming-acc.belastingdienst.nl
+https://toestemming-commercieel.cvdm.nl
+https://toestemming-evenement.cvdm.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
@@ -5113,6 +5127,8 @@ https://vgc.nvwa.nl
 https://vgr.zuid-holland.nl
 https://viaany.vechtstromen.nl
 https://video-acc.beeldbellen.dji.nl
+https://video-uploader-aanmelding.cvdm.nl
+https://video-uploaders.cvdm.nl
 https://video.beeldbellen.dji.nl
 https://videobellen.belastingdienst.nl
 https://videoleren.nvwa.nl
@@ -5254,6 +5270,7 @@ https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
 https://werkenbij.coa.nl
 https://werkenbij.cokz.nl
+https://werkenbij.cvdm.nl
 https://werkenbij.douane.nl
 https://werkenbij.justid.nl
 https://werkenbij.rijkswaterstaat.nl
@@ -5306,6 +5323,7 @@ https://wolf.cito.nl
 https://wolf.secure.cito.nl
 https://woo-dashboards.overheid.nl
 https://woo-formulier.rijksoverheid.nl
+https://woo-verzoeken.cvdm.nl
 https://wooincijfers.open-overheid.nl
 https://woolwich-geohub-woolwich.hub.arcgis.com
 https://woordenboek.klimaatadaptatienederland.nl
@@ -5598,6 +5616,7 @@ https://www.ctpveldzicht.nl
 https://www.cultureelerfgoed.nl
 https://www.cultuurparticipatie.nl
 https://www.cultuursubsidie.nl
+https://www.cvdm.nl
 https://www.cvte.nl
 https://www.cybersecuritycouncil.nl
 https://www.cybersecurityraad.nl
