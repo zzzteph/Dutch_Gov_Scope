@@ -2799,6 +2799,7 @@ data-centrevaldeloire.hub.arcgis.com
 data-cos-gis.hub.arcgis.com
 data-detroitmi.hub.arcgis.com
 data-ecgis.opendata.arcgis.com
+data-ecosysteem.nl
 data-hrm.hub.arcgis.com
 data-hub-nbwa.hub.arcgis.com
 data-idwr.hub.arcgis.com
@@ -9672,6 +9673,7 @@ www.dagvandeforensischezorg.nl
 www.dashboardgroningen.nl
 www.dashboardklimaatbeleid.nl
 www.daszogefietst.nl
+www.data-ecosysteem.nl
 www.data-islandcountygis.opendata.arcgis.com
 www.data-nycgov.opendata.arcgis.com
 www.databestanden.cbs.nl
