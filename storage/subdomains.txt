@@ -672,6 +672,7 @@ acc.consexponano.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.coronatest.nl
 acc.cparegister.nl
+acc.cruksregister.nl
 acc.csirtdsp.nl
 acc.dashboardgroningen.nl
 acc.data.ilent.nl
@@ -2670,6 +2671,7 @@ crm.nza.nl
 crmacc.cbi.eu
 crmtest.cbi.eu
 crowdtech.rvo.nl
+cruksregister.nl
 cryptshare.acm.nl
 cryptshare.services.acm.nl
 crystallakeil.maps.arcgis.com
@@ -8241,6 +8243,7 @@ test.commabz.nl
 test.consuwijzer.nl
 test.contactpuntbouwproducten.nl
 test.coronatest.nl
+test.cruksregister.nl
 test.csirtdsp.nl
 test.cultureelerfgoed.nl
 test.dictu.nl
@@ -8419,6 +8422,7 @@ toezichtresultaten.onderwijsinspectie.nl
 toezichtsociaaldomein.nl
 toolbox-extremisme.nctv.nl
 toolbox.veiligepubliekedienstverlening.nl
+toolkit.cruksregister.nl
 toolkits.loketgezondleven.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.rijksinnovatiecommunity.nl
@@ -9301,6 +9305,7 @@ www.acc-nl-nvwa-dkb-sign.dictu.nl
 www.acc-windviewer.rvo.nl
 www.acc.auth.binnenvaart.inspectieview.nl
 www.acc.auth.wegvervoer.inspectieview.nl
+www.acc.cruksregister.nl
 www.acc.ep-online.nl
 www.acc.inspectieview.nl
 www.acc.mijn.dus-i.nl
@@ -9567,6 +9572,7 @@ www.cpb.nl
 www.crimediggers.nl
 www.criminaliteitenrecht.nl
 www.crisis.nl
+www.cruksregister.nl
 www.csirtdsp.nl
 www.ctgb.nl
 www.ctivd.nl
@@ -9986,6 +9992,7 @@ www.swap.alterra.nl
 www.synbiosys.alterra.nl
 www.test.aquo.nl
 www.test.coronatest.nl
+www.test.cruksregister.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
@@ -10001,6 +10008,7 @@ www.toetredingzorgaanbieders.nl
 www.toetsingscommissievp.nl
 www.toezichtresultaten.nl
 www.toezichtsociaaldomein.nl
+www.toolkit.cruksregister.nl
 www.topcorridors.nl
 www.topdesk.vechtstromen.nl
 www.topsectoren.nl
