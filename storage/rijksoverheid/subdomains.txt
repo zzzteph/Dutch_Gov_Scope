@@ -681,6 +681,7 @@ acc.dashboardduurzaamheid.nl
 acc.dashboardgroningen.nl
 acc.data.ilent.nl
 acc.dataverkenner.knmi.nl
+acc.dcat-ap-donl.nl
 acc.dictu.nl
 acc.digid-stub.lpc.mijn.overheid.nl
 acc.dpr.irealisatie.nl
@@ -2943,6 +2944,7 @@ dbpmo.belastingdienst.nl
 dbpostgres.cultuurparticipatie.nl
 dc.autoriteitpersoonsgegevens.nl
 dc.ssc-ict.nl
+dcat-ap-donl.nl
 dcc-ienw.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
@@ -9107,6 +9109,8 @@ vulnerabilities.test.ncsc.nl
 vuurwerk.domeinenrz.nl
 vzinfo.nl
 w3dxweb.knmi.nl
+waardelijsten-acc.dcat-ap-donl.nl
+waardelijsten.dcat-ap-donl.nl
 wabinfo.rijkswaterstaat.nl
 wachttijden.nza.nl
 wachtwoord.brabant.nl
@@ -9435,6 +9439,7 @@ www-acc.cbs.nl
 www-acc.cjib.nl
 www-acc.coa.nl
 www-acc.datastelselverduurzamingutiliteit.nl
+www-acc.dcat-ap-donl.nl
 www-acc.ep-online.nl
 www-acc.farmacotherapeutischkompas.nl
 www-acc.gipdatabank.nl
@@ -9856,6 +9861,7 @@ www.dataportaal.brabant.nl
 www.datastelselverduurzamingutiliteit.nl
 www.datavoorgezondheid.nl
 www.datawonen.nl
+www.dcat-ap-donl.nl
 www.dcc-ienw.nl
 www.defensie.nl
 www.deltaprogramma.nl

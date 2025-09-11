@@ -22,8 +22,8 @@ vpn
 intranet
 cms
 _dmarc
-werkplek
 www-acc
+werkplek
 formulieren
 redactie
 connect
@@ -7183,3 +7183,5 @@ mw-sat.dvu1.satellite
 peer0.dvu1.satellite
 peer1.dvu1.satellite
 sat.dvu1.satellite
+waardelijsten-acc
+waardelijsten

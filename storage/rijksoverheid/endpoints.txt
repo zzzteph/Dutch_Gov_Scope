@@ -670,6 +670,7 @@ https://acc.cruksregister.nl
 https://acc.csirtdsp.nl
 https://acc.dashboardduurzaamheid.nl
 https://acc.dashboardgroningen.nl
+https://acc.dcat-ap-donl.nl
 https://acc.dictu.nl
 https://acc.e-akkoord.nl
 https://acc.e-loket.ilent.nl
@@ -2050,6 +2051,7 @@ https://db.cbg-meb.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://dblogistiek.brandweer.nl
 https://dbpostgres.cultuurparticipatie.nl
+https://dcat-ap-donl.nl
 https://dcc-ienw.nl
 https://dcmp-upnl-idp.rvo.nl
 https://dcp-time-slot.cbg-meb.nl
@@ -5338,6 +5340,8 @@ https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
 https://vuurwerk.domeinenrz.nl
 https://vzinfo.nl
+https://waardelijsten-acc.dcat-ap-donl.nl
+https://waardelijsten.dcat-ap-donl.nl
 https://wabinfo.rijkswaterstaat.nl
 https://wachttijden.nza.nl
 https://wachtwoord.brabant.nl
@@ -5498,6 +5502,7 @@ https://www-ac.zorgcijfersdatabank.nl
 https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl
+https://www-acc.dcat-ap-donl.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www.100aardgasvrijewijken.nl
 https://www.1ratio.nl
@@ -5798,6 +5803,7 @@ https://www.datapedia.nl
 https://www.dataportaal.brabant.nl
 https://www.datastelselverduurzamingutiliteit.nl
 https://www.datavoorgezondheid.nl
+https://www.dcat-ap-donl.nl
 https://www.dcc-ienw.nl
 https://www.defensie.nl
 https://www.deltaprogramma.nl
