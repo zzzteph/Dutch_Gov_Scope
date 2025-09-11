@@ -682,6 +682,7 @@ acc.dashboardgroningen.nl
 acc.data.ilent.nl
 acc.dataverkenner.knmi.nl
 acc.dcat-ap-donl.nl
+acc.derdekamer.nl
 acc.dictu.nl
 acc.digid-stub.lpc.mijn.overheid.nl
 acc.dpr.irealisatie.nl
@@ -711,6 +712,7 @@ acc.irealisatie.nl
 acc.justis.nl
 acc.justitieconnect.nl
 acc.leer-rijk.nl
+acc.lespakketten.derdekamer.nl
 acc.mercurius.sso3w.nl
 acc.mgo.irealisatie.nl
 acc.mijn.dus-i.nl
@@ -3002,6 +3004,7 @@ denkvooruit.nl
 denw.hdsr.nl
 deployer.ssc-ict.nl
 deployment.biedboek.nl
+derdekamer.nl
 design-system.cito.nl
 design.ndw.nu
 designsystem.cbs.nl
@@ -4538,6 +4541,7 @@ honolulu-cchnl.opendata.arcgis.com
 horecadna.databank.nl
 horizon.databank.nl
 horizonscangeneesmiddelen.nl
+hostmaster.derdekamer.nl
 hotnews.maps.arcgis.com
 houdmisdaaduitjebuurt.nl
 hr-sectorwaterschappen.databank.nl
@@ -5226,6 +5230,7 @@ leren.mensenrechten.nl
 leren.nza.nl
 lerenbij.ciz.nl
 lerenvoorveiligheid.nl
+lespakketten.derdekamer.nl
 letmemap-ptbocounty.hub.arcgis.com
 leveranciersvdi.svb.nl
 lfucg.maps.arcgis.com
@@ -7109,6 +7114,7 @@ prod.architectwebservice.architectenregister.nl
 prod.asbestvolgsysteem.nl
 prod.chm-cbd.net
 prod.cultureelerfgoed.nl
+prod.derdekamer.nl
 prod.dictu.nl
 prod.flevoland.nl
 prod.ifundswebservice.architectenregister.nl
@@ -9899,6 +9905,7 @@ www.demijnraad.nl
 www.denkdoeduurzaam.nl
 www.denkmee.zuid-holland.nl
 www.denkvooruit.nl
+www.derdekamer.nl
 www.dezi.nl
 www.dggf.nl
 www.dgstat.databank.nl

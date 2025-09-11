@@ -5,8 +5,8 @@ feeds
 mail
 english
 autodiscover
-a-www
 acc
+a-www
 test
 a-opendata
 a-feeds
@@ -24,12 +24,12 @@ cms
 _dmarc
 www-acc
 werkplek
+prod
 formulieren
 redactie
 connect
 data
 a-english
-prod
 a-feeds.a-english
 a-opendata.a-english
 portaal
@@ -7191,3 +7191,6 @@ voorbeelden
 geheugen
 v1
 postergenerator
+acc.lespakketten
+hostmaster
+lespakketten
