@@ -3084,6 +3084,7 @@ dgp-pp-az1.kibana.lpc.logius.nl
 dgp-pp-az2.elastic.lpc.logius.nl
 dgp-pp-az2.kibana.lpc.logius.nl
 dgstat.databank.nl
+dgv.nl
 dhcp1.ec.rijkscloud.nl
 dhcp1.gn1.rijkscloud.nl
 dhcp1.gn2.rijkscloud.nl
@@ -9915,6 +9916,7 @@ www.deweekvandecirculaireeconomie.nl
 www.dezi.nl
 www.dggf.nl
 www.dgstat.databank.nl
+www.dgv.nl
 www.dictu.nl
 www.dictumagazines.nl
 www.dienstterugkeerenvertrek.nl
