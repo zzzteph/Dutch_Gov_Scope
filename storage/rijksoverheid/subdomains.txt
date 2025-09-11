@@ -2891,6 +2891,7 @@ data.zuid-holland.nl
 dataalsonbekendevervuiler.nl
 databank.nl
 databestanden.cbs.nl
+datachallenge.nl
 dataderden.cbs.nl
 datadrop.datafabriek.ienw.rijkscloud.nl
 datadrop.dev-datafabriek.ienw.rijkscloud.nl
@@ -5476,6 +5477,7 @@ mail.ctivd.nl
 mail.cultureelerfgoed.nl
 mail.cultuurparticipatie.nl
 mail.dagvandefg.nl
+mail.datachallenge.nl
 mail.dev.cbs.nl
 mail.dgdoobi.rijkscloud.nl
 mail.dictu.nl
@@ -9833,6 +9835,7 @@ www.data-nycgov.opendata.arcgis.com
 www.dataalsonbekendevervuiler.nl
 www.databank.nl
 www.databestanden.cbs.nl
+www.datachallenge.nl
 www.datalekken-acc.autoriteitpersoonsgegevens.nl
 www.dataportaal.brabant.nl
 www.datavoorgezondheid.nl
