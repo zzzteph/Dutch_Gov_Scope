@@ -34,8 +34,8 @@ staging
 a-feeds.a-english
 a-opendata.a-english
 portaal
-smtp
 werkenbij
+smtp
 remote
 meet
 sip
@@ -62,6 +62,7 @@ www-ts
 e
 fs
 webservices
+werken
 app
 beeldbank
 hybrid
@@ -83,7 +84,6 @@ papiamentu
 adobe-analytics-dc
 adobe-tags
 services
-werken
 acceptatie.beheer
 atlas
 kaarten
