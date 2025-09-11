@@ -23,9 +23,9 @@ intranet
 cms
 _dmarc
 werkplek
+www-acc
 formulieren
 redactie
-www-acc
 connect
 data
 a-english
@@ -49,6 +49,7 @@ www-tst
 link
 login
 zoeken
+beheer
 open
 ftp
 geoservices
@@ -61,7 +62,6 @@ www-ts
 e
 fs
 webservices
-beheer
 app
 beeldbank
 hybrid
@@ -455,6 +455,7 @@ share.acceptatie-nieuw
 share.test-nieuw
 test-nieuw
 office
+beheer-acc
 matomo
 tst-www
 geoportal
@@ -6328,7 +6329,6 @@ actie-acc
 actie
 alerteren
 app-acc
-beheer-acc
 dashboard-acc
 web02
 bibliotheekwerk
@@ -7174,3 +7174,12 @@ zeeland-prv
 zeeland
 zeelandscan
 zorgmonitor
+autorisatieregister-acc
+autorisatieregister
+benchmarkregister-acc
+benchmarkregister
+keycloak-sat.dvu1.satellite
+mw-sat.dvu1.satellite
+peer0.dvu1.satellite
+peer1.dvu1.satellite
+sat.dvu1.satellite

@@ -1208,6 +1208,8 @@ https://autorisatie-preprod.brabant.nl
 https://autorisatie-prod.brabant.nl
 https://autorisatie-t.cito.nl
 https://autorisatie.cito.nl
+https://autorisatieregister-acc.datastelselverduurzamingutiliteit.nl
+https://autorisatieregister.datastelselverduurzamingutiliteit.nl
 https://autoriteitnvs.nl
 https://autoriteitpersoonsgegevens.nl
 https://autorization.entreepgb.svb.nl
@@ -1292,10 +1294,12 @@ https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://behandel.sbv-z.nl
 https://beheer-acc.burgernet.nl
+https://beheer-acc.datastelselverduurzamingutiliteit.nl
 https://beheer.bigregister.nl
 https://beheer.bodemrichtlijn.nl
 https://beheer.burgernet.nl
 https://beheer.chat.ind.nl
+https://beheer.datastelselverduurzamingutiliteit.nl
 https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.lir.cibg.nl
@@ -1336,6 +1340,8 @@ https://beleidsmonitor-tst.zuid-holland.nl
 https://belize-coronavirus-response-tbsl-drp.hub.arcgis.com
 https://benbrook.maps.arcgis.com
 https://benchmarkenindepubliekesector.nl
+https://benchmarkregister-acc.datastelselverduurzamingutiliteit.nl
+https://benchmarkregister.datastelselverduurzamingutiliteit.nl
 https://beo.cbs.nl
 https://beoordeling.dus-i.nl
 https://beoordelingarbeidsrelatie.nl
@@ -3248,6 +3254,7 @@ https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
+https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.ndw.nu
 https://keycloak.rdi.rijkscloud.nl
@@ -3728,6 +3735,7 @@ https://muniorg.maps.arcgis.com
 https://muralidhar.maps.arcgis.com
 https://murder-case.om.nl
 https://mvstat.cbs.nl
+https://mw-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://my.test.chm-cbd.net
@@ -4221,6 +4229,8 @@ https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pdok.aerius.nl
+https://peer0.dvu1.satellite.datastelselverduurzamingutiliteit.nl
+https://peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://perf.omgevingswet.overheid.nl
 https://perpest.alterra.nl
 https://perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
@@ -4648,6 +4658,7 @@ https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
 https://sandbox.werkenvoornederland.nl
 https://sarasota.maps.arcgis.com
+https://sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://sb-dictu.logius.nl
 https://sbae19-p1.coa.nl
 https://sbi-api.cbs.nl
@@ -5486,6 +5497,7 @@ https://www-ac.medicijnkosten.nl
 https://www-ac.zorgcijfersdatabank.nl
 https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
+https://www-acc.datastelselverduurzamingutiliteit.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www.100aardgasvrijewijken.nl
 https://www.1ratio.nl
@@ -5784,6 +5796,7 @@ https://www.databestanden.cbs.nl
 https://www.datalekken-acc.autoriteitpersoonsgegevens.nl
 https://www.datapedia.nl
 https://www.dataportaal.brabant.nl
+https://www.datastelselverduurzamingutiliteit.nl
 https://www.datavoorgezondheid.nl
 https://www.dcc-ienw.nl
 https://www.defensie.nl

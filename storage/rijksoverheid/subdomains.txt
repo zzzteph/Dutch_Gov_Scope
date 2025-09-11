@@ -1571,6 +1571,8 @@ autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autorisatie-t.cito.nl
 autorisatie.cito.nl
+autorisatieregister-acc.datastelselverduurzamingutiliteit.nl
+autorisatieregister.datastelselverduurzamingutiliteit.nl
 autoriteitnvs.nl
 autoriteitpersoonsgegevens.nl
 autorization.entreepgb.svb.nl
@@ -1743,6 +1745,7 @@ behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
 behandel.sbv-z.nl
 beheer-acc.burgernet.nl
+beheer-acc.datastelselverduurzamingutiliteit.nl
 beheer-acc.energiebesparingsverkenner.rvo.nl
 beheer-acc1.energiebesparingsverkenner.rvo.nl
 beheer-bzv.brabant.nl
@@ -1752,6 +1755,7 @@ beheer.bigregister.nl
 beheer.bodemrichtlijn.nl
 beheer.burgernet.nl
 beheer.chat.ind.nl
+beheer.datastelselverduurzamingutiliteit.nl
 beheer.donorregister.nl
 beheer.energiebesparingsverkenner.rvo.nl
 beheer.generiekeregistratiedienst.cibg.nl
@@ -1807,6 +1811,8 @@ belize-coronavirus-response-tbsl-drp.hub.arcgis.com
 benbrook.maps.arcgis.com
 benchmarkenindepubliekesector.nl
 benchmarkpovo.databank.nl
+benchmarkregister-acc.datastelselverduurzamingutiliteit.nl
+benchmarkregister.datastelselverduurzamingutiliteit.nl
 beo.cbs.nl
 beoordeling.dus-i.nl
 beoordelingarbeidsrelatie.nl
@@ -2917,6 +2923,7 @@ dataset.cbs.nl
 datasets.cbs.nl
 datasluis-tst.dictu.nl
 datasluis.dictu.nl
+datastelselverduurzamingutiliteit.nl
 datastories.cultureelerfgoed.nl
 datatool.datafabriek.ienw.rijkscloud.nl
 datatool.dev-datafabriek.ienw.rijkscloud.nl
@@ -5049,6 +5056,7 @@ key-acc.cokz.nl
 key.cokz.nl
 keycloak-acc.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
+keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 keycloak.analyse.ilt.rijkscloud.nl
 keycloak.devops.rvb.rijkscloud.nl
 keycloak.dgdoobi.rijkscloud.nl
@@ -5989,6 +5997,7 @@ murder-case.om.nl
 mvstat.cbs.nl
 mvt.exportvalidation.hsm.acc.douane.nl
 mvt.exportvalidation.hsm.douane.nl
+mw-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 mwr-app-api-ota.belastingdienst.nl
 mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
@@ -6799,6 +6808,8 @@ pdc.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pdok.aerius.nl
 pdok.waterschaplimburg.nl
+peer0.dvu1.satellite.datastelselverduurzamingutiliteit.nl
+peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 pensioen.toeslagen.nl
 perf.omgevingswet.overheid.nl
 performance.ix.rijkscloud.nl
@@ -7628,6 +7639,7 @@ sap-pi.belastingdienst.nl
 sarasota.maps.arcgis.com
 sasbi-acc.ilent.nl
 sasbi.ilent.nl
+sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 sat.irealisatie.nl
 satarchive.knmi.nl
 satellite.gn2.rijkscloud.nl
@@ -9422,6 +9434,7 @@ www-ac.zorginzicht.nl
 www-acc.cbs.nl
 www-acc.cjib.nl
 www-acc.coa.nl
+www-acc.datastelselverduurzamingutiliteit.nl
 www-acc.ep-online.nl
 www-acc.farmacotherapeutischkompas.nl
 www-acc.gipdatabank.nl
@@ -9840,6 +9853,7 @@ www.datachallenge.nl
 www.datalekken-acc.autoriteitpersoonsgegevens.nl
 www.datapedia.nl
 www.dataportaal.brabant.nl
+www.datastelselverduurzamingutiliteit.nl
 www.datavoorgezondheid.nl
 www.datawonen.nl
 www.dcc-ienw.nl
