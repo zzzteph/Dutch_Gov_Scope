@@ -798,12 +798,14 @@ acceptatie.auth.dezi.nl
 acceptatie.authlab.dezi.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
+acceptatie.behandel.diergeneeskunderegister.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.hulpmiddelen.farmatec.nl
 acceptatie.behandel.isms.cibg.nl
 acceptatie.behandel.sbv-z.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.beheer.dezi.nl
+acceptatie.beheer.diergeneeskunderegister.nl
 acceptatie.beheer.donorregister.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.beheer.lir.cibg.nl
@@ -848,6 +850,7 @@ acceptatie.loketgezondleven.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
+acceptatie.mijn.diergeneeskunderegister.nl
 acceptatie.mijn.donorregister.nl
 acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 acceptatie.mijn.hulpmiddelen.farmatec.nl
@@ -881,6 +884,7 @@ acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.uzipas.uziregister.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.webservices.dictu.nl
+acceptatie.webservices.diergeneeskunderegister.nl
 acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
 acceptatie.webservices1.dictu.nl
@@ -889,6 +893,7 @@ acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
 acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
+acceptatie.zoeken.diergeneeskunderegister.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
 acceptatie2.spin.rijkswaterstaat.nl
 acceptatiedigikoppeling.bkd.eu
@@ -1748,6 +1753,7 @@ begroting2019.flevoland.nl
 begroting2020.flevoland.nl
 beh-iam.acceptatie.cbs.nl
 behandel.bigregister.nl
+behandel.diergeneeskunderegister.nl
 behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
 behandel.sbv-z.nl
@@ -1763,6 +1769,7 @@ beheer.bodemrichtlijn.nl
 beheer.burgernet.nl
 beheer.chat.ind.nl
 beheer.datastelselverduurzamingutiliteit.nl
+beheer.diergeneeskunderegister.nl
 beheer.donorregister.nl
 beheer.energiebesparingsverkenner.rvo.nl
 beheer.generiekeregistratiedienst.cibg.nl
@@ -3111,6 +3118,7 @@ diego.ndw.nu
 dieldrinhcblindane-hen.apps.feedfoodtransfer.nl
 dienstterugkeerenvertrek.nl
 diensttoeslagen.nl
+diergeneeskunderegister.nl
 diergeneesmiddeleninformatiebank.nl
 digi.ilent.nl
 digicheck.brabant.nl
@@ -5783,6 +5791,7 @@ mijn.buitenlevenvakanties.nl
 mijn.cbr.nl
 mijn.cbs.nl
 mijn.cokz.nl
+mijn.diergeneeskunderegister.nl
 mijn.donorregister.nl
 mijn.dus-i.nl
 mijn.examenblad.nl
@@ -9287,6 +9296,7 @@ webservices-test4.belastingdienst.nl
 webservices.belastingdienst.nl
 webservices.bigregister.nl
 webservices.dictu.nl
+webservices.diergeneeskunderegister.nl
 webservices.donorregister.nl
 webservices.hdsr.nl
 webservices.lrza.cibg.nl
@@ -9923,6 +9933,7 @@ www.dgv.nl
 www.dictu.nl
 www.dictumagazines.nl
 www.dienstterugkeerenvertrek.nl
+www.diergeneeskunderegister.nl
 www.diergeneesmiddeleninformatiebank.nl
 www.digitaal.loket.afm.nl
 www.digitaalstelselmobiliteitsdata.nl
@@ -10491,6 +10502,7 @@ zoekeentolkvertaler.bureauwbtv.nl
 zoeken.belastingdienst.nl
 zoeken.bigregister.nl
 zoeken.cultureelerfgoed.nl
+zoeken.diergeneeskunderegister.nl
 zoeken.hdsr.nl
 zoeken.ondernemersplein.overheid.nl
 zoeken.schoolleidersregisterpo.nl

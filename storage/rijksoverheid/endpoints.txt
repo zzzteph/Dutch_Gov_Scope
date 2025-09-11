@@ -738,11 +738,13 @@ https://acceptatie.aquo.nl
 https://acceptatie.authlab.dezi.nl
 https://acceptatie.behandel.bigregister.nl
 https://acceptatie.behandel.dezi.nl
+https://acceptatie.behandel.diergeneeskunderegister.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.behandel.hulpmiddelen.farmatec.nl
 https://acceptatie.behandel.sbv-z.nl
 https://acceptatie.beheer.bigregister.nl
 https://acceptatie.beheer.dezi.nl
+https://acceptatie.beheer.diergeneeskunderegister.nl
 https://acceptatie.beheer.donorregister.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
@@ -766,6 +768,7 @@ https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
 https://acceptatie.mijn.dezi.nl
+https://acceptatie.mijn.diergeneeskunderegister.nl
 https://acceptatie.mijn.donorregister.nl
 https://acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.hulpmiddelen.farmatec.nl
@@ -789,8 +792,10 @@ https://acceptatie.uzipas.portaal.ncpeh.nl
 https://acceptatie.uzipas.raadplegen.sbv-z.nl
 https://acceptatie.uzipas.uziregister.nl
 https://acceptatie.webservices.bigregister.nl
+https://acceptatie.webservices.diergeneeskunderegister.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
+https://acceptatie.zoeken.diergeneeskunderegister.nl
 https://acceptatie.zoeken.zorgaanbiedersportaal.nl
 https://acceptatiedigikoppeling.bkd.eu
 https://acceso-datos-ambientales-invemar.hub.arcgis.com
@@ -1298,6 +1303,7 @@ https://begroting2019.flevoland.nl
 https://begroting2020.flevoland.nl
 https://beh-iam.acceptatie.cbs.nl
 https://behandel.bigregister.nl
+https://behandel.diergeneeskunderegister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://behandel.sbv-z.nl
 https://beheer-acc.burgernet.nl
@@ -1307,6 +1313,7 @@ https://beheer.bodemrichtlijn.nl
 https://beheer.burgernet.nl
 https://beheer.chat.ind.nl
 https://beheer.datastelselverduurzamingutiliteit.nl
+https://beheer.diergeneeskunderegister.nl
 https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.lir.cibg.nl
@@ -2147,6 +2154,7 @@ https://dictumagazines.nl
 https://diego.ndw.nu
 https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl
 https://dienstterugkeerenvertrek.nl
+https://diergeneeskunderegister.nl
 https://diergeneesmiddeleninformatiebank.nl
 https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
@@ -3660,6 +3668,7 @@ https://mijn.bkd.eu
 https://mijn.cbr.nl
 https://mijn.cbs.nl
 https://mijn.cokz.nl
+https://mijn.diergeneeskunderegister.nl
 https://mijn.donorregister.nl
 https://mijn.examenblad.nl
 https://mijn.examenbladmbo.nl
@@ -5430,6 +5439,7 @@ https://webservice-acc.sbv-z.nl
 https://webservice.ep-online.nl
 https://webservice.sbv-z.nl
 https://webservices.bigregister.nl
+https://webservices.diergeneeskunderegister.nl
 https://webservices.hdsr.nl
 https://website.belastingdienst.nl
 https://website.douane.nl
@@ -5863,6 +5873,7 @@ https://www.dgv.nl
 https://www.dictu.nl
 https://www.dictumagazines.nl
 https://www.dienstterugkeerenvertrek.nl
+https://www.diergeneeskunderegister.nl
 https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digitaal.loket.afm.nl
 https://www.digitaalstelselmobiliteitsdata.nl
@@ -6331,6 +6342,7 @@ https://zoekdienst.overheid.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl
 https://zoeken.cultureelerfgoed.nl
+https://zoeken.diergeneeskunderegister.nl
 https://zoeken.ondernemersplein.overheid.nl
 https://zoeken.werkenaanonspensioen.nl
 https://zoeken.zorgaanbiedersportaal.nl

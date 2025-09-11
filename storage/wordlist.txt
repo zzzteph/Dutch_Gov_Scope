@@ -37,6 +37,8 @@ portaal
 werkenbij
 smtp
 remote
+zoeken
+beheer
 meet
 sip
 apps
@@ -48,8 +50,7 @@ www-p
 www-tst
 link
 login
-zoeken
-beheer
+webservices
 open
 ftp
 geoservices
@@ -61,8 +62,8 @@ www-ow
 www-ts
 e
 fs
-webservices
 werken
+acceptatie.beheer
 app
 beeldbank
 hybrid
@@ -84,7 +85,7 @@ papiamentu
 adobe-analytics-dc
 adobe-tags
 services
-acceptatie.beheer
+acceptatie.mijn
 atlas
 kaarten
 publicaties
@@ -108,7 +109,8 @@ enterpriseenrollment
 enterpriseregistration
 ns2
 videobellen
-acceptatie.mijn
+acceptatie.behandel
+acceptatie.webservices
 geoportaal
 id
 wifi
@@ -160,8 +162,8 @@ sharepoint
 start
 website
 old
-acceptatie.behandel
-acceptatie.webservices
+acceptatie.zoeken
+behandel
 blog
 connect-with
 email
@@ -275,8 +277,6 @@ smtp2
 toestemming
 vc
 webdiensten
-acceptatie.zoeken
-behandel
 acs
 beeldbank-bo
 blogs
