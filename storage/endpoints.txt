@@ -58,6 +58,7 @@ http://amp.logius.nl
 http://analytics-acc.cjib.nl
 http://analytics-solutions-esridech.hub.arcgis.com
 http://api.openstad.zuid-holland.nl
+http://apollo.databank.nl
 http://appl.rdi.nl
 http://aptikom-riau-smartcommunity.hub.arcgis.com
 http://arcgis-natgeo-home-learngis.hub.arcgis.com
@@ -103,8 +104,20 @@ http://bayplanviewer.bics.nl
 http://beeldenvanderaad.nl
 http://beheermlo.zuid-holland.nl
 http://beirut-built-environment-database-base-map-aub.hub.arcgis.com
+http://benchmarkpovo.databank.nl
+http://beta-adc.databank.nl
+http://beta-aisnbtc.databank.nl
+http://beta-beslotenwaves.databank.nl
 http://beta-dataportal.cbs.nl
+http://beta-ftgelderland.databank.nl
+http://beta-gdi.databank.nl
+http://beta-kis.databank.nl
+http://beta-klimaatbeleid.databank.nl
+http://beta-nbtc.databank.nl
+http://beta-noordholland.databank.nl
 http://beta-odata4.cbs.nl
+http://beta-velsen.databank.nl
+http://beta-waves.databank.nl
 http://bevolkingsonderzoek.nl
 http://bft-plein-acc.bureauft.nl
 http://bft-plein.bureauft.nl
@@ -128,10 +141,23 @@ http://cev.nl
 http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
 http://cibologis-cibolotx.hub.arcgis.com
+http://citavista.databank.nl
 http://city-of-monroe-mapping-hub-monroemi.hub.arcgis.com
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://cms-eef.waterschaplimburg.nl
+http://cname-benchmarkonderwijs.databank.nl
+http://cname-benchmarkpovo.databank.nl
+http://cname-demo-waterbenchmark-org.databank.nl
+http://cname-erfgoed.databank.nl
+http://cname-holland-rijnland.databank.nl
+http://cname-mbotransparant.databank.nl
+http://cname-nbtc.databank.nl
+http://cname-noordholland.databank.nl
+http://cname-onderwijsbenchmark.databank.nl
+http://cname-visitor-waterbenchmark-org.databank.nl
+http://cname-www-waterbenchmark-org.databank.nl
+http://cname-zeelandscan.databank.nl
 http://coalitieakkoord.zuid-holland.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
@@ -142,6 +168,7 @@ http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
+http://demo-ebc.databank.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -169,6 +196,7 @@ http://dva.test.mgo.irealisatie.nl
 http://e-learning.rvo.nl
 http://eagle-acc.dji.nl
 http://eagle.dji.nl
+http://ebc.databank.nl
 http://eco-a-az1.elastic.lpc.logius.nl
 http://eco-a-az1.kibana.lpc.logius.nl
 http://eco-a-az2.elastic.lpc.logius.nl
@@ -217,6 +245,7 @@ http://hapi1.test.zm.irealisatie.nl
 http://hapi2.test.zm.irealisatie.nl
 http://harbor.az1.lpc.logius.nl
 http://harbor.az2.lpc.logius.nl
+http://holland-rijnland.databank.nl
 http://ic-desk-functions.zuid-holland.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
@@ -436,9 +465,12 @@ http://www.toezichtresultaten.nl
 http://wwwfcinetorg.belastingdienst.nl
 http://wwwrijksacademienl.belastingdienst.nl
 http://xelion.cokz.nl
+http://zeeland.databank.nl
+http://zeelandscan.databank.nl
 http://zoekdienst-preprod.overheid.nl
 http://zoeken.hdsr.nl
 http://zonnewijzer.zuid-holland.nl
+http://zorgmonitor.databank.nl
 https://0001757-gdot.hub.arcgis.com
 https://0008358-gdot.hub.arcgis.com
 https://0013104-gdot.hub.arcgis.com
@@ -570,6 +602,7 @@ https://aanvragen.vergoedingsns.nl
 https://aanvragen.zuid-holland.nl
 https://aanwijzing-lokaal.cvdm.nl
 https://aapi-community-hub-aauc.hub.arcgis.com
+https://abc.databank.nl
 https://abdtopconsult.nl
 https://abk-acc.cbr.nl
 https://abk-tst.cbr.nl
@@ -845,6 +878,7 @@ https://advisories.test.ncsc.nl
 https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
 https://aec-customer-success-stories-arcaec.hub.arcgis.com
+https://aedesforecast.databank.nl
 https://aerialphotography-geoscience-au.hub.arcgis.com
 https://aerius.nl
 https://aeriusproducten.nl
@@ -872,6 +906,7 @@ https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
 https://afspraken.cbs.nl
 https://afvalcirculair.nl
+https://afvalmonitor.databank.nl
 https://agc-coastal-soa-dnr.hub.arcgis.com
 https://agc-vegetation-soa-dnr.hub.arcgis.com
 https://agcomm-montereyco.hub.arcgis.com
@@ -945,6 +980,7 @@ https://amerigeo-week-2021-amerigeoss.hub.arcgis.com
 https://amherstburg-open-data-essexcounty.hub.arcgis.com
 https://amlc.eu
 https://amlc.nl
+https://ammgelderland.databank.nl
 https://ams-closures.ndw.nu
 https://ams-spatial-aarsc.hub.arcgis.com
 https://amsis-geoscience-au.hub.arcgis.com
@@ -1055,7 +1091,12 @@ https://aquatic-ambassadors-presselexplores.hub.arcgis.com
 https://aquo.nl
 https://aravaipa-watershed-conservation-alliance-uagis.hub.arcgis.com
 https://arbeidsinspectie.nl
+https://arbeidsmarkt.databank.nl
+https://arbeidsmarktdetailhandel.databank.nl
+https://arbeidsmarkthoreca.databank.nl
+https://arbeidsmarktmobiliteit.databank.nl
 https://arbeidsmarktplatformpo.nl
+https://arbeidsmarktstl.databank.nl
 https://arbeidsmigratieingoedebanen.nl
 https://arbocatalogusmbo.nl
 https://arboportaal.nl
@@ -1112,6 +1153,7 @@ https://atlasleefomgeving.nl
 https://atlasnatuurlijkkapitaal.nl
 https://atlasofmutualheritage.nl
 https://atr-regeldruk.nl
+https://atriumgroep.databank.nl
 https://atviri-duomenys-ltdata.hub.arcgis.com
 https://auditdienstrijk.nl
 https://augurk.cultuurparticipatie.nl
@@ -1206,6 +1248,7 @@ https://bata-next-wave-nelsonnygaard.hub.arcgis.com
 https://bay-lake-rpc-covid-19-economic-hub-baylakerpc.hub.arcgis.com
 https://bayshoretrail-doorcounty-baylakerpc.hub.arcgis.com
 https://bblonline.nl
+https://bbm.databank.nl
 https://bcem-coronavirus-bentear.hub.arcgis.com
 https://bcld-config.nl
 https://bcstat-bc-gis.hub.arcgis.com
@@ -1300,8 +1343,10 @@ https://bereikbaarheid.ndw.nu
 https://bereikbaarheid.staging.ndw.nu
 https://bereikbaarheidvooriedereen.nl
 https://bereken.uwbeslagvrijevoet.nl
+https://berst.databank.nl
 https://berwyn-inspection-hub-gis-mmsa.hub.arcgis.com
 https://beschermdecultuurgoederen.nl
+https://besloten-waves.databank.nl
 https://besluiten.cvdm.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
@@ -1310,7 +1355,14 @@ https://bestandenpostbus.nl
 https://bestandslevering.cbs.nl
 https://bestandsportaal.cibg.nl
 https://bestellen.cito.nl
+https://beta-berst.databank.nl
+https://beta-duurzamemobiliteit.databank.nl
+https://beta-ebc.databank.nl
 https://beta-iv3-controle.cbs.nl
+https://beta-laadinfrastructuur.databank.nl
+https://beta-mobiliteitsregelingen.databank.nl
+https://beta-vivet.databank.nl
+https://beta-wsjg.databank.nl
 https://beta.belastingdienst.nl
 https://beta.dblogistiek.brandweer.nl
 https://betalen-cnf.belastingdienst.nl
@@ -1422,6 +1474,7 @@ https://bozeman-covid-19-recovery-bozeman.hub.arcgis.com
 https://bp.stopheling.nl
 https://bpp.datasluis.dictu.nl
 https://bprd-asset-inventory-system-boston.hub.arcgis.com
+https://brabant.databank.nl
 https://brabant.nl
 https://braic.nl
 https://brainps.brabant.nl
@@ -1488,6 +1541,8 @@ https://buurtatlas.vzinfo.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
+https://bvz-waves.databank.nl
+https://bvz.waves.databank.nl
 https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://c19-willcountygis.hub.arcgis.com
@@ -1551,6 +1606,8 @@ https://cawuitwijkfirewall.hdsr.nl
 https://cazcahub-dbg.hub.arcgis.com
 https://cba-events-columbus.hub.arcgis.com
 https://cbamtoelating.nl
+https://cbc.databank.nl
+https://cbc2.databank.nl
 https://cbg-meb.nl
 https://cbgjaarverslag.nl
 https://cbi.eu
@@ -1676,6 +1733,7 @@ https://city-of-vancouver-wa-geo-hub-cityofvancouver.hub.arcgis.com
 https://city-of-winchester-open-data-1-winchestercity.hub.arcgis.com
 https://cityhall.maps.arcgis.com
 https://cityofkingman.maps.arcgis.com
+https://ciz.databank.nl
 https://ciz.nl
 https://cjib.nl
 https://claircitydata.cbs.nl
@@ -1711,6 +1769,7 @@ https://cmsintranet.svb.nl
 https://cmv-kandidaat.sso3w.nl
 https://cmv-opdrachtgever.sso3w.nl
 https://cn.cbs.nl
+https://cname-adc.databank.nl
 https://co.chm-cbd.net
 https://co.formulierdus-i.nl
 https://co2emissiefactoren.nl
@@ -1850,7 +1909,9 @@ https://crm.cbi.eu
 https://crm.cultuurparticipatie.nl
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
+https://crow.databank.nl
 https://crowdtech.rvo.nl
+https://crowlogin.databank.nl
 https://cruksregister.nl
 https://cryptshare.acm.nl
 https://cryptshare.services.acm.nl
@@ -1955,6 +2016,7 @@ https://data.rvo.nl
 https://data.staging.ndw.nu
 https://data.zuid-holland.nl
 https://dataalsonbekendevervuiler.nl
+https://databank.nl
 https://databestanden.cbs.nl
 https://dataderden.cbs.nl
 https://datafusion.ndw.nu
@@ -1990,10 +2052,13 @@ https://defensie.nl
 https://delta.belastingdienst.nl
 https://deltaprogramma.nl
 https://demo-systemteam.overheid.nl
+https://demo-veiligheidsmonitor.databank.nl
+https://demo-vgm.databank.nl
 https://demo.bronhouderportaal-bro.nl
 https://demo.chm-cbd.net
 https://demo.mijn.overheid.nl
 https://demo.test.chm-cbd.net
+https://demo.vmbodoorstroom.databank.nl
 https://demo2.bronhouderportaal-bro.nl
 https://demographics1.arcgis.com
 https://demographics2.arcgis.com
@@ -2075,6 +2140,7 @@ https://dioxins-totalteq-cow.apps.feedfoodtransfer.nl
 https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl
 https://dioxins-totalteq-pig.apps.feedfoodtransfer.nl
 https://dioxins-wild-cattle.apps.feedfoodtransfer.nl
+https://diversiteitsindex.databank.nl
 https://diversiteitsplein.politiekeambtsdragers.nl
 https://diversiteitsportaal.aofondsrijk.nl
 https://dj.chm-cbd.net
@@ -2139,12 +2205,14 @@ https://drus-ei.arcgis.com
 https://dso.brabant.nl
 https://dsp.cjib.nl
 https://dsta.nl
+https://dth.hermes.databank.nl
 https://dus-i.nl
 https://dustex.nl
 https://dutchncca.nl
 https://dutchoffshorewindatlas.nl
 https://dutchrapporteur.nl
 https://duurzame-infra.nl
+https://duurzamemobiliteit.databank.nl
 https://dva-mock.test.mgo.irealisatie.nl
 https://dva.belastingdienst.nl
 https://dvfz.dji.nl
@@ -2224,6 +2292,7 @@ https://elearning.istandaarden.nl
 https://elearning.ordz.nl
 https://elearning.platformrijksoverheid.nl
 https://elections-roscommoncoco.hub.arcgis.com
+https://elektrischvervoer.databank.nl
 https://elevation-ingov.hub.arcgis.com
 https://elevation.arcgis.com
 https://elevation2dev.arcgis.com
@@ -2247,6 +2316,8 @@ https://emm-online.nl
 https://emobility.rvo.nl
 https://en.inburgeren.nl
 https://enabling.omgevingswet.overheid.nl
+https://energiecijfers.databank.nl
+https://energiemonitor.databank.nl
 https://energierijkdenhaag.nl
 https://engine.acc.fhub.dictu.nl
 https://engine.fhub.dictu.nl
@@ -2317,6 +2388,7 @@ https://ep-online.nl
 https://epmm.acpt.autoriteitpersoonsgegevens.nl
 https://epmm.autoriteitpersoonsgegevens.nl
 https://equity-nyc.hub.arcgis.com
+https://erfgoed.databank.nl
 https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://error-reporting.ndw.nu
@@ -2373,6 +2445,9 @@ https://farmatec.nl
 https://faro.cultureelerfgoed.nl
 https://fbb-handreiking.nl
 https://fbmonitor.ndw.nu
+https://fcb.databank.nl
+https://fcbjeugdzorg.databank.nl
+https://fcbwelzijn.databank.nl
 https://fcp-crystal.cultuurparticipatie.nl
 https://fcpwiki.cultuurparticipatie.nl
 https://fcss.maps.arcgis.com
@@ -2385,6 +2460,7 @@ https://feature-ease-installer.dev.bcld-config.nl
 https://fed.cpb.nl
 https://fed01.toeslagen.nl
 https://fed01.tst.toeslagen.nl
+https://feda.databank.nl
 https://feedback.atkm.nl
 https://feedfoodtransfer.nl
 https://feeds.adviescollegeveiligheidgroningen.nl
@@ -2652,6 +2728,7 @@ https://fs.ctgb.nl
 https://fs.knmi.nl
 https://fs.rijksdienstcn.com
 https://fsvportaal.belastingdienst.nl
+https://ftgelderland.databank.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.dji.nl
 https://ftp.oostvaarderskliniek.nl
@@ -2666,6 +2743,8 @@ https://gateway.cultuurparticipatie.nl
 https://gbp-blm-egis.hub.arcgis.com
 https://gcgis-gwinnettcountyga.hub.arcgis.com
 https://gdi-b.rvo.nl
+https://gdi.databank.nl
+https://gdindex.databank.nl
 https://gebiedsprofielen.zuid-holland.nl
 https://gebruiker-beheer.dus-i.nl
 https://gebruikersbeheer-a.cito.nl
@@ -2825,6 +2904,7 @@ https://gw.defensie.nl
 https://gwv.maps.arcgis.com
 https://gy.chm-cbd.net
 https://gy.test.chm-cbd.net
+https://haaglanden.databank.nl
 https://halt-verwijs.jeugdconnect.nl
 https://han-demo.chm-cbd.net
 https://handboek.bkd.eu
@@ -2867,9 +2947,11 @@ https://hoesterkstaik.nl
 https://hogeraadvanadel.nl
 https://homepage-lasallecoil.hub.arcgis.com
 https://honolulu-cchnl.opendata.arcgis.com
+https://horizon.databank.nl
 https://horizonscangeneesmiddelen.nl
 https://hotnews.maps.arcgis.com
 https://houdmisdaaduitjebuurt.nl
+https://hr-sectorwaterschappen.databank.nl
 https://hrcommunityrijk.nl
 https://hs.bics.nl
 https://hsacc.bics.nl
@@ -2906,6 +2988,7 @@ https://iam.staging.ndw.nu
 https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
 https://ibg.webftp.dictu.nl
+https://ibw.databank.nl
 https://icdesk.zuid-holland.nl
 https://icorridor-fr-mto-on-ca.hub.arcgis.com
 https://ictexamenhelpdesk.cito.nl
@@ -2944,6 +3027,7 @@ https://ilent.nl
 https://imaer.aerius.nl
 https://images.analyse.ilt.rijkscloud.nl
 https://img.denkmee.zuid-holland.nl
+https://impactmonitortoerisme.databank.nl
 https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://inbeeld.zuid-holland.nl
@@ -2985,6 +3069,7 @@ https://insightsservices9.arcgis.com
 https://inspecteur.ilent.nl
 https://inspectie-checklist.nl
 https://inspectie-jenv.nl
+https://inspectie-oe.databank.nl
 https://inspectie-oe.nl
 https://inspectiebtd.nl
 https://inspectieresultaten.nvwa.nl
@@ -3073,6 +3158,7 @@ https://iv3-controle-api.cbs.nl
 https://iv3-controle.beta.cbs.nl
 https://iv3-controle.cbs.nl
 https://iv3statline.cbs.nl
+https://ivm11.databank.nl
 https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
@@ -3186,7 +3272,9 @@ https://kleutervolgsysteem-demo.cito.nl
 https://kleutervolgsysteem.cito.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
+https://klimaatbeleid.databank.nl
 https://klimaateffectatlas.rijkswaterstaat.nl
+https://klimaatmonitor.databank.nl
 https://klimaatscenarios-data.knmi.nl
 https://klt-qti37-api-a.cito.nl
 https://klt-qti37-api.cito.nl
@@ -3210,6 +3298,7 @@ https://kostenkentallen.rvo.nl
 https://kpm.jeugdconnect.nl
 https://ktv-servicedesk.ciz.nl
 https://kwaliteitsdashboard-koop.overheid.nl
+https://laadinfrastructuur.databank.nl
 https://labvantage-acc.nvwa.nl
 https://lake-elsinore-downtown-revitilazation-arellano.hub.arcgis.com
 https://lamar-web-maps-warc.hub.arcgis.com
@@ -3275,6 +3364,7 @@ https://lightning.aerius.nl
 https://lij.jeugdconnect.nl
 https://lika-basispoort.cito.nl
 https://lil.cultureelerfgoed.nl
+https://limburg.databank.nl
 https://limburg.nl
 https://link.aerius.nl
 https://link.aofondsrijk.nl
@@ -3294,6 +3384,7 @@ https://links.cultuurparticipatie.nl
 https://links.informatieservice.nederlandwereldwijd.nl
 https://lintjes.nl
 https://lir.cibg.nl
+https://live-waves.databank.nl
 https://live.svb.nl
 https://livecharts.cbs.nl
 https://livingatlas.arcgis.com
@@ -3322,6 +3413,7 @@ https://login.proeftuin.uzi-online.irealisatie.nl
 https://login.scp.nl
 https://login.vechtstromen.nl
 https://logius.nl
+https://lokaalklimaat.databank.nl
 https://lokaleregelgeving-acc.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://lokaleregelgeving.overheid.nl
@@ -3464,6 +3556,7 @@ https://max.proeftuin.uzi-online.irealisatie.nl
 https://max.test.mgo.irealisatie.nl
 https://mbg-proxy.flevoland.nl
 https://mbg.cbs.nl
+https://mbotransparant.databank.nl
 https://mc-upnl.mijn.rvo.nl
 https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
@@ -3616,6 +3709,7 @@ https://moordzaak.om.nl
 https://mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
 https://mqtt.dataplatform.knmi.nl
 https://mr.chm-cbd.net
+https://mre.databank.nl
 https://msgcpp.knmi.nl
 https://msnp-tegemoetkoming.acc.belastingdienst.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
@@ -3639,6 +3733,7 @@ https://mydesktop.svb.nl
 https://myidp-acc.postedworkers.nl
 https://myidp.postedworkers.nl
 https://n-central.caop.nl
+https://nabb.databank.nl
 https://nac.nctv.nl
 https://naip.arcgis.com
 https://nap-ev.ndw.nu
@@ -3674,6 +3769,7 @@ https://ndwiki.ndw.nu
 https://ndwviewer.ndw.nu
 https://ne.chm-cbd.net
 https://nederlanddigitaal.nl
+https://nederlandschoon.databank.nl
 https://nederlandse-sportraad.nl
 https://nederlandtegengeorganiseerdemisdaad.nl
 https://nederlandwereldwijd.nl
@@ -3722,6 +3818,7 @@ https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://noaa.maps.arcgis.com
 https://noorddrive.rijkscloud.nl
+https://noordholland.databank.nl
 https://north-central-wisconsin-entrepreneurial-portal-ncwrpc.hub.arcgis.com
 https://northern-sunrise-county-gis-mmsa.hub.arcgis.com
 https://notebooksservices-eu1.arcgis.com
@@ -3823,6 +3920,8 @@ https://open.overheid.nl
 https://open.rijkswaterstaat.nl
 https://open.vechtstromen.nl
 https://open.waterschaplimburg.nl
+https://openbaar.haaglanden.databank.nl
+https://openbaar.waves.databank.nl
 https://openbare-inspectieresultaten.nvwa.nl
 https://opendata-aln.hub.arcgis.com
 https://opendata-daerani.hub.arcgis.com
@@ -4082,11 +4181,13 @@ https://output-acc.cbr.nl
 https://output-tst.cbr.nl
 https://output.cbr.nl
 https://ov-consumentenplatform.nl
+https://ovdashboard.databank.nl
 https://over-ons.belastingdienst.nl
 https://overalsnelinternet.nl
 https://overdedouane.nl
 https://overheid.nl
 https://overheidvannu.nl
+https://overijssel.databank.nl
 https://overlandpark.maps.arcgis.com
 https://overstroomik.rijkswaterstaat.nl
 https://overtoeslagen.nl
@@ -4105,6 +4206,7 @@ https://papiamentu.rijksdienstcn.com
 https://papiamentu.two-acs.com
 https://papiamentu.vnacs.nl
 https://partnerplaza.sso3w.nl
+https://partoer.databank.nl
 https://pas.natura2000.nl
 https://password-new.knmi.nl
 https://password.ctgb.nl
@@ -4122,6 +4224,7 @@ https://perpest.alterra.nl
 https://perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
 https://pers.svb.nl
 https://persberichten.rijksoverheid.nl
+https://personeelsmonitor.databank.nl
 https://personen-acc.cbr.nl
 https://personen-tst.cbr.nl
 https://personen.cbr.nl
@@ -4243,6 +4346,9 @@ https://preview.nederlandwereldwijd.nl
 https://preview.netherlandsworldwide.nl
 https://preview.wegwijzer.overheid.nl
 https://primet.alterra.nl
+https://primos.databank.nl
+https://primosinteractief.databank.nl
+https://primostijdreeks.databank.nl
 https://privaat.octomon.ncsc.nl
 https://privacy.jeugdconnect.nl
 https://privacy.nctv.nl
@@ -4279,6 +4385,7 @@ https://proeftuin.uzi-online.irealisatie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
 https://profgeodata.static.basisinformatie-overstromingen.nl
+https://prognosemodelzw.databank.nl
 https://project.cultuurparticipatie.nl
 https://projecten-acc.netwerkplatteland.nl
 https://projecten-acc.rvo.nl
@@ -4334,6 +4441,7 @@ https://pushmail.onderwijsraad.nl
 https://put-kpi-dashboard.ndw.nu
 https://pvs.oostvaarderskliniek.nl
 https://pw.rvb.rijkscloud.nl
+https://pzh.databank.nl
 https://qaext.arcgis.com
 https://qti-groeimeter-a.cito.nl
 https://qti-groeimeter-o.cito.nl
@@ -4445,6 +4553,7 @@ https://resolver.pfm.omgevingswet.overheid.nl
 https://resolver.pre.omgevingswet.overheid.nl
 https://rest.crimediggers.nl
 https://resultaten.nlarbeidsinspectie.nl
+https://ret.databank.nl
 https://rev.emissieautoriteit.nl
 https://rfa.maps.arcgis.com
 https://rgs.cbs.nl
@@ -4480,6 +4589,7 @@ https://ro.zuid-holland.nl
 https://rob-2000.rijkscloud.nl
 https://rob2000.rijkscloud.nl
 https://rop.caop.nl
+https://router.databank.nl
 https://royal-house.nl
 https://royalhonoursanddecorations.nl
 https://rpx-qa.nza.nl
@@ -4512,6 +4622,7 @@ https://ruimtelijkeplannen.zuid-holland.nl
 https://ruimtevoorderivier.nl
 https://rvdmschaduwdraaien.nvwa.nl
 https://rvig.nl
+https://rvo.databank.nl
 https://rvo.nl
 https://rvp.reis.idm.rvig.nl
 https://rw.belastingdienst.nl
@@ -4576,6 +4687,7 @@ https://securityservice.secure.cito.nl
 https://seed.status.chm-cbd.net
 https://semaphore.cultuurparticipatie.nl
 https://semarnath1.maps.arcgis.com
+https://senternovem.databank.nl
 https://sentry.ndw.nu
 https://server.arcgis.com
 https://server.rijksoverheidsvideo.nl
@@ -4706,6 +4818,8 @@ https://staatscommissie2050.nl
 https://staatscommissierechtsstaat.nl
 https://staatscommissietegendiscriminatieenracisme.nl
 https://staatsexamensnt2.nl
+https://staatvanbrabant.databank.nl
+https://staatvanutrecht.databank.nl
 https://stagefonds.formulierdus-i.nl
 https://staging.agroforestrynetwerk.nl
 https://staging.bdmuseum.nl
@@ -4875,6 +4989,7 @@ https://test-melding.aerius.nl
 https://test-monitor.aerius.nl
 https://test-nieuw.bidbook.eu
 https://test-nieuw.biedboek.nl
+https://test-prognosemodelzw.databank.nl
 https://test-register.aerius.nl
 https://test-scenario.aerius.nl
 https://test-wetten.rvo.nl
@@ -5106,6 +5221,7 @@ https://veelgesteldevragen.secure.cito.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
 https://veiligbestandenversturen.ciz.nl
 https://veiligepubliekedienstverlening.nl
+https://veiligheidsmonitor.databank.nl
 https://veiligheidsregioflevoland.nl
 https://veiligmailen.flevoland.nl
 https://veiligmailen.rechtsbijstand.nl
@@ -5114,6 +5230,7 @@ https://velocity.arcgis.com
 https://velocitydemo.arcgis.com
 https://velocitydev.arcgis.com
 https://velocitydevops.arcgis.com
+https://velsen.databank.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepkms.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
@@ -5153,10 +5270,12 @@ https://virtueel.zuid-holland.nl
 https://visualisatieservice-a.cito.nl
 https://visualisatieservice-t.cito.nl
 https://visualisatieservice.cito.nl
+https://vivet.databank.nl
 https://viz.ndw.nu
 https://vizier.bodemrichtlijn.nl
 https://vm-ivra.ndw.nu
 https://vnacs.nl
+https://vng.databank.nl
 https://vocabs.cbs.nl
 https://vog.jeugdconnect.nl
 https://vogcheck.justis.nl
@@ -5193,12 +5312,14 @@ https://vragenlijst.caop.nl
 https://vreemdelingenvisie.nl
 https://vri-admin.ndw.nu
 https://vrijstellingmelden.vrachtwagenheffing.nl
+https://vrln.databank.nl
 https://vsp.acm.nl
 https://vsp.services.acm.nl
 https://vt.1ratio.nl
 https://vt.landelijkregisterkinderopvang.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://vue.databank.nl
 https://vulnerabilities.acc.ncsc.nl
 https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
@@ -5221,6 +5342,8 @@ https://waterwebservices.beta.rijkswaterstaat.nl
 https://waterwebservices.rijkswaterstaat.nl
 https://watson.cdho.nl
 https://waukeshacounty.maps.arcgis.com
+https://waves.databank.nl
+https://wavesplus.databank.nl
 https://wayback-usw2.maptiles.arcgis.com
 https://wba-acc.rvo.nl
 https://wba.rvo.nl
@@ -5315,6 +5438,7 @@ https://wetten-acc.overheid.nl
 https://wetten.overheid.nl
 https://wetten.rvo.nl
 https://wi.maptiles.arcgis.com
+https://wibe.databank.nl
 https://wifi.brabant.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://wikixl-saml.cultureelerfgoed.nl
@@ -5322,27 +5446,34 @@ https://wikixl-saml.test.cultureelerfgoed.nl
 https://wiltshire-council-open-data-hub-wiltscouncil.hub.arcgis.com
 https://windlansingerland.zuid-holland.nl
 https://windopzee.nl
+https://winkelgebiedenscan.databank.nl
 https://wio.ilent.nl
 https://wiob.ilent.nl
 https://wkr.nl
+https://wmm-demo.databank.nl
 https://wms-viewer.dataplatform.knmi.nl
 https://wms.aanpakringzuid.nl
 https://wo2.collectienederland.nl
 https://wodc.nl
 https://wolf.cito.nl
 https://wolf.secure.cito.nl
+https://wonen.databank.nl
 https://woo-dashboards.overheid.nl
 https://woo-formulier.rijksoverheid.nl
 https://woo-verzoeken.cvdm.nl
 https://wooincijfers.open-overheid.nl
 https://woolwich-geohub-woolwich.hub.arcgis.com
+https://woon2021.databank.nl
 https://woordenboek.klimaatadaptatienederland.nl
 https://wordimport.drop.overheid.nl
 https://workflow.arcgis.com
 https://wow.knmi.nl
+https://wozbenchmark.databank.nl
 https://wpx-80-aix-http.douane.nl
 https://wrr.nl
 https://ws.cbr.nl
+https://wsjg.databank.nl
+https://wsp.waves.databank.nl
 https://wsus.hdsr.nl
 https://wvlegislature.maps.arcgis.com
 https://www-a.grensinfo.nl
@@ -5404,6 +5535,7 @@ https://www.aerius.nl
 https://www.aeriusproducten.nl
 https://www.afm.nl
 https://www.afvalcirculair.nl
+https://www.afvalmonitor.databank.nl
 https://www.agendalaadinfrastructuur.nl
 https://www.agendastad.nl
 https://www.agendavoorhetwaddengebied2050.nl
@@ -5434,6 +5566,7 @@ https://www.app.dagvandeforensischezorg.nl
 https://www.aqualarm.nl
 https://www.aquo.nl
 https://www.arbeidsinspectie.nl
+https://www.arbeidsmarkthoreca.databank.nl
 https://www.arbeidsmarktplatformpo.nl
 https://www.arbeidsmigratieingoedebanen.nl
 https://www.arbocatalogusmbo.nl
@@ -5515,6 +5648,7 @@ https://www.boerenkpi.nl
 https://www.bofeb.nl
 https://www.boswachtersblog.nl
 https://www.bouwbesluit.com
+https://www.brabant.databank.nl
 https://www.brabant.nl
 https://www.braic.nl
 https://www.brandam.nl
@@ -5548,6 +5682,7 @@ https://www.carbonbudgetexplorer.eu
 https://www.carbonbudgetexplorer.nl
 https://www.catshuis.nl
 https://www.cbamtoelating.nl
+https://www.cbc.databank.nl
 https://www.cbg-meb.nl
 https://www.cbgjaarverslag.nl
 https://www.cbi.eu
@@ -5642,6 +5777,7 @@ https://www.daszogefietst.nl
 https://www.data-islandcountygis.opendata.arcgis.com
 https://www.data-nycgov.opendata.arcgis.com
 https://www.dataalsonbekendevervuiler.nl
+https://www.databank.nl
 https://www.databestanden.cbs.nl
 https://www.datalekken-acc.autoriteitpersoonsgegevens.nl
 https://www.dataportaal.brabant.nl
@@ -5662,6 +5798,7 @@ https://www.digitaalstelselmobiliteitsdata.nl
 https://www.digitaleoverheid.nl
 https://www.dihoo.eu
 https://www.dihoo.nl
+https://www.diversiteitsindex.databank.nl
 https://www.diversiteitsportaal.aofondsrijk.nl
 https://www.dji.nl
 https://www.dmo.omgevingswet.overheid.nl
@@ -5687,6 +5824,7 @@ https://www.emissieautoriteit.nl
 https://www.emissionsauthority.nl
 https://www.emm-online.nl
 https://www.enabling.omgevingswet.overheid.nl
+https://www.energiecijfers.databank.nl
 https://www.energierijkdenhaag.nl
 https://www.ep-online.nl
 https://www.erfgoeddeal.nl
@@ -5785,6 +5923,7 @@ https://www.ishetafval.nl
 https://www.isis-web.nl
 https://www.istandaarden.nl
 https://www.it-academieoverheid.nl
+https://www.ivm11.databank.nl
 https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.jaarverslag2024.bkd.eu
@@ -5809,6 +5948,7 @@ https://www.kleutervolgsysteem-demo.cito.nl
 https://www.kleutervolgsysteem.cito.nl
 https://www.klimaatadaptatienederland.nl
 https://www.klimaatakkoord.nl
+https://www.klimaatmonitor.databank.nl
 https://www.klimaatscenarios-data.knmi.nl
 https://www.knmi.nl
 https://www.knmidata.nl
@@ -5927,6 +6067,7 @@ https://www.overalsnelinternet.nl
 https://www.overdedouane.nl
 https://www.overheid.nl
 https://www.overheidvannu.nl
+https://www.overijssel.databank.nl
 https://www.overtoeslagen.nl
 https://www.p-direkt.nl
 https://www.pacemweb.nl
@@ -5986,6 +6127,7 @@ https://www.schoolleidersregisterpo.nl
 https://www.schoudersonderschoon.nl
 https://www.scp.nl
 https://www.secure.cito.nl
+https://www.senternovem.databank.nl
 https://www.sharingknowledge.rvo.nl
 https://www.slimwatermanagement.nl
 https://www.socialestabiliteit.nl
@@ -5998,6 +6140,7 @@ https://www.staatscommissie2050.nl
 https://www.staatscommissierechtsstaat.nl
 https://www.staatscommissietegendiscriminatieenracisme.nl
 https://www.staatsexamensnt2.nl
+https://www.staatvanutrecht.databank.nl
 https://www.staging.bdmuseum.nl
 https://www.startmetdelen.nl
 https://www.startmetoesorichtlijnen.nl
@@ -6105,6 +6248,7 @@ https://zabbix.cultuurparticipatie.nl
 https://zandbak.nvwa.nl
 https://zandbak.wegwijzer.overheid.nl
 https://zartico.maps.arcgis.com
+https://zeeland-prv.databank.nl
 https://ziektelast.vzinfo.nl
 https://zm.chm-cbd.net
 https://zml-a.cito.nl
