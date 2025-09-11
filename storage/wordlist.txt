@@ -78,6 +78,7 @@ www-tst2
 loket
 zaaksysteem
 inloggen
+dev
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -97,7 +98,6 @@ repository
 lyncdiscover
 geoweb
 mx1
-dev
 eloket
 maps
 testeloket
@@ -445,6 +445,7 @@ securemail
 communicatie
 api-a
 mr
+api-dev
 gateway
 cm
 experience
@@ -459,6 +460,7 @@ beheer-acc
 tracking
 matomo
 tst-www
+develop
 geoportal
 gisservices
 gisservicesacc
@@ -5461,7 +5463,6 @@ accnew-www
 afmacademy
 afmcmg
 aovpn
-api-dev
 api-tst
 beginnenbij
 compliance
@@ -6924,7 +6925,6 @@ webtest
 xelion
 ziem
 wo2
-develop
 playground
 relayaccept
 relayprod
@@ -7189,3 +7189,4 @@ reserveren
 regiobeelden
 voorbeelden
 geheugen
+v1

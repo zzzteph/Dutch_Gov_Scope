@@ -1025,6 +1025,7 @@ https://api-acc.competentnl.nl
 https://api-acc.dashboardgroningen.nl
 https://api-acc.rdi.nl
 https://api-dev.afm.nl
+https://api-dev.dementieinkaart.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
 https://api-sec.p-direkt.nl
@@ -1042,6 +1043,7 @@ https://api.cursus.rijkscloud.nl
 https://api.dashboardgroningen.nl
 https://api.dataplatform.knmi.nl
 https://api.dbe-t.rvb.rijkscloud.nl
+https://api.dementieinkaart.nl
 https://api.denkmee.zuid-holland.nl
 https://api.ix.rijkscloud.nl
 https://api.jeugdconnect.nl
@@ -2068,6 +2070,7 @@ https://delichtkogel.nl
 https://delpher.nl
 https://delta.belastingdienst.nl
 https://deltaprogramma.nl
+https://dementieinkaart.nl
 https://demo-systemteam.overheid.nl
 https://demo-veiligheidsmonitor.databank.nl
 https://demo-vgm.databank.nl
@@ -2110,9 +2113,11 @@ https://dev.climate4impact.eu
 https://dev.collectiefnatuurinclusief.nl
 https://dev.crimediggers.nl
 https://dev.dataverkenner.knmi.nl
+https://dev.dementieinkaart.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kennisbankterrorisme.nctv.nl
 https://dev.opendata.nederlandwereldwijd.nl
+https://develop.dementieinkaart.nl
 https://developer.arcgis.com
 https://developer.dataplatform.knmi.nl
 https://developer.omgevingswet.overheid.nl
@@ -5220,6 +5225,7 @@ https://uzipas.portaal.ncpeh.nl
 https://uzipas.raadplegen.sbv-z.nl
 https://uzipas.uziregister.nl
 https://uziregister.nl
+https://v1.dementieinkaart.nl
 https://vaardigheid-acc.cbr.nl
 https://vaardigheid-tst.cbr.nl
 https://vaardigheid.cbr.nl
@@ -5826,6 +5832,7 @@ https://www.delichtkogel.nl
 https://www.delpher.nl
 https://www.deltaflexjenvmobiliteitscentrum.nl
 https://www.deltaprogramma.nl
+https://www.dementieinkaart.nl
 https://www.denkdoeduurzaam.nl
 https://www.denkmee.zuid-holland.nl
 https://www.dezi.nl

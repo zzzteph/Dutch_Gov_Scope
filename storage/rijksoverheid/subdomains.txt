@@ -1223,6 +1223,7 @@ api-acc.rdi.nl
 api-acpt.brabant.nl
 api-auth.ilent.nl
 api-dev.afm.nl
+api-dev.dementieinkaart.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
 api-performance.test.ix.rijkscloud.nl
@@ -1251,6 +1252,7 @@ api.cursus.rijkscloud.nl
 api.dashboardgroningen.nl
 api.dataplatform.knmi.nl
 api.dbe-t.rvb.rijkscloud.nl
+api.dementieinkaart.nl
 api.denkmee.zuid-holland.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
@@ -2965,6 +2967,7 @@ delpher.nl
 delta.belastingdienst.nl
 delta.bkwi.nl
 deltaprogramma.nl
+dementieinkaart.nl
 demo-ebc.databank.nl
 demo-en.web.ssc-ict.nl
 demo-geoservices.rijkswaterstaat.nl
@@ -3034,11 +3037,13 @@ dev.collectiefnatuurinclusief.nl
 dev.connect.acm.nl
 dev.crimediggers.nl
 dev.dataverkenner.knmi.nl
+dev.dementieinkaart.nl
 dev.fib.ienw.rijkscloud.nl
 dev.informatieservice.nederlandwereldwijd.nl
 dev.kennisbankterrorisme.nctv.nl
 dev.opendata.nederlandwereldwijd.nl
 develop.commabz.nl
+develop.dementieinkaart.nl
 developer.arcgis.com
 developer.dataplatform.knmi.nl
 developer.ix.rijkscloud.nl
@@ -8823,6 +8828,7 @@ uzipas.portaal.ncpeh.nl
 uzipas.raadplegen.sbv-z.nl
 uzipas.uziregister.nl
 uziregister.nl
+v1.dementieinkaart.nl
 va_do.belastingdienst.nl
 vaardigheid-acc.cbr.nl
 vaardigheid-tst.cbr.nl
@@ -9884,6 +9890,7 @@ www.delichtkogel.nl
 www.delpher.nl
 www.deltaflexjenvmobiliteitscentrum.nl
 www.deltaprogramma.nl
+www.dementieinkaart.nl
 www.denkdoeduurzaam.nl
 www.denkmee.zuid-holland.nl
 www.dezi.nl
