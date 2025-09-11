@@ -30,10 +30,10 @@ redactie
 connect
 data
 a-english
+staging
 a-feeds.a-english
 a-opendata.a-english
 portaal
-staging
 smtp
 werkenbij
 remote
@@ -232,6 +232,7 @@ iam
 sentry
 media
 developer
+www.staging
 mail2
 magazine
 acc-www
@@ -384,6 +385,7 @@ prod-dictu
 test-dictu
 productie
 leren
+new
 zoekservice
 kgr-acc.mijn
 kgr.mijn
@@ -425,13 +427,13 @@ a-magazinesintern
 monitor
 statistiek
 server
-www.staging
 acc-mijn
 applicaties
 gdi
 klantportaal
 plekchecker
 siam
+admin
 download.mail
 dc
 register
@@ -2800,7 +2802,6 @@ complaintform
 gelijkloon
 klachtenformulier
 klachtenformulierlink
-new
 oordelen
 publicaties.oud
 i-login
@@ -4850,7 +4851,6 @@ raadplegen-acc
 raadplegen-preprod
 uzipas.raadplegen
 webservice-preprod
-admin
 digital
 mailhost
 testmail
@@ -7194,3 +7194,4 @@ postergenerator
 acc.lespakketten
 hostmaster
 lespakketten
+www.new
