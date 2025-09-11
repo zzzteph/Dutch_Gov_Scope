@@ -59,6 +59,12 @@ http://analytics-acc.cjib.nl
 http://analytics-solutions-esridech.hub.arcgis.com
 http://api.openstad.zuid-holland.nl
 http://apollo.databank.nl
+http://app-a1.digid.nl
+http://app-a2.digid.nl
+http://app-a3.digid.nl
+http://app-a4.digid.nl
+http://app-a5.digid.nl
+http://app-a6.digid.nl
 http://appl.rdi.nl
 http://aptikom-riau-smartcommunity.hub.arcgis.com
 http://arcgis-natgeo-home-learngis.hub.arcgis.com
@@ -765,6 +771,7 @@ https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.hulpmiddelen.farmatec.nl
 https://acceptatie.istandaarden.nl
 https://acceptatie.lir.cibg.nl
+https://acceptatie.machtigen.digid.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
 https://acceptatie.mijn.dezi.nl
@@ -1037,6 +1044,8 @@ https://api-dev.afm.nl
 https://api-dev.dementieinkaart.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
+https://api-preprod1.digid.nl
+https://api-preprod2.digid.nl
 https://api-sec.p-direkt.nl
 https://api-tst.afm.nl
 https://api.acc.ncsc.nl
@@ -1054,6 +1063,7 @@ https://api.dataplatform.knmi.nl
 https://api.dbe-t.rvb.rijkscloud.nl
 https://api.dementieinkaart.nl
 https://api.denkmee.zuid-holland.nl
+https://api.digid.nl
 https://api.ix.rijkscloud.nl
 https://api.jeugdconnect.nl
 https://api.klopt.cibg.nl
@@ -1081,11 +1091,15 @@ https://app-a.svb.nl
 https://app-api.acc.mgo.irealisatie.nl
 https://app-api.test.mgo.irealisatie.nl
 https://app-o.svb.nl
+https://app-o1.digid.nl
 https://app-planttes-eulaliabota.hub.arcgis.com
+https://app-preprod1.digid.nl
+https://app-preprod2.digid.nl
 https://app-t.svb.nl
 https://app.brabant.nl
 https://app.burgernet.nl
 https://app.dagvandeforensischezorg.nl
+https://app.digid.nl
 https://app.svb.nl
 https://app.vechtstromen.nl
 https://applicaties.ciz.nl
@@ -1249,6 +1263,7 @@ https://baja-sdg-performance-management-ucsdonline.hub.arcgis.com
 https://balie.acc.woo.irealisatie.nl
 https://balie.dpr.irealisatie.nl
 https://balie.woo.irealisatie.nl
+https://balieportaal.digid.nl
 https://bankdataretrievalportal.nl
 https://bao.arcgis.com
 https://baral-connect-2024-baral.hub.arcgis.com
@@ -1387,6 +1402,7 @@ https://beta-vivet.databank.nl
 https://beta-wsjg.databank.nl
 https://beta.belastingdienst.nl
 https://beta.dblogistiek.brandweer.nl
+https://beta.machtigen.digid.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
 https://betalen.schoolleidersregisterpo.nl
@@ -2160,6 +2176,7 @@ https://diergeneesmiddeleninformatiebank.nl
 https://digicampus.tech
 https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
+https://digid.nl
 https://digidafspraak.nederlandwereldwijd.nl
 https://digikoppeling.bkd.eu
 https://digikoppeling.waterschaplimburg.nl
@@ -2253,6 +2270,7 @@ https://dutchoffshorewindatlas.nl
 https://dutchrapporteur.nl
 https://duurzame-infra.nl
 https://duurzamemobiliteit.databank.nl
+https://dv.ontwikkel.machtigen.digid.nl
 https://dva-mock.test.mgo.irealisatie.nl
 https://dva.belastingdienst.nl
 https://dvfz.dji.nl
@@ -2318,6 +2336,9 @@ https://ehp.emissieautoriteit.nl
 https://ehp2.emissieautoriteit.nl
 https://ehpzee.emissieautoriteit.nl
 https://ehs.flevoland.nl
+https://eid-preprod1.digid.nl
+https://eid-preprod2.digid.nl
+https://eid.digid.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://eijsden.dbsync.aqualarm.nl
 https://elcaf-usflibrary.hub.arcgis.com
@@ -2973,6 +2994,7 @@ https://helpdesk.brba.nl
 https://helpdesk.ciz.nl
 https://helpdesk.cultuurparticipatie.nl
 https://helpdesk.irealisatie.nl
+https://helpdesk.machtigen.digid.nl
 https://helpmee.cbs.nl
 https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
@@ -3452,8 +3474,11 @@ https://locationservices7.az-int.arcgis.com
 https://login.aaenmaas.nl
 https://login.cbs.nl
 https://login.databestanden.cbs.nl
+https://login.digid.nl
 https://login.idm.rvig.nl
 https://login.mijncn.nl
+https://login.pp1.digid.nl
+https://login.pp2.digid.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://login.scp.nl
 https://login.vechtstromen.nl
@@ -3498,6 +3523,7 @@ https://ma.test.chm-cbd.net
 https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
 https://maatwerkvoormensen.nl
+https://machtigen.digid.nl
 https://machtigen.digipoort.logius.nl
 https://mack-park-farm-salemma.hub.arcgis.com
 https://maf-a.svb.nl
@@ -3671,6 +3697,7 @@ https://mijn.cbr.nl
 https://mijn.cbs.nl
 https://mijn.cokz.nl
 https://mijn.diergeneeskunderegister.nl
+https://mijn.digid.nl
 https://mijn.donorregister.nl
 https://mijn.examenblad.nl
 https://mijn.examenbladmbo.nl
@@ -3686,6 +3713,8 @@ https://mijn.ncsc.nl
 https://mijn.ndw.nu
 https://mijn.nvwa.nl
 https://mijn.overheid.nl
+https://mijn.preprod1.digid.nl
+https://mijn.preprod2.digid.nl
 https://mijn.rdi.nl
 https://mijn.rvo.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
@@ -3764,6 +3793,7 @@ https://mta-sts.mail.cggp.nl
 https://mta-sts.nza.nl
 https://mta-sts.vechtstromen.nl
 https://mtdphhs.maps.arcgis.com
+https://mu.digid.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
@@ -3889,6 +3919,7 @@ https://nza-form6.nza.nl
 https://nza.nl
 https://oa.aaenmaas.nl
 https://oap.ind.nl
+https://ob.ontwikkel.machtigen.digid.nl
 https://ocd-hub-nm-emnrd.hub.arcgis.com
 https://ocw-verhalen.nl
 https://ocwincijfers.nl
@@ -3951,6 +3982,7 @@ https://onsgeldontcijferd.rekenkamer.nl
 https://onslevendlandschap.nl
 https://onswater.nl
 https://ontheffingaanvragen.vrachtwagenheffing.nl
+https://ontwikkel.machtigen.digid.nl
 https://oordelen.mensenrechten.nl
 https://oos-p1.coa.nl
 https://oostvaarderskliniek.nl
@@ -4366,6 +4398,10 @@ https://portalen.preproductie.digipoort.logius.nl
 https://postedworkers.nl
 https://postergenerator.denkvooruit.nl
 https://powhatancounty.maps.arcgis.com
+https://pp.balieportaal.digid.nl
+https://pp.helpdesk.machtigen.digid.nl
+https://pp.machtigen.digid.nl
+https://pp1.machtigen.digid.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://pr.aerius.nl
@@ -4380,6 +4416,8 @@ https://preprod.iam.rijkswaterstaat.nl
 https://preprod.idselect.cultureelerfgoed.nl
 https://preprod.mijn.overheid.nl
 https://preprod.oinregister.logius.nl
+https://preprod1.digid.nl
+https://preprod2.digid.nl
 https://preprodcher.emissieautoriteit.nl
 https://preprodehd.emissieautoriteit.nl
 https://preprodehp.emissieautoriteit.nl
@@ -4524,6 +4562,9 @@ https://rcgog.nl
 https://rcihh.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
+https://rda-preprod1.digid.nl
+https://rda-preprod2.digid.nl
+https://rda.digid.nl
 https://rda.nl
 https://rdi.nl
 https://rdp.cultuurparticipatie.nl
@@ -4928,6 +4969,8 @@ https://static.tst.staging.rijkswaterstaat.nl
 https://static.tst.staging.werkenbij.rijkswaterstaat.nl
 https://static.wegwijzer.overheid.nl
 https://statistics.ind.nl
+https://statistiek.digid.nl
+https://statistiek.machtigen.digid.nl
 https://statistiek.mijn.overheid.nl
 https://statistiek.rijksoverheid.nl
 https://statistiek.rvo.nl
@@ -5393,6 +5436,9 @@ https://wachtwoord.cultuurparticipatie.nl
 https://wachtwoord.rijkswaterstaat.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wapenfeiten.zuid-holland.nl
+https://was-preprod1.digid.nl
+https://was-preprod2.digid.nl
+https://was.digid.nl
 https://water-amerigeoss.opendata.arcgis.com
 https://waterkwaliteitinbeeld.hdsr.nl
 https://watermerk.hdsr.nl
@@ -5878,6 +5924,7 @@ https://www.dienstterugkeerenvertrek.nl
 https://www.diergeneeskunderegister.nl
 https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digicampus.tech
+https://www.digid.nl
 https://www.digitaal.loket.afm.nl
 https://www.digitaalstelselmobiliteitsdata.nl
 https://www.digitaleoverheid.nl
