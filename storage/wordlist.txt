@@ -25,11 +25,11 @@ _dmarc
 www-acc
 formulieren
 werkplek
+staging
 prod
 redactie
 connect
 data
-staging
 a-english
 a-feeds.a-english
 a-opendata.a-english
@@ -242,6 +242,7 @@ analytics
 iam
 sentry
 media
+organisaties
 developer
 monitor
 www.staging
@@ -421,7 +422,6 @@ pop
 e-learning
 import-acc.organisaties
 import.organisaties
-organisaties
 data-acc
 standaarden
 wetten
@@ -7596,3 +7596,4 @@ w3prd
 woxi
 www.cn
 www.toezicht
+staging-organisaties
