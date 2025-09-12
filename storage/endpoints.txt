@@ -870,6 +870,7 @@ https://address-outreach-pcg.hub.arcgis.com
 https://addressing-homelessness-muniorg.hub.arcgis.com
 https://adfs.flevoland.nl
 https://adfs.vallei-veluwe.nl
+https://adkc.dopingautoriteit.nl
 https://admin.denkmee.zuid-holland.nl
 https://admin.deweekvandecirculaireeconomie.nl
 https://administratie-a.cito.nl
@@ -1034,6 +1035,7 @@ https://anderson-sc-comp-udo-hlplanning.hub.arcgis.com
 https://animalfreeinnovationtpi.nl
 https://annapolis-ahead-2040-annapolis.hub.arcgis.com
 https://annearundelcc.maps.arcgis.com
+https://annualreport.dopingautoriteit.nl
 https://anokacounty-swmasterplan-wsbeng.hub.arcgis.com
 https://anonymous.api.dataplatform.knmi.nl
 https://ansible.cultuurparticipatie.nl
@@ -2116,6 +2118,7 @@ https://datastories.cultureelerfgoed.nl
 https://datavoorgezondheid.nl
 https://dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
 https://datumprikker.belastingdienst.nl
+https://daws1.dopingautoriteit.nl
 https://db.cbg-meb.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://dblogistiek.brandweer.nl
@@ -2298,6 +2301,7 @@ https://doorstroomtoets-las-t.cito.nl
 https://doorstroomtoets-las.cito.nl
 https://doortrappen.nl
 https://doping.nl
+https://dopingautoriteit.nl
 https://dor-api.stopheling.nl
 https://dor.stopheling.nl
 https://dorbeheer.stopheling.nl
@@ -2425,6 +2429,7 @@ https://elearning-lcp-egt.nctv.nl
 https://elearning-msz.nza.nl
 https://elearning-zvjz-medewerkers.nctv.nl
 https://elearning.afm.nl
+https://elearning.dopingautoriteit.nl
 https://elearning.istandaarden.nl
 https://elearning.ordz.nl
 https://elearning.platformrijksoverheid.nl
@@ -2889,6 +2894,8 @@ https://gcgis-gwinnettcountyga.hub.arcgis.com
 https://gdi-b.rvo.nl
 https://gdi.databank.nl
 https://gdindex.databank.nl
+https://gds.dopingautoriteit.nl
+https://gdsnext.dopingautoriteit.nl
 https://gebiedsprofielen.zuid-holland.nl
 https://gebruiker-beheer.dus-i.nl
 https://gebruikersbeheer-a.cito.nl
@@ -3316,6 +3323,7 @@ https://ivo.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
 https://iwelcome.nvwa.nl
 https://jaarverantwoordingzorg.nl
+https://jaarverslag.dopingautoriteit.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
 https://jaarverslag2024.bkd.eu
@@ -5032,6 +5040,7 @@ https://spmgis.maps.arcgis.com
 https://sportakkoord.allesoversport.nl
 https://sportenbewegenincijfers.nl
 https://spx-oec.digitalenoordzee.nl
+https://srv3.dopingautoriteit.nl
 https://ssc-ict.nl
 https://ssc-ictspecials.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
@@ -5069,6 +5078,10 @@ https://staatscommissietegendiscriminatieenracisme.nl
 https://staatsexamensnt2.nl
 https://staatvanbrabant.databank.nl
 https://staatvanutrecht.databank.nl
+https://stage.dopingautoriteit.nl
+https://stage.elearning.dopingautoriteit.nl
+https://stage.gds.dopingautoriteit.nl
+https://stage.supplementenwijzer.dopingautoriteit.nl
 https://stagefonds.formulierdus-i.nl
 https://staging-organisaties.doemeemetmdt.nl
 https://staging.agroforestrynetwerk.nl
@@ -5195,6 +5208,7 @@ https://subsidies-login.aofondsrijk.nl
 https://subsidies.acceptatie.aofondsrijk.nl
 https://subsidies.aofondsrijk.nl
 https://sumatra.huurcommissie.nl
+https://supplementenwijzer.dopingautoriteit.nl
 https://support-acc.cbr.nl
 https://support-tst.cbr.nl
 https://support.cbr.nl
@@ -5283,8 +5297,10 @@ https://test.csirtdsp.nl
 https://test.dictu.nl
 https://test.digitaleoverheid.nl
 https://test.digitaltrustcenter.nl
+https://test.elearning.dopingautoriteit.nl
 https://test.esb.rijkswaterstaat.nl
 https://test.flevoland.nl
+https://test.gds.dopingautoriteit.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.handelingenbank.info
 https://test.informatiehuis.rvo.nl
@@ -5373,6 +5389,7 @@ https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
 https://toetredingzorgaanbieders.nl
+https://toets.dopingautoriteit.nl
 https://toetsingscommissievp.nl
 https://toetsportaal.cito.nl
 https://toezicht.dnb.nl
@@ -6142,6 +6159,7 @@ https://www.donorgegevens.nl
 https://www.donorregister.nl
 https://www.doortrappen.nl
 https://www.doping.nl
+https://www.dopingautoriteit.nl
 https://www.douane.nl
 https://www.draaiboekpsie.nl
 https://www.dsta.nl

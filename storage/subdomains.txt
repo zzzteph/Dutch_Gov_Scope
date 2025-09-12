@@ -1012,6 +1012,7 @@ adfs.hhdelfland.nl
 adfs.huurcommissie.nl
 adfs.vallei-veluwe.nl
 adfs2.cito.nl
+adkc.dopingautoriteit.nl
 admin.denkmee.zuid-holland.nl
 admin.deweekvandecirculaireeconomie.nl
 admin.openstad.zuid-holland.nl
@@ -1218,6 +1219,7 @@ animalfreeinnovationtpi.nl
 anm-acc.dictu.nl
 annapolis-ahead-2040-annapolis.hub.arcgis.com
 annearundelcc.maps.arcgis.com
+annualreport.dopingautoriteit.nl
 anokacounty-swmasterplan-wsbeng.hub.arcgis.com
 anoniem.netftp.dictu.nl
 anonymous.api.dataplatform.knmi.nl
@@ -3068,6 +3070,7 @@ datavoorgezondheid.nl
 datawonen.nl
 dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
 datumprikker.belastingdienst.nl
+daws1.dopingautoriteit.nl
 db.cbg-meb.nl
 dbb-acc.igj.nl
 dbb.igj.nl
@@ -3397,6 +3400,7 @@ doorstroomtoets-las-t.cito.nl
 doorstroomtoets-las.cito.nl
 doortrappen.nl
 doping.nl
+dopingautoriteit.nl
 dor-api.stopheling.nl
 dor.stopheling.nl
 dorbeheer.stopheling.nl
@@ -3634,6 +3638,7 @@ elearning-msz.nza.nl
 elearning-zvjz-medewerkers.nctv.nl
 elearning.afm.nl
 elearning.cbi.eu
+elearning.dopingautoriteit.nl
 elearning.istandaarden.nl
 elearning.ordz.nl
 elearning.platformrijksoverheid.nl
@@ -4337,6 +4342,8 @@ gdi.rvo.nl
 gdindex.databank.nl
 gdlo.acc.belastingdienst.nl
 gdlo.belastingdienst.nl
+gds.dopingautoriteit.nl
+gdsnext.dopingautoriteit.nl
 gdw-art.cvr.rvb.rijkscloud.nl
 gdw-art.devops.rvb.rijkscloud.nl
 gdw-demo.cvr.rvb.rijkscloud.nl
@@ -5126,6 +5133,7 @@ jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 jaarverantwoordingzorg.nl
 jaarverslag.acm.nl
 jaarverslag.cvdm.nl
+jaarverslag.dopingautoriteit.nl
 jaarverslag.justis.nl
 jaarverslag.knmi.nl
 jaarverslag2011.forensischinstituut.nl
@@ -7788,6 +7796,7 @@ remote.caop.nl
 remote.cito.nl
 remote.cultuurparticipatie.nl
 remote.dnb.nl
+remote.dopingautoriteit.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remote.services.acm.nl
@@ -8487,6 +8496,7 @@ srv-52b13-13.gn2.rijkscloud.nl
 srv-zmb02-27.gn3.rijkscloud.nl
 srv-zmb02-34.gn3.rijkscloud.nl
 srv-zmb12-13.gn3.rijkscloud.nl
+srv3.dopingautoriteit.nl
 ssc-ict.nl
 ssc-ictspecials.nl
 ssh.cbs.nl
@@ -8538,6 +8548,10 @@ staatvan.zuid-holland.nl
 staatvanbrabant.databank.nl
 staatvanutrecht.databank.nl
 stadvanced.belastingdienst.nl
+stage.dopingautoriteit.nl
+stage.elearning.dopingautoriteit.nl
+stage.gds.dopingautoriteit.nl
+stage.supplementenwijzer.dopingautoriteit.nl
 stagefonds.formulierdus-i.nl
 stagiairs.werkenvoornederland.nl
 staging-mijn.rvo.nl
@@ -8755,6 +8769,7 @@ sumatra.huurcommissie.nl
 superset.demo.ix.rijkscloud.nl
 superset.dev.fib.ienw.rijkscloud.nl
 superset.dgdoobi.rijkscloud.nl
+supplementenwijzer.dopingautoriteit.nl
 suppliers.afm.nl
 support-acc.cbr.nl
 support-tst.cbr.nl
@@ -8945,8 +8960,10 @@ test.dji.nl
 test.dpr.irealisatie.nl
 test.dusi.irealisatie.nl
 test.ebms.cbs.nl
+test.elearning.dopingautoriteit.nl
 test.esb.rijkswaterstaat.nl
 test.flevoland.nl
+test.gds.dopingautoriteit.nl
 test.gegevensmagazijn.acm.nl
 test.geoservices.cultureelerfgoed.nl
 test.gezondeleefomgeving.nl
@@ -9106,6 +9123,7 @@ toestemming.acc.toeslagen.nl
 toestemming.belastingdienst.nl
 toestemming.toeslagen.nl
 toetredingzorgaanbieders.nl
+toets.dopingautoriteit.nl
 toetsingonline.ccmo.nl
 toetsingscommissievp.nl
 toetsportaal.cito.nl
@@ -10440,6 +10458,7 @@ www.donorgegevens.nl
 www.donorregister.nl
 www.doortrappen.nl
 www.doping.nl
+www.dopingautoriteit.nl
 www.douane.nl
 www.draaiboekpsie.nl
 www.droplet.alterra.nl
