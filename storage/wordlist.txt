@@ -440,6 +440,7 @@ test-cms
 admin
 download.mail
 dc
+accp
 events
 register
 fed
@@ -4965,7 +4966,6 @@ accp-bp
 accp-dol
 accp-dor
 accp-dorbeheer
-accp
 bp
 dol
 dor-api
