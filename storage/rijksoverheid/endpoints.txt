@@ -612,6 +612,7 @@ https://aanpakringzuid.nl
 https://aansluitsuite.preproductie.digipoort.logius.nl
 https://aanvraag-beheer.ciz.nl
 https://aanvraag.ciz.nl
+https://aanvraag.donorgegevens.nl
 https://aanvraag.dus-i.nl
 https://aanvragen-acc.nza.nl
 https://aanvragen.nza.nl
@@ -747,6 +748,7 @@ https://acceptatie-pdok.aerius.nl
 https://acceptatie-register.aerius.nl
 https://acceptatie-scenario.aerius.nl
 https://acceptatie-zaaksysteem.vechtstromen.nl
+https://acceptatie.aanvraag.donorgegevens.nl
 https://acceptatie.aanvragen.uziregister.nl
 https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
@@ -758,6 +760,7 @@ https://acceptatie.authlab.dezi.nl
 https://acceptatie.behandel.bigregister.nl
 https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.diergeneeskunderegister.nl
+https://acceptatie.behandel.donorgegevens.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.behandel.hulpmiddelen.farmatec.nl
 https://acceptatie.behandel.sbv-z.nl
@@ -783,6 +786,7 @@ https://acceptatie.formulieren.uziregister.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.hulpmiddelen.farmatec.nl
 https://acceptatie.istandaarden.nl
+https://acceptatie.klinieken.donorgegevens.nl
 https://acceptatie.lir.cibg.nl
 https://acceptatie.machtigen.digid.nl
 https://acceptatie.meldingen.klopt.cibg.nl
@@ -1348,6 +1352,7 @@ https://begroting2020.flevoland.nl
 https://beh-iam.acceptatie.cbs.nl
 https://behandel.bigregister.nl
 https://behandel.diergeneeskunderegister.nl
+https://behandel.donorgegevens.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://behandel.sbv-z.nl
 https://beheer-acc.burgernet.nl
@@ -2285,6 +2290,7 @@ https://doemeemetmdt.nl
 https://doeonbeperktmee.nl
 https://dol.stopheling.nl
 https://domeinenrz.nl
+https://donorgegevens.nl
 https://donorregister.nl
 https://doorstroomtoets-las-a.cito.nl
 https://doorstroomtoets-las-o.cito.nl
@@ -3422,6 +3428,7 @@ https://klimaatbeleid.databank.nl
 https://klimaateffectatlas.rijkswaterstaat.nl
 https://klimaatmonitor.databank.nl
 https://klimaatscenarios-data.knmi.nl
+https://klinieken.donorgegevens.nl
 https://klt-qti37-api-a.cito.nl
 https://klt-qti37-api.cito.nl
 https://klt-qti37-player-a.cito.nl
@@ -6129,6 +6136,7 @@ https://www.dnb.nl
 https://www.doemeemetmdt.nl
 https://www.doeonbeperktmee.nl
 https://www.domeinenrz.nl
+https://www.donorgegevens.nl
 https://www.donorregister.nl
 https://www.douane.nl
 https://www.draaiboekpsie.nl

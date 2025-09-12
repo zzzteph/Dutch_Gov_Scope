@@ -552,6 +552,7 @@ aansluitsuite.preproductie.digipoort.logius.nl
 aanvraag-beheer.ciz.nl
 aanvraag-uzi.ciz.nl
 aanvraag.ciz.nl
+aanvraag.donorgegevens.nl
 aanvraag.dus-i.nl
 aanvragen-acc.nza.nl
 aanvragen.nza.nl
@@ -698,6 +699,7 @@ acc.dictu.nl
 acc.digid-stub.lpc.mijn.overheid.nl
 acc.digid.nl
 acc.digitaltrustcenter.nl
+acc.donorgegevens.nl
 acc.dpr.irealisatie.nl
 acc.dusi.irealisatie.nl
 acc.e-akkoord.nl
@@ -809,6 +811,7 @@ acceptatie-pdok.aerius.nl
 acceptatie-register.aerius.nl
 acceptatie-scenario.aerius.nl
 acceptatie-zaaksysteem.vechtstromen.nl
+acceptatie.aanvraag.donorgegevens.nl
 acceptatie.aanvragen.uziregister.nl
 acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
@@ -824,6 +827,7 @@ acceptatie.authlab.dezi.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
 acceptatie.behandel.diergeneeskunderegister.nl
+acceptatie.behandel.donorgegevens.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.hulpmiddelen.farmatec.nl
 acceptatie.behandel.isms.cibg.nl
@@ -870,6 +874,7 @@ acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.isis-web.nl
 acceptatie.istandaarden.nl
+acceptatie.klinieken.donorgegevens.nl
 acceptatie.lir.cibg.nl
 acceptatie.loketgezondleven.nl
 acceptatie.machtigen.digid.nl
@@ -1844,6 +1849,7 @@ begroting2020.flevoland.nl
 beh-iam.acceptatie.cbs.nl
 behandel.bigregister.nl
 behandel.diergeneeskunderegister.nl
+behandel.donorgegevens.nl
 behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
 behandel.sbv-z.nl
@@ -3383,6 +3389,7 @@ doeonbeperktmee.nl
 dol.stopheling.nl
 domeinenrz.nl
 domeinnaamregistratie.rijksoverheid.nl
+donorgegevens.nl
 donorregister.nl
 doorstroomtoets-las-a.cito.nl
 doorstroomtoets-las-o.cito.nl
@@ -5362,6 +5369,7 @@ klimaatbeleid.databank.nl
 klimaateffectatlas.rijkswaterstaat.nl
 klimaatmonitor.databank.nl
 klimaatscenarios-data.knmi.nl
+klinieken.donorgegevens.nl
 klopt.cibg.nl
 klt-qti37-api-a.cito.nl
 klt-qti37-api.cito.nl
@@ -10426,6 +10434,7 @@ www.dnb.nl
 www.doemeemetmdt.nl
 www.doeonbeperktmee.nl
 www.domeinenrz.nl
+www.donorgegevens.nl
 www.donorregister.nl
 www.douane.nl
 www.draaiboekpsie.nl
