@@ -36,6 +36,7 @@ a-opendata.a-english
 portaal
 werkenbij
 smtp
+kennisbank
 remote
 login
 zoeken
@@ -43,7 +44,6 @@ beheer
 meet
 sip
 apps
-kennisbank
 proto
 www-ac
 www-dev
@@ -220,12 +220,16 @@ sandbox
 telewerken
 m
 mijn-acc
+dashboard
 vt
 authenticatie
 nextcloud
 extranet
 secure
 vacatures
+acc-dictu
+prod-dictu
+test-dictu
 wiki
 intern
 mx2
@@ -234,6 +238,7 @@ iam
 sentry
 media
 developer
+monitor
 statistiek
 www.staging
 mail2
@@ -366,7 +371,6 @@ mobile
 synergy
 zaaksysteem-accept
 sdm
-dashboard
 acc.api
 ediensten
 archief
@@ -381,10 +385,7 @@ externemail01
 externemail02
 projects
 welkom
-acc-dictu
 ca
-prod-dictu
-test-dictu
 productie
 leren
 new
@@ -427,7 +428,6 @@ gitlab.test
 bon
 tools
 a-magazinesintern
-monitor
 server
 acc-cms
 acc-mijn
@@ -464,6 +464,7 @@ share.test-nieuw
 test-nieuw
 office
 beheer-acc
+dashboard-acc
 rijbewijs
 tracking
 matomo
@@ -6332,7 +6333,6 @@ actie-acc
 actie
 alerteren
 app-acc
-dashboard-acc
 web02
 bibliotheekwerk
 caopmgw01
@@ -7416,3 +7416,4 @@ was-t2
 was
 spx-oec
 basisscan
+dashboard-keten

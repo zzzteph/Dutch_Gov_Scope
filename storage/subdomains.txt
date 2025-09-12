@@ -594,6 +594,7 @@ acc-cms.projecten.rvo.nl
 acc-cms.projects.rvo.nl
 acc-cms.rvo.nl
 acc-dictu.comcms.logius.nl
+acc-dictu.digitoegankelijk.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
 acc-dictu.toegankelijkheidsverklaring.nl
@@ -2917,8 +2918,11 @@ dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
 dash-mt.mijn.overheid.nl
 dashboard-acc.burgernet.nl
+dashboard-acc.digitoegankelijk.nl
+dashboard-keten.digitoegankelijk.nl
 dashboard.analytics.ienw.rijkscloud.nl
 dashboard.burgernet.nl
+dashboard.digitoegankelijk.nl
 dashboard.ikz.nl
 dashboardduurzaamheid.nl
 dashboardgroningen.nl
@@ -3255,6 +3259,7 @@ digitalnorthsea.eu
 digitalnorthsea.nl
 digitaltrustcenter.nl
 digitaltrustcommunity.nl
+digitoegankelijk.nl
 dihoo.eu
 dihoo.nl
 dioxins-congener-hen.apps.feedfoodtransfer.nl
@@ -5192,6 +5197,7 @@ kennis.waterschaplimburg.nl
 kennis.zuid-holland.nl
 kennisbank-tst.rvo.nl
 kennisbank.agroforestrynetwerk.nl
+kennisbank.digitoegankelijk.nl
 kennisbank.douane.nl
 kennisbank.hhdelfland.nl
 kennisbank.kiesraad.nl
@@ -6121,6 +6127,7 @@ mon-saint-quentin.hub.arcgis.com
 mondgezondheidsdashboard.vzinfo.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 monitor.aerius.nl
+monitor.digitoegankelijk.nl
 monitor.rijksoverheid.nl
 monitor01.iaas.rijkscloud.nl
 monitoring-edu.efiling.mijnoctrooi.rvo.nl
@@ -7307,6 +7314,7 @@ procesweb-test.dictu.nl
 procesweb.dictu.nl
 prod-cms.digid.nl
 prod-dictu.comcms.logius.nl
+prod-dictu.digitoegankelijk.nl
 prod-dictu.logius.nl
 prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
@@ -8669,6 +8677,7 @@ test-cmsintranet.svb.nl
 test-connect.aerius.nl
 test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
+test-dictu.digitoegankelijk.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
 test-dictu.toegankelijkheidsverklaring.nl
@@ -10190,6 +10199,7 @@ www.digitaleoverheid.nl
 www.digitalnorthsea.nl
 www.digitaltrustcenter.nl
 www.digitaltrustcommunity.nl
+www.digitoegankelijk.nl
 www.dihoo.eu
 www.dihoo.nl
 www.diversiteitsindex.databank.nl

@@ -636,6 +636,7 @@ https://acc-cms.projecten.rvo.nl
 https://acc-cms.projects.rvo.nl
 https://acc-cms.rvo.nl
 https://acc-dictu.comcms.logius.nl
+https://acc-dictu.digitoegankelijk.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
 https://acc-dictu.toegankelijkheidsverklaring.nl
@@ -2002,7 +2003,10 @@ https://daisi.ndw.nu
 https://dallas-census-datahub-dallasgis.hub.arcgis.com
 https://damage-assessment-3-pema.hub.arcgis.com
 https://dashboard-acc.burgernet.nl
+https://dashboard-acc.digitoegankelijk.nl
+https://dashboard-keten.digitoegankelijk.nl
 https://dashboard.burgernet.nl
+https://dashboard.digitoegankelijk.nl
 https://dashboard.ikz.nl
 https://dashboardduurzaamheid.nl
 https://dashboardgroningen.nl
@@ -2199,6 +2203,7 @@ https://digitaleoverheid.nl
 https://digitalnorthsea.nl
 https://digitaltrustcenter.nl
 https://digitaltrustcommunity.nl
+https://digitoegankelijk.nl
 https://dihoo.eu
 https://dihoo.nl
 https://dioxins-congener-hen.apps.feedfoodtransfer.nl
@@ -3308,6 +3313,7 @@ https://kennis.waterschaplimburg.nl
 https://kennis.zuid-holland.nl
 https://kennisbank-tst.rvo.nl
 https://kennisbank.agroforestrynetwerk.nl
+https://kennisbank.digitoegankelijk.nl
 https://kennisbank.douane.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
@@ -3779,6 +3785,7 @@ https://mon-saint-quentin.hub.arcgis.com
 https://mondgezondheidsdashboard.vzinfo.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitor.aerius.nl
+https://monitor.digitoegankelijk.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring-prod5.koop.overheid.nl
 https://monitoring-prod6.koop.overheid.nl
@@ -4459,6 +4466,7 @@ https://probeer.acm.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod-dictu.comcms.logius.nl
+https://prod-dictu.digitoegankelijk.nl
 https://prod-dictu.logius.nl
 https://prod-dictu.toegankelijkheidsverklaring.nl
 https://prod.asbestvolgsysteem.nl
@@ -5082,6 +5090,7 @@ https://test-cmsintranet.svb.nl
 https://test-connect.aerius.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
+https://test-dictu.digitoegankelijk.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-dictu.toegankelijkheidsverklaring.nl
@@ -5944,6 +5953,7 @@ https://www.digitaleoverheid.nl
 https://www.digitalnorthsea.nl
 https://www.digitaltrustcenter.nl
 https://www.digitaltrustcommunity.nl
+https://www.digitoegankelijk.nl
 https://www.dihoo.eu
 https://www.dihoo.nl
 https://www.diversiteitsindex.databank.nl
