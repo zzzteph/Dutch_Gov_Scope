@@ -2102,6 +2102,7 @@ https://decentrale.regelgeving.overheid.nl
 https://decide-madrid.hub.arcgis.com
 https://deegsnccu.maps.arcgis.com
 https://defensie.nl
+https://definities.dmi-ecosysteem.nl
 https://dejuistezorgopdejuisteplek.nl
 https://dekinderombudsman.nl
 https://delichtkogel.nl
@@ -2222,6 +2223,12 @@ https://dj.chm-cbd.net
 https://dji.nl
 https://dkl.bkd.eu
 https://dl.coronatest.nl
+https://dmi-ecosysteem.nl
+https://dmi-governance.dev.dmi-ecosysteem.nl
+https://dmi-governance.dmi-ecosysteem.nl
+https://dmi-governance.staging.dmi-ecosysteem.nl
+https://dmi-pdx.dmi-ecosysteem.nl
+https://dmi-pdx.staging.dmi-ecosysteem.nl
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
 https://doc-acc.bronhouderportaal-bro.nl
@@ -2233,6 +2240,7 @@ https://docs.brba.eu
 https://docs.ndw.nu
 https://docs.openkat.nl
 https://docs.toegangspuntmobiliteit.nl
+https://docspace.dmi-ecosysteem.nl
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
 https://documentenapplicatie.igj.nl
@@ -3089,6 +3097,8 @@ https://idbs.idm.rvig.nl
 https://identificatie.rdi.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
+https://idp.dmi-ecosysteem.nl
+https://idp.staging.dmi-ecosysteem.nl
 https://idppoc-ont.dictu.nl
 https://idppoc-sp-ont.dictu.nl
 https://idselect.cultureelerfgoed.nl
@@ -4308,6 +4318,8 @@ https://papiamentu.vnacs.nl
 https://partnerplaza.sso3w.nl
 https://partoer.databank.nl
 https://pas.natura2000.nl
+https://paspoort.dmi-ecosysteem.nl
+https://paspoort.staging.dmi-ecosysteem.nl
 https://password-new.knmi.nl
 https://password.ctgb.nl
 https://password.knmi.nl
@@ -4319,6 +4331,9 @@ https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pdok.aerius.nl
+https://pdx.dev.dmi-ecosysteem.nl
+https://pdx.dmi-ecosysteem.nl
+https://pdx.staging.dmi-ecosysteem.nl
 https://peer0.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://perf.omgevingswet.overheid.nl
@@ -4632,10 +4647,19 @@ https://register.aerius.nl
 https://register.tlokb.nl
 https://registratiewebradiokanaal.cvdm.nl
 https://registreren.ep-online.nl
+https://registry-keycloak.dmi-ecosysteem.nl
+https://registry-keycloak.prod.dmi-ecosysteem.nl
+https://registry-keycloak.staging.dmi-ecosysteem.nl
+https://registry-mw.dmi-ecosysteem.nl
+https://registry-mw.prod.dmi-ecosysteem.nl
+https://registry-mw.staging.dmi-ecosysteem.nl
 https://registry.acceptatie.istandaarden.nl
+https://registry.dmi-ecosysteem.nl
 https://registry.gitlab.datascience.rijkscloud.nl
 https://registry.gitlab.wibo.ienw.rijkscloud.nl
 https://registry.istandaarden.nl
+https://registry.prod.dmi-ecosysteem.nl
+https://registry.staging.dmi-ecosysteem.nl
 https://regulatoryscience.nl
 https://reistijdtrajecten.ndw.nu
 https://rekenhulptransitievergoeding.nl
@@ -4943,6 +4967,7 @@ https://staging.agroforestrynetwerk.nl
 https://staging.bdmuseum.nl
 https://staging.cdho.nl
 https://staging.deweekvandecirculaireeconomie.nl
+https://staging.dmi-ecosysteem.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
 https://stamdata.cbr.nl
@@ -5965,6 +5990,7 @@ https://www.disportal.nl
 https://www.diversiteitsindex.databank.nl
 https://www.diversiteitsportaal.aofondsrijk.nl
 https://www.dji.nl
+https://www.dmi-ecosysteem.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.domeinenrz.nl
 https://www.donorregister.nl

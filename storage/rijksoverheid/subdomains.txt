@@ -2549,6 +2549,7 @@ climate4impact.eu
 climate4impact.knmi.nl
 climexp.knmi.nl
 clo.nl
+clone.dmi-ecosysteem.nl
 cloudie.cultuurparticipatie.nl
 cloudstorage-koop.overheid.nl
 cloudtopienw.rijkscloud.nl
@@ -3054,6 +3055,7 @@ decide-madrid.hub.arcgis.com
 decreg-acc.overheid.nl
 deegsnccu.maps.arcgis.com
 defensie.nl
+definities.dmi-ecosysteem.nl
 dejuistezorgopdejuisteplek.nl
 dekinderombudsman.nl
 delichtkogel.nl
@@ -3282,6 +3284,12 @@ dkb.dictu.nl
 dkl.bkd.eu
 dl.coronatest.nl
 dmarcreport.ncsc.nl
+dmi-ecosysteem.nl
+dmi-governance.dev.dmi-ecosysteem.nl
+dmi-governance.dmi-ecosysteem.nl
+dmi-governance.staging.dmi-ecosysteem.nl
+dmi-pdx.dmi-ecosysteem.nl
+dmi-pdx.staging.dmi-ecosysteem.nl
 dml.ost.digid.nl
 dmo.omgevingswet.overheid.nl
 dms.hhdelfland.nl
@@ -3318,6 +3326,7 @@ docs.ndw.nu
 docs.openkat.nl
 docs.rijkscloud.nl
 docs.toegangspuntmobiliteit.nl
+docspace.dmi-ecosysteem.nl
 doculoket-acc.overheid.nl
 doculoket.overheid.nl
 documentenapplicatie.igj.nl
@@ -4234,6 +4243,7 @@ ftpstaopub.belastingdienst.nl
 fubecasper.cbs.nl
 functiegebouwrijksoverheid.nl
 fwd.maps.arcgis.com
+fwtrack.dmi-ecosysteem.nl
 g4.databank.nl
 ga.chm-cbd.net
 galway-city-council-opendata-galwaycityco.hub.arcgis.com
@@ -4789,6 +4799,8 @@ identifier.overheid.nl
 identity.coa.nl
 idm.rvig.nl
 idp-dgp.preproductie.digipoort.logius.nl
+idp.dmi-ecosysteem.nl
+idp.staging.dmi-ecosysteem.nl
 idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
 idro.ont.belastingdienst.nl
@@ -7022,6 +7034,8 @@ papiamentu.vnacs.nl
 partnerplaza.sso3w.nl
 partoer.databank.nl
 pas.natura2000.nl
+paspoort.dmi-ecosysteem.nl
+paspoort.staging.dmi-ecosysteem.nl
 password-new.knmi.nl
 password.ctgb.nl
 password.knmi.nl
@@ -7036,6 +7050,9 @@ pdc.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pdok.aerius.nl
 pdok.waterschaplimburg.nl
+pdx.dev.dmi-ecosysteem.nl
+pdx.dmi-ecosysteem.nl
+pdx.staging.dmi-ecosysteem.nl
 peer0.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 pensioen.toeslagen.nl
@@ -7202,6 +7219,7 @@ portal.cbs.nl
 portal.cibg.nl
 portal.cito.nl
 portal.datascience.rijkscloud.nl
+portal.dmi-ecosysteem.nl
 portal.ec.rijkscloud.nl
 portal.entreepgb.svb.nl
 portal.formulierdus-i.nl
@@ -7600,7 +7618,14 @@ registreren-acc.ep-online.nl
 registreren-acc1.ep-online.nl
 registreren.ep-online.nl
 registry-bto.bkwi.nl
+registry-keycloak.dmi-ecosysteem.nl
+registry-keycloak.prod.dmi-ecosysteem.nl
+registry-keycloak.staging.dmi-ecosysteem.nl
+registry-mw.dmi-ecosysteem.nl
+registry-mw.prod.dmi-ecosysteem.nl
+registry-mw.staging.dmi-ecosysteem.nl
 registry.acceptatie.istandaarden.nl
+registry.dmi-ecosysteem.nl
 registry.git.ivho.rijkscloud.nl
 registry.git.oai.rijkscloud.nl
 registry.gitlab.analyse.ilt.rijkscloud.nl
@@ -7617,6 +7642,8 @@ registry.gitlab.test.ix.rijkscloud.nl
 registry.gitlab.wibo.ienw.rijkscloud.nl
 registry.istandaarden.nl
 registry.ost.digid.nl
+registry.prod.dmi-ecosysteem.nl
+registry.staging.dmi-ecosysteem.nl
 regulatoryscience.nl
 reistijdtrajecten.ndw.nu
 rekenhulptransitievergoeding.nl
@@ -8380,6 +8407,7 @@ staging.bdmuseum.nl
 staging.caop.nl
 staging.cdho.nl
 staging.deweekvandecirculaireeconomie.nl
+staging.dmi-ecosysteem.nl
 staging.donorregister.nl
 staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
@@ -10100,6 +10128,7 @@ www.cjib.nl
 www.ckmbo.nl
 www.climate4impact.eu
 www.clo.nl
+www.clone.dmi-ecosysteem.nl
 www.clusterbuster.nl
 www.co2emissiefactoren.nl
 www.coa.nl
@@ -10211,6 +10240,7 @@ www.disportal.nl
 www.diversiteitsindex.databank.nl
 www.diversiteitsportaal.aofondsrijk.nl
 www.dji.nl
+www.dmi-ecosysteem.nl
 www.dmo.omgevingswet.overheid.nl
 www.domeinenrz.nl
 www.donorregister.nl
