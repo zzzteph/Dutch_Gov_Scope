@@ -425,6 +425,7 @@ fileshare
 hybridmail
 gitlab.test
 bon
+tools
 a-magazinesintern
 monitor
 server
@@ -4428,7 +4429,6 @@ push
 vpnbon
 online
 tools-acc
-tools
 a-git
 a-jira
 a-persberichten
@@ -7415,3 +7415,4 @@ was-t1
 was-t2
 was
 spx-oec
+basisscan

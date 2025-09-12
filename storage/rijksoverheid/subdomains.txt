@@ -695,6 +695,7 @@ acc.derdekamer.nl
 acc.dictu.nl
 acc.digid-stub.lpc.mijn.overheid.nl
 acc.digid.nl
+acc.digitaltrustcenter.nl
 acc.dpr.irealisatie.nl
 acc.dusi.irealisatie.nl
 acc.e-akkoord.nl
@@ -1758,6 +1759,7 @@ basemapstyles-api.arcgis.com
 basisinformatie-overstromingen.nl
 basisregistratie.vechtstromen.nl
 basisregistratieondergrond.nl
+basisscan.digitaltrustcenter.nl
 bastion.rijksoverheid.nl
 bastion365.rechtsbijstand.nl
 bat.belastingdienst.nl
@@ -3251,6 +3253,7 @@ digitalenoordzee.nl
 digitaleoverheid.nl
 digitalnorthsea.eu
 digitalnorthsea.nl
+digitaltrustcenter.nl
 dihoo.eu
 dihoo.nl
 dioxins-congener-hen.apps.feedfoodtransfer.nl
@@ -8731,6 +8734,7 @@ test.dictu.nl
 test.digid.nl
 test.digikoppeling.cibg.nl
 test.digitaleoverheid.nl
+test.digitaltrustcenter.nl
 test.dji.nl
 test.dpr.irealisatie.nl
 test.dusi.irealisatie.nl
@@ -8910,6 +8914,7 @@ toolbox.veiligepubliekedienstverlening.nl
 toolkit.cruksregister.nl
 toolkits.loketgezondleven.nl
 tools-acc.rijksinnovatiecommunity.nl
+tools.digitaltrustcenter.nl
 tools.rijksinnovatiecommunity.nl
 top.cbr.nl
 topacc.cbr.nl
@@ -10182,6 +10187,7 @@ www.digitaalstelselmobiliteitsdata.nl
 www.digitalenoordzee.nl
 www.digitaleoverheid.nl
 www.digitalnorthsea.nl
+www.digitaltrustcenter.nl
 www.dihoo.eu
 www.dihoo.nl
 www.diversiteitsindex.databank.nl

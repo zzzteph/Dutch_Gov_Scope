@@ -683,6 +683,7 @@ https://acc.dashboardgroningen.nl
 https://acc.dcat-ap-donl.nl
 https://acc.derdekamer.nl
 https://acc.dictu.nl
+https://acc.digitaltrustcenter.nl
 https://acc.e-akkoord.nl
 https://acc.e-loket.ilent.nl
 https://acc.eva.logius.nl
@@ -1278,6 +1279,7 @@ https://basemapsbeta.arcgis.com
 https://basemapstyles-api.arcgis.com
 https://basisinformatie-overstromingen.nl
 https://basisregistratieondergrond.nl
+https://basisscan.digitaltrustcenter.nl
 https://bata-next-wave-nelsonnygaard.hub.arcgis.com
 https://bay-lake-rpc-covid-19-economic-hub-baylakerpc.hub.arcgis.com
 https://bayshoretrail-doorcounty-baylakerpc.hub.arcgis.com
@@ -2195,6 +2197,7 @@ https://digital.scp.nl
 https://digitalenoordzee.nl
 https://digitaleoverheid.nl
 https://digitalnorthsea.nl
+https://digitaltrustcenter.nl
 https://dihoo.eu
 https://dihoo.nl
 https://dioxins-congener-hen.apps.feedfoodtransfer.nl
@@ -5115,6 +5118,7 @@ https://test.cruksregister.nl
 https://test.csirtdsp.nl
 https://test.dictu.nl
 https://test.digitaleoverheid.nl
+https://test.digitaltrustcenter.nl
 https://test.esb.rijkswaterstaat.nl
 https://test.flevoland.nl
 https://test.geoservices.cultureelerfgoed.nl
@@ -5214,6 +5218,7 @@ https://toezichtresultaten.onderwijsinspectie.nl
 https://toezichtsociaaldomein.nl
 https://toolbox.veiligepubliekedienstverlening.nl
 https://toolkits.loketgezondleven.nl
+https://tools.digitaltrustcenter.nl
 https://top.cbr.nl
 https://topcorridors.nl
 https://topdesk-iv.rijkswaterstaat.nl
@@ -5936,6 +5941,7 @@ https://www.digitaalstelselmobiliteitsdata.nl
 https://www.digitalenoordzee.nl
 https://www.digitaleoverheid.nl
 https://www.digitalnorthsea.nl
+https://www.digitaltrustcenter.nl
 https://www.dihoo.eu
 https://www.dihoo.nl
 https://www.diversiteitsindex.databank.nl
