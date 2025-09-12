@@ -1143,6 +1143,7 @@ https://apps-dev.vechtstromen.nl
 https://apps-nccde.hub.arcgis.com
 https://apps-tst.vechtstromen.nl
 https://apps.arcgis.com
+https://apps.duo.nl
 https://apps.jeugdconnect.nl
 https://apps.svb.nl
 https://apps.vechtstromen.nl
@@ -1774,6 +1775,7 @@ https://cia.tst.ondernemersplein.overheid.nl
 https://cibbrina.eu
 https://cibg.nl
 https://cidades-saudaveis-hubsetecnologia.hub.arcgis.com
+https://cijfers.duo.nl
 https://cimlk.nl
 https://cio-eto.overheid.nl
 https://cio.overheid.nl
@@ -2084,6 +2086,7 @@ https://data.aquo.nl
 https://data.cdho.nl
 https://data.collectienederland.nl
 https://data.cultureelerfgoed.nl
+https://data.duo.nl
 https://data.flevoland.nl
 https://data.geo.cultureelerfgoed.nl
 https://data.knmi.nl
@@ -2228,6 +2231,7 @@ https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://digid.nl
 https://digidafspraak.nederlandwereldwijd.nl
+https://digidzakelijk.duo.nl
 https://digikoppeling.bkd.eu
 https://digikoppeling.waterschaplimburg.nl
 https://digilab.overheid.nl
@@ -2348,6 +2352,10 @@ https://dtlgt-monitoring-prd.azure.dnb.nl
 https://dtlgt-monitoring-tst.azure.dnb.nl
 https://dualusequickscan.nl
 https://ducaphen.com
+https://duo.nl
+https://duodynamicsintegratie.duo.nl
+https://duodynamicsintegratieacc.duo.nl
+https://duodynamicsintegratiedev.duo.nl
 https://dus-i.nl
 https://dustex.nl
 https://dutchncca.nl
@@ -2424,6 +2432,7 @@ https://ehs.flevoland.nl
 https://eid-preprod1.digid.nl
 https://eid-preprod2.digid.nl
 https://eid.digid.nl
+https://eidas-mijn.duo.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://eijsden.dbsync.aqualarm.nl
 https://elcaf-usflibrary.hub.arcgis.com
@@ -2563,6 +2572,7 @@ https://eula.flevoland.nl
 https://europese-subsidies.rvo.nl
 https://euthanasiecommissie.nl
 https://evenementenbureauvws.nl
+https://events.duo.nl
 https://events.svb.nl
 https://evserver1.flevoland.nl
 https://examenblad.nl
@@ -3170,6 +3180,7 @@ https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
 https://idp.dmi-ecosysteem.nl
 https://idp.staging.dmi-ecosysteem.nl
+https://idposr.duo.nl
 https://idppoc-ont.dictu.nl
 https://idppoc-sp-ont.dictu.nl
 https://idselect.cultureelerfgoed.nl
@@ -3682,6 +3693,7 @@ https://mail.handelingenbank.info
 https://mail.koop.overheid.nl
 https://mail.mass.cultureelerfgoed.nl
 https://mail.ndw.nu
+https://mail.onderzoek.duo.nl
 https://mail.oostvaarderskliniek.nl
 https://mail.open-overheid.nl
 https://mail.opwegnaarseb.nl
@@ -3809,6 +3821,7 @@ https://mijn.diergeneeskunderegister.nl
 https://mijn.digid.nl
 https://mijn.dnb.nl
 https://mijn.donorregister.nl
+https://mijn.duo.nl
 https://mijn.examenblad.nl
 https://mijn.examenbladmbo.nl
 https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl
@@ -4089,6 +4102,7 @@ https://ondertekenen.brabant.nl
 https://ondertekenen.flevoland.nl
 https://ondertekenen.limburg.nl
 https://ondertekenentst.brabant.nl
+https://onderwijsdata.duo.nl
 https://onderwijsinspectie.nl
 https://onderwijsraad.nl
 https://onderwijsregio.nl
@@ -4451,6 +4465,7 @@ https://personeelsmonitor.databank.nl
 https://personen-acc.cbr.nl
 https://personen-tst.cbr.nl
 https://personen.cbr.nl
+https://personenregisterkinderopvang.duo.nl
 https://pesticidesdatabase.ctgb.nl
 https://pfos-pfoa-cow.apps.feedfoodtransfer.nl
 https://pgadmin.analyse.ilt.rijkscloud.nl
@@ -4832,6 +4847,7 @@ https://riks-acc.azure.dnb.nl
 https://riks-ci.azure.dnb.nl
 https://riks-ft.azure.dnb.nl
 https://riks.azure.dnb.nl
+https://rio-kennisbank.duo.nl
 https://river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
 https://rivmopendata.cbs.nl
 https://rmdm-beheerapp-acc.azure.dnb.nl
@@ -5096,6 +5112,7 @@ https://staging.cdho.nl
 https://staging.deweekvandecirculaireeconomie.nl
 https://staging.dmi-ecosysteem.nl
 https://staging.doemeemetmdt.nl
+https://staging.duo.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
 https://stamdata.cbr.nl
@@ -5472,6 +5489,7 @@ https://tzpubliekscontact-tst.dnb.nl
 https://tzpubliekscontact.dnb.nl
 https://uae-air-quality-index-fcsa.hub.arcgis.com
 https://uag.cbs.nl
+https://uag.duo.nl
 https://ucirvine.maps.arcgis.com
 https://ucnc-gis.maps.arcgis.com
 https://uconnect-acc.hdsr.nl
@@ -5633,6 +5651,7 @@ https://vrijstellingmelden.vrachtwagenheffing.nl
 https://vrln.databank.nl
 https://vsp.acm.nl
 https://vsp.services.acm.nl
+https://vt-personenregisterkinderopvang.duo.nl
 https://vt.1ratio.nl
 https://vt.landelijkregisterkinderopvang.nl
 https://vts.belastingdienst.nl
@@ -5746,6 +5765,7 @@ https://werkplaats.onslevendlandschap.nl
 https://werkplek.acm.nl
 https://werkplek.afm.nl
 https://werkplek.cbs.nl
+https://werkplek.duo.nl
 https://werkplek.justid.nl
 https://werkplek.rekenkamer.nl
 https://werkplek.services.acm.nl
@@ -6175,6 +6195,7 @@ https://www.drupaloverheid.nl
 https://www.dsta.nl
 https://www.dualusequickscan.nl
 https://www.ducaphen.com
+https://www.duo.nl
 https://www.dus-i.nl
 https://www.dustex.nl
 https://www.dutchncca.nl
@@ -6596,6 +6617,8 @@ https://www2.cito.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
 https://wycopa.maps.arcgis.com
+https://xbrlonderwijsportaal-acp.duo.nl
+https://xbrlonderwijsportaal.duo.nl
 https://xdev.staging.ndw.nu
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
@@ -6616,6 +6639,7 @@ https://zaaksysteem.rijkswaterstaat.nl
 https://zaaksysteem.vechtstromen.nl
 https://zaaksysteem.zuid-holland.nl
 https://zabbix.cultuurparticipatie.nl
+https://zakelijk.duo.nl
 https://zandbak.nvwa.nl
 https://zandbak.wegwijzer.overheid.nl
 https://zartico.maps.arcgis.com

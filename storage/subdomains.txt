@@ -317,6 +317,7 @@ a-cms31.platformrijksoverheid.nl
 a-cms32.platformrijksoverheid.nl
 a-cms41.platformrijksoverheid.nl
 a-cms42.platformrijksoverheid.nl
+a-digidcc.mijn.duo.nl
 a-english.aivd.nl
 a-english.autoriteitnvs.nl
 a-english.bigregister.nl
@@ -1332,6 +1333,7 @@ api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
 api.dnb.nl
+api.duo.nl
 api.ienw.ix.rijkscloud.nl
 api.ilent.nl
 api.ix.rijkscloud.nl
@@ -1437,6 +1439,7 @@ apps.acm.nl
 apps.alma.jvs.ix.rijkscloud.nl
 apps.arcgis.com
 apps.dictu.nl
+apps.duo.nl
 apps.feedfoodtransfer.nl
 apps.hhdelfland.nl
 apps.jeugdconnect.nl
@@ -1504,6 +1507,9 @@ artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
+as-derb-01.duo.nl
+as-derc-01.duo.nl
+as.duo.nl
 asb.datasluis.dictu.nl
 asbestovertredingen.nlarbeidsinspectie.nl
 asbestvolgsysteem.nl
@@ -1637,6 +1643,7 @@ autodiscover.dekinderombudsman.nl
 autodiscover.dnb.nl
 autodiscover.doemeemetmdt.nl
 autodiscover.domeinenrz.nl
+autodiscover.duo.nl
 autodiscover.flevoland.nl
 autodiscover.hdsr.nl
 autodiscover.hhdelfland.nl
@@ -2525,6 +2532,7 @@ cibbrina.eu
 cibg.nl
 cibologis-cibolotx.hub.arcgis.com
 cidades-saudaveis-hubsetecnologia.hub.arcgis.com
+cijfers.duo.nl
 cimlk.nl
 cio-acc.overheid.nl
 cio-eto.overheid.nl
@@ -3021,6 +3029,7 @@ data.aquo.nl
 data.cdho.nl
 data.collectienederland.nl
 data.cultureelerfgoed.nl
+data.duo.nl
 data.flevoland.nl
 data.geo.cultureelerfgoed.nl
 data.ilent.nl
@@ -3272,6 +3281,7 @@ digidbeheer-preprod2.digid.nl
 digidbeheer-t1.digid.nl
 digidbeheer-t2.digid.nl
 digidbeheer.digid.nl
+digidzakelijk.duo.nl
 digikoppeling-dcr.cibg.nl
 digikoppeling-test.hdsr.nl
 digikoppeling.acm.nl
@@ -3282,6 +3292,7 @@ digikoppeling.diginetwerk.dictu.nl
 digikoppeling.hdsr.nl
 digikoppeling.odmh.nl
 digikoppeling.waterschaplimburg.nl
+digikoppeling1.duo.nl
 digikoppeling2.cibg.nl
 digikoppeling2.dictu.nl
 digikoppelingtest.odmh.nl
@@ -3406,6 +3417,7 @@ dopingwaaier.nl
 dor-api.stopheling.nl
 dor.stopheling.nl
 dorbeheer.stopheling.nl
+dosigning.duo.nl
 dossierportal.cbs.nl
 dotnl.ndw.nu
 douane.nl
@@ -3473,8 +3485,14 @@ dtlgt-monitoring-prd.azure.dnb.nl
 dtlgt-monitoring-tst.azure.dnb.nl
 dualusequickscan.nl
 ducaphen.com
+duo-rdp.duo.nl
+duo-zandbak-t1-public.zandbak.duo.nl
+duo.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
+duodynamicsintegratie.duo.nl
+duodynamicsintegratieacc.duo.nl
+duodynamicsintegratiedev.duo.nl
 dus-i.nl
 dustex.nl
 dutchncca.nl
@@ -3628,6 +3646,7 @@ eid-preprod2.digid.nl
 eid-t1.digid.nl
 eid-t2.digid.nl
 eid.digid.nl
+eidas-mijn.duo.nl
 eidas-stub.lpc.mijn.overheid.nl
 eijsden.dbsync.aqualarm.nl
 eindtoets-ouders.cito.nl
@@ -3759,6 +3778,7 @@ enterprise-k8s.arcgis.com
 enterprise.arcgis.com
 enterpriseenrollment.belastingdienst.nl
 enterpriseenrollment.cbg-meb.nl
+enterpriseenrollment.duo.nl
 enterpriseenrollment.ofgv.nl
 enterpriseenrollment.svb.nl
 enterpriseregistration.belastingdienst.nl
@@ -3841,6 +3861,7 @@ event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
 events.digitalenoordzee.nl
+events.duo.nl
 events.svb.nl
 evserver1.flevoland.nl
 evvv.belastingdienst.nl
@@ -3862,6 +3883,7 @@ exchangerate.douane.nl
 exchangeratetest.douane.nl
 exons-website-manager.acc.mijn.knmi.nl
 exons-website-manager.mijn.knmi.nl
+exp-idposr.duo.nl
 expenses.sso3w.nl
 experience.arcgis.com
 experience.crimediggers.nl
@@ -4219,6 +4241,7 @@ fiod.acc.belastingdienst.nl
 firehose.dnb.nl
 flair-demo.flevoland.nl
 flevoland.nl
+flexplek.duo.nl
 flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 flux-acc.rvo.nl
 flux.rvo.nl
@@ -4648,6 +4671,13 @@ greencove.maps.arcgis.com
 grensinfo.nl
 grenzeloossamenwerken.nl
 grip.informatiehuishouding.nl
+grnap176.duo.nl
+grnms101.duo.nl
+grnms102.duo.nl
+grnms103.duo.nl
+grnms104.duo.nl
+grnms107.duo.nl
+grnms108.duo.nl
 groeiennaarmorgen.nl
 groeimeter-a.cito.nl
 groeimeter-o.cito.nl
@@ -4889,6 +4919,7 @@ idm.rvig.nl
 idp-dgp.preproductie.digipoort.logius.nl
 idp.dmi-ecosysteem.nl
 idp.staging.dmi-ecosysteem.nl
+idposr.duo.nl
 idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
 idro.ont.belastingdienst.nl
@@ -5001,6 +5032,9 @@ instappen-a.cito.nl
 instappen-o.cito.nl
 instappen-t.cito.nl
 instappen.cito.nl
+instellingsinformatie.duo.nl
+instellingsinformatie.scha.duo.nl
+instellingsinformatie.scha2.duo.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
@@ -5027,6 +5061,7 @@ intern.ssc-ictspecials.nl
 internal-docs.ndw.nu
 internal.bidbook.eu
 internationaal.ondernemen.overheid.nl
+internet-mail.duo.nl
 internetdienstena.svb.nl
 internetdienstenp.svb.nl
 internetdienstensiam.svb.nl
@@ -5571,6 +5606,7 @@ locationservices6.arcgis.com
 locationservices6.az-int.arcgis.com
 locationservices7.arcgis.com
 locationservices7.az-int.arcgis.com
+lod.duo.nl
 logging.platformrijksoverheid.nl
 login-a.rvb.rijkscloud.nl
 login-dev.dnb.nl
@@ -5607,6 +5643,7 @@ login.t1.digid.nl
 login.t2.digid.nl
 login.vechtstromen.nl
 logius.nl
+logkoppelpunt.duo.nl
 lokaalklimaat.databank.nl
 lokalejeugdspiegel.databank.nl
 lokaleregelgeving-acc.overheid.nl
@@ -5802,6 +5839,7 @@ mail.nifp.nl
 mail.odmh.nl
 mail.ofgv.nl
 mail.onderwijsraad.nl
+mail.onderzoek.duo.nl
 mail.oostvaarderskliniek.nl
 mail.open-overheid.nl
 mail.opwegnaarseb.nl
@@ -5873,6 +5911,7 @@ mailrelayh6.cbs.nl
 mailserver.service.nvwa.nl
 maine.hub.arcgis.com
 mam.ctgb.nl
+mam.duo.nl
 mam.justid.nl
 mam.knmi.nl
 mam.scp.nl
@@ -5938,6 +5977,7 @@ mdm-acc.ctgb.nl
 mdm-t.cbg-meb.nl
 mdm.cbg-meb.nl
 mdm.ctgb.nl
+mdm.duo.nl
 mdm.flevoland.nl
 mdm.justid.nl
 mdm.om.nl
@@ -6065,6 +6105,7 @@ mijn.diergeneeskunderegister.nl
 mijn.digid.nl
 mijn.dnb.nl
 mijn.donorregister.nl
+mijn.duo.nl
 mijn.dus-i.nl
 mijn.examenblad.nl
 mijn.examenbladmbo.nl
@@ -6239,6 +6280,7 @@ mobiel.douane.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
 mobielgis-test.zuid-holland.nl
+mobile.duo.nl
 mobile.hhdelfland.nl
 mobile.rijksdienstcn.com
 mobilesync.knmi.nl
@@ -6507,6 +6549,9 @@ noaa.cultureelerfgoed.nl
 noaa.maps.arcgis.com
 noc.irealisatie.nl
 node1.acc.statistiek.mijn.overheid.nl
+node1.kafka-facet.duo.nl
+node2.kafka-facet.duo.nl
+node3.kafka-facet.duo.nl
 noorddrive.rijkscloud.nl
 noordholland.databank.nl
 north-central-wisconsin-entrepreneurial-portal-ncwrpc.hub.arcgis.com
@@ -6543,6 +6588,7 @@ ns02.rw1.rijkscloud.nl
 ns03.ec.rijkscloud.nl
 ns04.ec.rijkscloud.nl
 ns1.dictu.nl
+ns1.duo.nl
 ns1.ec.rijkscloud.nl
 ns1.gslb.dictu.nl
 ns1.rekenkamer.nl
@@ -6714,6 +6760,7 @@ ondertekenen.brabant.nl
 ondertekenen.flevoland.nl
 ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
+onderwijsdata.duo.nl
 onderwijsinspectie.nl
 onderwijsraad.nl
 onderwijsregio.nl
@@ -7085,6 +7132,10 @@ oswo.belastingdienst.nl
 oswo.pre.productie.belastingdienst.nl
 ot-vgvhr-wv-ar.rvo.nl
 ota-bbox-encr-tvs.rvo.nl
+otagrnxm003.duo.nl
+otagrnxm004.duo.nl
+otamam.duo.nl
+otamdm.duo.nl
 otcp.machtigen.digid.nl
 oto.cbs.nl
 otp-acc1.belastingdienst.nl
@@ -7199,6 +7250,7 @@ personeelsmonitor.databank.nl
 personen-acc.cbr.nl
 personen-tst.cbr.nl
 personen.cbr.nl
+personenregisterkinderopvang.duo.nl
 pesticidesdatabase.ctgb.nl
 pfos-pfoa-cow.apps.feedfoodtransfer.nl
 pgadmin.analyse.ilt.rijkscloud.nl
@@ -7468,6 +7520,7 @@ private.staging.justitieconnect.nl
 prizmo-acc.rvo.nl
 prizmo-web.rvo.nl
 prizmo.rvo.nl
+prk-lpb.duo.nl
 probeer.acm.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
@@ -7904,6 +7957,7 @@ riks-acc.azure.dnb.nl
 riks-ci.azure.dnb.nl
 riks-ft.azure.dnb.nl
 riks.azure.dnb.nl
+rio-kennisbank.duo.nl
 river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
 rivm.atlasleefomgeving.nl
 rivmmagazines.nl
@@ -7916,6 +7970,8 @@ rmq.front.ix.rijkscloud.nl
 rmq.ix.rijkscloud.nl
 rmq1.oai.rijkscloud.nl
 rmq1.ocw.rijkscloud.nl
+rmr-mail.duo.nl
+rmrmail.duo.nl
 rmt.belastingdienst.nl
 rni-portal-acc.rvig.nl
 rni-portal.rvig.nl
@@ -8208,6 +8264,7 @@ securityservice.secure.cito.nl
 securityzkh.nctv.nl
 seed.status.chm-cbd.net
 seg.cbs.nl
+seg.duo.nl
 selector1._domainkey.nlarbeidsinspectie.nl
 selector2._domainkey.nlarbeidsinspectie.nl
 sem.dnb.nl
@@ -8341,6 +8398,7 @@ shinyserver.zuid-holland.nl
 shop.alleenjijbepaalt.nl
 shopper.huurcommissie.nl
 siam.cjib.nl
+siam.duo.nl
 siam.rvo.nl
 sib-eopg-acc.aivd.nl
 sib-eopg.aivd.nl
@@ -8370,6 +8428,8 @@ sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
 sip2.dnb.nl
+sipextern1.duo.nl
+sipextern2.duo.nl
 sipfed.coa.nl
 sipreg.belastingdienst.nl
 sis.brabant.nl
@@ -8562,6 +8622,7 @@ stagefonds.formulierdus-i.nl
 stagiairs.werkenvoornederland.nl
 staging-mijn.rvo.nl
 staging-organisaties.doemeemetmdt.nl
+staging-rio-kennisbank.duo.nl
 staging.acc.static.werkenbij.rijkswaterstaat.nl
 staging.acc.web-static.rijkswaterstaat.nl
 staging.agroforestrynetwerk.nl
@@ -8573,6 +8634,7 @@ staging.deweekvandecirculaireeconomie.nl
 staging.dmi-ecosysteem.nl
 staging.doemeemetmdt.nl
 staging.donorregister.nl
+staging.duo.nl
 staging.english.ctpveldzicht.nl
 staging.inburgeren.nl
 staging.justitieconnect.nl
@@ -8877,6 +8939,7 @@ telewerken.hhdelfland.nl
 telewerken.om.nl
 tenantapp.ec.rijkscloud.nl
 terrell.maps.arcgis.com
+tes.duo.nl
 test-api.stopheling.nl
 test-bp.stopheling.nl
 test-bron.waterschaplimburg.nl
@@ -8917,6 +8980,7 @@ test-mijn.rvo.nl
 test-monitor.aerius.nl
 test-nieuw.bidbook.eu
 test-nieuw.biedboek.nl
+test-onderwijsdata.duo.nl
 test-preview.digid.nl
 test-prognosemodelzw.databank.nl
 test-register.aerius.nl
@@ -9257,6 +9321,7 @@ tzpubliekscontact-tst.dnb.nl
 tzpubliekscontact.dnb.nl
 uae-air-quality-index-fcsa.hub.arcgis.com
 uag.cbs.nl
+uag.duo.nl
 uag.ncsc.nl
 ubuntunginxtest.secure.cito.nl
 uc.sa.svb.nl
@@ -9407,6 +9472,8 @@ vecozo.dmz.belastingdienst.nl
 veelgesteldevragen.secure.cito.nl
 vegetatiemonitor.rijkswaterstaat.nl
 veiligbestandenversturen.ciz.nl
+veiligbron.duo.nl
+veiligbron.scha.duo.nl
 veiligepubliekedienstverlening.nl
 veiligheidsmonitor.databank.nl
 veiligheidsregioflevoland.nl
@@ -9616,8 +9683,21 @@ vscode.ix.rijkscloud.nl
 vscode.kim.rijkscloud.nl
 vsp.acm.nl
 vsp.services.acm.nl
+vt-apps.duo.nl
+vt-digidzakelijk.duo.nl
+vt-digikoppeling1.duo.nl
+vt-dosigning.duo.nl
+vt-eidas-mijn.duo.nl
+vt-idposr.duo.nl
+vt-mijn.duo.nl
 vt-mijn.inburgeren.nl
+vt-personenregisterkinderopvang.duo.nl
+vt-siam.duo.nl
+vt-webservice-szw.duo.nl
+vt-webservice.duo.nl
+vt-zakelijk.duo.nl
 vt.1ratio.nl
+vt.duo.nl
 vt.inburgeren.nl
 vt.landelijkregisterkinderopvang.nl
 vt016bpp.dictu.nl
@@ -9756,6 +9836,7 @@ webmail.cokz.nl
 webmail.collegesanering.nl
 webmail.ctivd.nl
 webmail.cultuurparticipatie.nl
+webmail.duo.nl
 webmail.flevoland.nl
 webmail.huurcommissie.nl
 webmail.knmi.nl
@@ -9783,6 +9864,7 @@ webservice-at-tst.diginetwerk.dictu.nl
 webservice-preprod.sbv-z.nl
 webservice-tdv.igj.nl
 webservice.acc.ep-online.nl
+webservice.duo.nl
 webservice.energiebesparingsverkenner.rvo.nl
 webservice.ep-online.nl
 webservice.sbv-z.nl
@@ -9859,11 +9941,13 @@ werkenvoorinternationaleorganisaties.nl
 werkenvoornederland.nl
 werkplaats-acc.onslevendlandschap.nl
 werkplaats.onslevendlandschap.nl
+werkplek-tijdelijk1.duo.nl
 werkplek.acm.nl
 werkplek.afm.nl
 werkplek.brabant.nl
 werkplek.cbs.nl
 werkplek.ctgb.nl
+werkplek.duo.nl
 werkplek.hdsr.nl
 werkplek.hhdelfland.nl
 werkplek.justid.nl
@@ -9889,6 +9973,7 @@ wetten.rvo.nl
 wf5051.acm.nl
 wf5150.acm.nl
 wf5151.acm.nl
+wft.duo.nl
 whatsip.test.ix.rijkscloud.nl
 wi.maptiles.arcgis.com
 wibe.databank.nl
@@ -10475,6 +10560,7 @@ www.drupaloverheid.nl
 www.dsta.nl
 www.dualusequickscan.nl
 www.ducaphen.com
+www.duo.nl
 www.dus-i.nl
 www.dustex.nl
 www.dutchncca.nl
@@ -10979,12 +11065,15 @@ wwwtepr.entreepgb.svb.nl
 wwwtest.entreepgb.svb.nl
 wwwtst01.cbr.nl
 wycopa.maps.arcgis.com
+xbrlonderwijsportaal-acp.duo.nl
+xbrlonderwijsportaal.duo.nl
 xdev.staging.ndw.nu
 xelion.cokz.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
 xmam.justid.nl
 xmdm.justid.nl
+xml-test.duo.nl
 xml.belastingdienst.nl
 xmpp.chat.ind.nl
 xploreus.rvo.nl
@@ -11006,7 +11095,9 @@ zaaksysteem.zuid-holland.nl
 zabbix.cultuurparticipatie.nl
 zabbix6.mintst2.rijkscloud.nl
 zakelijk-acc.nationaalcoordinatorgroningen.nl
+zakelijk.duo.nl
 zakelijk.nationaalcoordinatorgroningen.nl
+zandbak.duo.nl
 zandbak.nvwa.nl
 zandbak.wegwijzer.overheid.nl
 zartico.maps.arcgis.com
