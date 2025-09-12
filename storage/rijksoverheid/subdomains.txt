@@ -1303,6 +1303,7 @@ api.dbe-t.rvb.rijkscloud.nl
 api.dementieinkaart.nl
 api.denkmee.zuid-holland.nl
 api.digid.nl
+api.digitalenoordzee.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
@@ -3246,6 +3247,7 @@ digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
 digital.scp.nl
+digitalenoordzee.nl
 digitaleoverheid.nl
 dihoo.eu
 dihoo.nl
@@ -3738,6 +3740,7 @@ evenementenbureauvws.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
+events.digitalenoordzee.nl
 events.svb.nl
 evserver1.flevoland.nl
 evvv.belastingdienst.nl
@@ -5874,6 +5877,7 @@ metadata.toegang.overheid.nl
 metelkaar.waterschaplimburg.nl
 metelkaartrekkenwedegrens.nl
 metrics-acc.justitieconnect.nl
+metrics.digitalenoordzee.nl
 metrics.justitieconnect.nl
 metrixinbound.inspecteur.ilent.nl
 mft-acc.svb.nl
@@ -8286,6 +8290,7 @@ sportenbewegenincijfers.nl
 spot-on-acc.afm.nl
 spot-on-dt.afm.nl
 spot-on.afm.nl
+spx-oec.digitalenoordzee.nl
 squit2go.ofgv.nl
 squit2gotest.ofgv.nl
 sre-wmo.databank.nl
@@ -10172,6 +10177,7 @@ www.digicampus.tech
 www.digid.nl
 www.digitaal.loket.afm.nl
 www.digitaalstelselmobiliteitsdata.nl
+www.digitalenoordzee.nl
 www.digitaleoverheid.nl
 www.dihoo.eu
 www.dihoo.nl

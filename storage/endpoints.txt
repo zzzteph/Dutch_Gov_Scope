@@ -57,6 +57,7 @@ http://amp-pre.logius.nl
 http://amp.logius.nl
 http://analytics-acc.cjib.nl
 http://analytics-solutions-esridech.hub.arcgis.com
+http://api.digitalenoordzee.nl
 http://api.openstad.zuid-holland.nl
 http://apollo.databank.nl
 http://app-a1.digid.nl
@@ -312,6 +313,7 @@ http://meridian.rijkswaterstaat.nl
 http://metabase.cultuurparticipatie.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
+http://metrics.digitalenoordzee.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.zuid-holland.nl
@@ -2189,6 +2191,7 @@ https://digitaalmkb.zuid-holland.nl
 https://digitaalstelselmobiliteitsdata.nl
 https://digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
 https://digital.scp.nl
+https://digitalenoordzee.nl
 https://digitaleoverheid.nl
 https://dihoo.eu
 https://dihoo.nl
@@ -4879,6 +4882,7 @@ https://splunk-a.svb.nl
 https://spmgis.maps.arcgis.com
 https://sportakkoord.allesoversport.nl
 https://sportenbewegenincijfers.nl
+https://spx-oec.digitalenoordzee.nl
 https://ssc-ict.nl
 https://ssc-ictspecials.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
@@ -5927,6 +5931,7 @@ https://www.digicampus.tech
 https://www.digid.nl
 https://www.digitaal.loket.afm.nl
 https://www.digitaalstelselmobiliteitsdata.nl
+https://www.digitalenoordzee.nl
 https://www.digitaleoverheid.nl
 https://www.dihoo.eu
 https://www.dihoo.nl

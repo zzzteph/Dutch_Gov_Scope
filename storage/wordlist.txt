@@ -15,9 +15,9 @@ _autodiscover._tcp
 magazines
 webmail
 feeds.english
+api
 opendata.english
 acceptatie
-api
 vpn
 intranet
 cms
@@ -375,6 +375,7 @@ privacy
 guest
 acc.intranet
 test.intranet
+metrics
 confluence
 externemail01
 externemail02
@@ -438,6 +439,7 @@ test-cms
 admin
 download.mail
 dc
+events
 register
 fed
 handboek
@@ -2538,7 +2540,6 @@ validata
 vogcheck
 acc.staging
 metrics-acc
-metrics
 private.acc
 private.acc.staging
 private
@@ -5035,7 +5036,6 @@ desktoptepr.entreepgb
 desktoptest.entreepgb
 downloaddomain
 entreepgb
-events
 gemeenten-a
 gemeenten
 internetdienstena
@@ -7414,3 +7414,4 @@ was-preprod2
 was-t1
 was-t2
 was
+spx-oec
