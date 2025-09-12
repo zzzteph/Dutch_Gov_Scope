@@ -475,6 +475,7 @@ tracking
 matomo
 tst-www
 develop
+stage
 geoportal
 gisservices
 gisservicesacc
@@ -7608,7 +7609,6 @@ daws1
 gds
 gdsnext
 srv3
-stage
 stage.elearning
 stage.gds
 stage.supplementenwijzer
