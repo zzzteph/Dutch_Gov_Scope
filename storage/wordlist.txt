@@ -206,6 +206,7 @@ t-www
 gitlab
 jira
 servicedesk
+accept
 acc.mijn
 www.acc
 nieuwsbrief
@@ -338,7 +339,6 @@ lync
 mail01
 mail02
 tvs
-accept
 dnadatabank
 ras
 vpn3
