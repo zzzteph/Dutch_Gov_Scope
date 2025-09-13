@@ -797,6 +797,7 @@ accebms.cbs.nl
 accept.commabz.nl
 accept.digitaleoverheid.nl
 accept.discipl.nl
+accept.emnnetherlands.nl
 accept.mijn.buitenlevenvakanties.nl
 acceptatie-api.coa.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
@@ -3744,6 +3745,7 @@ emissieregistratie.nl
 emissionsauthority.nl
 emm-online.nl
 emm.belastingdienst.nl
+emnnetherlands.nl
 emobility-acc.rvo.nl
 emobility.rvo.nl
 en.inburgeren.nl
@@ -8533,6 +8535,7 @@ site1.rijksoverheid.nl
 site2.defensie.nl
 site2.platformrijksoverheid.nl
 site2.rijksoverheid.nl
+site2018.emnnetherlands.nl
 site3.defensie.nl
 site3.platformrijksoverheid.nl
 site3.rijksoverheid.nl
@@ -10696,6 +10699,7 @@ www.emissieautoriteit.nl
 www.emissieregistratie.nl
 www.emissionsauthority.nl
 www.emm-online.nl
+www.emnnetherlands.nl
 www.enabling.omgevingswet.overheid.nl
 www.energiebesparingsverkenner.rvo.nl
 www.energiecijfers.databank.nl

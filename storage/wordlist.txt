@@ -136,6 +136,7 @@ oud
 api-acc
 auth
 mailing
+accept
 connect-acpt
 www.mijn
 www-a
@@ -217,7 +218,6 @@ t-www
 gitlab
 jira
 servicedesk
-accept
 aanvraag
 acc.mijn
 webservice
@@ -7745,3 +7745,4 @@ data2
 eracceptatie
 legacy2
 previewnext
+site2018
