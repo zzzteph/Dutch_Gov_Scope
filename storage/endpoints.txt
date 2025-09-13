@@ -277,6 +277,7 @@ http://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 http://jaeger.test.zm.irealisatie.nl
+http://jp-o-no-apigee-lux.espacenet.com
 http://juristen.werkenvoornederland.nl
 http://k8s-cw.acm.nl
 http://k8s.acm.nl
@@ -626,6 +627,8 @@ https://aanvragen.vergoedingsns.nl
 https://aanvragen.zuid-holland.nl
 https://aanwijzing-lokaal.cvdm.nl
 https://aapi-community-hub-aauc.hub.arcgis.com
+https://ab-i.espacenet.com
+https://ab.espacenet.com
 https://abc.databank.nl
 https://abdtopconsult.nl
 https://abk-acc.cbr.nl
@@ -994,6 +997,8 @@ https://akgeomaps-akgeographic.hub.arcgis.com
 https://akgeosummit-soa-dnr.hub.arcgis.com
 https://akkoordverbeteringproductsamenstelling.nl
 https://akronohio-covid-19-response-hub-akrongis.hub.arcgis.com
+https://al-i.espacenet.com
+https://al.espacenet.com
 https://alameda-and-contra-costa-county-regional-priority-plan-ccrcd.hub.arcgis.com
 https://alaska-dhss.hub.arcgis.com
 https://alaska-economic-data-dcced.hub.arcgis.com
@@ -1212,6 +1217,9 @@ https://assyst.svb.nl
 https://astro.arcgis.com
 https://astrogeology-usgs.hub.arcgis.com
 https://asycuda.belastingdienst-cn.nl
+https://at-i.espacenet.com
+https://at-o.espacenet.com
+https://at.espacenet.com
 https://atc-covid19data-austin.hub.arcgis.com
 https://atender.dnb.nl
 https://atgb.nl
@@ -1335,7 +1343,9 @@ https://bcstat-bc-gis.hub.arcgis.com
 https://bdagov.maps.arcgis.com
 https://bdkh-bdkh.hub.arcgis.com
 https://bdmuseum.nl
+https://be-i.espacenet.com
 https://be.chm-cbd.net
+https://be.espacenet.com
 https://be.test.chm-cbd.net
 https://be305about-mdc.hub.arcgis.com
 https://be305implement-mdc.hub.arcgis.com
@@ -1474,6 +1484,8 @@ https://bezwaarmaken.e-tol.nl
 https://bezwaarschriftenocw.nl
 https://bf.chm-cbd.net
 https://bf.test.chm-cbd.net
+https://bg-i.espacenet.com
+https://bg.espacenet.com
 https://bgfg-outcomes-24-austin.hub.arcgis.com
 https://bgt.basisregistraties.overheid.nl
 https://bh-integratie.inspectieview.nl
@@ -1761,6 +1773,7 @@ https://cf.chm-cbd.net
 https://cfgcmg.cito.nl
 https://cg.chm-cbd.net
 https://cggp.nl
+https://ch.espacenet.com
 https://champaigncountyohio-gisopendata-cceo.hub.arcgis.com
 https://channels.lpc.logius.nl
 https://charged3-hub-ifs-mpr.hub.arcgis.com
@@ -2036,12 +2049,16 @@ https://cursusprospectus.afm.nl
 https://cvta.nl
 https://cvte.nl
 https://cvu2022-esriven.hub.arcgis.com
+https://cy-i.espacenet.com
+https://cy.espacenet.com
 https://cyberawareness.nctv.nl
 https://cybersecurityalliantie.nl
 https://cybersecuritycouncil.nl
 https://cybersecurityraad.nl
 https://cybertracker.maps.arcgis.com
 https://cycle-data-hub-provincieantwerpen.hub.arcgis.com
+https://cz-i.espacenet.com
+https://cz.espacenet.com
 https://d2val.staging.ndw.nu
 https://dafne.ndw.nu
 https://daggegevens.knmi.nl
@@ -2288,6 +2305,8 @@ https://diversiteitsplein.politiekeambtsdragers.nl
 https://diversiteitsportaal.aofondsrijk.nl
 https://dj.chm-cbd.net
 https://dji.nl
+https://dk-i.espacenet.com
+https://dk.espacenet.com
 https://dkl.bkd.eu
 https://dl.coronatest.nl
 https://dlo-acc.dnb.nl
@@ -2432,6 +2451,8 @@ https://e.garanties.rvo.nl
 https://e.hhdelfland.nl
 https://e.videobellen.douane.nl
 https://e.videobellen.toeslagen.nl
+https://ea-i.espacenet.com
+https://ea.espacenet.com
 https://eakkoord.nl
 https://earthobs3.arcgis.com
 https://easy.nieuwsenkennisportaalbzk.nl
@@ -2447,6 +2468,8 @@ https://ediensten.ind.nl
 https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
 https://edu.maps.arcgis.com
+https://ee-i.espacenet.com
+https://ee.espacenet.com
 https://eef.waterschaplimburg.nl
 https://eenoverheidsincasso.nl
 https://eentegeneenzaamheid.nl
@@ -2589,7 +2612,9 @@ https://env1.arcgis.com
 https://enwinfo.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
+https://ep-i.espacenet.com
 https://ep-online.nl
+https://ep.espacenet.com
 https://epmm.acpt.autoriteitpersoonsgegevens.nl
 https://epmm.autoriteitpersoonsgegevens.nl
 https://equal-life.eu
@@ -2600,6 +2625,8 @@ https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://error-reporting.ndw.nu
 https://ertms.nl
+https://es-i.espacenet.com
+https://es.espacenet.com
 https://esb-a1.brabant.nl
 https://esb-ibabs-preprod.flevoland.nl
 https://esb-ibabs.flevoland.nl
@@ -2610,6 +2637,7 @@ https://esb.btp.sso3w.nl
 https://esb.expenses.sso3w.nl
 https://esb.flevoland.nl
 https://esb.rijkswaterstaat.nl
+https://espacenet.com
 https://esri-disasterresponse.hub.arcgis.com
 https://et.chm-cbd.net
 https://etender.dnb.nl
@@ -2879,6 +2907,8 @@ https://feeds.wrr.nl
 https://feeds.youthatheart.nl
 https://feeds.zorginstituutnederland.nl
 https://fhub.dictu.nl
+https://fi-i.espacenet.com
+https://fi.espacenet.com
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -2937,6 +2967,7 @@ https://formulieren.waterschaplimburg.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fpm-fema.hub.arcgis.com
 https://fr.chm-cbd.net
+https://fr.espacenet.com
 https://fs.afm.nl
 https://fs.cpb.nl
 https://fs.ctgb.nl
@@ -2955,6 +2986,7 @@ https://ga.chm-cbd.net
 https://galway-city-council-opendata-galwaycityco.hub.arcgis.com
 https://gateway.afm.nl
 https://gateway.cultuurparticipatie.nl
+https://gb.espacenet.com
 https://gbp-blm-egis.hub.arcgis.com
 https://gcgis-gwinnettcountyga.hub.arcgis.com
 https://gdi-b.rvo.nl
@@ -3097,6 +3129,8 @@ https://gp4coajb2.coa.nl
 https://gp5coajb2.coa.nl
 https://gp6coajb2.coa.nl
 https://gps-sa.sso3w.nl
+https://gr-i.espacenet.com
+https://gr.espacenet.com
 https://granvillecounty.maps.arcgis.com
 https://grasp-acc.azure.dnb.nl
 https://grasp-dev.azure.dnb.nl
@@ -3175,10 +3209,14 @@ https://horizonscangeneesmiddelen.nl
 https://hostmaster.derdekamer.nl
 https://hotnews.maps.arcgis.com
 https://houdmisdaaduitjebuurt.nl
+https://hr-i.espacenet.com
 https://hr-sectorwaterschappen.databank.nl
+https://hr.espacenet.com
 https://hrcommunityrijk.nl
 https://hs.bics.nl
 https://hsacc.bics.nl
+https://hu-i.espacenet.com
+https://hu.espacenet.com
 https://hub-ai-assistant.arcgis.com
 https://hub-co-grant-mn-us.hub.arcgis.com
 https://hub-eccounty.hub.arcgis.com
@@ -3236,6 +3274,8 @@ https://idposr.duo.nl
 https://idppoc-ont.dictu.nl
 https://idppoc-sp-ont.dictu.nl
 https://idselect.cultureelerfgoed.nl
+https://ie-i.espacenet.com
+https://ie.espacenet.com
 https://iem.maps.arcgis.com
 https://igj.nl
 https://igj.rijkscloud.nl
@@ -3374,12 +3414,16 @@ https://iq.chm-cbd.net
 https://irc.crimediggers.nl
 https://irealisatie.nl
 https://iris.knmi.nl
+https://is-i.espacenet.com
+https://is.espacenet.com
 https://ishetafval.nl
 https://isi.cbs.nl
 https://isis-web.nl
 https://istandaarden.nl
 https://it-academieoverheid.nl
+https://it-i.espacenet.com
 https://it-wiki.cultuurparticipatie.nl
+https://it.espacenet.com
 https://itsupport.nza.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-controle.beta.cbs.nl
@@ -3676,16 +3720,24 @@ https://longreads.cbs.nl
 https://loonaangifteketen.nl
 https://loopbaanadvies.aofondsrijk.nl
 https://louisville-metro-opendata-lojic.hub.arcgis.com
+https://lp-i.espacenet.com
+https://lp.espacenet.com
 https://lr.chm-cbd.net
 https://lrs.proeftuin.gf.irealisatie.nl
 https://lrs.test.gf.irealisatie.nl
+https://lt-i.espacenet.com
+https://lt.espacenet.com
 https://lta-acc.zuid-holland.nl
 https://lta-tst.zuid-holland.nl
 https://lta.zuid-holland.nl
 https://ltu-admin.stopheling.nl
 https://ltu-api.stopheling.nl
+https://lu-i.espacenet.com
+https://lu.espacenet.com
 https://luchtfoto.aaenmaas.nl
 https://luchtfoto.flevoland.nl
+https://lv-i.espacenet.com
+https://lv.espacenet.com
 https://lvbb-lto.overheid.nl
 https://lvbb-perf-acc.overheid.nl
 https://lvbb-preprod.overheid.nl
@@ -3809,6 +3861,8 @@ https://mbotransparant.databank.nl
 https://mc-upnl.mijn.rvo.nl
 https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
+https://md-i.espacenet.com
+https://md.espacenet.com
 https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
@@ -3940,6 +3994,8 @@ https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 https://mirtoverzicht.nl
 https://missing.amberalert.nl
 https://mivp.emissieautoriteit.nl
+https://mk-i.espacenet.com
+https://mk.espacenet.com
 https://mkbstatline.cbs.nl
 https://mks.esb.rijkswaterstaat.nl
 https://ml.chm-cbd.net
@@ -4087,7 +4143,9 @@ https://nimh.nl
 https://nix18.nl
 https://njtpa-plan-2050-njtpa.hub.arcgis.com
 https://nl-alert.nl
+https://nl-i.espacenet.com
 https://nl-works.com
+https://nl.espacenet.com
 https://nlarbeidsinspectie.nl
 https://nlinfrankrijk.nl
 https://nllabourauthority.nl
@@ -4095,6 +4153,8 @@ https://nls.ndw.nu
 https://nls.staging.ndw.nu
 https://nnc.dnb.nl
 https://nnn.flevoland.nl
+https://no-i.espacenet.com
+https://no.espacenet.com
 https://noaa.cultureelerfgoed.nl
 https://noaa.maps.arcgis.com
 https://noorddrive.rijkscloud.nl
@@ -4559,6 +4619,8 @@ https://pkio.service.omgevingswet.overheid.nl
 https://pkio.service.perf.omgevingswet.overheid.nl
 https://pkio.service.pre.omgevingswet.overheid.nl
 https://pkio.service.tst2905.omgevingswet.overheid.nl
+https://pl-i.espacenet.com
+https://pl.espacenet.com
 https://pla.dnb.nl
 https://plan-plan-validatie.pre.omgevingswet.overheid.nl
 https://planmer-acc.zuid-holland.nl
@@ -4736,6 +4798,8 @@ https://ps2.platformrijksoverheid.nl
 https://ps3.platformrijksoverheid.nl
 https://ps4.platformrijksoverheid.nl
 https://psarchief.brabant.nl
+https://pt-i.espacenet.com
+https://pt.espacenet.com
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl
@@ -4933,6 +4997,8 @@ https://rni-portal-acc.rvig.nl
 https://rni-portal.rvig.nl
 https://rni-webform-acc.rvig.nl
 https://rni-webform.rvig.nl
+https://ro-i.espacenet.com
+https://ro.espacenet.com
 https://ro.zuid-holland.nl
 https://rob-2000.rijkscloud.nl
 https://rob2000.rijkscloud.nl
@@ -4942,6 +5008,8 @@ https://royal-house.nl
 https://royalhonoursanddecorations.nl
 https://rpx-qa.nza.nl
 https://rpx.nza.nl
+https://rs-i.espacenet.com
+https://rs.espacenet.com
 https://rsj.nl
 https://rss.amberalert.nl
 https://rstudio.analyse.ilt.rijkscloud.nl
@@ -4961,6 +5029,8 @@ https://rstudio.kim.rijkscloud.nl
 https://rstudio.rdi.rijkscloud.nl
 https://rstudio.ritp.rijkscloud.nl
 https://rt.ndw.nu
+https://ru-i.espacenet.com
+https://ru.espacenet.com
 https://ruimte.dmo.omgevingswet.overheid.nl
 https://ruimte.kta.omgevingswet.overheid.nl
 https://ruimte.omgevingswet.overheid.nl
@@ -5024,6 +5094,8 @@ https://sdg.government.nl
 https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
 https://sdmx.cbs.nl
+https://se-i.espacenet.com
+https://se.espacenet.com
 https://search.aerius.nl
 https://search.developer.overheid.nl
 https://secretaria-de-salud-de-soacha-sigsoacha15.hub.arcgis.com
@@ -5091,6 +5163,8 @@ https://shiny.hr-ienw.rijkscloud.nl
 https://shiny.ritp.rijkscloud.nl
 https://shop.alleenjijbepaalt.nl
 https://shopper.huurcommissie.nl
+https://si-i.espacenet.com
+https://si.espacenet.com
 https://sib-eopg-acc.aivd.nl
 https://sib-eopg.aivd.nl
 https://siecc-ieecc-ieecc.hub.arcgis.com
@@ -5106,10 +5180,14 @@ https://sip.om.nl
 https://sip.rijksrecherche.nl
 https://sipfed.coa.nl
 https://sitescan-eu1.arcgis.com
+https://sk-i.espacenet.com
+https://sk.espacenet.com
 https://slachtoffer.jeugdconnect.nl
 https://slim-reizen.ndw.nu
 https://slimmestad.rdi.nl
 https://slimwatermanagement.nl
+https://sm-i.espacenet.com
+https://sm.espacenet.com
 https://smartsurveys.cbs.nl
 https://smtp.awti.nl
 https://smtp.oostvaarderskliniek.nl
@@ -5514,6 +5592,8 @@ https://topdesk-wvl.rijkswaterstaat.nl
 https://topdesk.rijkswaterstaat.nl
 https://topsectoren.nl
 https://tovertool.nza.nl
+https://tr-i.espacenet.com
+https://tr.espacenet.com
 https://tracking.cbr.nl
 https://tracking.delpher.nl
 https://traefik.cultuurparticipatie.nl
@@ -5610,6 +5690,8 @@ https://uzipas.raadplegen.sbv-z.nl
 https://uzipas.uziregister.nl
 https://uziregister.nl
 https://v1.dementieinkaart.nl
+https://v3-i.espacenet.com
+https://v3.espacenet.com
 https://vaardigheid-acc.cbr.nl
 https://vaardigheid-tst.cbr.nl
 https://vaardigheid.cbr.nl
@@ -5882,6 +5964,8 @@ https://wkr.nl
 https://wmm-demo.databank.nl
 https://wms-viewer.dataplatform.knmi.nl
 https://wms.aanpakringzuid.nl
+https://wo-i.espacenet.com
+https://wo.espacenet.com
 https://wo2.collectienederland.nl
 https://wodc.nl
 https://wolf.cito.nl
@@ -5898,6 +5982,9 @@ https://wordaddin.eerstekamer.nl
 https://wordcms.eerstekamer.nl
 https://wordimport.drop.overheid.nl
 https://workflow.arcgis.com
+https://worldwide-i.espacenet.com
+https://worldwide-o.espacenet.com
+https://worldwide.espacenet.com
 https://wow.knmi.nl
 https://wozbenchmark.databank.nl
 https://wpx-80-aix-http.douane.nl
@@ -6327,6 +6414,7 @@ https://www.equal-life.eu
 https://www.erelijst.nl
 https://www.erfgoeddeal.nl
 https://www.ertms.nl
+https://www.espacenet.com
 https://www.euthanasiecommissie.nl
 https://www.evenementenbureauvws.nl
 https://www.examenblad.nl

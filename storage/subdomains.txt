@@ -562,6 +562,8 @@ aanvragen.vergoedingsns.nl
 aanvragen.zuid-holland.nl
 aanwijzing-lokaal.cvdm.nl
 aapi-community-hub-aauc.hub.arcgis.com
+ab-i.espacenet.com
+ab.espacenet.com
 abat.acc.belastingdienst.nl
 abc.databank.nl
 abdtopconsult.nl
@@ -1149,6 +1151,8 @@ akgeomaps-akgeographic.hub.arcgis.com
 akgeosummit-soa-dnr.hub.arcgis.com
 akkoordverbeteringproductsamenstelling.nl
 akronohio-covid-19-response-hub-akrongis.hub.arcgis.com
+al-i.espacenet.com
+al.espacenet.com
 aladdin.p-direkt.nl
 alameda-and-contra-costa-county-regional-priority-plan-ccrcd.hub.arcgis.com
 alaska-dhss.hub.arcgis.com
@@ -1543,6 +1547,9 @@ assyst.svb.nl
 astro.arcgis.com
 astrogeology-usgs.hub.arcgis.com
 asycuda.belastingdienst-cn.nl
+at-i.espacenet.com
+at-o.espacenet.com
+at.espacenet.com
 atc-covid19data-austin.hub.arcgis.com
 atender.dnb.nl
 atgb.nl
@@ -1832,7 +1839,9 @@ bdkh-bdkh.hub.arcgis.com
 bdmuseum.nl
 bdmz-reth473.belastingdienst.nl
 bdx.domeinenrz.nl
+be-i.espacenet.com
 be.chm-cbd.net
+be.espacenet.com
 be.prod.chm-cbd.net
 be.test.chm-cbd.net
 be305about-mdc.hub.arcgis.com
@@ -2030,6 +2039,8 @@ bf.chm-cbd.net
 bf.test.chm-cbd.net
 bft-plein-acc.bureauft.nl
 bft-plein.bureauft.nl
+bg-i.espacenet.com
+bg.espacenet.com
 bgfg-outcomes-24-austin.hub.arcgis.com
 bgt-acc.rvo.nl
 bgt-client-certificaat-acc.rvo.nl
@@ -2498,6 +2509,7 @@ cfgcmg.cito.nl
 cg.chm-cbd.net
 cgbs.coa.nl
 cggp.nl
+ch.espacenet.com
 champaigncountyohio-gisopendata-cceo.hub.arcgis.com
 channels-az1.lpc.logius.nl
 channels-az2.lpc.logius.nl
@@ -2652,12 +2664,17 @@ cms-bron.waterschaplimburg.nl
 cms-dev.farmacotherapeutischkompas.nl
 cms-eef.waterschaplimburg.nl
 cms-extern.rvo.nl
+cms-i-new.espacenet.com
 cms-info.ndw.nu
+cms-o.espacenet.com
 cms-origin.klimaatscenarios-data.knmi.nl
 cms-ow.farmacotherapeutischkompas.nl
 cms-p.farmacotherapeutischkompas.nl
+cms-test.espacenet.com
+cms-th.espacenet.com
 cms-ts.farmacotherapeutischkompas.nl
 cms-tst.farmacotherapeutischkompas.nl
+cms-u-new.espacenet.com
 cms.afm.nl
 cms.beeldkompas.nl
 cms.bureaubiosecurity.nl
@@ -2701,6 +2718,9 @@ cmsintranet.svb.nl
 cmsvpn.defensie.nl
 cmv-kandidaat.sso3w.nl
 cmv-opdrachtgever.sso3w.nl
+cn-i-no-apigee.espacenet.com
+cn-no-apigee.espacenet.com
+cn-o-no-apigee.espacenet.com
 cn.cbs.nl
 cn.dnb.nl
 cname-adc.databank.nl
@@ -2961,12 +2981,16 @@ cvdr.overheid.nl
 cvta.nl
 cvte.nl
 cvu2022-esriven.hub.arcgis.com
+cy-i.espacenet.com
+cy.espacenet.com
 cyberawareness.nctv.nl
 cybersecurityalliantie.nl
 cybersecuritycouncil.nl
 cybersecurityraad.nl
 cybertracker.maps.arcgis.com
 cycle-data-hub-provincieantwerpen.hub.arcgis.com
+cz-i.espacenet.com
+cz.espacenet.com
 d2val.staging.ndw.nu
 d7.rvo.nl
 daf-eforms.ind.nl
@@ -3126,6 +3150,7 @@ dcmp-upnl-idp.rvo.nl
 dcp-time-slot.cbg-meb.nl
 dcpp.ssc-ict.nl
 dcypher.nl
+de.espacenet.com
 deafsluitdijk.nl
 decentrale.regelgeving.overheid.nl
 decide-madrid.hub.arcgis.com
@@ -3369,6 +3394,8 @@ diversiteitsplein.politiekeambtsdragers.nl
 diversiteitsportaal.aofondsrijk.nl
 dj.chm-cbd.net
 dji.nl
+dk-i.espacenet.com
+dk.espacenet.com
 dkb.dictu.nl
 dkl.bkd.eu
 dl.coronatest.nl
@@ -3607,6 +3634,8 @@ e.garanties.rvo.nl
 e.hhdelfland.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
+ea-i.espacenet.com
+ea.espacenet.com
 eagle-acc.dji.nl
 eagle.dji.nl
 eakkoord.nl
@@ -3623,6 +3652,7 @@ ebms.cbs.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
 ebms.service.bta.omgevingswet.overheid.nl
+ec.espacenet.com
 ecaccess-bologna.knmi.nl
 ecaccess.knmi.nl
 ecad.eu
@@ -3654,6 +3684,8 @@ edu-mijnoctrooi.rvo.nl
 edu.efiling.mijnoctrooi.rvo.nl
 edu.maps.arcgis.com
 edu.mijnoctrooi.mypage.rvo.nl
+ee-i.espacenet.com
+ee.espacenet.com
 eef.waterschaplimburg.nl
 eenoverheidsincasso.nl
 eentegeneenzaamheid.nl
@@ -3845,7 +3877,11 @@ env1.arcgis.com
 enwinfo.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
+ep-i.espacenet.com
+ep-new.espacenet.com
+ep-o.espacenet.com
 ep-online.nl
+ep.espacenet.com
 epbdwebservices-acc.rvo.nl
 epbdwebservices-preprod.rvo.nl
 epbdwebservices.rvo.nl
@@ -3864,6 +3900,8 @@ erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
 error-reporting.ndw.nu
 ertms.nl
+es-i.espacenet.com
+es.espacenet.com
 esb-a1.brabant.nl
 esb-acpt.brabant.nl
 esb-demo.cvr.rvb.rijkscloud.nl
@@ -3880,6 +3918,7 @@ esb.expenses.sso3w.nl
 esb.flevoland.nl
 esb.rijkswaterstaat.nl
 esg.cito.nl
+espacenet.com
 esri-disasterresponse.hub.arcgis.com
 et.chm-cbd.net
 etender.dnb.nl
@@ -4251,6 +4290,8 @@ feeds.zorginstituutnederland.nl
 fems.acm.nl
 fems.services.acm.nl
 fhub.dictu.nl
+fi-i.espacenet.com
+fi.espacenet.com
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -4355,6 +4396,7 @@ foto-opdracht.cultureelerfgoed.nl
 fourdigitstest.iuc.rijkscloud.nl
 fpm-fema.hub.arcgis.com
 fr.chm-cbd.net
+fr.espacenet.com
 fr.prod.chm-cbd.net
 friesland.databank.nl
 frontend-duo.rijkscloud.nl
@@ -4382,6 +4424,7 @@ ftp-test01.knmi.nl
 ftp.cbs.nl
 ftp.ctpveldzicht.nl
 ftp.dji.nl
+ftp.espacenet.com
 ftp.koop.overheid.nl
 ftp.ofgv.nl
 ftp.oostvaarderskliniek.nl
@@ -4416,6 +4459,7 @@ gateway.cultuurparticipatie.nl
 gateway.test.ggdcontact.irealisatie.nl
 gatus.lpc.logius.nl
 gb-test.brabant.nl
+gb.espacenet.com
 gba-bvr-ftps.belastingdienst.nl
 gba-bvr.belastingdienst.nl
 gbatmv.rvo.nl
@@ -4713,6 +4757,8 @@ gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 gps-sa-api.sso3w.nl
 gps-sa.sso3w.nl
+gr-i.espacenet.com
+gr.espacenet.com
 grafana-az1.lpc.logius.nl
 grafana-az2.lpc.logius.nl
 grafana.ix.rijkscloud.nl
@@ -4878,11 +4924,15 @@ horizonscangeneesmiddelen.nl
 hostmaster.derdekamer.nl
 hotnews.maps.arcgis.com
 houdmisdaaduitjebuurt.nl
+hr-i.espacenet.com
 hr-sectorwaterschappen.databank.nl
+hr.espacenet.com
 hrcommunityrijk.nl
 hrz-uag-ext.belastingdienst.nl
 hs.bics.nl
 hsacc.bics.nl
+hu-i.espacenet.com
+hu.espacenet.com
 hub-ai-assistant.arcgis.com
 hub-co-grant-mn-us.hub.arcgis.com
 hub-eccounty.hub.arcgis.com
@@ -4986,6 +5036,8 @@ idppoc-sp-ont.dictu.nl
 idro.ont.belastingdienst.nl
 idselect.cultureelerfgoed.nl
 idtst.brabant.nl
+ie-i.espacenet.com
+ie.espacenet.com
 iem.maps.arcgis.com
 ienrregister-acc.rvo.nl
 ienrregister.rvo.nl
@@ -5198,6 +5250,8 @@ irealisatie.nl
 iris.knmi.nl
 irmpol-acc.dictu.nl
 irmpol.dictu.nl
+is-i.espacenet.com
+is.espacenet.com
 isamproxyont.ont.belastingdienst.nl
 ise.acm.nl
 ishetafval.nl
@@ -5206,7 +5260,9 @@ isis-web.nl
 issues-acc.eherkenning.nl
 istandaarden.nl
 it-academieoverheid.nl
+it-i.espacenet.com
 it-wiki.cultuurparticipatie.nl
+it.espacenet.com
 itp-acc.ilent.nl
 itp.ilent.nl
 itsupport.nza.nl
@@ -5291,6 +5347,10 @@ jong.belastingdienst.nl
 jongerensite.belastingdienst.nl
 jouw.belastingdienst.nl
 joy.applicatie-domein.dji.nl
+jp-i-no-apigee.espacenet.com
+jp-no-apigee.espacenet.com
+jp-o-no-apigee-lux.espacenet.com
+jp-o-no-apigee.espacenet.com
 juno.cdfd.nl
 jupyter-almalinux.dgdoobi.rijkscloud.nl
 jupyter.abibzk.rijkscloud.nl
@@ -5533,6 +5593,7 @@ kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
 kwaliteitsdashboard-koop.overheid.nl
+l2.espacenet.com
 laadinfrastructuur.databank.nl
 lab.geodata.nationaalgeoregister.nl
 lab1.rvb.rijkscloud.nl
@@ -5596,6 +5657,7 @@ lespakketten.derdekamer.nl
 letmemap-ptbocounty.hub.arcgis.com
 leveranciersvdi.svb.nl
 lfucg.maps.arcgis.com
+li.espacenet.com
 lib-doorstroomtoets-a.cito.nl
 lib-doorstroomtoets-intern-a.cito.nl
 lib-doorstroomtoets-intern-o.cito.nl
@@ -5743,6 +5805,8 @@ longreads.cbs.nl
 loonaangifteketen.nl
 loopbaanadvies.aofondsrijk.nl
 louisville-metro-opendata-lojic.hub.arcgis.com
+lp-i.espacenet.com
+lp.espacenet.com
 lpc-o-az1.elastic.lpc.logius.nl
 lpc-o-az1.kibana.lpc.logius.nl
 lpc-o-az2.elastic.lpc.logius.nl
@@ -5760,17 +5824,23 @@ lrs.test.gf.irealisatie.nl
 lrza.gatservices.acc.igj.nl
 lrza.gatservices.prd.igj.nl
 lrza.services.cibg.nl
+lt-i.espacenet.com
+lt.espacenet.com
 lta-acc.zuid-holland.nl
 lta-tst.zuid-holland.nl
 lta.zuid-holland.nl
 ltu-admin.stopheling.nl
 ltu-api.stopheling.nl
+lu-i.espacenet.com
+lu.espacenet.com
 luchtfoto.aaenmaas.nl
 luchtfoto.flevoland.nl
 luchtfoto.zuid-holland.nl
 luchtvaartmeteo-test.knmi.nl
 lucom-client.dictu.nl
 luistertoets.cito.nl
+lv-i.espacenet.com
+lv.espacenet.com
 lv109366-web01-out.eerstekamer.nl
 lvbb-acc.overheid.nl
 lvbb-asl.overheid.nl
@@ -5793,7 +5863,9 @@ lyncmeet.dictu.nl
 lyncwebapps.dictu.nl
 m-edu.efiling.mijnoctrooi.rvo.nl
 m-efiling.mijnoctrooi.rvo.nl
+m-i0.espacenet.com
 m-preprod.efiling.mijnoctrooi.rvo.nl
+m.espacenet.com
 m.huisvoorklokkenluiders.nl
 m.leefbaarometer.nl
 m.rijkswaterstaat.nl
@@ -6050,6 +6122,8 @@ mcsd-registratie-portaal.test.gf.irealisatie.nl
 mcsd-supplier.proeftuin.gf.irealisatie.nl
 mcsd-supplier.test.gf.irealisatie.nl
 mcsd.test.zm.irealisatie.nl
+md-i.espacenet.com
+md.espacenet.com
 mdm-acc.ctgb.nl
 mdm-t.cbg-meb.nl
 mdm.cbg-meb.nl
@@ -6335,6 +6409,8 @@ mirt2016.mirtoverzicht.nl
 mirtoverzicht.nl
 missing.amberalert.nl
 mivp.emissieautoriteit.nl
+mk-i.espacenet.com
+mk.espacenet.com
 mkb.acm.nl
 mkbstatline.cbs.nl
 mks.esb.rijkswaterstaat.nl
@@ -6609,7 +6685,9 @@ nl-a.cito.nl
 nl-alert.nl
 nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
+nl-i.espacenet.com
 nl-works.com
+nl.espacenet.com
 nlarbeidsinspectie.nl
 nlhull.bics.nl
 nlhull2.bics.nl
@@ -6624,6 +6702,8 @@ nmdcacc.knmi.nl
 nmdctest.knmi.nl
 nnc.dnb.nl
 nnn.flevoland.nl
+no-i.espacenet.com
+no.espacenet.com
 noaa.cultureelerfgoed.nl
 noaa.maps.arcgis.com
 noc.irealisatie.nl
@@ -6705,6 +6785,7 @@ nvwa.nl
 nwrar-acc.ncsc.nl
 nws-miami-drought-page-noaa.hub.arcgis.com
 nwsmfl-coop-noaa.hub.arcgis.com
+nx.espacenet.com
 nza-form1.nza.nl
 nza-form2.nza.nl
 nza-form3.nza.nl
@@ -6757,6 +6838,7 @@ o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
 o5002proxvapp.ont.belastingdienst.nl
 oa.aaenmaas.nl
+oa.espacenet.com
 oap.ind.nl
 ob.acc1.machtigen.digid.nl
 ob.acc2.machtigen.digid.nl
@@ -7172,6 +7254,12 @@ oproepingen-api-preprd.overheid.nl
 oproepingen-api.overheid.nl
 oproepingen-preprd.overheid.nl
 oproepingen.overheid.nl
+ops-i-new.espacenet.com
+ops-i-no-apigee.espacenet.com
+ops-o-no-apigee.espacenet.com
+ops-test.espacenet.com
+ops-u.espacenet.com
+ops.espacenet.com
 opvragen-acc.ep-online.nl
 opvragen-acc1.ep-online.nl
 opvragen-preprod.ep-online.nl
@@ -7394,6 +7482,8 @@ pkio.service.perf.omgevingswet.overheid.nl
 pkio.service.pre.omgevingswet.overheid.nl
 pkio.service.tst2905.omgevingswet.overheid.nl
 pkioverheid.huurcommissie.nl
+pl-i.espacenet.com
+pl.espacenet.com
 pla.dnb.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
 plan.beeldbellen.dji.nl
@@ -7530,6 +7620,7 @@ postmaster.ertms.nl
 povv-poc.ilent.nl
 powhatancounty.maps.arcgis.com
 pp.balieportaal.digid.nl
+pp.espacenet.com
 pp.helpdesk.machtigen.digid.nl
 pp.machtigen.digid.nl
 pp1.machtigen.digid.nl
@@ -7586,6 +7677,7 @@ preview.api.dataplatform.knmi.nl
 preview.cito.nl
 preview.digid.nl
 preview.dynamo-hia.eu
+preview.espacenet.com
 preview.loketgezondleven.nl
 preview.nederlandwereldwijd.nl
 preview.netherlandsworldwide.nl
@@ -7727,6 +7819,8 @@ pseudonym.test.zm.irealisatie.nl
 psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl
 psproxy.belastingdienst.nl
+pt-i.espacenet.com
+pt.espacenet.com
 public-acc.ep-online.nl
 public-acc1.ep-online.nl
 public-preprod.ep-online.nl
@@ -8074,6 +8168,8 @@ rni-portal-acc.rvig.nl
 rni-portal.rvig.nl
 rni-webform-acc.rvig.nl
 rni-webform.rvig.nl
+ro-i.espacenet.com
+ro.espacenet.com
 ro.zuid-holland.nl
 rob-2000.rijkscloud.nl
 rob2000.rijkscloud.nl
@@ -8086,6 +8182,8 @@ royal-house.nl
 royalhonoursanddecorations.nl
 rpx-qa.nza.nl
 rpx.nza.nl
+rs-i.espacenet.com
+rs.espacenet.com
 rsj.nl
 rss.amberalert.nl
 rstudio-almalinux.dgdoobi.rijkscloud.nl
@@ -8143,6 +8241,8 @@ rstudio02.sodm.rijkscloud.nl
 rstudio03.sodm.rijkscloud.nl
 rt.ndw.nu
 rte.ssc-ict.nl
+ru-i.espacenet.com
+ru.espacenet.com
 ruimte.dmo.omgevingswet.overheid.nl
 ruimte.kta.omgevingswet.overheid.nl
 ruimte.omgevingswet.overheid.nl
@@ -8339,6 +8439,8 @@ sdmx-dataviewer.cbs.nl
 sdmx-search-beta.cbs.nl
 sdmx-share.cbs.nl
 sdmx.cbs.nl
+se-i.espacenet.com
+se.espacenet.com
 search.aerius.nl
 search.developer.overheid.nl
 secretaria-de-salud-de-soacha-sigsoacha15.hub.arcgis.com
@@ -8497,6 +8599,8 @@ shiny02.p-direkt.rijkscloud.nl
 shinyserver.zuid-holland.nl
 shop.alleenjijbepaalt.nl
 shopper.huurcommissie.nl
+si-i.espacenet.com
+si.espacenet.com
 siam.cjib.nl
 siam.duo.nl
 siam.rvo.nl
@@ -8555,6 +8659,8 @@ site6.rijksoverheid.nl
 site7.rijksoverheid.nl
 site8.rijksoverheid.nl
 sitescan-eu1.arcgis.com
+sk-i.espacenet.com
+sk.espacenet.com
 slachtoffer.jeugdconnect.nl
 slechtvalk.brabant.nl
 slim-reizen.ndw.nu
@@ -8564,6 +8670,8 @@ slimmerreizen.zuid-holland.nl
 slimmestad.rdi.nl
 slimwatermanagement.nl
 sltn.bzv.brabant.nl
+sm-i.espacenet.com
+sm.espacenet.com
 smartmobility.flevoland.nl
 smartsurveys.cbs.nl
 smtp.awti.nl
@@ -9014,6 +9122,7 @@ t-www.government.nl
 t-www.rijksoverheid.nl
 t.cultureelerfgoed.nl
 t1.digid.nl
+t1.espacenet.com
 t2.digid.nl
 tagging.caop.nl
 taranis.ncsc.nl
@@ -9141,6 +9250,7 @@ test.duurzaamdoor.nl
 test.ebms.cbs.nl
 test.elearning.dopingautoriteit.nl
 test.esb.rijkswaterstaat.nl
+test.espacenet.com
 test.flevoland.nl
 test.gds.dopingautoriteit.nl
 test.gegevensmagazijn.acm.nl
@@ -9235,6 +9345,7 @@ teverantwoordenregelingen.rijksoverheid.nl
 tg.chm-cbd.net
 tg.test.chm-cbd.net
 tgsb-btssrv-ut.tst.belastingdienst.nl
+th.espacenet.com
 theoriereservering.cbr.nl
 thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
@@ -9334,6 +9445,8 @@ tovertool.nza.nl
 tpaw.dictu.nl
 tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
+tr-i.espacenet.com
+tr.espacenet.com
 track.nederlandwereldwijd.nl
 track.netherlandsworldwide.nl
 tracking.cbr.nl
@@ -9509,6 +9622,13 @@ uzipas.raadplegen.sbv-z.nl
 uzipas.uziregister.nl
 uziregister.nl
 v1.dementieinkaart.nl
+v3-i-new.espacenet.com
+v3-i.espacenet.com
+v3-i0.espacenet.com
+v3-o.espacenet.com
+v3-test.espacenet.com
+v3-u.espacenet.com
+v3.espacenet.com
 va_do.belastingdienst.nl
 vaardigheid-acc.cbr.nl
 vaardigheid-tst.cbr.nl
@@ -10115,10 +10235,15 @@ wmm-demo.databank.nl
 wmo.databank.nl
 wms-viewer.dataplatform.knmi.nl
 wms.aanpakringzuid.nl
+wo-i.espacenet.com
+wo-new.espacenet.com
+wo-o.espacenet.com
+wo.espacenet.com
 wo2.collectienederland.nl
 wodc.nl
 wolf.cito.nl
 wolf.secure.cito.nl
+wom.espacenet.com
 wonen.databank.nl
 woo-dashboards.overheid.nl
 woo-formulier.rijksoverheid.nl
@@ -10132,6 +10257,14 @@ wordcms.eerstekamer.nl
 wordimport.drop.overheid.nl
 workflow.arcgis.com
 workspace.hhdelfland.nl
+worldwide-i-no-apigee-th.espacenet.com
+worldwide-i-no-apigee.espacenet.com
+worldwide-i.espacenet.com
+worldwide-i0.espacenet.com
+worldwide-no-apigee.espacenet.com
+worldwide-o-no-apigee.espacenet.com
+worldwide-o.espacenet.com
+worldwide.espacenet.com
 wow.knmi.nl
 woxi.dnb.nl
 wozbenchmark.databank.nl
@@ -10723,6 +10856,7 @@ www.equal-life.eu
 www.erelijst.nl
 www.erfgoeddeal.nl
 www.ertms.nl
+www.espacenet.com
 www.euthanasiecommissie.nl
 www.evenementenbureauvws.nl
 www.examenblad.nl
