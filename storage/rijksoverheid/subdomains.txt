@@ -3020,6 +3020,7 @@ dashboardsdev-api.arcgis.com
 daszogefietst.nl
 data-acc.overheid.nl
 data-acc.rijkswaterstaat.nl
+data-acceptatie.emissieregistratie.nl
 data-bgky.hub.arcgis.com
 data-centrevaldeloire.hub.arcgis.com
 data-cos-gis.hub.arcgis.com
@@ -3035,6 +3036,8 @@ data-lfucg.hub.arcgis.com
 data-mcplanning.hub.arcgis.com
 data-monmouthnj.hub.arcgis.com
 data-piercecounty-wi.hub.arcgis.com
+data-preview.emissieregistratie.nl
+data-previewnext.emissieregistratie.nl
 data-sccphd.opendata.arcgis.com
 data-seismo-dev.knmi.nl
 data-stirling-council.hub.arcgis.com
@@ -3049,6 +3052,7 @@ data.cdho.nl
 data.collectienederland.nl
 data.cultureelerfgoed.nl
 data.duo.nl
+data.emissieregistratie.nl
 data.flevoland.nl
 data.geo.cultureelerfgoed.nl
 data.ilent.nl
@@ -3059,6 +3063,7 @@ data.rijkswaterstaat.nl
 data.rvo.nl
 data.staging.ndw.nu
 data.zuid-holland.nl
+data2.emissieregistratie.nl
 dataalsonbekendevervuiler.nl
 databank.nl
 databestanden.cbs.nl
@@ -3735,6 +3740,7 @@ emailtemplates.overheid.nl
 emax.test.gf.irealisatie.nl
 embraceintranet.flevoland.nl
 emissieautoriteit.nl
+emissieregistratie.nl
 emissionsauthority.nl
 emm-online.nl
 emm.belastingdienst.nl
@@ -3844,6 +3850,7 @@ epmmsen01.autoriteitpersoonsgegevens.nl
 epmmsen02.acpt.autoriteitpersoonsgegevens.nl
 epmmsen02.autoriteitpersoonsgegevens.nl
 equity-nyc.hub.arcgis.com
+eracceptatie.emissieregistratie.nl
 erfgoed.databank.nl
 erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
@@ -5565,8 +5572,10 @@ leerplatform.it-academieoverheid.nl
 leerplein.svb.nl
 leerstoel.caop.nl
 leerstoelen.caop.nl
+legacy.emissieregistratie.nl
 legacy.flevoland.nl
 legacy.rijksdienstcn.com
+legacy2.emissieregistratie.nl
 legend.aerius.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
@@ -7571,6 +7580,7 @@ preview.loketgezondleven.nl
 preview.nederlandwereldwijd.nl
 preview.netherlandsworldwide.nl
 preview.wegwijzer.overheid.nl
+previewnext.emissieregistratie.nl
 primet.alterra.nl
 primos.databank.nl
 primos.datawonen.nl
@@ -10683,6 +10693,7 @@ www.eiti.nl
 www.elkeregiotelt.nl
 www.emaddc.com
 www.emissieautoriteit.nl
+www.emissieregistratie.nl
 www.emissionsauthority.nl
 www.emm-online.nl
 www.enabling.omgevingswet.overheid.nl

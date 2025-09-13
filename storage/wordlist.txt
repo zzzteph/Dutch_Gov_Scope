@@ -25,10 +25,10 @@ _dmarc
 staging
 werkplek
 www-acc
+data
 prod
 formulieren
 redactie
-data
 connect
 a-english
 remote
@@ -226,6 +226,7 @@ nieuwsbrief
 cmsintranet
 denkmee
 kaart
+legacy
 test-cmsintranet
 test-intranet
 csoacct
@@ -365,7 +366,6 @@ www3
 piwik
 desktop
 exchange
-legacy
 preprodformulieren
 veiligmailen
 co
@@ -7738,3 +7738,10 @@ signicat-qa.sso
 signicat-staging.sso
 signicat.sso
 wiki-acc
+data-acceptatie
+data-preview
+data-previewnext
+data2
+eracceptatie
+legacy2
+previewnext

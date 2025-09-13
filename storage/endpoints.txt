@@ -177,6 +177,7 @@ http://crm.nza.nl
 http://css.openstad.zuid-holland.nl
 http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
+http://data-preview.emissieregistratie.nl
 http://datachallenge.nl
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
@@ -2074,6 +2075,7 @@ https://dashboards.test.cbs.nl
 https://dashboardsdev-api.arcgis.com
 https://daszogefietst.nl
 https://data-acc.overheid.nl
+https://data-acceptatie.emissieregistratie.nl
 https://data-bgky.hub.arcgis.com
 https://data-centrevaldeloire.hub.arcgis.com
 https://data-cos-gis.hub.arcgis.com
@@ -2088,6 +2090,7 @@ https://data-lfucg.hub.arcgis.com
 https://data-mcplanning.hub.arcgis.com
 https://data-monmouthnj.hub.arcgis.com
 https://data-piercecounty-wi.hub.arcgis.com
+https://data-previewnext.emissieregistratie.nl
 https://data-sccphd.opendata.arcgis.com
 https://data-stirling-council.hub.arcgis.com
 https://data-streamer.ndw.nu
@@ -2101,6 +2104,7 @@ https://data.cdho.nl
 https://data.collectienederland.nl
 https://data.cultureelerfgoed.nl
 https://data.duo.nl
+https://data.emissieregistratie.nl
 https://data.flevoland.nl
 https://data.geo.cultureelerfgoed.nl
 https://data.knmi.nl
@@ -2109,6 +2113,7 @@ https://data.overheid.nl
 https://data.rvo.nl
 https://data.staging.ndw.nu
 https://data.zuid-holland.nl
+https://data2.emissieregistratie.nl
 https://dataalsonbekendevervuiler.nl
 https://databank.nl
 https://databestanden.cbs.nl
@@ -2501,6 +2506,7 @@ https://email.cito.nl
 https://emailtemplates.overheid.nl
 https://emax.test.gf.irealisatie.nl
 https://emissieautoriteit.nl
+https://emissieregistratie.nl
 https://emissionsauthority.nl
 https://emm-online.nl
 https://emobility.rvo.nl
@@ -3556,6 +3562,8 @@ https://leerplatform.it-academieoverheid.nl
 https://leerplein.svb.nl
 https://leerstoel.caop.nl
 https://leerstoelen.caop.nl
+https://legacy.emissieregistratie.nl
+https://legacy2.emissieregistratie.nl
 https://legend.aerius.nl
 https://leren.nza.nl
 https://lerenbij.ciz.nl
@@ -4641,6 +4649,7 @@ https://preview.cito.nl
 https://preview.nederlandwereldwijd.nl
 https://preview.netherlandsworldwide.nl
 https://preview.wegwijzer.overheid.nl
+https://previewnext.emissieregistratie.nl
 https://primet.alterra.nl
 https://primos.databank.nl
 https://primosinteractief.databank.nl
@@ -6292,6 +6301,7 @@ https://www.eiti.nl
 https://www.elkeregiotelt.nl
 https://www.emaddc.com
 https://www.emissieautoriteit.nl
+https://www.emissieregistratie.nl
 https://www.emissionsauthority.nl
 https://www.emm-online.nl
 https://www.enabling.omgevingswet.overheid.nl
