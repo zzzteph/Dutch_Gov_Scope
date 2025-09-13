@@ -22,9 +22,9 @@ vpn
 intranet
 cms
 _dmarc
+staging
 werkplek
 www-acc
-staging
 prod
 formulieren
 data
