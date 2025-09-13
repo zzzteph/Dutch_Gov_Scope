@@ -175,6 +175,7 @@ old
 acceptatie.zoeken
 blog
 connect-with
+dataportaal
 email
 esb
 geoserver
@@ -298,7 +299,6 @@ webdiensten
 acs
 beeldbank-bo
 blogs
-dataportaal
 georegister
 osb
 proxy
