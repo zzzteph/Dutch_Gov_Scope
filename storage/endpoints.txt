@@ -95,6 +95,7 @@ http://autodiscover.cvdm.nl
 http://autodiscover.dekinderombudsman.nl
 http://autodiscover.dnb.nl
 http://autodiscover.domeinenrz.nl
+http://autodiscover.eerstekamer.nl
 http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
@@ -224,6 +225,7 @@ http://embraceintranet.flevoland.nl
 http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
 http://english.rivmmagazines.nl
+http://europapoort.eerstekamer.nl
 http://examen-vo.cito.nl
 http://extern.knmi.nl
 http://ezines.rvo.nl
@@ -303,6 +305,7 @@ http://lpc-p-az2.elastic.lpc.logius.nl
 http://lpc-p-az2.kibana.lpc.logius.nl
 http://luchtfoto.zuid-holland.nl
 http://luistertoets.cito.nl
+http://lv109366-web01-out.eerstekamer.nl
 http://mail.agendavoorhetwaddengebied2050.nl
 http://mail.cea.nl
 http://mail.dev.cbs.nl
@@ -390,6 +393,7 @@ http://rijkspasocsp2.dictu.nl
 http://rijkstrainee.werkenvoornederland.nl
 http://rijkstrainees.werkenvoornederland.nl
 http://rivmmagazines.nl
+http://s10011-out.eerstekamer.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sat.irealisatie.nl
@@ -1096,6 +1100,7 @@ https://api.denkmee.zuid-holland.nl
 https://api.developer.dnb.nl
 https://api.digid.nl
 https://api.dnb.nl
+https://api.eerstekamer.nl
 https://api.ix.rijkscloud.nl
 https://api.jeugdconnect.nl
 https://api.klopt.cibg.nl
@@ -1114,6 +1119,9 @@ https://api.preprod.mijn.overheid.nl
 https://api.rdi.nl
 https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
+https://apiacc.eerstekamer.nl
+https://apiarbor.eerstekamer.nl
+https://apiback.eerstekamer.nl
 https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
 https://apim-icc.svb.nl
@@ -1265,6 +1273,7 @@ https://autodiscover.koop.overheid.nl
 https://autodiscover.ndw.nu
 https://autodiscover.overheid.nl
 https://autodiscover.svb.nl
+https://autodoc.eerstekamer.nl
 https://autorisatie-a.cito.nl
 https://autorisatie-o.cito.nl
 https://autorisatie-preprod.brabant.nl
@@ -2430,6 +2439,7 @@ https://eef.waterschaplimburg.nl
 https://eenoverheidsincasso.nl
 https://eentegeneenzaamheid.nl
 https://eersteenthuis.nl
+https://eerstekamer.nl
 https://efeat.org
 https://efiling.mijnoctrooi.rvo.nl
 https://efm.belastingdienst.nl
@@ -2542,6 +2552,7 @@ https://english.wkr.nl
 https://english.wodc.nl
 https://english.wrr.nl
 https://english.zorginstituutnederland.nl
+https://enquete.eerstekamer.nl
 https://enterprise-k8s.arcgis.com
 https://enterprise.arcgis.com
 https://enterpriseenrollment.belastingdienst.nl
@@ -4762,6 +4773,7 @@ https://redactie-tl.iplo.nl
 https://redactie.aquo.nl
 https://redactie.brandweer.nl
 https://redactie.cbs.nl
+https://redactie.eerstekamer.nl
 https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
@@ -4814,6 +4826,9 @@ https://remote.cito.nl
 https://remote.cultuurparticipatie.nl
 https://remote.flevoland.nl
 https://remote.services.acm.nl
+https://remoteaccess1.eerstekamer.nl
+https://remoteaccess2.eerstekamer.nl
+https://remoteaccess3.eerstekamer.nl
 https://remotedesktop.svb.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
@@ -4936,6 +4951,7 @@ https://samenwerken.zorginstituutnederland.nl
 https://samenwerkingrijknoord.nl
 https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
+https://sandbox.redactie.eerstekamer.nl
 https://sandbox.werkenvoornederland.nl
 https://sarasota.maps.arcgis.com
 https://sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
@@ -5832,6 +5848,8 @@ https://wooincijfers.open-overheid.nl
 https://woolwich-geohub-woolwich.hub.arcgis.com
 https://woon2021.databank.nl
 https://woordenboek.klimaatadaptatienederland.nl
+https://wordaddin.eerstekamer.nl
+https://wordcms.eerstekamer.nl
 https://wordimport.drop.overheid.nl
 https://workflow.arcgis.com
 https://wow.knmi.nl
@@ -6239,6 +6257,7 @@ https://www.economicdiplomacy.rvo.nl
 https://www.eenoverheidsincasso.nl
 https://www.eentegeneenzaamheid.nl
 https://www.eersteenthuis.nl
+https://www.eerstekamer.nl
 https://www.efeat.org
 https://www.elkeregiotelt.nl
 https://www.emissieautoriteit.nl

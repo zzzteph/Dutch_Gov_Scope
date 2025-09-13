@@ -1335,6 +1335,7 @@ api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
 api.dnb.nl
 api.duo.nl
+api.eerstekamer.nl
 api.ienw.ix.rijkscloud.nl
 api.ilent.nl
 api.ix.rijkscloud.nl
@@ -1376,6 +1377,9 @@ api.tst7.mijn.overheid.nl
 api.tst8.mijn.overheid.nl
 api.vallei-veluwe.nl
 api.zorgaanbiedersportaal.nl
+apiacc.eerstekamer.nl
+apiarbor.eerstekamer.nl
+apiback.eerstekamer.nl
 apigw.brp.lap.idm.rvig.nl
 apikey-preprod.ep-online.nl
 apikey.ep-online.nl
@@ -1511,6 +1515,8 @@ artifact-rv-pp1.logius.nl
 as-derb-01.duo.nl
 as-derc-01.duo.nl
 as.duo.nl
+as1.eerstekamer.nl
+as2.eerstekamer.nl
 asb.datasluis.dictu.nl
 asbestovertredingen.nlarbeidsinspectie.nl
 asbestvolgsysteem.nl
@@ -1645,6 +1651,7 @@ autodiscover.dnb.nl
 autodiscover.doemeemetmdt.nl
 autodiscover.domeinenrz.nl
 autodiscover.duo.nl
+autodiscover.eerstekamer.nl
 autodiscover.flevoland.nl
 autodiscover.hdsr.nl
 autodiscover.hhdelfland.nl
@@ -1669,6 +1676,7 @@ autodiscover.svb.nl
 autodiscover.tib-ivd.nl
 autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
+autodoc.eerstekamer.nl
 autorisatie-a.cito.nl
 autorisatie-o.cito.nl
 autorisatie-preprod.brabant.nl
@@ -2635,6 +2643,7 @@ cluster9.cmsdev.platformrijksoverheid.nl
 clusterbuster.nl
 cm.arcgis.com
 cm.chm-cbd.net
+cmeets.eerstekamer.nl
 cms-ac.farmacotherapeutischkompas.nl
 cms-acc.farmacotherapeutischkompas.nl
 cms-bron.waterschaplimburg.nl
@@ -3632,6 +3641,7 @@ eef.waterschaplimburg.nl
 eenoverheidsincasso.nl
 eentegeneenzaamheid.nl
 eersteenthuis.nl
+eerstekamer.nl
 efeat.org
 efiling.mijnoctrooi.rvo.nl
 efm.belastingdienst.nl
@@ -3790,6 +3800,7 @@ enquete-acc.dictu.nl
 enquete-demo.dictu.nl
 enquete-tst.dictu.nl
 enquete.dictu.nl
+enquete.eerstekamer.nl
 enterprise-k8s.arcgis.com
 enterprise.arcgis.com
 enterpriseenrollment.belastingdienst.nl
@@ -3863,6 +3874,7 @@ euem.dictu.nl
 eula.flevoland.nl
 eumet.knmi.nl
 euro4mvis.knmi.nl
+europapoort.eerstekamer.nl
 europese-subsidies.rvo.nl
 euthanasiecommissie.nl
 eux-olo.belastingdienst.nl
@@ -5714,6 +5726,7 @@ luchtfoto.zuid-holland.nl
 luchtvaartmeteo-test.knmi.nl
 lucom-client.dictu.nl
 luistertoets.cito.nl
+lv109366-web01-out.eerstekamer.nl
 lvbb-acc.overheid.nl
 lvbb-asl.overheid.nl
 lvbb-fto.overheid.nl
@@ -6780,6 +6793,7 @@ ondertekenen.brabant.nl
 ondertekenen.flevoland.nl
 ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
+onderwijs.eerstekamer.nl
 onderwijsdata.duo.nl
 onderwijsinspectie.nl
 onderwijsraad.nl
@@ -6822,6 +6836,7 @@ ontwikkel.cbs.nl
 ontwikkel.machtigen.digid.nl
 ontwikkel.uzipas.auth.dezi.nl
 ontwikkel.uzipas.dezi.nl
+ontwikkelserver.eerstekamer.nl
 oogop.zuid-holland.nl
 oordelen.mensenrechten.nl
 oos-p1.coa.nl
@@ -7792,6 +7807,7 @@ redactie-tl.iplo.nl
 redactie.aquo.nl
 redactie.brandweer.nl
 redactie.cbs.nl
+redactie.eerstekamer.nl
 redactie.hdsr.nl
 redactie.odijmond.nl
 redactie.odmh.nl
@@ -7881,6 +7897,9 @@ remote.dopingautoriteit.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
 remote.services.acm.nl
+remoteaccess1.eerstekamer.nl
+remoteaccess2.eerstekamer.nl
+remoteaccess3.eerstekamer.nl
 remotedesktop.svb.nl
 remotetest.hhdelfland.nl
 rental.buitenlevenvakanties.nl
@@ -8102,6 +8121,8 @@ rxs.services.acm.nl
 s.checkjeprijs.huurcommissie.nl
 s.ndw.nu
 s1.toeslagen.nl
+s10011-out.eerstekamer.nl
+s10013-out.eerstekamer.nl
 s2-acc1.toeslagen.nl
 s2.toeslagen.nl
 s3-acc1.toeslagen.nl
@@ -8138,6 +8159,7 @@ saml-sign-olas10978.ont.belastingdienst.nl
 saml-sign-rv-pp1.belastingdienst.nl
 sandbox.functiegebouwrijksoverheid.nl
 sandbox.ikwerkvoornederland.nl
+sandbox.redactie.eerstekamer.nl
 sandbox.werkenvoornederland.nl
 sap-internet-test.belastingdienst.nl
 sap-internet.belastingdienst.nl
@@ -8591,6 +8613,7 @@ ssh.cbs.nl
 ssl-vpn.brabant.nl
 ssl.cokz.nl
 ssl.defensie.nl
+sslvpn.eerstekamer.nl
 sslvpn.rekenkamer.nl
 sso-acc-tno.bronhouderportaal-bro.nl
 sso-acc1.bronhouderportaal-bro.nl
@@ -10042,6 +10065,8 @@ wooincijfers.open-overheid.nl
 woolwich-geohub-woolwich.hub.arcgis.com
 woon2021.databank.nl
 woordenboek.klimaatadaptatienederland.nl
+wordaddin.eerstekamer.nl
+wordcms.eerstekamer.nl
 wordimport.drop.overheid.nl
 workflow.arcgis.com
 workspace.hhdelfland.nl
@@ -10609,6 +10634,7 @@ www.economicdiplomacy.rvo.nl
 www.eenoverheidsincasso.nl
 www.eentegeneenzaamheid.nl
 www.eersteenthuis.nl
+www.eerstekamer.nl
 www.efeat.org
 www.elkeregiotelt.nl
 www.emissieautoriteit.nl

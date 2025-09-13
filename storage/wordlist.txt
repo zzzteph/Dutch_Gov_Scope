@@ -2,8 +2,8 @@ www
 
 opendata
 feeds
-mail
 autodiscover
+mail
 english
 acc
 test
@@ -27,8 +27,8 @@ werkplek
 www-acc
 prod
 formulieren
-data
 redactie
+data
 connect
 a-english
 remote
@@ -346,6 +346,7 @@ feeds.deutsch
 opendata.deutsch
 dns1
 dns2
+enquete
 lync
 mail01
 mail02
@@ -435,6 +436,7 @@ magazines.english
 digitaal
 fileshare
 hybridmail
+sslvpn
 gitlab.test
 bon
 tools
@@ -1824,7 +1826,6 @@ engine.fhub
 enquete-acc
 enquete-demo
 enquete-tst
-enquete
 euem
 ez-rvo-ba-acc-2018
 ez-rvo-ba-acc-2019
@@ -3759,7 +3760,6 @@ coronarekening
 mailfilter01
 onsgeldontcijferd-test
 onsgeldontcijferd
-sslvpn
 mdm.zwb
 sentry1.zwb
 zwb
@@ -7689,3 +7689,22 @@ correctieaanvragen
 edsdiensten
 herinneringtolbetalen
 tolpaymentapi
+apiacc
+apiarbor
+apiback
+as1
+as2
+autodoc
+cmeets
+europapoort
+lv109366-web01-out
+onderwijs
+ontwikkelserver
+remoteaccess1
+remoteaccess2
+remoteaccess3
+s10011-out
+s10013-out
+sandbox.redactie
+wordaddin
+wordcms
