@@ -598,6 +598,7 @@ acc-cms.projects.rvo.nl
 acc-cms.rvo.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.digitoegankelijk.nl
+acc-dictu.eherkenning.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
 acc-dictu.toegankelijkheidsverklaring.nl
@@ -2890,6 +2891,11 @@ cpont.vcdn.belastingdienst.nl
 cprsprod.afm.nl
 cptst.vcdn.belastingdienst.nl
 crc-hub-segrass.hub.arcgis.com
+creaim-etoegang-acc.sso.eherkenning.nl
+creaim-etoegang-pp.sso.eherkenning.nl
+creaim-etoegang-tst.sso.eherkenning.nl
+creaim-etoegang.sso.eherkenning.nl
+creaimacc.sso.eherkenning.nl
 crimediggers.nl
 criminalfilesmh17.acc.prosecutionservice.nl
 criminalfilesmh17.prosecutionservice.nl
@@ -3294,6 +3300,10 @@ digidbeheer-preprod2.digid.nl
 digidbeheer-t1.digid.nl
 digidbeheer-t2.digid.nl
 digidbeheer.digid.nl
+digidentity-accept.sso.eherkenning.nl
+digidentity-preproduction.sso.eherkenning.nl
+digidentity-staging.sso.eherkenning.nl
+digidentity.sso.eherkenning.nl
 digidzakelijk.duo.nl
 digikoppeling-dcr.cibg.nl
 digikoppeling-test.hdsr.nl
@@ -3653,6 +3663,7 @@ egeo.rvo.nl
 eglam.maps.arcgis.com
 egvap.knmi.nl
 ehd.emissieautoriteit.nl
+eherkenning.nl
 eherkenning.services.cibg.nl
 eherkenningtest.services.cibg.nl
 ehp.emissieautoriteit.nl
@@ -3937,6 +3948,7 @@ externemailsaas.knmi.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
 extranet.cbr.nl
+extranet.eherkenning.nl
 extranet.knmi.nl
 extranet.onderwijsraad.nl
 extreemrechts.nctv.nl
@@ -5172,6 +5184,7 @@ ise.acm.nl
 ishetafval.nl
 isi.cbs.nl
 isis-web.nl
+issues-acc.eherkenning.nl
 istandaarden.nl
 it-academieoverheid.nl
 it-wiki.cultuurparticipatie.nl
@@ -5479,6 +5492,16 @@ koppelvlak.overheid.nl
 kostenkentallen.rvo.nl
 kp-moss-ut.tst.belastingdienst.nl
 kpm.jeugdconnect.nl
+kpn-eid-acc.sso.eherkenning.nl
+kpn-eid-dev.drp.sso.eherkenning.nl
+kpn-eid-dev.sso.eherkenning.nl
+kpn-eid-pp.sso.eherkenning.nl
+kpn-eid-tst.sso.eherkenning.nl
+kpn-eid-xacc.sso.eherkenning.nl
+kpn-eid-xdev.sso.eherkenning.nl
+kpn-eid-xpp.sso.eherkenning.nl
+kpn-eid-xtst.sso.eherkenning.nl
+kpn-eid.sso.eherkenning.nl
 krv-art.cvr.rvb.rijkscloud.nl
 krv-art.devops.rvb.rijkscloud.nl
 krv-demo.cvr.rvb.rijkscloud.nl
@@ -6811,6 +6834,8 @@ onderzoek.wegwijzer.overheid.nl
 onderzoek2.cbs.nl
 onderzoeksapp.ciz.nl
 onehealth.nl
+onewelcome-staging.sso.eherkenning.nl
+onewelcome.sso.eherkenning.nl
 online-maps-fontanaca.hub.arcgis.com
 online.rijksinnovatiecommunity.nl
 onlineaangifte.str1.acc.belastingdienst.nl
@@ -7566,6 +7591,7 @@ procesweb.dictu.nl
 prod-cms.digid.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.digitoegankelijk.nl
+prod-dictu.eherkenning.nl
 prod-dictu.logius.nl
 prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
@@ -7803,6 +7829,10 @@ realtime.ndw.nu
 realtime.staging.ndw.nu
 rechtsbijstand.nl
 rechtwijzer.nl
+reconi-etoegang-acc.sso.eherkenning.nl
+reconi-etoegang-pp.sso.eherkenning.nl
+reconi-etoegang-tst.sso.eherkenning.nl
+reconi-etoegang.sso.eherkenning.nl
 redactie-acc.cbs.nl
 redactie-test.cbs.nl
 redactie-tl.iplo.nl
@@ -8454,6 +8484,9 @@ siem.acc.irealisatie.nl
 siem.irealisatie.nl
 sign1-acc.toeslagen.nl
 sign1.toeslagen.nl
+signicat-qa.sso.eherkenning.nl
+signicat-staging.sso.eherkenning.nl
+signicat.sso.eherkenning.nl
 signing-api-acc.ep-online.nl
 signing-auth-acc.dictu.nl
 signing-auth-prod.dictu.nl
@@ -9007,6 +9040,7 @@ test-connect.aerius.nl
 test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
 test-dictu.digitoegankelijk.nl
+test-dictu.eherkenning.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
 test-dictu.toegankelijkheidsverklaring.nl
@@ -10034,6 +10068,7 @@ wifi.dictu.nl
 wifi.svb.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
+wiki-acc.eherkenning.nl
 wiki.logius.nl
 wiki.rijkscloud.nl
 wiki.rijksoverheid.nl
@@ -10639,6 +10674,7 @@ www.eersteenthuis.nl
 www.eerstekamer.nl
 www.efeat.org
 www.efsca.org
+www.eherkenning.nl
 www.elkeregiotelt.nl
 www.emissieautoriteit.nl
 www.emissionsauthority.nl

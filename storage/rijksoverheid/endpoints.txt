@@ -649,6 +649,7 @@ https://acc-cms.projects.rvo.nl
 https://acc-cms.rvo.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.digitoegankelijk.nl
+https://acc-dictu.eherkenning.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
 https://acc-dictu.toegankelijkheidsverklaring.nl
@@ -2244,6 +2245,10 @@ https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://digid.nl
 https://digidafspraak.nederlandwereldwijd.nl
+https://digidentity-accept.sso.eherkenning.nl
+https://digidentity-preproduction.sso.eherkenning.nl
+https://digidentity-staging.sso.eherkenning.nl
+https://digidentity.sso.eherkenning.nl
 https://digidzakelijk.duo.nl
 https://digikoppeling.bkd.eu
 https://digikoppeling.waterschaplimburg.nl
@@ -2450,6 +2455,7 @@ https://egeo.rvo.nl
 https://eglam.maps.arcgis.com
 https://egvap.knmi.nl
 https://ehd.emissieautoriteit.nl
+https://eherkenning.nl
 https://ehp.emissieautoriteit.nl
 https://ehp2.emissieautoriteit.nl
 https://ehpzee.emissieautoriteit.nl
@@ -2619,6 +2625,7 @@ https://explorer.arcgis.com
 https://export.bkd.eu
 https://extern.formulierdus-i.nl
 https://extranet.cbr.nl
+https://extranet.eherkenning.nl
 https://extranet.onderwijsraad.nl
 https://extreemrechts.nctv.nl
 https://f2b.belastingdienst.nl
@@ -3503,6 +3510,10 @@ https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kostenkentallen.rvo.nl
 https://kpm.jeugdconnect.nl
+https://kpn-eid-acc.sso.eherkenning.nl
+https://kpn-eid-dev.drp.sso.eherkenning.nl
+https://kpn-eid-pp.sso.eherkenning.nl
+https://kpn-eid.sso.eherkenning.nl
 https://ktv-servicedesk.ciz.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://laadinfrastructuur.databank.nl
@@ -4147,6 +4158,8 @@ https://onderzoek.svb.nl
 https://onderzoek.wegwijzer.overheid.nl
 https://onderzoek2.cbs.nl
 https://onehealth.nl
+https://onewelcome-staging.sso.eherkenning.nl
+https://onewelcome.sso.eherkenning.nl
 https://online-maps-fontanaca.hub.arcgis.com
 https://online.rijksinnovatiecommunity.nl
 https://ons.communicatierijk.nl
@@ -4642,6 +4655,7 @@ https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.digitoegankelijk.nl
+https://prod-dictu.eherkenning.nl
 https://prod-dictu.logius.nl
 https://prod-dictu.toegankelijkheidsverklaring.nl
 https://prod.asbestvolgsysteem.nl
@@ -4771,6 +4785,9 @@ https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
 https://rechtsbijstand.nl
 https://rechtwijzer.nl
+https://reconi-etoegang-acc.sso.eherkenning.nl
+https://reconi-etoegang-pp.sso.eherkenning.nl
+https://reconi-etoegang.sso.eherkenning.nl
 https://redactie-tl.iplo.nl
 https://redactie.aquo.nl
 https://redactie.brandweer.nl
@@ -5055,6 +5072,9 @@ https://shopper.huurcommissie.nl
 https://sib-eopg-acc.aivd.nl
 https://sib-eopg.aivd.nl
 https://siecc-ieecc-ieecc.hub.arcgis.com
+https://signicat-qa.sso.eherkenning.nl
+https://signicat-staging.sso.eherkenning.nl
+https://signicat.sso.eherkenning.nl
 https://signing.pre.brabant.nl
 https://simcms.ahn.nl
 https://simplesamlidp-acc.dictu.nl
@@ -5320,6 +5340,7 @@ https://test-connect.aerius.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.digitoegankelijk.nl
+https://test-dictu.eherkenning.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-dictu.toegankelijkheidsverklaring.nl
@@ -6262,6 +6283,7 @@ https://www.eersteenthuis.nl
 https://www.eerstekamer.nl
 https://www.efeat.org
 https://www.efsca.org
+https://www.eherkenning.nl
 https://www.elkeregiotelt.nl
 https://www.emissieautoriteit.nl
 https://www.emissionsauthority.nl
