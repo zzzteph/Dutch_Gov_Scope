@@ -36,10 +36,10 @@ a-feeds.a-english
 a-opendata.a-english
 portaal
 werkenbij
+kennisbank
 login
 smtp
 apps
-kennisbank
 zoeken
 beheer
 open
@@ -160,6 +160,7 @@ b2btest-osb
 b2btest-rijks
 b2btest
 beta
+merkportaal
 mta-sts
 sharepoint-acc
 sharepoint-conf
@@ -281,7 +282,6 @@ filetransfer
 govroam
 gtmt
 huisstijl
-merkportaal
 mijn-acc1
 mijn.acc
 mysites
@@ -456,11 +456,13 @@ fed
 handboek
 papiamento
 elo
+ontheffingaanvragen
 pdok
 vacature
 communicatie
 api-a
 mr
+melding
 api-dev
 gateway
 cm
@@ -5203,7 +5205,6 @@ toolbox
 communicatieportaal
 handhaving
 magazinesintern.english
-ontheffingaanvragen
 vrijstellingmelden
 buurtatlas
 mondgezondheidsdashboard
@@ -5444,7 +5445,6 @@ legend
 lightning
 mattermost
 meander
-melding
 mgmt
 nexus-docker
 nexus
@@ -7683,3 +7683,9 @@ wft
 xbrlonderwijsportaal-acp
 xbrlonderwijsportaal
 xml-test
+betalentolpassage
+bezwaarmaken
+correctieaanvragen
+edsdiensten
+herinneringtolbetalen
+tolpaymentapi

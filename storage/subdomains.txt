@@ -1995,6 +1995,7 @@ betalen.str12.acc.belastingdienst.nl
 betalen.str13.acc.belastingdienst.nl
 betalen.str14.acc.belastingdienst.nl
 betalen.str30.acc.belastingdienst.nl
+betalentolpassage.e-tol.nl
 betalinkeddata.cbs.nl
 betaopendata.cbs.nl
 beterwordenvancorona.zuid-holland.nl
@@ -2013,6 +2014,7 @@ bezoekersdata.flevoland.nl
 bezpiecznykrakow-gmk.hub.arcgis.com
 bezwaar.atkm.nl
 bezwaar.cvdm.nl
+bezwaarmaken.e-tol.nl
 bezwaarschriftenocw.nl
 bf.chm-cbd.net
 bf.test.chm-cbd.net
@@ -2847,6 +2849,7 @@ coronavirus-response-state-college-borough-statecollegepa.hub.arcgis.com
 coronavirus-vaccine-outreach-cityoflakes.hub.arcgis.com
 coronavirus-vaccine-outreach-statelocaltryit.hub.arcgis.com
 coronavirus-vaccine-outreach-tapi.hub.arcgis.com
+correctieaanvragen.e-tol.nl
 corsa-acpt.brabant.nl
 corsa.brabant.nl
 corsa2023.brabant.nl
@@ -3563,6 +3566,7 @@ e-loket.ilent.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 e-mjv.nl
+e-tol.nl
 e.acc.videobellen.douane.nl
 e.acc.videobellen.toeslagen.nl
 e.aofondsrijk.nl
@@ -3616,6 +3620,7 @@ editor-drp.overheid.nl
 editorial.defensie.nl
 edocs.hhdelfland.nl
 edocstest.hhdelfland.nl
+edsdiensten.e-tol.nl
 edu-iam.mijnoctrooi.mypage.rvo.nl
 edu-mijnoctrooi.rvo.nl
 edu.efiling.mijnoctrooi.rvo.nl
@@ -4798,6 +4803,7 @@ helpdesk.cultuurparticipatie.nl
 helpdesk.irealisatie.nl
 helpdesk.machtigen.digid.nl
 helpmee.cbs.nl
+herinneringtolbetalen.e-tol.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
 hetverhaalvan.flevoland.nl
@@ -5349,6 +5355,7 @@ kennisbank-tst.rvo.nl
 kennisbank.agroforestrynetwerk.nl
 kennisbank.digitoegankelijk.nl
 kennisbank.douane.nl
+kennisbank.e-tol.nl
 kennisbank.hhdelfland.nl
 kennisbank.kiesraad.nl
 kennisbank.logius.nl
@@ -6020,6 +6027,7 @@ meeting.acm.nl
 meeting.services.acm.nl
 melding-cmoa.cvdm.nl
 melding.aerius.nl
+melding.e-tol.nl
 meldingbwt.odmh.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
@@ -6041,6 +6049,7 @@ mercurius.sso3w.nl
 meridian.rijkswaterstaat.nl
 merkportaal.belastingdienst.nl
 merkportaal.dnb.nl
+merkportaal.e-tol.nl
 messagebox.test.ggdcontact.irealisatie.nl
 mestobb.maps.arcgis.com
 metabase.cultuurparticipatie.nl
@@ -6798,6 +6807,7 @@ ont.live.rijkswaterstaat.nl
 ont.live.werkenbij.rijkswaterstaat.nl
 ont.staging.rijkswaterstaat.nl
 ont.staging.werkenbij.rijkswaterstaat.nl
+ontheffingaanvragen.e-tol.nl
 ontheffingaanvragen.vrachtwagenheffing.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
@@ -9217,6 +9227,7 @@ toezichtresultaten.acc.onderwijsinspectie.nl
 toezichtresultaten.nl
 toezichtresultaten.onderwijsinspectie.nl
 toezichtsociaaldomein.nl
+tolpaymentapi.e-tol.nl
 toolbox-extremisme.nctv.nl
 toolbox.veiligepubliekedienstverlening.nl
 toolkit.cruksregister.nl
@@ -10588,6 +10599,7 @@ www.dynamo-hia.eu
 www.e-akkoord.nl
 www.e-cert.nl
 www.e-mjv.nl
+www.e-tol.nl
 www.economicdiplomacy.rvo.nl
 www.eentegeneenzaamheid.nl
 www.eersteenthuis.nl
