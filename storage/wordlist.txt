@@ -6,8 +6,8 @@ mail
 autodiscover
 english
 acc
-a-www
 test
+a-www
 a-opendata
 a-feeds
 mijn
@@ -25,9 +25,9 @@ _dmarc
 werkplek
 www-acc
 staging
+prod
 formulieren
 data
-prod
 redactie
 connect
 a-english
