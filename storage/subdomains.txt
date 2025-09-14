@@ -603,6 +603,7 @@ acc-cms.rvo.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.digitoegankelijk.nl
 acc-dictu.eherkenning.nl
+acc-dictu.forumstandaardisatie.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
 acc-dictu.toegankelijkheidsverklaring.nl
@@ -4451,6 +4452,7 @@ fortescloud.belastingdienst.nl
 forum.developer.overheid.nl
 forum.raadopenbaarbestuur.nl
 forums.arcgis.com
+forumstandaardisatie.nl
 foto-opdracht.cultureelerfgoed.nl
 fourdigitstest.iuc.rijkscloud.nl
 fpm-fema.hub.arcgis.com
@@ -5951,6 +5953,7 @@ magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazine.arbeidsmarktplatformpo.nl
 magazine.caop.nl
+magazine.forumstandaardisatie.nl
 magazine.zuid-holland.nl
 magazines-ienw.rijksoverheid.nl
 magazines.agendastad.nl
@@ -7783,6 +7786,7 @@ prod-cms.digid.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.digitoegankelijk.nl
 prod-dictu.eherkenning.nl
+prod-dictu.forumstandaardisatie.nl
 prod-dictu.logius.nl
 prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
@@ -9263,6 +9267,7 @@ test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
 test-dictu.digitoegankelijk.nl
 test-dictu.eherkenning.nl
+test-dictu.forumstandaardisatie.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
 test-dictu.toegankelijkheidsverklaring.nl
@@ -10998,6 +11003,7 @@ www.forensicinstitute.nl
 www.forensischezorg.nl
 www.forensischinstituut.nl
 www.formulierdus-i.nl
+www.forumstandaardisatie.nl
 www.fryslan.databank.nl
 www.functiegebouwrijksoverheid.nl
 www.gelderland.databank.nl

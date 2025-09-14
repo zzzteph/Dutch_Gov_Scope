@@ -107,6 +107,9 @@ m
 repository
 lyncdiscover
 geoweb
+acc-dictu
+prod-dictu
+test-dictu
 mx1
 aanvragen
 mail2
@@ -150,12 +153,10 @@ files
 git
 extranet
 nieuwsbrieven
-acc-dictu
-prod-dictu
-test-dictu
 magazinesintern
 statistiek
 support
+magazine
 luchtfoto
 ontwikkel
 pushmail
@@ -256,7 +257,6 @@ www.staging
 siam
 events
 securemail
-magazine
 acc-www
 www.test
 vragen
