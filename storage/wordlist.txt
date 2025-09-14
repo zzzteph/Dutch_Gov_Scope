@@ -63,6 +63,7 @@ www-ow
 www-ts
 e
 preview
+dev
 fs
 werken
 acceptatie.beheer
@@ -83,7 +84,6 @@ www-tst2
 loket
 zaaksysteem
 inloggen
-dev
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -322,6 +322,7 @@ onderhoud
 seg
 status
 tunnel
+upload
 vpn1
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
@@ -458,6 +459,7 @@ accp
 register
 fed
 handboek
+s3
 papiamento
 elo
 ontheffingaanvragen
@@ -1554,7 +1556,6 @@ test.status
 tunnel1
 uitgaven
 uitwisseling
-upload
 videoplatform
 videos
 vocabs
@@ -5166,7 +5167,6 @@ s1
 s2-acc1
 s2
 s3-acc1
-s3
 schadeherstel.acc
 schadeherstel
 sign1-acc
@@ -7871,3 +7871,21 @@ worldwide-no-apigee
 worldwide-o-no-apigee
 worldwide-o
 worldwide
+afsprakenstelsel-acc
+afsprakenstelsel
+aggregator-acc
+aggregator-dev
+aggregator-tst
+aggregator.acc
+aggregator
+datareportr.acc
+datareportr
+datareportr.pre
+rapportage
+s3.acc
+simulator-acc
+simulator-dev
+simulator-tst
+simulator.acc
+simulator
+upload.acc

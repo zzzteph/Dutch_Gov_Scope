@@ -954,6 +954,7 @@ https://afro-gis-center-who.hub.arcgis.com
 https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
 https://afspraken.cbs.nl
+https://afsprakenstelsel.etoegang.nl
 https://afvalcirculair.nl
 https://afvalmonitor.databank.nl
 https://agc-coastal-soa-dnr.hub.arcgis.com
@@ -964,6 +965,7 @@ https://agenda-regulatoria-rio-aguas-bienio-2025-2026-pcrj.hub.arcgis.com
 https://agendalaadinfrastructuur.nl
 https://agendastad.nl
 https://agendavoorhetwaddengebied2050.nl
+https://aggregator.etoegang.nl
 https://agic-symposium-maps-and-apps-agic.hub.arcgis.com
 https://agnes50-noaa.hub.arcgis.com
 https://agnicoeagle.maps.arcgis.com
@@ -2152,6 +2154,8 @@ https://dataportaal.cbs.nl
 https://dataportaal.eiti.nl
 https://dataportal.cbs.nl
 https://dataquality.ndw.nu
+https://datareportr.etoegang.nl
+https://datareportr.pre.etoegang.nl
 https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
@@ -5051,6 +5055,7 @@ https://rws-bic-p01.bics.nl
 https://rwsinnoveert.nl
 https://s.checkjeprijs.huurcommissie.nl
 https://s.ndw.nu
+https://s3.etoegang.nl
 https://s4a.brabant.nl
 https://s4p.brabant.nl
 https://sa.belastingdienst.nl
@@ -5175,6 +5180,7 @@ https://signing.pre.brabant.nl
 https://simcms.ahn.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
+https://simulator.etoegang.nl
 https://sip.coa.nl
 https://sip.om.nl
 https://sip.rijksrecherche.nl
@@ -5669,6 +5675,7 @@ https://umbraco.cito.nl
 https://unhcoopext.maps.arcgis.com
 https://uno.dfront.rijkscloud.nl
 https://upload.cbs.nl
+https://upload.etoegang.nl
 https://uploadmodule-acc.rdi.nl
 https://uploadmodule.rdi.nl
 https://upnl-idp.rvo.nl

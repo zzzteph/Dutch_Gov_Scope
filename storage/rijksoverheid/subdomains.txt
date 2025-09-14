@@ -713,6 +713,7 @@ acc.e-loket.ilent.nl
 acc.eentegeneenzaamheid.nl
 acc.eidas-stub.lpc.mijn.overheid.nl
 acc.ep-online.nl
+acc.etoegang.nl
 acc.eva.logius.nl
 acc.expenses.sso3w.nl
 acc.fhub.dictu.nl
@@ -1104,6 +1105,8 @@ afro-gis-center-who.hub.arcgis.com
 afspraak.domeinenrz.nl
 afspraken.belastingdienst.nl
 afspraken.cbs.nl
+afsprakenstelsel-acc.etoegang.nl
+afsprakenstelsel.etoegang.nl
 afvalcirculair.nl
 afvalmonitor.databank.nl
 ag-dcr.cibg.nl
@@ -1115,6 +1118,11 @@ agenda-regulatoria-rio-aguas-bienio-2025-2026-pcrj.hub.arcgis.com
 agendalaadinfrastructuur.nl
 agendastad.nl
 agendavoorhetwaddengebied2050.nl
+aggregator-acc.etoegang.nl
+aggregator-dev.etoegang.nl
+aggregator-tst.etoegang.nl
+aggregator.acc.etoegang.nl
+aggregator.etoegang.nl
 agic-symposium-maps-and-apps-agic.hub.arcgis.com
 agnes50-noaa.hub.arcgis.com
 agnicoeagle.maps.arcgis.com
@@ -3117,6 +3125,9 @@ dataportaal.cbs.nl
 dataportaal.eiti.nl
 dataportal.cbs.nl
 dataquality.ndw.nu
+datareportr.acc.etoegang.nl
+datareportr.etoegang.nl
+datareportr.pre.etoegang.nl
 dataservice.basisinformatie-overstromingen.nl
 dataset.cbs.nl
 datasets.cbs.nl
@@ -3241,6 +3252,7 @@ dev.connect.acm.nl
 dev.crimediggers.nl
 dev.dataverkenner.knmi.nl
 dev.dementieinkaart.nl
+dev.etoegang.nl
 dev.fib.ienw.rijkscloud.nl
 dev.informatieservice.nederlandwereldwijd.nl
 dev.kennisbankterrorisme.nctv.nl
@@ -3932,6 +3944,7 @@ etoegang-mtls-zakelijk.belastingdienst.nl
 etoegang-mtls.belastingdienst.nl
 etoegang-ont.belastingdienst.nl
 etoegang-tst.belastingdienst.nl
+etoegang.nl
 eu1-iot.arcgis.com
 eu2016.cbs.nl
 eubtw-acc.belastingdienst.nl
@@ -7896,6 +7909,7 @@ rally.gn3.rijkscloud.nl
 rancher.facet.rijkscloud.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
+rapportage.etoegang.nl
 rapportagecvvo-a.cito.nl
 rapportagecvvo.cito.nl
 rapportagelibvo-a.cito.nl
@@ -8281,6 +8295,8 @@ s10013-out.eerstekamer.nl
 s2-acc1.toeslagen.nl
 s2.toeslagen.nl
 s3-acc1.toeslagen.nl
+s3.acc.etoegang.nl
+s3.etoegang.nl
 s3.toeslagen.nl
 s4a.brabant.nl
 s4o.brabant.nl
@@ -8623,6 +8639,11 @@ simcms.ahn.nl
 simlandscape.alterra.nl
 simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
+simulator-acc.etoegang.nl
+simulator-dev.etoegang.nl
+simulator-tst.etoegang.nl
+simulator.acc.etoegang.nl
+simulator.etoegang.nl
 sip.cbg-meb.nl
 sip.coa.nl
 sip.emissieautoriteit.nl
@@ -9572,7 +9593,9 @@ umbracodev.dnb.nl
 umbracoprd.dnb.nl
 unhcoopext.maps.arcgis.com
 uno.dfront.rijkscloud.nl
+upload.acc.etoegang.nl
 upload.cbs.nl
+upload.etoegang.nl
 upload.secure.cito.nl
 uploadmodule-acc.rdi.nl
 uploadmodule.rdi.nl
