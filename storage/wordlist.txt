@@ -39,6 +39,7 @@ werkenbij
 kennisbank
 login
 smtp
+portal
 apps
 zoeken
 beheer
@@ -46,7 +47,6 @@ open
 meet
 sip
 ftp
-portal
 proto
 www-ac
 www-dev
@@ -7895,3 +7895,5 @@ ecoc-a
 ecoc-o
 ecoc-t
 20072020
+portal-ams
+www.portal
