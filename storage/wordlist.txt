@@ -21,10 +21,10 @@ acceptatie
 vpn
 intranet
 cms
+werkplek
 www-acc
 _dmarc
 staging
-werkplek
 data
 prod
 formulieren
@@ -34,11 +34,11 @@ a-english
 remote
 a-feeds.a-english
 a-opendata.a-english
+smtp
 portaal
 werkenbij
 kennisbank
 login
-smtp
 portal
 apps
 zoeken
@@ -52,6 +52,7 @@ www-ac
 www-dev
 www-p
 www-tst
+dev
 link
 webservices
 app
@@ -64,7 +65,6 @@ www-ow
 www-ts
 e
 preview
-dev
 adobe-analytics-dc
 adobe-tags
 fs
@@ -87,6 +87,7 @@ loket
 zaaksysteem
 inloggen
 tst
+jaarverslag
 papiamentu
 enterpriseenrollment
 enterpriseregistration
@@ -102,9 +103,9 @@ mam
 a-magazines
 ns1
 forms
+m
 repository
 lyncdiscover
-jaarverslag
 geoweb
 mx1
 aanvragen
@@ -143,7 +144,6 @@ connect-acpt
 www.mijn
 www-a
 zaaksysteem-acc
-m
 vt
 chat
 files
@@ -278,6 +278,7 @@ b2b-rijks
 betalen
 delta
 download
+evenementen
 fibd1
 fibd2.acc
 fibt1
@@ -698,7 +699,6 @@ eux-tao
 evat-test2
 evat
 evatbeheer
-evenementen
 event.acc
 event
 event.tst
@@ -7917,3 +7917,11 @@ bes-acc
 bes
 meldportaal-acc
 meldportaal
+commotie
+meerjarig
+meerjarigeadviezen
+phished
+sites
+web-protagonist
+web-transip
+www.evenementen
