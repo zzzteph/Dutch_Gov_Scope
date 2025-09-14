@@ -456,6 +456,7 @@ admin
 download.mail
 dc
 accp
+apps-a
 register
 fed
 handboek
@@ -5006,7 +5007,6 @@ app-a
 app-o
 app-t
 applicationstest
-apps-a
 assyst-a
 assyst-t
 assyst
@@ -7889,3 +7889,8 @@ simulator-tst
 simulator.acc
 simulator
 upload.acc
+apps-o
+apps-t
+ecoc-a
+ecoc-o
+ecoc-t

@@ -1449,9 +1449,12 @@ applicaties.rvo.nl
 applicationframework.cibg.nl
 applications.klopt.cibg.nl
 applicationstest.svb.nl
+apps-a.eucaris.net
 apps-a.svb.nl
 apps-dev.vechtstromen.nl
 apps-nccde.hub.arcgis.com
+apps-o.eucaris.net
+apps-t.eucaris.net
 apps-tst.vechtstromen.nl
 apps.acceptatie.feedfoodtransfer.nl
 apps.acm.nl
@@ -3678,6 +3681,9 @@ eco-p-az1.elastic.lpc.logius.nl
 eco-p-az1.kibana.lpc.logius.nl
 eco-p-az2.elastic.lpc.logius.nl
 eco-p-az2.kibana.lpc.logius.nl
+ecoc-a.eucaris.net
+ecoc-o.eucaris.net
+ecoc-t.eucaris.net
 economicdiplomacy.rvo.nl
 ecu.maps.arcgis.com
 ecxs.knmi.nl
@@ -3953,6 +3959,7 @@ eubtw.str15.acc.belastingdienst.nl
 eubtw.str2.tst.belastingdienst.nl
 euc1-geocode.arcgis.com
 euc1-tiledbasemaps.arcgis.com
+eucaris.net
 euem.dictu.nl
 eula.flevoland.nl
 eumet.knmi.nl
@@ -10880,6 +10887,7 @@ www.erelijst.nl
 www.erfgoeddeal.nl
 www.ertms.nl
 www.espacenet.com
+www.eucaris.net
 www.euthanasiecommissie.nl
 www.evenementenbureauvws.nl
 www.examenblad.nl
