@@ -1042,11 +1042,13 @@ adobe-analytics-dc.amlc.eu
 adobe-analytics-dc.amlc.nl
 adobe-analytics-dc.belastingdienst.nl
 adobe-analytics-dc.douane.nl
+adobe-analytics-dc.fiod.nl
 adobe-analytics-dc.toeslagen.nl
 adobe-tags.amlc.eu
 adobe-tags.amlc.nl
 adobe-tags.belastingdienst.nl
 adobe-tags.douane.nl
+adobe-tags.fiod.nl
 adobe-tags.toeslagen.nl
 adopt-a-block-dcgis.hub.arcgis.com
 adopt-a-catch-basin-southcity.hub.arcgis.com
@@ -4387,6 +4389,7 @@ financieel.cbr.nl
 financieelfittewerknemers.nl
 financiengemeenten.nl
 fiod.acc.belastingdienst.nl
+fiod.nl
 firehose.dnb.nl
 flair-demo.flevoland.nl
 flevoland.nl
@@ -5503,6 +5506,7 @@ kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
 kennis.caop.nl
 kennis.cultureelerfgoed.nl
+kennis.fiod.nl
 kennis.hdsr.nl
 kennis.nponderwijs.nl
 kennis.waterschaplimburg.nl
@@ -7552,6 +7556,7 @@ plantool.huurcommissie.nl
 platform-acc.analyse.ilt.rijkscloud.nl
 platform.analyse.ilt.rijkscloud.nl
 platformafpakken-fiod.acc.belastingdienst.nl
+platformafpakken.fiod.nl
 platformrijksoverheid.nl
 plato.dictu.nl
 playground.commabz.nl
@@ -10961,6 +10966,7 @@ www.filmfonds.nl
 www.financieelfittewerknemers.nl
 www.financiengemeenten.nl
 www.findo.nl
+www.fiod.nl
 www.flevoland.nl
 www.fmhaaglanden.nl
 www.forensicinstitute.nl

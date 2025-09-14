@@ -59,11 +59,14 @@ geoservices
 onderzoek
 digikoppeling
 geo
+kennis
 www-ow
 www-ts
 e
 preview
 dev
+adobe-analytics-dc
+adobe-tags
 fs
 werken
 acceptatie.beheer
@@ -74,7 +77,6 @@ dialin
 mdm
 elearning
 cdn
-kennis
 adfs
 www2
 www-acc2
@@ -86,8 +88,6 @@ zaaksysteem
 inloggen
 tst
 papiamentu
-adobe-analytics-dc
-adobe-tags
 enterpriseenrollment
 enterpriseregistration
 services
@@ -7912,3 +7912,4 @@ filmexploitatie
 token
 www.aanvragen
 www.thuiswerken
+platformafpakken
