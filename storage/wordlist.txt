@@ -84,6 +84,7 @@ www-tst2
 loket
 zaaksysteem
 inloggen
+tst
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -95,12 +96,12 @@ acceptatie.mijn
 atlas
 kaarten
 publicaties
+demo
 dwo
 mam
 a-magazines
 ns1
 forms
-tst
 repository
 lyncdiscover
 jaarverslag
@@ -121,7 +122,6 @@ id
 wifi
 helpdesk
 acc2
-demo
 static
 academy
 designsystem
@@ -308,6 +308,8 @@ proxy
 samenwerken
 sis
 werkenvoor
+uzi.acc
+uzi
 web.acc
 broker
 uptime
@@ -1373,8 +1375,6 @@ xential-acpt
 xential
 keiko
 sftp-out
-uzi.acc
-uzi
 uzi.test
 viep.acc
 viep
@@ -7900,3 +7900,11 @@ www.portal
 cpcalendars
 cpcontacts
 webdisk
+demo.acc
+demo1.tst
+demo2.tst
+demo3.tst
+demo4.tst
+rp1.acc
+rp1
+rp1.tst
