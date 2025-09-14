@@ -11,8 +11,8 @@ a-www
 a-opendata
 a-feeds
 mijn
-_autodiscover._tcp
 webmail
+_autodiscover._tcp
 magazines
 api
 feeds.english
@@ -429,6 +429,7 @@ zandbak
 transfer
 access
 pop
+cpanel
 e-learning
 import-acc.organisaties
 import.organisaties
@@ -3116,7 +3117,6 @@ werkplaats-acc
 werkplaats
 pvs
 wooincijfers
-cpanel
 acc-energielabels.gebouwen
 acc-int.mijn
 acc-internationaal.ondernemen
@@ -7897,3 +7897,6 @@ ecoc-t
 20072020
 portal-ams
 www.portal
+cpcalendars
+cpcontacts
+webdisk
