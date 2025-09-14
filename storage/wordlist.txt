@@ -107,6 +107,8 @@ lyncdiscover
 jaarverslag
 geoweb
 mx1
+aanvragen
+mail2
 eloket
 maps
 testeloket
@@ -151,10 +153,8 @@ nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
-aanvragen
 magazinesintern
 statistiek
-mail2
 support
 luchtfoto
 ontwikkel
@@ -315,6 +315,7 @@ broker
 uptime
 ws-acc
 ws
+www.mail
 ts
 cn
 content
@@ -492,8 +493,10 @@ tracking
 be
 fr
 matomo
+thuiswerken
 tst-www
 develop
+assets
 t1
 stage
 geoportal
@@ -1396,7 +1399,6 @@ sso-test-tno
 test-tno
 www.zoekeentolkvertaler
 zoekeentolkvertaler
-www.mail
 relay1
 relay2
 av
@@ -6810,7 +6812,6 @@ thinkwiseprovisioning-o
 thinkwiseprovisioning-t
 thinkwiseprovisioning
 thuisindecitotoets
-thuiswerken
 tiaplus
 toetsportaal
 training-advies
@@ -6968,7 +6969,6 @@ aims
 airbyte
 ambitie
 ansible
-assets
 augurk
 cloudie
 crystal
@@ -7908,3 +7908,7 @@ demo4.tst
 rp1.acc
 rp1
 rp1.tst
+filmexploitatie
+token
+www.aanvragen
+www.thuiswerken
