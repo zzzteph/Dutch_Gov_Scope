@@ -252,6 +252,7 @@ analytics
 iam
 sentry
 media
+cpanel
 organisaties
 developer
 monitor
@@ -435,7 +436,6 @@ zandbak
 transfer
 access
 pop
-cpanel
 e-learning
 import-acc.organisaties
 import.organisaties
@@ -479,6 +479,7 @@ mr
 melding
 api-dev
 gateway
+viewer
 test.redactie
 cm
 experience
@@ -504,6 +505,9 @@ t1
 idp
 stage
 postmaster
+cpcalendars
+cpcontacts
+webdisk
 sub
 geoportal
 gisservices
@@ -5524,7 +5528,6 @@ www.digitaal.loket
 www.loket
 infographic
 simcms
-viewer
 bestanden
 shop
 auteurs
@@ -7898,9 +7901,6 @@ ecoc-t
 20072020
 portal-ams
 www.portal
-cpcalendars
-cpcontacts
-webdisk
 demo.acc
 demo1.tst
 demo2.tst
@@ -8540,3 +8540,8 @@ applications-acc
 applications
 idp-acc
 stats-acc
+globioweb-acc
+globioweb
+globiowebapi-acc
+globiowebapi
+www.viewer

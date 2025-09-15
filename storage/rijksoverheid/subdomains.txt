@@ -2199,6 +2199,7 @@ autodiscover.domeinenrz.nl
 autodiscover.duo.nl
 autodiscover.eerstekamer.nl
 autodiscover.flevoland.nl
+autodiscover.globio.info
 autodiscover.hdsr.nl
 autodiscover.hhdelfland.nl
 autodiscover.huisvoorklokkenluiders.nl
@@ -3450,6 +3451,7 @@ covid19-sbcph.hub.arcgis.com
 cp-public-info-castlepines.hub.arcgis.com
 cp.vcdn.belastingdienst.nl
 cpanel.farmingthefuture.nl
+cpanel.globio.info
 cpanel.opwegnaarseb.nl
 cpapps.belastingdienst.nl
 cparegister.nl
@@ -3459,7 +3461,9 @@ cpb-mail-l02p.cpb.nl
 cpb-xtweb-l01p.cpb.nl
 cpb.nl
 cpcalendars.farmingthefuture.nl
+cpcalendars.globio.info
 cpcontacts.farmingthefuture.nl
+cpcontacts.globio.info
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
 cprsprod.afm.nl
@@ -5344,6 +5348,11 @@ globalentry-rtp.nl
 globalhealthhub.nl
 globemission.eu
 globil-panda.opendata.arcgis.com
+globio.info
+globioweb-acc.globio.info
+globioweb.globio.info
+globiowebapi-acc.globio.info
+globiowebapi.globio.info
 gm-pre.mev.logius.nl
 gm.mev.logius.nl
 gn.chm-cbd.net
@@ -6628,6 +6637,7 @@ mail.filmfonds.nl
 mail.flevoland.nl
 mail.forensicinstitute.nl
 mail.forensischinstituut.nl
+mail.globio.info
 mail.gn2.rijkscloud.nl
 mail.handelingenbank.info
 mail.huurcommissie.nl
@@ -10526,6 +10536,7 @@ viep.acc.brba.nl
 viep.brba.nl
 viep.test.brba.nl
 viewer.ahn.nl
+viewer.globio.info
 viewer.test.zm.irealisatie.nl
 vild.ndw.nu
 vinden.belastingdienst.nl
@@ -10787,6 +10798,7 @@ webdiensten.str4.acc.belastingdienst.nl
 webdiensten8.belastingdienst.nl
 webdiensten8.str1.acc.belastingdienst.nl
 webdisk.farmingthefuture.nl
+webdisk.globio.info
 webform.rvo.nl
 webforms.acc.belastingdienst.nl
 webforms.belastingdienst.nl
@@ -10814,6 +10826,7 @@ webmail.duo.nl
 webmail.eurofawc.com
 webmail.farmingthefuture.nl
 webmail.flevoland.nl
+webmail.globio.info
 webmail.huurcommissie.nl
 webmail.knmi.nl
 webmail.ofgv.nl
@@ -11674,6 +11687,7 @@ www.gipinfo.nl
 www.globalentry-rtp.nl
 www.globalhealthhub.nl
 www.globemission.eu
+www.globio.info
 www.gobernadoraruba.com
 www.gobernadorkorsou.com
 www.gobiernodireino.nl
@@ -12056,6 +12070,7 @@ www.vergoedingsns.nl
 www.verhalenoverdeoorlog.nl
 www.versterkencyberweerbaarheid.nl
 www.veterinairtuchtcollege.nl
+www.viewer.globio.info
 www.vnacs.nl
 www.volkshuisvestingnederland.nl
 www.voordejeugdenhetgezin.nl

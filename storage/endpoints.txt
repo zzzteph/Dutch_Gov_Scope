@@ -1818,6 +1818,7 @@ https://autodiscover.cdfd.nl
 https://autodiscover.cjib.nl
 https://autodiscover.coa.nl
 https://autodiscover.cvte.nl
+https://autodiscover.globio.info
 https://autodiscover.huisvoorklokkenluiders.nl
 https://autodiscover.hwbp.nl
 https://autodiscover.koop.overheid.nl
@@ -2555,10 +2556,13 @@ https://covid19-bangor.hub.arcgis.com
 https://covid19-emsina.hub.arcgis.com
 https://covid19-sbcph.hub.arcgis.com
 https://cp-public-info-castlepines.hub.arcgis.com
+https://cpanel.globio.info
 https://cpanel.opwegnaarseb.nl
 https://cparegister.nl
 https://cpb-xtweb-l01p.cpb.nl
 https://cpb.nl
+https://cpcalendars.globio.info
+https://cpcontacts.globio.info
 https://crc-hub-segrass.hub.arcgis.com
 https://crimediggers.nl
 https://crisis.nl
@@ -3718,6 +3722,9 @@ https://gl1.ncsc.nl
 https://gladheid.knmi.nl
 https://globalhealthhub.nl
 https://globil-panda.opendata.arcgis.com
+https://globio.info
+https://globioweb.globio.info
+https://globiowebapi.globio.info
 https://gn.chm-cbd.net
 https://gn2.meet.rijkscloud.nl
 https://gn3.meet.rijkscloud.nl
@@ -4433,6 +4440,7 @@ https://mail.dihoo.nl
 https://mail.efsca.org
 https://mail.eurofawc.com
 https://mail.ewnederland.nl
+https://mail.globio.info
 https://mail.handelingenbank.info
 https://mail.koop.overheid.nl
 https://mail.mass.cultureelerfgoed.nl
@@ -6464,6 +6472,7 @@ https://viep.acc.brba.nl
 https://viep.brba.nl
 https://viep.test.brba.nl
 https://viewer.ahn.nl
+https://viewer.globio.info
 https://vild.ndw.nu
 https://vinden.belastingdienst.nl
 https://virtueel.zuid-holland.nl
@@ -6573,6 +6582,7 @@ https://webcast.brabant.nl
 https://webchat.klopt.cibg.nl
 https://webdiensten.belastingdienst.nl
 https://webdiensten.hdsr.nl
+https://webdisk.globio.info
 https://webform.rvo.nl
 https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
@@ -6584,6 +6594,7 @@ https://webmail.brandweer.nl
 https://webmail.caop.nl
 https://webmail.eurofawc.com
 https://webmail.flevoland.nl
+https://webmail.globio.info
 https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
 https://webmail.rijkscloud.nl
@@ -7186,6 +7197,7 @@ https://www.gipdatabank.nl
 https://www.globalentry-rtp.nl
 https://www.globalhealthhub.nl
 https://www.globemission.eu
+https://www.globio.info
 https://www.gobernadoraruba.com
 https://www.gobernadorkorsou.com
 https://www.gobiernodireino.nl
@@ -7519,6 +7531,7 @@ https://www.vergoedingsns.nl
 https://www.verhalenoverdeoorlog.nl
 https://www.versterkencyberweerbaarheid.nl
 https://www.veterinairtuchtcollege.nl
+https://www.viewer.globio.info
 https://www.vnacs.nl
 https://www.volkshuisvestingnederland.nl
 https://www.voordejeugdenhetgezin.nl
