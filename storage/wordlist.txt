@@ -154,6 +154,7 @@ files
 git
 extranet
 nieuwsbrieven
+cpanel
 magazinesintern
 statistiek
 support
@@ -252,7 +253,6 @@ analytics
 iam
 sentry
 media
-cpanel
 organisaties
 developer
 monitor
