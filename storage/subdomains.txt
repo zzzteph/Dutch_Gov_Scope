@@ -724,6 +724,7 @@ acc.federatieveservice.nl
 acc.fhub.dictu.nl
 acc.flevoland.nl
 acc.forensischezorg.nl
+acc.geluidgegevens.nl
 acc.gisextern.dictu.nl
 acc.gps-sa-api.sso3w.nl
 acc.gps-sa.sso3w.nl
@@ -4626,6 +4627,7 @@ gelderland.databank.nl
 geldlessen.nl
 gelijke-kansen.nl
 gelijkloon.mensenrechten.nl
+geluidgegevens.nl
 geluidskaart.odmh.nl
 gembrp.belastingdienst.nl
 gemeenten-a.svb.nl
@@ -11063,6 +11065,7 @@ www.geheugenvannederland.nl
 www.gelderland.databank.nl
 www.geldlessen.nl
 www.gelijke-kansen.nl
+www.geluidgegevens.nl
 www.geneesmiddeleninformatiebank.nl
 www.geobasisregistraties.nl
 www.geodata.alterra.nl
