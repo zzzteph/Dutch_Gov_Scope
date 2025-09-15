@@ -15,8 +15,8 @@ webmail
 _autodiscover._tcp
 magazines
 api
-feeds.english
 acceptatie
+feeds.english
 opendata.english
 vpn
 intranet
@@ -52,6 +52,8 @@ www-ac
 www-dev
 www-p
 www-tst
+e
+preview
 dev
 link
 webservices
@@ -64,8 +66,6 @@ geo
 kennis
 www-ow
 www-ts
-e
-preview
 adobe-analytics-dc
 adobe-tags
 fs
@@ -287,6 +287,7 @@ filetransfer
 govroam
 gtmt
 huisstijl
+jouw
 mijn-acc1
 mijn.acc
 mysites
@@ -502,6 +503,7 @@ assets
 t1
 stage
 postmaster
+sub
 geoportal
 gisservices
 gisservicesacc
@@ -820,7 +822,6 @@ intratst
 isamproxyont.ont
 jong
 jongerensite
-jouw
 kasdimsigning-cnf
 kasdimsigning
 kasdimsigning.test
@@ -7966,4 +7967,5 @@ toolkittaal
 volwassenheidsscan
 digiles
 themalessen
-sub
+aandeslag
+www.cms
