@@ -1773,6 +1773,7 @@ ansible.cultuurparticipatie.nl
 antennebureau.nl
 antenneregister.nl
 antisemitismebestrijding.nl
+antispam.halt.nl
 antwoord.cbs.nl
 anyc-acceptatie.ssc-ict.nl
 anyc-t01-a.ssc-ict.nl
@@ -4282,6 +4283,7 @@ edu-mijnoctrooi.rvo.nl
 edu.efiling.mijnoctrooi.rvo.nl
 edu.maps.arcgis.com
 edu.mijnoctrooi.mypage.rvo.nl
+educatie.halt.nl
 ee-i.espacenet.com
 ee.espacenet.com
 eef.waterschaplimburg.nl
@@ -5510,6 +5512,7 @@ gy.test.chm-cbd.net
 h2ons.waterschaplimburg.nl
 haaglanden.databank.nl
 halt-verwijs.jeugdconnect.nl
+halt.nl
 han-demo.chm-cbd.net
 handboek.bkd.eu
 handboek.toeslagen.nl
@@ -5560,6 +5563,9 @@ hielprikapp.pns.nl
 highcharts-acc.cbs.nl
 highcharts-test.cbs.nl
 highcharts.cbs.nl
+highlights2022.halt.nl
+highlights2023.halt.nl
+highlights2024.halt.nl
 hinc.databank.nl
 hip-acc.huurcommissie.nl
 hip.huurcommissie.nl
@@ -5722,6 +5728,7 @@ iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 imaer.aerius.nl
 images.analyse.ilt.rijkscloud.nl
+images.halt.nl
 img.denkmee.zuid-holland.nl
 img.openstad.zuid-holland.nl
 impactmonitortoerisme.databank.nl
@@ -6659,6 +6666,7 @@ mail.forensischinstituut.nl
 mail.globio.info
 mail.gn2.rijkscloud.nl
 mail.grknmi.nl
+mail.halt.nl
 mail.handelingenbank.info
 mail.huurcommissie.nl
 mail.ienw.rijkscloud.nl
@@ -6731,6 +6739,7 @@ mailhost.scp.nl
 mailing.cito.nl
 mailing.dictu.nl
 mailing.dus-i.nl
+mailing.halt.nl
 mailing.logius.nl
 mailings.dus-i.nl
 mailmdm.flevoland.nl
@@ -9593,6 +9602,7 @@ staging.donorregister.nl
 staging.duo.nl
 staging.e-cert.nl
 staging.english.ctpveldzicht.nl
+staging.halt.nl
 staging.inburgeren.nl
 staging.justitieconnect.nl
 staging.ndw.nu
@@ -10607,6 +10617,9 @@ voor1.rijksoverheid.nl
 voor2.rijksoverheid.nl
 voorbeelden.dejuistezorgopdejuisteplek.nl
 voordejeugdenhetgezin.nl
+voorlichting-api.halt.nl
+voorlichting-beheer.halt.nl
+voorlichting.halt.nl
 voorlichting.nederlandwereldwijd.nl
 voorlichting.rijksoverheid.nl
 voorlichting.wegwijzer.overheid.nl
@@ -11740,6 +11753,7 @@ www.groenalliantiemiddenholland.nl
 www.groenwonen.alterra.nl
 www.grondstoffenscanner.nl
 www.gtmx.acc.belastingdienst.nl
+www.halt.nl
 www.handelingenbank.info
 www.hansken.nl
 www.hdsr.nl

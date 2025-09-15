@@ -431,6 +431,7 @@ http://specials.brabant.nl
 http://ssl.cokz.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
+http://staging.halt.nl
 http://statistics.dnb.nl
 http://stats-acc.globalentry-rtp.nl
 http://stats.globalentry-rtp.nl
@@ -1603,6 +1604,7 @@ https://ansible.cultuurparticipatie.nl
 https://antennebureau.nl
 https://antenneregister.nl
 https://antisemitismebestrijding.nl
+https://antispam.halt.nl
 https://antwoord.cbs.nl
 https://anyc-t01-a.ssc-ict.nl
 https://anyc-t02.ssc-ict.nl
@@ -3059,6 +3061,7 @@ https://ediensten.ind.nl
 https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
 https://edu.maps.arcgis.com
+https://educatie.halt.nl
 https://ee-i.espacenet.com
 https://ee.espacenet.com
 https://eef.waterschaplimburg.nl
@@ -3800,6 +3803,7 @@ https://gy.chm-cbd.net
 https://gy.test.chm-cbd.net
 https://haaglanden.databank.nl
 https://halt-verwijs.jeugdconnect.nl
+https://halt.nl
 https://han-demo.chm-cbd.net
 https://handboek.bkd.eu
 https://handboek.toeslagen.nl
@@ -3832,6 +3836,9 @@ https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
 https://hhdelfland.nl
 https://highcharts.cbs.nl
+https://highlights2022.halt.nl
+https://highlights2023.halt.nl
+https://highlights2024.halt.nl
 https://hip-acc.huurcommissie.nl
 https://hip.huurcommissie.nl
 https://historical1.arcgis.com
@@ -3932,6 +3939,7 @@ https://ikz.nl
 https://ilent.nl
 https://imaer.aerius.nl
 https://images.analyse.ilt.rijkscloud.nl
+https://images.halt.nl
 https://img.denkmee.zuid-holland.nl
 https://impactmonitortoerisme.databank.nl
 https://import-acc.organisaties.overheid.nl
@@ -4462,6 +4470,7 @@ https://mail.eurofawc.com
 https://mail.ewnederland.nl
 https://mail.globio.info
 https://mail.grknmi.nl
+https://mail.halt.nl
 https://mail.handelingenbank.info
 https://mail.koop.overheid.nl
 https://mail.mass.cultureelerfgoed.nl
@@ -4482,6 +4491,7 @@ https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
 https://mailing.cito.nl
 https://mailing.dictu.nl
 https://mailing.dus-i.nl
+https://mailing.halt.nl
 https://mailing.logius.nl
 https://mailings.dus-i.nl
 https://maine.hub.arcgis.com
@@ -6520,6 +6530,9 @@ https://volkshuisvestingnederland.nl
 https://volwassenheidsscan.gebruikercentraal.nl
 https://voorbeelden.dejuistezorgopdejuisteplek.nl
 https://voordejeugdenhetgezin.nl
+https://voorlichting-api.halt.nl
+https://voorlichting-beheer.halt.nl
+https://voorlichting.halt.nl
 https://voorlichting.nederlandwereldwijd.nl
 https://voorlichting.wegwijzer.overheid.nl
 https://vorijkbo-tst.rvo.nl
@@ -7242,6 +7255,7 @@ https://www.grknmi.nl
 https://www.groeiennaarmorgen.nl
 https://www.groenalliantiemiddenholland.nl
 https://www.grondstoffenscanner.nl
+https://www.halt.nl
 https://www.hansken.nl
 https://www.hdsr.nl
 https://www.healthcouncil.nl
