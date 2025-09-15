@@ -39,9 +39,9 @@ portaal
 werkenbij
 kennisbank
 login
+zoeken
 portal
 apps
-zoeken
 beheer
 open
 meet
@@ -124,6 +124,7 @@ geodata
 ns2
 videobellen
 acceptatie.webservices
+acceptatie.zoeken
 behandel
 geoportaal
 id
@@ -177,7 +178,6 @@ sharepoint
 start
 website
 old
-acceptatie.zoeken
 blog
 connect-with
 dataportaal
@@ -388,6 +388,7 @@ sdg
 AutoDiscover
 begrippen
 inloggen-preprod
+aanmelden
 synergy
 zaaksysteem-accept
 sdm
@@ -2270,7 +2271,6 @@ wist-fpi
 workspace
 apkl
 integriteitswijzer
-aanmelden
 acceptatie-checkjeprijs
 checkjeprijs
 cjib
@@ -8563,3 +8563,4 @@ tst.onlineform.culture
 www.acp.business
 www.forumstandaardisatie
 www.ncc
+acceptatie.aanmelden
