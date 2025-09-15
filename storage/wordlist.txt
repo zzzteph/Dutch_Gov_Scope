@@ -21,8 +21,8 @@ opendata.english
 vpn
 intranet
 cms
-werkplek
 www-acc
+werkplek
 _dmarc
 staging
 redactie
@@ -69,6 +69,7 @@ www-ts
 adobe-analytics-dc
 adobe-tags
 fs
+services
 werken
 acceptatie.beheer
 hybrid
@@ -91,7 +92,6 @@ jaarverslag
 papiamentu
 enterpriseenrollment
 enterpriseregistration
-services
 acceptatie.behandel
 acceptatie.mijn
 atlas
@@ -223,6 +223,7 @@ jira
 servicedesk
 aanvraag
 acc.mijn
+services-acc
 webservice
 www.acc
 nieuwsbrief
@@ -240,6 +241,7 @@ telewerken
 mijn-acc
 authenticatie
 nextcloud
+stats
 guest
 secure
 vacatures
@@ -255,6 +257,7 @@ developer
 monitor
 www.staging
 siam
+admin
 events
 securemail
 acc-www
@@ -368,7 +371,6 @@ raadplegen
 e.acc.videobellen
 e.videobellen
 mobiel
-services-acc
 webservice-acc
 www3
 piwik
@@ -393,7 +395,6 @@ vt-mijn
 ediensten
 statistics
 archief
-stats
 registry
 privacy
 acc.intranet
@@ -458,7 +459,6 @@ gdi
 klantportaal
 plekchecker
 test-cms
-admin
 download.mail
 dc
 accp
@@ -501,6 +501,7 @@ tst-www
 develop
 assets
 t1
+idp
 stage
 postmaster
 sub
@@ -7429,7 +7430,6 @@ dmi-pdx
 dmi-pdx.staging
 docspace
 fwtrack
-idp
 idp.staging
 paspoort
 paspoort.staging
@@ -8535,3 +8535,8 @@ yousukehayase
 ytyng
 yxdyc
 zhailuxu
+admin-acc
+applications-acc
+applications
+idp-acc
+stats-acc

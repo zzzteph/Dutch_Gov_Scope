@@ -1538,8 +1538,10 @@ adfs.huurcommissie.nl
 adfs.vallei-veluwe.nl
 adfs2.cito.nl
 adkc.dopingautoriteit.nl
+admin-acc.globalentry-rtp.nl
 admin.denkmee.zuid-holland.nl
 admin.deweekvandecirculaireeconomie.nl
+admin.globalentry-rtp.nl
 admin.openstad.zuid-holland.nl
 admin.schoolleidersregisterpo.nl
 administratie-a.cito.nl
@@ -1968,6 +1970,8 @@ appl.rdi.nl
 applicaties.ciz.nl
 applicaties.rvo.nl
 applicationframework.cibg.nl
+applications-acc.globalentry-rtp.nl
+applications.globalentry-rtp.nl
 applications.klopt.cibg.nl
 applicationstest.svb.nl
 apps-a.eucaris.net
@@ -5336,6 +5340,7 @@ gl.ncsc.nl
 gl1.ncsc.nl
 gladheid.knmi.nl
 glmig.tst.ix.rijkscloud.nl
+globalentry-rtp.nl
 globalhealthhub.nl
 globil-panda.opendata.arcgis.com
 gm-pre.mev.logius.nl
@@ -5648,8 +5653,10 @@ identifier-preprod.overheid.nl
 identifier.overheid.nl
 identity.coa.nl
 idm.rvig.nl
+idp-acc.globalentry-rtp.nl
 idp-dgp.preproductie.digipoort.logius.nl
 idp.dmi-ecosysteem.nl
+idp.globalentry-rtp.nl
 idp.staging.dmi-ecosysteem.nl
 idposr.duo.nl
 idppoc-ont.dictu.nl
@@ -9196,6 +9203,7 @@ servicedesk.rijksoverheid.nl
 serviceportaal.cvdm.nl
 services-acc.burgernet.nl
 services-acc.ep-online.nl
+services-acc.globalentry-rtp.nl
 services-acc1.ep-online.nl
 services-preprod.ep-online.nl
 services-test.domeinenrz.nl
@@ -9204,6 +9212,7 @@ services.belastingdienst.nl
 services.burgernet.nl
 services.cultureelerfgoed.nl
 services.ep-online.nl
+services.globalentry-rtp.nl
 services.ilent.nl
 services1.domeinenrz.nl
 services7.arcgis.com
@@ -9652,10 +9661,12 @@ statpubliekedata-acc.azure.dnb.nl
 statpubliekedata-dev.azure.dnb.nl
 statpubliekedata-pre.azure.dnb.nl
 statpubliekedata.azure.dnb.nl
+stats-acc.globalentry-rtp.nl
 stats.acc.mgo.irealisatie.nl
 stats.aladdin.p-direkt.nl
 stats.datascience.rijkscloud.nl
 stats.duo.rijkscloud.nl
+stats.globalentry-rtp.nl
 stats.irealisatie.nl
 stats.ndw.nu
 stats.test.gf.irealisatie.nl
@@ -11058,6 +11069,7 @@ www-acc.ep-online.nl
 www-acc.farmacotherapeutischkompas.nl
 www-acc.fiu-nederland.nl
 www-acc.gipdatabank.nl
+www-acc.globalentry-rtp.nl
 www-acc.horizonscangeneesmiddelen.nl
 www-acc.istandaarden.nl
 www-acc.medicijnkosten.nl
@@ -11658,6 +11670,7 @@ www.ggo-vergunningen.nl
 www.ggo-vergunningverlening.nl
 www.gipdatabank.nl
 www.gipinfo.nl
+www.globalentry-rtp.nl
 www.globalhealthhub.nl
 www.gobernadoraruba.com
 www.gobernadorkorsou.com
