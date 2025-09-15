@@ -147,6 +147,7 @@ connect-acpt
 www.mijn
 www-a
 zaaksysteem-acc
+dashboard
 vt
 chat
 files
@@ -237,7 +238,6 @@ sandbox
 mobile
 telewerken
 mijn-acc
-dashboard
 authenticatie
 nextcloud
 guest
@@ -7964,3 +7964,5 @@ test.volwassenheidsscan
 toolkitinclusie
 toolkittaal
 volwassenheidsscan
+digiles
+themalessen
