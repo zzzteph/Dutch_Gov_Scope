@@ -209,6 +209,7 @@ http://dgp-pp-az2.kibana.lpc.logius.nl
 http://digitalnorthsea.eu
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
+http://docs.hansken.org
 http://docs.lpc.logius.nl
 http://download.webmail.knmi.nl
 http://dse.lx.overheid.nl
@@ -1158,6 +1159,8 @@ https://abk-acc.cbr.nl
 https://abk-tst.cbr.nl
 https://abk.cbr.nl
 https://abortionfacilitydatabase-ucsf.hub.arcgis.com
+https://academic-registry.hansken.org
+https://academic.container.hansken.org
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
 https://academie.ind.nl
@@ -2482,6 +2485,7 @@ https://community-gatewayreview.nl
 https://community-health-outreach-statelocaltryit.hub.arcgis.com
 https://communityanalyst.arcgis.com
 https://communitymaps.arcgis.com
+https://communityportal.hansken.org
 https://competentie.flevoland.nl
 https://competentnl.nl
 https://complaintform.mensenrechten.nl
@@ -2768,6 +2772,7 @@ https://demo.acc.federatieveservice.nl
 https://demo.bronhouderportaal-bro.nl
 https://demo.chm-cbd.net
 https://demo.federatieveservice.nl
+https://demo.hansken.org
 https://demo.mijn.overheid.nl
 https://demo.test.chm-cbd.net
 https://demo.vmbodoorstroom.databank.nl
@@ -2953,6 +2958,7 @@ https://download.mail.cpb.nl
 https://download.mail.scp.nl
 https://downloaddomain.svb.nl
 https://downloadpdf.ep-online.nl
+https://downloads.hansken.org
 https://dp2021.deltaprogramma.nl
 https://dp2022.deltaprogramma.nl
 https://dp2023.deltaprogramma.nl
@@ -3810,6 +3816,7 @@ https://handboek.toeslagen.nl
 https://handelingenbank.info
 https://handhaving.vrachtwagenheffing.nl
 https://hansken.nl
+https://hansken.org
 https://hapi.acc.spaceweather.knmi.nl
 https://hapi.spaceweather.knmi.nl
 https://harford-county-gis-hub-harfordgis.hub.arcgis.com
@@ -4248,11 +4255,13 @@ https://lasbeheer-a.cito.nl
 https://lasbeheer-o.cito.nl
 https://lasbeheer-t.cito.nl
 https://lasbeheer.cito.nl
+https://law-enforcement.container.hansken.org
 https://lc.cbs.nl
 https://ldap.cultuurparticipatie.nl
 https://ldentool.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
+https://lea-registry.hansken.org
 https://lead-service-line-inventory-emua.hub.arcgis.com
 https://leefbaarenveilig.nl
 https://leefbaarometer.nl
@@ -5638,6 +5647,7 @@ https://remotedesktop.svb.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
 https://repo.allesoversport.nl
+https://repo.hansken.org
 https://repository-acc.officiele-overheidspublicaties.nl
 https://repository-eto.officiele-overheidspublicaties.nl
 https://repository-preprod.overheid.nl
@@ -6336,6 +6346,7 @@ https://tracking.cbr.nl
 https://tracking.delpher.nl
 https://traefik.cultuurparticipatie.nl
 https://training.caop.nl
+https://training.hansken.org
 https://trainingvalsgeld.dnb.nl
 https://transfer.waterschaplimburg.nl
 https://transitieproefdiervrijeinnovatie.nl
@@ -7257,6 +7268,7 @@ https://www.groenalliantiemiddenholland.nl
 https://www.grondstoffenscanner.nl
 https://www.halt.nl
 https://www.hansken.nl
+https://www.hansken.org
 https://www.hdsr.nl
 https://www.healthcouncil.nl
 https://www.hetverhaalvan.flevoland.nl

@@ -59,6 +59,7 @@ link
 webservices
 app
 beeldbank
+docs
 geoservices
 onderzoek
 digikoppeling
@@ -74,7 +75,7 @@ services
 werken
 acceptatie.beheer
 hybrid
-docs
+demo
 dialin
 mdm
 elearning
@@ -97,7 +98,6 @@ acceptatie.mijn
 atlas
 kaarten
 publicaties
-demo
 designsystem
 dwo
 mam
@@ -482,6 +482,7 @@ melding
 api-dev
 gateway
 viewer
+repo
 test.redactie
 cm
 experience
@@ -494,6 +495,7 @@ test-nieuw
 office
 beheer-acc
 dashboard-acc
+training
 rijbewijs
 tracking
 be
@@ -5532,7 +5534,6 @@ bestanden
 shop
 auteurs
 o306
-repo
 sportakkoord
 atlasanders-test
 cost832
@@ -6358,7 +6359,6 @@ steunpunt
 stichting
 tagging
 tijdschrijven
-training
 vragenlijst
 webredactie
 abk-acc
@@ -8573,3 +8573,10 @@ highlights2024
 images
 voorlichting-api
 voorlichting-beheer
+academic-registry
+academic.container
+communityportal
+container
+downloads
+law-enforcement.container
+lea-registry

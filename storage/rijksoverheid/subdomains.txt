@@ -1079,6 +1079,8 @@ aboutnetherlandscustoms.nl
 abr.acc.belastingdienst.nl
 abr.belastingdienst.nl
 ac.sa.svb.nl
+academic-registry.hansken.org
+academic.container.hansken.org
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
 academie.ind.nl
@@ -3349,6 +3351,7 @@ community-gatewayreview.nl
 community-health-outreach-statelocaltryit.hub.arcgis.com
 communityanalyst.arcgis.com
 communitymaps.arcgis.com
+communityportal.hansken.org
 compensationsns.nl
 competent.cibg.nl
 competentie.flevoland.nl
@@ -3410,6 +3413,7 @@ contactformulier.acc.onderwijsinspectie.nl
 contactformulier.onderwijsinspectie.nl
 contactherstelservice.lpc.mijn.overheid.nl
 contactpuntbouwproducten.nl
+container.hansken.org
 content.acc.omgevingswet.overheid.nl
 content.cbs.nl
 content.ilent.nl
@@ -3756,6 +3760,7 @@ demo.bronhouderportaal-bro.nl
 demo.chm-cbd.net
 demo.cip-overheid.nl
 demo.federatieveservice.nl
+demo.hansken.org
 demo.ix.rijkscloud.nl
 demo.mijn.overheid.nl
 demo.test.chm-cbd.net
@@ -4035,6 +4040,7 @@ doc.bronhouderportaal-bro.nl
 doc.leefbaarometer.nl
 docs.aerius.nl
 docs.brba.eu
+docs.hansken.org
 docs.lpc.logius.nl
 docs.ndw.nu
 docs.openkat.nl
@@ -4087,6 +4093,7 @@ downloadpdf-acc1.ep-online.nl
 downloadpdf-preprod.ep-online.nl
 downloadpdf.acc.ep-online.nl
 downloadpdf.ep-online.nl
+downloads.hansken.org
 dp-dnb.dnb.nl
 dp-dnba.dnb.nl
 dp2021.deltaprogramma.nl
@@ -5522,6 +5529,7 @@ handhaving.vrachtwagenheffing.nl
 handleiding-iuc-acceptatie.rijkscloud.nl
 handleiding.rijksoverheid.nl
 hansken.nl
+hansken.org
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 hapi1.test.zm.irealisatie.nl
@@ -6288,6 +6296,7 @@ lasbeheer-a.cito.nl
 lasbeheer-o.cito.nl
 lasbeheer-t.cito.nl
 lasbeheer.cito.nl
+law-enforcement.container.hansken.org
 lb1.gn3.rijkscloud.nl
 lc.cbs.nl
 lcp.databank.nl
@@ -6295,6 +6304,7 @@ ldap.cultuurparticipatie.nl
 ldentool.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
+lea-registry.hansken.org
 lead-service-line-inventory-emua.hub.arcgis.com
 leefbaarenveilig.nl
 leefbaarometer.nl
@@ -8781,6 +8791,7 @@ rental.buitenlevenvakanties.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
 repo.allesoversport.nl
+repo.hansken.org
 repo.ix.rijkscloud.nl
 repo.so.rijkscloud.nl
 repo1.gn2.rijkscloud.nl
@@ -10237,6 +10248,7 @@ trade.rvo.nl
 traefik.cultuurparticipatie.nl
 training-advies.cito.nl
 training.caop.nl
+training.hansken.org
 trainingvalsgeld.dnb.nl
 transfer.ofgv.nl
 transfer.waterschaplimburg.nl
@@ -11756,6 +11768,7 @@ www.gtmx.acc.belastingdienst.nl
 www.halt.nl
 www.handelingenbank.info
 www.hansken.nl
+www.hansken.org
 www.hdsr.nl
 www.healthcouncil.nl
 www.hetverhaalvan.flevoland.nl
