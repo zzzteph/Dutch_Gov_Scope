@@ -16,8 +16,8 @@ _autodiscover._tcp
 magazines
 api
 feeds.english
-opendata.english
 acceptatie
+opendata.english
 vpn
 intranet
 cms
@@ -7966,3 +7966,4 @@ toolkittaal
 volwassenheidsscan
 digiles
 themalessen
+sub

@@ -896,6 +896,7 @@ acceptatie.esb.rijkswaterstaat.nl
 acceptatie.feedfoodtransfer.nl
 acceptatie.formulieren.uziregister.nl
 acceptatie.geoservices.cultureelerfgoed.nl
+acceptatie.gezondekinderopvang.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.isis-web.nl
 acceptatie.istandaarden.nl
@@ -4716,6 +4717,7 @@ geschiktheid-tst.cbr.nl
 geschiktheid.cbr.nl
 geschilleninstantieszorg.nl
 gewasbeschermingsmiddelen.ctgb.nl
+gezondekinderopvang.nl
 gezondeleefomgeving.nl
 gezondheidsraad.nl
 gezondheidsverklaring.coronatest.nl
@@ -9170,6 +9172,7 @@ stubs-t2.digid.nl
 stubs.lpc.mijn.overheid.nl
 stubs.tst.belastingdienst.nl
 styleguide.cibg.nl
+sub.gezondekinderopvang.nl
 subsidie.cultureelerfgoed.nl
 subsidie.waterschaplimburg.nl
 subsidieportaal.zuid-holland.nl
@@ -11076,6 +11079,7 @@ www.geobasisregistraties.nl
 www.geodata.alterra.nl
 www.geoserver.limburg.nl
 www.geschilleninstantieszorg.nl
+www.gezondekinderopvang.nl
 www.gezondeleefomgeving.nl
 www.gezondheidsraad.nl
 www.gezondheidsverklaring.coronatest.nl

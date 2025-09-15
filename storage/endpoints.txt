@@ -428,6 +428,7 @@ http://sterftedashboard.vzinfo.nl
 http://stijlgids.cibg.nl
 http://storage.test.mgo.irealisatie.nl
 http://styleguide.cibg.nl
+http://sub.gezondekinderopvang.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://technische-documentatie.oep.overheid.nl
@@ -819,6 +820,7 @@ https://acceptatie.esb.rijkswaterstaat.nl
 https://acceptatie.feedfoodtransfer.nl
 https://acceptatie.formulieren.uziregister.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
+https://acceptatie.gezondekinderopvang.nl
 https://acceptatie.hulpmiddelen.farmatec.nl
 https://acceptatie.istandaarden.nl
 https://acceptatie.klinieken.donorgegevens.nl
@@ -3140,6 +3142,7 @@ https://geschiktheid-tst.cbr.nl
 https://geschiktheid.cbr.nl
 https://geschilleninstantieszorg.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
+https://gezondekinderopvang.nl
 https://gezondeleefomgeving.nl
 https://gezondheidsraad.nl
 https://gezondheidsverklaring.coronatest.nl
@@ -6593,6 +6596,7 @@ https://www.geneesmiddeleninformatiebank.nl
 https://www.geobasisregistraties.nl
 https://www.geoserver.limburg.nl
 https://www.geschilleninstantieszorg.nl
+https://www.gezondekinderopvang.nl
 https://www.gezondeleefomgeving.nl
 https://www.gezondheidsraad.nl
 https://www.gezondheidsverklaring.coronatest.nl
