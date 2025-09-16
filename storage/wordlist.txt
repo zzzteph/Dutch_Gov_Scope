@@ -81,6 +81,8 @@ dialin
 mdm
 elearning
 cdn
+auth
+accept
 adfs
 www2
 www-acc2
@@ -102,10 +104,8 @@ designsystem
 dwo
 mam
 a-magazines
-auth
 mailing
 ns1
-accept
 zaaksysteem-acc
 forms
 m
@@ -117,6 +117,7 @@ prod-dictu
 test-dictu
 mx1
 aanvragen
+cpanel
 mail2
 eloket
 maps
@@ -159,7 +160,6 @@ git
 stats
 extranet
 nieuwsbrieven
-cpanel
 magazinesintern
 statistiek
 support
@@ -245,6 +245,7 @@ sandbox
 mobile
 telewerken
 authenticatie
+archief
 nextcloud
 guest
 secure
@@ -268,6 +269,7 @@ events
 acc-www
 www.test
 vragen
+webdisk
 helloid
 oa
 web
@@ -398,7 +400,6 @@ acc.api
 vt-mijn
 ediensten
 statistics
-archief
 registry
 privacy
 acc.intranet
@@ -513,7 +514,6 @@ postmaster
 bg
 cpcalendars
 cpcontacts
-webdisk
 sub
 geoportal
 gisservices
@@ -8647,3 +8647,27 @@ vergader
 wolk
 bfp
 potn
+auth-acceptatie
+cpanel.seb
+cpcalendars.seb
+cpcontacts.seb
+deelnemer
+evc
+examenorganisator
+examinator
+leermaster360
+mail.seb
+opleider
+rdw.seb
+regelgeving
+seb
+webdisk.seb
+webmail.seb
+werkgever
+www.deelnemer
+www.examenorganisator
+www.examinator
+www.opleider
+www.rdw.seb
+www.seb
+www.werkgever
