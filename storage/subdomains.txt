@@ -5543,6 +5543,7 @@ harris-county-data-hub-garc.hub.arcgis.com
 havik.ndw.nu
 hazards-fema.maps.arcgis.com
 hazardsupport-usfs.hub.arcgis.com
+hcaict.nl
 hcib.datawonen.nl
 hdcgis.maps.arcgis.com
 hdsr.nl
@@ -9232,6 +9233,7 @@ sentry.services.acm.nl
 sentry1.zwb.riec.nl
 sepm.belastingdienst.nl
 server.arcgis.com
+server.hcaict.nl
 server.rijksoverheidsvideo.nl
 service.acc.omgevingswet.overheid.nl
 service.bta.omgevingswet.overheid.nl
@@ -11769,6 +11771,7 @@ www.halt.nl
 www.handelingenbank.info
 www.hansken.nl
 www.hansken.org
+www.hcaict.nl
 www.hdsr.nl
 www.healthcouncil.nl
 www.hetverhaalvan.flevoland.nl

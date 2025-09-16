@@ -257,6 +257,7 @@ media
 organisaties
 developer
 monitor
+server
 www.staging
 siam
 admin
@@ -453,7 +454,6 @@ gitlab.test
 bon
 tools
 a-magazinesintern
-server
 acc-cms
 acc-mijn
 applicaties
