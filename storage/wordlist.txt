@@ -38,10 +38,10 @@ a-opendata.a-english
 smtp
 portaal
 werkenbij
+apps
 kennisbank
 zoeken
 portal
-apps
 beheer
 app
 open
@@ -102,6 +102,7 @@ designsystem
 dwo
 mam
 a-magazines
+auth
 mailing
 ns1
 accept
@@ -134,6 +135,7 @@ wifi
 helpdesk
 acc2
 static
+sts
 academy
 projecten
 www1
@@ -144,7 +146,6 @@ m365
 sf
 oud
 api-acc
-auth
 connect-acpt
 www.mijn
 www.acc
@@ -155,6 +156,7 @@ vt
 chat
 files
 git
+stats
 extranet
 nieuwsbrieven
 cpanel
@@ -194,7 +196,6 @@ www-test
 doc
 sso
 conf
-sts
 crm
 accounts
 micollab
@@ -225,6 +226,7 @@ t-www
 gitlab
 jira
 servicedesk
+mobiel
 aanvraag
 acc.mijn
 services-acc
@@ -232,6 +234,7 @@ webservice
 nieuwsbrief
 cmsintranet
 denkmee
+desktop
 kaart
 legacy
 test-cmsintranet
@@ -243,7 +246,6 @@ mobile
 telewerken
 authenticatie
 nextcloud
-stats
 guest
 secure
 vacatures
@@ -373,11 +375,9 @@ acceptatie.raadplegen
 raadplegen
 e.acc.videobellen
 e.videobellen
-mobiel
 webservice-acc
 www3
 piwik
-desktop
 exchange
 preprodformulieren
 veiligmailen
@@ -8632,3 +8632,16 @@ wifi-guest
 wwwtest
 zaaksysteem-ont
 zaaksysteem-tst
+cexwe1
+cexwe2
+icg
+mijnzaak-acc
+mijnzaak
+postbus-acc
+postbus
+repos
+sync
+sync2
+ums
+vergader
+wolk

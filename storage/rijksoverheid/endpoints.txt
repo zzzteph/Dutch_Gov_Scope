@@ -103,6 +103,7 @@ http://autodiscover.eerstekamer.nl
 http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
+http://autodiscover.hogeraad.nl
 http://autodiscover.knmi.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
@@ -495,6 +496,7 @@ http://webmail.knmi.nl
 http://webmail.werkenvoornederland.nl
 http://webtooling.irealisatie.nl
 http://werkenbij.belastingdienst.nl
+http://wolk.hogeraad.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.bacterial-meningitis.nl
 http://www.beeldenvanderaad.nl
@@ -1717,6 +1719,7 @@ https://apps-nccde.hub.arcgis.com
 https://apps-tst.vechtstromen.nl
 https://apps.arcgis.com
 https://apps.duo.nl
+https://apps.hogeraad.nl
 https://apps.jeugdconnect.nl
 https://apps.svb.nl
 https://apps.vechtstromen.nl
@@ -1813,6 +1816,7 @@ https://auth-register-gat.aerius.nl
 https://auth-register.aerius.nl
 https://auth.denkmee.zuid-holland.nl
 https://auth.dictu.nl
+https://auth.hogeraad.nl
 https://auth.ndw.nu
 https://auth.services.cultureelerfgoed.nl
 https://auth20.dictu.nl
@@ -2807,6 +2811,7 @@ https://designthinking.gebruikercentraal.nl
 https://desktop.arcgis.com
 https://desktop.entreepgb.svb.nl
 https://desktop.flevoland.nl
+https://desktop.hogeraad.nl
 https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
 https://dev-cms.afm.nl
@@ -3867,6 +3872,7 @@ https://historische-luchtfoto.flevoland.nl
 https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://hoesterkstaik.nl
+https://hogeraad.nl
 https://hogeraadvanadel.nl
 https://homepage-lasallecoil.hub.arcgis.com
 https://honolulu-cchnl.opendata.arcgis.com
@@ -4496,6 +4502,7 @@ https://mail.globio.info
 https://mail.grknmi.nl
 https://mail.halt.nl
 https://mail.handelingenbank.info
+https://mail.hogeraad.nl
 https://mail.koop.overheid.nl
 https://mail.mass.cultureelerfgoed.nl
 https://mail.ndw.nu
@@ -4690,6 +4697,8 @@ https://mijntokenactiveren.logius.nl
 https://mijntpw.svb.nl
 https://mijnwerkplek.cbg-meb.nl
 https://mijnwmo-siam.svb.nl
+https://mijnzaak-acc.hogeraad.nl
+https://mijnzaak.hogeraad.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
 https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
@@ -4711,6 +4720,7 @@ https://mlzstatline.cbs.nl
 https://mm.belastingdienst.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
+https://mobiel.hogeraad.nl
 https://mobiliteitsscan-info.nl
 https://mockapp-dev.dnb.nl
 https://mockapp-pp.dnb.nl
@@ -5399,6 +5409,8 @@ https://portal118.rijkscloud.nl
 https://portal2.formulierdus-i.nl
 https://portalco.formulierdus-i.nl
 https://portalen.preproductie.digipoort.logius.nl
+https://postbus-acc.hogeraad.nl
+https://postbus.hogeraad.nl
 https://postedworkers.nl
 https://postergenerator.denkvooruit.nl
 https://postmaster.ertms.nl
@@ -5667,6 +5679,7 @@ https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
 https://repo.allesoversport.nl
 https://repo.hansken.org
+https://repos.hogeraad.nl
 https://repository-acc.officiele-overheidspublicaties.nl
 https://repository-eto.officiele-overheidspublicaties.nl
 https://repository-preprod.overheid.nl
@@ -6087,6 +6100,7 @@ https://statpubliekedata-pre.azure.dnb.nl
 https://statpubliekedata.azure.dnb.nl
 https://stats.acc.mgo.irealisatie.nl
 https://stats.duo.rijkscloud.nl
+https://stats.hogeraad.nl
 https://stats.irealisatie.nl
 https://stats.ndw.nu
 https://stats.test.mgo.irealisatie.nl
@@ -6129,6 +6143,7 @@ https://strategicpriorities-newmarket.hub.arcgis.com
 https://streefbeelden.pagw.nl
 https://sts.cbg-meb.nl
 https://sts.cbs.nl
+https://sts.hogeraad.nl
 https://sts.koop.overheid.nl
 https://subsidie.cultureelerfgoed.nl
 https://subsidie.waterschaplimburg.nl
@@ -6804,6 +6819,7 @@ https://www-acc.datastelselverduurzamingutiliteit.nl
 https://www-acc.dcat-ap-donl.nl
 https://www-acc.fiu-nederland.nl
 https://www-acc.globalentry-rtp.nl
+https://www-acc.hogeraad.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www.04348.github.io
 https://www.100aardgasvrijewijken.nl
@@ -7310,6 +7326,7 @@ https://www.hierradiokootwijk.nl
 https://www.higherlevel.nl
 https://www.historisch.cbs.nl
 https://www.hoesterkstaik.nl
+https://www.hogeraad.nl
 https://www.hogeraadvanadel.nl
 https://www.horizonscangeneesmiddelen.nl
 https://www.houdmisdaaduitjebuurt.nl

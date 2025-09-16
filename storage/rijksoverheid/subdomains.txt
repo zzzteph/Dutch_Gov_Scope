@@ -2002,6 +2002,7 @@ apps.dictu.nl
 apps.duo.nl
 apps.feedfoodtransfer.nl
 apps.hhdelfland.nl
+apps.hogeraad.nl
 apps.jeugdconnect.nl
 apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
@@ -2150,6 +2151,7 @@ auth.acm.nl
 auth.dataplatform.knmi.nl
 auth.denkmee.zuid-holland.nl
 auth.dictu.nl
+auth.hogeraad.nl
 auth.jitsi.rijkscloud.nl
 auth.mijnoctrooi.mypage.rvo.nl
 auth.ndw.nu
@@ -2217,6 +2219,7 @@ autodiscover.globio.info
 autodiscover.hdsr.nl
 autodiscover.hetcak.nl
 autodiscover.hhdelfland.nl
+autodiscover.hogeraad.nl
 autodiscover.huisvoorklokkenluiders.nl
 autodiscover.hwbp.nl
 autodiscover.inspectie-oe.nl
@@ -3075,6 +3078,8 @@ cest-cusec.hub.arcgis.com
 cest-p4-cusec.hub.arcgis.com
 cev.nl
 cevo.nl
+cexwe1.hogeraad.nl
+cexwe2.hogeraad.nl
 cf.chm-cbd.net
 cfgcmg.cito.nl
 cg.chm-cbd.net
@@ -3813,6 +3818,7 @@ designthinking.gebruikercentraal.nl
 desktop.arcgis.com
 desktop.entreepgb.svb.nl
 desktop.flevoland.nl
+desktop.hogeraad.nl
 desktop.klopt.cibg.nl
 desktopaccp.entreepgb.svb.nl
 desktopaccp2.entreepgb.svb.nl
@@ -5608,6 +5614,7 @@ historische-luchtfoto.flevoland.nl
 historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
 hoesterkstaik.nl
+hogeraad.nl
 hogeraadvanadel.nl
 holland-rijnland.databank.nl
 homepage-lasallecoil.hub.arcgis.com
@@ -5692,6 +5699,7 @@ ibw.datawonen.nl
 ic-desk-functions.zuid-holland.nl
 icce.knmi.nl
 icdesk.zuid-holland.nl
+icg.hogeraad.nl
 icgw.acm.nl
 icgw.services.acm.nl
 icorridor-fr-mto-on-ca.hub.arcgis.com
@@ -6711,6 +6719,7 @@ mail.grknmi.nl
 mail.halt.nl
 mail.handelingenbank.info
 mail.hetcak.nl
+mail.hogeraad.nl
 mail.huurcommissie.nl
 mail.ienw.rijkscloud.nl
 mail.koop.overheid.nl
@@ -7117,6 +7126,8 @@ mijnwerkplek.cbg-meb.nl
 mijnwlzaanvraag.ciz.nl
 mijnwmo-siam-a.svb.nl
 mijnwmo-siam.svb.nl
+mijnzaak-acc.hogeraad.nl
+mijnzaak.hogeraad.nl
 mijnzakelijk-perf.acc.belastingdienst.nl
 mijnzakelijk.acc.belastingdienst.nl
 mijnzakelijk.belastingdienst.nl
@@ -7178,6 +7189,7 @@ mnd.overheid.nl
 mobicert.brabant.nl
 mobiel.acc.toeslagen.nl
 mobiel.douane.nl
+mobiel.hogeraad.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
 mobielgis-test.zuid-holland.nl
@@ -8388,6 +8400,8 @@ positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
 post.testuitslagen.coronatest.nl
+postbus-acc.hogeraad.nl
+postbus.hogeraad.nl
 postedworkers.nl
 postergenerator.denkvooruit.nl
 postmaster.ertms.nl
@@ -8851,6 +8865,7 @@ repo2.gn2.rijkscloud.nl
 repo2.gn3.rijkscloud.nl
 repo2.ix.rijkscloud.nl
 repo2.rw1.rijkscloud.nl
+repos.hogeraad.nl
 repository-acc.officiele-overheidspublicaties.nl
 repository-eto.officiele-overheidspublicaties.nl
 repository-preprod.overheid.nl
@@ -9785,6 +9800,7 @@ stats.aladdin.p-direkt.nl
 stats.datascience.rijkscloud.nl
 stats.duo.rijkscloud.nl
 stats.globalentry-rtp.nl
+stats.hogeraad.nl
 stats.irealisatie.nl
 stats.ndw.nu
 stats.test.gf.irealisatie.nl
@@ -9844,6 +9860,7 @@ streefbeelden.pagw.nl
 sts.cbg-meb.nl
 sts.cbs.nl
 sts.hhdelfland.nl
+sts.hogeraad.nl
 sts.koop.overheid.nl
 stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
@@ -9920,6 +9937,8 @@ syke.maps.arcgis.com
 symbolenbank.nctv.nl
 synapse.rijkscloud.nl
 synbiosys.alterra.nl
+sync.hogeraad.nl
+sync2.hogeraad.nl
 synergy.cokz.nl
 synergy.huurcommissie.nl
 sys-mijn.rvo.nl
@@ -10429,6 +10448,7 @@ umbraco.cito.nl
 umbracoacc.dnb.nl
 umbracodev.dnb.nl
 umbracoprd.dnb.nl
+ums.hogeraad.nl
 unhcoopext.maps.arcgis.com
 uno.dfront.rijkscloud.nl
 upload.acc.etoegang.nl
@@ -10602,6 +10622,7 @@ vepvodont.vcdn.belastingdienst.nl
 vepvodtst.vcdn.belastingdienst.nl
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
+vergader.hogeraad.nl
 vergaderen.belastingdienst.nl
 vergelijkingskaart.afm.nl
 vergoedingsns.nl
@@ -11128,6 +11149,7 @@ wo2.collectienederland.nl
 wodc.nl
 wolf.cito.nl
 wolf.secure.cito.nl
+wolk.hogeraad.nl
 wom.espacenet.com
 wonen.databank.nl
 woo-dashboards.overheid.nl
@@ -11209,6 +11231,7 @@ www-acc.fiu-nederland.nl
 www-acc.gipdatabank.nl
 www-acc.globalentry-rtp.nl
 www-acc.hetcak.nl
+www-acc.hogeraad.nl
 www-acc.horizonscangeneesmiddelen.nl
 www-acc.istandaarden.nl
 www-acc.medicijnkosten.nl
@@ -11850,6 +11873,7 @@ www.hierradiokootwijk.nl
 www.higherlevel.nl
 www.historisch.cbs.nl
 www.hoesterkstaik.nl
+www.hogeraad.nl
 www.hogeraadvanadel.nl
 www.horizonscangeneesmiddelen.nl
 www.houdmisdaaduitjebuurt.nl
