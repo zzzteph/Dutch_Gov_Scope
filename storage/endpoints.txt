@@ -104,6 +104,7 @@ http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
 http://autodiscover.hogeraad.nl
+http://autodiscover.ictu.nl
 http://autodiscover.knmi.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
@@ -1280,6 +1281,7 @@ https://acc2.inspectieresultaten.nvwa.nl
 https://acc2.intranet.rvig.nl
 https://acc2.leer-rijk.nl
 https://accept.beeldbank.gebruikercentraal.nl
+https://accept.control.ictu.nl
 https://accept.designthinking.gebruikercentraal.nl
 https://accept.digitaleoverheid.nl
 https://accept.discipl.nl
@@ -1294,6 +1296,8 @@ https://accept.optimaaldigitaal.gebruikercentraal.nl
 https://accept.rotterdammer.gebruikercentraal.nl
 https://accept.toolkittaal.gebruikercentraal.nl
 https://accept.volwassenheidsscan.gebruikercentraal.nl
+https://accept.web.ictu.nl
+https://accept.web.nmp.ictu.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://acceptatie-calculator.aerius.nl
 https://acceptatie-connect.aerius.nl
@@ -1347,6 +1351,7 @@ https://acceptatie.formulieren.uziregister.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.gezondekinderopvang.nl
 https://acceptatie.hulpmiddelen.farmatec.nl
+https://acceptatie.ictu.nl
 https://acceptatie.istandaarden.nl
 https://acceptatie.klinieken.donorgegevens.nl
 https://acceptatie.lir.cibg.nl
@@ -3225,6 +3230,7 @@ https://enterpriseenrollment.svb.nl
 https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.dnb.nl
 https://enterpriseregistration.domeinenrz.nl
+https://enterpriseregistration.ictu.nl
 https://enterpriseregistration.ofgv.nl
 https://enterpriseregistration.svb.nl
 https://env1.arcgis.com
@@ -3939,6 +3945,7 @@ https://icdesk.zuid-holland.nl
 https://icorridor-fr-mto-on-ca.hub.arcgis.com
 https://icov.nl
 https://ictexamenhelpdesk.cito.nl
+https://ictu.nl
 https://id-beheer-beta.dblogistiek.brandweer.nl
 https://id-beheer.dblogistiek.brandweer.nl
 https://id-beta.dblogistiek.brandweer.nl
@@ -4115,6 +4122,7 @@ https://it-academieoverheid.nl
 https://it-i.espacenet.com
 https://it-wiki.cultuurparticipatie.nl
 https://it.espacenet.com
+https://iti.ictu.nl
 https://itsupport.nza.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-controle.beta.cbs.nl
@@ -5491,6 +5499,7 @@ https://prod-dictu.forumstandaardisatie.nl
 https://prod-dictu.logius.nl
 https://prod-dictu.toegankelijkheidsverklaring.nl
 https://prod.asbestvolgsysteem.nl
+https://prod.control.ictu.nl
 https://prod.derdekamer.nl
 https://prod.dictu.nl
 https://prod.higherlevel.nl
@@ -5502,6 +5511,8 @@ https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
 https://prod.rvig.nl
 https://prod.tlokb.nl
+https://prod.web.ictu.nl
+https://prod.web.nmp.ictu.nl
 https://prod.wetten.rvo.nl
 https://productie-nieuw.bidbook.eu
 https://productie-nieuw.biedboek.nl
@@ -5981,6 +5992,7 @@ https://social.overheid.nl
 https://socialestabiliteit.nl
 https://socialmediamonitor.jeugdconnect.nl
 https://sodm.nl
+https://sollicitanten.ictu.nl
 https://sonar.ndw.nu
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
 https://south-windsor-pocd-information-hub-southwindsorct.hub.arcgis.com
@@ -6262,6 +6274,7 @@ https://test.cbi.eu
 https://test.cdho.nl
 https://test.cerberus.cbs.nl
 https://test.consuwijzer.nl
+https://test.control.ictu.nl
 https://test.cruksregister.nl
 https://test.csirtdsp.nl
 https://test.designthinking.gebruikercentraal.nl
@@ -6311,6 +6324,8 @@ https://test.spin2.rijkswaterstaat.nl
 https://test.stopheling.nl
 https://test.toolkittaal.gebruikercentraal.nl
 https://test.volwassenheidsscan.gebruikercentraal.nl
+https://test.web.ictu.nl
+https://test.web.nmp.ictu.nl
 https://testbegrippen.hdsr.nl
 https://testcloud.cvte.nl
 https://testconn.ctgb.nl
@@ -6615,6 +6630,7 @@ https://vpn.coa.nl
 https://vpn.dictu.nl
 https://vpn.ikz.nl
 https://vpn.irealisatie.nl
+https://vpn.web.ictu.nl
 https://vpn1.cjib.nl
 https://vpn2.aaenmaas.nl
 https://vpn2.cjib.nl
@@ -7360,6 +7376,7 @@ https://www.hwbp.nl
 https://www.iamcdocumentation.eu
 https://www.ibki.nl
 https://www.icov.nl
+https://www.ictu.nl
 https://www.igj.nl
 https://www.ihg.cbs.nl
 https://www.iinterimrijk.nl

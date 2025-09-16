@@ -1032,6 +1032,8 @@ a5.digid.nl
 a6.digid.nl
 a641-swecouk.hub.arcgis.com
 a7a8.nl
+aaa.ictu.nl
+aaa2.ictu.nl
 aaenmaas.nl
 aampo-mobility-2050-atginc.hub.arcgis.com
 aampo-openmap-nexus-mpo.hub.arcgis.com
@@ -1308,12 +1310,14 @@ acc9.mijn.overheid.nl
 accebms.cbs.nl
 accept.beeldbank.gebruikercentraal.nl
 accept.commabz.nl
+accept.control.ictu.nl
 accept.designthinking.gebruikercentraal.nl
 accept.digitaleoverheid.nl
 accept.discipl.nl
 accept.emnnetherlands.nl
 accept.expertpanel.gebruikercentraal.nl
 accept.gebruikercentraal.nl
+accept.github-push.ictu.nl
 accept.ibki.nl
 accept.inclusie.gebruikercentraal.nl
 accept.international.gebruikercentraal.nl
@@ -1323,6 +1327,8 @@ accept.optimaaldigitaal.gebruikercentraal.nl
 accept.rotterdammer.gebruikercentraal.nl
 accept.toolkittaal.gebruikercentraal.nl
 accept.volwassenheidsscan.gebruikercentraal.nl
+accept.web.ictu.nl
+accept.web.nmp.ictu.nl
 acceptatie-api.coa.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie-calculator.aerius.nl
@@ -1404,6 +1410,7 @@ acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.gezondekinderopvang.nl
 acceptatie.gezondeschool.nl
 acceptatie.hulpmiddelen.farmatec.nl
+acceptatie.ictu.nl
 acceptatie.isis-web.nl
 acceptatie.istandaarden.nl
 acceptatie.klinieken.donorgegevens.nl
@@ -1609,6 +1616,7 @@ aedesforecast.databank.nl
 aerialphotography-geoscience-au.hub.arcgis.com
 aerius.nl
 aeriusproducten.nl
+afas.ictu.nl
 afasmail.cbs.nl
 aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
 afm.nl
@@ -2226,6 +2234,7 @@ autodiscover.hhdelfland.nl
 autodiscover.hogeraad.nl
 autodiscover.huisvoorklokkenluiders.nl
 autodiscover.hwbp.nl
+autodiscover.ictu.nl
 autodiscover.inspectie-oe.nl
 autodiscover.justid.nl
 autodiscover.knmi.nl
@@ -3593,6 +3602,7 @@ cz-i.espacenet.com
 cz.espacenet.com
 d2val.staging.ndw.nu
 d7.rvo.nl
+da.ictu.nl
 daf-eforms.ind.nl
 daf.ind.nl
 dafne.ndw.nu
@@ -3606,6 +3616,7 @@ damage-assessment-3-pema.hub.arcgis.com
 damg.knmi.nl
 dannyslaptop.ssc-ict.nl
 dapp0001.github.io
+darktrace.ictu.nl
 dash-ebb-a-az1.mijn.overheid.nl
 dash-ebb-a-az2.mijn.overheid.nl
 dash-ma.mijn.overheid.nl
@@ -4510,6 +4521,7 @@ enterpriseenrollment.svb.nl
 enterpriseregistration.belastingdienst.nl
 enterpriseregistration.dnb.nl
 enterpriseregistration.domeinenrz.nl
+enterpriseregistration.ictu.nl
 enterpriseregistration.ofgv.nl
 enterpriseregistration.pc.belastingdienst.nl
 enterpriseregistration.svb.nl
@@ -5672,6 +5684,7 @@ hybrid.afm.nl
 hybrid.brabant.nl
 hybrid.coa.nl
 hybrid.domeinenrz.nl
+hybrid.ictu.nl
 hybrid.ofgv.nl
 hybrid.vechtstromen.nl
 hybridexo.cbs.nl
@@ -5723,6 +5736,7 @@ icov.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
 ictexamenhelpdesk.cito.nl
+ictu.nl
 id-beheer-beta.dblogistiek.brandweer.nl
 id-beheer.dblogistiek.brandweer.nl
 id-beta.dblogistiek.brandweer.nl
@@ -5990,6 +6004,9 @@ it-academieoverheid.nl
 it-i.espacenet.com
 it-wiki.cultuurparticipatie.nl
 it.espacenet.com
+iti-acceptance.ictu.nl
+iti-test.ictu.nl
+iti.ictu.nl
 itp-acc.ilent.nl
 itp.ilent.nl
 itsupport.nza.nl
@@ -6357,6 +6374,7 @@ lc.cbs.nl
 lcp.databank.nl
 ldap.cultuurparticipatie.nl
 ldentool.nl
+lds01.ictu.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 lea-registry.hansken.org
@@ -6740,6 +6758,7 @@ mail.hetcak.nl
 mail.hogeraad.nl
 mail.huurcommissie.nl
 mail.ibki.nl
+mail.ictu.nl
 mail.ienw.rijkscloud.nl
 mail.koop.overheid.nl
 mail.mass.cultureelerfgoed.nl
@@ -7530,6 +7549,7 @@ ns02.rw1.rijkscloud.nl
 ns03.ec.rijkscloud.nl
 ns04.ec.rijkscloud.nl
 ns1.dictu.nl
+ns1.dns.ictu.nl
 ns1.duo.nl
 ns1.ec.rijkscloud.nl
 ns1.gslb.dictu.nl
@@ -7538,6 +7558,7 @@ ns1.scp.nl
 ns1.svb.nl
 ns2.belastingdienst.nl
 ns2.dictu.nl
+ns2.dns.ictu.nl
 ns2.ec.rijkscloud.nl
 ns2.gslb.dictu.nl
 ns2.scp.nl
@@ -7659,6 +7680,7 @@ oesorichtlijnen.nl
 ofallon.maps.arcgis.com
 office.bkwi.nl
 office.cultuurparticipatie.nl
+office.ictu.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
@@ -7719,6 +7741,7 @@ onderzoek.svb.nl
 onderzoek.wegwijzer.overheid.nl
 onderzoek2.cbs.nl
 onderzoeksapp.ciz.nl
+onedrive.ictu.nl
 onehealth.nl
 onewelcome-staging.sso.eherkenning.nl
 onewelcome.sso.eherkenning.nl
@@ -8189,6 +8212,7 @@ password-new.knmi.nl
 password.ctgb.nl
 password.knmi.nl
 passwordmanager.zorginstituutnederland.nl
+passwordreset.ictu.nl
 patatjepinda.cultuurparticipatie.nl
 pay-acc.cjib.nl
 pay.cjib.nl
@@ -8366,6 +8390,7 @@ portaal.competent.cibg.nl
 portaal.ctgb.nl
 portaal.dienstterugkeerenvertrek.nl
 portaal.huurcommissie.nl
+portaal.ictu.nl
 portaal.ikz.nl
 portaal.interventiedatabase.nl
 portaal.ncpeh.nl
@@ -8529,11 +8554,13 @@ prod-nl-nvwa-dkb-sign.dictu.nl
 prod.architectwebservice.architectenregister.nl
 prod.asbestvolgsysteem.nl
 prod.chm-cbd.net
+prod.control.ictu.nl
 prod.cultureelerfgoed.nl
 prod.derdekamer.nl
 prod.dictu.nl
 prod.duurzaamdoor.nl
 prod.flevoland.nl
+prod.github-push.ictu.nl
 prod.higherlevel.nl
 prod.ifundswebservice.architectenregister.nl
 prod.intranet.rvig.nl
@@ -8545,6 +8572,8 @@ prod.radar.rdi.nl
 prod.rvig.nl
 prod.rvo.nl
 prod.tlokb.nl
+prod.web.ictu.nl
+prod.web.nmp.ictu.nl
 prod.wetten.rvo.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
@@ -8669,6 +8698,7 @@ pw.rvb.rijkscloud.nl
 pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 pwik.datawonen.nl
+pwreset.ictu.nl
 pypostcode.dev-datafabriek.ienw.rijkscloud.nl
 pzh.databank.nl
 qa.coronatest.nl
@@ -8790,6 +8820,7 @@ redactie.waterschaplimburg.nl
 redactie.zuid-holland.nl
 redash.iaas.rijkscloud.nl
 redhat2.gn2.rijkscloud.nl
+redirect.ictu.nl
 redlands-anca.hub.arcgis.com
 redmine.knmi.nl
 ref.omgevingswet.overheid.nl
@@ -9294,6 +9325,7 @@ secure.vechtstromen.nl
 secure4.svb.nl
 secure5.svb.nl
 securedownload.cito.nl
+securefiletransfer.ictu.nl
 securemail.bics.nl
 securemail.dnb.nl
 securemail.hetcak.nl
@@ -9368,6 +9400,7 @@ services.globalentry-rtp.nl
 services.ilent.nl
 services1.domeinenrz.nl
 services7.arcgis.com
+setuppw.ictu.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
 sf.cpb.nl
@@ -9583,6 +9616,7 @@ social.overheid.nl
 socialestabiliteit.nl
 socialmediamonitor.jeugdconnect.nl
 sodm.nl
+sollicitanten.ictu.nl
 sonar-lts.test.ix.rijkscloud.nl
 sonar.devops.rvb.rijkscloud.nl
 sonar.ix.rijkscloud.nl
@@ -9614,6 +9648,7 @@ spcgis-spc.hub.arcgis.com
 specials-acpt.brabant.nl
 specials.brabant.nl
 spelen.cultuurparticipatie.nl
+spfesfuidb.ictu.nl
 spin.rijkswaterstaat.nl
 spin2.rijkswaterstaat.nl
 splunk-a.svb.nl
@@ -9967,6 +10002,7 @@ sync.hogeraad.nl
 sync2.hogeraad.nl
 synergy.cokz.nl
 synergy.huurcommissie.nl
+synergy.ictu.nl
 sys-mijn.rvo.nl
 sys-staging-mijn.rvo.nl
 syswov.datawonen.nl
@@ -10108,6 +10144,7 @@ test.cibg.nl
 test.commabz.nl
 test.consuwijzer.nl
 test.contactpuntbouwproducten.nl
+test.control.ictu.nl
 test.coronatest.nl
 test.cruksregister.nl
 test.csirtdsp.nl
@@ -10137,9 +10174,11 @@ test.geoservices.cultureelerfgoed.nl
 test.gezondeleefomgeving.nl
 test.gezondeschool.nl
 test.gf.irealisatie.nl
+test.github-push.ictu.nl
 test.handelingenbank.info
 test.hcv.mijn.overheid.nl
 test.higherlevel.nl
+test.ictu.nl
 test.ifundswebservice.architectenregister.nl
 test.inclusie.gebruikercentraal.nl
 test.informatiehuis.rvo.nl
@@ -10185,6 +10224,8 @@ test.toolkittaal.gebruikercentraal.nl
 test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
 test.volwassenheidsscan.gebruikercentraal.nl
+test.web.ictu.nl
+test.web.nmp.ictu.nl
 test.webservices.donorregister.nl
 test.woo.irealisatie.nl
 test.www.coa.nl
@@ -10262,6 +10303,7 @@ tileserver.ndw.nu
 timeit-acc.hetcak.nl
 timeit.hetcak.nl
 timeline.test.zm.irealisatie.nl
+timetell.ictu.nl
 timnath.maps.arcgis.com
 tip.ncsc.nl
 tl.iplo.nl
@@ -10334,6 +10376,7 @@ topacc.cbr.nl
 topcorridors.nl
 topdesk-iv.rijkswaterstaat.nl
 topdesk-wvl.rijkswaterstaat.nl
+topdesk.ictu.nl
 topdesk.rijkswaterstaat.nl
 topsectoren.nl
 topswb.cbr.nl
@@ -10768,6 +10811,7 @@ vpn.cvdm.nl
 vpn.dictu.nl
 vpn.flevoland.nl
 vpn.huurcommissie.nl
+vpn.ictu.nl
 vpn.ikz.nl
 vpn.irealisatie.nl
 vpn.koop.overheid.nl
@@ -10776,6 +10820,7 @@ vpn.platformrijksoverheid.nl
 vpn.rw1.rijkscloud.nl
 vpn.services.acm.nl
 vpn.svb.nl
+vpn.web.ictu.nl
 vpn01.ec.rijkscloud.nl
 vpn01.gn1.rijkscloud.nl
 vpn01.gn2.rijkscloud.nl
@@ -10999,6 +11044,7 @@ webmail.globio.info
 webmail.hetcak.nl
 webmail.huurcommissie.nl
 webmail.ibki.nl
+webmail.ictu.nl
 webmail.knmi.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
@@ -11920,6 +11966,7 @@ www.hwbp.nl
 www.iamcdocumentation.eu
 www.ibki.nl
 www.icov.nl
+www.ictu.nl
 www.igj.nl
 www.ihg.cbs.nl
 www.iinterimrijk.nl
@@ -12364,6 +12411,7 @@ xml.belastingdienst.nl
 xmpp.chat.ind.nl
 xnimorz.github.io
 xploreus.rvo.nl
+yammer.ictu.nl
 yashtalla.github.io
 ye.chm-cbd.net
 yivi.proeftuin.uzi-online.irealisatie.nl
