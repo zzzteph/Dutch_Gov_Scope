@@ -4411,12 +4411,14 @@ elkdmz1.gn1.rijkscloud.nl
 elkdmz1.gn2.rijkscloud.nl
 elkeregiotelt.nl
 elo.brandweer.nl
+elo.ifv.nl
 elo.veiligheidsregioflevoland.nl
 eloket.aaenmaas.nl
 eloket.cvdm.nl
 eloket.flevoland.nl
 eloket.vallei-veluwe.nl
 elotest.brandweer.nl
+elotest.ifv.nl
 elpasoco.maps.arcgis.com
 email.afm.nl
 email.brabant.nl
@@ -4575,6 +4577,8 @@ esg.cito.nl
 espacenet.com
 esri-disasterresponse.hub.arcgis.com
 et.chm-cbd.net
+etalage.ifv.nl
+etalagetest.ifv.nl
 etender.dnb.nl
 etl.rijkswaterstaat.nl
 etoegang-acc.belastingdienst.nl
@@ -4662,6 +4666,7 @@ explorer.arcgis.com
 export.bkd.eu
 extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
+extern.ifv.nl
 extern.knmi.nl
 externe-mail.knmi.nl
 externemail.cpb.nl
@@ -5781,6 +5786,7 @@ ienrregister-acc.rvo.nl
 ienrregister.rvo.nl
 ier-online.douane.nl
 iex.acc.belastingdienst.nl
+ifv.nl
 igis.ilt.rijkscloud.nl
 igj.nl
 igj.rijkscloud.nl
@@ -6232,6 +6238,7 @@ kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
+kerncijfers.ifv.nl
 keten.hetcak.nl
 ketentest.hetcak.nl
 ketentestnvr.belastingdienst.nl
@@ -6454,6 +6461,7 @@ link.arbocatalogusmbo.nl
 link.bkd.eu
 link.caop.nl
 link.cdfd.nl
+link.ifv.nl
 linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.competentnl.nl
@@ -6763,6 +6771,7 @@ mail.huurcommissie.nl
 mail.ibki.nl
 mail.ictu.nl
 mail.ienw.rijkscloud.nl
+mail.ifv.nl
 mail.koop.overheid.nl
 mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
@@ -7137,6 +7146,7 @@ mijndouane.str30.acc.belastingdienst.nl
 mijndouane.tst.belastingdienst.nl
 mijndouane2.acc.belastingdienst.nl
 mijndwb.belastingdienst.nl
+mijnexamens.ifv.nl
 mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
 mijnncg.nl
@@ -10007,6 +10017,7 @@ sync2.hogeraad.nl
 synergy.cokz.nl
 synergy.huurcommissie.nl
 synergy.ictu.nl
+synergy.ifv.nl
 sys-mijn.rvo.nl
 sys-staging-mijn.rvo.nl
 syswov.datawonen.nl
@@ -11049,6 +11060,7 @@ webmail.hetcak.nl
 webmail.huurcommissie.nl
 webmail.ibki.nl
 webmail.ictu.nl
+webmail.ifv.nl
 webmail.knmi.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
@@ -11140,6 +11152,7 @@ werkenbij.cokz.nl
 werkenbij.cvdm.nl
 werkenbij.diensttoeslagen.nl
 werkenbij.douane.nl
+werkenbij.ifv.nl
 werkenbij.justid.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
@@ -11166,6 +11179,7 @@ werkplek.duo.nl
 werkplek.fondspodiumkunsten.nl
 werkplek.hdsr.nl
 werkplek.hhdelfland.nl
+werkplek.ifv.nl
 werkplek.justid.nl
 werkplek.om.nl
 werkplek.rekenkamer.nl
@@ -11973,6 +11987,7 @@ www.icov.nl
 www.ictu.nl
 www.ideasfrom.eu
 www.ienc-kennisportaal.nl
+www.ifv.nl
 www.igj.nl
 www.ihg.cbs.nl
 www.iinterimrijk.nl

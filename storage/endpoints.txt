@@ -3143,12 +3143,14 @@ https://elevation3d.arcgis.com
 https://elink.ertms.nl
 https://elkeregiotelt.nl
 https://elo.brandweer.nl
+https://elo.ifv.nl
 https://elo.veiligheidsregioflevoland.nl
 https://eloket.aaenmaas.nl
 https://eloket.cvdm.nl
 https://eloket.flevoland.nl
 https://eloket.vallei-veluwe.nl
 https://elotest.brandweer.nl
+https://elotest.ifv.nl
 https://elpasoco.maps.arcgis.com
 https://email.afm.nl
 https://email.cito.nl
@@ -3266,6 +3268,8 @@ https://esb.rijkswaterstaat.nl
 https://espacenet.com
 https://esri-disasterresponse.hub.arcgis.com
 https://et.chm-cbd.net
+https://etalage.ifv.nl
+https://etalagetest.ifv.nl
 https://etender.dnb.nl
 https://etl.rijkswaterstaat.nl
 https://eu1-iot.arcgis.com
@@ -3310,6 +3314,7 @@ https://explore-humanitarian.hub.arcgis.com
 https://explorer.arcgis.com
 https://export.bkd.eu
 https://extern.formulierdus-i.nl
+https://extern.ifv.nl
 https://extranet.cbr.nl
 https://extranet.eherkenning.nl
 https://extranet.onderwijsraad.nl
@@ -3972,6 +3977,7 @@ https://ie-i.espacenet.com
 https://ie.espacenet.com
 https://iem.maps.arcgis.com
 https://ienc-kennisportaal.nl
+https://ifv.nl
 https://igj.nl
 https://igj.rijkscloud.nl
 https://ih-static.rvo.nl
@@ -4227,6 +4233,7 @@ https://kennisdelen.rvo.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
+https://kerncijfers.ifv.nl
 https://keten.hetcak.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
@@ -4370,6 +4377,7 @@ https://link.arbocatalogusmbo.nl
 https://link.bkd.eu
 https://link.caop.nl
 https://link.cdfd.nl
+https://link.ifv.nl
 https://linkeddata-acc.competentnl.nl
 https://linkeddata.competentnl.nl
 https://linkeddata.cultureelerfgoed.nl
@@ -6765,6 +6773,7 @@ https://werkenbij.cokz.nl
 https://werkenbij.cvdm.nl
 https://werkenbij.diensttoeslagen.nl
 https://werkenbij.douane.nl
+https://werkenbij.ifv.nl
 https://werkenbij.justid.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
@@ -6784,6 +6793,7 @@ https://werkplek.bij.hetcak.nl
 https://werkplek.cbs.nl
 https://werkplek.duo.nl
 https://werkplek.fondspodiumkunsten.nl
+https://werkplek.ifv.nl
 https://werkplek.justid.nl
 https://werkplek.rekenkamer.nl
 https://werkplek.services.acm.nl
@@ -7383,6 +7393,7 @@ https://www.icov.nl
 https://www.ictu.nl
 https://www.ideasfrom.eu
 https://www.ienc-kennisportaal.nl
+https://www.ifv.nl
 https://www.igj.nl
 https://www.ihg.cbs.nl
 https://www.iinterimrijk.nl

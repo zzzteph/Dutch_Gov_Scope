@@ -32,16 +32,17 @@ formulieren
 connect
 a-english
 portaal
+werkenbij
 remote
 login
 a-feeds.a-english
 a-opendata.a-english
 smtp
-werkenbij
 apps
 kennisbank
 zoeken
 portal
+link
 beheer
 app
 open
@@ -56,7 +57,6 @@ www-tst
 e
 preview
 dev
-link
 webservices
 beeldbank
 hybrid
@@ -151,6 +151,7 @@ connect-acpt
 www.mijn
 www.acc
 www-a
+synergy
 mijn-acc
 dashboard
 vt
@@ -239,12 +240,12 @@ kaart
 legacy
 test-cmsintranet
 test-intranet
+extern
 csoacct
 csotest
 sandbox
 mobile
 telewerken
-synergy
 authenticatie
 archief
 nextcloud
@@ -267,6 +268,7 @@ www.staging
 siam
 admin
 events
+elo
 acc-www
 www.test
 office
@@ -387,7 +389,6 @@ exchange
 preprodformulieren
 veiligmailen
 co
-extern
 odc
 bibliotheek
 coronadashboard
@@ -474,7 +475,6 @@ fed
 handboek
 s3
 papiamento
-elo
 ontheffingaanvragen
 pdok
 vacature
@@ -496,6 +496,7 @@ productie-nieuw
 share.acceptatie-nieuw
 share.test-nieuw
 test-nieuw
+elotest
 beheer-acc
 dashboard-acc
 training
@@ -6334,7 +6335,6 @@ ncdr
 szw-via
 beta.dblogistiek
 dblogistiek
-elotest
 id-beheer-beta.dblogistiek
 id-beheer.dblogistiek
 id-beta.dblogistiek
@@ -8705,3 +8705,7 @@ test.web.nmp
 timetell
 vpn.web
 yammer
+etalage
+etalagetest
+kerncijfers
+mijnexamens
