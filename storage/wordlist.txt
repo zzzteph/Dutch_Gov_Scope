@@ -482,9 +482,11 @@ communicatie
 ro
 api-a
 mr
+probeer
 melding
 api-dev
 gateway
+simcms
 viewer
 repo
 test.redactie
@@ -5424,7 +5426,6 @@ mkb
 msg
 msg.services
 nieuw
-probeer
 remote.services
 rxs
 rxs.services
@@ -5532,7 +5533,6 @@ verslaggeving
 www.digitaal.loket
 www.loket
 infographic
-simcms
 bestanden
 shop
 auteurs

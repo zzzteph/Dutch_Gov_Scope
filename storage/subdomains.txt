@@ -2236,6 +2236,7 @@ autodiscover.hogeraad.nl
 autodiscover.huisvoorklokkenluiders.nl
 autodiscover.hwbp.nl
 autodiscover.ictu.nl
+autodiscover.ihw.nl
 autodiscover.inspectie-oe.nl
 autodiscover.justid.nl
 autodiscover.knmi.nl
@@ -5795,6 +5796,7 @@ igjportaal.webservices-dbb.igj.nl
 igjtest.rijkscloud.nl
 ih-static.rvo.nl
 ihg.cbs.nl
+ihw.nl
 iinterimrijk.nl
 iknowcimow.acc.omgevingswet.overheid.nl
 iknowcimow.omgevingswet.overheid.nl
@@ -8552,6 +8554,7 @@ prizmo-web.rvo.nl
 prizmo.rvo.nl
 prk-lpb.duo.nl
 probeer.acm.nl
+probeer.ihw.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 prod-cms.digid.nl
@@ -9513,6 +9516,7 @@ signing.ep-online.nl
 signing.pre.brabant.nl
 sika0115.github.io
 simcms.ahn.nl
+simcms.ihw.nl
 simlandscape.alterra.nl
 simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
@@ -11990,6 +11994,7 @@ www.ienc-kennisportaal.nl
 www.ifv.nl
 www.igj.nl
 www.ihg.cbs.nl
+www.ihw.nl
 www.iinterimrijk.nl
 www.ikvermoedhuiselijkgeweld.nl
 www.ikwerkvoornederland.nl

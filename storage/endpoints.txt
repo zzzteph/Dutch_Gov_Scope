@@ -105,6 +105,7 @@ http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
 http://autodiscover.hogeraad.nl
 http://autodiscover.ictu.nl
+http://autodiscover.ihw.nl
 http://autodiscover.knmi.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
@@ -278,6 +279,7 @@ http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
 http://idp-acc.globalentry-rtp.nl
 http://idp.globalentry-rtp.nl
+http://ihw.nl
 http://iltbuildserver.dictu.nl
 http://img.openstad.zuid-holland.nl
 http://inkopers.werkenvoornederland.nl
@@ -5971,6 +5973,7 @@ https://signicat.sso.eherkenning.nl
 https://signing.pre.brabant.nl
 https://sika0115.github.io
 https://simcms.ahn.nl
+https://simcms.ihw.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
 https://simply-vish.github.io
