@@ -271,6 +271,7 @@ acc-www
 www.test
 office
 vragen
+assets
 webdisk
 helloid
 oa
@@ -506,7 +507,6 @@ matomo
 thuiswerken
 tst-www
 develop
-assets
 t1
 idp
 sip2
