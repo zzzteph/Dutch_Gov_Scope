@@ -1516,6 +1516,7 @@ actioncenter-whitestown-in.hub.arcgis.com
 activation.bics.nl
 active-land-use-permits-cityofpoulsbo.hub.arcgis.com
 activemq.beheer.intpatch.omgevingswet.overheid.nl
+activesync.hetcak.nl
 activitydashboard.arcgis.com
 actuality-education-fr.hub.arcgis.com
 actueel.nl-alert.nl
@@ -1973,6 +1974,7 @@ app.brabant.nl
 app.burgernet.nl
 app.dagvandeforensischezorg.nl
 app.digid.nl
+app.hetcak.nl
 app.nl-alert.nl
 app.svb.nl
 app.vechtstromen.nl
@@ -2009,6 +2011,7 @@ apps.vechtstromen.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
 appstore.p-direkt.nl
+apptest.hetcak.nl
 appvarenflevoland.flevoland.nl
 aptikom-riau-smartcommunity.hub.arcgis.com
 aqualarm.nl
@@ -2212,6 +2215,7 @@ autodiscover.eerstekamer.nl
 autodiscover.flevoland.nl
 autodiscover.globio.info
 autodiscover.hdsr.nl
+autodiscover.hetcak.nl
 autodiscover.hhdelfland.nl
 autodiscover.huisvoorklokkenluiders.nl
 autodiscover.hwbp.nl
@@ -2598,7 +2602,11 @@ bf.test.chm-cbd.net
 bft-plein-acc.bureauft.nl
 bft-plein.bureauft.nl
 bg-i.espacenet.com
+bg-tst.hetcak.nl
 bg.espacenet.com
+bg.hetcak.nl
+bg2-acc.hetcak.nl
+bg2.hetcak.nl
 bgfg-outcomes-24-austin.hub.arcgis.com
 bgt-acc.rvo.nl
 bgt-client-certificaat-acc.rvo.nl
@@ -2606,6 +2614,7 @@ bgt-client-certificaat.rvo.nl
 bgt-test.brabant.nl
 bgt.basisregistraties.overheid.nl
 bgt.brabant.nl
+bgtest.hetcak.nl
 bh-integratie.inspectieview.nl
 bhlsa01.knmi.nl
 bhlsa02.knmi.nl
@@ -2948,6 +2957,8 @@ cbdemo.entreepgb.svb.nl
 cbeduc.entreepgb.svb.nl
 cbg-meb.nl
 cbgjaarverslag.nl
+cbhc.hetcak.nl
+cbhctest.hetcak.nl
 cbi.eu
 cbm.acc.mijn.overheid.nl
 cbm.acc.picard.mijn.overheid.nl
@@ -3415,6 +3426,7 @@ contactherstelservice.lpc.mijn.overheid.nl
 contactpuntbouwproducten.nl
 container.hansken.org
 content.acc.omgevingswet.overheid.nl
+content.bij.hetcak.nl
 content.cbs.nl
 content.ilent.nl
 content.klopt.cibg.nl
@@ -3911,6 +3923,9 @@ diensttoeslagen.nl
 diergeneeskunderegister.nl
 diergeneesmiddeleninformatiebank.nl
 digi.ilent.nl
+digibg-tst.hetcak.nl
+digibg.hetcak.nl
+digibgtest.hetcak.nl
 digicampus.tech
 digicheck.brabant.nl
 digid-stub.lpc.mijn.overheid.nl
@@ -4332,6 +4347,8 @@ eid-t2.digid.nl
 eid.digid.nl
 eidas-mijn.duo.nl
 eidas-stub.lpc.mijn.overheid.nl
+eidgw.hetcak.nl
+eidgwtest.hetcak.nl
 eigenkracht.nl
 eijsden.dbsync.aqualarm.nl
 eindtoets-ouders.cito.nl
@@ -4649,6 +4666,7 @@ facturatie-acc.coa.nl
 facturatie.coa.nl
 factuur.dbe-t.rvb.rijkscloud.nl
 fad-gegevens-sit.belastingdienst.nl
+fallback.hetcak.nl
 fame.aerius.nl
 faq.cbr.nl
 faq.ndw.nu
@@ -5501,6 +5519,7 @@ gtpa.rvo.nl
 guest.dnb.nl
 guest.justid.nl
 guest.svb.nl
+guestportal.hetcak.nl
 guestwifi.dnb.nl
 gui.datascience.rijkscloud.nl
 gui.ienw.ix.rijkscloud.nl
@@ -5568,6 +5587,7 @@ herinneringtolbetalen.e-tol.nl
 herkomstgezocht.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
+hetcak.nl
 hetverhaalvan.flevoland.nl
 hhdelfland.nl
 hielprikapp.pns.nl
@@ -6165,6 +6185,8 @@ kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
+keten.hetcak.nl
+ketentest.hetcak.nl
 ketentestnvr.belastingdienst.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
 kevin.devops.rvb.rijkscloud.nl
@@ -6214,9 +6236,12 @@ klachten-acc.autoriteitpersoonsgegevens.nl
 klachten.autoriteitpersoonsgegevens.nl
 klachtenformulier.mensenrechten.nl
 klachtenformulierlink.mensenrechten.nl
+klant-acc.hetcak.nl
+klant.hetcak.nl
 klantonderzoek.cbr.nl
 klantportaal.caop.nl
 klantportaal.rvo.nl
+klanttest.hetcak.nl
 klanttoegang.cbs.nl
 kleuterinbeeld.cito.nl
 kleutervolgsysteem-a.cito.nl
@@ -6458,6 +6483,7 @@ login.databestanden.cbs.nl
 login.digid.nl
 login.dnb.nl
 login.domeinenrz.nl
+login.hetcak.nl
 login.idm.rvig.nl
 login.irealisatie.nl
 login.mijncn.nl
@@ -6471,6 +6497,7 @@ login.scp.nl
 login.t1.digid.nl
 login.t2.digid.nl
 login.vechtstromen.nl
+logintest.hetcak.nl
 logius.nl
 logkoppelpunt.duo.nl
 lokaalklimaat.databank.nl
@@ -6681,6 +6708,7 @@ mail.gn2.rijkscloud.nl
 mail.grknmi.nl
 mail.halt.nl
 mail.handelingenbank.info
+mail.hetcak.nl
 mail.huurcommissie.nl
 mail.ienw.rijkscloud.nl
 mail.koop.overheid.nl
@@ -6738,6 +6766,7 @@ mailb01.dictu.nl
 mailb02.dictu.nl
 mailb03.dictu.nl
 mailb04.dictu.nl
+mailbackup.hetcak.nl
 mailcatch.acc.dpr.irealisatie.nl
 mailcatch.test.dpr.irealisatie.nl
 mailcatch.test.ggdcontact.irealisatie.nl
@@ -6912,6 +6941,7 @@ metrics.digitalenoordzee.nl
 metrics.justitieconnect.nl
 metrixinbound.inspecteur.ilent.nl
 mft-acc.svb.nl
+mft-api-ont.hetcak.nl
 mft-prd.svb.nl
 mft.webftp.dictu.nl
 mg.chm-cbd.net
@@ -6927,6 +6957,7 @@ microdata2.cbs.nl
 microdatavpn.cbs.nl
 microfoonbanden.nl
 mig.cbs.nl
+mijn-acc.hetcak.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
 mijn-acc.rdi.nl
@@ -6974,6 +7005,7 @@ mijn.dus-i.nl
 mijn.examenblad.nl
 mijn.examenbladmbo.nl
 mijn.geschilleninstantie.zorgaanbiedersportaal.nl
+mijn.hetcak.nl
 mijn.huurcommissie.nl
 mijn.igj.nl
 mijn.inburgeren.nl
@@ -7070,6 +7102,7 @@ mijnsubsidies.limburg.nl
 mijnsvb-a.svb.nl
 mijnsvb-loadtest.svb.nl
 mijnsvb.svb.nl
+mijntest.hetcak.nl
 mijntoezicht-acc.azure.dnb.nl
 mijntoezicht-tst.azure.dnb.nl
 mijntoezicht.azure.dnb.nl
@@ -8107,6 +8140,10 @@ papiamentu.mijncn.nl
 papiamentu.rijksdienstcn.com
 papiamentu.two-acs.com
 papiamentu.vnacs.nl
+paragon-acc.hetcak.nl
+paragon-dev.hetcak.nl
+paragon-prd.hetcak.nl
+paragon-tst.hetcak.nl
 partnerplaza.sso3w.nl
 partoer.databank.nl
 pas.natura2000.nl
@@ -8273,6 +8310,13 @@ politieopendata.cbs.nl
 pom.cultureelerfgoed.nl
 pop.oostvaarderskliniek.nl
 pop.vechtstromen.nl
+porta-acc.hetcak.nl
+porta-api-acc.hetcak.nl
+porta-api-tst.hetcak.nl
+porta-api.hetcak.nl
+porta-ont.hetcak.nl
+porta-tst.hetcak.nl
+porta.hetcak.nl
 portaal-a.ikz.nl
 portaal-acc.afm.nl
 portaal-acceptatie.rijkscloud.nl
@@ -9208,6 +9252,7 @@ secure5.svb.nl
 securedownload.cito.nl
 securemail.bics.nl
 securemail.dnb.nl
+securemail.hetcak.nl
 securemail.zorginstituutnederland.nl
 securemailnew.bics.nl
 securened.ncsc.nl
@@ -9217,6 +9262,7 @@ security.ndw.nu
 securityservice.secure.cito.nl
 securityzkh.nctv.nl
 seed.status.chm-cbd.net
+seg.bij.hetcak.nl
 seg.cbs.nl
 seg.duo.nl
 selector1._domainkey.nlarbeidsinspectie.nl
@@ -9386,6 +9432,7 @@ simulator-dev.etoegang.nl
 simulator-tst.etoegang.nl
 simulator.acc.etoegang.nl
 simulator.etoegang.nl
+sip-license.hetcak.nl
 sip.cbg-meb.nl
 sip.coa.nl
 sip.emissieautoriteit.nl
@@ -9397,10 +9444,13 @@ sip.rvig.nl
 sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
+sip1.hetcak.nl
 sip2.dnb.nl
+sip2.hetcak.nl
 sipextern1.duo.nl
 sipextern2.duo.nl
 sipfed.coa.nl
+sippoc.hetcak.nl
 sipreg.belastingdienst.nl
 sis.brabant.nl
 sis.zuid-holland.nl
@@ -10160,6 +10210,8 @@ tiles1.arcgis.com
 tiles2.arcgis.com
 tiles4.arcgis.com
 tileserver.ndw.nu
+timeit-acc.hetcak.nl
+timeit.hetcak.nl
 timeline.test.zm.irealisatie.nl
 timnath.maps.arcgis.com
 tip.ncsc.nl
@@ -10316,6 +10368,7 @@ tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
+tunnel.bij.hetcak.nl
 tunnel.cbs.nl
 tunnel.justitieleictorganisatie.nl
 tunnel1.cbs.nl
@@ -10402,6 +10455,7 @@ use1-geocode-ls.arcgis.com
 user-api.acc.coronatest.nl
 user-api.acceptatie.coronatest.nl
 user-api.test.coronatest.nl
+usercheck.hetcak.nl
 usernamesalah.github.io
 usw2-geocode.arcgis.com
 utah-county-data-sharing-hub-utahcounty.hub.arcgis.com
@@ -10639,6 +10693,7 @@ voorlichting.halt.nl
 voorlichting.nederlandwereldwijd.nl
 voorlichting.rijksoverheid.nl
 voorlichting.wegwijzer.overheid.nl
+vor-ont.hetcak.nl
 vorijkbo-acc.rvo.nl
 vorijkbo-tst.rvo.nl
 vos.intranet.rijkswaterstaat.nl
@@ -10859,6 +10914,7 @@ webdiensten8.belastingdienst.nl
 webdiensten8.str1.acc.belastingdienst.nl
 webdisk.farmingthefuture.nl
 webdisk.globio.info
+webfilter.hetcak.nl
 webform.rvo.nl
 webforms.acc.belastingdienst.nl
 webforms.belastingdienst.nl
@@ -10887,6 +10943,7 @@ webmail.eurofawc.com
 webmail.farmingthefuture.nl
 webmail.flevoland.nl
 webmail.globio.info
+webmail.hetcak.nl
 webmail.huurcommissie.nl
 webmail.knmi.nl
 webmail.ofgv.nl
@@ -10955,6 +11012,7 @@ wegkenmerken.staging.ndw.nu
 wegwijzer.overheid.nl
 wegwijzermensenhandel.nl
 welkom-zandbak.leerenontwikkelplein.nl
+welkom.bij.hetcak.nl
 welkom.caop.nl
 welkom.leerenontwikkelplein.nl
 welkombij.cbs.nl
@@ -10994,6 +11052,7 @@ werkplaats.onslevendlandschap.nl
 werkplek-tijdelijk1.duo.nl
 werkplek.acm.nl
 werkplek.afm.nl
+werkplek.bij.hetcak.nl
 werkplek.brabant.nl
 werkplek.cbs.nl
 werkplek.ctgb.nl
@@ -11028,6 +11087,7 @@ wft.duo.nl
 whatsip.test.ix.rijkscloud.nl
 wi.maptiles.arcgis.com
 wibe.databank.nl
+wifi-guest.hetcak.nl
 wifi.acm.nl
 wifi.brabant.nl
 wifi.dictu.nl
@@ -11144,6 +11204,7 @@ www-acc.farmacotherapeutischkompas.nl
 www-acc.fiu-nederland.nl
 www-acc.gipdatabank.nl
 www-acc.globalentry-rtp.nl
+www-acc.hetcak.nl
 www-acc.horizonscangeneesmiddelen.nl
 www-acc.istandaarden.nl
 www-acc.medicijnkosten.nl
@@ -11778,6 +11839,7 @@ www.hdsr.nl
 www.healthcouncil.nl
 www.helpdesk-efactureren.nl
 www.herkomstgezocht.nl
+www.hetcak.nl
 www.hetverhaalvan.flevoland.nl
 www.hhdelfland.nl
 www.historisch.cbs.nl
@@ -12213,6 +12275,7 @@ wwwnieuw.ctivd.nl
 wwwrijksacademienl.belastingdienst.nl
 wwwtepr.entreepgb.svb.nl
 wwwtest.entreepgb.svb.nl
+wwwtest.hetcak.nl
 wwwtst01.cbr.nl
 wycopa.maps.arcgis.com
 xbrlonderwijsportaal-acp.duo.nl
@@ -12237,12 +12300,16 @@ youthatheart.nl
 ytyng.github.io
 yxdyc.github.io
 zaaksysteem-acc.hdsr.nl
+zaaksysteem-acc.hetcak.nl
 zaaksysteem-acc.inspectie-jenv.nl
 zaaksysteem-acc.odmh.nl
 zaaksysteem-acc.rijkswaterstaat.nl
 zaaksysteem-accept.huurcommissie.nl
 zaaksysteem-accept.zuid-holland.nl
+zaaksysteem-ont.hetcak.nl
+zaaksysteem-tst.hetcak.nl
 zaaksysteem.hdsr.nl
+zaaksysteem.hetcak.nl
 zaaksysteem.inspectie-jenv.nl
 zaaksysteem.odmh.nl
 zaaksysteem.rijkswaterstaat.nl

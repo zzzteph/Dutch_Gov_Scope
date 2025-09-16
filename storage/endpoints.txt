@@ -472,6 +472,7 @@ http://uffprod25.waterschaplimburg.nl
 http://ufftest25.waterschaplimburg.nl
 http://uptime.bureauft.nl
 http://uptime.bureauwbtv.nl
+http://usercheck.hetcak.nl
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
 http://uzi.acc.brba.nl
@@ -489,6 +490,7 @@ http://vth.zuid-holland.nl
 http://w3dxweb.knmi.nl
 http://warmtetransitieatlas.zuid-holland.nl
 http://web.proeftuin.gf.irealisatie.nl
+http://webfilter.hetcak.nl
 http://webmail.knmi.nl
 http://webmail.werkenvoornederland.nl
 http://webtooling.irealisatie.nl
@@ -1703,6 +1705,7 @@ https://app.brabant.nl
 https://app.burgernet.nl
 https://app.dagvandeforensischezorg.nl
 https://app.digid.nl
+https://app.hetcak.nl
 https://app.svb.nl
 https://app.vechtstromen.nl
 https://applicaties.ciz.nl
@@ -2278,6 +2281,7 @@ https://cbc.databank.nl
 https://cbc2.databank.nl
 https://cbg-meb.nl
 https://cbgjaarverslag.nl
+https://cbhc.hetcak.nl
 https://cbi.eu
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
@@ -2530,6 +2534,7 @@ https://consuwijzer.nl
 https://contactformulier.acc.onderwijsinspectie.nl
 https://contactformulier.onderwijsinspectie.nl
 https://contactpuntbouwproducten.nl
+https://content.bij.hetcak.nl
 https://content.cbs.nl
 https://content.klopt.cibg.nl
 https://content.omgevingswet.overheid.nl
@@ -3095,6 +3100,8 @@ https://eid-preprod2.digid.nl
 https://eid.digid.nl
 https://eidas-mijn.duo.nl
 https://eidas-stub.lpc.mijn.overheid.nl
+https://eidgw.hetcak.nl
+https://eidgwtest.hetcak.nl
 https://eigenkracht.nl
 https://eijsden.dbsync.aqualarm.nl
 https://eiti.nl
@@ -3843,6 +3850,7 @@ https://helpmee.cbs.nl
 https://herinneringtolbetalen.e-tol.nl
 https://herkomstgezocht.nl
 https://herstel.toeslagen.nl
+https://hetcak.nl
 https://hetverhaalvan.flevoland.nl
 https://hhdelfland.nl
 https://highcharts.cbs.nl
@@ -4187,6 +4195,7 @@ https://kennisdelen.rvo.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
+https://keten.hetcak.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
@@ -4369,6 +4378,7 @@ https://login.cbs.nl
 https://login.databestanden.cbs.nl
 https://login.digid.nl
 https://login.dnb.nl
+https://login.hetcak.nl
 https://login.idm.rvig.nl
 https://login.mijncn.nl
 https://login.pp1.digid.nl
@@ -4630,6 +4640,7 @@ https://mijn.duo.nl
 https://mijn.examenblad.nl
 https://mijn.examenbladmbo.nl
 https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl
+https://mijn.hetcak.nl
 https://mijn.huurcommissie.nl
 https://mijn.igj.nl
 https://mijn.inburgeren.nl
@@ -5350,6 +5361,8 @@ https://politiekeambtsdragers.nl
 https://politieopendata.cbs.nl
 https://pom.cultureelerfgoed.nl
 https://pop.oostvaarderskliniek.nl
+https://porta-api.hetcak.nl
+https://porta.hetcak.nl
 https://portaal-a.ikz.nl
 https://portaal.afm.nl
 https://portaal.belastingdienst.nl
@@ -5825,6 +5838,7 @@ https://secure.vechtstromen.nl
 https://secure5.svb.nl
 https://securedownload.cito.nl
 https://securemail.dnb.nl
+https://securemail.hetcak.nl
 https://securemail.zorginstituutnederland.nl
 https://securened.ncsc.nl
 https://securetest.vechtstromen.nl
@@ -5832,6 +5846,7 @@ https://securetransfer.rijkscloud.nl
 https://security.ndw.nu
 https://securityservice.secure.cito.nl
 https://seed.status.chm-cbd.net
+https://seg.bij.hetcak.nl
 https://semaphore.cultuurparticipatie.nl
 https://semarnath1.maps.arcgis.com
 https://senternovem.databank.nl
@@ -5907,6 +5922,8 @@ https://simulator.etoegang.nl
 https://sip.coa.nl
 https://sip.om.nl
 https://sip.rijksrecherche.nl
+https://sip1.hetcak.nl
+https://sip2.hetcak.nl
 https://sipfed.coa.nl
 https://sites.fondspodiumkunsten.nl
 https://sitescan-eu1.arcgis.com
@@ -6295,6 +6312,7 @@ https://tiles1.arcgis.com
 https://tiles2.arcgis.com
 https://tiles4.arcgis.com
 https://tileserver.ndw.nu
+https://timeit.hetcak.nl
 https://timnath.maps.arcgis.com
 https://tl.iplo.nl
 https://tlokb.nl
@@ -6669,6 +6687,7 @@ https://wegkenmerken.staging.ndw.nu
 https://wegwijzer.overheid.nl
 https://wegwijzermensenhandel.nl
 https://welkom-zandbak.leerenontwikkelplein.nl
+https://welkom.bij.hetcak.nl
 https://welkom.caop.nl
 https://welkom.leerenontwikkelplein.nl
 https://welkombij.cbs.nl
@@ -6701,6 +6720,7 @@ https://werkplaats-acc.onslevendlandschap.nl
 https://werkplaats.onslevendlandschap.nl
 https://werkplek.acm.nl
 https://werkplek.afm.nl
+https://werkplek.bij.hetcak.nl
 https://werkplek.cbs.nl
 https://werkplek.duo.nl
 https://werkplek.fondspodiumkunsten.nl
@@ -6723,6 +6743,7 @@ https://wetten.overheid.nl
 https://wetten.rvo.nl
 https://wi.maptiles.arcgis.com
 https://wibe.databank.nl
+https://wifi-guest.hetcak.nl
 https://wifi.brabant.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://wikixl-saml.cultureelerfgoed.nl
@@ -7278,6 +7299,7 @@ https://www.hdsr.nl
 https://www.healthcouncil.nl
 https://www.helpdesk-efactureren.nl
 https://www.herkomstgezocht.nl
+https://www.hetcak.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.hhdelfland.nl
 https://www.historisch.cbs.nl
@@ -7654,12 +7676,16 @@ https://youthatheart.nl
 https://ytyng.github.io
 https://yxdyc.github.io
 https://zaaksysteem-acc.hdsr.nl
+https://zaaksysteem-acc.hetcak.nl
 https://zaaksysteem-acc.inspectie-jenv.nl
 https://zaaksysteem-acc.odmh.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
 https://zaaksysteem-accept.huurcommissie.nl
 https://zaaksysteem-accept.zuid-holland.nl
+https://zaaksysteem-ont.hetcak.nl
+https://zaaksysteem-tst.hetcak.nl
 https://zaaksysteem.hdsr.nl
+https://zaaksysteem.hetcak.nl
 https://zaaksysteem.inspectie-jenv.nl
 https://zaaksysteem.odmh.nl
 https://zaaksysteem.rijkswaterstaat.nl
