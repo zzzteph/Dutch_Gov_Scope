@@ -1897,6 +1897,7 @@ api.duo.nl
 api.eerstekamer.nl
 api.ienw.ix.rijkscloud.nl
 api.ilent.nl
+api.ivopzee.nl
 api.ix.rijkscloud.nl
 api.jeugdconnect.nl
 api.kcc.cibg.nl
@@ -6079,6 +6080,7 @@ ivi.rvb.rijkscloud.nl
 ivm11.databank.nl
 ivo-acc.nvwa.nl
 ivo.nvwa.nl
+ivopzee.nl
 iwelcome-preprod.nvwa.nl
 iwelcome.nvwa.nl
 ix-mail.rijkscloud.nl
@@ -7058,6 +7060,7 @@ metelkaar.waterschaplimburg.nl
 metelkaartrekkenwedegrens.nl
 metrics-acc.justitieconnect.nl
 metrics.digitalenoordzee.nl
+metrics.ivopzee.nl
 metrics.justitieconnect.nl
 metrixinbound.inspecteur.ilent.nl
 mft-acc.svb.nl
@@ -12133,6 +12136,7 @@ www.it-academieoverheid.nl
 www.iuc-noord.nl
 www.ivd.nl
 www.ivm11.databank.nl
+www.ivopzee.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
 www.jaarverslag2024.bkd.eu

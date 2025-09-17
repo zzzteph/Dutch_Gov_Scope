@@ -250,6 +250,7 @@ authenticatie
 archief
 nextcloud
 guest
+metrics
 secure
 vacatures
 wiki
@@ -407,7 +408,6 @@ registry
 privacy
 acc.intranet
 test.intranet
-metrics
 confluence
 externemail01
 externemail02

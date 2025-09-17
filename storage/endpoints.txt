@@ -1684,6 +1684,7 @@ https://api.developer.dnb.nl
 https://api.digid.nl
 https://api.dnb.nl
 https://api.eerstekamer.nl
+https://api.ivopzee.nl
 https://api.ix.rijkscloud.nl
 https://api.jeugdconnect.nl
 https://api.klopt.cibg.nl
@@ -4186,6 +4187,7 @@ https://ivd.nl
 https://ivm11.databank.nl
 https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
+https://ivopzee.nl
 https://iwelcome-preprod.nvwa.nl
 https://iwelcome.nvwa.nl
 https://jaarverantwoordingzorg.nl
@@ -4699,6 +4701,7 @@ https://mestobb.maps.arcgis.com
 https://metadata.maptiles.arcgis.com
 https://metelkaar.waterschaplimburg.nl
 https://metelkaartrekkenwedegrens.nl
+https://metrics.ivopzee.nl
 https://mft-acc.svb.nl
 https://mft-prd.svb.nl
 https://mft.webftp.dictu.nl
@@ -7524,6 +7527,7 @@ https://www.it-academieoverheid.nl
 https://www.iuc-noord.nl
 https://www.ivd.nl
 https://www.ivm11.databank.nl
+https://www.ivopzee.nl
 https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.jaarverslag2024.bkd.eu
