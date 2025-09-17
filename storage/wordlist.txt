@@ -45,6 +45,7 @@ zoeken
 app
 portal
 e
+dev
 beheer
 open
 meet
@@ -56,7 +57,6 @@ www-dev
 www-p
 www-tst
 preview
-dev
 webservices
 beeldbank
 hybrid
@@ -508,6 +508,7 @@ rijbewijs
 tracking
 be
 fr
+uk
 matomo
 thuiswerken
 tst-www
@@ -6498,7 +6499,6 @@ tg
 tg.test
 tz
 ug.test
-uk
 www.prod
 ye
 zm
@@ -8717,3 +8717,24 @@ wordpress
 wp
 cma-acc
 cma
+bak-jp
+bak-kor
+bak-tw
+china
+cnnew
+dev.uk
+german.dev
+german
+japan.dev
+japan
+korea.dev
+korea
+taiwan.dev
+taiwan
+www.bak-jp
+www.china
+www.german
+www.japan
+www.korea
+www.taiwan
+www.uk
