@@ -2241,6 +2241,7 @@ autodiscover.ictu.nl
 autodiscover.ihw.nl
 autodiscover.inclusiefwerkt.nl
 autodiscover.inspectie-oe.nl
+autodiscover.iuc-noord.nl
 autodiscover.justid.nl
 autodiscover.knmi.nl
 autodiscover.koop.overheid.nl
@@ -6066,6 +6067,7 @@ itp-acc.ilent.nl
 itp.ilent.nl
 itsupport.nza.nl
 iuc-acceptatie.rijkscloud.nl
+iuc-noord.nl
 iuc-wsgi-acc.rijkscloud.nl
 iv3-controle-api.cbs.nl
 iv3-controle.beta.cbs.nl
@@ -12127,6 +12129,7 @@ www.ishetafval.nl
 www.isis-web.nl
 www.istandaarden.nl
 www.it-academieoverheid.nl
+www.iuc-noord.nl
 www.ivm11.databank.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
