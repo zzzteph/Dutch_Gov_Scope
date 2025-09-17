@@ -42,10 +42,10 @@ apps
 kennisbank
 link
 zoeken
+app
 portal
 e
 beheer
-app
 open
 meet
 sip
@@ -98,6 +98,7 @@ enterpriseenrollment
 acceptatie.behandel
 acceptatie.mijn
 atlas
+id
 kaarten
 publicaties
 helpdesk
@@ -133,8 +134,8 @@ acceptatie.webservices
 acceptatie.zoeken
 behandel
 geoportaal
-id
 wifi
+www-test
 acc2
 static
 sts
@@ -193,7 +194,6 @@ geoserver
 nieuws
 ondertekenen
 wachtwoord
-www-test
 doc
 sso
 conf
