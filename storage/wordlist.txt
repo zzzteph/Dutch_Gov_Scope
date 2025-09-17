@@ -109,6 +109,7 @@ oud
 a-magazines
 mailing
 ns1
+www.acc
 zaaksysteem-acc
 forms
 m
@@ -150,7 +151,6 @@ sf
 api-acc
 connect-acpt
 www.mijn
-www.acc
 www-a
 synergy
 mijn-acc
@@ -522,6 +522,7 @@ bg
 cpcalendars
 cpcontacts
 sub
+redirect
 geoportal
 gisservices
 gisservicesacc
@@ -8693,7 +8694,6 @@ prod.github-push
 prod.web
 prod.web.nmp
 pwreset
-redirect
 securefiletransfer
 setuppw
 sollicitanten
@@ -8738,3 +8738,4 @@ www.japan
 www.korea
 www.taiwan
 www.uk
+www.redirect

@@ -1242,6 +1242,7 @@ acc.intranet-demo.dictu.nl
 acc.intranet.justis.nl
 acc.intranet.rvig.nl
 acc.irealisatie.nl
+acc.isdatechtzo.nl
 acc.justis.nl
 acc.justitieconnect.nl
 acc.leer-rijk.nl
@@ -6047,6 +6048,7 @@ irmpol.dictu.nl
 is-i.espacenet.com
 is.espacenet.com
 isamproxyont.ont.belastingdienst.nl
+isdatechtzo.nl
 ise.acm.nl
 ishetafval.nl
 isi.cbs.nl
@@ -6824,6 +6826,7 @@ mail.ienw.rijkscloud.nl
 mail.ifv.nl
 mail.incca.org
 mail.infowms.nl
+mail.isdatechtzo.nl
 mail.koop.overheid.nl
 mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
@@ -8888,6 +8891,7 @@ redactie.zuid-holland.nl
 redash.iaas.rijkscloud.nl
 redhat2.gn2.rijkscloud.nl
 redirect.ictu.nl
+redirect.isdatechtzo.nl
 redlands-anca.hub.arcgis.com
 redmine.knmi.nl
 ref.omgevingswet.overheid.nl
@@ -11511,6 +11515,7 @@ www.acc.cruksregister.nl
 www.acc.ep-online.nl
 www.acc.grondstoffenscanner.nl
 www.acc.inspectieview.nl
+www.acc.isdatechtzo.nl
 www.acc.mijn.dus-i.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
 www.acc.omgevingswet.overheid.nl
@@ -12117,6 +12122,7 @@ www.iob-evaluatie.nl
 www.iplo.nl
 www.ipw4.alterra.nl
 www.irealisatie.nl
+www.isdatechtzo.nl
 www.ishetafval.nl
 www.isis-web.nl
 www.istandaarden.nl
@@ -12324,6 +12330,7 @@ www.rdw.seb.ibki.nl
 www.rechtsbijstand.nl
 www.rechtwijzer.nl
 www.redactie.aquo.nl
+www.redirect.isdatechtzo.nl
 www.regelhulp.nl
 www.regiosaandegrens.nl
 www.regulatoryscience.nl
