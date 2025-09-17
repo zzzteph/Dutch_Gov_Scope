@@ -327,6 +327,7 @@ http://lv109366-web01-out.eerstekamer.nl
 http://mail.agendavoorhetwaddengebied2050.nl
 http://mail.cea.nl
 http://mail.dev.cbs.nl
+http://mail.infowms.nl
 http://matrix.ix.rijkscloud.nl
 http://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
@@ -371,6 +372,7 @@ http://openstad.zuid-holland.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
+http://oud.infowms.nl
 http://p-crl.justid.nl
 http://papdig-toets3.cito.nl
 http://pdok.waterschaplimburg.nl
@@ -4038,6 +4040,7 @@ https://informatieproducten.duo.rijkscloud.nl
 https://informatiepuntdigitaleoverheid.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://informatieservice.nederlandwereldwijd.nl
+https://infowms.nl
 https://infra.status.chm-cbd.net
 https://infrabeheer.rvb.rijkscloud.nl
 https://inkoopplein.dictu.nl
@@ -6866,6 +6869,7 @@ https://woordenboek.klimaatadaptatienederland.nl
 https://wordaddin.eerstekamer.nl
 https://wordcms.eerstekamer.nl
 https://wordimport.drop.overheid.nl
+https://wordpress.infowms.nl
 https://workflow.arcgis.com
 https://worldwide-i.espacenet.com
 https://worldwide-o.espacenet.com
@@ -7439,6 +7443,7 @@ https://www.informatieanalyseteam.nl
 https://www.informatiehuishouding.nl
 https://www.informatiehuismarien.nl
 https://www.informatiepuntdigitaleoverheid.nl
+https://www.infowms.nl
 https://www.inschrijven.cultuurparticipatie.nl
 https://www.inspectie-checklist.nl
 https://www.inspectie-jenv.nl
