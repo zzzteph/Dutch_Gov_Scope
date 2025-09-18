@@ -2439,6 +2439,7 @@ https://cdn-a.arcgis.com
 https://cdn-mediaprogram.maps.arcgis.com
 https://cdn.cbs.nl
 https://cdn.crimediggers.nl
+https://cdn.kcb.nl
 https://cdn.klopt.cibg.nl
 https://cdn.knmi.nl
 https://cdn.opwegnaarseb.nl
@@ -4461,6 +4462,7 @@ https://kavaanalytics.vcdn.belastingdienst.nl
 https://kazi-yeasin.github.io
 https://kb.nl
 https://kbvg.nl
+https://kcb.nl
 https://ke.chm-cbd.net
 https://kemperms.maps.arcgis.com
 https://kennis-staging.cultureelerfgoed.nl
@@ -4747,6 +4749,7 @@ https://m.fondspodiumkunsten.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.rijkswaterstaat.nl
 https://ma.chm-cbd.net
+https://ma.kcb.nl
 https://ma.test.chm-cbd.net
 https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
@@ -5718,6 +5721,7 @@ https://pop.oostvaarderskliniek.nl
 https://porta-api.hetcak.nl
 https://porta.hetcak.nl
 https://portaal-a.ikz.nl
+https://portaal-acc.kcb.nl
 https://portaal.afm.nl
 https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
@@ -5726,6 +5730,7 @@ https://portaal.dienstterugkeerenvertrek.nl
 https://portaal.huurcommissie.nl
 https://portaal.ikz.nl
 https://portaal.interventiedatabase.nl
+https://portaal.kcb.nl
 https://portaal.ncpeh.nl
 https://portaal.nlarbeidsinspectie.nl
 https://portaal.prolander.nl
@@ -6390,6 +6395,7 @@ https://ssp.ix.rijkscloud.nl
 https://sss.cloud.kadaster.nl
 https://sss.test.cloud.kadaster.nl
 https://sst.buitenlevenvakanties.nl
+https://st.kcb.nl
 https://staatscommissie2050.nl
 https://staatscommissierechtsstaat.nl
 https://staatscommissietegendiscriminatieenracisme.nl
@@ -7140,6 +7146,7 @@ https://werkenbij.diensttoeslagen.nl
 https://werkenbij.douane.nl
 https://werkenbij.ifv.nl
 https://werkenbij.justid.nl
+https://werkenbij.kcb.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -7868,6 +7875,7 @@ https://www.kansrijkestartnl.nl
 https://www.kansspelautoriteit.nl
 https://www.kb.nl
 https://www.kbvg.nl
+https://www.kcb.nl
 https://www.kennisdelen.rvo.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl

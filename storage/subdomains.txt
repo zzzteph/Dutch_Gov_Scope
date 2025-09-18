@@ -3190,6 +3190,7 @@ cdn.biotechnologie.nl
 cdn.cbs.nl
 cdn.crimediggers.nl
 cdn.dji.nl
+cdn.kcb.nl
 cdn.klopt.cibg.nl
 cdn.knmi.nl
 cdn.opwegnaarseb.nl
@@ -6844,6 +6845,8 @@ kb-client-254.kb.nl
 kb.nl
 kbvg.nl
 kc.ilent.nl
+kcb-p-dc002.kcb.nl
+kcb.nl
 kdmz.belastingdienst.nl
 ke.chm-cbd.net
 keiko.brba.nl
@@ -7334,6 +7337,7 @@ m365.ctgb.nl
 m365.knmi.nl
 m365.scp.nl
 ma.chm-cbd.net
+ma.kcb.nl
 ma.test.chm-cbd.net
 maatwerkadvies-preprod.api.ep-online.nl
 maatwerkadvies.api.ep-online.nl
@@ -7459,6 +7463,7 @@ mail.ifv.nl
 mail.incca.org
 mail.infowms.nl
 mail.isdatechtzo.nl
+mail.kcb.nl
 mail.koop.overheid.nl
 mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
@@ -9246,6 +9251,7 @@ porta-tst.hetcak.nl
 porta.hetcak.nl
 portaal-a.ikz.nl
 portaal-acc.afm.nl
+portaal-acc.kcb.nl
 portaal-acceptatie.rijkscloud.nl
 portaal-dev.afm.nl
 portaal-iuc-acceptatie.rijkscloud.nl
@@ -9260,6 +9266,7 @@ portaal.huurcommissie.nl
 portaal.ictu.nl
 portaal.ikz.nl
 portaal.interventiedatabase.nl
+portaal.kcb.nl
 portaal.ncpeh.nl
 portaal.nlarbeidsinspectie.nl
 portaal.prolander.nl
@@ -10695,6 +10702,7 @@ ssp.ix.rijkscloud.nl
 sss.cloud.kadaster.nl
 sss.test.cloud.kadaster.nl
 sst.buitenlevenvakanties.nl
+st.kcb.nl
 staatscommissie2050.nl
 staatscommissierechtsstaat.nl
 staatscommissietegendiscriminatieenracisme.nl
@@ -12078,6 +12086,7 @@ webmail.ibki.nl
 webmail.ictu.nl
 webmail.ifv.nl
 webmail.kansspelautoriteit.nl
+webmail.kcb.nl
 webmail.knmi.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
@@ -12178,6 +12187,7 @@ werkenbij.diensttoeslagen.nl
 werkenbij.douane.nl
 werkenbij.ifv.nl
 werkenbij.justid.nl
+werkenbij.kcb.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.toeslagen.nl
@@ -12261,6 +12271,7 @@ windviewer.rvo.nl
 winkelgebiedenscan.databank.nl
 wio.ilent.nl
 wiob.ilent.nl
+wireframes.kcb.nl
 wireless.nza.nl
 wist-fpi.hhdelfland.nl
 wkr.nl
@@ -13144,6 +13155,8 @@ www.kansrijkestartnl.nl
 www.kansspelautoriteit.nl
 www.kb.nl
 www.kbvg.nl
+www.kcb-p-dc002.kcb.nl
+www.kcb.nl
 www.kennisdelen.rvo.nl
 www.kennisvandeoverheid.nl
 www.kiesraad.nl
