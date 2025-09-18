@@ -201,6 +201,7 @@ esb
 geoserver
 nieuws
 ondertekenen
+samenwerken
 wachtwoord
 doc
 sso
@@ -327,7 +328,6 @@ blogs
 georegister
 osb
 proxy
-samenwerken
 sis
 werkenvoor
 uzi.acc
