@@ -1110,6 +1110,7 @@ acc-cms.digid.nl
 acc-cms.projecten.rvo.nl
 acc-cms.projects.rvo.nl
 acc-cms.rvo.nl
+acc-cruks.kansspelautoriteit.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.digitoegankelijk.nl
 acc-dictu.eherkenning.nl
@@ -1861,6 +1862,7 @@ api-a6.digid.nl
 api-acc.afm.nl
 api-acc.competentnl.nl
 api-acc.dashboardgroningen.nl
+api-acc.kansspelautoriteit.nl
 api-acc.rdi.nl
 api-acpt.brabant.nl
 api-auth.ilent.nl
@@ -1874,6 +1876,9 @@ api-ota.belastingdienst.nl
 api-performance.test.ix.rijkscloud.nl
 api-preprod1.digid.nl
 api-preprod2.digid.nl
+api-proeftuin-acc.kansspelautoriteit.nl
+api-proeftuin-test.kansspelautoriteit.nl
+api-proeftuin.kansspelautoriteit.nl
 api-sec.p-direkt.nl
 api-staging.developer.dnb.nl
 api-staging.dnb.nl
@@ -1882,7 +1887,9 @@ api-staging.portal.dnb.nl
 api-staging.scm.dnb.nl
 api-t1.digid.nl
 api-t2.digid.nl
+api-test.kansspelautoriteit.nl
 api-tst.afm.nl
+api.acc-cruks.kansspelautoriteit.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
 api.acc.spaceweather.knmi.nl
@@ -1950,6 +1957,7 @@ api.ivopzee.nl
 api.ix.rijkscloud.nl
 api.jeugdconnect.nl
 api.kadaster.nl
+api.kansspelautoriteit.nl
 api.kcc.cibg.nl
 api.klic.acceptatie.kadaster.nl
 api.klic.kadaster.nl
@@ -3670,6 +3678,8 @@ crmtest.cbi.eu
 crow.databank.nl
 crowdtech.rvo.nl
 crowlogin.databank.nl
+cruks-test.kansspelautoriteit.nl
+cruks.kansspelautoriteit.nl
 cruksregister.nl
 cryptshare.acm.nl
 cryptshare.services.acm.nl
@@ -5190,6 +5200,7 @@ fibt2.acc.belastingdienst.nl
 fibt2.acc.toeslagen.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
+file.kansspelautoriteit.nl
 file.ndw.nu
 files.buitenlevenvakanties.nl
 files.cultuurparticipatie.nl
@@ -5260,6 +5271,7 @@ formulieren.dnb.nl
 formulieren.flevoland.nl
 formulieren.huurcommissie.nl
 formulieren.kadaster.nl
+formulieren.kansspelautoriteit.nl
 formulieren.limburg.nl
 formulieren.nvwa.nl
 formulieren.odmh.nl
@@ -6214,6 +6226,7 @@ intranet.flevoland.nl
 intranet.justid.nl
 intranet.justis.nl
 intranet.justitieleictorganisatie.nl
+intranet.kansspelautoriteit.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.odijmond.nl
 intranet.ont.toeslagen.nl
@@ -6477,6 +6490,7 @@ kaiachain.github.io
 kamerindeklas.nl
 kamervoordebinnenvisserij.nl
 kansrijkestartnl.nl
+kansspelautoriteit.nl
 kantoor.hdsr.nl
 karin.ndw.nu
 kart.rechtwijzer.nl
@@ -8909,6 +8923,7 @@ portal.ind.nl
 portal.informatieproducten-test.duo.rijkscloud.nl
 portal.informatieproducten.duo.rijkscloud.nl
 portal.ip.test.duo.rijkscloud.nl
+portal.kansspelautoriteit.nl
 portal.lvb.cloud.kadaster.nl
 portal.lvb.kadaster.nl
 portal.lvb.test.kadaster.nl
@@ -9325,6 +9340,7 @@ redactie.cbs.nl
 redactie.eerstekamer.nl
 redactie.gebruikercentraal.nl
 redactie.hdsr.nl
+redactie.kansspelautoriteit.nl
 redactie.odijmond.nl
 redactie.odmh.nl
 redactie.ofgv.nl
@@ -9704,6 +9720,7 @@ saml-sign-rv-pp1.belastingdienst.nl
 samsvr.kadaster.nl
 sandbox.functiegebouwrijksoverheid.nl
 sandbox.ikwerkvoornederland.nl
+sandbox.kansspelautoriteit.nl
 sandbox.redactie.eerstekamer.nl
 sandbox.werkenvoornederland.nl
 sap-internet-test.belastingdienst.nl
@@ -9874,6 +9891,7 @@ sem.dnb.nl
 sema.dnb.nl
 semaphore.cultuurparticipatie.nl
 semarnath1.maps.arcgis.com
+send.kansspelautoriteit.nl
 sensu.ix.rijkscloud.nl
 senternovem.databank.nl
 sentry.acm.nl
@@ -10486,6 +10504,7 @@ sts.cbg-meb.nl
 sts.cbs.nl
 sts.hhdelfland.nl
 sts.hogeraad.nl
+sts.kansspelautoriteit.nl
 sts.koop.overheid.nl
 stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
@@ -10943,6 +10962,7 @@ token.filmfonds.nl
 tolpaymentapi.e-tol.nl
 toolbox-extremisme.nctv.nl
 toolbox.veiligepubliekedienstverlening.nl
+toolkit-cruks.kansspelautoriteit.nl
 toolkit.cruksregister.nl
 toolkitinclusie.gebruikercentraal.nl
 toolkits.loketgezondleven.nl
@@ -11643,6 +11663,7 @@ webmail.huurcommissie.nl
 webmail.ibki.nl
 webmail.ictu.nl
 webmail.ifv.nl
+webmail.kansspelautoriteit.nl
 webmail.knmi.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
@@ -11853,6 +11874,7 @@ wordimport.drop.overheid.nl
 wordpress.infowms.nl
 workflow.arcgis.com
 workspace.hhdelfland.nl
+workspace.kansspelautoriteit.nl
 worldwide-i-no-apigee-th.espacenet.com
 worldwide-i-no-apigee.espacenet.com
 worldwide-i.espacenet.com
@@ -12691,6 +12713,7 @@ www.kadaster.com
 www.kamerindeklas.nl
 www.kamervoordebinnenvisserij.nl
 www.kansrijkestartnl.nl
+www.kansspelautoriteit.nl
 www.kennisdelen.rvo.nl
 www.kennisvandeoverheid.nl
 www.kiesraad.nl
@@ -12943,6 +12966,7 @@ www.startmetoesorichtlijnen.nl
 www.stone.alterra.nl
 www.stopheling.nl
 www.strafrechtketen.nl
+www.sts.kansspelautoriteit.nl
 www.svb.nl
 www.swap.alterra.nl
 www.synbiosys.alterra.nl

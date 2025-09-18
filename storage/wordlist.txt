@@ -12,8 +12,8 @@ a-opendata
 a-feeds
 mijn
 webmail
-_autodiscover._tcp
 api
+_autodiscover._tcp
 magazines
 acceptatie
 feeds.english
@@ -24,10 +24,10 @@ cms
 www-acc
 staging
 werkplek
-_dmarc
-prod
 formulieren
 redactie
+_dmarc
+prod
 data
 connect
 a-english
@@ -38,13 +38,13 @@ login
 a-feeds.a-english
 a-opendata.a-english
 smtp
+portal
 apps
 kennisbank
 dev
 link
 zoeken
 app
-portal
 e
 beheer
 hybrid
@@ -103,10 +103,12 @@ id
 kaarten
 publicaties
 helpdesk
+sts
 designsystem
 dwo
 mam
 oud
+api-acc
 a-magazines
 mailing
 ns1
@@ -139,7 +141,6 @@ wifi
 www-test
 acc2
 static
-sts
 academy
 projecten
 www1
@@ -149,9 +150,9 @@ a-cms
 externemail
 m365
 sf
-api-acc
 connect-acpt
 www.mijn
+sandbox
 www-a
 synergy
 mijn-acc
@@ -250,7 +251,6 @@ test-intranet
 extern
 csoacct
 csotest
-sandbox
 mobile
 telewerken
 authenticatie
@@ -400,6 +400,7 @@ sdg
 AutoDiscover
 begrippen
 inloggen-preprod
+workspace
 aanmelden
 zaaksysteem-accept
 sdm
@@ -437,6 +438,7 @@ acceptatie.portaal
 api.mijn
 charlie
 faq
+file
 a-voorlichting
 track
 projecten-acc
@@ -2290,7 +2292,6 @@ watertoetsportaal-a
 watertoetsportaal
 wbp6
 wist-fpi
-workspace
 apkl
 integriteitswijzer
 acceptatie-checkjeprijs
@@ -2962,7 +2963,6 @@ drs
 dvmservices
 error-reporting
 fbmonitor
-file
 geojson-converter
 havik
 iam.staging
@@ -9223,3 +9223,14 @@ wozwaardeloket
 www.cms1.acceptatie
 www.cms2.acceptatie
 www.cms2.test
+acc-cruks
+api-proeftuin-acc
+api-proeftuin-test
+api-proeftuin
+api-test
+api.acc-cruks
+cruks-test
+cruks
+send
+toolkit-cruks
+www.sts
