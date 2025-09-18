@@ -1245,6 +1245,7 @@ acc.intranet.justis.nl
 acc.intranet.rvig.nl
 acc.irealisatie.nl
 acc.isdatechtzo.nl
+acc.jonglereneten.nl
 acc.justis.nl
 acc.justitieconnect.nl
 acc.leer-rijk.nl
@@ -6159,6 +6160,7 @@ join.odijmond.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
 jongerensite.belastingdienst.nl
+jonglereneten.nl
 jouw.belastingdienst.nl
 jouw.gezondeschool.nl
 joy.applicatie-domein.dji.nl
@@ -10276,6 +10278,7 @@ test.international.gebruikercentraal.nl
 test.intranet-demo.dictu.nl
 test.intranet.justis.nl
 test.intranet.rvig.nl
+test.jonglereneten.nl
 test.justis.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
@@ -12155,6 +12158,7 @@ www.jenvgegevens.nl
 www.jeugdautoriteit.nl
 www.jeugdconnect.nl
 www.jokesmitprijs.nl
+www.jonglereneten.nl
 www.justid.nl
 www.justis.nl
 www.justitieconnect.nl
