@@ -144,6 +144,7 @@ academy
 projecten
 www1
 survey
+www.acceptatie
 a-cms
 externemail
 m365
@@ -167,6 +168,7 @@ statistiek
 support
 securemail
 magazine
+www.test
 luchtfoto
 ontwikkel
 pushmail
@@ -202,7 +204,6 @@ accounts
 micollab
 outlook
 uag
-www.acceptatie
 t-cms
 formulier
 linkeddata
@@ -271,7 +272,6 @@ admin
 events
 elo
 acc-www
-www.test
 office
 vragen
 assets
