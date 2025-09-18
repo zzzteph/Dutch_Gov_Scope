@@ -3224,6 +3224,7 @@ https://e.garanties.rvo.nl
 https://e.gezondeschool.nl
 https://e.hhdelfland.nl
 https://e.inclusiefwerkt.nl
+https://e.kbvg.nl
 https://e.videobellen.douane.nl
 https://e.videobellen.toeslagen.nl
 https://ea-i.espacenet.com
@@ -3482,6 +3483,7 @@ https://extranet.eherkenning.nl
 https://extranet.onderwijsraad.nl
 https://extreemrechts.nctv.nl
 https://f2b.belastingdienst.nl
+https://fab3.kbvg.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://fame.aerius.nl
 https://faq.cbr.nl
@@ -3803,6 +3805,7 @@ https://fsvportaal.belastingdienst.nl
 https://ftgelderland.databank.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.dji.nl
+https://ftp.kbvg.nl
 https://ftp.oostvaarderskliniek.nl
 https://ftpblaise.cbs.nl
 https://ftsrecoverydocufile.github.io
@@ -4312,6 +4315,7 @@ https://intranet.flevoland.nl
 https://intranet.justid.nl
 https://intranet.justis.nl
 https://intranet.justitieleictorganisatie.nl
+https://intranet.kbvg.nl
 https://intranet.nationaalcoordinatorgroningen.nl
 https://intranet.odijmond.nl
 https://intranet.rsj.nl
@@ -4444,6 +4448,7 @@ https://kabinetvandekoning.nl
 https://kadans.cloud.kadaster.nl
 https://kadans.test.cloud.kadaster.nl
 https://kadaster.com
+https://kadaster.kbvg.nl
 https://kaiachain.github.io
 https://kamerindeklas.nl
 https://kamervoordebinnenvisserij.nl
@@ -4455,6 +4460,7 @@ https://katpilot.acc.irealisatie.nl
 https://kavaanalytics.vcdn.belastingdienst.nl
 https://kazi-yeasin.github.io
 https://kb.nl
+https://kbvg.nl
 https://ke.chm-cbd.net
 https://kemperms.maps.arcgis.com
 https://kennis-staging.cultureelerfgoed.nl
@@ -5740,6 +5746,7 @@ https://portal.ewnederland.nl
 https://portal.formulierdus-i.nl
 https://portal.informatieproducten.duo.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
+https://portal.kbvg.nl
 https://portal.lvb.cloud.kadaster.nl
 https://portal.lvb.kadaster.nl
 https://portal.lvb.test.kadaster.nl
@@ -7092,6 +7099,8 @@ https://webmail.rijkscloud.nl
 https://webredactie.caop.nl
 https://webserver.cbs.nl
 https://webservice-acc.sbv-z.nl
+https://webservice-fab3.kbvg.nl
+https://webservice-kadaster.kbvg.nl
 https://webservice.ep-online.nl
 https://webservice.sbv-z.nl
 https://webservices.bigregister.nl
@@ -7858,6 +7867,7 @@ https://www.kamervoordebinnenvisserij.nl
 https://www.kansrijkestartnl.nl
 https://www.kansspelautoriteit.nl
 https://www.kb.nl
+https://www.kbvg.nl
 https://www.kennisdelen.rvo.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl

@@ -4501,6 +4501,7 @@ e.garanties.rvo.nl
 e.gezondeschool.nl
 e.hhdelfland.nl
 e.inclusiefwerkt.nl
+e.kbvg.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 ea-i.espacenet.com
@@ -4941,6 +4942,7 @@ ezines.rvo.nl
 f1130a.dictu.nl
 f1130b.dictu.nl
 f2b.belastingdienst.nl
+fab3.kbvg.nl
 facilitor.brabant.nl
 facturatie-acc.coa.nl
 facturatie.coa.nl
@@ -5369,6 +5371,7 @@ ftp.cbs.nl
 ftp.ctpveldzicht.nl
 ftp.dji.nl
 ftp.espacenet.com
+ftp.kbvg.nl
 ftp.koop.overheid.nl
 ftp.ofgv.nl
 ftp.oostvaarderskliniek.nl
@@ -6303,6 +6306,7 @@ intranet.justid.nl
 intranet.justis.nl
 intranet.justitieleictorganisatie.nl
 intranet.kansspelautoriteit.nl
+intranet.kbvg.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.odijmond.nl
 intranet.ont.toeslagen.nl
@@ -6562,6 +6566,7 @@ kadans.test.cloud.kadaster.nl
 kadaster-on-line.kadaster.nl
 kadaster-on-line.test.kadaster.nl
 kadaster.com
+kadaster.kbvg.nl
 kadaster.nl
 kadata.kadaster.nl
 kadatawebservice.kadaster.nl
@@ -6837,6 +6842,7 @@ kb-client-252.kb.nl
 kb-client-253.kb.nl
 kb-client-254.kb.nl
 kb.nl
+kbvg.nl
 kc.ilent.nl
 kdmz.belastingdienst.nl
 ke.chm-cbd.net
@@ -9288,6 +9294,7 @@ portal.informatieproducten-test.duo.rijkscloud.nl
 portal.informatieproducten.duo.rijkscloud.nl
 portal.ip.test.duo.rijkscloud.nl
 portal.kansspelautoriteit.nl
+portal.kbvg.nl
 portal.lvb.cloud.kadaster.nl
 portal.lvb.kadaster.nl
 portal.lvb.test.kadaster.nl
@@ -9880,6 +9887,7 @@ review.developer.overheid.nl
 revproxy.cbs.nl
 rfa.maps.arcgis.com
 rgs.cbs.nl
+rgsoap.kbvg.nl
 rhel-np-mijn.rvo.nl
 rhel-p-mijn.rvo.nl
 rhel8.wabinfo.rijkswaterstaat.nl
@@ -12094,6 +12102,8 @@ webservice-at-acc.diginetwerk.dictu.nl
 webservice-at-ont.diginetwerk.dictu.nl
 webservice-at-prd.diginetwerk.dictu.nl
 webservice-at-tst.diginetwerk.dictu.nl
+webservice-fab3.kbvg.nl
+webservice-kadaster.kbvg.nl
 webservice-preprod.sbv-z.nl
 webservice-tdv.igj.nl
 webservice.acc.ep-online.nl
@@ -13133,6 +13143,7 @@ www.kamervoordebinnenvisserij.nl
 www.kansrijkestartnl.nl
 www.kansspelautoriteit.nl
 www.kb.nl
+www.kbvg.nl
 www.kennisdelen.rvo.nl
 www.kennisvandeoverheid.nl
 www.kiesraad.nl
