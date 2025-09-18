@@ -1797,6 +1797,7 @@ ams.test.cloud.kadaster.nl
 amsis-geoscience-au.hub.arcgis.com
 amunet.cbs.nl
 amx.belastingdienst.nl
+analisten.kennisplatformondermijning.nl
 analyse-pipeline.pages.gitlab.analyse.ilt.rijkscloud.nl
 analysis.arcgis.com
 analysis.az-int.arcgis.com
@@ -2679,6 +2680,7 @@ bestandslevering.cbs.nl
 bestandsportaal.cibg.nl
 bestellen.cito.nl
 bestelloket.qs.kadaster.nl
+bestuurlijkeweerbaarheid.kennisplatformondermijning.nl
 beta-adc.databank.nl
 beta-aisnbtc.databank.nl
 beta-berst.databank.nl
@@ -2775,6 +2777,7 @@ bibliopolis-prd.cloudservices.kb.nl
 bibliotheek.gezondeleefomgeving.nl
 bibliotheek.knmi.nl
 bibliotheekwerk.caop.nl
+bibob.kennisplatformondermijning.nl
 bics.nl
 bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
 bideo.belastingdienst.nl
@@ -3531,6 +3534,7 @@ commissievanaanbestedingsexperts.nl
 commit2data.nl
 commotie.fondspodiumkunsten.nl
 communicatie.cultuurparticipatie.nl
+communicatie.kennisplatformondermijning.nl
 communicatie.zuid-holland.nl
 communicatiekompas.nl
 communicatieportaal.vrachtwagenheffing.nl
@@ -6541,6 +6545,7 @@ jupyter03.sodm.rijkscloud.nl
 jupyterhub01.mintst2.rijkscloud.nl
 jupyterhub02.mintst2.rijkscloud.nl
 juristen.werkenvoornederland.nl
+juristenriec-liec.kennisplatformondermijning.nl
 justid.nl
 justis.nl
 justisbehindthescreens.nl
@@ -6890,6 +6895,7 @@ kennisnetwerkbiociden.nl
 kennisnetwerkspv.nl
 kennisopenbaarbestuur.nl
 kennisplatform.nl
+kennisplatformondermijning.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 kerncijfers.ifv.nl
@@ -7104,6 +7110,7 @@ legacy2.emissieregistratie.nl
 legend.aerius.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
+lenohuis.kennisplatformondermijning.nl
 leren.mensenrechten.nl
 leren.nza.nl
 lerenbij.ciz.nl
@@ -7132,6 +7139,7 @@ licenties-a.cito.nl
 licenties-o.cito.nl
 licenties-t.cito.nl
 licenties.cito.nl
+liecfieldlabs.kennisplatformondermijning.nl
 lightning.aerius.nl
 lij.jeugdconnect.nl
 lika-basispoort.cito.nl
@@ -8556,6 +8564,7 @@ onboarding.acc.belastingdienst.nl
 onboarding.belastingdienst.nl
 onderhoud.cbs.nl
 onderhoud.ciz.nl
+ondermijningsacademie.kennisplatformondermijning.nl
 ondernemersplein.overheid.nl
 ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
 ondersteuning.omgevingswet.overheid.nl
@@ -9436,9 +9445,11 @@ printservice-bw.kadaster.nl
 printservice-color.kadaster.nl
 printservice-plotter1.kadaster.nl
 printservice-plotter2.kadaster.nl
+prisma.kennisplatformondermijning.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
 privacy.jeugdconnect.nl
+privacy.kennisplatformondermijning.nl
 privacy.nctv.nl
 private.acc.justitieconnect.nl
 private.acc.staging.justitieconnect.nl
@@ -11297,6 +11308,7 @@ tg.test.chm-cbd.net
 tgsb-btssrv-ut.tst.belastingdienst.nl
 th.espacenet.com
 themalessen.geldlessen.nl
+themaportefeuillesriec-liec.kennisplatformondermijning.nl
 theoriereservering.cbr.nl
 thesaurus.cultureelerfgoed.nl
 thesaurus.zuid-holland.nl
@@ -11421,6 +11433,7 @@ traefik.cultuurparticipatie.nl
 training-advies.cito.nl
 training.caop.nl
 training.hansken.org
+trainingenwetbibob.kennisplatformondermijning.nl
 trainingvalsgeld.dnb.nl
 transfer.kb.nl
 transfer.ofgv.nl
@@ -11738,6 +11751,7 @@ verkoop.domeinenrz.nl
 verkooptest.domeinenrz.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
+vernieuwingiv.kennisplatformondermijning.nl
 verpakkingen.belastingdienst.nl
 verslaggeving.afm.nl
 versterkencyberweerbaarheid.nl
@@ -13180,6 +13194,7 @@ www.kennisknooppuntparticipatie.nl
 www.kennisnetwerkbiociden.nl
 www.kennisnetwerkspv.nl
 www.kennisplatform.nl
+www.kennisplatformondermijning.nl
 www.kennisvandeoverheid.nl
 www.kiesraad.nl
 www.kik-v.nl

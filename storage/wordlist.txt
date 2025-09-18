@@ -257,6 +257,7 @@ telewerken
 authenticatie
 archief
 nextcloud
+privacy
 guest
 metrics
 secure
@@ -276,6 +277,7 @@ acc-mijn
 siam
 admin
 elo
+communicatie
 acc-www
 office
 vragen
@@ -412,7 +414,6 @@ vt-mijn
 ediensten
 statistics
 registry
-privacy
 acc.intranet
 test.intranet
 confluence
@@ -493,7 +494,6 @@ ontheffingaanvragen
 pdok
 wikixl-saml.acceptatie
 vacature
-communicatie
 ro
 api-a
 mr
@@ -9647,3 +9647,14 @@ kcb-p-dc002
 st
 wireframes
 www.kcb-p-dc002
+analisten
+bestuurlijkeweerbaarheid
+bibob
+juristenriec-liec
+lenohuis
+liecfieldlabs
+ondermijningsacademie
+prisma
+themaportefeuillesriec-liec
+trainingenwetbibob
+vernieuwingiv

@@ -1638,6 +1638,7 @@ https://ams-spatial-aarsc.hub.arcgis.com
 https://ams.cloud.kadaster.nl
 https://ams.test.cloud.kadaster.nl
 https://amsis-geoscience-au.hub.arcgis.com
+https://analisten.kennisplatformondermijning.nl
 https://analysis.arcgis.com
 https://analysis.az-int.arcgis.com
 https://analysis3.arcgis.com
@@ -2135,6 +2136,7 @@ https://bestandslevering.cbs.nl
 https://bestandsportaal.cibg.nl
 https://bestellen.cito.nl
 https://bestelloket.qs.kadaster.nl
+https://bestuurlijkeweerbaarheid.kennisplatformondermijning.nl
 https://beta-berst.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://beta-ebc.databank.nl
@@ -2178,6 +2180,7 @@ https://bibliographies.brillonline.com.access.authkb.kb.nl
 https://bibliopolis-prd.cloudservices.kb.nl
 https://bibliotheek.knmi.nl
 https://bibliotheekwerk.caop.nl
+https://bibob.kennisplatformondermijning.nl
 https://bics.nl
 https://bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
 https://biedboek.nl
@@ -2619,6 +2622,7 @@ https://commissievanaanbestedingsexperts.nl
 https://commit2data.nl
 https://commotie.fondspodiumkunsten.nl
 https://communicatie.cultuurparticipatie.nl
+https://communicatie.kennisplatformondermijning.nl
 https://communicatie.zuid-holland.nl
 https://communicatiekompas.nl
 https://communicatieportaal.vrachtwagenheffing.nl
@@ -4433,6 +4437,7 @@ https://jupyter.ipi.rijkscloud.nl
 https://jupyter.kim.rijkscloud.nl
 https://jupyter.rdi.rijkscloud.nl
 https://jupyter.ritp.rijkscloud.nl
+https://juristenriec-liec.kennisplatformondermijning.nl
 https://justid.nl
 https://justis.nl
 https://justisbehindthescreens.nl
@@ -4498,6 +4503,7 @@ https://kennisnetwerkbiociden.nl
 https://kennisnetwerkspv.nl
 https://kennisopenbaarbestuur.nl
 https://kennisplatform.nl
+https://kennisplatformondermijning.nl
 https://kennisvandeoverheid.nl
 https://kerncijfers.ifv.nl
 https://keten.hetcak.nl
@@ -4616,6 +4622,7 @@ https://leerstoelen.caop.nl
 https://legacy.emissieregistratie.nl
 https://legacy2.emissieregistratie.nl
 https://legend.aerius.nl
+https://lenohuis.kennisplatformondermijning.nl
 https://leren.nza.nl
 https://lerenbij.ciz.nl
 https://lerenvoorveiligheid.nl
@@ -4642,6 +4649,7 @@ https://licenties-a.cito.nl
 https://licenties-o.cito.nl
 https://licenties-t.cito.nl
 https://licenties.cito.nl
+https://liecfieldlabs.kennisplatformondermijning.nl
 https://lightning.aerius.nl
 https://lij.jeugdconnect.nl
 https://lika-basispoort.cito.nl
@@ -5271,6 +5279,7 @@ https://onbeperkttoegankelijk.nl
 https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
+https://ondermijningsacademie.kennisplatformondermijning.nl
 https://ondernemersplein.overheid.nl
 https://ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
 https://ondersteuning.omgevingswet.overheid.nl
@@ -5821,8 +5830,10 @@ https://primet.alterra.nl
 https://primos.databank.nl
 https://primosinteractief.databank.nl
 https://primostijdreeks.databank.nl
+https://prisma.kennisplatformondermijning.nl
 https://privaat.octomon.ncsc.nl
 https://privacy.jeugdconnect.nl
+https://privacy.kennisplatformondermijning.nl
 https://privacy.nctv.nl
 https://private.acc.justitieconnect.nl
 https://private.acc.staging.justitieconnect.nl
@@ -6715,6 +6726,7 @@ https://teverantwoordenregelingen.rijksoverheid.nl
 https://tg.chm-cbd.net
 https://tg.test.chm-cbd.net
 https://themalessen.geldlessen.nl
+https://themaportefeuillesriec-liec.kennisplatformondermijning.nl
 https://thesaurus.cultureelerfgoed.nl
 https://thesaurus.zuid-holland.nl
 https://thinkwiseprovisioning-a.cito.nl
@@ -6790,6 +6802,7 @@ https://tracking.delpher.nl
 https://traefik.cultuurparticipatie.nl
 https://training.caop.nl
 https://training.hansken.org
+https://trainingenwetbibob.kennisplatformondermijning.nl
 https://trainingvalsgeld.dnb.nl
 https://transfer.kb.nl
 https://transfer.waterschaplimburg.nl
@@ -6947,6 +6960,7 @@ https://verkeer.loket.om.nl
 https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.overheid.nl
 https://verkeersveiligheid.ndw.nu
+https://vernieuwingiv.kennisplatformondermijning.nl
 https://verslaggeving.afm.nl
 https://versterkencyberweerbaarheid.nl
 https://verwerkingen.rijksoverheid.nl
@@ -7897,6 +7911,7 @@ https://www.kennisknooppuntparticipatie.nl
 https://www.kennisnetwerkbiociden.nl
 https://www.kennisnetwerkspv.nl
 https://www.kennisplatform.nl
+https://www.kennisplatformondermijning.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
