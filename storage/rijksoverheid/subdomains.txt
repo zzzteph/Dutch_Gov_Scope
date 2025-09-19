@@ -2392,6 +2392,7 @@ autodiscover.justid.nl
 autodiscover.kenniscentrum-oo.nl
 autodiscover.knaw.nl
 autodiscover.knmi.nl
+autodiscover.kolonialecollecties.nl
 autodiscover.koop.overheid.nl
 autodiscover.meertens.knaw.nl
 autodiscover.ndw.nu
@@ -3633,10 +3634,12 @@ combattingbias.huygens.knaw.nl
 comcms.logius.nl
 commabz.nl
 commissaris.brabant.nl
+commissie.kolonialecollecties.nl
 commissiecelz.nl
 commissiemijnbouwschade.nl
 commissievanaanbestedingsexperts.nl
 commit2data.nl
+committee.kolonialecollecties.nl
 commotie.fondspodiumkunsten.nl
 communicatie.cultuurparticipatie.nl
 communicatie.kennisplatformondermijning.nl
@@ -7252,6 +7255,7 @@ koers-opleiding.brk.kadaster.nl
 koers-schepen.brk.acceptatie.kadaster.nl
 koers.brk.acceptatie.kadaster.nl
 koers.brk.kadaster.nl
+kolonialecollecties.nl
 konijn.hackaton.rijkscloud.nl
 koninklijkhuis.nl
 koninkrijk1813.huygens.knaw.nl
@@ -13943,6 +13947,7 @@ www.knmidata.nl
 www.knmidc.org
 www.knmiprojects.nl
 www.knooppuntjoure.nl
+www.kolonialecollecties.nl
 www.koninklijkhuis.nl
 www.koopoverheid.nl
 www.korea.investinholland.com
