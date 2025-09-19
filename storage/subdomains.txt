@@ -772,6 +772,7 @@ _autodiscover._tcp.toetredingzorgaanbieders.nl
 _autodiscover._tcp.uziregister.nl
 _autodiscover._tcp.wkr.nl
 _dc-mx.d31eecba31f5.boa-expertisecentrum.nl
+_dc-mx.dddce9f5a2d1.knooppuntjoure.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.dji.nl
@@ -7244,6 +7245,7 @@ knmidata.nl
 knmidc.org
 knmiprojects.nl
 knooppunt-hoevelaken.nl
+knooppuntjoure.nl
 koaportaal.nl
 koers-analyse.brk.kadaster.nl
 koers-opleiding.brk.kadaster.nl
@@ -7757,6 +7759,7 @@ mail.incca.org
 mail.infowms.nl
 mail.isdatechtzo.nl
 mail.kcb.nl
+mail.knooppuntjoure.nl
 mail.koop.overheid.nl
 mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
@@ -13939,6 +13942,7 @@ www.knmi.nl
 www.knmidata.nl
 www.knmidc.org
 www.knmiprojects.nl
+www.knooppuntjoure.nl
 www.koninklijkhuis.nl
 www.koopoverheid.nl
 www.korea.investinholland.com
