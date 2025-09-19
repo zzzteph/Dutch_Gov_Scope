@@ -1023,6 +1023,7 @@ a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
 a.kimnet.nl
 a.knaw.nl
+a.knawonderwijsprijs.nl
 a1.digid.nl
 a16rotterdam.nl
 a1oost.nl
@@ -2660,6 +2661,7 @@ beheer.energiebesparingsverkenner.rvo.nl
 beheer.generiekeregistratiedienst.cibg.nl
 beheer.integratie.omgevingswet.overheid.nl
 beheer.intpatch.omgevingswet.overheid.nl
+beheer.knawonderwijsprijs.nl
 beheer.lir.cibg.nl
 beheer.locatieregister.zorgaanbiedersportaal.nl
 beheer.lrza.cibg.nl
@@ -6575,6 +6577,7 @@ investerenin.zuid-holland.nl
 investeringsimpulsspv.nl
 investinholland.com
 inweva.ndw.nu
+inzenden.knawonderwijsprijs.nl
 iob-evaluatie.nl
 iob.justid.nl
 iowadot.maps.arcgis.com
@@ -6786,6 +6789,7 @@ jupyterhub01.mintst2.rijkscloud.nl
 jupyterhub02.mintst2.rijkscloud.nl
 juristen.werkenvoornederland.nl
 juristenriec-liec.kennisplatformondermijning.nl
+jury.knawonderwijsprijs.nl
 justid.nl
 justis.nl
 justisbehindthescreens.nl
@@ -7233,6 +7237,7 @@ km.chm-cbd.net
 kms-test.p-direkt.nl
 kms.p-direkt.nl
 knaw.nl
+knawonderwijsprijs.nl
 knmi-inet.knmi.nl
 knmi.nl
 knmidata.nl
@@ -9331,6 +9336,7 @@ oud.aquo.nl
 oud.cip-overheid.nl
 oud.cultureelerfgoed.nl
 oud.infowms.nl
+oud.knawonderwijsprijs.nl
 oud.mensenrechten.nl
 ouders-uit-elkaar.nl
 oudewebsite.flevoland.nl
@@ -9365,6 +9371,7 @@ p-bbox-encr-tvs.rvo.nl
 p-bbox-sign-tvs.rvo.nl
 p-crl.justid.nl
 p-direkt.nl
+p.knawonderwijsprijs.nl
 p285st201.utsjaca01.belastingdienst.nl
 pablofurt.github.io
 pacemweb.nl
@@ -11357,6 +11364,7 @@ staging.acc.web-static.rijkswaterstaat.nl
 staging.agroforestrynetwerk.nl
 staging.arbeidsmarktplatformpo.nl
 staging.bdmuseum.nl
+staging.beheer.knawonderwijsprijs.nl
 staging.caop.nl
 staging.cdho.nl
 staging.deweekvandecirculaireeconomie.nl
@@ -11370,6 +11378,8 @@ staging.halt.nl
 staging.huc.knaw.nl
 staging.ideasfrom.eu
 staging.inburgeren.nl
+staging.inzenden.knawonderwijsprijs.nl
+staging.jury.knawonderwijsprijs.nl
 staging.justisbehindthescreens.nl
 staging.justitieconnect.nl
 staging.ndw.nu
@@ -11669,6 +11679,7 @@ t-www.government.nl
 t-www.rijksoverheid.nl
 t.cultureelerfgoed.nl
 t.knaw.nl
+t.knawonderwijsprijs.nl
 t1.digid.nl
 t1.espacenet.com
 t2.digid.nl
@@ -13920,6 +13931,7 @@ www.klimaatakkoord.nl
 www.klimaatmonitor.databank.nl
 www.klimaatscenarios-data.knmi.nl
 www.knaw.nl
+www.knawonderwijsprijs.nl
 www.knmi.nl
 www.knmidata.nl
 www.knmiprojects.nl

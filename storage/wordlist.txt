@@ -45,10 +45,10 @@ e
 dev
 link
 zoeken
+beheer
 app
 hybrid
 ftp
-beheer
 open
 meet
 sip
@@ -84,6 +84,7 @@ demo
 dialin
 mdm
 elearning
+oud
 accept
 www2
 www-acc2
@@ -108,7 +109,6 @@ designsystem
 www.acceptatie
 dwo
 mam
-oud
 api-acc
 a-magazines
 mailing
@@ -217,6 +217,7 @@ password
 catalogus
 formulier
 linkeddata
+t
 share
 a-cms1
 a-cms2
@@ -262,6 +263,7 @@ nextcloud
 privacy
 guest
 metrics
+a
 secure
 webaccess
 vacatures
@@ -367,7 +369,6 @@ a-api
 testconn
 auth.services
 subsidie
-t
 thesaurus
 wikixl-saml
 ibw
@@ -420,7 +421,6 @@ statistics
 registry
 acc.intranet
 test.intranet
-a
 confluence
 externemail01
 externemail02
@@ -10367,3 +10367,9 @@ yugo.di.huc
 yum.dans
 zalen.huc
 zoeken.diplomatieke-getuigenissen.huygens
+inzenden
+jury
+p
+staging.beheer
+staging.inzenden
+staging.jury

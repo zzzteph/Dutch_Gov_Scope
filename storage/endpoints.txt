@@ -2179,6 +2179,7 @@ https://beheer.datastelselverduurzamingutiliteit.nl
 https://beheer.diergeneeskunderegister.nl
 https://beheer.donorregister.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
+https://beheer.knawonderwijsprijs.nl
 https://beheer.lir.cibg.nl
 https://beheer.locatieregister.zorgaanbiedersportaal.nl
 https://beheer.lrza.cibg.nl
@@ -4562,6 +4563,7 @@ https://investerenin.zuid-holland.nl
 https://investeringsimpulsspv.nl
 https://investinholland.com
 https://inweva.ndw.nu
+https://inzenden.knawonderwijsprijs.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://iowadot.maps.arcgis.com
@@ -4663,6 +4665,7 @@ https://jupyter.labs.dans.knaw.nl
 https://jupyter.rdi.rijkscloud.nl
 https://jupyter.ritp.rijkscloud.nl
 https://juristenriec-liec.kennisplatformondermijning.nl
+https://jury.knawonderwijsprijs.nl
 https://justid.nl
 https://justis.nl
 https://justisbehindthescreens.nl
@@ -4786,6 +4789,7 @@ https://km.chm-cbd.net
 https://kms-test.p-direkt.nl
 https://kms.p-direkt.nl
 https://knaw.nl
+https://knawonderwijsprijs.nl
 https://knmi.nl
 https://knmidata.nl
 https://knmiprojects.nl
@@ -6718,6 +6722,7 @@ https://stagefonds.formulierdus-i.nl
 https://staging-organisaties.doemeemetmdt.nl
 https://staging.agroforestrynetwerk.nl
 https://staging.bdmuseum.nl
+https://staging.beheer.knawonderwijsprijs.nl
 https://staging.cdho.nl
 https://staging.deweekvandecirculaireeconomie.nl
 https://staging.dmi-ecosysteem.nl
@@ -6726,6 +6731,8 @@ https://staging.duo.nl
 https://staging.e-cert.nl
 https://staging.huc.knaw.nl
 https://staging.ideasfrom.eu
+https://staging.inzenden.knawonderwijsprijs.nl
+https://staging.jury.knawonderwijsprijs.nl
 https://staging.justisbehindthescreens.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
@@ -8255,6 +8262,7 @@ https://www.klimaatakkoord.nl
 https://www.klimaatmonitor.databank.nl
 https://www.klimaatscenarios-data.knmi.nl
 https://www.knaw.nl
+https://www.knawonderwijsprijs.nl
 https://www.knmi.nl
 https://www.knmidata.nl
 https://www.knmiprojects.nl
