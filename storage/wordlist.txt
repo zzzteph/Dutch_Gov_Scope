@@ -114,6 +114,7 @@ a-magazines
 mailing
 ns1
 www.acc
+www-a
 zaaksysteem-acc
 forms
 m
@@ -156,7 +157,6 @@ connect-acpt
 www.mijn
 legacy
 sandbox
-www-a
 synergy
 mijn-acc
 dashboard
