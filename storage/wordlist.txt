@@ -43,11 +43,11 @@ a-feeds.a-english
 a-opendata.a-english
 zoeken
 beheer
+hybrid
 apps
 kennisbank
 link
 app
-hybrid
 meet
 ftp
 webservices
@@ -85,6 +85,7 @@ acceptatie.beheer
 demo
 mdm
 elearning
+www.acceptatie
 oud
 accept
 www-acc2
@@ -107,7 +108,6 @@ helpdesk
 sts
 designsystem
 www1
-www.acceptatie
 dwo
 mam
 api-acc
@@ -151,6 +151,7 @@ ondertekenen
 wifi
 www-test
 acc2
+sso
 static
 academy
 projecten
@@ -163,6 +164,7 @@ connect-acpt
 www.mijn
 legacy
 sandbox
+telewerken
 synergy
 mijn-acc
 dashboard
@@ -209,7 +211,6 @@ osb
 samenwerken
 wachtwoord
 doc
-sso
 conf
 crm
 accounts
@@ -260,7 +261,6 @@ extern
 csoacct
 csotest
 mobile
-telewerken
 acc.api
 authenticatie
 archief
@@ -396,6 +396,8 @@ enquete
 lync
 mail01
 mail02
+ns1.gslb
+ns2.gslb
 tvs
 dnadatabank
 ras
@@ -405,6 +407,7 @@ raadplegen
 e.acc.videobellen
 e.videobellen
 schemas
+signing
 webservice-acc
 www3
 piwik
@@ -1953,8 +1956,6 @@ mytoken
 netftp
 nl-dictu-nhr-sign
 nl-dictu-rijkspas
-ns1.gslb
-ns2.gslb
 panter001
 panter001a-relay
 panter001a
@@ -2154,7 +2155,6 @@ registreren
 services-acc1
 services-preprod
 signing-api-acc
-signing
 webservice-acc1
 webservice.acc
 www-acc1
@@ -10494,3 +10494,14 @@ zoeken.acp
 zoeken.tst
 zoeken1.acp
 zoeken2.acp
+gslbp
+ns1.gslbp
+ns2.gslbp
+ssoacc
+telewerken-db
+telewerken-oh
+telewerken-pre-db
+telewerken-pre-oh
+telewerken-pre.gslbp
+telewerken-pre
+telewerken.gslb
