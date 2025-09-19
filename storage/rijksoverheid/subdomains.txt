@@ -731,6 +731,7 @@ Internetdienstena.svb.nl
 Internetdienstenp.svb.nl
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
+Lyncdiscover.lbio.nl
 NL-DICTU-NHR-Sign.dictu.nl
 RDSapplications00.svb.nl
 RDSapplications01.svb.nl
@@ -2458,6 +2459,7 @@ autorizationtepr.entreepgb.svb.nl
 autorizationtest.entreepgb.svb.nl
 av.cbg-meb.nl
 av.kvk.nl
+av.lbio.nl
 av2.kvk.nl
 avb.rvo.nl
 avd.datasluis.dictu.nl
@@ -4242,6 +4244,7 @@ dev.dementieinkaart.nl
 dev.etoegang.nl
 dev.fib.ienw.rijkscloud.nl
 dev.fondspodiumkunsten.nl
+dev.formulieren.lbio.nl
 dev.informatieservice.nederlandwereldwijd.nl
 dev.investinholland.com
 dev.kadaster.nl
@@ -4323,6 +4326,7 @@ dialin.cbg-meb.nl
 dialin.coa.nl
 dialin.justid.nl
 dialin.kvk.nl
+dialin.lbio.nl
 dialin.om.nl
 dialin.prolander.nl
 dialin.rijksrecherche.nl
@@ -5563,6 +5567,7 @@ formulieren.huurcommissie.nl
 formulieren.kadaster.nl
 formulieren.kansspelautoriteit.nl
 formulieren.kb.nl
+formulieren.lbio.nl
 formulieren.limburg.nl
 formulieren.nvwa.nl
 formulieren.odmh.nl
@@ -5632,6 +5637,7 @@ ftpnt2tekeningen.cito.nl
 ftppro-migtest.knmi.nl
 ftppro.knmi.nl
 ftps.flevoland.nl
+ftps.lbio.nl
 ftpsconfpriv.belastingdienst.nl
 ftpsconfpriv.egb-kps.belastingdienst.nl
 ftpsconfpub.belastingdienst.nl
@@ -7417,6 +7423,7 @@ lasbeheer.cito.nl
 lavsinfo.nl
 law-enforcement.container.hansken.org
 lb1.gn3.rijkscloud.nl
+lbio.nl
 lc.cbs.nl
 lcp.databank.nl
 ldap.cultuurparticipatie.nl
@@ -7701,6 +7708,7 @@ lyncav.vico.dji.nl
 lyncdiscover.cjib.nl
 lyncdiscover.coa.nl
 lyncdiscover.justid.nl
+lyncdiscover.lbio.nl
 lyncdiscover.om.nl
 lyncdiscover.rijksrecherche.nl
 lyncmeet.dictu.nl
@@ -7853,6 +7861,7 @@ mail.knooppuntjoure.nl
 mail.koop.overheid.nl
 mail.kvk.nl
 mail.landelijkcongresdoortrappen.nl
+mail.lbio.nl
 mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
 mail.ndw.nu
@@ -8061,6 +8070,7 @@ meet.cbg-meb.nl
 meet.coa.nl
 meet.justid.nl
 meet.kvk.nl
+meet.lbio.nl
 meet.om.nl
 meet.prolander.nl
 meet.rijkscloud.nl
@@ -9963,6 +9973,7 @@ portaal.ictu.nl
 portaal.ikz.nl
 portaal.interventiedatabase.nl
 portaal.kcb.nl
+portaal.lbio.nl
 portaal.ncpeh.nl
 portaal.nlarbeidsinspectie.nl
 portaal.prolander.nl
@@ -9999,6 +10010,7 @@ portal.ip.test.duo.rijkscloud.nl
 portal.kansspelautoriteit.nl
 portal.kbvg.nl
 portal.knaw.nl
+portal.lbio.nl
 portal.lvb.cloud.kadaster.nl
 portal.lvb.kadaster.nl
 portal.lvb.test.kadaster.nl
@@ -11146,6 +11158,7 @@ sfbsip.cjib.nl
 sfbwc.cjib.nl
 sfbwconf.justid.nl
 sfbweb.cjib.nl
+sfbwebext.lbio.nl
 sfs-acc.dictu.nl
 sfs.dictu.nl
 sftp-out.brba.nl
@@ -11251,6 +11264,7 @@ sip.coa.nl
 sip.emissieautoriteit.nl
 sip.justid.nl
 sip.kiesraad.nl
+sip.lbio.nl
 sip.om.nl
 sip.rijksrecherche.nl
 sip.rvig.nl
@@ -11317,6 +11331,7 @@ smtp.fondspodiumkunsten.nl
 smtp.hhdelfland.nl
 smtp.kb.nl
 smtp.kvk.nl
+smtp.lbio.nl
 smtp.ofgv.nl
 smtp.oostvaarderskliniek.nl
 smtp.rijksoverheid.nl
@@ -11789,6 +11804,7 @@ symposium.keringhuis.nl
 synapse.rijkscloud.nl
 synbiosys.alterra.nl
 sync.hogeraad.nl
+sync.lbio.nl
 sync2.hogeraad.nl
 synergy.cokz.nl
 synergy.huurcommissie.nl
@@ -12920,6 +12936,7 @@ webapps.belastingdienst.nl
 webcast.brabant.nl
 webchat.belastingdienst.nl
 webchat.klopt.cibg.nl
+webconf.lbio.nl
 webconf2.vechtstromen.nl
 webdiensten-acc1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
@@ -14142,6 +14159,7 @@ www.landelijkregisterkinderopvang.nl
 www.lap3.nl
 www.large.netftp.dictu.nl
 www.lavsinfo.nl
+www.lbio.nl
 www.ldentool.nl
 www.leefbaarenveilig.nl
 www.leefbaarometer.nl

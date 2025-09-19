@@ -29,11 +29,11 @@ redactie
 _dmarc
 prod
 data
-werkenbij
-connect
 smtp
 portaal
+werkenbij
 portal
+connect
 login
 a-english
 e
@@ -44,15 +44,16 @@ a-opendata.a-english
 zoeken
 beheer
 hybrid
+meet
 apps
 kennisbank
 link
 app
-meet
+sip
 ftp
 webservices
 open
-sip
+dialin
 proto
 www-ac
 www-dev
@@ -64,7 +65,6 @@ preview
 services
 beeldbank
 docs
-dialin
 cdn
 geoservices
 onderzoek
@@ -94,6 +94,7 @@ www-p2
 www-tst2
 loket
 inloggen
+lyncdiscover
 jaarverslag
 mx1
 papiamentu
@@ -121,7 +122,6 @@ forms
 m
 git
 repository
-lyncdiscover
 geoweb
 acc-dictu
 prod-dictu
@@ -211,6 +211,7 @@ osb
 samenwerken
 wachtwoord
 doc
+av
 conf
 crm
 accounts
@@ -350,7 +351,6 @@ uptime
 ws-acc
 ws
 www.mail
-av
 db
 ts
 cbs
@@ -412,6 +412,7 @@ webservice-acc
 www3
 piwik
 exchange
+ftps
 preprodformulieren
 veiligmailen
 co
@@ -566,6 +567,7 @@ sub
 downloads
 activesync
 guestportal
+sync
 redirect
 timetell
 geoportal
@@ -2201,7 +2203,6 @@ esb-preprod
 eula
 evserver1
 flair-demo
-ftps
 gensys
 geo2
 geo3
@@ -8642,7 +8643,6 @@ mijnzaak
 postbus-acc
 postbus
 repos
-sync
 sync2
 ums
 vergader
@@ -10505,3 +10505,7 @@ telewerken-pre-oh
 telewerken-pre.gslbp
 telewerken-pre
 telewerken.gslb
+Lyncdiscover
+dev.formulieren
+sfbwebext
+webconf
