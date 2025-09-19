@@ -118,6 +118,7 @@ http://autodiscover.ictu.nl
 http://autodiscover.ihw.nl
 http://autodiscover.knaw.nl
 http://autodiscover.knmi.nl
+http://autodiscover.kvk.nl
 http://autodiscover.meertens.knaw.nl
 http://autodiscover.nias.knaw.nl
 http://autodiscover.nin.knaw.nl
@@ -434,6 +435,7 @@ http://password.knaw.nl
 http://pdok.waterschaplimburg.nl
 http://pdvnl31.dans.knaw.nl
 http://pgodemo.test.zm.irealisatie.nl
+http://pki-g2.kvk.nl
 http://pki.dnb.nl
 http://pm-bounces.ndw.nu
 http://portal-a.cito.nl
@@ -489,6 +491,7 @@ http://s10011-out.eerstekamer.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sat.irealisatie.nl
+http://schemas.kvk.nl
 http://sec01.dans.knaw.nl
 http://secure.huygens.knaw.nl
 http://seg.cbs.nl
@@ -1562,6 +1565,9 @@ https://adfs.vallei-veluwe.nl
 https://adkc.dopingautoriteit.nl
 https://admin.denkmee.zuid-holland.nl
 https://admin.deweekvandecirculaireeconomie.nl
+https://admin.tbadmin.dev.kvk.nl
+https://admin.tbadmin.kvk.nl
+https://admin.tbadmin.npo.kvk.nl
 https://administratie-a.cito.nl
 https://administratie-o.cito.nl
 https://administratie-t.cito.nl
@@ -1794,6 +1800,7 @@ https://api-staging.scm.dnb.nl
 https://api-tst.afm.nl
 https://api.acc.ncsc.nl
 https://api.acceptatie.kadaster.nl
+https://api.acp.kvk.nl
 https://api.afm.nl
 https://api.bag.acceptatie.kadaster.nl
 https://api.bag.kadaster.nl
@@ -1841,6 +1848,7 @@ https://api.klic.kadaster.nl
 https://api.klic.test.kadaster.nl
 https://api.klopt.cibg.nl
 https://api.knaw.nl
+https://api.kvk.nl
 https://api.labs.kadaster.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.management.dnb.nl
@@ -2139,6 +2147,7 @@ https://becq-dcrm.opendata.arcgis.com
 https://becw-gi-carpc.hub.arcgis.com
 https://bedrijfscommissieoverheid.nl
 https://bedrijvenbeleidinbeeld.nl
+https://bedrijventeller.kvk.nl
 https://beegigantic.github.io
 https://beeldarchief.zuid-holland.nl
 https://beeldarchiefbeheer.zuid-holland.nl
@@ -2689,12 +2698,14 @@ https://cjib.nl
 https://ckcc.huygens.knaw.nl
 https://claircitydata.cbs.nl
 https://clallam-county-portal-clallam.hub.arcgis.com
+https://click.email.kvk.nl
 https://climate-arcgis-content.hub.arcgis.com
 https://climate-change-esricanada.hub.arcgis.com
 https://climate4impact.eu
 https://climatepursuit.nioo.knaw.nl
 https://climexp.knmi.nl
 https://clo.nl
+https://cloud.email.kvk.nl
 https://cloudie.cultuurparticipatie.nl
 https://cloudstorage-koop.overheid.nl
 https://clusiuscorrespondence.huygens.knaw.nl
@@ -2805,6 +2816,7 @@ https://connect-test.cito.nl
 https://connect-to-2050-texarkana-mtp-atginc.hub.arcgis.com
 https://connect-with.brabant.nl
 https://connect-with.flevoland.nl
+https://connect-with.kvk.nl
 https://connect-with.limburg.nl
 https://connect.aerius.nl
 https://connect.autoriteitpersoonsgegevens.nl
@@ -3165,6 +3177,7 @@ https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
 https://developer.rvig.nl
 https://developers.arcgis.com
+https://developers.kvk.nl
 https://development.bodemrichtlijn.nl
 https://devext.arcgis.com
 https://devportal.competentnl.nl
@@ -3189,6 +3202,7 @@ https://dictu.nl
 https://dictumagazines.nl
 https://diego.ndw.nu
 https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl
+https://diensten.kvk.nl
 https://dienstterugkeerenvertrek.nl
 https://diergeneeskunderegister.nl
 https://diergeneesmiddeleninformatiebank.nl
@@ -3309,6 +3323,7 @@ https://download.pdok.cloud.kadaster.nl
 https://downloaddomain.svb.nl
 https://downloadpdf.ep-online.nl
 https://downloads.hansken.org
+https://downloads.kvk.nl
 https://dp2021.deltaprogramma.nl
 https://dp2022.deltaprogramma.nl
 https://dp2023.deltaprogramma.nl
@@ -3654,6 +3669,7 @@ https://evenementen.fondspodiumkunsten.nl
 https://evenementenbureauvws.nl
 https://events.duo.nl
 https://events.kadaster.nl
+https://events.kvk.nl
 https://events.svb.nl
 https://evserver1.flevoland.nl
 https://ewnederland.nl
@@ -3689,6 +3705,7 @@ https://facades-conversion.labs.dans.knaw.nl
 https://facades-formats.labs.dans.knaw.nl
 https://facades-verification.labs.dans.knaw.nl
 https://facades.labs.dans.knaw.nl
+https://facturen.kvk.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://fairaware-api.labs.dans.knaw.nl
 https://fairaware.dans.knaw.nl
@@ -4395,7 +4412,10 @@ https://ideasfrom.eu
 https://identificatie.rdi.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
+https://idp.dev.kvk.nl
 https://idp.dmi-ecosysteem.nl
+https://idp.kvk.nl
+https://idp.npo.kvk.nl
 https://idp.staging.dmi-ecosysteem.nl
 https://idposr.duo.nl
 https://idppoc-ont.dictu.nl
@@ -4424,6 +4444,7 @@ https://ilent.nl
 https://im.di.huc.knaw.nl
 https://ima-princeton-edu.access.authkb.kb.nl
 https://imaer.aerius.nl
+https://image.email.kvk.nl
 https://images.analyse.ilt.rijkscloud.nl
 https://images.halt.nl
 https://img.denkmee.zuid-holland.nl
@@ -4819,6 +4840,7 @@ https://krf-2-prd.cloudservices.kb.nl
 https://kroniekvankampen.huygens.knaw.nl
 https://ksliberal.github.io
 https://ktv-servicedesk.ciz.nl
+https://kvk.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://l1nf3ng.github.io
 https://laadinfrastructuur.databank.nl
@@ -4942,6 +4964,7 @@ https://lmr-zuid.proeftuin.gf.irealisatie.nl
 https://lmr-zuid.test.gf.irealisatie.nl
 https://lo-ad.acc.mgo.irealisatie.nl
 https://lo-ad.test.mgo.irealisatie.nl
+https://locatiescan.kvk.nl
 https://locationservices6.arcgis.com
 https://locationservices6.az-int.arcgis.com
 https://locationservices7.arcgis.com
@@ -5359,6 +5382,7 @@ https://mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
 https://mqtt.dataplatform.knmi.nl
 https://mr.chm-cbd.net
 https://mre.databank.nl
+https://msafe.kvk.nl
 https://msgcpp.knmi.nl
 https://msnp-tegemoetkoming.acc.belastingdienst.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
@@ -5550,11 +5574,16 @@ https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
 https://ondermijningsacademie.kennisplatformondermijning.nl
+https://ondernemersplein.kvk.nl
 https://ondernemersplein.overheid.nl
 https://ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
 https://ondersteuning.omgevingswet.overheid.nl
+https://ondertekenen-id.acp.kvk.nl
+https://ondertekenen-id.kvk.nl
+https://ondertekenen.acp.kvk.nl
 https://ondertekenen.brabant.nl
 https://ondertekenen.flevoland.nl
+https://ondertekenen.kvk.nl
 https://ondertekenen.limburg.nl
 https://ondertekenentst.brabant.nl
 https://onderwijsdata.duo.nl
@@ -5718,6 +5747,7 @@ https://opendata.klimaatakkoord.nl
 https://opendata.knmidata.nl
 https://opendata.koninklijkhuis.nl
 https://opendata.koopoverheid.nl
+https://opendata.kvk.nl
 https://opendata.leefbaarenveilig.nl
 https://opendata.leerenontwikkelplein.nl
 https://opendata.lintjes.nl
@@ -5921,6 +5951,7 @@ https://pay-acc.cjib.nl
 https://pay.cjib.nl
 https://paymenthub-acc.dnb.nl
 https://paymenthub.dnb.nl
+https://payt.kvk.nl
 https://pbc-gis-forum-pbcgisforum.hub.arcgis.com
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
@@ -6306,6 +6337,7 @@ https://regels.overheid.nl
 https://regeorge.github.io
 https://regio.cultuurparticipatie.nl
 https://regiobeelden.dejuistezorgopdejuisteplek.nl
+https://regiodata.kvk.nl
 https://region-dalarna.github.io
 https://regiosaandegrens.nl
 https://regiotaxi.flevoland.nl
@@ -6374,6 +6406,8 @@ https://resolver.pfm.omgevingswet.overheid.nl
 https://resolver.pre.omgevingswet.overheid.nl
 https://rest.crimediggers.nl
 https://rest.elaborate.huygens.knaw.nl
+https://rest.kvk.nl
+https://rest.preprod.kvk.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://ret.databank.nl
 https://rev.emissieautoriteit.nl
@@ -6743,6 +6777,7 @@ https://staging.ideasfrom.eu
 https://staging.inzenden.knawonderwijsprijs.nl
 https://staging.jury.knawonderwijsprijs.nl
 https://staging.justisbehindthescreens.nl
+https://staging.werkenbij.kvk.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
 https://stamdata.cbr.nl
@@ -6813,6 +6848,7 @@ https://stats.hogeraad.nl
 https://stats.irealisatie.nl
 https://stats.ndw.nu
 https://stats.test.mgo.irealisatie.nl
+https://status.kvk.nl
 https://status.location.arcgis.com
 https://status.omgevingswet.overheid.nl
 https://status.pre.omgevingswet.overheid.nl
@@ -6890,6 +6926,7 @@ https://svcalendar.dnb.nl
 https://svnmondxml.huygens.knaw.nl
 https://swap.alterra.nl
 https://swirrl.climate4impact.eu
+https://swp.kvk.nl
 https://syke.maps.arcgis.com
 https://symbolenbank.nctv.nl
 https://symposium.keringhuis.nl
@@ -6902,6 +6939,9 @@ https://taiwan.investinholland.com
 https://tarief.douane.nl
 https://taupo.maps.arcgis.com
 https://taxonomie.cbs.nl
+https://tbadmin.dev.kvk.nl
+https://tbadmin.kvk.nl
+https://tbadmin.npo.kvk.nl
 https://td.chm-cbd.net
 https://tea.bigregister.nl
 https://teamcity.dev.huc.knaw.nl
@@ -7253,6 +7293,7 @@ https://vault-infra.efiling.mijnoctrooi.rvo.nl
 https://vault.efiling.mijnoctrooi.rvo.nl
 https://vault.vechtstromen.nl
 https://vaultfs.vechtstromen.nl
+https://vbu.kvk.nl
 https://vd.cbr.nl
 https://vdbs.sso3w.nl
 https://vechtstromen.nl
@@ -7306,6 +7347,7 @@ https://videos.cbs.nl
 https://viep.acc.brba.nl
 https://viep.brba.nl
 https://viep.test.brba.nl
+https://view.email.kvk.nl
 https://view.nin.knaw.nl
 https://viewer.ahn.nl
 https://viewer.dsolv.cloud.kadaster.nl
@@ -7413,6 +7455,7 @@ https://wayback-usw2.maptiles.arcgis.com
 https://wba-acc.rvo.nl
 https://wba.rvo.nl
 https://wbp6.hhdelfland.nl
+https://web-api.kvk.nl
 https://web-b-ebscohost-com.access.authkb.kb.nl
 https://web-p-ebscohost-com.access.authkb.kb.nl
 https://web-protagonist.fondspodiumkunsten.nl
@@ -7503,6 +7546,7 @@ https://werkenbij.douane.nl
 https://werkenbij.ifv.nl
 https://werkenbij.justid.nl
 https://werkenbij.kcb.nl
+https://werkenbij.kvk.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -7735,6 +7779,7 @@ https://www.bcld-config.nl
 https://www.bdmuseum.nl
 https://www.bedrijfscommissieoverheid.nl
 https://www.bedrijvenbeleidinbeeld.nl
+https://www.bedrijventeller.kvk.nl
 https://www.beeldbank.cultureelerfgoed.nl
 https://www.beeldbankbelastingdienst.nl
 https://www.beeldkompas.nl
@@ -8284,6 +8329,7 @@ https://www.koopoverheid.nl
 https://www.kosteneffectiviteitvanpreventie.nl
 https://www.kpzss.nl
 https://www.kreekraksluizen.nl
+https://www.kvk.nl
 https://www.landelijkregisterkinderopvang.nl
 https://www.ldentool.nl
 https://www.leefbaarenveilig.nl
@@ -8293,6 +8339,7 @@ https://www.leerenontwikkelplein.nl
 https://www.lerenvoorveiligheid.nl
 https://www.limburg.nl
 https://www.lintjes.nl
+https://www.locatiescan.kvk.nl
 https://www.logius.nl
 https://www.loket.afm.nl
 https://www.loketduurzaameten.nl
@@ -8432,6 +8479,7 @@ https://www.rechtwijzer.nl
 https://www.redactie.aquo.nl
 https://www.redirect.isdatechtzo.nl
 https://www.regelhulp.nl
+https://www.regiodata.kvk.nl
 https://www.regiosaandegrens.nl
 https://www.regulatoryscience.nl
 https://www.rekenhulptransitievergoeding.nl
