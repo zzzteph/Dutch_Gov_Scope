@@ -134,6 +134,7 @@ geodata
 merkportaal
 ns2
 videobellen
+old
 acceptatie.webservices
 acceptatie.zoeken
 behandel
@@ -192,7 +193,6 @@ sharepoint-conf
 sharepoint
 start
 website
-old
 blog
 connect-with
 dataportaal
@@ -9658,3 +9658,6 @@ prisma
 themaportefeuillesriec-liec
 trainingenwetbibob
 vernieuwingiv
+adressen
+symposium
+www.symposium
