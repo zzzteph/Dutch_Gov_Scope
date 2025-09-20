@@ -465,6 +465,7 @@ projecten-acc
 formulieren-acc
 zandbak
 access
+leeromgeving
 webshop
 pop
 e-learning
@@ -3146,7 +3147,6 @@ ws-izis
 acc.zsmgame
 boetebase
 fcvpn
-leeromgeving
 mms-gw
 moordzaak
 murder-case
@@ -10552,3 +10552,4 @@ feeds.over
 opendata.over
 over
 voorvertoning
+lms
