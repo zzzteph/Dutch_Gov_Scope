@@ -1377,6 +1377,7 @@ https://acc.justitieconnect.nl
 https://acc.knaw.nl
 https://acc.leer-rijk.nl
 https://acc.leeroverzicht.nl
+https://acc.lees-rijk.nl
 https://acc.lespakketten.derdekamer.nl
 https://acc.mercurius.sso3w.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
@@ -2293,6 +2294,7 @@ https://betalen.belastingdienst.nl
 https://betalen.schoolleidersregisterpo.nl
 https://betalentolpassage.e-tol.nl
 https://betaopendata.cbs.nl
+https://betaversie.lees-rijk.nl
 https://beterwordenvancorona.zuid-holland.nl
 https://bevolkingsprognose.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
@@ -4939,6 +4941,7 @@ https://leerstoel.caop.nl
 https://leerstoelen.caop.nl
 https://leerwerkdag.leerwerkloket.nl
 https://leerwerkloket.nl
+https://lees-rijk.nl
 https://legacy.emissieregistratie.nl
 https://legacy2.emissieregistratie.nl
 https://legend.aerius.nl
@@ -6268,6 +6271,7 @@ https://prod.tlokb.nl
 https://prod.web.ictu.nl
 https://prod.web.nmp.ictu.nl
 https://prod.wetten.rvo.nl
+https://producten.lees-rijk.nl
 https://productie-nieuw.bidbook.eu
 https://productie-nieuw.biedboek.nl
 https://production.cea.nl
@@ -7813,6 +7817,7 @@ https://www.academyforinternationalrelations.nl
 https://www.acc.grondstoffenscanner.nl
 https://www.acc.inspectieview.nl
 https://www.acc.isdatechtzo.nl
+https://www.acc.lees-rijk.nl
 https://www.acc.mijn.dus-i.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.omgevingswet.overheid.nl
@@ -8474,6 +8479,7 @@ https://www.leeroverzicht.nl
 https://www.leerplatformmirt.nl
 https://www.leerportaalienw.nl
 https://www.leerwerkloket.nl
+https://www.lees-rijk.nl
 https://www.lerenvoorveiligheid.nl
 https://www.limburg.nl
 https://www.lintjes.nl

@@ -1276,6 +1276,7 @@ acc.justitieconnect.nl
 acc.knaw.nl
 acc.leer-rijk.nl
 acc.leeroverzicht.nl
+acc.lees-rijk.nl
 acc.lespakketten.derdekamer.nl
 acc.machtigen.digid.nl
 acc.mercurius.sso3w.nl
@@ -2833,6 +2834,7 @@ betalen.str30.acc.belastingdienst.nl
 betalentolpassage.e-tol.nl
 betalinkeddata.cbs.nl
 betaopendata.cbs.nl
+betaversie.lees-rijk.nl
 beterwordenvancorona.zuid-holland.nl
 beveiligd.acceptatie.kadaster.nl
 beveiligd.kadaster.nl
@@ -7501,6 +7503,7 @@ leerstoel.caop.nl
 leerstoelen.caop.nl
 leerwerkdag.leerwerkloket.nl
 leerwerkloket.nl
+lees-rijk.nl
 legacy.emissieregistratie.nl
 legacy.flevoland.nl
 legacy.knaw.nl
@@ -10276,6 +10279,7 @@ prod.web.nmp.ictu.nl
 prod.wetten.rvo.nl
 prod2.opendata.nederlandwereldwijd.nl
 produ.dictu.nl
+producten.lees-rijk.nl
 productie-nieuw.bidbook.eu
 productie-nieuw.biedboek.nl
 productie.loketgezondleven.nl
@@ -13543,6 +13547,7 @@ www.acc.ep-online.nl
 www.acc.grondstoffenscanner.nl
 www.acc.inspectieview.nl
 www.acc.isdatechtzo.nl
+www.acc.lees-rijk.nl
 www.acc.mijn.dus-i.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
 www.acc.omgevingswet.overheid.nl
@@ -14273,6 +14278,7 @@ www.leeroverzicht.nl
 www.leerplatformmirt.nl
 www.leerportaalienw.nl
 www.leerwerkloket.nl
+www.lees-rijk.nl
 www.lerenvoorveiligheid.nl
 www.limburg.nl
 www.lintjes.nl
