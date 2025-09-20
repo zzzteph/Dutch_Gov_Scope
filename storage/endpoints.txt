@@ -383,6 +383,7 @@ http://metadata-enhancer.labs.dans.knaw.nl
 http://metrics.digitalenoordzee.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
+http://mijn.leeroverzicht.nl
 http://mijn.zuid-holland.nl
 http://mijnloonstrook.knaw.nl
 http://minio2.labs.dans.knaw.nl
@@ -1375,6 +1376,7 @@ https://acc.justis.nl
 https://acc.justitieconnect.nl
 https://acc.knaw.nl
 https://acc.leer-rijk.nl
+https://acc.leeroverzicht.nl
 https://acc.lespakketten.derdekamer.nl
 https://acc.mercurius.sso3w.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
@@ -3898,6 +3900,7 @@ https://feeds.onslevendlandschap.nl
 https://feeds.open-overheid.nl
 https://feeds.oprijk.nl
 https://feeds.ordz.nl
+https://feeds.over.leeroverzicht.nl
 https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
 https://feeds.overheidvannu.nl
@@ -4908,6 +4911,7 @@ https://leerlinginbeeld-t.cito.nl
 https://leerlinginbeeld.cito.nl
 https://leeromgeving.om.nl
 https://leeroverdeholocaust.nl
+https://leeroverzicht.nl
 https://leerplatform.it-academieoverheid.nl
 https://leerplein.svb.nl
 https://leerstoel.caop.nl
@@ -5829,6 +5833,7 @@ https://opendata.onslevendlandschap.nl
 https://opendata.open-overheid.nl
 https://opendata.oprijk.nl
 https://opendata.ordz.nl
+https://opendata.over.leeroverzicht.nl
 https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
 https://opendata.overheidvannu.nl
@@ -5958,6 +5963,7 @@ https://output.cbr.nl
 https://ov-consumentenplatform.nl
 https://ovdashboard.databank.nl
 https://over-ons.belastingdienst.nl
+https://over.leeroverzicht.nl
 https://overalsnelinternet.nl
 https://overdedouane.nl
 https://overheid.nl
@@ -7450,6 +7456,7 @@ https://voorlichting-beheer.halt.nl
 https://voorlichting.halt.nl
 https://voorlichting.nederlandwereldwijd.nl
 https://voorlichting.wegwijzer.overheid.nl
+https://voorvertoning.leeroverzicht.nl
 https://vorijkbo-tst.rvo.nl
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn.brabant.nl
@@ -8417,6 +8424,7 @@ https://www.leer-rijk.nl
 https://www.leerenontwikkelplein.nl
 https://www.leerhuisinformatiehuishouding.nl
 https://www.leeroverdeholocaust.nl
+https://www.leeroverzicht.nl
 https://www.lerenvoorveiligheid.nl
 https://www.limburg.nl
 https://www.lintjes.nl

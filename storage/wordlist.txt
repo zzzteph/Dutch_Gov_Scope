@@ -9,8 +9,8 @@ english
 test
 a-www
 a-opendata
-a-feeds
 mijn
+a-feeds
 webmail
 api
 _autodiscover._tcp
@@ -10548,3 +10548,7 @@ proeftuin
 test-kira
 test-veiligheidsregio
 test-waterschappen
+feeds.over
+opendata.over
+over
+voorvertoning
