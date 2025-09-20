@@ -123,6 +123,7 @@ m
 git
 repository
 geoweb
+nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
@@ -162,6 +163,7 @@ m365
 sf
 connect-acpt
 www.mijn
+nieuwsbrief
 legacy
 sandbox
 telewerken
@@ -173,7 +175,6 @@ chat
 files
 stats
 extranet
-nieuwsbrieven
 wiki
 mx2
 developer
@@ -252,7 +253,6 @@ aanvraag
 acc.mijn
 services-acc
 webservice
-nieuwsbrief
 cmsintranet
 denkmee
 desktop
