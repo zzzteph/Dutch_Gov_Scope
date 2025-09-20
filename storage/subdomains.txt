@@ -1829,6 +1829,7 @@ amerigeo-week-2021-amerigeoss.hub.arcgis.com
 amersfoort.leerwerkloket.nl
 amglb.rvo.nl
 amherstburg-open-data-essexcounty.hub.arcgis.com
+amice.lma.nl
 amlc.acc.belastingdienst.nl
 amlc.eu
 amlc.nl
@@ -7625,6 +7626,7 @@ livra3.bics.nl
 lk.chm-cbd.net
 lkod-iprpraha.hub.arcgis.com
 llama.zandbak.dans.knaw.nl
+lma.nl
 lmr-noord.proeftuin.gf.irealisatie.nl
 lmr-noord.test.gf.irealisatie.nl
 lmr-oost.proeftuin.gf.irealisatie.nl
@@ -10286,6 +10288,7 @@ prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
 prod-nl-dictu-dkb-sign.dictu.nl
 prod-nl-nvwa-dkb-sign.dictu.nl
+prod.amice.lma.nl
 prod.architectwebservice.architectenregister.nl
 prod.asbestvolgsysteem.nl
 prod.chm-cbd.net
@@ -12181,6 +12184,7 @@ test.kvk.nl
 test.leefbaarometer.nl
 test.leerwerkloket.nl
 test.lint.gebruikercentraal.nl
+test.lma.nl
 test.loketgezondleven.nl
 test.mgo.irealisatie.nl
 test.mi-cert.nl
@@ -14342,6 +14346,7 @@ www.limburg.nl
 www.lintjes.nl
 www.literaryquality.huygens.knaw.nl
 www.liv.nl
+www.lma.nl
 www.locatiescan.kvk.nl
 www.logius.nl
 www.loket.afm.nl
