@@ -1618,6 +1618,7 @@ admin-acc.globalentry-rtp.nl
 admin.denkmee.zuid-holland.nl
 admin.deweekvandecirculaireeconomie.nl
 admin.globalentry-rtp.nl
+admin.letterenfonds.nl
 admin.openstad.zuid-holland.nl
 admin.schoolleidersregisterpo.nl
 admin.tbadmin.dev.kvk.nl
@@ -2030,6 +2031,7 @@ api.klopt.cibg.nl
 api.knaw.nl
 api.kvk.nl
 api.labs.kadaster.nl
+api.letterenfonds.nl
 api.linkeddata.cultureelerfgoed.nl
 api.management.dnb.nl
 api.mijn.acc.ncsc.nl
@@ -5570,6 +5572,7 @@ foodvalley.lerenenwerken.nl
 forensicinstitute.nl
 forensischezorg.nl
 forensischinstituut.nl
+form.letterenfonds.nl
 formdesk.onderwijsraad.nl
 forms-acc.nvwa.nl
 forms.hhdelfland.nl
@@ -6956,6 +6959,7 @@ kamervoordebinnenvisserij.nl
 kansrijkestartnl.nl
 kansspelautoriteit.nl
 kantoor.hdsr.nl
+kantoor.letterenfonds.nl
 karin.ndw.nu
 kart.rechtwijzer.nl
 kasdimsigning-cnf.belastingdienst.nl
@@ -7534,6 +7538,7 @@ lerenenwerken.nl
 lerenvoorveiligheid.nl
 lespakketten.derdekamer.nl
 letmemap-ptbocounty.hub.arcgis.com
+letterenfonds.nl
 leveranciersvdi.svb.nl
 lfucg.maps.arcgis.com
 li.espacenet.com
@@ -9884,6 +9889,7 @@ performance.rijkscloud.nl
 pergamon.huygens.knaw.nl
 perpest.alterra.nl
 perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
+pers.letterenfonds.nl
 pers.svb.nl
 persberichten.rijksoverheid.nl
 personeelsmonitor.databank.nl
@@ -10528,6 +10534,7 @@ rdgateway.onderwijsraad.nl
 rdi.nl
 rdinfo.kadaster.nl
 rdp.cultuurparticipatie.nl
+rds.letterenfonds.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
 rdsa.knmi.nl
@@ -10669,6 +10676,7 @@ remote.dnb.nl
 remote.dopingautoriteit.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
+remote.letterenfonds.nl
 remote.services.acm.nl
 remoteaccess1.eerstekamer.nl
 remoteaccess2.eerstekamer.nl
@@ -11426,6 +11434,7 @@ sitescan-eu1.arcgis.com
 sk-i.espacenet.com
 sk.espacenet.com
 skosmos.zandbak.dans.knaw.nl
+skywalker.letterenfonds.nl
 slachtoffer.jeugdconnect.nl
 slave1.darenet.knaw.nl
 slechtvalk.brabant.nl
@@ -14315,6 +14324,7 @@ www.leidraadse.nl
 www.lekker-op-weg.nl
 www.lerenenwerken.nl
 www.lerenvoorveiligheid.nl
+www.letterenfonds.nl
 www.limburg.nl
 www.lintjes.nl
 www.literaryquality.huygens.knaw.nl

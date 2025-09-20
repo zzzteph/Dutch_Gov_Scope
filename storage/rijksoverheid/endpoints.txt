@@ -265,6 +265,7 @@ http://ezines.rvo.nl
 http://faweb.fa.knaw.nl
 http://feeds.english.sso3w.nl
 http://fmeserver.zuid-holland.nl
+http://form.letterenfonds.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.zuid-holland.nl
 http://fryske2.fa.knaw.nl
@@ -435,6 +436,7 @@ http://papdig-toets3.cito.nl
 http://password.knaw.nl
 http://pdok.waterschaplimburg.nl
 http://pdvnl31.dans.knaw.nl
+http://pers.letterenfonds.nl
 http://pgodemo.test.zm.irealisatie.nl
 http://pki-g2.kvk.nl
 http://pki.dnb.nl
@@ -1579,6 +1581,7 @@ https://adfs.vallei-veluwe.nl
 https://adkc.dopingautoriteit.nl
 https://admin.denkmee.zuid-holland.nl
 https://admin.deweekvandecirculaireeconomie.nl
+https://admin.letterenfonds.nl
 https://admin.tbadmin.dev.kvk.nl
 https://admin.tbadmin.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
@@ -1865,6 +1868,7 @@ https://api.klopt.cibg.nl
 https://api.knaw.nl
 https://api.kvk.nl
 https://api.labs.kadaster.nl
+https://api.letterenfonds.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.management.dnb.nl
 https://api.mijn.acc.ncsc.nl
@@ -4965,6 +4969,7 @@ https://lerenenwerken.nl
 https://lerenvoorveiligheid.nl
 https://lespakketten.derdekamer.nl
 https://letmemap-ptbocounty.hub.arcgis.com
+https://letterenfonds.nl
 https://leveranciersvdi.svb.nl
 https://lfucg.maps.arcgis.com
 https://lib-doorstroomtoets-a.cito.nl
@@ -8515,6 +8520,7 @@ https://www.leidraadse.nl
 https://www.lekker-op-weg.nl
 https://www.lerenenwerken.nl
 https://www.lerenvoorveiligheid.nl
+https://www.letterenfonds.nl
 https://www.limburg.nl
 https://www.lintjes.nl
 https://www.locatiescan.kvk.nl
