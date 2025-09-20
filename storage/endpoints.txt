@@ -1545,6 +1545,7 @@ https://acgsa.maps.arcgis.com
 https://achd-substance-use-adcogov-health.hub.arcgis.com
 https://achilles.rvo.nl
 https://achterhoek.leerwerkloket.nl
+https://achterhoek.lerenenwerken.nl
 https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://acm.nl
@@ -2808,6 +2809,7 @@ https://community-funding-mapping-1-1-scotgov.hub.arcgis.com
 https://community-gatewayreview.nl
 https://community-health-outreach-statelocaltryit.hub.arcgis.com
 https://community.leerwerkloket.nl
+https://community.lerenenwerken.nl
 https://communityanalyst.arcgis.com
 https://communitymaps.arcgis.com
 https://communityportal.hansken.org
@@ -3354,6 +3356,7 @@ https://draaiboekpsie.nl
 https://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://drechtsteden.leerwerkloket.nl
+https://drechtsteden.lerenenwerken.nl
 https://drenthe.leerwerkloket.nl
 https://dreu-cd.arcgis.com
 https://dreu-ei.arcgis.com
@@ -3513,6 +3516,7 @@ https://eidgw.hetcak.nl
 https://eidgwtest.hetcak.nl
 https://eigenkracht.nl
 https://eijsden.dbsync.aqualarm.nl
+https://eindhoven.lerenenwerken.nl
 https://eiti.nl
 https://ejournals.ebsco.com.access.authkb.kb.nl
 https://elaborate.huygens.knaw.nl
@@ -4006,6 +4010,7 @@ https://firehose.dnb.nl
 https://fiu-nederland.nl
 https://flair-demo.flevoland.nl
 https://flevoland.leerwerkloket.nl
+https://flevoland.lerenenwerken.nl
 https://flevoland.nl
 https://flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 https://fme.hdsr.nl
@@ -4016,6 +4021,7 @@ https://fmis.belastingdienst.nl
 https://fmreturn.acm.nl
 https://fondspodiumkunsten.nl
 https://foodvalley.leerwerkloket.nl
+https://foodvalley.lerenenwerken.nl
 https://forensicinstitute.nl
 https://forensischezorg.nl
 https://forensischinstituut.nl
@@ -4051,6 +4057,7 @@ https://fr.chm-cbd.net
 https://fr.espacenet.com
 https://francodevrije.huygens.knaw.nl
 https://fryslan.leerwerkloket.nl
+https://fryslan.lerenenwerken.nl
 https://fs.afm.nl
 https://fs.cpb.nl
 https://fs.ctgb.nl
@@ -4283,6 +4290,7 @@ https://grondwaterportaal-a.hhdelfland.nl
 https://grondwaterportaal.hhdelfland.nl
 https://grondwaterstand.brabant.nl
 https://groningen.leerwerkloket.nl
+https://groningen.lerenenwerken.nl
 https://grootamsterdam.leerwerkloket.nl
 https://grpc.annorepo.dev.huc.knaw.nl
 https://gso.gbv.de.access.authkb.kb.nl
@@ -4299,7 +4307,10 @@ https://gy.chm-cbd.net
 https://gy.test.chm-cbd.net
 https://haaglanden.databank.nl
 https://haaglanden.leerwerkloket.nl
+https://haaglanden.lerenenwerken.nl
 https://haarlem.leerwerkloket.nl
+https://haarlem.lerenenwerken.nl
+https://haarlemmermeer.lerenenwerken.nl
 https://halt-verwijs.jeugdconnect.nl
 https://halt.nl
 https://han-demo.chm-cbd.net
@@ -4324,6 +4335,7 @@ https://healthcouncil.nl
 https://helloid.aaenmaas.nl
 https://helloid.vechtstromen.nl
 https://helmond.leerwerkloket.nl
+https://helmond.lerenenwerken.nl
 https://help.arcgis.com
 https://helpdesk-efactureren.nl
 https://helpdesk-test.ciz.nl
@@ -4949,6 +4961,7 @@ https://leidraadse.nl
 https://lenohuis.kennisplatformondermijning.nl
 https://leren.nza.nl
 https://lerenbij.ciz.nl
+https://lerenenwerken.nl
 https://lerenvoorveiligheid.nl
 https://lespakketten.derdekamer.nl
 https://letmemap-ptbocounty.hub.arcgis.com
@@ -5229,6 +5242,7 @@ https://mastodon.cultuurparticipatie.nl
 https://matchingsapp.cbs.nl
 https://matomo.cip-overheid.nl
 https://matomo.ciz.nl
+https://matomo.lerenenwerken.nl
 https://mattermost.aerius.nl
 https://maturityscan.gebruikercentraal.nl
 https://mautic.cultuurparticipatie.nl
@@ -5314,9 +5328,12 @@ https://micollabtest.cbs.nl
 https://microdata.cbs.nl
 https://microfoonbanden.nl
 https://middenbrabant.leerwerkloket.nl
+https://middenbrabant.lerenenwerken.nl
 https://middengelderland.leerwerkloket.nl
+https://middengelderland.lerenenwerken.nl
 https://middenholland.leerwerkloket.nl
 https://middenlimburg.leerwerkloket.nl
+https://middenlimburg.lerenenwerken.nl
 https://mig.cbs.nl
 https://mijn-acc.igj.nl
 https://mijn-dev.dnb.nl
@@ -5582,7 +5599,9 @@ https://noaa.maps.arcgis.com
 https://noorddrive.rijkscloud.nl
 https://noordholland.databank.nl
 https://noordhollandnoord.leerwerkloket.nl
+https://noordhollandnoord.lerenenwerken.nl
 https://noordlimburg.leerwerkloket.nl
+https://noordlimburg.lerenenwerken.nl
 https://noordoostbrabant.leerwerkloket.nl
 https://north-central-wisconsin-entrepreneurial-portal-ncwrpc.hub.arcgis.com
 https://northern-sunrise-county-gis-mmsa.hub.arcgis.com
@@ -6264,6 +6283,7 @@ https://prod.dictu.nl
 https://prod.higherlevel.nl
 https://prod.intranet.rvig.nl
 https://prod.justis.nl
+https://prod.lerenenwerken.nl
 https://prod.mercurius.sso3w.nl
 https://prod.mi-cert.nl
 https://prod.nl-alert.nl
@@ -6273,6 +6293,7 @@ https://prod.tlokb.nl
 https://prod.web.ictu.nl
 https://prod.web.nmp.ictu.nl
 https://prod.wetten.rvo.nl
+https://prod3.lerenenwerken.nl
 https://producten.lees-rijk.nl
 https://productie-nieuw.bidbook.eu
 https://productie-nieuw.biedboek.nl
@@ -6540,7 +6561,9 @@ https://rijksvaccinatieprogramma.nl
 https://rijksvastgoedbedrijf.nl
 https://rijkswaterstaat.nl
 https://rijkvannijmegen.leerwerkloket.nl
+https://rijkvannijmegen.lerenenwerken.nl
 https://rijnmond.leerwerkloket.nl
+https://rijnmond.lerenenwerken.nl
 https://riks-acc.azure.dnb.nl
 https://riks-ci.azure.dnb.nl
 https://riks-ft.azure.dnb.nl
@@ -6548,6 +6571,7 @@ https://riks.azure.dnb.nl
 https://rio-kennisbank.duo.nl
 https://river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
 https://rivierenland.leerwerkloket.nl
+https://rivierenland.lerenenwerken.nl
 https://rivmopendata.cbs.nl
 https://rmdm-beheerapp-acc.azure.dnb.nl
 https://rmdm-beheerapp-dev.azure.dnb.nl
@@ -6565,6 +6589,7 @@ https://rob2000.rijkscloud.nl
 https://romanvanwalewein.huygens.knaw.nl
 https://rooswijk.huygens.knaw.nl
 https://rop.caop.nl
+https://rotterdam.lerenenwerken.nl
 https://rotterdammer.gebruikercentraal.nl
 https://router.databank.nl
 https://royal-house.nl
@@ -7329,6 +7354,7 @@ https://tunnel1.cbs.nl
 https://tvep.dictu.nl
 https://tvs.dictu.nl
 https://twente.leerwerkloket.nl
+https://twente.lerenenwerken.nl
 https://two-acs.com
 https://tyk-cdn.dataplatform.knmi.nl
 https://type.labs.dans.knaw.nl
@@ -7387,6 +7413,7 @@ https://utah-county-data-sharing-hub-utahcounty.hub.arcgis.com
 https://utah-fire-info-utahdnr.hub.arcgis.com
 https://utoronto.maps.arcgis.com
 https://utrecht.leerwerkloket.nl
+https://utrecht.lerenenwerken.nl
 https://uwbeslagvrijevoet.nl
 https://uzi.acc.federatieveservice.nl
 https://uzi.federatieveservice.nl
@@ -7704,6 +7731,7 @@ https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://westbrabant.leerwerkloket.nl
+https://westbrabant.lerenenwerken.nl
 https://wetbeschermingklokkenluiders.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
@@ -8485,6 +8513,7 @@ https://www.leerwerkloket.nl
 https://www.lees-rijk.nl
 https://www.leidraadse.nl
 https://www.lekker-op-weg.nl
+https://www.lerenenwerken.nl
 https://www.lerenvoorveiligheid.nl
 https://www.limburg.nl
 https://www.lintjes.nl
@@ -8814,6 +8843,7 @@ https://zandbak.wegwijzer.overheid.nl
 https://zartico.maps.arcgis.com
 https://zeeland-prv.databank.nl
 https://zeeland.leerwerkloket.nl
+https://zeeland.lerenenwerken.nl
 https://zhailuxu.github.io
 https://ziektelast.vzinfo.nl
 https://zm.chm-cbd.net
@@ -8842,10 +8872,13 @@ https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl
 https://zuid-holland.nl
 https://zuidhollandcentraal.leerwerkloket.nl
+https://zuidhollandcentraal.lerenenwerken.nl
 https://zuidlimburg.leerwerkloket.nl
+https://zuidlimburg.lerenenwerken.nl
 https://zuidoostbrabant.leerwerkloket.nl
 https://zvs.woo.irealisatie.nl
 https://zw.chm-cbd.net
 https://zw.test.chm-cbd.net
 https://zwerfafval.rijkswaterstaat.nl
 https://zwolle.leerwerkloket.nl
+https://zwolle.lerenenwerken.nl

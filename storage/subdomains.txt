@@ -1546,6 +1546,7 @@ achd-substance-use-adcogov-health.hub.arcgis.com
 achilles-acc.rvo.nl
 achilles.rvo.nl
 achterhoek.leerwerkloket.nl
+achterhoek.lerenenwerken.nl
 ack.omgevingswet.overheid.nl
 acm-acc.ctgb.nl
 acm.ctgb.nl
@@ -3700,6 +3701,7 @@ community-funding-mapping-1-1-scotgov.hub.arcgis.com
 community-gatewayreview.nl
 community-health-outreach-statelocaltryit.hub.arcgis.com
 community.leerwerkloket.nl
+community.lerenenwerken.nl
 communityanalyst.arcgis.com
 communitymaps.arcgis.com
 communityportal.hansken.org
@@ -4588,6 +4590,7 @@ draaiboekpsie.nl
 draf-acpt.brabant.nl
 draf.brabant.nl
 drechtsteden.leerwerkloket.nl
+drechtsteden.lerenenwerken.nl
 drenthe.leerwerkloket.nl
 drentsklimaat.databank.nl
 dreu-cd.arcgis.com
@@ -4858,6 +4861,7 @@ eidgw.hetcak.nl
 eidgwtest.hetcak.nl
 eigenkracht.nl
 eijsden.dbsync.aqualarm.nl
+eindhoven.lerenenwerken.nl
 eindtoets-ouders.cito.nl
 eindtoetsbasisonderwijs.cito.nl
 eiti.nl
@@ -5542,6 +5546,7 @@ firehose.dnb.nl
 fiu-nederland.nl
 flair-demo.flevoland.nl
 flevoland.leerwerkloket.nl
+flevoland.lerenenwerken.nl
 flevoland.nl
 flexplek.duo.nl
 flu-vaccine-clinic-carltoncounty.hub.arcgis.com
@@ -5561,6 +5566,7 @@ focus.jitsi.rijkscloud.nl
 fondspodiumkunsten.nl
 fonts.cbs.nl
 foodvalley.leerwerkloket.nl
+foodvalley.lerenenwerken.nl
 forensicinstitute.nl
 forensischezorg.nl
 forensischinstituut.nl
@@ -5622,6 +5628,7 @@ fryske1.fa.knaw.nl
 fryske2.fa.knaw.nl
 fryslan.databank.nl
 fryslan.leerwerkloket.nl
+fryslan.lerenenwerken.nl
 fs-ms-exdns01.brabant.nl
 fs-ms-exdns03.brabant.nl
 fs-ms-exdns04.brabant.nl
@@ -6091,6 +6098,7 @@ grondwaterportaal-a.hhdelfland.nl
 grondwaterportaal.hhdelfland.nl
 grondwaterstand.brabant.nl
 groningen.leerwerkloket.nl
+groningen.lerenenwerken.nl
 grootamsterdam.leerwerkloket.nl
 grpc.annorepo.dev.huc.knaw.nl
 grs-test.dans.knaw.nl
@@ -6167,7 +6175,10 @@ gy.test.chm-cbd.net
 h2ons.waterschaplimburg.nl
 haaglanden.databank.nl
 haaglanden.leerwerkloket.nl
+haaglanden.lerenenwerken.nl
 haarlem.leerwerkloket.nl
+haarlem.lerenenwerken.nl
+haarlemmermeer.lerenenwerken.nl
 hallo.kvk.nl
 halt-verwijs.jeugdconnect.nl
 halt.nl
@@ -6209,6 +6220,7 @@ healthcouncil.nl
 helloid.aaenmaas.nl
 helloid.vechtstromen.nl
 helmond.leerwerkloket.nl
+helmond.lerenenwerken.nl
 help.arcgis.com
 help200x.alterra.nl
 helpdesk-efactureren.nl
@@ -7518,6 +7530,7 @@ lenohuis.kennisplatformondermijning.nl
 leren.mensenrechten.nl
 leren.nza.nl
 lerenbij.ciz.nl
+lerenenwerken.nl
 lerenvoorveiligheid.nl
 lespakketten.derdekamer.nl
 letmemap-ptbocounty.hub.arcgis.com
@@ -8050,6 +8063,7 @@ matomo-cdk.dataplatform.knmi.nl
 matomo.cip-overheid.nl
 matomo.ciz.nl
 matomo.dataplatform.knmi.nl
+matomo.lerenenwerken.nl
 matra-south.rvo.nl
 matrix.ix.rijkscloud.nl
 matroos.rijkswaterstaat.nl
@@ -8201,9 +8215,12 @@ microdata2.cbs.nl
 microdatavpn.cbs.nl
 microfoonbanden.nl
 middenbrabant.leerwerkloket.nl
+middenbrabant.lerenenwerken.nl
 middengelderland.leerwerkloket.nl
+middengelderland.lerenenwerken.nl
 middenholland.leerwerkloket.nl
 middenlimburg.leerwerkloket.nl
+middenlimburg.lerenenwerken.nl
 mig.cbs.nl
 migrantcards.huygens.knaw.nl
 migrants-test.red.huygens.knaw.nl
@@ -8839,7 +8856,9 @@ node3.kafka-facet.duo.nl
 noorddrive.rijkscloud.nl
 noordholland.databank.nl
 noordhollandnoord.leerwerkloket.nl
+noordhollandnoord.lerenenwerken.nl
 noordlimburg.leerwerkloket.nl
+noordlimburg.lerenenwerken.nl
 noordoostbrabant.leerwerkloket.nl
 north-central-wisconsin-entrepreneurial-portal-ncwrpc.hub.arcgis.com
 northern-sunrise-county-gis-mmsa.hub.arcgis.com
@@ -10268,6 +10287,7 @@ prod.higherlevel.nl
 prod.ifundswebservice.architectenregister.nl
 prod.intranet.rvig.nl
 prod.justis.nl
+prod.lerenenwerken.nl
 prod.mercurius.sso3w.nl
 prod.mi-cert.nl
 prod.nl-alert.nl
@@ -10280,6 +10300,7 @@ prod.web.ictu.nl
 prod.web.nmp.ictu.nl
 prod.wetten.rvo.nl
 prod2.opendata.nederlandwereldwijd.nl
+prod3.lerenenwerken.nl
 produ.dictu.nl
 producten.lees-rijk.nl
 productie-nieuw.bidbook.eu
@@ -10783,8 +10804,10 @@ rijksvastgoedbedrijf.nl
 rijkswaterstaat.nl
 rijksweb.digikoppeling.diginetwerk.dictu.nl
 rijkvannijmegen.leerwerkloket.nl
+rijkvannijmegen.lerenenwerken.nl
 rijmspreuken.huygens.knaw.nl
 rijnmond.leerwerkloket.nl
+rijnmond.lerenenwerken.nl
 riks-acc.azure.dnb.nl
 riks-ci.azure.dnb.nl
 riks-ft.azure.dnb.nl
@@ -10792,6 +10815,7 @@ riks.azure.dnb.nl
 rio-kennisbank.duo.nl
 river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
 rivierenland.leerwerkloket.nl
+rivierenland.lerenenwerken.nl
 rivm.atlasleefomgeving.nl
 rivmmagazines.nl
 rivmopendata.cbs.nl
@@ -10820,6 +10844,7 @@ romanvanwalewein.huygens.knaw.nl
 roomreservation.belastingdienst.nl
 rooswijk.huygens.knaw.nl
 rop.caop.nl
+rotterdam.lerenenwerken.nl
 rotterdammer.gebruikercentraal.nl
 router.databank.nl
 routeringsvoorziening-pp1.logius.nl
@@ -11765,6 +11790,7 @@ stcrtin-acc.overheid.nl
 stcrtin-preprd.overheid.nl
 stcrtin.overheid.nl
 stedenvierkant.leerwerkloket.nl
+stedenvierkant.lerenenwerken.nl
 stelselcatalogus.acc.omgevingswet.overheid.nl
 stelselcatalogus.dmo.omgevingswet.overheid.nl
 stelselcatalogus.int.omgevingswet.overheid.nl
@@ -12459,6 +12485,7 @@ tvs.coa.nl
 tvs.dictu.nl
 tweb11.dans.knaw.nl
 twente.leerwerkloket.nl
+twente.lerenenwerken.nl
 twister21.dans.knaw.nl
 two-acs.com
 tws-esb.rijkswaterstaat.nl
@@ -12551,6 +12578,7 @@ utah-county-data-sharing-hub-utahcounty.hub.arcgis.com
 utah-fire-info-utahdnr.hub.arcgis.com
 utoronto.maps.arcgis.com
 utrecht.leerwerkloket.nl
+utrecht.lerenenwerken.nl
 uvid-art.cvr.rvb.rijkscloud.nl
 uvid-art.devops.rvb.rijkscloud.nl
 uvid-demo.cvr.rvb.rijkscloud.nl
@@ -13262,6 +13290,7 @@ werkvoorraad.reps.acceptatie.kadaster.nl
 werkvoorraad.reps.kadaster.nl
 werkvoorraad.reps.test.kadaster.nl
 westbrabant.leerwerkloket.nl
+westbrabant.lerenenwerken.nl
 wetbeschermingklokkenluiders.nl
 wetgeving.acc.omgevingswet.overheid.nl
 wetgeving.int.omgevingswet.overheid.nl
@@ -14284,6 +14313,7 @@ www.leerwerkloket.nl
 www.lees-rijk.nl
 www.leidraadse.nl
 www.lekker-op-weg.nl
+www.lerenenwerken.nl
 www.lerenvoorveiligheid.nl
 www.limburg.nl
 www.lintjes.nl
@@ -14726,6 +14756,7 @@ zartico.maps.arcgis.com
 zeeland-prv.databank.nl
 zeeland.databank.nl
 zeeland.leerwerkloket.nl
+zeeland.lerenenwerken.nl
 zeelandscan.databank.nl
 zelfbediening.belastingdienst.nl
 zendto.acm.nl
@@ -14777,7 +14808,9 @@ zta-ota.belastingdienst.nl
 zta.belastingdienst.nl
 zuid-holland.nl
 zuidhollandcentraal.leerwerkloket.nl
+zuidhollandcentraal.lerenenwerken.nl
 zuidlimburg.leerwerkloket.nl
+zuidlimburg.lerenenwerken.nl
 zuidoostbrabant.leerwerkloket.nl
 zvs.woo.irealisatie.nl
 zw.chm-cbd.net
@@ -14786,3 +14819,4 @@ zw.test.chm-cbd.net
 zwb.riec.nl
 zwerfafval.rijkswaterstaat.nl
 zwolle.leerwerkloket.nl
+zwolle.lerenenwerken.nl
