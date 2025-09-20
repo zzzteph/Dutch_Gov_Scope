@@ -24,10 +24,13 @@ http://acc-english.rvo.nl
 http://acc-staten.zuid-holland.nl
 http://acc-website.rvo.nl
 http://acc.agrimatie.nl
+http://acc.boekingszuil.logerenbijdeboswachter.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://acc.irealisatie.nl
+http://acc.logerenbijdeboswachter.nl
 http://acc.mgo.irealisatie.nl
+http://acc.mijn.logerenbijdeboswachter.nl
 http://acc.subsidie.cultureelerfgoed.nl
 http://acc.woo.irealisatie.nl
 http://acceptatie.atlasleefomgeving.nl
@@ -314,6 +317,7 @@ http://images.huygens.knaw.nl
 http://imageviewer.kb.nl
 http://img.openstad.zuid-holland.nl
 http://imlc.huygens.knaw.nl
+http://import.logerenbijdeboswachter.nl
 http://inkopers.werkenvoornederland.nl
 http://inspireaanmerking.nl
 http://int-prod-01.flevoland.nl
@@ -385,6 +389,7 @@ http://metrics.digitalenoordzee.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.leeroverzicht.nl
+http://mijn.logerenbijdeboswachter.nl
 http://mijn.zuid-holland.nl
 http://mijnloonstrook.knaw.nl
 http://minio2.labs.dans.knaw.nl
@@ -401,6 +406,7 @@ http://natuurvanuitdelucht.zuid-holland.nl
 http://ncc.gov.nl
 http://nederlandschehistorien.huygens.knaw.nl
 http://netuit.kb.nl
+http://new.boekingszuil.logerenbijdeboswachter.nl
 http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
 http://nl-a.cito.nl
@@ -1871,6 +1877,7 @@ https://api.kvk.nl
 https://api.labs.kadaster.nl
 https://api.letterenfonds.nl
 https://api.linkeddata.cultureelerfgoed.nl
+https://api.logerenbijdeboswachter.nl
 https://api.management.dnb.nl
 https://api.mijn.acc.ncsc.nl
 https://api.mijn.ncsc.nl
@@ -2216,6 +2223,7 @@ https://beheer.lrza.cibg.nl
 https://beheer.ncpeh.nl
 https://beheer.zorgaanbiedersportaal.nl
 https://beheerautoriteitwaddenzee.nl
+https://beheerders.logerenbijdeboswachter.nl
 https://beheerdetoekomst.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://beheerportaal.bta.omgevingswet.overheid.nl
@@ -2402,6 +2410,7 @@ https://bodemrapportage.flevoland.nl
 https://bodemrichtlijn.nl
 https://bodemvizier.nl
 https://boekenprijs.cvdm.nl
+https://boekingszuil.logerenbijdeboswachter.nl
 https://boem-metaport-boem.hub.arcgis.com
 https://boerenkpi.nl
 https://bofeb.nl
@@ -3993,6 +4002,7 @@ https://file.ndw.nu
 https://files.cultuurparticipatie.nl
 https://files.iplo.nl
 https://files.klimaatadaptatienederland.nl
+https://files.logerenbijdeboswachter.nl
 https://filesender.ctgb.nl
 https://fileshare.rekenkamer.nl
 https://fileshare.rijksdienstcn.com
@@ -5053,6 +5063,7 @@ https://locationservices7.arcgis.com
 https://locationservices7.az-int.arcgis.com
 https://locov.nl
 https://loganms.github.io
+https://logerenbijdeboswachter.nl
 https://loggingbe.huygens.knaw.nl
 https://login-dev.dnb.nl
 https://login-pp.dnb.nl
@@ -5574,6 +5585,7 @@ https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nhi-adfs01.herseninstituut.knaw.nl
 https://nias.knaw.nl
+https://nieuw.logerenbijdeboswachter.nl
 https://nieuws.brabant.nl
 https://nieuws.coa.nl
 https://nieuws.rvo.nl
@@ -6441,6 +6453,7 @@ https://rechtwijzer.nl
 https://reconi-etoegang-acc.sso.eherkenning.nl
 https://reconi-etoegang-pp.sso.eherkenning.nl
 https://reconi-etoegang.sso.eherkenning.nl
+https://recranet-api.logerenbijdeboswachter.nl
 https://redactie-tl.iplo.nl
 https://redactie.aquo.nl
 https://redactie.brandweer.nl
@@ -8544,6 +8557,7 @@ https://www.liv.nl
 https://www.lma.nl
 https://www.locatiescan.kvk.nl
 https://www.locov.nl
+https://www.logerenbijdeboswachter.nl
 https://www.logius.nl
 https://www.loket.afm.nl
 https://www.loketduurzaameten.nl

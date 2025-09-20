@@ -8,8 +8,8 @@ acc
 test
 english
 a-www
-a-opendata
 mijn
+a-opendata
 a-feeds
 webmail
 api
@@ -120,6 +120,7 @@ www-a
 zaaksysteem-acc
 forms
 m
+files
 git
 repository
 geoweb
@@ -162,6 +163,7 @@ externemail
 m365
 sf
 connect-acpt
+acc.mijn
 www.mijn
 nieuwsbrief
 legacy
@@ -172,7 +174,6 @@ mijn-acc
 dashboard
 vt
 chat
-files
 stats
 extranet
 wiki
@@ -250,7 +251,6 @@ jira
 servicedesk
 mobiel
 aanvraag
-acc.mijn
 services-acc
 webservice
 cmsintranet
@@ -511,6 +511,7 @@ mft-acc
 mx3
 mx4
 pers
+import
 register
 fed
 handboek
@@ -523,6 +524,7 @@ vacature
 ro
 api-a
 mr
+nieuw
 probeer
 melding
 api-dev
@@ -5200,7 +5202,6 @@ wwwtest.entreepgb
 Autodiscover
 mx01
 tbbb
-import
 importacc
 register-backend
 fed-tao.acc
@@ -5474,7 +5475,6 @@ meeting.services
 mkb
 msg
 msg.services
-nieuw
 remote.services
 rxs
 rxs.services
@@ -10603,3 +10603,8 @@ rds
 skywalker
 amice
 prod.amice
+acc.boekingszuil
+beheerders
+boekingszuil
+new.boekingszuil
+recranet-api
