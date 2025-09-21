@@ -71,7 +71,9 @@ onderzoek
 digikoppeling
 geo
 kennis
+oud
 auth
+www.acc
 www-ow
 www-ts
 www2
@@ -86,9 +88,7 @@ demo
 mdm
 elearning
 www.acceptatie
-oud
 accept
-www.acc
 www-acc2
 www-dev2
 www-p2
@@ -276,6 +276,7 @@ secure
 webaccess
 vacatures
 intern
+new
 analytics
 iam
 sentry
@@ -290,6 +291,7 @@ acc-mijn
 siam
 elo
 communicatie
+nieuw
 acc-www
 office
 training
@@ -446,7 +448,6 @@ welkom
 ca
 productie
 leren
-new
 zoekservice
 kgr-acc.mijn
 kgr.mijn
@@ -524,7 +525,6 @@ vacature
 ro
 api-a
 mr
-nieuw
 probeer
 melding
 api-dev
@@ -10608,3 +10608,4 @@ beheerders
 boekingszuil
 new.boekingszuil
 recranet-api
+nieuw.acc

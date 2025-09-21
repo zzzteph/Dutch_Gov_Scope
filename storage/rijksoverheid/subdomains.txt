@@ -1280,6 +1280,7 @@ acc.leeroverzicht.nl
 acc.lees-rijk.nl
 acc.lespakketten.derdekamer.nl
 acc.logerenbijdeboswachter.nl
+acc.luchtvaartmeteo.nl
 acc.machtigen.digid.nl
 acc.mercurius.sso3w.nl
 acc.mgo.irealisatie.nl
@@ -7769,6 +7770,7 @@ luchtfoto.flevoland.nl
 luchtfoto.zuid-holland.nl
 luchtvaartindetoekomst.nl
 luchtvaartmeteo-test.knmi.nl
+luchtvaartmeteo.nl
 lucom-client.dictu.nl
 luistertoets.cito.nl
 lv-i.espacenet.com
@@ -8791,6 +8793,7 @@ nevenactiviteiten.cvdm.nl
 nevenbetrekkingen.om.nl
 new.boekingszuil.logerenbijdeboswachter.nl
 new.deweekvandecirculaireeconomie.nl
+new.luchtvaartmeteo.nl
 new.mensenrechten.nl
 new.mijn.knmi.nl
 newton-open-geo-data-newtonmagis.hub.arcgis.com
@@ -8822,8 +8825,10 @@ nias.idp.knaw.nl
 nias.knaw.nl
 nidi.idp.knaw.nl
 nidi.knaw.nl
+nieuw.acc.luchtvaartmeteo.nl
 nieuw.acm.nl
 nieuw.logerenbijdeboswachter.nl
+nieuw.luchtvaartmeteo.nl
 nieuws.brabant.nl
 nieuws.coa.nl
 nieuws.rvo.nl
@@ -9598,6 +9603,7 @@ oud.cip-overheid.nl
 oud.cultureelerfgoed.nl
 oud.infowms.nl
 oud.knawonderwijsprijs.nl
+oud.luchtvaartmeteo.nl
 oud.mensenrechten.nl
 ouders-uit-elkaar.nl
 oudewebsite.flevoland.nl
@@ -13619,6 +13625,7 @@ www.acc.grondstoffenscanner.nl
 www.acc.inspectieview.nl
 www.acc.isdatechtzo.nl
 www.acc.lees-rijk.nl
+www.acc.luchtvaartmeteo.nl
 www.acc.mijn.dus-i.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
 www.acc.omgevingswet.overheid.nl
@@ -14379,6 +14386,7 @@ www.loketkennisveiligheid.nl
 www.loonaangifteketen.nl
 www.loopbaanadvies.aofondsrijk.nl
 www.luchtvaartindetoekomst.nl
+www.luchtvaartmeteo.nl
 www.lvmb.nl
 www.maatwerkvoormensen.nl
 www.magazine-en.digitaleoverheid.nl
