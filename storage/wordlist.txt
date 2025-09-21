@@ -54,6 +54,7 @@ ftp
 webservices
 open
 dialin
+elearning
 geoservices
 auth
 proto
@@ -67,7 +68,6 @@ preview
 services
 beeldbank
 docs
-elearning
 cdn
 onderzoek
 digikoppeling
@@ -10794,3 +10794,5 @@ tst.liferay
 tst.login.consular
 tst.nww
 tst.protocol
+elearnings
+mediamasters
