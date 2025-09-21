@@ -54,6 +54,7 @@ ftp
 webservices
 open
 dialin
+geoservices
 proto
 www-ac
 www-dev
@@ -65,8 +66,8 @@ preview
 services
 beeldbank
 docs
+elearning
 cdn
-geoservices
 onderzoek
 digikoppeling
 geo
@@ -78,6 +79,7 @@ www-ow
 www-ts
 www2
 zaaksysteem
+jaarverslag
 adobe-analytics-dc
 adobe-tags
 enterpriseregistration
@@ -86,7 +88,6 @@ werken
 acceptatie.beheer
 demo
 mdm
-elearning
 www.acceptatie
 accept
 www-acc2
@@ -96,13 +97,13 @@ www-tst2
 loket
 inloggen
 lyncdiscover
-jaarverslag
 mx1
 papiamentu
 enterpriseenrollment
 acceptatie.behandel
 acceptatie.mijn
 atlas
+geoportaal
 id
 kaarten
 publicaties
@@ -141,6 +142,7 @@ prd
 geodata
 merkportaal
 ns2
+sharepoint
 videobellen
 website
 old
@@ -148,7 +150,6 @@ acceptatie.webservices
 acceptatie.zoeken
 behandel
 connect-with
-geoportaal
 ondertekenen
 wifi
 www-test
@@ -168,6 +169,7 @@ www.mijn
 nieuwsbrief
 legacy
 sandbox
+mobile
 telewerken
 synergy
 mijn-acc
@@ -190,6 +192,7 @@ luchtfoto
 web
 ontwikkel
 pushmail
+smtp1
 academie
 appstore
 b2b
@@ -202,7 +205,7 @@ huisstijl
 mta-sts
 sharepoint-acc
 sharepoint-conf
-sharepoint
+smtp2
 start
 blog
 dataportaal
@@ -211,6 +214,7 @@ esb
 geoserver
 nieuws
 osb
+proxy
 samenwerken
 wachtwoord
 doc
@@ -262,7 +266,6 @@ test-intranet
 extern
 csoacct
 csotest
-mobile
 acc.api
 authenticatie
 archief
@@ -283,6 +286,7 @@ sentry
 voorlichting
 media
 transfer
+access
 organisaties
 monitor
 server
@@ -310,7 +314,6 @@ test.resultaten
 bezwaar
 meldingen
 rdgateway
-smtp1
 dataservice
 afspraken
 artifact-fibt1
@@ -339,7 +342,6 @@ ont
 pleio
 rw
 sa
-smtp2
 toestemming
 vc
 webdiensten
@@ -347,7 +349,6 @@ acs
 beeldbank-bo
 blogs
 georegister
-proxy
 sis
 werkenvoor
 uzi.acc
@@ -435,6 +436,7 @@ workspace
 aanmelden
 zaaksysteem-accept
 sdm
+en
 vt-mijn
 ediensten
 statistics
@@ -471,7 +473,6 @@ track
 projecten-acc
 formulieren-acc
 zandbak
-access
 leeromgeving
 webshop
 pop
@@ -527,6 +528,7 @@ api-a
 mr
 probeer
 melding
+aovpn
 api-dev
 gateway
 portaal-acc
@@ -2430,7 +2432,6 @@ sasbi
 stc
 wio
 wiob
-en
 beheer.chat
 checkout-acc.portal
 checkout-tst.portal
@@ -5533,7 +5534,6 @@ accnew-cms
 accnew-www
 afmacademy
 afmcmg
-aovpn
 api-tst
 beginnenbij
 compliance
@@ -10609,3 +10609,15 @@ boekingszuil
 new.boekingszuil
 recranet-api
 nieuw.acc
+eaip
+eaiptest
+leap
+mag
+pkiv2
+prd-azure-waf1
+proxy-cache
+sslvpn.test.atc
+test-azure-waf1
+testvfrchart
+vfrchart
+www.leap

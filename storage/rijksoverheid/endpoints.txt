@@ -122,6 +122,7 @@ http://autodiscover.ihw.nl
 http://autodiscover.knaw.nl
 http://autodiscover.knmi.nl
 http://autodiscover.kvk.nl
+http://autodiscover.lvnl.nl
 http://autodiscover.meertens.knaw.nl
 http://autodiscover.nias.knaw.nl
 http://autodiscover.nin.knaw.nl
@@ -509,6 +510,7 @@ http://services.kb.nl
 http://share.bidbook.eu
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
+http://sharepoint.lvnl.nl
 http://shinyserver.zuid-holland.nl
 http://siem.acc.irealisatie.nl
 http://siem.irealisatie.nl
@@ -1799,6 +1801,7 @@ https://aoep-iam.rvo.nl
 https://aofondsrijk.nl
 https://aon.nin.knaw.nl
 https://aovpn.afm.nl
+https://aovpn.lvnl.nl
 https://aovvt.nl
 https://apabeheer-a.cito.nl
 https://apabeheer-t.cito.nl
@@ -3472,6 +3475,8 @@ https://e.videobellen.douane.nl
 https://e.videobellen.toeslagen.nl
 https://ea-i.espacenet.com
 https://ea.espacenet.com
+https://eaip.lvnl.nl
+https://eaiptest.lvnl.nl
 https://eakkoord.nl
 https://earthobs3.arcgis.com
 https://easy.dans.knaw.nl
@@ -3545,6 +3550,7 @@ https://elearning-zvjz-medewerkers.nctv.nl
 https://elearning.afm.nl
 https://elearning.dopingautoriteit.nl
 https://elearning.istandaarden.nl
+https://elearning.lvnl.nl
 https://elearning.ordz.nl
 https://elearning.platformrijksoverheid.nl
 https://elections-roscommoncoco.hub.arcgis.com
@@ -3579,6 +3585,7 @@ https://emmettpeng.github.io
 https://emnnetherlands.nl
 https://emobility.rvo.nl
 https://en.inburgeren.nl
+https://en.lvnl.nl
 https://enabling.omgevingswet.overheid.nl
 https://energiecijfers.databank.nl
 https://energiemonitor.databank.nl
@@ -4172,6 +4179,7 @@ https://geojson-converter.ndw.nu
 https://geoplanner.arcgis.com
 https://geoportaal-acceptatie.brabant.nl
 https://geoportaal.brabant.nl
+https://geoportaal.lvnl.nl
 https://geoportaal.zuid-holland.nl
 https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
@@ -4183,6 +4191,7 @@ https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
 https://geoservices.hdsr.nl
 https://geoservices.knmi.nl
+https://geoservices.lvnl.nl
 https://geoservices.rvo.nl
 https://geoservices.zuid-holland.nl
 https://geoweb.odmh.nl
@@ -4699,6 +4708,7 @@ https://iwelcome.nvwa.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag.dopingautoriteit.nl
 https://jaarverslag.fondspodiumkunsten.nl
+https://jaarverslag.lvnl.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
 https://jaarverslag2024.bkd.eu
@@ -4941,6 +4951,7 @@ https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://lea-registry.hansken.org
 https://lead-service-line-inventory-emua.hub.arcgis.com
+https://leap.lvnl.nl
 https://leefbaarenveilig.nl
 https://leefbaarometer.nl
 https://leer-rijk.nl
@@ -5136,6 +5147,7 @@ https://lvbb-perf-acc.overheid.nl
 https://lvbb-preprod.overheid.nl
 https://lvbb-tst.overheid.nl
 https://lvmb.nl
+https://lvnl.nl
 https://lyncdiscover.coa.nl
 https://lyncdiscover.lbio.nl
 https://m.fondspodiumkunsten.nl
@@ -5466,6 +5478,7 @@ https://mm.belastingdienst.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
 https://mobiel.hogeraad.nl
+https://mobile.lvnl.nl
 https://mobiliteitsscan-info.nl
 https://mockapp-dev.dnb.nl
 https://mockapp-pp.dnb.nl
@@ -6152,6 +6165,7 @@ https://pkio.service.omgevingswet.overheid.nl
 https://pkio.service.perf.omgevingswet.overheid.nl
 https://pkio.service.pre.omgevingswet.overheid.nl
 https://pkio.service.tst2905.omgevingswet.overheid.nl
+https://pkiv2.lvnl.nl
 https://pl-i.espacenet.com
 https://pl.espacenet.com
 https://pla.dnb.nl
@@ -6255,6 +6269,7 @@ https://pp1.machtigen.digid.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://pr.aerius.nl
+https://prd-azure-waf1.lvnl.nl
 https://prd.atlasleefomgeving.nl
 https://prd.btp.sso3w.nl
 https://prd.consexponano.nl
@@ -7130,6 +7145,7 @@ https://telewerken.gslb.landelijkemeldkamer.org
 https://telewerken.landelijkemeldkamer.org
 https://terrell.maps.arcgis.com
 https://test-api.stopheling.nl
+https://test-azure-waf1.lvnl.nl
 https://test-bp.stopheling.nl
 https://test-bron.waterschaplimburg.nl
 https://test-calculator.aerius.nl
@@ -7258,6 +7274,7 @@ https://testmonitorwonen.flevoland.nl
 https://testplanner.secure.cito.nl
 https://testreporter-a.secure.cito.nl
 https://testreporter.secure.cito.nl
+https://testvfrchart.lvnl.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://tg.chm-cbd.net
 https://tg.test.chm-cbd.net
@@ -7524,6 +7541,7 @@ https://verwer.nin.knaw.nl
 https://verwerkingen.rijksoverheid.nl
 https://verzorgingsplaats.ndw.nu
 https://veterinairtuchtcollege.nl
+https://vfrchart.lvnl.nl
 https://vgc-acc.nvwa.nl
 https://vgc.nvwa.nl
 https://vgr.zuid-holland.nl
@@ -7760,6 +7778,7 @@ https://werkplek.duo.nl
 https://werkplek.fondspodiumkunsten.nl
 https://werkplek.ifv.nl
 https://werkplek.justid.nl
+https://werkplek.lvnl.nl
 https://werkplek.rekenkamer.nl
 https://werkplek.services.acm.nl
 https://werkplek.vallei-veluwe.nl
@@ -8539,6 +8558,7 @@ https://www.lbio.nl
 https://www.lcms.nl
 https://www.lcnk.nl
 https://www.ldentool.nl
+https://www.leap.lvnl.nl
 https://www.leefbaarenveilig.nl
 https://www.leefbaarometer.nl
 https://www.leer-rijk.nl
@@ -8580,6 +8600,7 @@ https://www.loopbaanadvies.aofondsrijk.nl
 https://www.luchtvaartindetoekomst.nl
 https://www.luchtvaartmeteo.nl
 https://www.lvmb.nl
+https://www.lvnl.nl
 https://www.maatwerkvoormensen.nl
 https://www.magazinesrijkswaterstaat.nl
 https://www.marechaussee.nl

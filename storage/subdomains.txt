@@ -1521,6 +1521,7 @@ acceso-datos-ambientales-invemar.hub.arcgis.com
 access.authkb.kb.nl
 access.authkbtest.kb.nl
 access.huc.knaw.nl
+access.lvnl.nl
 access.om.nl
 access.rijksrecherche.nl
 accessibleayr-swecouk.hub.arcgis.com
@@ -1898,6 +1899,7 @@ aofondsrijk.nl
 aon.nin.knaw.nl
 aov.cvdm.nl
 aovpn.afm.nl
+aovpn.lvnl.nl
 aovvt.nl
 apabeheer-a.cito.nl
 apabeheer-t.cito.nl
@@ -2433,6 +2435,7 @@ autodiscover.kolonialecollecties.nl
 autodiscover.koop.overheid.nl
 autodiscover.kvk.nl
 autodiscover.landelijkemeldkamer.org
+autodiscover.lvnl.nl
 autodiscover.meertens.knaw.nl
 autodiscover.ndw.nu
 autodiscover.nias.knaw.nl
@@ -4754,6 +4757,8 @@ ea.espacenet.com
 ea.kb.nl
 eagle-acc.dji.nl
 eagle.dji.nl
+eaip.lvnl.nl
+eaiptest.lvnl.nl
 eakkoord.nl
 earthobs3.arcgis.com
 easy.dans.knaw.nl
@@ -4890,6 +4895,7 @@ elearning.afm.nl
 elearning.cbi.eu
 elearning.dopingautoriteit.nl
 elearning.istandaarden.nl
+elearning.lvnl.nl
 elearning.ordz.nl
 elearning.platformrijksoverheid.nl
 elections-roscommoncoco.hub.arcgis.com
@@ -4934,6 +4940,7 @@ emnnetherlands.nl
 emobility-acc.rvo.nl
 emobility.rvo.nl
 en.inburgeren.nl
+en.lvnl.nl
 enabling.omgevingswet.overheid.nl
 encryption-auth-acc.dictu.nl
 encryption-auth-prod.dictu.nl
@@ -5860,6 +5867,7 @@ geopoc.brabant.nl
 geoportaal-acceptatie.brabant.nl
 geoportaal.brabant.nl
 geoportaal.hhdelfland.nl
+geoportaal.lvnl.nl
 geoportaal.vallei-veluwe.nl
 geoportaal.zuid-holland.nl
 geoportaalhhd.hhdelfland.nl
@@ -5876,6 +5884,7 @@ geoservices.cbs.nl
 geoservices.cultureelerfgoed.nl
 geoservices.hdsr.nl
 geoservices.knmi.nl
+geoservices.lvnl.nl
 geoservices.rijkswaterstaat.nl
 geoservices.rvo.nl
 geoservices.zuid-holland.nl
@@ -6794,6 +6803,7 @@ jaarverslag.dopingautoriteit.nl
 jaarverslag.fondspodiumkunsten.nl
 jaarverslag.justis.nl
 jaarverslag.knmi.nl
+jaarverslag.lvnl.nl
 jaarverslag2011.forensischinstituut.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
@@ -7498,6 +7508,7 @@ le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 lea-registry.hansken.org
 lead-service-line-inventory-emua.hub.arcgis.com
+leap.lvnl.nl
 leefbaarenveilig.nl
 leefbaarometer.nl
 leer-rijk.nl
@@ -7788,6 +7799,7 @@ lvbb-perf-acc.overheid.nl
 lvbb-preprod.overheid.nl
 lvbb-tst.overheid.nl
 lvmb.nl
+lvnl.nl
 lync.dictu.nl
 lync.prolander.nl
 lync1.kvk.nl
@@ -7830,6 +7842,7 @@ mack-park-farm-salemma.hub.arcgis.com
 maf-a.svb.nl
 maf-oh.svb.nl
 maf.svb.nl
+mag.lvnl.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazine.arbeidsmarktplatformpo.nl
@@ -8499,6 +8512,7 @@ mobiel1.acc.toeslagen.nl
 mobielgis-test.zuid-holland.nl
 mobile.duo.nl
 mobile.hhdelfland.nl
+mobile.lvnl.nl
 mobile.rijksdienstcn.com
 mobilesync.knmi.nl
 mobiliteitsscan-info.nl
@@ -10008,6 +10022,7 @@ pkio.service.perf.omgevingswet.overheid.nl
 pkio.service.pre.omgevingswet.overheid.nl
 pkio.service.tst2905.omgevingswet.overheid.nl
 pkioverheid.huurcommissie.nl
+pkiv2.lvnl.nl
 pktate.kb.nl
 pl-i.espacenet.com
 pl.espacenet.com
@@ -10203,6 +10218,7 @@ pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
 pr.aerius.nl
 pra.svb.nl
+prd-azure-waf1.lvnl.nl
 prd-ez-rvo-ba.dictu.nl
 prd-kadatabackend.ext.kadaster.nl
 prd-kadatawebservice.ext.kadaster.nl
@@ -10392,6 +10408,7 @@ proto.zorginzicht.nl
 prototype.cibg.nl
 provenance.dev.huc.knaw.nl
 providence-gis-hub-pvdgis.hub.arcgis.com
+proxy-cache.lvnl.nl
 proxy-epbd-acc.ep-online.nl
 proxy-epbd-w1091p0012.ep-online.nl
 proxy-epbd-w1091p0035.ep-online.nl
@@ -10400,6 +10417,7 @@ proxy-lab.rvb.rijkscloud.nl
 proxy.brabant.nl
 proxy.cbs.nl
 proxy.geodata.alterra.nl
+proxy.lvnl.nl
 proxy.socint.belastingdienst.nl
 proxy01.pam.kadaster.nl
 proxy02.pam.acceptatie.kadaster.nl
@@ -11349,6 +11367,7 @@ sharepoint-ext-conf.belastingdienst.nl
 sharepoint-ext.belastingdienst.nl
 sharepoint.belastingdienst.nl
 sharepoint.douane.nl
+sharepoint.lvnl.nl
 sharepoint.toeslagen.nl
 sharingknowledge.rvo.nl
 shell.cultuurparticipatie.nl
@@ -11505,12 +11524,14 @@ smtp03.rijkscloud.nl
 smtp04.rijkscloud.nl
 smtp1.awti.nl
 smtp1.belastingdienst.nl
+smtp1.lvnl.nl
 smtp1.mijn.overheid.nl
 smtp1.rvb.rijkscloud.nl
 smtp11.belastingdienst.nl
 smtp12.belastingdienst.nl
 smtp2.belastingdienst.nl
 smtp2.cbr.nl
+smtp2.lvnl.nl
 smtp2.mijn.overheid.nl
 smtp3.mijn.overheid.nl
 smtp31.belastingdienst.nl
@@ -11614,6 +11635,7 @@ ssl.cokz.nl
 ssl.defensie.nl
 sslvpn.eerstekamer.nl
 sslvpn.rekenkamer.nl
+sslvpn.test.atc.lvnl.nl
 sso-acc-tno.bronhouderportaal-bro.nl
 sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
@@ -12067,6 +12089,7 @@ tenantapp.ec.rijkscloud.nl
 terrell.maps.arcgis.com
 tes.duo.nl
 test-api.stopheling.nl
+test-azure-waf1.lvnl.nl
 test-bp.stopheling.nl
 test-bron.waterschaplimburg.nl
 test-calculator.aerius.nl
@@ -12296,6 +12319,7 @@ tests.constructieplatform.cito.nl
 testserver.osb.kvk.nl
 testtunnelmdm.flevoland.nl
 testuitslagen.coronatest.nl
+testvfrchart.lvnl.nl
 teverantwoordenregelingen.rijksoverheid.nl
 tfm63.dans.knaw.nl
 tg.chm-cbd.net
@@ -12795,6 +12819,7 @@ verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
 verzorgingsplaats.ndw.nu
 veterinairtuchtcollege.nl
+vfrchart.lvnl.nl
 vgc-acc.nvwa.nl
 vgc.nvwa.nl
 vglas-a.svb.nl
@@ -13322,6 +13347,7 @@ werkplek.hdsr.nl
 werkplek.hhdelfland.nl
 werkplek.ifv.nl
 werkplek.justid.nl
+werkplek.lvnl.nl
 werkplek.om.nl
 werkplek.rekenkamer.nl
 werkplek.services.acm.nl
@@ -14346,6 +14372,7 @@ www.lbio.nl
 www.lcms.nl
 www.lcnk.nl
 www.ldentool.nl
+www.leap.lvnl.nl
 www.leefbaarenveilig.nl
 www.leefbaarometer.nl
 www.leer-rijk.nl
@@ -14388,6 +14415,7 @@ www.loopbaanadvies.aofondsrijk.nl
 www.luchtvaartindetoekomst.nl
 www.luchtvaartmeteo.nl
 www.lvmb.nl
+www.lvnl.nl
 www.maatwerkvoormensen.nl
 www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
