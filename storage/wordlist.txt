@@ -297,6 +297,7 @@ elo
 communicatie
 nieuw
 acc-www
+backend
 office
 training
 vragen
@@ -539,7 +540,6 @@ test.redactie
 cm
 developers
 experience
-backend
 development
 acceptatie-nieuw
 productie-nieuw
