@@ -1071,6 +1071,7 @@ aanvraag.donorgegevens.nl
 aanvraag.dus-i.nl
 aanvragen-acc.nza.nl
 aanvragen.filmfonds.nl
+aanvragen.maror.nl
 aanvragen.nza.nl
 aanvragen.uziregister.nl
 aanvragen.vergoedingsns.nl
@@ -2436,6 +2437,7 @@ autodiscover.koop.overheid.nl
 autodiscover.kvk.nl
 autodiscover.landelijkemeldkamer.org
 autodiscover.lvnl.nl
+autodiscover.maror.nl
 autodiscover.meertens.knaw.nl
 autodiscover.ndw.nu
 autodiscover.nias.knaw.nl
@@ -7973,6 +7975,7 @@ mail.lbio.nl
 mail.leerwerkloket.nl
 mail.leidraadse.nl
 mail.logerenbijdeboswachter.nl
+mail.maror.nl
 mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
 mail.ndw.nu
@@ -8101,6 +8104,7 @@ marechaussee.nl
 margarethaklooster.huygens.knaw.nl
 maricopa.maps.arcgis.com
 markt-overheid.acm.nl
+maror.nl
 mars.rijkswaterstaat.nl
 martaonline.maps.arcgis.com
 mass.cultureelerfgoed.nl
@@ -12155,6 +12159,7 @@ test-waterschappen.lcms.nl
 test-website.rvo.nl
 test-wetten.rvo.nl
 test-wiki.cultuurparticipatie.nl
+test.aanvragen.maror.nl
 test.actueel.nl-alert.nl
 test.adviescollegeveiligheidgroningen.nl
 test.aerius.nl
@@ -13641,6 +13646,7 @@ www.aanpak-ouderenmishandeling.nl
 www.aanpaklerarentekort.nl
 www.aanpakringzuid.nl
 www.aanvragen.filmfonds.nl
+www.aanvragen.maror.nl
 www.abdtopconsult.nl
 www.abonneren.toezichtdocumenten.igj.nl
 www.academie.ind.nl
@@ -14436,6 +14442,7 @@ www.mail.bureauwsnp.nl
 www.mail.filmfonds.nl
 www.manifestgroep.nl
 www.marechaussee.nl
+www.maror.nl
 www.matomo.cip-overheid.nl
 www.mattermost.aerius.nl
 www.maximizer.rathenau.knaw.nl
@@ -14822,6 +14829,7 @@ yasgui.dev.huc.knaw.nl
 yashtalla.github.io
 ye.chm-cbd.net
 yivi.proeftuin.uzi-online.irealisatie.nl
+yolknet.maror.nl
 yousukehayase.github.io
 youthatheart.nl
 ytyng.github.io

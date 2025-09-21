@@ -98,6 +98,7 @@ loket
 inloggen
 lyncdiscover
 mx1
+aanvragen
 papiamentu
 enterpriseenrollment
 acceptatie.behandel
@@ -129,7 +130,6 @@ nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
-aanvragen
 cpanel
 mail2
 events
@@ -573,6 +573,7 @@ bg
 ea
 cpcalendars
 cpcontacts
+www.aanvragen
 bes
 sub
 downloads
@@ -7943,7 +7944,6 @@ rp1
 rp1.tst
 filmexploitatie
 token
-www.aanvragen
 www.thuiswerken
 platformafpakken
 bes-acc
@@ -10621,3 +10621,5 @@ test-azure-waf1
 testvfrchart
 vfrchart
 www.leap
+test.aanvragen
+yolknet
