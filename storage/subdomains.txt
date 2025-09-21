@@ -1468,6 +1468,7 @@ acceptatie.lir.cibg.nl
 acceptatie.loketgezondleven.nl
 acceptatie.machtigen.digid.nl
 acceptatie.meldingen.klopt.cibg.nl
+acceptatie.meldpuntbodemkwaliteit.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
 acceptatie.mijn.diergeneeskunderegister.nl
@@ -8217,6 +8218,7 @@ meldloket.postedworkers.nl
 meldportaal-acc.fiu-nederland.nl
 meldportaal.fiu-nederland.nl
 meldproduct.nl
+meldpuntbodemkwaliteit.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
 melissa.ncsc.nl
@@ -12256,6 +12258,7 @@ test.leerwerkloket.nl
 test.lint.gebruikercentraal.nl
 test.lma.nl
 test.loketgezondleven.nl
+test.meldpuntbodemkwaliteit.nl
 test.mgo.irealisatie.nl
 test.mi-cert.nl
 test.monumentenregister.cultureelerfgoed.nl
@@ -14465,6 +14468,7 @@ www.meertens.knaw.nl
 www.meetingpointdji.nl
 www.meldknop.nl
 www.meldproduct.nl
+www.meldpuntbodemkwaliteit.nl
 www.meldpuntgeneesmiddelentekortendefecten.nl
 www.mensenrechten.nl
 www.metelkaartrekkenwedegrens.nl
