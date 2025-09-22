@@ -14,8 +14,8 @@ a-feeds
 webmail
 api
 _autodiscover._tcp
-magazines
 acceptatie
+magazines
 feeds.english
 intranet
 opendata.english
@@ -40,6 +40,7 @@ remote
 dev
 login
 a-english
+link
 a-feeds.a-english
 a-opendata.a-english
 zoeken
@@ -49,7 +50,6 @@ hybrid
 meet
 apps
 kennisbank
-link
 open
 ftp
 webservices
@@ -57,6 +57,7 @@ docs
 dialin
 elearning
 geoservices
+oud
 auth
 proto
 www-ac
@@ -74,7 +75,6 @@ onderzoek
 digikoppeling
 geo
 kennis
-oud
 accept
 www.acc
 www-ow
@@ -424,6 +424,7 @@ acceptatie.raadplegen
 raadplegen
 e.acc.videobellen
 e.videobellen
+public
 schemas
 signing
 webservice-acc
@@ -594,6 +595,7 @@ guestportal
 sync
 redirect
 timetell
+2020
 mijn.acceptatie
 mijn.test
 mft
@@ -2216,7 +2218,6 @@ proxy-epbd
 public-acc
 public-acc1
 public-preprod
-public
 registreren-acc
 registreren-acc1
 registreren
@@ -8784,7 +8785,6 @@ www.korea
 www.taiwan
 www.uk
 www.redirect
-2020
 2021
 3d
 3d.test
@@ -11059,3 +11059,6 @@ zbs
 zbsacc
 vacaturezoekservice-test
 vacaturezoekservice
+internationalactivities
+prixderome
+rapportages
