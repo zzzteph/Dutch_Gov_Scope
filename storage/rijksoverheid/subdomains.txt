@@ -1121,6 +1121,7 @@ acc-auth.mfaservices.nl
 acc-auth2.mfaservices.nl
 acc-biometric-service.consular.mfaservices.nl
 acc-biometricservice.mfaservices.nl
+acc-bvrin.minbzk.nl
 acc-ccb.cbs.nl
 acc-cms.digid.nl
 acc-cms.projecten.rvo.nl
@@ -1149,6 +1150,7 @@ acc-esb.acc-protocol.mfaservices.nl
 acc-etl.rijkswaterstaat.nl
 acc-ez-rvo-ba.dictu.nl
 acc-ezine.rvo.nl
+acc-flowlogics.minbzk.nl
 acc-gcms-client-certificaat.dictu.nl
 acc-geo.rijkswaterstaat.nl
 acc-geocontent.rvo.nl
@@ -1441,6 +1443,7 @@ acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
 acceptatie.applicationframework.cibg.nl
 acceptatie.aquo.nl
+acceptatie.as2.minbzk.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.auth.dezi.nl
@@ -1563,6 +1566,7 @@ access.huc.knaw.nl
 access.lvnl.nl
 access.om.nl
 access.rijksrecherche.nl
+access1.minbzk.nl
 accessibleayr-swecouk.hub.arcgis.com
 accnew-cms.afm.nl
 accnew-www.afm.nl
@@ -2290,6 +2294,7 @@ as-derc-01.duo.nl
 as.duo.nl
 as1.eerstekamer.nl
 as2.eerstekamer.nl
+as2.minbzk.nl
 asb.datasluis.dictu.nl
 asbestovertredingen.nlarbeidsinspectie.nl
 asbestvolgsysteem.nl
@@ -2995,6 +3000,8 @@ biosecurityzelfscan.nl
 biotechnologie.nl
 biss-lra-soem.hub.arcgis.com
 bitwarden.knaw.nl
+biztalk-acc.minbzk.nl
+biztalk.minbzk.nl
 bj.chm-cbd.net
 bj.test.chm-cbd.net
 bjfw01.knmi.nl
@@ -3220,10 +3227,12 @@ bvd.ontwikkel.machtigen.digid.nl
 bvinet.douane.nl
 bvlfls.knmi.nl
 bvpn.ncsc.nl
+bvrin.minbzk.nl
 bvs.belastingdienst.nl
 bvz-waves.databank.nl
 bvz.waves.databank.nl
 bwdb03.knmi.nl
+bwi.minbzk.nl
 bwi.minbzk.nl.p-direkt.nl
 bzv-a.brabant.nl
 bzv.brabant.nl
@@ -3290,6 +3299,8 @@ carrier.cbs.nl
 cartotheque-atmo-hdf.hub.arcgis.com
 cartotheque-atmograndest.hub.arcgis.com
 cas-basispoort.cito.nl
+cas-online.minbzk.nl
+cas.minbzk.nl
 case-studies-pwa.hub.arcgis.com
 casitas-in-tucson-cotgis.hub.arcgis.com
 casos-de-uso-plataformacovid.hub.arcgis.com
@@ -5692,6 +5703,7 @@ flevoland.leerwerkloket.nl
 flevoland.lerenenwerken.nl
 flevoland.nl
 flexplek.duo.nl
+flowlogics.minbzk.nl
 flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 flux-acc.rvo.nl
 flux.rvo.nl
@@ -5701,6 +5713,8 @@ fme.brt.test.kadaster.nl
 fme.hdsr.nl
 fmeserver.zuid-holland.nl
 fmhaaglanden.nl
+fmis-mobile-acc.minbzk.nl
+fmis-mobile.minbzk.nl
 fmis-nvwa.justid.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
@@ -6055,6 +6069,8 @@ gids-frontoffice.acc.cloudservices.kb.nl
 gids-frontoffice.cloudservices.kb.nl
 gima.cloud.kadaster.nl
 gima.test.cloud.kadaster.nl
+gip-a.minbzk.nl
+gip.minbzk.nl
 gipdatabank.nl
 gipinfo.nl
 gird.cloud.kadaster.nl
@@ -6562,6 +6578,7 @@ identifier.overheid.nl
 identity.coa.nl
 idm-int.erp.kadaster.nl
 idm.erp.kadaster.nl
+idm.minbzk.nl
 idm.rvig.nl
 idp-acc.globalentry-rtp.nl
 idp-dgp.preproductie.digipoort.logius.nl
@@ -6660,10 +6677,12 @@ inclusiefwerkt.nl
 inclusiekader.gebruikercentraal.nl
 inclusievedienstverlening.gebruikercentraal.nl
 incog.maps.arcgis.com
+ind.minbzk.nl
 ind.nl
 index.0ctocat.github.io
 indicatorsysteem-acc.zuid-holland.nl
 indicatorsysteem-tst.zuid-holland.nl
+indigo-l3-sso.ilab.ota.ind.minbzk.nl
 inechile.maps.arcgis.com
 ineo.dev.huc.knaw.nl
 infographic.agrimatie.nl
@@ -7796,6 +7815,7 @@ lo-ad.acc.mgo.irealisatie.nl
 lo-ad.test.mgo.irealisatie.nl
 loadtest.test.rijkscloud.nl
 loc.did.zandbak.dans.knaw.nl
+loc.minbzk.nl
 localhost.vechtstromen.nl
 localisation.test.zm.irealisatie.nl
 locatiescan.kvk.nl
@@ -8132,6 +8152,9 @@ mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
 mail.vechtstromen.nl
 mail.veiligheidsregioflevoland.nl
+mail.vno.minbzk.nl
+mail.vnp.minbzk.nl
+mail.vnw.minbzk.nl
 mail.waterschaplimburg.nl
 mail.wodc.nl
 mail.zgw.rijkscloud.nl
@@ -8149,12 +8172,16 @@ mail1.acm.nl
 mail1.ec.rijkscloud.nl
 mail1.gn1.rijkscloud.nl
 mail1.gn3.rijkscloud.nl
+mail1.minbzk.nl
 mail2.acm.nl
 mail2.afm.nl
 mail2.dnb.nl
 mail2.ec.rijkscloud.nl
 mail2.filmfonds.nl
+mail2.minbzk.nl
 mail2.rvig.nl
+mail2.vno.minbzk.nl
+mail2.vnw.minbzk.nl
 mail230.brabant.nl
 mail231.brabant.nl
 mail240.brabant.nl
@@ -8386,8 +8413,11 @@ mfaservices.nl
 mft-acc.kb.nl
 mft-acc.svb.nl
 mft-api-ont.hetcak.nl
+mft-e.minbzk.nl
+mft-i.minbzk.nl
 mft-prd.svb.nl
 mft.kb.nl
+mft.minbzk.nl
 mft.protocol.mfaservices.nl
 mft.webftp.dictu.nl
 mg.chm-cbd.net
@@ -8629,6 +8659,7 @@ min1.ncsc.nl
 min2.ncsc.nl
 min3.ncsc.nl
 mina-el-teniente-codelco-geo-usach.hub.arcgis.com
+minbzk.nl
 minio.datafabriek.ienw.rijkscloud.nl
 minio.ddd.test.cloud.kadaster.nl
 minio.dev-datafabriek.ienw.rijkscloud.nl
@@ -9122,6 +9153,7 @@ ns1.fa.knaw.nl
 ns1.gslb.dictu.nl
 ns1.gslb.landelijkemeldkamer.org
 ns1.gslbp.landelijkemeldkamer.org
+ns1.minbzk.nl
 ns1.rekenkamer.nl
 ns1.scp.nl
 ns1.svb.nl
@@ -9132,6 +9164,7 @@ ns2.ec.rijkscloud.nl
 ns2.gslb.dictu.nl
 ns2.gslb.landelijkemeldkamer.org
 ns2.gslbp.landelijkemeldkamer.org
+ns2.minbzk.nl
 ns2.scp.nl
 ns2.svb.nl
 ns3.belastingdienst.nl
@@ -9812,10 +9845,12 @@ overzicht.cbs.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 owa.contactpuntbouwproducten.nl
+owa.minbzk.nl
 oxfordartonline.com.access.authkb.kb.nl
 p-bbox-encr-tvs.rvo.nl
 p-bbox-sign-tvs.rvo.nl
 p-crl.justid.nl
+p-direkt.minbzk.nl
 p-direkt.nl
 p.knawonderwijsprijs.nl
 p285st201.utsjaca01.belastingdienst.nl
@@ -10463,6 +10498,7 @@ printservice-color.kadaster.nl
 printservice-plotter1.kadaster.nl
 printservice-plotter2.kadaster.nl
 prisma.kennisplatformondermijning.nl
+prisma.minbzk.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
 privacy.jeugdconnect.nl
@@ -10626,6 +10662,9 @@ psproxy.belastingdienst.nl
 pt-i.espacenet.com
 pt.espacenet.com
 pts31.dans.knaw.nl
+ptw.minbzk.nl
+ptw1.minbzk.nl
+ptw2.minbzk.nl
 public-acc.ep-online.nl
 public-acc1.ep-online.nl
 public-preprod.ep-online.nl
@@ -10729,6 +10768,7 @@ rat.belastingdienst.nl
 rathenau.idp.knaw.nl
 ravib.so.rijkscloud.nl
 rb.rvb.rijkscloud.nl
+rbl-talent.minbzk.nl
 rc01.dh.huc.knaw.nl
 rc02.dh.huc.knaw.nl
 rc03.dh.huc.knaw.nl
@@ -10782,6 +10822,7 @@ reconi-etoegang-pp.sso.eherkenning.nl
 reconi-etoegang-tst.sso.eherkenning.nl
 reconi-etoegang.sso.eherkenning.nl
 recranet-api.logerenbijdeboswachter.nl
+red.minbzk.nl
 redactie-acc.cbs.nl
 redactie-test.cbs.nl
 redactie-tl.iplo.nl
@@ -10902,6 +10943,7 @@ remote.flevoland.nl
 remote.hhdelfland.nl
 remote.letterenfonds.nl
 remote.services.acm.nl
+remoteaccess.rgd.minbzk.nl
 remoteaccess1.eerstekamer.nl
 remoteaccess2.eerstekamer.nl
 remoteaccess3.eerstekamer.nl
@@ -11364,6 +11406,8 @@ sdg.rijksoverheid.nl
 sdgapi.ondernemersplein.overheid.nl
 sdm.igj.nl
 sdm.ilent.nl
+sdm.minbzk.nl
+sdm.p-direkt.minbzk.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
 sdmx-dataviewer.cbs.nl
@@ -11619,7 +11663,11 @@ sip.emissieautoriteit.nl
 sip.justid.nl
 sip.kiesraad.nl
 sip.lbio.nl
+sip.minbzk.nl
+sip.myroom.minbzk.nl
+sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
+sip.p-direkt.minbzk.nl
 sip.rijksrecherche.nl
 sip.rvig.nl
 sip.vico.dji.nl
@@ -12244,6 +12292,13 @@ tbbb.tib-ivd.nl
 tbserver.dev.kvk.nl
 tbserver.kvk.nl
 tbserver.npo.kvk.nl
+tcs0201-server.minbzk.nl
+tcs0202-server.minbzk.nl
+tcs0203-server.minbzk.nl
+tcs0204-server.minbzk.nl
+tcs0206-rvb-r8.minbzk.nl
+tcs0207-rvb-kk4.minbzk.nl
+tcs0215-rvb-kk4.minbzk.nl
 td.chm-cbd.net
 tdd31.dans.knaw.nl
 tdvnl.dans.knaw.nl
@@ -12432,6 +12487,7 @@ test.metspoedbeschikbaar.nl
 test.mgo.irealisatie.nl
 test.mi-cert.nl
 test.milieuzones.nl
+test.minbzk.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.naamswijziging.justis.nl
 test.natura2000.nl
@@ -13107,6 +13163,8 @@ vm-ivra.ndw.nu
 vmanage02.ksh.kadaster.nl
 vnacs.nl
 vng.databank.nl
+vno.minbzk.nl
+vnw.minbzk.nl
 vo-rijk-acc.cjib.nl
 vocabs.cbs.nl
 vog.jeugdconnect.nl
@@ -13251,6 +13309,7 @@ vulnerabilities.acc.ncsc.nl
 vulnerabilities.ncsc.nl
 vulnerabilities.test.ncsc.nl
 vuurwerk.domeinenrz.nl
+vz.minbzk.nl
 vzinfo.nl
 w3acc.dnb.nl
 w3dev.dnb.nl
@@ -13364,6 +13423,7 @@ webapps.belastingdienst.nl
 webcast.brabant.nl
 webchat.belastingdienst.nl
 webchat.klopt.cibg.nl
+webcon1.minbzk.nl
 webconf.lbio.nl
 webconf2.vechtstromen.nl
 webdiensten-acc1.belastingdienst.nl
@@ -13434,6 +13494,7 @@ webmail.leidraadse.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
+webmail.rgd.minbzk.nl
 webmail.rijkscloud.nl
 webmail.rijksdienstcn.com
 webmail.rijkswaterstaat.nl
@@ -13444,6 +13505,7 @@ webmail.test.knaw.nl
 webmail.tib-ivd.nl
 webmail.werkenvoornederland.nl
 webmaila2.kb.nl
+webmeeting.minbzk.nl
 webredactie.caop.nl
 webserver.cbs.nl
 webservice-acc.energiebesparingsverkenner.rvo.nl
@@ -13628,6 +13690,7 @@ wikixl-saml.acceptatie.kadaster.nl
 wikixl-saml.acceptatie.waterschaplimburg.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.kadaster.nl
+wikixl-saml.minbzk.nl
 wikixl-saml.test.cultureelerfgoed.nl
 wiltshire-council-open-data-hub-wiltscouncil.hub.arcgis.com
 windlansingerland.zuid-holland.nl
@@ -13638,6 +13701,7 @@ wio.ilent.nl
 wiob.ilent.nl
 wireframes.kcb.nl
 wireless.nza.nl
+wireless.rgd.minbzk.nl
 wist-fpi.hhdelfland.nl
 wkr.nl
 wlan-selfservice.kadaster.nl
@@ -14694,6 +14758,7 @@ www.mijnpgb.nl
 www.mijnslachtofferzaak.nl
 www.mijnwlzaanvraag.ciz.nl
 www.milieuzones.nl
+www.minbzk.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
 www.momfer.meertens.knaw.nl
@@ -14957,6 +15022,7 @@ www.verhalenoverdeoorlog.nl
 www.versterkencyberweerbaarheid.nl
 www.verwer.nin.knaw.nl
 www.veterinairtuchtcollege.nl
+www.videos.minbzk.nl
 www.viewer.globio.info
 www.vnacs.nl
 www.volkshuisvestingnederland.nl

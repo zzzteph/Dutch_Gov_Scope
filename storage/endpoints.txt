@@ -1316,6 +1316,7 @@ https://acc-dictu.forumstandaardisatie.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
 https://acc-dictu.toegankelijkheidsverklaring.nl
+https://acc-flowlogics.minbzk.nl
 https://acc-geo.rijkswaterstaat.nl
 https://acc-insights.mfaservices.nl
 https://acc-internationaal.ondernemen.overheid.nl
@@ -4092,6 +4093,7 @@ https://flair-demo.flevoland.nl
 https://flevoland.leerwerkloket.nl
 https://flevoland.lerenenwerken.nl
 https://flevoland.nl
+https://flowlogics.minbzk.nl
 https://flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 https://fme.hdsr.nl
 https://fmhaaglanden.nl
@@ -4277,6 +4279,8 @@ https://gids-frontoffice.acc.cloudservices.kb.nl
 https://gids-frontoffice.cloudservices.kb.nl
 https://gima.cloud.kadaster.nl
 https://gima.test.cloud.kadaster.nl
+https://gip-a.minbzk.nl
+https://gip.minbzk.nl
 https://gipdatabank.nl
 https://gird.cloud.kadaster.nl
 https://gis-covalent.hub.arcgis.com
@@ -5132,6 +5136,7 @@ https://lmr-zuid.test.gf.irealisatie.nl
 https://lms.leerportaalienw.nl
 https://lo-ad.acc.mgo.irealisatie.nl
 https://lo-ad.test.mgo.irealisatie.nl
+https://loc.minbzk.nl
 https://locatiescan.kvk.nl
 https://locationservices6.arcgis.com
 https://locationservices6.az-int.arcgis.com
@@ -5437,6 +5442,7 @@ https://metenvanduurzaamheid.nl
 https://metrics.ivopzee.nl
 https://metspoedbeschikbaar.nl
 https://mft-acc.svb.nl
+https://mft-e.minbzk.nl
 https://mft-prd.svb.nl
 https://mft.kb.nl
 https://mft.webftp.dictu.nl
@@ -5543,6 +5549,7 @@ https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
 https://milieuzones.nl
 https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
+https://minbzk.nl
 https://minio.ddd.test.cloud.kadaster.nl
 https://minioapi2.labs.dans.knaw.nl
 https://mirtoverzicht.nl
@@ -6394,6 +6401,7 @@ https://primos.databank.nl
 https://primosinteractief.databank.nl
 https://primostijdreeks.databank.nl
 https://prisma.kennisplatformondermijning.nl
+https://prisma.minbzk.nl
 https://privaat.octomon.ncsc.nl
 https://privacy.jeugdconnect.nl
 https://privacy.kennisplatformondermijning.nl
@@ -6539,6 +6547,7 @@ https://rapporteursnet.nifp.nl
 https://ras-acc.nvwa.nl
 https://ras.nvwa.nl
 https://rb.rvb.rijkscloud.nl
+https://rbl-talent.minbzk.nl
 https://rcgog.nl
 https://rcihh.nl
 https://rd1.toegang.overheid.nl
@@ -7918,6 +7927,7 @@ https://wikixl-saml.acceptatie.kadaster.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.kadaster.nl
+https://wikixl-saml.minbzk.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://wiltshire-council-open-data-hub-wiltscouncil.hub.arcgis.com
 https://windlansingerland.zuid-holland.nl
@@ -8756,6 +8766,7 @@ https://www.mijnpgb.nl
 https://www.mijnslachtofferzaak.nl
 https://www.mijnwlzaanvraag.ciz.nl
 https://www.milieuzones.nl
+https://www.minbzk.nl
 https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl
 https://www.monarchy-in-turmoil.huygens.knaw.nl
