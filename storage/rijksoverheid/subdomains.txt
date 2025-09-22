@@ -1122,6 +1122,7 @@ acc-auth2.mfaservices.nl
 acc-biometric-service.consular.mfaservices.nl
 acc-biometricservice.mfaservices.nl
 acc-bvrin.minbzk.nl
+acc-bvrin.minszw.nl
 acc-ccb.cbs.nl
 acc-cms.digid.nl
 acc-cms.projecten.rvo.nl
@@ -1715,6 +1716,7 @@ adressen.keringhuis.nl
 adressering.proeftuin.gf.irealisatie.nl
 adressering.test.gf.irealisatie.nl
 adronderzoek.nl
+adselfservice.extern.minszw.nl
 adu-text-amendment-slcgov.hub.arcgis.com
 aduniverse-seattlecitygis.hub.arcgis.com
 adviescollegeicttoetsing.nl
@@ -2494,6 +2496,7 @@ autodiscover.lvnl.nl
 autodiscover.maror.nl
 autodiscover.meertens.knaw.nl
 autodiscover.minienm.nl
+autodiscover.minszw.nl
 autodiscover.ndw.nu
 autodiscover.nias.knaw.nl
 autodiscover.nin.knaw.nl
@@ -3239,6 +3242,7 @@ bvinet.douane.nl
 bvlfls.knmi.nl
 bvpn.ncsc.nl
 bvrin.minbzk.nl
+bvrin.minszw.nl
 bvs.belastingdienst.nl
 bvz-waves.databank.nl
 bvz.waves.databank.nl
@@ -3289,6 +3293,8 @@ cams-lacounty.hub.arcgis.com
 canhui.github.io
 cannabisbureau.nl
 canyon-comeback-marioncounty.hub.arcgis.com
+cao.minszw.nl
+caobank.minszw.nl
 caop.nl
 caopmgw01.caop.nl
 caorijk.nl
@@ -3460,6 +3466,8 @@ ceph-prx5.gn3.rijkscloud.nl
 ceph-prx6.gn3.rijkscloud.nl
 cerberus.cbs.nl
 ceremonial-conveyances-austin.hub.arcgis.com
+ceres.intra.minszw.nl
+ceres.minszw.nl
 cert.nl
 cert.test2gbav.belastingdienst.nl
 certificate.knaw.nl
@@ -3674,6 +3682,7 @@ cms.digid.nl
 cms.dsta.nl
 cms.farmacotherapeutischkompas.nl
 cms.filmfonds.nl
+cms.gemeenteloket.minszw.nl
 cms.hhdelfland.nl
 cms.intranet.minienm.nl
 cms.intranet.minienw.nl
@@ -3682,6 +3691,7 @@ cms.knaw.nl
 cms.knmi.nl
 cms.mensenrechten.nl
 cms.minienm.nl
+cms.o.extern.minszw.nl
 cms.platformrijksoverheid.nl
 cms.projects.rvo.nl
 cms.rijksoverheid.nl
@@ -3815,6 +3825,7 @@ conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.gebruikercentraal.nl
 conference.jitsi.rijkscloud.nl
 confluence.cpb.nl
+confluence.extern.minszw.nl
 confluence.knmi.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
@@ -3944,6 +3955,11 @@ cpcontacts.farmingthefuture.nl
 cpcontacts.globio.info
 cpcontacts.seb.ibki.nl
 cpd.bureau.knaw.nl
+cpe-a.extern.minszw.nl
+cpe-o.extern.minszw.nl
+cpe-t.extern.minszw.nl
+cpe-tst.extern.minszw.nl
+cpe.extern.minszw.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
 cpps.brepolis.net.access.authkb.kb.nl
@@ -3970,6 +3986,7 @@ crm.cbi.eu
 crm.cultuurparticipatie.nl
 crm.erp.kadaster.nl
 crm.nza.nl
+crm.o.extern.minszw.nl
 crmacc.cbi.eu
 crmtest.cbi.eu
 crow.databank.nl
@@ -4077,6 +4094,7 @@ dashboard.burgernet.nl
 dashboard.digitoegankelijk.nl
 dashboard.geldlessen.nl
 dashboard.ikz.nl
+dashboard.o.extern.minszw.nl
 dashboardduurzaamheid.nl
 dashboardgroningen.nl
 dashboardklimaatbeleid.nl
@@ -4486,6 +4504,11 @@ dialin.om.nl
 dialin.prolander.nl
 dialin.rijksrecherche.nl
 dialin2.vechtstromen.nl
+diane-a.extern.minszw.nl
+diane-o.extern.minszw.nl
+diane-t.extern.minszw.nl
+diane-tst.extern.minszw.nl
+diane.extern.minszw.nl
 dictu.nl
 dictuext04.ymor.dictu.nl
 dictuext05.ymor.dictu.nl
@@ -4611,6 +4634,7 @@ dmo.geodoc.dso.kadaster.nl
 dmo.omgevingswet.overheid.nl
 dmo.ozon.dso.kadaster.nl
 dms.hhdelfland.nl
+dms.o.extern.minszw.nl
 dmzntp1.dictu.nl
 dmzntp2.dictu.nl
 dnadatabank.forensischinstituut.nl
@@ -4648,6 +4672,7 @@ docs.brba.eu
 docs.hansken.org
 docs.labs.dans.knaw.nl
 docs.lpc.logius.nl
+docs.minszw.nl
 docs.ndw.nu
 docs.openkat.nl
 docs.rijkscloud.nl
@@ -4831,6 +4856,7 @@ dvrvb-gui-acc.rvb.rijkscloud.nl
 dvrvb-gui-dev.devops.rvb.rijkscloud.nl
 dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
+dvs-qas.minszw.nl
 dvu.rvo.nl
 dwangindezorg.nl
 dwc.huygens.knaw.nl
@@ -5339,6 +5365,7 @@ extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
 extern.ifv.nl
 extern.knmi.nl
+extern.minszw.nl
 externe-mail.knmi.nl
 externemail.cpb.nl
 externemail.ctgb.nl
@@ -5985,6 +6012,7 @@ gelijkloon.mensenrechten.nl
 geluidgegevens.nl
 geluidskaart.odmh.nl
 gembrp.belastingdienst.nl
+gemeenteloket.minszw.nl
 gemeenten-a.svb.nl
 gemeenten.svb.nl
 gemhofvanjustitie.org
@@ -6160,6 +6188,7 @@ gitlab.dictu.nl
 gitlab.docdirekt.rijkscloud.nl
 gitlab.ds-ocw.rijkscloud.nl
 gitlab.dstrial-inspectieraad.rijkscloud.nl
+gitlab.extern.minszw.nl
 gitlab.gn2.rijkscloud.nl
 gitlab.gn3.rijkscloud.nl
 gitlab.huc.knaw.nl
@@ -6255,6 +6284,7 @@ gr-i.espacenet.com
 gr.espacenet.com
 grafana-az1.lpc.logius.nl
 grafana-az2.lpc.logius.nl
+grafana.extern.minszw.nl
 grafana.ix.rijkscloud.nl
 grafana.lpc.logius.nl
 granvillecounty.maps.arcgis.com
@@ -6672,6 +6702,7 @@ ilent.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 im.di.huc.knaw.nl
+im.o.extern.minszw.nl
 ima-princeton-edu.access.authkb.kb.nl
 imaer.aerius.nl
 image.email.kvk.nl
@@ -7039,6 +7070,7 @@ jip.inspectie-jenv.nl
 jira-acc.dictu.nl
 jira-poc.duo.rijkscloud.nl
 jira.dictu.nl
+jira.extern.minszw.nl
 jira.knmi.nl
 jira.rijksoverheid.nl
 jiraimg-acc.rvo.nl
@@ -7643,6 +7675,7 @@ kta.geodoc.dso.kadaster.nl
 kta.ozon.dso.kadaster.nl
 ktv-servicedesk.ciz.nl
 kvk.nl
+kvk.o.extern.minszw.nl
 kvkdata.kvk.nl
 kvkdataservice.afm.nl
 kvkhuurtin.nl
@@ -7869,6 +7902,7 @@ lod.duo.nl
 lod.kb.nl
 loganms.github.io
 logerenbijdeboswachter.nl
+logging.o.extern.minszw.nl
 logging.platformrijksoverheid.nl
 loggingbe.huygens.knaw.nl
 login-a.rvb.rijkscloud.nl
@@ -7936,6 +7970,7 @@ loketduurzaameten.nl
 loketgentherapie.nl
 loketgezondleven.nl
 loketkennisveiligheid.nl
+loki.extern.minszw.nl
 longread.brabant.nl
 longreads.cbs.nl
 loonaangifteketen.nl
@@ -8431,6 +8466,7 @@ merkportaal.dnb.nl
 merkportaal.e-tol.nl
 merkportaal.kb.nl
 messagebox.test.ggdcontact.irealisatie.nl
+messagebroker.minszw.nl
 mestobb.maps.arcgis.com
 metabase.cultuurparticipatie.nl
 metadata-b.test.zm.irealisatie.nl
@@ -8748,6 +8784,7 @@ minioapi.labs.dans.knaw.nl
 minioapi2.labs.dans.knaw.nl
 minjenv-events.nl
 minprd2.api.ix.rijkscloud.nl
+minszw.nl
 mintst2.api.ix.rijkscloud.nl
 mirt2016.mirtoverzicht.nl
 mirtoverzicht.nl
@@ -9105,6 +9142,7 @@ nexus-docker.aerius.nl
 nexus.aerius.nl
 nexus.cvm.rijkscloud.nl
 nexus.devops.rvb.rijkscloud.nl
+nexus.extern.minszw.nl
 nexus.lpc.logius.nl
 nexus.test.ix.rijkscloud.nl
 ngr.acceptatie.nationaalgeoregister.nl
@@ -9503,6 +9541,8 @@ ontwikkel.sapgw.minienw.nl
 ontwikkel.uzipas.auth.dezi.nl
 ontwikkel.uzipas.dezi.nl
 ontwikkelserver.eerstekamer.nl
+onva-3f.minszw.nl
+onvp-3f.minszw.nl
 oogop.zuid-holland.nl
 oordelen.mensenrechten.nl
 oos-p1.coa.nl
@@ -10424,6 +10464,7 @@ portaal.kcb.nl
 portaal.lbio.nl
 portaal.ncpeh.nl
 portaal.nlarbeidsinspectie.nl
+portaal.o.extern.minszw.nl
 portaal.prolander.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
@@ -10614,6 +10655,7 @@ probeer.ihw.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 prod-cms.digid.nl
+prod-diane-exact.minszw.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.digitoegankelijk.nl
 prod-dictu.eherkenning.nl
@@ -10623,6 +10665,7 @@ prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
 prod-nl-dictu-dkb-sign.dictu.nl
 prod-nl-nvwa-dkb-sign.dictu.nl
+prod-venus-exact.minszw.nl
 prod.amice.lma.nl
 prod.architectwebservice.architectenregister.nl
 prod.asbestvolgsysteem.nl
@@ -10646,6 +10689,7 @@ prod.nl-alert.nl
 prod.radar.rdi.nl
 prod.rvig.nl
 prod.rvo.nl
+prod.signing.bizagi-cloud.minszw.nl
 prod.sq.mfaservices.nl
 prod.timbuctoo.red.huygens.knaw.nl
 prod.tlokb.nl
@@ -10692,6 +10736,7 @@ projects.rvo.nl
 prolander.nl
 prometheus.gn3.rijkscloud.nl
 promise.nioo.knaw.nl
+promtail.extern.minszw.nl
 promtoolbox.zorginzicht.nl
 prosecutionservice.nl
 protide.rijkswaterstaat.nl
@@ -10779,6 +10824,7 @@ publicaties.rvig.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
 publieksvragen-en-signalen.cvdm.nl
+publisher.extern.minszw.nl
 publishing.rosetta-a.kb.nl
 publishing.rosetta-t.kb.nl
 publishing.rosetta.kb.nl
@@ -10989,6 +11035,7 @@ registry-mw.staging.dmi-ecosysteem.nl
 registry.acceptatie.istandaarden.nl
 registry.dev.kvk.nl
 registry.dmi-ecosysteem.nl
+registry.extern.minszw.nl
 registry.git.ivho.rijkscloud.nl
 registry.git.oai.rijkscloud.nl
 registry.gitlab.analyse.ilt.rijkscloud.nl
@@ -11513,6 +11560,7 @@ sdm.igj.nl
 sdm.ilent.nl
 sdm.minbzk.nl
 sdm.minienw.nl
+sdm.minszw.nl
 sdm.p-direkt.minbzk.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
@@ -11736,6 +11784,7 @@ si-i.espacenet.com
 si.espacenet.com
 siam.cjib.nl
 siam.duo.nl
+siam.minszw.nl
 siam.rvo.nl
 sib-eopg-acc.aivd.nl
 sib-eopg.aivd.nl
@@ -11778,8 +11827,10 @@ sip.lbio.nl
 sip.minbzk.nl
 sip.minienm.nl
 sip.minienw.nl
+sip.minszw.nl
 sip.myroom.minbzk.nl
 sip.myroom.minienw.nl
+sip.myroom.minszw.nl
 sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl
@@ -11920,6 +11971,7 @@ sollicitanten.ictu.nl
 solliciteer-direct.kvk.nl
 sonar-lts.test.ix.rijkscloud.nl
 sonar.devops.rvb.rijkscloud.nl
+sonar.extern.minszw.nl
 sonar.ix.rijkscloud.nl
 sonar.ndw.nu
 sonarqube-2.devops.rvb.rijkscloud.nl
@@ -12208,6 +12260,7 @@ status.pre.omgevingswet.overheid.nl
 status.proeftuin.gf.irealisatie.nl
 status.rijkscloud.nl
 status.test.gf.irealisatie.nl
+statuschecker.extern.minszw.nl
 stc.ilent.nl
 stclairco.maps.arcgis.com
 stcrtin-acc.overheid.nl
@@ -12279,6 +12332,7 @@ stubs-t2.digid.nl
 stubs.lpc.mijn.overheid.nl
 stubs.tst.belastingdienst.nl
 studentcoach.rijnmond.leerwerkloket.nl
+studio.extern.minszw.nl
 styleguide.cibg.nl
 sub.gezondekinderopvang.nl
 sub.gezondeschool.nl
@@ -12470,6 +12524,7 @@ test-cmsintranet.scp.nl
 test-cmsintranet.svb.nl
 test-connect.aerius.nl
 test-developer.stopheling.nl
+test-diane-exact.minszw.nl
 test-dictu.comcms.logius.nl
 test-dictu.digitoegankelijk.nl
 test-dictu.eherkenning.nl
@@ -12508,6 +12563,7 @@ test-register.aerius.nl
 test-scenario.aerius.nl
 test-tno.bronhouderportaal-bro.nl
 test-veiligheidsregio.lcms.nl
+test-venus-exact.minszw.nl
 test-vpn.kadaster.nl
 test-waterschappen.lcms.nl
 test-website.rvo.nl
@@ -12659,6 +12715,7 @@ testapp.devops.rvb.rijkscloud.nl
 testauthentication.di.huc.knaw.nl
 testbegrippen.hdsr.nl
 testbijdrukte.coronatest.nl
+testcao.minszw.nl
 testcloud.cvte.nl
 testconn.ctgb.nl
 testconn.knmi.nl
@@ -12687,6 +12744,7 @@ testreporter-a.secure.cito.nl
 testreporter.secure.cito.nl
 tests.constructieplatform.cito.nl
 testserver.osb.kvk.nl
+testsiam.minszw.nl
 testtunnelmdm.flevoland.nl
 testuitslagen.coronatest.nl
 testvfrchart.lvnl.nl
@@ -12981,6 +13039,7 @@ uae-air-quality-index-fcsa.hub.arcgis.com
 uag.cbs.nl
 uag.duo.nl
 uag.ncsc.nl
+uaw.minszw.nl
 ubuntunginxtest.secure.cito.nl
 uc.sa.svb.nl
 uchiwa.minions.rijkscloud.nl
@@ -13046,6 +13105,7 @@ usernamesalah.github.io
 usw2-geocode.arcgis.com
 utah-county-data-sharing-hub-utahcounty.hub.arcgis.com
 utah-fire-info-utahdnr.hub.arcgis.com
+utility.extern.minszw.nl
 utils.kennisplein.intranet.minienm.nl
 utoronto.maps.arcgis.com
 utrecht.leerwerkloket.nl
@@ -13712,6 +13772,7 @@ wenjiaba.github.io
 wereldzaken.rvo.nl
 werkaanuitvoering.nl
 werkbezoek.minienw.nl
+werkbezoek.minszw.nl
 werkelijkeschade.nl
 werken.belastingdienst.nl
 werken.cjib.nl
@@ -13817,7 +13878,33 @@ wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.kadaster.nl
 wikixl-saml.minbzk.nl
 wikixl-saml.test.cultureelerfgoed.nl
+wildfly-a.extern.minszw.nl
+wildfly-o.extern.minszw.nl
+wildfly-t.extern.minszw.nl
+wildfly-tst.extern.minszw.nl
+wildfly.extern.minszw.nl
 wiltshire-council-open-data-hub-wiltscouncil.hub.arcgis.com
+win0647vm.extern.minszw.nl
+win0719vm.extern.minszw.nl
+win0762vm.extern.minszw.nl
+win2752vm.extern.minszw.nl
+win2753vm.extern.minszw.nl
+win2754vm.extern.minszw.nl
+win2755vm.extern.minszw.nl
+win2988vm.extern.minszw.nl
+win2989vm.extern.minszw.nl
+win2990vm.extern.minszw.nl
+win2991vm.extern.minszw.nl
+win4017vm.extern.minszw.nl
+win4018vm.extern.minszw.nl
+win4019vm.extern.minszw.nl
+win4020vm.extern.minszw.nl
+win4021vm.extern.minszw.nl
+win4022vm.extern.minszw.nl
+win4023vm.extern.minszw.nl
+win4024vm.extern.minszw.nl
+win7567.extern.minszw.nl
+win7568.extern.minszw.nl
 windlansingerland.zuid-holland.nl
 windopzee.nl
 windviewer.rvo.nl
@@ -14562,6 +14649,7 @@ www.gelderland.databank.nl
 www.geldlessen.nl
 www.gelijke-kansen.nl
 www.geluidgegevens.nl
+www.gemeenteloket.minszw.nl
 www.gemhofvanjustitie.org
 www.geneesmiddeleninformatiebank.nl
 www.geobasisregistraties.nl
@@ -14889,6 +14977,7 @@ www.mindef-vio.nl
 www.minienm.nl
 www.minienw.nl
 www.minjenv-events.nl
+www.minszw.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
 www.momfer.meertens.knaw.nl
