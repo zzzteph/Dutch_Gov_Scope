@@ -1340,6 +1340,7 @@ acc.rd.dictu.nl
 acc.resources.huygens.knaw.nl
 acc.rvig.nl
 acc.rvo.nl
+acc.service.mpn.minienm.nl
 acc.spaceweather.knmi.nl
 acc.staging.justitieconnect.nl
 acc.statistiek.digid.nl
@@ -1500,6 +1501,7 @@ acceptatie.gezondeschool.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.ictu.nl
 acceptatie.isis-web.nl
+acceptatie.isms.minienm.nl
 acceptatie.istandaarden.nl
 acceptatie.kennisplatform.nl
 acceptatie.klinieken.donorgegevens.nl
@@ -2486,6 +2488,7 @@ autodiscover.landelijkemeldkamer.org
 autodiscover.lvnl.nl
 autodiscover.maror.nl
 autodiscover.meertens.knaw.nl
+autodiscover.minienm.nl
 autodiscover.ndw.nu
 autodiscover.nias.knaw.nl
 autodiscover.nin.knaw.nl
@@ -2648,6 +2651,7 @@ balieportaal.digid.nl
 banaan.acm.nl
 banaan.services.acm.nl
 bankdataretrievalportal.nl
+banking.minienm.nl
 bao-services.acc-consular.mfaservices.nl
 bao-services.consular.mfaservices.nl
 bao-services.dev-consular.mfaservices.nl
@@ -2689,6 +2693,7 @@ bcld-config.nl
 bcrpwt.knmi.nl
 bcsorf.knmi.nl
 bcstat-bc-gis.hub.arcgis.com
+bct.csp.minienm.nl
 bdagov.maps.arcgis.com
 bdkh-bdkh.hub.arcgis.com
 bdmuseum.nl
@@ -3664,10 +3669,12 @@ cms.dsta.nl
 cms.farmacotherapeutischkompas.nl
 cms.filmfonds.nl
 cms.hhdelfland.nl
+cms.intranet.minienm.nl
 cms.jeugdconnect.nl
 cms.knaw.nl
 cms.knmi.nl
 cms.mensenrechten.nl
+cms.minienm.nl
 cms.platformrijksoverheid.nl
 cms.projects.rvo.nl
 cms.rijksoverheid.nl
@@ -3973,12 +3980,14 @@ csaf.data.security.ncsc.nl
 csaf.data.security.test.ncsc.nl
 cse.maps.arcgis.com
 csirtdsp.nl
+csm.minienm.nl
 csoacct.functiegebouwrijksoverheid.nl
 csoacct.ikwerkvoornederland.nl
 csoacct.werkenvoornederland.nl
 csotest.functiegebouwrijksoverheid.nl
 csotest.ikwerkvoornederland.nl
 csotest.werkenvoornederland.nl
+csp.minienm.nl
 cspe-app.cito.nl
 css.openstad.zuid-holland.nl
 cst-syslog.test.cloud.kadaster.nl
@@ -4217,6 +4226,7 @@ dc.autoriteitpersoonsgegevens.nl
 dc.ssc-ict.nl
 dcat-ap-donl.nl
 dcc-ienw.nl
+dcc.minienm.nl
 dcdb01.knaw.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
@@ -4618,6 +4628,8 @@ dns3.acm.nl
 dns4.acm.nl
 dnsa3.cbs.nl
 dnsa4.cbs.nl
+dnwxip.saphttp.minienm.nl
+dnwxiq.saphttp.minienm.nl
 doc-acc.bronhouderportaal-bro.nl
 doc.arcgis.com
 doc.bronhouderportaal-bro.nl
@@ -5167,6 +5179,7 @@ epmmsen01.autoriteitpersoonsgegevens.nl
 epmmsen02.acpt.autoriteitpersoonsgegevens.nl
 epmmsen02.autoriteitpersoonsgegevens.nl
 eprints02.knaw.nl
+epublicatie.minienm.nl
 equal-life.eu
 equity-nyc.hub.arcgis.com
 eracceptatie.emissieregistratie.nl
@@ -5672,6 +5685,7 @@ file.ndw.nu
 files.buitenlevenvakanties.nl
 files.cultuurparticipatie.nl
 files.iplo.nl
+files.kennisplein.intranet.minienm.nl
 files.klimaatadaptatienederland.nl
 files.logerenbijdeboswachter.nl
 filesender.ctgb.nl
@@ -5854,9 +5868,15 @@ galerij.kb.nl
 galway-city-council-opendata-galwaycityco.hub.arcgis.com
 garima-ydv.github.io
 gasten.acm.nl
+gateway-acc.minienm.nl
+gateway-extern-acc.minienm.nl
+gateway-extern-pre.minienm.nl
+gateway-extern-sao.minienm.nl
+gateway-extern.minienm.nl
 gateway.afm.nl
 gateway.apim.acc.cloudservices.kb.nl
 gateway.cultuurparticipatie.nl
+gateway.minienm.nl
 gateway.test.ggdcontact.irealisatie.nl
 gatus.lpc.logius.nl
 gb-test.brabant.nl
@@ -6846,6 +6866,7 @@ intranet.justitieleictorganisatie.nl
 intranet.kansspelautoriteit.nl
 intranet.kbvg.nl
 intranet.knaw.nl
+intranet.minienm.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.nin.knaw.nl
 intranet.odijmond.nl
@@ -6858,6 +6879,7 @@ intranet.scp.nl
 intranet.svb.nl
 intranet.tst.toeslagen.nl
 intranet.vechtstromen.nl
+intranet14.minienm.nl
 intranet2.kadaster.nl
 intranetvan.rvo.nl
 intratst.belastingdienst.nl
@@ -6871,6 +6893,7 @@ invester-i-slagelse-startside-slagelse.hub.arcgis.com
 investerenin.zuid-holland.nl
 investeringsimpulsspv.nl
 investinholland.com
+invoermodule.kennisplein.intranet.minienm.nl
 inweva.ndw.nu
 inzenden.knawonderwijsprijs.nl
 iob-evaluatie.nl
@@ -6907,6 +6930,7 @@ ise.acm.nl
 ishetafval.nl
 isi.cbs.nl
 isis-web.nl
+isms.minienm.nl
 issues-acc.eherkenning.nl
 istandaarden.nl
 it-academieoverheid.nl
@@ -7443,6 +7467,7 @@ kennisopenbaarbestuur.nl
 kennisplatform.nl
 kennisplatformondermijning.nl
 kennisplatformwerkeninkomen.nl
+kennisplein.intranet.minienm.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 keringhuis.nl
@@ -7567,6 +7592,7 @@ koppelvlak.overheid.nl
 korea.dev.investinholland.com
 korea.investinholland.com
 kos.acp.kvk.nl
+kos.kennisplein.intranet.minienm.nl
 kos.kvk.nl
 kos.preprod.kvk.nl
 kostenkentallen.rvo.nl
@@ -8655,12 +8681,47 @@ mijnzakelijk2.acc.belastingdienst.nl
 mik-acpt.brabant.nl
 mik.brabant.nl
 milieuzones.nl
+mimbmp.sap.minienm.nl
+mimbmp.saphttp.minienm.nl
+mimbod.sap.minienm.nl
+mimbod.saphttp.minienm.nl
+mimbop.sap.minienm.nl
+mimbop.saphttp.minienm.nl
+mimboq.sap.minienm.nl
+mimboq.saphttp.minienm.nl
+mimbsp.saphttp.minienm.nl
+mimbwp.saphttp.minienm.nl
+mimdbw.saphttp.minienm.nl
+mimdec.saphttp.minienm.nl
+mimdip.saphttp.minienm.nl
+mimgfp.sap.minienm.nl
+mimgfq.sap.minienm.nl
+mimmpd.saphttp.minienm.nl
+mimmpp.saphttp.minienm.nl
+mimmpq.saphttp.minienm.nl
+mimmps.saphttp.minienm.nl
+mimpip.saphttp.minienm.nl
+mimqbw.saphttp.minienm.nl
+mimqec.sap.minienm.nl
+mimqec.saphttp.minienm.nl
+mimqip.saphttp.minienm.nl
+mimsec.sap.minienm.nl
+mimsec.saphttp.minienm.nl
+mimsmp.sap.minienm.nl
+mimsmp.saphttp.minienm.nl
+mimsmtp01.sapsmtp.minienm.nl
+mimsmtp02.sapsmtp.minienm.nl
+mimxid.saphttp.minienm.nl
+mimxip.saphttp.minienm.nl
+mimxiq.saphttp.minienm.nl
+mimxoq.sap.minienm.nl
 min1.ncsc.nl
 min2.ncsc.nl
 min3.ncsc.nl
 mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 minbzk.nl
 mindef-vio.nl
+minienm.nl
 minio.datafabriek.ienw.rijkscloud.nl
 minio.ddd.test.cloud.kadaster.nl
 minio.dev-datafabriek.ienw.rijkscloud.nl
@@ -8755,6 +8816,10 @@ moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
 moordzaak.om.nl
 moses.ont.belastingdienst.nl
+mpn-acc.minienm.nl
+mpn-pre.minienm.nl
+mpn-tst.minienm.nl
+mpn.minienm.nl
 mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
 mq.esb.rijkswaterstaat.nl
 mqtt.dataplatform.knmi.nl
@@ -10339,6 +10404,7 @@ portaal.nlarbeidsinspectie.nl
 portaal.prolander.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
+portaalsp.minienm.nl
 portainer.cultuurparticipatie.nl
 portal-a.cito.nl
 portal-a.secure.cito.nl
@@ -10390,6 +10456,8 @@ portalaccp.entreepgb.svb.nl
 portalaccp2.entreepgb.svb.nl
 portalco.formulierdus-i.nl
 portaldemo.entreepgb.svb.nl
+portaldirectiewegen-acc.minienm.nl
+portaldirectiewegen.minienm.nl
 portaleduc.entreepgb.svb.nl
 portalen.acceptatie.digipoort.logius.nl
 portalen.preproductie.digipoort.logius.nl
@@ -10440,6 +10508,7 @@ pre.document-viewer-api.dso.kadaster.nl
 pre.geodoc.dso.kadaster.nl
 pre.omgevingswet.overheid.nl
 pre.ozon.dso.kadaster.nl
+pre.service.mpn.minienm.nl
 prefect.labs.dans.knaw.nl
 preprod-belastingen.zuid-holland.nl
 preprod-iam.mijnoctrooi.mypage.rvo.nl
@@ -10679,6 +10748,7 @@ publicaties-tst.rvig.nl
 publicaties.afm.nl
 publicaties.brabant.nl
 publicaties.mensenrechten.nl
+publicaties.minienm.nl
 publicaties.odmh.nl
 publicaties.oud.mensenrechten.nl
 publicaties.rvig.nl
@@ -11027,6 +11097,7 @@ ret.databank.nl
 rev.emissieautoriteit.nl
 revi.incidentmanagement.nl
 review.developer.overheid.nl
+revoketestsp.minienm.nl
 revproxy.cbs.nl
 revproxy.herseninstituut.knaw.nl
 revproxy.nin.knaw.nl
@@ -11058,6 +11129,7 @@ rijksinspecties.nl
 rijkskantoorproxy.belastingdienst.nl
 rijksorganisatieodi.nl
 rijksoverheid.bouwbesluit.com
+rijksoverheid.minienm.nl
 rijksoverheid.nl
 rijksoverheidsvideo.nl
 rijkspas2ocsp.dictu.nl
@@ -11219,6 +11291,8 @@ rw.belastingdienst.nl
 rw.chm-cbd.net
 rw1.rijkscloud.nl
 rwbg.flevoland.nl
+rwbxip.saphttp.minienm.nl
+rwbxiq.saphttp.minienm.nl
 rwn.belastingdienst.nl
 rwo.dictu.nl
 rws-bic-p01.bics.nl
@@ -11284,6 +11358,9 @@ sap-pi-px1.belastingdienst.nl
 sap-pi-test.belastingdienst.nl
 sap-pi-tx1.belastingdienst.nl
 sap-pi.belastingdienst.nl
+sap.intranet.minienm.nl
+saphttp.minienm.nl
+sapportal.intranet.minienm.nl
 sar31.dans.knaw.nl
 sarasota.maps.arcgis.com
 sasbi-acc.ilent.nl
@@ -11493,6 +11570,7 @@ service.inte2e.omgevingswet.overheid.nl
 service.integratie.omgevingswet.overheid.nl
 service.integratie02.omgevingswet.overheid.nl
 service.intpatch.omgevingswet.overheid.nl
+service.mpn.minienm.nl
 service.nvwa.nl
 service.omgevingswet.overheid.nl
 service.pdok.cloud.kadaster.nl
@@ -11524,6 +11602,8 @@ services-acc.burgernet.nl
 services-acc.ep-online.nl
 services-acc.globalentry-rtp.nl
 services-acc1.ep-online.nl
+services-hprm-acc.minienm.nl
+services-hprm.minienm.nl
 services-preprod.ep-online.nl
 services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
@@ -11665,6 +11745,7 @@ sip.justid.nl
 sip.kiesraad.nl
 sip.lbio.nl
 sip.minbzk.nl
+sip.minienm.nl
 sip.myroom.minbzk.nl
 sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
@@ -11796,6 +11877,7 @@ soap.acceptatie.machtigen.digid.nl
 soap.machtigen.digid.nl
 soap.ontwikkel.machtigen.digid.nl
 soap.openbare-inspectieresultaten.nvwa.nl
+sociaalfonds.minienm.nl
 social.gov.nl
 social.overheid.nl
 socialestabiliteit.nl
@@ -11988,6 +12070,7 @@ startformuliertest.brabant.nl
 startmetdelen.nl
 startmetoesorichtlijnen.nl
 startpagina.rijkscloud.nl
+startpagina.sap.minienm.nl
 startportaal.belastingdienst.nl
 startportaal1.belastingdienst.nl
 startstopmelding-a.hhdelfland.nl
@@ -12799,6 +12882,7 @@ tst.onlineform.culture.gov.nl
 tst.opendata.nederlandwereldwijd.nl
 tst.osb.kvk.nl
 tst.protocol.mfaservices.nl
+tst.service.mpn.minienm.nl
 tst.staging.rijkswaterstaat.nl
 tst.staging.werkenbij.rijkswaterstaat.nl
 tst.subsidie.cultureelerfgoed.nl
@@ -12927,6 +13011,7 @@ usernamesalah.github.io
 usw2-geocode.arcgis.com
 utah-county-data-sharing-hub-utahcounty.hub.arcgis.com
 utah-fire-info-utahdnr.hub.arcgis.com
+utils.kennisplein.intranet.minienm.nl
 utoronto.maps.arcgis.com
 utrecht.leerwerkloket.nl
 utrecht.lerenenwerken.nl
@@ -13396,6 +13481,7 @@ web.huygens.knaw.nl
 web.kvk.nl
 web.mgcp.kadaster.nl
 web.mgcp.test.kadaster.nl
+web.minienm.nl
 web.proeftuin.gf.irealisatie.nl
 web.test.brba.nl
 web.test.dpr.irealisatie.nl
@@ -14197,6 +14283,7 @@ www.clo.nl
 www.clone.dmi-ecosysteem.nl
 www.clusterbuster.nl
 www.cms.gezondeschool.nl
+www.cms.minienm.nl
 www.cms1.acceptatie.kadaster.nl
 www.cms2.acceptatie.kadaster.nl
 www.cms2.test.kadaster.nl
@@ -14762,6 +14849,7 @@ www.mijnwlzaanvraag.ciz.nl
 www.milieuzones.nl
 www.minbzk.nl
 www.mindef-vio.nl
+www.minienm.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
 www.momfer.meertens.knaw.nl
@@ -14944,6 +15032,7 @@ www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
 www.slimmerreizen.zuid-holland.nl
 www.slimwatermanagement.nl
+www.sociaalfonds.minienm.nl
 www.socialestabiliteit.nl
 www.sodm.nl
 www.spamtitan.cbi.eu
@@ -14962,6 +15051,7 @@ www.staging.rijkswaterstaat.nl
 www.staging.werkenbij.rijkswaterstaat.nl
 www.startmetdelen.nl
 www.startmetoesorichtlijnen.nl
+www.startpagina.sap.minienm.nl
 www.statesmansyearbook.com.access.authkb.kb.nl
 www.stone.alterra.nl
 www.stopheling.nl
@@ -15190,6 +15280,7 @@ zoeken.diergeneeskunderegister.nl
 zoeken.diplomatieke-getuigenissen.huygens.knaw.nl
 zoeken.gratisvog.nl
 zoeken.hdsr.nl
+zoeken.kennisplein.intranet.minienm.nl
 zoeken.kvk.nl
 zoeken.ondernemersplein.overheid.nl
 zoeken.schoolleidersregisterpo.nl

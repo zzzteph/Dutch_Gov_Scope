@@ -1421,6 +1421,7 @@ https://acc.rd.dictu.nl
 https://acc.resources.huygens.knaw.nl
 https://acc.rvig.nl
 https://acc.rvo.nl
+https://acc.service.mpn.minienm.nl
 https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
@@ -2182,6 +2183,7 @@ https://bbm.databank.nl
 https://bcem-coronavirus-bentear.hub.arcgis.com
 https://bcld-config.nl
 https://bcstat-bc-gis.hub.arcgis.com
+https://bct.csp.minienm.nl
 https://bdagov.maps.arcgis.com
 https://bdkh-bdkh.hub.arcgis.com
 https://bdmuseum.nl
@@ -2987,6 +2989,7 @@ https://csoacct.werkenvoornederland.nl
 https://csotest.functiegebouwrijksoverheid.nl
 https://csotest.ikwerkvoornederland.nl
 https://csotest.werkenvoornederland.nl
+https://csp.minienm.nl
 https://cspe-app.cito.nl
 https://cst-syslog.test.cloud.kadaster.nl
 https://cst.kadaster.nl
@@ -3144,6 +3147,7 @@ https://dblogistiek.brandweer.nl
 https://dbpostgres.cultuurparticipatie.nl
 https://dcat-ap-donl.nl
 https://dcc-ienw.nl
+https://dcc.minienm.nl
 https://dcmp-upnl-idp.rvo.nl
 https://dcp-time-slot.cbg-meb.nl
 https://dcypher.nl
@@ -5551,6 +5555,7 @@ https://milieuzones.nl
 https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 https://minbzk.nl
 https://mindef-vio.nl
+https://minienm.nl
 https://minio.ddd.test.cloud.kadaster.nl
 https://minioapi2.labs.dans.knaw.nl
 https://mirtoverzicht.nl
@@ -5603,6 +5608,10 @@ https://monitorleefomgeving.zuid-holland.nl
 https://monitorwonen.flevoland.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://moordzaak.om.nl
+https://mpn-acc.minienm.nl
+https://mpn-pre.minienm.nl
+https://mpn-tst.minienm.nl
+https://mpn.minienm.nl
 https://mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
 https://mqtt.dataplatform.knmi.nl
 https://mr.chm-cbd.net
@@ -6369,6 +6378,7 @@ https://prd.atlasleefomgeving.nl
 https://prd.btp.sso3w.nl
 https://prd.consexponano.nl
 https://pre.omgevingswet.overheid.nl
+https://pre.service.mpn.minienm.nl
 https://prefect.labs.dans.knaw.nl
 https://preprod-belastingen.zuid-holland.nl
 https://preprod-machtigen.digipoort.logius.nl
@@ -6811,6 +6821,7 @@ https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
 https://sandbox.redactie.eerstekamer.nl
 https://sandbox.werkenvoornederland.nl
+https://sap.intranet.minienm.nl
 https://sarasota.maps.arcgis.com
 https://sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://saulorodrigocfs.github.io
@@ -6892,6 +6903,7 @@ https://service.inte2e.omgevingswet.overheid.nl
 https://service.integratie.omgevingswet.overheid.nl
 https://service.integratie02.omgevingswet.overheid.nl
 https://service.intpatch.omgevingswet.overheid.nl
+https://service.mpn.minienm.nl
 https://service.omgevingswet.overheid.nl
 https://service.pdok.cloud.kadaster.nl
 https://service.perf.omgevingswet.overheid.nl
@@ -6979,6 +6991,7 @@ https://snd.consular.mfaservices.nl
 https://snippet.clo.nl
 https://snow-cw.dictu.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl
+https://sociaalfonds.minienm.nl
 https://social.overheid.nl
 https://socialestabiliteit.nl
 https://socialmediamonitor.jeugdconnect.nl
@@ -7512,6 +7525,7 @@ https://tst.nww.mfaservices.nl
 https://tst.onlineform.culture.gov.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://tst.protocol.mfaservices.nl
+https://tst.service.mpn.minienm.nl
 https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tt.di.huc.knaw.nl
@@ -7798,6 +7812,7 @@ https://web.acc.mgo.irealisatie.nl
 https://web.acc.woo.irealisatie.nl
 https://web.b.ebscohost.com.access.authkb.kb.nl
 https://web.ertms.nl
+https://web.minienm.nl
 https://web.test.brba.nl
 https://web.test.dpr.irealisatie.nl
 https://web.test.mgo.irealisatie.nl
@@ -8770,6 +8785,7 @@ https://www.mijnwlzaanvraag.ciz.nl
 https://www.milieuzones.nl
 https://www.minbzk.nl
 https://www.mindef-vio.nl
+https://www.minienm.nl
 https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl
 https://www.monarchy-in-turmoil.huygens.knaw.nl
@@ -8918,6 +8934,7 @@ https://www.secure.cito.nl
 https://www.senternovem.databank.nl
 https://www.sharingknowledge.rvo.nl
 https://www.slimwatermanagement.nl
+https://www.sociaalfonds.minienm.nl
 https://www.socialestabiliteit.nl
 https://www.sodm.nl
 https://www.sportenbewegenincijfers.nl
@@ -8933,6 +8950,7 @@ https://www.staging.bdmuseum.nl
 https://www.staging.deweekvandecirculaireeconomie.nl
 https://www.startmetdelen.nl
 https://www.startmetoesorichtlijnen.nl
+https://www.startpagina.sap.minienm.nl
 https://www.statesmansyearbook.com.access.authkb.kb.nl
 https://www.stone.alterra.nl
 https://www.stopheling.nl
