@@ -1173,6 +1173,7 @@ acc-mft.acc-protocol.mfaservices.nl
 acc-mijn.cokz.nl
 acc-mijn.kadaster.nl
 acc-mijn.rvo.nl
+acc-newsroom.minienw.nl
 acc-nl-dictu-dkb-sign.dictu.nl
 acc-nl-dictu-nhr-sign.dictu.nl
 acc-nl-dictu-rijkspas.dictu.nl
@@ -1341,6 +1342,7 @@ acc.resources.huygens.knaw.nl
 acc.rvig.nl
 acc.rvo.nl
 acc.service.mpn.minienm.nl
+acc.service.mpn.minienw.nl
 acc.spaceweather.knmi.nl
 acc.staging.justitieconnect.nl
 acc.statistiek.digid.nl
@@ -1449,6 +1451,7 @@ acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.auth.dezi.nl
 acceptatie.authlab.dezi.nl
+acceptatie.bct.tsp.minienw.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
 acceptatie.behandel.diergeneeskunderegister.nl
@@ -1498,6 +1501,7 @@ acceptatie.formulieren.uziregister.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.gezondekinderopvang.nl
 acceptatie.gezondeschool.nl
+acceptatie.grccontrol.minienw.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.ictu.nl
 acceptatie.isis-web.nl
@@ -1706,6 +1710,7 @@ adopt-a-storm-drain-berkeley.hub.arcgis.com
 adopt-a-traffic-circle-berkeley.hub.arcgis.com
 adoptariver-trwdmaps.hub.arcgis.com
 adpqlikview.knaw.nl
+adresgids2.minienw.nl
 adressen.keringhuis.nl
 adressering.proeftuin.gf.irealisatie.nl
 adressering.test.gf.irealisatie.nl
@@ -2694,6 +2699,7 @@ bcrpwt.knmi.nl
 bcsorf.knmi.nl
 bcstat-bc-gis.hub.arcgis.com
 bct.csp.minienm.nl
+bct.tsp.minienw.nl
 bdagov.maps.arcgis.com
 bdkh-bdkh.hub.arcgis.com
 bdmuseum.nl
@@ -3670,6 +3676,7 @@ cms.farmacotherapeutischkompas.nl
 cms.filmfonds.nl
 cms.hhdelfland.nl
 cms.intranet.minienm.nl
+cms.intranet.minienw.nl
 cms.jeugdconnect.nl
 cms.knaw.nl
 cms.knmi.nl
@@ -5869,14 +5876,19 @@ galway-city-council-opendata-galwaycityco.hub.arcgis.com
 garima-ydv.github.io
 gasten.acm.nl
 gateway-acc.minienm.nl
+gateway-acc.minienw.nl
 gateway-extern-acc.minienm.nl
 gateway-extern-pre.minienm.nl
+gateway-extern-pre.minienw.nl
 gateway-extern-sao.minienm.nl
 gateway-extern.minienm.nl
+gateway-extern.minienw.nl
+gateway-pre.minienw.nl
 gateway.afm.nl
 gateway.apim.acc.cloudservices.kb.nl
 gateway.cultuurparticipatie.nl
 gateway.minienm.nl
+gateway.minienw.nl
 gateway.test.ggdcontact.irealisatie.nl
 gatus.lpc.logius.nl
 gb-test.brabant.nl
@@ -6867,6 +6879,7 @@ intranet.kansspelautoriteit.nl
 intranet.kbvg.nl
 intranet.knaw.nl
 intranet.minienm.nl
+intranet.minienw.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.nin.knaw.nl
 intranet.odijmond.nl
@@ -6880,6 +6893,7 @@ intranet.svb.nl
 intranet.tst.toeslagen.nl
 intranet.vechtstromen.nl
 intranet14.minienm.nl
+intranet14.minienw.nl
 intranet2.kadaster.nl
 intranetvan.rvo.nl
 intratst.belastingdienst.nl
@@ -8722,6 +8736,7 @@ mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 minbzk.nl
 mindef-vio.nl
 minienm.nl
+minienw.nl
 minio.datafabriek.ienw.rijkscloud.nl
 minio.ddd.test.cloud.kadaster.nl
 minio.dev-datafabriek.ienw.rijkscloud.nl
@@ -8817,9 +8832,12 @@ moodletst.vcdn.belastingdienst.nl
 moordzaak.om.nl
 moses.ont.belastingdienst.nl
 mpn-acc.minienm.nl
+mpn-acc.minienw.nl
 mpn-pre.minienm.nl
+mpn-pre.minienw.nl
 mpn-tst.minienm.nl
 mpn.minienm.nl
+mpn.minienw.nl
 mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
 mq.esb.rijkswaterstaat.nl
 mqtt.dataplatform.knmi.nl
@@ -9068,6 +9086,7 @@ new.deweekvandecirculaireeconomie.nl
 new.luchtvaartmeteo.nl
 new.mensenrechten.nl
 new.mijn.knmi.nl
+newsroom.minienw.nl
 newton-open-geo-data-newtonmagis.hub.arcgis.com
 next.huurcommissie.nl
 nextcloud.acc.irealisatie.nl
@@ -9471,12 +9490,14 @@ ontimegtw.ont.belastingdienst.nl
 ontw-kadatamobiel.kadaster.nl
 ontw-kadatawebservice.kadaster.nl
 ontw-mijn.kadaster.nl
+ontwik.sapgw.minienw.nl
 ontwikkel-wsjg.databank.nl
 ontwikkel.atlasleefomgeving.nl
 ontwikkel.atlasnatuurlijkkapitaal.nl
 ontwikkel.auth.dezi.nl
 ontwikkel.cbs.nl
 ontwikkel.machtigen.digid.nl
+ontwikkel.sapgw.minienw.nl
 ontwikkel.uzipas.auth.dezi.nl
 ontwikkel.uzipas.dezi.nl
 ontwikkelserver.eerstekamer.nl
@@ -10749,6 +10770,7 @@ publicaties.afm.nl
 publicaties.brabant.nl
 publicaties.mensenrechten.nl
 publicaties.minienm.nl
+publicaties.minienw.nl
 publicaties.odmh.nl
 publicaties.oud.mensenrechten.nl
 publicaties.rvig.nl
@@ -11097,6 +11119,7 @@ ret.databank.nl
 rev.emissieautoriteit.nl
 revi.incidentmanagement.nl
 review.developer.overheid.nl
+revoketestca.minienw.nl
 revoketestsp.minienm.nl
 revproxy.cbs.nl
 revproxy.herseninstituut.knaw.nl
@@ -11132,6 +11155,7 @@ rijksoverheid.bouwbesluit.com
 rijksoverheid.minienm.nl
 rijksoverheid.nl
 rijksoverheidsvideo.nl
+rijkspas.minienw.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
 rijkspascp-acc.extranet.dictu.nl
@@ -11200,6 +11224,7 @@ royalhonoursanddecorations.nl
 rp1.acc.federatieveservice.nl
 rp1.federatieveservice.nl
 rp1.tst.federatieveservice.nl
+rpa.minienw.nl
 rpnl-acc.dsolv.test.cloud.kadaster.nl
 rpnl-pil.dsolv.cloud.kadaster.nl
 rpnl-pro.dsolv.cloud.kadaster.nl
@@ -11485,6 +11510,7 @@ sdgapi.ondernemersplein.overheid.nl
 sdm.igj.nl
 sdm.ilent.nl
 sdm.minbzk.nl
+sdm.minienw.nl
 sdm.p-direkt.minbzk.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
@@ -11571,6 +11597,7 @@ service.integratie.omgevingswet.overheid.nl
 service.integratie02.omgevingswet.overheid.nl
 service.intpatch.omgevingswet.overheid.nl
 service.mpn.minienm.nl
+service.mpn.minienw.nl
 service.nvwa.nl
 service.omgevingswet.overheid.nl
 service.pdok.cloud.kadaster.nl
@@ -11603,7 +11630,9 @@ services-acc.ep-online.nl
 services-acc.globalentry-rtp.nl
 services-acc1.ep-online.nl
 services-hprm-acc.minienm.nl
+services-hprm-acc.minienw.nl
 services-hprm.minienm.nl
+services-hprm.minienw.nl
 services-preprod.ep-online.nl
 services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
@@ -11746,7 +11775,9 @@ sip.kiesraad.nl
 sip.lbio.nl
 sip.minbzk.nl
 sip.minienm.nl
+sip.minienw.nl
 sip.myroom.minbzk.nl
+sip.myroom.minienw.nl
 sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl
@@ -11903,6 +11934,7 @@ sonarqube2.devops.rvb.rijkscloud.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 south-windsor-pocd-information-hub-southwindsorct.hub.arcgis.com
+sp-prd.topdesk.minienw.nl
 sp.zorginzicht.nl
 spaceweather.knmi.nl
 spamtitan.cbi.eu
@@ -12830,6 +12862,7 @@ truck-parking.ndw.nu
 try.github.io
 ts.cbi.eu
 ts.onderwijsraad.nl
+tsp.minienw.nl
 tss31.dans.knaw.nl
 tssrpm-iis.knaw.nl
 tst-biometric-service.consular.mfaservices.nl
@@ -13676,6 +13709,7 @@ wellesleyma.maps.arcgis.com
 wenjiaba.github.io
 wereldzaken.rvo.nl
 werkaanuitvoering.nl
+werkbezoek.minienw.nl
 werkelijkeschade.nl
 werken.belastingdienst.nl
 werken.cjib.nl
@@ -13759,6 +13793,7 @@ whoami.zandbak.dans.knaw.nl
 wi.knaw.nl
 wi.maptiles.arcgis.com
 wibe.databank.nl
+widscan-acc.minienw.nl
 wifi-guest.hetcak.nl
 wifi.acm.nl
 wifi.brabant.nl
@@ -14850,12 +14885,14 @@ www.milieuzones.nl
 www.minbzk.nl
 www.mindef-vio.nl
 www.minienm.nl
+www.minienw.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
 www.momfer.meertens.knaw.nl
 www.monarchy-in-turmoil.huygens.knaw.nl
 www.monitorlangdurigezorg.nl
 www.monumentenregister.cultureelerfgoed.nl
+www.mpn-pre.minienw.nl
 www.mta-sts.vechtstromen.nl
 www.mvb.databank.nl
 www.nationaalcoordinatorgroningen.nl
@@ -15033,6 +15070,7 @@ www.sharingknowledge.rvo.nl
 www.slimmerreizen.zuid-holland.nl
 www.slimwatermanagement.nl
 www.sociaalfonds.minienm.nl
+www.sociaalfonds.minienw.nl
 www.socialestabiliteit.nl
 www.sodm.nl
 www.spamtitan.cbi.eu

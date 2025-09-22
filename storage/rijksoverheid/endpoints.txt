@@ -1485,6 +1485,7 @@ https://acceptatie.api.bigregister.nl
 https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.aquo.nl
 https://acceptatie.authlab.dezi.nl
+https://acceptatie.bct.tsp.minienw.nl
 https://acceptatie.behandel.bigregister.nl
 https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.diergeneeskunderegister.nl
@@ -2184,6 +2185,7 @@ https://bcem-coronavirus-bentear.hub.arcgis.com
 https://bcld-config.nl
 https://bcstat-bc-gis.hub.arcgis.com
 https://bct.csp.minienm.nl
+https://bct.tsp.minienw.nl
 https://bdagov.maps.arcgis.com
 https://bdkh-bdkh.hub.arcgis.com
 https://bdmuseum.nl
@@ -5556,6 +5558,7 @@ https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 https://minbzk.nl
 https://mindef-vio.nl
 https://minienm.nl
+https://minienw.nl
 https://minio.ddd.test.cloud.kadaster.nl
 https://minioapi2.labs.dans.knaw.nl
 https://mirtoverzicht.nl
@@ -5695,6 +5698,7 @@ https://nevenactiviteiten.cvdm.nl
 https://new.deweekvandecirculaireeconomie.nl
 https://new.luchtvaartmeteo.nl
 https://new.mijn.knmi.nl
+https://newsroom.minienw.nl
 https://newton-open-geo-data-newtonmagis.hub.arcgis.com
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.cultuurparticipatie.nl
@@ -6510,6 +6514,7 @@ https://publicaties-tst.rvig.nl
 https://publicaties.afm.nl
 https://publicaties.brabant.nl
 https://publicaties.mensenrechten.nl
+https://publicaties.minienw.nl
 https://publicaties.odmh.nl
 https://publicaties.rvig.nl
 https://publicwebservices.cibg.nl
@@ -7877,6 +7882,7 @@ https://welkombij.cbs.nl
 https://wellesleyma.maps.arcgis.com
 https://wenjiaba.github.io
 https://werkaanuitvoering.nl
+https://werkbezoek.minienw.nl
 https://werkelijkeschade.nl
 https://werken.belastingdienst.nl
 https://werken.cjib.nl
@@ -8786,6 +8792,7 @@ https://www.milieuzones.nl
 https://www.minbzk.nl
 https://www.mindef-vio.nl
 https://www.minienm.nl
+https://www.minienw.nl
 https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl
 https://www.monarchy-in-turmoil.huygens.knaw.nl
