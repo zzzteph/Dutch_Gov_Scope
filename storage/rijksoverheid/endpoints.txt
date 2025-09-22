@@ -353,6 +353,7 @@ http://linkextractor.overheid.nl
 http://lipsius.huygens.knaw.nl
 http://lmr.proeftuin.gf.irealisatie.nl
 http://localisation.test.zm.irealisatie.nl
+http://login-uzi.pilot.uzi-online.minvws.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
 http://loket.acceptatie.rijkswaterstaat.nl
@@ -5169,6 +5170,7 @@ https://login.hetcak.nl
 https://login.idm.rvig.nl
 https://login.kb.nl
 https://login.mijncn.nl
+https://login.pilot.uzi-online.minvws.nl
 https://login.pp1.digid.nl
 https://login.pp2.digid.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
@@ -5566,6 +5568,7 @@ https://minio.ddd.test.cloud.kadaster.nl
 https://minioapi2.labs.dans.knaw.nl
 https://minjenv-events.nl
 https://minszw.nl
+https://minvws.nl
 https://mirtoverzicht.nl
 https://missing.amberalert.nl
 https://mivp.emissieautoriteit.nl
@@ -5888,6 +5891,7 @@ https://open-wave.odijmond.nl
 https://open.brabant.nl
 https://open.cjib.nl
 https://open.dnb.nl
+https://open.minvws.nl
 https://open.odijmond.nl
 https://open.overheid.nl
 https://open.rijkswaterstaat.nl
@@ -6259,6 +6263,7 @@ https://phished.fondspodiumkunsten.nl
 https://picarta.nl.access.authkb.kb.nl
 https://picarta.pica.nl.access.authkb.kb.nl
 https://pih.belastingdienst.nl
+https://pilot.uzi-online.minvws.nl
 https://pkio.service.acc.omgevingswet.overheid.nl
 https://pkio.service.bta.omgevingswet.overheid.nl
 https://pkio.service.dmo.omgevingswet.overheid.nl
@@ -7892,6 +7897,7 @@ https://wenjiaba.github.io
 https://werkaanuitvoering.nl
 https://werkbezoek.minienw.nl
 https://werkbezoek.minszw.nl
+https://werkbezoek.minvws.nl
 https://werkelijkeschade.nl
 https://werken.belastingdienst.nl
 https://werken.cjib.nl
@@ -8805,6 +8811,7 @@ https://www.minienm.nl
 https://www.minienw.nl
 https://www.minjenv-events.nl
 https://www.minszw.nl
+https://www.minvws.nl
 https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl
 https://www.monarchy-in-turmoil.huygens.knaw.nl
@@ -9073,6 +9080,7 @@ https://xnimorz.github.io
 https://yasgui.dev.huc.knaw.nl
 https://yashtalla.github.io
 https://ye.chm-cbd.net
+https://yivi.pilot.uzi-online.minvws.nl
 https://yivi.proeftuin.uzi-online.irealisatie.nl
 https://yousukehayase.github.io
 https://youthatheart.nl

@@ -1594,6 +1594,7 @@ accp-dor.stopheling.nl
 accp-dorbeheer.stopheling.nl
 accp.disportal.nl
 accp.stopheling.nl
+accrinservice.minvws.nl
 accsite.autoriteitpersoonsgegevens.nl
 ace_nat17.belastingdienst.nl
 acgsa.maps.arcgis.com
@@ -2497,6 +2498,7 @@ autodiscover.maror.nl
 autodiscover.meertens.knaw.nl
 autodiscover.minienm.nl
 autodiscover.minszw.nl
+autodiscover.minvws.nl
 autodiscover.ndw.nu
 autodiscover.nias.knaw.nl
 autodiscover.nin.knaw.nl
@@ -3109,6 +3111,7 @@ bozeman-covid-19-recovery-bozeman.hub.arcgis.com
 bp-bb-ut.tst.belastingdienst.nl
 bp.stopheling.nl
 bpa.rvo.nl
+bpiwebservice.minvws.nl
 bpp.datasluis.dictu.nl
 bprd-asset-inventory-system-boston.hub.arcgis.com
 brabant.databank.nl
@@ -3854,6 +3857,7 @@ connect.justitieleictorganisatie.nl
 connect.kadaster.nl
 connect.kinderbescherming.nl
 connect.knmi.nl
+connect.test.who.minvws.nl
 connect.wodc.nl
 connect1.kadaster.nl
 connect2.kadaster.nl
@@ -6641,7 +6645,9 @@ identity.coa.nl
 idm-int.erp.kadaster.nl
 idm.erp.kadaster.nl
 idm.minbzk.nl
+idm.minvws.nl
 idm.rvig.nl
+idm2.minvws.nl
 idp-acc.globalentry-rtp.nl
 idp-dgp.preproductie.digipoort.logius.nl
 idp.acp.kvk.nl
@@ -7554,6 +7560,8 @@ kibana.ost.digid.nl
 kibana.rapportage.rijkscloud.nl
 kibana.rvb.rijkscloud.nl
 kibana.test.ix.rijkscloud.nl
+kids.minvws.nl
+kidsacc.minvws.nl
 kiesraad.nl
 kik-v.nl
 kim.kadaster.nl
@@ -7912,6 +7920,7 @@ login-net.rvb.rijkscloud.nl
 login-oms.rvb.rijkscloud.nl
 login-pp.dnb.nl
 login-test.dnb.nl
+login-uzi.pilot.uzi-online.minvws.nl
 login-uzi.proeftuin.uzi-online.irealisatie.nl
 login.a1.digid.nl
 login.a2.digid.nl
@@ -7935,6 +7944,7 @@ login.kb.nl
 login.mijncn.nl
 login.npr.idm.rvig.nl
 login.o1.digid.nl
+login.pilot.uzi-online.minvws.nl
 login.pp1.digid.nl
 login.pp2.digid.nl
 login.proeftuin.uzi-online.irealisatie.nl
@@ -8786,6 +8796,7 @@ minjenv-events.nl
 minprd2.api.ix.rijkscloud.nl
 minszw.nl
 mintst2.api.ix.rijkscloud.nl
+minvws.nl
 mirt2016.mirtoverzicht.nl
 mirtoverzicht.nl
 missing.amberalert.nl
@@ -9560,6 +9571,7 @@ open-wave.odijmond.nl
 open.brabant.nl
 open.cjib.nl
 open.dnb.nl
+open.minvws.nl
 open.odijmond.nl
 open.overheid.nl
 open.rijkswaterstaat.nl
@@ -10321,6 +10333,7 @@ picarta.pica.nl.access.authkb.kb.nl
 pih.acc.belastingdienst.nl
 pih.belastingdienst.nl
 pilot.mijn.overheid.nl
+pilot.uzi-online.minvws.nl
 piv-rest-test.belastingdienst.nl
 piv-rest.belastingdienst.nl
 piwik.examenblad.nl
@@ -10516,6 +10529,7 @@ portal117.rijkscloud.nl
 portal118.rijkscloud.nl
 portal2.formulierdus-i.nl
 portal2.mfaservices.nl
+portal2.minvws.nl
 portalaccp.entreepgb.svb.nl
 portalaccp2.entreepgb.svb.nl
 portalco.formulierdus-i.nl
@@ -11205,6 +11219,7 @@ rijksoverheid.minienm.nl
 rijksoverheid.nl
 rijksoverheidsvideo.nl
 rijkspas.minienw.nl
+rijkspas.minvws.nl
 rijkspas2ocsp.dictu.nl
 rijkspas2ocsp.extranet.dictu.nl
 rijkspascp-acc.extranet.dictu.nl
@@ -11232,6 +11247,7 @@ riks-acc.azure.dnb.nl
 riks-ci.azure.dnb.nl
 riks-ft.azure.dnb.nl
 riks.azure.dnb.nl
+rinservice.minvws.nl
 rio-kennisbank.duo.nl
 river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
 rivierenland.leerwerkloket.nl
@@ -11239,6 +11255,8 @@ rivierenland.lerenenwerken.nl
 rivm.atlasleefomgeving.nl
 rivmmagazines.nl
 rivmopendata.cbs.nl
+rl.minvws.nl
+rlacc.minvws.nl
 rmdm-beheerapp-acc.azure.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 rmdm-beheerapp-tst.azure.dnb.nl
@@ -11268,6 +11286,7 @@ rotterdam.lerenenwerken.nl
 rotterdammer.gebruikercentraal.nl
 router.databank.nl
 routeringsvoorziening-pp1.logius.nl
+row.minvws.nl
 royal-house.nl
 royalhonoursanddecorations.nl
 rp1.acc.federatieveservice.nl
@@ -11561,6 +11580,7 @@ sdm.ilent.nl
 sdm.minbzk.nl
 sdm.minienw.nl
 sdm.minszw.nl
+sdm.minvws.nl
 sdm.p-direkt.minbzk.nl
 sdmx-api-beta.cbs.nl
 sdmx-dataexplorer-beta.cbs.nl
@@ -11791,6 +11811,7 @@ sib-eopg.aivd.nl
 siecc-ieecc-ieecc.hub.arcgis.com
 siem.acc.irealisatie.nl
 siem.irealisatie.nl
+sign.test.who.minvws.nl
 sign1-acc.toeslagen.nl
 sign1.toeslagen.nl
 signicat-qa.sso.eherkenning.nl
@@ -11828,9 +11849,11 @@ sip.minbzk.nl
 sip.minienm.nl
 sip.minienw.nl
 sip.minszw.nl
+sip.minvws.nl
 sip.myroom.minbzk.nl
 sip.myroom.minienw.nl
 sip.myroom.minszw.nl
+sip.myroom.minvws.nl
 sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl
@@ -12347,6 +12370,7 @@ subsidies-login.acceptatie.aofondsrijk.nl
 subsidies-login.aofondsrijk.nl
 subsidies.acceptatie.aofondsrijk.nl
 subsidies.aofondsrijk.nl
+subsidies.minvws.nl
 sumatra.huurcommissie.nl
 summerschool.nin.knaw.nl
 superset.demo.ix.rijkscloud.nl
@@ -12464,6 +12488,7 @@ tbbb.tib-ivd.nl
 tbserver.dev.kvk.nl
 tbserver.kvk.nl
 tbserver.npo.kvk.nl
+tcs-resident.minvws.nl
 tcs0201-server.minbzk.nl
 tcs0202-server.minbzk.nl
 tcs0203-server.minbzk.nl
@@ -13444,6 +13469,7 @@ vragen.caop.nl
 vragen.coronatest.nl
 vragen.cultuurparticipatie.nl
 vragenlijst.caop.nl
+vragenlijst.minvws.nl
 vreemdelingenvisie.nl
 vri-admin.ndw.nu
 vrijstellingmelden.vrachtwagenheffing.nl
@@ -13773,6 +13799,7 @@ wereldzaken.rvo.nl
 werkaanuitvoering.nl
 werkbezoek.minienw.nl
 werkbezoek.minszw.nl
+werkbezoek.minvws.nl
 werkelijkeschade.nl
 werken.belastingdienst.nl
 werken.cjib.nl
@@ -14838,6 +14865,7 @@ www.kennisplatformondermijning.nl
 www.kennisplatformwerkeninkomen.nl
 www.kennisvandeoverheid.nl
 www.keringhuis.nl
+www.kidsacc.minvws.nl
 www.kiesraad.nl
 www.kik-v.nl
 www.kimnet.nl
@@ -14978,6 +15006,7 @@ www.minienm.nl
 www.minienw.nl
 www.minjenv-events.nl
 www.minszw.nl
+www.minvws.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
 www.momfer.meertens.knaw.nl
@@ -15139,6 +15168,8 @@ www.rijksvastgoedbedrijf.nl
 www.rijkswaterstaat.nl
 www.risicokaart.flevoland.nl
 www.rivmmagazines.nl
+www.rl.minvws.nl
+www.rlacc.minvws.nl
 www.royal-house.nl
 www.royalhonoursanddecorations.nl
 www.rsj.nl
@@ -15193,6 +15224,7 @@ www.swetswise.com.access.authkb.kb.nl
 www.symposium.keringhuis.nl
 www.synbiosys.alterra.nl
 www.taiwan.investinholland.com
+www.tcs-resident.minvws.nl
 www.test.aquo.nl
 www.test.coronatest.nl
 www.test.cruksregister.nl
@@ -15252,6 +15284,7 @@ www.volkshuisvestingnederland.nl
 www.voordejeugdenhetgezin.nl
 www.vrachtwagenheffing.nl
 www.vragen.coronatest.nl
+www.vragenlijst.minvws.nl
 www.vreemdelingenvisie.nl
 www.vt016ed.dictu.nl
 www.vzinfo.nl
@@ -15281,6 +15314,8 @@ www.wodc.nl
 www.wrr.nl
 www.youthatheart.nl
 www.zandbak.dans.knaw.nl
+www.zbs.minvws.nl
+www.zbsacc.minvws.nl
 www.zml-a.cito.nl
 www.zml-t.cito.nl
 www.zml.cito.nl
@@ -15349,6 +15384,7 @@ yammer.ictu.nl
 yasgui.dev.huc.knaw.nl
 yashtalla.github.io
 ye.chm-cbd.net
+yivi.pilot.uzi-online.minvws.nl
 yivi.proeftuin.uzi-online.irealisatie.nl
 yolknet.maror.nl
 yousukehayase.github.io
@@ -15384,6 +15420,8 @@ zandbak.duo.nl
 zandbak.nvwa.nl
 zandbak.wegwijzer.overheid.nl
 zartico.maps.arcgis.com
+zbs.minvws.nl
+zbsacc.minvws.nl
 zeeland-prv.databank.nl
 zeeland.databank.nl
 zeeland.leerwerkloket.nl

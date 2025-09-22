@@ -28,12 +28,12 @@ werkplek
 prod
 redactie
 _dmarc
+sip
 portal
 data
 smtp
 portaal
 werkenbij
-sip
 connect
 e
 remote
@@ -50,9 +50,9 @@ meet
 apps
 kennisbank
 link
+open
 ftp
 webservices
-open
 docs
 dialin
 elearning
@@ -98,6 +98,7 @@ www-p2
 www-tst2
 loket
 inloggen
+sdm
 lyncdiscover
 mx1
 aanvragen
@@ -124,7 +125,6 @@ www-a
 zaaksysteem-acc
 forms
 m
-sdm
 files
 git
 repository
@@ -193,6 +193,7 @@ securemail
 gateway
 www.test
 assets
+sip.myroom
 luchtfoto
 ontwikkel
 pushmail
@@ -268,6 +269,7 @@ desktop
 kaart
 test-cmsintranet
 test-intranet
+portal2
 csoacct
 csotest
 acc.api
@@ -296,6 +298,7 @@ organisaties
 monitor
 server
 www.staging
+idm
 acc-mijn
 elo
 communicatie
@@ -312,7 +315,7 @@ zeeland
 idp
 sip2
 webdisk
-sip.myroom
+werkbezoek
 helloid
 oa
 chw
@@ -430,7 +433,6 @@ ftps
 preprodformulieren
 veiligmailen
 co
-portal2
 odc
 bibliotheek
 coronadashboard
@@ -502,7 +504,6 @@ tools
 a-magazinesintern
 staging.werkenbij
 topdesk
-idm
 acc-cms
 applicaties
 gdi
@@ -541,6 +542,7 @@ portaal-acc
 simcms
 viewer
 repo
+subsidies
 test.redactie
 cm
 developers
@@ -555,6 +557,7 @@ rijksoverheid
 elotest
 beheer-acc
 dashboard-acc
+vragenlijst
 rijbewijs
 toegang
 tracking
@@ -633,7 +636,7 @@ service.mpn
 services-hprm-acc
 services-hprm
 www.sociaalfonds
-werkbezoek
+rijkspas
 geoportal
 gisservices
 gisservicesacc
@@ -5649,7 +5652,6 @@ subsidies-backend
 subsidies-login.acceptatie
 subsidies-login
 subsidies.acceptatie
-subsidies
 www.blikvooruit
 www.diversiteitsportaal
 www.loopbaanadvies
@@ -6430,7 +6432,6 @@ steunpunt
 stichting
 tagging
 tijdschrijven
-vragenlijst
 webredactie
 abk-acc
 abk-tst
@@ -10948,7 +10949,6 @@ newsroom
 ontwik.sapgw
 ontwikkel.sapgw
 revoketestca
-rijkspas
 rpa
 sp-prd.topdesk
 tsp
@@ -11032,3 +11032,28 @@ win4024vm.extern
 win7567.extern
 win7568.extern
 www.gemeenteloket
+accrinservice
+bpiwebservice
+connect.test.who
+idm2
+kids
+kidsacc
+login-uzi.pilot.uzi-online
+login.pilot.uzi-online
+pilot.uzi-online
+rinservice
+rl
+rlacc
+row
+sign.test.who
+tcs-resident
+www.kidsacc
+www.rl
+www.rlacc
+www.tcs-resident
+www.vragenlijst
+www.zbs
+www.zbsacc
+yivi.pilot.uzi-online
+zbs
+zbsacc
