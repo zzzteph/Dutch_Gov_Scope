@@ -43,12 +43,12 @@ a-feeds.a-english
 a-opendata.a-english
 zoeken
 beheer
+app
 hybrid
 meet
 apps
 kennisbank
 link
-app
 sip
 ftp
 webservices
@@ -565,6 +565,7 @@ develop
 rest
 inschrijven
 regio
+www.app
 t1
 plp
 stage
@@ -7059,7 +7060,6 @@ toestemming-evenement
 video-uploader-aanmelding
 video-uploaders
 woo-verzoeken
-www.app
 abc
 aedesforecast
 afvalmonitor
@@ -10797,3 +10797,7 @@ tst.protocol
 elearnings
 mediamasters
 doorstromen
+acc-thuisbezorgd
+acceptatie-app
+thuisbezorgd
+www.acceptatie-app

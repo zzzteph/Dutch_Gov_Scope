@@ -1188,6 +1188,7 @@ acc-referentiegegevens.justid.nl
 acc-reftool-portal.consular.mfaservices.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-staten.zuid-holland.nl
+acc-thuisbezorgd.mijnrijkspas.nl
 acc-tvs.coa.nl
 acc-v2.bronhouderportaal-bro.nl
 acc-vergelijkingskaart.afm.nl
@@ -1403,6 +1404,7 @@ accept.volwassenheidsscan.gebruikercentraal.nl
 accept.web.ictu.nl
 accept.web.nmp.ictu.nl
 acceptatie-api.coa.nl
+acceptatie-app.mijnrijkspas.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie-calculator.aerius.nl
 acceptatie-checkjeprijs.huurcommissie.nl
@@ -2175,6 +2177,7 @@ app.dagvandeforensischezorg.nl
 app.digid.nl
 app.hetcak.nl
 app.inhuurdeskpolitie.nl
+app.mijnrijkspas.nl
 app.nl-alert.nl
 app.pdok.cloud.kadaster.nl
 app.svb.nl
@@ -8568,6 +8571,7 @@ mijnrdtmnl.ndw.nu
 mijnresolutie-acc.azure.dnb.nl
 mijnresolutie-tst.azure.dnb.nl
 mijnresolutie.azure.dnb.nl
+mijnrijkspas.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 mijnsvb-a.svb.nl
@@ -12519,6 +12523,7 @@ thinkwiseprovisioning-o.cito.nl
 thinkwiseprovisioning-t.cito.nl
 thinkwiseprovisioning.cito.nl
 thomasbinaghi.github.io
+thuisbezorgd.mijnrijkspas.nl
 thuisindecitotoets.cito.nl
 thuiswerken.cito.nl
 thuiswerken.filmfonds.nl
@@ -13867,6 +13872,7 @@ www.acc.mijn.dus-i.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
 www.acc.omgevingswet.overheid.nl
 www.acceleratethechange.nl
+www.acceptatie-app.mijnrijkspas.nl
 www.acceptatie.aquo.nl
 www.acceptatie.clusterbuster.nl
 www.acceptatie.coronatest.nl
@@ -13928,6 +13934,7 @@ www.aofondsrijk.nl
 www.aon.nin.knaw.nl
 www.aovvt.nl
 www.app.dagvandeforensischezorg.nl
+www.app.mijnrijkspas.nl
 www.apps.dictu.nl
 www.aqualarm.nl
 www.aquo.nl
