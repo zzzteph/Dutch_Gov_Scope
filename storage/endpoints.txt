@@ -1405,6 +1405,7 @@ https://acc.login.consular.mfaservices.nl
 https://acc.luchtvaartmeteo.nl
 https://acc.mercurius.sso3w.nl
 https://acc.mijnslachtofferzaak.nl
+https://acc.milieuzones.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.naamswijziging.justis.nl
 https://acc.natura2000.nl
@@ -5540,6 +5541,7 @@ https://mijnzaak-acc.hogeraad.nl
 https://mijnzaak.hogeraad.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
+https://milieuzones.nl
 https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 https://minio.ddd.test.cloud.kadaster.nl
 https://minioapi2.labs.dans.knaw.nl
@@ -7330,6 +7332,7 @@ https://test.leerwerkloket.nl
 https://test.lint.gebruikercentraal.nl
 https://test.lma.nl
 https://test.mi-cert.nl
+https://test.milieuzones.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.naamswijziging.justis.nl
 https://test.natura2000.nl
@@ -8752,6 +8755,7 @@ https://www.mijnontwikkelhuis.nl
 https://www.mijnpgb.nl
 https://www.mijnslachtofferzaak.nl
 https://www.mijnwlzaanvraag.ciz.nl
+https://www.milieuzones.nl
 https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl
 https://www.monarchy-in-turmoil.huygens.knaw.nl
