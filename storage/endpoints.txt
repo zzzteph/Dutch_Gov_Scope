@@ -1404,6 +1404,7 @@ https://acc.liferay.mfaservices.nl
 https://acc.login.consular.mfaservices.nl
 https://acc.luchtvaartmeteo.nl
 https://acc.mercurius.sso3w.nl
+https://acc.mijnslachtofferzaak.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.naamswijziging.justis.nl
 https://acc.natura2000.nl
@@ -4620,6 +4621,10 @@ https://infra.status.chm-cbd.net
 https://infra.test.cloud.kadaster.nl
 https://infrabeheer.rvb.rijkscloud.nl
 https://infratemplater.labs.dans.knaw.nl
+https://ingelogd.acc.mijnslachtofferzaak.nl
+https://ingelogd.acc.staging.mijnslachtofferzaak.nl
+https://ingelogd.mijnslachtofferzaak.nl
+https://ingelogd.staging.mijnslachtofferzaak.nl
 https://inhuurdeskpolitie.nl
 https://inkoopplein.dictu.nl
 https://inloggen-pre.limburg.nl
@@ -5519,6 +5524,7 @@ https://mijnrdtmnl.ndw.nu
 https://mijnresolutie-acc.azure.dnb.nl
 https://mijnresolutie-tst.azure.dnb.nl
 https://mijnresolutie.azure.dnb.nl
+https://mijnslachtofferzaak.nl
 https://mijnsubsidies-acc.limburg.nl
 https://mijnsubsidies.limburg.nl
 https://mijnsvb.svb.nl
@@ -8744,6 +8750,7 @@ https://www.mijnkombijdepolitie.nl
 https://www.mijnncg.nl
 https://www.mijnontwikkelhuis.nl
 https://www.mijnpgb.nl
+https://www.mijnslachtofferzaak.nl
 https://www.mijnwlzaanvraag.ciz.nl
 https://www.mirtoverzicht.nl
 https://www.mobiliteitsscan-info.nl

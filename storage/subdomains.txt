@@ -1320,6 +1320,7 @@ acc.mijn.dus-i.nl
 acc.mijn.knmi.nl
 acc.mijn.logerenbijdeboswachter.nl
 acc.mijn.overheid.nl
+acc.mijnslachtofferzaak.nl
 acc.monumentenregister.cultureelerfgoed.nl
 acc.naamswijziging.justis.nl
 acc.natura2000.nl
@@ -6693,6 +6694,10 @@ infrabeheer.rvb.rijkscloud.nl
 infratemplater.labs.dans.knaw.nl
 ing-dnb.dnb.nl
 ing-dnba.dnb.nl
+ingelogd.acc.mijnslachtofferzaak.nl
+ingelogd.acc.staging.mijnslachtofferzaak.nl
+ingelogd.mijnslachtofferzaak.nl
+ingelogd.staging.mijnslachtofferzaak.nl
 inhuurdeskpolitie.nl
 inkijk.demo.bkwi.nl
 inkijkmail1.bkwi.nl
@@ -8572,6 +8577,7 @@ mijnresolutie-acc.azure.dnb.nl
 mijnresolutie-tst.azure.dnb.nl
 mijnresolutie.azure.dnb.nl
 mijnrijkspas.nl
+mijnslachtofferzaak.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 mijnsvb-a.svb.nl
@@ -14681,6 +14687,7 @@ www.mijnkombijdepolitie.nl
 www.mijnncg.nl
 www.mijnontwikkelhuis.nl
 www.mijnpgb.nl
+www.mijnslachtofferzaak.nl
 www.mijnwlzaanvraag.ciz.nl
 www.mirtoverzicht.nl
 www.mobiliteitsscan-info.nl
