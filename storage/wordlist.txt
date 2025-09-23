@@ -16,8 +16,8 @@ api
 _autodiscover._tcp
 acceptatie
 magazines
-feeds.english
 intranet
+feeds.english
 opendata.english
 cms
 vpn
@@ -26,10 +26,10 @@ staging
 formulieren
 werkplek
 prod
+werkenbij
 portal
 redactie
 _dmarc
-werkenbij
 sip
 data
 smtp
@@ -82,6 +82,7 @@ www-ow
 www-ts
 www2
 zaaksysteem
+maps
 adobe-analytics-dc
 adobe-tags
 enterpriseregistration
@@ -98,13 +99,13 @@ www-dev2
 www-p2
 www-tst2
 loket
+forms
 inloggen
 sdm
 lyncdiscover
 mx1
 aanvragen
 mail2
-maps
 papiamentu
 enterpriseenrollment
 ns2
@@ -115,6 +116,7 @@ geoportaal
 id
 kaarten
 helpdesk
+academy
 designsystem
 www1
 dwo
@@ -125,7 +127,6 @@ mailing
 sandbox
 www-a
 zaaksysteem-acc
-forms
 m
 files
 git
@@ -159,7 +160,6 @@ www-test
 acc2
 sso
 static
-academy
 projecten
 survey
 a-cms
@@ -185,6 +185,7 @@ stats
 extranet
 wiki
 mx2
+transfer
 developer
 magazinesintern
 statistiek
@@ -295,7 +296,6 @@ iam
 sentry
 voorlichting
 media
-transfer
 access
 organisaties
 monitor
@@ -450,6 +450,7 @@ en
 vt-mijn
 ediensten
 statistics
+jip
 acc.intranet
 test.intranet
 confluence
@@ -506,6 +507,7 @@ tools
 a-magazinesintern
 staging.werkenbij
 topdesk
+www.werkenbij
 acc-cms
 applicaties
 gdi
@@ -2476,7 +2478,6 @@ public.portal
 www.academie
 xmpp.chat
 grip
-jip
 meldpuntwki
 brs
 aselect-milieu.demo
@@ -4718,7 +4719,6 @@ werkenbij.api
 www.bezoekerscentrum
 www.staging.werkenbij
 www.watergegevens
-www.werkenbij
 zwerfafval
 acc2.intranet
 agw.idm
@@ -11073,3 +11073,12 @@ wap
 my
 my2
 tfs
+acclongnis
+accshortnis
+horst-fw
+ketenregisterapi
+nakvision
+nis
+partijopgave
+rav-fw
+web-app

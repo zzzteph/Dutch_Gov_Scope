@@ -1111,6 +1111,7 @@ academy.cbs.nl
 academy.cito.nl
 academy.forensicinstitute.nl
 academy.forensischinstituut.nl
+academy.naktuinbouw.nl
 academyforinternationalrelations.nl
 acagiscience-zgis.hub.arcgis.com
 acb.chm-cbd.net
@@ -1579,6 +1580,7 @@ access.om.nl
 access.rijksrecherche.nl
 access1.minbzk.nl
 accessibleayr-swecouk.hub.arcgis.com
+acclongnis.naktuinbouw.nl
 accnew-cms.afm.nl
 accnew-www.afm.nl
 accompagnement-education-fr.hub.arcgis.com
@@ -1599,6 +1601,7 @@ accp-dorbeheer.stopheling.nl
 accp.disportal.nl
 accp.stopheling.nl
 accrinservice.minvws.nl
+accshortnis.naktuinbouw.nl
 accsite.autoriteitpersoonsgegevens.nl
 ace_nat17.belastingdienst.nl
 acgsa.maps.arcgis.com
@@ -5796,6 +5799,7 @@ forms-acc.nvwa.nl
 forms.hhdelfland.nl
 forms.iplo.nl
 forms.klopt.cibg.nl
+forms.naktuinbouw.nl
 forms.nvwa.nl
 forms.sodm.nl
 forms.zuid-holland.nl
@@ -6515,6 +6519,7 @@ honolulu-cchnl.opendata.arcgis.com
 horecadna.databank.nl
 horizon.databank.nl
 horizonscangeneesmiddelen.nl
+horst-fw.naktuinbouw.nl
 hostingportal.huc.knaw.nl
 hostmaster.derdekamer.nl
 hotnews.maps.arcgis.com
@@ -6929,6 +6934,7 @@ intranet.kbvg.nl
 intranet.knaw.nl
 intranet.minienm.nl
 intranet.minienw.nl
+intranet.naktuinbouw.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.nin.knaw.nl
 intranet.odijmond.nl
@@ -7086,6 +7092,7 @@ jeugdzorg-acc.nza.nl
 jeugdzorg.nza.nl
 jinnbo.github.io
 jip.inspectie-jenv.nl
+jip.naktuinbouw.nl
 jira-acc.dictu.nl
 jira-poc.duo.rijkscloud.nl
 jira.dictu.nl
@@ -7538,6 +7545,7 @@ kennisvandeoverheid.nl
 keringhuis.nl
 kerncijfers.ifv.nl
 keten.hetcak.nl
+ketenregisterapi.naktuinbouw.nl
 ketentest.hetcak.nl
 ketentestnvr.belastingdienst.nl
 keurmerk.nl
@@ -8356,6 +8364,7 @@ maps-north-ayrshire.opendata.arcgis.com
 maps.aaenmaas.nl
 maps.fa.knaw.nl
 maps.nak.nl
+maps.naktuinbouw.nl
 maps.ndw.nu
 maps.rijkswaterstaat.nl
 maps.staging.ndw.nu
@@ -9114,6 +9123,8 @@ nac014005.mgmtdwr.rijksoverheid.nl
 naip.arcgis.com
 nak.nl
 naktuinbouw.com
+naktuinbouw.nl
+nakvision.naktuinbouw.nl
 nap-ev.ndw.nu
 napsg.maps.arcgis.com
 nat_o5001vmfavapp.ont.belastingdienst.nl
@@ -9242,6 +9253,7 @@ ninweb.knaw.nl
 niod.idp.knaw.nl
 niod.knaw.nl
 nioo.knaw.nl
+nis.naktuinbouw.nl
 nisha240799.github.io
 nisheedkumarrout.github.io
 nix18.nl
@@ -10076,6 +10088,7 @@ paragon-dev.hetcak.nl
 paragon-prd.hetcak.nl
 paragon-tst.hetcak.nl
 parsr.labs.dans.knaw.nl
+partijopgave.naktuinbouw.nl
 partnerplaza.sso3w.nl
 partoer.databank.nl
 pas.natura2000.nl
@@ -10972,6 +10985,7 @@ ras.nvwa.nl
 ras2.domeinenrz.nl
 rat.belastingdienst.nl
 rathenau.idp.knaw.nl
+rav-fw.naktuinbouw.nl
 ravib.so.rijkscloud.nl
 rb.rvb.rijkscloud.nl
 rbl-talent.minbzk.nl
@@ -12983,6 +12997,7 @@ trainingenwetbibob.kennisplatformondermijning.nl
 trainingvalsgeld.dnb.nl
 transcriptions.globalise.huygens.knaw.nl
 transfer.kb.nl
+transfer.naktuinbouw.nl
 transfer.ofgv.nl
 transfer.waterschaplimburg.nl
 transformer.labs.dans.knaw.nl
@@ -13645,6 +13660,7 @@ wdt.belastingdienst.nl
 we-share.dictu.nl
 web-api.acp.kvk.nl
 web-api.kvk.nl
+web-app.naktuinbouw.nl
 web-b-ebscohost-com.access.authkb.kb.nl
 web-p-ebscohost-com.access.authkb.kb.nl
 web-protagonist.fondspodiumkunsten.nl
@@ -13884,6 +13900,7 @@ werkenbij.justid.nl
 werkenbij.kcb.nl
 werkenbij.kvk.nl
 werkenbij.nak.nl
+werkenbij.naktuinbouw.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.toeslagen.nl
@@ -15101,6 +15118,7 @@ www.n3werkzaamheden.nl
 www.naarnederland.nl
 www.nak.nl
 www.naktuinbouw.com
+www.naktuinbouw.nl
 www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl
@@ -15383,6 +15401,7 @@ www.werkaanuitvoering.nl
 www.werkelijkeschade.nl
 www.werken.belastingdienst.nl
 www.werkenaanonspensioen.nl
+www.werkenbij.naktuinbouw.nl
 www.werkenbij.rijkswaterstaat.nl
 www.werkenbijdeeu.nl
 www.werkenbijderaadvanstate.nl

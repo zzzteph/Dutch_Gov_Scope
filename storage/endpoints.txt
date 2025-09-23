@@ -1307,6 +1307,7 @@ https://academievoorinternationalebetrekkingen.nl
 https://academy.cbs.nl
 https://academy.cito.nl
 https://academy.forensischinstituut.nl
+https://academy.naktuinbouw.nl
 https://academyforinternationalrelations.nl
 https://acagiscience-zgis.hub.arcgis.com
 https://acb.chm-cbd.net
@@ -1567,6 +1568,7 @@ https://acceso-datos-ambientales-invemar.hub.arcgis.com
 https://access.authkb.kb.nl
 https://access.huc.knaw.nl
 https://accessibleayr-swecouk.hub.arcgis.com
+https://acclongnis.naktuinbouw.nl
 https://accnew-cms.afm.nl
 https://accnew-www.afm.nl
 https://accompagnement-education-fr.hub.arcgis.com
@@ -1583,6 +1585,7 @@ https://accp-dor.stopheling.nl
 https://accp-dorbeheer.stopheling.nl
 https://accp.disportal.nl
 https://accp.stopheling.nl
+https://accshortnis.naktuinbouw.nl
 https://acgsa.maps.arcgis.com
 https://achd-substance-use-adcogov-health.hub.arcgis.com
 https://achilles.rvo.nl
@@ -4131,6 +4134,7 @@ https://forensischezorg.nl
 https://forensischinstituut.nl
 https://forms.iplo.nl
 https://forms.klopt.cibg.nl
+https://forms.naktuinbouw.nl
 https://forms.nvwa.nl
 https://forms.zuid-holland.nl
 https://formulier.cultureelerfgoed.nl
@@ -4821,6 +4825,7 @@ https://jeugdstatline.cbs.nl
 https://jeugdzorg-acc.nza.nl
 https://jinnbo.github.io
 https://jip.inspectie-jenv.nl
+https://jip.naktuinbouw.nl
 https://jira.dictu.nl
 https://jira.knmi.nl
 https://jiraimg-acc.rvo.nl
@@ -4930,6 +4935,7 @@ https://kennisvandeoverheid.nl
 https://keringhuis.nl
 https://kerncijfers.ifv.nl
 https://keten.hetcak.nl
+https://ketenregisterapi.naktuinbouw.nl
 https://keurmerk.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
@@ -5376,6 +5382,7 @@ https://maps-cityofpasco.hub.arcgis.com
 https://maps-north-ayrshire.opendata.arcgis.com
 https://maps.aaenmaas.nl
 https://maps.nak.nl
+https://maps.naktuinbouw.nl
 https://maps.ndw.nu
 https://maps.rijkswaterstaat.nl
 https://maps.staging.ndw.nu
@@ -5702,6 +5709,8 @@ https://nac.nctv.nl
 https://naip.arcgis.com
 https://nak.nl
 https://naktuinbouw.com
+https://naktuinbouw.nl
+https://nakvision.naktuinbouw.nl
 https://nap-ev.ndw.nu
 https://napsg.maps.arcgis.com
 https://nationaalcohortonderzoek.cbs.nl
@@ -5784,6 +5793,7 @@ https://nimh-beeldbank.defensie.nl
 https://nimh.nl
 https://nin.knaw.nl
 https://ninweb.knaw.nl
+https://nis.naktuinbouw.nl
 https://nisha240799.github.io
 https://nisheedkumarrout.github.io
 https://nix18.nl
@@ -6260,6 +6270,7 @@ https://papiamentu.rijksdienstcn.com
 https://papiamentu.two-acs.com
 https://papiamentu.vnacs.nl
 https://parsr.labs.dans.knaw.nl
+https://partijopgave.naktuinbouw.nl
 https://partnerplaza.sso3w.nl
 https://partoer.databank.nl
 https://pas.natura2000.nl
@@ -7565,6 +7576,7 @@ https://trainingenwetbibob.kennisplatformondermijning.nl
 https://trainingvalsgeld.dnb.nl
 https://transcriptions.globalise.huygens.knaw.nl
 https://transfer.kb.nl
+https://transfer.naktuinbouw.nl
 https://transfer.waterschaplimburg.nl
 https://transformer.labs.dans.knaw.nl
 https://transitieproefdiervrijeinnovatie.nl
@@ -7878,6 +7890,7 @@ https://wba-acc.rvo.nl
 https://wba.rvo.nl
 https://wbp6.hhdelfland.nl
 https://web-api.kvk.nl
+https://web-app.naktuinbouw.nl
 https://web-b-ebscohost-com.access.authkb.kb.nl
 https://web-p-ebscohost-com.access.authkb.kb.nl
 https://web-protagonist.fondspodiumkunsten.nl
@@ -7976,6 +7989,7 @@ https://werkenbij.justid.nl
 https://werkenbij.kcb.nl
 https://werkenbij.kvk.nl
 https://werkenbij.nak.nl
+https://werkenbij.naktuinbouw.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -8900,6 +8914,7 @@ https://www.n3werkzaamheden.nl
 https://www.naarnederland.nl
 https://www.nak.nl
 https://www.naktuinbouw.com
+https://www.naktuinbouw.nl
 https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgeoregister.nl
 https://www.nationaalgroeifonds.nl
@@ -9122,6 +9137,7 @@ https://www.werkaanuitvoering.nl
 https://www.werkelijkeschade.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenaanonspensioen.nl
+https://www.werkenbij.naktuinbouw.nl
 https://www.werkenbij.rijkswaterstaat.nl
 https://www.werkenbijdeeu.nl
 https://www.werkenbijderaadvanstate.nl
