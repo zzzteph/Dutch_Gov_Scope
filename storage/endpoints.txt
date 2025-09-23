@@ -1268,6 +1268,7 @@ https://aandeslag.gezondeschool.nl
 https://aandeslagmetdeomgevingswet.nl
 https://aangetekendmailen.nza.nl
 https://aaninhetdonker.nl
+https://aankomst.nationaalarchief.nl
 https://aanmelden.gratisvog.nl
 https://aanmeldenrws.nl
 https://aanmerking.nl
@@ -1596,6 +1597,7 @@ https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://acm.nl
 https://acoi.nl
+https://acpt.nationaalarchief.nl
 https://acs-acpt.brabant.nl
 https://acs-hosted-feature-layers-faq-esri.hub.arcgis.com
 https://acs.brabant.nl
@@ -1609,6 +1611,7 @@ https://actiemonitoringce.nl
 https://actioncenter-whitestown-in.hub.arcgis.com
 https://active-land-use-permits-cityofpoulsbo.hub.arcgis.com
 https://activitydashboard.arcgis.com
+https://actorenregister.nationaalarchief.nl
 https://actuality-education-fr.hub.arcgis.com
 https://actueel.nl-alert.nl
 https://acworthga-acworth.hub.arcgis.com
@@ -2381,6 +2384,7 @@ https://bi.test.chm-cbd.net
 https://bibliographies.brillonline.com.access.authkb.kb.nl
 https://bibliopolis-prd.cloudservices.kb.nl
 https://bibliotheek.knmi.nl
+https://bibliotheek.nationaalarchief.nl
 https://bibliotheekwerk.caop.nl
 https://bibob.kennisplatformondermijning.nl
 https://bics.nl
@@ -2642,8 +2646,10 @@ https://cbp.acc.mgo.irealisatie.nl
 https://cbp.test.mgo.irealisatie.nl
 https://cbpbes.com
 https://cbrnsecurity.nctv.nl
+https://cbs.acpt.nationaalarchief.nl
 https://cbs.cbs.nl
 https://cbs.knaw.nl
+https://cbs.nationaalarchief.nl
 https://cbs.nl
 https://ccatp-centrecog.hub.arcgis.com
 https://ccc.acc.irealisatie.nl
@@ -2712,6 +2718,7 @@ https://chat-dev.rijkscloud.nl
 https://chat.cito.nl
 https://chat.datascience.rijkscloud.nl
 https://chat.ind.nl
+https://chat.nationaalarchief.nl
 https://chat.ncsc.nl
 https://chatapi.klopt.cibg.nl
 https://chattanooga-bike-to-work-day-chcrpa.hub.arcgis.com
@@ -3509,10 +3516,15 @@ https://dxp.cloud.kadaster.nl
 https://dxp.test.cloud.kadaster.nl
 https://dynamo-hia.eu
 https://e-akkoord.nl
+https://e-bom.acpt.nationaalarchief.nl
+https://e-bom.nationaalarchief.nl
+https://e-bom.ted.nationaalarchief.nl
 https://e-cert.nl
 https://e-certnl-acc.nvwa.nl
 https://e-certnl-sch.nvwa.nl
 https://e-certnl.nvwa.nl
+https://e-depot.nationaalarchief.nl
+https://e-depot.ted.nationaalarchief.nl
 https://e-learning.opwegnaarseb.nl
 https://e-learningbibob.acc.justis.nl
 https://e-learningbibob.justis.nl
@@ -3655,6 +3667,7 @@ https://emnnetherlands.nl
 https://emobility.rvo.nl
 https://en.inburgeren.nl
 https://en.lvnl.nl
+https://en.nationaalarchief.nl
 https://enabling.omgevingswet.overheid.nl
 https://energiecijfers.databank.nl
 https://energiemonitor.databank.nl
@@ -4190,6 +4203,7 @@ https://gaa.test.kadaster.nl
 https://galerij.kb.nl
 https://galway-city-council-opendata-galwaycityco.hub.arcgis.com
 https://garima-ydv.github.io
+https://gatekeeper.nationaalarchief.nl
 https://gateway.afm.nl
 https://gateway.apim.acc.cloudservices.kb.nl
 https://gateway.cultuurparticipatie.nl
@@ -4380,6 +4394,7 @@ https://gps-sa.sso3w.nl
 https://gr-i.espacenet.com
 https://gr.espacenet.com
 https://granvillecounty.maps.arcgis.com
+https://graphdb.nationaalarchief.nl
 https://graphql-oat.dev.huc.knaw.nl
 https://graphs.globalise.huygens.knaw.nl
 https://grasp-acc.azure.dnb.nl
@@ -4515,6 +4530,7 @@ https://hub-renvilleco.hub.arcgis.com
 https://hub-sandbox-compass.arcgis.com
 https://hub-wilkinco.hub.arcgis.com
 https://hub.arcgis.com
+https://hub3.nationaalarchief.nl
 https://hubcdn.arcgis.com
 https://hubqacdn.arcgis.com
 https://huc.knaw.nl
@@ -5040,6 +5056,7 @@ https://lasbeheer.cito.nl
 https://lavsinfo.nl
 https://law-enforcement.container.hansken.org
 https://lbio.nl
+https://lbrproxy.prod.nationaalarchief.nl
 https://lc.cbs.nl
 https://lcms.nl
 https://lcnk.nl
@@ -5448,6 +5465,7 @@ https://meet.coa.nl
 https://meet.lbio.nl
 https://meet.rijkscloud.nl
 https://meeting.acm.nl
+https://meeting.nationaalarchief.nl
 https://melding-cmoa.cvdm.nl
 https://melding.aerius.nl
 https://melding.e-tol.nl
@@ -5715,6 +5733,7 @@ https://nakvision.naktuinbouw.nl
 https://nap-ev.ndw.nu
 https://napsg.maps.arcgis.com
 https://nas-adaptatietool.nl
+https://nationaalarchief.nl
 https://nationaalcohortonderzoek.cbs.nl
 https://nationaalcoordinatorgroningen.nl
 https://nationaalgeoregister.nl
@@ -5768,6 +5787,7 @@ https://nextcloud.dgdoobi.rijkscloud.nl
 https://nextcloud.irealisatie.nl
 https://nextcloud.rijkspas.rijkscloud.nl
 https://nextcloud.rvb.rijkscloud.nl
+https://nextdrive.nationaalarchief.nl
 https://nexus-docker.aerius.nl
 https://nexus.aerius.nl
 https://ngr.acceptatie.nationaalgeoregister.nl
@@ -5934,6 +5954,7 @@ https://onslevendlandschap.nl
 https://onswater.nl
 https://ontheffingaanvragen.e-tol.nl
 https://ontheffingaanvragen.vrachtwagenheffing.nl
+https://ontorefine.nationaalarchief.nl
 https://ontwikkel.machtigen.digid.nl
 https://oordelen.mensenrechten.nl
 https://oos-p1.coa.nl
@@ -6214,6 +6235,7 @@ https://optimaaldigitaal.gebruikercentraal.nl
 https://opvragen.ep-online.nl
 https://opwegnaarseb.nl
 https://orac.test.gf.irealisatie.nl
+https://oranjehotel.nationaalarchief.nl
 https://ordz.nl
 https://organisatiegegevens-dev.dnb.nl
 https://organisatiegegevens-dr.dnb.nl
@@ -6603,6 +6625,8 @@ https://pushmail.onderwijsraad.nl
 https://put-kpi-dashboard.ndw.nu
 https://pvs.oostvaarderskliniek.nl
 https://pw.rvb.rijkscloud.nl
+https://pywb.nationaalarchief.nl
+https://pywb.ted.nationaalarchief.nl
 https://pzh.databank.nl
 https://qaext.arcgis.com
 https://qingfengtechnology.github.io
@@ -7335,6 +7359,7 @@ https://td.chm-cbd.net
 https://tea.bigregister.nl
 https://teamcity.dev.huc.knaw.nl
 https://techniekacademie.rijkswaterstaat.nl
+https://ted.nationaalarchief.nl
 https://teelt.bkd.eu
 https://telewerken-db.landelijkemeldkamer.org
 https://telewerken-oh.landelijkemeldkamer.org
@@ -7801,6 +7826,9 @@ https://vm-ivra.ndw.nu
 https://vnacs.nl
 https://vng.databank.nl
 https://vocabs.cbs.nl
+https://vocbesatzungen.nationaalarchief.nl
+https://vocopvarenden.nationaalarchief.nl
+https://vocseavoyagers.nationaalarchief.nl
 https://vog.jeugdconnect.nl
 https://vogcheck.justis.nl
 https://volgsysteem-configuratie.secure.cito.nl
@@ -8917,6 +8945,7 @@ https://www.naarnederland.nl
 https://www.nak.nl
 https://www.naktuinbouw.com
 https://www.naktuinbouw.nl
+https://www.nationaalarchief.nl
 https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgeoregister.nl
 https://www.nationaalgroeifonds.nl
@@ -9085,6 +9114,7 @@ https://www.swap.alterra.nl
 https://www.swetswise.com.access.authkb.kb.nl
 https://www.symposium.keringhuis.nl
 https://www.synbiosys.alterra.nl
+https://www.ted.nationaalarchief.nl
 https://www.test.kadaster.com
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tib-ivd.nl
@@ -9163,6 +9193,7 @@ https://www.zuid-holland.nl
 https://www1.cbs.nl
 https://www1.cito.nl
 https://www1.fa.knaw.nl
+https://www1.nationaalarchief.nl
 https://www2.cito.nl
 https://www2.formulierdus-i.nl
 https://www2.leer-rijk.nl
@@ -9246,6 +9277,7 @@ https://zuidlimburg.leerwerkloket.nl
 https://zuidlimburg.lerenenwerken.nl
 https://zuidoostbrabant.leerwerkloket.nl
 https://zvs.woo.irealisatie.nl
+https://zvt.nationaalarchief.nl
 https://zw.chm-cbd.net
 https://zw.test.chm-cbd.net
 https://zwerfafval.rijkswaterstaat.nl

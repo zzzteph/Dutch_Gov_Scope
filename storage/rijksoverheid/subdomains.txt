@@ -1055,6 +1055,7 @@ aandeslag.gezondeschool.nl
 aandeslagmetdeomgevingswet.nl
 aangetekendmailen.nza.nl
 aaninhetdonker.nl
+aankomst.nationaalarchief.nl
 aankoopcalculator.aerius.nl
 aanmelden.gratisvog.nl
 aanmelden.huurcommissie.nl
@@ -1625,6 +1626,7 @@ acp.osb.kvk.nl
 acp.staging.rijkswaterstaat.nl
 acp.staging.werkenbij.rijkswaterstaat.nl
 acpt-machtigen.digipoort.logius.nl
+acpt.nationaalarchief.nl
 acs-acpt.brabant.nl
 acs-hosted-feature-layers-faq-esri.hub.arcgis.com
 acs.brabant.nl
@@ -1643,6 +1645,9 @@ activemq.beheer.intpatch.omgevingswet.overheid.nl
 activesync.hetcak.nl
 activesync.kadaster.nl
 activitydashboard.arcgis.com
+actorenregister.acpt.nationaalarchief.nl
+actorenregister.nationaalarchief.nl
+actorenregister.test.nationaalarchief.nl
 actuality-education-fr.hub.arcgis.com
 actueel.nl-alert.nl
 acworthga-acworth.hub.arcgis.com
@@ -1975,6 +1980,7 @@ apdnsa03-p.dmz.belastingdienst.nl
 apdnsa03-q.dmz.belastingdienst.nl
 apdnsa03-vip.dmz.belastingdienst.nl
 apdnsa03.dmz.belastingdienst.nl
+apenet.nationaalarchief.nl
 apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apg-loket.acceptatie.kadaster.nl
@@ -2508,6 +2514,7 @@ autodiscover.minienm.nl
 autodiscover.minszw.nl
 autodiscover.minvws.nl
 autodiscover.mondriaanfonds.nl
+autodiscover.nationaalarchief.nl
 autodiscover.ndw.nu
 autodiscover.nias.knaw.nl
 autodiscover.nin.knaw.nl
@@ -2983,6 +2990,7 @@ bibliographies.brillonline.com.access.authkb.kb.nl
 bibliopolis-prd.cloudservices.kb.nl
 bibliotheek.gezondeleefomgeving.nl
 bibliotheek.knmi.nl
+bibliotheek.nationaalarchief.nl
 bibliotheekwerk.caop.nl
 bibob.kennisplatformondermijning.nl
 bics.nl
@@ -3405,8 +3413,10 @@ cbr.nl
 cbrnsecurity.nctv.nl
 cbs-dnb.dnb.nl
 cbs-dnba.dnb.nl
+cbs.acpt.nationaalarchief.nl
 cbs.cbs.nl
 cbs.knaw.nl
+cbs.nationaalarchief.nl
 cbs.nl
 cbtepr.entreepgb.svb.nl
 cbtest.entreepgb.svb.nl
@@ -3519,6 +3529,7 @@ chat.cito.nl
 chat.datascience.rijkscloud.nl
 chat.ind.nl
 chat.ix.rijkscloud.nl
+chat.nationaalarchief.nl
 chat.ncsc.nl
 chat.rijkscloud.nl
 chat.tst.rijkscloud.nl
@@ -3999,6 +4010,7 @@ crm-ont.erp.kadaster.nl
 crm.cbi.eu
 crm.cultuurparticipatie.nl
 crm.erp.kadaster.nl
+crm.nationaalarchief.nl
 crm.nza.nl
 crm.o.extern.minszw.nl
 crmacc.cbi.eu
@@ -4462,6 +4474,7 @@ developers.arcgis.com
 developers.kvk.nl
 development.bblonline.nl
 development.bodemrichtlijn.nl
+development.nationaalarchief.nl
 devext.arcgis.com
 devportal.competentnl.nl
 devsamdevelop.github.io
@@ -4563,15 +4576,22 @@ digidentity-preproduction.sso.eherkenning.nl
 digidentity-staging.sso.eherkenning.nl
 digidentity.sso.eherkenning.nl
 digidzakelijk.duo.nl
+digikoppeling-acpt.nationaalarchief.nl
 digikoppeling-dcr.cibg.nl
+digikoppeling-ted.nationaalarchief.nl
 digikoppeling-test.hdsr.nl
+digikoppeling-test.nationaalarchief.nl
 digikoppeling.acm.nl
+digikoppeling.acpt.nationaalarchief.nl
 digikoppeling.bkd.eu
 digikoppeling.cibg.nl
 digikoppeling.dictu.nl
 digikoppeling.diginetwerk.dictu.nl
 digikoppeling.hdsr.nl
+digikoppeling.nationaalarchief.nl
 digikoppeling.odmh.nl
+digikoppeling.ted.nationaalarchief.nl
+digikoppeling.test.nationaalarchief.nl
 digikoppeling.waterschaplimburg.nl
 digikoppeling1.duo.nl
 digikoppeling2.cibg.nl
@@ -4890,10 +4910,21 @@ dxp.cloud.kadaster.nl
 dxp.test.cloud.kadaster.nl
 dynamo-hia.eu
 e-akkoord.nl
+e-bom.acpt.nationaalarchief.nl
+e-bom.nationaalarchief.nl
+e-bom.ted.nationaalarchief.nl
+e-bom.test.nationaalarchief.nl
 e-cert.nl
 e-certnl-acc.nvwa.nl
 e-certnl-sch.nvwa.nl
 e-certnl.nvwa.nl
+e-depot-6-2.acpt.nationaalarchief.nl
+e-depot-ted.nationaalarchief.nl
+e-depot-ua.nationaalarchief.nl
+e-depot.acpt.nationaalarchief.nl
+e-depot.nationaalarchief.nl
+e-depot.ted.nationaalarchief.nl
+e-depot.test.nationaalarchief.nl
 e-learning.opwegnaarseb.nl
 e-learning.rvo.nl
 e-learningbibob.acc.justis.nl
@@ -4942,10 +4973,12 @@ eaweb.rvb.rijkscloud.nl
 ebb-a-az1.mijn.overheid.nl
 ebb-a-az2.mijn.overheid.nl
 ebc.databank.nl
+ebms-ted.nationaalarchief.nl
 ebms.cbs.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
 ebms.kvk.nl
+ebms.nationaalarchief.nl
 ebms.service.bta.omgevingswet.overheid.nl
 ebms2.kvk.nl
 ebookmessage.kb.nl
@@ -5114,6 +5147,7 @@ emobility-acc.rvo.nl
 emobility.rvo.nl
 en.inburgeren.nl
 en.lvnl.nl
+en.nationaalarchief.nl
 enabling.omgevingswet.overheid.nl
 encryption-auth-acc.dictu.nl
 encryption-auth-prod.dictu.nl
@@ -5883,6 +5917,7 @@ ftp.dji.nl
 ftp.espacenet.com
 ftp.kbvg.nl
 ftp.koop.overheid.nl
+ftp.nationaalarchief.nl
 ftp.ofgv.nl
 ftp.oostvaarderskliniek.nl
 ftp.schoolleidersregisterpo.nl
@@ -5917,10 +5952,12 @@ gaa-jwt.acc.private.kadaster.nl
 gaa.acceptatie.kadaster.nl
 gaa.kadaster.nl
 gaa.test.kadaster.nl
+gaf.nationaalarchief.nl
 galerij.kb.nl
 galway-city-council-opendata-galwaycityco.hub.arcgis.com
 garima-ydv.github.io
 gasten.acm.nl
+gatekeeper.nationaalarchief.nl
 gateway-acc.minienm.nl
 gateway-acc.minienw.nl
 gateway-extern-acc.minienm.nl
@@ -5935,10 +5972,14 @@ gateway.apim.acc.cloudservices.kb.nl
 gateway.cultuurparticipatie.nl
 gateway.minienm.nl
 gateway.minienw.nl
+gateway.nationaalarchief.nl
 gateway.test.ggdcontact.irealisatie.nl
 gatus.lpc.logius.nl
+gb-acpt.nationaalarchief.nl
+gb-ted.nationaalarchief.nl
 gb-test.brabant.nl
 gb.espacenet.com
+gb.nationaalarchief.nl
 gba-bvr-ftps.belastingdienst.nl
 gba-bvr.belastingdienst.nl
 gbatmv.rvo.nl
@@ -6308,6 +6349,7 @@ grafana.ix.rijkscloud.nl
 grafana.lpc.logius.nl
 granvillecounty.maps.arcgis.com
 graph.zandbak.dans.knaw.nl
+graphdb.nationaalarchief.nl
 graphql-oat.dev.huc.knaw.nl
 graphs.globalise.huygens.knaw.nl
 grasp-acc.azure.dnb.nl
@@ -6547,6 +6589,7 @@ hub-renvilleco.hub.arcgis.com
 hub-sandbox-compass.arcgis.com
 hub-wilkinco.hub.arcgis.com
 hub.arcgis.com
+hub3.nationaalarchief.nl
 hubcdn.arcgis.com
 hubqacdn.arcgis.com
 huc.idp.knaw.nl
@@ -7749,6 +7792,8 @@ lavsinfo.nl
 law-enforcement.container.hansken.org
 lb1.gn3.rijkscloud.nl
 lbio.nl
+lbrproxy.prod.nationaalarchief.nl
+lbrproxy.test.nationaalarchief.nl
 lc.cbs.nl
 lcms.nl
 lcnk.nl
@@ -7928,6 +7973,8 @@ locationservices6.az-int.arcgis.com
 locationservices7.arcgis.com
 locationservices7.az-int.arcgis.com
 locov.nl
+lod-data.nationaalarchief.nl
+lod-graphdb.test.nationaalarchief.nl
 lod.duo.nl
 lod.kb.nl
 loganms.github.io
@@ -8241,6 +8288,7 @@ mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
 mail.naarnederland.nl
 mail.nak.nl
+mail.nationaalarchief.nl
 mail.ndw.nu
 mail.nifp.nl
 mail.nin.knaw.nl
@@ -8392,6 +8440,7 @@ matomo.cip-overheid.nl
 matomo.ciz.nl
 matomo.dataplatform.knmi.nl
 matomo.lerenenwerken.nl
+matomo.nationaalarchief.nl
 matra-south.rvo.nl
 matrix.ix.rijkscloud.nl
 matroos.rijkswaterstaat.nl
@@ -8471,6 +8520,7 @@ meet.rijkscloud.nl
 meet.rijksrecherche.nl
 meet.vechtstromen.nl
 meeting.acm.nl
+meeting.nationaalarchief.nl
 meeting.services.acm.nl
 meetingpointdji.nl
 melding-cmoa.cvdm.nl
@@ -9131,6 +9181,7 @@ nas-adaptatietool.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalarchief.dnb.nl
+nationaalarchief.nl
 nationaalarchiefa.dnb.nl
 nationaalcohortonderzoek.cbs.nl
 nationaalcoordinatorgroningen.nl
@@ -9204,6 +9255,7 @@ nextcloud.rvb.rijkscloud.nl
 nextcloud.tst.rijkscloud.nl
 nextcloud.waterschaplimburg.nl
 nextcloudpoc.ienwfib.rijkscloud.nl
+nextdrive.nationaalarchief.nl
 nexus-docker.aerius.nl
 nexus.aerius.nl
 nexus.cvm.rijkscloud.nl
@@ -9596,6 +9648,7 @@ ontheffingaanvragen.e-tol.nl
 ontheffingaanvragen.vrachtwagenheffing.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
+ontorefine.nationaalarchief.nl
 ontw-kadatamobiel.kadaster.nl
 ontw-kadatawebservice.kadaster.nl
 ontw-mijn.kadaster.nl
@@ -9943,6 +9996,7 @@ or.acceptatie.kadaster.nl
 or.kadaster.nl
 orac.test.gf.irealisatie.nl
 oracleoem21.knaw.nl
+oranjehotel.nationaalarchief.nl
 orchestrator.ncsc.nl
 ordz.nl
 orfeus.knmi.nl
@@ -10762,6 +10816,7 @@ prod.lerenenwerken.nl
 prod.mercurius.sso3w.nl
 prod.mi-cert.nl
 prod.milieuzones.nl
+prod.nationaalarchief.nl
 prod.nl-alert.nl
 prod.radar.rdi.nl
 prod.rvig.nl
@@ -10927,6 +10982,11 @@ pwa002.belastingdienst.nl
 pwik.datawonen.nl
 pwreset.ictu.nl
 pypostcode.dev-datafabriek.ienw.rijkscloud.nl
+pywb-warc-check.acpt.nationaalarchief.nl
+pywb.acpt.nationaalarchief.nl
+pywb.nationaalarchief.nl
+pywb.ted.nationaalarchief.nl
+pywb.test.nationaalarchief.nl
 pzh.databank.nl
 qa.coronatest.nl
 qaext.arcgis.com
@@ -11017,6 +11077,7 @@ rdgateway.onderwijsraad.nl
 rdi.nl
 rdinfo.kadaster.nl
 rdp.cultuurparticipatie.nl
+rds-acpt.nationaalarchief.nl
 rds.letterenfonds.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
@@ -11362,6 +11423,8 @@ rpa.minienw.nl
 rpnl-acc.dsolv.test.cloud.kadaster.nl
 rpnl-pil.dsolv.cloud.kadaster.nl
 rpnl-pro.dsolv.cloud.kadaster.nl
+rproxy-prod-pub.nationaalarchief.nl
+rproxy-prod.nationaalarchief.nl
 rpx-qa.nza.nl
 rpx.nza.nl
 rs-i.espacenet.com
@@ -11620,6 +11683,7 @@ scatterometer.knmi.nl
 scenario.aerius.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
+schaduw.nationaalarchief.nl
 schedule.justid.nl
 scheiden.belastingdienst.nl
 schemas.ep-online.nl
@@ -11735,6 +11799,7 @@ service.integratie02.omgevingswet.overheid.nl
 service.intpatch.omgevingswet.overheid.nl
 service.mpn.minienm.nl
 service.mpn.minienw.nl
+service.nationaalarchief.nl
 service.nvwa.nl
 service.omgevingswet.overheid.nl
 service.pdok.cloud.kadaster.nl
@@ -11804,7 +11869,10 @@ sfbwebext.lbio.nl
 sfs-acc.dictu.nl
 sfs.dictu.nl
 sftp-out.brba.nl
+sftp.acpt.nationaalarchief.nl
 sftp.cbs.nl
+sftp.nationaalarchief.nl
+sftp.ted.nationaalarchief.nl
 sftp.test.cbs.nl
 sftp4dummies.cbs.nl
 sgr.bkwi.nl
@@ -12577,6 +12645,7 @@ teams.hhdelfland.nl
 teamstest.hhdelfland.nl
 techniekacademie.rijkswaterstaat.nl
 technische-documentatie.oep.overheid.nl
+ted.nationaalarchief.nl
 teelt.bkd.eu
 tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
 tekortkomingen-wvggz.webservices-dbb.igj.nl
@@ -12597,6 +12666,7 @@ telewerken.bkd.eu
 telewerken.gslb.landelijkemeldkamer.org
 telewerken.hhdelfland.nl
 telewerken.landelijkemeldkamer.org
+telewerken.nationaalarchief.nl
 telewerken.om.nl
 tenantapp.ec.rijkscloud.nl
 terrell.maps.arcgis.com
@@ -12761,6 +12831,7 @@ test.mobiliteitsbank.nl
 test.mondriaanfonds.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.naamswijziging.justis.nl
+test.nationaalarchief.nl
 test.natura2000.nl
 test.ncsc.nl
 test.nl-alert.nl
@@ -13135,6 +13206,7 @@ tzpubliekscontact-acc.dnb.nl
 tzpubliekscontact-dev.dnb.nl
 tzpubliekscontact-tst.dnb.nl
 tzpubliekscontact.dnb.nl
+ua.e-depot-ted.nationaalarchief.nl
 uae-air-quality-index-fcsa.hub.arcgis.com
 uag.cbs.nl
 uag.duo.nl
@@ -13451,6 +13523,9 @@ vno.minbzk.nl
 vnw.minbzk.nl
 vo-rijk-acc.cjib.nl
 vocabs.cbs.nl
+vocbesatzungen.nationaalarchief.nl
+vocopvarenden.nationaalarchief.nl
+vocseavoyagers.nationaalarchief.nl
 vog.jeugdconnect.nl
 vogcheck.justis.nl
 voi.brabant.nl
@@ -13476,6 +13551,9 @@ vorijkbo-tst.rvo.nl
 vos.intranet.rijkswaterstaat.nl
 vouch.checkjeprijs.huurcommissie.nl
 vpg-aag-test.belastingdienst.nl
+vpn-server1.acpt.nationaalarchief.nl
+vpn-server1.nationaalarchief.nl
+vpn-server2.nationaalarchief.nl
 vpn-ssp.devops.rvb.rijkscloud.nl
 vpn-tst.dictu.nl
 vpn-ump.devops.rvb.rijkscloud.nl
@@ -14094,12 +14172,15 @@ wsgwhc.belastingdienst.nl
 wsjg.databank.nl
 wsp.waves.databank.nl
 wsus.hdsr.nl
+wus-acpt.nationaalarchief.nl
 wus-encryptie.acc.belastingdienst.nl
 wus-encryptie.belastingdienst.nl
 wus-gemnet.belastingdienst.nl
 wus-osb.belastingdienst.nl
 wus-rijks.belastingdienst.nl
+wus-ted.nationaalarchief.nl
 wus.belastingdienst.nl
+wus.nationaalarchief.nl
 wus2-osb.belastingdienst.nl
 wus2.belastingdienst.nl
 wus2test-osb.belastingdienst.nl
@@ -15121,6 +15202,7 @@ www.nak.nl
 www.naktuinbouw.com
 www.naktuinbouw.nl
 www.nas-adaptatietool.nl
+www.nationaalarchief.nl
 www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl
@@ -15330,6 +15412,7 @@ www.symposium.keringhuis.nl
 www.synbiosys.alterra.nl
 www.taiwan.investinholland.com
 www.tcs-resident.minvws.nl
+www.ted.nationaalarchief.nl
 www.test.aquo.nl
 www.test.coronatest.nl
 www.test.cruksregister.nl
@@ -15437,6 +15520,7 @@ www1.cito.nl
 www1.fa.knaw.nl
 www1.hdsr.nl
 www1.kvk.nl
+www1.nationaalarchief.nl
 www1.rijkswaterstaat.nl
 www2-ts.zorginzicht.nl
 www2.acc1.ep-online.nl
@@ -15589,6 +15673,7 @@ zuidlimburg.leerwerkloket.nl
 zuidlimburg.lerenenwerken.nl
 zuidoostbrabant.leerwerkloket.nl
 zvs.woo.irealisatie.nl
+zvt.nationaalarchief.nl
 zw.chm-cbd.net
 zw.prod.chm-cbd.net
 zw.test.chm-cbd.net
