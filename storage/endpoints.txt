@@ -125,6 +125,7 @@ http://autodiscover.kvk.nl
 http://autodiscover.lvnl.nl
 http://autodiscover.meertens.knaw.nl
 http://autodiscover.mondriaanfonds.nl
+http://autodiscover.nationaleombudsman.nl
 http://autodiscover.nias.knaw.nl
 http://autodiscover.nin.knaw.nl
 http://autodiscover.niod.knaw.nl
@@ -4822,6 +4823,7 @@ https://jaarverslag.dopingautoriteit.nl
 https://jaarverslag.fondspodiumkunsten.nl
 https://jaarverslag.lvnl.nl
 https://jaarverslag.nak.nl
+https://jaarverslag.nationaleombudsman.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
 https://jaarverslag2024.bkd.eu
@@ -5750,6 +5752,7 @@ https://nationalacademy.nl
 https://nationalebijenstrategie.nl
 https://nationaleconferentieduurzamemobiliteit.nl
 https://nationaleenergieatlas.nl
+https://nationaleombudsman.nl
 https://natura2000-data.zuid-holland.nl
 https://natura2000.nl
 https://natuurbeheerplan.flevoland.nl
@@ -8968,6 +8971,7 @@ https://www.nationalacademy.nl
 https://www.nationalebijenstrategie.nl
 https://www.nationaleconferentieduurzamemobiliteit.nl
 https://www.nationaleenergieatlas.nl
+https://www.nationaleombudsman.nl
 https://www.natura2000.nl
 https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl

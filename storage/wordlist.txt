@@ -53,6 +53,7 @@ apps
 kennisbank
 open
 elearning
+jaarverslag
 webservices
 docs
 dialin
@@ -67,7 +68,6 @@ www-p
 www-tst
 adfs
 tst
-jaarverslag
 preview
 services
 beeldbank
