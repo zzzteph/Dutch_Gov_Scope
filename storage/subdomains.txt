@@ -7042,6 +7042,7 @@ jaarverslag.fondspodiumkunsten.nl
 jaarverslag.justis.nl
 jaarverslag.knmi.nl
 jaarverslag.lvnl.nl
+jaarverslag.nak.nl
 jaarverslag2011.forensischinstituut.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
@@ -8230,6 +8231,7 @@ mail.maror.nl
 mail.mass.cultureelerfgoed.nl
 mail.mensenrechten.nl
 mail.naarnederland.nl
+mail.nak.nl
 mail.ndw.nu
 mail.nifp.nl
 mail.nin.knaw.nl
@@ -8346,11 +8348,13 @@ map.test.cloud.kadaster.nl
 mapgis-map-gis.hub.arcgis.com
 mapmkeonline.maps.arcgis.com
 mappingtool.acc.cloudservices.kb.nl
+maps-a.nak.nl
 maps-braintreema.hub.arcgis.com
 maps-cityofpasco.hub.arcgis.com
 maps-north-ayrshire.opendata.arcgis.com
 maps.aaenmaas.nl
 maps.fa.knaw.nl
+maps.nak.nl
 maps.ndw.nu
 maps.rijkswaterstaat.nl
 maps.staging.ndw.nu
@@ -9012,6 +9016,7 @@ msgcpp-ogc-realtime.knmi.nl
 msgcpp.knmi.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
+msoid.nak.nl
 msp-a.logius.nl
 mst-acc.ctgb.nl
 mst-ci.ctgb.nl
@@ -9104,6 +9109,7 @@ nabb.databank.nl
 nac.nctv.nl
 nac014005.mgmtdwr.rijksoverheid.nl
 naip.arcgis.com
+nak.nl
 nap-ev.ndw.nu
 napsg.maps.arcgis.com
 nat_o5001vmfavapp.ont.belastingdienst.nl
@@ -9204,6 +9210,7 @@ nieuw.acc.luchtvaartmeteo.nl
 nieuw.acm.nl
 nieuw.logerenbijdeboswachter.nl
 nieuw.luchtvaartmeteo.nl
+nieuw.nak.nl
 nieuws.brabant.nl
 nieuws.coa.nl
 nieuws.rvo.nl
@@ -10519,6 +10526,7 @@ portaal.wifi.belastingdienst.nl
 portaalsp.minienm.nl
 portainer.cultuurparticipatie.nl
 portal-a.cito.nl
+portal-a.nak.nl
 portal-a.secure.cito.nl
 portal-ams.ewnederland.nl
 portal-performance.test.ix.rijkscloud.nl
@@ -10553,6 +10561,7 @@ portal.lvb.cloud.kadaster.nl
 portal.lvb.kadaster.nl
 portal.lvb.test.kadaster.nl
 portal.mfaservices.nl
+portal.nak.nl
 portal.plp.kadaster.nl
 portal.rijksdienstcn.com
 portal.shinyproxy.ix.rijkscloud.nl
@@ -11951,6 +11960,7 @@ slimwatermanagement.nl
 sltn.bzv.brabant.nl
 sm-i.espacenet.com
 sm.espacenet.com
+smartforms.nak.nl
 smartmobility.flevoland.nl
 smartsurveys.cbs.nl
 smtp.awti.nl
@@ -12377,6 +12387,7 @@ sts.hhdelfland.nl
 sts.hogeraad.nl
 sts.kansspelautoriteit.nl
 sts.koop.overheid.nl
+sts.nak.nl
 stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
 stturn1-tst.belastingdienst.nl
@@ -13490,6 +13501,7 @@ vpn04.ec.rijkscloud.nl
 vpn1.cbs.nl
 vpn1.cjib.nl
 vpn1.ec.rijkscloud.nl
+vpn1.nak.nl
 vpn2.aaenmaas.nl
 vpn2.cbs.nl
 vpn2.cjib.nl
@@ -13580,6 +13592,7 @@ wadsup.beheerautoriteitwaddenzee.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
+wap.nak.nl
 wapenfeiten.zuid-holland.nl
 warmtetransitieatlas.zuid-holland.nl
 was-a1.digid.nl
@@ -13745,6 +13758,7 @@ webmail.kcb.nl
 webmail.knmi.nl
 webmail.kvk.nl
 webmail.leidraadse.nl
+webmail.nak.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
@@ -13864,6 +13878,7 @@ werkenbij.ifv.nl
 werkenbij.justid.nl
 werkenbij.kcb.nl
 werkenbij.kvk.nl
+werkenbij.nak.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.toeslagen.nl
@@ -15079,6 +15094,7 @@ www.mycoa.nl
 www.n35wijthmennijverdal.nl
 www.n3werkzaamheden.nl
 www.naarnederland.nl
+www.nak.nl
 www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl

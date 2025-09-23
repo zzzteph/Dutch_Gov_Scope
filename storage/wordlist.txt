@@ -10,8 +10,8 @@ english
 a-www
 mijn
 a-opendata
-a-feeds
 webmail
+a-feeds
 api
 _autodiscover._tcp
 acceptatie
@@ -26,14 +26,14 @@ staging
 formulieren
 werkplek
 prod
+portal
 redactie
 _dmarc
+werkenbij
 sip
-portal
 data
 smtp
 portaal
-werkenbij
 connect
 e
 remote
@@ -66,6 +66,7 @@ www-p
 www-tst
 adfs
 tst
+jaarverslag
 preview
 services
 beeldbank
@@ -81,7 +82,6 @@ www-ow
 www-ts
 www2
 zaaksysteem
-jaarverslag
 adobe-analytics-dc
 adobe-tags
 enterpriseregistration
@@ -90,6 +90,7 @@ werken
 acceptatie.beheer
 demo
 mdm
+sts
 www.acceptatie
 ns1
 www-acc2
@@ -103,6 +104,7 @@ lyncdiscover
 mx1
 aanvragen
 mail2
+maps
 papiamentu
 enterpriseenrollment
 ns2
@@ -113,7 +115,6 @@ geoportaal
 id
 kaarten
 helpdesk
-sts
 designsystem
 www1
 dwo
@@ -138,7 +139,6 @@ cpanel
 events
 magazine
 eloket
-maps
 testeloket
 vpn2
 web
@@ -192,6 +192,7 @@ siam
 admin
 support
 securemail
+nieuw
 gateway
 www.test
 assets
@@ -233,6 +234,7 @@ micollab
 outlook
 status
 uag
+vpn1
 t-cms
 password
 catalogus
@@ -303,7 +305,6 @@ idm
 acc-mijn
 elo
 communicatie
-nieuw
 acc-www
 backend
 office
@@ -385,7 +386,6 @@ seg
 storing
 tunnel
 upload
-vpn1
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
@@ -568,6 +568,7 @@ cf
 fr
 ma
 uk
+portal-a
 thuiswerken
 tst-www
 acc.www
@@ -6860,7 +6861,6 @@ pmds-a
 pmds-o
 pmds-t
 pmds
-portal-a
 portal-a.secure
 preview-a
 preview-t
@@ -11066,3 +11066,7 @@ materiaal
 duediligencetraining
 acc.cms
 test.cms
+maps-a
+msoid
+smartforms
+wap

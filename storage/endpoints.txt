@@ -4799,6 +4799,7 @@ https://jaarverantwoordingzorg.nl
 https://jaarverslag.dopingautoriteit.nl
 https://jaarverslag.fondspodiumkunsten.nl
 https://jaarverslag.lvnl.nl
+https://jaarverslag.nak.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
 https://jaarverslag2024.bkd.eu
@@ -5368,10 +5369,12 @@ https://map.test.cloud.kadaster.nl
 https://mapgis-map-gis.hub.arcgis.com
 https://mapmkeonline.maps.arcgis.com
 https://mappingtool.acc.cloudservices.kb.nl
+https://maps-a.nak.nl
 https://maps-braintreema.hub.arcgis.com
 https://maps-cityofpasco.hub.arcgis.com
 https://maps-north-ayrshire.opendata.arcgis.com
 https://maps.aaenmaas.nl
+https://maps.nak.nl
 https://maps.ndw.nu
 https://maps.rijkswaterstaat.nl
 https://maps.staging.ndw.nu
@@ -5659,6 +5662,7 @@ https://msafe.kvk.nl
 https://msgcpp.knmi.nl
 https://msnp-tegemoetkoming.acc.belastingdienst.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
+https://msoid.nak.nl
 https://mta-sts.belastingdienst.nl
 https://mta-sts.mail.cggp.nl
 https://mta-sts.nza.nl
@@ -5693,6 +5697,7 @@ https://naarnederland.nl
 https://nabb.databank.nl
 https://nac.nctv.nl
 https://naip.arcgis.com
+https://nak.nl
 https://nap-ev.ndw.nu
 https://napsg.maps.arcgis.com
 https://nationaalcohortonderzoek.cbs.nl
@@ -5757,6 +5762,7 @@ https://nias.knaw.nl
 https://nieuw.acc.luchtvaartmeteo.nl
 https://nieuw.logerenbijdeboswachter.nl
 https://nieuw.luchtvaartmeteo.nl
+https://nieuw.nak.nl
 https://nieuws.brabant.nl
 https://nieuws.coa.nl
 https://nieuws.rvo.nl
@@ -6383,6 +6389,7 @@ https://portaal.ncpeh.nl
 https://portaal.nlarbeidsinspectie.nl
 https://portaal.prolander.nl
 https://portainer.cultuurparticipatie.nl
+https://portal-a.nak.nl
 https://portal-a.secure.cito.nl
 https://portal-ams.ewnederland.nl
 https://portal-sigtec.hub.arcgis.com
@@ -6403,6 +6410,7 @@ https://portal.kbvg.nl
 https://portal.lvb.cloud.kadaster.nl
 https://portal.lvb.kadaster.nl
 https://portal.lvb.test.kadaster.nl
+https://portal.nak.nl
 https://portal.rijksdienstcn.com
 https://portal.workspace.kadaster.nl
 https://portal118.rijkscloud.nl
@@ -7036,6 +7044,7 @@ https://slims.github.io
 https://slimwatermanagement.nl
 https://sm-i.espacenet.com
 https://sm.espacenet.com
+https://smartforms.nak.nl
 https://smartsurveys.cbs.nl
 https://smtp.awti.nl
 https://smtp.oostvaarderskliniek.nl
@@ -7250,6 +7259,7 @@ https://sts.cbg-meb.nl
 https://sts.cbs.nl
 https://sts.hogeraad.nl
 https://sts.koop.overheid.nl
+https://sts.nak.nl
 https://studentcoach.rijnmond.leerwerkloket.nl
 https://subsidie.cultureelerfgoed.nl
 https://subsidie.waterschaplimburg.nl
@@ -7800,6 +7810,7 @@ https://vpn.irealisatie.nl
 https://vpn.test.cloud.kadaster.nl
 https://vpn.web.ictu.nl
 https://vpn1.cjib.nl
+https://vpn1.nak.nl
 https://vpn2.aaenmaas.nl
 https://vpn2.cjib.nl
 https://vpn3.cjib.nl
@@ -7839,6 +7850,7 @@ https://wachtwoord.brabant.nl
 https://wachtwoord.cultuurparticipatie.nl
 https://wachtwoord.rijkswaterstaat.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
+https://wap.nak.nl
 https://wapenfeiten.zuid-holland.nl
 https://was-preprod1.digid.nl
 https://was-preprod2.digid.nl
@@ -7906,6 +7918,7 @@ https://webmail.globio.info
 https://webmail.ibki.nl
 https://webmail.kansspelautoriteit.nl
 https://webmail.leidraadse.nl
+https://webmail.nak.nl
 https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
 https://webmail.rijkscloud.nl
@@ -7958,6 +7971,7 @@ https://werkenbij.ifv.nl
 https://werkenbij.justid.nl
 https://werkenbij.kcb.nl
 https://werkenbij.kvk.nl
+https://werkenbij.nak.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -8880,6 +8894,7 @@ https://www.mycoa.nl
 https://www.n35wijthmennijverdal.nl
 https://www.n3werkzaamheden.nl
 https://www.naarnederland.nl
+https://www.nak.nl
 https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgeoregister.nl
 https://www.nationaalgroeifonds.nl
