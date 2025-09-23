@@ -13,8 +13,8 @@ a-opendata
 webmail
 a-feeds
 api
-_autodiscover._tcp
 acceptatie
+_autodiscover._tcp
 magazines
 intranet
 feeds.english
@@ -146,6 +146,7 @@ eloket
 testeloket
 vpn2
 web
+ontwikkel
 prd
 geodata
 merkportaal
@@ -201,7 +202,6 @@ matomo
 assets
 sip.myroom
 luchtfoto
-ontwikkel
 pushmail
 smtp1
 academie

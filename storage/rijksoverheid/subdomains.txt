@@ -1532,6 +1532,7 @@ acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.mondriaanfonds.nl
 acceptatie.mq.esb.rijkswaterstaat.nl
+acceptatie.nationaleenergieatlas.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.ordz.nl
 acceptatie.pacemweb.nl
@@ -9199,6 +9200,7 @@ nationalacademy.nl
 nationalaccounts.niwi.knaw.nl
 nationalebijenstrategie.nl
 nationaleconferentieduurzamemobiliteit.nl
+nationaleenergieatlas.nl
 natura2000-data.zuid-holland.nl
 natura2000.nl
 natuurbeheerplan.flevoland.nl
@@ -9666,6 +9668,7 @@ ontwikkel.atlasnatuurlijkkapitaal.nl
 ontwikkel.auth.dezi.nl
 ontwikkel.cbs.nl
 ontwikkel.machtigen.digid.nl
+ontwikkel.nationaleenergieatlas.nl
 ontwikkel.sapgw.minienw.nl
 ontwikkel.uzipas.auth.dezi.nl
 ontwikkel.uzipas.dezi.nl
@@ -12839,6 +12842,7 @@ test.mondriaanfonds.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.naamswijziging.justis.nl
 test.nationaalarchief.nl
+test.nationaleenergieatlas.nl
 test.natura2000.nl
 test.ncsc.nl
 test.nl-alert.nl
@@ -15223,6 +15227,7 @@ www.nationaalwegenbestand.nl
 www.nationalacademy.nl
 www.nationalebijenstrategie.nl
 www.nationaleconferentieduurzamemobiliteit.nl
+www.nationaleenergieatlas.nl
 www.natura2000.nl
 www.ncab.nl
 www.ncadierproevenbeleid.nl
