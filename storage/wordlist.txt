@@ -19,8 +19,8 @@ magazines
 feeds.english
 intranet
 opendata.english
-vpn
 cms
+vpn
 www-acc
 staging
 formulieren
@@ -310,6 +310,7 @@ office
 training
 vragen
 matomo
+test.www
 fryslan
 haaglanden
 zeeland
@@ -569,7 +570,7 @@ ma
 uk
 thuiswerken
 tst-www
-test.www
+acc.www
 develop
 rest
 inschrijven
@@ -6963,7 +6964,6 @@ snippet.acc
 snippet
 acc-tvs
 acc.statistieken
-acc.www
 acceptatie-api
 acceptatie-identity
 cgbs
@@ -11064,3 +11064,5 @@ prixderome
 rapportages
 materiaal
 duediligencetraining
+acc.cms
+test.cms

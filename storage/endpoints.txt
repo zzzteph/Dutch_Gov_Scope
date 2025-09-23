@@ -1362,6 +1362,7 @@ https://acc.centruminternationaalrecht.nl
 https://acc.cerberus.cbs.nl
 https://acc.cimlk.nl
 https://acc.client.archis.cultureelerfgoed.nl
+https://acc.cms.mycoa.nl
 https://acc.cms21.knaw.nl
 https://acc.cmv-kandidaat.sso3w.nl
 https://acc.consexponano.nl
@@ -1431,6 +1432,7 @@ https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.wegwijzer.overheid.nl
+https://acc.www.mycoa.nl
 https://acc.zorginzicht.nl
 https://acc2.bio-overheid.nl
 https://acc2.bronhouderportaal-bro.nl
@@ -2797,6 +2799,7 @@ https://cms.denkmee.zuid-holland.nl
 https://cms.filmfonds.nl
 https://cms.jeugdconnect.nl
 https://cms.mensenrechten.nl
+https://cms.mycoa.nl
 https://cms.projects.rvo.nl
 https://cms.rvo.nl
 https://cms.tlokb.nl
@@ -5676,6 +5679,7 @@ https://mw-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://my.test.chm-cbd.net
+https://mycoa.nl
 https://mydesktop.svb.nl
 https://myidp-acc.postedworkers.nl
 https://myidp.postedworkers.nl
@@ -7364,6 +7368,7 @@ https://test.bromonitor.nl
 https://test.cbi.eu
 https://test.cdho.nl
 https://test.cerberus.cbs.nl
+https://test.cms.mycoa.nl
 https://test.consuwijzer.nl
 https://test.control.ictu.nl
 https://test.cruksregister.nl
@@ -7426,6 +7431,7 @@ https://test.toolkittaal.gebruikercentraal.nl
 https://test.volwassenheidsscan.gebruikercentraal.nl
 https://test.web.ictu.nl
 https://test.web.nmp.ictu.nl
+https://test.www.mycoa.nl
 https://testauthentication.di.huc.knaw.nl
 https://testbegrippen.hdsr.nl
 https://testcao.minszw.nl
@@ -8865,6 +8871,7 @@ https://www.mooibeweging.nl
 https://www.mta-sts.vechtstromen.nl
 https://www.mvicriteria.nl
 https://www.mvotools.nl
+https://www.mycoa.nl
 https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgeoregister.nl
 https://www.nationaalgroeifonds.nl

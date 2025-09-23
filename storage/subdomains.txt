@@ -1248,6 +1248,7 @@ acc.cimlk.nl
 acc.cip-overheid.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.clo.nl
+acc.cms.mycoa.nl
 acc.cms21.knaw.nl
 acc.cmv-kandidaat.sso3w.nl
 acc.consexponano.nl
@@ -1359,6 +1360,7 @@ acc.wegwijzer.overheid.nl
 acc.werkenbij.api.rijkswaterstaat.nl
 acc.woo.irealisatie.nl
 acc.www.coa.nl
+acc.www.mycoa.nl
 acc.zorginzicht.nl
 acc.zsmgame.om.nl
 acc0.mijn.overheid.nl
@@ -3698,6 +3700,7 @@ cms.knaw.nl
 cms.knmi.nl
 cms.mensenrechten.nl
 cms.minienm.nl
+cms.mycoa.nl
 cms.o.extern.minszw.nl
 cms.platformrijksoverheid.nl
 cms.projects.rvo.nl
@@ -9077,6 +9080,7 @@ mxrelay1.overheid.nl
 mxrelay2.overheid.nl
 my.test.chm-cbd.net
 myadmin.huc.knaw.nl
+mycoa.nl
 mydesktop.svb.nl
 myidp-acc.postedworkers.nl
 myidp.postedworkers.nl
@@ -12653,6 +12657,7 @@ test.cerberus.cbs.nl
 test.chm-cbd.net
 test.cibg.nl
 test.cloud.kadaster.nl
+test.cms.mycoa.nl
 test.commabz.nl
 test.consuwijzer.nl
 test.contactpuntbouwproducten.nl
@@ -12755,6 +12760,7 @@ test.webservices.donorregister.nl
 test.woo.irealisatie.nl
 test.www.coa.nl
 test.www.knaw.nl
+test.www.mycoa.nl
 test12.dictu.nl
 test2.kinderbescherming.nl
 test202007201227.dictu.nl
@@ -15064,6 +15070,7 @@ www.mta-sts.vechtstromen.nl
 www.mvb.databank.nl
 www.mvicriteria.nl
 www.mvotools.nl
+www.mycoa.nl
 www.nationaalcoordinatorgroningen.nl
 www.nationaalgeoregister.nl
 www.nationaalgroeifonds.nl
