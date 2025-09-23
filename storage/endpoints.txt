@@ -33,6 +33,7 @@ http://acc.mgo.irealisatie.nl
 http://acc.mijn.logerenbijdeboswachter.nl
 http://acc.subsidie.cultureelerfgoed.nl
 http://acc.woo.irealisatie.nl
+http://accept-betalen.nba.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
 http://acceptatie.clusterbuster.nl
@@ -44,6 +45,7 @@ http://acceptatie.loketgezondleven.nl
 http://acceptatie.pacemweb.nl
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://acceptatie.zoek.bodemambities.nl
+http://access.nba.nl
 http://acme2.proeftuin.uzi-online.irealisatie.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
@@ -80,6 +82,7 @@ http://arcgis-natgeo-home-learngis.hub.arcgis.com
 http://archief.zuid-holland.nl
 http://architectenregister.nl
 http://arcscripts.arcgis.com
+http://as.im.nba.nl
 http://atlas-acpt.brabant.nl
 http://auth.openstad.zuid-holland.nl
 http://authenticatie-acc.inspectieview.nl
@@ -139,6 +142,7 @@ http://autodiscover.spinozacentre.knaw.nl
 http://autodiscover.test.knaw.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
+http://av1.nba.nl
 http://azfortigate.bkd.eu
 http://backend-groeimeter-o.cito.nl
 http://bacterial-meningitis.nl
@@ -147,6 +151,7 @@ http://beeldenvanderaad.nl
 http://beheermlo.zuid-holland.nl
 http://beirut-built-environment-database-base-map-aub.hub.arcgis.com
 http://benchmarkpovo.databank.nl
+http://besloten-nba-acc.nba.nl
 http://beta-adc.databank.nl
 http://beta-aisnbtc.databank.nl
 http://beta-beslotenwaves.databank.nl
@@ -160,6 +165,7 @@ http://beta-noordholland.databank.nl
 http://beta-odata4.cbs.nl
 http://beta-velsen.databank.nl
 http://beta-waves.databank.nl
+http://betalen.nba.nl
 http://bevolkingsonderzoek.nl
 http://bft-plein-acc.bureauft.nl
 http://bft-plein.bureauft.nl
@@ -206,6 +212,7 @@ http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://criminaliteitenrecht.nl
 http://crm.nza.nl
+http://crs.nba.nl
 http://css.openstad.zuid-holland.nl
 http://d7.rvo.nl
 http://data-acc.rijkswaterstaat.nl
@@ -235,12 +242,14 @@ http://dgp-pp-az1.elastic.lpc.logius.nl
 http://dgp-pp-az1.kibana.lpc.logius.nl
 http://dgp-pp-az2.elastic.lpc.logius.nl
 http://dgp-pp-az2.kibana.lpc.logius.nl
+http://dialin.nba.nl
 http://digitalnorthsea.eu
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
 http://docs.hansken.org
 http://docs.lpc.logius.nl
 http://documentlevering.kb.nl
+http://download.im.nba.nl
 http://download.webmail.knmi.nl
 http://dse.lx.overheid.nl
 http://duurzaam-mkb.zuid-holland.nl
@@ -317,6 +326,7 @@ http://idp-acc.globalentry-rtp.nl
 http://idp.globalentry-rtp.nl
 http://ihw.nl
 http://iltbuildserver.dictu.nl
+http://im.nba.nl
 http://images.huygens.knaw.nl
 http://imageviewer.kb.nl
 http://img.openstad.zuid-holland.nl
@@ -349,6 +359,7 @@ http://koopkoppeling.zuid-holland.nl
 http://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie.proeftuin.gf.irealisatie.nl
+http://kwaliteitstoetsing.nba.nl
 http://ldn-inbox.labs.dans.knaw.nl
 http://license.labs.dans.knaw.nl
 http://linkextractor.overheid.nl
@@ -358,6 +369,7 @@ http://localisation.test.zm.irealisatie.nl
 http://login-uzi.pilot.uzi-online.minvws.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
+http://login.nba.nl
 http://loket.acceptatie.rijkswaterstaat.nl
 http://longread.brabant.nl
 http://lpc-o-az1.elastic.lpc.logius.nl
@@ -371,11 +383,15 @@ http://lpc-p-az2.kibana.lpc.logius.nl
 http://luchtfoto.zuid-holland.nl
 http://luistertoets.cito.nl
 http://lv109366-web01-out.eerstekamer.nl
+http://lync.nba.nl
+http://lync1.nba.nl
+http://mail-outside.nba.nl
 http://mail.agendavoorhetwaddengebied2050.nl
 http://mail.cea.nl
 http://mail.dev.cbs.nl
 http://mail.infowms.nl
 http://mail.naarnederland.nl
+http://mail.nba.nl
 http://maps.fa.knaw.nl
 http://mapserver.huc.knaw.nl
 http://margarethaklooster.huygens.knaw.nl
@@ -385,6 +401,7 @@ http://mcsd-consumer-admin.test.gf.irealisatie.nl
 http://mcsd-registratie-portaal.test.gf.irealisatie.nl
 http://mcsd-supplier.test.gf.irealisatie.nl
 http://mcsd.test.zm.irealisatie.nl
+http://meet.nba.nl
 http://meridian.rijkswaterstaat.nl
 http://merkportaal.dnb.nl
 http://metabase.cultuurparticipatie.nl
@@ -398,9 +415,11 @@ http://mijn.leeroverzicht.nl
 http://mijn.logerenbijdeboswachter.nl
 http://mijn.zuid-holland.nl
 http://mijnloonstrook.knaw.nl
+http://mijnmobiel.nba.nl
 http://minio2.labs.dans.knaw.nl
 http://minioapi.labs.dans.knaw.nl
 http://mobiel.douane.nl
+http://mobiel.nba.nl
 http://mobielgis-test.zuid-holland.nl
 http://monitoring.huc.knaw.nl
 http://myadmin.huc.knaw.nl
@@ -426,6 +445,7 @@ http://nvi.test.gf.irealisatie.nl
 http://nzrdashboard.vzinfo.nl
 http://obi-t.knaw.nl
 http://occassio.dev.huc.knaw.nl
+http://ocs.nba.nl
 http://odata4.cbs.nl
 http://ogier.huygens.knaw.nl
 http://old-cms.contenttoolsrijksoverheid.nl
@@ -442,12 +462,14 @@ http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
 http://oud.infowms.nl
 http://overpass.dev.huc.knaw.nl
+http://owas1.nba.nl
 http://p-crl.justid.nl
 http://pages.bioinf.nioo.knaw.nl
 http://papdig-toets3.cito.nl
 http://password.knaw.nl
 http://pdok.waterschaplimburg.nl
 http://pdvnl31.dans.knaw.nl
+http://pe-upload.nba.nl
 http://pers.letterenfonds.nl
 http://pgodemo.test.zm.irealisatie.nl
 http://pki-g2.kvk.nl
@@ -462,6 +484,7 @@ http://privilege.huc.knaw.nl
 http://prod.flevoland.nl
 http://prod.rvo.nl
 http://proeftuin.gf.irealisatie.nl
+http://projecten.nba.nl
 http://projectenatlas.zuid-holland.nl
 http://projects.knmi.nl
 http://promise.nioo.knaw.nl
@@ -482,6 +505,7 @@ http://qualification.test.zm.irealisatie.nl
 http://ref.omgevingswet.overheid.nl
 http://registers.dnb.nl
 http://rekentoetsvo.cito.nl
+http://rekentop.nba.nl
 http://release.isis-web.nl
 http://repository-assistant.labs.dans.knaw.nl
 http://republic.huygens.knaw.nl
@@ -520,6 +544,7 @@ http://sharepoint.lvnl.nl
 http://shinyserver.zuid-holland.nl
 http://siem.acc.irealisatie.nl
 http://siem.irealisatie.nl
+http://sip1.nba.nl
 http://sis.zuid-holland.nl
 http://slimmebruggen-backend.zuid-holland.nl
 http://slimmebruggen.zuid-holland.nl
@@ -566,6 +591,7 @@ http://test3.isis-web.nl
 http://testconn.knmi.nl
 http://thuisindecitotoets.cito.nl
 http://tickets.bdmuseum.nl
+http://toekomst.nba.nl
 http://toetsingonline.ccmo.nl
 http://trade.rvo.nl
 http://training-advies.cito.nl
@@ -596,7 +622,9 @@ http://vpn.bkd.eu
 http://vth.zuid-holland.nl
 http://w3dxweb.knmi.nl
 http://warmtetransitieatlas.zuid-holland.nl
+http://web.nba.nl
 http://web.proeftuin.gf.irealisatie.nl
+http://web1.nba.nl
 http://web6.fa.knaw.nl
 http://web7.fa.knaw.nl
 http://webfilter.hetcak.nl
@@ -607,32 +635,50 @@ http://werkenbij.belastingdienst.nl
 http://wolk.hogeraad.nl
 http://wordpress.dans.knaw.nl
 http://workforce.knaw.nl
+http://www.accept-betalen.nba.nl
 http://www.acceptatie.clusterbuster.nl
+http://www.access.nba.nl
+http://www.av1.nba.nl
 http://www.bacterial-meningitis.nl
 http://www.beeldenvanderaad.nl
+http://www.besloten-nba-acc.nba.nl
+http://www.betalen.nba.nl
 http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
 http://www.cev.nl
 http://www.cn.dnb.nl
 http://www.criminaliteitenrecht.nl
+http://www.crs.nba.nl
 http://www.entreepgb.svb.nl
 http://www.german.investinholland.com
 http://www.gipinfo.nl
+http://www.im.nba.nl
 http://www.inspireaanmerking.nl
 http://www.japan.investinholland.com
 http://www.korea.investinholland.com
+http://www.kwaliteitstoetsing.nba.nl
+http://www.login.nba.nl
+http://www.lync.nba.nl
 http://www.me2.alterra.nl
+http://www.mijnmobiel.nba.nl
+http://www.mobiel.nba.nl
 http://www.momfer.meertens.knaw.nl
 http://www.nas-adaptatietool.nl
 http://www.ncc.gov.nl
 http://www.nias.knaw.nl
 http://www.openstad.zuid-holland.nl
+http://www.owas1.nba.nl
+http://www.pe-upload.nba.nl
+http://www.rekentop.nba.nl
 http://www.rivmmagazines.nl
 http://www.scope.nin.knaw.nl
+http://www.sip1.nba.nl
 http://www.slimmerreizen.zuid-holland.nl
 http://www.taiwan.investinholland.com
 http://www.toezichtresultaten.nl
 http://www.uk.investinholland.com
+http://www.web.nba.nl
+http://www.web1.nba.nl
 http://wwwfcinetorg.belastingdienst.nl
 http://wwwrijksacademienl.belastingdienst.nl
 http://xelion.cokz.nl
@@ -2881,9 +2927,11 @@ https://community-gatewayreview.nl
 https://community-health-outreach-statelocaltryit.hub.arcgis.com
 https://community.leerwerkloket.nl
 https://community.lerenenwerken.nl
+https://community.nba.nl
 https://communityanalyst.arcgis.com
 https://communitymaps.arcgis.com
 https://communityportal.hansken.org
+https://compact.nba.nl
 https://competentie.flevoland.nl
 https://competentnl.nl
 https://complaintform.mensenrechten.nl
@@ -3339,6 +3387,7 @@ https://digitaalloket.cjib.nl
 https://digitaalmkb.zuid-holland.nl
 https://digitaalstelselmobiliteitsdata.nl
 https://digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
+https://digital.nba.nl
 https://digital.scp.nl
 https://digitalenoordzee.nl
 https://digitaleoverheid.nl
@@ -4135,6 +4184,7 @@ https://flevoland.leerwerkloket.nl
 https://flevoland.lerenenwerken.nl
 https://flevoland.nl
 https://flowlogics.minbzk.nl
+https://flowmail-elo.nba.nl
 https://flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 https://fme.hdsr.nl
 https://fmhaaglanden.nl
@@ -4247,6 +4297,8 @@ https://gemeenteloket.minszw.nl
 https://gemeenten.svb.nl
 https://gemhofvanjustitie.org
 https://geneesmiddeleninformatiebank.nl
+https://generator-dev.nba.nl
+https://generator.nba.nl
 https://generiekefuncties.datavoorgezondheid.nl
 https://gensys.flevoland.nl
 https://geo-fms.zuid-holland.nl
@@ -4723,7 +4775,10 @@ https://integraleaanpakonlinefraude.nl
 https://integrated-waste-management-fcsa.hub.arcgis.com
 https://integratie.omgevingswet.overheid.nl
 https://integratie02.omgevingswet.overheid.nl
+https://integration-new.nba.nl
+https://integration-pe.nba.nl
 https://integration.cea.nl
+https://integration.nba.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intel-acc.ncsc.nl
 https://intel.ncsc.nl
@@ -5036,6 +5091,7 @@ https://ksliberal.github.io
 https://ktv-servicedesk.ciz.nl
 https://kvk.nl
 https://kvkhuurtin.nl
+https://kwaliteit.nba.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://l1nf3ng.github.io
 https://laadinfrastructuur.databank.nl
@@ -5758,6 +5814,7 @@ https://natura2000-data.zuid-holland.nl
 https://natura2000.nl
 https://natuurbeheerplan.flevoland.nl
 https://natuurenrecreatieschapijsselmonde.nl
+https://nba.nl
 https://nc-a.rvb.rijkscloud.nl
 https://nc-openbaar.vallei-veluwe.nl
 https://nc.rivm.rijkscloud.nl
@@ -5918,6 +5975,7 @@ https://oktibbeha.maps.arcgis.com
 https://old.belastingles.nl
 https://old.caop.nl
 https://old.keringhuis.nl
+https://old.nba.nl
 https://oldsmar.maps.arcgis.com
 https://om.nl
 https://om.test.chm-cbd.net
@@ -6331,6 +6389,7 @@ https://pdok.aerius.nl
 https://pdx.dev.dmi-ecosysteem.nl
 https://pdx.dmi-ecosysteem.nl
 https://pdx.staging.dmi-ecosysteem.nl
+https://pe.nba.nl
 https://peer0.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://pentest.leerwerkloket.nl
@@ -6437,6 +6496,7 @@ https://portaal.ikz.nl
 https://portaal.interventiedatabase.nl
 https://portaal.kcb.nl
 https://portaal.lbio.nl
+https://portaal.nba.nl
 https://portaal.ncpeh.nl
 https://portaal.nlarbeidsinspectie.nl
 https://portaal.prolander.nl
@@ -6483,6 +6543,7 @@ https://pp1.machtigen.digid.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://pr.aerius.nl
+https://praktijkopleiding.nba.nl
 https://prd-azure-waf1.lvnl.nl
 https://prd.atlasleefomgeving.nl
 https://prd.btp.sso3w.nl
@@ -6509,6 +6570,9 @@ https://preprodformulieren.odmh.nl
 https://preprodmivp.emissieautoriteit.nl
 https://preprodondertekenen.flevoland.nl
 https://preprodrev.emissieautoriteit.nl
+https://preproduction-new.nba.nl
+https://preproduction-pe.nba.nl
+https://preproduction.nba.nl
 https://prerelease.loketgezondleven.nl
 https://preview.api.dataplatform.knmi.nl
 https://preview.cito.nl
@@ -6566,7 +6630,10 @@ https://prod3.lerenenwerken.nl
 https://producten.lees-rijk.nl
 https://productie-nieuw.bidbook.eu
 https://productie-nieuw.biedboek.nl
+https://production-new.nba.nl
+https://production-pe.nba.nl
 https://production.cea.nl
+https://production.nba.nl
 https://production.status.chm-cbd.net
 https://productontwikkeling-acc.cbr.nl
 https://productontwikkeling-tst.cbr.nl
@@ -8033,6 +8100,7 @@ https://werkenbij.kcb.nl
 https://werkenbij.kvk.nl
 https://werkenbij.nak.nl
 https://werkenbij.naktuinbouw.nl
+https://werkenbij.nba.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -8978,6 +9046,7 @@ https://www.nationaleparkenbureau.nl
 https://www.natura2000.nl
 https://www.natuurbrandrisico.nl
 https://www.natuurenrecreatieschapijsselmonde.nl
+https://www.nba.nl
 https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
 https://www.ncis.ndw.nu
@@ -9057,6 +9126,7 @@ https://www.podium.knaw.nl
 https://www.politiekeambtsdragers.nl
 https://www.portal.ewnederland.nl
 https://www.postedworkers.nl
+https://www.praktijkopleiding.nba.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.primet.alterra.nl
 https://www.prolander.nl

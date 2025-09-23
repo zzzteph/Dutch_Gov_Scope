@@ -1394,6 +1394,7 @@ acc7.mijn.overheid.nl
 acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
 accebms.cbs.nl
+accept-betalen.nba.nl
 accept.beeldbank.gebruikercentraal.nl
 accept.commabz.nl
 accept.control.ictu.nl
@@ -1578,6 +1579,7 @@ access.authkb.kb.nl
 access.authkbtest.kb.nl
 access.huc.knaw.nl
 access.lvnl.nl
+access.nba.nl
 access.om.nl
 access.rijksrecherche.nl
 access1.minbzk.nl
@@ -2318,6 +2320,7 @@ artursdoet.huygens.knaw.nl
 as-derb-01.duo.nl
 as-derc-01.duo.nl
 as.duo.nl
+as.im.nba.nl
 as1.eerstekamer.nl
 as2.eerstekamer.nl
 as2.minbzk.nl
@@ -2566,6 +2569,7 @@ autorizationtest.entreepgb.svb.nl
 av.cbg-meb.nl
 av.kvk.nl
 av.lbio.nl
+av1.nba.nl
 av2.kvk.nl
 avb.rvo.nl
 avd.datasluis.dictu.nl
@@ -2880,6 +2884,7 @@ bes.fiu-nederland.nl
 bes.kadaster.nl
 bes.test.kadaster.nl
 beschermdecultuurgoederen.nl
+besloten-nba-acc.nba.nl
 besloten-waves.databank.nl
 besluiten.cvdm.nl
 besluitpreviewservice-eto.overheid.nl
@@ -2928,6 +2933,7 @@ betaalportaal.belastingdienst.nl
 betalen-cnf.belastingdienst.nl
 betalen.acc.belastingdienst.nl
 betalen.belastingdienst.nl
+betalen.nba.nl
 betalen.schoolleidersregisterpo.nl
 betalen.str10.acc.belastingdienst.nl
 betalen.str11.acc.belastingdienst.nl
@@ -3831,9 +3837,11 @@ community-gatewayreview.nl
 community-health-outreach-statelocaltryit.hub.arcgis.com
 community.leerwerkloket.nl
 community.lerenenwerken.nl
+community.nba.nl
 communityanalyst.arcgis.com
 communitymaps.arcgis.com
 communityportal.hansken.org
+compact.nba.nl
 compensationsns.nl
 competent.cibg.nl
 competentie.flevoland.nl
@@ -4021,6 +4029,7 @@ crmtest.cbi.eu
 crow.databank.nl
 crowdtech.rvo.nl
 crowlogin.databank.nl
+crs.nba.nl
 cruks-test.kansspelautoriteit.nl
 cruks.kansspelautoriteit.nl
 cruksregister.nl
@@ -4532,6 +4541,7 @@ dialin.coa.nl
 dialin.justid.nl
 dialin.kvk.nl
 dialin.lbio.nl
+dialin.nba.nl
 dialin.om.nl
 dialin.prolander.nl
 dialin.rijksrecherche.nl
@@ -4621,6 +4631,7 @@ digitaalstelselmobiliteitsdata.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
+digital.nba.nl
 digital.scp.nl
 digitalenoordzee.nl
 digitaleoverheid.nl
@@ -4759,6 +4770,7 @@ dotnl.ndw.nu
 douane.nl
 download.belastingdienst.nl
 download.cbs.nl
+download.im.nba.nl
 download.mail.cpb.nl
 download.mail.scp.nl
 download.pdok.cloud.kadaster.nl
@@ -5807,6 +5819,7 @@ flevoland.lerenenwerken.nl
 flevoland.nl
 flexplek.duo.nl
 flowlogics.minbzk.nl
+flowmail-elo.nba.nl
 flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 flux-acc.rvo.nl
 flux.rvo.nl
@@ -6080,6 +6093,8 @@ gemeenten-a.svb.nl
 gemeenten.svb.nl
 gemhofvanjustitie.org
 geneesmiddeleninformatiebank.nl
+generator-dev.nba.nl
+generator.nba.nl
 generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
 genomes.bioinf.nioo.knaw.nl
@@ -6559,6 +6574,7 @@ hogeraad.nl
 hogeraadvanadel.nl
 holland-rijnland.databank.nl
 hollandrijnland.leerwerkloket.nl
+home.nba.nl
 homepage-lasallecoil.hub.arcgis.com
 honolulu-cchnl.opendata.arcgis.com
 horecadna.databank.nl
@@ -6770,6 +6786,7 @@ ilent.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
 im.di.huc.knaw.nl
+im.nba.nl
 im.o.extern.minszw.nl
 ima-princeton-edu.access.authkb.kb.nl
 imaer.aerius.nl
@@ -6918,7 +6935,10 @@ integraleaanpakonlinefraude.nl
 integrated-waste-management-fcsa.hub.arcgis.com
 integratie.omgevingswet.overheid.nl
 integratie02.omgevingswet.overheid.nl
+integration-new.nba.nl
+integration-pe.nba.nl
 integration.cea.nl
+integration.nba.nl
 integriteitswijzer.huisvoorklokkenluiders.nl
 intel-acc.ncsc.nl
 intel.ncsc.nl
@@ -7758,8 +7778,10 @@ kvkhuurtin.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
+kwaliteit.nba.nl
 kwaliteitsdashboard-koop.overheid.nl
 kwaliteitsdashboard.test.kadaster.nl
+kwaliteitstoetsing.nba.nl
 kweepeer.dev.huc.knaw.nl
 l1nf3ng.github.io
 l2.espacenet.com
@@ -8016,6 +8038,7 @@ login.irealisatie.nl
 login.kb.nl
 login.mijncn.nl
 login.naktuinbouw.com
+login.nba.nl
 login.npr.idm.rvig.nl
 login.o1.digid.nl
 login.pilot.uzi-online.minvws.nl
@@ -8116,8 +8139,10 @@ lvbb-tst.overheid.nl
 lvmb.nl
 lvnl.nl
 lync.dictu.nl
+lync.nba.nl
 lync.prolander.nl
 lync1.kvk.nl
+lync1.nba.nl
 lync2.kvk.nl
 lyncaccess.dictu.nl
 lyncav.vico.dji.nl
@@ -8208,6 +8233,7 @@ magazinesintern.rijksvastgoedbedrijf.nl
 magazinesintern.vrachtwagenheffing.nl
 magazinesrijkswaterstaat.nl
 mail-a.huurcommissie.nl
+mail-outside.nba.nl
 mail.080.github.io
 mail.acm.nl
 mail.actal.nl
@@ -8293,6 +8319,7 @@ mail.mensenrechten.nl
 mail.naarnederland.nl
 mail.nak.nl
 mail.nationaalarchief.nl
+mail.nba.nl
 mail.ndw.nu
 mail.nifp.nl
 mail.nin.knaw.nl
@@ -8518,6 +8545,7 @@ meet.coa.nl
 meet.justid.nl
 meet.kvk.nl
 meet.lbio.nl
+meet.nba.nl
 meet.om.nl
 meet.prolander.nl
 meet.rijkscloud.nl
@@ -8764,6 +8792,7 @@ mijnexamens.ifv.nl
 mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
 mijnloonstrook.knaw.nl
+mijnmobiel.nba.nl
 mijnncg.nl
 mijnoctrooi.mypage.rvo.nl
 mijnoctrooi.rvo.nl
@@ -8914,6 +8943,7 @@ mobicert.brabant.nl
 mobiel.acc.toeslagen.nl
 mobiel.douane.nl
 mobiel.hogeraad.nl
+mobiel.nba.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
 mobielgis-test.zuid-holland.nl
@@ -9211,6 +9241,7 @@ natuurbeheerplan.flevoland.nl
 natuurenrecreatieschapijsselmonde.nl
 natuurlijk.zuid-holland.nl
 natuurvanuitdelucht.zuid-holland.nl
+nba.nl
 nc-a.rvb.rijkscloud.nl
 nc-openbaar.vallei-veluwe.nl
 nc.mindemo.rijkscloud.nl
@@ -9537,6 +9568,7 @@ objectse.gn3.rijkscloud.nl
 obstbackup-prod-va-01.dans.knaw.nl
 occassio.dev.huc.knaw.nl
 ocd-hub-nm-emnrd.hub.arcgis.com
+ocs.nba.nl
 ocw-verhalen.nl
 ocwincijfers.nl
 odata.cbs.nl
@@ -9590,6 +9622,7 @@ old.belastingles.nl
 old.caop.nl
 old.cea.nl
 old.keringhuis.nl
+old.nba.nl
 oldsmar.maps.arcgis.com
 ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
@@ -10115,6 +10148,7 @@ ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 owa.contactpuntbouwproducten.nl
 owa.minbzk.nl
+owas1.nba.nl
 oxfordartonline.com.access.authkb.kb.nl
 p-bbox-encr-tvs.rvo.nl
 p-bbox-sign-tvs.rvo.nl
@@ -10395,6 +10429,8 @@ pdvnl31.dans.knaw.nl
 pdx.dev.dmi-ecosysteem.nl
 pdx.dmi-ecosysteem.nl
 pdx.staging.dmi-ecosysteem.nl
+pe-upload.nba.nl
+pe.nba.nl
 peer0.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 pensioen.toeslagen.nl
@@ -10604,6 +10640,7 @@ portaal.ikz.nl
 portaal.interventiedatabase.nl
 portaal.kcb.nl
 portaal.lbio.nl
+portaal.nba.nl
 portaal.ncpeh.nl
 portaal.nlarbeidsinspectie.nl
 portaal.o.extern.minszw.nl
@@ -10697,6 +10734,7 @@ pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
 pr.aerius.nl
 pra.svb.nl
+praktijkopleiding.nba.nl
 prd-azure-waf1.lvnl.nl
 prd-ez-rvo-ba.dictu.nl
 prd-kadatabackend.ext.kadaster.nl
@@ -10750,6 +10788,9 @@ preprodid.flevoland.nl
 preprodmivp.emissieautoriteit.nl
 preprodondertekenen.flevoland.nl
 preprodrev.emissieautoriteit.nl
+preproduction-new.nba.nl
+preproduction-pe.nba.nl
+preproduction.nba.nl
 prerelease.loketgezondleven.nl
 presenteren.ont.belastingdienst.nl
 preview-a.cito.nl
@@ -10852,7 +10893,10 @@ productie-nieuw.biedboek.nl
 productie.loketgezondleven.nl
 productie.metspoedbeschikbaar.nl
 productie.sodm.nl
+production-new.nba.nl
+production-pe.nba.nl
 production.cea.nl
+production.nba.nl
 production.status.chm-cbd.net
 productontwikkeling-acc.cbr.nl
 productontwikkeling-tst.cbr.nl
@@ -10869,6 +10913,7 @@ projecten-acc.netwerkplatteland.nl
 projecten-acc.rvo.nl
 projecten-tst.rvo.nl
 projecten.cbs.nl
+projecten.nba.nl
 projecten.netwerkplatteland.nl
 projecten.rijksvastgoedbedrijf.nl
 projecten.rvo.nl
@@ -11219,6 +11264,7 @@ reistijdtrajecten.ndw.nu
 rekenhulptransitievergoeding.nl
 rekenkamer.nl
 rekentoetsvo.cito.nl
+rekentop.nba.nl
 relay.acp.kvk.nl
 relay1.c2000.nl
 relay2.c2000.nl
@@ -12013,6 +12059,7 @@ sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
 sip1.hetcak.nl
+sip1.nba.nl
 sip2.dnb.nl
 sip2.hetcak.nl
 sip2.kvk.nl
@@ -13003,6 +13050,7 @@ toegangslaag-gn3.rvig.nl
 toegangslaag.rvig.nl
 toegangspuntmobiliteit.nl
 toegankelijkheidsverklaring.nl
+toekomst.nba.nl
 toekomstglb.nl
 toekomstreligieuserfgoed.nl
 toekomstscenarios.zuid-holland.nl
@@ -13777,6 +13825,7 @@ web.kvk.nl
 web.mgcp.kadaster.nl
 web.mgcp.test.kadaster.nl
 web.minienm.nl
+web.nba.nl
 web.proeftuin.gf.irealisatie.nl
 web.test.brba.nl
 web.test.dpr.irealisatie.nl
@@ -13787,6 +13836,7 @@ web01.huygens.knaw.nl
 web02.burgernet.nl
 web02.huygens.knaw.nl
 web1.fa.knaw.nl
+web1.nba.nl
 web11.dans.knaw.nl
 web2.fa.knaw.nl
 web2.kvk.nl
@@ -13996,6 +14046,7 @@ werkenbij.kcb.nl
 werkenbij.kvk.nl
 werkenbij.nak.nl
 werkenbij.naktuinbouw.nl
+werkenbij.nba.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.toeslagen.nl
@@ -14365,6 +14416,7 @@ www.acc.mijn.dus-i.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
 www.acc.omgevingswet.overheid.nl
 www.acceleratethechange.nl
+www.accept-betalen.nba.nl
 www.acceptatie-app.mijnrijkspas.nl
 www.acceptatie.aquo.nl
 www.acceptatie.clusterbuster.nl
@@ -14374,6 +14426,7 @@ www.acceptatie.klicviewer.nl
 www.acceptatie.landelijkemeldkamer.org
 www.acceptatie.redactie.aquo.nl
 www.access.authkbtest.kb.nl
+www.access.nba.nl
 www.achilles-acc.rvo.nl
 www.achilles.rvo.nl
 www.acm.nl
@@ -14455,6 +14508,7 @@ www.auditdienstrijk.nl
 www.authentication.acm.nl
 www.autoriteitnvs.nl
 www.autoriteitpersoonsgegevens.nl
+www.av1.nba.nl
 www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
 www.awti.nl
@@ -14487,8 +14541,10 @@ www.beoordelingarbeidsrelatie.nl
 www.beoordelingscommissiedopingzaken.nl
 www.bereikbaarheidvooriedereen.nl
 www.beschermdecultuurgoederen.nl
+www.besloten-nba-acc.nba.nl
 www.bestandenpostbus.nl
 www.bestrijdingsmiddelen-omwonenden.nl
+www.betalen.nba.nl
 www.bevolkingsonderzoek.nl
 www.bewustbodemgebruik.nl
 www.bezoekerscentrum.rijkswaterstaat.nl
@@ -14651,6 +14707,7 @@ www.cpb.nl
 www.crimediggers.nl
 www.criminaliteitenrecht.nl
 www.crisis.nl
+www.crs.nba.nl
 www.cruksregister.nl
 www.csirtdsp.nl
 www.ctgb.nl
@@ -14939,6 +14996,7 @@ www.ikvermoedhuiselijkgeweld.nl
 www.ikwerkvoornederland.nl
 www.ikz.nl
 www.ilent.nl
+www.im.nba.nl
 www.immissietoets.nl
 www.impact-project.eu
 www.imvotraining.nl
@@ -15075,6 +15133,7 @@ www.kpzss.nl
 www.kreekraksluizen.nl
 www.kvk.nl
 www.kvkhuurtin.nl
+www.kwaliteitstoetsing.nba.nl
 www.landelijkcongresdoortrappen.nl
 www.landelijkeadviescommissieplaatsing.nl
 www.landelijkemeldkamer.org
@@ -15117,6 +15176,7 @@ www.lma.nl
 www.locatiescan.kvk.nl
 www.locov.nl
 www.logerenbijdeboswachter.nl
+www.login.nba.nl
 www.logius.nl
 www.lokale-democratie.nl
 www.loket.afm.nl
@@ -15130,6 +15190,7 @@ www.luchtvaartindetoekomst.nl
 www.luchtvaartmeteo.nl
 www.lvmb.nl
 www.lvnl.nl
+www.lync.nba.nl
 www.lzalpkcommissie.nl
 www.maakhetzeniettemakkelijk.nl
 www.maatschappelijkeonrust.nl
@@ -15174,6 +15235,7 @@ www.mijncn.nl
 www.mijncyberrijbewijs.nl
 www.mijneindexamen.nl
 www.mijnkombijdepolitie.nl
+www.mijnmobiel.nba.nl
 www.mijnncg.nl
 www.mijnontwikkelhuis.nl
 www.mijnpgb.nl
@@ -15193,6 +15255,7 @@ www.mirta2deilvught.nl
 www.mirtoverzicht.nl
 www.mjpo.nl
 www.mmdc.nl
+www.mobiel.nba.nl
 www.mobiliteitsbank.nl
 www.mobiliteitsscan-info.nl
 www.mobilitylab.nl
@@ -15238,6 +15301,7 @@ www.nationaleparkenbureau.nl
 www.natura2000.nl
 www.natuurbrandrisico.nl
 www.natuurenrecreatieschapijsselmonde.nl
+www.nba.nl
 www.ncab.nl
 www.ncadierproevenbeleid.nl
 www.ncc.gov.nl
@@ -15315,10 +15379,12 @@ www.overheid.nl
 www.overheidvannu.nl
 www.overijssel.databank.nl
 www.overtoeslagen.nl
+www.owas1.nba.nl
 www.oxfordmusiconline.com.access.authkb.kb.nl
 www.p-direkt.nl
 www.pacemweb.nl
 www.pagw.nl
+www.pe-upload.nba.nl
 www.pearl.alterra.nl
 www.peatwise.alterra.nl
 www.perf.omgevingswet.overheid.nl
@@ -15330,6 +15396,7 @@ www.podium.knaw.nl
 www.politiekeambtsdragers.nl
 www.portal.ewnederland.nl
 www.postedworkers.nl
+www.praktijkopleiding.nba.nl
 www.pre.omgevingswet.overheid.nl
 www.primet.alterra.nl
 www.prizmo-acc.rvo.nl
@@ -15366,6 +15433,7 @@ www.regiosaandegrens.nl
 www.regulatoryscience.nl
 www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
+www.rekentop.nba.nl
 www.riec.nl
 www.rijksbredekennisagenda.nl
 www.rijkscloud.nl
@@ -15405,6 +15473,7 @@ www.senternovem.databank.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
+www.sip1.nba.nl
 www.slimmerreizen.zuid-holland.nl
 www.slimwatermanagement.nl
 www.sociaalfonds.minienm.nl
@@ -15507,6 +15576,8 @@ www.vzinfo.nl
 www.watdraagjijbij.arbeidsmarktplatformpo.nl
 www.watergegevens.rijkswaterstaat.nl
 www.waterschaplimburg.nl
+www.web.nba.nl
+www.web1.nba.nl
 www.webshop.incidentmanagement.nl
 www.wegen.brabant.nl
 www.wegwijzermensenhandel.nl
