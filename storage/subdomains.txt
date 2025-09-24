@@ -1337,6 +1337,7 @@ acc.natura2000.nl
 acc.ncsc.nl
 acc.nederlandsesoorten.nl
 acc.netherlandsandyou.nl
+acc.nji.nl
 acc.nww.mfaservices.nl
 acc.oinregister.logius.nl
 acc.omgevingswet.overheid.nl
@@ -2290,6 +2291,7 @@ arcgis-natgeo-home-learngis.hub.arcgis.com
 arcgis.com
 archeologie.zuid-holland.nl
 archeologie2.zuid-holland.nl
+archie.nji.nl
 archief.acceptatie.nipv.nl
 archief.ibki.nl
 archief.iob-evaluatie.nl
@@ -4288,6 +4290,7 @@ dataverse-fetcher.labs.dans.knaw.nl
 dataverse-importer.labs.dans.knaw.nl
 dataverse-mapper.labs.dans.knaw.nl
 dataverse.dans.knaw.nl
+datavisualisatieportal.nji.nl
 datavoorgezondheid.nl
 datawonen.nl
 dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
@@ -4331,6 +4334,7 @@ deelnemer.ibki.nl
 defensie.nl
 definities.dmi-ecosysteem.nl
 degruyter.com.access.authkb.kb.nl
+dei.nji.nl
 dejuistezorgopdejuisteplek.nl
 dekinderombudsman.nl
 delichtkogel.nl
@@ -7614,6 +7618,7 @@ kennis.caop.nl
 kennis.cultureelerfgoed.nl
 kennis.fiod.nl
 kennis.hdsr.nl
+kennis.nji.nl
 kennis.nponderwijs.nl
 kennis.waterschaplimburg.nl
 kennis.zuid-holland.nl
@@ -8844,6 +8849,7 @@ mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
 mijnloonstrook.knaw.nl
 mijnmobiel.nba.nl
+mijnmonitor.nji.nl
 mijnncg.nl
 mijnoctrooi.mypage.rvo.nl
 mijnoctrooi.rvo.nl
@@ -8858,6 +8864,7 @@ mijnresolutie-acc.azure.dnb.nl
 mijnresolutie-tst.azure.dnb.nl
 mijnresolutie.azure.dnb.nl
 mijnrijkspas.nl
+mijnsite.nji.nl
 mijnslachtofferzaak.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
@@ -9034,6 +9041,7 @@ monet-tst.dnb.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 monitor.aerius.nl
 monitor.digitoegankelijk.nl
+monitor.nji.nl
 monitor.rijksoverheid.nl
 monitor01.iaas.rijkscloud.nl
 monitorgezondheid.nl
@@ -9429,6 +9437,7 @@ nisha240799.github.io
 nisheedkumarrout.github.io
 niwo.nl
 nix18.nl
+nji.nl
 njtpa-plan-2050-njtpa.hub.arcgis.com
 nl-a.cito.nl
 nl-alert.nl
@@ -9643,6 +9652,7 @@ obstbackup-prod-va-01.dans.knaw.nl
 occassio.dev.huc.knaw.nl
 ocd-hub-nm-emnrd.hub.arcgis.com
 ocs.nba.nl
+ocs.nji.nl
 ocw-verhalen.nl
 ocwincijfers.nl
 odata.cbs.nl
@@ -10952,6 +10962,7 @@ prod.mercurius.sso3w.nl
 prod.mi-cert.nl
 prod.milieuzones.nl
 prod.nationaalarchief.nl
+prod.nji.nl
 prod.nl-alert.nl
 prod.radar.rdi.nl
 prod.rvig.nl
@@ -11878,6 +11889,7 @@ secretaria-de-salud-de-soacha-sigsoacha15.hub.arcgis.com
 sectransfer-acc.rijkscloud.nl
 sectstssp.ix.rijkscloud.nl
 secu.knmi.nl
+secudoc.nji.nl
 secure.cito.nl
 secure.geodata2.nationaalgeoregister.nl
 secure.huygens.knaw.nl
@@ -12463,6 +12475,7 @@ startformulier.brabant.nl
 startformuliertest.brabant.nl
 startmetdelen.nl
 startmetoesorichtlijnen.nl
+startpagina.nji.nl
 startpagina.rijkscloud.nl
 startpagina.sap.minienm.nl
 startportaal.belastingdienst.nl
@@ -13804,6 +13817,7 @@ vscode.idlab.ilt.rijkscloud.nl
 vscode.ix.rijkscloud.nl
 vscode.kim.rijkscloud.nl
 vsp.acm.nl
+vsp.nji.nl
 vsp.services.acm.nl
 vt-apps.duo.nl
 vt-digidzakelijk.duo.nl
@@ -15460,6 +15474,7 @@ www.nioo.knaw.nl
 www.nipv.nl
 www.niwo.nl
 www.nix18.nl
+www.nji.nl
 www.nl-alert.nl
 www.nl-works.com
 www.nlarbeidsinspectie.nl
@@ -15873,6 +15888,7 @@ zoeken.gratisvog.nl
 zoeken.hdsr.nl
 zoeken.kennisplein.intranet.minienm.nl
 zoeken.kvk.nl
+zoeken.nji.nl
 zoeken.ondernemersplein.overheid.nl
 zoeken.schoolleidersregisterpo.nl
 zoeken.tst.kvk.nl

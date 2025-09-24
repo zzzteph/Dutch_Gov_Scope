@@ -41,11 +41,11 @@ dev
 link
 remote
 a-english
+zoeken
 app
 meet
 a-feeds.a-english
 a-opendata.a-english
-zoeken
 beheer
 hybrid
 ftp
@@ -61,6 +61,7 @@ jaarverslag
 webservices
 docs
 geoservices
+kennis
 oud
 auth
 proto
@@ -76,7 +77,6 @@ cdn
 onderzoek
 www.acceptatie
 geo
-kennis
 accept
 www.acc
 www-ow
@@ -197,6 +197,7 @@ transfer
 access
 developer
 magazinesintern
+monitor
 statistiek
 siam
 admin
@@ -308,7 +309,6 @@ sentry
 voorlichting
 media
 organisaties
-monitor
 server
 www.staging
 idm
@@ -510,6 +510,7 @@ hybridmail
 sslvpn
 cst
 gitlab.test
+startpagina
 bon
 tools
 a-magazinesintern
@@ -549,6 +550,7 @@ mail1
 meeting
 mr
 probeer
+vsp
 melding
 aovpn
 api-dev
@@ -657,6 +659,7 @@ services-hprm-acc
 services-hprm
 www.sociaalfonds
 rijkspas
+ocs
 geoportal
 gisservices
 gisservicesacc
@@ -4501,7 +4504,6 @@ srv-zmb12-13.gn3
 sso.dbe-t.rvb
 ssp.estota
 ssp.ix
-startpagina
 stats.datascience
 stats.duo
 status-acceptatie
@@ -5521,7 +5523,6 @@ test.gegevensmagazijn
 ucs
 ucs.services
 vpn.services
-vsp
 vsp.services
 werkplek.services
 wf5051
@@ -11160,7 +11161,6 @@ kwaliteit
 kwaliteitstoetsing
 mail-outside
 mijnmobiel
-ocs
 owas1
 pe-upload
 pe
@@ -11248,3 +11248,9 @@ ondernemersloket.acceptatie
 ondernemersloket
 radius
 www.radius
+archie
+datavisualisatieportal
+dei
+mijnmonitor
+mijnsite
+secudoc
