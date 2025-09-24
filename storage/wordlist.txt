@@ -39,10 +39,10 @@ connect
 e
 dev
 remote
+link
 a-english
 app
 meet
-link
 a-feeds.a-english
 a-opendata.a-english
 zoeken
@@ -284,6 +284,7 @@ test-intranet
 portal2
 odc
 bibliotheek
+aanmelden
 acc.api
 en
 authenticatie
@@ -451,7 +452,6 @@ digikoppeling-test
 kantoor
 inloggen-preprod
 workspace
-aanmelden
 zaaksysteem-accept
 vt-mijn
 ediensten
@@ -11218,3 +11218,4 @@ opvangportaal-acc
 opvangportaal
 exhibit
 post
+rvdr
