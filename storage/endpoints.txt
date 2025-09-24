@@ -1598,6 +1598,7 @@ https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.zorgaanbiedersportaal.nl
 https://acceptatie.mondriaanfonds.nl
+https://acceptatie.nipv.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
 https://acceptatie.portaal.nlarbeidsinspectie.nl
@@ -1616,6 +1617,7 @@ https://acceptatie.uzipas.uziregister.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.webservices.diergeneeskunderegister.nl
 https://acceptatie.wio.ilent.nl
+https://acceptatie.wvsv.nipv.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acceptatie.zoeken.diergeneeskunderegister.nl
 https://acceptatie.zoeken.gratisvog.nl
@@ -2066,7 +2068,9 @@ https://arcgis-insightslab.hub.arcgis.com
 https://arcgis.com
 https://archeologie.zuid-holland.nl
 https://archeologie2.zuid-holland.nl
+https://archief.acceptatie.nipv.nl
 https://archief.ibki.nl
+https://archief.nipv.nl
 https://archis.cultureelerfgoed.nl
 https://archisarchief.cultureelerfgoed.nl
 https://architecture.arcgis.com
@@ -2312,6 +2316,9 @@ https://behandel.generiekeregistratiedienst.cibg.nl
 https://behandel.sbv-z.nl
 https://beheer-acc.burgernet.nl
 https://beheer-acc.datastelselverduurzamingutiliteit.nl
+https://beheer-tgv-acceptatie.nipv.nl
+https://beheer-tgv-test.nipv.nl
+https://beheer-tgv.nipv.nl
 https://beheer.acc.grondstoffenscanner.nl
 https://beheer.bigregister.nl
 https://beheer.bke.kadaster.nl
@@ -3599,6 +3606,7 @@ https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e-mjv.nl
 https://e-tol.nl
+https://e-tracking.nipv.nl
 https://e.acc.videobellen.douane.nl
 https://e.acc.videobellen.toeslagen.nl
 https://e.aofondsrijk.nl
@@ -3641,6 +3649,7 @@ https://ebs.knaw.nl
 https://ecartico.dev.huc.knaw.nl
 https://ecoc-a.eucaris.net
 https://economicdiplomacy.rvo.nl
+https://ecpc.acceptatie.nipv.nl
 https://ecu.maps.arcgis.com
 https://edepot-wiki.huygens.knaw.nl
 https://ediensten.ind.nl
@@ -3661,6 +3670,7 @@ https://efeat.org
 https://efiling.mijnoctrooi.rvo.nl
 https://efm.belastingdienst.nl
 https://eforms.ind.nl
+https://efsca.nipv.nl
 https://efsca.org
 https://egain-com.cbs.nl
 https://egeo.rvo.nl
@@ -3711,6 +3721,7 @@ https://elink.ertms.nl
 https://elkeregiotelt.nl
 https://elo.brandweer.nl
 https://elo.ifv.nl
+https://elo.nipv.nl
 https://elo.veiligheidsregioflevoland.nl
 https://eloket.aaenmaas.nl
 https://eloket.cvdm.nl
@@ -3718,6 +3729,7 @@ https://eloket.flevoland.nl
 https://eloket.vallei-veluwe.nl
 https://elotest.brandweer.nl
 https://elotest.ifv.nl
+https://elotest.nipv.nl
 https://elpasoco.maps.arcgis.com
 https://em.oxfordjournals.org.access.authkb.kb.nl
 https://email.afm.nl
@@ -3886,6 +3898,8 @@ https://events.svb.nl
 https://evserver1.flevoland.nl
 https://ewnederland.nl
 https://exactbrain.github.io
+https://exactctxgw.nipv.nl
+https://exactportal.nipv.nl
 https://examenblad.nl
 https://examenbladmbo.nl
 https://examenorganisator.ibki.nl
@@ -4690,6 +4704,7 @@ https://ikp.waterschaplimburg.nl
 https://ikvermoedhuiselijkgeweld.nl
 https://ikwerkvoornederland.nl
 https://ikz.nl
+https://ikzoekmijnnaaste.acceptatie.nipv.nl
 https://ilent.nl
 https://im.di.huc.knaw.nl
 https://ima-princeton-edu.access.authkb.kb.nl
@@ -5017,6 +5032,7 @@ https://kennisbankterrorisme.nctv.nl
 https://kenniscentrum-oo.nl
 https://kenniscentrum.ofgv.nl
 https://kennisdelen.rvo.nl
+https://kennisevents.nipv.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisknooppuntparticipatie.nl
 https://kennisnetwerk.belastingdienst.nl
@@ -5029,6 +5045,7 @@ https://kennisplatformwerkeninkomen.nl
 https://kennisvandeoverheid.nl
 https://keringhuis.nl
 https://kerncijfers.ifv.nl
+https://kerncijfers.nipv.nl
 https://keten.hetcak.nl
 https://ketenregisterapi.naktuinbouw.nl
 https://keurmerk.nl
@@ -5057,6 +5074,7 @@ https://klantportaal.caop.nl
 https://klanttoegang.cbs.nl
 https://klantweb-acp.acc.cloudservices.kb.nl
 https://klassiker.chadwyck.co.uk.access.authkb.kb.nl
+https://kleding.nipv.nl
 https://kleuterinbeeld.cito.nl
 https://kleutervolgsysteem-a.cito.nl
 https://kleutervolgsysteem-demo.cito.nl
@@ -5234,6 +5252,7 @@ https://link.ifv.nl
 https://link.inclusiefwerkt.nl
 https://link.mondriaanfonds.nl
 https://link.nieuwsbriefrechtspraak.nl
+https://link.nipv.nl
 https://linkeddata-acc.competentnl.nl
 https://linkeddata.competentnl.nl
 https://linkeddata.cultureelerfgoed.nl
@@ -5605,6 +5624,7 @@ https://middenholland.leerwerkloket.nl
 https://middenlimburg.leerwerkloket.nl
 https://middenlimburg.lerenenwerken.nl
 https://mig.cbs.nl
+https://mijn-a.nipv.nl
 https://mijn-acc.igj.nl
 https://mijn-dev.dnb.nl
 https://mijn-pp.dnb.nl
@@ -5640,6 +5660,7 @@ https://mijn.locatieregister.zorgaanbiedersportaal.nl
 https://mijn.melding.zorgaanbiedersportaal.nl
 https://mijn.ncsc.nl
 https://mijn.ndw.nu
+https://mijn.nipv.nl
 https://mijn.nvwa.nl
 https://mijn.overheid.nl
 https://mijn.preprod1.digid.nl
@@ -5923,6 +5944,7 @@ https://nimh-beeldbank.defensie.nl
 https://nimh.nl
 https://nin.knaw.nl
 https://ninweb.knaw.nl
+https://nipv.nl
 https://nis.naktuinbouw.nl
 https://nisha240799.github.io
 https://nisheedkumarrout.github.io
@@ -7063,6 +7085,8 @@ https://sbweb19-p2.coa.nl
 https://scansys.huurcommissie.nl
 https://scatterometer.knmi.nl
 https://scenario.aerius.nl
+https://scenarioboeken.acceptatie.nipv.nl
+https://scenarioboeken.nipv.nl
 https://schadeherstel.acc.toeslagen.nl
 https://schadeherstel.toeslagen.nl
 https://scheiden.belastingdienst.nl
@@ -7135,6 +7159,8 @@ https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://servicedesk.ciz.nl
 https://servicedesk.dictu.nl
+https://servicedesk.jira.nipv.nl
+https://servicedesk.nipv.nl
 https://serviceportal.acceptatie.kadaster.nl
 https://serviceportal.kadaster.nl
 https://serviceportal.test.kadaster.nl
@@ -7463,7 +7489,9 @@ https://syke.maps.arcgis.com
 https://symbolenbank.nctv.nl
 https://symposium.keringhuis.nl
 https://sync.lbio.nl
+https://synergy-a.nipv.nl
 https://synergy.huurcommissie.nl
+https://synergy.nipv.nl
 https://sys-staging-mijn.rvo.nl
 https://szw-via.brandam.nl
 https://taalakkoord.leerwerkloket.nl
@@ -7634,6 +7662,9 @@ https://testvfrchart.lvnl.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://tg.chm-cbd.net
 https://tg.test.chm-cbd.net
+https://tgv-acceptatie.nipv.nl
+https://tgv-test.nipv.nl
+https://tgv.nipv.nl
 https://themalessen.geldlessen.nl
 https://themaportefeuillesriec-liec.kennisplatformondermijning.nl
 https://thesaurus.cultureelerfgoed.nl
@@ -7810,6 +7841,7 @@ https://ug.test.chm-cbd.net
 https://uh1.maps.arcgis.com
 https://uitelkaarmetkinderen.nl
 https://uitgaven.cbs.nl
+https://uitgeverij.nipv.nl
 https://uitkomstgerichtezorg.nl
 https://uitvoeringvanbeleidszw.nl
 https://uitwisseling.cbs.nl
@@ -8136,6 +8168,7 @@ https://werken.diensttoeslagen.nl
 https://werken.douane.nl
 https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
+https://werkenbij.acceptatie.nipv.nl
 https://werkenbij.coa.nl
 https://werkenbij.cokz.nl
 https://werkenbij.cvdm.nl
@@ -8148,6 +8181,7 @@ https://werkenbij.kvk.nl
 https://werkenbij.nak.nl
 https://werkenbij.naktuinbouw.nl
 https://werkenbij.nba.nl
+https://werkenbij.nipv.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -8245,6 +8279,8 @@ https://wsjg.databank.nl
 https://wsp.waves.databank.nl
 https://wsus.hdsr.nl
 https://wvlegislature.maps.arcgis.com
+https://wvsv.acceptatie.nipv.nl
+https://wvsv.nipv.nl
 https://www-a.grensinfo.nl
 https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.gipdatabank.nl
@@ -9130,6 +9166,7 @@ https://www.nieuwsienw.nl
 https://www.nifp.nl
 https://www.nimh.nl
 https://www.nioo.knaw.nl
+https://www.nipv.nl
 https://www.nix18.nl
 https://www.nl-alert.nl
 https://www.nl-works.com

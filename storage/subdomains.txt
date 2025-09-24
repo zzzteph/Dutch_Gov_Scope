@@ -1539,6 +1539,7 @@ acceptatie.mondriaanfonds.nl
 acceptatie.mq.esb.rijkswaterstaat.nl
 acceptatie.nationaleenergieatlas.nl
 acceptatie.neorah.nl
+acceptatie.nipv.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.ordz.nl
 acceptatie.pacemweb.nl
@@ -1571,6 +1572,7 @@ acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
 acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
+acceptatie.wvsv.nipv.nl
 acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.diergeneeskunderegister.nl
@@ -2287,8 +2289,10 @@ arcgis-natgeo-home-learngis.hub.arcgis.com
 arcgis.com
 archeologie.zuid-holland.nl
 archeologie2.zuid-holland.nl
+archief.acceptatie.nipv.nl
 archief.ibki.nl
 archief.iob-evaluatie.nl
+archief.nipv.nl
 archief.zuid-holland.nl
 archiefviewer.knmi.nl
 archis.cultureelerfgoed.nl
@@ -2797,6 +2801,9 @@ beheer-acc.datastelselverduurzamingutiliteit.nl
 beheer-acc.energiebesparingsverkenner.rvo.nl
 beheer-acc1.energiebesparingsverkenner.rvo.nl
 beheer-bzv.brabant.nl
+beheer-tgv-acceptatie.nipv.nl
+beheer-tgv-test.nipv.nl
+beheer-tgv.nipv.nl
 beheer.acc.grondstoffenscanner.nl
 beheer.acceptatie.omgevingswet.overheid.nl
 beheer.ack.omgevingswet.overheid.nl
@@ -4963,6 +4970,7 @@ e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 e-mjv.nl
 e-tol.nl
+e-tracking.nipv.nl
 e.acc.videobellen.douane.nl
 e.acc.videobellen.toeslagen.nl
 e.aofondsrijk.nl
@@ -5040,6 +5048,7 @@ ecoc-a.eucaris.net
 ecoc-o.eucaris.net
 ecoc-t.eucaris.net
 economicdiplomacy.rvo.nl
+ecpc.acceptatie.nipv.nl
 ecu.maps.arcgis.com
 ecxs.knmi.nl
 edepot-wiki.huygens.knaw.nl
@@ -5076,6 +5085,7 @@ efiling.mijnoctrooi.rvo.nl
 efm.belastingdienst.nl
 eforms.ind.nl
 eformulieren.zuid-holland.nl
+efsca.nipv.nl
 efsca.org
 egain-com.cbs.nl
 egeo.rvo.nl
@@ -5149,6 +5159,7 @@ elkdmz1.gn2.rijkscloud.nl
 elkeregiotelt.nl
 elo.brandweer.nl
 elo.ifv.nl
+elo.nipv.nl
 elo.veiligheidsregioflevoland.nl
 eloket.aaenmaas.nl
 eloket.cvdm.nl
@@ -5156,6 +5167,7 @@ eloket.flevoland.nl
 eloket.vallei-veluwe.nl
 elotest.brandweer.nl
 elotest.ifv.nl
+elotest.nipv.nl
 elpasoco.maps.arcgis.com
 em.oxfordjournals.org.access.authkb.kb.nl
 email.afm.nl
@@ -5415,6 +5427,8 @@ ewerken2.afm.nl
 ewnederland.nl
 ews-external.justid.nl
 exactbrain.github.io
+exactctxgw.nipv.nl
+exactportal.nipv.nl
 examen-vo.cito.nl
 examenblad.nl
 examenbladmbo.nl
@@ -6800,6 +6814,7 @@ ikp.waterschaplimburg.nl
 ikvermoedhuiselijkgeweld.nl
 ikwerkvoornederland.nl
 ikz.nl
+ikzoekmijnnaaste.acceptatie.nipv.nl
 ilent.nl
 iltbuildserver.dictu.nl
 iltontwikkel.dictu.nl
@@ -7614,6 +7629,7 @@ kennisbankterrorisme.nctv.nl
 kenniscentrum-oo.nl
 kenniscentrum.ofgv.nl
 kennisdelen.rvo.nl
+kennisevents.nipv.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisknooppuntparticipatie.nl
@@ -7630,6 +7646,7 @@ kennissysteem.cibg.nl
 kennisvandeoverheid.nl
 keringhuis.nl
 kerncijfers.ifv.nl
+kerncijfers.nipv.nl
 keten.hetcak.nl
 ketenregisterapi.naktuinbouw.nl
 ketentest.hetcak.nl
@@ -7698,6 +7715,7 @@ klanttest.hetcak.nl
 klanttoegang.cbs.nl
 klantweb-acp.acc.cloudservices.kb.nl
 klassiker.chadwyck.co.uk.access.authkb.kb.nl
+kleding.nipv.nl
 kleuterinbeeld.cito.nl
 kleutervolgsysteem-a.cito.nl
 kleutervolgsysteem-demo.cito.nl
@@ -7954,6 +7972,7 @@ link.ifv.nl
 link.inclusiefwerkt.nl
 link.mondriaanfonds.nl
 link.nieuwsbriefrechtspraak.nl
+link.nipv.nl
 linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.competentnl.nl
@@ -8348,6 +8367,7 @@ mail.nedmextrade.com
 mail.nidos.nl
 mail.nifp.nl
 mail.nin.knaw.nl
+mail.nipv.nl
 mail.odmh.nl
 mail.ofgv.nl
 mail.onderwijsraad.nl
@@ -8674,6 +8694,7 @@ middenlimburg.lerenenwerken.nl
 mig.cbs.nl
 migrantcards.huygens.knaw.nl
 migrants-test.red.huygens.knaw.nl
+mijn-a.nipv.nl
 mijn-acc.hetcak.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
@@ -8740,6 +8761,7 @@ mijn.logerenbijdeboswachter.nl
 mijn.melding.zorgaanbiedersportaal.nl
 mijn.ncsc.nl
 mijn.ndw.nu
+mijn.nipv.nl
 mijn.nvwa.nl
 mijn.o1.digid.nl
 mijn.ont.belastingdienst.nl
@@ -9397,6 +9419,7 @@ ninweb.knaw.nl
 niod.idp.knaw.nl
 niod.knaw.nl
 nioo.knaw.nl
+nipv.nl
 nis.naktuinbouw.nl
 nisha240799.github.io
 nisheedkumarrout.github.io
@@ -11792,6 +11815,8 @@ sc-webserver-001.nin.knaw.nl
 scansys.huurcommissie.nl
 scatterometer.knmi.nl
 scenario.aerius.nl
+scenarioboeken.acceptatie.nipv.nl
+scenarioboeken.nipv.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
 schaduw.nationaalarchief.nl
@@ -11933,6 +11958,8 @@ service30.test.kadaster.nl
 servicedesk.ciz.nl
 servicedesk.dictu.nl
 servicedesk.huygens.knaw.nl
+servicedesk.jira.nipv.nl
+servicedesk.nipv.nl
 servicedesk.rijksoverheid.nl
 serviceportaal.cvdm.nl
 serviceportal.acceptatie.kadaster.nl
@@ -12679,10 +12706,12 @@ synbiosys.alterra.nl
 sync.hogeraad.nl
 sync.lbio.nl
 sync2.hogeraad.nl
+synergy-a.nipv.nl
 synergy.cokz.nl
 synergy.huurcommissie.nl
 synergy.ictu.nl
 synergy.ifv.nl
+synergy.nipv.nl
 sys-mijn.rvo.nl
 sys-staging-mijn.rvo.nl
 syswov.datawonen.nl
@@ -13038,6 +13067,9 @@ tfs.naktuinbouw.com
 tg.chm-cbd.net
 tg.test.chm-cbd.net
 tgsb-btssrv-ut.tst.belastingdienst.nl
+tgv-acceptatie.nipv.nl
+tgv-test.nipv.nl
+tgv.nipv.nl
 th.espacenet.com
 themalessen.geldlessen.nl
 themaportefeuillesriec-liec.kennisplatformondermijning.nl
@@ -13345,6 +13377,7 @@ ug.test.chm-cbd.net
 uh1.maps.arcgis.com
 uitelkaarmetkinderen.nl
 uitgaven.cbs.nl
+uitgeverij.nipv.nl
 uitkomstgerichtezorg.nl
 uitvoeringvanbeleidszw.nl
 uitwijk.cokz.nl
@@ -14091,6 +14124,7 @@ werken.douane.nl
 werken.rekenkamer.nl
 werken.toeslagen.nl
 werkenaanonspensioen.nl
+werkenbij.acceptatie.nipv.nl
 werkenbij.api.rijkswaterstaat.nl
 werkenbij.belastingdienst.nl
 werkenbij.coa.nl
@@ -14105,6 +14139,7 @@ werkenbij.kvk.nl
 werkenbij.nak.nl
 werkenbij.naktuinbouw.nl
 werkenbij.nba.nl
+werkenbij.nipv.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.toeslagen.nl
@@ -14317,6 +14352,8 @@ wustest-osb.belastingdienst.nl
 wustest-rijks.belastingdienst.nl
 wustest.belastingdienst.nl
 wvlegislature.maps.arcgis.com
+wvsv.acceptatie.nipv.nl
+wvsv.nipv.nl
 www-a.grensinfo.nl
 www-a.huurcommissie.nl
 www-a.knmidc.org
@@ -15407,6 +15444,7 @@ www.nifp.nl
 www.nimh.nl
 www.nin.knaw.nl
 www.nioo.knaw.nl
+www.nipv.nl
 www.nix18.nl
 www.nl-alert.nl
 www.nl-works.com
