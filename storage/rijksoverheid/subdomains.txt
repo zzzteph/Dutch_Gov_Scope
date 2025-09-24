@@ -1540,6 +1540,7 @@ acceptatie.mq.esb.rijkswaterstaat.nl
 acceptatie.nationaleenergieatlas.nl
 acceptatie.neorah.nl
 acceptatie.nipv.nl
+acceptatie.niwo.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.ordz.nl
 acceptatie.pacemweb.nl
@@ -2538,6 +2539,7 @@ autodiscover.nidos.nl
 autodiscover.nin.knaw.nl
 autodiscover.niod.knaw.nl
 autodiscover.nioo.knaw.nl
+autodiscover.niwo.nl
 autodiscover.nza.nl
 autodiscover.odijmond.nl
 autodiscover.ofgv.nl
@@ -6990,6 +6992,7 @@ internal.bidbook.eu
 internationaal.ondernemen.overheid.nl
 internationaalondernemen.nl
 international.gebruikercentraal.nl
+international.niwo.nl
 internationalactivities.mondriaanfonds.nl
 internationalerechtshulp.nl
 internationalstudy.nl
@@ -8368,6 +8371,7 @@ mail.nidos.nl
 mail.nifp.nl
 mail.nin.knaw.nl
 mail.nipv.nl
+mail.niwo.nl
 mail.odmh.nl
 mail.ofgv.nl
 mail.onderwijsraad.nl
@@ -9423,6 +9427,7 @@ nipv.nl
 nis.naktuinbouw.nl
 nisha240799.github.io
 nisheedkumarrout.github.io
+niwo.nl
 nix18.nl
 njtpa-plan-2050-njtpa.hub.arcgis.com
 nl-a.cito.nl
@@ -9713,6 +9718,8 @@ onboarding.belastingdienst.nl
 onderhoud.cbs.nl
 onderhoud.ciz.nl
 ondermijningsacademie.kennisplatformondermijning.nl
+ondernemersloket.acceptatie.niwo.nl
+ondernemersloket.niwo.nl
 ondernemersplein.kvk.nl
 ondernemersplein.overheid.nl
 ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
@@ -11158,6 +11165,7 @@ rabbitmq.rvb.rijkscloud.nl
 racine-water-utility-racine-wu.hub.arcgis.com
 radar.rdi.nl
 radicaalofpuberaal.nctv.nl
+radius.niwo.nl
 railstotrails.maps.arcgis.com
 raintoriveratx-austin.hub.arcgis.com
 rally.gn2.rijkscloud.nl
@@ -11874,6 +11882,7 @@ secure.cito.nl
 secure.geodata2.nationaalgeoregister.nl
 secure.huygens.knaw.nl
 secure.knmi.nl
+secure.niwo.nl
 secure.vechtstromen.nl
 secure4.svb.nl
 secure5.svb.nl
@@ -12428,6 +12437,7 @@ staging.justitieconnect.nl
 staging.meldknop.nl
 staging.meldpuntintegriteitjenv.nl
 staging.ndw.nu
+staging.niwo.nl
 staging.ondernemersplein.overheid.nl
 staging.prd.web-static.rijkswaterstaat.nl
 staging.rijkswaterstaat.nl
@@ -12978,6 +12988,7 @@ test.nationaleenergieatlas.nl
 test.natura2000.nl
 test.ncsc.nl
 test.neorah.nl
+test.niwo.nl
 test.nl-alert.nl
 test.openbare-inspectieresultaten.nvwa.nl
 test.optimaaldigitaal.gebruikercentraal.nl
@@ -13728,6 +13739,7 @@ vpn.ikz.nl
 vpn.irealisatie.nl
 vpn.knaw.nl
 vpn.koop.overheid.nl
+vpn.niwo.nl
 vpn.ofgv.nl
 vpn.platformrijksoverheid.nl
 vpn.rw1.rijkscloud.nl
@@ -14016,6 +14028,7 @@ webmail.nak.nl
 webmail.nbso-brazil.com.br
 webmail.nedmextrade.com
 webmail.nidos.nl
+webmail.niwo.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
@@ -15445,6 +15458,7 @@ www.nimh.nl
 www.nin.knaw.nl
 www.nioo.knaw.nl
 www.nipv.nl
+www.niwo.nl
 www.nix18.nl
 www.nl-alert.nl
 www.nl-works.com
@@ -15535,6 +15549,7 @@ www.raadopenbaarbestuur.nl
 www.raadrvs.nl
 www.raadvoorcultuur.nl
 www.rabarijk.nl
+www.radius.niwo.nl
 www.rapportage.rijkscloud.nl
 www.ras-acc.nvwa.nl
 www.rcgog.nl

@@ -136,6 +136,7 @@ http://autodiscover.nidos.nl
 http://autodiscover.nin.knaw.nl
 http://autodiscover.niod.knaw.nl
 http://autodiscover.nioo.knaw.nl
+http://autodiscover.niwo.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
 http://autodiscover.ofgv.nl
@@ -4825,6 +4826,7 @@ https://internal-docs.ndw.nu
 https://internationaal.ondernemen.overheid.nl
 https://internationaalondernemen.nl
 https://international.gebruikercentraal.nl
+https://international.niwo.nl
 https://internationalactivities.mondriaanfonds.nl
 https://internationalerechtshulp.nl
 https://internationalstudy.nl
@@ -5948,6 +5950,7 @@ https://nipv.nl
 https://nis.naktuinbouw.nl
 https://nisha240799.github.io
 https://nisheedkumarrout.github.io
+https://niwo.nl
 https://nix18.nl
 https://njtpa-plan-2050-njtpa.hub.arcgis.com
 https://nl-alert.nl
@@ -6048,6 +6051,8 @@ https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
 https://ondermijningsacademie.kennisplatformondermijning.nl
+https://ondernemersloket.acceptatie.niwo.nl
+https://ondernemersloket.niwo.nl
 https://ondernemersplein.kvk.nl
 https://ondernemersplein.overheid.nl
 https://ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
@@ -6791,6 +6796,7 @@ https://rabarijk.nl
 https://racine-water-utility-racine-wu.hub.arcgis.com
 https://radar.rdi.nl
 https://radicaalofpuberaal.nctv.nl
+https://radius.niwo.nl
 https://railstotrails.maps.arcgis.com
 https://raintoriveratx-austin.hub.arcgis.com
 https://rapportagecvvo-a.cito.nl
@@ -7332,6 +7338,7 @@ https://staging.inzenden.knawonderwijsprijs.nl
 https://staging.jury.knawonderwijsprijs.nl
 https://staging.justisbehindthescreens.nl
 https://staging.meldknop.nl
+https://staging.niwo.nl
 https://staging.werkenbij.kvk.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
@@ -9167,6 +9174,7 @@ https://www.nifp.nl
 https://www.nimh.nl
 https://www.nioo.knaw.nl
 https://www.nipv.nl
+https://www.niwo.nl
 https://www.nix18.nl
 https://www.nl-alert.nl
 https://www.nl-works.com
@@ -9236,6 +9244,7 @@ https://www.raadopenbaarbestuur.nl
 https://www.raadrvs.nl
 https://www.raadvoorcultuur.nl
 https://www.rabarijk.nl
+https://www.radius.niwo.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
 https://www.rcihh.nl
