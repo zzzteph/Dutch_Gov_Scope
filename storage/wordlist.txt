@@ -74,6 +74,7 @@ beeldbank
 publicaties
 cdn
 onderzoek
+www.acceptatie
 geo
 kennis
 accept
@@ -94,7 +95,6 @@ demo
 mdm
 sts
 www1
-www.acceptatie
 ns1
 www-acc2
 www-dev2
@@ -11210,3 +11210,7 @@ www-c
 www-d
 www.minez
 www.minlnv
+acceptatie.ltfu
+host
+laravel
+ltfu
