@@ -70,6 +70,7 @@ www-dev
 www-p
 www-tst
 preview
+cpanel
 services
 beeldbank
 publicaties
@@ -84,7 +85,6 @@ www-ts
 www2
 zaaksysteem
 inloggen
-cpanel
 maps
 adobe-analytics-dc
 adobe-tags
@@ -109,6 +109,7 @@ mx1
 aanvragen
 mail2
 events
+webdisk
 web
 papiamentu
 enterpriseenrollment
@@ -146,7 +147,6 @@ prod-dictu
 test-dictu
 magazine
 gateway
-webdisk
 eloket
 testeloket
 vpn2
@@ -327,6 +327,8 @@ haaglanden
 zeeland
 idp
 sip2
+cpcalendars
+cpcontacts
 community
 werkbezoek
 helloid
@@ -600,8 +602,6 @@ postmaster
 bg
 ea
 gb
-cpcalendars
-cpcontacts
 www.aanvragen
 bes
 international

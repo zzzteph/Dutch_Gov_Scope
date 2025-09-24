@@ -3996,6 +3996,7 @@ cpanel.gov4nano.eu
 cpanel.ibki.nl
 cpanel.nbso-brazil.com.br
 cpanel.nedmextrade.com
+cpanel.nladag.nl
 cpanel.opwegnaarseb.nl
 cpanel.seb.ibki.nl
 cpapps.belastingdienst.nl
@@ -4007,9 +4008,11 @@ cpb-xtweb-l01p.cpb.nl
 cpb.nl
 cpcalendars.farmingthefuture.nl
 cpcalendars.globio.info
+cpcalendars.nladag.nl
 cpcalendars.seb.ibki.nl
 cpcontacts.farmingthefuture.nl
 cpcontacts.globio.info
+cpcontacts.nladag.nl
 cpcontacts.seb.ibki.nl
 cpd.bureau.knaw.nl
 cpe-a.extern.minszw.nl
@@ -8377,6 +8380,7 @@ mail.nifp.nl
 mail.nin.knaw.nl
 mail.nipv.nl
 mail.niwo.nl
+mail.nladag.nl
 mail.odmh.nl
 mail.ofgv.nl
 mail.onderwijsraad.nl
@@ -9448,6 +9452,7 @@ nl-dictu-rijkspas.dictu.nl
 nl-i.espacenet.com
 nl-works.com
 nl.espacenet.com
+nladag.nl
 nlarbeidsinspectie.nl
 nlhull.bics.nl
 nlhull2.bics.nl
@@ -13997,6 +14002,7 @@ webdisk.globio.info
 webdisk.ibki.nl
 webdisk.nbso-brazil.com.br
 webdisk.nedmextrade.com
+webdisk.nladag.nl
 webdisk.seb.ibki.nl
 webelan.kadaster.nl
 webfilter.hetcak.nl
@@ -14045,6 +14051,7 @@ webmail.nbso-brazil.com.br
 webmail.nedmextrade.com
 webmail.nidos.nl
 webmail.niwo.nl
+webmail.nladag.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
@@ -15480,6 +15487,7 @@ www.nji.nl
 www.nl-alert.nl
 www.nl-alerttijdlijn.nl
 www.nl-works.com
+www.nladag.nl
 www.nlarbeidsinspectie.nl
 www.nlinfrankrijk.nl
 www.nllabourauthority.nl
