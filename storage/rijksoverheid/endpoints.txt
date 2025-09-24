@@ -629,6 +629,7 @@ http://web6.fa.knaw.nl
 http://web7.fa.knaw.nl
 http://webfilter.hetcak.nl
 http://webmail.knmi.nl
+http://webmail.nbso-brazil.com.br
 http://webmail.werkenvoornederland.nl
 http://webtooling.irealisatie.nl
 http://werkenbij.belastingdienst.nl
@@ -2174,6 +2175,7 @@ https://autodiscover.inclusiefwerkt.nl
 https://autodiscover.kenniscentrum-oo.nl
 https://autodiscover.koop.overheid.nl
 https://autodiscover.maror.nl
+https://autodiscover.nbso-brazil.com.br
 https://autodiscover.ndw.nu
 https://autodiscover.overheid.nl
 https://autodiscover.svb.nl
@@ -3030,6 +3032,7 @@ https://cp-public-info-castlepines.hub.arcgis.com
 https://cpanel.globio.info
 https://cpanel.gov4nano.eu
 https://cpanel.ibki.nl
+https://cpanel.nbso-brazil.com.br
 https://cpanel.opwegnaarseb.nl
 https://cparegister.nl
 https://cpb-xtweb-l01p.cpb.nl
@@ -5416,6 +5419,7 @@ https://mail.leerwerkloket.nl
 https://mail.leidraadse.nl
 https://mail.maror.nl
 https://mail.mass.cultureelerfgoed.nl
+https://mail.nbso-brazil.com.br
 https://mail.ndw.nu
 https://mail.onderzoek.duo.nl
 https://mail.oostvaarderskliniek.nl
@@ -5815,6 +5819,7 @@ https://natura2000.nl
 https://natuurbeheerplan.flevoland.nl
 https://natuurenrecreatieschapijsselmonde.nl
 https://nba.nl
+https://nbso-brazil.com.br
 https://nc-a.rvb.rijkscloud.nl
 https://nc-openbaar.vallei-veluwe.nl
 https://nc.rivm.rijkscloud.nl
@@ -8028,6 +8033,7 @@ https://webdiensten.belastingdienst.nl
 https://webdiensten.hdsr.nl
 https://webdisk.globio.info
 https://webdisk.ibki.nl
+https://webdisk.nbso-brazil.com.br
 https://webform.rvo.nl
 https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
@@ -9047,6 +9053,7 @@ https://www.natura2000.nl
 https://www.natuurbrandrisico.nl
 https://www.natuurenrecreatieschapijsselmonde.nl
 https://www.nba.nl
+https://www.nbso-brazil.com.br
 https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
 https://www.ncis.ndw.nu

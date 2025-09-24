@@ -9,8 +9,8 @@ test
 english
 a-www
 mijn
-a-opendata
 webmail
+a-opendata
 a-feeds
 api
 acceptatie
@@ -106,6 +106,7 @@ sdm
 lyncdiscover
 mx1
 aanvragen
+cpanel
 mail2
 web
 papiamentu
@@ -141,7 +142,6 @@ nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
-cpanel
 events
 magazine
 gateway
@@ -202,6 +202,7 @@ nieuw
 www.test
 matomo
 assets
+webdisk
 sip.myroom
 luchtfoto
 pushmail
@@ -324,7 +325,6 @@ haaglanden
 zeeland
 idp
 sip2
-webdisk
 community
 werkbezoek
 helloid
