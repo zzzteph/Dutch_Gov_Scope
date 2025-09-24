@@ -1415,6 +1415,7 @@ accept.international.gebruikercentraal.nl
 accept.lint.gebruikercentraal.nl
 accept.metspoedbeschikbaar.nl
 accept.mijn.buitenlevenvakanties.nl
+accept.nldigitalgovernment.nl
 accept.optimaaldigitaal.gebruikercentraal.nl
 accept.rotterdammer.gebruikercentraal.nl
 accept.toolkittaal.gebruikercentraal.nl
@@ -9454,6 +9455,7 @@ nl-works.com
 nl.espacenet.com
 nladag.nl
 nlarbeidsinspectie.nl
+nldigitalgovernment.nl
 nlhull.bics.nl
 nlhull2.bics.nl
 nlhull3.bics.nl
@@ -13011,6 +13013,7 @@ test.ncsc.nl
 test.neorah.nl
 test.niwo.nl
 test.nl-alert.nl
+test.nldigitalgovernment.nl
 test.openbare-inspectieresultaten.nvwa.nl
 test.optimaaldigitaal.gebruikercentraal.nl
 test.portaal.nlarbeidsinspectie.nl
@@ -15491,6 +15494,7 @@ www.nl-works.com
 www.nladag.nl
 www.nlarbeidsinspectie.nl
 www.nldesignsystem.nl
+www.nldigitalgovernment.nl
 www.nlinfrankrijk.nl
 www.nllabourauthority.nl
 www.nmi.alterra.nl

@@ -64,6 +64,7 @@ geoservices
 kennis
 oud
 auth
+accept
 proto
 www-ac
 www-dev
@@ -78,7 +79,6 @@ cdn
 onderzoek
 www.acceptatie
 geo
-accept
 www.acc
 www-ow
 www-ts
