@@ -36,8 +36,8 @@ data
 login
 smtp
 connect
-dev
 e
+dev
 remote
 a-english
 app
