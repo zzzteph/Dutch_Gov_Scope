@@ -36,9 +36,9 @@ data
 login
 smtp
 connect
+dev
 e
 remote
-dev
 a-english
 app
 meet
@@ -54,6 +54,7 @@ kennisbank
 open
 dialin
 elearning
+tst
 jaarverslag
 webservices
 docs
@@ -67,7 +68,6 @@ www-dev
 www-p
 www-tst
 adfs
-tst
 preview
 services
 beeldbank
