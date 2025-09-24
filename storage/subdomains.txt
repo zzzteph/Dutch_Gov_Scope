@@ -1334,6 +1334,7 @@ acc.monumentenregister.cultureelerfgoed.nl
 acc.naamswijziging.justis.nl
 acc.natura2000.nl
 acc.ncsc.nl
+acc.nederlandsesoorten.nl
 acc.nww.mfaservices.nl
 acc.oinregister.logius.nl
 acc.omgevingswet.overheid.nl
@@ -4402,6 +4403,8 @@ desktopnaan.entreepgb.svb.nl
 desktoponte.entreepgb.svb.nl
 desktoptepr.entreepgb.svb.nl
 desktoptest.entreepgb.svb.nl
+determinatie.nederlandsesoorten.nl
+determineren.nederlandsesoorten.nl
 detoekomstbegintnu.brabant.nl
 deutsch.postedworkers.nl
 dev-biometric-service.consular.mfaservices.nl
@@ -8897,6 +8900,9 @@ min3.ncsc.nl
 mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 minbzk.nl
 mindef-vio.nl
+mineleni.nederlandsesoorten.nl
+minez-test.nederlandsesoorten.nl
+minez.nederlandsesoorten.nl
 minienm.nl
 minienw.nl
 minio.datafabriek.ienw.rijkscloud.nl
@@ -8908,6 +8914,9 @@ minio2.labs.dans.knaw.nl
 minioapi.labs.dans.knaw.nl
 minioapi2.labs.dans.knaw.nl
 minjenv-events.nl
+minlnv-acceptance.nederlandsesoorten.nl
+minlnv-test.nederlandsesoorten.nl
+minlnv.nederlandsesoorten.nl
 minprd2.api.ix.rijkscloud.nl
 minszw.nl
 mintst2.api.ix.rijkscloud.nl
@@ -9242,6 +9251,8 @@ natura2000-data.zuid-holland.nl
 natura2000.nl
 natuurbeheerplan.flevoland.nl
 natuurenrecreatieschapijsselmonde.nl
+natuurinbeeld-preprod.nederlandsesoorten.nl
+natuurinbeeld.nederlandsesoorten.nl
 natuurlijk.zuid-holland.nl
 natuurvanuitdelucht.zuid-holland.nl
 nba.nl
@@ -9275,6 +9286,7 @@ nederlanddigitaal.nl
 nederlandschehistorien.huygens.knaw.nl
 nederlandschoon.databank.nl
 nederlandse-sportraad.nl
+nederlandsesoorten.nl
 nederlandtegengeorganiseerdemisdaad.nl
 nederlandwereldwijd.nl
 nena-eprc.maps.arcgis.com
@@ -14119,6 +14131,7 @@ whoami.zandbak.dans.knaw.nl
 wi.knaw.nl
 wi.maptiles.arcgis.com
 wibe.databank.nl
+widget.nederlandsesoorten.nl
 widscan-acc.minienw.nl
 wifi-guest.hetcak.nl
 wifi.acm.nl
@@ -14307,6 +14320,11 @@ www-acc2.medicijnkosten.nl
 www-acc2.zorgcijfersdatabank.nl
 www-acc2.zorginzicht.nl
 www-acpt.brabant.nl
+www-b.natuurinbeeld.nederlandsesoorten.nl
+www-b.nederlandsesoorten.nl
+www-c.natuurinbeeld.nederlandsesoorten.nl
+www-c.nederlandsesoorten.nl
+www-d.nederlandsesoorten.nl
 www-dev.farmacotherapeutischkompas.nl
 www-dev.gipdatabank.nl
 www-dev.horizonscangeneesmiddelen.nl
@@ -15252,9 +15270,11 @@ www.mijnwlzaanvraag.ciz.nl
 www.milieuzones.nl
 www.minbzk.nl
 www.mindef-vio.nl
+www.minez.nederlandsesoorten.nl
 www.minienm.nl
 www.minienw.nl
 www.minjenv-events.nl
+www.minlnv.nederlandsesoorten.nl
 www.minszw.nl
 www.minvws.nl
 www.miraonline.nl
@@ -15323,6 +15343,7 @@ www.ndw.nu
 www.nederlandcirculairin2050.nl
 www.nederlanddigitaal.nl
 www.nederlandse-sportraad.nl
+www.nederlandsesoorten.nl
 www.nederlandtegengeorganiseerdemisdaad.nl
 www.nederlandwereldwijd.nl
 www.netftp.dictu.nl
