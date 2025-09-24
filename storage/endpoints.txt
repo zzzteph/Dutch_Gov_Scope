@@ -132,6 +132,7 @@ http://autodiscover.meertens.knaw.nl
 http://autodiscover.mondriaanfonds.nl
 http://autodiscover.nationaleombudsman.nl
 http://autodiscover.nias.knaw.nl
+http://autodiscover.nidos.nl
 http://autodiscover.nin.knaw.nl
 http://autodiscover.niod.knaw.nl
 http://autodiscover.nioo.knaw.nl
@@ -1676,6 +1677,7 @@ https://address-outreach-pcg.hub.arcgis.com
 https://addressing-homelessness-muniorg.hub.arcgis.com
 https://adfs.flevoland.nl
 https://adfs.knaw.nl
+https://adfs.nidos.nl
 https://adfs.vallei-veluwe.nl
 https://adkc.dopingautoriteit.nl
 https://admin.denkmee.zuid-holland.nl
@@ -3876,6 +3878,7 @@ https://evenementenbureauvws.nl
 https://events.duo.nl
 https://events.kadaster.nl
 https://events.kvk.nl
+https://events.nidos.nl
 https://events.svb.nl
 https://evserver1.flevoland.nl
 https://ewnederland.nl
@@ -4747,6 +4750,7 @@ https://inloggen-preprod.hhdelfland.nl
 https://inloggen-preprod.waterschaplimburg.nl
 https://inloggen.hhdelfland.nl
 https://inloggen.limburg.nl
+https://inloggen.nidos.nl
 https://inloggen.waterschaplimburg.nl
 https://inmemoriam.dictu.nl
 https://innova58.nl
@@ -5887,6 +5891,7 @@ https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nhi-adfs01.herseninstituut.knaw.nl
 https://nias.knaw.nl
+https://nidos.nl
 https://nieuw.acc.luchtvaartmeteo.nl
 https://nieuw.logerenbijdeboswachter.nl
 https://nieuw.luchtvaartmeteo.nl
@@ -6326,6 +6331,8 @@ https://oproepingen-preprd.overheid.nl
 https://oproepingen.overheid.nl
 https://ops.dhub.cloud.kadaster.nl
 https://optimaaldigitaal.gebruikercentraal.nl
+https://opvangportaal-acc.nidos.nl
+https://opvangportaal.nidos.nl
 https://opvragen.ep-online.nl
 https://opwegnaarseb.nl
 https://orac.test.gf.irealisatie.nl
@@ -7535,6 +7542,7 @@ https://test.cruksregister.nl
 https://test.csirtdsp.nl
 https://test.designthinking.gebruikercentraal.nl
 https://test.dictu.nl
+https://test.digikoppeling.nidos.nl
 https://test.digitaleoverheid.nl
 https://test.digitaltrustcenter.nl
 https://test.document-viewer.dso.kadaster.nl
@@ -8073,6 +8081,7 @@ https://webmail.kansspelautoriteit.nl
 https://webmail.leidraadse.nl
 https://webmail.nak.nl
 https://webmail.nedmextrade.com
+https://webmail.nidos.nl
 https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
 https://webmail.rijkscloud.nl
@@ -9098,6 +9107,7 @@ https://www.netherlandspointofentry.nl
 https://www.netherlandsworldwide.nl
 https://www.netwerkplatteland.nl
 https://www.new.deweekvandecirculaireeconomie.nl
+https://www.nidos.nl
 https://www.nieuwsbrief.examenblad.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.nieuwsenkennisportaalbzk.nl

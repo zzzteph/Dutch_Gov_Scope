@@ -54,12 +54,13 @@ kennisbank
 open
 dialin
 elearning
+digikoppeling
+adfs
 tst
 jaarverslag
 webservices
 docs
 geoservices
-digikoppeling
 oud
 auth
 proto
@@ -67,7 +68,6 @@ www-ac
 www-dev
 www-p
 www-tst
-adfs
 preview
 services
 beeldbank
@@ -83,6 +83,7 @@ www-ow
 www-ts
 www2
 zaaksysteem
+inloggen
 cpanel
 maps
 adobe-analytics-dc
@@ -102,12 +103,12 @@ www-p2
 www-tst2
 loket
 forms
-inloggen
 sdm
 lyncdiscover
 mx1
 aanvragen
 mail2
+events
 web
 papiamentu
 enterpriseenrollment
@@ -142,7 +143,6 @@ nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
-events
 magazine
 gateway
 webdisk
@@ -397,6 +397,7 @@ acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
 stijlgids
+test.digikoppeling
 tmv
 owa
 a-api
@@ -1772,7 +1773,6 @@ prototype
 publicwebservices-dcr
 publicwebservices
 styleguide
-test.digikoppeling
 test.publicwebservices
 uzipas.lir
 webchat.klopt
@@ -11214,3 +11214,5 @@ acceptatie.ltfu
 host
 laravel
 ltfu
+opvangportaal-acc
+opvangportaal

@@ -1685,6 +1685,7 @@ adfs.hhdelfland.nl
 adfs.huurcommissie.nl
 adfs.knaw.nl
 adfs.kvk.nl
+adfs.nidos.nl
 adfs.vallei-veluwe.nl
 adfs2.cbs.knaw.nl
 adfs2.cito.nl
@@ -2528,6 +2529,7 @@ autodiscover.nationaleombudsman.nl
 autodiscover.nbso-brazil.com.br
 autodiscover.ndw.nu
 autodiscover.nias.knaw.nl
+autodiscover.nidos.nl
 autodiscover.nin.knaw.nl
 autodiscover.niod.knaw.nl
 autodiscover.nioo.knaw.nl
@@ -4612,6 +4614,7 @@ digikoppeling.dictu.nl
 digikoppeling.diginetwerk.dictu.nl
 digikoppeling.hdsr.nl
 digikoppeling.nationaalarchief.nl
+digikoppeling.nidos.nl
 digikoppeling.odmh.nl
 digikoppeling.ted.nationaalarchief.nl
 digikoppeling.test.nationaalarchief.nl
@@ -5399,6 +5402,7 @@ events.digitalenoordzee.nl
 events.duo.nl
 events.kadaster.nl
 events.kvk.nl
+events.nidos.nl
 events.svb.nl
 evserver1.flevoland.nl
 evvv.belastingdienst.nl
@@ -6892,6 +6896,7 @@ inloggen-preprod.waterschaplimburg.nl
 inloggen.ciz.nl
 inloggen.hhdelfland.nl
 inloggen.limburg.nl
+inloggen.nidos.nl
 inloggen.rijkswaterstaat.nl
 inloggen.rvo.nl
 inloggen.waterschaplimburg.nl
@@ -8336,6 +8341,7 @@ mail.nba.nl
 mail.nbso-brazil.com.br
 mail.ndw.nu
 mail.nedmextrade.com
+mail.nidos.nl
 mail.nifp.nl
 mail.nin.knaw.nl
 mail.odmh.nl
@@ -9349,6 +9355,7 @@ nias.idp.knaw.nl
 nias.knaw.nl
 nidi.idp.knaw.nl
 nidi.knaw.nl
+nidos.nl
 nieuw.acc.luchtvaartmeteo.nl
 nieuw.acm.nl
 nieuw.logerenbijdeboswachter.nl
@@ -10064,6 +10071,8 @@ ops-u.espacenet.com
 ops.dhub.cloud.kadaster.nl
 ops.espacenet.com
 optimaaldigitaal.gebruikercentraal.nl
+opvangportaal-acc.nidos.nl
+opvangportaal.nidos.nl
 opvragen-acc.ep-online.nl
 opvragen-acc1.ep-online.nl
 opvragen-preprod.ep-online.nl
@@ -12867,6 +12876,7 @@ test.designthinking.gebruikercentraal.nl
 test.dictu.nl
 test.digid.nl
 test.digikoppeling.cibg.nl
+test.digikoppeling.nidos.nl
 test.digitaleoverheid.nl
 test.digitaltrustcenter.nl
 test.dji.nl
@@ -13961,6 +13971,7 @@ webmail.leidraadse.nl
 webmail.nak.nl
 webmail.nbso-brazil.com.br
 webmail.nedmextrade.com
+webmail.nidos.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
@@ -15372,6 +15383,7 @@ www.netherlandsworldwide.nl
 www.netwerkplatteland.nl
 www.new.deweekvandecirculaireeconomie.nl
 www.nias.knaw.nl
+www.nidos.nl
 www.nieuwsbrief.examenblad.nl
 www.nieuwsbrievenminocw.nl
 www.nieuwsenkennisportaalbzk.nl
