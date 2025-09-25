@@ -30,10 +30,10 @@ werkplek
 portal
 redactie
 _dmarc
+dev
 portaal
 sip
 data
-dev
 login
 smtp
 connect
@@ -44,6 +44,7 @@ a-english
 zoeken
 app
 meet
+tst
 a-feeds.a-english
 a-opendata.a-english
 beheer
@@ -51,7 +52,6 @@ hybrid
 ftp
 apps
 kennisbank
-tst
 open
 dialin
 elearning
