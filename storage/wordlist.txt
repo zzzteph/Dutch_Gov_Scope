@@ -30,10 +30,10 @@ werkplek
 portal
 redactie
 _dmarc
+data
 dev
 portaal
 sip
-data
 login
 smtp
 connect
@@ -288,6 +288,7 @@ test-intranet
 portal2
 odc
 bibliotheek
+begrippen
 aanmelden
 acc.api
 en
@@ -450,7 +451,6 @@ co
 coronadashboard
 sdg
 AutoDiscover
-begrippen
 digikoppeling-test
 kantoor
 inloggen-preprod
@@ -589,6 +589,7 @@ thuiswerken
 tst-www
 acc.www
 develop
+sparql
 rest
 toolkit
 inschrijven
@@ -7016,7 +7017,6 @@ devportal
 linkeddata-acc
 sparql-a
 sparql-acc
-sparql
 api.testbijdrukte
 dl
 gebruikers
