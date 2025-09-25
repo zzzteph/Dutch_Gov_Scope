@@ -2001,6 +2001,8 @@ https://api.rdi.nl
 https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
 https://api.test.kadaster.nl
+https://api.transformation.nsgi.nl
+https://api.transformation.test.nsgi.nl
 https://apiacc.eerstekamer.nl
 https://apiarbor.eerstekamer.nl
 https://apiback.eerstekamer.nl
@@ -6018,6 +6020,7 @@ https://nplw.nl
 https://nponderwijs.nl
 https://npostart.nl
 https://nrgd.nl
+https://nsgi.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
 https://ntm.staging.ndw.nu
@@ -9257,6 +9260,7 @@ https://www.nplw.nl
 https://www.nponderwijs.nl
 https://www.npostart.nl
 https://www.nrgd.nl
+https://www.nsgi.nl
 https://www.nt.ndw.nu
 https://www.nutriscorevoorbedrijven.nl
 https://www.nvwa.nl

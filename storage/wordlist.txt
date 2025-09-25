@@ -61,6 +61,7 @@ jaarverslag
 webservices
 docs
 geoservices
+www.acceptatie
 kennis
 oud
 auth
@@ -77,7 +78,6 @@ beeldbank
 publicaties
 cdn
 onderzoek
-www.acceptatie
 geo
 www.acc
 www-ow
@@ -147,6 +147,7 @@ prod-dictu
 test-dictu
 magazine
 gateway
+www.test
 eloket
 testeloket
 vpn2
@@ -205,7 +206,6 @@ support
 elo
 securemail
 nieuw
-www.test
 matomo
 assets
 sip.myroom
@@ -11266,3 +11266,5 @@ account
 assetscdn
 classic
 cookies
+api.transformation
+api.transformation.test

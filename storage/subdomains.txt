@@ -2152,6 +2152,8 @@ api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
 api.test.kadaster.nl
 api.testbijdrukte.coronatest.nl
+api.transformation.nsgi.nl
+api.transformation.test.nsgi.nl
 api.tst.mijn.overheid.nl
 api.tst0.mijn.overheid.nl
 api.tst1.mijn.overheid.nl
@@ -9588,6 +9590,7 @@ ns3.belastingdienst.nl
 ns3.brabant.nl
 ns4.belastingdienst.nl
 ns4.brabant.nl
+nsgi.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
 nt.ndw.nu
@@ -14612,6 +14615,7 @@ www.acceptatie.kadaster.com
 www.acceptatie.klicviewer.nl
 www.acceptatie.landelijkemeldkamer.org
 www.acceptatie.neorah.nl
+www.acceptatie.nsgi.nl
 www.acceptatie.redactie.aquo.nl
 www.access.authkbtest.kb.nl
 www.access.nba.nl
@@ -15566,6 +15570,7 @@ www.npo.kvk.nl
 www.nponderwijs.nl
 www.npostart.nl
 www.nrgd.nl
+www.nsgi.nl
 www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
 www.nvwa.nl
@@ -15746,6 +15751,7 @@ www.test.coronatest.nl
 www.test.cruksregister.nl
 www.test.kadaster.com
 www.test.monumentenregister.cultureelerfgoed.nl
+www.test.nsgi.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 www.thuiswerken.filmfonds.nl
