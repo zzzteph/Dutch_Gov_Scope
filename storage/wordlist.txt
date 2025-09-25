@@ -33,11 +33,11 @@ _dmarc
 portaal
 sip
 data
+dev
 login
 smtp
 connect
 e
-dev
 link
 remote
 a-english
@@ -51,12 +51,12 @@ hybrid
 ftp
 apps
 kennisbank
+tst
 open
 dialin
 elearning
 digikoppeling
 adfs
-tst
 jaarverslag
 webservices
 docs

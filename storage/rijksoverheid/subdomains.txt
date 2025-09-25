@@ -1338,6 +1338,7 @@ acc.ncsc.nl
 acc.nederlandsesoorten.nl
 acc.netherlandsandyou.nl
 acc.nji.nl
+acc.nlog.nl
 acc.nww.mfaservices.nl
 acc.oinregister.logius.nl
 acc.omgevingswet.overheid.nl
@@ -4488,6 +4489,7 @@ dev.leerwerkloket.nl
 dev.liferay.mfaservices.nl
 dev.login.consular.mfaservices.nl
 dev.netherlandsandyou.nl
+dev.nlog.nl
 dev.nww.mfaservices.nl
 dev.onlineform.culture.gov.nl
 dev.opendata.nederlandwereldwijd.nl
@@ -9463,6 +9465,7 @@ nlhull3.bics.nl
 nlinfrankrijk.nl
 nllabourauthority.nl
 nlmaps.nl
+nlog.nl
 nlrdms.bics.nl
 nls.ndw.nu
 nls.staging.ndw.nu
@@ -13326,6 +13329,7 @@ tst.login.consular.mfaservices.nl
 tst.mercurius.sso3w.nl
 tst.mijn.overheid.nl
 tst.netherlandsandyou.nl
+tst.nlog.nl
 tst.nww.mfaservices.nl
 tst.ondernemersplein.overheid.nl
 tst.onlineform.culture.gov.nl
