@@ -1479,6 +1479,7 @@ https://acc.ncsc.nl
 https://acc.netherlandsandyou.nl
 https://acc.nlog.nl
 https://acc.nlontwikkelingssamenwerking.nl
+https://acc.nlplatform.com
 https://acc.nww.mfaservices.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.onlineform.culture.gov.nl
@@ -5975,6 +5976,7 @@ https://nllabourauthority.nl
 https://nlmaps.nl
 https://nlog.nl
 https://nlontwikkelingssamenwerking.nl
+https://nlplatform.com
 https://nls.ndw.nu
 https://nls.staging.ndw.nu
 https://nnc.dnb.nl
@@ -7646,6 +7648,7 @@ https://test.natura2000.nl
 https://test.ncsc.nl
 https://test.nl-alert.nl
 https://test.nldigitalgovernment.nl
+https://test.nlplatform.com
 https://test.openbare-inspectieresultaten.nvwa.nl
 https://test.optimaaldigitaal.gebruikercentraal.nl
 https://test.portaal.nlarbeidsinspectie.nl
@@ -7756,6 +7759,9 @@ https://toezichtresultaten.onderwijsinspectie.nl
 https://toezichtsociaaldomein.nl
 https://tomcat.tiler01.huygens.knaw.nl
 https://toolbox.veiligepubliekedienstverlening.nl
+https://toolkit-acc.nlplatform.com
+https://toolkit-tst.nlplatform.com
+https://toolkit.nlplatform.com
 https://toolkitinclusie.gebruikercentraal.nl
 https://toolkits.loketgezondleven.nl
 https://toolkittaal.gebruikercentraal.nl
@@ -9209,6 +9215,7 @@ https://www.nllabourauthority.nl
 https://www.nlmaps.nl
 https://www.nlontwikkelingssamenwerking.nl
 https://www.nlot.org.tw
+https://www.nlplatform.com
 https://www.nmi.alterra.nl
 https://www.nponderwijs.nl
 https://www.nrgd.nl

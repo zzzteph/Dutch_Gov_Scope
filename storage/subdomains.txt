@@ -1340,6 +1340,7 @@ acc.netherlandsandyou.nl
 acc.nji.nl
 acc.nlog.nl
 acc.nlontwikkelingssamenwerking.nl
+acc.nlplatform.com
 acc.nww.mfaservices.nl
 acc.oinregister.logius.nl
 acc.omgevingswet.overheid.nl
@@ -9470,6 +9471,7 @@ nlmaps.nl
 nlog.nl
 nlontwikkelingssamenwerking.nl
 nlot.org.tw
+nlplatform.com
 nlrdms.bics.nl
 nls.ndw.nu
 nls.staging.ndw.nu
@@ -13023,6 +13025,7 @@ test.neorah.nl
 test.niwo.nl
 test.nl-alert.nl
 test.nldigitalgovernment.nl
+test.nlplatform.com
 test.openbare-inspectieresultaten.nvwa.nl
 test.optimaaldigitaal.gebruikercentraal.nl
 test.portaal.nlarbeidsinspectie.nl
@@ -13218,8 +13221,11 @@ tolpaymentapi.e-tol.nl
 tomcat.tiler01.huygens.knaw.nl
 toolbox-extremisme.nctv.nl
 toolbox.veiligepubliekedienstverlening.nl
+toolkit-acc.nlplatform.com
 toolkit-cruks.kansspelautoriteit.nl
+toolkit-tst.nlplatform.com
 toolkit.cruksregister.nl
+toolkit.nlplatform.com
 toolkitinclusie.gebruikercentraal.nl
 toolkits.loketgezondleven.nl
 toolkittaal.gebruikercentraal.nl
@@ -15512,6 +15518,7 @@ www.nllabourauthority.nl
 www.nlmaps.nl
 www.nlontwikkelingssamenwerking.nl
 www.nlot.org.tw
+www.nlplatform.com
 www.nmi.alterra.nl
 www.npo.kvk.nl
 www.nponderwijs.nl
