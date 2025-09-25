@@ -763,6 +763,7 @@ _autodiscover._tcp.kimnet.nl
 _autodiscover._tcp.mijncn.nl
 _autodiscover._tcp.nationaalrapporteur.nl
 _autodiscover._tcp.natura2000.nl
+_autodiscover._tcp.nplw.nl
 _autodiscover._tcp.nvwa.nl
 _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
@@ -9527,6 +9528,7 @@ nox.radar.rdi.nl
 npkd.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
+nplw.nl
 npo.kvk.nl
 nponderwijs.nl
 nrgd.nl
@@ -15552,6 +15554,7 @@ www.northseaportal.eu
 www.novexrotterdamsehaven.nl
 www.novum.nu
 www.npkd.nl
+www.nplw.nl
 www.npo.kvk.nl
 www.nponderwijs.nl
 www.nrgd.nl
@@ -15960,6 +15963,7 @@ zoeken.hdsr.nl
 zoeken.kennisplein.intranet.minienm.nl
 zoeken.kvk.nl
 zoeken.nji.nl
+zoeken.nplw.nl
 zoeken.ondernemersplein.overheid.nl
 zoeken.schoolleidersregisterpo.nl
 zoeken.tst.kvk.nl
