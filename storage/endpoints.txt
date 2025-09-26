@@ -137,6 +137,7 @@ http://autodiscover.nin.knaw.nl
 http://autodiscover.niod.knaw.nl
 http://autodiscover.nioo.knaw.nl
 http://autodiscover.niwo.nl
+http://autodiscover.nvao.net
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
 http://autodiscover.ofgv.nl
@@ -417,6 +418,7 @@ http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.leeroverzicht.nl
 http://mijn.logerenbijdeboswachter.nl
+http://mijn.nvao.net
 http://mijn.zuid-holland.nl
 http://mijnloonstrook.knaw.nl
 http://mijnmobiel.nba.nl
@@ -2401,6 +2403,7 @@ https://bes.test.kadaster.nl
 https://beschermdecultuurgoederen.nl
 https://besloten-waves.databank.nl
 https://besluiten.cvdm.nl
+https://besluitenrapporten.nvao.net
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
 https://bestanden.koop.overheid.nl
@@ -4491,6 +4494,7 @@ https://gp3coajb2.coa.nl
 https://gp4coajb2.coa.nl
 https://gp5coajb2.coa.nl
 https://gp6coajb2.coa.nl
+https://gpip.nvao.net
 https://gpkb.kb.nl
 https://gps-sa.sso3w.nl
 https://gr-i.espacenet.com
@@ -4675,6 +4679,7 @@ https://ibw.databank.nl
 https://icdesk.zuid-holland.nl
 https://icorridor-fr-mto-on-ca.hub.arcgis.com
 https://icov.nl
+https://ict.nvao.net
 https://ictexamenhelpdesk.cito.nl
 https://ictu.nl
 https://id-beheer-beta.dblogistiek.brandweer.nl
@@ -5932,6 +5937,7 @@ https://nextcloud.rvb.rijkscloud.nl
 https://nextdrive.nationaalarchief.nl
 https://nexus-docker.aerius.nl
 https://nexus.aerius.nl
+https://nf.nvao.net
 https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nhi-adfs01.herseninstituut.knaw.nl
@@ -6027,6 +6033,7 @@ https://ntm.ndw.nu
 https://ntm.staging.ndw.nu
 https://nunietzwanger.nl
 https://nutriscorevoorbedrijven.nl
+https://nvao.net
 https://nvwa.nl
 https://nws-miami-drought-page-noaa.hub.arcgis.com
 https://nwsmfl-coop-noaa.hub.arcgis.com
@@ -6465,6 +6472,8 @@ https://pages.ds-ocw.rijkscloud.nl
 https://pages.huc.knaw.nl
 https://pages.svb.nl
 https://pagw.nl
+https://panelaanvraag.nvao.net
+https://panellidbij.nvao.net
 https://pao.chadwyck.co.uk.access.authkb.kb.nl
 https://papiamento.two-acs.com
 https://papiamento.vnacs.nl
@@ -6799,6 +6808,7 @@ https://publicaties.afm.nl
 https://publicaties.brabant.nl
 https://publicaties.mensenrechten.nl
 https://publicaties.minienw.nl
+https://publicaties.nvao.net
 https://publicaties.odmh.nl
 https://publicaties.rvig.nl
 https://publicwebservices.cibg.nl
@@ -6840,6 +6850,7 @@ https://racine-water-utility-racine-wu.hub.arcgis.com
 https://radar.rdi.nl
 https://radicaalofpuberaal.nctv.nl
 https://radius.niwo.nl
+https://radius.nvao.net
 https://railstotrails.maps.arcgis.com
 https://raintoriveratx-austin.hub.arcgis.com
 https://rapportagecvvo-a.cito.nl
@@ -7301,6 +7312,7 @@ https://sodm.nl
 https://sollicitanten.ictu.nl
 https://sonar.ndw.nu
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
+https://sonicwall.nvao.net
 https://south-windsor-pocd-information-hub-southwindsorct.hub.arcgis.com
 https://spacetechexpo.nlspace.nl
 https://spaceweather.knmi.nl
@@ -7313,6 +7325,7 @@ https://sparql.noraonline.nl
 https://spatialdata-cbmdc.hub.arcgis.com
 https://spcgis-spc.hub.arcgis.com
 https://spelen.cultuurparticipatie.nl
+https://spf.nvao.net
 https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
 https://splunk-a.svb.nl
@@ -7321,6 +7334,7 @@ https://sportakkoord.allesoversport.nl
 https://sportenbewegenincijfers.nl
 https://spx-oec.digitalenoordzee.nl
 https://sq.mfaservices.nl
+https://srv-ca01.nvao.net
 https://srv3.dopingautoriteit.nl
 https://ssc-ict.nl
 https://ssc-ictspecials.nl
@@ -8185,6 +8199,7 @@ https://webmail.leidraadse.nl
 https://webmail.nak.nl
 https://webmail.nedmextrade.com
 https://webmail.nidos.nl
+https://webmail.nvao.net
 https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
 https://webmail.rijkscloud.nl
@@ -8242,6 +8257,7 @@ https://werkenbij.nak.nl
 https://werkenbij.naktuinbouw.nl
 https://werkenbij.nba.nl
 https://werkenbij.nipv.nl
+https://werkenbij.nvao.net
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -8263,6 +8279,7 @@ https://werkplek.fondspodiumkunsten.nl
 https://werkplek.ifv.nl
 https://werkplek.justid.nl
 https://werkplek.lvnl.nl
+https://werkplek.nvao.net
 https://werkplek.rekenkamer.nl
 https://werkplek.services.acm.nl
 https://werkplek.vallei-veluwe.nl
@@ -9265,6 +9282,7 @@ https://www.nrgd.nl
 https://www.nsgi.nl
 https://www.nt.ndw.nu
 https://www.nutriscorevoorbedrijven.nl
+https://www.nvao.net
 https://www.nvwa.nl
 https://www.nza.nl
 https://www.ocw-verhalen.nl
@@ -9306,6 +9324,7 @@ https://www.oxfordmusiconline.com.access.authkb.kb.nl
 https://www.p-direkt.nl
 https://www.pacemweb.nl
 https://www.pagw.nl
+https://www.panelaanvraag.nvao.net
 https://www.perf.omgevingswet.overheid.nl
 https://www.perpest.alterra.nl
 https://www.pns.nl

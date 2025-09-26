@@ -1622,6 +1622,7 @@ accp.stopheling.nl
 accrinservice.minvws.nl
 accshortnis.naktuinbouw.nl
 accsite.autoriteitpersoonsgegevens.nl
+acct.nvao.net
 ace_nat17.belastingdienst.nl
 acgsa.maps.arcgis.com
 achd-substance-use-adcogov-health.hub.arcgis.com
@@ -2551,6 +2552,7 @@ autodiscover.nin.knaw.nl
 autodiscover.niod.knaw.nl
 autodiscover.nioo.knaw.nl
 autodiscover.niwo.nl
+autodiscover.nvao.net
 autodiscover.nza.nl
 autodiscover.odijmond.nl
 autodiscover.ofgv.nl
@@ -2916,6 +2918,7 @@ beschermdecultuurgoederen.nl
 besloten-nba-acc.nba.nl
 besloten-waves.databank.nl
 besluiten.cvdm.nl
+besluitenrapporten.nvao.net
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
 bestanden.alleenjijbepaalt.nl
@@ -6412,6 +6415,7 @@ gpa-rest-test.belastingdienst.nl
 gpa-tvs4-prod.rvo.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
+gpip.nvao.net
 gpkb.kb.nl
 gps-sa-api.sso3w.nl
 gps-sa.sso3w.nl
@@ -6751,6 +6755,7 @@ icgw.services.acm.nl
 icorridor-fr-mto-on-ca.hub.arcgis.com
 icov.nl
 ict-ers.werkenvoornederland.nl
+ict.nvao.net
 icters.werkenvoornederland.nl
 ictexamenhelpdesk.cito.nl
 ictu.nl
@@ -8794,6 +8799,7 @@ mijn.melding.zorgaanbiedersportaal.nl
 mijn.ncsc.nl
 mijn.ndw.nu
 mijn.nipv.nl
+mijn.nvao.net
 mijn.nvwa.nl
 mijn.o1.digid.nl
 mijn.ont.belastingdienst.nl
@@ -9023,6 +9029,7 @@ mm.belastingdienst.nl
 mm.ont.belastingdienst.nl
 mmdc.nl
 mms-gw.om.nl
+mn-mx1.search.nvao.net
 mn.datawonen.nl
 mnd-preprd.overheid.nl
 mnd.overheid.nl
@@ -9109,6 +9116,7 @@ mr.chm-cbd.net
 mrcdb.rijkscloud.nl
 mre.databank.nl
 mrs.dnb.nl
+mrs.nvao.net
 mrs1.kadaster.nl
 mrs2.kadaster.nl
 mrt.defensie.nl
@@ -9405,6 +9413,7 @@ nexus.devops.rvb.rijkscloud.nl
 nexus.extern.minszw.nl
 nexus.lpc.logius.nl
 nexus.test.ix.rijkscloud.nl
+nf.nvao.net
 ngr.acceptatie.nationaalgeoregister.nl
 ngr.ontwikkeling.nationaalgeoregister.nl
 nh.acc.douane.nl
@@ -9611,6 +9620,7 @@ ntrip.kadaster.nl
 ntripservice.kadaster.nl
 nunietzwanger.nl
 nutriscorevoorbedrijven.nl
+nvao.net
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 nvwa.nl
@@ -10309,6 +10319,8 @@ pages.test.internal.nza.nl
 pagw.nl
 pan.emissieautoriteit.nl
 pand29gbs.bureau.knaw.nl
+panelaanvraag.nvao.net
+panellidbij.nvao.net
 panter001.dictu.nl
 panter001a-relay.dictu.nl
 panter001a.dictu.nl
@@ -11151,6 +11163,7 @@ publicaties.brabant.nl
 publicaties.mensenrechten.nl
 publicaties.minienm.nl
 publicaties.minienw.nl
+publicaties.nvao.net
 publicaties.odmh.nl
 publicaties.oud.mensenrechten.nl
 publicaties.rvig.nl
@@ -11227,6 +11240,7 @@ racine-water-utility-racine-wu.hub.arcgis.com
 radar.rdi.nl
 radicaalofpuberaal.nctv.nl
 radius.niwo.nl
+radius.nvao.net
 railstotrails.maps.arcgis.com
 raintoriveratx-austin.hub.arcgis.com
 rally.gn2.rijkscloud.nl
@@ -11933,6 +11947,7 @@ search.aerius.nl
 search.business.gov.nl
 search.developer.overheid.nl
 search.ebscohost.com.access.authkb.kb.nl
+search.nvao.net
 seb.ibki.nl
 sec01.dans.knaw.nl
 secretaria-de-salud-de-soacha-sigsoacha15.hub.arcgis.com
@@ -12354,6 +12369,7 @@ sonarqube.devops.rvb.rijkscloud.nl
 sonarqube.lpc.logius.nl
 sonarqube.test.ix.rijkscloud.nl
 sonarqube2.devops.rvb.rijkscloud.nl
+sonicwall.nvao.net
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 south-windsor-pocd-information-hub-southwindsorct.hub.arcgis.com
@@ -12373,6 +12389,7 @@ spcgis-spc.hub.arcgis.com
 specials-acpt.brabant.nl
 specials.brabant.nl
 spelen.cultuurparticipatie.nl
+spf.nvao.net
 spfesfuidb.ictu.nl
 spin.rijkswaterstaat.nl
 spin2.rijkswaterstaat.nl
@@ -12401,6 +12418,7 @@ sre-wmo.databank.nl
 srkbroker.bics.nl
 srv-52b05-19.gn2.rijkscloud.nl
 srv-52b13-13.gn2.rijkscloud.nl
+srv-ca01.nvao.net
 srv-zmb02-27.gn3.rijkscloud.nl
 srv-zmb02-34.gn3.rijkscloud.nl
 srv-zmb12-13.gn3.rijkscloud.nl
@@ -14106,6 +14124,7 @@ webmail.nedmextrade.com
 webmail.nidos.nl
 webmail.niwo.nl
 webmail.nladag.nl
+webmail.nvao.net
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
@@ -14230,6 +14249,7 @@ werkenbij.nak.nl
 werkenbij.naktuinbouw.nl
 werkenbij.nba.nl
 werkenbij.nipv.nl
+werkenbij.nvao.net
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.toeslagen.nl
@@ -14258,6 +14278,7 @@ werkplek.hhdelfland.nl
 werkplek.ifv.nl
 werkplek.justid.nl
 werkplek.lvnl.nl
+werkplek.nvao.net
 werkplek.om.nl
 werkplek.rekenkamer.nl
 werkplek.services.acm.nl
@@ -15575,6 +15596,7 @@ www.nrgd.nl
 www.nsgi.nl
 www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
+www.nvao.net
 www.nvwa.nl
 www.nza.nl
 www.ocw-verhalen.nl
@@ -15621,6 +15643,7 @@ www.oxfordmusiconline.com.access.authkb.kb.nl
 www.p-direkt.nl
 www.pacemweb.nl
 www.pagw.nl
+www.panelaanvraag.nvao.net
 www.pe-upload.nba.nl
 www.pearl.alterra.nl
 www.peatwise.alterra.nl
@@ -15705,6 +15728,7 @@ www.schoolleidersregisterpo.nl
 www.schoudersonderschoon.nl
 www.scope.nin.knaw.nl
 www.scp.nl
+www.search.nvao.net
 www.seb.ibki.nl
 www.secure.cito.nl
 www.senternovem.databank.nl
