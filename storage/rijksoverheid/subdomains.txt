@@ -2142,6 +2142,7 @@ api.mobiliteitsbank.nl
 api.nationaalwegenbestand.nl
 api.ncsc.nl
 api.nederlandwereldwijd.nl
+api.ondernemersplein.nl
 api.ondernemersplein.overheid.nl
 api.openstad.zuid-holland.nl
 api.p-direkt.nl
@@ -2567,6 +2568,7 @@ autodiscover.odc-noord.nl
 autodiscover.odijmond.nl
 autodiscover.ofgv.nl
 autodiscover.ogco.nl
+autodiscover.ondernemersplein.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
@@ -9925,6 +9927,7 @@ ondermijningsacademie.kennisplatformondermijning.nl
 ondernemersloket.acceptatie.niwo.nl
 ondernemersloket.niwo.nl
 ondernemersplein.kvk.nl
+ondernemersplein.nl
 ondernemersplein.overheid.nl
 ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
 ondersteuning.omgevingswet.overheid.nl
@@ -10034,6 +10037,7 @@ opendata-unionoh.hub.arcgis.com
 opendata-westspringfield.hub.arcgis.com
 opendata.acp.business.gov.nl
 opendata.acp.kvk.nl
+opendata.acp.ondernemersplein.nl
 opendata.adviescollegeveiligheidgroningen.nl
 opendata.adviescommissievolkenrecht.nl
 opendata.adviesraadinternationalevraagstukken.nl
@@ -10183,6 +10187,7 @@ opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
 opendata.oesorichtlijnen.nl
 opendata.om.nl
+opendata.ondernemersplein.nl
 opendata.onderwijsinspectie.nl
 opendata.onderwijsraad.nl
 opendata.onderwijsregio.nl
@@ -15830,6 +15835,7 @@ www.omgevingswijzer.org
 www.on2013.nl
 www.onbeperkttoegankelijk.nl
 www.ondermijningapp.nl
+www.ondernemersplein.nl
 www.onderwijsinspectie.nl
 www.onderwijsraad.nl
 www.onderwijsregio.nl
