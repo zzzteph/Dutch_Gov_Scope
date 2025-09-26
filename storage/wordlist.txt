@@ -98,6 +98,7 @@ demo
 mdm
 sts
 www1
+a-magazines
 mailing
 ns1
 www-acc2
@@ -135,7 +136,6 @@ projecten
 dwo
 mam
 api-acc
-a-magazines
 sandbox
 www-a
 zaaksysteem-acc
