@@ -36,9 +36,9 @@ dev
 smtp
 portaal
 sip
+link
 connect
 e
-link
 zoeken
 remote
 a-english

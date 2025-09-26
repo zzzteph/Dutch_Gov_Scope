@@ -2565,6 +2565,7 @@ autodiscover.nza.nl
 autodiscover.odc-noord.nl
 autodiscover.odijmond.nl
 autodiscover.ofgv.nl
+autodiscover.ogco.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
@@ -8087,6 +8088,7 @@ link.inclusiefwerkt.nl
 link.mondriaanfonds.nl
 link.nieuwsbriefrechtspraak.nl
 link.nipv.nl
+link.ogco.nl
 linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.competentnl.nl
@@ -9873,6 +9875,7 @@ officielebekendmakingen.nl
 offshorewind.rvo.nl
 ofgv.nl
 ofgvtransfer.ofgv.nl
+ogco.nl
 ogier.huygens.knaw.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
 oinregister.logius.nl
@@ -15808,6 +15811,7 @@ www.oesorichtlijnen.nl
 www.officielebekendmakingen.nl
 www.offshorewind.rvo.nl
 www.ofgv.nl
+www.ogco.nl
 www.om.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
