@@ -509,6 +509,8 @@ http://pseudonym.test.zm.irealisatie.nl
 http://pts31.dans.knaw.nl
 http://public-preprod.ep-online.nl
 http://public.mondriaanfonds.nl
+http://publicatieservice-bms-acc.officielebekendmakingen.nl
+http://publicatieservice-rps-acc.officielebekendmakingen.nl
 http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
@@ -2336,6 +2338,9 @@ https://behandel.generiekeregistratiedienst.cibg.nl
 https://behandel.sbv-z.nl
 https://beheer-acc.burgernet.nl
 https://beheer-acc.datastelselverduurzamingutiliteit.nl
+https://beheer-acc.officielebekendmakingen.nl
+https://beheer-sgd-acc.officielebekendmakingen.nl
+https://beheer-sgd.officielebekendmakingen.nl
 https://beheer-tgv-acceptatie.nipv.nl
 https://beheer-tgv-test.nipv.nl
 https://beheer-tgv.nipv.nl
@@ -2354,6 +2359,7 @@ https://beheer.lir.cibg.nl
 https://beheer.locatieregister.zorgaanbiedersportaal.nl
 https://beheer.lrza.cibg.nl
 https://beheer.ncpeh.nl
+https://beheer.officielebekendmakingen.nl
 https://beheer.zorgaanbiedersportaal.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerders.logerenbijdeboswachter.nl
@@ -2378,6 +2384,8 @@ https://beheerportaal.perf.omgevingswet.overheid.nl
 https://beheerportaal.pre.omgevingswet.overheid.nl
 https://beheerportaal.preproductie.digipoort.logius.nl
 https://beheerportaal.tst2905.omgevingswet.overheid.nl
+https://beheersite-op-acc.officielebekendmakingen.nl
+https://beheersite-op.officielebekendmakingen.nl
 https://beheerterugmeldingen.acceptatie.kadaster.nl
 https://beheerterugmeldingen.kadaster.nl
 https://beirut-urban-observatory-aub.hub.arcgis.com
@@ -2931,6 +2939,7 @@ https://cognitatie.omgevingswet.overheid.nl
 https://cognitatie.tst.omgevingswet.overheid.nl
 https://cohife-cohife.hub.arcgis.com
 https://cokz.nl
+https://coldip.officielebekendmakingen.nl
 https://collabora.acc.irealisatie.nl
 https://collabora.irealisatie.nl
 https://collabra.cvte.nl
@@ -4720,7 +4729,9 @@ https://id.limburg.nl
 https://idbs.idm.rvig.nl
 https://ideasfrom.eu
 https://identificatie.rdi.nl
+https://identifier-preprod.officielebekendmakingen.nl
 https://identifier-preprod.overheid.nl
+https://identifier.officielebekendmakingen.nl
 https://identifier.overheid.nl
 https://idp.dev.kvk.nl
 https://idp.dmi-ecosysteem.nl
@@ -6144,6 +6155,7 @@ https://oefenvragenlijst.cbs.nl
 https://oesorichtlijnen.nl
 https://ofallon.maps.arcgis.com
 https://office.cultuurparticipatie.nl
+https://officielebekendmakingen.nl
 https://offshorewind.rvo.nl
 https://ofgv.nl
 https://oidc.proeftuin.uzi-online.irealisatie.nl
@@ -7459,10 +7471,12 @@ https://staatscommissietegendiscriminatieenracisme.nl
 https://staatsexamensnt2.nl
 https://staatvanbrabant.databank.nl
 https://staatvanutrecht.databank.nl
+https://stage-acc.officielebekendmakingen.nl
 https://stage.dopingautoriteit.nl
 https://stage.dopinginfo.nl
 https://stage.elearning.dopingautoriteit.nl
 https://stage.gds.dopingautoriteit.nl
+https://stage.officielebekendmakingen.nl
 https://stage.supplementenwijzer.dopingautoriteit.nl
 https://stagefonds.formulierdus-i.nl
 https://staging-organisaties.doemeemetmdt.nl
@@ -8158,6 +8172,7 @@ https://voorlichting.wegwijzer.overheid.nl
 https://voorvertoning.leeroverzicht.nl
 https://vorijkbo-tst.rvo.nl
 https://vouch.checkjeprijs.huurcommissie.nl
+https://vpn-nabs.officielebekendmakingen.nl
 https://vpn.a4.odc-noord.nl
 https://vpn.brabant.nl
 https://vpn.bureauft.nl
@@ -8472,11 +8487,13 @@ https://www-acc.globalentry-rtp.nl
 https://www-acc.hogeraad.nl
 https://www-acc.internetconsultatie.nl
 https://www-acc.kcbr.nl
+https://www-acc.officielebekendmakingen.nl
 https://www-b.natuurinbeeld.nederlandsesoorten.nl
 https://www-c.natuurinbeeld.nederlandsesoorten.nl
 https://www-ingentaconnect-com.access.authkb.kb.nl
 https://www-jstor-org.access.authkb.kb.nl
 https://www-oxfordmusiconline-com.access.authkb.kb.nl
+https://www-preprod.officielebekendmakingen.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www-test.inhuurdeskpolitie.nl
 https://www.04348.github.io
@@ -9395,6 +9412,7 @@ https://www.odmh.nl
 https://www.oecdguidelines.nl
 https://www.oefenstembiljet.nl
 https://www.oesorichtlijnen.nl
+https://www.officielebekendmakingen.nl
 https://www.offshorewind.rvo.nl
 https://www.ofgv.nl
 https://www.om.nl
@@ -9656,6 +9674,9 @@ https://zm.chm-cbd.net
 https://zml-a.cito.nl
 https://zml-t.cito.nl
 https://zml.cito.nl
+https://zoek-acc.officielebekendmakingen.nl
+https://zoek-preprod.officielebekendmakingen.nl
+https://zoek.officielebekendmakingen.nl
 https://zoekdienst.overheid.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl

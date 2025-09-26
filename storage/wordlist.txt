@@ -42,12 +42,12 @@ link
 zoeken
 remote
 a-english
+beheer
 app
 meet
 tst
 a-feeds.a-english
 a-opendata.a-english
-beheer
 hybrid
 ftp
 apps
@@ -322,6 +322,7 @@ backend
 development
 office
 elotest
+beheer-acc
 training
 vragen
 test.www
@@ -330,6 +331,7 @@ haaglanden
 zeeland
 idp
 sip2
+stage
 cpcalendars
 cpcontacts
 community
@@ -372,6 +374,7 @@ toestemming
 vc
 webdiensten
 wus
+zoek
 acs
 beeldbank-bo
 blogs
@@ -502,6 +505,8 @@ e-learning
 import-acc.organisaties
 import.organisaties
 data-acc
+identifier-preprod
+identifier
 ondernemersplein
 social
 standaarden
@@ -574,7 +579,6 @@ share.acceptatie-nieuw
 share.test-nieuw
 test-nieuw
 rijksoverheid
-beheer-acc
 dashboard-acc
 vragenlijst
 rijbewijs
@@ -602,7 +606,6 @@ www.app
 t1
 mrs
 plp
-stage
 lod
 as2
 postmaster
@@ -1435,7 +1438,6 @@ acceptatie.tea
 advieswijzer
 tea
 acceptatie.zoek
-zoek
 acs-acpt
 api-acpt
 aris
@@ -3473,8 +3475,6 @@ gegevensdelen.tst6.mijn
 gegevensdelen.tst7.mijn
 gegevensdelen.tst8.mijn
 identifier-acc
-identifier-preprod
-identifier
 iknowcimow.acc.omgevingswet
 iknowcimow.omgevingswet
 iknowcimow.tst.omgevingswet
@@ -11426,3 +11426,18 @@ vpn.ocw
 vpn.rvb
 vws-acc.jira
 vws-prd.jira
+beheer-sgd-acc
+beheer-sgd
+beheersite-op-acc
+beheersite-op
+coldip
+nabs
+publicatieservice-bms-acc
+publicatieservice-rps-acc
+stage-acc
+vpn-nabs
+web01-nabs
+web02-nabs
+www-preprod
+zoek-acc
+zoek-preprod

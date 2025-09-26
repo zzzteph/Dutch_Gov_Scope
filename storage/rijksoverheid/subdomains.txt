@@ -2828,8 +2828,11 @@ behandel.sbv-z.nl
 beheer-acc.burgernet.nl
 beheer-acc.datastelselverduurzamingutiliteit.nl
 beheer-acc.energiebesparingsverkenner.rvo.nl
+beheer-acc.officielebekendmakingen.nl
 beheer-acc1.energiebesparingsverkenner.rvo.nl
 beheer-bzv.brabant.nl
+beheer-sgd-acc.officielebekendmakingen.nl
+beheer-sgd.officielebekendmakingen.nl
 beheer-tgv-acceptatie.nipv.nl
 beheer-tgv-test.nipv.nl
 beheer-tgv.nipv.nl
@@ -2854,6 +2857,7 @@ beheer.lir.cibg.nl
 beheer.locatieregister.zorgaanbiedersportaal.nl
 beheer.lrza.cibg.nl
 beheer.ncpeh.nl
+beheer.officielebekendmakingen.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.zorgaanbiedersportaal.nl
@@ -2889,6 +2893,8 @@ beheerservice-drp-preprd.overheid.nl
 beheerservice-drp.overheid.nl
 beheersite-drp-preprd.overheid.nl
 beheersite-drp.overheid.nl
+beheersite-op-acc.officielebekendmakingen.nl
+beheersite-op.officielebekendmakingen.nl
 beheerterugmeldingen.acceptatie.kadaster.nl
 beheerterugmeldingen.kadaster.nl
 beheervpn.kvk.nl
@@ -3850,6 +3856,7 @@ cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
 cohife-cohife.hub.arcgis.com
 cokz.nl
+coldip.officielebekendmakingen.nl
 collabora.acc.irealisatie.nl
 collabora.irealisatie.nl
 collabora.poc1.bestandenpostbus.nl
@@ -6832,7 +6839,9 @@ ideal20.belastingdienst.nl
 ideasfrom.eu
 identificatie.rdi.nl
 identifier-acc.overheid.nl
+identifier-preprod.officielebekendmakingen.nl
 identifier-preprod.overheid.nl
+identifier.officielebekendmakingen.nl
 identifier.overheid.nl
 identity.coa.nl
 idm-int.erp.kadaster.nl
@@ -9385,6 +9394,7 @@ na-prd.topdesk.odc-noord.nl
 naaldwijk.zuid-holland.nl
 naarnederland.nl
 nabb.databank.nl
+nabs.officielebekendmakingen.nl
 nac.nctv.nl
 nac014005.mgmtdwr.rijksoverheid.nl
 naip.arcgis.com
@@ -9859,6 +9869,7 @@ officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
 officeonline.kb.nl
 officiele-overheidspublicaties.nl
+officielebekendmakingen.nl
 offshorewind.rvo.nl
 ofgv.nl
 ofgvtransfer.ofgv.nl
@@ -11294,6 +11305,8 @@ publicaties.nvao.net
 publicaties.odmh.nl
 publicaties.oud.mensenrechten.nl
 publicaties.rvig.nl
+publicatieservice-bms-acc.officielebekendmakingen.nl
+publicatieservice-rps-acc.officielebekendmakingen.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
 publieksvragen-en-signalen.cvdm.nl
@@ -12632,10 +12645,12 @@ staatvan.zuid-holland.nl
 staatvanbrabant.databank.nl
 staatvanutrecht.databank.nl
 stadvanced.belastingdienst.nl
+stage-acc.officielebekendmakingen.nl
 stage.dopingautoriteit.nl
 stage.dopinginfo.nl
 stage.elearning.dopingautoriteit.nl
 stage.gds.dopingautoriteit.nl
+stage.officielebekendmakingen.nl
 stage.supplementenwijzer.dopingautoriteit.nl
 stagefonds.formulierdus-i.nl
 stagiairs.werkenvoornederland.nl
@@ -13956,6 +13971,7 @@ vorijkbo-tst.rvo.nl
 vos.intranet.rijkswaterstaat.nl
 vouch.checkjeprijs.huurcommissie.nl
 vpg-aag-test.belastingdienst.nl
+vpn-nabs.officielebekendmakingen.nl
 vpn-server1.acpt.nationaalarchief.nl
 vpn-server1.nationaalarchief.nl
 vpn-server2.nationaalarchief.nl
@@ -14195,8 +14211,10 @@ web.test.brba.nl
 web.test.dpr.irealisatie.nl
 web.test.gf.irealisatie.nl
 web.test.mgo.irealisatie.nl
+web01-nabs.officielebekendmakingen.nl
 web01.aaninhetdonker.nl
 web01.huygens.knaw.nl
+web02-nabs.officielebekendmakingen.nl
 web02.burgernet.nl
 web02.huygens.knaw.nl
 web1.fa.knaw.nl
@@ -14670,6 +14688,7 @@ www-acc.internetconsultatie.nl
 www-acc.istandaarden.nl
 www-acc.kcbr.nl
 www-acc.medicijnkosten.nl
+www-acc.officielebekendmakingen.nl
 www-acc.zorgcijfersdatabank.nl
 www-acc.zorginstituutnederland.nl
 www-acc.zorginzicht.nl
@@ -14727,6 +14746,7 @@ www-p2.medicijnkosten.nl
 www-p2.zorgcijfersdatabank.nl
 www-p2.zorginzicht.nl
 www-pr.zorginzicht.nl
+www-preprod.officielebekendmakingen.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-staging.ciz.nl
@@ -15785,6 +15805,7 @@ www.odmh.nl
 www.oecdguidelines.nl
 www.oefenstembiljet.nl
 www.oesorichtlijnen.nl
+www.officielebekendmakingen.nl
 www.offshorewind.rvo.nl
 www.ofgv.nl
 www.om.nl
@@ -16169,7 +16190,10 @@ zm.chm-cbd.net
 zml-a.cito.nl
 zml-t.cito.nl
 zml.cito.nl
+zoek-acc.officielebekendmakingen.nl
+zoek-preprod.officielebekendmakingen.nl
 zoek.bodemambities.nl
+zoek.officielebekendmakingen.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl
 zoekeentolkvertaler.bureauwbtv.nl
