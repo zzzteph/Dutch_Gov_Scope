@@ -2339,6 +2339,7 @@ artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
+artifactory.nwo.nl
 artursdoet.huygens.knaw.nl
 as-derb-01.duo.nl
 as-derc-01.duo.nl
@@ -2554,6 +2555,7 @@ autodiscover.niod.knaw.nl
 autodiscover.nioo.knaw.nl
 autodiscover.niwo.nl
 autodiscover.nvao.net
+autodiscover.nwo.nl
 autodiscover.nza.nl
 autodiscover.odijmond.nl
 autodiscover.ofgv.nl
@@ -2780,6 +2782,7 @@ bedrijfscommissieoverheid.nl
 bedrijvenbeleidinbeeld.nl
 bedrijventeller.kvk.nl
 beegigantic.github.io
+beeld.nwo.nl
 beeldarchief.zuid-holland.nl
 beeldarchiefbeheer.zuid-holland.nl
 beeldbank-beheer.cbs.nl
@@ -3311,6 +3314,7 @@ bvz.waves.databank.nl
 bwdb03.knmi.nl
 bwi.minbzk.nl
 bwi.minbzk.nl.p-direkt.nl
+byod.nwo.nl
 bzv-a.brabant.nl
 bzv.brabant.nl
 c-pki-acc.dictu.nl
@@ -3927,6 +3931,7 @@ connect.test.who.minvws.nl
 connect.wodc.nl
 connect1.kadaster.nl
 connect2.kadaster.nl
+connector.isaac.nwo.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -4038,6 +4043,7 @@ cpe-tst.extern.minszw.nl
 cpe.extern.minszw.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
+cpp.nwo.nl
 cpps.brepolis.net.access.authkb.kb.nl
 cprsprod.afm.nl
 cptst.vcdn.belastingdienst.nl
@@ -4249,6 +4255,7 @@ data.knmi.nl
 data.labs.kadaster.nl
 data.ndw.nu
 data.noraonline.nl
+data.nwo.nl
 data.overheid.nl
 data.rijkswaterstaat.nl
 data.rvo.nl
@@ -4691,6 +4698,7 @@ digitalnorthsea.nl
 digitaltrustcenter.nl
 digitaltrustcommunity.nl
 digitoegankelijk.nl
+digitoegankelijk.nwo.nl
 dihoo.eu
 dihoo.nl
 dioxins-congener-hen.apps.feedfoodtransfer.nl
@@ -4703,6 +4711,7 @@ dip.services.acm.nl
 diplomatieke-getuigenissen.huygens.knaw.nl
 directchat.kvk.nl
 directduidelijk.gebruikercentraal.nl
+directie.sp.nwo.nl
 directory.huc.knaw.nl
 discipl.nl
 disportal.nl
@@ -4754,6 +4763,7 @@ dns.ix.rijkscloud.nl
 dns1.dictu.nl
 dns1.overheid.nl
 dns2.dictu.nl
+dns2.nwo.nl
 dns2.overheid.nl
 dns3.acm.nl
 dns4.acm.nl
@@ -5310,6 +5320,7 @@ enterpriseregistration.belastingdienst.nl
 enterpriseregistration.dnb.nl
 enterpriseregistration.domeinenrz.nl
 enterpriseregistration.ictu.nl
+enterpriseregistration.nwo.nl
 enterpriseregistration.ofgv.nl
 enterpriseregistration.pc.belastingdienst.nl
 enterpriseregistration.svb.nl
@@ -6391,6 +6402,7 @@ gobernadoraruba.com
 gobernadorkorsou.com
 gobiernodireino.nl
 gobiernudireino.nl
+gofer.nwo.nl
 good.cbs.nl
 gooienvechtstreek.leerwerkloket.nl
 goto.arcgis.com
@@ -6551,6 +6563,7 @@ hallo.kvk.nl
 halt-verwijs.jeugdconnect.nl
 halt.nl
 han-demo.chm-cbd.net
+han-messe.nwo.nl
 handboek.bkd.eu
 handboek.toeslagen.nl
 handelingenbank.info
@@ -6866,7 +6879,9 @@ img.openstad.zuid-holland.nl
 imlc.huygens.knaw.nl
 immissietoets.nl
 impact-project.eu
+impact.nwo.nl
 impactmonitortoerisme.databank.nl
+impacttest.nwo.nl
 implementatiecoachdi.nl
 import-acc.organisaties.overheid.nl
 import.logerenbijdeboswachter.nl
@@ -7047,6 +7062,7 @@ intra-cms.rvo.nl
 intra.dans.knaw.nl
 intra.rvo.nl
 intranet-acc.flevoland.nl
+intranet-acc.nwo.nl
 intranet-bestanden.flevoland.nl
 intranet-demo.dictu.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
@@ -7071,6 +7087,7 @@ intranet.minienw.nl
 intranet.naktuinbouw.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.nin.knaw.nl
+intranet.nwo.nl
 intranet.odijmond.nl
 intranet.ont.toeslagen.nl
 intranet.rijkswaterstaat.nl
@@ -7127,6 +7144,7 @@ irmpol-acc.dictu.nl
 irmpol.dictu.nl
 is-i.espacenet.com
 is.espacenet.com
+isaac.nwo.nl
 isamproxyont.ont.belastingdienst.nl
 isdatechtzo.nl
 ise.acm.nl
@@ -8485,6 +8503,7 @@ mailing.dictu.nl
 mailing.dus-i.nl
 mailing.halt.nl
 mailing.logius.nl
+mailing.nwo.nl
 mailings.dus-i.nl
 mailmdm.flevoland.nl
 mailmedium.ext.kadaster.nl
@@ -8557,6 +8576,7 @@ matomo.ciz.nl
 matomo.dataplatform.knmi.nl
 matomo.lerenenwerken.nl
 matomo.nationaalarchief.nl
+matomo.nwo.nl
 matra-south.rvo.nl
 matrix.ix.rijkscloud.nl
 matroos.rijkswaterstaat.nl
@@ -9264,6 +9284,7 @@ mx02.bkd.eu
 mx1.kadaster.nl
 mx1.mensenrechten.nl
 mx1.ncsc.nl
+mx1.nwo.nl
 mx1.ofgv.nl
 mx1.svb.nl
 mx1.vallei-veluwe.nl
@@ -9628,6 +9649,12 @@ nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 nvwa.nl
 nwo-i.nl
+nwo.nl
+nwoi-people.nwo.nl
+nwonano.nwo.nl
+nwopen-api-ontwikkel.nwo.nl
+nwopen-api-test.nwo.nl
+nwopen-api.nwo.nl
 nwrar-acc.ncsc.nl
 nws-miami-drought-page-noaa.hub.arcgis.com
 nwsmfl-coop-noaa.hub.arcgis.com
@@ -9885,6 +9912,7 @@ open.overheid.nl
 open.rijkswaterstaat.nl
 open.vechtstromen.nl
 open.waterschaplimburg.nl
+openaccess-werkgroep.nwo.nl
 openbaar.haaglanden.databank.nl
 openbaar.waves.databank.nl
 openbare-inspectieresultaten.nvwa.nl
@@ -10602,6 +10630,7 @@ personeelsmonitor.databank.nl
 personen-acc.cbr.nl
 personen-tst.cbr.nl
 personen.cbr.nl
+personenimport.nwo.nl
 personenregisterkinderopvang.duo.nl
 persons.did.zandbak.dans.knaw.nl
 pesticidesdatabase.ctgb.nl
@@ -10702,6 +10731,7 @@ platform-acc.analyse.ilt.rijkscloud.nl
 platform.analyse.ilt.rijkscloud.nl
 platformafpakken-fiod.acc.belastingdienst.nl
 platformafpakken.fiod.nl
+platformcs-project.nwo.nl
 platformrijksoverheid.nl
 plato.dictu.nl
 playground.commabz.nl
@@ -12290,6 +12320,7 @@ smtp.hhdelfland.nl
 smtp.kb.nl
 smtp.kvk.nl
 smtp.lbio.nl
+smtp.nwo.nl
 smtp.ofgv.nl
 smtp.oostvaarderskliniek.nl
 smtp.rijksoverheid.nl
@@ -13725,6 +13756,7 @@ vhk.mindef-vio.nl
 via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 viaany.vechtstromen.nl
+vibec.nwo.nl
 video-acc.beeldbellen.dji.nl
 video-uploader-aanmelding.cvdm.nl
 video-uploaders.cvdm.nl
@@ -13837,6 +13869,7 @@ vpn.irealisatie.nl
 vpn.knaw.nl
 vpn.koop.overheid.nl
 vpn.niwo.nl
+vpn.nwo.nl
 vpn.ofgv.nl
 vpn.platformrijksoverheid.nl
 vpn.rw1.rijkscloud.nl
@@ -13874,6 +13907,8 @@ vpnb-tst.dictu.nl
 vpnb.dictu.nl
 vpnbon.rijksdienstcn.com
 vpnodcn.dictu.nl
+vpnportal-supplier.nwo.nl
+vpnportal.nwo.nl
 vpntcn.dictu.nl
 vpr.rijkswaterstaat.nl
 vps-prod-01.flevoland.nl
@@ -14054,6 +14089,7 @@ webchat.belastingdienst.nl
 webchat.klopt.cibg.nl
 webcon1.minbzk.nl
 webconf.lbio.nl
+webconf.nwo.nl
 webconf2.vechtstromen.nl
 webdiensten-acc1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
@@ -15271,6 +15307,7 @@ www.iob-evaluatie.nl
 www.iplo.nl
 www.ipw4.alterra.nl
 www.irealisatie.nl
+www.isaac.nwo.nl
 www.isdatechtzo.nl
 www.ishetafval.nl
 www.isis-web.nl
@@ -15605,6 +15642,7 @@ www.nutriscorevoorbedrijven.nl
 www.nvao.net
 www.nvwa.nl
 www.nwo-i.nl
+www.nwo.nl
 www.nza.nl
 www.ocw-verhalen.nl
 www.ocwincijfers.nl

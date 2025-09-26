@@ -18,8 +18,8 @@ _autodiscover._tcp
 magazines
 intranet
 feeds.english
-opendata.english
 vpn
+opendata.english
 cms
 staging
 www-acc
@@ -27,15 +27,15 @@ prod
 werkenbij
 werkplek
 formulieren
+data
 portal
 redactie
 _dmarc
-data
 dev
 login
+smtp
 portaal
 sip
-smtp
 connect
 e
 link
@@ -74,6 +74,7 @@ www-p
 www-tst
 preview
 cpanel
+enterpriseregistration
 services
 beeldbank
 cdn
@@ -85,10 +86,10 @@ www-ts
 www2
 zaaksysteem
 inloggen
+mx1
 maps
 adobe-analytics-dc
 adobe-tags
-enterpriseregistration
 fs
 werken
 acceptatie.beheer
@@ -96,6 +97,7 @@ demo
 mdm
 sts
 www1
+mailing
 ns1
 www-acc2
 www-dev2
@@ -105,7 +107,6 @@ loket
 forms
 sdm
 lyncdiscover
-mx1
 aanvragen
 mail2
 events
@@ -129,7 +130,6 @@ dwo
 mam
 api-acc
 a-magazines
-mailing
 sandbox
 www-a
 zaaksysteem-acc
@@ -149,6 +149,7 @@ test-dictu
 magazine
 gateway
 www.test
+matomo
 eloket
 testeloket
 vpn2
@@ -206,7 +207,6 @@ support
 elo
 securemail
 nieuw
-matomo
 assets
 sip.myroom
 luchtfoto
@@ -273,6 +273,7 @@ site2
 site3
 site4
 t-www
+dns2
 gitlab
 jira
 lync
@@ -423,7 +424,6 @@ deutsch
 feeds.deutsch
 opendata.deutsch
 dns1
-dns2
 enquete
 mail01
 mail02
@@ -445,6 +445,7 @@ www3
 piwik
 exchange
 ftps
+intranet-acc
 preprodformulieren
 veiligmailen
 co
@@ -626,6 +627,7 @@ mijn.test
 mft
 prisma
 lync1
+webconf
 achterhoek
 drechtsteden
 flevoland
@@ -2304,7 +2306,6 @@ hetverhaalvan
 historische-luchtfoto
 int-acc-01
 int-prod-01
-intranet-acc
 intranet-bestanden
 jaarverslag2017
 jaarverslag2018
@@ -10552,7 +10553,6 @@ telewerken.gslb
 Lyncdiscover
 dev.formulieren
 sfbwebext
-webconf
 acceptatie-geneeskundig
 acceptatie-kira
 acceptatie-kmar
@@ -11284,3 +11284,27 @@ www.search
 labservant-acc
 labservant
 www.archief
+artifactory
+beeld
+byod
+connector.isaac
+cpp
+digitoegankelijk
+directie.sp
+gofer
+han-messe
+impact
+impacttest
+isaac
+nwoi-people
+nwonano
+nwopen-api-ontwikkel
+nwopen-api-test
+nwopen-api
+openaccess-werkgroep
+personenimport
+platformcs-project
+vibec
+vpnportal-supplier
+vpnportal
+www.isaac

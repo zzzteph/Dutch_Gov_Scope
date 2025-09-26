@@ -138,6 +138,7 @@ http://autodiscover.niod.knaw.nl
 http://autodiscover.nioo.knaw.nl
 http://autodiscover.niwo.nl
 http://autodiscover.nvao.net
+http://autodiscover.nwo.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
 http://autodiscover.ofgv.nl
@@ -336,6 +337,7 @@ http://images.huygens.knaw.nl
 http://imageviewer.kb.nl
 http://img.openstad.zuid-holland.nl
 http://imlc.huygens.knaw.nl
+http://impacttest.nwo.nl
 http://import.logerenbijdeboswachter.nl
 http://inkopers.werkenvoornederland.nl
 http://inspireaanmerking.nl
@@ -3207,6 +3209,7 @@ https://data.knmi.nl
 https://data.labs.kadaster.nl
 https://data.ndw.nu
 https://data.noraonline.nl
+https://data.nwo.nl
 https://data.overheid.nl
 https://data.rvo.nl
 https://data.staging.ndw.nu
@@ -3437,6 +3440,7 @@ https://digitalnorthsea.nl
 https://digitaltrustcenter.nl
 https://digitaltrustcommunity.nl
 https://digitoegankelijk.nl
+https://digitoegankelijk.nwo.nl
 https://dihoo.eu
 https://dihoo.nl
 https://dioxins-congener-hen.apps.feedfoodtransfer.nl
@@ -3839,6 +3843,7 @@ https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.dnb.nl
 https://enterpriseregistration.domeinenrz.nl
 https://enterpriseregistration.ictu.nl
+https://enterpriseregistration.nwo.nl
 https://enterpriseregistration.ofgv.nl
 https://enterpriseregistration.svb.nl
 https://env1.arcgis.com
@@ -4738,6 +4743,7 @@ https://images.halt.nl
 https://img.denkmee.zuid-holland.nl
 https://immissietoets.nl
 https://impact-project.eu
+https://impact.nwo.nl
 https://impactmonitortoerisme.databank.nl
 https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
@@ -4860,6 +4866,7 @@ https://intpatch.omgevingswet.overheid.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
+https://intranet-acc.nwo.nl
 https://intranet-bestanden.flevoland.nl
 https://intranet-demo.dictu.nl
 https://intranet.ad.hdsr.nl
@@ -4873,6 +4880,7 @@ https://intranet.justis.nl
 https://intranet.justitieleictorganisatie.nl
 https://intranet.kbvg.nl
 https://intranet.nationaalcoordinatorgroningen.nl
+https://intranet.nwo.nl
 https://intranet.odijmond.nl
 https://intranet.rsj.nl
 https://intranet.rvig.nl
@@ -4907,6 +4915,7 @@ https://irealisatie.nl
 https://iris.knmi.nl
 https://is-i.espacenet.com
 https://is.espacenet.com
+https://isaac.nwo.nl
 https://isdatechtzo.nl
 https://ishetafval.nl
 https://isi.cbs.nl
@@ -5503,6 +5512,7 @@ https://mailing.dictu.nl
 https://mailing.dus-i.nl
 https://mailing.halt.nl
 https://mailing.logius.nl
+https://mailing.nwo.nl
 https://mailings.dus-i.nl
 https://maine.hub.arcgis.com
 https://management.api-acc.afm.nl
@@ -5547,6 +5557,7 @@ https://materiaal.monozakelijk.nl
 https://matomo.cip-overheid.nl
 https://matomo.ciz.nl
 https://matomo.lerenenwerken.nl
+https://matomo.nwo.nl
 https://mattermost.aerius.nl
 https://maturityscan.gebruikercentraal.nl
 https://mautic.cultuurparticipatie.nl
@@ -6037,6 +6048,9 @@ https://nutriscorevoorbedrijven.nl
 https://nvao.net
 https://nvwa.nl
 https://nwo-i.nl
+https://nwo.nl
+https://nwoi-people.nwo.nl
+https://nwopen-api.nwo.nl
 https://nws-miami-drought-page-noaa.hub.arcgis.com
 https://nwsmfl-coop-noaa.hub.arcgis.com
 https://nww.mfaservices.nl
@@ -8084,6 +8098,7 @@ https://vpn.coa.nl
 https://vpn.dictu.nl
 https://vpn.ikz.nl
 https://vpn.irealisatie.nl
+https://vpn.nwo.nl
 https://vpn.test.cloud.kadaster.nl
 https://vpn.web.ictu.nl
 https://vpn1.cjib.nl
@@ -8095,6 +8110,7 @@ https://vpn4.cjib.nl
 https://vpna.dictu.nl
 https://vpnb.dictu.nl
 https://vpnbon.rijksdienstcn.com
+https://vpnportal.nwo.nl
 https://vpr.rijkswaterstaat.nl
 https://vps-prod-01.flevoland.nl
 https://vraagje.doeonbeperktmee.nl
@@ -8984,6 +9000,7 @@ https://www.iob-evaluatie.nl
 https://www.iplo.nl
 https://www.ipw4.alterra.nl
 https://www.irealisatie.nl
+https://www.isaac.nwo.nl
 https://www.isdatechtzo.nl
 https://www.ishetafval.nl
 https://www.isis-web.nl
@@ -9288,6 +9305,7 @@ https://www.nutriscorevoorbedrijven.nl
 https://www.nvao.net
 https://www.nvwa.nl
 https://www.nwo-i.nl
+https://www.nwo.nl
 https://www.nza.nl
 https://www.ocw-verhalen.nl
 https://www.ocwincijfers.nl
