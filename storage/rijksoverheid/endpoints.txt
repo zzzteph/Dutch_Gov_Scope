@@ -1618,6 +1618,7 @@ https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.zorgaanbiedersportaal.nl
 https://acceptatie.mondriaanfonds.nl
 https://acceptatie.nipv.nl
+https://acceptatie.onderzoeksraad.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
 https://acceptatie.portaal.nlarbeidsinspectie.nl
@@ -2768,6 +2769,7 @@ https://cdn.huygens.knaw.nl
 https://cdn.kcb.nl
 https://cdn.klopt.cibg.nl
 https://cdn.knmi.nl
+https://cdn.onderzoeksraad.nl
 https://cdn.opwegnaarseb.nl
 https://cdndev.arcgis.com
 https://cdnqa.arcgis.com
@@ -3046,6 +3048,7 @@ https://cookie-proxy-o.cito.nl
 https://cookie-proxy-t.cito.nl
 https://cookie-proxy.cito.nl
 https://cookies.npostart.nl
+https://coronaonderzoek.onderzoeksraad.nl
 https://coronarekening.rekenkamer.nl
 https://coronatest.nl
 https://coronavirus-erac.hub.arcgis.com
@@ -4802,6 +4805,7 @@ https://ind.nl
 https://index.0ctocat.github.io
 https://indicatorsysteem-acc.zuid-holland.nl
 https://indicatorsysteem-tst.zuid-holland.nl
+https://industrie-en-omwonenden.onderzoeksraad.nl
 https://inechile.maps.arcgis.com
 https://ineo.dev.huc.knaw.nl
 https://infographics.rvo.nl
@@ -4996,6 +5000,7 @@ https://jaarverslag.nationaleombudsman.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
 https://jaarverslag2024.bkd.eu
+https://jaarverslagen.onderzoeksraad.nl
 https://jaarverslagrechtspraak.nl
 https://jaeger.proeftuin.gf.irealisatie.nl
 https://jaeger.test.gf.irealisatie.nl
@@ -5135,6 +5140,7 @@ https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.ndw.nu
 https://keycloak.rdi.rijkscloud.nl
 https://keycloak.test.analyse.ilt.rijkscloud.nl
+https://keyhub.onderzoeksraad.nl
 https://kgr.mijn.rvo.nl
 https://kiesraad.nl
 https://kik-v.nl
@@ -5335,6 +5341,8 @@ https://link.mondriaanfonds.nl
 https://link.nieuwsbriefrechtspraak.nl
 https://link.nipv.nl
 https://link.ogco.nl
+https://link.onderzoeksraad.nl
+https://link.test.onderzoeksraad.nl
 https://linkeddata-acc.competentnl.nl
 https://linkeddata.competentnl.nl
 https://linkeddata.cultureelerfgoed.nl
@@ -5613,6 +5621,7 @@ https://matomo.cip-overheid.nl
 https://matomo.ciz.nl
 https://matomo.lerenenwerken.nl
 https://matomo.nwo.nl
+https://matomo.onderzoeksraad.nl
 https://mattermost.aerius.nl
 https://maturityscan.gebruikercentraal.nl
 https://mautic.cultuurparticipatie.nl
@@ -5700,6 +5709,7 @@ https://mft.webftp.dictu.nl
 https://mg.chm-cbd.net
 https://mgmt.aerius.nl
 https://mgt.flevoland.nl
+https://mh17.onderzoeksraad.nl
 https://mi-cert.nl
 https://micollab.cbs.nl
 https://micollab.flevoland.nl
@@ -6222,6 +6232,7 @@ https://onderzoek.svb.nl
 https://onderzoek.wegwijzer.overheid.nl
 https://onderzoek2.cbs.nl
 https://onderzoekmetmensen.nl
+https://onderzoeksraad.nl
 https://onehealth.nl
 https://onewelcome-staging.sso.eherkenning.nl
 https://onewelcome.sso.eherkenning.nl
@@ -6932,6 +6943,7 @@ https://pushmail.onderwijsraad.nl
 https://put-kpi-dashboard.ndw.nu
 https://pvs.oostvaarderskliniek.nl
 https://pw.rvb.rijkscloud.nl
+https://pwdreset.onderzoeksraad.nl
 https://pywb.nationaalarchief.nl
 https://pywb.ted.nationaalarchief.nl
 https://pzh.databank.nl
@@ -7072,6 +7084,7 @@ https://remote.caop.nl
 https://remote.cito.nl
 https://remote.cultuurparticipatie.nl
 https://remote.flevoland.nl
+https://remote.onderzoeksraad.nl
 https://remote.services.acm.nl
 https://remoteaccess1.eerstekamer.nl
 https://remoteaccess2.eerstekamer.nl
@@ -7179,6 +7192,7 @@ https://rs-i.espacenet.com
 https://rs.espacenet.com
 https://rsj.nl
 https://rss.amberalert.nl
+https://rstatci.onderzoeksraad.nl
 https://rstudio.analyse.ilt.rijkscloud.nl
 https://rstudio.cursus.rijkscloud.nl
 https://rstudio.datalab-2.ocw.rijkscloud.nl
@@ -7296,12 +7310,14 @@ https://securemail.dnb.nl
 https://securemail.hetcak.nl
 https://securemail.zorginstituutnederland.nl
 https://securened.ncsc.nl
+https://secureportal.onderzoeksraad.nl
 https://securetest.vechtstromen.nl
 https://securetransfer.rijkscloud.nl
 https://security.ndw.nu
 https://securityservice.secure.cito.nl
 https://seed.status.chm-cbd.net
 https://seg.bij.hetcak.nl
+https://selfservice.onderzoeksraad.nl
 https://semaf.labs.dans.knaw.nl
 https://semaphore.cultuurparticipatie.nl
 https://semarnath1.maps.arcgis.com
@@ -7425,6 +7441,7 @@ https://socialmediamonitor.jeugdconnect.nl
 https://socjenv-acc.topdesk.odc-noord.nl
 https://socjenv-prd.topdesk.odc-noord.nl
 https://sodm.nl
+https://softwareveiligheid.onderzoeksraad.nl
 https://sollicitanten.ictu.nl
 https://sonar.ndw.nu
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
@@ -7811,6 +7828,7 @@ https://test.ncsc.nl
 https://test.nl-alert.nl
 https://test.nldigitalgovernment.nl
 https://test.nlplatform.com
+https://test.onderzoeksraad.nl
 https://test.openbare-inspectieresultaten.nvwa.nl
 https://test.optimaaldigitaal.gebruikercentraal.nl
 https://test.portaal.nlarbeidsinspectie.nl
@@ -9454,6 +9472,7 @@ https://www.onderwijsinspectie.nl
 https://www.onderwijsraad.nl
 https://www.onderwijsregio.nl
 https://www.onderzoekmetmensen.nl
+https://www.onderzoeksraad.nl
 https://www.onehealth.nl
 https://www.onslevendlandschap.nl
 https://www.onswater.nl
