@@ -19,8 +19,8 @@ magazines
 intranet
 feeds.english
 vpn
-opendata.english
 staging
+opendata.english
 cms
 www-acc
 prod
@@ -204,6 +204,7 @@ developer
 magazinesintern
 monitor
 statistiek
+www.staging
 siam
 admin
 support
@@ -314,7 +315,6 @@ media
 organisaties
 server
 topdesk
-www.staging
 idm
 acc-mijn
 communicatie
@@ -11490,3 +11490,5 @@ emagazine
 registration
 www.stats
 db01
+check
+kentekencheck
