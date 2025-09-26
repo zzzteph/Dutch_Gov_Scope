@@ -69,6 +69,7 @@ kennis
 oud
 auth
 accept
+www.acc
 proto
 www-ac
 www-dev
@@ -81,7 +82,6 @@ enterpriseregistration
 beeldbank
 onderzoek
 geo
-www.acc
 www-ow
 www-ts
 zaaksysteem
@@ -143,6 +143,7 @@ m
 synergy
 archief
 files
+stats
 repository
 geoweb
 nieuwsbrieven
@@ -190,11 +191,11 @@ mobile
 mijn-acc
 dashboard
 vt
-stats
 registry
 extranet
 secure
 wiki
+new
 mx2
 iam
 transfer
@@ -306,7 +307,6 @@ webaccess
 vacatures
 productie
 intern
-new
 analytics
 sentry
 voorlichting
@@ -605,6 +605,7 @@ toolkit
 inschrijven
 regio
 www.app
+www.new
 t1
 mrs
 plp
@@ -7276,7 +7277,6 @@ postergenerator
 acc.lespakketten
 hostmaster
 lespakketten
-www.new
 ai
 a1
 a2
@@ -11486,3 +11486,6 @@ www.selfservice
 www.sftp
 www.softwareveiligheid
 www.uem
+emagazine
+registration
+www.stats
