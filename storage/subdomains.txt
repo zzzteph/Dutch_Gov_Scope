@@ -2574,6 +2574,7 @@ autodiscover.ofgv.nl
 autodiscover.ogco.nl
 autodiscover.ondernemersplein.nl
 autodiscover.onderzoeksraad.nl
+autodiscover.oofggz.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
@@ -5083,6 +5084,7 @@ e.kbvg.nl
 e.kvk.nl
 e.meldpuntintegriteitjenv.nl
 e.nieuwjaarstoost2025.nl
+e.oofggz.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 ea-i.espacenet.com
@@ -8115,6 +8117,7 @@ link.nieuwsbriefrechtspraak.nl
 link.nipv.nl
 link.ogco.nl
 link.onderzoeksraad.nl
+link.oofggz.nl
 link.test.onderzoeksraad.nl
 linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
@@ -10032,6 +10035,7 @@ ontwikkelserver.eerstekamer.nl
 onva-3f.minszw.nl
 onvp-3f.minszw.nl
 onzedelta.nl
+oofggz.nl
 oogop.zuid-holland.nl
 oordelen.mensenrechten.nl
 oos-p1.coa.nl
@@ -15920,6 +15924,7 @@ www.onslevendlandschap.nl
 www.onswater.nl
 www.ontdekdezorg.nl
 www.onzedelta.nl
+www.oofggz.nl
 www.oostvaarderskliniek.nl
 www.open-overheid.nl
 www.open.cjib.nl
