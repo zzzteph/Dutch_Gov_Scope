@@ -112,6 +112,7 @@ lyncdiscover
 aanvragen
 mail2
 events
+www.test
 webdisk
 web
 papiamentu
@@ -148,7 +149,6 @@ prod-dictu
 test-dictu
 magazine
 gateway
-www.test
 matomo
 eloket
 testeloket
