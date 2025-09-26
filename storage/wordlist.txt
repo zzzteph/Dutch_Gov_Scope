@@ -56,6 +56,7 @@ open
 dialin
 elearning
 digikoppeling
+www.acceptatie
 adfs
 jaarverslag
 services
@@ -63,7 +64,6 @@ webservices
 publicaties
 docs
 geoservices
-www.acceptatie
 kennis
 oud
 auth
@@ -87,6 +87,7 @@ www2
 zaaksysteem
 inloggen
 mx1
+www.test
 maps
 adobe-analytics-dc
 adobe-tags
@@ -112,7 +113,6 @@ lyncdiscover
 aanvragen
 mail2
 events
-www.test
 webdisk
 web
 papiamentu
