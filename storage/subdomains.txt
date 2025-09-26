@@ -1171,6 +1171,7 @@ acc-kadata.kadaster.nl
 acc-kadatabackend.ext.kadaster.nl
 acc-kadatawebservice.ext.kadaster.nl
 acc-kadatawebservice.kadaster.nl
+acc-klas.oidji.nl
 acc-login.acc-protocol.mfaservices.nl
 acc-lrza.services.cibg.nl
 acc-ls4.mfaservices.nl
@@ -3675,6 +3676,7 @@ ckcc.huygens.knaw.nl
 clacc-mijn.rvo.nl
 claircitydata.cbs.nl
 clallam-county-portal-clallam.hub.arcgis.com
+class.oidji.nl
 classic.npostart.nl
 clds.odc-noord.nl
 clefw.gn2.rijkscloud.nl
@@ -7761,6 +7763,7 @@ keringhuis.nl
 kerncijfers.ifv.nl
 kerncijfers.nipv.nl
 keten.hetcak.nl
+keten.sophie.oidji.nl
 ketenregisterapi.naktuinbouw.nl
 ketentest.hetcak.nl
 ketentestnvr.belastingdienst.nl
@@ -7827,6 +7830,7 @@ klantportaal.rvo.nl
 klanttest.hetcak.nl
 klanttoegang.cbs.nl
 klantweb-acp.acc.cloudservices.kb.nl
+klas.oidji.nl
 klassiker.chadwyck.co.uk.access.authkb.kb.nl
 kleding.nipv.nl
 kleuterinbeeld.cito.nl
@@ -9879,6 +9883,7 @@ ogco.nl
 ogier.huygens.knaw.nl
 oicrf.org
 oidc.proeftuin.uzi-online.irealisatie.nl
+oidji.nl
 oinregister.logius.nl
 ojb.rvo.nl
 ok.chm-cbd.net
@@ -12534,6 +12539,7 @@ sonarqube.lpc.logius.nl
 sonarqube.test.ix.rijkscloud.nl
 sonarqube2.devops.rvb.rijkscloud.nl
 sonicwall.nvao.net
+sophie.oidji.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 south-windsor-pocd-information-hub-southwindsorct.hub.arcgis.com
@@ -15815,6 +15821,7 @@ www.offshorewind.rvo.nl
 www.ofgv.nl
 www.ogco.nl
 www.oicrf.org
+www.oidji.nl
 www.om.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl

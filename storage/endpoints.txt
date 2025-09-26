@@ -1392,6 +1392,7 @@ https://acc-flowlogics.minbzk.nl
 https://acc-geo.rijkswaterstaat.nl
 https://acc-insights.mfaservices.nl
 https://acc-internationaal.ondernemen.overheid.nl
+https://acc-klas.oidji.nl
 https://acc-ls4.mfaservices.nl
 https://acc-maps.rijkswaterstaat.nl
 https://acc-mijn.cokz.nl
@@ -5121,6 +5122,7 @@ https://keringhuis.nl
 https://kerncijfers.ifv.nl
 https://kerncijfers.nipv.nl
 https://keten.hetcak.nl
+https://keten.sophie.oidji.nl
 https://ketenregisterapi.naktuinbouw.nl
 https://keurmerk.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
@@ -5147,6 +5149,7 @@ https://klantonderzoek.cbr.nl
 https://klantportaal.caop.nl
 https://klanttoegang.cbs.nl
 https://klantweb-acp.acc.cloudservices.kb.nl
+https://klas.oidji.nl
 https://klassiker.chadwyck.co.uk.access.authkb.kb.nl
 https://kleding.nipv.nl
 https://kleuterinbeeld.cito.nl
@@ -6163,6 +6166,7 @@ https://ofgv.nl
 https://ogco.nl
 https://oicrf.org
 https://oidc.proeftuin.uzi-online.irealisatie.nl
+https://oidji.nl
 https://oinregister.logius.nl
 https://ojb.rvo.nl
 https://okotoksmaps-okotoks.hub.arcgis.com
@@ -7412,6 +7416,7 @@ https://sollicitanten.ictu.nl
 https://sonar.ndw.nu
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
 https://sonicwall.nvao.net
+https://sophie.oidji.nl
 https://south-windsor-pocd-information-hub-southwindsorct.hub.arcgis.com
 https://spacetechexpo.nlspace.nl
 https://spaceweather.knmi.nl
@@ -9422,6 +9427,7 @@ https://www.offshorewind.rvo.nl
 https://www.ofgv.nl
 https://www.ogco.nl
 https://www.oicrf.org
+https://www.oidji.nl
 https://www.om.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
