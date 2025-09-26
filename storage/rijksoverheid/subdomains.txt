@@ -2305,6 +2305,7 @@ archief.acceptatie.nipv.nl
 archief.ibki.nl
 archief.iob-evaluatie.nl
 archief.nipv.nl
+archief.nwo-i.nl
 archief.zuid-holland.nl
 archiefviewer.knmi.nl
 archis.cultureelerfgoed.nl
@@ -7868,6 +7869,8 @@ labs.dst.kadaster.nl
 labs.dst.test.cloud.kadaster.nl
 labs.dst.test.kadaster.nl
 labs.kadaster.nl
+labservant-acc.nwo-i.nl
+labservant.nwo-i.nl
 labvantage-acc.nvwa.nl
 labvantage.nvwa.nl
 lake-elsinore-downtown-revitilazation-arellano.hub.arcgis.com
@@ -9624,6 +9627,7 @@ nvao.net
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 nvwa.nl
+nwo-i.nl
 nwrar-acc.ncsc.nl
 nws-miami-drought-page-noaa.hub.arcgis.com
 nwsmfl-coop-noaa.hub.arcgis.com
@@ -10360,6 +10364,7 @@ paste.huc.knaw.nl
 patatjepinda.cultuurparticipatie.nl
 pay-acc.cjib.nl
 pay.cjib.nl
+pay.nwo-i.nl
 paymenthub-acc.dnb.nl
 paymenthub.dnb.nl
 payt.kvk.nl
@@ -14706,6 +14711,7 @@ www.arbeidsmigratieingoedebanen.nl
 www.arbocatalogusmbo.nl
 www.arboportaal.nl
 www.arcgis.com
+www.archief.nwo-i.nl
 www.architectenregister.nl
 www.arkyves.org.access.authkb.kb.nl
 www.asbestvolgsysteem.nl
@@ -15598,6 +15604,7 @@ www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
 www.nvao.net
 www.nvwa.nl
+www.nwo-i.nl
 www.nza.nl
 www.ocw-verhalen.nl
 www.ocwincijfers.nl

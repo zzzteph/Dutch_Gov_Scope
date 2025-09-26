@@ -137,6 +137,7 @@ telewerken
 m
 synergy
 chat
+archief
 files
 git
 repository
@@ -188,7 +189,6 @@ mobile
 mijn-acc
 dashboard
 vt
-archief
 stats
 extranet
 secure
@@ -588,6 +588,7 @@ uk
 portal-a
 thuiswerken
 tst-www
+pay
 acc.www
 develop
 sparql
@@ -6958,7 +6959,6 @@ digitaalloket-acc
 digitaalloket
 dsp
 pay-acc
-pay
 sfb
 sfbav
 sfbsip
@@ -11281,3 +11281,6 @@ spf
 srv-ca01
 www.panelaanvraag
 www.search
+labservant-acc
+labservant
+www.archief
