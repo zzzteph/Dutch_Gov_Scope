@@ -29,12 +29,12 @@ werkplek
 formulieren
 data
 login
+portaal
 portal
 redactie
 _dmarc
 dev
 smtp
-portaal
 sip
 link
 connect
@@ -53,6 +53,7 @@ ftp
 apps
 kennisbank
 open
+docs
 dialin
 elearning
 digikoppeling
@@ -62,7 +63,6 @@ jaarverslag
 services
 webservices
 publicaties
-docs
 geoservices
 kennis
 oud
@@ -11446,3 +11446,6 @@ class
 keten.sophie
 klas
 sophie
+docs-tst
+pmon-tst
+pmon
