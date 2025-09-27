@@ -41,12 +41,12 @@ e
 connect
 remote
 zoeken
+tst
 a-english
 beheer
 app
 hybrid
 meet
-tst
 a-feeds.a-english
 a-opendata.a-english
 ftp
@@ -58,8 +58,10 @@ docs
 dialin
 elearning
 digikoppeling
+www.acc
 adfs
 jaarverslag
+cpanel
 services
 webservices
 publicaties
@@ -69,7 +71,6 @@ kennis
 oud
 auth
 accept
-www.acc
 proto
 www-ac
 www-dev
@@ -77,7 +78,6 @@ www-p
 www-tst
 www2
 preview
-cpanel
 enterpriseregistration
 beeldbank
 onderzoek
@@ -88,6 +88,7 @@ zaaksysteem
 inloggen
 mx1
 www.test
+webdisk
 maps
 adobe-analytics-dc
 adobe-tags
@@ -117,7 +118,6 @@ aanvragen
 mail2
 events
 matomo
-webdisk
 web
 papiamentu
 enterpriseenrollment
@@ -443,6 +443,7 @@ acceptatie.raadplegen
 raadplegen
 e.acc.videobellen
 e.videobellen
+preprod
 public
 schemas
 signing
@@ -595,6 +596,7 @@ cf
 fr
 ma
 uk
+www.prod
 www.matomo
 portal-a
 thuiswerken
@@ -2248,7 +2250,6 @@ opvragen-acc1
 opvragen-preprod
 opvragen.acc
 opvragen
-preprod
 proxy-epbd-acc
 proxy-epbd-w1091p0012
 proxy-epbd-w1091p0035
@@ -6587,7 +6588,6 @@ tg
 tg.test
 tz
 ug.test
-www.prod
 ye
 zm
 zw
@@ -11492,3 +11492,5 @@ www.stats
 db01
 check
 kentekencheck
+mz
+www.mz
