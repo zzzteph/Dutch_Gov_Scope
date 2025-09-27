@@ -693,6 +693,7 @@ sp-prd.topdesk
 ocs
 post
 radius
+crl
 geoportal
 gisservices
 gisservicesacc
@@ -11261,7 +11262,6 @@ exhibitions
 iac
 spacetechexpo
 windmolensopzee
-crl
 account
 assetscdn
 classic
@@ -11537,3 +11537,13 @@ s3.delivery
 service.test
 support.test
 metrokaart
+cert
+cp
+cps
+domorganisatieservicesocsp-g3
+ocsp
+oid
+por
+rootocsp-g3
+trialdomorganisatieservicesocsp-g3
+trialrootocsp-g3.ocsp

@@ -257,6 +257,7 @@ http://dns-web300.rijksoverheid.nl
 http://docs.hansken.org
 http://docs.lpc.logius.nl
 http://documentlevering.kb.nl
+http://domorganisatieservicesocsp-g3.pkioverheid.nl
 http://download.im.nba.nl
 http://download.webmail.knmi.nl
 http://dse.lx.overheid.nl
@@ -543,6 +544,7 @@ http://rijkstrainee.werkenvoornederland.nl
 http://rijkstrainees.werkenvoornederland.nl
 http://rijmspreuken.huygens.knaw.nl
 http://rivmmagazines.nl
+http://rootocsp-g3.pkioverheid.nl
 http://rp1.tst.federatieveservice.nl
 http://s10011-out.eerstekamer.nl
 http://samenwerkruimten-conf.belastingdienst.nl
@@ -614,6 +616,8 @@ http://toekomst.nba.nl
 http://toetsingonline.ccmo.nl
 http://trade.rvo.nl
 http://training-advies.cito.nl
+http://trialdomorganisatieservicesocsp-g3.pkioverheid.nl
+http://trialrootocsp-g3.ocsp.pkioverheid.nl
 http://tst.federatieveservice.nl
 http://tweedekamer.parlement.nl
 http://tws-esb.rijkswaterstaat.nl
@@ -2810,6 +2814,7 @@ https://centro-de-respuesta-coronavirus-soacha-sigsoacha15.hub.arcgis.com
 https://cerberus.cbs.nl
 https://ceremonial-conveyances-austin.hub.arcgis.com
 https://cert.nl
+https://cert.pkioverheid.nl
 https://certificate.knaw.nl
 https://certificaten.knaw.nl
 https://certificeren-toezicht-acc.cbr.nl
@@ -3100,6 +3105,7 @@ https://covid19-bangor.hub.arcgis.com
 https://covid19-emsina.hub.arcgis.com
 https://covid19-sbcph.hub.arcgis.com
 https://cp-public-info-castlepines.hub.arcgis.com
+https://cp.pkioverheid.nl
 https://cpanel.globio.info
 https://cpanel.gov4nano.eu
 https://cpanel.ibki.nl
@@ -3112,11 +3118,13 @@ https://cpb.nl
 https://cpcalendars.globio.info
 https://cpcontacts.globio.info
 https://cpps.brepolis.net.access.authkb.kb.nl
+https://cps.pkioverheid.nl
 https://crc-hub-segrass.hub.arcgis.com
 https://crimediggers.nl
 https://crisis.nl
 https://crisiswerkplek.rijkswaterstaat.nl
 https://crl.npkd.nl
+https://crl.pkioverheid.nl
 https://crm.cbi.eu
 https://crm.cultuurparticipatie.nl
 https://crmacc.cbi.eu
@@ -6222,6 +6230,7 @@ https://offshorewind.rvo.nl
 https://ofgv.nl
 https://ogco.nl
 https://oicrf.org
+https://oid.pkioverheid.nl
 https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oidji.nl
 https://oinregister.logius.nl
@@ -6734,6 +6743,7 @@ https://pkio.service.omgevingswet.overheid.nl
 https://pkio.service.perf.omgevingswet.overheid.nl
 https://pkio.service.pre.omgevingswet.overheid.nl
 https://pkio.service.tst2905.omgevingswet.overheid.nl
+https://pkioverheid.nl
 https://pkiv2.lvnl.nl
 https://pl-i.espacenet.com
 https://pl.espacenet.com
@@ -6782,6 +6792,7 @@ https://politiekeambtsdragers.nl
 https://politieopendata.cbs.nl
 https://pom.cultureelerfgoed.nl
 https://pop.oostvaarderskliniek.nl
+https://por.pkioverheid.nl
 https://porta-api.hetcak.nl
 https://porta.hetcak.nl
 https://portaal-a.ikz.nl
@@ -9613,6 +9624,7 @@ https://www.perpest.alterra.nl
 https://www.pgdi.nl
 https://www.pianoo-congres.nl
 https://www.pianoo.nl
+https://www.pkioverheid.nl
 https://www.pns.nl
 https://www.podium.knaw.nl
 https://www.politiekeambtsdragers.nl

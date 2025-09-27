@@ -3590,6 +3590,7 @@ ceremonial-conveyances-austin.hub.arcgis.com
 ceres.intra.minszw.nl
 ceres.minszw.nl
 cert.nl
+cert.pkioverheid.nl
 cert.test2gbav.belastingdienst.nl
 certificate.knaw.nl
 certificaten.knaw.nl
@@ -4071,6 +4072,7 @@ covid19-bangor.hub.arcgis.com
 covid19-emsina.hub.arcgis.com
 covid19-sbcph.hub.arcgis.com
 cp-public-info-castlepines.hub.arcgis.com
+cp.pkioverheid.nl
 cp.vcdn.belastingdienst.nl
 cpanel.farmingthefuture.nl
 cpanel.globio.info
@@ -4108,6 +4110,7 @@ cpont.vcdn.belastingdienst.nl
 cpp.nwo.nl
 cpps.brepolis.net.access.authkb.kb.nl
 cprsprod.afm.nl
+cps.pkioverheid.nl
 cptst.vcdn.belastingdienst.nl
 crc-hub-segrass.hub.arcgis.com
 creaim-etoegang-acc.sso.eherkenning.nl
@@ -4124,6 +4127,7 @@ crisismaatregel.webservices-dbb-acc.igj.nl
 crisismaatregel.webservices-dbb.igj.nl
 crisiswerkplek.rijkswaterstaat.nl
 crl.npkd.nl
+crl.pkioverheid.nl
 crm-fto.erp.kadaster.nl
 crm-int.erp.kadaster.nl
 crm-ont.erp.kadaster.nl
@@ -4886,6 +4890,7 @@ domeinen-prd.cloudservices.kb.nl
 domeinen.kb.nl
 domeinenrz.nl
 domeinnaamregistratie.rijksoverheid.nl
+domorganisatieservicesocsp-g3.pkioverheid.nl
 doncker.huygens.knaw.nl
 donorgegevens.nl
 donorregister.nl
@@ -9932,6 +9937,7 @@ occassio.dev.huc.knaw.nl
 ocd-hub-nm-emnrd.hub.arcgis.com
 ocs.nba.nl
 ocs.nji.nl
+ocsp.pkioverheid.nl
 ocw-verhalen.nl
 ocwincijfers.nl
 odata.cbs.nl
@@ -9986,6 +9992,7 @@ ofgvtransfer.ofgv.nl
 ogco.nl
 ogier.huygens.knaw.nl
 oicrf.org
+oid.pkioverheid.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
 oidji.nl
 oinregister.logius.nl
@@ -10959,6 +10966,7 @@ pkio.service.perf.omgevingswet.overheid.nl
 pkio.service.pre.omgevingswet.overheid.nl
 pkio.service.tst2905.omgevingswet.overheid.nl
 pkioverheid.huurcommissie.nl
+pkioverheid.nl
 pkiv2.lvnl.nl
 pktate.kb.nl
 pl-i.espacenet.com
@@ -11048,6 +11056,7 @@ pom.cultureelerfgoed.nl
 poortman.kb.nl
 pop.oostvaarderskliniek.nl
 pop.vechtstromen.nl
+por.pkioverheid.nl
 porta-acc.hetcak.nl
 porta-api-acc.hetcak.nl
 porta-api-tst.hetcak.nl
@@ -11931,6 +11940,7 @@ robxp.rapportage.rijkscloud.nl
 romanvanwalewein.huygens.knaw.nl
 roomreservation.belastingdienst.nl
 rooswijk.huygens.knaw.nl
+rootocsp-g3.pkioverheid.nl
 rop.caop.nl
 rotterdam.lerenenwerken.nl
 rotterdammer.gebruikercentraal.nl
@@ -13686,6 +13696,8 @@ travellingtexts.huygens.knaw.nl
 travelpoint.sso3w.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
+trialdomorganisatieservicesocsp-g3.pkioverheid.nl
+trialrootocsp-g3.ocsp.pkioverheid.nl
 trifork-acc.player.cito.nl
 trifork-cus.player.cito.nl
 trifork-tst.player.cito.nl
@@ -16103,6 +16115,7 @@ www.perpest.alterra.nl
 www.pgdi.nl
 www.pianoo-congres.nl
 www.pianoo.nl
+www.pkioverheid.nl
 www.platformrijksoverheid.nl
 www.plekchecker.rvo.nl
 www.pns.nl
