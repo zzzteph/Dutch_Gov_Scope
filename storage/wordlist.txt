@@ -12,8 +12,8 @@ a-www
 mijn
 a-opendata
 a-feeds
-acceptatie
 api
+acceptatie
 _autodiscover._tcp
 magazines
 intranet
@@ -41,16 +41,16 @@ e
 connect
 remote
 zoeken
+app
 tst
 a-english
 beheer
-app
 hybrid
 meet
+www.acceptatie
 a-feeds.a-english
 a-opendata.a-english
 ftp
-www.acceptatie
 apps
 kennisbank
 webservices
@@ -78,6 +78,7 @@ www-p
 www-tst
 www2
 preview
+www.test
 enterpriseregistration
 beeldbank
 mdm
@@ -92,7 +93,6 @@ inloggen
 git
 mx1
 mail2
-www.test
 webdisk
 maps
 adobe-analytics-dc
@@ -227,6 +227,7 @@ b2btest-rijks
 b2btest
 beta
 betalen
+download
 huisstijl
 mta-sts
 sharepoint-acc
@@ -314,6 +315,7 @@ intern
 analytics
 sentry
 voorlichting
+service
 media
 organisaties
 server
@@ -357,7 +359,6 @@ b2b-gemnet
 b2b-osb
 b2b-rijks
 delta
-download
 evenementen
 fibd1
 fibd2.acc
@@ -502,7 +503,6 @@ a-voorlichting
 track
 projecten-acc
 formulieren-acc
-service
 zandbak
 leeromgeving
 webshop
@@ -640,6 +640,7 @@ redirect
 timetell
 kerncijfers
 2020
+api.test
 mijn.acceptatie
 mijn.test
 mft
@@ -8844,7 +8845,6 @@ api.klic
 api.klic.test
 api.labs
 api.pdok.cloud
-api.test
 api.woz.acceptatie
 api2.brkinzage
 apiportal.acceptatie
@@ -11527,3 +11527,12 @@ snippet.acc.monovi
 snippet.acc.startanalyse
 snippet.icer
 snippet.startanalyse
+acceptatie.loket
+app.test
+delivery
+delivery.test
+download.test
+kangaroo.acceptatie
+s3.delivery
+service.test
+support.test

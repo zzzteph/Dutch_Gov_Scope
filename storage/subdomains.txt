@@ -1543,6 +1543,7 @@ acceptatie.istandaarden.nl
 acceptatie.kennisplatform.nl
 acceptatie.klinieken.donorgegevens.nl
 acceptatie.lir.cibg.nl
+acceptatie.loket.pdok.nl
 acceptatie.loketgezondleven.nl
 acceptatie.ltfu.neorah.nl
 acceptatie.machtigen.digid.nl
@@ -2163,6 +2164,7 @@ api.ondernemersplein.overheid.nl
 api.openstad.zuid-holland.nl
 api.p-direkt.nl
 api.pdok.cloud.kadaster.nl
+api.pdok.nl
 api.performance.ix.rijkscloud.nl
 api.portal.dnb.nl
 api.preprod.mijn.overheid.nl
@@ -2175,6 +2177,7 @@ api.so.rijkscloud.nl
 api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
 api.test.kadaster.nl
+api.test.pdok.nl
 api.testbijdrukte.coronatest.nl
 api.transformation.nsgi.nl
 api.transformation.test.nsgi.nl
@@ -2256,7 +2259,9 @@ app.mijnrijkspas.nl
 app.nationaleconferentieduurzamemobiliteit.nl
 app.nl-alert.nl
 app.pdok.cloud.kadaster.nl
+app.pdok.nl
 app.svb.nl
+app.test.pdok.nl
 app.vechtstromen.nl
 appcontent.belastingdienst.nl
 appdata.kvk.nl
@@ -4426,6 +4431,8 @@ dei.nji.nl
 dejuistezorgopdejuisteplek.nl
 dekinderombudsman.nl
 delichtkogel.nl
+delivery.pdok.nl
+delivery.test.pdok.nl
 delpher-cms.kb.nl
 delpher.nl
 delphera.kb.nl
@@ -4902,6 +4909,8 @@ download.im.nba.nl
 download.mail.cpb.nl
 download.mail.scp.nl
 download.pdok.cloud.kadaster.nl
+download.pdok.nl
+download.test.pdok.nl
 download.webmail.knmi.nl
 download1.belastingdienst.nl
 downloaddomain.svb.nl
@@ -7494,6 +7503,7 @@ kadatawebservices.test.kadaster.nl
 kaiachain.github.io
 kamerindeklas.nl
 kamervoordebinnenvisserij.nl
+kangaroo.acceptatie.pdok.nl
 kansrijkestartnl.nl
 kansspelautoriteit.nl
 kantoor.hdsr.nl
@@ -10825,6 +10835,7 @@ pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pdok.aerius.nl
+pdok.nl
 pdok.waterschaplimburg.nl
 pdvnl31.dans.knaw.nl
 pdx.dev.dmi-ecosysteem.nl
@@ -12040,6 +12051,7 @@ s2-acc1.toeslagen.nl
 s2.toeslagen.nl
 s3-acc1.toeslagen.nl
 s3.acc.etoegang.nl
+s3.delivery.pdok.nl
 s3.etoegang.nl
 s3.toeslagen.nl
 s4a.brabant.nl
@@ -12320,8 +12332,10 @@ service.nationaalarchief.nl
 service.nvwa.nl
 service.omgevingswet.overheid.nl
 service.pdok.cloud.kadaster.nl
+service.pdok.nl
 service.perf.omgevingswet.overheid.nl
 service.pre.omgevingswet.overheid.nl
+service.test.pdok.nl
 service.tst2905.omgevingswet.overheid.nl
 service1-cto.kadaster.nl
 service1.digid.nl
@@ -13074,6 +13088,7 @@ support.arcgis.com
 support.cbr.nl
 support.chm-cbd.net
 support.huc.knaw.nl
+support.test.pdok.nl
 support.vechtstromen.nl
 support113.kadaster.nl
 survey-acc.igj.nl
@@ -13402,6 +13417,7 @@ test.nlplatform.com
 test.onderzoeksraad.nl
 test.openbare-inspectieresultaten.nvwa.nl
 test.optimaaldigitaal.gebruikercentraal.nl
+test.pdok.nl
 test.portaal.nlarbeidsinspectie.nl
 test.publicwebservices.cibg.nl
 test.rapportage.rijkscloud.nl
@@ -15011,6 +15027,7 @@ www.acceptatie.neorah.nl
 www.acceptatie.nsgi.nl
 www.acceptatie.oicrf.org
 www.acceptatie.onderzoeksraad.nl
+www.acceptatie.pdok.nl
 www.acceptatie.redactie.aquo.nl
 www.access.authkbtest.kb.nl
 www.access.nba.nl
@@ -16060,6 +16077,7 @@ www.pagw.nl
 www.panelaanvraag.nvao.net
 www.parlement.nl
 www.pbl.nl
+www.pdok.nl
 www.pe-upload.nba.nl
 www.pearl.alterra.nl
 www.peatwise.alterra.nl
@@ -16206,6 +16224,7 @@ www.test.monumentenregister.cultureelerfgoed.nl
 www.test.nsgi.nl
 www.test.oefenstembiljet.nl
 www.test.oicrf.org
+www.test.pdok.nl
 www.test.zm.irealisatie.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 www.thuiswerken.filmfonds.nl

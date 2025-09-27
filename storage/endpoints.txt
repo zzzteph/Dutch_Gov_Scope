@@ -584,6 +584,7 @@ http://storage.test.mgo.irealisatie.nl
 http://styleguide.cibg.nl
 http://sub.gezondekinderopvang.nl
 http://sub.gezondeschool.nl
+http://support.test.pdok.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://sword.easy.dans.knaw.nl
@@ -2016,6 +2017,7 @@ https://api.nederlandwereldwijd.nl
 https://api.ondernemersplein.overheid.nl
 https://api.p-direkt.nl
 https://api.pdok.cloud.kadaster.nl
+https://api.pdok.nl
 https://api.portal.dnb.nl
 https://api.preprod.mijn.overheid.nl
 https://api.rdi.nl
@@ -2057,6 +2059,7 @@ https://app.inhuurdeskpolitie.nl
 https://app.mijnrijkspas.nl
 https://app.nationaleconferentieduurzamemobiliteit.nl
 https://app.pdok.cloud.kadaster.nl
+https://app.pdok.nl
 https://app.svb.nl
 https://app.vechtstromen.nl
 https://applicaties.ciz.nl
@@ -3316,6 +3319,7 @@ https://degruyter.com.access.authkb.kb.nl
 https://dejuistezorgopdejuisteplek.nl
 https://dekinderombudsman.nl
 https://delichtkogel.nl
+https://delivery.pdok.nl
 https://delpher-cms.kb.nl
 https://delpher.nl
 https://delta.belastingdienst.nl
@@ -3565,6 +3569,7 @@ https://download.cbs.nl
 https://download.mail.cpb.nl
 https://download.mail.scp.nl
 https://download.pdok.cloud.kadaster.nl
+https://download.pdok.nl
 https://downloaddomain.svb.nl
 https://downloadpdf.ep-online.nl
 https://downloads.hansken.org
@@ -5101,6 +5106,7 @@ https://kadaster.kbvg.nl
 https://kaiachain.github.io
 https://kamerindeklas.nl
 https://kamervoordebinnenvisserij.nl
+https://kangaroo.acceptatie.pdok.nl
 https://kansrijkestartnl.nl
 https://kansspelautoriteit.nl
 https://kantoor.hdsr.nl
@@ -6663,6 +6669,7 @@ https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pdok.aerius.nl
+https://pdok.nl
 https://pdx.dev.dmi-ecosysteem.nl
 https://pdx.dmi-ecosysteem.nl
 https://pdx.staging.dmi-ecosysteem.nl
@@ -7291,6 +7298,7 @@ https://rws-bic-p01.bics.nl
 https://rwsinnoveert.nl
 https://s.checkjeprijs.huurcommissie.nl
 https://s.ndw.nu
+https://s3.delivery.pdok.nl
 https://s3.etoegang.nl
 https://s4a.brabant.nl
 https://s4p.brabant.nl
@@ -7397,6 +7405,7 @@ https://service.intpatch.omgevingswet.overheid.nl
 https://service.mpn.minienm.nl
 https://service.omgevingswet.overheid.nl
 https://service.pdok.cloud.kadaster.nl
+https://service.pdok.nl
 https://service.perf.omgevingswet.overheid.nl
 https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
@@ -8645,6 +8654,7 @@ https://www.acceptatie-app.mijnrijkspas.nl
 https://www.acceptatie.klicviewer.nl
 https://www.acceptatie.landelijkemeldkamer.org
 https://www.acceptatie.oicrf.org
+https://www.acceptatie.pdok.nl
 https://www.acm.nl
 https://www.acoi.nl
 https://www.actal.nl
@@ -9583,6 +9593,7 @@ https://www.pagw.nl
 https://www.panelaanvraag.nvao.net
 https://www.parlement.nl
 https://www.pbl.nl
+https://www.pdok.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.perpest.alterra.nl
 https://www.pns.nl
