@@ -3747,6 +3747,7 @@ https://ehs.flevoland.nl
 https://eid-preprod1.digid.nl
 https://eid-preprod2.digid.nl
 https://eid.digid.nl
+https://eida-oculus.orfeus-eu.org
 https://eidas-mijn.duo.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://eidgw.hetcak.nl
@@ -4034,6 +4035,7 @@ https://feda.databank.nl
 https://federated-login-pp.dnb.nl
 https://federated-login.dnb.nl
 https://federatieveservice.nl
+https://federator.orfeus-eu.org
 https://feedback.atkm.nl
 https://feedfoodtransfer.nl
 https://feeds.adviescollegeveiligheidgroningen.nl
@@ -4319,6 +4321,7 @@ https://formulieren.odmh.nl
 https://formulieren.svb.nl
 https://formulieren.uziregister.nl
 https://formulieren.waterschaplimburg.nl
+https://forum.orfeus-eu.org
 https://forumstandaardisatie.gov.nl
 https://forumstandaardisatie.nl
 https://foss4g-tokai.github.io
@@ -6552,6 +6555,7 @@ https://orac.test.gf.irealisatie.nl
 https://orangecorners.com
 https://oranjehotel.nationaalarchief.nl
 https://ordz.nl
+https://orfeus-eu.org
 https://organisatiegegevens-dev.dnb.nl
 https://organisatiegegevens-dr.dnb.nl
 https://organisatiegegevens-pp.dnb.nl
@@ -9521,6 +9525,7 @@ https://www.opwegnaarseb.nl
 https://www.opwegnaarzes.nl
 https://www.orangecorners.com
 https://www.ordz.nl
+https://www.orfeus-eu.org
 https://www.otter.alterra.nl
 https://www.ouders-uit-elkaar.nl
 https://www.ov-consumentenplatform.nl

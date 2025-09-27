@@ -517,6 +517,7 @@ wetten
 magazines.english
 cms21
 digitaal
+forum
 fileshare
 hybridmail
 sslvpn
@@ -3889,7 +3890,6 @@ url6099.mail
 gis
 criminalfilesmh17.acc
 criminalfilesmh17
-forum
 adviezen
 appl
 callbook
@@ -11494,3 +11494,5 @@ check
 kentekencheck
 mz
 www.mz
+eida-oculus
+federator

@@ -5213,6 +5213,7 @@ eid-preprod2.digid.nl
 eid-t1.digid.nl
 eid-t2.digid.nl
 eid.digid.nl
+eida-oculus.orfeus-eu.org
 eidas-mijn.duo.nl
 eidas-stub.lpc.mijn.overheid.nl
 eidgw.hetcak.nl
@@ -5668,6 +5669,7 @@ federated-login-pp.dnb.nl
 federated-login.dnb.nl
 federatieveservice.nl
 federation.brabant.nl
+federator.orfeus-eu.org
 feedback.atkm.nl
 feedfoodtransfer.nl
 feeds.adviescollegeveiligheidgroningen.nl
@@ -6019,6 +6021,7 @@ formulieren.zuid-holland.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
 forum.developer.overheid.nl
+forum.orfeus-eu.org
 forum.raadopenbaarbestuur.nl
 forums.arcgis.com
 forumstandaardisatie.gov.nl
@@ -10389,6 +10392,7 @@ orangecorners.com
 oranjehotel.nationaalarchief.nl
 orchestrator.ncsc.nl
 ordz.nl
+orfeus-eu.org
 orfeus.knmi.nl
 orfeusdev.knmi.nl
 org.did.zandbak.dans.knaw.nl
@@ -15961,6 +15965,7 @@ www.opwegnaarseb.nl
 www.opwegnaarzes.nl
 www.orangecorners.com
 www.ordz.nl
+www.orfeus-eu.org
 www.oroc.knaw.nl
 www.otter.alterra.nl
 www.ouders-uit-elkaar.nl
