@@ -3244,6 +3244,7 @@ https://data.ndw.nu
 https://data.noraonline.nl
 https://data.nwo.nl
 https://data.overheid.nl
+https://data.pbl.nl
 https://data.rvo.nl
 https://data.staging.ndw.nu
 https://data.zuid-holland.nl
@@ -3270,6 +3271,7 @@ https://dataplatform.knmi.nl
 https://dataportaal.brabant.nl
 https://dataportaal.cbs.nl
 https://dataportaal.eiti.nl
+https://dataportaal.pbl.nl
 https://dataportal.cbs.nl
 https://dataquality.ndw.nu
 https://datareportr.etoegang.nl
@@ -3651,6 +3653,7 @@ https://dwo.cpb.nl
 https://dwo.ctgb.nl
 https://dwo.justid.nl
 https://dwo.knmi.nl
+https://dwo.pbl.nl
 https://dwo.scp.nl
 https://dxp.cloud.kadaster.nl
 https://dxp.test.cloud.kadaster.nl
@@ -4735,6 +4738,7 @@ https://ibl-beheer-prd.cloudservices.kb.nl
 https://ibl.kb.nl
 https://ibw.databank.nl
 https://icdesk.zuid-holland.nl
+https://icer.pbl.nl
 https://icorridor-fr-mto-on-ca.hub.arcgis.com
 https://icov.nl
 https://ict.nvao.net
@@ -4824,6 +4828,7 @@ https://indicatorsysteem-tst.zuid-holland.nl
 https://industrie-en-omwonenden.onderzoeksraad.nl
 https://inechile.maps.arcgis.com
 https://ineo.dev.huc.knaw.nl
+https://infographics.pbl.nl
 https://infographics.rvo.nl
 https://infomaatje.rijnmond.leerwerkloket.nl
 https://infomilcn.com
@@ -5038,6 +5043,7 @@ https://jip.inspectie-jenv.nl
 https://jip.naktuinbouw.nl
 https://jira.dictu.nl
 https://jira.knmi.nl
+https://jirafunctionapp.pbl.nl
 https://jiraimg-acc.rvo.nl
 https://jiraimg.rvo.nl
 https://jmopendata.cbs.nl
@@ -5301,6 +5307,7 @@ https://lees-rijk.nl
 https://legacy.emissieregistratie.nl
 https://legacy2.emissieregistratie.nl
 https://legend.aerius.nl
+https://leidraad.pbl.nl
 https://leidraadse.nl
 https://lenohuis.kennisplatformondermijning.nl
 https://leren.nza.nl
@@ -5597,6 +5604,7 @@ https://mailing.halt.nl
 https://mailing.logius.nl
 https://mailing.nwo.nl
 https://mailings.dus-i.nl
+https://mailings.pbl.nl
 https://maine.hub.arcgis.com
 https://management.api-acc.afm.nl
 https://management.api-dev.afm.nl
@@ -5626,6 +5634,7 @@ https://maps.rijkswaterstaat.nl
 https://maps.staging.ndw.nu
 https://maps.waterschaplimburg.nl
 https://mapserver.fa.knaw.nl
+https://mapservices.pbl.nl
 https://mapsqa.arcgis.com
 https://marechaussee.nl
 https://maricopa.maps.arcgis.com
@@ -5900,6 +5909,7 @@ https://monitoring.efiling.mijnoctrooi.rvo.nl
 https://monitorlangdurigezorg.nl
 https://monitorleefomgeving.zuid-holland.nl
 https://monitorwonen.flevoland.nl
+https://monovi.pbl.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://mooibeweging.nl
 https://moordzaak.om.nl
@@ -6648,6 +6658,7 @@ https://paymenthub-acc.dnb.nl
 https://paymenthub.dnb.nl
 https://payt.kvk.nl
 https://pbc-gis-forum-pbcgisforum.hub.arcgis.com
+https://pbl.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
@@ -7211,6 +7222,7 @@ https://rni-webform.rvig.nl
 https://ro-i.espacenet.com
 https://ro.espacenet.com
 https://ro.zuid-holland.nl
+https://roadsfromrio.pbl.nl
 https://rob-2000.rijkscloud.nl
 https://rob2000.rijkscloud.nl
 https://romanvanwalewein.huygens.knaw.nl
@@ -7404,6 +7416,7 @@ https://services.globalentry-rtp.nl
 https://services.gmh.dans.knaw.nl
 https://services7.arcgis.com
 https://sf.knmi.nl
+https://sf.pbl.nl
 https://sfbwebext.lbio.nl
 https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
@@ -7472,6 +7485,9 @@ https://snd.cdn.consular.mfaservices.nl
 https://snd.consular-service.consular.mfaservices.nl
 https://snd.consular.mfaservices.nl
 https://snippet.clo.nl
+https://snippet.icer.pbl.nl
+https://snippet.pbl.nl
+https://snippet.startanalyse.pbl.nl
 https://snow-cw.dictu.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl
 https://sociaalfonds.minienm.nl
@@ -7720,6 +7736,7 @@ https://survey-deploy.platformrijksoverheid.nl
 https://survey-metrics.platformrijksoverheid.nl
 https://survey.bureauft.nl
 https://survey.cibg.nl
+https://survey.pbl.nl
 https://survey.platformrijksoverheid.nl
 https://survey123.arcgis.com
 https://surveys.cbs.nl
@@ -8402,6 +8419,7 @@ https://webmail.nidos.nl
 https://webmail.nvao.net
 https://webmail.ofgv.nl
 https://webmail.opwegnaarseb.nl
+https://webmail.pbl.nl
 https://webmail.rijkscloud.nl
 https://webredactie.caop.nl
 https://webserver.cbs.nl
@@ -9564,6 +9582,7 @@ https://www.pacemweb.nl
 https://www.pagw.nl
 https://www.panelaanvraag.nvao.net
 https://www.parlement.nl
+https://www.pbl.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.perpest.alterra.nl
 https://www.pns.nl
