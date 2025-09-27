@@ -612,6 +612,7 @@ http://toetsingonline.ccmo.nl
 http://trade.rvo.nl
 http://training-advies.cito.nl
 http://tst.federatieveservice.nl
+http://tweedekamer.parlement.nl
 http://tws-esb.rijkswaterstaat.nl
 http://uffprod25.waterschaplimburg.nl
 http://ufftest25.waterschaplimburg.nl
@@ -1691,6 +1692,7 @@ https://actie.burgernet.nl
 https://actiemonitoringce.nl
 https://actioncenter-whitestown-in.hub.arcgis.com
 https://active-land-use-permits-cityofpoulsbo.hub.arcgis.com
+https://activesync.parlement.nl
 https://activitydashboard.arcgis.com
 https://actorenregister.nationaalarchief.nl
 https://actuality-education-fr.hub.arcgis.com
@@ -2399,6 +2401,7 @@ https://beheersite-op-acc.officielebekendmakingen.nl
 https://beheersite-op.officielebekendmakingen.nl
 https://beheerterugmeldingen.acceptatie.kadaster.nl
 https://beheerterugmeldingen.kadaster.nl
+https://beheerwerkplekvpn.parlement.nl
 https://beirut-urban-observatory-aub.hub.arcgis.com
 https://belastingdienst-academie.nl
 https://belastingdienst-cn.nl
@@ -5781,6 +5784,7 @@ https://mijn.nipv.nl
 https://mijn.nvwa.nl
 https://mijn.odc-noord.nl
 https://mijn.overheid.nl
+https://mijn.parlement.nl
 https://mijn.preprod1.digid.nl
 https://mijn.preprod2.digid.nl
 https://mijn.productie.lcms.nl
@@ -6622,6 +6626,7 @@ https://papiamentu.mijncn.nl
 https://papiamentu.rijksdienstcn.com
 https://papiamentu.two-acs.com
 https://papiamentu.vnacs.nl
+https://parlement.nl
 https://parsr.labs.dans.knaw.nl
 https://partijopgave.naktuinbouw.nl
 https://partnerplaza.sso3w.nl
@@ -7686,6 +7691,7 @@ https://sts.cbs.nl
 https://sts.hogeraad.nl
 https://sts.koop.overheid.nl
 https://sts.nak.nl
+https://sts.parlement.nl
 https://studentcoach.rijnmond.leerwerkloket.nl
 https://subsidie.cultureelerfgoed.nl
 https://subsidie.waterschaplimburg.nl
@@ -7934,6 +7940,8 @@ https://timetell-test.knaw.nl
 https://timetell.knaw.nl
 https://timnath.maps.arcgis.com
 https://tjalie-robinson.huygens.knaw.nl
+https://tkworkspacevpn.parlement.nl
+https://tkwspavpn.parlement.nl
 https://tl.iplo.nl
 https://tlokb.nl
 https://tmp.swap.alterra.nl
@@ -8477,6 +8485,7 @@ https://werkplek.waterschaplimburg.nl
 https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
+https://werkplekvpn.parlement.nl
 https://westbrabant.leerwerkloket.nl
 https://westbrabant.lerenenwerken.nl
 https://wetbeschermingklokkenluiders.nl
@@ -9551,6 +9560,7 @@ https://www.p-direkt.nl
 https://www.pacemweb.nl
 https://www.pagw.nl
 https://www.panelaanvraag.nvao.net
+https://www.parlement.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.perpest.alterra.nl
 https://www.pns.nl
