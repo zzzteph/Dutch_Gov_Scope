@@ -1058,6 +1058,7 @@ aanbiedersmedicijnen.nl
 aandeslag.gezondeschool.nl
 aandeslagmetdeomgevingswet.nl
 aangetekendmailen.nza.nl
+aangifteselectie-chat.pleio.nl
 aaninhetdonker.nl
 aankomst.nationaalarchief.nl
 aankoopcalculator.aerius.nl
@@ -2473,6 +2474,7 @@ auth.dictu.nl
 auth.hogeraad.nl
 auth.ibki.nl
 auth.jitsi.rijkscloud.nl
+auth.k8sauth.pleio.nl
 auth.kadaster.nl
 auth.mfaservices.nl
 auth.mijnoctrooi.mypage.rvo.nl
@@ -4641,6 +4643,9 @@ dfu-challenge.github.io
 dfw.maps.arcgis.com
 dgbw15.rvo.nl
 dggf.nl
+dgh-admin.pleio.nl
+dgh-chat.pleio.nl
+dgh.pleio.nl
 dgp-a-az1.elastic.lpc.logius.nl
 dgp-a-az1.kibana.lpc.logius.nl
 dgp-a-az2.elastic.lpc.logius.nl
@@ -4914,6 +4919,7 @@ dor-api.stopheling.nl
 dor.stopheling.nl
 dorbeheer.stopheling.nl
 dosigning.duo.nl
+dossier.capacitor.pleio.nl
 dossierportal.cbs.nl
 dotnl.ndw.nu
 douane.nl
@@ -6928,6 +6934,7 @@ identifier.overheid.nl
 identity.coa.nl
 idm-int.erp.kadaster.nl
 idm.erp.kadaster.nl
+idm.k8sauth.pleio.nl
 idm.minbzk.nl
 idm.minvws.nl
 idm.rvig.nl
@@ -7869,6 +7876,7 @@ keycloak.devops.rvb.rijkscloud.nl
 keycloak.dgdoobi.rijkscloud.nl
 keycloak.mintst.rijkscloud.nl
 keycloak.ndw.nu
+keycloak.pleio.nl
 keycloak.rdi.rijkscloud.nl
 keycloak.sodm.rijkscloud.nl
 keycloak.test.analyse.ilt.rijkscloud.nl
@@ -8134,6 +8142,7 @@ lerenvoorveiligheid.nl
 lespakketten.derdekamer.nl
 letmemap-ptbocounty.hub.arcgis.com
 letterenfonds.nl
+lev.pleio.nl
 levenmetwater.nl
 leveranciersvdi.svb.nl
 lexces.nl
@@ -9166,6 +9175,7 @@ mimdec.saphttp.minienm.nl
 mimdip.saphttp.minienm.nl
 mimgfp.sap.minienm.nl
 mimgfq.sap.minienm.nl
+mimir-gateway.pleio.nl
 mimmpd.saphttp.minienm.nl
 mimmpp.saphttp.minienm.nl
 mimmpq.saphttp.minienm.nl
@@ -9307,6 +9317,7 @@ monitorleefomgeving.zuid-holland.nl
 monitorwonen.flevoland.nl
 monovi.pbl.nl
 monumentenregister.cultureelerfgoed.nl
+moodle-odcn.pleio.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
@@ -9417,8 +9428,11 @@ msgcpp-adaguc.knmi.nl
 msgcpp-ogc-archive.knmi.nl
 msgcpp-ogc-realtime.knmi.nl
 msgcpp.knmi.nl
+msnp-admin.pleio.nl
+msnp-chat.pleio.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
+msnp.pleio.nl
 msoid.nak.nl
 msp-a.logius.nl
 mst-acc.ctgb.nl
@@ -9930,6 +9944,7 @@ oai-service.labs.dans.knaw.nl
 oap.ind.nl
 oat.acc.huc.knaw.nl
 oat.dev.huc.knaw.nl
+oauth.k8sauth.pleio.nl
 ob.acc1.machtigen.digid.nl
 ob.acc2.machtigen.digid.nl
 ob.acc3.machtigen.digid.nl
@@ -9975,6 +9990,7 @@ odcn-ont.topdesk.odc-noord.nl
 odcn-prd.confluence.odc-noord.nl
 odcn-prd.jira.odc-noord.nl
 odcn-prd.topdesk.odc-noord.nl
+odcn.pleio.nl
 odctest.arbeidsinspectie.nl
 odijmond.nl
 odin.odmh.nl
@@ -11019,6 +11035,7 @@ pleinplus.kb.nl
 pleio-test.belastingdienst.nl
 pleio.belastingdienst.nl
 pleio.kiesraad.nl
+pleio.nl
 plek.zorginstituutnederland.nl
 plekchecker-auth.ssc-ict.nl
 plekchecker.rvo.nl
@@ -11236,6 +11253,7 @@ preprod-portalen.digipoort.logius.nl
 preprod-tvs-rd.dictu.nl
 preprod-www.mijnoctrooi.mypage.rvo.nl
 preprod.bvd.logius.nl
+preprod.capacitor.pleio.nl
 preprod.efiling.mijnoctrooi.rvo.nl
 preprod.ep-online.nl
 preprod.iam.rijkswaterstaat.nl
@@ -11879,6 +11897,7 @@ rhel8.wabinfo.rijkswaterstaat.nl
 rht.belastingdienst.nl
 ri-department-of-health-covid-19-case-data-rihealth.hub.arcgis.com
 ricegis.maps.arcgis.com
+riec-liec-academie.pleio.nl
 riec.nl
 rijbewijs.cbr.nl
 rijbewijs.digid.nl
@@ -13019,6 +13038,7 @@ stats.hogeraad.nl
 stats.irealisatie.nl
 stats.ndw.nu
 stats.one-conference.nl
+stats.pleio.nl
 stats.test.gf.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
@@ -13028,6 +13048,7 @@ status.gn3.rijkscloud.nl
 status.kvk.nl
 status.location.arcgis.com
 status.omgevingswet.overheid.nl
+status.pleio.nl
 status.pre.omgevingswet.overheid.nl
 status.proeftuin.gf.irealisatie.nl
 status.rijkscloud.nl
@@ -13664,6 +13685,7 @@ tolpaymentapi.e-tol.nl
 tomcat.tiler01.huygens.knaw.nl
 toolbox-extremisme.nctv.nl
 toolbox.veiligepubliekedienstverlening.nl
+tooling.capacitor.pleio.nl
 toolkit-acc.nlplatform.com
 toolkit-cruks.kansspelautoriteit.nl
 toolkit-tst.nlplatform.com
@@ -14127,8 +14149,12 @@ video-uploader-aanmelding.cvdm.nl
 video-uploaders.cvdm.nl
 video.beeldbellen.dji.nl
 video.belastingdienst.nl
+videobellen-jwt-moderator.pleio.nl
+videobellen-jwt-only.pleio.nl
+videobellen-lobby.pleio.nl
 videobellen.belastingdienst.nl
 videobellen.douane.nl
+videobellen.pleio.nl
 videobellen.toeslagen.nl
 videobellen.waterschaplimburg.nl
 videoleren.nvwa.nl
@@ -16149,6 +16175,7 @@ www.platformnaarwerk.nl
 www.platformparticipatie.nl
 www.platformrijksoverheid.nl
 www.platformrijksoverheidonline.nl
+www.pleio.nl
 www.plekchecker.rvo.nl
 www.pns.nl
 www.podium.knaw.nl

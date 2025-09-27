@@ -1343,6 +1343,7 @@ https://aanbiedersmedicijnen.nl
 https://aandeslag.gezondeschool.nl
 https://aandeslagmetdeomgevingswet.nl
 https://aangetekendmailen.nza.nl
+https://aangifteselectie-chat.pleio.nl
 https://aaninhetdonker.nl
 https://aankomst.nationaalarchief.nl
 https://aanmelden.gratisvog.nl
@@ -2198,6 +2199,7 @@ https://auth.denkmee.zuid-holland.nl
 https://auth.dictu.nl
 https://auth.hogeraad.nl
 https://auth.ibki.nl
+https://auth.k8sauth.pleio.nl
 https://auth.kadaster.nl
 https://auth.ndw.nu
 https://auth.services.cultureelerfgoed.nl
@@ -3449,6 +3451,9 @@ https://dezi.nl
 https://dfu-challenge.github.io
 https://dfw.maps.arcgis.com
 https://dggf.nl
+https://dgh-admin.pleio.nl
+https://dgh-chat.pleio.nl
+https://dgh.pleio.nl
 https://dgs-acc.dnb.nl
 https://dgs.dnb.nl
 https://dgsa.dnb.nl
@@ -3578,6 +3583,7 @@ https://dopingwaaier.nl
 https://dor-api.stopheling.nl
 https://dor.stopheling.nl
 https://dorbeheer.stopheling.nl
+https://dossier.capacitor.pleio.nl
 https://dossierportal.cbs.nl
 https://dotnl.ndw.nu
 https://douane.nl
@@ -4788,6 +4794,7 @@ https://identifier-preprod.officielebekendmakingen.nl
 https://identifier-preprod.overheid.nl
 https://identifier.officielebekendmakingen.nl
 https://identifier.overheid.nl
+https://idm.k8sauth.pleio.nl
 https://idp.dev.kvk.nl
 https://idp.dmi-ecosysteem.nl
 https://idp.kvk.nl
@@ -5191,6 +5198,7 @@ https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.ndw.nu
+https://keycloak.pleio.nl
 https://keycloak.rdi.rijkscloud.nl
 https://keycloak.test.analyse.ilt.rijkscloud.nl
 https://keyhub.onderzoeksraad.nl
@@ -5348,6 +5356,7 @@ https://lerenvoorveiligheid.nl
 https://lespakketten.derdekamer.nl
 https://letmemap-ptbocounty.hub.arcgis.com
 https://letterenfonds.nl
+https://lev.pleio.nl
 https://levenmetwater.nl
 https://leveranciersvdi.svb.nl
 https://lexces.nl
@@ -5874,6 +5883,7 @@ https://mijnzaak.hogeraad.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
 https://milieuzones.nl
+https://mimir-gateway.pleio.nl
 https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
 https://minbzk.nl
 https://mindef-vio.nl
@@ -5943,6 +5953,7 @@ https://monitorleefomgeving.zuid-holland.nl
 https://monitorwonen.flevoland.nl
 https://monovi.pbl.nl
 https://monumentenregister.cultureelerfgoed.nl
+https://moodle-odcn.pleio.nl
 https://mooibeweging.nl
 https://moordzaak.om.nl
 https://move-rdh.nl
@@ -5956,8 +5967,11 @@ https://mr.chm-cbd.net
 https://mre.databank.nl
 https://msafe.kvk.nl
 https://msgcpp.knmi.nl
+https://msnp-admin.pleio.nl
+https://msnp-chat.pleio.nl
 https://msnp-tegemoetkoming.acc.belastingdienst.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
+https://msnp.pleio.nl
 https://msoid.nak.nl
 https://mta-sts.belastingdienst.nl
 https://mta-sts.mail.cggp.nl
@@ -6200,6 +6214,7 @@ https://oa.aaenmaas.nl
 https://oai-harvester.labs.dans.knaw.nl
 https://oai-service.labs.dans.knaw.nl
 https://oap.ind.nl
+https://oauth.k8sauth.pleio.nl
 https://ob.ontwikkel.machtigen.digid.nl
 https://obi-o.knaw.nl
 https://obi.knaw.nl
@@ -6221,6 +6236,7 @@ https://odcn-ont.topdesk.odc-noord.nl
 https://odcn-prd.confluence.odc-noord.nl
 https://odcn-prd.jira.odc-noord.nl
 https://odcn-prd.topdesk.odc-noord.nl
+https://odcn.pleio.nl
 https://odijmond.nl
 https://odin.odmh.nl
 https://odmh.nl
@@ -6781,6 +6797,7 @@ https://platformwow.nl
 https://pld.chadwyck.co.uk.access.authkb.kb.nl
 https://pleinplus.kb.nl
 https://pleio.kiesraad.nl
+https://pleio.nl
 https://plek.zorginstituutnederland.nl
 https://plot-acceptatie.lcms.nl
 https://plot-oefen.lcms.nl
@@ -6888,6 +6905,7 @@ https://pre.service.mpn.minienm.nl
 https://prefect.labs.dans.knaw.nl
 https://preprod-belastingen.zuid-holland.nl
 https://preprod-machtigen.digipoort.logius.nl
+https://preprod.capacitor.pleio.nl
 https://preprod.ep-online.nl
 https://preprod.iam.rijkswaterstaat.nl
 https://preprod.idselect.cultureelerfgoed.nl
@@ -7230,6 +7248,7 @@ https://rgs.cbs.nl
 https://rhel8.wabinfo.rijkswaterstaat.nl
 https://ri-department-of-health-covid-19-case-data-rihealth.hub.arcgis.com
 https://ricegis.maps.arcgis.com
+https://riec-liec-academie.pleio.nl
 https://riec.nl
 https://rijbewijzen-acc.cbr.nl
 https://rijbewijzen-tst.cbr.nl
@@ -7717,10 +7736,12 @@ https://stats.hogeraad.nl
 https://stats.irealisatie.nl
 https://stats.ndw.nu
 https://stats.one-conference.nl
+https://stats.pleio.nl
 https://stats.test.mgo.irealisatie.nl
 https://status.kvk.nl
 https://status.location.arcgis.com
 https://status.omgevingswet.overheid.nl
+https://status.pleio.nl
 https://status.pre.omgevingswet.overheid.nl
 https://status.rijkscloud.nl
 https://stc.ilent.nl
@@ -8056,6 +8077,7 @@ https://toezichtresultaten.onderwijsinspectie.nl
 https://toezichtsociaaldomein.nl
 https://tomcat.tiler01.huygens.knaw.nl
 https://toolbox.veiligepubliekedienstverlening.nl
+https://tooling.capacitor.pleio.nl
 https://toolkit-acc.nlplatform.com
 https://toolkit-tst.nlplatform.com
 https://toolkit.nlplatform.com
@@ -8285,7 +8307,11 @@ https://video-acc.beeldbellen.dji.nl
 https://video-uploader-aanmelding.cvdm.nl
 https://video-uploaders.cvdm.nl
 https://video.beeldbellen.dji.nl
+https://videobellen-jwt-moderator.pleio.nl
+https://videobellen-jwt-only.pleio.nl
+https://videobellen-lobby.pleio.nl
 https://videobellen.belastingdienst.nl
+https://videobellen.pleio.nl
 https://videoleren.nvwa.nl
 https://videos.cbs.nl
 https://viep.acc.brba.nl
@@ -9655,6 +9681,7 @@ https://www.platformafvalcirculair.nl
 https://www.platformnaarwerk.nl
 https://www.platformparticipatie.nl
 https://www.platformrijksoverheidonline.nl
+https://www.pleio.nl
 https://www.pns.nl
 https://www.podium.knaw.nl
 https://www.politiekeambtsdragers.nl

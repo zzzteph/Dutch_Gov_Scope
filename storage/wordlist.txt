@@ -117,6 +117,7 @@ forms
 telewerken
 sdm
 chat
+stats
 lyncdiscover
 aanvragen
 events
@@ -124,6 +125,7 @@ matomo
 web
 papiamentu
 enterpriseenrollment
+videobellen
 acceptatie.behandel
 acceptatie.mijn
 atlas
@@ -146,7 +148,6 @@ m
 synergy
 archief
 files
-stats
 repository
 geoweb
 nieuwsbrieven
@@ -164,7 +165,6 @@ prd
 geodata
 merkportaal
 sharepoint
-videobellen
 website
 acceptatie.webservices
 acceptatie.zoeken
@@ -179,6 +179,7 @@ www-test
 acc2
 sso
 crm
+status
 a-cms
 externemail
 m365
@@ -253,7 +254,6 @@ ebms
 micollab
 outlook
 sftp
-status
 uag
 vpn1
 t-cms
@@ -502,6 +502,7 @@ api.mijn
 charlie
 faq
 file
+keycloak
 a-voorlichting
 track
 projecten-acc
@@ -3097,7 +3098,6 @@ iam.staging
 internal-docs
 inweva
 karin
-keycloak
 maps.staging
 melvin-acc.staging
 melvin
@@ -11561,3 +11561,24 @@ redactiero
 jaarverslag2014
 water
 weg
+aangifteselectie-chat
+auth.k8sauth
+dgh-admin
+dgh-chat
+dgh
+dossier.capacitor
+idm.k8sauth
+lev
+mimir-gateway
+moodle-odcn
+msnp-admin
+msnp-chat
+msnp
+oauth.k8sauth
+odcn
+preprod.capacitor
+riec-liec-academie
+tooling.capacitor
+videobellen-jwt-moderator
+videobellen-jwt-only
+videobellen-lobby
