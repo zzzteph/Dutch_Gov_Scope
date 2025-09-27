@@ -77,6 +77,7 @@ www-dev
 www-p
 www-tst
 www2
+git
 preview
 www.test
 enterpriseregistration
@@ -90,7 +91,6 @@ www-ow
 www-ts
 zaaksysteem
 inloggen
-git
 mx1
 mail2
 webdisk
@@ -154,6 +154,7 @@ acc-dictu
 prod-dictu
 test-dictu
 magazine
+nieuw
 gateway
 eloket
 testeloket
@@ -170,6 +171,7 @@ acceptatie.zoeken
 behandel
 connect-with
 dataportaal
+nieuws
 ondertekenen
 wifi
 www-test
@@ -211,7 +213,6 @@ admin
 support
 elo
 securemail
-nieuw
 backend
 assets
 sip.myroom
@@ -238,7 +239,6 @@ blog
 email
 esb
 geoserver
-nieuws
 osb
 proxy
 samenwerken
@@ -318,12 +318,15 @@ voorlichting
 service
 media
 organisaties
+tools
 server
 topdesk
 idm
 acc-mijn
+infographics
 communicatie
 mail1
+probeer
 acc-www
 development
 office
@@ -528,7 +531,6 @@ cst
 gitlab.test
 startpagina
 bon
-tools
 a-magazinesintern
 staging.werkenbij
 www.werkenbij
@@ -536,7 +538,6 @@ acc-cms
 acc-infographics
 applicaties
 gdi
-infographics
 klantportaal
 plekchecker
 test-cms
@@ -564,9 +565,9 @@ vacature
 ra
 ro
 api-a
+bijna
 meeting
 mr
-probeer
 vsp
 melding
 search
@@ -5502,7 +5503,6 @@ avir
 avir.services
 banaan
 banaan.services
-bijna
 codata
 cryptshare
 cryptshare.services
@@ -11536,3 +11536,4 @@ kangaroo.acceptatie
 s3.delivery
 service.test
 support.test
+metrokaart

@@ -1365,6 +1365,7 @@ acc.orangecorners.com
 acc.paas-portal.odc-noord.nl
 acc.pbl.nl
 acc.pergamon.huygens.knaw.nl
+acc.pianoo.nl
 acc.picard.mijn.overheid.nl
 acc.protocol.mfaservices.nl
 acc.rd.dictu.nl
@@ -3099,6 +3100,7 @@ bigregister.nl
 bigsurfire-tigeo.hub.arcgis.com
 bijleen.belastingdienst.nl
 bijna.acm.nl
+bijna.pianoo.nl
 bike-ped-plan-candidate-project-listing-sapdcgis.hub.arcgis.com
 bikeparking-chicago.hub.arcgis.com
 billing.arcgis.com
@@ -6422,6 +6424,7 @@ git.oai.rijkscloud.nl
 git.odc-noord.nl
 git.parlement.nl
 git.performance.rijkscloud.nl
+git.pianoo.nl
 git.quatro.rijkscloud.nl
 git.quattro.rijkscloud.nl
 git.rijksoverheid.nl
@@ -7033,6 +7036,7 @@ inechile.maps.arcgis.com
 ineo.dev.huc.knaw.nl
 infographic.agrimatie.nl
 infographics.pbl.nl
+infographics.pianoo.nl
 infographics.rvo.nl
 infomaatje.rijnmond.leerwerkloket.nl
 infomilcn.com
@@ -8869,6 +8873,7 @@ metrics.digitalenoordzee.nl
 metrics.ivopzee.nl
 metrics.justitieconnect.nl
 metrixinbound.inspecteur.ilent.nl
+metrokaart.pianoo.nl
 metspoedbeschikbaar.nl
 mfaservices.nl
 mft-acc.kb.nl
@@ -9630,11 +9635,13 @@ nieuw.acm.nl
 nieuw.logerenbijdeboswachter.nl
 nieuw.luchtvaartmeteo.nl
 nieuw.nak.nl
+nieuw.pianoo.nl
 nieuwesluisterneuzen.eu
 nieuwjaarstoost.nl
 nieuwjaarstoost2025.nl
 nieuws.brabant.nl
 nieuws.coa.nl
+nieuws.pianoo.nl
 nieuws.rvo.nl
 nieuwsbrief.autoriteitpersoonsgegevens.nl
 nieuwsbrief.examenblad.nl
@@ -10914,6 +10921,7 @@ pia.odc-noord.nl
 pianoo-congres.nl
 pianoo-p.dictu.nl
 pianoo-t.dictu.nl
+pianoo.nl
 picard.mijn.overheid.nl
 picarta.nl.access.authkb.kb.nl
 picarta.pica.nl.access.authkb.kb.nl
@@ -11271,6 +11279,7 @@ pro.document-viewer-api.dso.kadaster.nl
 pro.ozon.dso.kadaster.nl
 probeer.acm.nl
 probeer.ihw.nl
+probeer.pianoo.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 prod-cms.digid.nl
@@ -13422,6 +13431,7 @@ test.openbare-inspectieresultaten.nvwa.nl
 test.optimaaldigitaal.gebruikercentraal.nl
 test.pdok.nl
 test.peppolautoriteit.nl
+test.pianoo.nl
 test.portaal.nlarbeidsinspectie.nl
 test.publicwebservices.cibg.nl
 test.rapportage.rijkscloud.nl
@@ -13630,6 +13640,7 @@ toolkittaal.gebruikercentraal.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.digitaltrustcenter.nl
 tools.huc.knaw.nl
+tools.pianoo.nl
 tools.rijksinnovatiecommunity.nl
 top.cbr.nl
 topacc.cbr.nl
@@ -16091,6 +16102,7 @@ www.perf.omgevingswet.overheid.nl
 www.perpest.alterra.nl
 www.pgdi.nl
 www.pianoo-congres.nl
+www.pianoo.nl
 www.platformrijksoverheid.nl
 www.plekchecker.rvo.nl
 www.pns.nl

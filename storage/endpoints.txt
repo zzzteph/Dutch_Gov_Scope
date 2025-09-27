@@ -311,6 +311,7 @@ http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.irealisatie.nl
 http://git.lpc.logius.nl
+http://git.pianoo.nl
 http://globalise.huygens.knaw.nl
 http://gm-pre.mev.logius.nl
 http://gm.mev.logius.nl
@@ -418,6 +419,7 @@ http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
 http://metadata-enhancer.labs.dans.knaw.nl
 http://metrics.digitalenoordzee.nl
+http://metrokaart.pianoo.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.leeroverzicht.nl
@@ -2508,6 +2510,7 @@ https://big-stone-county-hmp-umn.hub.arcgis.com
 https://bigregister.nl
 https://bigsurfire-tigeo.hub.arcgis.com
 https://bijna.acm.nl
+https://bijna.pianoo.nl
 https://bike-ped-plan-candidate-project-listing-sapdcgis.hub.arcgis.com
 https://bikeparking-chicago.hub.arcgis.com
 https://billing.arcgis.com
@@ -4834,6 +4837,7 @@ https://industrie-en-omwonenden.onderzoeksraad.nl
 https://inechile.maps.arcgis.com
 https://ineo.dev.huc.knaw.nl
 https://infographics.pbl.nl
+https://infographics.pianoo.nl
 https://infographics.rvo.nl
 https://infomaatje.rijnmond.leerwerkloket.nl
 https://infomilcn.com
@@ -6072,6 +6076,7 @@ https://nieuwjaarstoost.nl
 https://nieuwjaarstoost2025.nl
 https://nieuws.brabant.nl
 https://nieuws.coa.nl
+https://nieuws.pianoo.nl
 https://nieuws.rvo.nl
 https://nieuwsbrief.autoriteitpersoonsgegevens.nl
 https://nieuwsbrief.examenblad.nl
@@ -6705,6 +6710,7 @@ https://pgw.belastingdienst.nl
 https://phantom7666.github.io
 https://phished.fondspodiumkunsten.nl
 https://pianoo-congres.nl
+https://pianoo.nl
 https://picarta.nl.access.authkb.kb.nl
 https://picarta.pica.nl.access.authkb.kb.nl
 https://pih.belastingdienst.nl
@@ -6896,6 +6902,7 @@ https://prixderome.mondriaanfonds.nl
 https://prizepapers.huygens.knaw.nl
 https://prizmo-web.rvo.nl
 https://probeer.acm.nl
+https://probeer.pianoo.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod-dictu.comcms.logius.nl
@@ -8023,6 +8030,7 @@ https://toolkits.loketgezondleven.nl
 https://toolkittaal.gebruikercentraal.nl
 https://tools.digitaltrustcenter.nl
 https://tools.huc.knaw.nl
+https://tools.pianoo.nl
 https://top.cbr.nl
 https://topcorridors.nl
 https://topdesk-iv.rijkswaterstaat.nl
@@ -9604,6 +9612,7 @@ https://www.perf.omgevingswet.overheid.nl
 https://www.perpest.alterra.nl
 https://www.pgdi.nl
 https://www.pianoo-congres.nl
+https://www.pianoo.nl
 https://www.pns.nl
 https://www.podium.knaw.nl
 https://www.politiekeambtsdragers.nl
