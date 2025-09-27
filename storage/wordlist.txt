@@ -58,6 +58,7 @@ open
 docs
 dialin
 elearning
+cdn
 digikoppeling
 oud
 www.acc
@@ -66,7 +67,6 @@ jaarverslag
 cpanel
 services
 publicaties
-cdn
 geoservices
 kennis
 auth
@@ -171,6 +171,7 @@ acceptatie.zoeken
 behandel
 connect-with
 dataportaal
+email
 nieuws
 ondertekenen
 wifi
@@ -201,6 +202,7 @@ wiki
 new
 mx2
 iam
+media
 transfer
 access
 developer
@@ -236,7 +238,6 @@ sharepoint-conf
 smtp2
 start
 blog
-email
 esb
 geoserver
 osb
@@ -316,7 +317,6 @@ analytics
 sentry
 voorlichting
 service
-media
 organisaties
 tools
 server
@@ -11558,3 +11558,6 @@ iati-test2
 inzichten
 opendata.oud
 redactiero
+jaarverslag2014
+water
+weg

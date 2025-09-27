@@ -3556,6 +3556,7 @@ cdn.klopt.cibg.nl
 cdn.knmi.nl
 cdn.onderzoeksraad.nl
 cdn.opwegnaarseb.nl
+cdn.platformwow.nl
 cdndev.arcgis.com
 cdnqa.arcgis.com
 cdp2-glasgowgis.hub.arcgis.com
@@ -5320,6 +5321,7 @@ emagazine.one-conference.nl
 email.afm.nl
 email.brabant.nl
 email.cito.nl
+email.platformwow.nl
 emailcluster.ctivd.nl
 emailsanitizer.labs.dans.knaw.nl
 emailtemplates.overheid.nl
@@ -7347,6 +7349,7 @@ jaarverslag.lvnl.nl
 jaarverslag.nak.nl
 jaarverslag.nationaleombudsman.nl
 jaarverslag2011.forensischinstituut.nl
+jaarverslag2014.platformwow.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
 jaarverslag2024.bkd.eu
@@ -8813,6 +8816,7 @@ medezeggenschap.caop.nl
 media.amberalert.nl
 media.odmh.nl
 media.om.nl
+media.platformwow.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
 medicijnkosten.nl
@@ -11007,6 +11011,7 @@ platformnaarwerk.nl
 platformparticipatie.nl
 platformrijksoverheid.nl
 platformrijksoverheidonline.nl
+platformwow.nl
 plato.dictu.nl
 playground.commabz.nl
 pld.chadwyck.co.uk.access.authkb.kb.nl
@@ -14384,6 +14389,7 @@ was-t2.digid.nl
 was.digid.nl
 watdraagjijbij.arbeidsmarktplatformpo.nl
 water-amerigeoss.opendata.arcgis.com
+water.platformwow.nl
 watergegevens.rijkswaterstaat.nl
 waterkwaliteitinbeeld.hdsr.nl
 watermark-prd.cloudservices.kb.nl
@@ -14637,6 +14643,7 @@ webtest10.rijksoverheid.nl
 webtooling.irealisatie.nl
 webwinkel.kb.nl
 webwinkel.rvo.nl
+weg.platformwow.nl
 wegen.brabant.nl
 wegkenmerken.ndw.nu
 wegkenmerken.staging.ndw.nu
