@@ -971,6 +971,7 @@ a-site1.rijksoverheid.nl
 a-site2.defensie.nl
 a-site2.platformrijksoverheid.nl
 a-site2.rijksoverheid.nl
+a-static.platformrijksoverheidonline.nl
 a-static.rijksoverheid.nl
 a-voor1.rijksoverheid.nl
 a-voor2.rijksoverheid.nl
@@ -2069,6 +2070,8 @@ api-t1.digid.nl
 api-t2.digid.nl
 api-test.kansspelautoriteit.nl
 api-tst.afm.nl
+api.abonneren-pro2.platformrijksoverheidonline.nl
+api.abonneren.platformrijksoverheidonline.nl
 api.acc-cruks.kansspelautoriteit.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
@@ -2109,6 +2112,7 @@ api.buitenlevenvakanties.nl
 api.burgemeesterworden.politiekeambtsdragers.nl
 api.business.gov.nl
 api.caelus-tool.nl
+api.cccd.platformrijksoverheidonline.nl
 api.coa.nl
 api.competentnl.nl
 api.contenttoolsrijksoverheid.nl
@@ -2196,7 +2200,9 @@ api.vallei-veluwe.nl
 api.woz.acceptatie.kadaster.nl
 api.zandbak.dans.knaw.nl
 api.zorgaanbiedersportaal.nl
+api2.abonneren.platformrijksoverheidonline.nl
 api2.brkinzage.kadaster.nl
+api7.abonneren.platformrijksoverheidonline.nl
 apiacc.eerstekamer.nl
 apiarbor.eerstekamer.nl
 apiback.eerstekamer.nl
@@ -5860,6 +5866,7 @@ feeds.onslevendlandschap.nl
 feeds.open-overheid.nl
 feeds.oprijk.nl
 feeds.ordz.nl
+feeds.oud.platformrijksoverheidonline.nl
 feeds.over.leeroverzicht.nl
 feeds.overalsnelinternet.nl
 feeds.overdedouane.nl
@@ -6681,6 +6688,7 @@ handelsmissies.rvo.nl
 handhaving.vrachtwagenheffing.nl
 handle.knaw.nl
 handleiding-iuc-acceptatie.rijkscloud.nl
+handleiding.platformrijksoverheidonline.nl
 handleiding.rijksoverheid.nl
 hansken.nl
 hansken.org
@@ -6866,6 +6874,7 @@ iam.rdi.nl
 iam.rijkswaterstaat.nl
 iam.staging.ndw.nu
 iamcdocumentation.eu
+iati-test2.platformrijksoverheidonline.nl
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
@@ -7090,6 +7099,7 @@ inloggen.ciz.nl
 inloggen.hhdelfland.nl
 inloggen.limburg.nl
 inloggen.nidos.nl
+inloggen.platformrijksoverheidonline.nl
 inloggen.rijkswaterstaat.nl
 inloggen.rvo.nl
 inloggen.waterschaplimburg.nl
@@ -7243,6 +7253,7 @@ investinholland.com
 invoermodule.kennisplein.intranet.minienm.nl
 inweva.ndw.nu
 inzenden.knawonderwijsprijs.nl
+inzichten.platformrijksoverheidonline.nl
 iob-evaluatie.nl
 iob.justid.nl
 iowadot.maps.arcgis.com
@@ -10314,6 +10325,7 @@ opendata.onslevendlandschap.nl
 opendata.open-overheid.nl
 opendata.oprijk.nl
 opendata.ordz.nl
+opendata.oud.platformrijksoverheidonline.nl
 opendata.over.leeroverzicht.nl
 opendata.overalsnelinternet.nl
 opendata.overdedouane.nl
@@ -10530,6 +10542,7 @@ oud.knawonderwijsprijs.nl
 oud.luchtvaartmeteo.nl
 oud.mensenrechten.nl
 oud.mondriaanfonds.nl
+oud.platformrijksoverheidonline.nl
 ouders-uit-elkaar.nl
 oudewebsite.flevoland.nl
 outbound-eopg.aivd.nl
@@ -10993,6 +11006,7 @@ platformcs-project.nwo.nl
 platformnaarwerk.nl
 platformparticipatie.nl
 platformrijksoverheid.nl
+platformrijksoverheidonline.nl
 plato.dictu.nl
 playground.commabz.nl
 pld.chadwyck.co.uk.access.authkb.kb.nl
@@ -11647,11 +11661,13 @@ redactie.odijmond.nl
 redactie.odmh.nl
 redactie.ofgv.nl
 redactie.onderzoeksraad.nl
+redactie.platformrijksoverheidonline.nl
 redactie.vallei-veluwe.nl
 redactie.vechtstromen.nl
 redactie.veiligheidsregioflevoland.nl
 redactie.waterschaplimburg.nl
 redactie.zuid-holland.nl
+redactiero.platformrijksoverheidonline.nl
 redash.iaas.rijkscloud.nl
 redhat2.gn2.rijkscloud.nl
 redirect.ictu.nl
@@ -12949,6 +12965,7 @@ static.ont.live.werkenbij.rijkswaterstaat.nl
 static.ont.staging.rijkswaterstaat.nl
 static.ont.staging.werkenbij.rijkswaterstaat.nl
 static.pilot.mijn.overheid.nl
+static.platformrijksoverheidonline.nl
 static.preprod.mijn.overheid.nl
 static.rijksoverheid.nl
 static.staging.rijkswaterstaat.nl
@@ -16124,6 +16141,7 @@ www.platformafvalcirculair.nl
 www.platformnaarwerk.nl
 www.platformparticipatie.nl
 www.platformrijksoverheid.nl
+www.platformrijksoverheidonline.nl
 www.plekchecker.rvo.nl
 www.pns.nl
 www.podium.knaw.nl

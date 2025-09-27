@@ -27,8 +27,8 @@ prod
 werkenbij
 werkplek
 formulieren
-data
 redactie
+data
 link
 login
 smtp
@@ -59,6 +59,7 @@ docs
 dialin
 elearning
 digikoppeling
+oud
 www.acc
 adfs
 jaarverslag
@@ -68,7 +69,6 @@ publicaties
 cdn
 geoservices
 kennis
-oud
 auth
 accept
 proto
@@ -77,6 +77,7 @@ www-dev
 www-p
 www-tst
 www2
+inloggen
 git
 preview
 www.test
@@ -90,7 +91,6 @@ ns1
 www-ow
 www-ts
 zaaksysteem
-inloggen
 mx1
 mail2
 webdisk
@@ -103,6 +103,7 @@ werken
 old
 acceptatie.beheer
 demo
+static
 www1
 dwo
 a-magazines
@@ -130,7 +131,6 @@ geoportaal
 id
 kaarten
 helpdesk
-static
 academy
 designsystem
 projecten
@@ -532,6 +532,8 @@ gitlab.test
 startpagina
 bon
 a-magazinesintern
+a-static
+handleiding
 staging.werkenbij
 www.werkenbij
 acc-cms
@@ -4592,7 +4594,6 @@ a-git
 a-jira
 a-persberichten
 a-servicedesk
-a-static
 a-voor1
 a-voor2
 a-wiki
@@ -4609,7 +4610,6 @@ domeinnaamregistratie
 e-mailabonnementen
 e-maildiensten
 feeds.persberichten
-handleiding
 i-voor1
 informatiepuntkinderopvangtoeslag
 magazines-ienw
@@ -11548,3 +11548,13 @@ rootocsp-g3
 trialdomorganisatieservicesocsp-g3
 trialrootocsp-g3.ocsp
 ledendomein
+api.abonneren-pro2
+api.abonneren
+api.cccd
+api2.abonneren
+api7.abonneren
+feeds.oud
+iati-test2
+inzichten
+opendata.oud
+redactiero

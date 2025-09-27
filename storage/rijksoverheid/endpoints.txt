@@ -1321,6 +1321,7 @@ https://a-api.contenttoolsrijksoverheid.nl
 https://a-api.nederlandwereldwijd.nl
 https://a-cms.contenttoolsrijksoverheid.nl
 https://a-origin.api.contenttoolsrijksoverheid.nl
+https://a-static.platformrijksoverheidonline.nl
 https://a-voorlichting.nederlandwereldwijd.nl
 https://a-www.nederlandwereldwijd.nl
 https://a-www.netherlandsworldwide.nl
@@ -1957,6 +1958,8 @@ https://api-staging.management.dnb.nl
 https://api-staging.portal.dnb.nl
 https://api-staging.scm.dnb.nl
 https://api-tst.afm.nl
+https://api.abonneren-pro2.platformrijksoverheidonline.nl
+https://api.abonneren.platformrijksoverheidonline.nl
 https://api.acc.ncsc.nl
 https://api.acceptatie.kadaster.nl
 https://api.acp.kvk.nl
@@ -1980,6 +1983,7 @@ https://api.brkpb.test.kadaster.nl
 https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.business.gov.nl
 https://api.caelus-tool.nl
+https://api.cccd.platformrijksoverheidonline.nl
 https://api.competentnl.nl
 https://api.contenttoolsrijksoverheid.nl
 https://api.crimediggers.nl
@@ -2032,6 +2036,7 @@ https://api.standaarden.overheid.nl
 https://api.test.kadaster.nl
 https://api.transformation.nsgi.nl
 https://api.transformation.test.nsgi.nl
+https://api2.abonneren.platformrijksoverheidonline.nl
 https://apiacc.eerstekamer.nl
 https://apiarbor.eerstekamer.nl
 https://apiback.eerstekamer.nl
@@ -4206,6 +4211,7 @@ https://feeds.onslevendlandschap.nl
 https://feeds.open-overheid.nl
 https://feeds.oprijk.nl
 https://feeds.ordz.nl
+https://feeds.oud.platformrijksoverheidonline.nl
 https://feeds.over.leeroverzicht.nl
 https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
@@ -4628,6 +4634,7 @@ https://handboek.bkd.eu
 https://handboek.toeslagen.nl
 https://handelingenbank.info
 https://handhaving.vrachtwagenheffing.nl
+https://handleiding.platformrijksoverheidonline.nl
 https://hansken.nl
 https://hansken.org
 https://hapi.acc.spaceweather.knmi.nl
@@ -4746,6 +4753,7 @@ https://iam.rdi.nl
 https://iam.rijkswaterstaat.nl
 https://iam.staging.ndw.nu
 https://iamcdocumentation.eu
+https://iati-test2.platformrijksoverheidonline.nl
 https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
 https://ibg.webftp.dictu.nl
@@ -4881,6 +4889,7 @@ https://inloggen-preprod.waterschaplimburg.nl
 https://inloggen.hhdelfland.nl
 https://inloggen.limburg.nl
 https://inloggen.nidos.nl
+https://inloggen.platformrijksoverheidonline.nl
 https://inloggen.waterschaplimburg.nl
 https://inmemoriam.dictu.nl
 https://innova58.nl
@@ -4978,6 +4987,7 @@ https://investeringsimpulsspv.nl
 https://investinholland.com
 https://inweva.ndw.nu
 https://inzenden.knawonderwijsprijs.nl
+https://inzichten.platformrijksoverheidonline.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://iowadot.maps.arcgis.com
@@ -6483,6 +6493,7 @@ https://opendata.onslevendlandschap.nl
 https://opendata.open-overheid.nl
 https://opendata.oprijk.nl
 https://opendata.ordz.nl
+https://opendata.oud.platformrijksoverheidonline.nl
 https://opendata.over.leeroverzicht.nl
 https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
@@ -6612,6 +6623,7 @@ https://oss.developer.overheid.nl
 https://oto.cbs.nl
 https://otv-web.proeftuin.gf.irealisatie.nl
 https://oud.mondriaanfonds.nl
+https://oud.platformrijksoverheidonline.nl
 https://ouders-uit-elkaar.nl
 https://outbound.onderwijsraad.nl
 https://outlook.svb.nl
@@ -6761,6 +6773,7 @@ https://platformafpakken.fiod.nl
 https://platformafvalcirculair.nl
 https://platformnaarwerk.nl
 https://platformparticipatie.nl
+https://platformrijksoverheidonline.nl
 https://pld.chadwyck.co.uk.access.authkb.kb.nl
 https://pleinplus.kb.nl
 https://pleio.kiesraad.nl
@@ -7104,11 +7117,13 @@ https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
 https://redactie.ofgv.nl
+https://redactie.platformrijksoverheidonline.nl
 https://redactie.vallei-veluwe.nl
 https://redactie.vechtstromen.nl
 https://redactie.veiligheidsregioflevoland.nl
 https://redactie.waterschaplimburg.nl
 https://redactie.zuid-holland.nl
+https://redactiero.platformrijksoverheidonline.nl
 https://redirect.isdatechtzo.nl
 https://redlands-anca.hub.arcgis.com
 https://referenceworks.brillonline.com.access.authkb.kb.nl
@@ -7667,6 +7682,7 @@ https://static.ont.live.rijkswaterstaat.nl
 https://static.ont.live.werkenbij.rijkswaterstaat.nl
 https://static.ont.staging.rijkswaterstaat.nl
 https://static.ont.staging.werkenbij.rijkswaterstaat.nl
+https://static.platformrijksoverheidonline.nl
 https://static.preprod.mijn.overheid.nl
 https://static.rijksoverheid.nl
 https://static.staging.rijkswaterstaat.nl
@@ -9632,6 +9648,7 @@ https://www.pkioverheid.nl
 https://www.platformafvalcirculair.nl
 https://www.platformnaarwerk.nl
 https://www.platformparticipatie.nl
+https://www.platformrijksoverheidonline.nl
 https://www.pns.nl
 https://www.podium.knaw.nl
 https://www.politiekeambtsdragers.nl
