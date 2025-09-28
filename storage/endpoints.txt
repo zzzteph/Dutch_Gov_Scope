@@ -34,6 +34,7 @@ http://acc.irealisatie.nl
 http://acc.logerenbijdeboswachter.nl
 http://acc.mgo.irealisatie.nl
 http://acc.mijn.logerenbijdeboswachter.nl
+http://acc.praatmeemetdeoverheid.nl
 http://acc.subsidie.cultureelerfgoed.nl
 http://acc.woo.irealisatie.nl
 http://accept-betalen.nba.nl
@@ -493,6 +494,7 @@ http://pdvnl31.dans.knaw.nl
 http://pe-upload.nba.nl
 http://pers.letterenfonds.nl
 http://pgodemo.test.zm.irealisatie.nl
+http://pilot3.praatmeemetdeoverheid.nl
 http://pki-g2.kvk.nl
 http://pki.dnb.nl
 http://pm-bounces.ndw.nu
@@ -613,6 +615,7 @@ http://test.dpr.irealisatie.nl
 http://test.dusi.irealisatie.nl
 http://test.loketgezondleven.nl
 http://test.mgo.irealisatie.nl
+http://test.praatmeemetdeoverheid.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
@@ -6851,7 +6854,10 @@ https://pianoo.nl
 https://picarta.nl.access.authkb.kb.nl
 https://picarta.pica.nl.access.authkb.kb.nl
 https://pih.belastingdienst.nl
+https://pilot.praatmeemetdeoverheid.nl
 https://pilot.uzi-online.minvws.nl
+https://pilot1.praatmeemetdeoverheid.nl
+https://pilot2.praatmeemetdeoverheid.nl
 https://pkio.service.acc.omgevingswet.overheid.nl
 https://pkio.service.bta.omgevingswet.overheid.nl
 https://pkio.service.dmo.omgevingswet.overheid.nl
@@ -6998,6 +7004,7 @@ https://pp1.machtigen.digid.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://pr.aerius.nl
+https://praatmeemetdeoverheid.nl
 https://praktijkopleiding.nba.nl
 https://prd-azure-waf1.lvnl.nl
 https://prd.atlasleefomgeving.nl
@@ -9848,6 +9855,7 @@ https://www.politieorkest.nl
 https://www.portal.ewnederland.nl
 https://www.postcovidonderzoek.nl
 https://www.postedworkers.nl
+https://www.praatmeemetdeoverheid.nl
 https://www.praktijkopleiding.nba.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.primet.alterra.nl
