@@ -227,8 +227,10 @@ http://coronadashboard.rijksoverheid.nl
 http://criminaliteitenrecht.nl
 http://crm.nza.nl
 http://crs.nba.nl
+http://cs-portaal.procesinfrastructuur.nl
 http://css.openstad.zuid-holland.nl
 http://d7.rvo.nl
+http://dashboard.procesinfrastructuur.nl
 http://data-acc.rijkswaterstaat.nl
 http://data-preview.emissieregistratie.nl
 http://datachallenge.nl
@@ -602,6 +604,7 @@ http://survey-beheeracc.igj.nl
 http://sword.easy.dans.knaw.nl
 http://tag-aid.huygens.knaw.nl
 http://technische-documentatie.oep.overheid.nl
+http://test-afleveren.procesinfrastructuur.nl
 http://test-cms-eef.waterschaplimburg.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
@@ -1365,6 +1368,7 @@ https://aanmeldenrws.nl
 https://aanmerking.nl
 https://aanpak-ouderenmishandeling.nl
 https://aanpakringzuid.nl
+https://aansluiten.procesinfrastructuur.nl
 https://aansluitsuite.preproductie.digipoort.logius.nl
 https://aantekeningen-abbesteech.huygens.knaw.nl
 https://aanvraag-beheer.ciz.nl
