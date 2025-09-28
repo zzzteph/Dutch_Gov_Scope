@@ -773,6 +773,7 @@ _autodiscover._tcp.natura2000.nl
 _autodiscover._tcp.nplw.nl
 _autodiscover._tcp.nvwa.nl
 _autodiscover._tcp.politieorkest.nl
+_autodiscover._tcp.postcovidonderzoek.nl
 _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
 _autodiscover._tcp.rechtsbijstand.nl
@@ -1207,6 +1208,7 @@ acc-nl-dictu-nhr-sign.dictu.nl
 acc-nl-dictu-rijkspas.dictu.nl
 acc-nl-nvwa-dkb-sign.dictu.nl
 acc-open-wave.odijmond.nl
+acc-participantapi.postcovidonderzoek.nl
 acc-pebbles.pbl.nl
 acc-portal.acc-protocol.mfaservices.nl
 acc-portal.mfaservices.nl
@@ -1218,6 +1220,7 @@ acc-raadplegen.donorregister.nl
 acc-rd.dictu.nl
 acc-referentiegegevens.justid.nl
 acc-reftool-portal.consular.mfaservices.nl
+acc-researcher.postcovidonderzoek.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-staten.zuid-holland.nl
 acc-themasites.pbl.nl
@@ -1382,6 +1385,7 @@ acc.pbl.nl
 acc.pergamon.huygens.knaw.nl
 acc.pianoo.nl
 acc.picard.mijn.overheid.nl
+acc.postcovidonderzoek.nl
 acc.protocol.mfaservices.nl
 acc.rd.dictu.nl
 acc.resources.huygens.knaw.nl
@@ -10834,6 +10838,7 @@ paragon-prd.hetcak.nl
 paragon-tst.hetcak.nl
 parlement.nl
 parsr.labs.dans.knaw.nl
+participantapi.postcovidonderzoek.nl
 partijopgave.naktuinbouw.nl
 partnerplaza.sso3w.nl
 partnersforwater.nl
@@ -11399,6 +11404,7 @@ post.npostart.nl
 post.testuitslagen.coronatest.nl
 postbus-acc.hogeraad.nl
 postbus.hogeraad.nl
+postcovidonderzoek.nl
 postedworkers.nl
 postergenerator.denkvooruit.nl
 postergenerator.ontdekdezorg.nl
@@ -12052,6 +12058,7 @@ reps.test.kadaster.nl
 republic.huygens.knaw.nl
 research.cbs.nl
 research.kb.nl
+researcher.postcovidonderzoek.nl
 reserved-cesar-db.knmi.nl
 reserveren.deafsluitdijk.nl
 resolv1.ec.rijkscloud.nl
@@ -16465,6 +16472,7 @@ www.politieenwetenschap.nl
 www.politiekeambtsdragers.nl
 www.politieorkest.nl
 www.portal.ewnederland.nl
+www.postcovidonderzoek.nl
 www.postedworkers.nl
 www.praktijkopleiding.nba.nl
 www.pre.omgevingswet.overheid.nl

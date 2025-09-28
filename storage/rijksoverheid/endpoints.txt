@@ -22,6 +22,8 @@ http://a-old-cms.contenttoolsrijksoverheid.nl
 http://aanvraag-uzi.ciz.nl
 http://acc-eformulieren.zuid-holland.nl
 http://acc-english.rvo.nl
+http://acc-participantapi.postcovidonderzoek.nl
+http://acc-researcher.postcovidonderzoek.nl
 http://acc-staten.zuid-holland.nl
 http://acc-website.rvo.nl
 http://acc.agrimatie.nl
@@ -484,6 +486,7 @@ http://owas1.nba.nl
 http://p-crl.justid.nl
 http://pages.bioinf.nioo.knaw.nl
 http://papdig-toets3.cito.nl
+http://participantapi.postcovidonderzoek.nl
 http://password.knaw.nl
 http://pdok.waterschaplimburg.nl
 http://pdvnl31.dans.knaw.nl
@@ -6981,6 +6984,7 @@ https://portalen.preproductie.digipoort.logius.nl
 https://post.npostart.nl
 https://postbus-acc.hogeraad.nl
 https://postbus.hogeraad.nl
+https://postcovidonderzoek.nl
 https://postedworkers.nl
 https://postergenerator.denkvooruit.nl
 https://postergenerator.ontdekdezorg.nl
@@ -7338,6 +7342,7 @@ https://repository.overheid.nl
 https://repository.scp.nl
 https://repository.wodc.nl
 https://research.cbs.nl
+https://researcher.postcovidonderzoek.nl
 https://reserveren.deafsluitdijk.nl
 https://resolver.int.omgevingswet.overheid.nl
 https://resolver.kta.omgevingswet.overheid.nl
@@ -9841,6 +9846,7 @@ https://www.politieenwetenschap.nl
 https://www.politiekeambtsdragers.nl
 https://www.politieorkest.nl
 https://www.portal.ewnederland.nl
+https://www.postcovidonderzoek.nl
 https://www.postedworkers.nl
 https://www.praktijkopleiding.nba.nl
 https://www.pre.omgevingswet.overheid.nl
