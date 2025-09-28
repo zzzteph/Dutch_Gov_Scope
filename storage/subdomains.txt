@@ -1466,6 +1466,7 @@ accept.toolkittaal.gebruikercentraal.nl
 accept.volwassenheidsscan.gebruikercentraal.nl
 accept.web.ictu.nl
 accept.web.nmp.ictu.nl
+acceptance.monitoring.ptvt.nl
 acceptatie-api.coa.nl
 acceptatie-app.mijnrijkspas.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
@@ -1780,6 +1781,7 @@ admin.deweekvandecirculaireeconomie.nl
 admin.globalentry-rtp.nl
 admin.letterenfonds.nl
 admin.openstad.zuid-holland.nl
+admin.ptvt.nl
 admin.schoolleidersregisterpo.nl
 admin.tbadmin.dev.kvk.nl
 admin.tbadmin.kvk.nl
@@ -4713,6 +4715,7 @@ dev.kvk.nl
 dev.leerwerkloket.nl
 dev.liferay.mfaservices.nl
 dev.login.consular.mfaservices.nl
+dev.monitoring.ptvt.nl
 dev.netherlandsandyou.nl
 dev.nlog.nl
 dev.nlontwikkelingssamenwerking.nl
@@ -5267,6 +5270,7 @@ e.kvk.nl
 e.meldpuntintegriteitjenv.nl
 e.nieuwjaarstoost2025.nl
 e.oofggz.nl
+e.ptvt.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 ea-i.espacenet.com
@@ -5822,6 +5826,7 @@ facilitor.brabant.nl
 facturatie-acc.coa.nl
 facturatie.coa.nl
 facturen.kvk.nl
+facturen.ptvt.nl
 factuur.dbe-t.rvb.rijkscloud.nl
 fad-gegevens-sit.belastingdienst.nl
 fairaware-api.labs.dans.knaw.nl
@@ -6207,6 +6212,7 @@ forms.zuid-holland.nl
 formulier-beheer.dus-i.nl
 formulier.cultureelerfgoed.nl
 formulier.emissieautoriteit.nl
+formulier.ptvt.nl
 formulier.werkenvoornederland.nl
 formulierdus-i.nl
 formulieren-acc.afm.nl
@@ -7235,6 +7241,7 @@ indigo-l3-sso.ilab.ota.ind.minbzk.nl
 industrie-en-omwonenden.onderzoeksraad.nl
 inechile.maps.arcgis.com
 ineo.dev.huc.knaw.nl
+info.ptvt.nl
 infographic.agrimatie.nl
 infographics.pbl.nl
 infographics.pianoo.nl
@@ -8408,6 +8415,7 @@ link.nipv.nl
 link.ogco.nl
 link.onderzoeksraad.nl
 link.oofggz.nl
+link.ptvt.nl
 link.test.onderzoeksraad.nl
 linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
@@ -9542,6 +9550,7 @@ monitoring.huc.knaw.nl
 monitoring.knaw.nl
 monitoring.machtigen.digid.nl
 monitoring.plp.kadaster.nl
+monitoring.ptvt.nl
 monitorlandschap.nl
 monitorlangdurigezorg.nl
 monitorleefomgeving.zuid-holland.nl
@@ -10299,6 +10308,7 @@ old.cea.nl
 old.keringhuis.nl
 old.nba.nl
 old.opwegmetwaterstof.nl
+old.ptvt.nl
 oldsmar.maps.arcgis.com
 ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
@@ -11824,6 +11834,7 @@ pt.espacenet.com
 ptd-od.dist.politie.nl
 ptd.dist.politie.nl
 pts31.dans.knaw.nl
+ptvt.nl
 ptw.minbzk.nl
 ptw1.minbzk.nl
 ptw2.minbzk.nl
@@ -11847,6 +11858,7 @@ publicaties.nvao.net
 publicaties.odmh.nl
 publicaties.oud.mensenrechten.nl
 publicaties.politie.nl
+publicaties.ptvt.nl
 publicaties.rvig.nl
 publicatieservice-bms-acc.officielebekendmakingen.nl
 publicatieservice-rps-acc.officielebekendmakingen.nl
@@ -12722,6 +12734,7 @@ sentry.ndw.nu
 sentry.services.acm.nl
 sentry1.zwb.riec.nl
 sepm.belastingdienst.nl
+server-monitoring.ptvt.nl
 server.arcgis.com
 server.hcaict.nl
 server.rijksoverheidsvideo.nl
@@ -12966,6 +12979,7 @@ sis-developer.ontw.cloud.kadaster.nl
 sis-mngmtapim.ontw.cloud.kadaster.nl
 sis.brabant.nl
 sis.zuid-holland.nl
+site.ptvt.nl
 site1.defensie.nl
 site1.platformrijksoverheid.nl
 site1.rijksoverheid.nl
@@ -13288,6 +13302,7 @@ staging.ondernemersplein.overheid.nl
 staging.ontdekdezorg.nl
 staging.opwegnaarzes.nl
 staging.prd.web-static.rijkswaterstaat.nl
+staging.ptvt.nl
 staging.rijkswaterstaat.nl
 staging.static.werkenbij.rijkswaterstaat.nl
 staging.werkenbij.kvk.nl
@@ -13665,6 +13680,7 @@ tekortschieten-wvggz.webservices-dbb-acc.igj.nl
 tekortschieten-wvggz.webservices-dbb.igj.nl
 tekortschieten-wzd.webservices-dbb-acc.igj.nl
 tekortschieten-wzd.webservices-dbb.igj.nl
+tekstanalyse.ptvt.nl
 tele-db.politie.nl
 tele-od.politie.nl
 telewerk.huurcommissie.nl
@@ -15552,6 +15568,7 @@ www.acoi.nl
 www.acp.business.gov.nl
 www.actal.nl
 www.actiemonitoringce.nl
+www.admin.ptvt.nl
 www.adronderzoek.nl
 www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
@@ -16530,6 +16547,7 @@ www.ofgv.nl
 www.ogco.nl
 www.oicrf.org
 www.oidji.nl
+www.old.ptvt.nl
 www.om.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
@@ -16647,6 +16665,7 @@ www.promise.nioo.knaw.nl
 www.prosecutionservice.nl
 www.proxy-epbd-acc.ep-online.nl
 www.proxy-epbd.ep-online.nl
+www.ptvt.nl
 www.publiek.incidentmanagement.nl
 www.raadopenbaarbestuur.nl
 www.raadrvs.nl
@@ -16718,6 +16737,7 @@ www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
 www.sip1.nba.nl
+www.site.ptvt.nl
 www.slimmerreizen.zuid-holland.nl
 www.slimwatermanagement.nl
 www.sociaalfonds.minienm.nl

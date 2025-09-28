@@ -381,6 +381,7 @@ http://kwalificatie.proeftuin.gf.irealisatie.nl
 http://kwaliteitstoetsing.nba.nl
 http://ldn-inbox.labs.dans.knaw.nl
 http://license.labs.dans.knaw.nl
+http://link.ptvt.nl
 http://linkextractor.overheid.nl
 http://lipsius.huygens.knaw.nl
 http://lmr.proeftuin.gf.irealisatie.nl
@@ -1569,6 +1570,7 @@ https://accept.toolkittaal.gebruikercentraal.nl
 https://accept.volwassenheidsscan.gebruikercentraal.nl
 https://accept.web.ictu.nl
 https://accept.web.nmp.ictu.nl
+https://acceptance.monitoring.ptvt.nl
 https://acceptatie-app.mijnrijkspas.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://acceptatie-calculator.aerius.nl
@@ -1741,6 +1743,7 @@ https://adkc.dopingautoriteit.nl
 https://admin.denkmee.zuid-holland.nl
 https://admin.deweekvandecirculaireeconomie.nl
 https://admin.letterenfonds.nl
+https://admin.ptvt.nl
 https://admin.tbadmin.dev.kvk.nl
 https://admin.tbadmin.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
@@ -3467,6 +3470,7 @@ https://dev.kennisbankterrorisme.nctv.nl
 https://dev.leerwerkloket.nl
 https://dev.liferay.mfaservices.nl
 https://dev.login.consular.mfaservices.nl
+https://dev.monitoring.ptvt.nl
 https://dev.netherlandsandyou.nl
 https://dev.nlontwikkelingssamenwerking.nl
 https://dev.nww.mfaservices.nl
@@ -3775,6 +3779,7 @@ https://e.kbvg.nl
 https://e.meldpuntintegriteitjenv.nl
 https://e.nieuwjaarstoost2025.nl
 https://e.oofggz.nl
+https://e.ptvt.nl
 https://e.videobellen.douane.nl
 https://e.videobellen.toeslagen.nl
 https://ea-i.espacenet.com
@@ -4093,6 +4098,7 @@ https://facades-formats.labs.dans.knaw.nl
 https://facades-verification.labs.dans.knaw.nl
 https://facades.labs.dans.knaw.nl
 https://facturen.kvk.nl
+https://facturen.ptvt.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://fairaware-api.labs.dans.knaw.nl
 https://fairaware.dans.knaw.nl
@@ -4399,6 +4405,7 @@ https://forms.nvwa.nl
 https://forms.zuid-holland.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
+https://formulier.ptvt.nl
 https://formulierdus-i.nl
 https://formulieren-acc.afm.nl
 https://formulieren-preprod.waterschaplimburg.nl
@@ -4919,6 +4926,7 @@ https://indicatorsysteem-tst.zuid-holland.nl
 https://industrie-en-omwonenden.onderzoeksraad.nl
 https://inechile.maps.arcgis.com
 https://ineo.dev.huc.knaw.nl
+https://info.ptvt.nl
 https://infographics.pbl.nl
 https://infographics.pianoo.nl
 https://infographics.rvo.nl
@@ -6042,6 +6050,7 @@ https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
 https://monitoring.efiling.mijnoctrooi.rvo.nl
+https://monitoring.ptvt.nl
 https://monitorlangdurigezorg.nl
 https://monitorleefomgeving.zuid-holland.nl
 https://monitorwonen.flevoland.nl
@@ -6365,6 +6374,7 @@ https://old.belastingles.nl
 https://old.caop.nl
 https://old.keringhuis.nl
 https://old.nba.nl
+https://old.ptvt.nl
 https://oldsmar.maps.arcgis.com
 https://om.nl
 https://om.test.chm-cbd.net
@@ -7165,6 +7175,7 @@ https://ps4.platformrijksoverheid.nl
 https://psarchief.brabant.nl
 https://pt-i.espacenet.com
 https://pt.espacenet.com
+https://ptvt.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl
@@ -7178,6 +7189,7 @@ https://publicaties.minienw.nl
 https://publicaties.nvao.net
 https://publicaties.odmh.nl
 https://publicaties.politie.nl
+https://publicaties.ptvt.nl
 https://publicaties.rvig.nl
 https://publicwebservices.cibg.nl
 https://publieksvragen-en-signalen.cvdm.nl
@@ -7585,6 +7597,7 @@ https://semaphore.cultuurparticipatie.nl
 https://semarnath1.maps.arcgis.com
 https://senternovem.databank.nl
 https://sentry.ndw.nu
+https://server-monitoring.ptvt.nl
 https://server.arcgis.com
 https://server.hcaict.nl
 https://server.rijksoverheidsvideo.nl
@@ -7676,6 +7689,7 @@ https://sip.rijksrecherche.nl
 https://sip1.hetcak.nl
 https://sip2.hetcak.nl
 https://sipfed.coa.nl
+https://site.ptvt.nl
 https://sites.fondspodiumkunsten.nl
 https://sitescan-eu1.arcgis.com
 https://sk-i.espacenet.com
@@ -7808,6 +7822,7 @@ https://staging.justisbehindthescreens.nl
 https://staging.meldknop.nl
 https://staging.niwo.nl
 https://staging.ontdekdezorg.nl
+https://staging.ptvt.nl
 https://staging.werkenbij.kvk.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
@@ -7993,6 +8008,7 @@ https://teamcity.dev.huc.knaw.nl
 https://techniekacademie.rijkswaterstaat.nl
 https://ted.nationaalarchief.nl
 https://teelt.bkd.eu
+https://tekstanalyse.ptvt.nl
 https://telewerken-db.landelijkemeldkamer.org
 https://telewerken-oh.landelijkemeldkamer.org
 https://telewerken-pre-db.landelijkemeldkamer.org
@@ -8909,6 +8925,7 @@ https://www.acm.nl
 https://www.acoi.nl
 https://www.actal.nl
 https://www.actiemonitoringce.nl
+https://www.admin.ptvt.nl
 https://www.adviescollegeicttoetsing.nl
 https://www.adviescollegeregeldruk.nl
 https://www.adviescollegeveiligheidgroningen.nl
@@ -9787,6 +9804,7 @@ https://www.ofgv.nl
 https://www.ogco.nl
 https://www.oicrf.org
 https://www.oidji.nl
+https://www.old.ptvt.nl
 https://www.om.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
@@ -9883,6 +9901,7 @@ https://www.prolander.nl
 https://www.prom-select.eu
 https://www.promise.nioo.knaw.nl
 https://www.prosecutionservice.nl
+https://www.ptvt.nl
 https://www.raadopenbaarbestuur.nl
 https://www.raadrvs.nl
 https://www.raadvoorcultuur.nl
@@ -9934,6 +9953,7 @@ https://www.scp.nl
 https://www.secure.cito.nl
 https://www.senternovem.databank.nl
 https://www.sharingknowledge.rvo.nl
+https://www.site.ptvt.nl
 https://www.slimwatermanagement.nl
 https://www.sociaalfonds.minienm.nl
 https://www.socialestabiliteit.nl

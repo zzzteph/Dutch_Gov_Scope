@@ -18,8 +18,8 @@ _autodiscover._tcp
 magazines
 intranet
 vpn
-feeds.english
 staging
+feeds.english
 opendata.english
 cms
 www-acc
@@ -35,9 +35,9 @@ smtp
 portaal
 portal
 _dmarc
+e
 dev
 sip
-e
 app
 connect
 remote
@@ -52,11 +52,11 @@ meet
 kennisbank
 a-feeds.a-english
 a-opendata.a-english
+publicaties
 cdn
 ftp
 webservices
 open
-publicaties
 docs
 dialin
 elearning
@@ -86,6 +86,7 @@ preview
 mail2
 www.test
 enterpriseregistration
+old
 beeldbank
 sts
 dwo
@@ -104,7 +105,6 @@ adobe-tags
 fs
 ns2
 werken
-old
 acceptatie.beheer
 demo
 sso
@@ -156,6 +156,7 @@ nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
+admin
 magazine
 nieuw
 gateway
@@ -187,6 +188,7 @@ status
 a-cms
 externemail
 m365
+formulier
 jira
 servicedesk
 connect-acpt
@@ -217,7 +219,6 @@ statistiek
 www.staging
 idm
 siam
-admin
 support
 elo
 securemail
@@ -265,7 +266,6 @@ owa
 t-cms
 password
 catalogus
-formulier
 linkeddata
 t
 thesaurus
@@ -659,7 +659,9 @@ mijn.acceptatie
 mijn.test
 mft
 prisma
+monitoring
 ebms2
+facturen
 lync1
 ns
 opendata.acp
@@ -9991,7 +9993,6 @@ minioapi2.labs.dans
 momfer.meertens
 monarchy-in-turmoil.huygens
 monitoring.huc
-monitoring
 myadmin.huc
 nationalaccounts.niwi
 nederlandschehistorien.huygens
@@ -10462,7 +10463,6 @@ directchat
 downloads.acp
 downloadservice.acp
 downloadservice
-facturen
 git.dev
 gsa01
 gsa02
@@ -11939,3 +11939,12 @@ test-globe-rest-internet
 test-globe-wus-internet
 test-wus
 tv
+acceptance.monitoring
+dev.monitoring
+info
+server-monitoring
+site
+tekstanalyse
+www.admin
+www.old
+www.site
