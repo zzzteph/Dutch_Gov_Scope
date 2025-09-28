@@ -1054,8 +1054,10 @@ a5.digid.nl
 a6.digid.nl
 a641-swecouk.hub.arcgis.com
 a7a8.nl
+aa-t.politieacademie.nl
 aa.acceptatie.kadaster.nl
 aa.kadaster.nl
+aa.politieacademie.nl
 aaa.ictu.nl
 aaa2.ictu.nl
 aaenmaas.nl
@@ -1741,6 +1743,8 @@ adfs.nidos.nl
 adfs.vallei-veluwe.nl
 adfs2.cbs.knaw.nl
 adfs2.cito.nl
+adfs2.politieacademie.nl
+adfspa.politieacademie.nl
 adkc.dopingautoriteit.nl
 admin-acc.globalentry-rtp.nl
 admin.denkmee.zuid-holland.nl
@@ -2303,7 +2307,13 @@ app112-t.politie.nl
 appcontent.belastingdienst.nl
 appdata.kvk.nl
 appl.rdi.nl
+applicaties-a.politieacademie.nl
+applicaties-az-a.politieacademie.nl
+applicaties-az-t.politieacademie.nl
+applicaties-az.politieacademie.nl
+applicaties-t.politieacademie.nl
 applicaties.ciz.nl
+applicaties.politieacademie.nl
 applicaties.rvo.nl
 applicationframework.cibg.nl
 applications-acc.globalentry-rtp.nl
@@ -2331,6 +2341,7 @@ apps.jeugdconnect.nl
 apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
 apps.politie.nl
+apps.politieacademie.nl
 apps.services.acm.nl
 apps.svb.nl
 apps.vechtstromen.nl
@@ -2634,6 +2645,7 @@ autodiscover.onderzoeksraad.nl
 autodiscover.oofggz.nl
 autodiscover.overheid.nl
 autodiscover.politie.nl
+autodiscover.politieacademie.nl
 autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
 autodiscover.rijksdienstcn.com
@@ -2646,6 +2658,7 @@ autodiscover.test.knaw.nl
 autodiscover.tib-ivd.nl
 autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
+autodiscover.webmail.politieacademie.nl
 autodoc.eerstekamer.nl
 autorisatie-a.cito.nl
 autorisatie-o.cito.nl
@@ -2740,6 +2753,7 @@ babs.gma.kadaster.nl
 babs.gma.test.kadaster.nl
 back2roots.nioo.knaw.nl
 backbone.ndw.nu
+backbone.politieacademie.nl
 backend-bao-services.dev-consular.mfaservices.nl
 backend-bao-services.tst-consular.mfaservices.nl
 backend-groeimeter-a.cito.nl
@@ -3323,6 +3337,7 @@ broker.cloudtop.rijkscloud.nl
 broker.huurcommissie.nl
 broloket.nl
 bromonitor.nl
+bromtotaal.politieacademie.nl
 bron.nl
 bron.waterschaplimburg.nl
 bronbeek.nl
@@ -3330,6 +3345,7 @@ bronhouderportaal-bro.nl
 bronkopie.ct.kvk.nl
 bronkopie.ct.osb.kvk.nl
 bronkopie.osb.kvk.nl
+bronnen.politieacademie.nl
 broward-county-demographics-bcgis.hub.arcgis.com
 broward-metropolitan-planning-organization-open-data-browardmpo.hub.arcgis.com
 browser.dataplatform.knmi.nl
@@ -3488,6 +3504,9 @@ cas-basispoort.cito.nl
 cas-online.minbzk.nl
 cas.minbzk.nl
 case-studies-pwa.hub.arcgis.com
+case360-a.politieacademie.nl
+case360-t.politieacademie.nl
+case360.politieacademie.nl
 casitas-in-tucson-cotgis.hub.arcgis.com
 casos-de-uso-plataformacovid.hub.arcgis.com
 cass-county-watersheds-casscountymn.hub.arcgis.com
@@ -3603,6 +3622,7 @@ cdn.knmi.nl
 cdn.onderzoeksraad.nl
 cdn.opwegnaarseb.nl
 cdn.platformwow.nl
+cdn.politieacademie.nl
 cdndev.arcgis.com
 cdnqa.arcgis.com
 cdp2-glasgowgis.hub.arcgis.com
@@ -4841,6 +4861,8 @@ digitoegankelijk.nl
 digitoegankelijk.nwo.nl
 dihoo.eu
 dihoo.nl
+dilemma-az.politieacademie.nl
+dilemma.politieacademie.nl
 dioxins-congener-hen.apps.feedfoodtransfer.nl
 dioxins-totalteq-cow.apps.feedfoodtransfer.nl
 dioxins-totalteq-hen.apps.feedfoodtransfer.nl
@@ -5082,6 +5104,9 @@ duodynamicsintegratie.duo.nl
 duodynamicsintegratieacc.duo.nl
 duodynamicsintegratiedev.duo.nl
 dus-i.nl
+dust-api-a.politieacademie.nl
+dust-api-t.politieacademie.nl
+dust-api.politieacademie.nl
 dustex.nl
 dutch-caribbean.huygens.knaw.nl
 dutchculturekorea.com
@@ -5130,14 +5155,17 @@ dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
 dvs-qas.minszw.nl
 dvu.rvo.nl
+dw.politieacademie.nl
 dwangindezorg.nl
 dwc.huygens.knaw.nl
 dwc.knaw.nl
+dwo-t.politieacademie.nl
 dwo.cpb.nl
 dwo.ctgb.nl
 dwo.justid.nl
 dwo.knmi.nl
 dwo.pbl.nl
+dwo.politieacademie.nl
 dwo.scp.nl
 dwrt2.ssc-ict.nl
 dwrt3.ssc-ict.nl
@@ -5254,6 +5282,8 @@ ecpc.acceptatie.nipv.nl
 ecu.maps.arcgis.com
 ecxs.knmi.nl
 edepot-wiki.huygens.knaw.nl
+edge.politieacademie.nl
+edge.webmail.politieacademie.nl
 edge01.kcc.kadaster.nl
 edge02.kcc.kadaster.nl
 edicrop-acc.rvo.nl
@@ -5676,6 +5706,7 @@ expertpanel.gebruikercentraal.nl
 explore-humanitarian.hub.arcgis.com
 explorer.arcgis.com
 export.bkd.eu
+extbhr.politieacademie.nl
 extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
 extern.ifv.nl
@@ -6625,6 +6656,7 @@ grafana-az2.lpc.logius.nl
 grafana.extern.minszw.nl
 grafana.ix.rijkscloud.nl
 grafana.lpc.logius.nl
+grafana.politieacademie.nl
 granvillecounty.maps.arcgis.com
 graph.zandbak.dans.knaw.nl
 graphdb.nationaalarchief.nl
@@ -7893,6 +7925,14 @@ kennis.nji.nl
 kennis.nponderwijs.nl
 kennis.waterschaplimburg.nl
 kennis.zuid-holland.nl
+kennisbank-a.politieacademie.nl
+kennisbank-api-a.politieacademie.nl
+kennisbank-api-t.politieacademie.nl
+kennisbank-api.politieacademie.nl
+kennisbank-beheer-a.politieacademie.nl
+kennisbank-beheer-t.politieacademie.nl
+kennisbank-beheer.politieacademie.nl
+kennisbank-t.politieacademie.nl
 kennisbank-tst.rvo.nl
 kennisbank.agroforestrynetwerk.nl
 kennisbank.digitoegankelijk.nl
@@ -7901,9 +7941,11 @@ kennisbank.e-tol.nl
 kennisbank.hhdelfland.nl
 kennisbank.kiesraad.nl
 kennisbank.logius.nl
+kennisbank.politieacademie.nl
 kennisbank.rvo.nl
 kennisbank.svb.nl
 kennisbank.vrachtwagenheffing.nl
+kennisbanksvn.politieacademie.nl
 kennisbankterrorisme.nctv.nl
 kenniscentrum-oo.nl
 kenniscentrum.ofgv.nl
@@ -8043,6 +8085,11 @@ koers.brk.kadaster.nl
 kolonialecollecties.nl
 kombijde.acceptatie.politie.nl
 kombijde.politie.nl
+kompol-api-a.politieacademie.nl
+kompol-api-t.politieacademie.nl
+kompol-api.politieacademie.nl
+kompol-t.politieacademie.nl
+kompol.politieacademie.nl
 komveiligthuis.nl
 konijn.hackaton.rijkscloud.nl
 koninklijkhuis.nl
@@ -8077,6 +8124,7 @@ kpzss.nl
 kreekraksluizen.nl
 krf-2-acp.acc.cloudservices.kb.nl
 krf-2-prd.cloudservices.kb.nl
+kris-om.politieacademie.nl
 kroniekvankampen.huygens.knaw.nl
 krv-art.cvr.rvb.rijkscloud.nl
 krv-art.devops.rvb.rijkscloud.nl
@@ -8106,6 +8154,12 @@ kwaliteitsdashboard-koop.overheid.nl
 kwaliteitsdashboard.test.kadaster.nl
 kwaliteitstoetsing.nba.nl
 kweepeer.dev.huc.knaw.nl
+kwwm-a.politieacademie.nl
+kwwm-az-a.politieacademie.nl
+kwwm-az-t.politieacademie.nl
+kwwm-az.politieacademie.nl
+kwwm-t.politieacademie.nl
+kwwm.politieacademie.nl
 l1nf3ng.github.io
 l2.espacenet.com
 laadinfrastructuur.databank.nl
@@ -8180,6 +8234,9 @@ leerlinginbeeld-o.cito.nl
 leerlinginbeeld-t.cito.nl
 leerlinginbeeld.cito.nl
 leermaster360.ibki.nl
+leermiddelen-a.politieacademie.nl
+leermiddelen-t.politieacademie.nl
+leermiddelen.politieacademie.nl
 leeromgeving.leerportaalienw.nl
 leeromgeving.om.nl
 leeroverdeholocaust.nl
@@ -8211,6 +8268,8 @@ lerenbij.ciz.nl
 lerenenwerken.nl
 lerenvoorveiligheid.nl
 lespakketten.derdekamer.nl
+lesrooster-t.politieacademie.nl
+lesrooster.politieacademie.nl
 letmemap-ptbocounty.hub.arcgis.com
 letterenfonds.nl
 lev.pleio.nl
@@ -8351,6 +8410,7 @@ login-gn3.odc-noord.nl
 login-net.rvb.rijkscloud.nl
 login-oms.rvb.rijkscloud.nl
 login-pp.dnb.nl
+login-t.politieacademie.nl
 login-test.dnb.nl
 login-uzi.pilot.uzi-online.minvws.nl
 login-uzi.proeftuin.uzi-online.irealisatie.nl
@@ -8391,6 +8451,7 @@ login.t1.digid.nl
 login.t2.digid.nl
 login.test.kb.nl
 login.vechtstromen.nl
+loginsso.politieacademie.nl
 logintest.hetcak.nl
 logius-acc.confluence.odc-noord.nl
 logius-acc.jira.odc-noord.nl
@@ -8686,6 +8747,7 @@ mail.open-overheid.nl
 mail.opwegnaarseb.nl
 mail.orangecorners.com
 mail.parlement.nl
+mail.politieacademie.nl
 mail.riec.nl
 mail.rijkscloud.nl
 mail.rijksdienstcn.com
@@ -8904,6 +8966,7 @@ media.om.nl
 media.platformwow.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
+mediatheek.politieacademie.nl
 medicijnkosten.nl
 medicineshortagesdefects.nl
 mee.databank.nl
@@ -9169,6 +9232,9 @@ mijndouane.tst.belastingdienst.nl
 mijndouane2.acc.belastingdienst.nl
 mijndwb.belastingdienst.nl
 mijnexamens.ifv.nl
+mijnkompol-a.politieacademie.nl
+mijnkompol-t.politieacademie.nl
+mijnkompol.politieacademie.nl
 mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
 mijnloonstrook.knaw.nl
@@ -9235,6 +9301,7 @@ mijnzakelijk1.acc.belastingdienst.nl
 mijnzakelijk2.acc.belastingdienst.nl
 mik-acpt.brabant.nl
 mik.brabant.nl
+mikkdcp.politieacademie.nl
 milieuzones.nl
 mimbmp.sap.minienm.nl
 mimbmp.saphttp.minienm.nl
@@ -9298,6 +9365,8 @@ minprd2.api.ix.rijkscloud.nl
 minszw.nl
 mintst2.api.ix.rijkscloud.nl
 minvws.nl
+mir-t.politieacademie.nl
+mir.politieacademie.nl
 miraonline.nl
 mirt2016.mirtoverzicht.nl
 mirta20nieuwerkerkgouda.nl
@@ -9325,6 +9394,7 @@ mm.belastingdienst.nl
 mm.ont.belastingdienst.nl
 mmdc.nl
 mms-gw.om.nl
+mms.politieacademie.nl
 mn-mx1.search.nvao.net
 mn.datawonen.nl
 mnd-preprd.overheid.nl
@@ -9362,6 +9432,7 @@ mohdrahil-wiz.github.io
 moline.maps.arcgis.com
 mom1.minions.odc-noord.nl
 momfer.meertens.knaw.nl
+momo.politieacademie.nl
 mon-saint-quentin.hub.arcgis.com
 monarchy-in-turmoil.huygens.knaw.nl
 mondgezondheidsdashboard.vzinfo.nl
@@ -9539,6 +9610,7 @@ mul-mkt.belastingdienst.nl
 mul-mmi.belastingdienst.nl
 mul-redirect.belastingdienst.nl
 mul.belastingdienst.nl
+multiteam.politieacademie.nl
 muniorg.maps.arcgis.com
 muntvondsten.dnb.nl
 muralidhar.maps.arcgis.com
@@ -9569,6 +9641,8 @@ mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx.ncsc.nl
+mx.webmail.politieacademie.nl
+mx.webmail1.politieacademie.nl
 mx01.tib-ivd.nl
 mx02.bkd.eu
 mx1.kadaster.nl
@@ -9702,6 +9776,7 @@ netherlandsandyou.nl
 netherlandsworldwide.nl
 netuit.kb.nl
 netwerkplatteland.nl
+netwerktoegang.politieacademie.nl
 neuronprod.vallei-veluwe.nl
 neurontest.vallei-veluwe.nl
 nevenactiviteiten.cvdm.nl
@@ -9913,6 +9988,7 @@ ns1.gslbppe.politie.nl
 ns1.minbzk.nl
 ns1.ows2.politie.nl
 ns1.parlement.nl
+ns1.politieacademie.nl
 ns1.rekenkamer.nl
 ns1.scp.nl
 ns1.svb.nl
@@ -10617,6 +10693,16 @@ osg-prx2.gn3.rijkscloud.nl
 osg-test.gn2.rijkscloud.nl
 osg.gn2.rijkscloud.nl
 osg.gn3.rijkscloud.nl
+osiris-t.politieacademie.nl
+osiris.politieacademie.nl
+osirisacc.politieacademie.nl
+osirislink-a.politieacademie.nl
+osirislink-t.politieacademie.nl
+osirislink.politieacademie.nl
+osirisont.politieacademie.nl
+osirisprd.politieacademie.nl
+osiristst.politieacademie.nl
+osirisweb.politieacademie.nl
 oss-slu.github.io
 oss.developer.overheid.nl
 ost.digid.nl
@@ -10692,6 +10778,7 @@ ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 owa.contactpuntbouwproducten.nl
 owa.minbzk.nl
+owa.politieacademie.nl
 owas1.nba.nl
 oxfordartonline.com.access.authkb.kb.nl
 p-bbox-encr-tvs.rvo.nl
@@ -10701,6 +10788,7 @@ p-direkt.minbzk.nl
 p-direkt.nl
 p.knawonderwijsprijs.nl
 p285st201.utsjaca01.belastingdienst.nl
+pa-a.politieacademie.nl
 paas-portal-gn3.odc-noord.nl
 paas-portal.odc-noord.nl
 pablofurt.github.io
@@ -10972,6 +11060,7 @@ pc96.fa.knaw.nl
 pc97.fa.knaw.nl
 pc98.fa.knaw.nl
 pc99.fa.knaw.nl
+pda.politieacademie.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
@@ -11178,6 +11267,7 @@ pms.dictu.nl
 pmz-pre.logius.nl
 pmz.logius.nl
 pns.nl
+po.politieacademie.nl
 poc-intranet.rvo.nl
 poc.bestandenpostbus.nl
 poc1.bestandenpostbus.nl
@@ -11185,6 +11275,7 @@ pocmdx.lab.cloud.kadaster.nl
 podium.knaw.nl
 poj.peeters-leuven.be.access.authkb.kb.nl
 politie.nl
+politieacademie.nl
 politiekeambtsdragers.nl
 politieopendata.cbs.nl
 pom.cultureelerfgoed.nl
@@ -11290,6 +11381,7 @@ portalnaan.entreepgb.svb.nl
 portalonte.entreepgb.svb.nl
 portaltepr.entreepgb.svb.nl
 portaltest.entreepgb.svb.nl
+portaltest.politieacademie.nl
 porto.bkwi.nl
 positconnect.ikz.nl
 positpm.ikz.nl
@@ -11491,6 +11583,15 @@ productontwikkeling.cbr.nl
 proeftuin.gf.irealisatie.nl
 proeftuin.lcms.nl
 proeftuin.uzi-online.irealisatie.nl
+profchecks-a.politieacademie.nl
+profchecks-az-a.politieacademie.nl
+profchecks-az-t.politieacademie.nl
+profchecks-az.politieacademie.nl
+profchecks-beheer-a.politieacademie.nl
+profchecks-beheer-t.politieacademie.nl
+profchecks-beheer.politieacademie.nl
+profchecks-t.politieacademie.nl
+profchecks.politieacademie.nl
 professional.basisinformatie-overstromingen.nl
 profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
@@ -11651,6 +11752,8 @@ qbes.cbs.nl
 qingfengtechnology.github.io
 qlikview.rvo.nl
 qmanage.flevoland.nl
+qmanage459.politieacademie.nl
+qmanage460.politieacademie.nl
 qti-groeimeter-a.cito.nl
 qti-groeimeter-o.cito.nl
 qti-groeimeter-t.cito.nl
@@ -11663,6 +11766,7 @@ quality-time-ldap.devops.rvb.rijkscloud.nl
 quality-time.devops.rvb.rijkscloud.nl
 queeste.huygens.knaw.nl
 quest.bodemrichtlijn.nl
+questback.politieacademie.nl
 questifyplannerapi-t.secure.cito.nl
 questifyplannerapi.cito.nl
 qvj.chadwyck.com.access.authkb.kb.nl
@@ -12412,6 +12516,7 @@ sdmx-dataviewer.cbs.nl
 sdmx-search-beta.cbs.nl
 sdmx-share.cbs.nl
 sdmx.cbs.nl
+sduwt.politieacademie.nl
 sdvnl31.dans.knaw.nl
 se-i.espacenet.com
 se.espacenet.com
@@ -12578,6 +12683,7 @@ sftp.acpt.nationaalarchief.nl
 sftp.cbs.nl
 sftp.nationaalarchief.nl
 sftp.onderzoeksraad.nl
+sftp.politieacademie.nl
 sftp.ted.nationaalarchief.nl
 sftp.test.cbs.nl
 sftp4dummies.cbs.nl
@@ -12917,6 +13023,7 @@ sre-wmo.databank.nl
 srkbroker.bics.nl
 srv-52b05-19.gn2.rijkscloud.nl
 srv-52b13-13.gn2.rijkscloud.nl
+srv-ap-web186.politieacademie.nl
 srv-ca01.nvao.net
 srv-zmb02-27.gn3.rijkscloud.nl
 srv-zmb02-34.gn3.rijkscloud.nl
@@ -12962,6 +13069,7 @@ sso.landelijkemeldkamer.org
 sso.omgevingswet.overheid.nl
 sso.perf.omgevingswet.overheid.nl
 sso.politie.nl
+sso.politieacademie.nl
 sso.pre.omgevingswet.overheid.nl
 sso.rijksdienstcn.com
 sso.subsidie.cultureelerfgoed.nl
@@ -12978,6 +13086,9 @@ ssovpnintune-tst.ows2.politie.nl
 ssp.estota.rijkscloud.nl
 ssp.huc.knaw.nl
 ssp.ix.rijkscloud.nl
+sspr-ex.politieacademie.nl
+sspr-p.politieacademie.nl
+sspr.politieacademie.nl
 sss.cloud.kadaster.nl
 sss.test.cloud.kadaster.nl
 sss31.dans.knaw.nl
@@ -13428,6 +13539,7 @@ telewerken.landelijkemeldkamer.org
 telewerken.nationaalarchief.nl
 telewerken.om.nl
 telewerken.onderzoeksraad.nl
+telewerken.politieacademie.nl
 tenantapp.ec.rijkscloud.nl
 terraform.odc-noord.nl
 terrell.maps.arcgis.com
@@ -13671,6 +13783,7 @@ testgeoservices.knmi.nl
 testhf.gn2.rijkscloud.nl
 testhi25.huygens.knaw.nl
 testhostingportal.huc.knaw.nl
+testinternet.politieacademie.nl
 testkaarten.vechtstromen.nl
 testkennis.hdsr.nl
 testmail.scp.nl
@@ -13702,8 +13815,14 @@ th.espacenet.com
 themalessen.geldlessen.nl
 themaportefeuillesriec-liec.kennisplatformondermijning.nl
 theoriereservering.cbr.nl
+thesaurus-a.politieacademie.nl
+thesaurus-az-a.politieacademie.nl
+thesaurus-az-t.politieacademie.nl
+thesaurus-az.politieacademie.nl
+thesaurus-t.politieacademie.nl
 thesaurus.cultureelerfgoed.nl
 thesaurus.globalise.huygens.knaw.nl
+thesaurus.politieacademie.nl
 thesaurus.zuid-holland.nl
 thinkwiseprovisioning-a.cito.nl
 thinkwiseprovisioning-o.cito.nl
@@ -14033,11 +14152,16 @@ uitwijk.cokz.nl
 uitwisseling.cbs.nl
 uk.chm-cbd.net
 uk.investinholland.com
+um-a.politieacademie.nl
+um-i.politieacademie.nl
+um-t.politieacademie.nl
+um.politieacademie.nl
 umbraco.cito.nl
 umbracoacc.dnb.nl
 umbracodev.dnb.nl
 umbracoprd.dnb.nl
 ums.hogeraad.nl
+umvo.politieacademie.nl
 unhcoopext.maps.arcgis.com
 universiteiten.rechtsorde.nl.access.authkb.kb.nl
 universitypublishingonline.org.access.authkb.kb.nl
@@ -14234,6 +14358,9 @@ vergaderen.belastingdienst.nl
 vergelijkingskaart.afm.nl
 vergoedingsns.nl
 verhalenoverdeoorlog.nl
+verjaringschecker-a.politieacademie.nl
+verjaringschecker-t.politieacademie.nl
+verjaringschecker.politieacademie.nl
 verkeer.acc.loket.om.nl
 verkeer.loket.om.nl
 verkeersbesluiten-acc.overheid.nl
@@ -14249,6 +14376,7 @@ verpakkingen.belastingdienst.nl
 version-tracker.labs.dans.knaw.nl
 verslaggeving.afm.nl
 versterkencyberweerbaarheid.nl
+versterkingpolitieprofessie.politieacademie.nl
 verwer.nin.knaw.nl
 verwerkingen.rijksoverheid.nl
 verzekeringsproducten.acc.belastingdienst.nl
@@ -14273,6 +14401,7 @@ video-uploader-aanmelding.cvdm.nl
 video-uploaders.cvdm.nl
 video.beeldbellen.dji.nl
 video.belastingdienst.nl
+video.politieacademie.nl
 videobellen-jwt-moderator.pleio.nl
 videobellen-jwt-only.pleio.nl
 videobellen-lobby.pleio.nl
@@ -14361,6 +14490,7 @@ vpn-server1.acpt.nationaalarchief.nl
 vpn-server1.nationaalarchief.nl
 vpn-server2.nationaalarchief.nl
 vpn-ssp.devops.rvb.rijkscloud.nl
+vpn-test.politieacademie.nl
 vpn-tst.dictu.nl
 vpn-ump.devops.rvb.rijkscloud.nl
 vpn.a4.odc-noord.nl
@@ -14403,6 +14533,7 @@ vpn.nwo.nl
 vpn.ocw.odc-noord.nl
 vpn.ofgv.nl
 vpn.platformrijksoverheid.nl
+vpn.politieacademie.nl
 vpn.rvb.odc-noord.nl
 vpn.rw1.rijkscloud.nl
 vpn.services.acm.nl
@@ -14493,10 +14624,15 @@ vt016ed.dictu.nl
 vth.zuid-holland.nl
 vtrack-acc.nvwa.nl
 vtrack.nvwa.nl
+vts-aanmelding.politieacademie.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 vtw.politie.nl
+vubis-az-t.politieacademie.nl
+vubis-az.politieacademie.nl
+vubis-t.politieacademie.nl
+vubis.politieacademie.nl
 vue.databank.nl
 vulnerabilities.acc.ncsc.nl
 vulnerabilities.ncsc.nl
@@ -14623,8 +14759,12 @@ web8.fa.knaw.nl
 webaccess.kb.nl
 webaccess.knaw.nl
 webaccess.knmi.nl
+webapps-a.politieacademie.nl
 webapps-acc.belastingdienst.nl
+webapps-t.politieacademie.nl
 webapps.belastingdienst.nl
+webapps.politieacademie.nl
+webcameindhoven1.politieacademie.nl
 webcast.brabant.nl
 webchat.belastingdienst.nl
 webchat.klopt.cibg.nl
@@ -14672,6 +14812,7 @@ webloket-beheer-prd.cloudservices.kb.nl
 webloket.kb.nl
 webmail-a.huurcommissie.nl
 webmail-acpt.brabant.nl
+webmail-t.politieacademie.nl
 webmail.aaenmaas.nl
 webmail.afm.nl
 webmail.atr-regeldruk.nl
@@ -14713,6 +14854,7 @@ webmail.opwegnaarseb.nl
 webmail.orangecorners.com
 webmail.parlement.nl
 webmail.pbl.nl
+webmail.politieacademie.nl
 webmail.rekenkamer.nl
 webmail.rgd.minbzk.nl
 webmail.rijkscloud.nl
@@ -14724,6 +14866,7 @@ webmail.seb.ibki.nl
 webmail.test.knaw.nl
 webmail.tib-ivd.nl
 webmail.werkenvoornederland.nl
+webmail1.politieacademie.nl
 webmaila2.kb.nl
 webmeeting.minbzk.nl
 webredactie.caop.nl
@@ -14793,6 +14936,7 @@ webstatistiekenwaas.kb.nl
 webtest.cokz.nl
 webtest10.rijksoverheid.nl
 webtooling.irealisatie.nl
+webuntis.politieacademie.nl
 webwinkel.kb.nl
 webwinkel.rvo.nl
 weg.platformwow.nl
@@ -16307,6 +16451,7 @@ www.plekchecker.rvo.nl
 www.pns.nl
 www.podium.knaw.nl
 www.politie.nl
+www.politieacademie.nl
 www.politiekeambtsdragers.nl
 www.portal.ewnederland.nl
 www.postedworkers.nl
@@ -16644,6 +16789,8 @@ zandbak.wegwijzer.overheid.nl
 zartico.maps.arcgis.com
 zbs.minvws.nl
 zbsacc.minvws.nl
+zeden-az.politieacademie.nl
+zeden.politieacademie.nl
 zeeland-prv.databank.nl
 zeeland.databank.nl
 zeeland.leerwerkloket.nl
