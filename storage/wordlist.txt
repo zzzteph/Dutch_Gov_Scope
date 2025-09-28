@@ -98,6 +98,7 @@ chat
 mx1
 webdisk
 maps
+papiamentu
 adobe-analytics-dc
 adobe-tags
 fs
@@ -124,7 +125,6 @@ aanvragen
 events
 matomo
 web
-papiamentu
 enterpriseenrollment
 videobellen
 acceptatie.behandel
