@@ -1343,6 +1343,8 @@ https://aanbiedersmedicijnen.nl
 https://aandeslag.gezondeschool.nl
 https://aandeslagmetdeomgevingswet.nl
 https://aangetekendmailen.nza.nl
+https://aangifte-acc.politie.nl
+https://aangifte.politie.nl
 https://aangifteselectie-chat.pleio.nl
 https://aaninhetdonker.nl
 https://aankomst.nationaalarchief.nl
@@ -1680,6 +1682,7 @@ https://accp-dorbeheer.stopheling.nl
 https://accp.disportal.nl
 https://accp.stopheling.nl
 https://accshortnis.naktuinbouw.nl
+https://accsso.politie.nl
 https://acgsa.maps.arcgis.com
 https://achd-substance-use-adcogov-health.hub.arcgis.com
 https://achilles.rvo.nl
@@ -1963,6 +1966,7 @@ https://api.abonneren-pro2.platformrijksoverheidonline.nl
 https://api.abonneren.platformrijksoverheidonline.nl
 https://api.acc.ncsc.nl
 https://api.acceptatie.kadaster.nl
+https://api.acceptatie.politie.nl
 https://api.acp.kvk.nl
 https://api.afm.nl
 https://api.bag.acceptatie.kadaster.nl
@@ -2003,6 +2007,7 @@ https://api.diplomatieke-getuigenissen.huygens.knaw.nl
 https://api.dnb.nl
 https://api.dst.test.kadaster.nl
 https://api.eerstekamer.nl
+https://api.enlets.politie.nl
 https://api.ivopzee.nl
 https://api.ix.rijkscloud.nl
 https://api.jeugdconnect.nl
@@ -2029,6 +2034,7 @@ https://api.ondernemersplein.overheid.nl
 https://api.p-direkt.nl
 https://api.pdok.cloud.kadaster.nl
 https://api.pdok.nl
+https://api.politie.nl
 https://api.portal.dnb.nl
 https://api.preprod.mijn.overheid.nl
 https://api.rdi.nl
@@ -2663,6 +2669,7 @@ https://bta.omgevingswet.overheid.nl
 https://btb.cbs.nl
 https://btc-psmfc.hub.arcgis.com
 https://btx311-bur.hub.arcgis.com
+https://bu.politie.nl
 https://budget-de-la-gente-cotgis.hub.arcgis.com
 https://budgy.ndw.nu
 https://building-inspection-pictoucounty.hub.arcgis.com
@@ -2694,6 +2701,8 @@ https://bvz.waves.databank.nl
 https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://c19-willcountygis.hub.arcgis.com
+https://c2000-ras01.politie.nl
+https://c2000-ras02.politie.nl
 https://c2000.nl
 https://c2coe.org
 https://c3surf.knmi.nl
@@ -2736,6 +2745,7 @@ https://carmarthenshire-gbi-strategy-eng-luc.hub.arcgis.com
 https://carmarthenshire-gbi-strategy-wal-luc.hub.arcgis.com
 https://carrefour-des-futur-e-s-enseignant-e-s-edu.hub.arcgis.com
 https://carrefour-information-du-grand-sudbury.hub.arcgis.com
+https://carriere.politie.nl
 https://cartotheque-atmo-hdf.hub.arcgis.com
 https://cartotheque-atmograndest.hub.arcgis.com
 https://cas-basispoort.cito.nl
@@ -2846,6 +2856,7 @@ https://chascogis.maps.arcgis.com
 https://chat-dev.rijkscloud.nl
 https://chat.cito.nl
 https://chat.datascience.rijkscloud.nl
+https://chat.enlets.politie.nl
 https://chat.ind.nl
 https://chat.nationaalarchief.nl
 https://chat.ncsc.nl
@@ -3267,6 +3278,7 @@ https://data.noraonline.nl
 https://data.nwo.nl
 https://data.overheid.nl
 https://data.pbl.nl
+https://data.politie.nl
 https://data.rvo.nl
 https://data.staging.ndw.nu
 https://data.zuid-holland.nl
@@ -3312,6 +3324,7 @@ https://datavisualisatieportal.nji.nl
 https://datavoorgezondheid.nl
 https://dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
 https://datumprikker.belastingdienst.nl
+https://dav.enlets.politie.nl
 https://daws1.dopingautoriteit.nl
 https://db.cbg-meb.nl
 https://db.saur.de.access.authkb.kb.nl
@@ -3911,6 +3924,7 @@ https://english.wkr.nl
 https://english.wodc.nl
 https://english.wrr.nl
 https://english.zorginstituutnederland.nl
+https://enlets.politie.nl
 https://enquete.eerstekamer.nl
 https://enterprise-k8s.arcgis.com
 https://enterprise.arcgis.com
@@ -3992,6 +4006,7 @@ https://eurovignettes.eu
 https://euthanasiecommissie.nl
 https://evc.ibki.nl
 https://evenementen.fondspodiumkunsten.nl
+https://evenementen.politie.nl
 https://evenementenbureauvws.nl
 https://events.duo.nl
 https://events.kadaster.nl
@@ -4385,6 +4400,7 @@ https://ftp.kbvg.nl
 https://ftp.oostvaarderskliniek.nl
 https://ftpadmin1.meldknop.nl
 https://ftpblaise.cbs.nl
+https://fts.politie.nl
 https://ftsrecoverydocufile.github.io
 https://fubecasper.cbs.nl
 https://functiegebouwrijksoverheid.nl
@@ -5255,6 +5271,8 @@ https://knmiprojects.nl
 https://knooppuntjoure.nl
 https://koaportaal.nl
 https://kolonialecollecties.nl
+https://kombijde.acceptatie.politie.nl
+https://kombijde.politie.nl
 https://komveiligthuis.nl
 https://koninklijkhuis.nl
 https://koninkrijk1813.huygens.knaw.nl
@@ -6309,6 +6327,7 @@ https://onderzoek.cbs.nl
 https://onderzoek.communicatierijk.nl
 https://onderzoek.nederlandwereldwijd.nl
 https://onderzoek.odmh.nl
+https://onderzoek.politie.nl
 https://onderzoek.rdi.nl
 https://onderzoek.svb.nl
 https://onderzoek.wegwijzer.overheid.nl
@@ -6826,6 +6845,7 @@ https://pns.nl
 https://poc1.bestandenpostbus.nl
 https://podium.knaw.nl
 https://poj.peeters-leuven.be.access.authkb.kb.nl
+https://politie.nl
 https://politiekeambtsdragers.nl
 https://politieopendata.cbs.nl
 https://pom.cultureelerfgoed.nl
@@ -7045,6 +7065,7 @@ https://publicaties.mensenrechten.nl
 https://publicaties.minienw.nl
 https://publicaties.nvao.net
 https://publicaties.odmh.nl
+https://publicaties.politie.nl
 https://publicaties.rvig.nl
 https://publicwebservices.cibg.nl
 https://publieksvragen-en-signalen.cvdm.nl
@@ -7054,6 +7075,7 @@ https://puc-redactie.overheid.nl
 https://puc.overheid.nl
 https://pure.knaw.nl
 https://pureacc.knaw.nl
+https://push.enlets.politie.nl
 https://pushmail.awti.nl
 https://pushmail.flevoland.nl
 https://pushmail.onderwijsraad.nl
@@ -7313,7 +7335,9 @@ https://rpx.nza.nl
 https://rs-i.espacenet.com
 https://rs.espacenet.com
 https://rsj.nl
+https://rss.acceptatie.politie.nl
 https://rss.amberalert.nl
+https://rss.politie.nl
 https://rstatci.onderzoeksraad.nl
 https://rstudio.analyse.ilt.rijkscloud.nl
 https://rstudio.cursus.rijkscloud.nl
@@ -7623,6 +7647,7 @@ https://sso.intpatch.omgevingswet.overheid.nl
 https://sso.istandaarden.nl
 https://sso.omgevingswet.overheid.nl
 https://sso.perf.omgevingswet.overheid.nl
+https://sso.politie.nl
 https://sso.pre.omgevingswet.overheid.nl
 https://sso.rijksdienstcn.com
 https://sso.tst2905.omgevingswet.overheid.nl
@@ -8110,6 +8135,10 @@ https://transcriptions.globalise.huygens.knaw.nl
 https://transfer.kb.nl
 https://transfer.naktuinbouw.nl
 https://transfer.waterschaplimburg.nl
+https://transferium-db.politie.nl
+https://transferium-oh.politie.nl
+https://transferium.gslb-trf.politie.nl
+https://transferium.politie.nl
 https://transformer.labs.dans.knaw.nl
 https://transitieproefdiervrijeinnovatie.nl
 https://travellingtexts.huygens.knaw.nl
@@ -8730,6 +8759,7 @@ https://www.acceptatie.klicviewer.nl
 https://www.acceptatie.landelijkemeldkamer.org
 https://www.acceptatie.oicrf.org
 https://www.acceptatie.pdok.nl
+https://www.acceptatie.politie.nl
 https://www.acm.nl
 https://www.acoi.nl
 https://www.actal.nl
@@ -9684,6 +9714,7 @@ https://www.platformrijksoverheidonline.nl
 https://www.pleio.nl
 https://www.pns.nl
 https://www.podium.knaw.nl
+https://www.politie.nl
 https://www.politiekeambtsdragers.nl
 https://www.portal.ewnederland.nl
 https://www.postedworkers.nl
