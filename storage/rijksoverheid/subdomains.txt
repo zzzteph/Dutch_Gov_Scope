@@ -784,6 +784,7 @@ _autodiscover._tcp.uziregister.nl
 _autodiscover._tcp.wkr.nl
 _dc-mx.41dece63829c.partnersforwater.nl
 _dc-mx.d31eecba31f5.boa-expertisecentrum.nl
+_dc-mx.d43e04744c5a.politieenwetenschap.nl
 _dc-mx.dddce9f5a2d1.knooppuntjoure.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
@@ -3068,6 +3069,7 @@ beta.huygens.knaw.nl
 beta.machtigen.digid.nl
 beta.nmgn.huygens.knaw.nl
 beta.opendata.cbs.nl
+beta.politieenwetenschap.nl
 beta.resources.huygens.knaw.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
@@ -11279,6 +11281,7 @@ poj.peeters-leuven.be.access.authkb.kb.nl
 politie.nl
 politieacademie.nl
 politiecn.com
+politieenwetenschap.nl
 politiekeambtsdragers.nl
 politieopendata.cbs.nl
 pom.cultureelerfgoed.nl
@@ -16456,6 +16459,7 @@ www.podium.knaw.nl
 www.politie.nl
 www.politieacademie.nl
 www.politiecn.com
+www.politieenwetenschap.nl
 www.politiekeambtsdragers.nl
 www.portal.ewnederland.nl
 www.postedworkers.nl
