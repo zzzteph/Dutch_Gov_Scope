@@ -1410,6 +1410,7 @@ https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
 https://academie.ind.nl
 https://academie.nifp.nl
+https://academie.rechtenoverheid.nl
 https://academievoorinternationalebetrekkingen.nl
 https://academy.cbs.nl
 https://academy.cito.nl
@@ -1577,6 +1578,7 @@ https://accept.lint.gebruikercentraal.nl
 https://accept.metspoedbeschikbaar.nl
 https://accept.nldigitalgovernment.nl
 https://accept.optimaaldigitaal.gebruikercentraal.nl
+https://accept.rechtenoverheid.nl
 https://accept.rotterdammer.gebruikercentraal.nl
 https://accept.toolkittaal.gebruikercentraal.nl
 https://accept.volwassenheidsscan.gebruikercentraal.nl
@@ -3677,6 +3679,7 @@ https://doemeemetmdt.nl
 https://doeonbeperktmee.nl
 https://doi-org.access.authkb.kb.nl
 https://dol.stopheling.nl
+https://domain-admin.rechtenoverheid.nl
 https://domeinen-prd.cloudservices.kb.nl
 https://domeinen.kb.nl
 https://domeinenrz.nl
@@ -4851,6 +4854,7 @@ https://horizonscangeneesmiddelen.nl
 https://host.neorah.nl
 https://hostmaster.derdekamer.nl
 https://hostmaster.raadvoorplantenrassen.nl
+https://hostmaster.rechtenoverheid.nl
 https://hotnews.maps.arcgis.com
 https://houdmisdaaduitjebuurt.nl
 https://houseofrepresentatives.nl
@@ -5830,6 +5834,7 @@ https://mail.ontdekdezorg.nl
 https://mail.oostvaarderskliniek.nl
 https://mail.open-overheid.nl
 https://mail.opwegnaarseb.nl
+https://mail.rechtenoverheid.nl
 https://mail.rijkscloud.nl
 https://mail.scp.nl
 https://mail.veiligheidsregioflevoland.nl
@@ -6002,6 +6007,7 @@ https://middenlimburg.leerwerkloket.nl
 https://middenlimburg.lerenenwerken.nl
 https://mig.cbs.nl
 https://mijn-a.nipv.nl
+https://mijn-academie.rechtenoverheid.nl
 https://mijn-acc.igj.nl
 https://mijn-dev.dnb.nl
 https://mijn-pp.dnb.nl
@@ -6047,11 +6053,13 @@ https://mijn.preprod2.digid.nl
 https://mijn.productie.lcms.nl
 https://mijn.rdi.nl
 https://mijn.rdw.nl
+https://mijn.rechtenoverheid.nl
 https://mijn.rvo.nl
 https://mijn.test.lcms.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
 https://mijn.zorgaanbiedersportaal.nl
+https://mijnacademie.rechtenoverheid.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
 https://mijnatm-acc.azure.dnb.nl
@@ -7440,6 +7448,7 @@ https://realtime.staging.ndw.nu
 https://rec.cloud.kadaster.nl
 https://rec.test.cloud.kadaster.nl
 https://recall.rdw.nl
+https://rechtenoverheid.nl
 https://rechtsbijstand.nl
 https://rechtwijzer.nl
 https://reconi-etoegang-acc.sso.eherkenning.nl
@@ -8004,6 +8013,7 @@ https://staging.meldknop.nl
 https://staging.niwo.nl
 https://staging.ontdekdezorg.nl
 https://staging.ptvt.nl
+https://staging.rechtenoverheid.nl
 https://staging.werkenbij.kvk.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
@@ -9153,6 +9163,7 @@ https://www.acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.omgevingswet.overheid.nl
 https://www.acc.one-conference.nl
 https://www.acceleratethechange.nl
+https://www.accept.rechtenoverheid.nl
 https://www.acceptatie-app.mijnrijkspas.nl
 https://www.acceptatie.klicviewer.nl
 https://www.acceptatie.landelijkemeldkamer.org
@@ -10165,6 +10176,7 @@ https://www.rdi.nl
 https://www.rdosecurity.nl
 https://www.rdw.nl
 https://www.realisatieibds.nl
+https://www.rechtenoverheid.nl
 https://www.rechtsbijstand.nl
 https://www.rechtwijzer.nl
 https://www.redactie.aquo.nl
@@ -10222,6 +10234,7 @@ https://www.staatsexamensnt2.nl
 https://www.staatvanutrecht.databank.nl
 https://www.staging.bdmuseum.nl
 https://www.staging.deweekvandecirculaireeconomie.nl
+https://www.staging.rechtenoverheid.nl
 https://www.startmetdelen.nl
 https://www.startmetoesorichtlijnen.nl
 https://www.startpagina.sap.minienm.nl

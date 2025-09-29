@@ -17,8 +17,8 @@ acceptatie
 _autodiscover._tcp
 magazines
 intranet
-vpn
 staging
+vpn
 feeds.english
 opendata.english
 cms
@@ -64,6 +64,7 @@ dialin
 elearning
 digikoppeling
 oud
+accept
 www.acc
 preview
 cpanel
@@ -78,7 +79,6 @@ dwo
 kennis
 auth
 ns1
-accept
 proto
 www-ac
 www-dev
@@ -160,6 +160,7 @@ acc-dictu
 prod-dictu
 test-dictu
 mx2
+www.staging
 siam
 admin
 magazine
@@ -171,6 +172,7 @@ vpn2
 ontwikkel
 prd
 geodata
+academie
 beta
 betalen
 merkportaal
@@ -218,7 +220,6 @@ developer
 magazinesintern
 monitor
 statistiek
-www.staging
 idm
 support
 elo
@@ -230,7 +231,6 @@ sip.myroom
 luchtfoto
 pushmail
 smtp1
-academie
 appstore
 b2b
 b2btest-gemnet
@@ -354,6 +354,7 @@ toolkit
 fryslan
 haaglanden
 zeeland
+hostmaster
 idp
 sip2
 stage
@@ -639,7 +640,6 @@ metabase
 regio
 www.app
 postergenerator
-hostmaster
 www.new
 t1
 mrs
@@ -12273,3 +12273,7 @@ webportaal
 webrddaz
 workfolder
 eu-wetgevingsmonitor
+domain-admin
+mijn-academie
+mijnacademie
+www.accept

@@ -1132,6 +1132,7 @@ academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
 academie.ind.nl
 academie.nifp.nl
+academie.rechtenoverheid.nl
 academievoorinternationalebetrekkingen.nl
 academy.cbs.nl
 academy.cito.nl
@@ -1468,6 +1469,7 @@ accept.metspoedbeschikbaar.nl
 accept.mijn.buitenlevenvakanties.nl
 accept.nldigitalgovernment.nl
 accept.optimaaldigitaal.gebruikercentraal.nl
+accept.rechtenoverheid.nl
 accept.rotterdammer.gebruikercentraal.nl
 accept.toolkittaal.gebruikercentraal.nl
 accept.volwassenheidsscan.gebruikercentraal.nl
@@ -5109,6 +5111,7 @@ doemeemetmdt.nl
 doeonbeperktmee.nl
 doi-org.access.authkb.kb.nl
 dol.stopheling.nl
+domain-admin.rechtenoverheid.nl
 domeinen-prd.cloudservices.kb.nl
 domeinen.kb.nl
 domeinenrz.nl
@@ -7084,6 +7087,7 @@ host.neorah.nl
 hostingportal.huc.knaw.nl
 hostmaster.derdekamer.nl
 hostmaster.raadvoorplantenrassen.nl
+hostmaster.rechtenoverheid.nl
 hotnews.maps.arcgis.com
 houdmisdaaduitjebuurt.nl
 houseofrepresentatives.nl
@@ -8988,6 +8992,7 @@ mail.orangecorners.com
 mail.parlement.nl
 mail.politieacademie.nl
 mail.rdw.nl
+mail.rechtenoverheid.nl
 mail.riec.nl
 mail.rijkscloud.nl
 mail.rijksdienstcn.com
@@ -9340,6 +9345,7 @@ mig.cbs.nl
 migrantcards.huygens.knaw.nl
 migrants-test.red.huygens.knaw.nl
 mijn-a.nipv.nl
+mijn-academie.rechtenoverheid.nl
 mijn-acc.hetcak.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
@@ -9420,6 +9426,7 @@ mijn.productie.lcms.nl
 mijn.pzp.nl
 mijn.rdi.nl
 mijn.rdw.nl
+mijn.rechtenoverheid.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -9452,6 +9459,7 @@ mijn.zorgaanbiedersportaal.nl
 mijn.zuid-holland.nl
 mijn2acc01.cbr.nl
 mijn8.belastingdienst.nl
+mijnacademie.rechtenoverheid.nl
 mijnacademy.forensischinstituut.nl
 mijnacc01.cbr.nl
 mijnadministratie-acpt.brabant.nl
@@ -12303,6 +12311,7 @@ realtime.staging.ndw.nu
 rec.cloud.kadaster.nl
 rec.test.cloud.kadaster.nl
 recall.rdw.nl
+rechtenoverheid.nl
 rechtsbijstand.nl
 rechtwijzer.nl
 reconi-etoegang-acc.sso.eherkenning.nl
@@ -13619,6 +13628,7 @@ staging.ontdekdezorg.nl
 staging.opwegnaarzes.nl
 staging.prd.web-static.rijkswaterstaat.nl
 staging.ptvt.nl
+staging.rechtenoverheid.nl
 staging.rijkswaterstaat.nl
 staging.static.werkenbij.rijkswaterstaat.nl
 staging.werkenbij.kvk.nl
@@ -15942,6 +15952,7 @@ www.acc.one-conference.nl
 www.acc.orangecorners.com
 www.acceleratethechange.nl
 www.accept-betalen.nba.nl
+www.accept.rechtenoverheid.nl
 www.acceptatie-app.mijnrijkspas.nl
 www.acceptatie.aquo.nl
 www.acceptatie.clusterbuster.nl
@@ -17093,6 +17104,7 @@ www.rds.onderzoeksraad.nl
 www.rdw.nl
 www.rdw.seb.ibki.nl
 www.realisatieibds.nl
+www.rechtenoverheid.nl
 www.rechtsbijstand.nl
 www.rechtwijzer.nl
 www.redactie.aquo.nl
@@ -17171,6 +17183,7 @@ www.staatvanutrecht.databank.nl
 www.staging.bdmuseum.nl
 www.staging.deweekvandecirculaireeconomie.nl
 www.staging.opwegnaarzes.nl
+www.staging.rechtenoverheid.nl
 www.staging.rijkswaterstaat.nl
 www.staging.werkenbij.rijkswaterstaat.nl
 www.startmetdelen.nl
