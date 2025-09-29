@@ -1618,6 +1618,7 @@ acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
 acceptatie.raadplegen.sbv-z.nl
 acceptatie.redactie.aquo.nl
+acceptatie.registerexterneveiligheid.nl
 acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.schoolleidersregisterpo.nl
 acceptatie.spin2.rijkswaterstaat.nl
@@ -12511,6 +12512,7 @@ register-backend.tlokb.nl
 register-pentest.aerius.nl
 register.aerius.nl
 register.tlokb.nl
+registerexterneveiligheid.nl
 registers.dnb.nl
 registrar.labs.dans.knaw.nl
 registratiewebradiokanaal.cvdm.nl
@@ -17295,6 +17297,7 @@ www.regiobeeld.nl
 www.regioburgemeesters.nl
 www.regiodata.kvk.nl
 www.regiosaandegrens.nl
+www.registerexterneveiligheid.nl
 www.regulatoryscience.nl
 www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
