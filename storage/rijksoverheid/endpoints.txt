@@ -4106,6 +4106,7 @@ https://etalagetest.ifv.nl
 https://etc.test.cloud.kadaster.nl
 https://etender.dnb.nl
 https://etl.rijkswaterstaat.nl
+https://eu-wetgevingsmonitor.realisatieibds.nl
 https://eu1-iot.arcgis.com
 https://eubtw.belastingdienst.nl
 https://euc1-geocode.arcgis.com
@@ -7433,6 +7434,7 @@ https://rdwelkom.rdw.nl
 https://rdwschema.rdw.nl
 https://reader12308.github.io
 https://realisatie.cultuurparticipatie.nl
+https://realisatieibds.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
 https://rec.cloud.kadaster.nl
@@ -10162,6 +10164,7 @@ https://www.rda.nl
 https://www.rdi.nl
 https://www.rdosecurity.nl
 https://www.rdw.nl
+https://www.realisatieibds.nl
 https://www.rechtsbijstand.nl
 https://www.rechtwijzer.nl
 https://www.redactie.aquo.nl
