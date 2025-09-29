@@ -3052,6 +3052,7 @@ beheer.onlinezitting.rechtspraak.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.procesinfrastructuur.nl
+beheer.rechtvaardig.nl
 beheer.zorgaanbiedersportaal.nl
 beheerapps.rvo.nl
 beheerautoriteitwaddenzee.nl
@@ -12391,6 +12392,7 @@ rechtenoverheid.nl
 rechtsbijstand.nl
 rechtspraak.nl
 rechtspraaklogin.rechtspraak.nl
+rechtvaardig.nl
 rechtwijzer.nl
 reconi-etoegang-acc.sso.eherkenning.nl
 reconi-etoegang-pp.sso.eherkenning.nl
@@ -17217,6 +17219,7 @@ www.realisatieibds.nl
 www.rechtenoverheid.nl
 www.rechtsbijstand.nl
 www.rechtspraak.nl
+www.rechtvaardig.nl
 www.rechtwijzer.nl
 www.redactie.aquo.nl
 www.redactie.onderzoeksraad.nl
