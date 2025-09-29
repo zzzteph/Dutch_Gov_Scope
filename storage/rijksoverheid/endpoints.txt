@@ -372,6 +372,7 @@ http://k8s-cw.acm.nl
 http://k8s.acm.nl
 http://kat.acc.irealisatie.nl
 http://kat.irealisatie.nl
+http://kat.rdosecurity.nl
 http://keiko.brba.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
@@ -426,11 +427,13 @@ http://meet.nba.nl
 http://meridian.rijkswaterstaat.nl
 http://merkportaal.dnb.nl
 http://metabase.cultuurparticipatie.nl
+http://metabase.rdosecurity.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
 http://metadata-enhancer.labs.dans.knaw.nl
 http://metrics.digitalenoordzee.nl
 http://metrokaart.pianoo.nl
+http://miauw.rdosecurity.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.leeroverzicht.nl
@@ -9993,6 +9996,7 @@ https://www.rcgog.nl
 https://www.rcihh.nl
 https://www.rda.nl
 https://www.rdi.nl
+https://www.rdosecurity.nl
 https://www.rechtsbijstand.nl
 https://www.rechtwijzer.nl
 https://www.redactie.aquo.nl

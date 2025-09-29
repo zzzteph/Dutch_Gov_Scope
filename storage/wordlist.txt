@@ -483,6 +483,8 @@ vt-mijn
 ediensten
 statistics
 jip
+kat.acc
+kat
 acc.intranet
 test.intranet
 externemail01
@@ -630,6 +632,7 @@ develop
 sparql
 rest
 inschrijven
+metabase
 regio
 www.app
 postergenerator
@@ -2595,8 +2598,6 @@ helpdesk.acc
 jaeger.proeftuin.gf
 jaeger.test.gf
 jaeger.test.zm
-kat.acc
-kat
 katpilot.acc
 kwalificatie-admin-api.proeftuin.gf
 kwalificatie-api.proeftuin.gf
@@ -7084,7 +7085,6 @@ ldap
 links
 mastodon
 mautic
-metabase
 patatjepinda
 portainer
 project
@@ -12048,3 +12048,5 @@ tdportal
 zittingsagenda
 czisxfrxky7ywyy
 www.jaarverslag
+metabase.acc
+miauw
