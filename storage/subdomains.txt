@@ -1173,6 +1173,7 @@ acc-dictu.eherkenning.nl
 acc-dictu.forumstandaardisatie.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
+acc-dictu.referentiegrootboekschema.nl
 acc-dictu.toegankelijkheidsverklaring.nl
 acc-digikoppeling-sign.dictu.nl
 acc-dvu.rvo.nl
@@ -12019,6 +12020,7 @@ prod-dictu.digitoegankelijk.nl
 prod-dictu.eherkenning.nl
 prod-dictu.forumstandaardisatie.nl
 prod-dictu.logius.nl
+prod-dictu.referentiegrootboekschema.nl
 prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
 prod-nl-dictu-dkb-sign.dictu.nl
@@ -12474,6 +12476,7 @@ referenceworks.brillonline.com.access.authkb.kb.nl
 referendum-backoffice.limburg.nl
 referendum.limburg.nl
 referentiegegevens.justid.nl
+referentiegrootboekschema.nl
 reftool-portal.consular.mfaservices.nl
 reg.kb.nl
 rega.kb.nl
@@ -14225,6 +14228,7 @@ test-dictu.eherkenning.nl
 test-dictu.forumstandaardisatie.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
+test-dictu.referentiegrootboekschema.nl
 test-dictu.toegankelijkheidsverklaring.nl
 test-diginetwerk.procesinfrastructuur.nl
 test-dol.stopheling.nl
@@ -17275,6 +17279,7 @@ www.recreatieschapvoorneputten.nl
 www.redactie.aquo.nl
 www.redactie.onderzoeksraad.nl
 www.redirect.isdatechtzo.nl
+www.referentiegrootboekschema.nl
 www.regelhulp.nl
 www.regiodata.kvk.nl
 www.regiosaandegrens.nl
