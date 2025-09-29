@@ -156,6 +156,7 @@ http://autodiscover.test.knaw.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
 http://autodiscover.webmail.politieacademie.nl
+http://autorisatie.rechtspraak.nl
 http://av1.nba.nl
 http://azfortigate.bkd.eu
 http://backend-groeimeter-o.cito.nl
@@ -292,6 +293,7 @@ http://embraceintranet.flevoland.nl
 http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
 http://english.rivmmagazines.nl
+http://euir.rechtspraak.nl
 http://europapoort.eerstekamer.nl
 http://examen-vo.cito.nl
 http://extern.knmi.nl
@@ -535,6 +537,7 @@ http://publicwebservices-dcr.cibg.nl
 http://pwa001.belastingdienst.nl
 http://qbes.cbs.nl
 http://qualification.test.zm.irealisatie.nl
+http://redirect.rechtspraak.nl
 http://ref.omgevingswet.overheid.nl
 http://registers.dnb.nl
 http://rekentoetsvo.cito.nl
@@ -595,6 +598,7 @@ http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
 http://staging.halt.nl
 http://staging.opwegnaarzes.nl
+http://static.rechtspraak.nl
 http://statistics.dnb.nl
 http://stats-acc.globalentry-rtp.nl
 http://stats.globalentry-rtp.nl
@@ -1334,6 +1338,7 @@ https://RDSapplications06.svb.nl
 https://RDSapplications07.svb.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
+https://Telewerken.rechtspraak.nl
 https://TvSimulator.rdw.nl
 https://_dc-mx.41dece63829c.partnersforwater.nl
 https://_dc-mx.dddce9f5a2d1.knooppuntjoure.nl
@@ -1998,6 +2003,7 @@ https://api-acc.rdi.nl
 https://api-dev.afm.nl
 https://api-dev.dementieinkaart.nl
 https://api-gateway.archis.cultureelerfgoed.nl
+https://api-gateway.rechtspraak.nl
 https://api-ota.belastingdienst.nl
 https://api-preprod1.digid.nl
 https://api-preprod2.digid.nl
@@ -2086,6 +2092,7 @@ https://api.preprod.mijn.overheid.nl
 https://api.pzp.nl
 https://api.rdi.nl
 https://api.rdw.nl
+https://api.rechtspraak.nl
 https://api.reis.idm.rvig.nl
 https://api.standaarden.overheid.nl
 https://api.test.kadaster.nl
@@ -2103,6 +2110,7 @@ https://apiportal.kadaster.nl
 https://apiportal.rdw.nl
 https://apiportal.test.kadaster.nl
 https://apis.developer.overheid.nl
+https://apis.rechtspraak.nl
 https://apitraffic-acc.dictu.nl
 https://apk-handboek-oe6eduhgwvm.rdw.nl
 https://apk-handboek.rdw.nl
@@ -2466,6 +2474,7 @@ https://beheer.locatieregister.zorgaanbiedersportaal.nl
 https://beheer.lrza.cibg.nl
 https://beheer.ncpeh.nl
 https://beheer.officielebekendmakingen.nl
+https://beheer.onlinezitting.rechtspraak.nl
 https://beheer.zorgaanbiedersportaal.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerders.logerenbijdeboswachter.nl
@@ -2870,6 +2879,8 @@ https://cbs.knaw.nl
 https://cbs.nationaalarchief.nl
 https://cbs.nl
 https://ccatp-centrecog.hub.arcgis.com
+https://ccbr.rechtspraak.nl
+https://ccbrservice.rechtspraak.nl
 https://ccc.acc.irealisatie.nl
 https://cceej-community-hub-climatecenter.hub.arcgis.com
 https://cciwebstats.belastingdienst.nl
@@ -2916,6 +2927,7 @@ https://cerberus.cbs.nl
 https://ceremonial-conveyances-austin.hub.arcgis.com
 https://cert.nl
 https://cert.pkioverheid.nl
+https://certauth.signin.rechtspraak.nl
 https://certificate.knaw.nl
 https://certificaten.knaw.nl
 https://certificaten.rdw.nl
@@ -3043,10 +3055,14 @@ https://cms.mensenrechten.nl
 https://cms.mycoa.nl
 https://cms.productenmeldwijzer.nl
 https://cms.projects.rvo.nl
+https://cms.rechtspraak.nl
 https://cms.rvo.nl
 https://cms.tlokb.nl
 https://cms.werkenbij.rvo.nl
+https://cms1.rechtspraak.nl
+https://cms2.rechtspraak.nl
 https://cms21.knaw.nl
+https://cms3.rechtspraak.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://cmsintranet.scp.nl
@@ -3372,6 +3388,7 @@ https://data.nwo.nl
 https://data.overheid.nl
 https://data.pbl.nl
 https://data.politie.nl
+https://data.rechtspraak.nl
 https://data.rvo.nl
 https://data.staging.ndw.nu
 https://data.zuid-holland.nl
@@ -3438,6 +3455,7 @@ https://decide-madrid.hub.arcgis.com
 https://declaree.knaw.nl
 https://deegsnccu.maps.arcgis.com
 https://deelnemer.ibki.nl
+https://deeplink.rechtspraak.nl
 https://defensie.nl
 https://definities.dmi-ecosysteem.nl
 https://degruyter.com.access.authkb.kb.nl
@@ -3540,6 +3558,7 @@ https://dev.protocol.mfaservices.nl
 https://dev.test.cloud.kadaster.nl
 https://devashishyadav20.github.io
 https://develop.dementieinkaart.nl
+https://developer.apis.rechtspraak.nl
 https://developer.arcgis.com
 https://developer.dataplatform.knmi.nl
 https://developer.integratieplatform.rdw.nl
@@ -3622,6 +3641,7 @@ https://dioxins-totalteq-cow.apps.feedfoodtransfer.nl
 https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl
 https://dioxins-totalteq-pig.apps.feedfoodtransfer.nl
 https://dioxins-wild-cattle.apps.feedfoodtransfer.nl
+https://dipi.rechtspraak.nl
 https://diplomatieke-getuigenissen.huygens.knaw.nl
 https://directduidelijk.gebruikercentraal.nl
 https://directory.huc.knaw.nl
@@ -3718,6 +3738,7 @@ https://dp2023.deltaprogramma.nl
 https://dp2024.deltaprogramma.nl
 https://dp2025.deltaprogramma.nl
 https://dp2026.deltaprogramma.nl
+https://dpc.rechtspraak.nl
 https://draaiboekpsie.nl
 https://draf-acpt.brabant.nl
 https://draf.brabant.nl
@@ -3820,6 +3841,7 @@ https://e-certnl-sch.nvwa.nl
 https://e-certnl.nvwa.nl
 https://e-depot.nationaalarchief.nl
 https://e-depot.ted.nationaalarchief.nl
+https://e-facturen.rechtspraak.nl
 https://e-learning.opwegnaarseb.nl
 https://e-learningbibob.acc.justis.nl
 https://e-learningbibob.justis.nl
@@ -3871,6 +3893,7 @@ https://ebs-o.knaw.nl
 https://ebs-t.knaw.nl
 https://ebs.knaw.nl
 https://ecartico.dev.huc.knaw.nl
+https://ecli.rechtspraak.nl
 https://ecoc-a.eucaris.net
 https://economicdiplomacy.rvo.nl
 https://ecpc.acceptatie.nipv.nl
@@ -4054,6 +4077,7 @@ https://enterpriseregistration.ictu.nl
 https://enterpriseregistration.nwo.nl
 https://enterpriseregistration.ofgv.nl
 https://enterpriseregistration.rdw.nl
+https://enterpriseregistration.rechtspraak.nl
 https://enterpriseregistration.svb.nl
 https://env1.arcgis.com
 https://enwinfo.nl
@@ -4109,6 +4133,7 @@ https://etalagetest.ifv.nl
 https://etc.test.cloud.kadaster.nl
 https://etender.dnb.nl
 https://etl.rijkswaterstaat.nl
+https://eu-eclidata.rechtspraak.nl
 https://eu-wetgevingsmonitor.realisatieibds.nl
 https://eu1-iot.arcgis.com
 https://eubtw.belastingdienst.nl
@@ -4214,6 +4239,7 @@ https://fed01.tst.toeslagen.nl
 https://feda.databank.nl
 https://federated-login-pp.dnb.nl
 https://federated-login.dnb.nl
+https://federatie.rechtspraak.nl
 https://federatieveservice.nl
 https://federator.orfeus-eu.org
 https://feedback.atkm.nl
@@ -4486,6 +4512,7 @@ https://forms.zuid-holland.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
 https://formulier.ptvt.nl
+https://formulier.rechtspraak.nl
 https://formulierdus-i.nl
 https://formulieren-acc.afm.nl
 https://formulieren-preprod.waterschaplimburg.nl
@@ -4500,6 +4527,7 @@ https://formulieren.lbio.nl
 https://formulieren.limburg.nl
 https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
+https://formulieren.rechtspraak.nl
 https://formulieren.svb.nl
 https://formulieren.uziregister.nl
 https://formulieren.waterschaplimburg.nl
@@ -4644,6 +4672,7 @@ https://geschiktheid-tst.cbr.nl
 https://geschiktheid.cbr.nl
 https://geschilleninstantieszorg.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
+https://gezagsregister.rechtspraak.nl
 https://gezondekinderopvang.nl
 https://gezondeleefomgeving.nl
 https://gezondeschool.nl
@@ -4827,6 +4856,7 @@ https://herseninstituut.knaw.nl
 https://herstel.toeslagen.nl
 https://hetcak.nl
 https://hetverhaalvan.flevoland.nl
+https://hgr.rechtspraak.nl
 https://hhdelfland.nl
 https://hierradiokootwijk.nl
 https://highcharts.cbs.nl
@@ -5065,6 +5095,7 @@ https://inschrijvent.kb.nl
 https://insights.mfaservices.nl
 https://insightsservices6.arcgis.com
 https://insightsservices9.arcgis.com
+https://insolventies.rechtspraak.nl
 https://inspecteur.ilent.nl
 https://inspectie-checklist.nl
 https://inspectie-jenv.nl
@@ -5246,6 +5277,7 @@ https://join.odijmond.nl
 https://jokesmitprijs.nl
 https://jong.belastingdienst.nl
 https://jonglereneten.nl
+https://journaalfamilierechtbanken.rechtspraak.nl
 https://journals.cambridge.org.access.authkb.kb.nl
 https://jouw.belastingdienst.nl
 https://jouw.gezondeschool.nl
@@ -5297,6 +5329,7 @@ https://kamervoordebinnenvisserij.nl
 https://kangaroo.acceptatie.pdok.nl
 https://kansrijkestartnl.nl
 https://kansspelautoriteit.nl
+https://kantonjournaal.rechtspraak.nl
 https://kantoor.hdsr.nl
 https://karin.ndw.nu
 https://katpilot.acc.irealisatie.nl
@@ -5693,6 +5726,7 @@ https://loket-preprod.hhdelfland.nl
 https://loket-preprod.raadvanstate.nl
 https://loket.hhdelfland.nl
 https://loket.raadvanstate.nl
+https://loket.rechtspraak.nl
 https://loket.rijkswaterstaat.nl
 https://loket.zorginzicht.nl
 https://loketduurzaameten.nl
@@ -5915,6 +5949,7 @@ https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
 https://md-i.espacenet.com
 https://md.espacenet.com
+https://md.rechtspraak.nl
 https://mda.nioo.knaw.nl
 https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
@@ -5924,6 +5959,7 @@ https://mdm.zwb.riec.nl
 https://mdu.rdw.nl
 https://meadhunt.maps.arcgis.com
 https://meander.aerius.nl
+https://mededeling.rechtspraak.nl
 https://medewerker-acc.cbr.nl
 https://medewerker-tst.cbr.nl
 https://medewerker.cbr.nl
@@ -5932,6 +5968,7 @@ https://media.amberalert.nl
 https://media.odmh.nl
 https://media.om.nl
 https://media.platformwow.nl
+https://media.rechtspraak.nl
 https://mediamasters.mijncyberrijbewijs.nl
 https://mediaportal.cbs.nl
 https://mediatheek.politieacademie.nl
@@ -5944,7 +5981,10 @@ https://meertens.knaw.nl
 https://meertenspanel.meertens.knaw.nl
 https://meet.coa.nl
 https://meet.lbio.nl
+https://meet.rechtspraak.nl
 https://meet.rijkscloud.nl
+https://meet.th.rechtspraak.nl
+https://meet.vc.rechtspraak.nl
 https://meeting.acm.nl
 https://meeting.nationaalarchief.nl
 https://melding-cmoa.cvdm.nl
@@ -6054,6 +6094,7 @@ https://mijn.productie.lcms.nl
 https://mijn.rdi.nl
 https://mijn.rdw.nl
 https://mijn.rechtenoverheid.nl
+https://mijn.rechtspraak.nl
 https://mijn.rvo.nl
 https://mijn.test.lcms.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
@@ -6085,6 +6126,7 @@ https://mijnresolutie-acc.azure.dnb.nl
 https://mijnresolutie-tst.azure.dnb.nl
 https://mijnresolutie.azure.dnb.nl
 https://mijnslachtofferzaak.nl
+https://mijnstrafdossiers.rechtspraak.nl
 https://mijnsubsidies-acc.limburg.nl
 https://mijnsubsidies.limburg.nl
 https://mijnsvb.svb.nl
@@ -6101,6 +6143,7 @@ https://mijnzaak-acc.hogeraad.nl
 https://mijnzaak-acc.raadvanstate.nl
 https://mijnzaak.hogeraad.nl
 https://mijnzaak.raadvanstate.nl
+https://mijnzaak.rechtspraak.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
 https://milieuzones.nl
@@ -6240,6 +6283,7 @@ https://nak.nl
 https://naktuinbouw.com
 https://naktuinbouw.nl
 https://nakvision.naktuinbouw.nl
+https://namenlijst.rechtspraak.nl
 https://nap-ev.ndw.nu
 https://napsg.maps.arcgis.com
 https://nas-adaptatietool.nl
@@ -6518,6 +6562,7 @@ https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
 https://onderhoud.rdw.nl
+https://onderhoud.rechtspraak.nl
 https://ondermijningapp.nl
 https://ondermijningsacademie.kennisplatformondermijning.nl
 https://ondernemersloket.acceptatie.niwo.nl
@@ -6559,6 +6604,7 @@ https://onewelcome.sso.eherkenning.nl
 https://online-maps-fontanaca.hub.arcgis.com
 https://online.rijksinnovatiecommunity.nl
 https://onlineform.culture.gov.nl
+https://onlinezitting.rechtspraak.nl
 https://ons.communicatierijk.nl
 https://onsgeldontcijferd.rekenkamer.nl
 https://onslevendlandschap.nl
@@ -7017,6 +7063,7 @@ https://pilot.uzi-online.minvws.nl
 https://pilot1.praatmeemetdeoverheid.nl
 https://pilot2.praatmeemetdeoverheid.nl
 https://pincodeaanvragen.rdw.nl
+https://pki.rechtspraak.nl
 https://pkio.service.acc.omgevingswet.overheid.nl
 https://pkio.service.bta.omgevingswet.overheid.nl
 https://pkio.service.dmo.omgevingswet.overheid.nl
@@ -7117,6 +7164,7 @@ https://portaal.ncpeh.nl
 https://portaal.nlarbeidsinspectie.nl
 https://portaal.onderzoekmetmensen.nl
 https://portaal.prolander.nl
+https://portaal.rechtspraak.nl
 https://portainer.cultuurparticipatie.nl
 https://portal-a.nak.nl
 https://portal-a.secure.cito.nl
@@ -7363,6 +7411,8 @@ https://pw.rvb.rijkscloud.nl
 https://pwa-api-test.raadvanstate.nl
 https://pwa-api.raadvanstate.nl
 https://pwdreset.onderzoeksraad.nl
+https://px-dmz-1.onlinezitting.rechtspraak.nl
+https://px-dmz-2.onlinezitting.rechtspraak.nl
 https://pywb.nationaalarchief.nl
 https://pywb.ted.nationaalarchief.nl
 https://pzh.databank.nl
@@ -7450,6 +7500,8 @@ https://rec.test.cloud.kadaster.nl
 https://recall.rdw.nl
 https://rechtenoverheid.nl
 https://rechtsbijstand.nl
+https://rechtspraak.nl
+https://rechtspraaklogin.rechtspraak.nl
 https://rechtwijzer.nl
 https://reconi-etoegang-acc.sso.eherkenning.nl
 https://reconi-etoegang-pp.sso.eherkenning.nl
@@ -7538,6 +7590,7 @@ https://remoteaccess3.eerstekamer.nl
 https://remotedesktop.svb.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
+https://rep100.rechtspraak.nl
 https://repertoriumhulthem.huygens.knaw.nl
 https://repo.allesoversport.nl
 https://repo.hansken.org
@@ -7625,6 +7678,8 @@ https://ro.zuid-holland.nl
 https://roadsfromrio.pbl.nl
 https://rob-2000.rijkscloud.nl
 https://rob2000.rijkscloud.nl
+https://roljournaalhandelgerechtshoven.rechtspraak.nl
+https://roljournaalhandelrechtbanken.rechtspraak.nl
 https://romanvanwalewein.huygens.knaw.nl
 https://rooswijk.huygens.knaw.nl
 https://rop.caop.nl
@@ -7855,12 +7910,14 @@ https://si.espacenet.com
 https://siam-acp.raadvanstate.nl
 https://siam.minszw.nl
 https://siam.raadvanstate.nl
+https://siam.rechtspraak.nl
 https://sib-eopg-acc.aivd.nl
 https://sib-eopg.aivd.nl
 https://siecc-ieecc-ieecc.hub.arcgis.com
 https://signicat-qa.sso.eherkenning.nl
 https://signicat-staging.sso.eherkenning.nl
 https://signicat.sso.eherkenning.nl
+https://signin.rechtspraak.nl
 https://signing.pre.brabant.nl
 https://sika0115.github.io
 https://simcms.ahn.nl
@@ -8071,6 +8128,7 @@ https://statistiek.digid.nl
 https://statistiek.dnb.nl
 https://statistiek.machtigen.digid.nl
 https://statistiek.mijn.overheid.nl
+https://statistiek.rechtspraak.nl
 https://statistiek.rijksoverheid.nl
 https://statistiek.rvo.nl
 https://statistieken.coa.nl
@@ -8137,6 +8195,7 @@ https://sts.koop.overheid.nl
 https://sts.nak.nl
 https://sts.parlement.nl
 https://sts.rdw.nl
+https://sts.rechtspraak.nl
 https://studentcoach.rijnmond.leerwerkloket.nl
 https://subdata-admin.rdw.nl
 https://subdata-authenticatie.rdw.nl
@@ -8218,6 +8277,7 @@ https://telewerken-pre.landelijkemeldkamer.org
 https://telewerken.gslb.landelijkemeldkamer.org
 https://telewerken.landelijkemeldkamer.org
 https://telewerken.politieacademie.nl
+https://telewerken.rechtspraak.nl
 https://tellerrapportcontroleren.rdw.nl
 https://tellerrapportuitgebreidaanvragen.rdw.nl
 https://tellerstand.rdw.nl
@@ -8430,6 +8490,7 @@ https://tmxweb.rijkswaterstaat.nl
 https://todo.nin.knaw.nl
 https://toegang-tst.cbr.nl
 https://toegang.cbr.nl
+https://toegang.rechtspraak.nl
 https://toegangderden.rijkswaterstaat.nl
 https://toegangscode.ciz.nl
 https://toegangspuntmobiliteit.nl
@@ -8453,11 +8514,16 @@ https://toets.dopingautoriteit.nl
 https://toetsingscommissievp.nl
 https://toetsportaal.cito.nl
 https://toezicht.dnb.nl
+https://toezicht.rechtspraak.nl
+https://toezichtcbm.rechtspraak.nl
 https://toezichtdocumenten.igj.nl
+https://toezichtinsverzoekschrift.rechtspraak.nl
+https://toezichtlkb.rechtspraak.nl
 https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://toezichtresultaten.nl
 https://toezichtresultaten.onderwijsinspectie.nl
 https://toezichtsociaaldomein.nl
+https://toezichtwsnp.rechtspraak.nl
 https://token-secure.pzp.nl
 https://token.pzp.nl
 https://tomcat.tiler01.huygens.knaw.nl
@@ -8591,6 +8657,7 @@ https://uitelkaarmetkinderen.nl
 https://uitgaven.cbs.nl
 https://uitgeverij.nipv.nl
 https://uitkomstgerichtezorg.nl
+https://uitspraken.rechtspraak.nl
 https://uitvoeringvanbeleidszw.nl
 https://uitwisseling.cbs.nl
 https://uk.chm-cbd.net
@@ -8700,6 +8767,7 @@ https://vernieuwingiv.kennisplatformondermijning.nl
 https://version-tracker.labs.dans.knaw.nl
 https://verslaggeving.afm.nl
 https://versterkencyberweerbaarheid.nl
+https://verstoringsmelder.rechtspraak.nl
 https://verstrekkingsvoorbehoud.rdw.nl
 https://vervangendkentekenbewijsaanvragen.rdw.nl
 https://verwer.nin.knaw.nl
@@ -8865,6 +8933,7 @@ https://watertoetsportaal-a.hhdelfland.nl
 https://watertoetsportaal.hhdelfland.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
 https://waterwebservices.rijkswaterstaat.nl
+https://watismijnip.rechtspraak.nl
 https://watson.cdho.nl
 https://waukeshacounty.maps.arcgis.com
 https://waves.databank.nl
@@ -8948,6 +9017,7 @@ https://webservice-acc.sbv-z.nl
 https://webservice-fab3.kbvg.nl
 https://webservice-kadaster.kbvg.nl
 https://webservice.ep-online.nl
+https://webservice.rechtspraak.nl
 https://webservice.sbv-z.nl
 https://webservices.bigregister.nl
 https://webservices.diergeneeskunderegister.nl
@@ -9123,6 +9193,7 @@ https://www-jstor-org.access.authkb.kb.nl
 https://www-oxfordmusiconline-com.access.authkb.kb.nl
 https://www-preprod.officielebekendmakingen.nl
 https://www-sandbox.werkenvoornederland.nl
+https://www-temp.rechtspraak.nl
 https://www-test.inhuurdeskpolitie.nl
 https://www.04348.github.io
 https://www.100aardgasvrijewijken.nl
@@ -10178,6 +10249,7 @@ https://www.rdw.nl
 https://www.realisatieibds.nl
 https://www.rechtenoverheid.nl
 https://www.rechtsbijstand.nl
+https://www.rechtspraak.nl
 https://www.rechtwijzer.nl
 https://www.redactie.aquo.nl
 https://www.redirect.isdatechtzo.nl
@@ -10384,6 +10456,7 @@ https://zeeland.lerenenwerken.nl
 https://zhailuxu.github.io
 https://ziektelast.vzinfo.nl
 https://zittingsagenda.raadvanstate.nl
+https://zittingsprikker.rechtspraak.nl
 https://zm.chm-cbd.net
 https://zml-a.cito.nl
 https://zml-t.cito.nl

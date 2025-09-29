@@ -741,6 +741,7 @@ Internetdienstenp.svb.nl
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 Lyncdiscover.lbio.nl
+Md2.rechtspraak.nl
 NL-DICTU-NHR-Sign.dictu.nl
 RDSapplications00.svb.nl
 RDSapplications01.svb.nl
@@ -753,6 +754,7 @@ RDSapplications07.svb.nl
 REXO.rdw.nl
 SFS-ACC.dictu.nl
 SFS.dictu.nl
+Telewerken.rechtspraak.nl
 TvSimulator.rdw.nl
 _autodiscover._tcp.aanbiedersmedicijnen.nl
 _autodiscover._tcp.adviescollegeveiligheidgroningen.nl
@@ -1766,6 +1768,8 @@ activesync-ota.parlement.nl
 activesync.hetcak.nl
 activesync.kadaster.nl
 activesync.parlement.nl
+activesync.rechtspraak.nl
+activesync2.rechtspraak.nl
 activitydashboard.arcgis.com
 actorenregister.acpt.nationaalarchief.nl
 actorenregister.nationaalarchief.nl
@@ -2143,6 +2147,7 @@ api-auth.ilent.nl
 api-dev.afm.nl
 api-dev.dementieinkaart.nl
 api-gateway.archis.cultureelerfgoed.nl
+api-gateway.rechtspraak.nl
 api-mockapp-dev.dnb.nl
 api-mockapp-test.dnb.nl
 api-o1.digid.nl
@@ -2273,6 +2278,7 @@ api.pzp.nl
 api.rapportage.rijkscloud.nl
 api.rdi.nl
 api.rdw.nl
+api.rechtspraak.nl
 api.reis.idm.rvig.nl
 api.rosetta-t.kb.nl
 api.services.acm.nl
@@ -2318,7 +2324,9 @@ apiportal.acceptatie.kadaster.nl
 apiportal.kadaster.nl
 apiportal.rdw.nl
 apiportal.test.kadaster.nl
+apis.acc.rechtspraak.nl
 apis.developer.overheid.nl
+apis.rechtspraak.nl
 apiservices99.kvk.nl
 apisimplex.cbs.nl
 apitest.rapportage.rijkscloud.nl
@@ -2425,6 +2433,8 @@ appstore.belastingdienst.nl
 appstore.kvk.nl
 appstore.p-direkt.nl
 apptest.hetcak.nl
+apptunnel.rechtspraak.nl
+apptunnel2.rechtspraak.nl
 appvarenflevoland.flevoland.nl
 aptikom-riau-smartcommunity.hub.arcgis.com
 aq.kb.nl
@@ -2727,6 +2737,7 @@ autodiscover.politieacademie.nl
 autodiscover.raadvanstate.nl
 autodiscover.rcgog.nl
 autodiscover.rdw.nl
+autodiscover.rechtspraak.nl
 autodiscover.rekenkamer.nl
 autodiscover.rijksdienstcn.com
 autodiscover.schoolleidersregisterpo.nl
@@ -2750,6 +2761,7 @@ autorisatie.cito.nl
 autorisatie.iam.acceptatie.kadaster.nl
 autorisatie.iam.kadaster.nl
 autorisatie.iam.test.kadaster.nl
+autorisatie.rechtspraak.nl
 autorisatieregister-acc.datastelselverduurzamingutiliteit.nl
 autorisatieregister.datastelselverduurzamingutiliteit.nl
 autoriteitnvs.nl
@@ -3036,6 +3048,7 @@ beheer.locatieregister.zorgaanbiedersportaal.nl
 beheer.lrza.cibg.nl
 beheer.ncpeh.nl
 beheer.officielebekendmakingen.nl
+beheer.onlinezitting.rechtspraak.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.procesinfrastructuur.nl
@@ -3700,6 +3713,8 @@ cc6.dnb.nl
 cc7.dnb.nl
 cc8.dnb.nl
 ccatp-centrecog.hub.arcgis.com
+ccbr.rechtspraak.nl
+ccbrservice.rechtspraak.nl
 ccc.acc.irealisatie.nl
 cceej-community-hub-climatecenter.hub.arcgis.com
 cciwebstats.belastingdienst.nl
@@ -3775,6 +3790,7 @@ cert.nl
 cert.pkioverheid.nl
 cert.test2gbav.belastingdienst.nl
 certauth.authenticatie2.rdw.nl
+certauth.signin.rechtspraak.nl
 certificate.knaw.nl
 certificaten.knaw.nl
 certificaten.rdw.nl
@@ -4014,19 +4030,23 @@ cms.o.extern.minszw.nl
 cms.platformrijksoverheid.nl
 cms.productenmeldwijzer.nl
 cms.projects.rvo.nl
+cms.rechtspraak.nl
 cms.rijksoverheid.nl
 cms.rvo.nl
 cms.tlokb.nl
 cms.werkenbij.rvo.nl
 cms1.defensie.nl
 cms1.platformrijksoverheid.nl
+cms1.rechtspraak.nl
 cms1.rijksoverheid.nl
 cms2.defensie.nl
 cms2.platformrijksoverheid.nl
+cms2.rechtspraak.nl
 cms2.rijksoverheid.nl
 cms21.knaw.nl
 cms21.platformrijksoverheid.nl
 cms22.platformrijksoverheid.nl
+cms3.rechtspraak.nl
 cms31.platformrijksoverheid.nl
 cms32.platformrijksoverheid.nl
 cms41.platformrijksoverheid.nl
@@ -4534,6 +4554,7 @@ data.nwo.nl
 data.overheid.nl
 data.pbl.nl
 data.politie.nl
+data.rechtspraak.nl
 data.rijkswaterstaat.nl
 data.rvo.nl
 data.staging.ndw.nu
@@ -4641,6 +4662,7 @@ declaree.knaw.nl
 decreg-acc.overheid.nl
 deegsnccu.maps.arcgis.com
 deelnemer.ibki.nl
+deeplink.rechtspraak.nl
 defensie.nl
 definities.dmi-ecosysteem.nl
 degruyter.com.access.authkb.kb.nl
@@ -4818,6 +4840,8 @@ develop31.dans.knaw.nl
 developer-portal-management.data-exchange.consular.mfaservices.nl
 developer-portal.data-exchange.consular.mfaservices.nl
 developer.acceptatie.kadaster.nl
+developer.apis.acc.rechtspraak.nl
+developer.apis.rechtspraak.nl
 developer.arcgis.com
 developer.dataplatform.knmi.nl
 developer.integratieplatform.rdw.nl
@@ -5008,6 +5032,7 @@ dioxins-totalteq-pig.apps.feedfoodtransfer.nl
 dioxins-wild-cattle.apps.feedfoodtransfer.nl
 dip.acm.nl
 dip.services.acm.nl
+dipi.rechtspraak.nl
 diplomatieke-getuigenissen.huygens.knaw.nl
 directchat.kvk.nl
 directduidelijk.gebruikercentraal.nl
@@ -5170,6 +5195,7 @@ dp2023.deltaprogramma.nl
 dp2024.deltaprogramma.nl
 dp2025.deltaprogramma.nl
 dp2026.deltaprogramma.nl
+dpc.rechtspraak.nl
 dpe.belastingdienst.nl
 dplockers.brabant.nl
 dr-prd-apk-handboek-aw8ldacdcqe.rdw.nl
@@ -5339,6 +5365,7 @@ e-depot.acpt.nationaalarchief.nl
 e-depot.nationaalarchief.nl
 e-depot.ted.nationaalarchief.nl
 e-depot.test.nationaalarchief.nl
+e-facturen.rechtspraak.nl
 e-learning.opwegnaarseb.nl
 e-learning.rvo.nl
 e-learningbibob.acc.justis.nl
@@ -5420,6 +5447,7 @@ ecc-int.erp.kadaster.nl
 ecc-ont.erp.kadaster.nl
 ecc.erp.kadaster.nl
 echo.bkwi.nl
+ecli.rechtspraak.nl
 eco-a-az1.elastic.lpc.logius.nl
 eco-a-az1.kibana.lpc.logius.nl
 eco-a-az2.elastic.lpc.logius.nl
@@ -5437,6 +5465,7 @@ ecu.maps.arcgis.com
 ecxs.knmi.nl
 edepot-wiki.huygens.knaw.nl
 edge.politieacademie.nl
+edge.rechtspraak.nl
 edge.webmail.politieacademie.nl
 edge01.kcc.kadaster.nl
 edge02.kcc.kadaster.nl
@@ -5693,6 +5722,7 @@ enterpriseregistration.nwo.nl
 enterpriseregistration.ofgv.nl
 enterpriseregistration.pc.belastingdienst.nl
 enterpriseregistration.rdw.nl
+enterpriseregistration.rechtspraak.nl
 enterpriseregistration.svb.nl
 entreepgb.svb.nl
 env1.arcgis.com
@@ -5790,6 +5820,7 @@ etoegang-mtls.belastingdienst.nl
 etoegang-ont.belastingdienst.nl
 etoegang-tst.belastingdienst.nl
 etoegang.nl
+eu-eclidata.rechtspraak.nl
 eu-wetgevingsmonitor.realisatieibds.nl
 eu1-iot.arcgis.com
 eu2016.cbs.nl
@@ -5802,6 +5833,7 @@ euc1-tiledbasemaps.arcgis.com
 eucaris.net
 eucaris.rdw.nl
 euem.dictu.nl
+euir.rechtspraak.nl
 eula.flevoland.nl
 eumet.knmi.nl
 eumetcal.eu
@@ -5998,6 +6030,7 @@ fed01.tst.toeslagen.nl
 feda.databank.nl
 federated-login-pp.dnb.nl
 federated-login.dnb.nl
+federatie.rechtspraak.nl
 federatieveservice.nl
 federation.brabant.nl
 federator.orfeus-eu.org
@@ -6328,6 +6361,7 @@ formulier-beheer.dus-i.nl
 formulier.cultureelerfgoed.nl
 formulier.emissieautoriteit.nl
 formulier.ptvt.nl
+formulier.rechtspraak.nl
 formulier.werkenvoornederland.nl
 formulierdus-i.nl
 formulieren-acc.afm.nl
@@ -6347,6 +6381,7 @@ formulieren.limburg.nl
 formulieren.nvwa.nl
 formulieren.odmh.nl
 formulieren.pre-prod.kadaster.nl
+formulieren.rechtspraak.nl
 formulieren.svb.nl
 formulieren.uziregister.nl
 formulieren.waterschaplimburg.nl
@@ -6370,6 +6405,8 @@ fr.espacenet.com
 fr.prod.chm-cbd.net
 francodevrije.huygens.knaw.nl
 friesland.databank.nl
+front1.rechtspraak.nl
+front2.rechtspraak.nl
 frontend-bao-services.dev-consular.mfaservices.nl
 frontend-bao-services.tst-consular.mfaservices.nl
 frontend-duo.rijkscloud.nl
@@ -6410,6 +6447,7 @@ ftp.koop.overheid.nl
 ftp.nationaalarchief.nl
 ftp.ofgv.nl
 ftp.oostvaarderskliniek.nl
+ftp.rechtspraak.nl
 ftp.schoolleidersregisterpo.nl
 ftp.vechtstromen.nl
 ftpadmin1.meldknop.nl
@@ -6663,6 +6701,7 @@ geschiktheid.cbr.nl
 geschilleninstantieszorg.nl
 gevallenen40-45.niod.knaw.nl
 gewasbeschermingsmiddelen.ctgb.nl
+gezagsregister.rechtspraak.nl
 gezondekinderopvang.nl
 gezondeleefomgeving.nl
 gezondeschool.nl
@@ -7050,6 +7089,7 @@ herstel.toeslagen.nl
 hetcak.nl
 hetverhaalvan.flevoland.nl
 hg.fa.knaw.nl
+hgr.rechtspraak.nl
 hhdelfland.nl
 hielprikapp.pns.nl
 hierradiokootwijk.nl
@@ -7436,6 +7476,7 @@ inschrijvent.kb.nl
 insights.mfaservices.nl
 insightsservices6.arcgis.com
 insightsservices9.arcgis.com
+insolventies.rechtspraak.nl
 inspecteur.ilent.nl
 inspectie-checklist.nl
 inspectie-jenv.nl
@@ -7733,10 +7774,12 @@ jmopendata.cbs.nl
 jo.chm-cbd.net
 jobs.werkenvoornederland.nl
 join.odijmond.nl
+join.rechtspraak.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
 jongerensite.belastingdienst.nl
 jonglereneten.nl
+journaalfamilierechtbanken.rechtspraak.nl
 journals.cambridge.org.access.authkb.kb.nl
 jouw.belastingdienst.nl
 jouw.gezondeschool.nl
@@ -7852,6 +7895,7 @@ kamervoordebinnenvisserij.nl
 kangaroo.acceptatie.pdok.nl
 kansrijkestartnl.nl
 kansspelautoriteit.nl
+kantonjournaal.rechtspraak.nl
 kantoor.hdsr.nl
 kantoor.letterenfonds.nl
 karin.ndw.nu
@@ -8127,6 +8171,7 @@ kc31.dans.knaw.nl
 kcb-p-dc002.kcb.nl
 kcb.nl
 kcbr.nl
+kcd.rechtspraak.nl
 kcwj.nl
 kdmz.belastingdienst.nl
 ke.chm-cbd.net
@@ -8715,6 +8760,7 @@ loket.hdsr.nl
 loket.hhdelfland.nl
 loket.om.nl
 loket.raadvanstate.nl
+loket.rechtspraak.nl
 loket.rijkswaterstaat.nl
 loket.zorginzicht.nl
 loketduurzaameten.nl
@@ -8993,6 +9039,7 @@ mail.parlement.nl
 mail.politieacademie.nl
 mail.rdw.nl
 mail.rechtenoverheid.nl
+mail.rechtspraak.nl
 mail.riec.nl
 mail.rijkscloud.nl
 mail.rijksdienstcn.com
@@ -9185,8 +9232,11 @@ mcsd-registratie-portaal.test.gf.irealisatie.nl
 mcsd-supplier.proeftuin.gf.irealisatie.nl
 mcsd-supplier.test.gf.irealisatie.nl
 mcsd.test.zm.irealisatie.nl
+mcu.rechtspraak.nl
 md-i.espacenet.com
 md.espacenet.com
+md.rechtspraak.nl
+md2.rechtspraak.nl
 mda.nioo.knaw.nl
 mdc-ras-01.politie.nl
 mdm-acc.ctgb.nl
@@ -9207,6 +9257,7 @@ mdu.rdw.nl
 meadhunt.maps.arcgis.com
 meander.aerius.nl
 med-srv20.rijksoverheid.nl
+mededeling.rechtspraak.nl
 medewerker-acc.cbr.nl
 medewerker-tst.cbr.nl
 medewerker.cbr.nl
@@ -9215,6 +9266,7 @@ media.amberalert.nl
 media.odmh.nl
 media.om.nl
 media.platformwow.nl
+media.rechtspraak.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
 mediatheek.politieacademie.nl
@@ -9236,8 +9288,11 @@ meet.lbio.nl
 meet.nba.nl
 meet.om.nl
 meet.prolander.nl
+meet.rechtspraak.nl
 meet.rijkscloud.nl
 meet.rijksrecherche.nl
+meet.th.rechtspraak.nl
+meet.vc.rechtspraak.nl
 meet.vechtstromen.nl
 meeting.acm.nl
 meeting.nationaalarchief.nl
@@ -9427,6 +9482,7 @@ mijn.pzp.nl
 mijn.rdi.nl
 mijn.rdw.nl
 mijn.rechtenoverheid.nl
+mijn.rechtspraak.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -9518,6 +9574,7 @@ mijnresolutie.azure.dnb.nl
 mijnrijkspas.nl
 mijnsite.nji.nl
 mijnslachtofferzaak.nl
+mijnstrafdossiers.rechtspraak.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 mijnsvb-a.svb.nl
@@ -9542,6 +9599,7 @@ mijnzaak-acc.raadvanstate.nl
 mijnzaak-test.raadvanstate.nl
 mijnzaak.hogeraad.nl
 mijnzaak.raadvanstate.nl
+mijnzaak.rechtspraak.nl
 mijnzakelijk-perf.acc.belastingdienst.nl
 mijnzakelijk.acc.belastingdienst.nl
 mijnzakelijk.belastingdienst.nl
@@ -9970,6 +10028,7 @@ nak.nl
 naktuinbouw.com
 naktuinbouw.nl
 nakvision.naktuinbouw.nl
+namenlijst.rechtspraak.nl
 nap-ev.ndw.nu
 napsg.maps.arcgis.com
 nas-adaptatietool.nl
@@ -10529,6 +10588,7 @@ onboarding.belastingdienst.nl
 onderhoud.cbs.nl
 onderhoud.ciz.nl
 onderhoud.rdw.nl
+onderhoud.rechtspraak.nl
 ondermijningapp.nl
 ondermijningsacademie.kennisplatformondermijning.nl
 ondernemersloket.acceptatie.niwo.nl
@@ -10574,6 +10634,7 @@ online-maps-fontanaca.hub.arcgis.com
 online.rijksinnovatiecommunity.nl
 onlineaangifte.str1.acc.belastingdienst.nl
 onlineform.culture.gov.nl
+onlinezitting.rechtspraak.nl
 ons.communicatierijk.nl
 onsgeldontcijferd-test.rekenkamer.nl
 onsgeldontcijferd.rekenkamer.nl
@@ -11095,6 +11156,7 @@ ovverklaringen.belastingdienst.nl
 owa.contactpuntbouwproducten.nl
 owa.minbzk.nl
 owa.politieacademie.nl
+owa01.rechtspraak.nl
 owas1.nba.nl
 oxfordartonline.com.access.authkb.kb.nl
 p-bbox-encr-tvs.rvo.nl
@@ -11488,6 +11550,7 @@ piwik2.examenblad.nl
 pki-g2.kvk.nl
 pki.dnb.nl
 pki.parlement.nl
+pki.rechtspraak.nl
 pkio.huurcommissie.nl
 pkio.intpatch.omgevingswet.overheid.nl
 pkio.service.acc.omgevingswet.overheid.nl
@@ -11645,6 +11708,7 @@ portaal.nlarbeidsinspectie.nl
 portaal.o.extern.minszw.nl
 portaal.onderzoekmetmensen.nl
 portaal.prolander.nl
+portaal.rechtspraak.nl
 portaal.tst.belastingdienst.nl
 portaal.wifi.belastingdienst.nl
 portaalsp.minienm.nl
@@ -12152,6 +12216,18 @@ pwa002.belastingdienst.nl
 pwdreset.onderzoeksraad.nl
 pwik.datawonen.nl
 pwreset.ictu.nl
+px-dmz-1.onlinezitting.rechtspraak.nl
+px-dmz-10.onlinezitting.rechtspraak.nl
+px-dmz-11.onlinezitting.rechtspraak.nl
+px-dmz-2.onlinezitting.rechtspraak.nl
+px-dmz-3.onlinezitting.rechtspraak.nl
+px-dmz-4.onlinezitting.rechtspraak.nl
+px-dmz-5.onlinezitting.rechtspraak.nl
+px-dmz-6.onlinezitting.rechtspraak.nl
+px-dmz-7.onlinezitting.rechtspraak.nl
+px-dmz-8.onlinezitting.rechtspraak.nl
+px-dmz-9.onlinezitting.rechtspraak.nl
+px-manager.onlinezitting.rechtspraak.nl
 pypostcode.dev-datafabriek.ienw.rijkscloud.nl
 pywb-warc-check.acpt.nationaalarchief.nl
 pywb.acpt.nationaalarchief.nl
@@ -12313,6 +12389,8 @@ rec.test.cloud.kadaster.nl
 recall.rdw.nl
 rechtenoverheid.nl
 rechtsbijstand.nl
+rechtspraak.nl
+rechtspraaklogin.rechtspraak.nl
 rechtwijzer.nl
 reconi-etoegang-acc.sso.eherkenning.nl
 reconi-etoegang-pp.sso.eherkenning.nl
@@ -12346,6 +12424,7 @@ redhat2.gn2.rijkscloud.nl
 redir.rdw.nl
 redirect.ictu.nl
 redirect.isdatechtzo.nl
+redirect.rechtspraak.nl
 redlands-anca.hub.arcgis.com
 redmine.knmi.nl
 ref.omgevingswet.overheid.nl
@@ -12459,6 +12538,7 @@ remotetest.hhdelfland.nl
 rental.buitenlevenvakanties.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
+rep100.rechtspraak.nl
 repertoriumhulthem.huygens.knaw.nl
 repo.allesoversport.nl
 repo.hansken.org
@@ -12488,6 +12568,7 @@ repository.wodc.nl
 reps.acceptatie.kadaster.nl
 reps.kadaster.nl
 reps.test.kadaster.nl
+reptoegang.rechtspraak.nl
 republic.huygens.knaw.nl
 research.cbs.nl
 research.kb.nl
@@ -12640,6 +12721,8 @@ roadsfromrio.pbl.nl
 rob-2000.rijkscloud.nl
 rob2000.rijkscloud.nl
 robxp.rapportage.rijkscloud.nl
+roljournaalhandelgerechtshoven.rechtspraak.nl
+roljournaalhandelrechtbanken.rechtspraak.nl
 romanvanwalewein.huygens.knaw.nl
 roomreservation.belastingdienst.nl
 rooswijk.huygens.knaw.nl
@@ -12921,6 +13004,7 @@ sbc-prd-b-tenant04.dwrt4.ssc-ict.nl
 sbc.ciz.nl
 sbc.raadvanstate.nl
 sbc01.mvs.kadaster.nl
+sbc01.rechtspraak.nl
 sbc02.mvs.kadaster.nl
 sbc1.dnb.nl
 sbc2.dnb.nl
@@ -13225,6 +13309,7 @@ siam.cjib.nl
 siam.duo.nl
 siam.minszw.nl
 siam.raadvanstate.nl
+siam.rechtspraak.nl
 siam.rvo.nl
 sib-eopg-acc.aivd.nl
 sib-eopg.aivd.nl
@@ -13237,6 +13322,7 @@ sign1.toeslagen.nl
 signicat-qa.sso.eherkenning.nl
 signicat-staging.sso.eherkenning.nl
 signicat.sso.eherkenning.nl
+signin.rechtspraak.nl
 signing-api-acc.ep-online.nl
 signing-auth-acc.dictu.nl
 signing-auth-prod.dictu.nl
@@ -13282,6 +13368,8 @@ sip.rvig.nl
 sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
+sip01.rechtspraak.nl
+sip02.rechtspraak.nl
 sip1.hetcak.nl
 sip1.nba.nl
 sip2.dnb.nl
@@ -13701,6 +13789,7 @@ static.ont.staging.werkenbij.rijkswaterstaat.nl
 static.pilot.mijn.overheid.nl
 static.platformrijksoverheidonline.nl
 static.preprod.mijn.overheid.nl
+static.rechtspraak.nl
 static.rijksoverheid.nl
 static.staging.rijkswaterstaat.nl
 static.staging.werkenbij.rijkswaterstaat.nl
@@ -13728,6 +13817,7 @@ statistiek.digid.nl
 statistiek.dnb.nl
 statistiek.machtigen.digid.nl
 statistiek.mijn.overheid.nl
+statistiek.rechtspraak.nl
 statistiek.rijksoverheid.nl
 statistiek.rvo.nl
 statistieka.dnb.nl
@@ -13823,6 +13913,7 @@ sts.koop.overheid.nl
 sts.nak.nl
 sts.parlement.nl
 sts.rdw.nl
+sts.rechtspraak.nl
 stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
 stturn1-tst.belastingdienst.nl
@@ -14039,6 +14130,7 @@ telewerken.nationaalarchief.nl
 telewerken.om.nl
 telewerken.onderzoeksraad.nl
 telewerken.politieacademie.nl
+telewerken.rechtspraak.nl
 tellerrapportcontroleren.rdw.nl
 tellerrapportuitgebreidaanvragen.rdw.nl
 tellerstand.rdw.nl
@@ -14421,6 +14513,7 @@ toegang-tst.cbr.nl
 toegang.beheer.kvk.nl
 toegang.cbr.nl
 toegang.kb.nl
+toegang.rechtspraak.nl
 toegangderden.rijkswaterstaat.nl
 toegangscode.ciz.nl
 toegangslaag-gn2.rvig.nl
@@ -14458,12 +14551,17 @@ toetsingonline.ccmo.nl
 toetsingscommissievp.nl
 toetsportaal.cito.nl
 toezicht.dnb.nl
+toezicht.rechtspraak.nl
+toezichtcbm.rechtspraak.nl
 toezichtdocumenten.igj.nl
+toezichtinsverzoekschrift.rechtspraak.nl
+toezichtlkb.rechtspraak.nl
 toezichtopzorgnetwerken.igj.nl
 toezichtresultaten.acc.onderwijsinspectie.nl
 toezichtresultaten.nl
 toezichtresultaten.onderwijsinspectie.nl
 toezichtsociaaldomein.nl
+toezichtwsnp.rechtspraak.nl
 token-secure.pzp.nl
 token.filmfonds.nl
 token.pzp.nl
@@ -14704,6 +14802,7 @@ uitelkaarmetkinderen.nl
 uitgaven.cbs.nl
 uitgeverij.nipv.nl
 uitkomstgerichtezorg.nl
+uitspraken.rechtspraak.nl
 uitvoeringvanbeleidszw.nl
 uitwijk.cokz.nl
 uitwisseling.cbs.nl
@@ -14858,6 +14957,9 @@ vclgwqa01-ext.kdmz.belastingdienst.nl
 vclgwqa01-int.kdmz.belastingdienst.nl
 vcsc.dictu.nl
 vcsew.belastingdienst.nl
+vcsew.rechtspraak.nl
+vcsew2.rechtspraak.nl
+vcsewcluster.rechtspraak.nl
 vctcmscpa01a.mcs.voo.belastingdienst.nl
 vctcmscqa01a.mcs.voo.belastingdienst.nl
 vctcmsiqa01a.mcs.voo.belastingdienst.nl
@@ -14939,6 +15041,7 @@ version-tracker.labs.dans.knaw.nl
 verslaggeving.afm.nl
 versterkencyberweerbaarheid.nl
 versterkingpolitieprofessie.politieacademie.nl
+verstoringsmelder.rechtspraak.nl
 verstrekkingsvoorbehoud.rdw.nl
 vervangendkentekenbewijsaanvragen.rdw.nl
 verwer.nin.knaw.nl
@@ -15263,6 +15366,7 @@ watertoetsportaal-a.hhdelfland.nl
 watertoetsportaal.hhdelfland.nl
 waterwebservices.beta.rijkswaterstaat.nl
 waterwebservices.rijkswaterstaat.nl
+watismijnip.rechtspraak.nl
 watson.cdho.nl
 wauke.werkaanuitvoering.nl
 waukeshacounty.maps.arcgis.com
@@ -15347,6 +15451,8 @@ webchat.klopt.cibg.nl
 webcon1.minbzk.nl
 webconf.lbio.nl
 webconf.nwo.nl
+webconf01.rechtspraak.nl
+webconf02.rechtspraak.nl
 webconf2.vechtstromen.nl
 webdiensten-acc1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
@@ -15376,6 +15482,8 @@ webdisk.nladag.nl
 webdisk.orangecorners.com
 webdisk.seb.ibki.nl
 webelan.kadaster.nl
+webext01.rechtspraak.nl
+webext02.rechtspraak.nl
 webfilter.hetcak.nl
 webform.rvo.nl
 webforms.acc.belastingdienst.nl
@@ -15469,6 +15577,7 @@ webservice.acc.ep-online.nl
 webservice.duo.nl
 webservice.energiebesparingsverkenner.rvo.nl
 webservice.ep-online.nl
+webservice.rechtspraak.nl
 webservice.sbv-z.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
@@ -15876,6 +15985,7 @@ www-preprod.officielebekendmakingen.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-staging.ciz.nl
+www-temp.rechtspraak.nl
 www-test-apoyo.ciz.nl
 www-test.brabant.nl
 www-test.cbs.nl
@@ -17106,6 +17216,7 @@ www.rdw.seb.ibki.nl
 www.realisatieibds.nl
 www.rechtenoverheid.nl
 www.rechtsbijstand.nl
+www.rechtspraak.nl
 www.rechtwijzer.nl
 www.redactie.aquo.nl
 www.redactie.onderzoeksraad.nl
@@ -17425,6 +17536,7 @@ zhailuxu.github.io
 ziektelast.vzinfo.nl
 ziem.cokz.nl
 zittingsagenda.raadvanstate.nl
+zittingsprikker.rechtspraak.nl
 zm.chm-cbd.net
 zml-a.cito.nl
 zml-t.cito.nl
