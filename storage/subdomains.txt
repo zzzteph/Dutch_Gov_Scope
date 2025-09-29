@@ -1655,6 +1655,7 @@ access.huc.knaw.nl
 access.lvnl.nl
 access.nba.nl
 access.om.nl
+access.regioburgemeesters.nl
 access.rijksrecherche.nl
 access1.minbzk.nl
 accessibleayr-swecouk.hub.arcgis.com
@@ -4171,6 +4172,7 @@ componenten.overheid.nl
 condor.coa.nl
 conf.cbg-meb.nl
 conf.om.nl
+conf.regioburgemeesters.nl
 conf.rijksrecherche.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
@@ -4926,6 +4928,7 @@ dialin.lbio.nl
 dialin.nba.nl
 dialin.om.nl
 dialin.prolander.nl
+dialin.regioburgemeesters.nl
 dialin.rijksrecherche.nl
 dialin2.vechtstromen.nl
 diane-a.extern.minszw.nl
@@ -8875,6 +8878,7 @@ lyncdiscover.coa.nl
 lyncdiscover.justid.nl
 lyncdiscover.lbio.nl
 lyncdiscover.om.nl
+lyncdiscover.regioburgemeesters.nl
 lyncdiscover.rijksrecherche.nl
 lyncmeet.dictu.nl
 lyncwebapps.dictu.nl
@@ -9321,6 +9325,7 @@ meet.nba.nl
 meet.om.nl
 meet.prolander.nl
 meet.rechtspraak.nl
+meet.regioburgemeesters.nl
 meet.rijkscloud.nl
 meet.rijksrecherche.nl
 meet.th.rechtspraak.nl
@@ -12497,6 +12502,7 @@ regio.leerwerkloket.nl
 regioav.leerwerkloket.nl
 regiobeeld.nl
 regiobeelden.dejuistezorgopdejuisteplek.nl
+regioburgemeesters.nl
 regiodata.kvk.nl
 region-dalarna.github.io
 regiosaandegrens.nl
@@ -13415,6 +13421,7 @@ sip.myroom.minvws.nl
 sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl
+sip.regioburgemeesters.nl
 sip.rijksrecherche.nl
 sip.rvig.nl
 sip.vico.dji.nl
@@ -17285,6 +17292,7 @@ www.referentiegrootboekschema.nl
 www.regeldrukmonitor.nl
 www.regelhulp.nl
 www.regiobeeld.nl
+www.regioburgemeesters.nl
 www.regiodata.kvk.nl
 www.regiosaandegrens.nl
 www.regulatoryscience.nl

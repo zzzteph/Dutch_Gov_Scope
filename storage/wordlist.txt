@@ -35,17 +35,17 @@ smtp
 portaal
 portal
 app
+sip
 _dmarc
 e
 dev
-sip
 beheer
+meet
 connect
 kennisbank
 remote
 zoeken
 hybrid
-meet
 www.acceptatie
 apps
 tst
@@ -55,13 +55,13 @@ ftp
 a-feeds.a-english
 a-opendata.a-english
 publicaties
+dialin
 cdn
 adfs
 enterpriseregistration
 webservices
 open
 docs
-dialin
 sts
 elearning
 digikoppeling
@@ -102,6 +102,7 @@ zaaksysteem
 mobile
 chat
 stats
+lyncdiscover
 webdisk
 maps
 papiamentu
@@ -121,7 +122,6 @@ www-p2
 www-tst2
 forms
 sdm
-lyncdiscover
 acc-dictu
 prod-dictu
 test-dictu
@@ -164,6 +164,7 @@ geoweb
 nieuwsbrieven
 mx2
 media
+access
 statistiek
 www.staging
 admin
@@ -191,6 +192,7 @@ nieuws
 ondertekenen
 www-test
 acc2
+conf
 crm
 ebms
 onderhoud
@@ -221,7 +223,6 @@ intern
 new
 iam
 transfer
-access
 developer
 magazinesintern
 monitor
@@ -263,7 +264,6 @@ samenwerken
 wachtwoord
 doc
 av
-conf
 accounts
 cbs
 micollab
