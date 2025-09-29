@@ -33,11 +33,11 @@ link
 login
 smtp
 portaal
+app
 portal
 _dmarc
 e
 dev
-app
 sip
 connect
 remote
@@ -55,6 +55,8 @@ a-opendata.a-english
 publicaties
 cdn
 ftp
+adfs
+jaarverslag
 webservices
 open
 docs
@@ -63,9 +65,8 @@ elearning
 digikoppeling
 oud
 www.acc
-adfs
-jaarverslag
 cpanel
+mail2
 services
 mdm
 geoservices
@@ -83,7 +84,6 @@ www2
 inloggen
 git
 preview
-mail2
 www.test
 enterpriseregistration
 old
@@ -93,9 +93,11 @@ dwo
 geo
 www-ow
 www-ts
+loket
 zaaksysteem
 telewerken
 chat
+stats
 mx1
 webdisk
 maps
@@ -116,10 +118,9 @@ www-acc2
 www-dev2
 www-p2
 www-tst2
-loket
 forms
+mobile
 sdm
-stats
 lyncdiscover
 aanvragen
 events
@@ -133,6 +134,7 @@ atlas
 geoportaal
 id
 kaarten
+wifi
 helpdesk
 academy
 designsystem
@@ -141,11 +143,11 @@ survey
 mam
 sf
 api-acc
+mobiel
 acc.mijn
 sandbox
 www-a
 zaaksysteem-acc
-mobile
 m
 synergy
 dashboard
@@ -157,6 +159,7 @@ nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
+siam
 admin
 magazine
 nieuw
@@ -180,7 +183,6 @@ dataportaal
 email
 nieuws
 ondertekenen
-wifi
 www-test
 acc2
 crm
@@ -194,7 +196,6 @@ formulier
 jira
 servicedesk
 connect-acpt
-mobiel
 www.mijn
 nieuwsbrief
 legacy
@@ -219,7 +220,6 @@ monitor
 statistiek
 www.staging
 idm
-siam
 support
 elo
 securemail
@@ -355,6 +355,7 @@ activesync
 community
 rijnmond
 werkbezoek
+radius
 helloid
 oa
 chw
@@ -475,6 +476,7 @@ AutoDiscover
 digikoppeling-test
 kantoor
 inloggen-preprod
+loket-preprod
 workspace
 zaaksysteem-accept
 vt-mijn
@@ -574,6 +576,7 @@ ra
 ro
 api-a
 bijna
+mail3
 meeting
 mr
 vsp
@@ -618,6 +621,7 @@ adfs2
 portal-a
 thuiswerken
 tst-www
+sbc
 pay
 snippet
 acc.www
@@ -648,6 +652,8 @@ www.cms
 downloads
 guestportal
 sip1
+mijnzaak-acc
+mijnzaak
 sync
 redirect
 timetell
@@ -709,7 +715,6 @@ sp-prd.topdesk
 acpt
 ocs
 post
-radius
 crl
 oid
 geoportal
@@ -2418,7 +2423,6 @@ geoviewerhhd
 geoviewhhd
 grondwaterportaal-a
 grondwaterportaal
-loket-preprod
 mysitestest
 rand
 remotetest
@@ -5542,7 +5546,6 @@ ise
 k8s-cw
 k8s
 mail.services
-mail3
 markt-overheid
 meeting.services
 mkb
@@ -6961,7 +6964,6 @@ ktv-servicedesk
 lerenbij
 mijnwlzaanvraag
 onderzoeksapp
-sbc
 toegangscode
 veiligbestandenversturen
 www-staging
@@ -8703,8 +8705,6 @@ zaaksysteem-tst
 cexwe1
 cexwe2
 icg
-mijnzaak-acc
-mijnzaak
 postbus-acc
 postbus
 repos
@@ -12022,3 +12022,27 @@ test.app
 test.mijn
 token-secure
 www.pzpdirect
+adfs-acc
+analytics-radius
+app-test
+loket-inloggen-preprod
+loket-inloggen
+mijnzaak-test
+pwa-api-test
+pwa-api
+raadsaam-a
+raadsaam-t
+raadsaam
+radius-acc
+rvsapi-kiwi-a
+rvsapi-kiwi
+rvsapi
+rvsapiacc
+rvsapidev
+rvsapitst
+scim.raadsaam-a
+scim.raadsaam-t
+scim.raadsaam
+siam-acp
+tdportal
+zittingsagenda
