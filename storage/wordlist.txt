@@ -50,13 +50,13 @@ tst
 a-english
 meet
 kennisbank
+jaarverslag
 a-feeds.a-english
 a-opendata.a-english
 publicaties
 cdn
 ftp
 adfs
-jaarverslag
 webservices
 open
 docs
@@ -303,6 +303,7 @@ desktop
 kaart
 test-cmsintranet
 test-intranet
+veiligmailen
 portal2
 odc
 bibliotheek
@@ -468,7 +469,6 @@ exchange
 ftps
 intranet-acc
 preprodformulieren
-veiligmailen
 co
 coronadashboard
 sdg
@@ -533,6 +533,7 @@ magazines.english
 cms21
 digitaal
 forum
+bastion365
 fileshare
 hybridmail
 sslvpn
@@ -3928,7 +3929,6 @@ radar
 slimmestad
 uploadmodule-acc
 uploadmodule
-bastion365
 kart
 coronarekening
 mailfilter01
@@ -12047,3 +12047,4 @@ siam-acp
 tdportal
 zittingsagenda
 czisxfrxky7ywyy
+www.jaarverslag
