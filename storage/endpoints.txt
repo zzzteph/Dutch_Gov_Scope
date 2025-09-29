@@ -1411,11 +1411,13 @@ https://abortionfacilitydatabase-ucsf.hub.arcgis.com
 https://about.jstor.org.access.authkb.kb.nl
 https://academic-registry.hansken.org
 https://academic.container.hansken.org
+https://academie-test.reclassering.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
 https://academie.ind.nl
 https://academie.nifp.nl
 https://academie.rechtenoverheid.nl
+https://academie.reclassering.nl
 https://academievoorinternationalebetrekkingen.nl
 https://academy.cbs.nl
 https://academy.cito.nl
@@ -3614,6 +3616,7 @@ https://digikoppeling.bkd.eu
 https://digikoppeling.waterschaplimburg.nl
 https://digilab.overheid.nl
 https://digiles.geldlessen.nl
+https://digiplein.reclassering.nl
 https://digitaal.raadopenbaarbestuur.nl
 https://digitaal.scp.nl
 https://digitaalaanvrageninschrijving.rdw.nl
@@ -4096,6 +4099,7 @@ https://erelijst.nl
 https://erfgoed.databank.nl
 https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
+https://erica.reclassering.nl
 https://erkendbedrijfaanmelden.rdw.nl
 https://erkenningaanvragen.rdw.nl
 https://erkenningbeeindigen.rdw.nl
@@ -4242,6 +4246,8 @@ https://federated-login-pp.dnb.nl
 https://federated-login.dnb.nl
 https://federatie.rechtspraak.nl
 https://federatieveservice.nl
+https://federation-test.reclassering.nl
+https://federation.reclassering.nl
 https://federator.orfeus-eu.org
 https://feedback.atkm.nl
 https://feedfoodtransfer.nl
@@ -4668,6 +4674,7 @@ https://geoweb.vechtstromen.nl
 https://geraardsbergen.huygens.knaw.nl
 https://german.investinholland.com
 https://gerritsen.chadwyck.com.access.authkb.kb.nl
+https://geschiedenis.reclassering.nl
 https://geschiktheid-acc.cbr.nl
 https://geschiktheid-tst.cbr.nl
 https://geschiktheid.cbr.nl
@@ -5371,6 +5378,7 @@ https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisbank.politieacademie.nl
 https://kennisbank.rdw.nl
+https://kennisbank.reclassering.nl
 https://kennisbank.svb.nl
 https://kennisbank.vrachtwagenheffing.nl
 https://kennisbanksvn.politieacademie.nl
@@ -5588,6 +5596,7 @@ https://letmemap-ptbocounty.hub.arcgis.com
 https://letterenfonds.nl
 https://lev.pleio.nl
 https://levenmetwater.nl
+https://leveranciersportaal.reclassering.nl
 https://leveranciersvdi.svb.nl
 https://lexces.nl
 https://lfucg.maps.arcgis.com
@@ -6126,6 +6135,7 @@ https://mijnrdtmnl.ndw.nu
 https://mijnresolutie-acc.azure.dnb.nl
 https://mijnresolutie-tst.azure.dnb.nl
 https://mijnresolutie.azure.dnb.nl
+https://mijnrn.reclassering.nl
 https://mijnslachtofferzaak.nl
 https://mijnstrafdossiers.rechtspraak.nl
 https://mijnsubsidies-acc.limburg.nl
@@ -6602,7 +6612,10 @@ https://one-conference.nl
 https://onehealth.nl
 https://onewelcome-staging.sso.eherkenning.nl
 https://onewelcome.sso.eherkenning.nl
+https://online-acceptatie.reclassering.nl
 https://online-maps-fontanaca.hub.arcgis.com
+https://online-testclient.reclassering.nl
+https://online.reclassering.nl
 https://online.rijksinnovatiecommunity.nl
 https://onlineform.culture.gov.nl
 https://onlinezitting.rechtspraak.nl
@@ -7189,6 +7202,7 @@ https://portal.lvb.cloud.kadaster.nl
 https://portal.lvb.kadaster.nl
 https://portal.lvb.test.kadaster.nl
 https://portal.nak.nl
+https://portal.reclassering.nl
 https://portal.rijksdienstcn.com
 https://portal.workspace.kadaster.nl
 https://portal118.rijkscloud.nl
@@ -7506,6 +7520,7 @@ https://rechtspraaklogin.rechtspraak.nl
 https://rechtvaardig.nl
 https://rechtvoorjou.nl
 https://rechtwijzer.nl
+https://reclassering.nl
 https://reconi-etoegang-acc.sso.eherkenning.nl
 https://reconi-etoegang-pp.sso.eherkenning.nl
 https://reconi-etoegang.sso.eherkenning.nl
@@ -7611,6 +7626,7 @@ https://repository.wodc.nl
 https://research.cbs.nl
 https://researcher.postcovidonderzoek.nl
 https://reserveren.deafsluitdijk.nl
+https://reset.reclassering.nl
 https://resolver.int.omgevingswet.overheid.nl
 https://resolver.kta.omgevingswet.overheid.nl
 https://resolver.labs.dans.knaw.nl
@@ -9071,6 +9087,7 @@ https://werkenbij.naktuinbouw.nl
 https://werkenbij.nba.nl
 https://werkenbij.nipv.nl
 https://werkenbij.nvao.net
+https://werkenbij.reclassering.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
@@ -10256,6 +10273,7 @@ https://www.rechtspraak.nl
 https://www.rechtvaardig.nl
 https://www.rechtvoorjou.nl
 https://www.rechtwijzer.nl
+https://www.reclassering.nl
 https://www.redactie.aquo.nl
 https://www.redirect.isdatechtzo.nl
 https://www.regelhulp.nl

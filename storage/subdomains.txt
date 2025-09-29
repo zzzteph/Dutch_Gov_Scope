@@ -1130,11 +1130,13 @@ abr.belastingdienst.nl
 ac.sa.svb.nl
 academic-registry.hansken.org
 academic.container.hansken.org
+academie-test.reclassering.nl
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
 academie.ind.nl
 academie.nifp.nl
 academie.rechtenoverheid.nl
+academie.reclassering.nl
 academievoorinternationalebetrekkingen.nl
 academy.cbs.nl
 academy.cito.nl
@@ -2387,6 +2389,7 @@ app112-o.politie.nl
 app112-p.politie.nl
 app112-t.politie.nl
 app2.rdw.nl
+appconnect.reclassering.nl
 appcontent.belastingdienst.nl
 appdata.kvk.nl
 appl.rdi.nl
@@ -2636,6 +2639,7 @@ authorization.test.kadaster.nl
 authpms-acc.dictu.nl
 authpms.dictu.nl
 auto-ako.bureau.knaw.nl
+autodiscover.3ro.reclassering.nl
 autodiscover.aaenmaas.nl
 autodiscover.acm.nl
 autodiscover.actal.nl
@@ -2738,6 +2742,7 @@ autodiscover.raadvanstate.nl
 autodiscover.rcgog.nl
 autodiscover.rdw.nl
 autodiscover.rechtspraak.nl
+autodiscover.reclassering.nl
 autodiscover.rekenkamer.nl
 autodiscover.rijksdienstcn.com
 autodiscover.schoolleidersregisterpo.nl
@@ -4992,6 +4997,7 @@ digilegger.kadaster.nl
 digiles.geldlessen.nl
 diginetwerk.procesinfrastructuur.nl
 digip.vechtstromen.nl
+digiplein.reclassering.nl
 digipoort-vpn1.belastingdienst.nl
 digipoort-vpn2.belastingdienst.nl
 digipoort-wus-acc1.belastingdienst.nl
@@ -5437,6 +5443,7 @@ ebs-c.knaw.nl
 ebs-o.knaw.nl
 ebs-t.knaw.nl
 ebs.knaw.nl
+ec-3ro.reclassering.nl
 ec.espacenet.com
 ecaccess-bologna.knmi.nl
 ecaccess.knmi.nl
@@ -5595,6 +5602,8 @@ elotest.ifv.nl
 elotest.nipv.nl
 elpasoco.maps.arcgis.com
 elvyweb.onderzoeksraad.nl
+em-3ro.intern.reclassering.nl
+em-3ro.reclassering.nl
 em.oxfordjournals.org.access.authkb.kb.nl
 emachtigen-beheer.procesinfrastructuur.nl
 emachtigen-dashboard.procesinfrastructuur.nl
@@ -5756,6 +5765,9 @@ erelijst.nl
 erfgoed.databank.nl
 erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
+erica-uw.reclassering.nl
+erica.reclassering.nl
+erica2ro.reclassering.nl
 erkendbedrijfaanmelden.rdw.nl
 erkenningaanvragen.rdw.nl
 erkenningbeeindigen.rdw.nl
@@ -5890,8 +5902,11 @@ examenplein.cvte.nl
 examinator.ibki.nl
 examinatoragenda.cbr.nl
 excellentescholen.nl
+exchange-uw.intern.reclassering.nl
 exchange.acm.nl
 exchange.flevoland.nl
+exchange.intern.reclassering.nl
+exchange.reclassering.nl
 exchange.services.acm.nl
 exchangehcw.knaw.nl
 exchangemrs1.politie.nl
@@ -6033,7 +6048,9 @@ federated-login-pp.dnb.nl
 federated-login.dnb.nl
 federatie.rechtspraak.nl
 federatieveservice.nl
+federation-test.reclassering.nl
 federation.brabant.nl
+federation.reclassering.nl
 federator.orfeus-eu.org
 feedback.atkm.nl
 feedfoodtransfer.nl
@@ -6696,6 +6713,7 @@ geraardsbergen.huygens.knaw.nl
 german.dev.investinholland.com
 german.investinholland.com
 gerritsen.chadwyck.com.access.authkb.kb.nl
+geschiedenis.reclassering.nl
 geschiktheid-acc.cbr.nl
 geschiktheid-tst.cbr.nl
 geschiktheid.cbr.nl
@@ -7009,6 +7027,7 @@ gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
 gw.cea.nl
 gw.defensie.nl
+gw.intern.reclassering.nl
 gw.rijksoverheid.nl
 gw1.kvk.nl
 gwc.knmi.nl
@@ -7528,6 +7547,7 @@ intermediairdagen.belastingdienst.nl
 intern.afm.nl
 intern.catalogus.cultureelerfgoed.nl
 intern.magazinesrijkswaterstaat.nl
+intern.reclassering.nl
 intern.ssc-ictspecials.nl
 internal-docs.ndw.nu
 internal.bidbook.eu
@@ -7637,6 +7657,11 @@ ipw4.alterra.nl
 iq.chm-cbd.net
 irc.crimediggers.nl
 irealisatie.nl
+iris-g4.intern.reclassering.nl
+iris-inkijk.intern.reclassering.nl
+iris-oefen.intern.reclassering.nl
+iris-uw.intern.reclassering.nl
+iris.intern.reclassering.nl
 iris.knmi.nl
 irmpol-acc.dictu.nl
 irmpol.dictu.nl
@@ -7712,6 +7737,7 @@ jaarverslag.nak.nl
 jaarverslag.nationaleombudsman.nl
 jaarverslag.raadvanstate.nl
 jaarverslag.raadvoorrechtsbijstand.org
+jaarverslag.reclassering.nl
 jaarverslag2011.forensischinstituut.nl
 jaarverslag2014.platformwow.nl
 jaarverslag2017.flevoland.nl
@@ -8207,6 +8233,7 @@ kennisbank.kiesraad.nl
 kennisbank.logius.nl
 kennisbank.politieacademie.nl
 kennisbank.rdw.nl
+kennisbank.reclassering.nl
 kennisbank.rvo.nl
 kennisbank.svb.nl
 kennisbank.vrachtwagenheffing.nl
@@ -8356,6 +8383,7 @@ koers-opleiding.brk.kadaster.nl
 koers-schepen.brk.acceptatie.kadaster.nl
 koers.brk.acceptatie.kadaster.nl
 koers.brk.kadaster.nl
+kofax.intern.reclassering.nl
 kolonialecollecties.nl
 kombijde.acceptatie.politie.nl
 kombijde.politie.nl
@@ -8552,6 +8580,7 @@ letmemap-ptbocounty.hub.arcgis.com
 letterenfonds.nl
 lev.pleio.nl
 levenmetwater.nl
+leveranciersportaal.reclassering.nl
 leveranciersvdi.svb.nl
 lexces.nl
 lfucg.maps.arcgis.com
@@ -9041,6 +9070,7 @@ mail.politieacademie.nl
 mail.rdw.nl
 mail.rechtenoverheid.nl
 mail.rechtspraak.nl
+mail.reclassering.nl
 mail.riec.nl
 mail.rijkscloud.nl
 mail.rijksdienstcn.com
@@ -9573,6 +9603,7 @@ mijnresolutie-acc.azure.dnb.nl
 mijnresolutie-tst.azure.dnb.nl
 mijnresolutie.azure.dnb.nl
 mijnrijkspas.nl
+mijnrn.reclassering.nl
 mijnsite.nji.nl
 mijnslachtofferzaak.nl
 mijnstrafdossiers.rechtspraak.nl
@@ -9740,6 +9771,7 @@ mobile.hhdelfland.nl
 mobile.lvnl.nl
 mobile.pbl.nl
 mobile.raadvanstate.nl
+mobile.reclassering.nl
 mobile.rijksdienstcn.com
 mobilesync.knmi.nl
 mobiliteitsbank.nl
@@ -10631,7 +10663,10 @@ onedrive.ictu.nl
 onehealth.nl
 onewelcome-staging.sso.eherkenning.nl
 onewelcome.sso.eherkenning.nl
+online-acceptatie.reclassering.nl
 online-maps-fontanaca.hub.arcgis.com
+online-testclient.reclassering.nl
+online.reclassering.nl
 online.rijksinnovatiecommunity.nl
 onlineaangifte.str1.acc.belastingdienst.nl
 onlineform.culture.gov.nl
@@ -11753,6 +11788,7 @@ portal.lvb.test.kadaster.nl
 portal.mfaservices.nl
 portal.nak.nl
 portal.plp.kadaster.nl
+portal.reclassering.nl
 portal.rijksdienstcn.com
 portal.shinyproxy.ix.rijkscloud.nl
 portal.test.datascience.rijkscloud.nl
@@ -12395,6 +12431,7 @@ rechtspraaklogin.rechtspraak.nl
 rechtvaardig.nl
 rechtvoorjou.nl
 rechtwijzer.nl
+reclassering.nl
 reconi-etoegang-acc.sso.eherkenning.nl
 reconi-etoegang-pp.sso.eherkenning.nl
 reconi-etoegang-tst.sso.eherkenning.nl
@@ -12578,6 +12615,7 @@ research.kb.nl
 researcher.postcovidonderzoek.nl
 reserved-cesar-db.knmi.nl
 reserveren.deafsluitdijk.nl
+reset.reclassering.nl
 resolv1.ec.rijkscloud.nl
 resolv1.gn1.rijkscloud.nl
 resolv1.gn2.rijkscloud.nl
@@ -12723,6 +12761,8 @@ ro.zuid-holland.nl
 roadsfromrio.pbl.nl
 rob-2000.rijkscloud.nl
 rob2000.rijkscloud.nl
+robin-uw.intern.reclassering.nl
+robin.intern.reclassering.nl
 robxp.rapportage.rijkscloud.nl
 roljournaalhandelgerechtshoven.rechtspraak.nl
 roljournaalhandelrechtbanken.rechtspraak.nl
@@ -13182,9 +13222,11 @@ service30.diginetwerk.kadaster.nl
 service30.kadaster.nl
 service30.ontwikkeling.diginetwerk.kadaster.nl
 service30.test.kadaster.nl
+servicedesk-uw.intern.reclassering.nl
 servicedesk.ciz.nl
 servicedesk.dictu.nl
 servicedesk.huygens.knaw.nl
+servicedesk.intern.reclassering.nl
 servicedesk.jira.nipv.nl
 servicedesk.nipv.nl
 servicedesk.rijksoverheid.nl
@@ -15675,6 +15717,7 @@ werkenbij.naktuinbouw.nl
 werkenbij.nba.nl
 werkenbij.nipv.nl
 werkenbij.nvao.net
+werkenbij.reclassering.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.toeslagen.nl
@@ -16724,6 +16767,7 @@ www.ivm11.databank.nl
 www.ivopzee.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag.raadvoorrechtsbijstand.org
+www.jaarverslag.reclassering.nl
 www.jaarverslag2018.flevoland.nl
 www.jaarverslag2024.bkd.eu
 www.jaarverslagrechtspraak.nl
@@ -17223,6 +17267,7 @@ www.rechtspraak.nl
 www.rechtvaardig.nl
 www.rechtvoorjou.nl
 www.rechtwijzer.nl
+www.reclassering.nl
 www.redactie.aquo.nl
 www.redactie.onderzoeksraad.nl
 www.redirect.isdatechtzo.nl
@@ -17473,6 +17518,8 @@ xbrlonderwijsportaal.duo.nl
 xbu.politie.nl
 xdev.staging.ndw.nu
 xelion.cokz.nl
+xenapp-uw.intern.reclassering.nl
+xenapp.intern.reclassering.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
 xiaofeng-tan.github.io
