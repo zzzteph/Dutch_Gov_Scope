@@ -7,8 +7,8 @@ autodiscover
 acc
 test
 english
-webmail
 mijn
+webmail
 a-www
 api
 a-opendata
@@ -40,11 +40,11 @@ _dmarc
 e
 dev
 beheer
+zoeken
 meet
 connect
 kennisbank
 remote
-zoeken
 hybrid
 www.acceptatie
 apps
@@ -93,6 +93,7 @@ mx1
 www.test
 ns2
 old
+acceptatie.beheer
 beeldbank
 static
 geo
@@ -110,7 +111,8 @@ adobe-analytics-dc
 adobe-tags
 fs
 werken
-acceptatie.beheer
+acceptatie.behandel
+acceptatie.mijn
 demo
 sso
 www1
@@ -133,8 +135,8 @@ web
 academie
 enterpriseenrollment
 videobellen
-acceptatie.behandel
-acceptatie.mijn
+acceptatie.zoeken
+behandel
 atlas
 geoportaal
 id
@@ -183,8 +185,6 @@ merkportaal
 sharepoint
 website
 acceptatie.webservices
-acceptatie.zoeken
-behandel
 connect-with
 dataportaal
 email

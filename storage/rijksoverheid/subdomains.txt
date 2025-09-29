@@ -1530,6 +1530,7 @@ acceptatie.behandel.donorgegevens.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.hulpmiddelen.farmatec.nl
 acceptatie.behandel.isms.cibg.nl
+acceptatie.behandel.registersocialehygiene.nl
 acceptatie.behandel.sbv-z.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.beheer.dezi.nl
@@ -1540,6 +1541,7 @@ acceptatie.beheer.lir.cibg.nl
 acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.beheer.lrza.cibg.nl
 acceptatie.beheer.ncpeh.nl
+acceptatie.beheer.registersocialehygiene.nl
 acceptatie.beheer.zorgaanbiedersportaal.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.bidbook.eu
@@ -1595,6 +1597,7 @@ acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 acceptatie.mijn.hulpmiddelen.farmatec.nl
 acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.mijn.melding.zorgaanbiedersportaal.nl
+acceptatie.mijn.registersocialehygiene.nl
 acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.mondriaanfonds.nl
@@ -1645,6 +1648,7 @@ acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.diergeneeskunderegister.nl
 acceptatie.zoeken.gratisvog.nl
+acceptatie.zoeken.registersocialehygiene.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
 acceptatie2.spin.rijkswaterstaat.nl
 acceptatiedigikoppeling.bkd.eu
@@ -3022,6 +3026,7 @@ behandel.diergeneeskunderegister.nl
 behandel.donorgegevens.nl
 behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
+behandel.registersocialehygiene.nl
 behandel.sbv-z.nl
 beheer-acc.burgernet.nl
 beheer-acc.datastelselverduurzamingutiliteit.nl
@@ -3061,6 +3066,7 @@ beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.procesinfrastructuur.nl
 beheer.rechtvaardig.nl
+beheer.registersocialehygiene.nl
 beheer.zorgaanbiedersportaal.nl
 beheerapps.rvo.nl
 beheerautoriteitwaddenzee.nl
@@ -9521,6 +9527,7 @@ mijn.rdi.nl
 mijn.rdw.nl
 mijn.rechtenoverheid.nl
 mijn.rechtspraak.nl
+mijn.registersocialehygiene.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -12514,6 +12521,7 @@ register.aerius.nl
 register.tlokb.nl
 registerexterneveiligheid.nl
 registers.dnb.nl
+registersocialehygiene.nl
 registrar.labs.dans.knaw.nl
 registratiewebradiokanaal.cvdm.nl
 registration.one-conference.nl
@@ -17298,6 +17306,7 @@ www.regioburgemeesters.nl
 www.regiodata.kvk.nl
 www.regiosaandegrens.nl
 www.registerexterneveiligheid.nl
+www.registersocialehygiene.nl
 www.regulatoryscience.nl
 www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
@@ -17637,6 +17646,7 @@ zoeken.kvk.nl
 zoeken.nji.nl
 zoeken.nplw.nl
 zoeken.ondernemersplein.overheid.nl
+zoeken.registersocialehygiene.nl
 zoeken.schoolleidersregisterpo.nl
 zoeken.tst.kvk.nl
 zoeken.werkenaanonspensioen.nl
