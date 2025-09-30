@@ -35,10 +35,10 @@ smtp
 portaal
 portal
 e
+dev
 app
 sip
 _dmarc
-dev
 beheer
 zoeken
 meet
@@ -113,6 +113,7 @@ fs
 werken
 acceptatie.behandel
 acceptatie.mijn
+helpdesk
 demo
 sso
 www1
@@ -142,7 +143,6 @@ geoportaal
 id
 kaarten
 wifi
-helpdesk
 academy
 designsystem
 projecten
@@ -153,6 +153,7 @@ formulier
 api-acc
 mobiel
 acc.mijn
+nieuwsbrief
 sandbox
 www-a
 zaaksysteem-acc
@@ -208,7 +209,6 @@ servicedesk
 connect-acpt
 www.mijn
 webservice
-nieuwsbrief
 legacy
 extern
 csoacct
@@ -238,6 +238,7 @@ cpcontacts
 activesync
 sip.myroom
 luchtfoto
+web01
 pushmail
 smtp1
 appstore
@@ -374,7 +375,6 @@ radius
 helloid
 oa
 chw
-web01
 test.resultaten
 bezwaar
 meldingen
@@ -12395,3 +12395,7 @@ www.2020
 www.2021
 www.expeditiewaddenkust.nl
 www.wadziejij
+advies
+infoscherm
+virtour
+wwwold

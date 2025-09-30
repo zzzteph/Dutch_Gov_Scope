@@ -338,6 +338,7 @@ http://hapi2.test.zm.irealisatie.nl
 http://harbor.az1.lpc.logius.nl
 http://harbor.az2.lpc.logius.nl
 http://haruspex.labs.dans.knaw.nl
+http://helpdesk.rijksacademie.nl
 http://hg.fa.knaw.nl
 http://hisgis2.fa.knaw.nl
 http://holland-rijnland.databank.nl
@@ -1820,6 +1821,7 @@ https://adressering.proeftuin.gf.irealisatie.nl
 https://adressering.test.gf.irealisatie.nl
 https://adu-text-amendment-slcgov.hub.arcgis.com
 https://aduniverse-seattlecitygis.hub.arcgis.com
+https://advies.rijksacademie.nl
 https://adviescollegeicttoetsing.nl
 https://adviescollegeregeldruk.nl
 https://adviescollegeveiligheidgroningen.nl
@@ -6422,6 +6424,7 @@ https://nieuws.rvo.nl
 https://nieuwsbrief.autoriteitpersoonsgegevens.nl
 https://nieuwsbrief.examenblad.nl
 https://nieuwsbrief.lexces.nl
+https://nieuwsbrief.rijksacademie.nl
 https://nieuwsbrief.zuid-holland.nl
 https://nieuwsbriefrechtspraak.nl
 https://nieuwsbrieven.caop.nl
@@ -7693,6 +7696,7 @@ https://rijbewijzen.cbr.nl
 https://rijdata-acc.cbr.nl
 https://rijkcirculair.nl
 https://rijkewaddenzee.nl
+https://rijksacademie.nl
 https://rijksbredekennisagenda.nl
 https://rijkscloud.nl
 https://rijksdienstcn.com
@@ -10343,6 +10347,7 @@ https://www.restitutiecommissie.nl
 https://www.riec.nl
 https://www.rijkcirculair.nl
 https://www.rijkewaddenzee.nl
+https://www.rijksacademie.nl
 https://www.rijksbredekennisagenda.nl
 https://www.rijkscloud.nl
 https://www.rijksdienstcn.com
