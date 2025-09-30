@@ -813,6 +813,8 @@ _dmarc.wkr.nl
 _dmarc.wodc.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
+a-biokap.rivm.nl
+a-chemkap.rivm.nl
 a-cluster1.a-cms.platformrijksoverheid.nl
 a-cluster10.a-cms.platformrijksoverheid.nl
 a-cluster11.a-cms.platformrijksoverheid.nl
@@ -856,6 +858,7 @@ a-english.ncadierproevenbeleid.nl
 a-english.ncsc.nl
 a-english.rekenkamer.nl
 a-english.rijksdienstcn.com
+a-ewrs.rivm.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -1155,9 +1158,14 @@ acb.chm-cbd.net
 acb.prod.chm-cbd.net
 acb.test.chm-cbd.net
 acc-ags.rijkswaterstaat.nl
+acc-api.rivm.nl
+acc-apps.rivm.nl
 acc-auth.acc-protocol.mfaservices.nl
 acc-auth.mfaservices.nl
+acc-auth.rivm.nl
 acc-auth2.mfaservices.nl
+acc-bestellingen.rivm.nl
+acc-bestelmedicatie.rivm.nl
 acc-biometric-service.consular.mfaservices.nl
 acc-biometricservice.mfaservices.nl
 acc-bvrin.minbzk.nl
@@ -1182,7 +1190,9 @@ acc-dictu.logius.nl
 acc-dictu.referentiegrootboekschema.nl
 acc-dictu.toegankelijkheidsverklaring.nl
 acc-digikoppeling-sign.dictu.nl
+acc-duvo-web-api.rivm.nl
 acc-dvu.rvo.nl
+acc-edfs.rivm.nl
 acc-eformulieren.zuid-holland.nl
 acc-energiebesparingsverkenner-ws.rvo.nl
 acc-energiebesparingsverkenner.rvo.nl
@@ -1204,6 +1214,7 @@ acc-insights.mfaservices.nl
 acc-int.mijn.overheid.nl
 acc-internationaal.ondernemen.overheid.nl
 acc-intranet.pbl.nl
+acc-isis-ar-rapportage.rivm.nl
 acc-kadata.ext.kadaster.nl
 acc-kadata.kadaster.nl
 acc-kadatabackend.ext.kadaster.nl
@@ -1214,18 +1225,25 @@ acc-leidraad.pbl.nl
 acc-login.acc-protocol.mfaservices.nl
 acc-lrza.services.cibg.nl
 acc-ls4.mfaservices.nl
+acc-lsp.rivm.nl
 acc-maps.rijkswaterstaat.nl
+acc-maps.rivm.nl
 acc-mft.acc-protocol.mfaservices.nl
+acc-mft.rivm.nl
 acc-mijn.cokz.nl
 acc-mijn.kadaster.nl
+acc-mijn.rivm.nl
 acc-mijn.rvo.nl
+acc-mijnlmm.rivm.nl
 acc-newsroom.minienw.nl
+acc-nieuwsbrieven.rivm.nl
 acc-nl-dictu-dkb-sign.dictu.nl
 acc-nl-dictu-nhr-sign.dictu.nl
 acc-nl-dictu-rijkspas.dictu.nl
 acc-nl-nvwa-dkb-sign.dictu.nl
 acc-open-wave.odijmond.nl
 acc-participantapi.postcovidonderzoek.nl
+acc-paskaart.rivm.nl
 acc-pebbles.pbl.nl
 acc-portal.acc-protocol.mfaservices.nl
 acc-portal.mfaservices.nl
@@ -1240,15 +1258,19 @@ acc-referentiegegevens.justid.nl
 acc-reftool-portal.consular.mfaservices.nl
 acc-researcher.postcovidonderzoek.nl
 acc-saml.rd.2wssl.dictu.nl
+acc-sso-osiris.rivm.nl
 acc-staten.zuid-holland.nl
+acc-tdv.rivm.nl
 acc-themasites.pbl.nl
 acc-thuisbezorgd.mijnrijkspas.nl
 acc-tvs.coa.nl
 acc-v2.bronhouderportaal-bro.nl
+acc-veldmonitoring.rivm.nl
 acc-vergelijkingskaart.afm.nl
 acc-vgd.ext.kadaster.nl
 acc-vinden.cbs.nl
 acc-vjeh.ext.kadaster.nl
+acc-vtcc.rivm.nl
 acc-webform.rvo.nl
 acc-webservice-tdv.igj.nl
 acc-website.rvo.nl
@@ -1495,6 +1517,7 @@ acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie-calculator.aerius.nl
 acceptatie-checkjeprijs.huurcommissie.nl
 acceptatie-connect.aerius.nl
+acceptatie-data.rivm.nl
 acceptatie-geneeskundig.lcms.nl
 acceptatie-identity.coa.nl
 acceptatie-imaer.aerius.nl
@@ -1521,6 +1544,7 @@ acceptatie.aanvragen.uziregister.nl
 acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.aerius.nl
+acceptatie.aiz.osiris.rivm.nl
 acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
 acceptatie.applicationframework.cibg.nl
@@ -1553,19 +1577,27 @@ acceptatie.beheer.registersocialehygiene.nl
 acceptatie.beheer.zorgaanbiedersportaal.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.bidbook.eu
+acceptatie.biotechnologie.rivm.nl
 acceptatie.blauwegolfverbindend.nl
 acceptatie.bodemloket.nl
 acceptatie.botova.rijkswaterstaat.nl
 acceptatie.brba.cibg.nl
 acceptatie.buitenlevenvakanties.nl
 acceptatie.cbs.nl
+acceptatie.cdif.osiris.rivm.nl
+acceptatie.ceses.osiris.rivm.nl
 acceptatie.chemischestoffengoedgeregeld.nl
+acceptatie.chemkap.rivm.nl
+acceptatie.cibrapportage.rivm.nl
 acceptatie.clusterbuster.nl
 acceptatie.cmis.cultureelerfgoed.nl
 acceptatie.consexponano.nl
 acceptatie.consuwijzer.nl
+acceptatie.contractantendatabase.rivm.nl
 acceptatie.coronatest.nl
+acceptatie.crios.rivm.nl
 acceptatie.crm.nza.nl
+acceptatie.data.rivm.nl
 acceptatie.designsystem.cibg.nl
 acceptatie.digikoppeling-dcr.cibg.nl
 acceptatie.digikoppeling.cibg.nl
@@ -1576,27 +1608,38 @@ acceptatie.digikoppeling2.dictu.nl
 acceptatie.drms.cibg.nl
 acceptatie.dustex.nl
 acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.ecdis.osiris.rivm.nl
 acceptatie.esb.rijkswaterstaat.nl
 acceptatie.feedfoodtransfer.nl
 acceptatie.formulieren.uziregister.nl
+acceptatie.geodata.rivm.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.gezondekinderopvang.nl
 acceptatie.gezondeschool.nl
+acceptatie.gisportal.rivm.nl
 acceptatie.grccontrol.minienw.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.ictu.nl
+acceptatie.inspire.rivm.nl
 acceptatie.isis-web.nl
 acceptatie.isms.minienm.nl
 acceptatie.istandaarden.nl
 acceptatie.kennisplatform.nl
 acceptatie.klinieken.donorgegevens.nl
+acceptatie.kvz2005.rivm.nl
+acceptatie.lims.rivm.nl
 acceptatie.lir.cibg.nl
+acceptatie.lmm.rivm.nl
 acceptatie.loket.pdok.nl
 acceptatie.loketgezondleven.nl
 acceptatie.ltfu.neorah.nl
 acceptatie.machtigen.digid.nl
+acceptatie.man.rivm.nl
+acceptatie.mebi-backoffice.rivm.nl
+acceptatie.mebi.rivm.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.meldpuntbodemkwaliteit.nl
+acceptatie.mgk.osiris.rivm.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
 acceptatie.mijn.diergeneeskunderegister.nl
@@ -1610,20 +1653,29 @@ acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.mondriaanfonds.nl
 acceptatie.mq.esb.rijkswaterstaat.nl
+acceptatie.mrsa.rivm.nl
 acceptatie.nationaleenergieatlas.nl
 acceptatie.neorah.nl
+acceptatie.nevo.rivm.nl
 acceptatie.nipv.nl
 acceptatie.niwo.nl
 acceptatie.oefenstembiljet.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.onderzoeksraad.nl
 acceptatie.ordz.nl
+acceptatie.osiris.rivm.nl
 acceptatie.pacemweb.nl
+acceptatie.password.osiris.rivm.nl
 acceptatie.pbl.nl
+acceptatie.philotes.rivm.nl
 acceptatie.politie.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.ncpeh.nl
 acceptatie.portaal.nlarbeidsinspectie.nl
+acceptatie.portie-online.rivm.nl
+acceptatie.prezies.osiris.rivm.nl
+acceptatie.proastweb.rivm.nl
+acceptatie.prohibit.osiris.rivm.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
@@ -1631,10 +1683,21 @@ acceptatie.raadplegen.sbv-z.nl
 acceptatie.redactie.aquo.nl
 acceptatie.registerexterneveiligheid.nl
 acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
+acceptatie.rivm.nl
+acceptatie.rivmweb72.rivm.nl
+acceptatie.rvs-beheer.rivm.nl
+acceptatie.rvs.rivm.nl
+acceptatie.rvszoeksysteem.rivm.nl
 acceptatie.schoolleidersregisterpo.nl
+acceptatie.signalen.osiris.rivm.nl
+acceptatie.sniv.osiris.rivm.nl
+acceptatie.soap.osiris.rivm.nl
+acceptatie.sorproposal.rivm.nl
 acceptatie.spin2.rijkswaterstaat.nl
 acceptatie.sportenbewegenincijfers.nl
+acceptatie.star.osiris.rivm.nl
 acceptatie.tea.bigregister.nl
+acceptatie.teebstad.rivm.nl
 acceptatie.tmv.cibg.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
 acceptatie.uzipas.auth.dezi.nl
@@ -1642,6 +1705,14 @@ acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.uzipas.uziregister.nl
+acceptatie.vcpapp.rivm.nl
+acceptatie.voorraadtelling.rivm.nl
+acceptatie.webservice.aiz.osiris.rivm.nl
+acceptatie.webservice.cdif.osiris.rivm.nl
+acceptatie.webservice.prezies.osiris.rivm.nl
+acceptatie.webservice.signalen.osiris.rivm.nl
+acceptatie.webservice.sniv.osiris.rivm.nl
+acceptatie.webservice.soap.osiris.rivm.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.webservices.dictu.nl
 acceptatie.webservices.diergeneeskunderegister.nl
@@ -1651,6 +1722,7 @@ acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
 acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
+acceptatie.wreg.rivm.nl
 acceptatie.wvsv.nipv.nl
 acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
@@ -1658,6 +1730,7 @@ acceptatie.zoeken.diergeneeskunderegister.nl
 acceptatie.zoeken.gratisvog.nl
 acceptatie.zoeken.registersocialehygiene.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
+acceptatie.zwemwater.osiris.rivm.nl
 acceptatie2.spin.rijkswaterstaat.nl
 acceptatiedigikoppeling.bkd.eu
 acceptatiepan.emissieautoriteit.nl
@@ -1904,6 +1977,7 @@ ae.dae.test.kadaster.nl
 aec-customer-success-stories-arcaec.hub.arcgis.com
 aedesforecast.databank.nl
 aerialphotography-geoscience-au.hub.arcgis.com
+aerius-sftp.rivm.nl
 aerius.nl
 aeriusproducten.nl
 af.huygens.knaw.nl
@@ -1994,6 +2068,8 @@ airflow.labs.dans.knaw.nl
 airwatch-gw.cpb.nl
 ais-program-lakecountymn.hub.arcgis.com
 aivd.nl
+aiz.osiris.new.rivm.nl
+aiz.osiris.rivm.nl
 ak-lsli-adec.hub.arcgis.com
 akademia.knaw.nl
 akai.cloud.kadaster.nl
@@ -2032,6 +2108,7 @@ aliakbars.github.io
 all-england-strategic-landscapes-mapping-hub-luc.hub.arcgis.com
 allard-pierson-project.huygens.knaw.nl
 alleenjijbepaalt.nl
+allesisgezondheid.rivm.nl
 allesoverbiologisch.nl
 allesoversport.nl
 alliant.rijkswaterstaat.nl
@@ -2144,6 +2221,7 @@ apdnsa03-q.dmz.belastingdienst.nl
 apdnsa03-vip.dmz.belastingdienst.nl
 apdnsa03.dmz.belastingdienst.nl
 apenet.nationaalarchief.nl
+apex-cmm.rivm.nl
 apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apg-loket.acceptatie.kadaster.nl
@@ -2179,6 +2257,7 @@ api-preprod2.digid.nl
 api-proeftuin-acc.kansspelautoriteit.nl
 api-proeftuin-test.kansspelautoriteit.nl
 api-proeftuin.kansspelautoriteit.nl
+api-samenmeten.rivm.nl
 api-sec.p-direkt.nl
 api-staging.developer.dnb.nl
 api-staging.dnb.nl
@@ -2192,6 +2271,7 @@ api-tst.afm.nl
 api.abonneren-pro2.platformrijksoverheidonline.nl
 api.abonneren.platformrijksoverheidonline.nl
 api.acc-cruks.kansspelautoriteit.nl
+api.acc-lsp.rivm.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
 api.acc.spaceweather.knmi.nl
@@ -2246,6 +2326,7 @@ api.dataplatform.knmi.nl
 api.dbe-t.rvb.rijkscloud.nl
 api.dementieinkaart.nl
 api.denkmee.zuid-holland.nl
+api.dev-lsp.rivm.nl
 api.developer.dnb.nl
 api.digid.nl
 api.digitalenoordzee.nl
@@ -2301,6 +2382,7 @@ api.rdi.nl
 api.rdw.nl
 api.rechtspraak.nl
 api.reis.idm.rvig.nl
+api.rivm.nl
 api.rosetta-t.kb.nl
 api.services.acm.nl
 api.so.rijkscloud.nl
@@ -2311,6 +2393,7 @@ api.test.pdok.nl
 api.testbijdrukte.coronatest.nl
 api.transformation.nsgi.nl
 api.transformation.test.nsgi.nl
+api.tst-lsp.rivm.nl
 api.tst.mijn.overheid.nl
 api.tst0.mijn.overheid.nl
 api.tst1.mijn.overheid.nl
@@ -2401,6 +2484,7 @@ app.pdok.nl
 app.politie.nl
 app.pzp.nl
 app.raadvanstate.nl
+app.rivm.nl
 app.svb.nl
 app.test.pdok.nl
 app.vechtstromen.nl
@@ -2447,6 +2531,7 @@ apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
 apps.politie.nl
 apps.politieacademie.nl
+apps.rivm.nl
 apps.services.acm.nl
 apps.svb.nl
 apps.vechtstromen.nl
@@ -2538,6 +2623,7 @@ as.im.nba.nl
 as1.eerstekamer.nl
 as2.eerstekamer.nl
 as2.minbzk.nl
+asa1-extern.rivm.nl
 asb.datasluis.dictu.nl
 asbestovertredingen.nlarbeidsinspectie.nl
 asbestvolgsysteem.nl
@@ -2635,6 +2721,7 @@ auth.mijnoctrooi.mypage.rvo.nl
 auth.ndw.nu
 auth.openstad.zuid-holland.nl
 auth.protocol.mfaservices.nl
+auth.rivm.nl
 auth.services.acm.nl
 auth.services.cultureelerfgoed.nl
 auth.vallei-veluwe.nl
@@ -2772,12 +2859,14 @@ autodiscover.rekenkamer.nl
 autodiscover.restitutiecommissie.nl
 autodiscover.rijkewaddenzee.nl
 autodiscover.rijksdienstcn.com
+autodiscover.rivm.nl
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
 autodiscover.services.acm.nl
 autodiscover.spinozacentre.knaw.nl
 autodiscover.svb.nl
 autodiscover.test.knaw.nl
+autodiscover.test.rivm.nl
 autodiscover.tib-ivd.nl
 autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
@@ -2842,6 +2931,8 @@ b2b-gemnet.belastingdienst.nl
 b2b-gemnet.toeslagen.nl
 b2b-osb.belastingdienst.nl
 b2b-osb.toeslagen.nl
+b2b-prd.rivm.nl
+b2b-qas.rivm.nl
 b2b-rijks.belastingdienst.nl
 b2b-rijks.toeslagen.nl
 b2b-security.acc.belastingdienst.nl
@@ -3137,6 +3228,7 @@ belastingen.zuid-holland.nl
 belastingles.nl
 beleidsmonitor-acc.zuid-holland.nl
 beleidsmonitor-tst.zuid-holland.nl
+beleving.rivm.nl
 belize-coronavirus-response-tbsl-drp.hub.arcgis.com
 benbrook.maps.arcgis.com
 benchmarkenindepubliekesector.nl
@@ -3181,6 +3273,7 @@ bestandenpostbus.nl
 bestandslevering.cbs.nl
 bestandsportaal.cibg.nl
 bestellen.cito.nl
+bestellingen.rivm.nl
 bestelloket.qs.kadaster.nl
 bestuurlijkeweerbaarheid.kennisplatformondermijning.nl
 beta-adc.databank.nl
@@ -3270,6 +3363,7 @@ bg2-acc.hetcak.nl
 bg2.hetcak.nl
 bgb.huygens.knaw.nl
 bgfg-outcomes-24-austin.hub.arcgis.com
+bggo.rivm.nl
 bgt-acc.rvo.nl
 bgt-client-certificaat-acc.rvo.nl
 bgt-client-certificaat.rvo.nl
@@ -3328,6 +3422,7 @@ biociden.nl
 biodivcanada.chm-cbd.net
 biogrondstoffen.com
 bioinf.nioo.knaw.nl
+biokap-oud.rivm.nl
 biomap-mass-eoeea.hub.arcgis.com
 biometric-service.consular.mfaservices.nl
 biometricservice.mfaservices.nl
@@ -3336,6 +3431,7 @@ biosecurityselfscan.nl
 biosecurityvulnerabilityscan.nl
 biosecurityzelfscan.nl
 biotechnologie.nl
+biotechnologie.rivm.nl
 biss-lra-soem.hub.arcgis.com
 bitbucket.politie.nl
 bitwarden.knaw.nl
@@ -3630,18 +3726,21 @@ calenviroscreen-oehha.hub.arcgis.com
 callbook.rdi.nl
 calls-for-service-durhamnc.hub.arcgis.com
 caloes-next-gen-9-1-1-calema.hub.arcgis.com
+calpro.bori.rivm.nl
 caltrans.maps.arcgis.com
 calvert-county-open-data-calvertgis.hub.arcgis.com
 camera-registration-chicagopd.hub.arcgis.com
 campagnetoolkits.nl
 campolide2021challenge-novacidade.hub.arcgis.com
 campus-map-gallery-gtfacilities.hub.arcgis.com
+campus-t.rivm.nl
 cams-lacounty.hub.arcgis.com
 canhui.github.io
 cannabisbureau.nl
 canyon-comeback-marioncounty.hub.arcgis.com
 cao.minszw.nl
 caobank.minszw.nl
+caontb.rivm.nl
 caop.nl
 caopmgw01.caop.nl
 caorijk.nl
@@ -3776,6 +3875,7 @@ cc8.dnb.nl
 ccatp-centrecog.hub.arcgis.com
 ccbr.rechtspraak.nl
 ccbrservice.rechtspraak.nl
+ccc-appgw-test1.rivm.nl
 ccc.acc.irealisatie.nl
 cceej-community-hub-climatecenter.hub.arcgis.com
 cciwebstats.belastingdienst.nl
@@ -3793,6 +3893,7 @@ cd2-prd-www-dw0kda8dcqk.rdw.nl
 cdbg-dr-leegis.hub.arcgis.com
 cdfd.nl
 cdho.nl
+cdif.osiris.rivm.nl
 cdn-a.arcgis.com
 cdn-mediaprogram.maps.arcgis.com
 cdn.biotechnologie.nl
@@ -3862,6 +3963,7 @@ certificeren-toezicht-tst.cbr.nl
 certificeren-toezicht.cbr.nl
 certificering.test.kadaster.nl
 cesar-database.knmi.nl
+ceses.osiris.rivm.nl
 cest-cusec.hub.arcgis.com
 cest-p4-cusec.hub.arcgis.com
 cev.nl
@@ -3914,6 +4016,8 @@ checkout-tst.portal.ind.nl
 checkout.portal.ind.nl
 chef.rijkscloud.nl
 chemischestoffengoedgeregeld.nl
+chemkap-oud.rivm.nl
+chemkap.rivm.nl
 cher.emissieautoriteit.nl
 chesapeake-deij2-chesbay.hub.arcgis.com
 chester-county-s-gis-hub-chesco.hub.arcgis.com
@@ -3935,10 +4039,12 @@ cib-dev.knmi.nl
 cibbrina.eu
 cibg.nl
 cibologis-cibolotx.hub.arcgis.com
+cibrapportage.rivm.nl
 cidades-saudaveis-hubsetecnologia.hub.arcgis.com
 cif.test.syn.rijksapplicaties.nl
 cijfers.duo.nl
 cimlk.nl
+cims.rivm.nl
 cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
@@ -4271,6 +4377,7 @@ connect.justitieleictorganisatie.nl
 connect.kadaster.nl
 connect.kinderbescherming.nl
 connect.knmi.nl
+connect.rivm.nl
 connect.test.who.minvws.nl
 connect.wodc.nl
 connect1.kadaster.nl
@@ -4313,6 +4420,7 @@ contentbeheer.acc.omgevingswet.overheid.nl
 contentbeheer.omgevingswet.overheid.nl
 contentbeheer.tst.omgevingswet.overheid.nl
 contenttoolsrijksoverheid.nl
+contractantendatabase.rivm.nl
 control.amx.belastingdienst.nl
 cookie-proxy-a.cito.nl
 cookie-proxy-o.cito.nl
@@ -4322,6 +4430,7 @@ cookies.npostart.nl
 copreg.rijksapplicaties.nl
 copreg.staging.rijksapplicaties.nl
 core.odmh.nl
+corona.callisto.rivm.nl
 coronadashboard.government.nl
 coronadashboard.rijksoverheid.nl
 coronaonderzoek.onderzoeksraad.nl
@@ -4415,12 +4524,14 @@ crimediggers.nl
 criminalfilesmh17.acc.prosecutionservice.nl
 criminalfilesmh17.prosecutionservice.nl
 criminaliteitenrecht.nl
+crios.rivm.nl
 crisis.nl
 crisismaatregel.webservices-dbb-acc.igj.nl
 crisismaatregel.webservices-dbb.igj.nl
 crisiswerkplek.rijkswaterstaat.nl
 crl.npkd.nl
 crl.pkioverheid.nl
+crlresidues.rivm.nl
 crm-fto.erp.kadaster.nl
 crm-int.erp.kadaster.nl
 crm-ont.erp.kadaster.nl
@@ -4456,6 +4567,8 @@ csaf.data.security.acc.ncsc.nl
 csaf.data.security.ncsc.nl
 csaf.data.security.test.ncsc.nl
 cse.maps.arcgis.com
+csep.rivm.nl
+csep2.rivm.nl
 csirtdsp.nl
 csm.minienm.nl
 csoacct.functiegebouwrijksoverheid.nl
@@ -4472,6 +4585,7 @@ css.openstad.zuid-holland.nl
 cst-syslog.test.cloud.kadaster.nl
 cst.kadaster.nl
 cst.rijkscloud.nl
+cstm.rivm.nl
 csu070-high.kadaster.nl
 csu070-med.kadaster.nl
 csw-bc.knmi.nl
@@ -4582,9 +4696,11 @@ dashboards.test.cbs.nl
 dashboards.test.ix.rijkscloud.nl
 dashboards.test.kadaster.nl
 dashboardsdev-api.arcgis.com
+dashview.rivm.nl
 daszogefietst.nl
 data-acc.overheid.nl
 data-acc.rijkswaterstaat.nl
+data-acc.rivm.nl
 data-acceptatie.emissieregistratie.nl
 data-bgky.hub.arcgis.com
 data-centrevaldeloire.hub.arcgis.com
@@ -4634,6 +4750,7 @@ data.pbl.nl
 data.politie.nl
 data.rechtspraak.nl
 data.rijkswaterstaat.nl
+data.rivm.nl
 data.rvo.nl
 data.staging.ndw.nu
 data.zuid-holland.nl
@@ -4695,6 +4812,7 @@ dataverse-fetcher.labs.dans.knaw.nl
 dataverse-importer.labs.dans.knaw.nl
 dataverse-mapper.labs.dans.knaw.nl
 dataverse.dans.knaw.nl
+datavisualisatie.rivm.nl
 datavisualisatieportal.nji.nl
 datavoorgezondheid.nl
 datawonen.nl
@@ -4782,6 +4900,7 @@ demo.hansken.org
 demo.ix.rijkscloud.nl
 demo.jira.odc-noord.nl
 demo.mijn.overheid.nl
+demo.pb-pk.rivm.nl
 demo.repository.huygens.knaw.nl
 demo.sensorenregister.test.cloud.kadaster.nl
 demo.test.chm-cbd.net
@@ -4862,9 +4981,12 @@ dev-euvis-api.data-exchange.consular.mfaservices.nl
 dev-euvis-ebms.data-exchange.consular.mfaservices.nl
 dev-id.afm.nl
 dev-insights.mfaservices.nl
+dev-lsp.rivm.nl
+dev-mijnsap.rivm.nl
 dev-reftool-portal.consular.mfaservices.nl
 dev-sigma-ebms.data-exchange.consular.mfaservices.nl
 dev-stubs.data-exchange.consular.mfaservices.nl
+dev-veldmonitoring.rivm.nl
 dev-vergelijkingskaart.afm.nl
 dev-vismail-api.data-exchange.consular.mfaservices.nl
 dev-vismail-ebms.data-exchange.consular.mfaservices.nl
@@ -4932,6 +5054,7 @@ developer.ix.rijkscloud.nl
 developer.kadaster.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
+developer.rivm.nl
 developer.rvig.nl
 developer.test.kadaster.nl
 developers.acp.kvk.nl
@@ -5168,6 +5291,7 @@ dlo-dev.dnb.nl
 dlo-tst.dnb.nl
 dlo.dnb.nl
 dmarcreport.ncsc.nl
+dme-gw-dmz.rivm.nl
 dmi-ecosysteem.nl
 dmi-governance.dev.dmi-ecosysteem.nl
 dmi-governance.dmi-ecosysteem.nl
@@ -5179,6 +5303,7 @@ dmo.document-viewer-api.dso.kadaster.nl
 dmo.geodoc.dso.kadaster.nl
 dmo.omgevingswet.overheid.nl
 dmo.ozon.dso.kadaster.nl
+dmponline.rivm.nl
 dms.hhdelfland.nl
 dms.o.extern.minszw.nl
 dmzntp1.dictu.nl
@@ -5237,6 +5362,7 @@ docs.riks-ft.azure.dnb.nl
 docs.riks.azure.dnb.nl
 docs.test.kadaster.nl
 docs.toegangspuntmobiliteit.nl
+docsacc.rivm.nl
 docspace.dmi-ecosysteem.nl
 doculoket-acc.overheid.nl
 doculoket.overheid.nl
@@ -5252,6 +5378,7 @@ doeonbeperktmee.nl
 doi-org.access.authkb.kb.nl
 dol.stopheling.nl
 domain-admin.rechtenoverheid.nl
+domapp.rivm.nl
 domeinen-prd.cloudservices.kb.nl
 domeinen.kb.nl
 domeinenrz.nl
@@ -5286,6 +5413,8 @@ download.pdok.cloud.kadaster.nl
 download.pdok.nl
 download.test.pdok.nl
 download.webmail.knmi.nl
+download.webmail.rivm.nl
+download.webmail.test.rivm.nl
 download1.belastingdienst.nl
 downloaddomain.svb.nl
 downloadmutation-acc.ep-online.nl
@@ -5321,6 +5450,7 @@ dr-prd-handboek-aw8ldacdcqe.rdw.nl
 dr-prd-lpg-handboek-u3lmlezlfk2.rdw.nl
 dr-prd-tachograaf-handboek-twirqc8f117.rdw.nl
 dr-prd-www-dgobbqqkdqg.rdw.nl
+draaiboekhielprikscreening.rivm.nl
 draaiboekpsie.nl
 draf-acpt.brabant.nl
 draf.brabant.nl
@@ -5344,6 +5474,7 @@ drpbeheerservice-preprd.overheid.nl
 drpbeheerservice.overheid.nl
 drs.ndw.nu
 drumsoffreedom.github.io
+drupal.rivm.nl
 drupaloverheid.nl
 drus-cd.arcgis.com
 drus-ei.arcgis.com
@@ -5412,6 +5543,7 @@ duurzame-infra.nl
 duurzameescaperoom-light-vr.belastingdienst.nl
 duurzameescaperoom-vr.belastingdienst.nl
 duurzamemobiliteit.databank.nl
+duvo-web-api.rivm.nl
 dv.acc1.machtigen.digid.nl
 dv.acc2.machtigen.digid.nl
 dv.acc3.machtigen.digid.nl
@@ -5460,6 +5592,7 @@ dwo.knmi.nl
 dwo.pbl.nl
 dwo.politieacademie.nl
 dwo.rdw.nl
+dwo.rivm.nl
 dwo.scp.nl
 dwrt2.ssc-ict.nl
 dwrt3.ssc-ict.nl
@@ -5526,6 +5659,7 @@ eagle.dji.nl
 eaip.lvnl.nl
 eaiptest.lvnl.nl
 eakkoord.nl
+earss.rivm.nl
 earthobs3.arcgis.com
 easy.dans.knaw.nl
 easy.nieuwsenkennisportaalbzk.nl
@@ -5567,6 +5701,7 @@ ecc-fto.erp.kadaster.nl
 ecc-int.erp.kadaster.nl
 ecc-ont.erp.kadaster.nl
 ecc.erp.kadaster.nl
+ecdis.osiris.rivm.nl
 echo.bkwi.nl
 ecli.rechtspraak.nl
 eco-a-az1.elastic.lpc.logius.nl
@@ -5832,6 +5967,7 @@ enquete-demo.dictu.nl
 enquete-tst.dictu.nl
 enquete.dictu.nl
 enquete.eerstekamer.nl
+enquete.rivm.nl
 enterprise-k8s.arcgis.com
 enterprise.arcgis.com
 enterpriseenrollment.belastingdienst.nl
@@ -5966,6 +6102,7 @@ eula.flevoland.nl
 eumet.knmi.nl
 eumetcal.eu
 eunethta.eu
+eurgen-net.rivm.nl
 eurlsalmonella.eu
 euro4mvis.knmi.nl
 eurofawc.com
@@ -6009,6 +6146,7 @@ ewerken.afm.nl
 ewerken2-acc.afm.nl
 ewerken2.afm.nl
 ewnederland.nl
+ewrs.rivm.nl
 ews-external.justid.nl
 ews.rijkewaddenzee.nl
 exactbrain.github.io
@@ -6061,6 +6199,7 @@ experiencedev.arcgis.com
 experimenteer-kadata.kadaster.nl
 expertisecentrummggz.nl
 expertpanel.gebruikercentraal.nl
+expertrolesqsort.rivm.nl
 exploitantonbemandeluchtvaartuigen.rdw.nl
 explore-humanitarian.hub.arcgis.com
 explorer.arcgis.com
@@ -6075,12 +6214,19 @@ externe-mail.knmi.nl
 externemail.cpb.nl
 externemail.ctgb.nl
 externemail.knmi.nl
+externemail.rivm.nl
 externemail.scp.nl
+externemail.test.rivm.nl
 externemail01.cpb.nl
 externemail01.knmi.nl
+externemail01.rivm.nl
 externemail02.cpb.nl
 externemail02.knmi.nl
+externemail02.rivm.nl
+externemail03.rivm.nl
+externemail04.rivm.nl
 externemailsaas.knmi.nl
+externemailsaas.rivm.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
 extrainfo-acc.rijksbegroting.nl
@@ -6100,6 +6246,8 @@ ez-rvo-ba-prd-2020.dictu.nl
 ez-rvo-ba-prd.dictu.nl
 ezine.rvo.nl
 ezines.rvo.nl
+ezips-app.rivm.nl
+ezips.rivm.nl
 f1130a.dictu.nl
 f1130b.dictu.nl
 f2b.belastingdienst.nl
@@ -6445,6 +6593,8 @@ files.kennisplein.intranet.minienm.nl
 files.klimaatadaptatienederland.nl
 files.logerenbijdeboswachter.nl
 filesender.ctgb.nl
+filesender.rivm.nl
+filesender01.rivm.nl
 fileshare.rekenkamer.nl
 fileshare.rijksdienstcn.com
 filestorage-ka.kadaster.nl
@@ -6574,6 +6724,7 @@ fryslan.lerenenwerken.nl
 fs-ms-exdns01.brabant.nl
 fs-ms-exdns03.brabant.nl
 fs-ms-exdns04.brabant.nl
+fs-pub.rivm.nl
 fs-up-sts01.brabant.nl
 fs-up-sts02.brabant.nl
 fs.afm.nl
@@ -6582,6 +6733,7 @@ fs.cpb.nl
 fs.ctgb.nl
 fs.knmi.nl
 fs.rijksdienstcn.com
+fs.rivm.nl
 fscontest.github.io
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
@@ -6632,6 +6784,8 @@ fvp.rijksapplicaties.nl
 fvp.staging.rijksapplicaties.nl
 fwd.maps.arcgis.com
 fwtrack.dmi-ecosysteem.nl
+g2b.acc-api.rivm.nl
+g2b.api.rivm.nl
 g4.databank.nl
 ga.chm-cbd.net
 gaa-jwt.acc.private.kadaster.nl
@@ -6676,6 +6830,7 @@ gbs.client.bureau.knaw.nl
 gbs.gateway.bureau.knaw.nl
 gcgis-gwinnettcountyga.hub.arcgis.com
 gcms-client-certificaat.dictu.nl
+gcn-app.rivm.nl
 gco.cloud.kadaster.nl
 gdc.cloud.kadaster.nl
 gdi-a.rvo.nl
@@ -6755,8 +6910,11 @@ gelderland.databank.nl
 geldlessen.nl
 gelijke-kansen.nl
 gelijkloon.mensenrechten.nl
+geluid.rivm.nl
 geluidgegevens.nl
 geluidskaart.odmh.nl
+geluidsrm.rivm.nl
+geluidwsv.rivm.nl
 gembrp.belastingdienst.nl
 gemeenteloket.minszw.nl
 gemeenten-a.svb.nl
@@ -6802,6 +6960,7 @@ geocontroletool.rijkswaterstaat.nl
 geodata.basisinformatie-overstromingen.nl
 geodata.cbs.nl
 geodata.nationaalgeoregister.nl
+geodata.rivm.nl
 geodata.zuid-holland.nl
 geodata1.nationaalgeoregister.nl
 geodiensten.flevoland.nl
@@ -6866,6 +7025,7 @@ gezondheidsraad.nl
 gezondheidsverklaring.coronatest.nl
 gfportal.test.gf.irealisatie.nl
 gfs-ro01.knaw.nl
+ggdiamdemo.rivm.nl
 ggm.acm.nl
 ggo-vergunningen.nl
 ggo-vergunningverlening.nl
@@ -6903,6 +7063,7 @@ gisbim-app-dev.devops.rvb.rijkscloud.nl
 gisdata-delco.hub.arcgis.com
 gisextern.dictu.nl
 gishubdata-ndgov.hub.arcgis.com
+gisportal.rivm.nl
 gisservices.aaenmaas.nl
 gisservicesacc.aaenmaas.nl
 gisviewer.odijmond.nl
@@ -7078,6 +7239,7 @@ grensdata.eu
 grensinfo.nl
 grenzeloossamenwerken.nl
 grip.informatiehuishouding.nl
+grip.rivm.nl
 grknmi.nl
 grnap176.duo.nl
 grnms101.duo.nl
@@ -7160,6 +7322,8 @@ gui.datascience.rijkscloud.nl
 gui.ienw.ix.rijkscloud.nl
 gui.performance.ix.rijkscloud.nl
 guydebres.huygens.knaw.nl
+gvcheckrivm1.rivm.nl
+gvcheckrivm2.rivm.nl
 gvn-prd.cloudservices.kb.nl
 gvopsawa-t.waterschaplimburg.nl
 gvopsawa.waterschaplimburg.nl
@@ -7353,6 +7517,7 @@ hybridexo.cbs.nl
 hybridmail.coa.nl
 hybridmail.rekenkamer.nl
 hymnology.hymnsam.co.uk.access.authkb.kb.nl
+hypocrates.rivm.nl
 i-certnl.nvwa.nl
 i-cms.defensie.nl
 i-cms.rijksoverheid.nl
@@ -7524,9 +7689,11 @@ im.o.extern.minszw.nl
 ima-princeton-edu.access.authkb.kb.nl
 imaer.aerius.nl
 image.email.kvk.nl
+images.acc-nieuwsbrieven.rivm.nl
 images.analyse.ilt.rijkscloud.nl
 images.halt.nl
 images.huygens.knaw.nl
+images.nieuwsbrieven.rivm.nl
 imageviewer.kb.nl
 img.denkmee.zuid-holland.nl
 img.openstad.zuid-holland.nl
@@ -7554,6 +7721,10 @@ incassomachtigen.str10.acc.belastingdienst.nl
 incassomachtigen.str11.acc.belastingdienst.nl
 incassomachtigen.str13.acc.belastingdienst.nl
 incca.org
+incident.rivm.nl
+incidentacc.rivm.nl
+incidentapprivm.rivm.nl
+incidentapprivmacc.rivm.nl
 incidentmanagement.nl
 inclusie.gebruikercentraal.nl
 inclusiefwerkt.nl
@@ -7569,6 +7740,9 @@ indigo-l3-sso.ilab.ota.ind.minbzk.nl
 industrie-en-omwonenden.onderzoeksraad.nl
 inechile.maps.arcgis.com
 ineo.dev.huc.knaw.nl
+influx.rivm.nl
+influxg.rivm.nl
+influxs.rivm.nl
 info.ptvt.nl
 infographic.agrimatie.nl
 infographics.pbl.nl
@@ -7654,6 +7828,7 @@ inspectiebtd.nl
 inspectielandschap.nl
 inspectieresultaten.nvwa.nl
 inspectieview.nl
+inspire.rivm.nl
 inspireaanmerking.nl
 instappen-a.cito.nl
 instappen-o.cito.nl
@@ -7825,7 +8000,10 @@ isdatechtzo.nl
 ise.acm.nl
 ishetafval.nl
 isi.cbs.nl
+isis-ar-rapportage.rivm.nl
 isis-web.nl
+isis.rivm.nl
+isisportal.rivm.nl
 isms.minienm.nl
 issues-acc.eherkenning.nl
 istandaarden.nl
@@ -7849,6 +8027,7 @@ iv3-controle.beta.cbs.nl
 iv3-controle.cbs.nl
 iv3-pilot.cbs.nl
 iv3statline.cbs.nl
+ivac.rivm.nl
 ivbeheer.rdw.nl
 ivd.nl
 ivho-acc.confluence.odc-noord.nl
@@ -8466,6 +8645,7 @@ kibana.ost.digid.nl
 kibana.rapportage.rijkscloud.nl
 kibana.rvb.rijkscloud.nl
 kibana.test.ix.rijkscloud.nl
+kiddi.rivm.nl
 kids.minvws.nl
 kidsacc.minvws.nl
 kiesraad.nl
@@ -8572,6 +8752,7 @@ kos.acp.kvk.nl
 kos.kennisplein.intranet.minienm.nl
 kos.kvk.nl
 kos.preprod.kvk.nl
+kosteneffectiviteit-preventie.rivm.nl
 kostenkentallen.rvo.nl
 kp-moss-ut.tst.belastingdienst.nl
 kpm.jeugdconnect.nl
@@ -8613,6 +8794,7 @@ kvkdataservice.afm.nl
 kvkhuurtin.nl
 kvkmutatieservice.rdw.nl
 kvkviewer.rdw.nl
+kvz2005.rivm.nl
 kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
@@ -8672,6 +8854,8 @@ lbio.nl
 lbrproxy.prod.nationaalarchief.nl
 lbrproxy.test.nationaalarchief.nl
 lc.cbs.nl
+lci-acc.rivm.nl
+lci.rivm.nl
 lcms.nl
 lcnk.nl
 lcp.databank.nl
@@ -8735,6 +8919,7 @@ leidraadse.nl
 lenohuis.kennisplatformondermijning.nl
 leren.mensenrechten.nl
 leren.nza.nl
+leren.rivm.nl
 lerenbij.ciz.nl
 lerenenwerken.nl
 lerenvoorveiligheid.nl
@@ -8784,6 +8969,8 @@ lil.cultureelerfgoed.nl
 limburg.databank.nl
 limburg.nl
 limesurvey.rd.di.huc.knaw.nl
+lims.rivm.nl
+link-test.rivm.nl
 link.aerius.nl
 link.aofondsrijk.nl
 link.aovvt.nl
@@ -8802,6 +8989,7 @@ link.onderzoeksraad.nl
 link.oofggz.nl
 link.ptvt.nl
 link.restitutiecommissie.nl
+link.rivm.nl
 link.test.onderzoeksraad.nl
 linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
@@ -8845,8 +9033,11 @@ livra2.bics.nl
 livra3.bics.nl
 lk.chm-cbd.net
 lkod-iprpraha.hub.arcgis.com
+lkvis.rivm.nl
 llama.zandbak.dans.knaw.nl
 lma.nl
+lml.rivm.nl
+lmm.rivm.nl
 lmr-noord.proeftuin.gf.irealisatie.nl
 lmr-noord.test.gf.irealisatie.nl
 lmr-oost.proeftuin.gf.irealisatie.nl
@@ -8937,6 +9128,7 @@ login.pp2.digid.nl
 login.proeftuin.uzi-online.irealisatie.nl
 login.protocol.mfaservices.nl
 login.pzp.nl
+login.rivm.nl
 login.rvb.rijkscloud.nl
 login.scp.nl
 login.t1.digid.nl
@@ -8979,6 +9171,7 @@ loketgentherapie.nl
 loketgezondleven.nl
 loketkennisveiligheid.nl
 loki.extern.minszw.nl
+longcovid.rivm.nl
 longread.brabant.nl
 longreads.cbs.nl
 loonaangifteketen.nl
@@ -9008,6 +9201,11 @@ lrs.test.gf.irealisatie.nl
 lrza.gatservices.acc.igj.nl
 lrza.gatservices.prd.igj.nl
 lrza.services.cibg.nl
+lsocit.rivm.nl
+lsocit1.rivm.nl
+lsocit2.rivm.nl
+lsocom1.rivm.nl
+lsocom2.rivm.nl
 lt-i.espacenet.com
 lt.espacenet.com
 lta-acc.zuid-holland.nl
@@ -9076,6 +9274,7 @@ m365-to-timetell.huc.knaw.nl
 m365.cpb.nl
 m365.ctgb.nl
 m365.knmi.nl
+m365.rivm.nl
 m365.scp.nl
 ma.chm-cbd.net
 ma.kcb.nl
@@ -9093,6 +9292,7 @@ machtigen.digid.nl
 machtigen.digipoort.logius.nl
 machtigingondertekenen.rdw.nl
 mack-park-farm-salemma.hub.arcgis.com
+macotra.rivm.nl
 maf-a.svb.nl
 maf-oh.svb.nl
 maf.svb.nl
@@ -9131,6 +9331,7 @@ magazines.openbaarministerie.nl
 magazines.p-direkt.nl
 magazines.rdi.nl
 magazines.rijksoverheid.nl
+magazines.rivm.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
 magazines.vrachtwagenheffing.nl
@@ -9357,17 +9558,22 @@ mam.ctgb.nl
 mam.duo.nl
 mam.justid.nl
 mam.knmi.nl
+mam.rivm.nl
 mam.scp.nl
+man.rivm.nl
 managedservices.logius.nl
 management.api-acc.afm.nl
 management.api-dev.afm.nl
 management.api.afm.nl
 management.apim.acc.cloudservices.kb.nl
+managementapi.vragenlijst-acc.rivm.nl
+managementapi.vragenlijst.rivm.nl
 manager.klopt.cibg.nl
 manan-1112.github.io
 manifestgroep.nl
 manuscripts-prd.cloudservices.kb.nl
 manuscripts.kb.nl
+manveldapp-beheer.rivm.nl
 map-wellesleyma.hub.arcgis.com
 map.cloud.kadaster.nl
 map.lab.cloud.kadaster.nl
@@ -9385,6 +9591,7 @@ maps.nak.nl
 maps.naktuinbouw.nl
 maps.ndw.nu
 maps.rijkswaterstaat.nl
+maps.rivm.nl
 maps.staging.ndw.nu
 maps.waterschaplimburg.nl
 mapserver.fa.knaw.nl
@@ -9441,6 +9648,9 @@ mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 mccg.nl
 mcm-pre.gslbppe.politie.nl
+mcra-test.rivm.nl
+mcra-training.rivm.nl
+mcra.rivm.nl
 mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 mcsd-consumer-admin.test.gf.irealisatie.nl
 mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
@@ -9472,6 +9682,9 @@ mdmvpn.cbg-meb.nl
 mdu.rdw.nl
 meadhunt.maps.arcgis.com
 meander.aerius.nl
+mebi-backoffice.rivm.nl
+mebi.rivm.nl
+mebi.rivmweb.rivm.nl
 med-srv20.rijksoverheid.nl
 mededeling.rechtspraak.nl
 medewerker-acc.cbr.nl
@@ -9542,6 +9755,7 @@ melissa.ncsc.nl
 melvin-acc.staging.ndw.nu
 melvin.ndw.nu
 mensenrechten.nl
+menukaart-kansrijkestart-nl.rivm.nl
 menukaart.kansrijkestartnl.nl
 mercurius.sso3w.nl
 meridian.rijkswaterstaat.nl
@@ -9583,6 +9797,7 @@ mft-prd.svb.nl
 mft.kb.nl
 mft.minbzk.nl
 mft.protocol.mfaservices.nl
+mft.rivm.nl
 mft.webftp.dictu.nl
 mg.chm-cbd.net
 mg11.kadaster.nl
@@ -9590,6 +9805,7 @@ mg12.kadaster.nl
 mg2.kadaster.nl
 mg21.kadaster.nl
 mg22.kadaster.nl
+mgk.osiris.rivm.nl
 mgmt.aerius.nl
 mgt.flevoland.nl
 mgw.meertens.knaw.nl
@@ -9598,6 +9814,7 @@ mh3.kadaster.nl
 mh4.kadaster.nl
 mi-cert.nl
 miauw.rdosecurity.nl
+micha.rivm.nl
 micollab.cbs.nl
 micollab.flevoland.nl
 micollab.mensenrechten.nl
@@ -9617,6 +9834,7 @@ middenlimburg.lerenenwerken.nl
 mig.cbs.nl
 migrantcards.huygens.knaw.nl
 migrants-test.red.huygens.knaw.nl
+migratie.rivm.nl
 mijn-a.nipv.nl
 mijn-academie.rechtenoverheid.nl
 mijn-acc.hetcak.nl
@@ -9704,6 +9922,7 @@ mijn.rdw.nl
 mijn.rechtenoverheid.nl
 mijn.rechtspraak.nl
 mijn.registersocialehygiene.nl
+mijn.rivm.nl
 mijn.rvo.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -9774,6 +9993,7 @@ mijnexamens.ifv.nl
 mijnkompol-a.politieacademie.nl
 mijnkompol-t.politieacademie.nl
 mijnkompol.politieacademie.nl
+mijnlmm.rivm.nl
 mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
 mijnloonstrook.knaw.nl
@@ -9794,6 +10014,7 @@ mijnresolutie-tst.azure.dnb.nl
 mijnresolutie.azure.dnb.nl
 mijnrijkspas.nl
 mijnrn.reclassering.nl
+mijnsap.rivm.nl
 mijnsite.nji.nl
 mijnslachtofferzaak.nl
 mijnstrafdossiers.rechtspraak.nl
@@ -9848,6 +10069,7 @@ mijnzakelijk2.acc.belastingdienst.nl
 mik-acpt.brabant.nl
 mik.brabant.nl
 mikkdcp.politieacademie.nl
+milieuportaal.rivm.nl
 milieuzones.nl
 miljoenennota.rijksfinancien.nl
 mimbmp.sap.minienm.nl
@@ -9965,6 +10187,7 @@ mobile.raadvanstate.nl
 mobile.reclassering.nl
 mobile.rijksdienstcn.com
 mobilesync.knmi.nl
+mobilesync.rivm.nl
 mobiliteitsbank.nl
 mobiliteitsscan-info.nl
 mobilitylab.nl
@@ -9975,6 +10198,7 @@ mockapp-pp.dnb.nl
 mockapp-test.dnb.nl
 mode-s.knmi.nl
 modellen.jenvgegevens.nl
+modellenregister.rivm.nl
 modis.arcgis.com
 modules.istandaarden.nl
 mogin.ndw.nu
@@ -10027,6 +10251,7 @@ mooibeweging.nl
 moordzaak.om.nl
 moses.ont.belastingdienst.nl
 move-rdh.nl
+mpf.rivm.nl
 mpn-acc.minienm.nl
 mpn-acc.minienw.nl
 mpn-pre.minienm.nl
@@ -10047,6 +10272,7 @@ mrs.dnb.nl
 mrs.nvao.net
 mrs1.kadaster.nl
 mrs2.kadaster.nl
+mrsa.rivm.nl
 mrt.defensie.nl
 ms.bgt-lv.acceptatie.kadaster.nl
 ms.bgt-lv.kadaster.nl
@@ -10282,6 +10508,7 @@ nationalaccounts.niwi.knaw.nl
 nationalebijenstrategie.nl
 nationaleconferentieduurzamemobiliteit.nl
 nationaleenergieatlas.nl
+nationaleenergieatlas.rivm.nl
 nationaleombudsman.nl
 nationaleparkenbureau.nl
 natura2000-data.zuid-holland.nl
@@ -10358,6 +10585,8 @@ neuronprod.vallei-veluwe.nl
 neurontest.vallei-veluwe.nl
 nevenactiviteiten.cvdm.nl
 nevenbetrekkingen.om.nl
+nevo-online.rivm.nl
+nevo.rivm.nl
 new.boekingszuil.logerenbijdeboswachter.nl
 new.deweekvandecirculaireeconomie.nl
 new.luchtvaartmeteo.nl
@@ -10396,6 +10625,7 @@ nh.douane.nl
 nhi-adfs01.herseninstituut.knaw.nl
 nhi-domc01.herseninstituut.knaw.nl
 nhr.flevoland.nl
+nhs-lims.rivm.nl
 nias.idp.knaw.nl
 nias.knaw.nl
 nidi.idp.knaw.nl
@@ -10419,6 +10649,7 @@ nieuwsbrief.autoriteitpersoonsgegevens.nl
 nieuwsbrief.examenblad.nl
 nieuwsbrief.lexces.nl
 nieuwsbrief.rijksacademie.nl
+nieuwsbrief.rivm.nl
 nieuwsbrief.zuid-holland.nl
 nieuwsbriefrechtspraak.nl
 nieuwsbrieven.caop.nl
@@ -10426,6 +10657,7 @@ nieuwsbrieven.coa.nl
 nieuwsbrieven.lexces.nl
 nieuwsbrieven.limburg.nl
 nieuwsbrieven.rijkswaterstaat.nl
+nieuwsbrieven.rivm.nl
 nieuwsbrievenminocw.nl
 nieuwsenkennisportaalbzk.nl
 nieuwsienw.nl
@@ -10446,6 +10678,7 @@ nipv.nl
 nis.naktuinbouw.nl
 nisha240799.github.io
 nisheedkumarrout.github.io
+nivelform.rivm.nl
 niwo.nl
 nix18.nl
 nji.nl
@@ -10512,6 +10745,7 @@ notariaatdashboard.kadaster.nl
 notariaatdashboard.test.kadaster.nl
 notebooksservices-eu1.arcgis.com
 notebooksservices-eu1.az-int.arcgis.com
+notestest.rivm.nl
 notificatie-preprod.api.ep-online.nl
 notificatie.api.ep-online.nl
 notificatie.pzp.nl
@@ -10543,6 +10777,7 @@ ns.gn3.rijkscloud.nl
 ns.huc.knaw.nl
 ns.kvk.nl
 ns.parlement.nl
+ns.rivm.nl
 ns.rw1.rijkscloud.nl
 ns00.ec.rijkscloud.nl
 ns00.gn1.rijkscloud.nl
@@ -10594,6 +10829,7 @@ ns2.minbzk.nl
 ns2.ows2.politie.nl
 ns2.parlement.nl
 ns2.rdw.nl
+ns2.rivm.nl
 ns2.scp.nl
 ns2.svb.nl
 ns3.belastingdienst.nl
@@ -10604,6 +10840,7 @@ ns4.brabant.nl
 ns4.rdw.nl
 ns5.rdw.nl
 nsgi.nl
+nsl-monitoring.rivm.nl
 nsp-toekomstglb.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
@@ -10827,6 +11064,7 @@ ombouwsnorfietsnaarbromfiets.rdw.nl
 omgevingsbeleid.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
 omgevingsplan.flevoland.nl
+omgevingsveiligheid.rivm.nl
 omgevingswet.overheid.nl
 omi.vallei-veluwe.nl
 omnivista.knaw.nl
@@ -10892,6 +11130,7 @@ onsgeldontcijferd-test.rekenkamer.nl
 onsgeldontcijferd.rekenkamer.nl
 onslevendlandschap.nl
 onswater.nl
+ont-bestellingen.rivm.nl
 ont-mijn.rvo.nl
 ont.antenneregister.nl
 ont.belastingdienst.nl
@@ -10920,6 +11159,7 @@ ontw-pzpdirect.pzp.nl
 ontw-rh-a-pzpdirect.pzp.nl
 ontw-rh-a-www.pzp.nl
 ontw-www.pzp.nl
+ontw.api-samenmeten.rivm.nl
 ontw.app.pzp.nl
 ontw.livechat.pzp.nl
 ontwik.sapgw.minienw.nl
@@ -11327,6 +11567,7 @@ osg.gn2.rijkscloud.nl
 osg.gn3.rijkscloud.nl
 osiris-t.politieacademie.nl
 osiris.politieacademie.nl
+osiris.rivm.nl
 osirisacc.politieacademie.nl
 osirislink-a.politieacademie.nl
 osirislink-t.politieacademie.nl
@@ -11471,21 +11712,27 @@ parked.rdw.nl
 parlement.nl
 parsr.labs.dans.knaw.nl
 participantapi.postcovidonderzoek.nl
+participantapi.vragenlijst-acc.rivm.nl
+participantapi.vragenlijst.rivm.nl
 partijopgave.naktuinbouw.nl
 partnerplaza.sso3w.nl
 partnersforwater.nl
 partoer.databank.nl
 pas.natura2000.nl
+paskaart.rivm.nl
 paspoort.dmi-ecosysteem.nl
 paspoort.staging.dmi-ecosysteem.nl
 passendexaminerenvo.nl
 password-new.knmi.nl
+password-test.rivm.nl
 password.ctgb.nl
 password.iam.acceptatie.kadaster.nl
 password.iam.kadaster.nl
 password.iam.test.kadaster.nl
 password.knaw.nl
 password.knmi.nl
+password.osiris.rivm.nl
+password.rivm.nl
 passwordmanager.zorginstituutnederland.nl
 passwordreset.ictu.nl
 passwordreset.rdw.nl
@@ -11774,6 +12021,7 @@ pgv.cbr.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
 phantom7666.github.io
+philotes.rivm.nl
 phished.fondspodiumkunsten.nl
 phonebook.knaw.nl
 pi-extern.wcm.acceptatie.kadaster.nl
@@ -11795,6 +12043,7 @@ picarta.pica.nl.access.authkb.kb.nl
 pih.acc.belastingdienst.nl
 pih.belastingdienst.nl
 pilootonbemandeluchtvaartuigen.rdw.nl
+pilot-vcpapp.rivm.nl
 pilot.mijn.overheid.nl
 pilot.praatmeemetdeoverheid.nl
 pilot.uzi-online.minvws.nl
@@ -12040,6 +12289,7 @@ portaltalk.rdw.nl
 portaltepr.entreepgb.svb.nl
 portaltest.entreepgb.svb.nl
 portaltest.politieacademie.nl
+portie-online.rivm.nl
 porto.bkwi.nl
 positconnect.ikz.nl
 positpm.ikz.nl
@@ -12097,6 +12347,8 @@ prd.consexponano.nl
 prd.web-static.rijkswaterstaat.nl
 prd7.connectorscheduler.kb.nl
 pre-dpia.huc.knaw.nl
+pre-login.rivm.nl
+pre-uzi.rivm.nl
 pre.bronhouderportaal-bro.nl
 pre.document-viewer-api.dso.kadaster.nl
 pre.geodoc.dso.kadaster.nl
@@ -12179,17 +12431,21 @@ preview-lpg-handboek.rdw.nl
 preview-t.cito.nl
 preview-tachograaf-handboek.rdw.nl
 preview.api.dataplatform.knmi.nl
+preview.chemkap.rivm.nl
 preview.cito.nl
 preview.digid.nl
 preview.dynamo-hia.eu
+preview.enquete.rivm.nl
 preview.espacenet.com
 preview.gezondeschool.nl
+preview.kosteneffectiviteit-preventie.rivm.nl
 preview.loketgezondleven.nl
 preview.nederlandwereldwijd.nl
 preview.netherlandsworldwide.nl
 preview.rdw.nl
 preview.wegwijzer.overheid.nl
 previewnext.emissieregistratie.nl
+prezies.osiris.rivm.nl
 primarysources.brillonline.com.access.authkb.kb.nl
 primet.alterra.nl
 primos.databank.nl
@@ -12220,6 +12476,7 @@ prizmo.rvo.nl
 prk-lpb.duo.nl
 pro.document-viewer-api.dso.kadaster.nl
 pro.ozon.dso.kadaster.nl
+proastweb.rivm.nl
 probeer.acm.nl
 probeer.ihw.nl
 probeer.pianoo.nl
@@ -12299,6 +12556,7 @@ productie-nieuw.bidbook.eu
 productie-nieuw.biedboek.nl
 productie.loketgezondleven.nl
 productie.metspoedbeschikbaar.nl
+productie.rivm.nl
 productie.sodm.nl
 production-new.nba.nl
 production-pe.nba.nl
@@ -12326,6 +12584,7 @@ profgeodata.static.basisinformatie-overstromingen.nl
 prognosemodelzw.databank.nl
 programma-uned.nl
 programmavivet.nl
+prohibit.osiris.rivm.nl
 project.cultuurparticipatie.nl
 projecta44.nl
 projecten-acc.netwerkplatteland.nl
@@ -12350,6 +12609,7 @@ prometheus.gn3.rijkscloud.nl
 promise.nioo.knaw.nl
 promtail.extern.minszw.nl
 promtoolbox.zorginzicht.nl
+proofofconcept.rivm.nl
 prosecutionservice.nl
 protide.rijkswaterstaat.nl
 proto.farmacotherapeutischkompas.nl
@@ -12505,6 +12765,7 @@ q-bankplants.eu
 qa.coronatest.nl
 qaext.arcgis.com
 qapbldexte2.belastingdienst.nl
+qas-mijnsap.rivm.nl
 qbes.cbs.nl
 qingfengtechnology.github.io
 qlikview.rvo.nl
@@ -12599,6 +12860,7 @@ rbv.rijksfinancien.nl
 rc01.dh.huc.knaw.nl
 rc02.dh.huc.knaw.nl
 rc03.dh.huc.knaw.nl
+rca.rivm.nl
 rce-acc.topdesk.odc-noord.nl
 rce-prd.topdesk.odc-noord.nl
 rcgog.nl
@@ -12701,6 +12963,7 @@ redir.rdw.nl
 redirect.ictu.nl
 redirect.isdatechtzo.nl
 redirect.rechtspraak.nl
+redirect.rivm.nl
 redlands-anca.hub.arcgis.com
 redmine.knmi.nl
 redt.rijksapplicaties.nl
@@ -12920,6 +13183,8 @@ rhel-p-mijn.rvo.nl
 rhel8.wabinfo.rijkswaterstaat.nl
 rht.belastingdienst.nl
 ri-department-of-health-covid-19-case-data-rihealth.hub.arcgis.com
+ri-erin.vragenlijst-acc.rivm.nl
+ri-erin.vragenlijst.rivm.nl
 ricegis.maps.arcgis.com
 riec-liec-academie.pleio.nl
 riec.nl
@@ -13006,7 +13271,9 @@ risicotoolboxbodem.nl
 river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
 rivierenland.leerwerkloket.nl
 rivierenland.lerenenwerken.nl
+rivm-lmlng-l01p.rivm.ssc-campus.nl-nat.rivm.nl
 rivm.atlasleefomgeving.nl
+rivm.nl
 rivmmagazines.nl
 rivmopendata.cbs.nl
 rl.minvws.nl
@@ -13203,12 +13470,15 @@ rvo.nl
 rvp-beheer-demo.devops.rvb.rijkscloud.nl
 rvp-demo.devops.rvb.rijkscloud.nl
 rvp.reis.idm.rvig.nl
+rvs-beheer.rivm.nl
+rvs.rivm.nl
 rvsapi-kiwi-a.raadvanstate.nl
 rvsapi-kiwi.raadvanstate.nl
 rvsapi.raadvanstate.nl
 rvsapiacc.raadvanstate.nl
 rvsapidev.raadvanstate.nl
 rvsapitst.raadvanstate.nl
+rvszoeksysteem.rivm.nl
 rw-iene-acc.topdesk.odc-noord.nl
 rw-iene-prd.topdesk.odc-noord.nl
 rw.belastingdienst.nl
@@ -13252,6 +13522,7 @@ safefiletransfer.rdw.nl
 sahara.master.darenet.knaw.nl
 saimani5454.github.io
 salisbury.maps.arcgis.com
+samenmeten.rivm.nl
 samenveiligwerken.hhdelfland.nl
 samenwerken.brabant.nl
 samenwerken.kennisplatform.nl
@@ -13443,6 +13714,7 @@ search.business.gov.nl
 search.developer.overheid.nl
 search.ebscohost.com.access.authkb.kb.nl
 search.nvao.net
+search.rivm.nl
 seb.ibki.nl
 sec01.dans.knaw.nl
 secretaria-de-salud-de-soacha-sigsoacha15.hub.arcgis.com
@@ -13450,13 +13722,17 @@ sectransfer-acc.rijkscloud.nl
 sectstssp.ix.rijkscloud.nl
 secu.knmi.nl
 secudoc.nji.nl
+secure-acceptatie.grip.rivm.nl
 secure-bvi-test.politie.nl
+secure-test.rivm.nl
 secure.cito.nl
 secure.geodata2.nationaalgeoregister.nl
+secure.grip.rivm.nl
 secure.huygens.knaw.nl
 secure.integratieplatform.rdw.nl
 secure.knmi.nl
 secure.niwo.nl
+secure.rivm.nl
 secure.vechtstromen.nl
 secure4.svb.nl
 secure5.svb.nl
@@ -13465,6 +13741,7 @@ securefiletransfer.ictu.nl
 securemail.bics.nl
 securemail.dnb.nl
 securemail.hetcak.nl
+securemail.rivm.nl
 securemail.zorginstituutnederland.nl
 securemailnew.bics.nl
 securened.ncsc.nl
@@ -13488,6 +13765,7 @@ semaf.labs.dans.knaw.nl
 semaphore.cultuurparticipatie.nl
 semarnath1.maps.arcgis.com
 send.kansspelautoriteit.nl
+sensors.rivm.nl
 sensu.ix.rijkscloud.nl
 senternovem.databank.nl
 sentry.acm.nl
@@ -13497,6 +13775,7 @@ sentry.ndw.nu
 sentry.services.acm.nl
 sentry1.zwb.riec.nl
 sepm.belastingdienst.nl
+serhatpc.rivm.nl
 server-monitoring.ptvt.nl
 server.arcgis.com
 server.hcaict.nl
@@ -13586,6 +13865,7 @@ sf.cpb.nl
 sf.ctgb.nl
 sf.knmi.nl
 sf.pbl.nl
+sf.rivm.nl
 sf.scp.nl
 sfb.cjib.nl
 sfbav.cjib.nl
@@ -13599,14 +13879,18 @@ sfbwebext.lbio.nl
 sfs-acc.dictu.nl
 sfs.dictu.nl
 sftp-out.brba.nl
+sftp-test01.rivm.nl
 sftp.acpt.nationaalarchief.nl
 sftp.cbs.nl
+sftp.cims.rivm.nl
 sftp.nationaalarchief.nl
 sftp.onderzoeksraad.nl
 sftp.politieacademie.nl
+sftp.rivm.nl
 sftp.syn.rijksapplicaties.nl
 sftp.ted.nationaalarchief.nl
 sftp.test.cbs.nl
+sftp1.cims.rivm.nl
 sftp4dummies.cbs.nl
 sgr.bkwi.nl
 shai.meldknop.nl
@@ -13686,6 +13970,8 @@ siem.irealisatie.nl
 sign.test.who.minvws.nl
 sign1-acc.toeslagen.nl
 sign1.toeslagen.nl
+signalen.osiris.rivm.nl
+signalen.rivm.nl
 signicat-qa.sso.eherkenning.nl
 signicat-staging.sso.eherkenning.nl
 signicat.sso.eherkenning.nl
@@ -13868,6 +14154,7 @@ snippet.clo.nl
 snippet.icer.pbl.nl
 snippet.pbl.nl
 snippet.startanalyse.pbl.nl
+sniv.osiris.rivm.nl
 snow-cw.dictu.nl
 snow.afm.nl
 soap.acc1.machtigen.digid.nl
@@ -13880,6 +14167,7 @@ soap.acceptatie.machtigen.digid.nl
 soap.machtigen.digid.nl
 soap.ontwikkel.machtigen.digid.nl
 soap.openbare-inspectieresultaten.nvwa.nl
+soap.osiris.rivm.nl
 sociaalfonds.minienm.nl
 social.gov.nl
 social.overheid.nl
@@ -13911,6 +14199,7 @@ sonarqube2.devops.rvb.rijkscloud.nl
 sonicwall.nvao.net
 sophie.oidji.nl
 sophos.politie.nl
+sorproposal.rivm.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 sorry.rdw.nl
@@ -13946,9 +14235,11 @@ sportenbewegenincijfers.nl
 spot-on-acc.afm.nl
 spot-on-dt.afm.nl
 spot-on.afm.nl
+sprproposal.rivm.nl
 spx-oec.digitalenoordzee.nl
 sq.mfaservices.nl
 sqaas.labs.dans.knaw.nl
+sqproxyl03-int-p-nat.rivm.nl
 squit2go.ofgv.nl
 squit2gotest.ofgv.nl
 sr-endpoint.acceptatie.kadaster.nl
@@ -13986,10 +14277,13 @@ sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
 sso-dev.bronhouderportaal-bro.nl
+sso-osiris.rivm.nl
 sso-pa.politie.nl
 sso-test-tno.bronhouderportaal-bro.nl
+sso-webauth.rivm.nl
 sso.acc.omgevingswet.overheid.nl
 sso.acceptatie.istandaarden.nl
+sso.api.rivm.nl
 sso.bronhouderportaal-bro.nl
 sso.bta.omgevingswet.overheid.nl
 sso.dbe-t.rvb.rijkscloud.nl
@@ -14199,6 +14493,7 @@ statistiek.rvo.nl
 statistieka.dnb.nl
 statistieken.coa.nl
 statline.cbs.nl
+statline.rivm.nl
 statpubliekedata-acc.azure.dnb.nl
 statpubliekedata-dev.azure.dnb.nl
 statpubliekedata-pre.azure.dnb.nl
@@ -14251,6 +14546,7 @@ stepui-acc.azure.dnb.nl
 stepui-dev.azure.dnb.nl
 stepui-tst.azure.dnb.nl
 stepui.azure.dnb.nl
+sterftecijfers.rivm.nl
 sterftedashboard-regionaal.vzinfo.nl
 sterftedashboard.vzinfo.nl
 steunpunt.caop.nl
@@ -14260,6 +14556,7 @@ sth.staging.rijksapplicaties.nl
 stichting.caop.nl
 stijlgids.cibg.nl
 stijlgids.rijkswaterstaat.nl
+stikstofdepositiedata.rivm.nl
 stopheling.nl
 stopid.reis.lap.idm.rvig.nl
 stor.portaal-acc.afm.nl
@@ -14341,6 +14638,7 @@ support.arcgis.com
 support.cbr.nl
 support.chm-cbd.net
 support.huc.knaw.nl
+support.rivm.nl
 support.test.pdok.nl
 support.vechtstromen.nl
 support1.rdw.nl
@@ -14383,6 +14681,7 @@ swap.alterra.nl
 swirrl.climate4impact.eu
 switchbox.rijksapplicaties.nl
 switchbox.staging.rijksapplicaties.nl
+swka.rivm.nl
 sword.easy.dans.knaw.nl
 swp.acp.kvk.nl
 swp.kvk.nl
@@ -14445,6 +14744,8 @@ tagging.caop.nl
 taiwan.dev.investinholland.com
 taiwan.investinholland.com
 taoracleoem21.knaw.nl
+tapir-acc.rivm.nl
+tapir.rivm.nl
 tar31.dans.knaw.nl
 taranis.ncsc.nl
 tarief.douane.nl
@@ -14484,6 +14785,9 @@ teamstest.hhdelfland.nl
 techniekacademie.rijkswaterstaat.nl
 technische-documentatie.oep.overheid.nl
 ted.nationaalarchief.nl
+teebstad-app.rivm.nl
+teebstad.rivm.nl
+teekcontrol.rivm.nl
 teelt.bkd.eu
 tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
 tekortkomingen-wvggz.webservices-dbb.igj.nl
@@ -14566,6 +14870,7 @@ test-diginetwerk.procesinfrastructuur.nl
 test-dol.stopheling.nl
 test-dor.stopheling.nl
 test-dorbeheer.stopheling.nl
+test-dwo.rivm.nl
 test-eas.kadaster.nl
 test-ebf-internet.procesinfrastructuur.nl
 test-ebms-internet.procesinfrastructuur.nl
@@ -14573,6 +14878,7 @@ test-ebms.procesinfrastructuur.nl
 test-eef.waterschaplimburg.nl
 test-energielabels.gebouwen.overheid.nl
 test-english.rvo.nl
+test-fides.rivm.nl
 test-globe-ebms-internet.procesinfrastructuur.nl
 test-globe-portaal-internet.procesinfrastructuur.nl
 test-globe-rest-internet.procesinfrastructuur.nl
@@ -14608,6 +14914,7 @@ test-tno.bronhouderportaal-bro.nl
 test-token-secure.pzp.nl
 test-token.pzp.nl
 test-veiligheidsregio.lcms.nl
+test-veldmonitoring.rivm.nl
 test-venus-exact.minszw.nl
 test-vpn.kadaster.nl
 test-waterschappen.lcms.nl
@@ -14652,6 +14959,7 @@ test.consuwijzer.nl
 test.contactpuntbouwproducten.nl
 test.control.ictu.nl
 test.coronatest.nl
+test.crios.rivm.nl
 test.cruksregister.nl
 test.csirtdsp.nl
 test.cultureelerfgoed.nl
@@ -14705,6 +15013,8 @@ test.leefbaarometer.nl
 test.leerwerkloket.nl
 test.lint.gebruikercentraal.nl
 test.lma.nl
+test.lml.rivm.nl
+test.lmm.rivm.nl
 test.loketgezondleven.nl
 test.meldpuntbodemkwaliteit.nl
 test.metspoedbeschikbaar.nl
@@ -14729,6 +15039,7 @@ test.nlplatform.com
 test.onderzoeksraad.nl
 test.openbare-inspectieresultaten.nvwa.nl
 test.optimaaldigitaal.gebruikercentraal.nl
+test.pars.rivm.nl
 test.pdok.nl
 test.peppolautoriteit.nl
 test.pianoo.nl
@@ -14746,6 +15057,7 @@ test.resultaten.nlarbeidsinspectie.nl
 test.rijksictdashboard.nl
 test.rijkswaterstaatstrooit.nl
 test.risicotoolboxbodem.nl
+test.rivm.nl
 test.rotterdammer.gebruikercentraal.nl
 test.rvig.nl
 test.rvo.nl
@@ -14756,10 +15068,12 @@ test.status.cbs.nl
 test.stopheling.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
+test.teebstad.rivm.nl
 test.thms.rijkscloud.nl
 test.toolkittaal.gebruikercentraal.nl
 test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
+test.vcpapp.rivm.nl
 test.volwassenheidsscan.gebruikercentraal.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
@@ -14791,6 +15105,7 @@ testcao.minszw.nl
 testcloud.cvte.nl
 testconn.ctgb.nl
 testconn.knmi.nl
+testconn.rivm.nl
 testdigikoppeling.waterschaplimburg.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
@@ -14862,6 +15177,7 @@ tib-ivd.nl
 tib.dataplatform.knmi.nl
 tickets.bdmuseum.nl
 tijdelijkdocumentnummeraanvragen.rdw.nl
+tijdlijnencovid19.rivm.nl
 tijdschrijven.caop.nl
 tiledimageservices-eu1.arcgis.com
 tiledimageservices.arcgis.com
@@ -14979,6 +15295,8 @@ top.cbr.nl
 topacc.cbr.nl
 topcorridors.nl
 topdesk-iv.rijkswaterstaat.nl
+topdesk-reach-acc.rivm.nl
+topdesk-reach.rivm.nl
 topdesk-wvl.rijkswaterstaat.nl
 topdesk.ictu.nl
 topdesk.odc-noord.nl
@@ -15056,6 +15374,9 @@ tst-developer-portal.data-exchange.consular.mfaservices.nl
 tst-energiebesparingsverkenner.rvo.nl
 tst-euvis-api.data-exchange.consular.mfaservices.nl
 tst-euvis-ebms.data-exchange.consular.mfaservices.nl
+tst-lsp.rivm.nl
+tst-mam.rivm.nl
+tst-mijn.rivm.nl
 tst-referentiegegevens.justid.nl
 tst-reftool-portal.consular.mfaservices.nl
 tst-sigma-ebms.data-exchange.consular.mfaservices.nl
@@ -15115,6 +15436,7 @@ tst8.mijn.overheid.nl
 tst9.mijn.overheid.nl
 tt.di.huc.knaw.nl
 tth.rdw.nl
+ttp.rivm.nl
 ttv.dans.knaw.nl
 ttw.rijksapplicaties.nl
 ttw.staging.rijksapplicaties.nl
@@ -15153,6 +15475,9 @@ twww11.meertens.knaw.nl
 tyk-cdn.dataplatform.knmi.nl
 type-approval.rdw.nl
 type.labs.dans.knaw.nl
+typened-cpe.rivm.nl
+typened-crmo.rivm.nl
+typened-mrsa.rivm.nl
 tz-aanvragen-acc.dnb.nl
 tz-aanvragen-dev.dnb.nl
 tz-aanvragen-tst.dnb.nl
@@ -15278,6 +15603,7 @@ uzi.acc.federatieveservice.nl
 uzi.brba.nl
 uzi.federatieveservice.nl
 uzi.gebruikers.coronatest.nl
+uzi.rivm.nl
 uzi.test.brba.nl
 uzi.testuitslagen.coronatest.nl
 uzipas.lir.cibg.nl
@@ -15299,6 +15625,7 @@ vaardigheid-tst.cbr.nl
 vaardigheid.cbr.nl
 vaartuigvannaamhalen.rdw.nl
 vaartuigvolgsysteem.zuid-holland.nl
+vacatiegelden.rivm.nl
 vacature.werkenbijdeeu.nl
 vacature.werkenvoorinternationaleorganisaties.nl
 vacatures.afm.nl
@@ -15358,6 +15685,7 @@ vclgwpa01-ext.kdmz.belastingdienst.nl
 vclgwpa01-int.kdmz.belastingdienst.nl
 vclgwqa01-ext.kdmz.belastingdienst.nl
 vclgwqa01-int.kdmz.belastingdienst.nl
+vcpapp.rivm.nl
 vcsc.dictu.nl
 vcsew.belastingdienst.nl
 vcsew.rechtspraak.nl
@@ -15388,6 +15716,7 @@ veiligmailen.raadvoorrechtsbijstand.org
 veiligmailen.rechtsbijstand.nl
 veiling.acc.belastingdienst.nl
 veiling.belastingdienst.nl
+veldmonitoring.rivm.nl
 velocity.arcgis.com
 velocitydemo.arcgis.com
 velocitydev.arcgis.com
@@ -15506,6 +15835,7 @@ vild.ndw.nu
 vin-beheer.rdw.nl
 vin.rdw.nl
 vinden.belastingdienst.nl
+vindjeplek-app.rivm.nl
 virtour.rijksacademie.nl
 virtueel.zuid-holland.nl
 visieopidentiteit.digitaleoverheid.nl
@@ -15563,6 +15893,7 @@ voorlichting.halt.nl
 voorlichting.nederlandwereldwijd.nl
 voorlichting.rijksoverheid.nl
 voorlichting.wegwijzer.overheid.nl
+voorraadtelling.rivm.nl
 voorvertoning.leeroverzicht.nl
 vor-ont.hetcak.nl
 vorijkbo-acc.rvo.nl
@@ -15619,6 +15950,7 @@ vpn.ocw.odc-noord.nl
 vpn.ofgv.nl
 vpn.platformrijksoverheid.nl
 vpn.politieacademie.nl
+vpn.rivm.nl
 vpn.rvb.odc-noord.nl
 vpn.rw1.rijkscloud.nl
 vpn.services.acm.nl
@@ -15666,8 +15998,10 @@ vrachtwagenheffing.nl
 vragen.caop.nl
 vragen.coronatest.nl
 vragen.cultuurparticipatie.nl
+vragenlijst-acc.rivm.nl
 vragenlijst.caop.nl
 vragenlijst.minvws.nl
+vragenlijst.rivm.nl
 vreemdelingenvisie.nl
 vri-admin.ndw.nu
 vrijstellingmelden.vrachtwagenheffing.nl
@@ -15960,10 +16294,12 @@ webmail.rijkewaddenzee.nl
 webmail.rijkscloud.nl
 webmail.rijksdienstcn.com
 webmail.rijkswaterstaat.nl
+webmail.rivm.nl
 webmail.rsj.rijkscloud.nl
 webmail.rvo.nl
 webmail.seb.ibki.nl
 webmail.test.knaw.nl
+webmail.test.rivm.nl
 webmail.tib-ivd.nl
 webmail.werkenvoornederland.nl
 webmail1.politieacademie.nl
@@ -15989,11 +16325,18 @@ webservice-kadaster.kbvg.nl
 webservice-preprod.sbv-z.nl
 webservice-tdv.igj.nl
 webservice.acc.ep-online.nl
+webservice.aiz.osiris.rivm.nl
+webservice.cdif.osiris.rivm.nl
 webservice.duo.nl
 webservice.energiebesparingsverkenner.rvo.nl
 webservice.ep-online.nl
+webservice.mgk.osiris.rivm.nl
+webservice.prezies.osiris.rivm.nl
 webservice.rechtspraak.nl
 webservice.sbv-z.nl
+webservice.signalen.osiris.rivm.nl
+webservice.sniv.osiris.rivm.nl
+webservice.soap.osiris.rivm.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
 webservices-dbb-acc.igj.nl
@@ -16149,6 +16492,8 @@ wfm.dev.huc.knaw.nl
 wfrz-int.erp.kadaster.nl
 wfrz.erp.kadaster.nl
 wft.duo.nl
+wgo-test.rivm.nl
+wgos.rivm.nl
 whatsip.test.ix.rijkscloud.nl
 whoami.zandbak.dans.knaw.nl
 wi.knaw.nl
@@ -16280,6 +16625,7 @@ wps.rijksapplicaties.nl
 wps.staging.rijksapplicaties.nl
 wpx-80-aix-http.acc.douane.nl
 wpx-80-aix-http.douane.nl
+wreg.rivm.nl
 wrr.nl
 ws-acc.bureauwsnp.nl
 ws-acc.cbr.nl
@@ -16321,6 +16667,7 @@ wvlegislature.maps.arcgis.com
 wvsv.acceptatie.nipv.nl
 wvsv.nipv.nl
 www-a.grensinfo.nl
+www-a.grip.rivm.nl
 www-a.huurcommissie.nl
 www-a.knmidc.org
 www-a.svb.nl
@@ -16414,6 +16761,7 @@ www-preprod.officielebekendmakingen.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-staging.ciz.nl
+www-t.grip.rivm.nl
 www-temp.rechtspraak.nl
 www-test-apoyo.ciz.nl
 www-test.brabant.nl
@@ -16476,6 +16824,7 @@ www.academievoorinternationalebetrekkingen.nl
 www.academy.cito.nl
 www.academyforinternationalrelations.nl
 www.acc-energiebesparingsverkenner.rvo.nl
+www.acc-mijn.rivm.nl
 www.acc-nl-nvwa-dkb-sign.dictu.nl
 www.acc-windviewer.rvo.nl
 www.acc.auth.binnenvaart.inspectieview.nl
@@ -16629,6 +16978,7 @@ www.bereikbaarheidvooriedereen.nl
 www.beschermdecultuurgoederen.nl
 www.besloten-nba-acc.nba.nl
 www.bestandenpostbus.nl
+www.bestellingen.rivm.nl
 www.bestrijdingsmiddelen-omwonenden.nl
 www.betalen.nba.nl
 www.bevolkingsonderzoek.nl
@@ -16701,6 +17051,7 @@ www.c2coe.org
 www.cabinetspecialenvoy.com
 www.campagnetoolkits.nl
 www.cannabisbureau.nl
+www.caontb.rivm.nl
 www.caop.nl
 www.caorijk.nl
 www.carbonbudgetexplorer.eu
@@ -16735,6 +17086,7 @@ www.cev.nl
 www.cevo.nl
 www.cggp.nl
 www.chemischestoffengoedgeregeld.nl
+www.chemkap.rivm.nl
 www.china.investinholland.com
 www.chm-cbd.net
 www.cibbrina.eu
@@ -16891,6 +17243,7 @@ www.dopingautoriteit.nl
 www.dopinginfo.nl
 www.dopingwaaier.nl
 www.douane.nl
+www.draaiboekhielprikscreening.rivm.nl
 www.draaiboekpsie.nl
 www.droplet.alterra.nl
 www.drupaloverheid.nl
@@ -16916,6 +17269,7 @@ www.e-cert.nl
 www.e-mjv.nl
 www.e-tol.nl
 www.eakkoord.nl
+www.earss.rivm.nl
 www.easy.dans.knaw.nl
 www.ecad.eu
 www.economicdiplomacy.rvo.nl
@@ -16972,6 +17326,7 @@ www.excellentescholen.nl
 www.expeditiewaddenkust.nl.rijkewaddenzee.nl
 www.expertisecentrumlyme.nl
 www.expertisecentrummggz.nl
+www.ezips.rivm.nl
 www.fa.knaw.nl
 www.faculteitmilitairewetenschappen.nl
 www.farmacotherapeutischkompas.nl
@@ -17146,6 +17501,7 @@ www.isaac.nwo.nl
 www.isdatechtzo.nl
 www.ishetafval.nl
 www.isis-web.nl
+www.isis.rivm.nl
 www.istandaarden.nl
 www.it-academieoverheid.nl
 www.iuc-noord.nl
@@ -17238,6 +17594,7 @@ www.lap3.nl
 www.large.netftp.dictu.nl
 www.lavsinfo.nl
 www.lbio.nl
+www.lci.rivm.nl
 www.lcms.nl
 www.lcnk.nl
 www.ldentool.nl
@@ -17269,6 +17626,7 @@ www.lintjes.nl
 www.literaryquality.huygens.knaw.nl
 www.liv.nl
 www.lma.nl
+www.lml.rivm.nl
 www.locatiescan.kvk.nl
 www.locov.nl
 www.logerenbijdeboswachter.nl
@@ -17590,6 +17948,7 @@ www.politieenwetenschap.nl
 www.politiekeambtsdragers.nl
 www.politieorkest.nl
 www.portal.ewnederland.nl
+www.portie-online.rivm.nl
 www.postcovidonderzoek.nl
 www.postedworkers.nl
 www.praatmeemetdeoverheid.nl
@@ -17639,6 +17998,7 @@ www.rapportage.rijkscloud.nl
 www.rapporteurverslavingen.nl
 www.ras-acc.nvwa.nl
 www.rbbgroep.nl
+www.rca.rivm.nl
 www.rcgog.nl
 www.rcihh.nl
 www.rda.nl
@@ -17709,6 +18069,7 @@ www.rijkswaterstaatdata.nl
 www.rijkswaterstaatstrooit.nl
 www.risicokaart.flevoland.nl
 www.risicotoolboxbodem.nl
+www.rivm.nl
 www.rivmmagazines.nl
 www.rl.minvws.nl
 www.rlacc.minvws.nl
@@ -17778,6 +18139,7 @@ www.synbiosys.alterra.nl
 www.taiwan.investinholland.com
 www.tcs-resident.minvws.nl
 www.ted.nationaalarchief.nl
+www.teebstad.rivm.nl
 www.test.aquo.nl
 www.test.coronatest.nl
 www.test.cruksregister.nl
@@ -17813,6 +18175,7 @@ www.tst2905.omgevingswet.overheid.nl
 www.tuchtcollege-gezondheidszorg.nl
 www.tvs.dictu.nl
 www.two-acs.com
+www.typened-mrsa.rivm.nl
 www.uem.onderzoeksraad.nl
 www.uitelkaarmetkinderen.nl
 www.uitkomstgerichtezorg.nl
@@ -18067,6 +18430,7 @@ zw.chm-cbd.net
 zw.prod.chm-cbd.net
 zw.test.chm-cbd.net
 zwb.riec.nl
+zwemwater.osiris.rivm.nl
 zwerfafval.rijkswaterstaat.nl
 zwolle.leerwerkloket.nl
 zwolle.lerenenwerken.nl
