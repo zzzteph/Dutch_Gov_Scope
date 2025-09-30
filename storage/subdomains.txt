@@ -1411,6 +1411,7 @@ acc.pzp.nl
 acc.rd.dictu.nl
 acc.resources.huygens.knaw.nl
 acc.rijksapplicaties.nl
+acc.rijksictdashboard.nl
 acc.rvig.nl
 acc.rvo.nl
 acc.service.mpn.minienm.nl
@@ -3087,6 +3088,7 @@ beheer.preprod.omgevingswet.overheid.nl
 beheer.procesinfrastructuur.nl
 beheer.rechtvaardig.nl
 beheer.registersocialehygiene.nl
+beheer.rijksictdashboard.nl
 beheer.zorgaanbiedersportaal.nl
 beheerapps.rvo.nl
 beheerautoriteitwaddenzee.nl
@@ -12948,6 +12950,7 @@ rijksevents-rvb.rijksapplicaties.nl
 rijksevents-rvb.staging.rijksapplicaties.nl
 rijksfinancien.nl
 rijkshuisstijl.nl
+rijksictdashboard.nl
 rijksinkoopsamenwerking.nl
 rijksinnovatiecommunity.nl
 rijksinspecties.nl
@@ -14730,6 +14733,7 @@ test.redactie.aquo.nl
 test.redactie.gebruikercentraal.nl
 test.resultaten.arbeidsinspectie.nl
 test.resultaten.nlarbeidsinspectie.nl
+test.rijksictdashboard.nl
 test.rotterdammer.gebruikercentraal.nl
 test.rvig.nl
 test.rvo.nl
@@ -17673,6 +17677,7 @@ www.rijkscloud.nl
 www.rijksdienstcn.com
 www.rijksfinancien.nl
 www.rijkshuisstijl.nl
+www.rijksictdashboard.nl
 www.rijksinkoopsamenwerking.nl
 www.rijksinnovatiecommunity.nl
 www.rijksinspecties.nl

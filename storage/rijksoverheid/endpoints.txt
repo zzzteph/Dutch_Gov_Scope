@@ -1571,6 +1571,7 @@ https://acc.protocol.mfaservices.nl
 https://acc.pzp.nl
 https://acc.rd.dictu.nl
 https://acc.resources.huygens.knaw.nl
+https://acc.rijksictdashboard.nl
 https://acc.rvig.nl
 https://acc.rvo.nl
 https://acc.service.mpn.minienm.nl
@@ -2513,6 +2514,7 @@ https://beheer.officielebekendmakingen.nl
 https://beheer.onlinezitting.rechtspraak.nl
 https://beheer.rechtvaardig.nl
 https://beheer.registersocialehygiene.nl
+https://beheer.rijksictdashboard.nl
 https://beheer.zorgaanbiedersportaal.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerders.logerenbijdeboswachter.nl
@@ -7892,6 +7894,7 @@ https://rijksevents-rvb.rijksapplicaties.nl
 https://rijksevents-rvb.staging.rijksapplicaties.nl
 https://rijksfinancien.nl
 https://rijkshuisstijl.nl
+https://rijksictdashboard.nl
 https://rijksinkoopsamenwerking.nl
 https://rijksinnovatiecommunity.nl
 https://rijksinspecties.nl
@@ -8715,6 +8718,7 @@ https://test.redactie.aquo.nl
 https://test.redactie.gebruikercentraal.nl
 https://test.resultaten.arbeidsinspectie.nl
 https://test.resultaten.nlarbeidsinspectie.nl
+https://test.rijksictdashboard.nl
 https://test.rotterdammer.gebruikercentraal.nl
 https://test.rvig.nl
 https://test.rvo.nl
@@ -10628,6 +10632,7 @@ https://www.rijkscloud.nl
 https://www.rijksdienstcn.com
 https://www.rijksfinancien.nl
 https://www.rijkshuisstijl.nl
+https://www.rijksictdashboard.nl
 https://www.rijksinkoopsamenwerking.nl
 https://www.rijksinnovatiecommunity.nl
 https://www.rijksinspecties.nl
