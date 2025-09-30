@@ -551,6 +551,7 @@ http://reserved-cesar-db.knmi.nl
 http://resolver.dans.knaw.nl
 http://resolver.kb.nl
 http://resources.huygens.knaw.nl
+http://rijbewijs.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -720,6 +721,7 @@ http://www.openstad.zuid-holland.nl
 http://www.owas1.nba.nl
 http://www.pe-upload.nba.nl
 http://www.rekentop.nba.nl
+http://www.rijbewijs.nl
 http://www.rivmmagazines.nl
 http://www.scope.nin.knaw.nl
 http://www.sip1.nba.nl
