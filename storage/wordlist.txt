@@ -32,11 +32,11 @@ werkplek
 login
 portal
 redactie
+dev
 smtp
 portaal
 app
 e
-dev
 beheer
 sip
 _dmarc
@@ -220,6 +220,7 @@ extern
 csoacct
 csotest
 mijn-acc
+en
 vt
 registry
 extranet
@@ -325,7 +326,6 @@ bibliotheek
 begrippen
 aanmelden
 acc.api
-en
 authenticatie
 nextcloud
 privacy
@@ -12999,3 +12999,4 @@ www.rca
 www.teebstad
 www.typened-mrsa
 zwemwater.osiris
+dev-en

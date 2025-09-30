@@ -4977,6 +4977,7 @@ dev-data-exchange.consular.mfaservices.nl
 dev-developer-portal-management.data-exchange.consular.mfaservices.nl
 dev-developer-portal.data-exchange.consular.mfaservices.nl
 dev-domain.leerwerkloket.nl
+dev-en.rli.nl
 dev-euvis-api.data-exchange.consular.mfaservices.nl
 dev-euvis-ebms.data-exchange.consular.mfaservices.nl
 dev-id.afm.nl
@@ -5034,6 +5035,7 @@ dev.onlineform.culture.gov.nl
 dev.opendata.nederlandwereldwijd.nl
 dev.protocol.mfaservices.nl
 dev.rijksacademie.nl
+dev.rli.nl
 dev.sq.mfaservices.nl
 dev.test.cloud.kadaster.nl
 dev.test.kadaster.nl
@@ -5884,6 +5886,7 @@ emobility.rvo.nl
 en.inburgeren.nl
 en.lvnl.nl
 en.nationaalarchief.nl
+en.rli.nl
 enabling.omgevingswet.overheid.nl
 enc1.minions.odc-noord.nl
 encryption-auth-acc.dictu.nl
@@ -13281,6 +13284,7 @@ rlacc.minvws.nl
 rldb-webservice.rijksapplicaties.nl
 rldb.rijksapplicaties.nl
 rldb.staging.rijksapplicaties.nl
+rli.nl
 rmdm-beheerapp-acc.azure.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 rmdm-beheerapp-tst.azure.dnb.nl
@@ -18073,6 +18077,7 @@ www.rivm.nl
 www.rivmmagazines.nl
 www.rl.minvws.nl
 www.rlacc.minvws.nl
+www.rli.nl
 www.royal-house.nl
 www.royalhonoursanddecorations.nl
 www.rsj.nl
