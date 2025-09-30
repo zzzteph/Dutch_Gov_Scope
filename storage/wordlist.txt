@@ -7,8 +7,8 @@ autodiscover
 acc
 test
 english
-mijn
 webmail
+mijn
 a-www
 api
 a-opendata
@@ -58,6 +58,7 @@ publicaties
 dialin
 cdn
 adfs
+cpanel
 enterpriseregistration
 webservices
 open
@@ -69,7 +70,6 @@ oud
 accept
 www.acc
 preview
-cpanel
 mail2
 services
 mdm
@@ -91,6 +91,7 @@ telewerken
 git
 mx1
 www.test
+webdisk
 ns2
 old
 acceptatie.beheer
@@ -104,7 +105,6 @@ mobile
 chat
 stats
 lyncdiscover
-webdisk
 maps
 papiamentu
 adobe-analytics-dc
@@ -233,6 +233,8 @@ securemail
 mail1
 backend
 assets
+cpcalendars
+cpcontacts
 activesync
 sip.myroom
 luchtfoto
@@ -362,10 +364,9 @@ idp
 pki
 sip2
 stage
-cpcalendars
-cpcontacts
 mijnzaak
 redirect
+2020
 community
 rijnmond
 werkbezoek
@@ -675,7 +676,7 @@ sync
 passwordreset
 timetell
 kerncijfers
-2020
+2021
 aa
 api.acceptatie
 api.test
@@ -8808,7 +8809,6 @@ www.korea
 www.taiwan
 www.uk
 www.redirect
-2021
 3d
 3d.test
 3dgeluid
@@ -12385,3 +12385,13 @@ servicedesk-uw.intern
 servicedesk.intern
 xenapp-uw.intern
 xenapp.intern
+2019
+ews
+expeditiewaddenkust.nl
+ipv6
+wadziejij
+www.2019
+www.2020
+www.2021
+www.expeditiewaddenkust.nl
+www.wadziejij
