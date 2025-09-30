@@ -1110,6 +1110,7 @@ aanvragen-acc.nza.nl
 aanvragen.filmfonds.nl
 aanvragen.maror.nl
 aanvragen.nza.nl
+aanvragen.rva.nl
 aanvragen.uziregister.nl
 aanvragen.vergoedingsns.nl
 aanvragen.zuid-holland.nl
@@ -2865,6 +2866,7 @@ autodiscover.restitutiecommissie.nl
 autodiscover.rijkewaddenzee.nl
 autodiscover.rijksdienstcn.com
 autodiscover.rivm.nl
+autodiscover.rva.nl
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
 autodiscover.services.acm.nl
@@ -3443,6 +3445,10 @@ bitbucket.politie.nl
 bitwarden.knaw.nl
 biztalk-acc.minbzk.nl
 biztalk.minbzk.nl
+bizzmine-api.rva.nl
+bizzmine-test-api.rva.nl
+bizzmine-test.rva.nl
+bizzmine.rva.nl
 bj.chm-cbd.net
 bj.test.chm-cbd.net
 bjfw01.knmi.nl
@@ -4957,6 +4963,7 @@ desktop.entreepgb.svb.nl
 desktop.flevoland.nl
 desktop.hogeraad.nl
 desktop.klopt.cibg.nl
+desktop.rva.nl
 desktopaccp.entreepgb.svb.nl
 desktopaccp2.entreepgb.svb.nl
 desktopcon2.entreepgb.svb.nl
@@ -5657,6 +5664,7 @@ e.nieuwjaarstoost2025.nl
 e.oofggz.nl
 e.ptvt.nl
 e.restitutiecommissie.nl
+e.rva.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 ea-i.espacenet.com
@@ -6170,11 +6178,13 @@ examenplein.cvte.nl
 examinator.ibki.nl
 examinatoragenda.cbr.nl
 excellentescholen.nl
+exchange-mit.rva.nl
 exchange-uw.intern.reclassering.nl
 exchange.acm.nl
 exchange.flevoland.nl
 exchange.intern.reclassering.nl
 exchange.reclassering.nl
+exchange.rva.nl
 exchange.services.acm.nl
 exchangehcw.knaw.nl
 exchangemrs1.politie.nl
@@ -12472,6 +12482,7 @@ printservice-plotter1.kadaster.nl
 printservice-plotter2.kadaster.nl
 prisma.kennisplatformondermijning.nl
 prisma.minbzk.nl
+prisma.rva.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
 privacy.jeugdconnect.nl
@@ -12724,6 +12735,7 @@ publicatieservice-bms-acc.officielebekendmakingen.nl
 publicatieservice-rps-acc.officielebekendmakingen.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
+publieksverslag.rva.nl
 publieksvragen-en-signalen.cvdm.nl
 publiektoezicht.nl
 publisher.extern.minszw.nl
@@ -12832,6 +12844,7 @@ rabarijk.nl
 rabbitmq.rvb.rijkscloud.nl
 racine-water-utility-racine-wu.hub.arcgis.com
 radar.rdi.nl
+radar.rva.nl
 radicaalofpuberaal.nctv.nl
 radius-acc.raadvanstate.nl
 radius.niwo.nl
@@ -13427,6 +13440,7 @@ ruimtelijkeplannen.nl
 ruimtelijkeplannen.zuid-holland.nl
 ruimtevoorderivier.nl
 rut.belastingdienst.nl
+rva.nl
 rvb-arr.rijksapplicaties.nl
 rvb-arr.staging.rijksapplicaties.nl
 rvb-bcr.staging.rijksapplicaties.nl
@@ -14118,6 +14132,7 @@ smtp.oostvaarderskliniek.nl
 smtp.parlement.nl
 smtp.rdw.nl
 smtp.rijksoverheid.nl
+smtp.rva.nl
 smtp.syn.rijksapplicaties.nl
 smtp.tmv.rvig.nl
 smtp.vechtstromen.nl
@@ -18104,6 +18119,7 @@ www.rsj.nl
 www.ruimtelijkeordening.nl
 www.ruimtelijkeplannen.nl
 www.ruimtevoorderivier.nl
+www.rva.nl
 www.rvig.nl
 www.rvo.nl
 www.rwsinnoveert.nl

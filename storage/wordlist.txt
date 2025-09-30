@@ -30,13 +30,13 @@ link
 formulieren
 werkplek
 login
+smtp
 portal
 redactie
+e
 dev
-smtp
 portaal
 app
-e
 beheer
 sip
 _dmarc
@@ -108,6 +108,7 @@ chat
 archief
 stats
 lyncdiscover
+aanvragen
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -134,7 +135,6 @@ nieuwsbrieven
 acc-dictu
 prod-dictu
 test-dictu
-aanvragen
 siam
 events
 matomo
@@ -215,6 +215,8 @@ servicedesk
 connect-acpt
 www.mijn
 webservice
+desktop
+exchange
 legacy
 extern
 csoacct
@@ -314,8 +316,6 @@ preprod
 services-acc
 cmsintranet
 denkmee
-desktop
-exchange
 kaart
 test-cmsintranet
 test-intranet
@@ -380,6 +380,7 @@ downloads
 mijnzaak
 2020
 mft
+prisma
 ns
 community
 rijnmond
@@ -563,6 +564,7 @@ magazines.english
 cms21
 digitaal
 forum
+radar
 bastion365
 fileshare
 hybridmail
@@ -694,7 +696,6 @@ api.test
 apiportal
 mijn.acceptatie
 mijn.test
-prisma
 autodiscover.test
 certificaten
 monitoring
@@ -3946,7 +3947,6 @@ identificatie
 infoportal
 nox.radar
 prod.radar
-radar
 slimmestad
 uploadmodule-acc
 uploadmodule
@@ -13010,3 +13010,9 @@ pilot.test
 validator.acceptatie
 validator
 validator.test
+bizzmine-api
+bizzmine-test-api
+bizzmine-test
+bizzmine
+exchange-mit
+publieksverslag
