@@ -366,6 +366,7 @@ idp
 pki
 sip2
 stage
+downloads
 mijnzaak
 redirect
 2020
@@ -668,7 +669,6 @@ sites
 international
 sub
 www.cms
-downloads
 guestportal
 sip1
 mijnzaak-acc
