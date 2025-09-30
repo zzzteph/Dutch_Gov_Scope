@@ -2751,6 +2751,7 @@ autodiscover.rdw.nl
 autodiscover.rechtspraak.nl
 autodiscover.reclassering.nl
 autodiscover.rekenkamer.nl
+autodiscover.restitutiecommissie.nl
 autodiscover.rijksdienstcn.com
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
@@ -5414,6 +5415,7 @@ e.meldpuntintegriteitjenv.nl
 e.nieuwjaarstoost2025.nl
 e.oofggz.nl
 e.ptvt.nl
+e.restitutiecommissie.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 ea-i.espacenet.com
@@ -8645,6 +8647,7 @@ link.ogco.nl
 link.onderzoeksraad.nl
 link.oofggz.nl
 link.ptvt.nl
+link.restitutiecommissie.nl
 link.test.onderzoeksraad.nl
 linkeddata-acc.competentnl.nl
 linkeddata.accept.cultureelerfgoed.nl
@@ -12675,6 +12678,7 @@ rest.crimediggers.nl
 rest.elaborate.huygens.knaw.nl
 rest.kvk.nl
 rest.preprod.kvk.nl
+restitutiecommissie.nl
 resultaten.nlarbeidsinspectie.nl
 ret-a.secure.cito.nl
 ret.databank.nl
@@ -17316,6 +17320,7 @@ www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
 www.rekentop.nba.nl
 www.remote.onderzoeksraad.nl
+www.restitutiecommissie.nl
 www.riec.nl
 www.rijksbredekennisagenda.nl
 www.rijkscloud.nl
