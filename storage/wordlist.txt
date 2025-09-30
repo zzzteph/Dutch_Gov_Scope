@@ -29,11 +29,11 @@ data
 formulieren
 werkplek
 link
+portal
 redactie
 login
 smtp
 portaal
-portal
 e
 dev
 beheer
@@ -501,8 +501,10 @@ statistics
 jip
 kat.acc
 kat
+test3
 acc.intranet
 test.intranet
+test2
 externemail01
 externemail02
 projects
@@ -2712,7 +2714,6 @@ www.test.zm
 yivi.proeftuin.uzi-online
 zvs.woo
 release
-test3
 informatiemodel
 modules
 registry.acceptatie
@@ -2762,7 +2763,6 @@ private
 private.staging
 menukaart
 www-old
-test2
 woordenboek
 acc.dataverkenner
 acc.spaceweather
@@ -12693,3 +12693,4 @@ miljoenennota
 rbv-acc
 rbv
 informatie
+nieuwestoffen
