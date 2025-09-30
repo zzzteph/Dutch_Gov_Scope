@@ -12,8 +12,8 @@ mijn
 a-www
 api
 a-opendata
-a-feeds
 acceptatie
+a-feeds
 _autodiscover._tcp
 magazines
 staging
@@ -43,11 +43,11 @@ _dmarc
 connect
 zoeken
 meet
+www.acceptatie
 apps
 kennisbank
 remote
 hybrid
-www.acceptatie
 tst
 jaarverslag
 a-english
@@ -73,6 +73,7 @@ accept
 www.acc
 preview
 mail2
+www.test
 ns2
 services
 mdm
@@ -91,7 +92,6 @@ inloggen
 telewerken
 git
 mx1
-www.test
 webdisk
 maps
 fs
@@ -114,6 +114,7 @@ adobe-tags
 werken
 acceptatie.behandel
 acceptatie.mijn
+kaarten
 helpdesk
 demo
 sso
@@ -140,6 +141,7 @@ matomo
 web
 geodata
 academie
+beta
 enterpriseenrollment
 videobellen
 acceptatie.zoeken
@@ -147,7 +149,6 @@ behandel
 atlas
 geoportaal
 id
-kaarten
 wifi
 academy
 designsystem
@@ -188,7 +189,6 @@ testeloket
 vpn2
 ontwikkel
 prd
-beta
 betalen
 merkportaal
 sharepoint
@@ -752,6 +752,7 @@ beeld
 oid
 edge
 osiris
+pilot
 www.jaarverslag
 leveranciersportaal
 archief-acc
@@ -11818,7 +11819,6 @@ acc-participantapi
 acc-researcher
 participantapi
 researcher
-pilot
 pilot1
 pilot2
 pilot3
@@ -13000,3 +13000,13 @@ www.teebstad
 www.typened-mrsa
 zwemwater.osiris
 dev-en
+afnemers.acceptatie
+afnemers.pilot
+afnemers
+afnemers.test
+kaarten.acceptatie
+kaarten.test
+pilot.test
+validator.acceptatie
+validator
+validator.test

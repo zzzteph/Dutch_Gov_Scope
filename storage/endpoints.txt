@@ -1993,6 +1993,9 @@ https://afnameapi-a.cito.nl
 https://afnameapi-o.cito.nl
 https://afnameapi-t.cito.nl
 https://afnameapi.cito.nl
+https://afnemers.acceptatie.ruimtelijkeplannen.nl
+https://afnemers.pilot.ruimtelijkeplannen.nl
+https://afnemers.ruimtelijkeplannen.nl
 https://afnorth.rdw.nl
 https://afreg.staging.rijksapplicaties.nl
 https://african-american-experiences-in-los-angeles-csungis.hub.arcgis.com
@@ -5625,8 +5628,10 @@ https://kaart.flevoland.nl
 https://kaart.productie.lcms.nl
 https://kaart.test.lcms.nl
 https://kaarten-demo.overheid.nl
+https://kaarten.acceptatie.ruimtelijkeplannen.nl
 https://kaarten.hdsr.nl
 https://kaarten.odmh.nl
+https://kaarten.ruimtelijkeplannen.nl
 https://kaarten.vechtstromen.nl
 https://kaartenvannederland.acceptatie.kadaster.nl
 https://kabinetsformatie2023.nl
@@ -7472,6 +7477,7 @@ https://picarta.pica.nl.access.authkb.kb.nl
 https://pih.belastingdienst.nl
 https://pilootonbemandeluchtvaartuigen.rdw.nl
 https://pilot.praatmeemetdeoverheid.nl
+https://pilot.ruimtelijkeplannen.nl
 https://pilot.uzi-online.minvws.nl
 https://pilot1.praatmeemetdeoverheid.nl
 https://pilot2.praatmeemetdeoverheid.nl
@@ -8207,6 +8213,7 @@ https://ruimte.kta.omgevingswet.overheid.nl
 https://ruimte.omgevingswet.overheid.nl
 https://ruimte.pfm.omgevingswet.overheid.nl
 https://ruimtelijkeordening.nl
+https://ruimtelijkeplannen.nl
 https://ruimtelijkeplannen.zuid-holland.nl
 https://ruimtevoorderivier.nl
 https://rvb-arr.rijksapplicaties.nl
@@ -9287,6 +9294,8 @@ https://validatie-acc.justid.nl
 https://validatie.justid.nl
 https://validationcalculation.douane.nl
 https://validationcalculationtest.douane.nl
+https://validator.acceptatie.ruimtelijkeplannen.nl
+https://validator.ruimtelijkeplannen.nl
 https://vallei-veluwe.nl
 https://vangbuitenshuis.nl
 https://vangogh.dev.huc.knaw.nl
@@ -9846,6 +9855,7 @@ https://www.acceptatie.landelijkemeldkamer.org
 https://www.acceptatie.oicrf.org
 https://www.acceptatie.pdok.nl
 https://www.acceptatie.politie.nl
+https://www.acceptatie.ruimtelijkeplannen.nl
 https://www.acm.nl
 https://www.acoi.nl
 https://www.actal.nl
@@ -10919,6 +10929,7 @@ https://www.royal-house.nl
 https://www.royalhonoursanddecorations.nl
 https://www.rsj.nl
 https://www.ruimtelijkeordening.nl
+https://www.ruimtelijkeplannen.nl
 https://www.ruimtevoorderivier.nl
 https://www.rvig.nl
 https://www.rvo.nl
