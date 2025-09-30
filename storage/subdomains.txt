@@ -2484,11 +2484,13 @@ arcgis.com
 archeologie.zuid-holland.nl
 archeologie2.zuid-holland.nl
 archie.nji.nl
+archief-acc.rijksbegroting.nl
 archief.acceptatie.nipv.nl
 archief.ibki.nl
 archief.iob-evaluatie.nl
 archief.nipv.nl
 archief.nwo-i.nl
+archief.rijksbegroting.nl
 archief.zuid-holland.nl
 archiefviewer.knmi.nl
 archis.cultureelerfgoed.nl
@@ -6074,6 +6076,8 @@ externemail02.knmi.nl
 externemailsaas.knmi.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
+extrainfo-acc.rijksbegroting.nl
+extrainfo.rijksbegroting.nl
 extranet.cbr.nl
 extranet.eherkenning.nl
 extranet.knmi.nl
@@ -10956,6 +10960,7 @@ openbare-inspectieresultaten.nvwa.nl
 opendap-dm1.knmi.nl
 opendap-dm2.knmi.nl
 opendap.knmi.nl
+opendata-acc.rijksbegroting.nl
 opendata-aln.hub.arcgis.com
 opendata-daerani.hub.arcgis.com
 opendata-grandbelfort.hub.arcgis.com
@@ -11144,6 +11149,7 @@ opendata.rdi.nl
 opendata.rdw.nl
 opendata.regelhulp.nl
 opendata.rekenkamer.nl
+opendata.rijksbegroting.nl
 opendata.rijksdienstcn.com
 opendata.rijksinspecties.nl
 opendata.rijksoverheid.nl
@@ -12918,6 +12924,7 @@ rijkcirculair.nl
 rijkewaddenzee.nl
 rijksacademie.nl
 rijksapplicaties.nl
+rijksbegroting.nl
 rijksbeveiligingsportaal.rijksapplicaties.nl
 rijksbeveiligingsportaal.staging.rijksapplicaties.nl
 rijksboarding.staging.rijksapplicaties.nl
@@ -16317,6 +16324,7 @@ www-acc.istandaarden.nl
 www-acc.kcbr.nl
 www-acc.medicijnkosten.nl
 www-acc.officielebekendmakingen.nl
+www-acc.rijksbegroting.nl
 www-acc.zorgcijfersdatabank.nl
 www-acc.zorginstituutnederland.nl
 www-acc.zorginzicht.nl
@@ -17648,6 +17656,7 @@ www.rijkewaddenzee.nl
 www.rijksacademie.nl
 www.rijksapplicaties.nl
 www.rijksappstore.nl
+www.rijksbegroting.nl
 www.rijksbredekennisagenda.nl
 www.rijkscloud.nl
 www.rijksdienstcn.com

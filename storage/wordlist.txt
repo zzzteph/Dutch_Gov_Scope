@@ -125,6 +125,7 @@ www-p2
 www-tst2
 forms
 sdm
+archief
 acc-dictu
 prod-dictu
 test-dictu
@@ -160,7 +161,6 @@ zaaksysteem-acc
 m
 synergy
 dashboard
-archief
 files
 repository
 geoweb
@@ -12683,3 +12683,7 @@ wps
 wps.staging
 wst
 wst.staging
+archief-acc
+extrainfo-acc
+extrainfo
+opendata-acc
