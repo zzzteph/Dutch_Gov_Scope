@@ -1272,6 +1272,7 @@ acc-vgd.ext.kadaster.nl
 acc-vinden.cbs.nl
 acc-vjeh.ext.kadaster.nl
 acc-vtcc.rivm.nl
+acc-vtlb.rvr.org
 acc-webform.rvo.nl
 acc-webservice-tdv.igj.nl
 acc-website.rvo.nl
@@ -1437,6 +1438,7 @@ acc.rijksapplicaties.nl
 acc.rijksictdashboard.nl
 acc.rvig.nl
 acc.rvo.nl
+acc.rvr.org
 acc.service.mpn.minienm.nl
 acc.service.mpn.minienw.nl
 acc.spaceweather.knmi.nl
@@ -1484,6 +1486,8 @@ acc7.connectorscheduler.kb.nl
 acc7.mijn.overheid.nl
 acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
+accbopzterug.rvr.org
+accbopzuit.rvr.org
 accdws.politie.nl
 accebms.cbs.nl
 accept-betalen.nba.nl
@@ -1899,6 +1903,7 @@ adfs.knaw.nl
 adfs.kvk.nl
 adfs.nidos.nl
 adfs.raadvanstate.nl
+adfs.rvr.org
 adfs.vallei-veluwe.nl
 adfs2.cbs.knaw.nl
 adfs2.cito.nl
@@ -2599,6 +2604,7 @@ argocd-infra-edu.efiling.mijnoctrooi.rvo.nl
 argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl
 argocd-infra.efiling.mijnoctrooi.rvo.nl
 argon2.cbs.nl
+arh.rvr.org
 aris.brabant.nl
 arkyves.org.access.authkb.kb.nl
 arp-dviraciu-takai-maper.hub.arcgis.com
@@ -2867,6 +2873,7 @@ autodiscover.rijkewaddenzee.nl
 autodiscover.rijksdienstcn.com
 autodiscover.rivm.nl
 autodiscover.rva.nl
+autodiscover.rvr.org
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
 autodiscover.services.acm.nl
@@ -3049,6 +3056,7 @@ basisscan.digitaltrustcenter.nl
 bastion.rijksoverheid.nl
 bastion365.raadvoorrechtsbijstand.org
 bastion365.rechtsbijstand.nl
+bastion365.rvr.org
 bat.belastingdienst.nl
 bat.ont.belastingdienst.nl
 bata-next-wave-nelsonnygaard.hub.arcgis.com
@@ -3060,6 +3068,12 @@ bayplanviewer.bics.nl
 bayplanviewer2.bics.nl
 bayplanviewer3.bics.nl
 bayshoretrail-doorcounty-baylakerpc.hub.arcgis.com
+bb-mijnwrb.rvr.org
+bb-registerwrb.rvr.org
+bb-wbtv-acc.rvr.org
+bb-wbtv.rvr.org
+bb-wrb-acc.rvr.org
+bb-wrb.rvr.org
 bb.huc.knaw.nl
 bbapitest.ix.rijkscloud.nl
 bbdc.cjib.nl
@@ -3523,6 +3537,8 @@ boone-gis.maps.arcgis.com
 boportaalkd.belastingdienst.nl
 boportaalkdo.belastingdienst.nl
 boportaalkdt.belastingdienst.nl
+bopzterug.rvr.org
+bopzuit.rvr.org
 bor-mcogis.hub.arcgis.com
 boris.acp.kvk.nl
 boris.kvk.nl
@@ -3602,6 +3618,7 @@ broker-preprod.bronhouderportaal-bro.nl
 broker.bronhouderportaal-bro.nl
 broker.cloudtop.rijkscloud.nl
 broker.huurcommissie.nl
+broker.rvr.org
 broloket.nl
 bromonitor.nl
 bromtotaal.politieacademie.nl
@@ -4593,6 +4610,7 @@ csotest.mobiliteitsbank.nl
 csotest.werkenvoornederland.nl
 csp.minienm.nl
 cspe-app.cito.nl
+csr.rvr.org
 css.openstad.zuid-holland.nl
 cst-syslog.test.cloud.kadaster.nl
 cst.kadaster.nl
@@ -5271,6 +5289,7 @@ digitoegankelijk.nl
 digitoegankelijk.nwo.nl
 dihoo.eu
 dihoo.nl
+dilat.rvr.org
 dilemma-az.politieacademie.nl
 dilemma.politieacademie.nl
 dino.rijksapplicaties.nl
@@ -6753,6 +6772,7 @@ fs.ctgb.nl
 fs.knmi.nl
 fs.rijksdienstcn.com
 fs.rivm.nl
+fs.rvr.org
 fscontest.github.io
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
@@ -7641,9 +7661,11 @@ idp.dmi-ecosysteem.nl
 idp.globalentry-rtp.nl
 idp.kvk.nl
 idp.npo.kvk.nl
+idp.rvr.org
 idp.sandbox.odc-noord.nl
 idp.staging.dmi-ecosysteem.nl
 idp.test.knaw.nl
+idpmr.rvr.org
 idposr.duo.nl
 idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
@@ -7919,8 +7941,10 @@ intra-cms-acc.rvo.nl
 intra-cms.rvo.nl
 intra.dans.knaw.nl
 intra.rvo.nl
+intra.rvr.org
 intranet-acc.flevoland.nl
 intranet-acc.nwo.nl
+intranet-acc.rvr.org
 intranet-bestanden.flevoland.nl
 intranet-demo.dictu.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
@@ -8616,6 +8640,7 @@ kennisportfolio.rijksapplicaties.nl
 kennisportfolio.staging.rijksapplicaties.nl
 kennissysteem.cibg.nl
 kennisvandeoverheid.nl
+kenniswijzer.rvr.org
 kentekenbewijsbedrijfsvoorraadaanvragen.rdw.nl
 kentekencheck.opwegnaarzes.nl
 kentekenregistratieactiefmaken.rdw.nl
@@ -9095,6 +9120,7 @@ logging.o.extern.minszw.nl
 logging.platformrijksoverheid.nl
 loggingbe.huygens.knaw.nl
 login-a.rvb.rijkscloud.nl
+login-acc.rvr.org
 login-az.rijksapplicaties.nl
 login-az.staging.rijksapplicaties.nl
 login-bz.rijksapplicaties.nl
@@ -9116,6 +9142,7 @@ login-oms.rvb.rijkscloud.nl
 login-pp.dnb.nl
 login-t.politieacademie.nl
 login-test.dnb.nl
+login-test.rvr.org
 login-uzi.pilot.uzi-online.minvws.nl
 login-uzi.proeftuin.uzi-online.irealisatie.nl
 login.a1.digid.nl
@@ -9152,6 +9179,7 @@ login.protocol.mfaservices.nl
 login.pzp.nl
 login.rivm.nl
 login.rvb.rijkscloud.nl
+login.rvr.org
 login.scp.nl
 login.t1.digid.nl
 login.t2.digid.nl
@@ -9483,6 +9511,7 @@ mail.rijkewaddenzee.nl
 mail.rijkscloud.nl
 mail.rijksdienstcn.com
 mail.rvb.rijkscloud.nl
+mail.rvr.org
 mail.rw1.rijkscloud.nl
 mail.scp.nl
 mail.seb.ibki.nl
@@ -9721,6 +9750,7 @@ media.rechtspraak.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
 mediatheek.politieacademie.nl
+mediation.online.rvr.org
 medicijnkosten.nl
 medicineshortagesdefects.nl
 medicinfo.pzp.nl
@@ -10025,6 +10055,7 @@ mijnncg.nl
 mijnoctrooi.mypage.rvo.nl
 mijnoctrooi.rvo.nl
 mijnontwikkelhuis.nl
+mijnoverheid.rvr.org
 mijnpgb-a.svb.nl
 mijnpgb-siam-a.svb.nl
 mijnpgb-siam.svb.nl
@@ -10208,6 +10239,7 @@ mobile.pbl.nl
 mobile.raadvanstate.nl
 mobile.reclassering.nl
 mobile.rijksdienstcn.com
+mobile.rvr.org
 mobilesync.knmi.nl
 mobilesync.rivm.nl
 mobiliteitsbank.nl
@@ -11645,10 +11677,13 @@ outbound.onderwijsraad.nl
 outilevaluationbiosecurite.nl
 outlook.cbs.nl
 outlook.dnb.nl
+outlook.rvr.org
 outlook.svb.nl
+outlook2016.rvr.org
 output-acc.cbr.nl
 output-tst.cbr.nl
 output.cbr.nl
+outsite.rvr.org
 ov-consumentenplatform.nl
 ov-kaarten.rijksapplicaties.nl
 ov-kaarten.staging.rijksapplicaties.nl
@@ -12197,7 +12232,9 @@ poc1.bestandenpostbus.nl
 pocmdx.lab.cloud.kadaster.nl
 podium.knaw.nl
 poj.peeters-leuven.be.access.authkb.kb.nl
+politie-acc.rvr.org
 politie.nl
+politie.rvr.org
 politieacademie.nl
 politiecn.com
 politieenwetenschap.nl
@@ -12819,6 +12856,10 @@ questifyplannerapi.cito.nl
 quicktelecomscan.nl
 qvj.chadwyck.com.access.authkb.kb.nl
 qvw-test.rvo.nl
+qwsnp-fe-acc.rvr.org
+qwsnp-fe-prd.rvr.org
+qwsnp-spf-acc.rvr.org
+qwsnp-spf-prd.rvr.org
 r-quantities.github.io
 r-wasm.github.io
 ra.odc-noord.nl
@@ -12964,6 +13005,7 @@ recreatieschaprottemeren.nl
 recreatieschapvoorneputten.nl
 red.minbzk.nl
 redactie-acc.cbs.nl
+redactie-acc.rvr.org
 redactie-test.cbs.nl
 redactie-tl.iplo.nl
 redactie.aquo.nl
@@ -12978,6 +13020,7 @@ redactie.odmh.nl
 redactie.ofgv.nl
 redactie.onderzoeksraad.nl
 redactie.platformrijksoverheidonline.nl
+redactie.rvr.org
 redactie.vallei-veluwe.nl
 redactie.vechtstromen.nl
 redactie.veiligheidsregioflevoland.nl
@@ -13502,6 +13545,7 @@ rvo.nl
 rvp-beheer-demo.devops.rvb.rijkscloud.nl
 rvp-demo.devops.rvb.rijkscloud.nl
 rvp.reis.idm.rvig.nl
+rvr.org
 rvs-beheer.rivm.nl
 rvs.rivm.nl
 rvsapi-kiwi-a.raadvanstate.nl
@@ -13670,6 +13714,7 @@ sbc-prd-b-tenant03.dwrt3.ssc-ict.nl
 sbc-prd-b-tenant04.dwrt4.ssc-ict.nl
 sbc.ciz.nl
 sbc.raadvanstate.nl
+sbc.rvr.org
 sbc01.mvs.kadaster.nl
 sbc01.rechtspraak.nl
 sbc02.mvs.kadaster.nl
@@ -14013,6 +14058,8 @@ signing-auth-acc.dictu.nl
 signing-auth-prod.dictu.nl
 signing.ep-online.nl
 signing.landelijkemeldkamer.org
+signing.login-acc.rvr.org
+signing.login.rvr.org
 signing.pre.brabant.nl
 signinghub-api.kss.kadaster.nl
 signinghub-web-eto.kss.kadaster.nl
@@ -14116,6 +14163,7 @@ smartforms.nak.nl
 smartmobility.flevoland.nl
 smartsurveys.cbs.nl
 smc.politie.nl
+sms-tool.rvr.org
 smtp-wem.rijksapplicaties.nl
 smtp.awti.nl
 smtp.bapi.belastingdienst.nl
@@ -14548,6 +14596,7 @@ stats.test.gf.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
 status-acceptatie.rijkscloud.nl
+status-page.rvr.org
 status.cbs.nl
 status.gn3.rijkscloud.nl
 status.kvk.nl
@@ -14621,6 +14670,7 @@ sts.nak.nl
 sts.parlement.nl
 sts.rdw.nl
 sts.rechtspraak.nl
+sts.rvr.org
 stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
 stturn1-tst.belastingdienst.nl
@@ -15604,6 +15654,7 @@ upri-roes-rvs.preprod.rvo.nl
 uptime.bureauft.nl
 uptime.bureauwbtv.nl
 uptime.huc.knaw.nl
+uptime.rvr.org
 uracimamaps.maps.arcgis.com
 urbanworkshop.maps.arcgis.com
 uren.acc.irealisatie.nl
@@ -15751,6 +15802,7 @@ veiligheidsregioflevoland.nl
 veiligmailen.flevoland.nl
 veiligmailen.raadvoorrechtsbijstand.org
 veiligmailen.rechtsbijstand.nl
+veiligmailen.rvr.org
 veiling.acc.belastingdienst.nl
 veiling.belastingdienst.nl
 veldmonitoring.rivm.nl
@@ -16158,6 +16210,15 @@ wayback-usw2.maptiles.arcgis.com
 wba-acc.rvo.nl
 wba.rvo.nl
 wbp6.hhdelfland.nl
+wbtv-test-mendix.rvr.org
+wbtv-test.rvr.org
+wbtv.rvr.org
+wbtvapi.rvr.org
+wbtvapiacc.rvr.org
+wbtvcrm.rvr.org
+wbtvcrmacc.rvr.org
+wbtvsp.rvr.org
+wbtvspacc.rvr.org
 wbxbotserver.belastingdienst.nl
 wbxbottestserver.belastingdienst.nl
 wd-ont.belastingdienst.nl
@@ -16863,6 +16924,7 @@ www.academyforinternationalrelations.nl
 www.acc-energiebesparingsverkenner.rvo.nl
 www.acc-mijn.rivm.nl
 www.acc-nl-nvwa-dkb-sign.dictu.nl
+www.acc-vtlb.rvr.org
 www.acc-windviewer.rvo.nl
 www.acc.auth.binnenvaart.inspectieview.nl
 www.acc.auth.wegvervoer.inspectieview.nl
@@ -17389,6 +17451,7 @@ www.formulierdus-i.nl
 www.forumstandaardisatie.gov.nl
 www.forumstandaardisatie.nl
 www.fryslan.databank.nl
+www.fs.rvr.org
 www.functiegebouwrijksoverheid.nl
 www.functiemix.nl
 www.gebruikercentraal.nl
@@ -17528,6 +17591,7 @@ www.internetconsultatie.nl
 www.interspeciesinfo.com
 www.interventiedatabase.nl
 www.intpatch.omgevingswet.overheid.nl
+www.intra.rvr.org
 www.intranet.knaw.nl
 www.investeringsimpulsspv.nl
 www.investinholland.com
@@ -17591,6 +17655,7 @@ www.kennisplatform.nl
 www.kennisplatformondermijning.nl
 www.kennisplatformwerkeninkomen.nl
 www.kennisvandeoverheid.nl
+www.kenniswijzer.rvr.org
 www.keringhuis.nl
 www.keyhub.onderzoeksraad.nl
 www.kidsacc.minvws.nl
@@ -17669,6 +17734,7 @@ www.locatiescan.kvk.nl
 www.locov.nl
 www.logerenbijdeboswachter.nl
 www.login.nba.nl
+www.login.rvr.org
 www.logius.nl
 www.lokale-democratie.nl
 www.loket.afm.nl
@@ -17694,6 +17760,7 @@ www.magazine-nl.digitaleoverheid.nl
 www.magazinesrijkswaterstaat.nl
 www.mail.bureauwsnp.nl
 www.mail.filmfonds.nl
+www.mail.rvr.org
 www.manifestgroep.nl
 www.marechaussee.nl
 www.maror.nl
@@ -17705,6 +17772,7 @@ www.mattermost.aerius.nl
 www.maximizer.rathenau.knaw.nl
 www.mccg.nl
 www.me2.alterra.nl
+www.mediation.online.rvr.org
 www.medicijnkosten.nl
 www.medicineshortagesdefects.nl
 www.meertens.knaw.nl
@@ -17733,6 +17801,7 @@ www.mijnmobiel.nba.nl
 www.mijnncg.nl
 www.mijnontwikkelhuis.nl
 www.mijnpgb.nl
+www.mijnrechtsbijstand.rvr.org
 www.mijnslachtofferzaak.nl
 www.mijnwlzaanvraag.ciz.nl
 www.milieuzones.nl
@@ -18057,6 +18126,7 @@ www.recreatieschaprottemeren.nl
 www.recreatieschapvoorneputten.nl
 www.redactie.aquo.nl
 www.redactie.onderzoeksraad.nl
+www.redactie.rvr.org
 www.redirect.isdatechtzo.nl
 www.referentiegrootboekschema.nl
 www.regeldrukmonitor.nl
@@ -18124,6 +18194,7 @@ www.rva.nl
 www.rvig.nl
 www.rvihh.nl
 www.rvo.nl
+www.rvr.org
 www.rwsinnoveert.nl
 www.samenwerkingrijknoord.nl
 www.sbv-z.nl
@@ -18258,6 +18329,7 @@ www.wadziejij.rijkewaddenzee.nl
 www.watdraagjijbij.arbeidsmarktplatformpo.nl
 www.watergegevens.rijkswaterstaat.nl
 www.waterschaplimburg.nl
+www.wbtv-test-mendix.rvr.org
 www.web.nba.nl
 www.web1.nba.nl
 www.webshop.incidentmanagement.nl
@@ -18282,6 +18354,7 @@ www.windviewer.rvo.nl
 www.wkr.nl
 www.wodc.nl
 www.wrr.nl
+www.wsnp.rvr.org
 www.youthatheart.nl
 www.zandbak.dans.knaw.nl
 www.zbs.minvws.nl

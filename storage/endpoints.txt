@@ -187,6 +187,7 @@ http://autodiscover.ofgv.nl
 http://autodiscover.ondernemersplein.nl
 http://autodiscover.politieacademie.nl
 http://autodiscover.raadvanstate.nl
+http://autodiscover.rvr.org
 http://autodiscover.schoolleidersregisterpo.nl
 http://autodiscover.scp.nl
 http://autodiscover.spinozacentre.knaw.nl
@@ -745,6 +746,7 @@ http://ufp-webservice.staging.rijksapplicaties.nl
 http://uptime.bureauft.nl
 http://uptime.bureauwbtv.nl
 http://uptime.huc.knaw.nl
+http://uptime.rvr.org
 http://usercheck.hetcak.nl
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
@@ -785,6 +787,7 @@ http://wolk.hogeraad.nl
 http://wordpress.dans.knaw.nl
 http://workforce.knaw.nl
 http://wpo-webservice.staging.rijksapplicaties.nl
+http://www.acc-vtlb.rvr.org
 http://www.accept-betalen.nba.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.acceptatie.neorah.nl
@@ -1680,6 +1683,7 @@ https://acc.resources.huygens.knaw.nl
 https://acc.rijksictdashboard.nl
 https://acc.rvig.nl
 https://acc.rvo.nl
+https://acc.rvr.org
 https://acc.service.mpn.minienm.nl
 https://acc.spaceweather.knmi.nl
 https://acc.staging.justitieconnect.nl
@@ -2554,6 +2558,12 @@ https://bataafse-politieke-tijdschriften.huygens.knaw.nl
 https://batterybarcouk.github.io
 https://bay-lake-rpc-covid-19-economic-hub-baylakerpc.hub.arcgis.com
 https://bayshoretrail-doorcounty-baylakerpc.hub.arcgis.com
+https://bb-mijnwrb.rvr.org
+https://bb-registerwrb.rvr.org
+https://bb-wbtv-acc.rvr.org
+https://bb-wbtv.rvr.org
+https://bb-wrb-acc.rvr.org
+https://bb-wrb.rvr.org
 https://bbkl.de.access.authkb.kb.nl
 https://bblonline.nl
 https://bbm.databank.nl
@@ -5468,7 +5478,9 @@ https://intpatch.omgevingswet.overheid.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
+https://intra.rvr.org
 https://intranet-acc.nwo.nl
+https://intranet-acc.rvr.org
 https://intranet-bestanden.flevoland.nl
 https://intranet-demo.dictu.nl
 https://intranet.ad.hdsr.nl
@@ -5720,6 +5732,7 @@ https://kennisplatformwerkeninkomen.nl
 https://kennisportfolio.rijksapplicaties.nl
 https://kennisportfolio.staging.rijksapplicaties.nl
 https://kennisvandeoverheid.nl
+https://kenniswijzer.rvr.org
 https://kentekenbewijsbedrijfsvoorraadaanvragen.rdw.nl
 https://kentekencheck.opwegnaarzes.nl
 https://kentekenregistratieactiefmaken.rdw.nl
@@ -6029,6 +6042,7 @@ https://locov.nl
 https://loganms.github.io
 https://logerenbijdeboswachter.nl
 https://loggingbe.huygens.knaw.nl
+https://login-acc.rvr.org
 https://login-az.rijksapplicaties.nl
 https://login-az.staging.rijksapplicaties.nl
 https://login-bz.rijksapplicaties.nl
@@ -6047,6 +6061,7 @@ https://login-ocw.staging.rijksapplicaties.nl
 https://login-pp.dnb.nl
 https://login-t.politieacademie.nl
 https://login-test.dnb.nl
+https://login-test.rvr.org
 https://login.aaenmaas.nl
 https://login.access.authkb.kb.nl
 https://login.cbs.nl
@@ -6066,6 +6081,7 @@ https://login.pp2.digid.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://login.pzp.nl
 https://login.rivm.nl
+https://login.rvr.org
 https://login.scp.nl
 https://login.test.kb.nl
 https://login.vechtstromen.nl
@@ -7368,6 +7384,7 @@ https://outlook.svb.nl
 https://output-acc.cbr.nl
 https://output-tst.cbr.nl
 https://output.cbr.nl
+https://outsite.rvr.org
 https://ov-consumentenplatform.nl
 https://ov-kaarten.rijksapplicaties.nl
 https://ov-kaarten.staging.rijksapplicaties.nl
@@ -7873,6 +7890,10 @@ https://questback.politieacademie.nl
 https://questifyplannerapi.cito.nl
 https://quicktelecomscan.nl
 https://qvj.chadwyck.com.access.authkb.kb.nl
+https://qwsnp-fe-acc.rvr.org
+https://qwsnp-fe-prd.rvr.org
+https://qwsnp-spf-acc.rvr.org
+https://qwsnp-spf-prd.rvr.org
 https://r-quantities.github.io
 https://r-wasm.github.io
 https://raadbaak.nl
@@ -7960,6 +7981,7 @@ https://reconi-etoegang.sso.eherkenning.nl
 https://recranet-api.logerenbijdeboswachter.nl
 https://recreatieschaprottemeren.nl
 https://recreatieschapvoorneputten.nl
+https://redactie-acc.rvr.org
 https://redactie-tl.iplo.nl
 https://redactie.aquo.nl
 https://redactie.brandweer.nl
@@ -7971,6 +7993,7 @@ https://redactie.odijmond.nl
 https://redactie.odmh.nl
 https://redactie.ofgv.nl
 https://redactie.platformrijksoverheidonline.nl
+https://redactie.rvr.org
 https://redactie.vallei-veluwe.nl
 https://redactie.vechtstromen.nl
 https://redactie.veiligheidsregioflevoland.nl
@@ -8282,6 +8305,7 @@ https://rvihh.nl
 https://rvo.databank.nl
 https://rvo.nl
 https://rvp.reis.idm.rvig.nl
+https://rvr.org
 https://rvs-beheer.rivm.nl
 https://rvs.rivm.nl
 https://rvszoeksysteem.rivm.nl
@@ -8501,6 +8525,7 @@ https://sm-i.espacenet.com
 https://sm.espacenet.com
 https://smartforms.nak.nl
 https://smartsurveys.cbs.nl
+https://sms-tool.rvr.org
 https://smtp.awti.nl
 https://smtp.oostvaarderskliniek.nl
 https://smtp1.awti.nl
@@ -8708,6 +8733,7 @@ https://stats.ndw.nu
 https://stats.one-conference.nl
 https://stats.pleio.nl
 https://stats.test.mgo.irealisatie.nl
+https://status-page.rvr.org
 https://status.kvk.nl
 https://status.location.arcgis.com
 https://status.omgevingswet.overheid.nl
@@ -9331,6 +9357,7 @@ https://veiligheidsregioflevoland.nl
 https://veiligmailen.flevoland.nl
 https://veiligmailen.raadvoorrechtsbijstand.org
 https://veiligmailen.rechtsbijstand.nl
+https://veiligmailen.rvr.org
 https://veiling.belastingdienst.nl
 https://veldmonitoring.rivm.nl
 https://velocity.arcgis.com
@@ -9547,6 +9574,12 @@ https://wayback-usw2.maptiles.arcgis.com
 https://wba-acc.rvo.nl
 https://wba.rvo.nl
 https://wbp6.hhdelfland.nl
+https://wbtvapi.rvr.org
+https://wbtvapiacc.rvr.org
+https://wbtvcrm.rvr.org
+https://wbtvcrmacc.rvr.org
+https://wbtvsp.rvr.org
+https://wbtvspacc.rvr.org
 https://web-api.kvk.nl
 https://web-app.naktuinbouw.nl
 https://web-b-ebscohost-com.access.authkb.kb.nl
@@ -10949,6 +10982,7 @@ https://www.rva.nl
 https://www.rvig.nl
 https://www.rvihh.nl
 https://www.rvo.nl
+https://www.rvr.org
 https://www.rwsinnoveert.nl
 https://www.samenwerkingrijknoord.nl
 https://www.sbv-z.nl
