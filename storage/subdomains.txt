@@ -759,6 +759,7 @@ SFS-ACC.dictu.nl
 SFS.dictu.nl
 Telewerken.rechtspraak.nl
 TvSimulator.rdw.nl
+V14.rws.nl
 _autodiscover._tcp.aanbiedersmedicijnen.nl
 _autodiscover._tcp.adviescollegeveiligheidgroningen.nl
 _autodiscover._tcp.belastingdienst-cn.nl
@@ -1165,6 +1166,7 @@ acc-auth.acc-protocol.mfaservices.nl
 acc-auth.mfaservices.nl
 acc-auth.rivm.nl
 acc-auth2.mfaservices.nl
+acc-bergerselect.rws.nl
 acc-bestellingen.rivm.nl
 acc-bestelmedicatie.rivm.nl
 acc-biometric-service.consular.mfaservices.nl
@@ -1180,6 +1182,7 @@ acc-consular.mfaservices.nl
 acc-cruks.kansspelautoriteit.nl
 acc-data-exchange.consular.mfaservices.nl
 acc-dataportaal.pbl.nl
+acc-ddapi-wkp.rws.nl
 acc-developer-portal-management.data-exchange.consular.mfaservices.nl
 acc-developer-portal.data-exchange.consular.mfaservices.nl
 acc-dictu.comcms.logius.nl
@@ -1204,13 +1207,19 @@ acc-etl.rijkswaterstaat.nl
 acc-ez-rvo-ba.dictu.nl
 acc-ezine.rvo.nl
 acc-flowlogics.minbzk.nl
+acc-gbvi.rws.nl
+acc-gbviapi.rws.nl
 acc-gcms-client-certificaat.dictu.nl
 acc-geo.rijkswaterstaat.nl
+acc-geo.rws.nl
 acc-geocontent.rvo.nl
 acc-geoservices.rvo.nl
+acc-iam.wm.gslb.rws.nl
+acc-iam.wm.rws.nl
 acc-infographics.pbl.nl
 acc-infographics.rvo.nl
 acc-inloggen.rijkswaterstaat.nl
+acc-inloggen.rws.nl
 acc-insights.mfaservices.nl
 acc-int.mijn.overheid.nl
 acc-internationaal.ondernemen.overheid.nl
@@ -1229,6 +1238,7 @@ acc-ls4.mfaservices.nl
 acc-lsp.rivm.nl
 acc-maps.rijkswaterstaat.nl
 acc-maps.rivm.nl
+acc-maps.rws.nl
 acc-mft.acc-protocol.mfaservices.nl
 acc-mft.rivm.nl
 acc-mijn.cokz.nl
@@ -1242,10 +1252,12 @@ acc-nl-dictu-dkb-sign.dictu.nl
 acc-nl-dictu-nhr-sign.dictu.nl
 acc-nl-dictu-rijkspas.dictu.nl
 acc-nl-nvwa-dkb-sign.dictu.nl
+acc-onderwaterobjecten.rws.nl
 acc-open-wave.odijmond.nl
 acc-participantapi.postcovidonderzoek.nl
 acc-paskaart.rivm.nl
 acc-pebbles.pbl.nl
+acc-port-enc.rws.nl
 acc-portal.acc-protocol.mfaservices.nl
 acc-portal.mfaservices.nl
 acc-portal2.mfaservices.nl
@@ -1259,6 +1271,7 @@ acc-referentiegegevens.justid.nl
 acc-reftool-portal.consular.mfaservices.nl
 acc-researcher.postcovidonderzoek.nl
 acc-saml.rd.2wssl.dictu.nl
+acc-sonarreg.rws.nl
 acc-sso-osiris.rivm.nl
 acc-staten.zuid-holland.nl
 acc-tdv.rivm.nl
@@ -1276,6 +1289,8 @@ acc-vtlb.rvr.org
 acc-webform.rvo.nl
 acc-webservice-tdv.igj.nl
 acc-website.rvo.nl
+acc-werkplek.gw01-gslb.rws.nl
+acc-werkplek.rws.nl
 acc-wetten.rvo.nl
 acc-windviewer.rvo.nl
 acc-www-staging.cito.nl
@@ -1285,6 +1300,7 @@ acc-www.clo.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
 acc.agrimatie.nl
+acc.alarmmodule.rws.nl
 acc.antenneregister.nl
 acc.api-auth.ilent.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
@@ -1342,6 +1358,7 @@ acc.dictu.nl
 acc.digid-stub.lpc.mijn.overheid.nl
 acc.digid.nl
 acc.digitaltrustcenter.nl
+acc.digitaltwin.rws.nl
 acc.donorgegevens.nl
 acc.dpr.irealisatie.nl
 acc.drupaloverheid.nl
@@ -1358,6 +1375,7 @@ acc.esp.mfaservices.nl
 acc.etoegang.nl
 acc.eva.logius.nl
 acc.expenses.sso3w.nl
+acc.fam.rws.nl
 acc.farmingthefuture.nl
 acc.federatieveservice.nl
 acc.fez.mfaservices.nl
@@ -1488,6 +1506,7 @@ acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
 accbopzterug.rvr.org
 accbopzuit.rvr.org
+accclap.rws.nl
 accdws.politie.nl
 accebms.cbs.nl
 accept-betalen.nba.nl
@@ -1581,6 +1600,8 @@ acceptatie.beheer.ncpeh.nl
 acceptatie.beheer.registersocialehygiene.nl
 acceptatie.beheer.zorgaanbiedersportaal.nl
 acceptatie.bestandsportaal.cibg.nl
+acceptatie.beterbediend.rws.nl
+acceptatie.bics.rws.nl
 acceptatie.bidbook.eu
 acceptatie.biotechnologie.rivm.nl
 acceptatie.blauwegolfverbindend.nl
@@ -1615,8 +1636,11 @@ acceptatie.dustex.nl
 acceptatie.ebms.digikoppeling.cibg.nl
 acceptatie.ecdis.osiris.rivm.nl
 acceptatie.esb.rijkswaterstaat.nl
+acceptatie.esb.rws.nl
+acceptatie.federatie.rws.nl
 acceptatie.feedfoodtransfer.nl
 acceptatie.formulieren.uziregister.nl
+acceptatie.gbvi.rws.nl
 acceptatie.geodata.rivm.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.gezondekinderopvang.nl
@@ -1644,6 +1668,7 @@ acceptatie.mebi-backoffice.rivm.nl
 acceptatie.mebi.rivm.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.meldpuntbodemkwaliteit.nl
+acceptatie.meridian.rws.nl
 acceptatie.mgk.osiris.rivm.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
@@ -1658,12 +1683,16 @@ acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.mondriaanfonds.nl
 acceptatie.mq.esb.rijkswaterstaat.nl
+acceptatie.mq1.esb.rws.nl
 acceptatie.mrsa.rivm.nl
 acceptatie.nationaleenergieatlas.nl
 acceptatie.neorah.nl
 acceptatie.nevo.rivm.nl
 acceptatie.nipv.nl
 acceptatie.niwo.nl
+acceptatie.nlhull.rws.nl
+acceptatie.nlrdms.rws.nl
+acceptatie.nlrmds-re.rws.nl
 acceptatie.oefenstembiljet.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.onderzoeksraad.nl
@@ -1671,6 +1700,7 @@ acceptatie.ordz.nl
 acceptatie.osiris.rivm.nl
 acceptatie.pacemweb.nl
 acceptatie.password.osiris.rivm.nl
+acceptatie.passwordreset.rws.nl
 acceptatie.pbl.nl
 acceptatie.philotes.rivm.nl
 acceptatie.politie.nl
@@ -1696,6 +1726,7 @@ acceptatie.rvs.rivm.nl
 acceptatie.rvszoeksysteem.rivm.nl
 acceptatie.schoolleidersregisterpo.nl
 acceptatie.signalen.osiris.rivm.nl
+acceptatie.sluisplanning.rws.nl
 acceptatie.sniv.osiris.rivm.nl
 acceptatie.soap.osiris.rivm.nl
 acceptatie.sorproposal.rivm.nl
@@ -1706,6 +1737,7 @@ acceptatie.tea.bigregister.nl
 acceptatie.teebstad.rivm.nl
 acceptatie.tmv.cibg.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
+acceptatie.tws-esb.rws.nl
 acceptatie.uzipas.auth.dezi.nl
 acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
@@ -1726,6 +1758,7 @@ acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
 acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
+acceptatie.werkenbij.rws.nl
 acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
 acceptatie.wreg.rivm.nl
@@ -1859,6 +1892,7 @@ actiemonitoringce.nl
 actioncenter-whitestown-in.hub.arcgis.com
 activation.bics.nl
 active-land-use-permits-cityofpoulsbo.hub.arcgis.com
+activemq-admin.incoming.test.vm-04.azure.grid.rws.nl
 activemq.beheer.intpatch.omgevingswet.overheid.nl
 activesync-ota.parlement.nl
 activesync.hetcak.nl
@@ -1917,6 +1951,7 @@ admin.globalentry-rtp.nl
 admin.letterenfonds.nl
 admin.openstad.zuid-holland.nl
 admin.ptvt.nl
+admin.rws.nl
 admin.schoolleidersregisterpo.nl
 admin.tbadmin.dev.kvk.nl
 admin.tbadmin.kvk.nl
@@ -2067,6 +2102,7 @@ ahn.nl
 ahr.lcms.nl
 ai-similia.labs.dans.knaw.nl
 ai.digicampus.tech
+aia.pki.rws.nl
 aiddata.rvo.nl
 aims.cultuurparticipatie.nl
 ainformatieportaal.justid.nl
@@ -2095,6 +2131,7 @@ al-i.espacenet.com
 al.espacenet.com
 aladdin.p-direkt.nl
 alameda-and-contra-costa-county-regional-priority-plan-ccrcd.hub.arcgis.com
+alarmmodule.rws.nl
 alaska-dhss.hub.arcgis.com
 alaska-economic-data-dcced.hub.arcgis.com
 alaska-food-systems-soa-dnr.hub.arcgis.com
@@ -2105,6 +2142,9 @@ alcoa-ec2020.hub.arcgis.com
 alcor.kadaster.nl
 alella-valorizasm.hub.arcgis.com
 alert.amberalert.nl
+alertbase.acceptatie.vm-05.azure.grid.rws.nl
+alertbase.test.vm-05.azure.grid.rws.nl
+alertbase.vm-05.azure.grid.rws.nl
 alerteren.burgernet.nl
 alerting.hdsr.nl
 alexandria.huygens.knaw.nl
@@ -2431,6 +2471,9 @@ apikey.ep-online.nl
 apim-icc-a.svb.nl
 apim-icc-t.svb.nl
 apim-icc.svb.nl
+apim-internal.datalab-01.azure.grid.rws.nl
+apim-portal.datalab-01.azure.grid.rws.nl
+apim.datalab-01.azure.grid.rws.nl
 apim01.npo.cloud001.kvk.nl
 apim01.prd.cloud001.kvk.nl
 apimgr-acc.dictu.nl
@@ -2457,6 +2500,7 @@ aplbeqa01.belastingdienst.nl
 aplekchecker-auth.ssc-ict.nl
 aplekchecker.ssc-ict.nl
 apollo.databank.nl
+apop.esb.rws.nl
 apopka.maps.arcgis.com
 apos-int.erp.kadaster.nl
 apos.erp.kadaster.nl
@@ -2558,6 +2602,7 @@ aptikom-riau-smartcommunity.hub.arcgis.com
 aq.kb.nl
 aqtest.kb.nl
 aqualarm.nl
+aqualarm.rws.nl
 aquatera-utilities-1-aquautilities.hub.arcgis.com
 aquatic-ambassadors-presselexplores.hub.arcgis.com
 aquo.nl
@@ -2603,6 +2648,11 @@ argenteuil-geo-open-data-ca-ab.hub.arcgis.com
 argocd-infra-edu.efiling.mijnoctrooi.rvo.nl
 argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl
 argocd-infra.efiling.mijnoctrooi.rvo.nl
+argocd.acceptatie.vm-05.azure.grid.rws.nl
+argocd.dmz.vm-04.azure.grid.rws.nl
+argocd.test.vm-04.azure.grid.rws.nl
+argocd.test.vm-05.azure.grid.rws.nl
+argocd.vm-05.azure.grid.rws.nl
 argon2.cbs.nl
 arh.rvr.org
 aris.brabant.nl
@@ -2667,6 +2717,7 @@ asycuda.belastingdienst-cn.nl
 at-i.espacenet.com
 at-o.espacenet.com
 at.espacenet.com
+at.rws.nl
 atc-covid19data-austin.hub.arcgis.com
 atender.dnb.nl
 atgb.nl
@@ -2737,6 +2788,7 @@ auth.rivm.nl
 auth.services.acm.nl
 auth.services.cultureelerfgoed.nl
 auth.vallei-veluwe.nl
+auth.vm-02.azure.grid.rws.nl
 auth2.mfaservices.nl
 auth20.dictu.nl
 authenticatie-a.cito.nl
@@ -2874,6 +2926,7 @@ autodiscover.rijksdienstcn.com
 autodiscover.rivm.nl
 autodiscover.rva.nl
 autodiscover.rvr.org
+autodiscover.rws.nl
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
 autodiscover.services.acm.nl
@@ -3062,6 +3115,7 @@ bat.ont.belastingdienst.nl
 bata-next-wave-nelsonnygaard.hub.arcgis.com
 bataafse-politieke-tijdschriften.huygens.knaw.nl
 bathymetrie.rijkswaterstaat.nl
+bathymetrie.rws.nl
 batterybarcouk.github.io
 bay-lake-rpc-covid-19-economic-hub-baylakerpc.hub.arcgis.com
 bayplanviewer.bics.nl
@@ -3265,6 +3319,7 @@ bereikbaarheid.ndw.nu
 bereikbaarheid.staging.ndw.nu
 bereikbaarheidvooriedereen.nl
 bereken.uwbeslagvrijevoet.nl
+bergerselect.rws.nl
 bergfashionlibrary.com.access.authkb.kb.nl
 berichten.rdw.nl
 berichtenportaal.acp.kvk.nl
@@ -3348,6 +3403,7 @@ betalentolpassage.e-tol.nl
 betalinkeddata.cbs.nl
 betaopendata.cbs.nl
 betaversie.lees-rijk.nl
+beterbediend.rws.nl
 beterwordenvancorona.zuid-holland.nl
 beveiligd.acceptatie.kadaster.nl
 beveiligd.kadaster.nl
@@ -3363,6 +3419,7 @@ bewustbodemgebruik.nl
 beyond-mobility-massdot.hub.arcgis.com
 bezet.belastingdienst.nl
 bezoekerscentrum.rijkswaterstaat.nl
+bezoekerscentrum.rws.nl
 bezoekersdata.flevoland.nl
 bezorgen-dgp.procesinfrastructuur.nl
 bezorgen.procesinfrastructuur.nl
@@ -3454,6 +3511,7 @@ biosecurityvulnerabilityscan.nl
 biosecurityzelfscan.nl
 biotechnologie.nl
 biotechnologie.rivm.nl
+birdviewer.rws.nl
 biss-lra-soem.hub.arcgis.com
 bitbucket.politie.nl
 bitwarden.knaw.nl
@@ -3632,6 +3690,7 @@ bronkopie.osb.kvk.nl
 bronnen.politieacademie.nl
 broward-county-demographics-bcgis.hub.arcgis.com
 broward-metropolitan-planning-organization-open-data-browardmpo.hub.arcgis.com
+browse.nexus.vm-02.azure.grid.rws.nl
 browser.dataplatform.knmi.nl
 brp-test.belastingdienst.nl
 brp.belastingdienst.nl
@@ -3688,7 +3747,9 @@ businessportaal.cjib.nl
 butler.rijkscloud.nl
 butte-county-collaborative-group-bcrcd.hub.arcgis.com
 buurtatlas.vzinfo.nl
+bva-acc.rws.nl
 bva.rijksapplicaties.nl
+bva.rws.nl
 bva.staging.rijksapplicaties.nl
 bvd-pre.mev.logius.nl
 bvd.acc1.machtigen.digid.nl
@@ -3940,7 +4001,9 @@ cdn.platformwow.nl
 cdn.politieacademie.nl
 cdndev.arcgis.com
 cdnqa.arcgis.com
+cdp1.pki.rws.nl
 cdp2-glasgowgis.hub.arcgis.com
+cdp2.pki.rws.nl
 cea.nl
 cecoldo-dimar.hub.arcgis.com
 cedar.rijksapplicaties.nl
@@ -3961,6 +4024,7 @@ centraalexamenmbo.nl
 centraalexamenvmbo.nl
 centraalexamenvo.nl
 centraalexamenvwo.nl
+centraaltoegangspuntdata.rws.nl
 centrale-eindtoets-po.nl
 centralecommissiedierproeven.nl
 centro-de-respuesta-coronavirus-soacha-sigsoacha15.hub.arcgis.com
@@ -4021,9 +4085,15 @@ charlie.bkwi.nl
 charlie.ncsc.nl
 charriere.huygens.knaw.nl
 charterbank.huygens.knaw.nl
+chartmuseum.dmz.vm-04.azure.grid.rws.nl
+chartmuseum.test.vm-04.azure.grid.rws.nl
 chascogis.maps.arcgis.com
+chat-api.acceptatie.vm-05.azure.grid.rws.nl
+chat-api.test.vm-05.azure.grid.rws.nl
+chat-api.vm-05.azure.grid.rws.nl
 chat-dev.rijkscloud.nl
 chat.cito.nl
+chat.datalab-01.azure.grid.rws.nl
 chat.datascience.rijkscloud.nl
 chat.enlets.politie.nl
 chat.ind.nl
@@ -4087,6 +4157,7 @@ circulairmaterialenplan.nl
 circularandfairictpact.com
 circularfestivals.nl
 cis.so.rijkscloud.nl
+cisvm.intranet.rws.nl
 citavista.databank.nl
 cito-api-management.cito.nl
 cito.nl
@@ -4111,6 +4182,7 @@ city-of-vancouver-wa-geo-hub-cityofvancouver.hub.arcgis.com
 city-of-winchester-open-data-1-winchestercity.hub.arcgis.com
 cityhall.maps.arcgis.com
 cityofkingman.maps.arcgis.com
+civvv-mtm2-router-nwn.publicatie.test.vm-04.azure.grid.rws.nl
 ciz.databank.nl
 ciz.nl
 cjib.huurcommissie.nl
@@ -4119,6 +4191,7 @@ ckcc.huygens.knaw.nl
 clacc-mijn.rvo.nl
 claircitydata.cbs.nl
 clallam-county-portal-clallam.hub.arcgis.com
+clap.rws.nl
 class.oidji.nl
 classic.npostart.nl
 clddeploy-landingzone-o.rdw.nl
@@ -4191,6 +4264,7 @@ cma-acc.internetconsultatie.nl
 cma.internetconsultatie.nl
 cmdi.dev.huc.knaw.nl
 cmeets.eerstekamer.nl
+cmgrws.rws.nl
 cmh.rdw.nl
 cms-ac.farmacotherapeutischkompas.nl
 cms-acc.farmacotherapeutischkompas.nl
@@ -4375,6 +4449,8 @@ conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.gebruikercentraal.nl
 conference.jitsi.rijkscloud.nl
+configgenerator.vm-02.azure.grid.rws.nl
+configuration.vm-02.azure.grid.rws.nl
 confluence.cpb.nl
 confluence.extern.minszw.nl
 confluence.knmi.nl
@@ -4558,6 +4634,7 @@ crisis.nl
 crisismaatregel.webservices-dbb-acc.igj.nl
 crisismaatregel.webservices-dbb.igj.nl
 crisiswerkplek.rijkswaterstaat.nl
+crisiswerkplek.rws.nl
 crl.npkd.nl
 crl.pkioverheid.nl
 crlresidues.rivm.nl
@@ -4576,6 +4653,9 @@ crow.databank.nl
 crowdtech.rvo.nl
 crowlogin.databank.nl
 crs.nba.nl
+crud.acceptatie.vm-05.azure.grid.rws.nl
+crud.test.vm-05.azure.grid.rws.nl
+crud.vm-05.azure.grid.rws.nl
 cruks-test.kansspelautoriteit.nl
 cruks.kansspelautoriteit.nl
 cruksregister.nl
@@ -4620,6 +4700,7 @@ csu070-high.kadaster.nl
 csu070-med.kadaster.nl
 csw-bc.knmi.nl
 cta.rvo.nl
+ctd.rws.nl
 ctf.rijkscloud.nl
 ctgb.nl
 ctivd.nl
@@ -4881,6 +4962,10 @@ dcmp-upnl-idp.rvo.nl
 dcp-time-slot.cbg-meb.nl
 dcpp.ssc-ict.nl
 dcypher.nl
+ddapi-preprod.gslb.rws.nl
+ddapi-preprod.rws.nl
+ddapi-wkp.rws.nl
+ddapi.rws.nl
 ddd.test.cloud.kadaster.nl
 dddn21.dans.knaw.nl
 ddn21.dans.knaw.nl
@@ -4910,9 +4995,12 @@ delta.bkwi.nl
 deltaprogramma.nl
 dementieinkaart.nl
 demijnraad.nl
+demo-backend-civvv-fcd.fcd.test.vm-04.azure.grid.rws.nl
 demo-ebc.databank.nl
 demo-en.web.ssc-ict.nl
+demo-frontend.fcd.test.vm-04.azure.grid.rws.nl
 demo-geoservices.rijkswaterstaat.nl
+demo-geoservices.rws.nl
 demo-systemteam.overheid.nl
 demo-test.web.ssc-ict.nl
 demo-veiligheidsmonitor.databank.nl
@@ -5027,6 +5115,7 @@ dev.aerius.nl
 dev.api-sec.p-direkt.nl
 dev.api.brp.mfaservices.nl
 dev.api.p-direkt.nl
+dev.at.rws.nl
 dev.cbrnsecurity.nctv.nl
 dev.cdn.consular.mfaservices.nl
 dev.centruminternationaalrecht.nl
@@ -5153,6 +5242,7 @@ di.services.acm.nl
 dia-acceptatie.rijksapplicaties.nl
 dia.rijksapplicaties.nl
 dia.staging.rijksapplicaties.nl
+diagrams.at.rws.nl
 dialin.cbg-meb.nl
 dialin.coa.nl
 dialin.justid.nl
@@ -5308,6 +5398,8 @@ directduidelijk.gebruikercentraal.nl
 directie.sp.nwo.nl
 directory.huc.knaw.nl
 discipl.nl
+disk.acceptatie.rws.nl
+disk.rws.nl
 disportal.nl
 diversiteitsindex.databank.nl
 diversiteitsplein.politiekeambtsdragers.nl
@@ -5403,6 +5495,7 @@ doculoket.overheid.nl
 document-viewer.dso.kadaster.nl
 documentatie.di.huc.knaw.nl
 documentatie.plp.kadaster.nl
+documentatie.vm-02.azure.grid.rws.nl
 documentenapplicatie.igj.nl
 documentlevering.kb.nl
 documentnummercontroleren.rdw.nl
@@ -5417,6 +5510,7 @@ domeinen-prd.cloudservices.kb.nl
 domeinen.kb.nl
 domeinenrz.nl
 domeinnaamregistratie.rijksoverheid.nl
+domeintabellen-idsw.rws.nl
 domorganisatieservicesocsp-g3.pkioverheid.nl
 doncker.huygens.knaw.nl
 donorgegevens.nl
@@ -5507,6 +5601,10 @@ drpbeheerservice-acc.overheid.nl
 drpbeheerservice-preprd.overheid.nl
 drpbeheerservice.overheid.nl
 drs.ndw.nu
+druid-router.druid.test.vm-04.azure.grid.rws.nl
+druid.acceptatie.vm-05.azure.grid.rws.nl
+druid.test.vm-05.azure.grid.rws.nl
+druid.vm-05.azure.grid.rws.nl
 drumsoffreedom.github.io
 drupal.rivm.nl
 drupaloverheid.nl
@@ -6020,10 +6118,12 @@ enterpriseregistration.ofgv.nl
 enterpriseregistration.pc.belastingdienst.nl
 enterpriseregistration.rdw.nl
 enterpriseregistration.rechtspraak.nl
+enterpriseregistration.rws.nl
 enterpriseregistration.svb.nl
 entreepgb.svb.nl
 env1.arcgis.com
 enwinfo.nl
+eov.acceptatie.rws.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
 ep-i.espacenet.com
@@ -6072,12 +6172,16 @@ esb-p1.brabant.nl
 esb-preprod.flevoland.nl
 esb-t1.brabant.nl
 esb-test.brabant.nl
+esb-werkstation-1.vm-02.azure.grid.rws.nl
+esb-werkstation-2.vm-02.azure.grid.rws.nl
+esb-werkstation-3.vm-02.azure.grid.rws.nl
 esb.brabant.nl
 esb.btp.sso3w.nl
 esb.expenses.sso3w.nl
 esb.flevoland.nl
 esb.protocol.mfaservices.nl
 esb.rijkswaterstaat.nl
+esb.rws.nl
 esg.cito.nl
 esp-api-management.acc-probas.mfaservices.nl
 esp-api-management.dev-probas.mfaservices.nl
@@ -6164,11 +6268,13 @@ evc.ibki.nl
 evenementen.belastingdienst.nl
 evenementen.fondspodiumkunsten.nl
 evenementen.politie.nl
+evenementen.rws.nl
 evenementenbureauvws.nl
 evenementenkalender.staging.rijksapplicaties.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
+eventrecorder.ptp.inloggen.rws.nl
 events.digitalenoordzee.nl
 events.duo.nl
 events.kadaster.nl
@@ -6312,6 +6418,7 @@ fairaware.labs.dans.knaw.nl
 faireva.labs.dans.knaw.nl
 fairevaapi.labs.dans.knaw.nl
 fallback.hetcak.nl
+fam.rws.nl
 fame.aerius.nl
 faq-fb.staging.rijksapplicaties.nl
 faq.cbr.nl
@@ -6321,6 +6428,9 @@ farmacotherapeutischkompas.nl
 farmatec.nl
 farmingthefuture.nl
 faro.cultureelerfgoed.nl
+fat-acc.vm-02.azure.grid.rws.nl
+fat-test.vm-02.azure.grid.rws.nl
+fat.vm-02.azure.grid.rws.nl
 fatcacrs.belastingdienst.nl
 fatcacrstest.belastingdienst.nl
 fatescript.github.io
@@ -6342,6 +6452,15 @@ fbs-release.devops.rvb.rijkscloud.nl
 fcb.databank.nl
 fcbjeugdzorg.databank.nl
 fcbwelzijn.databank.nl
+fcd-acc-bemobile-aid-triggers-actuators.dmz.vm-04.azure.grid.rws.nl
+fcd-acc-bemobile-aid-triggers.dmz.vm-04.azure.grid.rws.nl
+fcd-acc-bemobile-trajectorien-actuators.dmz.vm-04.azure.grid.rws.nl
+fcd-acc-bemobile-trajectorien.dmz.vm-04.azure.grid.rws.nl
+fcd-aid-distributor-actuator.regression-aid-distributor.test.vm-04.azure.grid.rws.nl
+fcd-prod-bemobile-aid-triggers-actuators.dmz.vm-04.azure.grid.rws.nl
+fcd-prod-bemobile-aid-triggers.dmz.vm-04.azure.grid.rws.nl
+fcd-prod-bemobile-trajectorien-actuators.dmz.vm-04.azure.grid.rws.nl
+fcd-prod-bemobile-trajectorien.dmz.vm-04.azure.grid.rws.nl
 fcinet.acc.belastingdienst.nl
 fcp-crystal.cultuurparticipatie.nl
 fcpwiki.cultuurparticipatie.nl
@@ -6366,6 +6485,7 @@ feda.databank.nl
 federated-login-pp.dnb.nl
 federated-login.dnb.nl
 federatie.rechtspraak.nl
+federatie.rws.nl
 federatieveservice.nl
 federation-test.reclassering.nl
 federation.brabant.nl
@@ -6980,6 +7100,7 @@ geo.hhdelfland.nl
 geo.leefbaarometer.nl
 geo.odmh.nl
 geo.rijkswaterstaat.nl
+geo.rws.nl
 geo.zuid-holland.nl
 geo2.flevoland.nl
 geo3.flevoland.nl
@@ -7034,7 +7155,9 @@ geoservices.knmi.nl
 geoservices.lvnl.nl
 geoservices.rijkswaterstaat.nl
 geoservices.rvo.nl
+geoservices.rws.nl
 geoservices.zuid-holland.nl
+geostenen.grid.rws.nl
 geotest.hhdelfland.nl
 geoview.hhdelfland.nl
 geoviewerhhd.hhdelfland.nl
@@ -7043,6 +7166,7 @@ geoweb.devops.rvb.rijkscloud.nl
 geoweb.knmi.nl
 geoweb.odmh.nl
 geoweb.rijkswaterstaat.nl
+geoweb.rws.nl
 geoweb.vechtstromen.nl
 geoweb.zuid-holland.nl
 geraardsbergen.huygens.knaw.nl
@@ -7054,6 +7178,7 @@ geschiktheid-acc.cbr.nl
 geschiktheid-tst.cbr.nl
 geschiktheid.cbr.nl
 geschilleninstantieszorg.nl
+getij.rws.nl
 gevallenen40-45.niod.knaw.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gezagsregister.rechtspraak.nl
@@ -7128,6 +7253,7 @@ git.pianoo.nl
 git.quatro.rijkscloud.nl
 git.quattro.rijkscloud.nl
 git.rijksoverheid.nl
+git.rws.nl
 git.tst.rijkscloud.nl
 git1.minions.odc-noord.nl
 gitdocumentatie.logius.nl
@@ -7136,6 +7262,7 @@ github.github.io
 gitlab-acc.dictu.nl
 gitlab.analyse.ilt.rijkscloud.nl
 gitlab.anvs.rijkscloud.nl
+gitlab.at.rws.nl
 gitlab.bkwi.nl
 gitlab.datascience.rijkscloud.nl
 gitlab.dgdoobi.rijkscloud.nl
@@ -7252,12 +7379,16 @@ gps-sa-api.sso3w.nl
 gps-sa.sso3w.nl
 gr-i.espacenet.com
 gr.espacenet.com
+grafana-acc.vm-02.azure.grid.rws.nl
 grafana-az1.lpc.logius.nl
 grafana-az2.lpc.logius.nl
+grafana-test.vm-02.azure.grid.rws.nl
 grafana.extern.minszw.nl
 grafana.ix.rijkscloud.nl
 grafana.lpc.logius.nl
 grafana.politieacademie.nl
+grafana.test.vm-04.azure.grid.rws.nl
+grafana.vm-02.azure.grid.rws.nl
 granvillecounty.maps.arcgis.com
 graph.zandbak.dans.knaw.nl
 graphdb.nationaalarchief.nl
@@ -7277,6 +7408,8 @@ greencove.maps.arcgis.com
 grensdata.eu
 grensinfo.nl
 grenzeloossamenwerken.nl
+grid.rws.nl
+gridacc.rws.nl
 grip.informatiehuishouding.nl
 grip.rivm.nl
 grknmi.nl
@@ -7356,6 +7489,9 @@ guest.svb.nl
 guestloginportal.kadaster.nl
 guestportal.hetcak.nl
 guestportal.kadaster.nl
+guestportal1.rws.nl
+guestportal2.rws.nl
+guestportal3.rws.nl
 guestwifi.dnb.nl
 gui.datascience.rijkscloud.nl
 gui.ienw.ix.rijkscloud.nl
@@ -7430,6 +7566,7 @@ health-api.test.coronatest.nl
 healthcouncil.nl
 helloid.aaenmaas.nl
 helloid.vechtstromen.nl
+helloworld-acc.vm-02.azure.grid.rws.nl
 helmond.leerwerkloket.nl
 helmond.lerenenwerken.nl
 help.arcgis.com
@@ -7476,6 +7613,7 @@ historisch.cbs.nl
 historische-luchtfoto.flevoland.nl
 historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
+hld.rws.nl
 hoesterkstaik.nl
 hogeraad.nl
 hogeraadvanadel.nl
@@ -7540,6 +7678,7 @@ huygens.idp.knaw.nl
 huygens.knaw.nl
 hv.proquest.com.access.authkb.kb.nl
 hwbp.nl
+hwtest.vm-02.azure.grid.rws.nl
 hybrid.afm.nl
 hybrid.brabant.nl
 hybrid.coa.nl
@@ -7738,6 +7877,7 @@ images.nieuwsbrieven.rivm.nl
 imageviewer.kb.nl
 img.denkmee.zuid-holland.nl
 img.openstad.zuid-holland.nl
+imgdownload.rws.nl
 imlc.huygens.knaw.nl
 immissietoets.nl
 impact-project.eu
@@ -7781,6 +7921,9 @@ indigo-l3-sso.ilab.ota.ind.minbzk.nl
 industrie-en-omwonenden.onderzoeksraad.nl
 inechile.maps.arcgis.com
 ineo.dev.huc.knaw.nl
+infinispan.acceptatie.vm-05.azure.grid.rws.nl
+infinispan.test.vm-05.azure.grid.rws.nl
+infinispan.vm-05.azure.grid.rws.nl
 influx.rivm.nl
 influxg.rivm.nl
 influxs.rivm.nl
@@ -7842,6 +7985,7 @@ inloggen.nidos.nl
 inloggen.platformrijksoverheidonline.nl
 inloggen.rijkswaterstaat.nl
 inloggen.rvo.nl
+inloggen.rws.nl
 inloggen.waterschaplimburg.nl
 inmemoriam.dictu.nl
 innova58.nl
@@ -8002,6 +8146,7 @@ inzenden.knawonderwijsprijs.nl
 inzichten.platformrijksoverheidonline.nl
 iob-evaluatie.nl
 iob.justid.nl
+iodk.vm-02.azure.grid.rws.nl
 iowadot.maps.arcgis.com
 iowgis.maps.arcgis.com
 ip.rijkscloud.nl
@@ -8034,6 +8179,7 @@ iris.intern.reclassering.nl
 iris.knmi.nl
 irmpol-acc.dictu.nl
 irmpol.dictu.nl
+irose.vm-02.azure.grid.rws.nl
 is-i.espacenet.com
 is.espacenet.com
 isaac.nwo.nl
@@ -8128,6 +8274,9 @@ jaguar010.dictu.nl
 jaguar010a.dictu.nl
 jaguar010b.dictu.nl
 jakarta-oat.dev.huc.knaw.nl
+janitor.acceptatie.vm-05.azure.grid.rws.nl
+janitor.test.vm-05.azure.grid.rws.nl
+janitor.vm-05.azure.grid.rws.nl
 japan.dev.investinholland.com
 japan.investinholland.com
 jduke7.maps.arcgis.com
@@ -8139,6 +8288,7 @@ jenkins.devops.rvb.rijkscloud.nl
 jenkins.koopvm.rijkscloud.nl
 jenkins.red.huygens.knaw.nl
 jenkins.rijkscloud.nl
+jenkins.vm-02.azure.grid.rws.nl
 jenvacademie.nl
 jenvbredewerkagenda.nl
 jenvconnect.nl
@@ -8294,6 +8444,7 @@ kadata.kadaster.nl
 kadatawebservice.kadaster.nl
 kadatawebservices.kadaster.nl
 kadatawebservices.test.kadaster.nl
+kafka-ui.kafka.test.vm-04.azure.grid.rws.nl
 kaiachain.github.io
 kamerindeklas.nl
 kamervoordebinnenvisserij.nl
@@ -8660,9 +8811,16 @@ keuzehulpverkeersmaatregelen.zuid-holland.nl
 kevin.devops.rvb.rijkscloud.nl
 key-acc.cokz.nl
 key.cokz.nl
+keycloak-acc-admin.vm-02.azure.grid.rws.nl
 keycloak-acc.rvb.rijkscloud.nl
+keycloak-acc.vm-02.azure.grid.rws.nl
+keycloak-admin.acceptatie.vm-05.azure.grid.rws.nl
+keycloak-admin.vm-05.azure.grid.rws.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
 keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
+keycloak-test-admin.vm-02.azure.grid.rws.nl
+keycloak-test.vm-02.azure.grid.rws.nl
+keycloak.acceptatie.vm-05.azure.grid.rws.nl
 keycloak.analyse.ilt.rijkscloud.nl
 keycloak.devops.rvb.rijkscloud.nl
 keycloak.dgdoobi.rijkscloud.nl
@@ -8673,6 +8831,9 @@ keycloak.rdi.rijkscloud.nl
 keycloak.sodm.rijkscloud.nl
 keycloak.test.analyse.ilt.rijkscloud.nl
 keycloak.test.ix.rijkscloud.nl
+keycloak.test.vm-04.azure.grid.rws.nl
+keycloak.vm-02.azure.grid.rws.nl
+keycloak.vm-05.azure.grid.rws.nl
 keyhub.onderzoeksraad.nl
 keys-updates.rijksapplicaties.nl
 keys-updates.staging.rijksapplicaties.nl
@@ -8886,6 +9047,9 @@ landelijkemeldkamer.org
 landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 landelijkregisterkinderopvang.nl
 landingzone.rdw.nl
+langfuse-test.vm-05.azure.grid.rws.nl
+langfuse.acceptatie.vm-05.azure.grid.rws.nl
+langfuse.vm-05.azure.grid.rws.nl
 lap.api.reis.npr.idm.rvig.nl
 lap.rvp.reis.npr.idm.rvig.nl
 laravel.neorah.nl
@@ -8956,6 +9120,7 @@ legacy.emissieregistratie.nl
 legacy.flevoland.nl
 legacy.knaw.nl
 legacy.rijksdienstcn.com
+legacy.rws.nl
 legacy2.emissieregistratie.nl
 legend.aerius.nl
 legitimeren.kvk.nl
@@ -9292,6 +9457,7 @@ lvbb-preprod.overheid.nl
 lvbb-tst.overheid.nl
 lvmb.nl
 lvnl.nl
+lws2013-int.rws.nl
 lync.dictu.nl
 lync.nba.nl
 lync.prolander.nl
@@ -9513,6 +9679,7 @@ mail.rijksdienstcn.com
 mail.rvb.rijkscloud.nl
 mail.rvr.org
 mail.rw1.rijkscloud.nl
+mail.rws.nl
 mail.scp.nl
 mail.seb.ibki.nl
 mail.services.acm.nl
@@ -9643,6 +9810,7 @@ maps.naktuinbouw.nl
 maps.ndw.nu
 maps.rijkswaterstaat.nl
 maps.rivm.nl
+maps.rws.nl
 maps.staging.ndw.nu
 maps.waterschaplimburg.nl
 mapserver.fa.knaw.nl
@@ -9656,6 +9824,8 @@ maricopa.maps.arcgis.com
 markt-overheid.acm.nl
 maror.nl
 mars.rijkswaterstaat.nl
+mars.rws.nl
+mars2.ptp.inloggen.rws.nl
 martaonline.maps.arcgis.com
 mass.cultureelerfgoed.nl
 master-browser.dataplatform.knmi.nl
@@ -9676,6 +9846,7 @@ matomo.onderzoeksraad.nl
 matra-south.rvo.nl
 matrix.ix.rijkscloud.nl
 matroos.rijkswaterstaat.nl
+matroos.rws.nl
 matter.minaz.rijkscloud.nl
 mattermost.aerius.nl
 maturityscan.gebruikercentraal.nl
@@ -9687,6 +9858,7 @@ max.dus-i.nl
 max.proeftuin.uzi-online.irealisatie.nl
 max.test.mgo.irealisatie.nl
 maximizer.rathenau.knaw.nl
+mbaks007.rws-a5-t.azure.gridtst.rws.nl
 mbg-ota.dictu.nl
 mbg-proxy.flevoland.nl
 mbg.cbs.nl
@@ -9777,6 +9949,7 @@ meet.rijksrecherche.nl
 meet.th.rechtspraak.nl
 meet.vc.rechtspraak.nl
 meet.vechtstromen.nl
+meetgegevens.test.vm-05.azure.grid.rws.nl
 meeting.acm.nl
 meeting.nationaalarchief.nl
 meeting.services.acm.nl
@@ -9811,6 +9984,7 @@ menukaart-kansrijkestart-nl.rivm.nl
 menukaart.kansrijkestartnl.nl
 mercurius.sso3w.nl
 meridian.rijkswaterstaat.nl
+meridian.rws.nl
 merkportaal.belastingdienst.nl
 merkportaal.dnb.nl
 merkportaal.e-tol.nl
@@ -10171,11 +10345,23 @@ minez-test.nederlandsesoorten.nl
 minez.nederlandsesoorten.nl
 minienm.nl
 minienw.nl
+minio-console.acceptatie.vm-05.azure.grid.rws.nl
+minio-console.test.vm-05.azure.grid.rws.nl
+minio-console.vm-05.azure.grid.rws.nl
+minio-indexer.acceptatie.vm-05.azure.grid.rws.nl
+minio-indexer.test.vm-05.azure.grid.rws.nl
+minio-indexer.vm-05.azure.grid.rws.nl
+minio-operator.test.vm-04.azure.grid.rws.nl
+minio-storage-api.test.vm-04.azure.grid.rws.nl
+minio-storage.test.vm-04.azure.grid.rws.nl
+minio.acceptatie.vm-05.azure.grid.rws.nl
 minio.datafabriek.ienw.rijkscloud.nl
 minio.ddd.test.cloud.kadaster.nl
 minio.dev-datafabriek.ienw.rijkscloud.nl
 minio.dev.fib.ienw.rijkscloud.nl
 minio.labs.dans.knaw.nl
+minio.test.vm-05.azure.grid.rws.nl
+minio.vm-05.azure.grid.rws.nl
 minio2.labs.dans.knaw.nl
 minioapi.labs.dans.knaw.nl
 minioapi2.labs.dans.knaw.nl
@@ -10187,6 +10373,8 @@ minprd2.api.ix.rijkscloud.nl
 minszw.nl
 mintst2.api.ix.rijkscloud.nl
 minvws.nl
+mip-proxy-acc.rws.nl
+mip-proxy-prod.rws.nl
 mir-t.politieacademie.nl
 mir.politieacademie.nl
 miraonline.nl
@@ -10317,6 +10505,8 @@ mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
 mpx.rijksapplicaties.nl
 mpx.staging.rijksapplicaties.nl
 mq.esb.rijkswaterstaat.nl
+mq1.esb.rws.nl
+mq2.esb.rws.nl
 mqtt.dataplatform.knmi.nl
 mr.acm.nl
 mr.chm-cbd.net
@@ -10428,6 +10618,7 @@ mta-p.svb.nl
 mta-sts.belastingdienst.nl
 mta-sts.mail.cggp.nl
 mta-sts.nza.nl
+mta-sts.rws.nl
 mta-sts.vechtstromen.nl
 mta.cbr.nl
 mta.email.kvk.nl
@@ -10437,6 +10628,9 @@ mta1.onderzoeksraad.nl
 mtdphhs.maps.arcgis.com
 mtls-tmx-dap-eu.acc.belastingdienst.nl
 mtls-tmx-dap-eu.belastingdienst.nl
+mtm.default.test.vm-04.azure.grid.rws.nl
+mtm2-activemq-admin.regression-mtm2-router.test.vm-04.azure.grid.rws.nl
+mtm2-rabbitmq-admin.regression-mtm2-router.test.vm-04.azure.grid.rws.nl
 mtp-pre.politie.nl
 mtp.politie.nl
 mtv.rdw.nl
@@ -10641,6 +10835,7 @@ nevenactiviteiten.cvdm.nl
 nevenbetrekkingen.om.nl
 nevo-online.rivm.nl
 nevo.rivm.nl
+new-topdesk-wvl.rws.nl
 new.boekingszuil.logerenbijdeboswachter.nl
 new.deweekvandecirculaireeconomie.nl
 new.luchtvaartmeteo.nl
@@ -10662,6 +10857,8 @@ nextcloud.waterschaplimburg.nl
 nextcloudpoc.ienwfib.rijkscloud.nl
 nextdrive.nationaalarchief.nl
 nexus-docker.aerius.nl
+nexus-ivp.rws.nl
+nexus-test.vm-02.azure.grid.rws.nl
 nexus.aerius.nl
 nexus.cvm.rijkscloud.nl
 nexus.devops.rvb.rijkscloud.nl
@@ -10669,9 +10866,14 @@ nexus.extern.minszw.nl
 nexus.lpc.logius.nl
 nexus.politie.nl
 nexus.test.ix.rijkscloud.nl
+nexus.vm-02.azure.grid.rws.nl
 nf.nvao.net
 nfi-acc.topdesk.odc-noord.nl
 nfi-prd.topdesk.odc-noord.nl
+nginx-test.dmz.vm-04.azure.grid.rws.nl
+nginx-test2.dmz.vm-04.azure.grid.rws.nl
+nginx-test3.dmz.vm-04.azure.grid.rws.nl
+nginx-test4.dmz.vm-04.azure.grid.rws.nl
 ngr.acceptatie.nationaalgeoregister.nl
 ngr.ontwikkeling.nationaalgeoregister.nl
 nh.acc.douane.nl
@@ -10730,6 +10932,7 @@ niod.knaw.nl
 nioo.knaw.nl
 nipv.nl
 nis.naktuinbouw.nl
+nis.rws.nl
 nisha240799.github.io
 nisheedkumarrout.github.io
 nivelform.rivm.nl
@@ -10751,6 +10954,7 @@ nlarbeidsinspectie.nl
 nldigitalgovernment.nl
 nlflag.nl
 nlhull.bics.nl
+nlhull.rws.nl
 nlhull2.bics.nl
 nlhull3.bics.nl
 nlinfrankrijk.nl
@@ -10761,6 +10965,7 @@ nlontwikkelingssamenwerking.nl
 nlot.org.tw
 nlplatform.com
 nlrdms.bics.nl
+nlrdms.rws.nl
 nls.ndw.nu
 nls.staging.ndw.nu
 nlspace.nl
@@ -10790,6 +10995,7 @@ noordlimburg.leerwerkloket.nl
 noordlimburg.lerenenwerken.nl
 noordoostbrabant.leerwerkloket.nl
 noordzeeloket.nl
+noos.matroos.rws.nl
 noraonline.nl
 north-central-wisconsin-entrepreneurial-portal-ncwrpc.hub.arcgis.com
 northern-sunrise-county-gis-mmsa.hub.arcgis.com
@@ -10803,6 +11009,8 @@ notestest.rivm.nl
 notificatie-preprod.api.ep-online.nl
 notificatie.api.ep-online.nl
 notificatie.pzp.nl
+notifications.acceptatie.vm-05.azure.grid.rws.nl
+notifications.test.vm-05.azure.grid.rws.nl
 notify-pay.kvk.nl
 notify.acp.kvk.nl
 novexrotterdamsehaven.nl
@@ -11072,6 +11280,7 @@ ofallon.maps.arcgis.com
 office.bkwi.nl
 office.cultuurparticipatie.nl
 office.ictu.nl
+office.systeem.rws.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
@@ -11147,6 +11356,7 @@ ondertekenen.flevoland.nl
 ondertekenen.kvk.nl
 ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
+onderwaterobjecten.rws.nl
 onderwijs.eerstekamer.nl
 onderwijsdata.duo.nl
 onderwijsinderegioincijfers.nl
@@ -11254,6 +11464,7 @@ open.minvws.nl
 open.odijmond.nl
 open.overheid.nl
 open.rijkswaterstaat.nl
+open.rws.nl
 open.vechtstromen.nl
 open.waterschaplimburg.nl
 openaccess-werkgroep.nwo.nl
@@ -11599,6 +11810,9 @@ organisaties-redactie-acc.overheid.nl
 organisaties-redactie.overheid.nl
 organisaties.doemeemetmdt.nl
 organisaties.overheid.nl
+organizations.acceptatie.vm-05.azure.grid.rws.nl
+organizations.test.vm-05.azure.grid.rws.nl
+organizations.vm-05.azure.grid.rws.nl
 origin-metadata.maptiles.arcgis.com
 origin.api.contenttoolsrijksoverheid.nl
 origin.klimaatscenarios-data.knmi.nl
@@ -11645,6 +11859,7 @@ otagrnxm004.duo.nl
 otamam.duo.nl
 otamdm.duo.nl
 otcp.machtigen.digid.nl
+otl.rws.nl
 oto.cbs.nl
 otp-acc1.belastingdienst.nl
 otp-test-2023.belastingdienst.nl
@@ -11702,8 +11917,10 @@ overlandpark.maps.arcgis.com
 overlegorgaanfysiekeleefomgeving.nl
 overpass.dev.huc.knaw.nl
 overpass.huc.knaw.nl
+overstroomik-acceptance.rws.nl
 overstroomik.nl
 overstroomik.rijkswaterstaat.nl
+overstroomik.rws.nl
 overtoeslagen.nl
 overzicht.cbs.nl
 ovi.rdw.nl
@@ -11713,6 +11930,7 @@ owa.contactpuntbouwproducten.nl
 owa.minbzk.nl
 owa.politieacademie.nl
 owa01.rechtspraak.nl
+owaext.rws.nl
 owas1.nba.nl
 oxfordartonline.com.access.authkb.kb.nl
 p-bbox-encr-tvs.rvo.nl
@@ -12056,6 +12274,7 @@ pgadmin.insp.rijkscloud.nl
 pgadmin.rapportage.rijkscloud.nl
 pgadmin.sodm.rijkscloud.nl
 pgadmin.test.ix.rijkscloud.nl
+pgadmin.vm-02.azure.grid.rws.nl
 pgadmin4.analyse.ilt.rijkscloud.nl
 pgalab1.rvb.rijkscloud.nl
 pgb-acc.confluence.odc-noord.nl
@@ -12081,6 +12300,7 @@ phantom7666.github.io
 philotes.rivm.nl
 phished.fondspodiumkunsten.nl
 phonebook.knaw.nl
+phpmyadmin-test.vm-02.azure.grid.rws.nl
 pi-extern.wcm.acceptatie.kadaster.nl
 pi-extern.wcm.kadaster.nl
 pi-extern.wcm.test.kadaster.nl
@@ -12246,6 +12466,7 @@ poortman.kb.nl
 pop.oostvaarderskliniek.nl
 pop.vechtstromen.nl
 por.pkioverheid.nl
+port-enc.rws.nl
 porta-acc.hetcak.nl
 porta-api-acc.hetcak.nl
 porta-api-tst.hetcak.nl
@@ -12452,6 +12673,7 @@ preprod-tvs-rd.dictu.nl
 preprod-wus.procesinfrastructuur.nl
 preprod-wus2.procesinfrastructuur.nl
 preprod-www.mijnoctrooi.mypage.rvo.nl
+preprod.beterbediend.rws.nl
 preprod.bvd.logius.nl
 preprod.capacitor.pleio.nl
 preprod.efiling.mijnoctrooi.rvo.nl
@@ -12645,6 +12867,9 @@ profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
 prognosemodelzw.databank.nl
 programma-uned.nl
+programmaplan-admin.vm-02.azure.grid.rws.nl
+programmaplan-test.vm-02.azure.grid.rws.nl
+programmaplan.vm-02.azure.grid.rws.nl
 programmavivet.nl
 prohibit.osiris.rivm.nl
 project.cultuurparticipatie.nl
@@ -12667,13 +12892,17 @@ projects.pages.mintst1.ix.rijkscloud.nl
 projects.rvo.nl
 prolander.nl
 prom-select.eu
+prometheus.dmz.vm-04.azure.grid.rws.nl
 prometheus.gn3.rijkscloud.nl
+prometheus.test.vm-04.azure.grid.rws.nl
+prometheus.vm-02.azure.grid.rws.nl
 promise.nioo.knaw.nl
 promtail.extern.minszw.nl
 promtoolbox.zorginzicht.nl
 proofofconcept.rivm.nl
 prosecutionservice.nl
 protide.rijkswaterstaat.nl
+protide.rws.nl
 proto.farmacotherapeutischkompas.nl
 proto.gipdatabank.nl
 proto.horizonscangeneesmiddelen.nl
@@ -12741,6 +12970,8 @@ ptd-od.dist.politie.nl
 ptd.dist.politie.nl
 ptgw-acc.rdw.nl
 ptgw-prd.rdw.nl
+ptp.acc-inloggen.rws.nl
+ptp.inloggen.rws.nl
 pts31.dans.knaw.nl
 ptvt.nl
 ptw.minbzk.nl
@@ -12882,6 +13113,9 @@ raadvoorplantenrassen.nl
 raadvoorrechtsbijstand.org
 raba.staging.rijksapplicaties.nl
 rabarijk.nl
+rabbitmq-admin.publicatie.test.vm-04.azure.grid.rws.nl
+rabbitmq-multiplier-2-actuator.publicatie.test.vm-04.azure.grid.rws.nl
+rabbitmq-multiplier-vcnon-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 rabbitmq.rvb.rijkscloud.nl
 racine-water-utility-racine-wu.hub.arcgis.com
 radar.rdi.nl
@@ -12910,12 +13144,17 @@ ras-acc.nvwa.nl
 ras.domeinenrz.nl
 ras.nvwa.nl
 ras2.domeinenrz.nl
+rastoken.rws.nl
 rat.belastingdienst.nl
 rathenau.idp.knaw.nl
 rav-fw.naktuinbouw.nl
 rav.rdw.nl
 ravib-ng.odc-noord.nl
 ravib.so.rijkscloud.nl
+raw-data-multiplier-aid-triggers-incoming-actuator.incoming.test.vm-04.azure.grid.rws.nl
+raw-data-multiplier-civvv-actuator.incoming.test.vm-04.azure.grid.rws.nl
+raw-data-multiplier-from-civvv.incoming.test.vm-04.azure.grid.rws.nl
+raw-data-multiplyer-from-cnap-acc.incoming.test.vm-04.azure.grid.rws.nl
 rb.rvb.rijkscloud.nl
 rbbgroep.nl
 rbk.rdw.nl
@@ -12973,6 +13212,7 @@ rdsapplications06.svb.nl
 rdsapplications07.svb.nl
 rdw-diensten-ap-01.rdw.nl
 rdw-diensten-ot-01.rdw.nl
+rdw-proxy-actuator.tolvrij.test.vm-04.azure.grid.rws.nl
 rdw-teamcloudlab.rdw.nl
 rdw.nl
 rdw.seb.ibki.nl
@@ -13021,6 +13261,7 @@ redactie.ofgv.nl
 redactie.onderzoeksraad.nl
 redactie.platformrijksoverheidonline.nl
 redactie.rvr.org
+redactie.rwskennisplatform.rws.nl
 redactie.vallei-veluwe.nl
 redactie.vechtstromen.nl
 redactie.veiligheidsregioflevoland.nl
@@ -13124,6 +13365,11 @@ rekenhulptransitievergoeding.nl
 rekenkamer.nl
 rekentoetsvo.cito.nl
 rekentop.nba.nl
+relay-1.rws.nl
+relay-1s.rws.nl
+relay-2.rws.nl
+relay-2s.rws.nl
+relay-3.rws.nl
 relay.acp.kvk.nl
 relay.pbl.nl
 relay1.c2000.nl
@@ -13251,6 +13497,7 @@ rgsoap.kbvg.nl
 rhel-np-mijn.rvo.nl
 rhel-p-mijn.rvo.nl
 rhel8.wabinfo.rijkswaterstaat.nl
+rhel8.wabinfo.rws.nl
 rht.belastingdienst.nl
 ri-department-of-health-covid-19-case-data-rihealth.hub.arcgis.com
 ri-erin.vragenlijst-acc.rivm.nl
@@ -13566,7 +13813,9 @@ rwbxiq.saphttp.minienm.nl
 rwn.belastingdienst.nl
 rwo.dictu.nl
 rws-bic-p01.bics.nl
+rws.nl
 rwsinnoveert.nl
+rwsos.rws.nl
 rxs.acm.nl
 rxs.services.acm.nl
 s.checkjeprijs.huurcommissie.nl
@@ -13602,6 +13851,7 @@ samenmeten.rivm.nl
 samenveiligwerken.hhdelfland.nl
 samenwerken.brabant.nl
 samenwerken.kennisplatform.nl
+samenwerken.rws.nl
 samenwerken.zorginstituutnederland.nl
 samenwerkingrijknoord.nl
 samenwerkingsportaal.hhdelfland.nl
@@ -13740,6 +13990,7 @@ scenarioboeken.acceptatie.nipv.nl
 scenarioboeken.nipv.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
+schadeportaal.ptp.inloggen.rws.nl
 schaduw.nationaalarchief.nl
 schedule.justid.nl
 scheiden.belastingdienst.nl
@@ -13815,6 +14066,7 @@ secure4.svb.nl
 secure5.svb.nl
 securedownload.cito.nl
 securefiletransfer.ictu.nl
+secureinloggen.rws.nl
 securemail.bics.nl
 securemail.dnb.nl
 securemail.hetcak.nl
@@ -14077,6 +14329,7 @@ simulator-tst.etoegang.nl
 simulator.acc.etoegang.nl
 simulator.etoegang.nl
 sip-license.hetcak.nl
+sip-lmw.rws.nl
 sip.cbg-meb.nl
 sip.coa.nl
 sip.emissieautoriteit.nl
@@ -14157,6 +14410,7 @@ slims.github.io
 slimwatermanagement.nl
 sloopbromfietsdoorgeven.rdw.nl
 sltn.bzv.brabant.nl
+sluisplanning.rws.nl
 sm-i.espacenet.com
 sm.espacenet.com
 smartforms.nak.nl
@@ -14182,6 +14436,7 @@ smtp.parlement.nl
 smtp.rdw.nl
 smtp.rijksoverheid.nl
 smtp.rva.nl
+smtp.rws.nl
 smtp.syn.rijksapplicaties.nl
 smtp.tmv.rvig.nl
 smtp.vechtstromen.nl
@@ -14276,6 +14531,7 @@ sonarqube.devops.rvb.rijkscloud.nl
 sonarqube.lpc.logius.nl
 sonarqube.politie.nl
 sonarqube.test.ix.rijkscloud.nl
+sonarqube.test.vm-04.azure.grid.rws.nl
 sonarqube2.devops.rvb.rijkscloud.nl
 sonicwall.nvao.net
 sophie.oidji.nl
@@ -14306,7 +14562,9 @@ spelen.cultuurparticipatie.nl
 spf.nvao.net
 spfesfuidb.ictu.nl
 spin.rijkswaterstaat.nl
+spin.rws.nl
 spin2.rijkswaterstaat.nl
+spin2.rws.nl
 spinner.knaw.nl
 splunk-a.svb.nl
 splunksyslog.dmz.belastingdienst.nl
@@ -14403,6 +14661,7 @@ ssovpnintune-tst.ows2.politie.nl
 ssp.estota.rijkscloud.nl
 ssp.huc.knaw.nl
 ssp.ix.rijkscloud.nl
+sspmas.rws.nl
 sspr-ex.politieacademie.nl
 sspr-p.politieacademie.nl
 sspr.politieacademie.nl
@@ -14481,6 +14740,7 @@ standaarden-tst.overheid.nl
 standaarden.omgevingswet.overheid.nl
 standaarden.overheid.nl
 standaarden.rijkswaterstaat.nl
+standaarden.rws.nl
 start.acc.dusi.irealisatie.nl
 start.belastingdienst.nl
 start.cito.nl
@@ -14638,6 +14898,7 @@ sth.staging.rijksapplicaties.nl
 stichting.caop.nl
 stijlgids.cibg.nl
 stijlgids.rijkswaterstaat.nl
+stijlgids.rws.nl
 stikstofdepositiedata.rivm.nl
 stopheling.nl
 stopid.reis.lap.idm.rvig.nl
@@ -14756,10 +15017,15 @@ svcalendar-acc.dnb.nl
 svcalendar-dev.dnb.nl
 svcalendar-tst.dnb.nl
 svcalendar.dnb.nl
+svk-info.rws.nl
+svk-login.rws.nl
 svmsta.dictu.nl
 svn.logius.nl
 svnmondxml.huygens.knaw.nl
 svnmvn.huygens.knaw.nl
+svs-acc.rws.nl
+svs.ptp.inloggen.rws.nl
+svs.rws.nl
 swap.alterra.nl
 swirrl.climate4impact.eu
 switchbox.rijksapplicaties.nl
@@ -14837,6 +15103,12 @@ taupo.maps.arcgis.com
 tax.kadaster.nl
 tax.test.kadaster.nl
 taxonomie.cbs.nl
+taz-argocd.infra-24.azure.grid.rws.nl
+taz-grafana.infra-24.azure.grid.rws.nl
+taz-k8s-dashboard.infra-24.azure.grid.rws.nl
+taz-minio-api.infra-24.azure.grid.rws.nl
+taz-minio.infra-24.azure.grid.rws.nl
+taz-vault.infra-24.azure.grid.rws.nl
 tbadmin.dev.kvk.nl
 tbadmin.kvk.nl
 tbadmin.npo.kvk.nl
@@ -15022,6 +15294,7 @@ test.beeldbank.gebruikercentraal.nl
 test.belastingdienst-cn.nl
 test.bestandenpostbus.nl
 test.bezoekerscentrum.rijkswaterstaat.nl
+test.bezoekerscentrum.rws.nl
 test.bidbook.eu
 test.bodemloket.nl
 test.botova.rijkswaterstaat.nl
@@ -15053,6 +15326,7 @@ test.digikoppeling.cibg.nl
 test.digikoppeling.nidos.nl
 test.digitaleoverheid.nl
 test.digitaltrustcenter.nl
+test.digitaltwin.infra-17.azure.grid.rws.nl
 test.dji.nl
 test.document-viewer.dso.kadaster.nl
 test.dpr.irealisatie.nl
@@ -15062,6 +15336,7 @@ test.duurzaamdoor.nl
 test.ebms.cbs.nl
 test.elearning.dopingautoriteit.nl
 test.esb.rijkswaterstaat.nl
+test.esb.rws.nl
 test.espacenet.com
 test.expertpanel.gebruikercentraal.nl
 test.farmingthefuture.nl
@@ -15096,6 +15371,7 @@ test.leefbaarometer.nl
 test.leerwerkloket.nl
 test.lint.gebruikercentraal.nl
 test.lma.nl
+test.lma.rws.nl
 test.lml.rivm.nl
 test.lmm.rivm.nl
 test.loketgezondleven.nl
@@ -15155,6 +15431,7 @@ test.t.cultureelerfgoed.nl
 test.teebstad.rivm.nl
 test.thms.rijkscloud.nl
 test.toolkittaal.gebruikercentraal.nl
+test.tws-esb.rws.nl
 test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
 test.vcpapp.rivm.nl
@@ -15216,6 +15493,8 @@ testplanner.secure.cito.nl
 testreport.rdw.nl
 testreporter-a.secure.cito.nl
 testreporter.secure.cito.nl
+testresultaten-webdav.vm-05.azure.grid.rws.nl
+testresultaten.vm-05.azure.grid.rws.nl
 tests.constructieplatform.cito.nl
 testserver.osb.kvk.nl
 testsiam.minszw.nl
@@ -15230,6 +15509,7 @@ tfm63.dans.knaw.nl
 tfs.naktuinbouw.com
 tg.chm-cbd.net
 tg.test.chm-cbd.net
+tgox.rws.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
 tgv-acceptatie.nipv.nl
 tgv-test.nipv.nl
@@ -15297,6 +15577,7 @@ tmv.cibg.nl
 tmv.rvig.nl
 tmx.vallei-veluwe.nl
 tmxweb.rijkswaterstaat.nl
+tmxweb.rws.nl
 todo.nin.knaw.nl
 toegang-tst.cbr.nl
 toegang.beheer.kvk.nl
@@ -15304,6 +15585,7 @@ toegang.cbr.nl
 toegang.kb.nl
 toegang.rechtspraak.nl
 toegangderden.rijkswaterstaat.nl
+toegangderden.rws.nl
 toegangscode.ciz.nl
 toegangslaag-gn2.rvig.nl
 toegangslaag-gn3.rvig.nl
@@ -15357,7 +15639,13 @@ token.pzp.nl
 tol-ap.rdw.nl
 tol-ot.rdw.nl
 tolpaymentapi.e-tol.nl
+tolvrij-proxy-actuator.tolvrij.test.vm-04.azure.grid.rws.nl
 tomcat.tiler01.huygens.knaw.nl
+tool-esbxml-supplier-vcmn.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vcnon.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vcnwn.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vczn.incoming.test.vm-04.azure.grid.rws.nl
+tool-esbxml-supplier-vczwn.incoming.test.vm-04.azure.grid.rws.nl
 toolbox-extremisme.nctv.nl
 toolbox.veiligepubliekedienstverlening.nl
 tooling.capacitor.pleio.nl
@@ -15379,9 +15667,11 @@ top.cbr.nl
 topacc.cbr.nl
 topcorridors.nl
 topdesk-iv.rijkswaterstaat.nl
+topdesk-iv.rws.nl
 topdesk-reach-acc.rivm.nl
 topdesk-reach.rivm.nl
 topdesk-wvl.rijkswaterstaat.nl
+topdesk-wvl.rws.nl
 topdesk.ictu.nl
 topdesk.odc-noord.nl
 topdesk.rijkswaterstaat.nl
@@ -15403,6 +15693,8 @@ tracking.cbr.nl
 tracking.delpher.nl
 trade-acc.rvo.nl
 trade.rvo.nl
+traefik-dashboard.dmz.vm-04.azure.grid.rws.nl
+traefik-dashboard.test.vm-04.azure.grid.rws.nl
 traefik.cultuurparticipatie.nl
 training-advies.cito.nl
 training.caop.nl
@@ -15433,6 +15725,7 @@ trifork-tst.player.cito.nl
 trifork.player.cito.nl
 trillingsdata-acc.dictu.nl
 trillingsdata.dictu.nl
+trivy.test.vm-04.azure.grid.rws.nl
 trs.afm.nl
 trs2prod.afm.nl
 trs2test.afm.nl
@@ -15446,6 +15739,7 @@ ts.onderwijsraad.nl
 tsp.minienw.nl
 tss31.dans.knaw.nl
 tssrpm-iis.knaw.nl
+tst-bergerselect.rws.nl
 tst-biometric-service.consular.mfaservices.nl
 tst-biometricservice.mfaservices.nl
 tst-bvi-ib.data-exchange.consular.mfaservices.nl
@@ -15460,7 +15754,9 @@ tst-euvis-api.data-exchange.consular.mfaservices.nl
 tst-euvis-ebms.data-exchange.consular.mfaservices.nl
 tst-lsp.rivm.nl
 tst-mam.rivm.nl
+tst-meldingenportaal.rws.nl
 tst-mijn.rivm.nl
+tst-ovdsupport.rws.nl
 tst-referentiegegevens.justid.nl
 tst-reftool-portal.consular.mfaservices.nl
 tst-sigma-ebms.data-exchange.consular.mfaservices.nl
@@ -15482,6 +15778,7 @@ tst.dashboardduurzaamheid.nl
 tst.esp-portal-api.consular.mfaservices.nl
 tst.esp-portal.consular.mfaservices.nl
 tst.esp.mfaservices.nl
+tst.fam.rws.nl
 tst.federatieveservice.nl
 tst.fez.mfaservices.nl
 tst.grondstoffenscanner.nl
@@ -15536,6 +15833,9 @@ tunnel.cbs.nl
 tunnel.justitieleictorganisatie.nl
 tunnel1.cbs.nl
 tunnelmdm.flevoland.nl
+tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl
+tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
+tunnelservice-werkstation.vm-02.azure.grid.rws.nl
 turn.rijkscloud.nl
 tus.labs.dans.knaw.nl
 tv.procesinfrastructuur.nl
@@ -15554,6 +15854,7 @@ twente.lerenenwerken.nl
 twister21.dans.knaw.nl
 two-acs.com
 tws-esb.rijkswaterstaat.nl
+tws-esb.rws.nl
 tws.rdw.nl
 twww11.meertens.knaw.nl
 tyk-cdn.dataplatform.knmi.nl
@@ -15624,6 +15925,7 @@ um-a.politieacademie.nl
 um-i.politieacademie.nl
 um-t.politieacademie.nl
 um.politieacademie.nl
+umami.vm-05.azure.grid.rws.nl
 umbraco.cito.nl
 umbracoacc.dnb.nl
 umbracodev.dnb.nl
@@ -15666,6 +15968,9 @@ user-api.acceptatie.coronatest.nl
 user-api.test.coronatest.nl
 usercheck.hetcak.nl
 usernamesalah.github.io
+userprofiles.acceptatie.vm-05.azure.grid.rws.nl
+userprofiles.test.vm-05.azure.grid.rws.nl
+userprofiles.vm-05.azure.grid.rws.nl
 usw2-geocode.arcgis.com
 utah-county-data-sharing-hub-utahcounty.hub.arcgis.com
 utah-fire-info-utahdnr.hub.arcgis.com
@@ -15697,6 +16002,7 @@ uzipas.raadplegen.sbv-z.nl
 uzipas.uziregister.nl
 uziregister.nl
 v1.dementieinkaart.nl
+v14.rws.nl
 v3-i-new.espacenet.com
 v3-i.espacenet.com
 v3-i0.espacenet.com
@@ -15726,6 +16032,9 @@ validatie-acc.justid.nl
 validatie.justid.nl
 validationcalculation.douane.nl
 validationcalculationtest.douane.nl
+validator-bemobile-aid-triggers-actuators.tcp-acceptatietest.dmz.vm-04.azure.grid.rws.nl
+validator-bemobile-aid-triggers.fcd-acceptatietest.dmz.vm-04.azure.grid.rws.nl
+validator-lkt-aid-triggers.fcd-acceptatietest.dmz.vm-04.azure.grid.rws.nl
 validator.acceptatie.ruimtelijkeplannen.nl
 validator.ruimtelijkeplannen.nl
 validator.test.ruimtelijkeplannen.nl
@@ -15793,6 +16102,7 @@ vechtstromen.nl
 vecozo.dmz.belastingdienst.nl
 veelgesteldevragen.secure.cito.nl
 vegetatiemonitor.rijkswaterstaat.nl
+vegetatiemonitor.rws.nl
 veiligbestandenversturen.ciz.nl
 veiligbron.duo.nl
 veiligbron.scha.duo.nl
@@ -15932,6 +16242,7 @@ visualisatieservice-a.cito.nl
 visualisatieservice-t.cito.nl
 visualisatieservice.cito.nl
 vitaal.matroos.rijkswaterstaat.nl
+vitaal.matroos.rws.nl
 vite.dev.fib.ienw.rijkscloud.nl
 vivet.databank.nl
 viya.rijkswaterstaat.nl
@@ -16140,6 +16451,7 @@ vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 vtw.politie.nl
+vtwdatabase.rws.nl
 vubis-az-t.politieacademie.nl
 vubis-az.politieacademie.nl
 vubis-t.politieacademie.nl
@@ -16149,10 +16461,14 @@ vulnerabilities.acc.ncsc.nl
 vulnerabilities.ncsc.nl
 vulnerabilities.test.ncsc.nl
 vuurwerk.domeinenrz.nl
+vwantestswecenfd.rws-a5-t.azure.gridtst.rws.nl
+vwantestweufd.rws-a5-t.azure.gridtst.rws.nl
+vwantstweu.gridtst.rws.nl
 vws-acc.jira.odc-noord.nl
 vws-prd.jira.odc-noord.nl
 vz.minbzk.nl
 vzinfo.nl
+w10aovpn-poc.rws.nl
 w3acc.dnb.nl
 w3dev.dnb.nl
 w3dxweb.knmi.nl
@@ -16160,10 +16476,12 @@ w3prd.dnb.nl
 waardelijsten-acc.dcat-ap-donl.nl
 waardelijsten.dcat-ap-donl.nl
 wabinfo.rijkswaterstaat.nl
+wabinfo.rws.nl
 wachttijden.nza.nl
 wachtwoord.brabant.nl
 wachtwoord.cultuurparticipatie.nl
 wachtwoord.rijkswaterstaat.nl
+wachtwoord.rws.nl
 wachtwoordwijzigen.aaenmaas.nl
 wadsup.beheerautoriteitwaddenzee.nl
 wadziejij.rijkewaddenzee.nl
@@ -16190,7 +16508,10 @@ was.digid.nl
 watdraagjijbij.arbeidsmarktplatformpo.nl
 water-amerigeoss.opendata.arcgis.com
 water.platformwow.nl
+waterberichtgeving.rws.nl
 watergegevens.rijkswaterstaat.nl
+waterinfo-extra.rws.nl
+waterinfo.rws.nl
 waterkwaliteitinbeeld.hdsr.nl
 watermark-prd.cloudservices.kb.nl
 watermark.kb.nl
@@ -16198,6 +16519,7 @@ watermerk.hdsr.nl
 waterschaplimburg.nl
 watertoetsportaal-a.hhdelfland.nl
 watertoetsportaal.hhdelfland.nl
+waterwebservices-acc.rws.nl
 waterwebservices.beta.rijkswaterstaat.nl
 waterwebservices.rijkswaterstaat.nl
 watismijnip.rechtspraak.nl
@@ -16338,6 +16660,7 @@ webftptest.dictu.nl
 webgca.rdw.nl
 webgis.aaenmaas.nl
 webgisacc.aaenmaas.nl
+webhook-teams.rws.nl
 webloket-beheer-prd.cloudservices.kb.nl
 webloket.kb.nl
 webloketienw.rijksapplicaties.nl
@@ -16406,6 +16729,7 @@ webmed.rdw.nl
 webmeeting.minbzk.nl
 webmob.rdw.nl
 webportaal.rdw.nl
+webportaal.rws.nl
 webrddaz.rdw.nl
 webredactie.caop.nl
 webserver.cbs.nl
@@ -16531,6 +16855,7 @@ werkenbij.nvao.net
 werkenbij.reclassering.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
+werkenbij.rws.nl
 werkenbij.toeslagen.nl
 werkenbijde.nza.nl
 werkenbijdeeu.nl
@@ -16543,6 +16868,8 @@ werkenvoornederland.nl
 werkgever.ibki.nl
 werkplaats-acc.onslevendlandschap.nl
 werkplaats.onslevendlandschap.nl
+werkplek-poc.rws.nl
+werkplek-test.rws.nl
 werkplek-tijdelijk1.duo.nl
 werkplek.acm.nl
 werkplek.afm.nl
@@ -16560,6 +16887,7 @@ werkplek.lvnl.nl
 werkplek.nvao.net
 werkplek.om.nl
 werkplek.rekenkamer.nl
+werkplek.rws.nl
 werkplek.services.acm.nl
 werkplek.vallei-veluwe.nl
 werkplek.vechtstromen.nl
@@ -16568,6 +16896,7 @@ werkplekom.cbs.nl
 werkpleksso.cbs.nl
 werkplektest.cbs.nl
 werkplekvpn.parlement.nl
+werkstation.vm-02.azure.grid.rws.nl
 werkvoorraad.reps.acceptatie.kadaster.nl
 werkvoorraad.reps.kadaster.nl
 werkvoorraad.reps.test.kadaster.nl
@@ -16607,6 +16936,7 @@ wifi.brabant.nl
 wifi.dictu.nl
 wifi.raadvanstate.nl
 wifi.svb.nl
+wifi2.rws.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
 wiki-acc.eherkenning.nl
@@ -16856,6 +17186,7 @@ www-p2.zorgcijfersdatabank.nl
 www-p2.zorginzicht.nl
 www-pr.zorginzicht.nl
 www-preprod.officielebekendmakingen.nl
+www-rws2011.rws.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-staging.ciz.nl
@@ -17017,6 +17348,7 @@ www.app.dagvandeforensischezorg.nl
 www.app.mijnrijkspas.nl
 www.apps.dictu.nl
 www.aqualarm.nl
+www.aqualarm.rws.nl
 www.aquo.nl
 www.arbeidsinspectie.nl
 www.arbeidsmarkthoreca.databank.nl
@@ -18195,6 +18527,7 @@ www.rvig.nl
 www.rvihh.nl
 www.rvo.nl
 www.rvr.org
+www.rws.nl
 www.rwsinnoveert.nl
 www.samenwerkingrijknoord.nl
 www.sbv-z.nl
@@ -18328,6 +18661,7 @@ www.vzinfo.nl
 www.wadziejij.rijkewaddenzee.nl
 www.watdraagjijbij.arbeidsmarktplatformpo.nl
 www.watergegevens.rijkswaterstaat.nl
+www.watergegevens.rws.nl
 www.waterschaplimburg.nl
 www.wbtv-test-mendix.rvr.org
 www.web.nba.nl
@@ -18341,6 +18675,7 @@ www.werken.belastingdienst.nl
 www.werkenaanonspensioen.nl
 www.werkenbij.naktuinbouw.nl
 www.werkenbij.rijkswaterstaat.nl
+www.werkenbij.rws.nl
 www.werkenbijdeeu.nl
 www.werkenbijderaadvanstate.nl
 www.werkenvoorinternationaleorganisaties.nl
@@ -18429,6 +18764,7 @@ xmlschema.huygens.knaw.nl
 xmpp.chat.ind.nl
 xnimorz.github.io
 xploreus.rvo.nl
+xwd.rws.nl
 yammer.ictu.nl
 yasgui.dev.huc.knaw.nl
 yashtalla.github.io
@@ -18550,5 +18886,6 @@ zw.test.chm-cbd.net
 zwb.riec.nl
 zwemwater.osiris.rivm.nl
 zwerfafval.rijkswaterstaat.nl
+zwerfafval.rws.nl
 zwolle.leerwerkloket.nl
 zwolle.lerenenwerken.nl
