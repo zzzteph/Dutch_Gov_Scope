@@ -1728,6 +1728,7 @@ acceptatie.rvs.rivm.nl
 acceptatie.rvszoeksysteem.rivm.nl
 acceptatie.samenmetenaanluchtkwaliteit.nl
 acceptatie.samenvoordeklant.nl
+acceptatie.sawa-vth.nl
 acceptatie.schoolleidersregisterpo.nl
 acceptatie.signalen.osiris.rivm.nl
 acceptatie.sluisplanning.rws.nl
@@ -7129,6 +7130,8 @@ gemeenteloket.minszw.nl
 gemeenten-a.svb.nl
 gemeenten.svb.nl
 gemhofvanjustitie.org
+genconnector-acceptatie.sawa-vth.nl
+genconnector.sawa-vth.nl
 geneesmiddeleninformatiebank.nl
 generator-dev.nba.nl
 generator.nba.nl
@@ -9869,10 +9872,12 @@ manifestgroep.nl
 manuscripts-prd.cloudservices.kb.nl
 manuscripts.kb.nl
 manveldapp-beheer.rivm.nl
+map-acceptatie.sawa-vth.nl
 map-wellesleyma.hub.arcgis.com
 map.cloud.kadaster.nl
 map.lab.cloud.kadaster.nl
 map.samenvoordeklant.nl
+map.sawa-vth.nl
 map.test.cloud.kadaster.nl
 mapgis-map-gis.hub.arcgis.com
 mapmkeonline.maps.arcgis.com
@@ -14006,6 +14011,7 @@ satellite.gn2.rijkscloud.nl
 satellite.gn3.rijkscloud.nl
 satifyd.dans.knaw.nl
 saulorodrigocfs.github.io
+sawa-vth.nl
 sb-dictu.logius.nl
 sbae15-p1.coa.nl
 sbae19-p1.coa.nl
@@ -16772,6 +16778,8 @@ webconf.nwo.nl
 webconf01.rechtspraak.nl
 webconf02.rechtspraak.nl
 webconf2.vechtstromen.nl
+webdav-acceptatie.sawa-vth.nl
+webdav.sawa-vth.nl
 webdiensten-acc1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
 webdiensten-perf.acc.belastingdienst.nl
@@ -18714,6 +18722,7 @@ www.samenvoordeklant.nl
 www.samenwerkenaanriviernatuur.nl
 www.samenwerkingrijknoord.nl
 www.samenwerkingsplatform-dienstengww.nl
+www.sawa-vth.nl
 www.sbv-z.nl
 www.schoolleidersregisterpo.nl
 www.schoudersonderschoon.nl

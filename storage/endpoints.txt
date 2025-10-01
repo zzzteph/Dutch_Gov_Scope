@@ -373,6 +373,8 @@ http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
 http://gegevensbijbesluiten-redactie.overheid.nl
+http://genconnector-acceptatie.sawa-vth.nl
+http://genconnector.sawa-vth.nl
 http://genomes.bioinf.nioo.knaw.nl
 http://geo-secure-test.zuid-holland.nl
 http://geo-secure.zuid-holland.nl
@@ -851,6 +853,7 @@ http://www.rca.rivm.nl
 http://www.rekentop.nba.nl
 http://www.rijbewijs.nl
 http://www.rivmmagazines.nl
+http://www.sawa-vth.nl
 http://www.scope.nin.knaw.nl
 http://www.sip1.nba.nl
 http://www.slimmerreizen.zuid-holland.nl
@@ -1866,6 +1869,7 @@ https://acceptatie.raadplegen.sbv-z.nl
 https://acceptatie.redactie.aquo.nl
 https://acceptatie.samenmetenaanluchtkwaliteit.nl
 https://acceptatie.samenvoordeklant.nl
+https://acceptatie.sawa-vth.nl
 https://acceptatie.signalen.osiris.rivm.nl
 https://acceptatie.sluisplanning.rws.nl
 https://acceptatie.sniv.osiris.rivm.nl
@@ -6425,10 +6429,12 @@ https://manifestgroep.nl
 https://manuscripts-prd.cloudservices.kb.nl
 https://manuscripts.kb.nl
 https://manveldapp-beheer.rivm.nl
+https://map-acceptatie.sawa-vth.nl
 https://map-wellesleyma.hub.arcgis.com
 https://map.cloud.kadaster.nl
 https://map.lab.cloud.kadaster.nl
 https://map.samenvoordeklant.nl
+https://map.sawa-vth.nl
 https://map.test.cloud.kadaster.nl
 https://mapgis-map-gis.hub.arcgis.com
 https://mapmkeonline.maps.arcgis.com
@@ -8529,6 +8535,7 @@ https://sap.intranet.minienm.nl
 https://sarasota.maps.arcgis.com
 https://sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://saulorodrigocfs.github.io
+https://sawa-vth.nl
 https://sb-dictu.logius.nl
 https://sbae19-p1.coa.nl
 https://sbi-api.cbs.nl
@@ -9853,6 +9860,8 @@ https://webapps.politieacademie.nl
 https://webbrv.rdw.nl
 https://webcast.brabant.nl
 https://webchat.klopt.cibg.nl
+https://webdav-acceptatie.sawa-vth.nl
+https://webdav.sawa-vth.nl
 https://webdiensten.belastingdienst.nl
 https://webdiensten.hdsr.nl
 https://webdisk.globio.info

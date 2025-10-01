@@ -10,8 +10,8 @@ english
 webmail
 mijn
 a-www
-api
 acceptatie
+api
 a-opendata
 a-feeds
 _autodiscover._tcp
@@ -805,6 +805,7 @@ federatie
 leveranciersportaal
 bva
 archief-acc
+map
 geoportal
 gisservices
 gisservicesacc
@@ -13458,6 +13459,10 @@ www.trendrapport
 www.vergaderen
 zoeken-mijn
 rockleigh
-map
 werkcentrumportaal
 werkgeversscan
+genconnector-acceptatie
+genconnector
+map-acceptatie
+webdav-acceptatie
+webdav
