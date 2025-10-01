@@ -231,6 +231,7 @@ veiligmailen
 extern
 csoacct
 csotest
+aanmelden
 en
 vt
 registry
@@ -330,7 +331,6 @@ portal2
 odc
 bibliotheek
 begrippen
-aanmelden
 acc.api
 authenticatie
 nextcloud
@@ -13458,3 +13458,6 @@ www.trendrapport
 www.vergaderen
 zoeken-mijn
 rockleigh
+map
+werkcentrumportaal
+werkgeversscan
