@@ -2366,6 +2366,7 @@ https://app.raadvanstate.nl
 https://app.svb.nl
 https://app.vechtstromen.nl
 https://app2.rdw.nl
+https://apparaat.schadefonds.nl
 https://applicaties-a.politieacademie.nl
 https://applicaties-az-a.politieacademie.nl
 https://applicaties-az-t.politieacademie.nl
@@ -3470,6 +3471,7 @@ https://connect.justitieleictorganisatie.nl
 https://connect.kinderbescherming.nl
 https://connect.knmi.nl
 https://connect.rivm.nl
+https://connect.schadefonds.nl
 https://connect.wodc.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
@@ -3714,6 +3716,7 @@ https://data.politie.nl
 https://data.rechtspraak.nl
 https://data.rivm.nl
 https://data.rvo.nl
+https://data.schadefonds.nl
 https://data.staging.ndw.nu
 https://data.zuid-holland.nl
 https://data2.emissieregistratie.nl
@@ -6612,13 +6615,17 @@ https://mijn-a.nipv.nl
 https://mijn-academie.rechtenoverheid.nl
 https://mijn-acc.igj.nl
 https://mijn-acc.s-bb.nl
+https://mijn-acceptatie.schadefonds.nl
 https://mijn-dev.dnb.nl
+https://mijn-inlog-acceptatie.schadefonds.nl
+https://mijn-inlog.schadefonds.nl
 https://mijn-ncg.rijksapplicaties.nl
 https://mijn-ncg.staging.rijksapplicaties.nl
 https://mijn-pp.dnb.nl
 https://mijn-test.dnb.nl
 https://mijn.acc.ncsc.nl
 https://mijn.acceptatie.lcms.nl
+https://mijn.acceptatie.schadefonds.nl
 https://mijn.acm.nl
 https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
@@ -6664,6 +6671,7 @@ https://mijn.registersocialehygiene.nl
 https://mijn.rivm.nl
 https://mijn.rvo.nl
 https://mijn.s-bb.nl
+https://mijn.schadefonds.nl
 https://mijn.test.lcms.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
@@ -8044,6 +8052,7 @@ https://publicaties.odmh.nl
 https://publicaties.politie.nl
 https://publicaties.ptvt.nl
 https://publicaties.rvig.nl
+https://publicaties.schadefonds.nl
 https://publicwebservices.cibg.nl
 https://publieksverslag.rva.nl
 https://publieksvragen-en-signalen.cvdm.nl
@@ -8575,6 +8584,7 @@ https://scenarioboeken.acceptatie.nipv.nl
 https://scenarioboeken.nipv.nl
 https://scepman.s-bb.nl
 https://schadedoormijnbouw.nl
+https://schadefonds.nl
 https://schadeherstel.acc.toeslagen.nl
 https://schadeherstel.toeslagen.nl
 https://scheiden.belastingdienst.nl
@@ -10131,6 +10141,7 @@ https://www-acc.kcbr.nl
 https://www-acc.officielebekendmakingen.nl
 https://www-acc.rijksbegroting.nl
 https://www-acc.rijksfinancien.nl
+https://www-acc.schadefonds.nl
 https://www-b.natuurinbeeld.nederlandsesoorten.nl
 https://www-c.natuurinbeeld.nederlandsesoorten.nl
 https://www-ingentaconnect-com.access.authkb.kb.nl
@@ -11295,6 +11306,7 @@ https://www.sbr-nl.nl
 https://www.sbr-wonen.nl
 https://www.sbv-z.nl
 https://www.schadedoormijnbouw.nl
+https://www.schadefonds.nl
 https://www.schoolleidersregisterpo.nl
 https://www.schoudersonderschoon.nl
 https://www.scp.nl

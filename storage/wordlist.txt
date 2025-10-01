@@ -21,12 +21,12 @@ staging
 cms
 vpn
 feeds.english
-opendata.english
 www-acc
+opendata.english
+data
 link
 prod
 werkenbij
-data
 werkplek
 login
 smtp
@@ -51,6 +51,7 @@ tst
 jaarverslag
 hybrid
 a-english
+publicaties
 sts
 ftp
 adfs
@@ -59,7 +60,6 @@ a-feeds.a-english
 a-opendata.a-english
 enterpriseregistration
 open
-publicaties
 dialin
 cdn
 www.acc
@@ -129,6 +129,7 @@ mam
 sf
 a-magazines
 servicedesk
+mobiel
 nieuwsbrief
 sandbox
 www-acc2
@@ -167,7 +168,6 @@ m365
 formulier
 api-acc
 cms2
-mobiel
 acc.mijn
 legacy
 www-a
@@ -364,6 +364,7 @@ www.werkenbij
 acc-cms
 applicaties
 infographics
+klantportaal
 handboek
 ontheffingaanvragen
 communicatie
@@ -392,6 +393,7 @@ stage
 downloads
 mijnzaak
 2020
+mijn.acceptatie
 mft
 prisma
 ns
@@ -621,7 +623,6 @@ zwerfafval
 acc-infographics
 gdi
 intra
-klantportaal
 plekchecker
 test-cms
 test-mijn
@@ -740,7 +741,6 @@ aa
 api.acceptatie
 api.test
 apiportal
-mijn.acceptatie
 mijn.test
 www.sts
 autodiscover.test
@@ -13502,3 +13502,16 @@ visit-tst
 visit
 www.visit-acc
 www.visit
+ESB01
+apparaat
+esb01
+esb02
+jenkins.cicd
+mijn-acceptatie
+mijn-inlog-acceptatie
+mijn-inlog
+synchronisatie
+synchronisation
+synchronisations
+tmpt-acc
+tmpt

@@ -739,6 +739,7 @@ AutoDiscover.rijksdienstcn.com
 Autodiscover.tib-ivd.nl
 DP-DNBA.dnb.nl
 EPBDWebservices-acc.rvo.nl
+ESB01.schadefonds.nl
 Internetdienstena.svb.nl
 Internetdienstenp.svb.nl
 Lrza.gatservices.acc.igj.nl
@@ -1738,6 +1739,7 @@ acceptatie.samenmetenaanluchtkwaliteit.nl
 acceptatie.samenvoordeklant.nl
 acceptatie.sawa-vth.nl
 acceptatie.schadedoormijnbouw.nl
+acceptatie.schadefonds.nl
 acceptatie.schoolleidersregisterpo.nl
 acceptatie.signalen.osiris.rivm.nl
 acceptatie.sluisplanning.rws.nl
@@ -2452,6 +2454,7 @@ api.rivm.nl
 api.rosetta-t.kb.nl
 api.rwsverkeersinfo.nl
 api.schadedoormijnbouw.nl
+api.schadefonds.nl
 api.services.acm.nl
 api.so.rijkscloud.nl
 api.spaceweather.knmi.nl
@@ -2564,6 +2567,7 @@ app112-o.politie.nl
 app112-p.politie.nl
 app112-t.politie.nl
 app2.rdw.nl
+apparaat.schadefonds.nl
 appconnect.reclassering.nl
 appcontent.belastingdienst.nl
 appdata.kvk.nl
@@ -4527,6 +4531,7 @@ connect.kadaster.nl
 connect.kinderbescherming.nl
 connect.knmi.nl
 connect.rivm.nl
+connect.schadefonds.nl
 connect.test.who.minvws.nl
 connect.wodc.nl
 connect1.kadaster.nl
@@ -4913,6 +4918,7 @@ data.rechtspraak.nl
 data.rijkswaterstaat.nl
 data.rivm.nl
 data.rvo.nl
+data.schadefonds.nl
 data.staging.ndw.nu
 data.zuid-holland.nl
 data2.emissieregistratie.nl
@@ -6250,6 +6256,8 @@ esb.flevoland.nl
 esb.protocol.mfaservices.nl
 esb.rijkswaterstaat.nl
 esb.rws.nl
+esb01.schadefonds.nl
+esb02.schadefonds.nl
 esg.cito.nl
 esp-api-management.acc-probas.mfaservices.nl
 esp-api-management.dev-probas.mfaservices.nl
@@ -8371,6 +8379,7 @@ jenkins-2.devops.rvb.rijkscloud.nl
 jenkins-rgv.devops.rvb.rijkscloud.nl
 jenkins-test-2.devops.rvb.rijkscloud.nl
 jenkins-test.devops.rvb.rijkscloud.nl
+jenkins.cicd.schadefonds.nl
 jenkins.devops.rvb.rijkscloud.nl
 jenkins.koopvm.rijkscloud.nl
 jenkins.red.huygens.knaw.nl
@@ -8975,6 +8984,7 @@ klant.hetcak.nl
 klantonderzoek.cbr.nl
 klantportaal.caop.nl
 klantportaal.rvo.nl
+klantportaal.schadefonds.nl
 klanttest.hetcak.nl
 klanttoegang.cbs.nl
 klantweb-acp.acc.cloudservices.kb.nl
@@ -10186,10 +10196,13 @@ mijn-acc1.toeslagen.nl
 mijn-acc2.toeslagen.nl
 mijn-acc3.toeslagen.nl
 mijn-acc4.toeslagen.nl
+mijn-acceptatie.schadefonds.nl
 mijn-api.cbs.nl
 mijn-c1.tst.belastingdienst.nl
 mijn-c2.tst.belastingdienst.nl
 mijn-dev.dnb.nl
+mijn-inlog-acceptatie.schadefonds.nl
+mijn-inlog.schadefonds.nl
 mijn-ncg.rijksapplicaties.nl
 mijn-ncg.staging.rijksapplicaties.nl
 mijn-perf.acc.belastingdienst.nl
@@ -10210,6 +10223,7 @@ mijn.acc.belastingdienst.nl
 mijn.acc.ncsc.nl
 mijn.acceptatie.kadaster.nl
 mijn.acceptatie.lcms.nl
+mijn.acceptatie.schadefonds.nl
 mijn.acm.nl
 mijn.adr.donorregister.nl
 mijn.belastingdienst-cn.nl
@@ -10267,6 +10281,7 @@ mijn.registersocialehygiene.nl
 mijn.rivm.nl
 mijn.rvo.nl
 mijn.s-bb.nl
+mijn.schadefonds.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
 mijn.str11.acc.belastingdienst.nl
@@ -10536,6 +10551,7 @@ mobiel.douane.nl
 mobiel.hogeraad.nl
 mobiel.nba.nl
 mobiel.raadvanstate.nl
+mobiel.schadefonds.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
 mobiel2-test.ows2.politie.nl
@@ -13135,6 +13151,7 @@ publicaties.oud.mensenrechten.nl
 publicaties.politie.nl
 publicaties.ptvt.nl
 publicaties.rvig.nl
+publicaties.schadefonds.nl
 publicatieservice-bms-acc.officielebekendmakingen.nl
 publicatieservice-rps-acc.officielebekendmakingen.nl
 publicwebservices-dcr.cibg.nl
@@ -14149,6 +14166,7 @@ scenarioboeken.acceptatie.nipv.nl
 scenarioboeken.nipv.nl
 scepman.s-bb.nl
 schadedoormijnbouw.nl
+schadefonds.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
 schadeportaal.ptp.inloggen.rws.nl
@@ -15234,6 +15252,9 @@ synbiosys.alterra.nl
 sync.hogeraad.nl
 sync.lbio.nl
 sync2.hogeraad.nl
+synchronisatie.schadefonds.nl
+synchronisation.schadefonds.nl
+synchronisations.schadefonds.nl
 synergy-a.nipv.nl
 synergy.cokz.nl
 synergy.huurcommissie.nl
@@ -15766,6 +15787,8 @@ tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
 tmp.swap.alterra.nl
+tmpt-acc.schadefonds.nl
+tmpt.schadefonds.nl
 tmv.cibg.nl
 tmv.rvig.nl
 tmx.vallei-veluwe.nl
@@ -17355,6 +17378,7 @@ www-acc.medicijnkosten.nl
 www-acc.officielebekendmakingen.nl
 www-acc.rijksbegroting.nl
 www-acc.rijksfinancien.nl
+www-acc.schadefonds.nl
 www-acc.zorgcijfersdatabank.nl
 www-acc.zorginstituutnederland.nl
 www-acc.zorginzicht.nl
@@ -18794,6 +18818,7 @@ www.sbr-nl.nl
 www.sbr-wonen.nl
 www.sbv-z.nl
 www.schadedoormijnbouw.nl
+www.schadefonds.nl
 www.schoolleidersregisterpo.nl
 www.schoudersonderschoon.nl
 www.scope.nin.knaw.nl
