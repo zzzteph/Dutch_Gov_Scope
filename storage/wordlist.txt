@@ -128,6 +128,7 @@ www1
 mam
 sf
 a-magazines
+servicedesk
 nieuwsbrief
 www-acc2
 www-dev2
@@ -164,7 +165,6 @@ m365
 formulier
 api-acc
 cms2
-servicedesk
 mobiel
 acc.mijn
 legacy
@@ -250,6 +250,7 @@ elo
 mail1
 backend
 assets
+hostmaster
 idp
 activesync
 redirect
@@ -383,7 +384,6 @@ toolkit
 fryslan
 haaglanden
 zeeland
-hostmaster
 pki
 sip2
 stage
@@ -706,6 +706,7 @@ www.app
 postergenerator
 www.new
 t1
+definities
 login-test
 mijn-test
 mrs
@@ -7542,7 +7543,6 @@ spx-oec
 basisscan
 dashboard-keten
 clone
-definities
 dmi-governance.dev
 dmi-governance
 dmi-governance.staging
@@ -13481,3 +13481,8 @@ www.opleidingsportal
 www.professionalcentraal
 www.tas
 www.toolbox
+abm
+dpi-acc
+dpi
+srv1
+wozvalidatie

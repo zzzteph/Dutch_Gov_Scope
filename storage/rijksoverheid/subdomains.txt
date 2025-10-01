@@ -1131,6 +1131,7 @@ abibzk.rijkscloud.nl
 abk-acc.cbr.nl
 abk-tst.cbr.nl
 abk.cbr.nl
+abm.sbr-wonen.nl
 abo.digilevering.belastingdienst.nl
 abonneren.toezichtdocumenten.igj.nl
 abortionfacilitydatabase-ucsf.hub.arcgis.com
@@ -5018,6 +5019,7 @@ deelnemer.ibki.nl
 deeplink.rechtspraak.nl
 defensie.nl
 definities.dmi-ecosysteem.nl
+definities.sbr-wonen.nl
 degruyter.com.access.authkb.kb.nl
 dei.nji.nl
 dejuistezorgopdejuisteplek.nl
@@ -5618,6 +5620,8 @@ dp2025.deltaprogramma.nl
 dp2026.deltaprogramma.nl
 dpc.rechtspraak.nl
 dpe.belastingdienst.nl
+dpi-acc.sbr-wonen.nl
+dpi.sbr-wonen.nl
 dplockers.brabant.nl
 dpp-webservice.rijksapplicaties.nl
 dr-prd-apk-handboek-aw8ldacdcqe.rdw.nl
@@ -7694,6 +7698,7 @@ hostingportal.huc.knaw.nl
 hostmaster.derdekamer.nl
 hostmaster.raadvoorplantenrassen.nl
 hostmaster.rechtenoverheid.nl
+hostmaster.sbr-wonen.nl
 hotnews.maps.arcgis.com
 houdmisdaaduitjebuurt.nl
 houseofrepresentatives.nl
@@ -14106,6 +14111,7 @@ sbi2008.cbs.nl
 sbl.limburg.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
 sbr-nl.nl
+sbr-wonen.nl
 sbv-z.nl
 sbwce15-p1.coa.nl
 sbwce19-p1.coa.nl
@@ -14292,6 +14298,7 @@ servicedesk.jira.nipv.nl
 servicedesk.nipv.nl
 servicedesk.rijksoverheid.nl
 servicedesk.s-bb.nl
+servicedesk.sbr-wonen.nl
 serviceportaal.cvdm.nl
 serviceportal.acceptatie.kadaster.nl
 serviceportal.kadaster.nl
@@ -14736,6 +14743,7 @@ srv-ca01.nvao.net
 srv-zmb02-27.gn3.rijkscloud.nl
 srv-zmb02-34.gn3.rijkscloud.nl
 srv-zmb12-13.gn3.rijkscloud.nl
+srv1.sbr-wonen.nl
 srv3.dopingautoriteit.nl
 ssc-ict.nl
 ssc-ictspecials.nl
@@ -17229,6 +17237,7 @@ worldwide.espacenet.com
 wow.knmi.nl
 woxi.dnb.nl
 wozbenchmark.databank.nl
+wozvalidatie.sbr-wonen.nl
 wozwaardeloket.acceptatie.kadaster.nl
 wozwaardeloket.kadaster.nl
 wp-08.dev.huc.knaw.nl
@@ -18753,6 +18762,7 @@ www.samenwerkingsplatform-dienstengww.nl
 www.sawa-vth.nl
 www.sbcm.nl
 www.sbr-nl.nl
+www.sbr-wonen.nl
 www.sbv-z.nl
 www.schoolleidersregisterpo.nl
 www.schoudersonderschoon.nl
