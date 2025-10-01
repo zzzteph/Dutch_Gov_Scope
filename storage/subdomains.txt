@@ -2435,6 +2435,7 @@ api.rechtspraak.nl
 api.reis.idm.rvig.nl
 api.rivm.nl
 api.rosetta-t.kb.nl
+api.rwsverkeersinfo.nl
 api.services.acm.nl
 api.so.rijkscloud.nl
 api.spaceweather.knmi.nl
@@ -13825,6 +13826,7 @@ rwsgolfdag.nl
 rwsinnoveert.nl
 rwsnatura2000.nl
 rwsos.rws.nl
+rwsverkeersinfo.nl
 rxs.acm.nl
 rxs.services.acm.nl
 s.checkjeprijs.huurcommissie.nl
@@ -18544,6 +18546,7 @@ www.rwseconomie.nl
 www.rwsgolfdag.nl
 www.rwsinnoveert.nl
 www.rwsnatura2000.nl
+www.rwsverkeersinfo.nl
 www.samenwerkingrijknoord.nl
 www.sbv-z.nl
 www.schoolleidersregisterpo.nl
