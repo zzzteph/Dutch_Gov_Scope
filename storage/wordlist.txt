@@ -109,6 +109,9 @@ www-ts
 zaaksysteem
 chat
 stats
+acc-dictu
+prod-dictu
+test-dictu
 aanvragen
 papiamentu
 adobe-analytics-dc
@@ -134,9 +137,6 @@ forms
 sdm
 geoweb
 nieuwsbrieven
-acc-dictu
-prod-dictu
-test-dictu
 siam
 admin
 events
