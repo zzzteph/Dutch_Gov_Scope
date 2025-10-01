@@ -53,6 +53,7 @@ jaarverslag
 a-english
 ftp
 adfs
+cpanel
 a-feeds.a-english
 a-opendata.a-english
 enterpriseregistration
@@ -61,7 +62,6 @@ publicaties
 dialin
 sts
 cdn
-cpanel
 webservices
 docs
 elearning
@@ -77,6 +77,7 @@ git
 preview
 mail2
 www.test
+webdisk
 maps
 fs
 ns2
@@ -96,7 +97,6 @@ loket
 mobile
 telewerken
 mx1
-webdisk
 old
 acceptatie.beheer
 beeldbank
@@ -185,6 +185,8 @@ securemail
 magazine
 nieuw
 gateway
+cpcalendars
+cpcontacts
 eloket
 testeloket
 vpn2
@@ -247,8 +249,6 @@ mail1
 backend
 assets
 idp
-cpcalendars
-cpcontacts
 activesync
 redirect
 sip.myroom
