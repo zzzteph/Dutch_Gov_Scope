@@ -50,12 +50,12 @@ remote
 tst
 jaarverslag
 hybrid
+cpanel
 a-english
 publicaties
 sts
 ftp
 adfs
-cpanel
 a-feeds.a-english
 a-opendata.a-english
 enterpriseregistration
@@ -63,6 +63,7 @@ open
 dialin
 cdn
 www.acc
+webdisk
 webservices
 docs
 elearning
@@ -78,7 +79,6 @@ git
 preview
 mail2
 www.test
-webdisk
 maps
 fs
 ns2
@@ -145,6 +145,8 @@ siam
 admin
 events
 matomo
+cpcalendars
+cpcontacts
 eloket
 web
 geodata
@@ -190,8 +192,6 @@ securemail
 magazine
 nieuw
 gateway
-cpcalendars
-cpcontacts
 testeloket
 vpn2
 ontwikkel
