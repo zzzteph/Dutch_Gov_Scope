@@ -4855,6 +4855,7 @@ https://feeds.samenwerkingrijknoord.nl
 https://feeds.sbv-z.nl
 https://feeds.schoolleidersregisterpo.nl
 https://feeds.scp.nl
+https://feeds.simpel-switchen.nl
 https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
 https://feeds.ssc-ict.nl
@@ -5912,6 +5913,7 @@ https://keuringsafspraakmaken.rdw.nl
 https://keuringsafspraakopmaatmaken.rdw.nl
 https://keurmeesterinformatie.rdw.nl
 https://keurmerk.nl
+https://keuzehulp.simpel-switchen.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keycloak-acc.vm-02.azure.grid.rws.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
@@ -7468,6 +7470,7 @@ https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
 https://opendata.schoolleidersregisterpo.nl
 https://opendata.scp.nl
+https://opendata.simpel-switchen.nl
 https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
 https://opendata.ssc-ict.nl
@@ -8663,6 +8666,7 @@ https://sensors.rivm.nl
 https://senternovem.databank.nl
 https://sentry.ndw.nu
 https://ser.nl
+https://seriousgame.simpel-switchen.nl
 https://server-monitoring.ptvt.nl
 https://server.arcgis.com
 https://server.hcaict.nl
@@ -8755,6 +8759,7 @@ https://signing.pre.brabant.nl
 https://sika0115.github.io
 https://simcms.ahn.nl
 https://simcms.ihw.nl
+https://simpel-switchen.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
 https://simply-vish.github.io
@@ -8941,6 +8946,7 @@ https://standaarden.omgevingswet.overheid.nl
 https://standaarden.overheid.nl
 https://standaarden.rijkswaterstaat.nl
 https://standaarden.rws.nl
+https://stappenplan.simpel-switchen.nl
 https://start.acc.dusi.irealisatie.nl
 https://start.cito.nl
 https://start.dus-i.nl
@@ -11354,6 +11360,7 @@ https://www.sharingknowledge.rvo.nl
 https://www.shiraka.nl
 https://www.signalenleefomgeving.nl
 https://www.signaleringleefomgevingengezondheid.nl
+https://www.simpel-switchen.nl
 https://www.site.ptvt.nl
 https://www.slimwatermanagement.nl
 https://www.sociaalfonds.minienm.nl
