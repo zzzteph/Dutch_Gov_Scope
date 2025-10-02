@@ -1520,6 +1520,7 @@ accclap.rws.nl
 accdws.politie.nl
 accebms.cbs.nl
 accept-betalen.nba.nl
+accept-cm.ser.nl
 accept.beeldbank.gebruikercentraal.nl
 accept.commabz.nl
 accept.control.ictu.nl
@@ -1540,6 +1541,7 @@ accept.nldigitalgovernment.nl
 accept.optimaaldigitaal.gebruikercentraal.nl
 accept.rechtenoverheid.nl
 accept.rotterdammer.gebruikercentraal.nl
+accept.ser.nl
 accept.toolkittaal.gebruikercentraal.nl
 accept.volwassenheidsscan.gebruikercentraal.nl
 accept.web.ictu.nl
@@ -2955,6 +2957,7 @@ autodiscover.sbcm.nl
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
 autodiscover.sekswerkgoedgeregeld.nl
+autodiscover.ser.nl
 autodiscover.services.acm.nl
 autodiscover.spinozacentre.knaw.nl
 autodiscover.svb.nl
@@ -4189,6 +4192,7 @@ ciot.justid.nl
 cip-overheid.nl
 circulair.zuid-holland.nl
 circulairambachtscentrum.nl
+circulaire-economie.ser.nl
 circulaireviaducten.nl
 circulairinkopen.nl
 circulairmaterialenplan.nl
@@ -4300,6 +4304,7 @@ cluster9.cmsdev.platformrijksoverheid.nl
 clusterbuster.nl
 cm.arcgis.com
 cm.chm-cbd.net
+cm.ser.nl
 cma-acc.internetconsultatie.nl
 cma.internetconsultatie.nl
 cmdi.dev.huc.knaw.nl
@@ -4387,6 +4392,7 @@ cmsintranet.flevoland.nl
 cmsintranet.scp.nl
 cmsintranet.svb.nl
 cmsvpn.defensie.nl
+cmswijser.ser.nl
 cmv-kandidaat.sso3w.nl
 cmv-opdrachtgever.sso3w.nl
 cn-i-no-apigee.espacenet.com
@@ -4458,6 +4464,7 @@ commissaris.brabant.nl
 commissie.kolonialecollecties.nl
 commissiecelz.nl
 commissiemijnbouwschade.nl
+commissies.ser.nl
 commissievanaanbestedingsexperts.nl
 commit2data.nl
 committee.kolonialecollecties.nl
@@ -6098,6 +6105,7 @@ enabling.omgevingswet.overheid.nl
 enc1.minions.odc-noord.nl
 encryption-auth-acc.dictu.nl
 encryption-auth-prod.dictu.nl
+energieakkoord.ser.nl
 energiebesparingsverkenner-ws.rvo.nl
 energiebesparingsverkenner.rvo.nl
 energiecijfers.databank.nl
@@ -6345,6 +6353,7 @@ evat-test2.belastingdienst.nl
 evat.belastingdienst.nl
 evatbeheer.belastingdienst.nl
 evc.ibki.nl
+evenement.ser.nl
 evenementen.belastingdienst.nl
 evenementen.fondspodiumkunsten.nl
 evenementen.politie.nl
@@ -9805,6 +9814,7 @@ mail.sbr-nl.nl
 mail.scp.nl
 mail.seb.ibki.nl
 mail.sekswerkgoedgeregeld.nl
+mail.ser.nl
 mail.services.acm.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
@@ -10047,6 +10057,7 @@ media.om.nl
 media.platformwow.nl
 media.rechtspraak.nl
 media.schadedoormijnbouw.nl
+media.ser.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
 mediatheek.politieacademie.nl
@@ -10141,7 +10152,9 @@ metrics.justitieconnect.nl
 metrixinbound.inspecteur.ilent.nl
 metrokaart.pianoo.nl
 metspoedbeschikbaar.nl
+mezzo.ser.nl
 mfaservices.nl
+mfiles.ser.nl
 mft-acc.kb.nl
 mft-acc.svb.nl
 mft-api-ont.hetcak.nl
@@ -10550,6 +10563,7 @@ mn-mx1.search.nvao.net
 mn.datawonen.nl
 mnd-preprd.overheid.nl
 mnd.overheid.nl
+moa.ser.nl
 mobicert.brabant.nl
 mobiel.acc.toeslagen.nl
 mobiel.douane.nl
@@ -13157,6 +13171,7 @@ publicaties.politie.nl
 publicaties.ptvt.nl
 publicaties.rvig.nl
 publicaties.schadefonds.nl
+publicaties.ser.nl
 publicatieservice-bms-acc.officielebekendmakingen.nl
 publicatieservice-rps-acc.officielebekendmakingen.nl
 publicwebservices-dcr.cibg.nl
@@ -13638,6 +13653,7 @@ restitutiecommissie.nl
 resultaten.nlarbeidsinspectie.nl
 ret-a.secure.cito.nl
 ret.databank.nl
+return.ser.nl
 rev.emissieautoriteit.nl
 revi.incidentmanagement.nl
 review.developer.overheid.nl
@@ -13797,6 +13813,7 @@ rosi-rws.staging.rijksapplicaties.nl
 rotterdam.lerenenwerken.nl
 rotterdammer.gebruikercentraal.nl
 router.databank.nl
+router.ser.nl
 routeringsvoorziening-pp1.logius.nl
 row.minvws.nl
 royal-house.nl
@@ -14293,6 +14310,7 @@ sentry.ndw.nu
 sentry.services.acm.nl
 sentry1.zwb.riec.nl
 sepm.belastingdienst.nl
+ser.nl
 serhatpc.rivm.nl
 server-monitoring.ptvt.nl
 server.arcgis.com
@@ -14712,6 +14730,9 @@ softwareveiligheid.onderzoeksraad.nl
 sollicitanten.ictu.nl
 solliciteer-direct.kvk.nl
 solliciteren.s-bb.nl
+solr-acc.ser.nl
+solr-prd.ser.nl
+solr.ser.nl
 sonar-lts.test.ix.rijkscloud.nl
 sonar.devops.rvb.rijkscloud.nl
 sonar.extern.minszw.nl
@@ -14937,6 +14958,7 @@ staging.rechtenoverheid.nl
 staging.rijksapplicaties.nl
 staging.rijkswaterstaat.nl
 staging.samenbouwenaanbereikbaarheid.nl
+staging.ser.nl
 staging.static.werkenbij.rijkswaterstaat.nl
 staging.werkenbij.kvk.nl
 staging.werkenbij.rijkswaterstaat.nl
@@ -15428,6 +15450,7 @@ test-cms.rvo.nl
 test-cmsintranet.flevoland.nl
 test-cmsintranet.scp.nl
 test-cmsintranet.svb.nl
+test-cmswijser.ser.nl
 test-connect.aerius.nl
 test-dashboard.procesinfrastructuur.nl
 test-developer.stopheling.nl
@@ -15495,6 +15518,7 @@ test-vpn.kadaster.nl
 test-waterschappen.lcms.nl
 test-website.rvo.nl
 test-wetten.rvo.nl
+test-wijser.ser.nl
 test-wiki.cultuurparticipatie.nl
 test-wus.procesinfrastructuur.nl
 test-www.pzp.nl
@@ -16973,6 +16997,7 @@ webmail.rwsgolfdag.nl
 webmail.s-bb.nl
 webmail.seb.ibki.nl
 webmail.sekswerkgoedgeregeld.nl
+webmail.ser.nl
 webmail.test.knaw.nl
 webmail.test.rivm.nl
 webmail.tib-ivd.nl
@@ -17198,6 +17223,7 @@ wifi.svb.nl
 wifi2.rws.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
+wijser.ser.nl
 wiki-acc.eherkenning.nl
 wiki.acceptatie.kadaster.nl
 wiki.benjamin.nin.knaw.nl
@@ -17262,6 +17288,7 @@ wo-new.espacenet.com
 wo-o.espacenet.com
 wo.espacenet.com
 wo2.collectienederland.nl
+woa.ser.nl
 wobi.rijksapplicaties.nl
 wobi.staging.rijksapplicaties.nl
 wodc.nl
@@ -18844,6 +18871,7 @@ www.secureportal.onderzoeksraad.nl
 www.sekswerkgoedgeregeld.nl
 www.selfservice.onderzoeksraad.nl
 www.senternovem.databank.nl
+www.ser.nl
 www.sftp.onderzoeksraad.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl

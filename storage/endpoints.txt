@@ -195,6 +195,7 @@ http://autodiscover.rvr.org
 http://autodiscover.s-bb.nl
 http://autodiscover.schoolleidersregisterpo.nl
 http://autodiscover.scp.nl
+http://autodiscover.ser.nl
 http://autodiscover.spinozacentre.knaw.nl
 http://autodiscover.test.knaw.nl
 http://autodiscover.vallei-veluwe.nl
@@ -253,6 +254,7 @@ http://cev.nl
 http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
 http://cibologis-cibolotx.hub.arcgis.com
+http://circulaire-economie.ser.nl
 http://citavista.databank.nl
 http://city-of-monroe-mapping-hub-monroemi.hub.arcgis.com
 http://clienteleitsm-acceptatie.logius.nl
@@ -729,6 +731,7 @@ http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-website.rvo.nl
+http://test-wijser.ser.nl
 http://test.alexandria.huygens.knaw.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.bestandenpostbus.nl
@@ -1744,6 +1747,7 @@ https://acc2.inspectieresultaten.nvwa.nl
 https://acc2.intranet.rvig.nl
 https://acc2.leer-rijk.nl
 https://accclap.rws.nl
+https://accept-cm.ser.nl
 https://accept.beeldbank.gebruikercentraal.nl
 https://accept.control.ictu.nl
 https://accept.designthinking.gebruikercentraal.nl
@@ -1761,6 +1765,7 @@ https://accept.nldigitalgovernment.nl
 https://accept.optimaaldigitaal.gebruikercentraal.nl
 https://accept.rechtenoverheid.nl
 https://accept.rotterdammer.gebruikercentraal.nl
+https://accept.ser.nl
 https://accept.toolkittaal.gebruikercentraal.nl
 https://accept.volwassenheidsscan.gebruikercentraal.nl
 https://accept.web.ictu.nl
@@ -3332,6 +3337,7 @@ https://clusiuscorrespondence.huygens.knaw.nl
 https://clusiuscorrespondence2.huygens.knaw.nl
 https://clusterbuster.nl
 https://cm.chm-cbd.net
+https://cm.ser.nl
 https://cma-acc.internetconsultatie.nl
 https://cma.internetconsultatie.nl
 https://cmdi.dev.huc.knaw.nl
@@ -3372,6 +3378,7 @@ https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://cmsintranet.scp.nl
 https://cmsintranet.svb.nl
+https://cmswijser.ser.nl
 https://cmv-kandidaat.sso3w.nl
 https://cmv-opdrachtgever.sso3w.nl
 https://cn.cbs.nl
@@ -3416,6 +3423,7 @@ https://commabz.nl
 https://commissie.kolonialecollecties.nl
 https://commissiecelz.nl
 https://commissiemijnbouwschade.nl
+https://commissies.ser.nl
 https://commissievanaanbestedingsexperts.nl
 https://commit2data.nl
 https://committee.kolonialecollecties.nl
@@ -4560,6 +4568,7 @@ https://eva.staging.rijksapplicaties.nl
 https://evaluaties-acc.rijksfinancien.nl
 https://evaluaties.rijksfinancien.nl
 https://evc.ibki.nl
+https://evenement.ser.nl
 https://evenementen.fondspodiumkunsten.nl
 https://evenementen.politie.nl
 https://evenementenbureauvws.nl
@@ -6535,6 +6544,7 @@ https://media.odmh.nl
 https://media.om.nl
 https://media.platformwow.nl
 https://media.rechtspraak.nl
+https://media.ser.nl
 https://mediamasters.mijncyberrijbewijs.nl
 https://mediaportal.cbs.nl
 https://mediatheek.politieacademie.nl
@@ -6590,6 +6600,7 @@ https://metelkaartrekkenwedegrens.nl
 https://metenvanduurzaamheid.nl
 https://metrics.ivopzee.nl
 https://metspoedbeschikbaar.nl
+https://mfiles.ser.nl
 https://mft-acc.svb.nl
 https://mft-e.minbzk.nl
 https://mft-prd.svb.nl
@@ -8058,6 +8069,7 @@ https://publicaties.politie.nl
 https://publicaties.ptvt.nl
 https://publicaties.rvig.nl
 https://publicaties.schadefonds.nl
+https://publicaties.ser.nl
 https://publicwebservices.cibg.nl
 https://publieksverslag.rva.nl
 https://publieksvragen-en-signalen.cvdm.nl
@@ -8319,6 +8331,7 @@ https://rest.preprod.kvk.nl
 https://restitutiecommissie.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://ret.databank.nl
+https://return.ser.nl
 https://rev.emissieautoriteit.nl
 https://revi.incidentmanagement.nl
 https://rfa.maps.arcgis.com
@@ -8649,6 +8662,7 @@ https://semarnath1.maps.arcgis.com
 https://sensors.rivm.nl
 https://senternovem.databank.nl
 https://sentry.ndw.nu
+https://ser.nl
 https://server-monitoring.ptvt.nl
 https://server.arcgis.com
 https://server.hcaict.nl
@@ -8792,6 +8806,9 @@ https://sodm.nl
 https://softwareveiligheid.onderzoeksraad.nl
 https://sollicitanten.ictu.nl
 https://solliciteren.s-bb.nl
+https://solr-acc.ser.nl
+https://solr-prd.ser.nl
+https://solr.ser.nl
 https://sonar.ndw.nu
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
 https://sonicwall.nvao.net
@@ -9155,6 +9172,7 @@ https://test-cms.rvo.nl
 https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.scp.nl
 https://test-cmsintranet.svb.nl
+https://test-cmswijser.ser.nl
 https://test-connect.aerius.nl
 https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
@@ -10068,6 +10086,7 @@ https://wibo.rijksapplicaties.nl
 https://wibo.staging.rijksapplicaties.nl
 https://wifi-guest.hetcak.nl
 https://wifi.brabant.nl
+https://wijser.ser.nl
 https://wiki.acceptatie.kadaster.nl
 https://wiki.kadaster.nl
 https://wikict.nin.knaw.nl
@@ -11326,6 +11345,7 @@ https://www.sds-check.nl
 https://www.secure.cito.nl
 https://www.sekswerkgoedgeregeld.nl
 https://www.senternovem.databank.nl
+https://www.ser.nl
 https://www.sharingknowledge.rvo.nl
 https://www.site.ptvt.nl
 https://www.slimwatermanagement.nl

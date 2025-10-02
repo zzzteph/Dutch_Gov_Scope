@@ -16,8 +16,8 @@ a-opendata
 a-feeds
 _autodiscover._tcp
 magazines
-intranet
 staging
+intranet
 cms
 vpn
 feeds.english
@@ -50,9 +50,9 @@ remote
 tst
 jaarverslag
 hybrid
+publicaties
 cpanel
 a-english
-publicaties
 sts
 ftp
 adfs
@@ -62,6 +62,7 @@ enterpriseregistration
 open
 dialin
 cdn
+accept
 www.acc
 webdisk
 webservices
@@ -73,7 +74,6 @@ digikoppeling
 dwo
 oud
 auth
-accept
 inloggen
 git
 preview
@@ -113,6 +113,7 @@ acc-dictu
 prod-dictu
 test-dictu
 aanvragen
+media
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -140,7 +141,6 @@ forms
 sdm
 geoweb
 nieuwsbrieven
-media
 siam
 admin
 events
@@ -373,6 +373,7 @@ melding
 search
 acc-www
 www.redactie
+cm
 development
 office
 elotest
@@ -663,7 +664,6 @@ repo
 rss
 subsidies
 test.redactie
-cm
 developers
 experience
 klachten-acc
@@ -704,6 +704,7 @@ inschrijven
 metabase
 regio
 www.app
+router
 postergenerator
 www.new
 t1
@@ -7260,7 +7261,6 @@ primostijdreeks
 prognosemodelzw
 pzh
 ret
-router
 rvo
 senternovem
 sre-wmo
@@ -13515,3 +13515,20 @@ synchronisation
 synchronisations
 tmpt-acc
 tmpt
+accept-cm
+circulaire-economie
+cmswijser
+commissies
+energieakkoord
+evenement
+mezzo
+mfiles
+moa
+return
+solr-acc
+solr-prd
+solr
+test-cmswijser
+test-wijser
+wijser
+woa
