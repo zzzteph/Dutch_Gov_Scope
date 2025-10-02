@@ -10,29 +10,29 @@ english
 webmail
 mijn
 a-www
-acceptatie
 api
+acceptatie
 a-opendata
 a-feeds
 _autodiscover._tcp
 magazines
 staging
 intranet
-cms
 vpn
+cms
 feeds.english
 www-acc
 opendata.english
+werkenbij
 data
 link
 prod
-werkenbij
-werkplek
 login
+werkplek
 smtp
 formulieren
-redactie
 portal
+redactie
 e
 dev
 portaal
@@ -175,6 +175,7 @@ legacy
 www-a
 zaaksysteem-acc
 m
+aanmelden
 synergy
 mijn-acc
 dashboard
@@ -192,6 +193,7 @@ securemail
 magazine
 nieuw
 gateway
+assets
 testeloket
 vpn2
 ontwikkel
@@ -232,7 +234,6 @@ veiligmailen
 extern
 csoacct
 csotest
-aanmelden
 en
 vt
 registry
@@ -242,6 +243,7 @@ productie
 intern
 new
 iam
+service
 transfer
 magazinesintern
 idm
@@ -249,7 +251,6 @@ acc-mijn
 elo
 mail1
 backend
-assets
 hostmaster
 idp
 activesync
@@ -291,6 +292,7 @@ vpn1
 stijlgids
 owa
 t-cms
+acm
 testconn
 catalogus
 linkeddata
@@ -350,7 +352,6 @@ zakelijk
 analytics
 sentry
 voorlichting
-service
 organisaties
 data-acc
 standaarden
@@ -389,6 +390,7 @@ toolkit
 fryslan
 haaglanden
 zeeland
+login-test
 pki
 sip2
 stage
@@ -401,6 +403,7 @@ prisma
 ns
 community
 rijnmond
+rds
 werkbezoek
 radius
 www.jaarverslag
@@ -478,7 +481,6 @@ digikoppeling2
 test.digikoppeling
 tmv
 a-api
-acm
 filesender
 auth.services
 subsidie
@@ -627,6 +629,7 @@ wabinfo
 www.watergegevens
 zwerfafval
 acc-infographics
+crowdtech
 gdi
 intra
 plekchecker
@@ -715,7 +718,6 @@ postergenerator
 www.new
 t1
 definities
-login-test
 mijn-test
 mrs
 nationaalarchief
@@ -782,7 +784,6 @@ westbrabant
 zuidhollandcentraal
 zuidlimburg
 zwolle
-rds
 acc-auth
 acc-bvrin
 bvrin
@@ -803,6 +804,7 @@ services-hprm
 www.sociaalfonds
 rijkspas
 sp-prd.topdesk
+my
 nis
 acpt
 ocs
@@ -4907,7 +4909,6 @@ cms.projects
 cms.werkenbij
 confluenceimg-acc
 confluenceimg
-crowdtech
 cta
 d7
 dcmp-upnl-idp-acc
@@ -11094,7 +11095,6 @@ maps-a
 msoid
 smartforms
 wap
-my
 my2
 tfs
 acclongnis
@@ -13623,3 +13623,19 @@ sodm
 staatsbosbeheer
 svb
 waarderingskamer
+api.login-test
+api.login
+api.my-acc
+api.my-test
+api.my
+defencedsoc
+my-acc
+my-test
+status.login-test
+status.login
+status.my
+test.acm
+test.portal
+testacm
+web.login-test
+web.login

@@ -196,6 +196,7 @@ http://autodiscover.s-bb.nl
 http://autodiscover.schoolleidersregisterpo.nl
 http://autodiscover.scp.nl
 http://autodiscover.ser.nl
+http://autodiscover.skal.nl
 http://autodiscover.spinozacentre.knaw.nl
 http://autodiscover.test.knaw.nl
 http://autodiscover.vallei-veluwe.nl
@@ -1523,6 +1524,7 @@ https://aankomst.nationaalarchief.nl
 https://aanmelden.gratisvog.nl
 https://aanmelden.nieuwsbriefrechtspraak.nl
 https://aanmelden.samenvoordeklant.nl
+https://aanmelden.skal.nl
 https://aanmeldenrws.nl
 https://aanmerking.nl
 https://aanpak-ouderenmishandeling.nl
@@ -1950,6 +1952,7 @@ https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://acm.nl
 https://acm.sitearchief.nl
+https://acm.skal.nl
 https://acoi.nl
 https://acpt.nationaalarchief.nl
 https://acs-acpt.brabant.nl
@@ -2303,12 +2306,17 @@ https://api.labs.kadaster.nl
 https://api.letterenfonds.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.logerenbijdeboswachter.nl
+https://api.login-test.skal.nl
+https://api.login.skal.nl
 https://api.management.dnb.nl
 https://api.mijn.acc.ncsc.nl
 https://api.mijn.ncsc.nl
 https://api.mijn.overheid.nl
 https://api.mijn.test.ncsc.nl
 https://api.mobiliteitsbank.nl
+https://api.my-acc.skal.nl
+https://api.my-test.skal.nl
+https://api.my.skal.nl
 https://api.ncsc.nl
 https://api.nederlandwereldwijd.nl
 https://api.ondernemersplein.overheid.nl
@@ -2324,6 +2332,7 @@ https://api.rdw.nl
 https://api.rechtspraak.nl
 https://api.reis.idm.rvig.nl
 https://api.rwsverkeersinfo.nl
+https://api.skal.nl
 https://api.standaarden.overheid.nl
 https://api.test.kadaster.nl
 https://api.transformation.nsgi.nl
@@ -2496,6 +2505,7 @@ https://assessmentplanner.secure.cito.nl
 https://assets.cultuurparticipatie.nl
 https://assets.filmfonds.nl
 https://assets.ideasfrom.eu
+https://assets.skal.nl
 https://assyst-a.svb.nl
 https://assyst-t.svb.nl
 https://assyst.svb.nl
@@ -3630,6 +3640,7 @@ https://crmacc.cbi.eu
 https://crmtest.cbi.eu
 https://crow.databank.nl
 https://crowdtech.rvo.nl
+https://crowdtech.skal.nl
 https://crowlogin.databank.nl
 https://cruksregister.nl
 https://cryptshare.acm.nl
@@ -3849,6 +3860,7 @@ https://deegsnccu.maps.arcgis.com
 https://deeljekennis.s-bb.nl
 https://deelnemer.ibki.nl
 https://deeplink.rechtspraak.nl
+https://defencedsoc.skal.nl
 https://defensie.nl
 https://definities.dmi-ecosysteem.nl
 https://definities.sbr-wonen.nl
@@ -6312,6 +6324,7 @@ https://login-pp.dnb.nl
 https://login-t.politieacademie.nl
 https://login-test.dnb.nl
 https://login-test.rvr.org
+https://login-test.skal.nl
 https://login.aaenmaas.nl
 https://login.access.authkb.kb.nl
 https://login.cbs.nl
@@ -6333,6 +6346,7 @@ https://login.pzp.nl
 https://login.rivm.nl
 https://login.rvr.org
 https://login.scp.nl
+https://login.skal.nl
 https://login.test.kb.nl
 https://login.vechtstromen.nl
 https://logius-acc.confluence.odc-noord.nl
@@ -6760,6 +6774,7 @@ https://mijn.rivm.nl
 https://mijn.rvo.nl
 https://mijn.s-bb.nl
 https://mijn.schadefonds.nl
+https://mijn.skal.nl
 https://mijn.test.lcms.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
@@ -6947,7 +6962,10 @@ https://mvstat.cbs.nl
 https://mw-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
+https://my-acc.skal.nl
+https://my-test.skal.nl
 https://my.naktuinbouw.com
+https://my.skal.nl
 https://my.test.chm-cbd.net
 https://my2.naktuinbouw.com
 https://mycoa.nl
@@ -7942,6 +7960,7 @@ https://portal.nak.nl
 https://portal.reclassering.nl
 https://portal.rijksdienstcn.com
 https://portal.risicotoolboxbodem.nl
+https://portal.skal.nl
 https://portal.workspace.kadaster.nl
 https://portal118.rijkscloud.nl
 https://portal2.formulierdus-i.nl
@@ -8264,6 +8283,7 @@ https://rda.digid.nl
 https://rda.nl
 https://rdi.nl
 https://rdp.cultuurparticipatie.nl
+https://rds.skal.nl
 https://rdsa.knmi.nl
 https://rdsapplications00.svb.nl
 https://rdsapplications01.svb.nl
@@ -8789,6 +8809,7 @@ https://service.pdok.cloud.kadaster.nl
 https://service.pdok.nl
 https://service.perf.omgevingswet.overheid.nl
 https://service.pre.omgevingswet.overheid.nl
+https://service.skal.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://servicedesk.ciz.nl
 https://servicedesk.dictu.nl
@@ -8875,6 +8896,7 @@ https://sites.fondspodiumkunsten.nl
 https://sitescan-eu1.arcgis.com
 https://sk-i.espacenet.com
 https://sk.espacenet.com
+https://skal.nl
 https://slachtoffer.jeugdconnect.nl
 https://slim-reizen.ndw.nu
 https://slimmestad.rdi.nl
@@ -9116,6 +9138,9 @@ https://stats.test.mgo.irealisatie.nl
 https://status-page.rvr.org
 https://status.kvk.nl
 https://status.location.arcgis.com
+https://status.login-test.skal.nl
+https://status.login.skal.nl
+https://status.my.skal.nl
 https://status.omgevingswet.overheid.nl
 https://status.pleio.nl
 https://status.pre.omgevingswet.overheid.nl
@@ -9324,6 +9349,7 @@ https://test-wetten.rvo.nl
 https://test-wiki.cultuurparticipatie.nl
 https://test-www.pzp.nl
 https://test.aanvragen.maror.nl
+https://test.acm.skal.nl
 https://test.actueel.nl-alert.nl
 https://test.adviescollegeveiligheidgroningen.nl
 https://test.aerius.nl
@@ -9415,6 +9441,7 @@ https://test.web.ictu.nl
 https://test.web.nmp.ictu.nl
 https://test.www.mycoa.nl
 https://test3.risicotoolboxbodem.nl
+https://testacm.skal.nl
 https://testauthentication.di.huc.knaw.nl
 https://testbegrippen.hdsr.nl
 https://testcao.minszw.nl
@@ -10018,6 +10045,8 @@ https://web.acc.mgo.irealisatie.nl
 https://web.acc.woo.irealisatie.nl
 https://web.b.ebscohost.com.access.authkb.kb.nl
 https://web.ertms.nl
+https://web.login-test.skal.nl
+https://web.login.skal.nl
 https://web.minienm.nl
 https://web.test.brba.nl
 https://web.test.dpr.irealisatie.nl
@@ -10147,6 +10176,7 @@ https://werkenbij.nvao.net
 https://werkenbij.reclassering.nl
 https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.rws.nl
+https://werkenbij.skal.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
 https://werkenbijdeeu.nl
@@ -11466,6 +11496,7 @@ https://www.signaleringleefomgevingengezondheid.nl
 https://www.simpel-switchen.nl
 https://www.site.ptvt.nl
 https://www.sitearchief.nl
+https://www.skal.nl
 https://www.slimwatermanagement.nl
 https://www.sociaalfonds.minienm.nl
 https://www.socialestabiliteit.nl

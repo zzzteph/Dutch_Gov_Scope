@@ -1094,6 +1094,7 @@ aanmelden.gratisvog.nl
 aanmelden.huurcommissie.nl
 aanmelden.nieuwsbriefrechtspraak.nl
 aanmelden.samenvoordeklant.nl
+aanmelden.skal.nl
 aanmeldenrws.nl
 aanmerking.nl
 aanpak-ouderenmishandeling.nl
@@ -1866,6 +1867,7 @@ acm-acc.ctgb.nl
 acm.ctgb.nl
 acm.nl
 acm.sitearchief.nl
+acm.skal.nl
 acme2.proeftuin.uzi-online.irealisatie.nl
 acoi.nl
 acp.business.gov.nl
@@ -2431,12 +2433,17 @@ api.labs.kadaster.nl
 api.letterenfonds.nl
 api.linkeddata.cultureelerfgoed.nl
 api.logerenbijdeboswachter.nl
+api.login-test.skal.nl
+api.login.skal.nl
 api.management.dnb.nl
 api.mijn.acc.ncsc.nl
 api.mijn.ncsc.nl
 api.mijn.overheid.nl
 api.mijn.test.ncsc.nl
 api.mobiliteitsbank.nl
+api.my-acc.skal.nl
+api.my-test.skal.nl
+api.my.skal.nl
 api.nationaalwegenbestand.nl
 api.ncsc.nl
 api.nederlandwereldwijd.nl
@@ -2462,6 +2469,7 @@ api.rwsverkeersinfo.nl
 api.schadedoormijnbouw.nl
 api.schadefonds.nl
 api.services.acm.nl
+api.skal.nl
 api.so.rijkscloud.nl
 api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
@@ -2767,6 +2775,7 @@ assets.cultuurparticipatie.nl
 assets.filmfonds.nl
 assets.ideasfrom.eu
 assets.kvk.nl
+assets.skal.nl
 assetscdn.npostart.nl
 assistent.internetaankopen.douane.nl
 assyst-a.svb.nl
@@ -2995,6 +3004,7 @@ autodiscover.scp.nl
 autodiscover.sekswerkgoedgeregeld.nl
 autodiscover.ser.nl
 autodiscover.services.acm.nl
+autodiscover.skal.nl
 autodiscover.spinozacentre.knaw.nl
 autodiscover.svb.nl
 autodiscover.test.knaw.nl
@@ -4759,6 +4769,7 @@ crmacc.cbi.eu
 crmtest.cbi.eu
 crow.databank.nl
 crowdtech.rvo.nl
+crowdtech.skal.nl
 crowlogin.databank.nl
 crs.nba.nl
 crud.acceptatie.vm-05.azure.grid.rws.nl
@@ -5093,6 +5104,7 @@ deegsnccu.maps.arcgis.com
 deeljekennis.s-bb.nl
 deelnemer.ibki.nl
 deeplink.rechtspraak.nl
+defencedsoc.skal.nl
 defensie.nl
 definities.dmi-ecosysteem.nl
 definities.sbr-wonen.nl
@@ -9504,6 +9516,7 @@ login-sharedservices-mijn-test2.s-bb.nl
 login-t.politieacademie.nl
 login-test.dnb.nl
 login-test.rvr.org
+login-test.skal.nl
 login-uzi.pilot.uzi-online.minvws.nl
 login-uzi.proeftuin.uzi-online.irealisatie.nl
 login.a1.digid.nl
@@ -9542,6 +9555,7 @@ login.rivm.nl
 login.rvb.rijkscloud.nl
 login.rvr.org
 login.scp.nl
+login.skal.nl
 login.t1.digid.nl
 login.t2.digid.nl
 login.test.kb.nl
@@ -9888,6 +9902,7 @@ mail.seb.ibki.nl
 mail.sekswerkgoedgeregeld.nl
 mail.ser.nl
 mail.services.acm.nl
+mail.skal.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
 mail.vechtstromen.nl
@@ -10372,6 +10387,7 @@ mijn.rivm.nl
 mijn.rvo.nl
 mijn.s-bb.nl
 mijn.schadefonds.nl
+mijn.skal.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
 mijn.str11.acc.belastingdienst.nl
@@ -10935,7 +10951,10 @@ mx4.svb.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
+my-acc.skal.nl
+my-test.skal.nl
 my.naktuinbouw.com
+my.skal.nl
 my.test.chm-cbd.net
 my2.naktuinbouw.com
 myadmin.huc.knaw.nl
@@ -12807,6 +12826,7 @@ portal.reclassering.nl
 portal.rijksdienstcn.com
 portal.risicotoolboxbodem.nl
 portal.shinyproxy.ix.rijkscloud.nl
+portal.skal.nl
 portal.test.datascience.rijkscloud.nl
 portal.test.ggdcontact.irealisatie.nl
 portal.test.ix.rijkscloud.nl
@@ -13467,6 +13487,7 @@ rdp.cultuurparticipatie.nl
 rds-acpt.nationaalarchief.nl
 rds.letterenfonds.nl
 rds.onderzoeksraad.nl
+rds.skal.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
 rdsa.knmi.nl
@@ -14443,6 +14464,7 @@ service.pdok.cloud.kadaster.nl
 service.pdok.nl
 service.perf.omgevingswet.overheid.nl
 service.pre.omgevingswet.overheid.nl
+service.skal.nl
 service.test.pdok.nl
 service.tst2905.omgevingswet.overheid.nl
 service1-cto.kadaster.nl
@@ -14715,6 +14737,7 @@ sites.rdw.nl
 sitescan-eu1.arcgis.com
 sk-i.espacenet.com
 sk.espacenet.com
+skal.nl
 skosmos.zandbak.dans.knaw.nl
 skywalker.letterenfonds.nl
 slachtoffer.jeugdconnect.nl
@@ -15203,6 +15226,9 @@ status.cbs.nl
 status.gn3.rijkscloud.nl
 status.kvk.nl
 status.location.arcgis.com
+status.login-test.skal.nl
+status.login.skal.nl
+status.my.skal.nl
 status.omgevingswet.overheid.nl
 status.pleio.nl
 status.pre.omgevingswet.overheid.nl
@@ -15633,6 +15659,7 @@ test-wiki.cultuurparticipatie.nl
 test-wus.procesinfrastructuur.nl
 test-www.pzp.nl
 test.aanvragen.maror.nl
+test.acm.skal.nl
 test.actueel.nl-alert.nl
 test.adviescollegeveiligheidgroningen.nl
 test.aerius.nl
@@ -15757,6 +15784,7 @@ test.pdok.nl
 test.peppolautoriteit.nl
 test.pianoo.nl
 test.portaal.nlarbeidsinspectie.nl
+test.portal.skal.nl
 test.praatmeemetdeoverheid.nl
 test.procesinfrastructuur.nl
 test.publicwebservices.cibg.nl
@@ -15813,6 +15841,7 @@ test2gbav.belastingdienst.nl
 test3.isis-web.nl
 test3.risicotoolboxbodem.nl
 test300.dictu.nl
+testacm.skal.nl
 testadminpure.knaw.nl
 testapi.ix.rijkscloud.nl
 testapp.devops.rvb.rijkscloud.nl
@@ -16736,6 +16765,7 @@ vpn.rivm.nl
 vpn.rvb.odc-noord.nl
 vpn.rw1.rijkscloud.nl
 vpn.services.acm.nl
+vpn.skal.nl
 vpn.svb.nl
 vpn.test.cloud.kadaster.nl
 vpn.web.ictu.nl
@@ -16953,6 +16983,8 @@ web.brt.test.kadaster.nl
 web.ertms.nl
 web.huygens.knaw.nl
 web.kvk.nl
+web.login-test.skal.nl
+web.login.skal.nl
 web.mgcp.kadaster.nl
 web.mgcp.test.kadaster.nl
 web.minienm.nl
@@ -17110,6 +17142,7 @@ webmail.s-bb.nl
 webmail.seb.ibki.nl
 webmail.sekswerkgoedgeregeld.nl
 webmail.ser.nl
+webmail.skal.nl
 webmail.test.knaw.nl
 webmail.test.rivm.nl
 webmail.tib-ivd.nl
@@ -17249,6 +17282,7 @@ werkenbij.reclassering.nl
 werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.rws.nl
+werkenbij.skal.nl
 werkenbij.toeslagen.nl
 werkenbijde.nza.nl
 werkenbijdeeu.nl
@@ -18997,6 +19031,7 @@ www.simpel-switchen.nl
 www.sip1.nba.nl
 www.site.ptvt.nl
 www.sitearchief.nl
+www.skal.nl
 www.slimmerreizen.zuid-holland.nl
 www.slimwatermanagement.nl
 www.sociaalfonds.minienm.nl
