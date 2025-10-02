@@ -287,6 +287,7 @@ doc
 uptime
 www.mail
 av
+ts
 accounts
 cbs
 micollab
@@ -337,6 +338,7 @@ portal2
 odc
 bibliotheek
 begrippen
+kantoor
 acc.api
 authenticatie
 nextcloud
@@ -464,7 +466,6 @@ web.acc
 ws-acc
 ws
 db
-ts
 cn
 content
 dashboards
@@ -525,7 +526,6 @@ coronadashboard
 sdg
 AutoDiscover
 digikoppeling-test
-kantoor
 inloggen-preprod
 loket-preprod
 workspace
@@ -13699,3 +13699,4 @@ www.onderzoekinzesstappen
 www.passendeperspectieven
 www.rekenspel
 www.wetenschapentechnologie
+pf1
