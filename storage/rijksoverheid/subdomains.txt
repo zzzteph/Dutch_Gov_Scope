@@ -3007,6 +3007,7 @@ autodiscover.ser.nl
 autodiscover.services.acm.nl
 autodiscover.skal.nl
 autodiscover.slo.nl
+autodiscover.sommbo.nl
 autodiscover.spinozacentre.knaw.nl
 autodiscover.svb.nl
 autodiscover.test.knaw.nl
@@ -9778,6 +9779,7 @@ magazine.arbeidsmarktplatformpo.nl
 magazine.caop.nl
 magazine.forumstandaardisatie.nl
 magazine.kvk.nl
+magazine.sommbo.nl
 magazine.zuid-holland.nl
 magazines-ienw.rijksoverheid.nl
 magazines.agendastad.nl
@@ -14937,6 +14939,7 @@ solliciterenbijciz.nl
 solr-acc.ser.nl
 solr-prd.ser.nl
 solr.ser.nl
+sommbo.nl
 sonar-lts.test.ix.rijkscloud.nl
 sonar.devops.rvb.rijkscloud.nl
 sonar.extern.minszw.nl
@@ -19137,6 +19140,7 @@ www.socialeveiligheidrijk.nl
 www.sodm.nl
 www.softwareveiligheid.onderzoeksraad.nl
 www.solliciterenbijciz.nl
+www.sommbo.nl
 www.spamtitan.cbi.eu
 www.sportenbewegenincijfers.nl
 www.ssc-ict.nl

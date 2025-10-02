@@ -146,6 +146,7 @@ geoweb
 nieuwsbrieven
 siam
 admin
+magazine
 matomo
 cpcalendars
 cpcontacts
@@ -191,7 +192,6 @@ statistiek
 www.staging
 support
 securemail
-magazine
 nieuw
 gateway
 assets
