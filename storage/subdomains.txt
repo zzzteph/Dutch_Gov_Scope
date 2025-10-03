@@ -2591,6 +2591,7 @@ app.politie.nl
 app.pzp.nl
 app.raadvanstate.nl
 app.rivm.nl
+app.staatvanhetmkb.nl
 app.svb.nl
 app.test.pdok.nl
 app.vechtstromen.nl
@@ -4464,6 +4465,7 @@ cms.rijksoverheid.nl
 cms.rvo.nl
 cms.s-bb.nl
 cms.schadedoormijnbouw.nl
+cms.staatvanhetmkb.nl
 cms.tlokb.nl
 cms.werkenbij.rvo.nl
 cms1.defensie.nl
@@ -15222,6 +15224,7 @@ staatvanbiologisch.nl
 staatvanbrabant.databank.nl
 staatvandeuitvoering.nl
 staatvanhetbestuurdashboard.nl
+staatvanhetmkb.nl
 staatvanutrecht.databank.nl
 stadvanced.belastingdienst.nl
 stage-acc.officielebekendmakingen.nl
@@ -19306,6 +19309,7 @@ www.staatsexamensvo.nl
 www.staatvanbiologisch.nl
 www.staatvandeuitvoering.nl
 www.staatvanhetbestuurdashboard.nl
+www.staatvanhetmkb.nl
 www.staatvanutrecht.databank.nl
 www.stagefonds.s-bb.nl
 www.staging.bdmuseum.nl

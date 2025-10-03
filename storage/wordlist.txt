@@ -18,8 +18,8 @@ _autodiscover._tcp
 magazines
 staging
 intranet
-vpn
 cms
+vpn
 feeds.english
 www-acc
 opendata.english
@@ -35,8 +35,8 @@ formulieren
 portal
 e
 dev
-portaal
 app
+portaal
 sip
 connect
 beheer
