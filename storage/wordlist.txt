@@ -33,8 +33,8 @@ redactie
 smtp
 formulieren
 portal
-e
 dev
+e
 portaal
 app
 sip
@@ -99,6 +99,7 @@ telewerken
 archief
 lyncdiscover
 mx1
+media
 old
 acceptatie.beheer
 beeldbank
@@ -113,11 +114,11 @@ acc-dictu
 prod-dictu
 test-dictu
 aanvragen
-media
 events
 papiamentu
 adobe-analytics-dc
 adobe-tags
+beta
 enterpriseenrollment
 werken
 acceptatie.behandel
@@ -156,7 +157,6 @@ eloket
 web
 geodata
 academie
-beta
 evenementen
 videobellen
 acceptatie.zoeken
@@ -191,6 +191,7 @@ developer
 monitor
 statistiek
 www.staging
+acc-mijn
 support
 securemail
 nieuw
@@ -248,7 +249,6 @@ service
 transfer
 magazinesintern
 idm
-acc-mijn
 elo
 mail1
 backend
@@ -357,6 +357,7 @@ zakelijk
 analytics
 sentry
 voorlichting
+join
 organisaties
 data-acc
 standaarden
@@ -574,7 +575,6 @@ projecten-acc
 opleiding
 formulieren-acc
 zandbak
-join
 leeromgeving
 webshop
 pop
@@ -13729,3 +13729,14 @@ objects
 smtprelay01
 sso-lyncdiscover
 vpn.cloud
+a-media
+a-streaming
+acc-beta
+acc-dlm
+acc-oioportaal
+acc-rioportaal
+dlm
+oioportaal
+rioportaal
+streaming
+vps66655.dev

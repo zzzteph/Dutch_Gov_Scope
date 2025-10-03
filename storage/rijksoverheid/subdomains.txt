@@ -926,6 +926,7 @@ a-magazines.openbaarministerie.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
 a-magazinesintern.rijksvastgoedbedrijf.nl
+a-media.ssr.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -997,6 +998,7 @@ a-site2.platformrijksoverheid.nl
 a-site2.rijksoverheid.nl
 a-static.platformrijksoverheidonline.nl
 a-static.rijksoverheid.nl
+a-streaming.ssr.nl
 a-voor1.rijksoverheid.nl
 a-voor2.rijksoverheid.nl
 a-voorlichting.nederlandwereldwijd.nl
@@ -1179,6 +1181,7 @@ acc-auth2.mfaservices.nl
 acc-bergerselect.rws.nl
 acc-bestellingen.rivm.nl
 acc-bestelmedicatie.rivm.nl
+acc-beta.ssr.nl
 acc-biometric-service.consular.mfaservices.nl
 acc-biometricservice.mfaservices.nl
 acc-bvrin.minbzk.nl
@@ -1206,6 +1209,7 @@ acc-dictu.referentiegrootboekschema.nl
 acc-dictu.sbr-nl.nl
 acc-dictu.toegankelijkheidsverklaring.nl
 acc-digikoppeling-sign.dictu.nl
+acc-dlm.ssr.nl
 acc-duvo-web-api.rivm.nl
 acc-dvu.rvo.nl
 acc-edfs.rivm.nl
@@ -1258,6 +1262,7 @@ acc-mijn.cokz.nl
 acc-mijn.kadaster.nl
 acc-mijn.rivm.nl
 acc-mijn.rvo.nl
+acc-mijn.ssr.nl
 acc-mijnlmm.rivm.nl
 acc-newsroom.minienw.nl
 acc-nieuwsbrieven.rivm.nl
@@ -1265,6 +1270,7 @@ acc-nl-dictu-dkb-sign.dictu.nl
 acc-nl-dictu-nhr-sign.dictu.nl
 acc-nl-dictu-rijkspas.dictu.nl
 acc-nl-nvwa-dkb-sign.dictu.nl
+acc-oioportaal.ssr.nl
 acc-onderwaterobjecten.rws.nl
 acc-open-wave.odijmond.nl
 acc-participantapi.postcovidonderzoek.nl
@@ -1283,6 +1289,7 @@ acc-rd.dictu.nl
 acc-referentiegegevens.justid.nl
 acc-reftool-portal.consular.mfaservices.nl
 acc-researcher.postcovidonderzoek.nl
+acc-rioportaal.ssr.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-sonarreg.rws.nl
 acc-sso-osiris.rivm.nl
@@ -1475,6 +1482,7 @@ acc.schadedoormijnbouw.nl
 acc.service.mpn.minienm.nl
 acc.service.mpn.minienw.nl
 acc.spaceweather.knmi.nl
+acc.ssr.nl
 acc.staging.justitieconnect.nl
 acc.statistiek.digid.nl
 acc.statistiek.mijn.overheid.nl
@@ -3013,6 +3021,7 @@ autodiscover.skal.nl
 autodiscover.slo.nl
 autodiscover.sommbo.nl
 autodiscover.spinozacentre.knaw.nl
+autodiscover.ssr.nl
 autodiscover.svb.nl
 autodiscover.test.knaw.nl
 autodiscover.test.rivm.nl
@@ -3483,6 +3492,7 @@ beta.opendata.cbs.nl
 beta.politieenwetenschap.nl
 beta.resources.huygens.knaw.nl
 beta.ruimtelijkeplannen.nl
+beta.ssr.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
 betalen-cnf.belastingdienst.nl
@@ -5317,6 +5327,7 @@ dev.protocol.mfaservices.nl
 dev.rijksacademie.nl
 dev.rli.nl
 dev.sq.mfaservices.nl
+dev.ssr.nl
 dev.test.cloud.kadaster.nl
 dev.test.kadaster.nl
 dev.uk.investinholland.com
@@ -5578,6 +5589,7 @@ dk.espacenet.com
 dkb.dictu.nl
 dkl.bkd.eu
 dl.coronatest.nl
+dlm.ssr.nl
 dlo-acc.dnb.nl
 dlo-dev.dnb.nl
 dlo-tst.dnb.nl
@@ -8562,6 +8574,7 @@ jo.chm-cbd.net
 jobs.werkenvoornederland.nl
 join.odijmond.nl
 join.rechtspraak.nl
+join.ssr.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
 jongekind.slo.nl
@@ -9973,6 +9986,7 @@ mail.ser.nl
 mail.services.acm.nl
 mail.skal.nl
 mail.sportdagjenv.nl
+mail.ssr.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
 mail.vechtstromen.nl
@@ -10216,6 +10230,7 @@ media.platformwow.nl
 media.rechtspraak.nl
 media.schadedoormijnbouw.nl
 media.ser.nl
+media.ssr.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
 mediatheek.politieacademie.nl
@@ -10461,6 +10476,7 @@ mijn.rvo.nl
 mijn.s-bb.nl
 mijn.schadefonds.nl
 mijn.skal.nl
+mijn.ssr.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
 mijn.str11.acc.belastingdienst.nl
@@ -11646,6 +11662,7 @@ oid.politie.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
 oidji.nl
 oinregister.logius.nl
+oioportaal.ssr.nl
 ojb.rvo.nl
 ok.chm-cbd.net
 okotoksmaps-okotoks.hub.arcgis.com
@@ -13977,6 +13994,7 @@ riks-ft.azure.dnb.nl
 riks.azure.dnb.nl
 rinservice.minvws.nl
 rio-kennisbank.duo.nl
+rioportaal.ssr.nl
 risicoanalysevoorziening.staging.rijksapplicaties.nl
 risicotoolboxbodem.nl
 river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
@@ -15140,6 +15158,7 @@ sspmas.rws.nl
 sspr-ex.politieacademie.nl
 sspr-p.politieacademie.nl
 sspr.politieacademie.nl
+ssr.nl
 sss.cloud.kadaster.nl
 sss.test.cloud.kadaster.nl
 sss31.dans.knaw.nl
@@ -15415,6 +15434,7 @@ strafdossiermh17.om.nl
 strafrechtketen.nl
 strategicpriorities-newmarket.hub.arcgis.com
 stream01.bureau.knaw.nl
+streaming.ssr.nl
 streefbeelden.pagw.nl
 sts.cbg-meb.nl
 sts.cbs.nl
@@ -16938,6 +16958,7 @@ vpnportal.nwo.nl
 vpntcn.dictu.nl
 vpr.rijkswaterstaat.nl
 vps-prod-01.flevoland.nl
+vps66655.dev.ssr.nl
 vr.ofgv.nl
 vraagje.doeonbeperktmee.nl
 vrachtwagenheffing.nl
@@ -19206,6 +19227,7 @@ www.ssc-ict.nl
 www.ssc-ictspecials.nl
 www.sso-noord.nl
 www.sso3w.nl
+www.ssr.nl
 www.staatscommissie2050.nl
 www.staatscommissierechtsstaat.nl
 www.staatscommissietegendiscriminatieenracisme.nl

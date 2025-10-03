@@ -1503,8 +1503,10 @@ https://_dc-mx.dddce9f5a2d1.knooppuntjoure.nl
 https://a-api.contenttoolsrijksoverheid.nl
 https://a-api.nederlandwereldwijd.nl
 https://a-cms.contenttoolsrijksoverheid.nl
+https://a-media.ssr.nl
 https://a-origin.api.contenttoolsrijksoverheid.nl
 https://a-static.platformrijksoverheidonline.nl
+https://a-streaming.ssr.nl
 https://a-voorlichting.nederlandwereldwijd.nl
 https://a-www.nederlandwereldwijd.nl
 https://a-www.netherlandsworldwide.nl
@@ -1611,6 +1613,7 @@ https://acc-dictu.logius.nl
 https://acc-dictu.referentiegrootboekschema.nl
 https://acc-dictu.sbr-nl.nl
 https://acc-dictu.toegankelijkheidsverklaring.nl
+https://acc-dlm.ssr.nl
 https://acc-flowlogics.minbzk.nl
 https://acc-gbvi.rws.nl
 https://acc-gbviapi.rws.nl
@@ -1627,6 +1630,7 @@ https://acc-maps.rijkswaterstaat.nl
 https://acc-maps.rws.nl
 https://acc-mijn.cokz.nl
 https://acc-mijn.rivm.nl
+https://acc-mijn.ssr.nl
 https://acc-onderwaterobjecten.rws.nl
 https://acc-open-wave.odijmond.nl
 https://acc-port-enc.rws.nl
@@ -1753,6 +1757,7 @@ https://acc.rvr.org
 https://acc.s-bb.nl
 https://acc.service.mpn.minienm.nl
 https://acc.spaceweather.knmi.nl
+https://acc.ssr.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.wegwijzer.overheid.nl
@@ -4141,6 +4146,7 @@ https://dk-i.espacenet.com
 https://dk.espacenet.com
 https://dkl.bkd.eu
 https://dl.coronatest.nl
+https://dlm.ssr.nl
 https://dlo-acc.dnb.nl
 https://dlo.dnb.nl
 https://dmi-ecosysteem.nl
@@ -6701,6 +6707,7 @@ https://media.om.nl
 https://media.platformwow.nl
 https://media.rechtspraak.nl
 https://media.ser.nl
+https://media.ssr.nl
 https://mediamasters.mijncyberrijbewijs.nl
 https://mediaportal.cbs.nl
 https://mediatheek.politieacademie.nl
@@ -6846,6 +6853,7 @@ https://mijn.rvo.nl
 https://mijn.s-bb.nl
 https://mijn.schadefonds.nl
 https://mijn.skal.nl
+https://mijn.ssr.nl
 https://mijn.test.lcms.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
@@ -7356,6 +7364,7 @@ https://oid.pkioverheid.nl
 https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oidji.nl
 https://oinregister.logius.nl
+https://oioportaal.ssr.nl
 https://ojb.rvo.nl
 https://okotoksmaps-okotoks.hub.arcgis.com
 https://oktibbeha.maps.arcgis.com
@@ -8602,6 +8611,7 @@ https://riks-ci.azure.dnb.nl
 https://riks-ft.azure.dnb.nl
 https://riks.azure.dnb.nl
 https://rio-kennisbank.duo.nl
+https://rioportaal.ssr.nl
 https://risicoanalysevoorziening.staging.rijksapplicaties.nl
 https://risicotoolboxbodem.nl
 https://river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
@@ -9112,6 +9122,7 @@ https://ssp.ix.rijkscloud.nl
 https://sspr-ex.politieacademie.nl
 https://sspr-p.politieacademie.nl
 https://sspr.politieacademie.nl
+https://ssr.nl
 https://sss.cloud.kadaster.nl
 https://sss.test.cloud.kadaster.nl
 https://sst.buitenlevenvakanties.nl
@@ -9289,6 +9300,7 @@ https://stormtools-mainpage-crc-uri.hub.arcgis.com
 https://storybook.nldesignsystem.nl
 https://strafrechtketen.nl
 https://strategicpriorities-newmarket.hub.arcgis.com
+https://streaming.ssr.nl
 https://streefbeelden.pagw.nl
 https://sts.cbg-meb.nl
 https://sts.cbs.nl
@@ -11633,6 +11645,7 @@ https://www.ssc-ict.nl
 https://www.ssc-ictspecials.nl
 https://www.sso-noord.nl
 https://www.sso3w.nl
+https://www.ssr.nl
 https://www.staatscommissie2050.nl
 https://www.staatscommissierechtsstaat.nl
 https://www.staatscommissietegendiscriminatieenracisme.nl
