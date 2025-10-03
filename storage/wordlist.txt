@@ -226,10 +226,12 @@ ebms
 outlook
 status
 a-cms
+catalogus
 cms1
 jira
 connect-acpt
 www.mijn
+preprod
 webservice
 desktop
 exchange
@@ -238,6 +240,7 @@ veiligmailen
 extern
 csoacct
 csotest
+begrippen
 en
 vt
 registry
@@ -299,7 +302,6 @@ owa
 t-cms
 acm
 testconn
-catalogus
 linkeddata
 t
 thesaurus
@@ -327,7 +329,6 @@ lync
 mail01
 mail02
 aanvraag
-preprod
 services-acc
 cmsintranet
 denkmee
@@ -337,7 +338,6 @@ test-intranet
 portal2
 odc
 bibliotheek
-begrippen
 kantoor
 acc.api
 authenticatie
@@ -355,6 +355,7 @@ eva
 leren
 zakelijk
 analytics
+keycloak
 sentry
 voorlichting
 join
@@ -570,10 +571,10 @@ charlie
 backbone
 faq
 file
-keycloak
 s
 tileserver
 a-voorlichting
+acc.opendata
 track
 projecten-acc
 opleiding
@@ -712,6 +713,7 @@ pay
 snippet
 acc.www
 develop
+playground
 sparql
 rest
 metabase
@@ -3256,7 +3258,6 @@ www.ncis
 www.nt
 xdev.staging
 acc.informatieservice
-acc.opendata
 dev.informatieservice
 dev.opendata
 digidafspraak
@@ -7081,7 +7082,6 @@ webtest
 xelion
 ziem
 wo2
-playground
 relayaccept
 relayprod
 devportal
@@ -13786,3 +13786,21 @@ stan
 stan.staging
 statics
 statics.staging
+acc.begrippen
+acc.editor
+acc.keycloak
+acc.metadata
+acc.mpl
+acc.playground
+acc.purl
+digitaleoverheid
+editor
+metadata
+preprod.begrippen
+preprod.editor
+preprod.keycloak
+preprod.metadata
+preprod.opendata
+preprod.playground
+preprod.purl
+purl
