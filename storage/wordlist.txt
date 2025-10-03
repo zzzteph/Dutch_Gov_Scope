@@ -126,6 +126,7 @@ kaarten
 helpdesk
 demo
 sso
+academy
 designsystem
 www1
 mam
@@ -163,7 +164,6 @@ atlas
 geoportaal
 id
 wifi
-academy
 onderhoud
 projecten
 sftp
@@ -13701,3 +13701,5 @@ www.rekenspel
 www.wetenschapentechnologie
 pf1
 g4aw
+challenges
+prestatiecall-la-2028
