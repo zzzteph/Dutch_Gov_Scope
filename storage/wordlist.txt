@@ -41,10 +41,10 @@ sip
 connect
 beheer
 _dmarc
+meet
 apps
 kennisbank
 zoeken
-meet
 www.acceptatie
 remote
 tst
@@ -756,6 +756,7 @@ www.sts
 kadaster
 autodiscover.test
 certificaten
+cloud
 monitoring
 webmail.test
 ebms2
@@ -9826,7 +9827,6 @@ charterbank.huygens
 ci.di.huc
 ckcc.huygens
 climatepursuit.nioo
-cloud
 clusiuscorrespondence.huygens
 clusiuscorrespondence2.huygens
 cmdi.dev.huc
@@ -13725,3 +13725,7 @@ sscc-sbc-a02p
 test.modellenplatform
 testconn-mp
 tst-modellenplatform-rekenen
+objects
+smtprelay01
+sso-lyncdiscover
+vpn.cloud

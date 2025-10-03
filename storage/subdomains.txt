@@ -4334,6 +4334,7 @@ clo.nl
 clone.dmi-ecosysteem.nl
 cloud.email.kvk.nl
 cloud.knaw.nl
+cloud.sso-noord.nl
 cloudie.cultuurparticipatie.nl
 cloudstorage-koop.overheid.nl
 cloudtopienw.rijkscloud.nl
@@ -10242,6 +10243,7 @@ meet.rechtspraak.nl
 meet.regioburgemeesters.nl
 meet.rijkscloud.nl
 meet.rijksrecherche.nl
+meet.sso-noord.nl
 meet.th.rechtspraak.nl
 meet.vc.rechtspraak.nl
 meet.vechtstromen.nl
@@ -11566,6 +11568,7 @@ obi.knaw.nl
 objects.gn2.rijkscloud.nl
 objects.gn3.rijkscloud.nl
 objects.rw1.rijkscloud.nl
+objects.sso-noord.nl
 objectse.gn3.rijkscloud.nl
 obstbackup-prod-va-01.dans.knaw.nl
 occassio.dev.huc.knaw.nl
@@ -14906,6 +14909,7 @@ smtp32.belastingdienst.nl
 smtp4.mijn.overheid.nl
 smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
+smtprelay01.sso-noord.nl
 snat-cap.internal.kadaster.nl
 snat-cap.test.internal.kadaster.nl
 snd-bvv-api.data-exchange.consular.mfaservices.nl
@@ -15085,6 +15089,8 @@ sso-acc2.bronhouderportaal-bro.nl
 sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
 sso-dev.bronhouderportaal-bro.nl
+sso-lyncdiscover.sso-noord.nl
+sso-noord.nl
 sso-osiris.rivm.nl
 sso-pa.politie.nl
 sso-test-tno.bronhouderportaal-bro.nl
@@ -16862,6 +16868,7 @@ vpn.cbg-meb.nl
 vpn.cbr.nl
 vpn.cito.nl
 vpn.cjib.nl
+vpn.cloud.sso-noord.nl
 vpn.coa.nl
 vpn.cvdm.nl
 vpn.dictu.nl
@@ -19197,6 +19204,7 @@ www.sri-richtlijnen.nl
 www.ssc-campus.nl
 www.ssc-ict.nl
 www.ssc-ictspecials.nl
+www.sso-noord.nl
 www.sso3w.nl
 www.staatscommissie2050.nl
 www.staatscommissierechtsstaat.nl
