@@ -2678,6 +2678,7 @@ https://backend.architectenregister.nl
 https://backend.immissietoets.nl
 https://backend.maatschappelijkeonrust.nl
 https://backend.overstroomik.nl
+https://backend.staatvanhetbestuurdashboard.nl
 https://backstage.labs.dans.knaw.nl
 https://backtoroots.nioo.knaw.nl
 https://backyard-cottages-lewisville.hub.arcgis.com
@@ -9178,6 +9179,7 @@ https://staatsexamensvo.nl
 https://staatvanbiologisch.nl
 https://staatvanbrabant.databank.nl
 https://staatvandeuitvoering.nl
+https://staatvanhetbestuurdashboard.nl
 https://staatvanutrecht.databank.nl
 https://stage-acc.officielebekendmakingen.nl
 https://stage.dopingautoriteit.nl
@@ -9671,6 +9673,7 @@ https://tiles1.arcgis.com
 https://tiles2.arcgis.com
 https://tiles4.arcgis.com
 https://tileserver.ndw.nu
+https://tileserver.staatvanhetbestuurdashboard.nl
 https://timeit.hetcak.nl
 https://timetell-test.knaw.nl
 https://timetell.knaw.nl
@@ -11713,6 +11716,7 @@ https://www.staatsexamensnt2.nl
 https://www.staatsexamensvo.nl
 https://www.staatvanbiologisch.nl
 https://www.staatvandeuitvoering.nl
+https://www.staatvanhetbestuurdashboard.nl
 https://www.staatvanutrecht.databank.nl
 https://www.stagefonds.s-bb.nl
 https://www.staging.bdmuseum.nl

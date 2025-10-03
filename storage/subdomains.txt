@@ -3156,6 +3156,7 @@ backend.nias.knaw.nl
 backend.overstroomik.nl
 backend.socint.acc.belastingdienst.nl
 backend.socint.belastingdienst.nl
+backend.staatvanhetbestuurdashboard.nl
 backoffice-acc.schadedoormijnbouw.nl
 backoffice-tst.schadedoormijnbouw.nl
 backoffice.schadedoormijnbouw.nl
@@ -15220,6 +15221,7 @@ staatvan.zuid-holland.nl
 staatvanbiologisch.nl
 staatvanbrabant.databank.nl
 staatvandeuitvoering.nl
+staatvanhetbestuurdashboard.nl
 staatvanutrecht.databank.nl
 stadvanced.belastingdienst.nl
 stage-acc.officielebekendmakingen.nl
@@ -16140,6 +16142,7 @@ tiles2.arcgis.com
 tiles4.arcgis.com
 tileserver.huc.knaw.nl
 tileserver.ndw.nu
+tileserver.staatvanhetbestuurdashboard.nl
 timbuctoo-prod.red.huygens.knaw.nl
 timbuctoo-repo-prod.red.huygens.knaw.nl
 timeit-acc.hetcak.nl
@@ -19302,6 +19305,7 @@ www.staatsexamensnt2.nl
 www.staatsexamensvo.nl
 www.staatvanbiologisch.nl
 www.staatvandeuitvoering.nl
+www.staatvanhetbestuurdashboard.nl
 www.staatvanutrecht.databank.nl
 www.stagefonds.s-bb.nl
 www.staging.bdmuseum.nl
