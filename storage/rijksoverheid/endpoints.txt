@@ -9177,6 +9177,7 @@ https://staatsexamensnt2.nl
 https://staatsexamensvo.nl
 https://staatvanbiologisch.nl
 https://staatvanbrabant.databank.nl
+https://staatvandeuitvoering.nl
 https://staatvanutrecht.databank.nl
 https://stage-acc.officielebekendmakingen.nl
 https://stage.dopingautoriteit.nl
@@ -9216,12 +9217,15 @@ https://staging.ptvt.nl
 https://staging.rechtenoverheid.nl
 https://staging.rijksapplicaties.nl
 https://staging.samenbouwenaanbereikbaarheid.nl
+https://staging.staatvandeuitvoering.nl
 https://staging.werkenbij.kvk.nl
 https://stakeholdersregistratie.rijksapplicaties.nl
 https://stakeholdersregistratie.staging.rijksapplicaties.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
 https://stamdata.cbr.nl
+https://stan.staatvandeuitvoering.nl
+https://stan.staging.staatvandeuitvoering.nl
 https://standaard.aquo.nl
 https://standaarden-acc.overheid.nl
 https://standaarden-tst.overheid.nl
@@ -9273,6 +9277,8 @@ https://static.tst.live.werkenbij.rijkswaterstaat.nl
 https://static.tst.staging.rijkswaterstaat.nl
 https://static.tst.staging.werkenbij.rijkswaterstaat.nl
 https://static.wegwijzer.overheid.nl
+https://statics.staatvandeuitvoering.nl
+https://statics.staging.staatvandeuitvoering.nl
 https://statistics.ind.nl
 https://statistiek.digid.nl
 https://statistiek.dnb.nl
@@ -11706,6 +11712,7 @@ https://www.staatscommissietegendiscriminatieenracisme.nl
 https://www.staatsexamensnt2.nl
 https://www.staatsexamensvo.nl
 https://www.staatvanbiologisch.nl
+https://www.staatvandeuitvoering.nl
 https://www.staatvanutrecht.databank.nl
 https://www.stagefonds.s-bb.nl
 https://www.staging.bdmuseum.nl
