@@ -45,10 +45,10 @@ meet
 www.acceptatie
 apps
 kennisbank
+remote
 tst
 jaarverslag
 zoeken
-remote
 hybrid
 publicaties
 cpanel
@@ -100,6 +100,7 @@ telewerken
 archief
 lyncdiscover
 mx1
+aanvragen
 media
 old
 acceptatie.beheer
@@ -113,7 +114,6 @@ stats
 acc-dictu
 prod-dictu
 test-dictu
-aanvragen
 events
 geodata
 papiamentu
@@ -125,6 +125,7 @@ werken
 acceptatie.behandel
 acceptatie.mijn
 kaarten
+wifi
 helpdesk
 demo
 sso
@@ -138,14 +139,18 @@ a-magazines
 servicedesk
 mobiel
 nieuwsbrief
+legacy
 sandbox
 www-acc2
 www-dev2
 www-p2
 www-tst2
 forms
+m
+aanmelden
 sdm
 dashboard
+files
 geoweb
 nieuwsbrieven
 siam
@@ -165,7 +170,6 @@ behandel
 atlas
 geoportaal
 id
-wifi
 onderhoud
 projecten
 sftp
@@ -176,14 +180,10 @@ formulier
 api-acc
 cms2
 acc.mijn
-legacy
 www-a
 zaaksysteem-acc
-m
-aanmelden
 synergy
 mijn-acc
-files
 repository
 secure
 mx2
@@ -294,6 +294,7 @@ av
 ts
 accounts
 cbs
+content
 micollab
 uag
 vpn1
@@ -471,7 +472,6 @@ ws-acc
 ws
 db
 cn
-content
 dashboards
 dashboards.test
 jeugdmonitor
@@ -750,6 +750,7 @@ guestportal
 sip1
 mijnzaak-acc
 sync
+da
 passwordreset
 timetell
 kerncijfers
@@ -770,6 +771,7 @@ facturen
 lync1
 opendata.acp
 webconf
+proeftuin
 achterhoek
 drechtsteden
 flevoland
@@ -8779,7 +8781,6 @@ accept.github-push
 accept.web
 accept.web.nmp
 afas
-da
 darktrace
 iti-acceptance
 iti-test
@@ -10618,7 +10619,6 @@ plot-acceptatie
 plot-oefen
 plot-operationeel
 plot-test
-proeftuin
 test-kira
 test-veiligheidsregio
 test-waterschappen
@@ -13805,3 +13805,11 @@ preprod.playground
 preprod.purl
 purl
 m-files
+denieuweruimte
+ldaps
+stifosandberg
+talent
+terugblik
+www.da
+www.ldaps
+www.wifi
