@@ -84,6 +84,7 @@ http://acceptatie.rivmweb72.rivm.nl
 http://acceptatie.rvs.rivm.nl
 http://acceptatie.rvszoeksysteem.rivm.nl
 http://acceptatie.ssc-campus.nl
+http://acceptatie.staatvenz.nl
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://acceptatie.tws-esb.rws.nl
 http://acceptatie.voorraadtelling.rivm.nl
@@ -749,6 +750,7 @@ http://test.lml.rivm.nl
 http://test.loketgezondleven.nl
 http://test.mgo.irealisatie.nl
 http://test.praatmeemetdeoverheid.nl
+http://test.staatvenz.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
@@ -823,6 +825,7 @@ http://www.acc-vtlb.rvr.org
 http://www.accept-betalen.nba.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.acceptatie.neorah.nl
+http://www.acceptatie.staatvenz.nl
 http://www.access.nba.nl
 http://www.av1.nba.nl
 http://www.bacterial-meningitis.nl
@@ -9185,6 +9188,7 @@ https://staatvanhetbestuurdashboard.nl
 https://staatvanhetmkb.nl
 https://staatvanlandbouwnatuurenvoedsel.nl
 https://staatvanutrecht.databank.nl
+https://staatvenz.nl
 https://stage-acc.officielebekendmakingen.nl
 https://stage.dopingautoriteit.nl
 https://stage.dopinginfo.nl
@@ -11724,6 +11728,7 @@ https://www.staatvanhetbestuurdashboard.nl
 https://www.staatvanhetmkb.nl
 https://www.staatvanlandbouwnatuurenvoedsel.nl
 https://www.staatvanutrecht.databank.nl
+https://www.staatvenz.nl
 https://www.stagefonds.s-bb.nl
 https://www.staging.bdmuseum.nl
 https://www.staging.deweekvandecirculaireeconomie.nl
