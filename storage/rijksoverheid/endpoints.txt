@@ -83,6 +83,7 @@ http://acceptatie.rivm.nl
 http://acceptatie.rivmweb72.rivm.nl
 http://acceptatie.rvs.rivm.nl
 http://acceptatie.rvszoeksysteem.rivm.nl
+http://acceptatie.ssc-campus.nl
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://acceptatie.tws-esb.rws.nl
 http://acceptatie.voorraadtelling.rivm.nl
@@ -699,6 +700,7 @@ http://sonarqube.lpc.logius.nl
 http://sorry.belastingdienst.nl
 http://specials.brabant.nl
 http://sqaas.labs.dans.knaw.nl
+http://ssc-campus.nl
 http://ssl.cokz.nl
 http://sso.api.rivm.nl
 http://ssp.huc.knaw.nl
@@ -869,6 +871,7 @@ http://www.sawa-vth.nl
 http://www.scope.nin.knaw.nl
 http://www.sip1.nba.nl
 http://www.slimmerreizen.zuid-holland.nl
+http://www.ssc-campus.nl
 http://www.staging.opwegnaarzes.nl
 http://www.taiwan.investinholland.com
 http://www.teebstad.rivm.nl
@@ -2643,12 +2646,14 @@ https://avgregisterrijksoverheid.nl
 https://aws.rdw.nl
 https://awti.nl
 https://awti.sitearchief.nl
+https://awv.rivm-micol-a01p.rivm.ssc-campus.nl
 https://ayuntamiento-de-cieza-aytocieza.hub.arcgis.com
 https://ayuntamientodebaza-atpca.hub.arcgis.com
 https://azgeo-data-hub-agic.hub.arcgis.com
 https://azgeo-open-data-agic.hub.arcgis.com
 https://azwstatline.cbs.nl
 https://b-acc.asbestvolgsysteem.nl
+https://b30-micol-a01p.int.ssc-campus.nl
 https://back2roots.nioo.knaw.nl
 https://backbone.ndw.nu
 https://backbone.politieacademie.nl
@@ -3538,6 +3543,7 @@ https://connect-acpt.autoriteitpersoonsgegevens.nl
 https://connect-acpt.dji.nl
 https://connect-acpt.justitieleictorganisatie.nl
 https://connect-acpt.kinderbescherming.nl
+https://connect-mp.ssc-campus.nl
 https://connect-mvta.hub.arcgis.com
 https://connect-test.cito.nl
 https://connect-to-2050-texarkana-mtp-atginc.hub.arcgis.com
@@ -3555,6 +3561,7 @@ https://connect.kinderbescherming.nl
 https://connect.knmi.nl
 https://connect.rivm.nl
 https://connect.schadefonds.nl
+https://connect.ssc-campus.nl
 https://connect.wodc.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
@@ -4634,6 +4641,7 @@ https://esp-api.dev-probas.mfaservices.nl
 https://esp-api.probas.mfaservices.nl
 https://esp-api.tst-probas.mfaservices.nl
 https://esp.mfaservices.nl
+https://esp.ssc-campus.nl
 https://espacenet.com
 https://esri-disasterresponse.hub.arcgis.com
 https://et.chm-cbd.net
@@ -5097,6 +5105,7 @@ https://fs.ctgb.nl
 https://fs.knmi.nl
 https://fs.rijksdienstcn.com
 https://fs.rivm.nl
+https://fs.ssc-campus.nl
 https://fscontest.github.io
 https://fsvportaal.belastingdienst.nl
 https://ftgelderland.databank.nl
@@ -6403,6 +6412,7 @@ https://login.rivm.nl
 https://login.rvr.org
 https://login.scp.nl
 https://login.skal.nl
+https://login.ssc-campus.nl
 https://login.test.kb.nl
 https://login.vechtstromen.nl
 https://logius-acc.confluence.odc-noord.nl
@@ -6948,6 +6958,8 @@ https://mockapp-pp.dnb.nl
 https://mockapp-test.dnb.nl
 https://mode-s.knmi.nl
 https://modellen.jenvgegevens.nl
+https://modellenplatform-rekenen.ssc-campus.nl
+https://modellenplatform.ssc-campus.nl
 https://modellenregister.rivm.nl
 https://modis.arcgis.com
 https://module-denkprofielen.slo.nl
@@ -6983,6 +6995,7 @@ https://moodle-odcn.pleio.nl
 https://mooibeweging.nl
 https://moordzaak.om.nl
 https://move-rdh.nl
+https://mp.ssc-campus.nl
 https://mpf.rivm.nl
 https://mpn-acc.minienm.nl
 https://mpn-pre.minienm.nl
@@ -7270,6 +7283,8 @@ https://nutriscorevoorbedrijven.nl
 https://nvao.net
 https://nvwa.nl
 https://nvwa.sitearchief.nl
+https://nwm-zw-input.ssc-campus.nl
+https://nwm-zw-output.ssc-campus.nl
 https://nwo-i.nl
 https://nwo.nl
 https://nwoi-people.nwo.nl
@@ -7833,6 +7848,7 @@ https://password-new.knmi.nl
 https://password.ctgb.nl
 https://password.knmi.nl
 https://password.rivm.nl
+https://password.ssc-campus.nl
 https://paste.huc.knaw.nl
 https://patatjepinda.cultuurparticipatie.nl
 https://pay-acc.cjib.nl
@@ -8591,6 +8607,7 @@ https://risicotoolboxbodem.nl
 https://river-ridge-ranch-hub-csulb-rrr.hub.arcgis.com
 https://rivierenland.leerwerkloket.nl
 https://rivierenland.lerenenwerken.nl
+https://rivm-micol-a01p.rivm.ssc-campus.nl
 https://rivm.nl
 https://rivm.sitearchief.nl
 https://rivmopendata.cbs.nl
@@ -9535,6 +9552,7 @@ https://testauthentication.di.huc.knaw.nl
 https://testbegrippen.hdsr.nl
 https://testcao.minszw.nl
 https://testcloud.cvte.nl
+https://testconn-mp.ssc-campus.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
 https://testeloket.cvdm.nl
