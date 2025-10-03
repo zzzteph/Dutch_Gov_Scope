@@ -662,6 +662,9 @@
 34-47-169-195.cito.nl
 35-47-169-195.cito.nl
 36-47-169-195.cito.nl
+360graden.apps.staatsbosbeheer.nl
+360gradena.apps.staatsbosbeheer.nl
+360gradent.apps.staatsbosbeheer.nl
 360vr.arcgis.com
 37-47-169-195.cito.nl
 38-47-169-195.cito.nl
@@ -2204,6 +2207,7 @@ almanak.overheid.nl
 als-geospatial-hub-nonprofit.hub.arcgis.com
 altbau-primariact.hub.arcgis.com
 alterra.nl
+altiris.apps.staatsbosbeheer.nl
 am.rijkswaterstaat.nl
 am01-iisg.knaw.nl
 am02-iisg.knaw.nl
@@ -2386,6 +2390,7 @@ api.bgt.acceptatie.kadaster.nl
 api.bgt.kadaster.nl
 api.bgt.test.kadaster.nl
 api.bigregister.nl
+api.borden.staatsbosbeheer.nl
 api.brabant.nl
 api.brk.acceptatie.kadaster.nl
 api.brk.kadaster.nl
@@ -2792,7 +2797,9 @@ assetscdn.npostart.nl
 assistent.internetaankopen.douane.nl
 assyst-a.svb.nl
 assyst-t.svb.nl
+assyst.apps.staatsbosbeheer.nl
 assyst.svb.nl
+assysta.apps.staatsbosbeheer.nl
 astro.arcgis.com
 astrogeology-usgs.hub.arcgis.com
 asycuda.belastingdienst-cn.nl
@@ -3022,6 +3029,7 @@ autodiscover.slo.nl
 autodiscover.sommbo.nl
 autodiscover.spinozacentre.knaw.nl
 autodiscover.ssr.nl
+autodiscover.staatsbosbeheer.nl
 autodiscover.svb.nl
 autodiscover.test.knaw.nl
 autodiscover.test.rivm.nl
@@ -3286,12 +3294,14 @@ beeldarchiefbeheer.zuid-holland.nl
 beeldbank-beheer.cbs.nl
 beeldbank-bo.brabant.nl
 beeldbank-bo.hhdelfland.nl
+beeldbank-cms.staatsbosbeheer.nl
 beeldbank.brabant.nl
 beeldbank.cbs.nl
 beeldbank.cultureelerfgoed.nl
 beeldbank.gebruikercentraal.nl
 beeldbank.hhdelfland.nl
 beeldbank.nimh.nl
+beeldbank.staatsbosbeheer.nl
 beeldbank.zuid-holland.nl
 beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
@@ -3299,6 +3309,7 @@ beeldbellen.dji.nl
 beeldbieb.gebruikercentraal.nl
 beeldenvanderaad.nl
 beeldkompas.nl
+beeldverhalen.staatsbosbeheer.nl
 begeleiderspasaanvragen.rdw.nl
 beginnenbij.afm.nl
 begrippen.hdsr.nl
@@ -3417,6 +3428,7 @@ benchmarkpovo.databank.nl
 benchmarkregister-acc.datastelselverduurzamingutiliteit.nl
 benchmarkregister.datastelselverduurzamingutiliteit.nl
 benjamin.nin.knaw.nl
+bentwoud.staatsbosbeheer.nl
 beo.cbs.nl
 beoordeling.dus-i.nl
 beoordelingarbeidsrelatie.nl
@@ -3456,6 +3468,7 @@ bestandenpostbus.nl
 bestandslevering.cbs.nl
 bestandsportaal.cibg.nl
 bestellen.cito.nl
+bestellen.staatsbosbeheer.nl
 bestellingen.rivm.nl
 bestelloket.qs.kadaster.nl
 bestuurlijkeweerbaarheid.kennisplatformondermijning.nl
@@ -3708,6 +3721,7 @@ boportaalkdt.belastingdienst.nl
 bopzterug.rvr.org
 bopzuit.rvr.org
 bor-mcogis.hub.arcgis.com
+borden.staatsbosbeheer.nl
 boris.acp.kvk.nl
 boris.kvk.nl
 bos-api.rdw.nl
@@ -4115,6 +4129,7 @@ cdn.onderzoeksraad.nl
 cdn.opwegnaarseb.nl
 cdn.platformwow.nl
 cdn.politieacademie.nl
+cdn.staatsbosbeheer.nl
 cdndev.arcgis.com
 cdnqa.arcgis.com
 cdp1.pki.rws.nl
@@ -4327,6 +4342,7 @@ clhf1.ec.rijkscloud.nl
 clhf1.gn2.rijkscloud.nl
 clhf1.gn3.rijkscloud.nl
 click.email.kvk.nl
+clicks.w.staatsbosbeheer.nl
 clientcert-acc.rvo.nl
 clientcert-test.rvo.nl
 clientcert.rvo.nl
@@ -4345,6 +4361,7 @@ clone.dmi-ecosysteem.nl
 cloud.email.kvk.nl
 cloud.knaw.nl
 cloud.sso-noord.nl
+cloud.staatsbosbeheer.nl
 cloudie.cultuurparticipatie.nl
 cloudstorage-koop.overheid.nl
 cloudtopienw.rijkscloud.nl
@@ -4472,6 +4489,11 @@ cmsgui.ondernemersplein.overheid.nl
 cmsintranet.flevoland.nl
 cmsintranet.scp.nl
 cmsintranet.svb.nl
+cmsiweb.apps.staatsbosbeheer.nl
+cmsiweba.apps.staatsbosbeheer.nl
+cmsiwebapit.apps.staatsbosbeheer.nl
+cmsiwebo.apps.staatsbosbeheer.nl
+cmsiwebt.apps.staatsbosbeheer.nl
 cmsvpn.defensie.nl
 cmswijser.ser.nl
 cmv-kandidaat.sso3w.nl
@@ -5134,6 +5156,7 @@ deafsluitdijk.nl
 decentrale.regelgeving.overheid.nl
 decide-madrid.hub.arcgis.com
 declaree.knaw.nl
+declareren.staatsbosbeheer.nl
 decreg-acc.overheid.nl
 deegsnccu.maps.arcgis.com
 deeljekennis.s-bb.nl
@@ -5572,6 +5595,8 @@ diplomatieke-getuigenissen.huygens.knaw.nl
 directchat.kvk.nl
 directduidelijk.gebruikercentraal.nl
 directie.sp.nwo.nl
+director.apps.staatsbosbeheer.nl
+directort.apps.staatsbosbeheer.nl
 directory.huc.knaw.nl
 discipl.nl
 disk.acceptatie.rws.nl
@@ -5971,6 +5996,7 @@ e.oofggz.nl
 e.ptvt.nl
 e.restitutiecommissie.nl
 e.rva.nl
+e.staatsbosbeheer.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 ea-i.espacenet.com
@@ -6173,6 +6199,7 @@ elotest.brandweer.nl
 elotest.ifv.nl
 elotest.nipv.nl
 elpasoco.maps.arcgis.com
+elswout.staatsbosbeheer.nl
 elvyweb.onderzoeksraad.nl
 em-3ro.intern.reclassering.nl
 em-3ro.reclassering.nl
@@ -6522,6 +6549,7 @@ exchangeratetest.douane.nl
 exeg.staging.rijksapplicaties.nl
 exhibit.nieuwesluisterneuzen.eu
 exhibitions.nlspace.nl
+exohybrid.staatsbosbeheer.nl
 exons-website-manager.acc.mijn.knmi.nl
 exons-website-manager.mijn.knmi.nl
 exp-idposr.duo.nl
@@ -7056,6 +7084,7 @@ formulieren.svb.nl
 formulieren.uziregister.nl
 formulieren.waterschaplimburg.nl
 formulieren.zuid-holland.nl
+fortbijrijnauwen.staatsbosbeheer.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
 forum.developer.overheid.nl
@@ -7332,10 +7361,13 @@ geocodedev.arcgis.com
 geoconops-geoplatform.hub.arcgis.com
 geocontent.rvo.nl
 geocontroletool.rijkswaterstaat.nl
+geodata-a.staatsbosbeheer.nl
+geodata-t.staatsbosbeheer.nl
 geodata.basisinformatie-overstromingen.nl
 geodata.cbs.nl
 geodata.nationaalgeoregister.nl
 geodata.rivm.nl
+geodata.staatsbosbeheer.nl
 geodata.zuid-holland.nl
 geodata1.nationaalgeoregister.nl
 geodiensten.flevoland.nl
@@ -8669,6 +8701,7 @@ kaart.collectiefnatuurinclusief.nl
 kaart.flevoland.nl
 kaart.nationaalwegenbestand.nl
 kaart.productie.lcms.nl
+kaart.staatsbosbeheer.nl
 kaart.test.lcms.nl
 kaartbank.brabant.nl
 kaarten-demo.overheid.nl
@@ -9987,6 +10020,7 @@ mail.services.acm.nl
 mail.skal.nl
 mail.sportdagjenv.nl
 mail.ssr.nl
+mail.staatsbosbeheer.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
 mail.vechtstromen.nl
@@ -10299,10 +10333,12 @@ menukaart.kansrijkestartnl.nl
 mercurius.sso3w.nl
 meridian.rijkswaterstaat.nl
 meridian.rws.nl
+merkportaal-backoffice.staatsbosbeheer.nl
 merkportaal.belastingdienst.nl
 merkportaal.dnb.nl
 merkportaal.e-tol.nl
 merkportaal.kb.nl
+merkportaal.staatsbosbeheer.nl
 messagebox.test.ggdcontact.irealisatie.nl
 messagebroker.minszw.nl
 mestobb.maps.arcgis.com
@@ -11586,6 +11622,7 @@ objects.gn3.rijkscloud.nl
 objects.rw1.rijkscloud.nl
 objects.sso-noord.nl
 objectse.gn3.rijkscloud.nl
+observium.apps.staatsbosbeheer.nl
 obstbackup-prod-va-01.dans.knaw.nl
 occassio.dev.huc.knaw.nl
 ocd-hub-nm-emnrd.hub.arcgis.com
@@ -12404,6 +12441,7 @@ pb.brk.test.kadaster.nl
 pbc-gis-forum-pbcgisforum.hub.arcgis.com
 pbl.nl
 pbl.sitearchief.nl
+pbm.staatsbosbeheer.nl
 pc100.fa.knaw.nl
 pc101.fa.knaw.nl
 pc102.fa.knaw.nl
@@ -14246,6 +14284,7 @@ rxs.services.acm.nl
 s-bb.nl
 s.checkjeprijs.huurcommissie.nl
 s.ndw.nu
+s.staatsbosbeheer.nl
 s1.toeslagen.nl
 s10011-out.eerstekamer.nl
 s10013-out.eerstekamer.nl
@@ -14443,6 +14482,7 @@ schijf.schadedoormijnbouw.nl
 schmavery.github.io
 schoneluchtakkoord.nl
 schoolleidersregisterpo.nl
+schoorlseduinen.staatsbosbeheer.nl
 schorsen.rdw.nl
 schoudersonderschoon.nl
 schouw.flevoland.nl
@@ -14850,6 +14890,7 @@ site6.rijksoverheid.nl
 site7.rijksoverheid.nl
 site8.rijksoverheid.nl
 sitearchief.nl
+sitecore.staatsbosbeheer.nl
 sites-s.rdw.nl
 sites-u.rdw.nl
 sites.fondspodiumkunsten.nl
@@ -14993,7 +15034,10 @@ solliciteren.s-bb.nl
 solliciterenbijciz.nl
 solr-acc.ser.nl
 solr-prd.ser.nl
+solr.acc.staatsbosbeheer.nl
+solr.prd.staatsbosbeheer.nl
 solr.ser.nl
+solr.staatsbosbeheer.nl
 sommbo.nl
 sonar-lts.test.ix.rijkscloud.nl
 sonar.devops.rvb.rijkscloud.nl
@@ -15164,6 +15208,7 @@ sss.test.cloud.kadaster.nl
 sss31.dans.knaw.nl
 sst.buitenlevenvakanties.nl
 st.kcb.nl
+staatsbosbeheer.nl
 staatsbosbeheer.sitearchief.nl
 staatscommissie2050.nl
 staatscommissierechtsstaat.nl
@@ -16487,6 +16532,9 @@ umbracoprd.dnb.nl
 ums.hogeraad.nl
 umvo.politieacademie.nl
 unhcoopext.maps.arcgis.com
+unit4erp.apps.staatsbosbeheer.nl
+unit4erpa.apps.staatsbosbeheer.nl
+unit4erpt.apps.staatsbosbeheer.nl
 universiteiten.rechtsorde.nl.access.authkb.kb.nl
 universitypublishingonline.org.access.authkb.kb.nl
 uno.dfront.rijkscloud.nl
@@ -16956,6 +17004,7 @@ vpnodcn.dictu.nl
 vpnportal-supplier.nwo.nl
 vpnportal.nwo.nl
 vpntcn.dictu.nl
+vpnwolk.staatsbosbeheer.nl
 vpr.rijkswaterstaat.nl
 vps-prod-01.flevoland.nl
 vps66655.dev.ssr.nl
@@ -16973,6 +17022,7 @@ vreemdelingenvisie.nl
 vri-admin.ndw.nu
 vrijstellingmelden.vrachtwagenheffing.nl
 vrijwaringsbewijsaanvragen.rdw.nl
+vrijwilligers.staatsbosbeheer.nl
 vrln.databank.nl
 vs-anpr-producer-8085.politie.nl
 vs-tst-auth.dictu.nl
@@ -17036,6 +17086,7 @@ vws-acc.jira.odc-noord.nl
 vws-prd.jira.odc-noord.nl
 vz.minbzk.nl
 vzinfo.nl
+w.staatsbosbeheer.nl
 w10aovpn-poc.rws.nl
 w3acc.dnb.nl
 w3dev.dnb.nl
@@ -17057,6 +17108,8 @@ wadziejij.rijkewaddenzee.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
+wallboard.apps.staatsbosbeheer.nl
+wallboardbuitenleven.apps.staatsbosbeheer.nl
 wap.nak.nl
 wapenfeiten.zuid-holland.nl
 warmtetransitieatlas.zuid-holland.nl
@@ -17401,6 +17454,7 @@ welkom.bij.hetcak.nl
 welkom.caop.nl
 welkom.leerenontwikkelplein.nl
 welkombij.cbs.nl
+welkombij.staatsbosbeheer.nl
 wellesleyma.maps.arcgis.com
 wenjiaba.github.io
 wereldzaken.rvo.nl
@@ -17439,6 +17493,7 @@ werkenbij.rijkswaterstaat.nl
 werkenbij.rvo.nl
 werkenbij.rws.nl
 werkenbij.skal.nl
+werkenbij.staatsbosbeheer.nl
 werkenbij.toeslagen.nl
 werkenbijde.nza.nl
 werkenbijdeeu.nl
@@ -17572,6 +17627,7 @@ windlansingerland.zuid-holland.nl
 windmolensopzee.noordzeeloket.nl
 windopzee.nl
 windviewer.rvo.nl
+winkel.staatsbosbeheer.nl
 winkelgebiedenscan.databank.nl
 wio.ilent.nl
 wiob.ilent.nl
@@ -19228,6 +19284,7 @@ www.ssc-ictspecials.nl
 www.sso-noord.nl
 www.sso3w.nl
 www.ssr.nl
+www.staatsbosbeheer.nl
 www.staatscommissie2050.nl
 www.staatscommissierechtsstaat.nl
 www.staatscommissietegendiscriminatieenracisme.nl
@@ -19409,6 +19466,7 @@ www3.ep-online.nl
 www3.platformrijksoverheid.nl
 www4.platformrijksoverheid.nl
 www8.toeslagen.nl
+wwwa.staatsbosbeheer.nl
 wwwacc01.cbr.nl
 wwwaccp.entreepgb.svb.nl
 wwwdemo.entreepgb.svb.nl

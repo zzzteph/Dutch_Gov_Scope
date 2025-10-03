@@ -33,8 +33,8 @@ redactie
 smtp
 formulieren
 portal
-dev
 e
+dev
 portaal
 app
 sip
@@ -54,6 +54,7 @@ publicaties
 cpanel
 a-english
 sts
+cdn
 ftp
 adfs
 a-feeds.a-english
@@ -61,7 +62,6 @@ a-opendata.a-english
 enterpriseregistration
 open
 dialin
-cdn
 auth
 accept
 www.acc
@@ -86,6 +86,7 @@ mail2
 www.test
 maps
 services
+beeldbank
 mdm
 geo
 kennis
@@ -102,7 +103,6 @@ mx1
 media
 old
 acceptatie.beheer
-beeldbank
 static
 mailing
 www-ow
@@ -115,6 +115,7 @@ prod-dictu
 test-dictu
 aanvragen
 events
+geodata
 papiamentu
 adobe-analytics-dc
 adobe-tags
@@ -155,9 +156,9 @@ cpcalendars
 cpcontacts
 eloket
 web
-geodata
 academie
 evenementen
+merkportaal
 videobellen
 acceptatie.zoeken
 behandel
@@ -204,7 +205,6 @@ ontwikkel
 prd
 betalen
 huisstijl
-merkportaal
 mta-sts
 sharepoint
 website
@@ -232,6 +232,7 @@ www.mijn
 webservice
 desktop
 exchange
+kaart
 veiligmailen
 extern
 csoacct
@@ -331,7 +332,6 @@ services-acc
 cmsintranet
 denkmee
 intranet-acc
-kaart
 test-cmsintranet
 test-intranet
 portal2
@@ -408,6 +408,7 @@ mijnzaak
 mijn.acceptatie
 mft
 prisma
+cloud
 ns
 community
 rijnmond
@@ -480,6 +481,7 @@ statline
 storing
 tunnel
 upload
+welkombij
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
@@ -569,6 +571,7 @@ backbone
 faq
 file
 keycloak
+s
 a-voorlichting
 track
 projecten-acc
@@ -700,6 +703,7 @@ www.prod
 www.matomo
 adfs2
 autorisatie
+bestellen
 portal-a
 thuiswerken
 tst-www
@@ -756,7 +760,6 @@ www.sts
 kadaster
 autodiscover.test
 certificaten
-cloud
 monitoring
 webmail.test
 ebms2
@@ -830,6 +833,7 @@ archief-acc
 acc-api
 politie
 map
+solr
 geoportal
 gisservices
 gisservicesacc
@@ -1868,7 +1872,6 @@ videoplatform
 videos
 vocabs
 webserver
-welkombij
 werkplekom
 werkpleksso
 werkplektest
@@ -3232,7 +3235,6 @@ realtime
 realtime.staging
 reistijdtrajecten
 rt
-s
 security
 shared-services
 shared-services.staging
@@ -6838,7 +6840,6 @@ backend-groeimeter-a
 backend-groeimeter-o
 backend-groeimeter-t
 backend-groeimeter
-bestellen
 bmt-a.secure
 bmt-m.secure
 bmt-o.secure
@@ -13527,7 +13528,6 @@ moa
 return
 solr-acc
 solr-prd
-solr
 test-cmswijser
 test-wijser
 wijser
@@ -13740,3 +13740,45 @@ oioportaal
 rioportaal
 streaming
 vps66655.dev
+360graden.apps
+360gradena.apps
+360gradent.apps
+altiris.apps
+api.borden
+assyst.apps
+assysta.apps
+beeldbank-cms
+beeldverhalen
+bentwoud
+borden
+clicks.w
+cmsiweb.apps
+cmsiweba.apps
+cmsiwebapit.apps
+cmsiwebo.apps
+cmsiwebt.apps
+declareren
+director.apps
+directort.apps
+elswout
+exohybrid
+fortbijrijnauwen
+geodata-a
+geodata-t
+merkportaal-backoffice
+observium.apps
+pbm
+schoorlseduinen
+sitecore
+solr.acc
+solr.prd
+unit4erp.apps
+unit4erpa.apps
+unit4erpt.apps
+vpnwolk
+vrijwilligers
+w
+wallboard.apps
+wallboardbuitenleven.apps
+winkel
+wwwa
