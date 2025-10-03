@@ -393,6 +393,7 @@ toegang
 sbc
 test.www
 toolkit
+inschrijven
 fryslan
 haaglanden
 zeeland
@@ -708,7 +709,6 @@ acc.www
 develop
 sparql
 rest
-inschrijven
 metabase
 regio
 www.app
