@@ -17,8 +17,8 @@ a-feeds
 _autodiscover._tcp
 magazines
 staging
-intranet
 cms
+intranet
 vpn
 www-acc
 feeds.english
@@ -62,13 +62,13 @@ webdisk
 a-feeds.a-english
 a-opendata.a-english
 enterpriseregistration
+webservices
 open
 dialin
 auth
 www.acc
 fs
 ns2
-webservices
 docs
 elearning
 geoservices
@@ -161,6 +161,7 @@ magazine
 matomo
 eloket
 web
+ontwikkel
 academie
 evenementen
 merkportaal
@@ -170,6 +171,7 @@ behandel
 atlas
 geoportaal
 id
+nieuws
 onderhoud
 projecten
 sftp
@@ -203,7 +205,6 @@ hostmaster
 radius
 testeloket
 vpn2
-ontwikkel
 prd
 betalen
 huisstijl
@@ -215,7 +216,6 @@ connect-with
 dataportaal
 email
 esb
-nieuws
 ondertekenen
 samenwerken
 wachtwoord
@@ -13816,3 +13816,14 @@ www.wifi
 636f6465
 jscu
 uat
+acceptatie-cloud
+cl-compliancetest.webservices
+cms.acceptatie
+cms.test
+compliancetest.webservices
+cursus
+simulatie
+tvs-sign
+webservices.acceptatie
+www-cloud
+www.webservices

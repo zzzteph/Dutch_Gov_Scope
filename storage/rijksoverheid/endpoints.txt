@@ -3470,6 +3470,7 @@ https://cms-test.s-bb.nl
 https://cms-trendrapportage-acc.s-bb.nl
 https://cms-trendrapportage-test.s-bb.nl
 https://cms-trendrapportage.s-bb.nl
+https://cms.acceptatie.tenderned.nl
 https://cms.beeldkompas.nl
 https://cms.bureaubiosecurity.nl
 https://cms.cito.nl
@@ -3486,6 +3487,8 @@ https://cms.rvo.nl
 https://cms.s-bb.nl
 https://cms.staatvanhetmkb.nl
 https://cms.stimuleringsfonds.nl
+https://cms.tenderned.nl
+https://cms.test.tenderned.nl
 https://cms.tlokb.nl
 https://cms.werkenbij.rvo.nl
 https://cms1.rechtspraak.nl
@@ -7269,6 +7272,7 @@ https://nieuws.brabant.nl
 https://nieuws.coa.nl
 https://nieuws.pianoo.nl
 https://nieuws.rvo.nl
+https://nieuws.tenderned.nl
 https://nieuwsbrief.autoriteitpersoonsgegevens.nl
 https://nieuwsbrief.examenblad.nl
 https://nieuwsbrief.lexces.nl
@@ -9071,6 +9075,7 @@ https://simpel-switchen.nl
 https://simplesamlidp-acc.dictu.nl
 https://simplesamlidp.dictu.nl
 https://simply-vish.github.io
+https://simulatie.tenderned.nl
 https://simulator.etoegang.nl
 https://sip.coa.nl
 https://sip.lbio.nl
@@ -9540,6 +9545,7 @@ https://tellerstand.rdw.nl
 https://tellerstandcontroleren.rdw.nl
 https://template-bzk.staging.rijksapplicaties.nl
 https://tenaamstellingscodeaanvragen.rdw.nl
+https://tenderned.nl
 https://terraform.odc-noord.nl
 https://terrell.maps.arcgis.com
 https://terugblik.stimuleringsfonds.nl
@@ -11844,6 +11850,7 @@ https://www.taskforce-riec-brabantzeeland.nl
 https://www.ted.nationaalarchief.nl
 https://www.tegengaanradicalisering.nl
 https://www.temis.nl
+https://www.tenderned.nl
 https://www.test.kadaster.com
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.tib-ivd.nl

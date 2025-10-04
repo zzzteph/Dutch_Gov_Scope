@@ -1584,6 +1584,7 @@ acceptatie-app.mijnrijkspas.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie-calculator.aerius.nl
 acceptatie-checkjeprijs.huurcommissie.nl
+acceptatie-cloud.tenderned.nl
 acceptatie-connect.aerius.nl
 acceptatie-data.rivm.nl
 acceptatie-geneeskundig.lcms.nl
@@ -1788,6 +1789,7 @@ acceptatie.staatvenz.nl
 acceptatie.star.osiris.rivm.nl
 acceptatie.tea.bigregister.nl
 acceptatie.teebstad.rivm.nl
+acceptatie.tenderned.nl
 acceptatie.tmv.cibg.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
 acceptatie.tws-esb.rws.nl
@@ -4350,6 +4352,7 @@ cjib.huurcommissie.nl
 cjib.nl
 cjib.sitearchief.nl
 ckcc.huygens.knaw.nl
+cl-compliancetest.webservices.tenderned.nl
 clacc-mijn.rvo.nl
 claircitydata.cbs.nl
 clallam-county-portal-clallam.hub.arcgis.com
@@ -4455,6 +4458,7 @@ cms-trendrapportage.s-bb.nl
 cms-ts.farmacotherapeutischkompas.nl
 cms-tst.farmacotherapeutischkompas.nl
 cms-u-new.espacenet.com
+cms.acceptatie.tenderned.nl
 cms.afm.nl
 cms.beeldkompas.nl
 cms.bureaubiosecurity.nl
@@ -4488,6 +4492,8 @@ cms.s-bb.nl
 cms.schadedoormijnbouw.nl
 cms.staatvanhetmkb.nl
 cms.stimuleringsfonds.nl
+cms.tenderned.nl
+cms.test.tenderned.nl
 cms.tlokb.nl
 cms.werkenbij.rvo.nl
 cms1.defensie.nl
@@ -4624,6 +4630,7 @@ competentie.flevoland.nl
 competentnl.nl
 complaintform.mensenrechten.nl
 compliance.afm.nl
+compliancetest.webservices.tenderned.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
@@ -4927,6 +4934,7 @@ culverts-cmrpc.hub.arcgis.com
 curriculumontwerp.slo.nl
 curriculumvandetoekomst.slo.nl
 cursus.drop.overheid.nl
+cursus.tenderned.nl
 cursuscurriculumontwerp.slo.nl
 cursusprospectus.afm.nl
 cv-mailrelay1.overheid.nl
@@ -11342,6 +11350,7 @@ nieuws.brabant.nl
 nieuws.coa.nl
 nieuws.pianoo.nl
 nieuws.rvo.nl
+nieuws.tenderned.nl
 nieuwsbrief.autoriteitpersoonsgegevens.nl
 nieuwsbrief.examenblad.nl
 nieuwsbrief.lexces.nl
@@ -11893,6 +11902,7 @@ ontwikkel.cbs.nl
 ontwikkel.machtigen.digid.nl
 ontwikkel.nationaleenergieatlas.nl
 ontwikkel.sapgw.minienw.nl
+ontwikkel.tenderned.nl
 ontwikkel.uzipas.auth.dezi.nl
 ontwikkel.uzipas.dezi.nl
 ontwikkelserver.eerstekamer.nl
@@ -14883,6 +14893,7 @@ simpel-switchen.nl
 simplesamlidp-acc.dictu.nl
 simplesamlidp.dictu.nl
 simply-vish.github.io
+simulatie.tenderned.nl
 simulator-acc.etoegang.nl
 simulator-dev.etoegang.nl
 simulator-tst.etoegang.nl
@@ -15846,6 +15857,7 @@ tellerstandcontroleren.rdw.nl
 template-bzk.staging.rijksapplicaties.nl
 tenaamstellingscodeaanvragen.rdw.nl
 tenantapp.ec.rijkscloud.nl
+tenderned.nl
 terraform.odc-noord.nl
 terrell.maps.arcgis.com
 terugblik.stimuleringsfonds.nl
@@ -16539,6 +16551,7 @@ tva31.dans.knaw.nl
 tvep.dictu.nl
 tvnooddienst.rdw.nl
 tvs-rd.dictu.nl
+tvs-sign.tenderned.nl
 tvs.coa.nl
 tvs.dictu.nl
 tvsimulator.rdw.nl
@@ -17507,6 +17520,7 @@ webservices-deprecated.preprod.kvk.nl
 webservices-digin.belastingdienst.nl
 webservices-test2.belastingdienst.nl
 webservices-test4.belastingdienst.nl
+webservices.acceptatie.tenderned.nl
 webservices.acp.kvk.nl
 webservices.belastingdienst.nl
 webservices.bigregister.nl
@@ -17526,6 +17540,7 @@ webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
 webservices.str13.tst.belastingdienst.nl
 webservices.str30.acc.belastingdienst.nl
+webservices.tenderned.nl
 webservices.tst.kvk.nl
 webservices1.dictu.nl
 webservices11.preprod.osb.kvk.nl
@@ -17900,6 +17915,7 @@ www-b.natuurinbeeld.nederlandsesoorten.nl
 www-b.nederlandsesoorten.nl
 www-c.natuurinbeeld.nederlandsesoorten.nl
 www-c.nederlandsesoorten.nl
+www-cloud.tenderned.nl
 www-d.nederlandsesoorten.nl
 www-dev.farmacotherapeutischkompas.nl
 www-dev.gipdatabank.nl
@@ -19461,6 +19477,7 @@ www.teebstad.nl
 www.teebstad.rivm.nl
 www.tegengaanradicalisering.nl
 www.temis.nl
+www.tenderned.nl
 www.test.aquo.nl
 www.test.coronatest.nl
 www.test.cruksregister.nl
@@ -19544,6 +19561,7 @@ www.waterschaplimburg.nl
 www.wbtv-test-mendix.rvr.org
 www.web.nba.nl
 www.web1.nba.nl
+www.webservices.tenderned.nl
 www.webshop.incidentmanagement.nl
 www.wegen.brabant.nl
 www.wegwijzermensenhandel.nl
