@@ -49,15 +49,16 @@ remote
 tst
 jaarverslag
 zoeken
+cpanel
 hybrid
 publicaties
-cpanel
 a-english
 sts
 cdn
 ftp
 accept
 adfs
+webdisk
 a-feeds.a-english
 a-opendata.a-english
 enterpriseregistration
@@ -65,7 +66,6 @@ open
 dialin
 auth
 www.acc
-webdisk
 fs
 ns2
 webservices
@@ -115,6 +115,8 @@ acc-dictu
 prod-dictu
 test-dictu
 events
+cpcalendars
+cpcontacts
 geodata
 papiamentu
 adobe-analytics-dc
@@ -157,8 +159,6 @@ siam
 admin
 magazine
 matomo
-cpcalendars
-cpcontacts
 eloket
 web
 academie
@@ -832,6 +832,7 @@ webportaal
 federatie
 mededeling
 leveranciersportaal
+ipv6
 bva
 wpo
 archief-acc
@@ -12397,7 +12398,6 @@ xenapp.intern
 2019
 ews
 expeditiewaddenkust.nl
-ipv6
 wadziejij
 www.2019
 www.2020
