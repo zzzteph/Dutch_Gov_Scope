@@ -56,6 +56,7 @@ a-english
 sts
 cdn
 ftp
+accept
 adfs
 a-feeds.a-english
 a-opendata.a-english
@@ -63,7 +64,6 @@ enterpriseregistration
 open
 dialin
 auth
-accept
 www.acc
 webdisk
 fs
@@ -256,6 +256,7 @@ magazinesintern
 idm
 elo
 mail1
+cm
 hostmaster
 idp
 downloads
@@ -383,7 +384,6 @@ melding
 search
 acc-www
 www.redactie
-cm
 development
 office
 rijksoverheid
@@ -838,6 +838,8 @@ archief-acc
 acc-api
 politie
 map
+accept-cm
+commissies
 solr
 geoportal
 gisservices
@@ -13516,10 +13518,8 @@ synchronisation
 synchronisations
 tmpt-acc
 tmpt
-accept-cm
 circulaire-economie
 cmswijser
-commissies
 energieakkoord
 evenement
 mezzo

@@ -1549,6 +1549,7 @@ accdws.politie.nl
 accebms.cbs.nl
 accept-betalen.nba.nl
 accept-cm.ser.nl
+accept-cm.stvda.nl
 accept.beeldbank.gebruikercentraal.nl
 accept.commabz.nl
 accept.control.ictu.nl
@@ -1570,6 +1571,7 @@ accept.optimaaldigitaal.gebruikercentraal.nl
 accept.rechtenoverheid.nl
 accept.rotterdammer.gebruikercentraal.nl
 accept.ser.nl
+accept.stvda.nl
 accept.toolkittaal.gebruikercentraal.nl
 accept.volwassenheidsscan.gebruikercentraal.nl
 accept.web.ictu.nl
@@ -4421,6 +4423,7 @@ clusterbuster.nl
 cm.arcgis.com
 cm.chm-cbd.net
 cm.ser.nl
+cm.stvda.nl
 cma-acc.internetconsultatie.nl
 cma.internetconsultatie.nl
 cmdi.dev.huc.knaw.nl
@@ -4589,6 +4592,7 @@ commissie.kolonialecollecties.nl
 commissiecelz.nl
 commissiemijnbouwschade.nl
 commissies.ser.nl
+commissies.stvda.nl
 commissievanaanbestedingsexperts.nl
 commit2data.nl
 committee.kolonialecollecties.nl
@@ -15582,6 +15586,7 @@ studentenmonitor.nl
 studieincijfers-acc.s-bb.nl
 studieincijfers.s-bb.nl
 studio.extern.minszw.nl
+stvda.nl
 styleguide.cibg.nl
 sub.gezondekinderopvang.nl
 sub.gezondeschool.nl
@@ -19403,6 +19408,7 @@ www.sts.kansspelautoriteit.nl
 www.sts.s-bb.nl
 www.studentenmonitor.nl
 www.studieincijfers.s-bb.nl
+www.stvda.nl
 www.svb.nl
 www.swap.alterra.nl
 www.swetswise.com.access.authkb.kb.nl
