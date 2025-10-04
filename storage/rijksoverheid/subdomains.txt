@@ -10580,6 +10580,7 @@ mijn.str3.tst.belastingdienst.nl
 mijn.str30.acc.belastingdienst.nl
 mijn.str59.ont.belastingdienst.nl
 mijn.str60.ont.belastingdienst.nl
+mijn.svdj.nl
 mijn.t1.digid.nl
 mijn.t2.digid.nl
 mijn.test.kadaster.nl
@@ -15672,6 +15673,7 @@ svcalendar-acc.dnb.nl
 svcalendar-dev.dnb.nl
 svcalendar-tst.dnb.nl
 svcalendar.dnb.nl
+svdj.nl
 svk-info.rws.nl
 svk-login.rws.nl
 svmsta.dictu.nl
@@ -16573,6 +16575,7 @@ uae-air-quality-index-fcsa.hub.arcgis.com
 uag.cbs.nl
 uag.duo.nl
 uag.ncsc.nl
+uat.svdj.nl
 uaw.minszw.nl
 ubl2pdf.rijksapplicaties.nl
 ubl2pdf.staging.rijksapplicaties.nl
@@ -19436,6 +19439,7 @@ www.sustainabilitymethod.com
 www.sustainabilitymethod.eu
 www.sustainabilitymethod.nl
 www.svb.nl
+www.svdj.nl
 www.swap.alterra.nl
 www.swetswise.com.access.authkb.kb.nl
 www.symposium.keringhuis.nl
