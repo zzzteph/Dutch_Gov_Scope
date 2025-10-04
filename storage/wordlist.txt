@@ -24,8 +24,8 @@ www-acc
 feeds.english
 opendata.english
 werkenbij
-data
 link
+data
 login
 prod
 redactie
@@ -115,6 +115,7 @@ acc-dictu
 prod-dictu
 test-dictu
 events
+magazine
 cpcalendars
 cpcontacts
 geodata
@@ -159,7 +160,6 @@ geoweb
 nieuwsbrieven
 siam
 admin
-magazine
 matomo
 eloket
 web
