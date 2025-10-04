@@ -1506,6 +1506,7 @@ acc.stelselcatalogus.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie.cultureelerfgoed.nl
+acc.temis.nl
 acc.uziregister.nl
 acc.web-static.rijkswaterstaat.nl
 acc.wegwijzer.overheid.nl
@@ -17883,6 +17884,7 @@ www-acc.officielebekendmakingen.nl
 www-acc.rijksbegroting.nl
 www-acc.rijksfinancien.nl
 www-acc.schadefonds.nl
+www-acc.temis.nl
 www-acc.zorgcijfersdatabank.nl
 www-acc.zorginstituutnederland.nl
 www-acc.zorginzicht.nl
@@ -19458,6 +19460,7 @@ www.ted.nationaalarchief.nl
 www.teebstad.nl
 www.teebstad.rivm.nl
 www.tegengaanradicalisering.nl
+www.temis.nl
 www.test.aquo.nl
 www.test.coronatest.nl
 www.test.cruksregister.nl
