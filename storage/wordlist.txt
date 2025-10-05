@@ -114,6 +114,7 @@ stats
 acc-dictu
 prod-dictu
 test-dictu
+admin
 events
 magazine
 cpcalendars
@@ -159,7 +160,6 @@ repository
 geoweb
 nieuwsbrieven
 siam
-admin
 matomo
 eloket
 web
