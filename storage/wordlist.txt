@@ -31,11 +31,11 @@ prod
 redactie
 werkplek
 smtp
+app
 formulieren
 portal
 e
 dev
-app
 portaal
 sip
 connect
@@ -86,6 +86,7 @@ mail2
 www.test
 maps
 services
+old
 beeldbank
 mdm
 geo
@@ -103,7 +104,6 @@ lyncdiscover
 mx1
 aanvragen
 media
-old
 acceptatie.beheer
 static
 www-ow
@@ -398,6 +398,7 @@ sbc
 test.www
 toolkit
 inschrijven
+www.app
 fryslan
 haaglanden
 zeeland
@@ -649,6 +650,7 @@ download.mail
 dc
 accp
 apps-a
+live
 mft-acc
 mx3
 mx4
@@ -720,7 +722,6 @@ sparql
 rest
 metabase
 regio
-www.app
 inspectie-oe
 router
 rvo
@@ -833,6 +834,7 @@ oid
 edge
 osiris
 pilot
+www.old
 webportaal
 federatie
 mededeling
@@ -5274,7 +5276,6 @@ internetdienstensiam
 internetdienstensiamacc
 leerplein
 leveranciersvdi
-live
 maf-a
 maf-oh
 maf
@@ -11963,7 +11964,6 @@ server-monitoring
 site
 tekstanalyse
 www.admin
-www.old
 www.site
 netwerk
 acc-pzpdirect
@@ -14489,3 +14489,13 @@ www.topasdata
 irma.acc
 irma
 irma.tst
+20201103
+2025
+app2019
+app2020
+app2022
+www.20201103
+www.app2019
+www.app2020
+www.app2022
+www.live
