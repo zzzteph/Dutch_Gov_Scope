@@ -1464,6 +1464,9 @@ acc-cms.projects.rvo.nl
 acc-cms.rvo.nl
 acc-cms.schadedoormijnbouw.nl
 acc-consular.mfaservices.nl
+acc-correctie.tweedekamer.nl
+acc-corsa-cu.tweedekamer.nl
+acc-corsa-vvd.tweedekamer.nl
 acc-cruks.kansspelautoriteit.nl
 acc-data-exchange.consular.mfaservices.nl
 acc-dataportaal.pbl.nl
@@ -1555,6 +1558,7 @@ acc-portal2.mfaservices.nl
 acc-preview.digid.nl
 acc-probas.mfaservices.nl
 acc-protocol.mfaservices.nl
+acc-provider.tweedekamer.nl
 acc-pzpdirect.pzp.nl
 acc-raadplegen.donorregister.nl
 acc-rd.dictu.nl
@@ -1704,11 +1708,13 @@ acc.leeroverzicht.nl
 acc.lees-rijk.nl
 acc.lespakketten.derdekamer.nl
 acc.liferay.mfaservices.nl
+acc.livedebat.tweedekamer.nl
 acc.logerenbijdeboswachter.nl
 acc.login.consular.mfaservices.nl
 acc.login.odc-noord.nl
 acc.luchtvaartmeteo.nl
 acc.machtigen.digid.nl
+acc.meldingenapp.tweedekamer.nl
 acc.mercurius.sso3w.nl
 acc.metadata.stelselcatalogus.nl
 acc.mgo.irealisatie.nl
@@ -2716,6 +2722,7 @@ api.dataloop-test.dnb.nl
 api.dataloop.dnb.nl
 api.dataplatform.knmi.nl
 api.dbe-t.rvb.rijkscloud.nl
+api.debatdirect.tweedekamer.nl
 api.dementieinkaart.nl
 api.denkmee.zuid-holland.nl
 api.dev-lsp.rivm.nl
@@ -2806,6 +2813,7 @@ api.tst5.mijn.overheid.nl
 api.tst6.mijn.overheid.nl
 api.tst7.mijn.overheid.nl
 api.tst8.mijn.overheid.nl
+api.tweedekamer.nl
 api.vallei-veluwe.nl
 api.woz.acceptatie.kadaster.nl
 api.zandbak.dans.knaw.nl
@@ -2852,6 +2860,8 @@ aplbepa01.belastingdienst.nl
 aplbeqa01.belastingdienst.nl
 aplekchecker-auth.ssc-ict.nl
 aplekchecker.ssc-ict.nl
+apm-acc.tweedekamer.nl
+apm.tweedekamer.nl
 apollo.databank.nl
 apop.esb.rws.nl
 apopka.maps.arcgis.com
@@ -2965,6 +2975,7 @@ apps-a.svb.nl
 apps-dev.vechtstromen.nl
 apps-nccde.hub.arcgis.com
 apps-o.eucaris.net
+apps-ota.tweedekamer.nl
 apps-t.eucaris.net
 apps-tst.vechtstromen.nl
 apps.acceptatie.feedfoodtransfer.nl
@@ -2986,6 +2997,7 @@ apps.rivm.nl
 apps.services.acm.nl
 apps.slo.nl
 apps.svb.nl
+apps.tweedekamer.nl
 apps.vechtstromen.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
@@ -3385,6 +3397,7 @@ autodiscover.svb.nl
 autodiscover.test.knaw.nl
 autodiscover.test.rivm.nl
 autodiscover.tib-ivd.nl
+autodiscover.tweedekamer.nl
 autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
 autodiscover.webmail.politieacademie.nl
@@ -3422,6 +3435,7 @@ av2.kvk.nl
 avb.rvo.nl
 avd.datasluis.dictu.nl
 avghelpdeskzorg.nl
+avgregister.tweedekamer.nl
 avgregisterrijksoverheid.nl
 aviation.onderzoeksraad.nl
 avir.acm.nl
@@ -3891,6 +3905,7 @@ beta.politieenwetenschap.nl
 beta.resources.huygens.knaw.nl
 beta.ruimtelijkeplannen.nl
 beta.ssr.nl
+beta.tweedekamer.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
 betalen-cnf.belastingdienst.nl
@@ -3922,9 +3937,11 @@ bewegingsonderwijs.slo.nl
 bewerken-acc.bestandenpostbus.nl
 bewerken-test.bestandenpostbus.nl
 bewerken.bestandenpostbus.nl
+bewerktarchief.tweedekamer.nl
 bewustbodemgebruik.nl
 beyond-mobility-massdot.hub.arcgis.com
 bezet.belastingdienst.nl
+bezoekers.tweedekamer.nl
 bezoekerscentrum.rijkswaterstaat.nl
 bezoekerscentrum.rws.nl
 bezoekersdata.flevoland.nl
@@ -3971,9 +3988,13 @@ bi.prod.chm-cbd.net
 bi.test.chm-cbd.net
 bibliographies.brillonline.com.access.authkb.kb.nl
 bibliopolis-prd.cloudservices.kb.nl
+bibliotheek-test.tweedekamer.nl
+bibliotheek-tkw-test.tweedekamer.nl
+bibliotheek-tkw.tweedekamer.nl
 bibliotheek.gezondeleefomgeving.nl
 bibliotheek.knmi.nl
 bibliotheek.nationaalarchief.nl
+bibliotheek.tweedekamer.nl
 bibliotheekwerk.caop.nl
 bibob.kennisplatformondermijning.nl
 bics.nl
@@ -4577,6 +4598,7 @@ cdn.biotechnologie.nl
 cdn.cbs.nl
 cdn.consular.mfaservices.nl
 cdn.crimediggers.nl
+cdn.debatdirect.tweedekamer.nl
 cdn.dji.nl
 cdn.huygens.knaw.nl
 cdn.kcb.nl
@@ -5192,11 +5214,20 @@ coronavirus-response-state-college-borough-statecollegepa.hub.arcgis.com
 coronavirus-vaccine-outreach-cityoflakes.hub.arcgis.com
 coronavirus-vaccine-outreach-statelocaltryit.hub.arcgis.com
 coronavirus-vaccine-outreach-tapi.hub.arcgis.com
+correctie.tweedekamer.nl
 correctieaanvragen.e-tol.nl
 correctietenaamstellingaanvragen.rdw.nl
 correspondentie-bolland-en-cosijn.huygens.knaw.nl
 corrupt.meldknop.nl
 corsa-acpt.brabant.nl
+corsa-ambt-acc.tweedekamer.nl
+corsa-ambt.tweedekamer.nl
+corsa-cu-acc.tweedekamer.nl
+corsa-cu.tweedekamer.nl
+corsa-pno-acc.tweedekamer.nl
+corsa-pno.tweedekamer.nl
+corsa-vvd-acc.tweedekamer.nl
+corsa-vvd.tweedekamer.nl
 corsa.brabant.nl
 corsa2023.brabant.nl
 cosacovid-cosagis.hub.arcgis.com
@@ -5591,6 +5622,7 @@ datavis.tno.nl
 datavisualisatie.rivm.nl
 datavisualisatie.tno.nl
 datavisualisatieportal.nji.nl
+datavisualisaties.tweedekamer.nl
 datavoorgezondheid.nl
 datawonen.nl
 dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
@@ -5638,6 +5670,10 @@ ddi.ssc-campus.nl
 ddn21.dans.knaw.nl
 de.espacenet.com
 deafsluitdijk.nl
+debatdirect.tweedekamer.nl
+debatgemist.acceptatie.tweedekamer.nl
+debatgemist.beta.tweedekamer.nl
+debatgemist.tweedekamer.nl
 decentrale.regelgeving.overheid.nl
 decide-madrid.hub.arcgis.com
 declaree.knaw.nl
@@ -6280,6 +6316,7 @@ dpi-acc.sbr-wonen.nl
 dpi.sbr-wonen.nl
 dplockers.brabant.nl
 dpp-webservice.rijksapplicaties.nl
+dps.tweedekamer.nl
 dr-prd-apk-handboek-aw8ldacdcqe.rdw.nl
 dr-prd-cms-bqopbqsgcay.rdw.nl
 dr-prd-handboek-aw8ldacdcqe.rdw.nl
@@ -6717,6 +6754,7 @@ email.platformwow.nl
 email.tno.nl
 emailcluster.ctivd.nl
 emailsanitizer.labs.dans.knaw.nl
+emailsjablonen.tweedekamer.nl
 emailtemplates.overheid.nl
 emailwijzer.rijksapplicaties.nl
 emailwijzer.staging.rijksapplicaties.nl
@@ -6825,6 +6863,9 @@ enquete-tst.dictu.nl
 enquete.dictu.nl
 enquete.eerstekamer.nl
 enquete.rivm.nl
+enroll-ota.tweedekamer.nl
+enroll-tkmw.tweedekamer.nl
+enroll.tweedekamer.nl
 enterprise-k8s.arcgis.com
 enterprise.arcgis.com
 enterpriseenrollment.belastingdienst.nl
@@ -6872,7 +6913,9 @@ epublicatie.minienm.nl
 equal-life.eu
 equity-nyc.hub.arcgis.com
 eracceptatie.emissieregistratie.nl
+erelijst.acceptatie.tweedekamer.nl
 erelijst.nl
+erelijst.test.tweedekamer.nl
 erfgoed.databank.nl
 erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
@@ -6971,6 +7014,7 @@ eula.flevoland.nl
 eumet.knmi.nl
 eumetcal.eu
 eunethta.eu
+eunieuws.tweedekamer.nl
 eurgen-net.rivm.nl
 eurlsalmonella.eu
 euro4mvis.knmi.nl
@@ -7081,6 +7125,8 @@ exploitantonbemandeluchtvaartuigen.rdw.nl
 explore-humanitarian.hub.arcgis.com
 explorer.arcgis.com
 export.bkd.eu
+ext01.videovergaderen.tweedekamer.nl
+ext02.videovergaderen.tweedekamer.nl
 extbhr.politieacademie.nl
 extern-abv-acc.belastingdienst.nl
 extern.formulierdus-i.nl
@@ -7489,6 +7535,7 @@ files.kennisplein.intranet.minienm.nl
 files.klimaatadaptatienederland.nl
 files.logerenbijdeboswachter.nl
 files.stimuleringsfonds.nl
+files.tweedekamer.nl
 filesender.ctgb.nl
 filesender.rivm.nl
 filesender01.rivm.nl
@@ -7809,6 +7856,10 @@ gegevensdelen.tst5.mijn.overheid.nl
 gegevensdelen.tst6.mijn.overheid.nl
 gegevensdelen.tst7.mijn.overheid.nl
 gegevensdelen.tst8.mijn.overheid.nl
+gegevensmagazijn-a.tweedekamer.nl
+gegevensmagazijn-intern-a.tweedekamer.nl
+gegevensmagazijn-intern.tweedekamer.nl
+gegevensmagazijn.tweedekamer.nl
 gegevensportaal.acc.belastingdienst.nl
 gegevensportaal.belastingdienst.nl
 gegevensuitwisseling.acc.belastingdienst.nl
@@ -8117,6 +8168,7 @@ gov4nano.eu
 government.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
+govroam.tweedekamer.nl
 gp-clientless.coa.nl
 gp-infra.coa.nl
 gp-staging.coa.nl
@@ -8186,6 +8238,7 @@ groeimeter-o.cito.nl
 groeimeter-t.cito.nl
 groeimeter.cito.nl
 groenalliantiemiddenholland.nl
+groepsbezoek.tweedekamer.nl
 grondstoffenscanner.nl
 grondwaterportaal-a.hhdelfland.nl
 grondwaterportaal.hhdelfland.nl
@@ -8290,6 +8343,10 @@ han-messe.nwo.nl
 handboek.bkd.eu
 handboek.rdw.nl
 handboek.toeslagen.nl
+handboekdao.tweedekamer.nl
+handboekgc-acc.tweedekamer.nl
+handboekgc.tweedekamer.nl
+handboekgpbw-acc.tweedekamer.nl
 handelaarskentekenaanvragen.rdw.nl
 handelingenbank.info
 handelsmissies.rvo.nl
@@ -8398,6 +8455,7 @@ hogeraad.sitearchief.nl
 hogeraadvanadel.nl
 hogeredenkvaardigheden.slo.nl
 holland-rijnland.databank.nl
+hollandfit.tweedekamer.nl
 hollandrijnland.leerwerkloket.nl
 home.nba.nl
 homepage-lasallecoil.hub.arcgis.com
@@ -8415,7 +8473,9 @@ hostmaster.sbr-wonen.nl
 hostmaster.summerschool2023.nl
 hotnews.maps.arcgis.com
 houdmisdaaduitjebuurt.nl
+houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.nl
+houseofrepresentatives.test.tweedekamer.nl
 hp-01.huc.knaw.nl
 hpb.cerl.org.access.authkb.kb.nl
 hpma-backend-staging.excite.tno.nl
@@ -8457,6 +8517,7 @@ huisstijl.coa.nl
 huisstijl.kadaster.nl
 huisstijl.sbcm.nl
 huisstijlportaal.kb.nl
+huisstijlsjablonen.tweedekamer.nl
 huisvoorklokkenluiders.nl
 hulpmiddelen.farmatec.nl
 humanities.knaw.nl
@@ -8520,6 +8581,7 @@ iam.odc-noord.nl
 iam.rdi.nl
 iam.rijkswaterstaat.nl
 iam.staging.ndw.nu
+iam.tweedekamer.nl
 iamcdocumentation.eu
 ias-cloud.tno.nl
 iati-test2.platformrijksoverheidonline.nl
@@ -8759,6 +8821,7 @@ ingelogd.acc.mijnslachtofferzaak.nl
 ingelogd.acc.staging.mijnslachtofferzaak.nl
 ingelogd.mijnslachtofferzaak.nl
 ingelogd.staging.mijnslachtofferzaak.nl
+ingest.acc.livedebat.tweedekamer.nl
 inhuurdeskpolitie.nl
 inkijk.demo.bkwi.nl
 inkijkmail1.bkwi.nl
@@ -8949,6 +9012,7 @@ inweva.ndw.nu
 inzageverzoekpersoonsgegevensindienen.rdw.nl
 inzenden.knawonderwijsprijs.nl
 inzichten.platformrijksoverheidonline.nl
+io.debatdirect.tweedekamer.nl
 iob-evaluatie.nl
 iob.justid.nl
 iodk.vm-02.azure.grid.rws.nl
@@ -9105,6 +9169,7 @@ jenkins.devops.rvb.rijkscloud.nl
 jenkins.koopvm.rijkscloud.nl
 jenkins.red.huygens.knaw.nl
 jenkins.rijkscloud.nl
+jenkins.tweedekamer.nl
 jenkins.vm-02.azure.grid.rws.nl
 jenvacademie.nl
 jenvbredewerkagenda.nl
@@ -9143,6 +9208,7 @@ jobs.werkenvoornederland.nl
 join.odijmond.nl
 join.rechtspraak.nl
 join.ssr.nl
+join.videovergaderen.tweedekamer.nl
 jokesmitprijs.nl
 jong.belastingdienst.nl
 jongekind.slo.nl
@@ -9273,6 +9339,7 @@ kafka-ui.kafka.test.vm-04.azure.grid.rws.nl
 kaiachain.github.io
 kamerindeklas.nl
 kamervoordebinnenvisserij.nl
+kana.tweedekamer.nl
 kangaroo.acceptatie.pdok.nl
 kansrijkestartnl.nl
 kansspelautoriteit.nl
@@ -9744,6 +9811,7 @@ klimaateffectatlas.rijkswaterstaat.nl
 klimaatmonitor.databank.nl
 klimaatscenarios-data.knmi.nl
 klinieken.donorgegevens.nl
+klinkendetaal.tweedekamer.nl
 klk.rijksapplicaties.nl
 klk.staging.rijksapplicaties.nl
 klopt.cibg.nl
@@ -9838,6 +9906,9 @@ kta.ozon.dso.kadaster.nl
 ktv-servicedesk.ciz.nl
 kunstcultuur.slo.nl
 kunstzinnigeorientatie.slo.nl
+kva-acc.tweedekamer.nl
+kva-tst.tweedekamer.nl
+kva.tweedekamer.nl
 kvk.nl
 kvk.o.extern.minszw.nl
 kvkdata.kvk.nl
@@ -10000,6 +10071,7 @@ leveranciersportaal.rijksapplicaties.nl
 leveranciersportaal.staging.rijksapplicaties.nl
 leveranciersvdi.svb.nl
 lexces.nl
+lexis.tweedekamer.nl
 lfucg.maps.arcgis.com
 lhc2024.minjenv-events.nl
 li.espacenet.com
@@ -10029,7 +10101,9 @@ liferay.mfaservices.nl
 lifetime.tno.nl
 lightning.aerius.nl
 lij.jeugdconnect.nl
+lijstvangevallenen.acceptatie.tweedekamer.nl
 lijstvangevallenen.nl
+lijstvangevallenen.test.tweedekamer.nl
 lika-basispoort.cito.nl
 lil.cultureelerfgoed.nl
 limburg.databank.nl
@@ -10097,6 +10171,14 @@ live.web8.rijkswaterstaat.nl
 live.werkenbij.rijkswaterstaat.nl
 livecharts.cbs.nl
 livechat.pzp.nl
+livedebat.tweedekamer.nl
+livestreaming-thumb.b67.tweedekamer.nl
+livestreaming-thumb.b67buv2.tweedekamer.nl
+livestreaming-thumb.b67v2.tweedekamer.nl
+livestreaming.b67.tweedekamer.nl
+livestreaming.b67acc.tweedekamer.nl
+livestreaming.b67buv2.tweedekamer.nl
+livestreaming.b67v2.tweedekamer.nl
 livingatlas.arcgis.com
 livingstone.maps.arcgis.com
 livra.bics.nl
@@ -10215,6 +10297,7 @@ login.ssc-campus.nl
 login.t1.digid.nl
 login.t2.digid.nl
 login.test.kb.nl
+login.tweedekamer.nl
 login.vechtstromen.nl
 loginsso.politieacademie.nl
 logintest.hetcak.nl
@@ -10796,6 +10879,7 @@ mdm.justid.nl
 mdm.om.nl
 mdm.pbl.nl
 mdm.politie.nl
+mdm.tweedekamer.nl
 mdm.zwb.riec.nl
 mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
@@ -10865,6 +10949,7 @@ meldingbwt.odmh.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
 meldingen.klopt.cibg.nl
+meldingenapp.tweedekamer.nl
 meldingrijbewijscontrole.rdw.nl
 meldingwd.odmh.nl
 meldknop.nl
@@ -11098,6 +11183,7 @@ mijn.test.lcms.nl
 mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
+mijn.tweedekamer.nl
 mijn.zorgaanbiedersportaal.nl
 mijn.zuid-holland.nl
 mijn2-ontw.s-bb.nl
@@ -11679,6 +11765,7 @@ myk.cloud.kadaster.nl
 mysharebox.skc-oc.org
 mysite-acc.belastingdienst.nl
 mysite.belastingdienst.nl
+mysite.tweedekamer.nl
 mysites-conf.belastingdienst.nl
 mysites.belastingdienst.nl
 mysites.hhdelfland.nl
@@ -12331,6 +12418,7 @@ omvc.tsn.tno.nl
 omvc4.tsn.tno.nl
 omz.databank.nl
 onbeperkttoegankelijk.nl
+onbewerktarchief.tweedekamer.nl
 onboarding.acc.belastingdienst.nl
 onboarding.belastingdienst.nl
 onderhoud.cbs.nl
@@ -12373,6 +12461,7 @@ onderzoek.politie.nl
 onderzoek.rdi.nl
 onderzoek.s-bb.nl
 onderzoek.svb.nl
+onderzoek.tweedekamer.nl
 onderzoek.wegwijzer.overheid.nl
 onderzoek2.cbs.nl
 onderzoekinzesstappen.slo.nl
@@ -12405,6 +12494,8 @@ ont.live.rijkswaterstaat.nl
 ont.live.werkenbij.rijkswaterstaat.nl
 ont.staging.rijkswaterstaat.nl
 ont.staging.werkenbij.rijkswaterstaat.nl
+ontdek.test.tweedekamer.nl
+ontdek.tweedekamer.nl
 ontdekdezorg.nl
 ontheffingaanvragen.e-tol.nl
 ontheffingaanvragen.rdw.nl
@@ -12477,6 +12568,7 @@ openbaar.haaglanden.databank.nl
 openbaar.waves.databank.nl
 openbaarministerie.nl
 openbare-inspectieresultaten.nvwa.nl
+openbare-tzr.tweedekamer.nl
 opendap-dm1.knmi.nl
 opendap-dm2.knmi.nl
 opendap.knmi.nl
@@ -12490,6 +12582,8 @@ opendata-tourcoingcarto.hub.arcgis.com
 opendata-townofchapelhill.hub.arcgis.com
 opendata-unionoh.hub.arcgis.com
 opendata-westspringfield.hub.arcgis.com
+opendata-wiki.tweedekamer.nl
+opendata.acceptatie.tweedekamer.nl
 opendata.acp.business.gov.nl
 opendata.acp.kvk.nl
 opendata.acp.ondernemersplein.nl
@@ -12695,6 +12789,7 @@ opendata.staatsexamensnt2.nl
 opendata.startmetoesorichtlijnen.nl
 opendata.stelselcatalogus.nl
 opendata.strafrechtketen.nl
+opendata.test.tweedekamer.nl
 opendata.tib-ivd.nl
 opendata.tlokb.nl
 opendata.toegangspuntmobiliteit.nl
@@ -12706,6 +12801,7 @@ opendata.topcorridors.nl
 opendata.topsectoren.nl
 opendata.transitieproefdiervrijeinnovatie.nl
 opendata.tuchtcollege-gezondheidszorg.nl
+opendata.tweedekamer.nl
 opendata.uitelkaarmetkinderen.nl
 opendata.uitvoeringvanbeleidszw.nl
 opendata.uziregister.nl
@@ -12798,6 +12894,9 @@ opwegnaarzes.nl
 or.acceptatie.kadaster.nl
 or.kadaster.nl
 orac.test.gf.irealisatie.nl
+oracle-financials-acc.tweedekamer.nl
+oracle-financials-ontw.tweedekamer.nl
+oracle-financials.tweedekamer.nl
 oracleoem21.knaw.nl
 orangecorners.com
 oranjehotel.nationaalarchief.nl
@@ -12955,6 +13054,7 @@ p-crl.justid.nl
 p-direkt.minbzk.nl
 p-direkt.nl
 p-direkt.sitearchief.nl
+p-direkt.tweedekamer.nl
 p.knawonderwijsprijs.nl
 p14-vws.rijksapplicaties.nl
 p14-vws.staging.rijksapplicaties.nl
@@ -13002,6 +13102,7 @@ paragon-prd.hetcak.nl
 paragon-tst.hetcak.nl
 parked.rdw.nl
 parlement.nl
+parlisweb.tweedekamer.nl
 parsr.labs.dans.knaw.nl
 participantapi.postcovidonderzoek.nl
 participantapi.vragenlijst-acc.rivm.nl
@@ -13248,6 +13349,7 @@ pc97.fa.knaw.nl
 pc98.fa.knaw.nl
 pc99.fa.knaw.nl
 pda.politieacademie.nl
+pdc-griffiescommissies-dienstanalyseenonderzoek.tweedekamer.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
@@ -13505,6 +13607,7 @@ planmer-acc.zuid-holland.nl
 planmer-test.zuid-holland.nl
 planmer.zuid-holland.nl
 planning.jauco.playground.di.huc.knaw.nl
+planon-live.tweedekamer.nl
 planon.acc.belastingdienst.nl
 planon.dnb.nl
 planonprod.vallei-veluwe.nl
@@ -13526,6 +13629,10 @@ plato.dictu.nl
 playground.commabz.nl
 playground.stelselcatalogus.nl
 pld.chadwyck.co.uk.access.authkb.kb.nl
+plein2-acc.tweedekamer.nl
+plein2-parlementair.test.tweedekamer.nl
+plein2-test.tweedekamer.nl
+plein2.tweedekamer.nl
 pleinplus.kb.nl
 pleio-test.belastingdienst.nl
 pleio.belastingdienst.nl
@@ -13545,6 +13652,7 @@ pls.cloud.kadaster.nl
 pls.kadaster.nl
 pls.test.cloud.kadaster.nl
 pls.test.kadaster.nl
+plus.debatdirect.tweedekamer.nl
 pm-acc.belastingdienst.nl
 pm-bounces.ndw.nu
 pm-ont.belastingdienst.nl
@@ -14193,6 +14301,7 @@ pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 pwdreset.onderzoeksraad.nl
 pwik.datawonen.nl
+pwk.tweedekamer.nl
 pwreset.ictu.nl
 px-dmz-1.onlinezitting.rechtspraak.nl
 px-dmz-10.onlinezitting.rechtspraak.nl
@@ -14295,6 +14404,8 @@ rally.gn3.rijkscloud.nl
 rancher.facet.rijkscloud.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
+rapportaardgaswinning.tweedekamer.nl
+rapportaardgaswinninggroningen.tweedekamer.nl
 rapportage-mijn.s-bb.nl
 rapportage.etoegang.nl
 rapportagecvvo-a.cito.nl
@@ -14699,6 +14810,7 @@ rijdata.cbr.nl
 rijkcirculair.nl
 rijkewaddenzee.nl
 rijksacademie.nl
+rijksadresgids.tweedekamer.nl
 rijksapplicaties.nl
 rijksbegroting.nl
 rijksbeveiligingsportaal.rijksapplicaties.nl
@@ -14743,6 +14855,7 @@ rijkspasocsp1-acc.extranet.dictu.nl
 rijkspasocsp1.extranet.dictu.nl
 rijkspasocsp2-acc.dictu.nl
 rijkspasocsp2.dictu.nl
+rijksportaal.tweedekamer.nl
 rijksrecherche.nl
 rijksschoonmaak.nl
 rijkstrainee.werkenvoornederland.nl
@@ -15072,6 +15185,7 @@ samenwerkruimten-intern-acc.belastingdienst.nl
 samenwerkruimten-intern-conf.belastingdienst.nl
 samenwerkruimten-intern.belastingdienst.nl
 samenwerkruimten.belastingdienst.nl
+samenwerkruimten.tweedekamer.nl
 saml-sign-olas10978.ont.belastingdienst.nl
 saml-sign-rv-pp1.belastingdienst.nl
 saml.herseninstituut.knaw.nl
@@ -15256,6 +15370,9 @@ sduwt.politieacademie.nl
 sdvnl31.dans.knaw.nl
 se-i.espacenet.com
 se.espacenet.com
+search-acc.tweedekamer.nl
+search-prod.tweedekamer.nl
+search-test.tweedekamer.nl
 search.acp.business.gov.nl
 search.acp.kvk.nl
 search.aerius.nl
@@ -15264,6 +15381,7 @@ search.developer.overheid.nl
 search.ebscohost.com.access.authkb.kb.nl
 search.nvao.net
 search.rivm.nl
+search.tweedekamer.nl
 seb.ibki.nl
 sec01.dans.knaw.nl
 secform.tno.nl
@@ -15365,6 +15483,7 @@ service.pre.omgevingswet.overheid.nl
 service.skal.nl
 service.test.pdok.nl
 service.tst2905.omgevingswet.overheid.nl
+service.tweedekamer.nl
 service1-cto.kadaster.nl
 service1.digid.nl
 service10.acceptatie.kadaster.nl
@@ -15404,6 +15523,7 @@ services-mijn-test2.s-bb.nl
 services-preprod.ep-online.nl
 services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
+services.b67.tweedekamer.nl
 services.belastingdienst.nl
 services.burgernet.nl
 services.cultureelerfgoed.nl
@@ -15417,6 +15537,7 @@ services1.domeinenrz.nl
 services7.arcgis.com
 servicesa.kb.nl
 servicest.kb.nl
+sesam-acc.tweedekamer.nl
 setuppw.ictu.nl
 seveso-plus.nl
 sf-aaa.dictu.nl
@@ -15463,6 +15584,7 @@ share.biedboek.nl
 share.cvte.nl
 share.test-nieuw.bidbook.eu
 share.test-nieuw.biedboek.nl
+share.tweedekamer.nl
 shared-services.ndw.nu
 shared-services.staging.ndw.nu
 sharedservices-mijn-test2.s-bb.nl
@@ -15591,6 +15713,7 @@ sip.rijksrecherche.nl
 sip.rvig.nl
 sip.s-bb.nl
 sip.vico.dji.nl
+sip.videovergaderen.tweedekamer.nl
 sip001.justid.nl
 sip002.justid.nl
 sip01.rechtspraak.nl
@@ -16156,6 +16279,7 @@ stats.acc.mgo.irealisatie.nl
 stats.aladdin.p-direkt.nl
 stats.dans.knaw.nl
 stats.datascience.rijkscloud.nl
+stats.debatdirect.tweedekamer.nl
 stats.duo.rijkscloud.nl
 stats.globalentry-rtp.nl
 stats.hogeraad.nl
@@ -16170,6 +16294,7 @@ stats.test.zm.irealisatie.nl
 status-acceptatie.rijkscloud.nl
 status-page.rvr.org
 status.cbs.nl
+status.debatdirect.tweedekamer.nl
 status.gn3.rijkscloud.nl
 status.kvk.nl
 status.location.arcgis.com
@@ -16244,6 +16369,8 @@ strafdossiermh17.acc.om.nl
 strafdossiermh17.om.nl
 strafrechtketen.nl
 strategicpriorities-newmarket.hub.arcgis.com
+stream-share.debatdirect.tweedekamer.nl
+stream.debatdirect.tweedekamer.nl
 stream01.bureau.knaw.nl
 streaming.ssr.nl
 streefbeelden.pagw.nl
@@ -16260,6 +16387,8 @@ sts.rdw.nl
 sts.rechtspraak.nl
 sts.rvr.org
 sts.s-bb.nl
+sts.test.tweedekamer.nl
+sts.tweedekamer.nl
 stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
 stturn1-tst.belastingdienst.nl
@@ -16488,6 +16617,7 @@ te205vcciw12f.dmzota.ont.belastingdienst.nl
 tea.bigregister.nl
 teamcity.dev.huc.knaw.nl
 teams.hhdelfland.nl
+teamsites.tweedekamer.nl
 teamstest.hhdelfland.nl
 techniekacademie.rijkswaterstaat.nl
 technische-documentatie.oep.overheid.nl
@@ -16739,6 +16869,7 @@ test.lma.rws.nl
 test.lml.rivm.nl
 test.lmm.rivm.nl
 test.loketgezondleven.nl
+test.meldingenapp.tweedekamer.nl
 test.meldpuntbodemkwaliteit.nl
 test.metspoedbeschikbaar.nl
 test.mgo.irealisatie.nl
@@ -16832,6 +16963,7 @@ test300.dictu.nl
 testacm.skal.nl
 testadminpure.knaw.nl
 testapi.ix.rijkscloud.nl
+testapi.tweedekamer.nl
 testapp.devops.rvb.rijkscloud.nl
 testauthentication.di.huc.knaw.nl
 testbegrippen.hdsr.nl
@@ -17060,6 +17192,8 @@ topas-nl.tno.nl
 topas.tno.nl
 topasdata.tno.nl
 topcorridors.nl
+topdesk-da.tweedekamer.nl
+topdesk-dia.tweedekamer.nl
 topdesk-iv.rijkswaterstaat.nl
 topdesk-iv.rws.nl
 topdesk-reach-acc.rivm.nl
@@ -17262,9 +17396,13 @@ tvs.coa.nl
 tvs.dictu.nl
 tvsimulator.rdw.nl
 tweb11.dans.knaw.nl
+tweedekamer-d8.acceptatie.tweedekamer.nl
 tweedekamer-ota.parlement.nl
+tweedekamer.acceptatie.tweedekamer.nl
+tweedekamer.nl
 tweedekamer.parlement.nl
 tweedekamer.sitearchief.nl
+tweedekamer.test.tweedekamer.nl
 twente.leerwerkloket.nl
 twente.lerenenwerken.nl
 twister21.dans.knaw.nl
@@ -17294,6 +17432,7 @@ tzpubliekscontact-acc.dnb.nl
 tzpubliekscontact-dev.dnb.nl
 tzpubliekscontact-tst.dnb.nl
 tzpubliekscontact.dnb.nl
+tzr.tweedekamer.nl
 ua.e-depot-ted.nationaalarchief.nl
 uae-air-quality-index-fcsa.hub.arcgis.com
 uag.cbs.nl
@@ -17471,6 +17610,7 @@ validator.ruimtelijkeplannen.nl
 validator.test.ruimtelijkeplannen.nl
 validsign.tno.nl
 vallei-veluwe.nl
+vandale.tweedekamer.nl
 vangbuitenshuis.nl
 vangogh.dev.huc.knaw.nl
 vaoa.politie.nl
@@ -17580,6 +17720,7 @@ verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
 vereijck.huygens.knaw.nl
 vergader.hogeraad.nl
+vergaderapp.tweedekamer.nl
 vergaderen.belastingdienst.nl
 vergaderen.s-bb.nl
 vergelijkingskaart.afm.nl
@@ -17630,6 +17771,7 @@ via-i.rijksapplicaties.nl
 via-i.staging.rijksapplicaties.nl
 via.rijksapplicaties.nl
 via.staging.rijksapplicaties.nl
+via.tweedekamer.nl
 via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 viaany.vechtstromen.nl
@@ -17653,6 +17795,7 @@ videoplatform.cbs.nl
 videos.cbs.nl
 videoserver.brabant.nl
 videoserver2.brabant.nl
+videovergaderen.tweedekamer.nl
 viep.acc.brba.nl
 viep.brba.nl
 viep.test.brba.nl
@@ -17671,6 +17814,8 @@ vin-beheer.rdw.nl
 vin.rdw.nl
 vinden.belastingdienst.nl
 vindjeplek-app.rivm.nl
+vip-acc.tweedekamer.nl
+vip2.tweedekamer.nl
 virtour.rijksacademie.nl
 virtueel.zuid-holland.nl
 visieopidentiteit.digitaleoverheid.nl
@@ -17683,6 +17828,8 @@ visualisatieservice.cito.nl
 vitaal.matroos.rijkswaterstaat.nl
 vitaal.matroos.rws.nl
 vite.dev.fib.ienw.rijkscloud.nl
+viv-acc.tweedekamer.nl
+viv.tweedekamer.nl
 vivet.databank.nl
 viya.rijkswaterstaat.nl
 viz.ndw.nu
@@ -17927,6 +18074,7 @@ waardelijsten.dcat-ap-donl.nl
 waarderingskamer.sitearchief.nl
 wabinfo.rijkswaterstaat.nl
 wabinfo.rws.nl
+wachtrij.tweedekamer.nl
 wachttijden.nza.nl
 wachtwoord.brabant.nl
 wachtwoord.cultuurparticipatie.nl
@@ -18317,6 +18465,7 @@ werken.rekenkamer.nl
 werken.toeslagen.nl
 werkenaanonspensioen.nl
 werkenbij.acceptatie.nipv.nl
+werkenbij.acceptatie.tweedekamer.nl
 werkenbij.api.rijkswaterstaat.nl
 werkenbij.belastingdienst.nl
 werkenbij.coa.nl
@@ -18339,8 +18488,10 @@ werkenbij.rvo.nl
 werkenbij.rws.nl
 werkenbij.skal.nl
 werkenbij.staatsbosbeheer.nl
+werkenbij.test.tweedekamer.nl
 werkenbij.tno.nl
 werkenbij.toeslagen.nl
+werkenbij.tweedekamer.nl
 werkenbijde.nza.nl
 werkenbijdeeu.nl
 werkenbijderaadvanstate.nl
@@ -18503,6 +18654,7 @@ wolf.secure.cito.nl
 wolk.hogeraad.nl
 wom.espacenet.com
 wonen.databank.nl
+woningcorporaties.tweedekamer.nl
 woo-dashboards.overheid.nl
 woo-formulier.rijksoverheid.nl
 woo-verzoeken.cvdm.nl
@@ -19841,6 +19993,7 @@ www.onderwijsinderegioincijfers.nl
 www.onderwijsinspectie.nl
 www.onderwijsraad.nl
 www.onderwijsregio.nl
+www.onderzoek.tweedekamer.nl
 www.onderzoekinzesstappen.slo.nl
 www.onderzoekmetmensen.nl
 www.onderzoeksraad.nl
@@ -20272,6 +20425,7 @@ www.tst-rds.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tuchtcollege-gezondheidszorg.nl
 www.tvs.dictu.nl
+www.tweedekamer.nl
 www.two-acs.com
 www.typened-mrsa.rivm.nl
 www.uem.onderzoeksraad.nl
@@ -20451,6 +20605,7 @@ zaaksysteem.odmh.nl
 zaaksysteem.rijkswaterstaat.nl
 zaaksysteem.vechtstromen.nl
 zaaksysteem.zuid-holland.nl
+zaalreserveringen.tweedekamer.nl
 zaanstreekwaterland.leerwerkloket.nl
 zabbix.cultuurparticipatie.nl
 zabbix6.mintst2.rijkscloud.nl
@@ -20507,6 +20662,7 @@ zoeken.ondernemersplein.overheid.nl
 zoeken.registersocialehygiene.nl
 zoeken.schoolleidersregisterpo.nl
 zoeken.tst.kvk.nl
+zoeken.tweedekamer.nl
 zoeken.werkenaanonspensioen.nl
 zoeken.zorgaanbiedersportaal.nl
 zoeken1.acp.kvk.nl

@@ -129,6 +129,7 @@ http://appl.rdi.nl
 http://applications-acc.globalentry-rtp.nl
 http://applications.globalentry-rtp.nl
 http://apps.rivm.nl
+http://apps.tweedekamer.nl
 http://aptikom-riau-smartcommunity.hub.arcgis.com
 http://arcgis-natgeo-home-learngis.hub.arcgis.com
 http://archief.zuid-holland.nl
@@ -534,6 +535,7 @@ http://mijn.adr.donorregister.nl
 http://mijn.leeroverzicht.nl
 http://mijn.logerenbijdeboswachter.nl
 http://mijn.nvao.net
+http://mijn.tweedekamer.nl
 http://mijn.zuid-holland.nl
 http://mijnloonstrook.knaw.nl
 http://mijnmobiel.nba.nl
@@ -1640,6 +1642,8 @@ https://acc-bergerselect.rws.nl
 https://acc-cms.projecten.rvo.nl
 https://acc-cms.projects.rvo.nl
 https://acc-cms.rvo.nl
+https://acc-corsa-cu.tweedekamer.nl
+https://acc-corsa-vvd.tweedekamer.nl
 https://acc-ddapi-wkp.rws.nl
 https://acc-diamonds.tno.nl
 https://acc-dictu.comcms.logius.nl
@@ -1765,6 +1769,7 @@ https://acc.liferay.mfaservices.nl
 https://acc.login.consular.mfaservices.nl
 https://acc.login.odc-noord.nl
 https://acc.luchtvaartmeteo.nl
+https://acc.meldingenapp.tweedekamer.nl
 https://acc.mercurius.sso3w.nl
 https://acc.mijn.pzp.nl
 https://acc.mijnslachtofferzaak.nl
@@ -2351,6 +2356,7 @@ https://api.dataloop-test.dnb.nl
 https://api.dataloop.dnb.nl
 https://api.dataplatform.knmi.nl
 https://api.dbe-t.rvb.rijkscloud.nl
+https://api.debatdirect.tweedekamer.nl
 https://api.dementieinkaart.nl
 https://api.denkmee.zuid-holland.nl
 https://api.dev-lsp.rivm.nl
@@ -2426,6 +2432,8 @@ https://apitraffic-acc.dictu.nl
 https://apk-handboek-oe6eduhgwvm.rdw.nl
 https://apk-handboek.rdw.nl
 https://apkl.huisvoorklokkenluiders.nl
+https://apm-acc.tweedekamer.nl
+https://apm.tweedekamer.nl
 https://apopka.maps.arcgis.com
 https://apos-int.erp.kadaster.nl
 https://apos.erp.kadaster.nl
@@ -2715,6 +2723,7 @@ https://autoriteitpersoonsgegevens.nl
 https://autorization.entreepgb.svb.nl
 https://avd.datasluis.dictu.nl
 https://avghelpdeskzorg.nl
+https://avgregister.tweedekamer.nl
 https://avgregisterrijksoverheid.nl
 https://aws.rdw.nl
 https://awti.nl
@@ -2992,8 +3001,10 @@ https://bevolkingsprognose2020.brabant.nl
 https://bewegingsonderwijs.slo.nl
 https://bewerken-acc.bestandenpostbus.nl
 https://bewerken.bestandenpostbus.nl
+https://bewerktarchief.tweedekamer.nl
 https://bewustbodemgebruik.nl
 https://beyond-mobility-massdot.hub.arcgis.com
+https://bezoekers.tweedekamer.nl
 https://bezoekerscentrum.rijkswaterstaat.nl
 https://bezoekerscentrum.rws.nl
 https://bezoekersdata.flevoland.nl
@@ -3018,8 +3029,12 @@ https://bi.chm-cbd.net
 https://bi.test.chm-cbd.net
 https://bibliographies.brillonline.com.access.authkb.kb.nl
 https://bibliopolis-prd.cloudservices.kb.nl
+https://bibliotheek-test.tweedekamer.nl
+https://bibliotheek-tkw-test.tweedekamer.nl
+https://bibliotheek-tkw.tweedekamer.nl
 https://bibliotheek.knmi.nl
 https://bibliotheek.nationaalarchief.nl
+https://bibliotheek.tweedekamer.nl
 https://bibliotheekwerk.caop.nl
 https://bibob.kennisplatformondermijning.nl
 https://bics.nl
@@ -3340,6 +3355,7 @@ https://cdn-mediaprogram.maps.arcgis.com
 https://cdn.cbs.nl
 https://cdn.consular.mfaservices.nl
 https://cdn.crimediggers.nl
+https://cdn.debatdirect.tweedekamer.nl
 https://cdn.huygens.knaw.nl
 https://cdn.kcb.nl
 https://cdn.klopt.cibg.nl
@@ -3718,11 +3734,20 @@ https://coronavirus-response-state-college-borough-statecollegepa.hub.arcgis.com
 https://coronavirus-vaccine-outreach-cityoflakes.hub.arcgis.com
 https://coronavirus-vaccine-outreach-statelocaltryit.hub.arcgis.com
 https://coronavirus-vaccine-outreach-tapi.hub.arcgis.com
+https://correctie.tweedekamer.nl
 https://correctieaanvragen.e-tol.nl
 https://correctietenaamstellingaanvragen.rdw.nl
 https://correspondentie-bolland-en-cosijn.huygens.knaw.nl
 https://corrupt.meldknop.nl
 https://corsa-acpt.brabant.nl
+https://corsa-ambt-acc.tweedekamer.nl
+https://corsa-ambt.tweedekamer.nl
+https://corsa-cu-acc.tweedekamer.nl
+https://corsa-cu.tweedekamer.nl
+https://corsa-pno-acc.tweedekamer.nl
+https://corsa-pno.tweedekamer.nl
+https://corsa-vvd-acc.tweedekamer.nl
+https://corsa-vvd.tweedekamer.nl
 https://corsa.brabant.nl
 https://corsa2023.brabant.nl
 https://cosacovid-cosagis.hub.arcgis.com
@@ -3974,6 +3999,7 @@ https://dataverse-mapper.labs.dans.knaw.nl
 https://datavisualisatie.rivm.nl
 https://datavisualisatie.tno.nl
 https://datavisualisatieportal.nji.nl
+https://datavisualisaties.tweedekamer.nl
 https://datavoorgezondheid.nl
 https://dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
 https://datumprikker.belastingdienst.nl
@@ -3998,6 +4024,9 @@ https://dcypher.nl
 https://ddapi-wkp.rws.nl
 https://ddd.test.cloud.kadaster.nl
 https://deafsluitdijk.nl
+https://debatdirect.tweedekamer.nl
+https://debatgemist.acceptatie.tweedekamer.nl
+https://debatgemist.tweedekamer.nl
 https://decentrale.regelgeving.overheid.nl
 https://decide-madrid.hub.arcgis.com
 https://declaree.knaw.nl
@@ -4622,6 +4651,7 @@ https://email.cito.nl
 https://email.platformwow.nl
 https://email.tno.nl
 https://emailsanitizer.labs.dans.knaw.nl
+https://emailsjablonen.tweedekamer.nl
 https://emailtemplates.overheid.nl
 https://emailwijzer.rijksapplicaties.nl
 https://emailwijzer.staging.rijksapplicaties.nl
@@ -4704,6 +4734,7 @@ https://english.wrr.nl
 https://english.zorginstituutnederland.nl
 https://enlets.politie.nl
 https://enquete.eerstekamer.nl
+https://enroll-tkmw.tweedekamer.nl
 https://enterprise-k8s.arcgis.com
 https://enterprise.arcgis.com
 https://enterpriseenrollment.belastingdienst.nl
@@ -4734,7 +4765,9 @@ https://epmm.acpt.autoriteitpersoonsgegevens.nl
 https://epmm.autoriteitpersoonsgegevens.nl
 https://equal-life.eu
 https://equity-nyc.hub.arcgis.com
+https://erelijst.acceptatie.tweedekamer.nl
 https://erelijst.nl
+https://erelijst.test.tweedekamer.nl
 https://erfgoed.databank.nl
 https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
@@ -5297,6 +5330,7 @@ https://gegevensbijbesluiten-concept.overheid.nl
 https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
+https://gegevensmagazijn.tweedekamer.nl
 https://gegevensportaal.belastingdienst.nl
 https://geheugen-cms.kb.nl
 https://geheugen.delpher.nl
@@ -5464,6 +5498,7 @@ https://gouverneuraruba.com
 https://gouverneurcuracao.com
 https://gov4nano.eu
 https://government.nl
+https://govroam.tweedekamer.nl
 https://gp-infra.coa.nl
 https://gp-staging.coa.nl
 https://gp.coa.nl
@@ -5506,6 +5541,7 @@ https://groeimeter-o.cito.nl
 https://groeimeter-t.cito.nl
 https://groeimeter.cito.nl
 https://groenalliantiemiddenholland.nl
+https://groepsbezoek.tweedekamer.nl
 https://grondstoffenscanner.nl
 https://grondwaterportaal-a.hhdelfland.nl
 https://grondwaterportaal.hhdelfland.nl
@@ -5538,6 +5574,10 @@ https://han-demo.chm-cbd.net
 https://handboek.bkd.eu
 https://handboek.rdw.nl
 https://handboek.toeslagen.nl
+https://handboekdao.tweedekamer.nl
+https://handboekgc-acc.tweedekamer.nl
+https://handboekgc.tweedekamer.nl
+https://handboekgpbw-acc.tweedekamer.nl
 https://handelaarskentekenaanvragen.rdw.nl
 https://handelingenbank.info
 https://handhaving.vrachtwagenheffing.nl
@@ -5617,6 +5657,7 @@ https://hogeraad.nl
 https://hogeraad.sitearchief.nl
 https://hogeraadvanadel.nl
 https://hogeredenkvaardigheden.slo.nl
+https://hollandfit.tweedekamer.nl
 https://hollandrijnland.leerwerkloket.nl
 https://homepage-lasallecoil.hub.arcgis.com
 https://honolulu-cchnl.opendata.arcgis.com
@@ -5630,7 +5671,9 @@ https://hostmaster.sbr-wonen.nl
 https://hostmaster.summerschool2023.nl
 https://hotnews.maps.arcgis.com
 https://houdmisdaaduitjebuurt.nl
+https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.nl
+https://houseofrepresentatives.test.tweedekamer.nl
 https://hp-01.huc.knaw.nl
 https://hpb.cerl.org.access.authkb.kb.nl
 https://hpma-backend-staging.excite.tno.nl
@@ -5666,6 +5709,7 @@ https://huisstijl.belastingdienst.nl
 https://huisstijl.coa.nl
 https://huisstijl.sbcm.nl
 https://huisstijlportaal.kb.nl
+https://huisstijlsjablonen.tweedekamer.nl
 https://huisvoorklokkenluiders.nl
 https://hulpmiddelen.farmatec.nl
 https://humanities.knaw.nl
@@ -5693,6 +5737,7 @@ https://iam.odc-noord.nl
 https://iam.rdi.nl
 https://iam.rijkswaterstaat.nl
 https://iam.staging.ndw.nu
+https://iam.tweedekamer.nl
 https://iamcdocumentation.eu
 https://iati-test2.platformrijksoverheidonline.nl
 https://ibabs.dictu.nl
@@ -5837,6 +5882,7 @@ https://ingelogd.acc.mijnslachtofferzaak.nl
 https://ingelogd.acc.staging.mijnslachtofferzaak.nl
 https://ingelogd.mijnslachtofferzaak.nl
 https://ingelogd.staging.mijnslachtofferzaak.nl
+https://ingest.acc.livedebat.tweedekamer.nl
 https://inhuurdeskpolitie.nl
 https://inkoopplein.dictu.nl
 https://inkoopworkflow.staging.rijksapplicaties.nl
@@ -5958,6 +6004,7 @@ https://inweva.ndw.nu
 https://inzageverzoekpersoonsgegevensindienen.rdw.nl
 https://inzenden.knawonderwijsprijs.nl
 https://inzichten.platformrijksoverheidonline.nl
+https://io.debatdirect.tweedekamer.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://iodk.vm-02.azure.grid.rws.nl
@@ -6124,6 +6171,7 @@ https://kadaster.sitearchief.nl
 https://kaiachain.github.io
 https://kamerindeklas.nl
 https://kamervoordebinnenvisserij.nl
+https://kana.tweedekamer.nl
 https://kangaroo.acceptatie.pdok.nl
 https://kansrijkestartnl.nl
 https://kansspelautoriteit.nl
@@ -6266,6 +6314,7 @@ https://klimaateffectatlas.rijkswaterstaat.nl
 https://klimaatmonitor.databank.nl
 https://klimaatscenarios-data.knmi.nl
 https://klinieken.donorgegevens.nl
+https://klinkendetaal.tweedekamer.nl
 https://klk.rijksapplicaties.nl
 https://klk.staging.rijksapplicaties.nl
 https://klt-qti37-api-a.cito.nl
@@ -6318,6 +6367,9 @@ https://ksmo.s-bb.nl
 https://ktv-servicedesk.ciz.nl
 https://kunstcultuur.slo.nl
 https://kunstzinnigeorientatie.slo.nl
+https://kva-acc.tweedekamer.nl
+https://kva-tst.tweedekamer.nl
+https://kva.tweedekamer.nl
 https://kvk.nl
 https://kvkhuurtin.nl
 https://kvkmutatieservice.rdw.nl
@@ -6434,6 +6486,7 @@ https://leveranciersportaal.rijksapplicaties.nl
 https://leveranciersportaal.staging.rijksapplicaties.nl
 https://leveranciersvdi.svb.nl
 https://lexces.nl
+https://lexis.tweedekamer.nl
 https://lfucg.maps.arcgis.com
 https://lhc2024.minjenv-events.nl
 https://lib-doorstroomtoets-a.cito.nl
@@ -6460,7 +6513,9 @@ https://lievervoordeklas.nl
 https://liferay.mfaservices.nl
 https://lightning.aerius.nl
 https://lij.jeugdconnect.nl
+https://lijstvangevallenen.acceptatie.tweedekamer.nl
 https://lijstvangevallenen.nl
+https://lijstvangevallenen.test.tweedekamer.nl
 https://lika-basispoort.cito.nl
 https://lil.cultureelerfgoed.nl
 https://limburg.databank.nl
@@ -6508,6 +6563,13 @@ https://live.svb.nl
 https://live.toezichtfestival.nl
 https://livecharts.cbs.nl
 https://livechat.pzp.nl
+https://livestreaming-thumb.b67.tweedekamer.nl
+https://livestreaming-thumb.b67buv2.tweedekamer.nl
+https://livestreaming-thumb.b67v2.tweedekamer.nl
+https://livestreaming.b67.tweedekamer.nl
+https://livestreaming.b67acc.tweedekamer.nl
+https://livestreaming.b67buv2.tweedekamer.nl
+https://livestreaming.b67v2.tweedekamer.nl
 https://livingatlas.arcgis.com
 https://livingstone.maps.arcgis.com
 https://livra2.bics.nl
@@ -6580,6 +6642,7 @@ https://login.scp.nl
 https://login.skal.nl
 https://login.ssc-campus.nl
 https://login.test.kb.nl
+https://login.tweedekamer.nl
 https://login.vechtstromen.nl
 https://logius-acc.confluence.odc-noord.nl
 https://logius-acc.jira.odc-noord.nl
@@ -6902,6 +6965,7 @@ https://melding.rdw.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
 https://meldingen.klopt.cibg.nl
+https://meldingenapp.tweedekamer.nl
 https://meldingrijbewijscontrole.rdw.nl
 https://meldingwd.odmh.nl
 https://meldknop.nl
@@ -7251,6 +7315,7 @@ https://myidp-acc.postedworkers.nl
 https://myidp.postedworkers.nl
 https://myk.cloud.kadaster.nl
 https://mysharebox.skc-oc.org
+https://mysite.tweedekamer.nl
 https://n-central.caop.nl
 https://n35wijthmennijverdal.nl
 https://n3werkzaamheden.nl
@@ -7586,6 +7651,7 @@ https://omgevingsplan.flevoland.nl
 https://omgevingsveiligheid.rivm.nl
 https://omgevingswet.overheid.nl
 https://onbeperkttoegankelijk.nl
+https://onbewerktarchief.tweedekamer.nl
 https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
@@ -7624,6 +7690,7 @@ https://onderzoek.odmh.nl
 https://onderzoek.politie.nl
 https://onderzoek.rdi.nl
 https://onderzoek.svb.nl
+https://onderzoek.tweedekamer.nl
 https://onderzoek.wegwijzer.overheid.nl
 https://onderzoek2.cbs.nl
 https://onderzoekinzesstappen.slo.nl
@@ -7644,6 +7711,7 @@ https://ons.communicatierijk.nl
 https://onsgeldontcijferd.rekenkamer.nl
 https://onslevendlandschap.nl
 https://onswater.nl
+https://ontdek.tweedekamer.nl
 https://ontdekdezorg.nl
 https://ontheffingaanvragen.e-tol.nl
 https://ontheffingaanvragen.vrachtwagenheffing.nl
@@ -7680,6 +7748,7 @@ https://openbaar.haaglanden.databank.nl
 https://openbaar.waves.databank.nl
 https://openbaarministerie.nl
 https://openbare-inspectieresultaten.nvwa.nl
+https://openbare-tzr.tweedekamer.nl
 https://opendata-acc.rijksbegroting.nl
 https://opendata-aln.hub.arcgis.com
 https://opendata-daerani.hub.arcgis.com
@@ -7689,6 +7758,7 @@ https://opendata-tourcoingcarto.hub.arcgis.com
 https://opendata-townofchapelhill.hub.arcgis.com
 https://opendata-unionoh.hub.arcgis.com
 https://opendata-westspringfield.hub.arcgis.com
+https://opendata-wiki.tweedekamer.nl
 https://opendata.acp.ondernemersplein.nl
 https://opendata.adviescollegeveiligheidgroningen.nl
 https://opendata.adviescommissievolkenrecht.nl
@@ -7878,6 +7948,7 @@ https://opendata.staatsexamensnt2.nl
 https://opendata.startmetoesorichtlijnen.nl
 https://opendata.stelselcatalogus.nl
 https://opendata.strafrechtketen.nl
+https://opendata.test.tweedekamer.nl
 https://opendata.tib-ivd.nl
 https://opendata.tlokb.nl
 https://opendata.toegangspuntmobiliteit.nl
@@ -7889,6 +7960,7 @@ https://opendata.topcorridors.nl
 https://opendata.topsectoren.nl
 https://opendata.transitieproefdiervrijeinnovatie.nl
 https://opendata.tuchtcollege-gezondheidszorg.nl
+https://opendata.tweedekamer.nl
 https://opendata.uitelkaarmetkinderen.nl
 https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.uziregister.nl
@@ -7950,6 +8022,9 @@ https://opwegmetwaterstof.nl
 https://opwegnaarseb.nl
 https://opwegnaarzes.nl
 https://orac.test.gf.irealisatie.nl
+https://oracle-financials-acc.tweedekamer.nl
+https://oracle-financials-ontw.tweedekamer.nl
+https://oracle-financials.tweedekamer.nl
 https://orangecorners.com
 https://oranjehotel.nationaalarchief.nl
 https://orb.rdw.nl
@@ -8020,6 +8095,7 @@ https://ovi.rdw.nl
 https://oxfordartonline.com.access.authkb.kb.nl
 https://p-direkt.nl
 https://p-direkt.sitearchief.nl
+https://p-direkt.tweedekamer.nl
 https://p14-vws.rijksapplicaties.nl
 https://p14-vws.staging.rijksapplicaties.nl
 https://pa-a.politieacademie.nl
@@ -8046,6 +8122,7 @@ https://papiamentu.two-acs.com
 https://papiamentu.vnacs.nl
 https://papierenkentekenbewijsomwisselen.rdw.nl
 https://parlement.nl
+https://parlisweb.tweedekamer.nl
 https://parsr.labs.dans.knaw.nl
 https://partijopgave.naktuinbouw.nl
 https://partnerplaza.sso3w.nl
@@ -8073,6 +8150,7 @@ https://pbc-gis-forum-pbcgisforum.hub.arcgis.com
 https://pbl.nl
 https://pbl.sitearchief.nl
 https://pbm.staatsbosbeheer.nl
+https://pdc-griffiescommissies-dienstanalyseenonderzoek.tweedekamer.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
@@ -8157,6 +8235,7 @@ https://plan-plan-validatie.pre.omgevingswet.overheid.nl
 https://planmer-acc.zuid-holland.nl
 https://planmer-test.zuid-holland.nl
 https://planmer.zuid-holland.nl
+https://planon-live.tweedekamer.nl
 https://planonprod.vallei-veluwe.nl
 https://planregistratie-wonen.zuid-holland.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
@@ -8169,6 +8248,9 @@ https://platformrijksoverheidonline.nl
 https://platformwow.nl
 https://playground.stelselcatalogus.nl
 https://pld.chadwyck.co.uk.access.authkb.kb.nl
+https://plein2-acc.tweedekamer.nl
+https://plein2-test.tweedekamer.nl
+https://plein2.tweedekamer.nl
 https://pleinplus.kb.nl
 https://pleio.kiesraad.nl
 https://pleio.nl
@@ -8182,6 +8264,7 @@ https://pls.cloud.kadaster.nl
 https://pls.kadaster.nl
 https://pls.test.cloud.kadaster.nl
 https://pls.test.kadaster.nl
+https://plus.debatdirect.tweedekamer.nl
 https://pmds-a.cito.nl
 https://pmds-o.cito.nl
 https://pmds-t.cito.nl
@@ -8517,6 +8600,7 @@ https://pw.rvb.rijkscloud.nl
 https://pwa-api-test.raadvanstate.nl
 https://pwa-api.raadvanstate.nl
 https://pwdreset.onderzoeksraad.nl
+https://pwk.tweedekamer.nl
 https://px-dmz-1.onlinezitting.rechtspraak.nl
 https://px-dmz-2.onlinezitting.rechtspraak.nl
 https://pywb.nationaalarchief.nl
@@ -8568,6 +8652,8 @@ https://radius.nvao.net
 https://radius.raadvanstate.nl
 https://railstotrails.maps.arcgis.com
 https://raintoriveratx-austin.hub.arcgis.com
+https://rapportaardgaswinning.tweedekamer.nl
+https://rapportaardgaswinninggroningen.tweedekamer.nl
 https://rapportage-mijn.s-bb.nl
 https://rapportagecvvo-a.cito.nl
 https://rapportagecvvo.cito.nl
@@ -8792,6 +8878,7 @@ https://rijdata-acc.cbr.nl
 https://rijkcirculair.nl
 https://rijkewaddenzee.nl
 https://rijksacademie.nl
+https://rijksadresgids.tweedekamer.nl
 https://rijksapplicaties.nl
 https://rijksbegroting.nl
 https://rijksbeveiligingsportaal.rijksapplicaties.nl
@@ -8820,6 +8907,7 @@ https://rijksorganisatieodi.nl
 https://rijksoverheid.bouwbesluit.com
 https://rijksoverheid.nl
 https://rijksoverheid.sitearchief.nl
+https://rijksportaal.tweedekamer.nl
 https://rijksrecherche.nl
 https://rijksschoonmaak.nl
 https://rijksvaccinatieprogramma.nl
@@ -9017,6 +9105,7 @@ https://samenwerken.rws.nl
 https://samenwerken.zorginstituutnederland.nl
 https://samenwerkenaanriviernatuur.nl
 https://samenwerkingrijknoord.nl
+https://samenwerkruimten.tweedekamer.nl
 https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
 https://sandbox.mobiliteitsbank.nl
@@ -9155,6 +9244,7 @@ https://services.ep-online.nl
 https://services.globalentry-rtp.nl
 https://services.gmh.dans.knaw.nl
 https://services7.arcgis.com
+https://sesam-acc.tweedekamer.nl
 https://seveso-plus.nl
 https://sf.knmi.nl
 https://sf.pbl.nl
@@ -9496,6 +9586,7 @@ https://statpubliekedata-pre.azure.dnb.nl
 https://statpubliekedata.azure.dnb.nl
 https://stats.acc.mgo.irealisatie.nl
 https://stats.dans.knaw.nl
+https://stats.debatdirect.tweedekamer.nl
 https://stats.duo.rijkscloud.nl
 https://stats.hogeraad.nl
 https://stats.irealisatie.nl
@@ -9504,6 +9595,7 @@ https://stats.one-conference.nl
 https://stats.pleio.nl
 https://stats.test.mgo.irealisatie.nl
 https://status-page.rvr.org
+https://status.debatdirect.tweedekamer.nl
 https://status.kvk.nl
 https://status.location.arcgis.com
 https://status.login-test.skal.nl
@@ -9557,6 +9649,7 @@ https://stormtools-mainpage-crc-uri.hub.arcgis.com
 https://storybook.nldesignsystem.nl
 https://strafrechtketen.nl
 https://strategicpriorities-newmarket.hub.arcgis.com
+https://stream-share.debatdirect.tweedekamer.nl
 https://streaming.ssr.nl
 https://streefbeelden.pagw.nl
 https://striping.nl
@@ -9568,6 +9661,8 @@ https://sts.nak.nl
 https://sts.parlement.nl
 https://sts.rdw.nl
 https://sts.rechtspraak.nl
+https://sts.test.tweedekamer.nl
+https://sts.tweedekamer.nl
 https://studentcoach.rijnmond.leerwerkloket.nl
 https://studentenmonitor.nl
 https://studieincijfers-acc.s-bb.nl
@@ -9661,6 +9756,7 @@ https://td.chm-cbd.net
 https://tdportal.raadvanstate.nl
 https://tea.bigregister.nl
 https://teamcity.dev.huc.knaw.nl
+https://teamsites.tweedekamer.nl
 https://techniekacademie.rijkswaterstaat.nl
 https://technologiezoektondernemer.tno.nl
 https://techtransfer.tno.nl
@@ -9801,6 +9897,7 @@ https://test.leerwerkloket.nl
 https://test.lint.gebruikercentraal.nl
 https://test.lma.nl
 https://test.lma.rws.nl
+https://test.meldingenapp.tweedekamer.nl
 https://test.mi-cert.nl
 https://test.milieuzones.nl
 https://test.mobiliteitsbank.nl
@@ -9987,6 +10084,8 @@ https://topas-nl.tno.nl
 https://topas.tno.nl
 https://topasdata.tno.nl
 https://topcorridors.nl
+https://topdesk-da.tweedekamer.nl
+https://topdesk-dia.tweedekamer.nl
 https://topdesk-iv.rijkswaterstaat.nl
 https://topdesk-iv.rws.nl
 https://topdesk-reach-acc.rivm.nl
@@ -10093,7 +10192,10 @@ https://tvep.dictu.nl
 https://tvnooddienst.rdw.nl
 https://tvs.dictu.nl
 https://tvsimulator.rdw.nl
+https://tweedekamer.acceptatie.tweedekamer.nl
+https://tweedekamer.nl
 https://tweedekamer.sitearchief.nl
+https://tweedekamer.test.tweedekamer.nl
 https://twente.leerwerkloket.nl
 https://twente.lerenenwerken.nl
 https://two-acs.com
@@ -10116,6 +10218,7 @@ https://tzpubliekscontact-acc.dnb.nl
 https://tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-tst.dnb.nl
 https://tzpubliekscontact.dnb.nl
+https://tzr.tweedekamer.nl
 https://uae-air-quality-index-fcsa.hub.arcgis.com
 https://uag.cbs.nl
 https://uag.duo.nl
@@ -10207,6 +10310,7 @@ https://validationcalculationtest.douane.nl
 https://validator.acceptatie.ruimtelijkeplannen.nl
 https://validator.ruimtelijkeplannen.nl
 https://vallei-veluwe.nl
+https://vandale.tweedekamer.nl
 https://vangbuitenshuis.nl
 https://vangogh.dev.huc.knaw.nl
 https://vault-infra.efiling.mijnoctrooi.rvo.nl
@@ -10243,6 +10347,7 @@ https://vepvod.vcdn.belastingdienst.nl
 https://verbeterdeluchtvaartkaart.kadaster.nl
 https://verdragenbank-acc.overheid.nl
 https://verdragenbank.overheid.nl
+https://vergaderapp.tweedekamer.nl
 https://vergaderen.s-bb.nl
 https://vergelijkingskaart.afm.nl
 https://vergoedingsns.nl
@@ -10279,6 +10384,7 @@ https://via-i.rijksapplicaties.nl
 https://via-i.staging.rijksapplicaties.nl
 https://via.rijksapplicaties.nl
 https://via.staging.rijksapplicaties.nl
+https://via.tweedekamer.nl
 https://viaany.vechtstromen.nl
 https://video-acc.beeldbellen.dji.nl
 https://video-uploader-aanmelding.cvdm.nl
@@ -10308,11 +10414,15 @@ https://vin-beheer.rdw.nl
 https://vin.rdw.nl
 https://vinden.belastingdienst.nl
 https://vindjeplek-app.rivm.nl
+https://vip-acc.tweedekamer.nl
+https://vip2.tweedekamer.nl
 https://virtueel.zuid-holland.nl
 https://visualisatieservice-a.cito.nl
 https://visualisatieservice-t.cito.nl
 https://visualisatieservice.cito.nl
 https://vitaal.matroos.rws.nl
+https://viv-acc.tweedekamer.nl
+https://viv.tweedekamer.nl
 https://vivet.databank.nl
 https://viz.ndw.nu
 https://vizier.bodemrichtlijn.nl
@@ -10604,6 +10714,7 @@ https://werken.douane.nl
 https://werken.toeslagen.nl
 https://werkenaanonspensioen.nl
 https://werkenbij.acceptatie.nipv.nl
+https://werkenbij.acceptatie.tweedekamer.nl
 https://werkenbij.coa.nl
 https://werkenbij.cokz.nl
 https://werkenbij.cvdm.nl
@@ -10623,8 +10734,10 @@ https://werkenbij.rijkswaterstaat.nl
 https://werkenbij.rws.nl
 https://werkenbij.skal.nl
 https://werkenbij.staatsbosbeheer.nl
+https://werkenbij.test.tweedekamer.nl
 https://werkenbij.tno.nl
 https://werkenbij.toeslagen.nl
+https://werkenbij.tweedekamer.nl
 https://werkenbijde.nza.nl
 https://werkenbijdeeu.nl
 https://werkenbijderaadvanstate.nl
@@ -11739,6 +11852,7 @@ https://www.onderwijsinderegioincijfers.nl
 https://www.onderwijsinspectie.nl
 https://www.onderwijsraad.nl
 https://www.onderwijsregio.nl
+https://www.onderzoek.tweedekamer.nl
 https://www.onderzoekmetmensen.nl
 https://www.onderzoeksraad.nl
 https://www.one-conference.nl
@@ -12081,6 +12195,7 @@ https://www.tropomi.eu
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tuchtcollege-gezondheidszorg.nl
 https://www.tvs.dictu.nl
+https://www.tweedekamer.nl
 https://www.two-acs.com
 https://www.uitelkaarmetkinderen.nl
 https://www.uitkomstgerichtezorg.nl
@@ -12183,6 +12298,7 @@ https://zaaksysteem.odmh.nl
 https://zaaksysteem.rijkswaterstaat.nl
 https://zaaksysteem.vechtstromen.nl
 https://zaaksysteem.zuid-holland.nl
+https://zaalreserveringen.tweedekamer.nl
 https://zaanstreekwaterland.leerwerkloket.nl
 https://zabbix.cultuurparticipatie.nl
 https://zakelijk.duo.nl
@@ -12218,6 +12334,7 @@ https://zoeken.gratisvog.nl
 https://zoeken.nplw.nl
 https://zoeken.ondernemersplein.overheid.nl
 https://zoeken.registersocialehygiene.nl
+https://zoeken.tweedekamer.nl
 https://zoeken.werkenaanonspensioen.nl
 https://zoeken.zorgaanbiedersportaal.nl
 https://zoekservice.overheid.nl
