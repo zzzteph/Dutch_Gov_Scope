@@ -254,6 +254,7 @@ iam
 service
 transfer
 magazinesintern
+forum
 idm
 elo
 mail1
@@ -365,7 +366,6 @@ join
 organisaties
 data-acc
 standaarden
-forum
 bastion365
 tools
 server
@@ -14499,3 +14499,9 @@ www.app2019
 www.app2020
 www.app2022
 www.live
+acc.onlinepublicatie
+backend.acc.onlinepublicatie
+backend.onlinepublicatie
+keycloak.acc.onlinepublicatie
+keycloak.onlinepublicatie
+rekentool
