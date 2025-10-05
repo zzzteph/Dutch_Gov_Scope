@@ -362,6 +362,7 @@ http://eformulieren.zuid-holland.nl
 http://eindtoets-ouders.cito.nl
 http://eindtoetsbasisonderwijs.cito.nl
 http://embraceintranet.flevoland.nl
+http://employbrand.uwv.nl
 http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
 http://english.rivmmagazines.nl
@@ -438,6 +439,7 @@ http://impacttest.nwo.nl
 http://import.logerenbijdeboswachter.nl
 http://incidentacc.rivm.nl
 http://incidentapprivmacc.rivm.nl
+http://include-eafspraak-acceptatie.ba.uwv.nl
 http://inkopers.werkenvoornederland.nl
 http://inspire.rivm.nl
 http://inspireaanmerking.nl
@@ -453,6 +455,8 @@ http://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 http://jaeger.test.zm.irealisatie.nl
+http://jobcoaching-dev.uwv.nl
+http://jobcoaching.uwv.nl
 http://jp-o-no-apigee-lux.espacenet.com
 http://jsru.kb.nl
 http://juristen.werkenvoornederland.nl
@@ -496,6 +500,7 @@ http://luistertoets.cito.nl
 http://lv109366-web01-out.eerstekamer.nl
 http://lync.nba.nl
 http://lync1.nba.nl
+http://m.jaarverslag.uwv.nl
 http://macotra.rivm.nl
 http://mail-outside.nba.nl
 http://mail.agendavoorhetwaddengebied2050.nl
@@ -600,6 +605,7 @@ http://overstroomik-acceptance.rws.nl
 http://owas1.nba.nl
 http://p-crl.justid.nl
 http://pages.bioinf.nioo.knaw.nl
+http://panel.uwv.nl
 http://papdig-toets3.cito.nl
 http://participantapi.postcovidonderzoek.nl
 http://participantapi.vragenlijst-acc.rivm.nl
@@ -739,6 +745,7 @@ http://survey-beheeracc.igj.nl
 http://swka.rivm.nl
 http://sword.easy.dans.knaw.nl
 http://tag-aid.huygens.knaw.nl
+http://tag2.uwv.nl
 http://technische-documentatie.oep.overheid.nl
 http://teebstad.nl
 http://teebstad.rivm.nl
@@ -783,10 +790,12 @@ http://tws-esb.rws.nl
 http://typened-cpe.rivm.nl
 http://typened-crmo.rivm.nl
 http://typened-mrsa.rivm.nl
+http://u.uwv.nl
 http://uffprod25.waterschaplimburg.nl
 http://ufftest25.waterschaplimburg.nl
 http://ufp-webservice.rijksapplicaties.nl
 http://ufp-webservice.staging.rijksapplicaties.nl
+http://uitkeren.uwv.nl
 http://uptime.bureauft.nl
 http://uptime.bureauwbtv.nl
 http://uptime.huc.knaw.nl
@@ -801,6 +810,7 @@ http://vacatiegelden.rivm.nl
 http://vacaturezoekservice-test.mobiliteitsbank.nl
 http://vas.cito.nl
 http://vereijck.huygens.knaw.nl
+http://via.uwv.nl
 http://videobellen.waterschaplimburg.nl
 http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
@@ -814,6 +824,7 @@ http://vth.zuid-holland.nl
 http://w3dxweb.knmi.nl
 http://warmtetransitieatlas.zuid-holland.nl
 http://waterwebservices-acc.rws.nl
+http://wcf-eafspraak-acceptatie.ba.uwv.nl
 http://web-casta01.hex.tno.nl
 http://web-plesk81.tno.nl
 http://web.nba.nl
@@ -2246,6 +2257,7 @@ https://amerigeo-week-2021-amerigeoss.hub.arcgis.com
 https://amersfoort.leerwerkloket.nl
 https://amherstburg-open-data-essexcounty.hub.arcgis.com
 https://amice.lma.nl
+https://amigi-acceptatie.ba.uwv.nl
 https://amlc.eu
 https://amlc.nl
 https://ammgelderland.databank.nl
@@ -2304,6 +2316,8 @@ https://api-acc.dashboardgroningen.nl
 https://api-acc.rdi.nl
 https://api-dev.afm.nl
 https://api-dev.dementieinkaart.nl
+https://api-eafspraak-acceptatie.ba.uwv.nl
+https://api-eafspraak.ba.uwv.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-gateway.rechtspraak.nl
 https://api-ota.belastingdienst.nl
@@ -2733,6 +2747,7 @@ https://ayuntamiento-de-cieza-aytocieza.hub.arcgis.com
 https://ayuntamientodebaza-atpca.hub.arcgis.com
 https://azgeo-data-hub-agic.hub.arcgis.com
 https://azgeo-open-data-agic.hub.arcgis.com
+https://azuredevops-accept.ba.uwv.nl
 https://azwstatline.cbs.nl
 https://b-acc.asbestvolgsysteem.nl
 https://b30-micol-a01p.int.ssc-campus.nl
@@ -2813,6 +2828,9 @@ https://be.test.chm-cbd.net
 https://be305about-mdc.hub.arcgis.com
 https://be305implement-mdc.hub.arcgis.com
 https://beach-strategies-wdfw-hub.hub.arcgis.com
+https://beagle-storybook.uwv.nl
+https://beagle-test.uwv.nl
+https://beagle.uwv.nl
 https://beatrijshandschrift.huygens.knaw.nl
 https://beaularani7386.github.io
 https://beaver-county-cog-covid-19-hub-bcrcog.hub.arcgis.com
@@ -3352,6 +3370,7 @@ https://cdfd.nl
 https://cdho.nl
 https://cdif.osiris.rivm.nl
 https://cdn-a.arcgis.com
+https://cdn-extern.uwv.nl
 https://cdn-mediaprogram.maps.arcgis.com
 https://cdn.cbs.nl
 https://cdn.consular.mfaservices.nl
@@ -3532,6 +3551,7 @@ https://cma.internetconsultatie.nl
 https://cmdi.dev.huc.knaw.nl
 https://cmgrws.rws.nl
 https://cmh.rdw.nl
+https://cmp-api-dev.uwv.nl
 https://cms-acc.s-bb.nl
 https://cms-bron.waterschaplimburg.nl
 https://cms-extern.rvo.nl
@@ -3635,6 +3655,7 @@ https://communicatie.kennisplatformondermijning.nl
 https://communicatie.niod.knaw.nl
 https://communicatie.zuid-holland.nl
 https://communicatiekompas.nl
+https://communicatieportaal.uwv.nl
 https://communicatieportaal.vrachtwagenheffing.nl
 https://communicatierijk.nl
 https://community-climatesolutions.hub.arcgis.com
@@ -3708,6 +3729,7 @@ https://content.cbs.nl
 https://content.klopt.cibg.nl
 https://content.omgevingswet.overheid.nl
 https://content.stimuleringsfonds.nl
+https://content.uwv.nl
 https://content1.cbs.nl
 https://contentadapter.cbs.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
@@ -4089,6 +4111,7 @@ https://deployment.biedboek.nl
 https://derdekamer.nl
 https://design-system.cito.nl
 https://design.ndw.nu
+https://design.uwv.nl
 https://designsprint.gebruikercentraal.nl
 https://designsystem-corp.s-bb.nl
 https://designsystem.cbs.nl
@@ -4275,6 +4298,7 @@ https://dioxins-wild-cattle.apps.feedfoodtransfer.nl
 https://dipi.rechtspraak.nl
 https://diplomatieke-getuigenissen.huygens.knaw.nl
 https://directduidelijk.gebruikercentraal.nl
+https://directfeedback.uwv.nl
 https://director.apps.staatsbosbeheer.nl
 https://directort.apps.staatsbosbeheer.nl
 https://directory.huc.knaw.nl
@@ -5250,6 +5274,7 @@ https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
 https://formulieren.rechtspraak.nl
 https://formulieren.svb.nl
+https://formulieren.uwv.nl
 https://formulieren.uziregister.nl
 https://formulieren.waterschaplimburg.nl
 https://fortbijrijnauwen.staatsbosbeheer.nl
@@ -5837,6 +5862,7 @@ https://incca.org
 https://incident.rivm.nl
 https://incidentapprivm.rivm.nl
 https://incidentmanagement.nl
+https://include-eafspraak.ba.uwv.nl
 https://inclusie.gebruikercentraal.nl
 https://inclusiefwerkt.nl
 https://inclusiekader.gebruikercentraal.nl
@@ -5921,6 +5947,7 @@ https://inspectiebtd.nl
 https://inspectielandschap.nl
 https://inspectieresultaten.nvwa.nl
 https://inspectieview.nl
+https://inspiratie.uwv.nl
 https://instappen-a.cito.nl
 https://instappen-o.cito.nl
 https://instappen-t.cito.nl
@@ -6075,6 +6102,7 @@ https://jaarverslag.raadvanstate.nl
 https://jaarverslag.raadvoorrechtsbijstand.org
 https://jaarverslag.sbcm.nl
 https://jaarverslag.stichtingrpo.nl
+https://jaarverslag.uwv.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
 https://jaarverslag2024.bkd.eu
@@ -6107,6 +6135,7 @@ https://jiraimg-acc.rvo.nl
 https://jiraimg.rvo.nl
 https://jmopendata.cbs.nl
 https://jo.chm-cbd.net
+https://jobcoaching-acc.uwv.nl
 https://jobs.werkenvoornederland.nl
 https://join.odijmond.nl
 https://jokesmitprijs.nl
@@ -6295,6 +6324,7 @@ https://klachtenformulierlink.mensenrechten.nl
 https://klant-beheer-prd.cloudservices.kb.nl
 https://klantonderzoek.cbr.nl
 https://klantportaal.caop.nl
+https://klanttevredenheidsonderzoek.uwv.nl
 https://klanttoegang.cbs.nl
 https://klantweb-acp.acc.cloudservices.kb.nl
 https://klas.oidji.nl
@@ -6371,6 +6401,7 @@ https://kunstzinnigeorientatie.slo.nl
 https://kva-acc.tweedekamer.nl
 https://kva-tst.tweedekamer.nl
 https://kva.tweedekamer.nl
+https://kvb-wsp.p-dc.ba.uwv.nl
 https://kvk.nl
 https://kvkhuurtin.nl
 https://kvkmutatieservice.rdw.nl
@@ -6827,6 +6858,7 @@ https://mail.staatsbosbeheer.nl
 https://mail.summercourt.nl
 https://mail.summerschool2023.nl
 https://mail.toezichtfestival.nl
+https://mail.uwv.nl
 https://mail.veiligheidsregioflevoland.nl
 https://mail.waterschaplimburg.nl
 https://mailcatch.acc.dpr.irealisatie.nl
@@ -7094,6 +7126,7 @@ https://mijn.svdj.nl
 https://mijn.test.lcms.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
+https://mijn.uwv.nl
 https://mijn.zorgaanbiedersportaal.nl
 https://mijnacademie.rechtenoverheid.nl
 https://mijnadministratie-acpt.brabant.nl
@@ -7106,6 +7139,7 @@ https://mijncn.nl
 https://mijncyberrijbewijs.nl
 https://mijndossier.schadedoormijnbouw.nl
 https://mijndouane.belastingdienst.nl
+https://mijngegevensdiensten.uwv.nl
 https://mijnkompol-a.politieacademie.nl
 https://mijnkompol-t.politieacademie.nl
 https://mijnkompol.politieacademie.nl
@@ -7196,6 +7230,8 @@ https://mmdc.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
 https://mobiel.hogeraad.nl
+https://mobile-login-acc.uwv.nl
+https://mobile-services.uwv.nl
 https://mobile.lvnl.nl
 https://mobiliteitsbank.nl
 https://mobiliteitsscan-info.nl
@@ -7275,6 +7311,9 @@ https://mre.databank.nl
 https://msafe.kvk.nl
 https://msb2.hex.tno.nl
 https://msbds.tno.nl
+https://msdi-a.uwv.nl
+https://msdi-p.uwv.nl
+https://msdi-t.uwv.nl
 https://msgcpp.knmi.nl
 https://msnp-admin.pleio.nl
 https://msnp-chat.pleio.nl
@@ -7532,6 +7571,7 @@ https://notebooksservices-eu1.az-int.arcgis.com
 https://notificatie.pzp.nl
 https://novexrotterdamsehaven.nl
 https://novum.nu
+https://now.uwv.nl
 https://npcemaatregelenmonitor.rijksapplicaties.nl
 https://npcemaatregelenmonitor.staging.rijksapplicaties.nl
 https://nplw-crm.rijksapplicaties.nl
@@ -7692,6 +7732,7 @@ https://onderzoek.politie.nl
 https://onderzoek.rdi.nl
 https://onderzoek.svb.nl
 https://onderzoek.tweedekamer.nl
+https://onderzoek.uwv.nl
 https://onderzoek.wegwijzer.overheid.nl
 https://onderzoek2.cbs.nl
 https://onderzoekinzesstappen.slo.nl
@@ -7707,6 +7748,7 @@ https://online-testclient.reclassering.nl
 https://online.reclassering.nl
 https://online.rijksinnovatiecommunity.nl
 https://onlineform.culture.gov.nl
+https://onlinetrainingen.uwv.nl
 https://onlinezitting.rechtspraak.nl
 https://ons.communicatierijk.nl
 https://onsgeldontcijferd.rekenkamer.nl
@@ -8175,6 +8217,7 @@ https://personen-acc.cbr.nl
 https://personen-tst.cbr.nl
 https://personen.cbr.nl
 https://personenregisterkinderopvang.duo.nl
+https://perspectief.uwv.nl
 https://pesticidesdatabase.ctgb.nl
 https://pet-explorer.sensorlab.tno.nl
 https://pfos-pfoa-cow.apps.feedfoodtransfer.nl
@@ -8558,6 +8601,7 @@ https://ps1.platformrijksoverheid.nl
 https://ps2.platformrijksoverheid.nl
 https://ps3.platformrijksoverheid.nl
 https://ps4.platformrijksoverheid.nl
+https://ps92app2-a.ba.uwv.nl
 https://psarchief.brabant.nl
 https://psychosocialearbeidsbelasting.tno.nl
 https://pt-i.espacenet.com
@@ -9288,6 +9332,8 @@ https://signalen.osiris.rivm.nl
 https://signalen.rivm.nl
 https://signalenleefomgeving.nl
 https://signaleringleefomgevingengezondheid.nl
+https://signalr-eafspraak-acceptatie.ba.uwv.nl
+https://signalr-eafspraak.ba.uwv.nl
 https://signicat-qa.sso.eherkenning.nl
 https://signicat-staging.sso.eherkenning.nl
 https://signicat.sso.eherkenning.nl
@@ -9742,6 +9788,7 @@ https://taalakkoord.leerwerkloket.nl
 https://taalweek.gebruikercentraal.nl
 https://tachograaf-handboek-oep3rbgktmt.rdw.nl
 https://tachograaf-handboek.rdw.nl
+https://tag.uwv.nl
 https://tagging.caop.nl
 https://taiwan.investinholland.com
 https://talent.stimuleringsfonds.nl
@@ -10103,6 +10150,7 @@ https://torec.huygens.knaw.nl
 https://tovertool.nza.nl
 https://tr-i.espacenet.com
 https://tr.espacenet.com
+https://track.uwv.nl
 https://tracking.cbr.nl
 https://tracking.delpher.nl
 https://tradewithnl.nl
@@ -10576,12 +10624,14 @@ https://wayback-usw2.maptiles.arcgis.com
 https://wba-acc.rvo.nl
 https://wba.rvo.nl
 https://wbp6.hhdelfland.nl
+https://wbs-accept.ba.uwv.nl
 https://wbtvapi.rvr.org
 https://wbtvapiacc.rvr.org
 https://wbtvcrm.rvr.org
 https://wbtvcrmacc.rvr.org
 https://wbtvsp.rvr.org
 https://wbtvspacc.rvr.org
+https://wcf-eafspraak.ba.uwv.nl
 https://we-graph.tno.nl
 https://web-api.kvk.nl
 https://web-app.naktuinbouw.nl
@@ -10750,6 +10800,7 @@ https://werkenvoor.zuid-holland.nl
 https://werkenvoorinternationaleorganisaties.nl
 https://werkenvoornederland.nl
 https://werkgever.ibki.nl
+https://werkgeversportaal.uwv.nl
 https://werkgeversscan.samenvoordeklant.nl
 https://werkplaats-acc.onslevendlandschap.nl
 https://werkplaats.onslevendlandschap.nl
