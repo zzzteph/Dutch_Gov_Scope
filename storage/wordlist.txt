@@ -32,9 +32,9 @@ redactie
 app
 formulieren
 werkplek
+e
 smtp
 portal
-e
 dev
 portaal
 sip
@@ -185,6 +185,7 @@ password
 formulier
 cms2
 acc.mijn
+www.mijn
 www-a
 zaaksysteem-acc
 synergy
@@ -235,7 +236,6 @@ share
 cms1
 jira
 connect-acpt
-www.mijn
 preprod
 services-acc
 webservice
@@ -853,6 +853,7 @@ ipv6
 bva
 wpo
 archief-acc
+informatie
 acc-api
 datavisualisatie
 csr
@@ -861,6 +862,7 @@ map
 accept-cm
 commissies
 solr
+w
 geoportal
 gisservices
 gisservicesacc
@@ -12700,7 +12702,6 @@ evaluaties
 miljoenennota
 rbv-acc
 rbv
-informatie
 nieuwestoffen
 a-biokap
 a-chemkap
@@ -13777,7 +13778,6 @@ unit4erpa.apps
 unit4erpt.apps
 vpnwolk
 vrijwilligers
-w
 wallboard.apps
 wallboardbuitenleven.apps
 winkel
@@ -14758,3 +14758,9 @@ werkgeversportaal-p
 werkgeversportaal
 wis-accept
 vaarmelder
+htwww
+tran-web-ns001
+vita
+w.w.w
+www.t
+wwww
