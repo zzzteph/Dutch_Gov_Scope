@@ -2638,6 +2638,7 @@ api-acc.competentnl.nl
 api-acc.dashboardgroningen.nl
 api-acc.kansspelautoriteit.nl
 api-acc.rdi.nl
+api-acc.uboregistertrusts.nl
 api-acpt.brabant.nl
 api-auth.ilent.nl
 api-dev.afm.nl
@@ -2814,6 +2815,7 @@ api.tst6.mijn.overheid.nl
 api.tst7.mijn.overheid.nl
 api.tst8.mijn.overheid.nl
 api.tweedekamer.nl
+api.uboregistertrusts.nl
 api.vallei-veluwe.nl
 api.woz.acceptatie.kadaster.nl
 api.zandbak.dans.knaw.nl
@@ -2944,6 +2946,7 @@ app.staatvanhetmkb.nl
 app.svb.nl
 app.test.pdok.nl
 app.toezichtfestival.nl
+app.uboregistertrusts.nl
 app.vechtstromen.nl
 app112-o.politie.nl
 app112-p.politie.nl
@@ -3238,6 +3241,7 @@ auth.rivm.nl
 auth.services.acm.nl
 auth.services.cultureelerfgoed.nl
 auth.ssc-campus.nl
+auth.uboregistertrusts.nl
 auth.vallei-veluwe.nl
 auth.vm-02.azure.grid.rws.nl
 auth2.mfaservices.nl
@@ -10659,6 +10663,7 @@ mail.summerschool2023.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
 mail.toezichtfestival.nl
+mail.uboregistertrusts.nl
 mail.vechtstromen.nl
 mail.veiligheidsregioflevoland.nl
 mail.vno.minbzk.nl
@@ -11062,6 +11067,7 @@ mijn-acc.igj.nl
 mijn-acc.nvwa.nl
 mijn-acc.rdi.nl
 mijn-acc.s-bb.nl
+mijn-acc.uboregistertrusts.nl
 mijn-acc1.belastingdienst.nl
 mijn-acc1.toeslagen.nl
 mijn-acc2.toeslagen.nl
@@ -11184,6 +11190,7 @@ mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
 mijn.tweedekamer.nl
+mijn.uboregistertrusts.nl
 mijn.zorgaanbiedersportaal.nl
 mijn.zuid-holland.nl
 mijn2-ontw.s-bb.nl
@@ -14367,9 +14374,11 @@ ra.zorginstituutnederland.nl
 raadbaak.nl
 raadopenbaarbestuur.nl
 raadplegen-acc.sbv-z.nl
+raadplegen-acc.uboregistertrusts.nl
 raadplegen-preprod.sbv-z.nl
 raadplegen.donorregister.nl
 raadplegen.sbv-z.nl
+raadplegen.uboregistertrusts.nl
 raadrechtshandhaving.com
 raadrvs.nl
 raadsaam-a.raadvanstate.nl
@@ -17442,6 +17451,7 @@ uat.svdj.nl
 uaw.minszw.nl
 ubl2pdf.rijksapplicaties.nl
 ubl2pdf.staging.rijksapplicaties.nl
+uboregistertrusts.nl
 ubr.acc.scansys.rijksapplicaties.nl
 ubr.acc.syn.rijksapplicaties.nl
 ubr.scansys.rijksapplicaties.nl
@@ -20428,6 +20438,7 @@ www.tvs.dictu.nl
 www.tweedekamer.nl
 www.two-acs.com
 www.typened-mrsa.rivm.nl
+www.uboregistertrusts.nl
 www.uem.onderzoeksraad.nl
 www.uitelkaarmetkinderen.nl
 www.uitkomstgerichtezorg.nl

@@ -10,8 +10,8 @@ english
 webmail
 mijn
 acceptatie
-a-www
 api
+a-www
 a-opendata
 a-feeds
 _autodiscover._tcp
@@ -29,9 +29,9 @@ login
 data
 prod
 redactie
+app
 werkplek
 smtp
-app
 formulieren
 portal
 e
@@ -56,6 +56,7 @@ sts
 a-english
 cdn
 ftp
+auth
 accept
 adfs
 webdisk
@@ -66,7 +67,6 @@ webservices
 open
 dialin
 onderzoek
-auth
 www.acc
 fs
 ns2
@@ -141,6 +141,7 @@ survey
 externemail
 mam
 sf
+api-acc
 a-magazines
 servicedesk
 mobiel
@@ -154,6 +155,7 @@ www-tst2
 forms
 m
 aanmelden
+mijn-acc
 sdm
 dashboard
 repository
@@ -181,13 +183,11 @@ sftp
 m365
 password
 formulier
-api-acc
 cms2
 acc.mijn
 www-a
 zaaksysteem-acc
 synergy
-mijn-acc
 secure
 mx2
 iam
@@ -334,6 +334,7 @@ gitlab
 lync
 mail01
 mail02
+raadplegen
 aanvraag
 services-acc
 cmsintranet
@@ -518,7 +519,6 @@ dnadatabank
 ras
 vpn3
 acceptatie.raadplegen
-raadplegen
 e.acc.videobellen
 e.videobellen
 mailings
@@ -650,6 +650,7 @@ plekchecker
 test-cms
 test-mijn
 webwinkel
+raadplegen-acc
 digital
 download.mail
 dc
@@ -5086,7 +5087,6 @@ www.upnl-acc
 www.windviewer
 xploreus
 acceptatie.uzipas.raadplegen
-raadplegen-acc
 raadplegen-preprod
 uzipas.raadplegen
 webservice-preprod
