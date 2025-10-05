@@ -1786,6 +1786,7 @@ acc.temis.nl
 acc.toegangtotdeoverheid.nl
 acc.tradewithnl.nl
 acc.uziregister.nl
+acc.validatie.nl
 acc.web-static.rijkswaterstaat.nl
 acc.wegwijzer.overheid.nl
 acc.werkenbij.api.rijkswaterstaat.nl
@@ -20583,6 +20584,7 @@ www.uv.maps.arcgis.com
 www.uwbeslagvrijevoet.nl
 www.uziregister.nl
 www.vaarweginformatie.nl
+www.validatie.nl
 www.vallei-veluwe.nl
 www.vangbuitenshuis.nl
 www.vechtstromen.nl
