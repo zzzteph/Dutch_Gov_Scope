@@ -2077,6 +2077,7 @@ acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.uzipas.uziregister.nl
+acceptatie.vaarweginformatie.nl
 acceptatie.vcpapp.rivm.nl
 acceptatie.voorraadtelling.rivm.nl
 acceptatie.webservice.aiz.osiris.rivm.nl
@@ -2691,6 +2692,7 @@ api.acc5.machtigen.digid.nl
 api.acc6.machtigen.digid.nl
 api.acceptatie.kadaster.nl
 api.acceptatie.politie.nl
+api.acceptatie.vaarweginformatie.nl
 api.acm.nl
 api.acp.business.gov.nl
 api.acp.kvk.nl
@@ -2824,6 +2826,7 @@ api.tst7.mijn.overheid.nl
 api.tst8.mijn.overheid.nl
 api.tweedekamer.nl
 api.uboregistertrusts.nl
+api.vaarweginformatie.nl
 api.vallei-veluwe.nl
 api.woz.acceptatie.kadaster.nl
 api.zandbak.dans.knaw.nl
@@ -17709,6 +17712,7 @@ va_do.belastingdienst.nl
 vaardigheid-acc.cbr.nl
 vaardigheid-tst.cbr.nl
 vaardigheid.cbr.nl
+vaarmelder.vaarweginformatie.nl
 vaartuigvannaamhalen.rdw.nl
 vaartuigvolgsysteem.zuid-holland.nl
 vacatiegelden.rivm.nl
@@ -19077,6 +19081,7 @@ www.acceptatie.politie.nl
 www.acceptatie.redactie.aquo.nl
 www.acceptatie.ruimtelijkeplannen.nl
 www.acceptatie.staatvenz.nl
+www.acceptatie.vaarweginformatie.nl
 www.access.authkbtest.kb.nl
 www.access.nba.nl
 www.achilles-acc.rvo.nl
@@ -20577,6 +20582,7 @@ www.usar.nl
 www.uv.maps.arcgis.com
 www.uwbeslagvrijevoet.nl
 www.uziregister.nl
+www.vaarweginformatie.nl
 www.vallei-veluwe.nl
 www.vangbuitenshuis.nl
 www.vechtstromen.nl

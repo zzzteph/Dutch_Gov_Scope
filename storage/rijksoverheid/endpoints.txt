@@ -1974,6 +1974,7 @@ https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.uzipas.portaal.ncpeh.nl
 https://acceptatie.uzipas.raadplegen.sbv-z.nl
 https://acceptatie.uzipas.uziregister.nl
+https://acceptatie.vaarweginformatie.nl
 https://acceptatie.vcpapp.rivm.nl
 https://acceptatie.webservice.aiz.osiris.rivm.nl
 https://acceptatie.webservice.prezies.osiris.rivm.nl
@@ -2337,6 +2338,7 @@ https://api.acc-lsp.rivm.nl
 https://api.acc.ncsc.nl
 https://api.acceptatie.kadaster.nl
 https://api.acceptatie.politie.nl
+https://api.acceptatie.vaarweginformatie.nl
 https://api.acp.kvk.nl
 https://api.afm.nl
 https://api.bag.acceptatie.kadaster.nl
@@ -2428,6 +2430,7 @@ https://api.tno.nl
 https://api.transformation.nsgi.nl
 https://api.transformation.test.nsgi.nl
 https://api.tst-lsp.rivm.nl
+https://api.vaarweginformatie.nl
 https://api2.abonneren.platformrijksoverheidonline.nl
 https://apiacc.eerstekamer.nl
 https://apiarbor.eerstekamer.nl
@@ -10346,6 +10349,7 @@ https://v3.espacenet.com
 https://vaardigheid-acc.cbr.nl
 https://vaardigheid-tst.cbr.nl
 https://vaardigheid.cbr.nl
+https://vaarmelder.vaarweginformatie.nl
 https://vaartuigvannaamhalen.rdw.nl
 https://vacatures.afm.nl
 https://vacatures.limburg.nl
@@ -10992,6 +10996,7 @@ https://www.acceptatie.oicrf.org
 https://www.acceptatie.pdok.nl
 https://www.acceptatie.politie.nl
 https://www.acceptatie.ruimtelijkeplannen.nl
+https://www.acceptatie.vaarweginformatie.nl
 https://www.acm.nl
 https://www.acoi.nl
 https://www.actal.nl
@@ -12262,6 +12267,7 @@ https://www.usar.nl
 https://www.uv.maps.arcgis.com
 https://www.uwbeslagvrijevoet.nl
 https://www.uziregister.nl
+https://www.vaarweginformatie.nl
 https://www.vallei-veluwe.nl
 https://www.vangbuitenshuis.nl
 https://www.vechtstromen.nl

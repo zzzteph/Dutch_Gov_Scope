@@ -42,11 +42,11 @@ connect
 beheer
 meet
 _dmarc
+www.acceptatie
 apps
 tst
 jaarverslag
 zoeken
-www.acceptatie
 kennisbank
 remote
 cpanel
@@ -412,6 +412,7 @@ stage
 international
 mijnzaak
 2020
+api.acceptatie
 mijn.acceptatie
 mft
 prisma
@@ -770,7 +771,6 @@ kerncijfers
 japan
 2021
 aa
-api.acceptatie
 api.test
 apiportal
 mijn.test
@@ -14757,3 +14757,4 @@ werkgeversportaal-a
 werkgeversportaal-p
 werkgeversportaal
 wis-accept
+vaarmelder
