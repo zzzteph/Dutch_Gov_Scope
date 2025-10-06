@@ -53,13 +53,13 @@ cpanel
 hybrid
 publicaties
 sts
+adfs
 a-english
 cdn
 ftp
 onderzoek
 auth
 accept
-adfs
 webdisk
 a-feeds.a-english
 a-opendata.a-english
@@ -68,6 +68,7 @@ webservices
 open
 dialin
 www.acc
+mail2
 fs
 ns2
 services
@@ -78,20 +79,19 @@ geoservices
 digikoppeling
 dwo
 oud
+mailing
 ns1
 www2
 loket
 inloggen
 git
 preview
-mail2
 www.test
 maps
 old
 beeldbank
 geo
 kennis
-mailing
 proto
 www-ac
 www-dev
@@ -136,6 +136,7 @@ helpdesk
 demo
 sso
 academy
+sftp
 www1
 survey
 externemail
@@ -179,7 +180,6 @@ id
 nieuws
 onderhoud
 projecten
-sftp
 m365
 password
 formulier
@@ -252,6 +252,7 @@ en
 vt
 registry
 extranet
+vacatures
 wiki
 productie
 intern
@@ -357,7 +358,6 @@ externemail01
 externemail02
 projects
 webaccess
-vacatures
 eva
 leren
 zakelijk
@@ -612,6 +612,7 @@ cst
 gitlab.test
 igj
 jenkins
+portaal-acceptatie
 startpagina
 bon
 online
@@ -775,6 +776,7 @@ api.test
 apiportal
 mijn.test
 www.sts
+lab
 resolver
 kadaster
 autodiscover.test
@@ -4460,7 +4462,6 @@ pgadmin4.analyse.ilt
 pgalab1.rvb
 platform-acc.analyse.ilt
 platform.analyse.ilt
-portaal-acceptatie
 portaal-iuc-acceptatie
 portal-performance.test.ix
 portal.datascience
@@ -9660,7 +9661,6 @@ klantweb-acp.acc.cloudservices
 klassiker.chadwyck.co.uk.access.authkb
 krf-2-acp.acc.cloudservices
 krf-2-prd.cloudservices
-lab
 library.pressdisplay.com.access.authkb
 literom.nbdbiblion.nl.access.authkb
 login.access.authkb
@@ -14767,3 +14767,18 @@ wwww
 winwin
 dienstverlening
 dienstverleningskompas
+arbo
+complementair
+consultatievepsychiatrie
+eerstelijn
+kennisplatform
+loginacc
+mijn2
+neuro
+stoma
+studenten
+verstandelijkgehandicaptenzorg
+verzorgenden
+vzi
+www.pilot
+www.telewerk
