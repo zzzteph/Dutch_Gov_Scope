@@ -15,9 +15,9 @@ a-www
 a-opendata
 a-feeds
 _autodiscover._tcp
+staging
 magazines
 cms
-staging
 intranet
 vpn
 www-acc
@@ -67,11 +67,13 @@ enterpriseregistration
 webservices
 open
 dialin
+oud
 www.acc
 mail2
 fs
 ns2
 services
+old
 beeldbank
 docs
 mdm
@@ -79,7 +81,6 @@ elearning
 geoservices
 digikoppeling
 dwo
-oud
 mailing
 ns1
 www2
@@ -89,7 +90,6 @@ git
 preview
 www.test
 maps
-old
 geo
 kennis
 proto
@@ -425,6 +425,7 @@ rijnmond
 rds
 p-direkt
 werkbezoek
+www.old
 www.jaarverslag
 federatie
 via
@@ -848,7 +849,6 @@ edge
 mediatheek
 osiris
 pilot
-www.old
 test-www
 prd-www
 webportaal
@@ -14834,3 +14834,5 @@ vfbackend
 vfpf-blueriq-studio
 vfpf-blueriq-studio2
 www.ssa
+php74
+www.oud

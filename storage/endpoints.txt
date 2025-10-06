@@ -588,6 +588,7 @@ http://odata4.cbs.nl
 http://ogier.huygens.knaw.nl
 http://old-cms.contenttoolsrijksoverheid.nl
 http://old.cea.nl
+http://old.visitaties.nl
 http://ont-bestellingen.rivm.nl
 http://ontw.api-samenmeten.rivm.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
@@ -601,6 +602,7 @@ http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
 http://oud.infowms.nl
+http://oud.visitaties.nl
 http://outilevaluationbiosecurite.nl
 http://overpass.dev.huc.knaw.nl
 http://overstroomik-acceptance.rws.nl
@@ -619,6 +621,7 @@ http://pdvnl31.dans.knaw.nl
 http://pe-upload.nba.nl
 http://pers.letterenfonds.nl
 http://pgodemo.test.zm.irealisatie.nl
+http://php74.visitaties.nl
 http://pilot3.praatmeemetdeoverheid.nl
 http://pki-g2.kvk.nl
 http://pki.dnb.nl
@@ -817,6 +820,7 @@ http://videobellen.waterschaplimburg.nl
 http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://view.herseninstituut.knaw.nl
+http://visitaties.nl
 http://viya.rijkswaterstaat.nl
 http://vo-rijk-acc.cjib.nl
 http://voi.brabant.nl
@@ -890,6 +894,7 @@ http://www.momfer.meertens.knaw.nl
 http://www.nas-adaptatietool.nl
 http://www.ncc.gov.nl
 http://www.nias.knaw.nl
+http://www.old.visitaties.nl
 http://www.onderzoekinzesstappen.slo.nl
 http://www.openstad.zuid-holland.nl
 http://www.owas1.nba.nl
@@ -913,6 +918,7 @@ http://www.toezichtresultaten.nl
 http://www.tst-rds.nl
 http://www.typened-mrsa.rivm.nl
 http://www.uk.investinholland.com
+http://www.visitaties.nl
 http://www.web.nba.nl
 http://www.web1.nba.nl
 http://www.wetenschapentechnologie.slo.nl
@@ -9617,6 +9623,7 @@ https://staging.rijksapplicaties.nl
 https://staging.samenbouwenaanbereikbaarheid.nl
 https://staging.staatvandeuitvoering.nl
 https://staging.vananaarbeter.nl
+https://staging.visitaties.nl
 https://staging.werkenbij.kvk.nl
 https://stakeholdersregistratie.rijksapplicaties.nl
 https://stakeholdersregistratie.staging.rijksapplicaties.nl
