@@ -447,6 +447,7 @@ http://inspireaanmerking.nl
 http://int-prod-01.flevoland.nl
 http://intern.afm.nl
 http://intra-acc.rvo.nl
+http://intranet-acc.vfpf.nl
 http://intranet.ctgb.nl
 http://intranet.knaw.nl
 http://irma.toegangtotdeoverheid.nl
@@ -3593,6 +3594,7 @@ https://cms.tenderned.nl
 https://cms.test.tenderned.nl
 https://cms.tlokb.nl
 https://cms.verbeterjehuis.nl
+https://cms.vfpf.nl
 https://cms.werkenbij.rvo.nl
 https://cms1.rechtspraak.nl
 https://cms2-acc.s-bb.nl
@@ -3745,6 +3747,7 @@ https://content.omgevingswet.overheid.nl
 https://content.stimuleringsfonds.nl
 https://content.uwv.nl
 https://content.verbeterjehuis.nl
+https://content.vfpf.nl
 https://content1.cbs.nl
 https://contentadapter.cbs.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
@@ -4056,6 +4059,10 @@ https://dbpostgres.cultuurparticipatie.nl
 https://dcat-ap-donl.nl
 https://dcc-ienw.nl
 https://dcc.minienm.nl
+https://dcm-acc.vfpf.nl
+https://dcm-dev.vfpf.nl
+https://dcm-tst.vfpf.nl
+https://dcm.vfpf.nl
 https://dcmp-upnl-idp.rvo.nl
 https://dcp-time-slot.cbg-meb.nl
 https://dcypher.nl
@@ -5934,6 +5941,7 @@ https://ingelogd.acc.staging.mijnslachtofferzaak.nl
 https://ingelogd.mijnslachtofferzaak.nl
 https://ingelogd.staging.mijnslachtofferzaak.nl
 https://ingest.acc.livedebat.tweedekamer.nl
+https://inhuur.vfpf.nl
 https://inhuurdeskpolitie.nl
 https://inkoopplein.dictu.nl
 https://inkoopworkflow.staging.rijksapplicaties.nl
@@ -6045,6 +6053,9 @@ https://intranet.schadedoormijnbouw.nl
 https://intranet.scp.nl
 https://intranet.svb.nl
 https://intranet.vechtstromen.nl
+https://intranet.vfpf.nl
+https://intranetcms-acc.vfpf.nl
+https://intranetcms.vfpf.nl
 https://intranetvan.rvo.nl
 https://intrekkingeigenverzoek.cvdm.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
@@ -7003,6 +7014,7 @@ https://media.ssr.nl
 https://mediamasters.mijncyberrijbewijs.nl
 https://mediaportal.cbs.nl
 https://mediatheek.politieacademie.nl
+https://mediatheek.vfpf.nl
 https://medicijnkosten.nl
 https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
@@ -7157,6 +7169,7 @@ https://mijn.toeslagen.nl
 https://mijn.uwv.nl
 https://mijn.valys.nl
 https://mijn.venvn.nl
+https://mijn.vfpf.nl
 https://mijn.zorgaanbiedersportaal.nl
 https://mijn2.venvn.nl
 https://mijnacademie.rechtenoverheid.nl
@@ -7180,6 +7193,7 @@ https://mijnncg.nl
 https://mijnoctrooi.mypage.rvo.nl
 https://mijnoctrooi.rvo.nl
 https://mijnontwikkelhuis.nl
+https://mijnpf.vfpf.nl
 https://mijnpgb-siam.svb.nl
 https://mijnpgb.nl
 https://mijnpgb.svb.nl
@@ -7201,6 +7215,7 @@ https://mijntoezicht.azure.dnb.nl
 https://mijntoken.dictu.nl
 https://mijntokenactiveren.logius.nl
 https://mijntpw.svb.nl
+https://mijnvf.vfpf.nl
 https://mijnvoertuig.rdw.nl
 https://mijnwerkplek.cbg-meb.nl
 https://mijnwmo-siam.svb.nl
@@ -7654,6 +7669,10 @@ https://obi-o.knaw.nl
 https://obi.knaw.nl
 https://observium.apps.staatsbosbeheer.nl
 https://ocd-hub-nm-emnrd.hub.arcgis.com
+https://octopus-acc-webdav.vfpf.nl
+https://octopus-acc.vfpf.nl
+https://octopus-webdav.vfpf.nl
+https://octopus.vfpf.nl
 https://ocw-verhalen.nl
 https://ocwincijfers.nl
 https://odata.cbs.nl
@@ -7730,6 +7749,7 @@ https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
 https://onderhoud.rdw.nl
 https://onderhoud.rechtspraak.nl
+https://onderhoud.vfpf.nl
 https://ondermijningapp.nl
 https://ondermijningsacademie.kennisplatformondermijning.nl
 https://ondernemersloket.acceptatie.niwo.nl
@@ -8252,6 +8272,8 @@ https://personenregisterkinderopvang.duo.nl
 https://perspectief.uwv.nl
 https://pesticidesdatabase.ctgb.nl
 https://pet-explorer.sensorlab.tno.nl
+https://pfbackend.acc.vfpf.nl
+https://pfbackend.vfpf.nl
 https://pfos-pfoa-cow.apps.feedfoodtransfer.nl
 https://pgadmin.analyse.ilt.rijkscloud.nl
 https://pgadmin.vm-02.azure.grid.rws.nl
@@ -9494,6 +9516,7 @@ https://sri-richtlijnen.nl
 https://srv-ca01.nvao.net
 https://srv1.sbr-wonen.nl
 https://srv3.dopingautoriteit.nl
+https://ssa.vfpf.nl
 https://ssc-ict.nl
 https://ssc-ictspecials.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
@@ -10496,6 +10519,7 @@ https://veterinairberoepscollege.nl
 https://veterinairtuchtcollege.nl
 https://veva.nl
 https://vf-test.tno.nl
+https://vfpf.nl
 https://vfrchart.lvnl.nl
 https://vgc-acc.nvwa.nl
 https://vgc.nvwa.nl
@@ -12375,6 +12399,7 @@ https://www.verwijzingsportaalbankgegevens.nl
 https://www.veterinairberoepscollege.nl
 https://www.veterinairtuchtcollege.nl
 https://www.veva.nl
+https://www.vfpf.nl
 https://www.viewer.globio.info
 https://www.vnacs.nl
 https://www.volkshuisvestingnederland.nl

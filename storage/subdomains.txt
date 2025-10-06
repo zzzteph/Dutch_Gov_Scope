@@ -3730,6 +3730,7 @@ beeldbank.gebruikercentraal.nl
 beeldbank.hhdelfland.nl
 beeldbank.nimh.nl
 beeldbank.staatsbosbeheer.nl
+beeldbank.vfpf.nl
 beeldbank.zuid-holland.nl
 beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
@@ -4997,6 +4998,7 @@ cms.tenderned.nl
 cms.test.tenderned.nl
 cms.tlokb.nl
 cms.verbeterjehuis.nl
+cms.vfpf.nl
 cms.werkenbij.rvo.nl
 cms1.defensie.nl
 cms1.platformrijksoverheid.nl
@@ -5226,6 +5228,7 @@ content.omgevingswet.overheid.nl
 content.stimuleringsfonds.nl
 content.uwv.nl
 content.verbeterjehuis.nl
+content.vfpf.nl
 content1.cbs.nl
 contentadapter.cbs.nl
 contentbeheer.acc.omgevingswet.overheid.nl
@@ -5701,6 +5704,10 @@ dcc.minienm.nl
 dcdb01.knaw.nl
 dci-acc.topdesk.odc-noord.nl
 dci-prd.topdesk.odc-noord.nl
+dcm-acc.vfpf.nl
+dcm-dev.vfpf.nl
+dcm-tst.vfpf.nl
+dcm.vfpf.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
 dcp-time-slot.cbg-meb.nl
@@ -8904,6 +8911,7 @@ ingelogd.acc.staging.mijnslachtofferzaak.nl
 ingelogd.mijnslachtofferzaak.nl
 ingelogd.staging.mijnslachtofferzaak.nl
 ingest.acc.livedebat.tweedekamer.nl
+inhuur.vfpf.nl
 inhuurdeskpolitie.nl
 inkijk.demo.bkwi.nl
 inkijkmail1.bkwi.nl
@@ -9037,6 +9045,7 @@ intra.slo.nl
 intranet-acc.flevoland.nl
 intranet-acc.nwo.nl
 intranet-acc.rvr.org
+intranet-acc.vfpf.nl
 intranet-bestanden.flevoland.nl
 intranet-demo.dictu.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
@@ -9075,9 +9084,12 @@ intranet.scp.nl
 intranet.svb.nl
 intranet.tst.toeslagen.nl
 intranet.vechtstromen.nl
+intranet.vfpf.nl
 intranet14.minienm.nl
 intranet14.minienw.nl
 intranet2.kadaster.nl
+intranetcms-acc.vfpf.nl
+intranetcms.vfpf.nl
 intranetvan.rvo.nl
 intratst.belastingdienst.nl
 intrekkingeigenverzoek.cvdm.nl
@@ -11012,6 +11024,7 @@ media.ssr.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
 mediatheek.politieacademie.nl
+mediatheek.vfpf.nl
 mediation.online.rvr.org
 medicijnkosten.nl
 medicineshortagesdefects.nl
@@ -11199,6 +11212,7 @@ mijn.a5.digid.nl
 mijn.a6.digid.nl
 mijn.acc.belastingdienst.nl
 mijn.acc.ncsc.nl
+mijn.acc.vfpf.nl
 mijn.acceptatie.kadaster.nl
 mijn.acceptatie.lcms.nl
 mijn.acceptatie.schadefonds.nl
@@ -11230,6 +11244,7 @@ mijn.igj.nl
 mijn.inburgeren.nl
 mijn.justis.nl
 mijn.kadaster.nl
+mijn.keten.vfpf.nl
 mijn.knmi.nl
 mijn.lcms.nl
 mijn.leerhuisinformatiehuishouding.nl
@@ -11247,6 +11262,7 @@ mijn.odc-noord.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
 mijn.parlement.nl
+mijn.preprod.vfpf.nl
 mijn.preprod1.digid.nl
 mijn.preprod2.digid.nl
 mijn.productie.lcms.nl
@@ -11295,6 +11311,7 @@ mijn.uboregistertrusts.nl
 mijn.uwv.nl
 mijn.valys.nl
 mijn.venvn.nl
+mijn.vfpf.nl
 mijn.zorgaanbiedersportaal.nl
 mijn.zuid-holland.nl
 mijn2-ontw.s-bb.nl
@@ -11356,6 +11373,13 @@ mijnoctrooi.mypage.rvo.nl
 mijnoctrooi.rvo.nl
 mijnontwikkelhuis.nl
 mijnoverheid.rvr.org
+mijnpf-fenix.vfpf.nl
+mijnpf-ods-fenix.vfpf.nl
+mijnpf-vfbackend.vfpf.nl
+mijnpf.acc.vfpf.nl
+mijnpf.keten.vfpf.nl
+mijnpf.preprod.vfpf.nl
+mijnpf.vfpf.nl
 mijnpgb-a.svb.nl
 mijnpgb-siam-a.svb.nl
 mijnpgb-siam.svb.nl
@@ -11386,6 +11410,10 @@ mijntokenactiveren.logius.nl
 mijntpw-a.svb.nl
 mijntpw.svb.nl
 mijntst01.cbr.nl
+mijnvf.acc.vfpf.nl
+mijnvf.keten.vfpf.nl
+mijnvf.preprod.vfpf.nl
+mijnvf.vfpf.nl
 mijnvoertuig.rdw.nl
 mijnwerkplek.cbg-meb.nl
 mijnwlzaanvraag.ciz.nl
@@ -12428,6 +12456,10 @@ ocd-hub-nm-emnrd.hub.arcgis.com
 ocs.nba.nl
 ocs.nji.nl
 ocsp.pkioverheid.nl
+octopus-acc-webdav.vfpf.nl
+octopus-acc.vfpf.nl
+octopus-webdav.vfpf.nl
+octopus.vfpf.nl
 ocw-verhalen.nl
 ocwincijfers.nl
 odata.cbs.nl
@@ -12455,6 +12487,8 @@ odijmond.nl
 odin.odmh.nl
 odin.tropomi.eu
 odmh.nl
+ods.keten.vfpf.nl
+ods.vfpf.nl
 oe-beheer.procesinfrastructuur.nl
 oe-bezorgen.procesinfrastructuur.nl
 oe-dashboard.procesinfrastructuur.nl
@@ -12550,6 +12584,7 @@ onderhoud.ciz.nl
 onderhoud.rdw.nl
 onderhoud.rechtspraak.nl
 onderhoud.s-bb.nl
+onderhoud.vfpf.nl
 ondermijningapp.nl
 ondermijningsacademie.kennisplatformondermijning.nl
 ondernemersloket.acceptatie.niwo.nl
@@ -13621,6 +13656,8 @@ pet-geb71-ap03.ap.tno.nl
 pet-geb71-ap04.ap.tno.nl
 pf1.slotcoordination.nl
 pfa.tno.nl
+pfbackend.acc.vfpf.nl
+pfbackend.vfpf.nl
 pfm.document-viewer-api.dso.kadaster.nl
 pfm.geodoc.dso.kadaster.nl
 pfm.ozon.dso.kadaster.nl
@@ -15918,6 +15955,10 @@ slechtvalk.brabant.nl
 slim-reizen.ndw.nu
 slimmebruggen-backend.zuid-holland.nl
 slimmebruggen.zuid-holland.nl
+slimmer-acc.vfpf.nl
+slimmer-dev.vfpf.nl
+slimmer-tst.vfpf.nl
+slimmer.vfpf.nl
 slimmerreizen.zuid-holland.nl
 slimmestad.rdi.nl
 slimmezorgestafette.nl
@@ -16142,6 +16183,7 @@ srv-zmb02-34.gn3.rijkscloud.nl
 srv-zmb12-13.gn3.rijkscloud.nl
 srv1.sbr-wonen.nl
 srv3.dopingautoriteit.nl
+ssa.vfpf.nl
 ssc-campus.nl
 ssc-ict.nl
 ssc-ictspecials.nl
@@ -17956,6 +17998,11 @@ veterinairberoepscollege.nl
 veterinairtuchtcollege.nl
 veva.nl
 vf-test.tno.nl
+vfbackend.acc.vfpf.nl
+vfbackend.vfpf.nl
+vfpf-blueriq-studio.vfpf.nl
+vfpf-blueriq-studio2.vfpf.nl
+vfpf.nl
 vfrchart.lvnl.nl
 vgc-acc.nvwa.nl
 vgc.nvwa.nl
@@ -20516,6 +20563,7 @@ www.sportdagjenv.nl
 www.sportenbewegenincijfers.nl
 www.sportinnovator.nl
 www.sri-richtlijnen.nl
+www.ssa.vfpf.nl
 www.ssc-campus.nl
 www.ssc-ict.nl
 www.ssc-ictspecials.nl
@@ -20698,6 +20746,7 @@ www.verwijzingsportaalbankgegevens.nl
 www.veterinairberoepscollege.nl
 www.veterinairtuchtcollege.nl
 www.veva.nl
+www.vfpf.nl
 www.videos.minbzk.nl
 www.viewer.globio.info
 www.visit-acc.schadedoormijnbouw.nl
