@@ -6049,6 +6049,8 @@ dienstterugkeerenvertrek.sitearchief.nl
 diensttoeslagen.nl
 diensttoeslagen.sitearchief.nl
 dienstuitvoeringonderwijs.sitearchief.nl
+dienstverlening.venster.nl
+dienstverleningskompas.venster.nl
 diergeneeskunderegister.nl
 diergeneesmiddeleninformatiebank.nl
 digi.ilent.nl
@@ -17059,6 +17061,7 @@ test.tws-esb.rws.nl
 test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
 test.vcpapp.rivm.nl
+test.venster.nl
 test.volwassenheidsscan.gebruikercentraal.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
@@ -17839,6 +17842,7 @@ velocitydemo.arcgis.com
 velocitydev.arcgis.com
 velocitydevops.arcgis.com
 velsen.databank.nl
+venster.nl
 vep.belastingdienst.nl
 vepana.vcdn.belastingdienst.nl
 vepanaont.vcdn.belastingdienst.nl
@@ -20617,6 +20621,7 @@ www.veiligheidsberaad.nl
 www.veiligheidsmonitor.demo.databank.nl
 www.veiligheidsregioflevoland.nl
 www.veiligtatoeerenenpiercen.nl
+www.venster.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
 www.vergaderen.s-bb.nl
