@@ -272,6 +272,7 @@ idp
 downloads
 activesync
 redirect
+community
 sip.myroom
 luchtfoto
 web01
@@ -420,7 +421,6 @@ mft
 prisma
 cloud
 ns
-community
 rijnmond
 rds
 p-direkt
