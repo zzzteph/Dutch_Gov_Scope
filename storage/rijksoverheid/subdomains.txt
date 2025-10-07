@@ -3423,6 +3423,7 @@ autodiscover.tweedekamer.nl
 autodiscover.uwv.nl
 autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
+autodiscover.vnsc.eu
 autodiscover.webmail.politieacademie.nl
 autodoc.eerstekamer.nl
 autorisatie-a.cito.nl
@@ -10623,6 +10624,7 @@ magazines.rivm.nl
 magazines.slo.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
+magazines.vnsc.eu
 magazines.vrachtwagenheffing.nl
 magazines.werkenvoornederland.nl
 magazines.wrr.nl
@@ -10779,6 +10781,7 @@ mail.veiligheidsregioflevoland.nl
 mail.visinhetho.nl
 mail.vno.minbzk.nl
 mail.vnp.minbzk.nl
+mail.vnsc.eu
 mail.vnw.minbzk.nl
 mail.waterschaplimburg.nl
 mail.wodc.nl
@@ -14191,6 +14194,7 @@ prizmo.rvo.nl
 prk-lpb.duo.nl
 pro.document-viewer-api.dso.kadaster.nl
 pro.ozon.dso.kadaster.nl
+pro.vnsc.eu
 proastweb.rivm.nl
 probeer.acm.nl
 probeer.ihw.nl
@@ -14307,6 +14311,7 @@ programmaplan-admin.vm-02.azure.grid.rws.nl
 programmaplan-test.vm-02.azure.grid.rws.nl
 programmaplan.vm-02.azure.grid.rws.nl
 programmavivet.nl
+programs.vnsc.eu
 prohibit.osiris.rivm.nl
 project.cultuurparticipatie.nl
 projecta44.nl
@@ -18110,6 +18115,7 @@ vmanage02.ksh.kadaster.nl
 vnacs.nl
 vng.databank.nl
 vno.minbzk.nl
+vnsc.eu
 vnw.minbzk.nl
 vo-rijk-acc.cjib.nl
 vocabs.cbs.nl

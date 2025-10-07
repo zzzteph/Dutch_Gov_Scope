@@ -15,8 +15,8 @@ a-www
 a-opendata
 a-feeds
 _autodiscover._tcp
-staging
 magazines
+staging
 cms
 intranet
 vpn
@@ -14836,3 +14836,5 @@ vfpf-blueriq-studio2
 www.ssa
 php74
 www.oud
+pro
+programs
