@@ -2425,6 +2425,7 @@ agenda-regulatoria-rio-aguas-bienio-2025-2026-pcrj.hub.arcgis.com
 agendalaadinfrastructuur.nl
 agendastad.nl
 agendavoorhetwaddengebied2050.nl
+agendavoorhetwaddengebied2050.waddenzee.nl
 agentregister.kb.nl
 aggregator-acc.etoegang.nl
 aggregator-dev.etoegang.nl
@@ -3650,6 +3651,7 @@ basemapstyles-api.arcgis.com
 basiscijfers.s-bb.nl
 basisdocumentinbeeld.slo.nl
 basisinformatie-overstromingen.nl
+basismonitoringwadden.waddenzee.nl
 basisregistratie.vechtstromen.nl
 basisregistratieondergrond.nl
 basisscan.digitaltrustcenter.nl
@@ -4142,6 +4144,7 @@ bmt-t.secure.cito.nl
 bmt.acc.belastingdienst.nl
 bmt.belastingdienst.nl
 bmt.secure.cito.nl
+bmw9520.waddenzee.nl
 bnm-i.huygens.knaw.nl
 bnpb-inacovid19.hub.arcgis.com
 bo-prod.mijnoctrooi.rvo.nl
@@ -5640,6 +5643,7 @@ dataderden.cbs.nl
 datadrop.datafabriek.ienw.rijkscloud.nl
 datadrop.dev-datafabriek.ienw.rijkscloud.nl
 datafusion.ndw.nu
+datahuiswadden.waddenzee.nl
 dataiku.diobzk.rijkscloud.nl
 dataiku.michel.rijkscloud.nl
 dataiku.rws.rijkscloud.nl
@@ -7911,6 +7915,7 @@ gdw-demo.cvr.rvb.rijkscloud.nl
 gdw-demo.devops.rvb.rijkscloud.nl
 gdw-release.cvr.rvb.rijkscloud.nl
 gdw-release.devops.rvb.rijkscloud.nl
+gebiedagen2.waddenzee.nl
 gebiedsprofielen.zuid-holland.nl
 gebruiker-beheer.dus-i.nl
 gebruiker.rvo.nl
@@ -13832,6 +13837,7 @@ planon.dnb.nl
 planonprod.vallei-veluwe.nl
 planregistratie-wonen.zuid-holland.nl
 plantool.huurcommissie.nl
+plasticvrijewadden.waddenzee.nl
 platform-acc.analyse.ilt.rijkscloud.nl
 platform.analyse.ilt.rijkscloud.nl
 platform.s-bb.nl
@@ -17213,6 +17219,7 @@ test.venster.nl
 test.volksgezondheidenzorg.info
 test.volwassenheidsscan.gebruikercentraal.nl
 test.vtv2018.nl
+test.waddenzee.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
 test.webservices.donorregister.nl
@@ -18422,7 +18429,9 @@ wachtwoord.cultuurparticipatie.nl
 wachtwoord.rijkswaterstaat.nl
 wachtwoord.rws.nl
 wachtwoordwijzigen.aaenmaas.nl
+waddenzee.nl
 wadsup.beheerautoriteitwaddenzee.nl
+wadzee9520.waddenzee.nl
 wadziejij.rijkewaddenzee.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
@@ -20882,6 +20891,7 @@ www.vzinfo.nl
 www.waarderingskamer.nl
 www.waarzitwatin.nl
 www.wachtrijbooster.nl
+www.waddenzee.nl
 www.wadziejij.rijkewaddenzee.nl
 www.watdraagjijbij.arbeidsmarktplatformpo.nl
 www.watergegevens.rijkswaterstaat.nl

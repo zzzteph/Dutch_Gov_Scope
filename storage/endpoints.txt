@@ -249,6 +249,7 @@ http://bggo.rivm.nl
 http://bibliotheek.gezondeleefomgeving.nl
 http://birdviewer.rws.nl
 http://blauwe-knop-acc.cjib.nl
+http://bmw9520.waddenzee.nl
 http://bpa.rvo.nl
 http://bridge-repair-d3p6-scdot.hub.arcgis.com
 http://bureau-reach.nl
@@ -391,6 +392,7 @@ http://ftp.schoolleidersregisterpo.nl
 http://gatus.lpc.logius.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
+http://gebiedagen2.waddenzee.nl
 http://gegevensbijbesluiten-redactie.overheid.nl
 http://genconnector-acceptatie.sawa-vth.nl
 http://genconnector.sawa-vth.nl
@@ -784,6 +786,7 @@ http://test.praatmeemetdeoverheid.nl
 http://test.staatvenz.nl
 http://test.volksgezondheidenzorg.info
 http://test.vtv2018.nl
+http://test.waddenzee.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
@@ -840,6 +843,7 @@ http://vpn.bkd.eu
 http://vragenlijst-acc.rivm.nl
 http://vth.zuid-holland.nl
 http://w3dxweb.knmi.nl
+http://wadzee9520.waddenzee.nl
 http://warmtetransitieatlas.zuid-holland.nl
 http://waterwebservices-acc.rws.nl
 http://wcf-eafspraak-acceptatie.ba.uwv.nl
@@ -2197,6 +2201,7 @@ https://agenda-regulatoria-rio-aguas-bienio-2025-2026-pcrj.hub.arcgis.com
 https://agendalaadinfrastructuur.nl
 https://agendastad.nl
 https://agendavoorhetwaddengebied2050.nl
+https://agendavoorhetwaddengebied2050.waddenzee.nl
 https://agentregister.kb.nl
 https://aggregator.etoegang.nl
 https://agic-symposium-maps-and-apps-agic.hub.arcgis.com
@@ -2830,6 +2835,7 @@ https://basemapsbeta.arcgis.com
 https://basemapstyles-api.arcgis.com
 https://basisdocumentinbeeld.slo.nl
 https://basisinformatie-overstromingen.nl
+https://basismonitoringwadden.waddenzee.nl
 https://basisregistratieondergrond.nl
 https://basisscan.digitaltrustcenter.nl
 https://bata-next-wave-nelsonnygaard.hub.arcgis.com
@@ -4039,6 +4045,7 @@ https://databestanden.cbs.nl
 https://dataciteminter.labs.dans.knaw.nl
 https://dataderden.cbs.nl
 https://datafusion.ndw.nu
+https://datahuiswadden.waddenzee.nl
 https://datalab.knmi.nl
 https://datalek.huc.knaw.nl
 https://datalekken-acc.autoriteitpersoonsgegevens.nl
@@ -8395,6 +8402,7 @@ https://planmer.zuid-holland.nl
 https://planon-live.tweedekamer.nl
 https://planonprod.vallei-veluwe.nl
 https://planregistratie-wonen.zuid-holland.nl
+https://plasticvrijewadden.waddenzee.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
 https://platform.analyse.ilt.rijkscloud.nl
 https://platformafpakken.fiod.nl
@@ -10772,6 +10780,7 @@ https://wachtwoord.brabant.nl
 https://wachtwoord.cultuurparticipatie.nl
 https://wachtwoord.rijkswaterstaat.nl
 https://wachtwoord.rws.nl
+https://waddenzee.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wadziejij.rijkewaddenzee.nl
 https://wallboard.apps.staatsbosbeheer.nl
@@ -12517,6 +12526,7 @@ https://www.vzinfo.nl
 https://www.waarderingskamer.nl
 https://www.waarzitwatin.nl
 https://www.wachtrijbooster.nl
+https://www.waddenzee.nl
 https://www.wadziejij.rijkewaddenzee.nl
 https://www.waterschaplimburg.nl
 https://www.webshop.incidentmanagement.nl
