@@ -15,8 +15,8 @@ a-www
 a-opendata
 a-feeds
 _autodiscover._tcp
-magazines
 staging
+magazines
 cms
 intranet
 vpn
