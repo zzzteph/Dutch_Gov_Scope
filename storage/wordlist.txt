@@ -94,6 +94,7 @@ maps
 static
 geo
 kennis
+nieuwsbrief
 proto
 www-ac
 www-dev
@@ -111,7 +112,6 @@ acceptatie.mijn
 demo
 designsystem
 mobiel
-nieuwsbrief
 www-ow
 www-ts
 zaaksysteem
@@ -764,6 +764,7 @@ www.aanvragen
 bes
 sites
 sub
+educatie
 guestportal
 sip1
 mijnzaak-acc
@@ -8695,7 +8696,6 @@ www.ncc
 acceptatie.aanmelden
 beheer.acc
 antispam
-educatie
 highlights2022
 highlights2023
 highlights2024
