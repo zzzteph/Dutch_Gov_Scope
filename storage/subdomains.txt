@@ -2525,6 +2525,8 @@ allesoversport.nl
 alliant.rijkswaterstaat.nl
 alm.cibg.nl
 almanak.overheid.nl
+almereinkaart-acceptatie.webgispublisher.nl
+almereinkaart.webgispublisher.nl
 als-geospatial-hub-nonprofit.hub.arcgis.com
 altbau-primariact.hub.arcgis.com
 alterra.nl
@@ -5961,6 +5963,7 @@ dev.ssr.nl
 dev.test.cloud.kadaster.nl
 dev.test.kadaster.nl
 dev.uk.investinholland.com
+dev.wgp5.webgispublisher.nl
 devashishyadav20.github.io
 develop.commabz.nl
 develop.dementieinkaart.nl
@@ -7754,6 +7757,7 @@ forum.orfeus-eu.org
 forum.raadopenbaarbestuur.nl
 forum.schadedoormijnbouw.nl
 forum.topinkomens.nl
+forum.webgispublisher.nl
 forums.arcgis.com
 forumstandaardisatie.gov.nl
 forumstandaardisatie.nl
@@ -8067,10 +8071,18 @@ geoportal.aaenmaas.nl
 georegister-intern.flevoland.nl
 georegister.brabant.nl
 georegister.flevoland.nl
+geoserver.atlas.webgispublisher.nl
 geoserver.brabant.nl
+geoserver.brabantsedelta.webgispublisher.nl
 geoserver.cbs.nl
 geoserver.clustertool.tno.nl
+geoserver.dcmr.webgispublisher.nl
+geoserver.demo.webgispublisher.nl
+geoserver.fugro.webgispublisher.nl
+geoserver.hdsr.webgispublisher.nl
+geoserver.hhnk.webgispublisher.nl
 geoserver.limburg.nl
+geoserver.productie.webgispublisher.nl
 geoservertest.brabant.nl
 geoservices.cbs.nl
 geoservices.cultureelerfgoed.nl
@@ -8515,6 +8527,7 @@ hcib.datawonen.nl
 hdcgis.maps.arcgis.com
 hdl.rijksapplicaties.nl
 hdsr.nl
+hdsr.webgispublisher.nl
 health-api.acc.coronatest.nl
 health-api.acceptatie.coronatest.nl
 health-api.test.coronatest.nl
@@ -8548,6 +8561,7 @@ hetverhaalvan.flevoland.nl
 hg.fa.knaw.nl
 hgr.rechtspraak.nl
 hhdelfland.nl
+hhnk.webgispublisher.nl
 hielprikapp.pns.nl
 hierradiokootwijk.nl
 highcharts-acc.cbs.nl
@@ -14686,6 +14700,7 @@ rc03.dh.huc.knaw.nl
 rca.rivm.nl
 rce-acc.topdesk.odc-noord.nl
 rce-prd.topdesk.odc-noord.nl
+rce.webgispublisher.nl
 rcgog.nl
 rcihh.nl
 rcm.belastingdienst.nl
@@ -18645,6 +18660,7 @@ webftptest.dictu.nl
 webgca.rdw.nl
 webgis.aaenmaas.nl
 webgisacc.aaenmaas.nl
+webgispublisher.nl
 webhook-teams.rws.nl
 webloket-beheer-prd.cloudservices.kb.nl
 webloket.kb.nl
@@ -20921,6 +20937,7 @@ www.watwerktvooronsrijk.nl
 www.wbtv-test-mendix.rvr.org
 www.web.nba.nl
 www.web1.nba.nl
+www.webgispublisher.nl
 www.webservices.tenderned.nl
 www.webshop.incidentmanagement.nl
 www.wegen.brabant.nl

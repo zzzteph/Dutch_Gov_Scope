@@ -2279,6 +2279,8 @@ https://alleenjijbepaalt.nl
 https://allesoverbiologisch.nl
 https://allesoversport.nl
 https://almanak.overheid.nl
+https://almereinkaart-acceptatie.webgispublisher.nl
+https://almereinkaart.webgispublisher.nl
 https://als-geospatial-hub-nonprofit.hub.arcgis.com
 https://altbau-primariact.hub.arcgis.com
 https://altiris.apps.staatsbosbeheer.nl
@@ -5357,6 +5359,7 @@ https://fortbijrijnauwen.staatsbosbeheer.nl
 https://forum.orfeus-eu.org
 https://forum.schadedoormijnbouw.nl
 https://forum.topinkomens.nl
+https://forum.webgispublisher.nl
 https://forumstandaardisatie.gov.nl
 https://forumstandaardisatie.nl
 https://foss4g-tokai.github.io
@@ -5497,9 +5500,17 @@ https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
 https://georegister.brabant.nl
 https://georegister.flevoland.nl
+https://geoserver.atlas.webgispublisher.nl
+https://geoserver.brabantsedelta.webgispublisher.nl
 https://geoserver.cbs.nl
 https://geoserver.clustertool.tno.nl
+https://geoserver.dcmr.webgispublisher.nl
+https://geoserver.demo.webgispublisher.nl
+https://geoserver.fugro.webgispublisher.nl
+https://geoserver.hdsr.webgispublisher.nl
+https://geoserver.hhnk.webgispublisher.nl
 https://geoserver.limburg.nl
+https://geoserver.productie.webgispublisher.nl
 https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
 https://geoservices.hdsr.nl
@@ -5719,6 +5730,7 @@ https://hcaict.nl
 https://hdcgis.maps.arcgis.com
 https://hdl.rijksapplicaties.nl
 https://hdsr.nl
+https://hdsr.webgispublisher.nl
 https://healthcouncil.nl
 https://helloid.aaenmaas.nl
 https://helloid.vechtstromen.nl
@@ -5743,6 +5755,7 @@ https://hetcak.nl
 https://hetverhaalvan.flevoland.nl
 https://hgr.rechtspraak.nl
 https://hhdelfland.nl
+https://hhnk.webgispublisher.nl
 https://hierradiokootwijk.nl
 https://highcharts.cbs.nl
 https://higherlevel.nl
@@ -8850,6 +8863,7 @@ https://rbv-acc.rijksfinancien.nl
 https://rbv.rijksfinancien.nl
 https://rce-acc.topdesk.odc-noord.nl
 https://rce-prd.topdesk.odc-noord.nl
+https://rce.webgispublisher.nl
 https://rcgog.nl
 https://rcihh.nl
 https://rd1.toegang.overheid.nl
@@ -10883,6 +10897,7 @@ https://webforms.belastingdienst.nl
 https://webgca.rdw.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
+https://webgispublisher.nl
 https://webloket-beheer-prd.cloudservices.kb.nl
 https://webloket.kb.nl
 https://webloketienw.rijksapplicaties.nl
@@ -12543,6 +12558,7 @@ https://www.waterkwaliteitscheck.nl
 https://www.waterschaplimburg.nl
 https://www.waterveiligheidsportaal.nl
 https://www.watwerktvooronsrijk.nl
+https://www.webgispublisher.nl
 https://www.webshop.incidentmanagement.nl
 https://www.wegen.brabant.nl
 https://www.wegwijzermensenhandel.nl

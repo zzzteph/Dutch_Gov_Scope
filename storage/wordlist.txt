@@ -197,6 +197,7 @@ iam
 service
 access
 developer
+forum
 monitor
 statistiek
 www.staging
@@ -261,7 +262,6 @@ intern
 new
 transfer
 magazinesintern
-forum
 idm
 acc-cms
 elo
@@ -14890,3 +14890,17 @@ wadzee9520
 idsrv
 idsrvacc
 idsrvtest
+almereinkaart-acceptatie
+almereinkaart
+dev.wgp5
+geoserver.atlas
+geoserver.brabantsedelta
+geoserver.dcmr
+geoserver.demo
+geoserver.fugro
+geoserver.hdsr
+geoserver.hhnk
+geoserver.productie
+hdsr
+hhnk
+rce
