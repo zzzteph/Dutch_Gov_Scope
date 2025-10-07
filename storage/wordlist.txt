@@ -107,6 +107,7 @@ aanvragen
 media
 beta
 acceptatie.beheer
+demo
 designsystem
 mobiel
 nieuwsbrief
@@ -136,7 +137,6 @@ acceptatie.mijn
 kaarten
 wifi
 helpdesk
-demo
 sso
 academy
 content
