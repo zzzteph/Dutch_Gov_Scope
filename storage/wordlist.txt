@@ -594,6 +594,7 @@ opleiding
 formulieren-acc
 zandbak
 odin
+werkplaats
 pop
 e-learning
 import-acc.organisaties
@@ -3404,7 +3405,6 @@ toezichtresultaten
 formdesk
 outbound
 werkplaats-acc
-werkplaats
 pvs
 wooincijfers
 acc-energielabels.gebouwen
