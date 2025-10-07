@@ -2084,6 +2084,7 @@ acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.uzipas.uziregister.nl
 acceptatie.vaarweginformatie.nl
 acceptatie.vcpapp.rivm.nl
+acceptatie.volksgezondheidenzorg.info
 acceptatie.voorraadtelling.rivm.nl
 acceptatie.webservice.aiz.osiris.rivm.nl
 acceptatie.webservice.cdif.osiris.rivm.nl
@@ -5291,6 +5292,7 @@ corsa2023.brabant.nl
 cosacovid-cosagis.hub.arcgis.com
 cost832.alterra.nl
 cost869.alterra.nl
+costofillnesstool.volksgezondheidenzorg.info
 countrydashboard.mfaservices.nl
 covid-19-drp-austria.hub.arcgis.com
 covid-19-geohub-deutschland-esridech.hub.arcgis.com
@@ -10000,6 +10002,7 @@ kos.kvk.nl
 kos.preprod.kvk.nl
 kosteneffectiviteit-preventie.rivm.nl
 kostenkentallen.rvo.nl
+kostenvanziektentool.volksgezondheidenzorg.info
 kp-moss-ut.tst.belastingdienst.nl
 kpm.jeugdconnect.nl
 kpn-eid-acc.sso.eherkenning.nl
@@ -17187,6 +17190,7 @@ test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
 test.vcpapp.rivm.nl
 test.venster.nl
+test.volksgezondheidenzorg.info
 test.volwassenheidsscan.gebruikercentraal.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
@@ -18171,6 +18175,7 @@ voi.brabant.nl
 vois.datawonen.nl
 volgsysteem-configuratie.secure.cito.nl
 volgsysteem-qti37-player-cache.cito.nl
+volksgezondheidenzorg.info
 volkshuisvestingnederland.nl
 volwassenheidsscan.gebruikercentraal.nl
 voor1.rijksoverheid.nl
@@ -20825,6 +20830,7 @@ www.visserijinnovatienetwerk.nl
 www.vliegtuiggeluid.nl
 www.vnacs.nl
 www.voedingscentrum.nl
+www.volksgezondheidenzorg.info
 www.volkshuisvestingnederland.nl
 www.voordejeugdenhetgezin.nl
 www.vrachtwagenheffing.nl

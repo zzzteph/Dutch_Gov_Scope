@@ -9,8 +9,8 @@ test
 mijn
 english
 webmail
-api
 acceptatie
+api
 a-www
 a-opendata
 a-feeds
@@ -14870,3 +14870,5 @@ werkenbijhet
 www.kantinescan
 www.kantinescanacc
 www.kantinescanrgk
+costofillnesstool
+kostenvanziektentool
