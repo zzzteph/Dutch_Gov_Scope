@@ -416,6 +416,7 @@ pki
 sip2
 stage
 international
+www.cms
 mijnzaak
 2020
 api.acceptatie
@@ -763,7 +764,6 @@ www.aanvragen
 bes
 sites
 sub
-www.cms
 guestportal
 sip1
 mijnzaak-acc
