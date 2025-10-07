@@ -90,6 +90,7 @@ http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://acceptatie.tws-esb.rws.nl
 http://acceptatie.volksgezondheidenzorg.info
 http://acceptatie.voorraadtelling.rivm.nl
+http://acceptatie.vtv2018.nl
 http://acceptatie.webservice.cdif.osiris.rivm.nl
 http://acceptatie.werkenbij.rws.nl
 http://acceptatie.zoek.bodemambities.nl
@@ -777,6 +778,7 @@ http://test.mgo.irealisatie.nl
 http://test.praatmeemetdeoverheid.nl
 http://test.staatvenz.nl
 http://test.volksgezondheidenzorg.info
+http://test.vtv2018.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
@@ -10726,6 +10728,7 @@ https://vt.1ratio.nl
 https://vt.landelijkregisterkinderopvang.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://vtv2018.nl
 https://vubis-az-t.politieacademie.nl
 https://vubis-az.politieacademie.nl
 https://vubis-t.politieacademie.nl
@@ -12491,6 +12494,7 @@ https://www.vrachtwagenheffing.nl
 https://www.vrachtwagenheffingsbeleid.nl
 https://www.vragen.coronatest.nl
 https://www.vreemdelingenvisie.nl
+https://www.vtv2018.nl
 https://www.vzinfo.nl
 https://www.wadziejij.rijkewaddenzee.nl
 https://www.waterschaplimburg.nl

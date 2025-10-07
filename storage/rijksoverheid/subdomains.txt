@@ -2086,6 +2086,7 @@ acceptatie.vaarweginformatie.nl
 acceptatie.vcpapp.rivm.nl
 acceptatie.volksgezondheidenzorg.info
 acceptatie.voorraadtelling.rivm.nl
+acceptatie.vtv2018.nl
 acceptatie.webservice.aiz.osiris.rivm.nl
 acceptatie.webservice.cdif.osiris.rivm.nl
 acceptatie.webservice.prezies.osiris.rivm.nl
@@ -17193,6 +17194,7 @@ test.vcpapp.rivm.nl
 test.venster.nl
 test.volksgezondheidenzorg.info
 test.volwassenheidsscan.gebruikercentraal.nl
+test.vtv2018.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
 test.webservices.donorregister.nl
@@ -18357,6 +18359,7 @@ vts-aanmelding.politieacademie.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
+vtv2018.nl
 vtw.politie.nl
 vtwdatabase.rws.nl
 vubis-az-t.politieacademie.nl
@@ -20849,6 +20852,7 @@ www.vragen.coronatest.nl
 www.vragenlijst.minvws.nl
 www.vreemdelingenvisie.nl
 www.vt016ed.dictu.nl
+www.vtv2018.nl
 www.vzinfo.nl
 www.wadziejij.rijkewaddenzee.nl
 www.watdraagjijbij.arbeidsmarktplatformpo.nl
