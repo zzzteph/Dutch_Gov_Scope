@@ -1792,6 +1792,7 @@ acc.toegangtotdeoverheid.nl
 acc.tradewithnl.nl
 acc.uziregister.nl
 acc.validatie.nl
+acc.waterkwaliteitsportaal.nl
 acc.web-static.rijkswaterstaat.nl
 acc.wegwijzer.overheid.nl
 acc.werkenbij.api.rijkswaterstaat.nl
@@ -8786,6 +8787,9 @@ idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
 idro.ont.belastingdienst.nl
 idselect.cultureelerfgoed.nl
+idsrv.waterkwaliteitsportaal.nl
+idsrvacc.waterkwaliteitsportaal.nl
+idsrvtest.waterkwaliteitsportaal.nl
 idtst.brabant.nl
 ie-i.espacenet.com
 ie.espacenet.com
@@ -14252,6 +14256,7 @@ proastweb.rivm.nl
 probeer.acm.nl
 probeer.ihw.nl
 probeer.pianoo.nl
+probeer.waterkwaliteitsportaal.nl
 procesinfrastructuur.nl
 processierups.nu
 processinnovation.nl
@@ -15926,6 +15931,7 @@ signinghub.kss.kadaster.nl
 sika0115.github.io
 simcms.ahn.nl
 simcms.ihw.nl
+simcms.waterkwaliteitsportaal.nl
 simlandscape.alterra.nl
 simpel-switchen.nl
 simplesamlidp-acc.dictu.nl
@@ -17221,6 +17227,7 @@ test.volksgezondheidenzorg.info
 test.volwassenheidsscan.gebruikercentraal.nl
 test.vtv2018.nl
 test.waddenzee.nl
+test.waterkwaliteitsportaal.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
 test.webservices.donorregister.nl
@@ -18468,6 +18475,7 @@ waterinfo-extra.rws.nl
 waterinfo.rws.nl
 waterkwaliteitinbeeld.hdsr.nl
 waterkwaliteitscheck.nl
+waterkwaliteitsportaal.nl
 watermark-prd.cloudservices.kb.nl
 watermark.kb.nl
 watermerk.hdsr.nl
@@ -20904,6 +20912,7 @@ www.waterbeschikbaarheid.nl
 www.watergegevens.rijkswaterstaat.nl
 www.watergegevens.rws.nl
 www.waterkwaliteitscheck.nl
+www.waterkwaliteitsportaal.nl
 www.waterschaplimburg.nl
 www.wbtv-test-mendix.rvr.org
 www.web.nba.nl

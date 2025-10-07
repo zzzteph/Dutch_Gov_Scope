@@ -266,6 +266,7 @@ idm
 acc-cms
 elo
 mail1
+probeer
 search
 acc-www
 cm
@@ -391,8 +392,8 @@ test-cms
 handboek
 ontheffingaanvragen
 communicatie
-probeer
 melding
+simcms
 www.redactie
 development
 office
@@ -691,7 +692,6 @@ nexus
 aovpn
 api-dev
 portaal-acc
-simcms
 viewer
 repo
 rss
@@ -14887,3 +14887,6 @@ datahuiswadden
 gebiedagen2
 plasticvrijewadden
 wadzee9520
+idsrv
+idsrvacc
+idsrvtest
