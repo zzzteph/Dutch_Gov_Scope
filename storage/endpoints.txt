@@ -858,6 +858,7 @@ http://webmail.werkenvoornederland.nl
 http://webservice.mgk.osiris.rivm.nl
 http://webservice.prezies.osiris.rivm.nl
 http://webtooling.irealisatie.nl
+http://wem-live.waarderingskamer.nl
 http://werkenbij.belastingdienst.nl
 http://werkplek-test.rws.nl
 http://wolk.hogeraad.nl
@@ -4951,6 +4952,7 @@ https://excellentescholen.nl
 https://exchange-mit.rva.nl
 https://exchange.flevoland.nl
 https://exchange.rva.nl
+https://exchange.waarderingskamer.nl
 https://exchangerate.douane.nl
 https://exchangeratetest.douane.nl
 https://exeg.staging.rijksapplicaties.nl
@@ -5433,6 +5435,7 @@ https://geluidsrm.rivm.nl
 https://geluidwsv.rivm.nl
 https://gemeenteloket.minszw.nl
 https://gemeenten.svb.nl
+https://gemeenteportaal.waarderingskamer.nl
 https://gemhofvanjustitie.org
 https://geneesmiddeleninformatiebank.nl
 https://generator-dev.nba.nl
@@ -10757,6 +10760,7 @@ https://w.w.w.valys.nl
 https://waarborg.nl
 https://waardelijsten-acc.dcat-ap-donl.nl
 https://waardelijsten.dcat-ap-donl.nl
+https://waarderingskamer.nl
 https://waarderingskamer.sitearchief.nl
 https://wabinfo.rijkswaterstaat.nl
 https://wabinfo.rws.nl
@@ -11071,6 +11075,7 @@ https://worldwide-i.espacenet.com
 https://worldwide-o.espacenet.com
 https://worldwide.espacenet.com
 https://wow.knmi.nl
+https://woz-it.waarderingskamer.nl
 https://wozbenchmark.databank.nl
 https://wozvalidatie.sbr-wonen.nl
 https://wp-08.dev.huc.knaw.nl
@@ -12506,6 +12511,7 @@ https://www.vragen.coronatest.nl
 https://www.vreemdelingenvisie.nl
 https://www.vtv2018.nl
 https://www.vzinfo.nl
+https://www.waarderingskamer.nl
 https://www.wadziejij.rijkewaddenzee.nl
 https://www.waterschaplimburg.nl
 https://www.webshop.incidentmanagement.nl

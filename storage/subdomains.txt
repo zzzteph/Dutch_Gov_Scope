@@ -2009,6 +2009,7 @@ acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 acceptatie.mijn.registersocialehygiene.nl
 acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
+acceptatie.mijn.waarderingskamer.nl
 acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.modellenplatform.ssc-campus.nl
 acceptatie.mondriaanfonds.nl
@@ -2103,6 +2104,7 @@ acceptatie.webservices2.dictu.nl
 acceptatie.werkenbij.rws.nl
 acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
+acceptatie.woz-it.waarderingskamer.nl
 acceptatie.wreg.rivm.nl
 acceptatie.wvsv.nipv.nl
 acceptatie.zoek.bodemambities.nl
@@ -2841,6 +2843,7 @@ api.vaarweginformatie.nl
 api.vallei-veluwe.nl
 api.voedingscentrum.nl
 api.waarborg.nl
+api.waarderingskamer.nl
 api.woz.acceptatie.kadaster.nl
 api.zandbak.dans.knaw.nl
 api.zorgaanbiedersportaal.nl
@@ -7180,6 +7183,7 @@ exchange.intern.reclassering.nl
 exchange.reclassering.nl
 exchange.rva.nl
 exchange.services.acm.nl
+exchange.waarderingskamer.nl
 exchangehcw.knaw.nl
 exchangemrs1.politie.nl
 exchangemrs2.politie.nl
@@ -7983,6 +7987,7 @@ gembrp.belastingdienst.nl
 gemeenteloket.minszw.nl
 gemeenten-a.svb.nl
 gemeenten.svb.nl
+gemeenteportaal.waarderingskamer.nl
 gemhofvanjustitie.org
 genconnector-acceptatie.sawa-vth.nl
 genconnector.sawa-vth.nl
@@ -10553,6 +10558,7 @@ lvbb-preprod.overheid.nl
 lvbb-tst.overheid.nl
 lvmb.nl
 lvnl.nl
+lvwozportaal.waarderingskamer.nl
 lws2013-int.rws.nl
 lync.dictu.nl
 lync.nba.nl
@@ -18401,6 +18407,7 @@ w3prd.dnb.nl
 waarborg.nl
 waardelijsten-acc.dcat-ap-donl.nl
 waardelijsten.dcat-ap-donl.nl
+waarderingskamer.nl
 waarderingskamer.sitearchief.nl
 wabinfo.rijkswaterstaat.nl
 wabinfo.rws.nl
@@ -18787,6 +18794,7 @@ welkom.leerenontwikkelplein.nl
 welkombij.cbs.nl
 welkombij.staatsbosbeheer.nl
 wellesleyma.maps.arcgis.com
+wem-live.waarderingskamer.nl
 wenjiaba.github.io
 wereldzaken.rvo.nl
 werkaanuitvoering.nl
@@ -19030,6 +19038,7 @@ worldwide-o.espacenet.com
 worldwide.espacenet.com
 wow.knmi.nl
 woxi.dnb.nl
+woz-it.waarderingskamer.nl
 wozbenchmark.databank.nl
 wozvalidatie.sbr-wonen.nl
 wozwaardeloket.acceptatie.kadaster.nl
@@ -20866,6 +20875,7 @@ www.vreemdelingenvisie.nl
 www.vt016ed.dictu.nl
 www.vtv2018.nl
 www.vzinfo.nl
+www.waarderingskamer.nl
 www.wadziejij.rijkewaddenzee.nl
 www.watdraagjijbij.arbeidsmarktplatformpo.nl
 www.watergegevens.rijkswaterstaat.nl
