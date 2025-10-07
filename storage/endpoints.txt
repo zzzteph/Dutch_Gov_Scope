@@ -398,6 +398,7 @@ http://geo2.flevoland.nl
 http://geodata.rivm.nl
 http://geoweb.zuid-holland.nl
 http://gevallenen40-45.niod.knaw.nl
+http://gezondgroeien.voedingscentrum.nl
 http://gfportal.test.gf.irealisatie.nl
 http://gipinfo.nl
 http://git-az1.lpc.logius.nl
@@ -2339,6 +2340,7 @@ https://api-gateway.rechtspraak.nl
 https://api-ota.belastingdienst.nl
 https://api-preprod1.digid.nl
 https://api-preprod2.digid.nl
+https://api-recepten.voedingscentrum.nl
 https://api-samenmeten.rivm.nl
 https://api-sec.p-direkt.nl
 https://api-staging.developer.dnb.nl
@@ -2402,6 +2404,8 @@ https://api.ivopzee.nl
 https://api.ix.rijkscloud.nl
 https://api.jeugdconnect.nl
 https://api.kadaster.nl
+https://api.kantinescan.voedingscentrum.nl
+https://api.kantinescanacc.voedingscentrum.nl
 https://api.klic.acceptatie.kadaster.nl
 https://api.klic.kadaster.nl
 https://api.klic.test.kadaster.nl
@@ -2446,7 +2450,10 @@ https://api.transformation.nsgi.nl
 https://api.transformation.test.nsgi.nl
 https://api.tst-lsp.rivm.nl
 https://api.vaarweginformatie.nl
+https://api.voedingscentrum.nl
+https://api2-mijn.voedingscentrum.nl
 https://api2.abonneren.platformrijksoverheidonline.nl
+https://api3-mijn.voedingscentrum.nl
 https://apiacc.eerstekamer.nl
 https://apiarbor.eerstekamer.nl
 https://apiback.eerstekamer.nl
@@ -3745,6 +3752,7 @@ https://consular-service.consular.mfaservices.nl
 https://consular.mfaservices.nl
 https://consultatie.knmi.nl
 https://consultatievepsychiatrie.venvn.nl
+https://consumenten.voedingscentrum.nl
 https://consuwijzer.nl
 https://contactformulier.acc.onderwijsinspectie.nl
 https://contactformulier.onderwijsinspectie.nl
@@ -4516,6 +4524,7 @@ https://dutchoffshorewindatlas.nl
 https://dutchrapporteur.nl
 https://duurzaamdoor.nl
 https://duurzame-infra.nl
+https://duurzamecatering.voedingscentrum.nl
 https://duurzamemobiliteit.databank.nl
 https://duvo-web-api.rivm.nl
 https://dv.ontwikkel.machtigen.digid.nl
@@ -4634,6 +4643,10 @@ https://eentegeneenzaamheid.nl
 https://eersteenthuis.nl
 https://eerstekamer.nl
 https://eerstelijn.venvn.nl
+https://eetmeter.voedingscentrum.nl
+https://eetomgeving.voedingscentrum.nl
+https://eettest.voedingscentrum.nl
+https://eetwisselspel.voedingscentrum.nl
 https://efeat.org
 https://efiling.mijnoctrooi.rvo.nl
 https://efm.belastingdienst.nl
@@ -5396,6 +5409,7 @@ https://gegevensmagazijn.tweedekamer.nl
 https://gegevensportaal.belastingdienst.nl
 https://geheugen-cms.kb.nl
 https://geheugen.delpher.nl
+https://geheugensteuntje.voedingscentrum.nl
 https://geheugenvannederland.nl
 https://geldlessen.nl
 https://gelijke-kansen.nl
@@ -5485,6 +5499,7 @@ https://gezondeleefomgeving.nl
 https://gezondeleefstijl.slo.nl
 https://gezondenveiligwerk.tno.nl
 https://gezondeschool.nl
+https://gezondeschoolkantine.voedingscentrum.nl
 https://gezondheidsraad.nl
 https://gezondheidsverklaring.coronatest.nl
 https://ggdiamdemo.rivm.nl
@@ -5785,6 +5800,7 @@ https://huygens.knaw.nl
 https://hv.proquest.com.access.authkb.kb.nl
 https://hwbp.nl
 https://hwtest.vm-02.azure.grid.rws.nl
+https://hygienecode.voedingscentrum.nl
 https://hymnology.hymnsam.co.uk.access.authkb.kb.nl
 https://i-login.mijncn.nl
 https://i-partnerschap.staging.rijksapplicaties.nl
@@ -6249,6 +6265,10 @@ https://kana.tweedekamer.nl
 https://kangaroo.acceptatie.pdok.nl
 https://kansrijkestartnl.nl
 https://kansspelautoriteit.nl
+https://kantine.voedingscentrum.nl
+https://kantinescan.voedingscentrum.nl
+https://kantinescanacc.voedingscentrum.nl
+https://kantinescanrgk.voedingscentrum.nl
 https://kantonjournaal.rechtspraak.nl
 https://kantoor.hdsr.nl
 https://karin.ndw.nu
@@ -6389,6 +6409,7 @@ https://klimaatbeleid.databank.nl
 https://klimaateffectatlas.rijkswaterstaat.nl
 https://klimaatmonitor.databank.nl
 https://klimaatscenarios-data.knmi.nl
+https://klimaatweegschaal.voedingscentrum.nl
 https://klinieken.donorgegevens.nl
 https://klinkendetaal.tweedekamer.nl
 https://klk.rijksapplicaties.nl
@@ -6526,6 +6547,7 @@ https://leermiddelen.politieacademie.nl
 https://leermiddelenbank.sbcm.nl
 https://leeromgeving.leerportaalienw.nl
 https://leeromgeving.om.nl
+https://leeromgeving.voedingscentrum.nl
 https://leeroverdeholocaust.nl
 https://leeroverzicht.nl
 https://leerplaats-mijn.s-bb.nl
@@ -6799,6 +6821,7 @@ https://m.fondspodiumkunsten.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.rijkswaterstaat.nl
 https://m.stimuleringsfonds.nl
+https://m.voedingscentrum.nl
 https://m365-to-timetell.huc.knaw.nl
 https://ma.chm-cbd.net
 https://ma.kcb.nl
@@ -7181,6 +7204,7 @@ https://mijn.uwv.nl
 https://mijn.valys.nl
 https://mijn.venvn.nl
 https://mijn.vfpf.nl
+https://mijn.voedingscentrum.nl
 https://mijn.zorgaanbiedersportaal.nl
 https://mijn2.venvn.nl
 https://mijnacademie.rechtenoverheid.nl
@@ -7287,6 +7311,8 @@ https://mmdc.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
 https://mobiel.hogeraad.nl
+https://mobiel.voedingscentrum.nl
+https://mobielgsk.voedingscentrum.nl
 https://mobile-login-acc.uwv.nl
 https://mobile-services.uwv.nl
 https://mobile.lvnl.nl
@@ -7455,6 +7481,7 @@ https://natuurbeheerplan.flevoland.nl
 https://natuurenrecreatieschapijsselmonde.nl
 https://natuurentechniek.slo.nl
 https://natuurinbeeld.nederlandsesoorten.nl
+https://nb.voedingscentrum.nl
 https://nba.nl
 https://nbso-brazil.com.br
 https://nbso-texas.com
@@ -7557,6 +7584,7 @@ https://nieuwsbrief.examenblad.nl
 https://nieuwsbrief.lexces.nl
 https://nieuwsbrief.rijksacademie.nl
 https://nieuwsbrief.rivm.nl
+https://nieuwsbrief.voedingscentrum.nl
 https://nieuwsbrief.zuid-holland.nl
 https://nieuwsbriefrechtspraak.nl
 https://nieuwsbrieven.caop.nl
@@ -8821,6 +8849,7 @@ https://realtime.staging.ndw.nu
 https://rec.cloud.kadaster.nl
 https://rec.test.cloud.kadaster.nl
 https://recall.rdw.nl
+https://recepten.voedingscentrum.nl
 https://rechtenoverheid.nl
 https://rechtsbijstand.nl
 https://rechtspraak.nl
@@ -9259,6 +9288,7 @@ https://schadeherstel.toeslagen.nl
 https://schakeldagen.nl
 https://scheiden.belastingdienst.nl
 https://schijf.schadedoormijnbouw.nl
+https://schijfvanvijf.voedingscentrum.nl
 https://schmavery.github.io
 https://schoneluchtakkoord.nl
 https://schoolleidersregisterpo.nl
@@ -9628,6 +9658,7 @@ https://staging.samenbouwenaanbereikbaarheid.nl
 https://staging.staatvandeuitvoering.nl
 https://staging.vananaarbeter.nl
 https://staging.visitaties.nl
+https://staging.webshop.voedingscentrum.nl
 https://staging.werkenbij.kvk.nl
 https://stakeholdersregistratie.rijksapplicaties.nl
 https://stakeholdersregistratie.staging.rijksapplicaties.nl
@@ -9662,6 +9693,7 @@ https://statdatawinkel.azure.dnb.nl
 https://staten-generaal.nl
 https://staten.zuid-holland.nl
 https://stateninformatie.flevoland.nl
+https://static-mijn.voedingscentrum.nl
 https://static.acc.dpr.irealisatie.nl
 https://static.acp.live.rijkswaterstaat.nl
 https://static.acp.live.werkenbij.rijkswaterstaat.nl
@@ -9687,6 +9719,7 @@ https://static.tst.live.rijkswaterstaat.nl
 https://static.tst.live.werkenbij.rijkswaterstaat.nl
 https://static.tst.staging.rijkswaterstaat.nl
 https://static.tst.staging.werkenbij.rijkswaterstaat.nl
+https://static.voedingscentrum.nl
 https://static.wegwijzer.overheid.nl
 https://statics.staatvandeuitvoering.nl
 https://statics.staging.staatvandeuitvoering.nl
@@ -9833,6 +9866,7 @@ https://surveys.cbs.nl
 https://sustainabilitymethod.com
 https://sustainabilitymethod.eu
 https://sustainabilitymethod.nl
+https://sv5.voedingscentrum.nl
 https://svb.nl
 https://svb.sitearchief.nl
 https://svcalendar-acc.dnb.nl
@@ -10600,6 +10634,7 @@ https://vocabs.cbs.nl
 https://vocbesatzungen.nationaalarchief.nl
 https://vocopvarenden.nationaalarchief.nl
 https://vocseavoyagers.nationaalarchief.nl
+https://voedingscentrum.nl
 https://voertuigenopnaamtot9jaarterug.rdw.nl
 https://voertuiggegevensraadplegen.rdw.nl
 https://voertuigkenmerkenhandhavingssysteem.rdw.nl
@@ -10850,6 +10885,8 @@ https://webservices.diergeneeskunderegister.nl
 https://webservices.hdsr.nl
 https://webshop-mijn.s-bb.nl
 https://webshop.incidentmanagement.nl
+https://webshop.voedingscentrum.nl
+https://webshopprof.voedingscentrum.nl
 https://website.belastingdienst.nl
 https://website.douane.nl
 https://webstatistieken.kb.nl
@@ -10910,6 +10947,7 @@ https://werkenbij.tweedekamer.nl
 https://werkenbijde.nza.nl
 https://werkenbijdeeu.nl
 https://werkenbijderaadvanstate.nl
+https://werkenbijhet.voedingscentrum.nl
 https://werkenvoor.brabant.nl
 https://werkenvoor.zuid-holland.nl
 https://werkenvoorinternationaleorganisaties.nl
@@ -11721,6 +11759,9 @@ https://www.kamerindeklas.nl
 https://www.kamervoordebinnenvisserij.nl
 https://www.kansrijkestartnl.nl
 https://www.kansspelautoriteit.nl
+https://www.kantinescan.voedingscentrum.nl
+https://www.kantinescanacc.voedingscentrum.nl
+https://www.kantinescanrgk.voedingscentrum.nl
 https://www.kb.nl
 https://www.kbvg.nl
 https://www.kcb.nl
@@ -12427,6 +12468,7 @@ https://www.visinhetho.nl
 https://www.visserijinnovatienetwerk.nl
 https://www.vliegtuiggeluid.nl
 https://www.vnacs.nl
+https://www.voedingscentrum.nl
 https://www.volkshuisvestingnederland.nl
 https://www.voordejeugdenhetgezin.nl
 https://www.vrachtwagenheffing.nl
