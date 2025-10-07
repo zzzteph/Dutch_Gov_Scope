@@ -36,9 +36,9 @@ e
 smtp
 portal
 dev
+beheer
 sip
 portaal
-beheer
 connect
 meet
 _dmarc
@@ -210,6 +210,7 @@ hostmaster
 radius
 testeloket
 vpn2
+web01
 prd
 betalen
 huisstijl
@@ -275,7 +276,6 @@ redirect
 community
 sip.myroom
 luchtfoto
-web01
 pushmail
 smtp1
 appstore
@@ -355,6 +355,7 @@ authenticatie
 nextcloud
 privacy
 guest
+test.intranet
 metrics
 a
 confluence
@@ -559,7 +560,6 @@ kat.acc
 kat
 test3
 acc.intranet
-test.intranet
 test2
 download.webmail
 externemailsaas
@@ -851,6 +851,7 @@ mediatheek
 osiris
 pilot
 test-www
+test.mijn
 prd-www
 webportaal
 mededeling
@@ -12040,7 +12041,6 @@ test-rh-a-www
 test-token-secure
 test-token
 test.app
-test.mijn
 token-secure
 www.pzpdirect
 adfs-acc
@@ -14872,3 +14872,6 @@ www.kantinescanacc
 www.kantinescanrgk
 costofillnesstool
 kostenvanziektentool
+test.api
+test.beheer
+test.klantensite

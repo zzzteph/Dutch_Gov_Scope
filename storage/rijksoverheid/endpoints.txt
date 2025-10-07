@@ -213,6 +213,7 @@ http://autodiscover.test.knaw.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
 http://autodiscover.vnsc.eu
+http://autodiscover.waarborg.nl
 http://autodiscover.webmail.politieacademie.nl
 http://autorisatie.rechtspraak.nl
 http://av1.nba.nl
@@ -766,15 +767,19 @@ http://test-machtigen.digipoort.logius.nl
 http://test-website.rvo.nl
 http://test-wijser.ser.nl
 http://test.alexandria.huygens.knaw.nl
+http://test.api.waarborg.nl
 http://test.atlasnatuurlijkkapitaal.nl
+http://test.beheer.waarborg.nl
 http://test.bestandenpostbus.nl
 http://test.burgernet.nl
 http://test.crios.rivm.nl
 http://test.dpr.irealisatie.nl
 http://test.dusi.irealisatie.nl
+http://test.intranet.waarborg.nl
 http://test.lml.rivm.nl
 http://test.loketgezondleven.nl
 http://test.mgo.irealisatie.nl
+http://test.mijn.waarborg.nl
 http://test.praatmeemetdeoverheid.nl
 http://test.staatvenz.nl
 http://test.volksgezondheidenzorg.info
@@ -2455,6 +2460,7 @@ https://api.transformation.test.nsgi.nl
 https://api.tst-lsp.rivm.nl
 https://api.vaarweginformatie.nl
 https://api.voedingscentrum.nl
+https://api.waarborg.nl
 https://api2-mijn.voedingscentrum.nl
 https://api2.abonneren.platformrijksoverheidonline.nl
 https://api3-mijn.voedingscentrum.nl
@@ -2941,6 +2947,7 @@ https://beheer.rijksictdashboard.nl
 https://beheer.stagefonds.s-bb.nl
 https://beheer.test.stagefonds.s-bb.nl
 https://beheer.verkiezingsuitslagen.nl
+https://beheer.waarborg.nl
 https://beheer.zorgaanbiedersportaal.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerders.logerenbijdeboswachter.nl
@@ -6085,6 +6092,7 @@ https://intranet.scp.nl
 https://intranet.svb.nl
 https://intranet.vechtstromen.nl
 https://intranet.vfpf.nl
+https://intranet.waarborg.nl
 https://intranetcms-acc.vfpf.nl
 https://intranetcms.vfpf.nl
 https://intranetvan.rvo.nl
@@ -7212,6 +7220,7 @@ https://mijn.valys.nl
 https://mijn.venvn.nl
 https://mijn.vfpf.nl
 https://mijn.voedingscentrum.nl
+https://mijn.waarborg.nl
 https://mijn.zorgaanbiedersportaal.nl
 https://mijn2.venvn.nl
 https://mijnacademie.rechtenoverheid.nl
@@ -10745,6 +10754,7 @@ https://vzi.venvn.nl
 https://vzinfo.nl
 https://w.valys.nl
 https://w.w.w.valys.nl
+https://waarborg.nl
 https://waardelijsten-acc.dcat-ap-donl.nl
 https://waardelijsten.dcat-ap-donl.nl
 https://waarderingskamer.sitearchief.nl

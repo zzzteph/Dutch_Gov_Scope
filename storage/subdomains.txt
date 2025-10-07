@@ -2840,6 +2840,7 @@ api.uboregistertrusts.nl
 api.vaarweginformatie.nl
 api.vallei-veluwe.nl
 api.voedingscentrum.nl
+api.waarborg.nl
 api.woz.acceptatie.kadaster.nl
 api.zandbak.dans.knaw.nl
 api.zorgaanbiedersportaal.nl
@@ -3432,6 +3433,7 @@ autodiscover.uwv.nl
 autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
 autodiscover.vnsc.eu
+autodiscover.waarborg.nl
 autodiscover.webmail.politieacademie.nl
 autodoc.eerstekamer.nl
 autorisatie-a.cito.nl
@@ -3812,6 +3814,7 @@ beheer.rijksictdashboard.nl
 beheer.stagefonds.s-bb.nl
 beheer.test.stagefonds.s-bb.nl
 beheer.verkiezingsuitslagen.nl
+beheer.waarborg.nl
 beheer.werkbedrijfvandetoekomst.uwv.nl
 beheer.zorgaanbiedersportaal.nl
 beheerapps.rvo.nl
@@ -9107,6 +9110,7 @@ intranet.svb.nl
 intranet.tst.toeslagen.nl
 intranet.vechtstromen.nl
 intranet.vfpf.nl
+intranet.waarborg.nl
 intranet14.minienm.nl
 intranet14.minienw.nl
 intranet2.kadaster.nl
@@ -11347,6 +11351,7 @@ mijn.valys.nl
 mijn.venvn.nl
 mijn.vfpf.nl
 mijn.voedingscentrum.nl
+mijn.waarborg.nl
 mijn.zorgaanbiedersportaal.nl
 mijn.zuid-holland.nl
 mijn2-ontw.s-bb.nl
@@ -17028,6 +17033,7 @@ test.adviescollegeveiligheidgroningen.nl
 test.aerius.nl
 test.alexandria.huygens.knaw.nl
 test.antennebureau.nl
+test.api.waarborg.nl
 test.app.pzp.nl
 test.aquo.nl
 test.architectwebservice.architectenregister.nl
@@ -17035,6 +17041,7 @@ test.atlasleefomgeving.nl
 test.atlasnatuurlijkkapitaal.nl
 test.auth.dezi.nl
 test.beeldbank.gebruikercentraal.nl
+test.beheer.waarborg.nl
 test.belastingdienst-cn.nl
 test.bestandenpostbus.nl
 test.bezoekerscentrum.rijkswaterstaat.nl
@@ -17106,11 +17113,13 @@ test.international.gebruikercentraal.nl
 test.intranet-demo.dictu.nl
 test.intranet.justis.nl
 test.intranet.rvig.nl
+test.intranet.waarborg.nl
 test.jonglereneten.nl
 test.justis.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 test.kinderbescherming.nl
+test.klantensite.waarborg.nl
 test.kubeflow.clustertool.tno.nl
 test.kvk.nl
 test.leefbaarometer.nl
@@ -17127,6 +17136,7 @@ test.metspoedbeschikbaar.nl
 test.mgo.irealisatie.nl
 test.mi-cert.nl
 test.mijn.pzp.nl
+test.mijn.waarborg.nl
 test.milieuzones.nl
 test.minbzk.nl
 test.mobiliteitsbank.nl
@@ -18388,6 +18398,7 @@ w3acc.dnb.nl
 w3dev.dnb.nl
 w3dxweb.knmi.nl
 w3prd.dnb.nl
+waarborg.nl
 waardelijsten-acc.dcat-ap-donl.nl
 waardelijsten.dcat-ap-donl.nl
 waarderingskamer.sitearchief.nl
@@ -18518,6 +18529,7 @@ web01.aaninhetdonker.nl
 web01.huygens.knaw.nl
 web01.ontdekdezorg.nl
 web01.rijksacademie.nl
+web01.waarborg.nl
 web02-nabs.officielebekendmakingen.nl
 web02.burgernet.nl
 web02.huygens.knaw.nl
