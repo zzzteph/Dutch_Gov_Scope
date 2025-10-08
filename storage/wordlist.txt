@@ -23,8 +23,8 @@ vpn
 www-acc
 feeds.english
 werkenbij
-opendata.english
 login
+opendata.english
 link
 prod
 data
@@ -90,6 +90,7 @@ inloggen
 git
 lyncdiscover
 preview
+media
 www.test
 maps
 geo
@@ -105,7 +106,6 @@ telewerken
 archief
 mx1
 aanvragen
-media
 beta
 acceptatie.beheer
 acceptatie.mijn
@@ -237,6 +237,7 @@ a-cms
 catalogus
 share
 cms1
+enquete
 jira
 connect-acpt
 preprod
@@ -270,6 +271,7 @@ probeer
 search
 acc-www
 cm
+toolkit
 idp
 downloads
 activesync
@@ -337,7 +339,6 @@ site3
 site4
 t-www
 dns2
-enquete
 gitlab
 lync
 mail01
@@ -406,7 +407,6 @@ vragenlijst
 toegang
 sbc
 test.www
-toolkit
 inschrijven
 www.app
 fryslan
@@ -781,6 +781,7 @@ aa
 api.test
 apiportal
 mijn.test
+pulse
 www.sts
 lab
 resolver
@@ -9244,7 +9245,6 @@ proxy01.pam
 proxy02.pam.acceptatie
 proxy02.pam
 pulse.acceptatie
-pulse
 pulse.test
 rdinfo
 rec.cloud
@@ -14912,3 +14912,11 @@ spiegel-a
 spiegel
 tba-a
 tba
+admin.webmail
+api.luchtgevechtsleiding
+kandidaat
+keuzekompas
+luchtgevechtsleiding
+profiles
+pulsesrv
+www.luchtgevechtsleiding

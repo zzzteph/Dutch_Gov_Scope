@@ -519,6 +519,7 @@ http://mail.dev.cbs.nl
 http://mail.infowms.nl
 http://mail.naarnederland.nl
 http://mail.nba.nl
+http://mail.werkenbijdefensie.nl
 http://managementapi.vragenlijst-acc.rivm.nl
 http://managementapi.vragenlijst.rivm.nl
 http://maps.fa.knaw.nl
@@ -2114,6 +2115,7 @@ https://admin.ptvt.nl
 https://admin.tbadmin.dev.kvk.nl
 https://admin.tbadmin.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
+https://admin.webmail.werkenbijdefensie.nl
 https://administratie-a.cito.nl
 https://administratie-o.cito.nl
 https://administratie-t.cito.nl
@@ -2442,6 +2444,7 @@ https://api.linkeddata.cultureelerfgoed.nl
 https://api.logerenbijdeboswachter.nl
 https://api.login-test.skal.nl
 https://api.login.skal.nl
+https://api.luchtgevechtsleiding.werkenbijdefensie.nl
 https://api.management.dnb.nl
 https://api.mijn.acc.ncsc.nl
 https://api.mijn.ncsc.nl
@@ -4841,6 +4844,7 @@ https://english.wrr.nl
 https://english.zorginstituutnederland.nl
 https://enlets.politie.nl
 https://enquete.eerstekamer.nl
+https://enquete.werkenbijdefensie.nl
 https://enroll-tkmw.tweedekamer.nl
 https://enterprise-k8s.arcgis.com
 https://enterprise.arcgis.com
@@ -6311,6 +6315,7 @@ https://kaiachain.github.io
 https://kamerindeklas.nl
 https://kamervoordebinnenvisserij.nl
 https://kana.tweedekamer.nl
+https://kandidaat.werkenbijdefensie.nl
 https://kangaroo.acceptatie.pdok.nl
 https://kansrijkestartnl.nl
 https://kansspelautoriteit.nl
@@ -6402,6 +6407,7 @@ https://keurmeesterinformatie.rdw.nl
 https://keurmerk.nl
 https://keuzehulp.simpel-switchen.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
+https://keuzekompas.werkenbijdefensie.nl
 https://keycloak-acc.vm-02.azure.grid.rws.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://keycloak.acc.onlinepublicatie.topinkomens.nl
@@ -6795,6 +6801,7 @@ https://login.test.kb.nl
 https://login.tweedekamer.nl
 https://login.vechtstromen.nl
 https://login.werk.nl
+https://login.werkenbijdefensie.nl
 https://loginacc.venvn.nl
 https://logius-acc.confluence.odc-noord.nl
 https://logius-acc.jira.odc-noord.nl
@@ -6849,6 +6856,7 @@ https://lu-i.espacenet.com
 https://lu.espacenet.com
 https://luchtfoto.aaenmaas.nl
 https://luchtfoto.flevoland.nl
+https://luchtgevechtsleiding.werkenbijdefensie.nl
 https://luchtvaartindetoekomst.nl
 https://luchtvaartmeteo.nl
 https://lup.rijksapplicaties.nl
@@ -7098,6 +7106,7 @@ https://media.platformwow.nl
 https://media.rechtspraak.nl
 https://media.ser.nl
 https://media.ssr.nl
+https://media.werkenbijdefensie.nl
 https://mediamasters.mijncyberrijbewijs.nl
 https://mediaportal.cbs.nl
 https://mediatheek.politieacademie.nl
@@ -8715,6 +8724,7 @@ https://profchecks.politieacademie.nl
 https://professional.basisinformatie-overstromingen.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
 https://profgeodata.static.basisinformatie-overstromingen.nl
+https://profiles.werkenbijdefensie.nl
 https://prognosemodelzw.databank.nl
 https://programma-uned.nl
 https://programmavivet.nl
@@ -8787,6 +8797,8 @@ https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
 https://puc.overheid.nl
+https://pulse.werkenbijdefensie.nl
+https://pulsesrv.werkenbijdefensie.nl
 https://pulsim.tno.nl
 https://pure.knaw.nl
 https://pureacc.knaw.nl
@@ -10295,6 +10307,7 @@ https://toolkit-acc.nlplatform.com
 https://toolkit-tst.nlplatform.com
 https://toolkit.nlplatform.com
 https://toolkit.ontdekdezorg.nl
+https://toolkit.werkenbijdefensie.nl
 https://toolkithoudmisdaaduitjebuurt.nl
 https://toolkitinclusie.gebruikercentraal.nl
 https://toolkits.loketgezondleven.nl
@@ -10941,6 +10954,7 @@ https://webmail.rijkscloud.nl
 https://webmail.s-bb.nl
 https://webmail.sekswerkgoedgeregeld.nl
 https://webmail.summercourt.nl
+https://webmail.werkenbijdefensie.nl
 https://webmail1.politieacademie.nl
 https://webmed.rdw.nl
 https://webmob.rdw.nl
@@ -11036,6 +11050,7 @@ https://werkenbijcbg.nl
 https://werkenbijciz.nl
 https://werkenbijde.nza.nl
 https://werkenbijdeeu.nl
+https://werkenbijdefensie.nl
 https://werkenbijderaadvanstate.nl
 https://werkenbijhet.voedingscentrum.nl
 https://werkenvoor.brabant.nl
@@ -11951,6 +11966,7 @@ https://www.loketgezondleven.nl
 https://www.loketkennisveiligheid.nl
 https://www.loonaangifteketen.nl
 https://www.loopbaanadvies.aofondsrijk.nl
+https://www.luchtgevechtsleiding.werkenbijdefensie.nl
 https://www.luchtvaartindetoekomst.nl
 https://www.luchtvaartmeteo.nl
 https://www.lvmb.nl
@@ -12609,6 +12625,7 @@ https://www.werkenbij.rws.nl
 https://www.werkenbijcbg.nl
 https://www.werkenbijciz.nl
 https://www.werkenbijdeeu.nl
+https://www.werkenbijdefensie.nl
 https://www.werkenbijderaadvanstate.nl
 https://www.werkenvoorinternationaleorganisaties.nl
 https://www.werkenvoornederland.nl

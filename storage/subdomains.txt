@@ -2312,6 +2312,7 @@ admin.tbadmin.dev.kvk.nl
 admin.tbadmin.kvk.nl
 admin.tbadmin.npo.kvk.nl
 admin.tst-rds.nl
+admin.webmail.werkenbijdefensie.nl
 administratie-a.cito.nl
 administratie-o.cito.nl
 administratie-t.cito.nl
@@ -2788,6 +2789,7 @@ api.linkeddata.cultureelerfgoed.nl
 api.logerenbijdeboswachter.nl
 api.login-test.skal.nl
 api.login.skal.nl
+api.luchtgevechtsleiding.werkenbijdefensie.nl
 api.management.dnb.nl
 api.mijn.acc.ncsc.nl
 api.mijn.ncsc.nl
@@ -6973,6 +6975,7 @@ enquete-tst.dictu.nl
 enquete.dictu.nl
 enquete.eerstekamer.nl
 enquete.rivm.nl
+enquete.werkenbijdefensie.nl
 enroll-ota.tweedekamer.nl
 enroll-tkmw.tweedekamer.nl
 enroll.tweedekamer.nl
@@ -9503,6 +9506,7 @@ kaiachain.github.io
 kamerindeklas.nl
 kamervoordebinnenvisserij.nl
 kana.tweedekamer.nl
+kandidaat.werkenbijdefensie.nl
 kangaroo.acceptatie.pdok.nl
 kansrijkestartnl.nl
 kansspelautoriteit.nl
@@ -9874,6 +9878,7 @@ keurmeesterinformatie.rdw.nl
 keurmerk.nl
 keuzehulp.simpel-switchen.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
+keuzekompas.werkenbijdefensie.nl
 kevin.devops.rvb.rijkscloud.nl
 key-acc.cokz.nl
 key.cokz.nl
@@ -10480,6 +10485,7 @@ login.test.kb.nl
 login.tweedekamer.nl
 login.vechtstromen.nl
 login.werk.nl
+login.werkenbijdefensie.nl
 loginacc.venvn.nl
 loginsso.politieacademie.nl
 logintest.hetcak.nl
@@ -10568,6 +10574,7 @@ lu.espacenet.com
 luchtfoto.aaenmaas.nl
 luchtfoto.flevoland.nl
 luchtfoto.zuid-holland.nl
+luchtgevechtsleiding.werkenbijdefensie.nl
 luchtvaartindetoekomst.nl
 luchtvaartmeteo-test.knmi.nl
 luchtvaartmeteo.nl
@@ -10858,6 +10865,7 @@ mail.vnw.minbzk.nl
 mail.waterschaplimburg.nl
 mail.werkcentrumregioamersfoort.nl
 mail.werkenaanjouwtoekomst.nl
+mail.werkenbijdefensie.nl
 mail.wodc.nl
 mail.zgw.rijkscloud.nl
 mail01.bulk.dictu.nl
@@ -11100,6 +11108,7 @@ media.rechtspraak.nl
 media.schadedoormijnbouw.nl
 media.ser.nl
 media.ssr.nl
+media.werkenbijdefensie.nl
 mediamasters.mijncyberrijbewijs.nl
 mediaportal.cbs.nl
 mediatheek.politieacademie.nl
@@ -14390,6 +14399,7 @@ professional.basisinformatie-overstromingen.nl
 professionalcentraal.sbcm.nl
 profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
+profiles.werkenbijdefensie.nl
 prognosemodelzw.databank.nl
 programma-uned.nl
 programmaplan-admin.vm-02.azure.grid.rws.nl
@@ -14549,6 +14559,8 @@ puc.overheid.nl
 pulse.acceptatie.kadaster.nl
 pulse.kadaster.nl
 pulse.test.kadaster.nl
+pulse.werkenbijdefensie.nl
+pulsesrv.werkenbijdefensie.nl
 pulsim.tno.nl
 pure.knaw.nl
 pureacc.knaw.nl
@@ -17500,6 +17512,7 @@ toolkit-tst.nlplatform.com
 toolkit.cruksregister.nl
 toolkit.nlplatform.com
 toolkit.ontdekdezorg.nl
+toolkit.werkenbijdefensie.nl
 toolkithoudmisdaaduitjebuurt.nl
 toolkitinclusie.gebruikercentraal.nl
 toolkits.loketgezondleven.nl
@@ -18751,6 +18764,7 @@ webmail.test.knaw.nl
 webmail.test.rivm.nl
 webmail.tib-ivd.nl
 webmail.visitaties.nl
+webmail.werkenbijdefensie.nl
 webmail.werkenvoornederland.nl
 webmail1.politieacademie.nl
 webmaila2.kb.nl
@@ -18917,6 +18931,7 @@ werkenbijcbg.nl
 werkenbijciz.nl
 werkenbijde.nza.nl
 werkenbijdeeu.nl
+werkenbijdefensie.nl
 werkenbijderaadvanstate.nl
 werkenbijhet-acc.cjib.nl
 werkenbijhet.voedingscentrum.nl
@@ -20198,6 +20213,7 @@ www.loketgezondleven.nl
 www.loketkennisveiligheid.nl
 www.loonaangifteketen.nl
 www.loopbaanadvies.aofondsrijk.nl
+www.luchtgevechtsleiding.werkenbijdefensie.nl
 www.luchtvaartindetoekomst.nl
 www.luchtvaartmeteo.nl
 www.lvmb.nl
@@ -20999,6 +21015,7 @@ www.werkenbij.rws.nl
 www.werkenbijcbg.nl
 www.werkenbijciz.nl
 www.werkenbijdeeu.nl
+www.werkenbijdefensie.nl
 www.werkenbijderaadvanstate.nl
 www.werkenvoorinternationaleorganisaties.nl
 www.werkenvoornederland.nl
