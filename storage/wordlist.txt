@@ -114,6 +114,7 @@ designsystem
 mobiel
 www-ow
 www-ts
+sandbox
 zaaksysteem
 m
 aanmelden
@@ -152,7 +153,6 @@ api-acc
 a-magazines
 servicedesk
 legacy
-sandbox
 www-acc2
 www-dev2
 www-p2
@@ -190,6 +190,8 @@ cms2
 acc.mijn
 www.mijn
 exchange
+csoacct
+csotest
 zaaksysteem-acc
 synergy
 secure
@@ -248,8 +250,7 @@ intranet-acc
 kaart
 veiligmailen
 extern
-csoacct
-csotest
+odc
 bibliotheek
 begrippen
 en
@@ -350,7 +351,6 @@ denkmee
 test-cmsintranet
 test-intranet
 portal2
-odc
 kantoor
 acc.api
 authenticatie
@@ -681,6 +681,7 @@ communicatieportaal
 pdok
 wikixl-saml.acceptatie
 vacature
+www-sandbox
 ra
 ro
 api-a
@@ -837,6 +838,8 @@ services-hprm
 www.sociaalfonds
 rijkspas
 sp-prd.topdesk
+vacaturezoekservice-test
+vacaturezoekservice
 wap
 my
 nis
@@ -5476,7 +5479,6 @@ juristen
 rijkstrainee
 rijkstrainees
 stagiairs
-www-sandbox
 acceptatie.beheer.locatieregister
 acceptatie.mijn.geschilleninstantie
 acceptatie.mijn.locatieregister
@@ -11100,8 +11102,6 @@ www.zbsacc
 yivi.pilot.uzi-online
 zbs
 zbsacc
-vacaturezoekservice-test
-vacaturezoekservice
 internationalactivities
 prixderome
 rapportages
@@ -14920,3 +14920,9 @@ luchtgevechtsleiding
 profiles
 pulsesrv
 www.luchtgevechtsleiding
+csoacct.vacaturebeheer
+csotest.vacaturebeheer
+vacaturebeheer
+vacaturezoekservice-accept
+www-acceptatie2
+www-test2
