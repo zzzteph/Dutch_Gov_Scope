@@ -6107,8 +6107,10 @@ digibg.hetcak.nl
 digibgtest.hetcak.nl
 digicampus.tech
 digicheck.brabant.nl
+digid-a.werk.nl
 digid-stub.lpc.mijn.overheid.nl
 digid.nl
+digid.werk.nl
 digidafspraak.nederlandwereldwijd.nl
 digidbeheer-a1.digid.nl
 digidbeheer-a2.digid.nl
@@ -10401,6 +10403,7 @@ logging.o.extern.minszw.nl
 logging.platformrijksoverheid.nl
 loggingbe.huygens.knaw.nl
 login-a.rvb.rijkscloud.nl
+login-a.werk.nl
 login-acc.rvr.org
 login-az.rijksapplicaties.nl
 login-az.staging.rijksapplicaties.nl
@@ -10474,6 +10477,7 @@ login.t2.digid.nl
 login.test.kb.nl
 login.tweedekamer.nl
 login.vechtstromen.nl
+login.werk.nl
 loginacc.venvn.nl
 loginsso.politieacademie.nl
 logintest.hetcak.nl
@@ -16231,7 +16235,9 @@ specials.brabant.nl
 spelen.cultuurparticipatie.nl
 spf.nvao.net
 spfesfuidb.ictu.nl
+spiegel-a.werk.nl
 spiegel-accept.ba.uwv.nl
+spiegel.werk.nl
 spin.rijkswaterstaat.nl
 spin.rws.nl
 spin2.rijkswaterstaat.nl
@@ -16883,6 +16889,8 @@ taz-k8s-dashboard.infra-24.azure.grid.rws.nl
 taz-minio-api.infra-24.azure.grid.rws.nl
 taz-minio.infra-24.azure.grid.rws.nl
 taz-vault.infra-24.azure.grid.rws.nl
+tba-a.werk.nl
+tba.werk.nl
 tbadmin.dev.kvk.nl
 tbadmin.kvk.nl
 tbadmin.npo.kvk.nl
@@ -18854,6 +18862,7 @@ wem-live.waarderingskamer.nl
 wenjiaba.github.io
 wereldzaken.rvo.nl
 werk-portal.nl
+werk.nl
 werkaanuitvoering.nl
 werkbedrijfvandetoekomst.uwv.nl
 werkbezoek.minienw.nl
@@ -19158,6 +19167,7 @@ www-a.huurcommissie.nl
 www-a.knmidc.org
 www-a.svb.nl
 www-a.verhalenoverdeoorlog.nl
+www-a.werk.nl
 www-ac.farmacotherapeutischkompas.nl
 www-ac.gipdatabank.nl
 www-ac.horizonscangeneesmiddelen.nl
@@ -20964,6 +20974,7 @@ www.wegtotdewetenschap.nl
 www.wegwijzermensenhandel.nl
 www.welcome-to-nl.nl
 www.werk-portal.nl
+www.werk.nl
 www.werkaanuitvoering.nl
 www.werkelijkeschade.nl
 www.werken.belastingdienst.nl

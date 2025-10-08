@@ -24,8 +24,8 @@ www-acc
 feeds.english
 werkenbij
 opendata.english
-link
 login
+link
 prod
 data
 redactie
@@ -157,6 +157,7 @@ www-acc2
 www-dev2
 www-p2
 www-tst2
+www-a
 forms
 mijn-acc
 sdm
@@ -188,7 +189,6 @@ cms2
 acc.mijn
 www.mijn
 exchange
-www-a
 zaaksysteem-acc
 synergy
 secure
@@ -14905,3 +14905,10 @@ hdsr
 hhnk
 rce
 mee-oefenen
+digid-a
+digid
+login-a
+spiegel-a
+spiegel
+tba-a
+tba
