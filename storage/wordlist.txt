@@ -26,8 +26,8 @@ werkenbij
 opendata.english
 link
 login
-data
 prod
+data
 redactie
 app
 formulieren
@@ -69,6 +69,7 @@ open
 dialin
 oud
 www.acc
+www2
 mail2
 fs
 ns2
@@ -83,7 +84,6 @@ digikoppeling
 dwo
 mailing
 ns1
-www2
 loket
 inloggen
 git
@@ -431,6 +431,7 @@ rds
 p-direkt
 werkbezoek
 www.old
+test-www
 www.jaarverslag
 federatie
 via
@@ -852,7 +853,6 @@ edge
 mediatheek
 osiris
 pilot
-test-www
 test.mijn
 prd-www
 webportaal
