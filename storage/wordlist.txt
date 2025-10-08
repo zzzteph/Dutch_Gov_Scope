@@ -181,6 +181,7 @@ email
 geoportaal
 id
 nieuws
+www-test
 projecten
 m365
 password
@@ -226,7 +227,6 @@ esb
 ondertekenen
 samenwerken
 wachtwoord
-www-test
 acc2
 conf
 crm
@@ -730,6 +730,7 @@ bestellen
 portal-a
 thuiswerken
 tst-www
+www-staging
 pay
 snippet
 acc.www
@@ -7037,7 +7038,6 @@ mijnwlzaanvraag
 onderzoeksapp
 toegangscode
 veiligbestandenversturen
-www-staging
 www-test-apoyo
 www.mijnwlzaanvraag
 analytics-acc
