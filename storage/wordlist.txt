@@ -60,6 +60,7 @@ cdn
 onderzoek
 auth
 accept
+www2
 webdisk
 a-feeds.a-english
 a-opendata.a-english
@@ -69,7 +70,6 @@ open
 dialin
 oud
 www.acc
-www2
 mail2
 fs
 ns2
