@@ -167,6 +167,7 @@ geoweb
 nieuwsbrieven
 siam
 matomo
+hostmaster
 eloket
 web
 ontwikkel
@@ -211,7 +212,6 @@ nieuw
 gateway
 backend
 assets
-hostmaster
 radius
 testeloket
 vpn2
