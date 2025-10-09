@@ -85,6 +85,7 @@ digikoppeling
 dwo
 mailing
 ns1
+nieuwsbrief
 loket
 inloggen
 git
@@ -96,7 +97,6 @@ maps
 beta
 geo
 kennis
-nieuwsbrief
 proto
 www-ac
 www-dev
@@ -104,6 +104,7 @@ www-p
 www-tst
 mobile
 telewerken
+m
 archief
 mx1
 aanvragen
@@ -116,7 +117,6 @@ www-ow
 www-ts
 sandbox
 zaaksysteem
-m
 aanmelden
 chat
 files
@@ -264,6 +264,7 @@ intern
 new
 transfer
 magazinesintern
+tools
 idm
 acc-cms
 elo
@@ -380,7 +381,6 @@ organisaties
 data-acc
 standaarden
 bastion365
-tools
 server
 acc-maps
 topdesk
@@ -14927,3 +14927,7 @@ vacaturezoekservice-accept
 www-acceptatie2
 www-test2
 oldclass
+geldtestservice
+parade
+weekvanhetgeld
+www.weekvanhetgeld
