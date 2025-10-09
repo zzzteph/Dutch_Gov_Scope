@@ -1797,6 +1797,7 @@ acc.web-static.rijkswaterstaat.nl
 acc.webtooliso20400.nl
 acc.wegwijzer.overheid.nl
 acc.werkenbij.api.rijkswaterstaat.nl
+acc.wlo2015.nl
 acc.woo.irealisatie.nl
 acc.www.coa.nl
 acc.www.mycoa.nl
@@ -19123,6 +19124,7 @@ wkotool.nl
 wkr.nl
 wlan-selfservice.kadaster.nl
 wlc1254.acm.nl
+wlo2015.nl
 wmm-demo.databank.nl
 wmo.databank.nl
 wms-viewer.dataplatform.knmi.nl
@@ -21091,6 +21093,7 @@ www.windopzee.nl
 www.windviewer.rvo.nl
 www.wkotool.nl
 www.wkr.nl
+www.wlo2015.nl
 www.wodc.nl
 www.wrr.nl
 www.wsnp.rvr.org
