@@ -3964,6 +3964,7 @@ beta.resources.huygens.knaw.nl
 beta.ruimtelijkeplannen.nl
 beta.ssr.nl
 beta.tweedekamer.nl
+beta.whofic.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
 betalen-cnf.belastingdienst.nl
@@ -4879,6 +4880,7 @@ claircitydata.cbs.nl
 clallam-county-portal-clallam.hub.arcgis.com
 clap.rws.nl
 class.oidji.nl
+class.whofic.nl
 classic.npostart.nl
 clddeploy-landingzone-o.rdw.nl
 clddeploy-rdw-devseats.rdw.nl
@@ -12655,6 +12657,7 @@ old.opwegmetwaterstof.nl
 old.ptvt.nl
 old.toezichtfestival.nl
 old.visitaties.nl
+oldclass.whofic.nl
 oldsmar.maps.arcgis.com
 ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
@@ -19030,6 +19033,7 @@ whatsip.test.ix.rijkscloud.nl
 whitelabel-doc.s-bb.nl
 whitelabel-ontw.s-bb.nl
 whoami.zandbak.dans.knaw.nl
+whofic.nl
 wi.knaw.nl
 wi.maptiles.arcgis.com
 wibe.databank.nl
@@ -21063,6 +21067,7 @@ www.werkgever.ibki.nl
 www.werkplaatsvoorlandbouwennatuur.nl
 www.wetbeschermingklokkenluiders.nl
 www.wetenschapentechnologie.slo.nl
+www.whofic.nl
 www.wi.knaw.nl
 www.wifi.stimuleringsfonds.nl
 www.windlansingerland.zuid-holland.nl

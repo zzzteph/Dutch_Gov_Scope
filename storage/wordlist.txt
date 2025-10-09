@@ -93,6 +93,7 @@ preview
 media
 www.test
 maps
+beta
 geo
 kennis
 nieuwsbrief
@@ -106,7 +107,6 @@ telewerken
 archief
 mx1
 aanvragen
-beta
 acceptatie.beheer
 acceptatie.mijn
 demo
@@ -852,6 +852,7 @@ mijn-a
 werkenbij.acceptatie
 crl
 beeld
+class
 tweedekamer
 oid
 edge
@@ -11472,7 +11473,6 @@ www-preprod
 zoek-acc
 zoek-preprod
 acc-klas
-class
 keten.sophie
 klas
 sophie
@@ -14926,3 +14926,4 @@ vacaturebeheer
 vacaturezoekservice-accept
 www-acceptatie2
 www-test2
+oldclass
