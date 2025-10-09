@@ -1798,6 +1798,7 @@ acc.webtooliso20400.nl
 acc.wegwijzer.overheid.nl
 acc.werkenbij.api.rijkswaterstaat.nl
 acc.wlo2015.nl
+acc.wlo2025.nl
 acc.woo.irealisatie.nl
 acc.www.coa.nl
 acc.www.mycoa.nl
@@ -16178,10 +16179,12 @@ snippet.acc.clo.nl
 snippet.acc.icer.pbl.nl
 snippet.acc.monovi.pbl.nl
 snippet.acc.startanalyse.pbl.nl
+snippet.acc.wlo2025.nl
 snippet.clo.nl
 snippet.icer.pbl.nl
 snippet.pbl.nl
 snippet.startanalyse.pbl.nl
+snippet.wlo2025.nl
 sniv.osiris.rivm.nl
 snow-cw.dictu.nl
 snow.afm.nl
@@ -19125,6 +19128,7 @@ wkr.nl
 wlan-selfservice.kadaster.nl
 wlc1254.acm.nl
 wlo2015.nl
+wlo2025.nl
 wmm-demo.databank.nl
 wmo.databank.nl
 wms-viewer.dataplatform.knmi.nl
@@ -21094,6 +21098,7 @@ www.windviewer.rvo.nl
 www.wkotool.nl
 www.wkr.nl
 www.wlo2015.nl
+www.wlo2025.nl
 www.wodc.nl
 www.wrr.nl
 www.wsnp.rvr.org

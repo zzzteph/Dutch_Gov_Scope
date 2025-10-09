@@ -408,6 +408,7 @@ vragen
 vragenlijst
 toegang
 sbc
+snippet
 test.www
 inschrijven
 www.app
@@ -733,7 +734,7 @@ thuiswerken
 tst-www
 www-staging
 pay
-snippet
+snippet.acc
 acc.www
 develop
 playground
@@ -7067,7 +7068,6 @@ www.open
 askbot
 openid
 swirrl
-snippet.acc
 acc-tvs
 acc.statistieken
 acceptatie-api
