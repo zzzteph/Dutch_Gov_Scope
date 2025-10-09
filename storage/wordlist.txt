@@ -30,10 +30,10 @@ prod
 data
 redactie
 e
+smtp
 app
 formulieren
 werkplek
-smtp
 portal
 dev
 beheer
@@ -49,11 +49,11 @@ jaarverslag
 zoeken
 kennisbank
 remote
+ftp
 cpanel
 hybrid
 publicaties
 sts
-ftp
 adfs
 a-english
 cdn
@@ -377,6 +377,7 @@ voorlichting
 join
 leeromgeving
 webshop
+pop
 organisaties
 data-acc
 standaarden
@@ -599,7 +600,6 @@ formulieren-acc
 zandbak
 odin
 werkplaats
-pop
 e-learning
 import-acc.organisaties
 import.organisaties

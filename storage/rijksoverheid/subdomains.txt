@@ -7841,6 +7841,7 @@ ftp.rechtspraak.nl
 ftp.schoolleidersregisterpo.nl
 ftp.vechtstromen.nl
 ftp.werkcentrumregioamersfoort.nl
+ftp.wijzijndus-i.nl
 ftpadmin1.meldknop.nl
 ftpate.kb.nl
 ftpblaise.cbs.nl
@@ -10876,6 +10877,7 @@ mail.waterschaplimburg.nl
 mail.werkcentrumregioamersfoort.nl
 mail.werkenaanjouwtoekomst.nl
 mail.werkenbijdefensie.nl
+mail.wijzijndus-i.nl
 mail.wodc.nl
 mail.zgw.rijkscloud.nl
 mail01.bulk.dictu.nl
@@ -13988,6 +13990,7 @@ pom.cultureelerfgoed.nl
 poortman.kb.nl
 pop.oostvaarderskliniek.nl
 pop.vechtstromen.nl
+pop.wijzijndus-i.nl
 por.pkioverheid.nl
 port-enc.rws.nl
 porta-acc.hetcak.nl
@@ -16127,6 +16130,7 @@ smtp.syn.rijksapplicaties.nl
 smtp.tmv.rvig.nl
 smtp.vechtstromen.nl
 smtp.waterschaplimburg.nl
+smtp.wijzijndus-i.nl
 smtp03.rijkscloud.nl
 smtp04.rijkscloud.nl
 smtp1.awti.nl
@@ -19059,6 +19063,7 @@ wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
 wijser.ser.nl
 wijzeringeldzaken.nl
+wijzijndus-i.nl
 wiki-acc.eherkenning.nl
 wiki.acceptatie.kadaster.nl
 wiki.benjamin.nin.knaw.nl
@@ -21079,6 +21084,7 @@ www.whofic.nl
 www.wi.knaw.nl
 www.wifi.stimuleringsfonds.nl
 www.wijzeringeldzaken.nl
+www.wijzijndus-i.nl
 www.windlansingerland.zuid-holland.nl
 www.windopzee.nl
 www.windviewer.rvo.nl
