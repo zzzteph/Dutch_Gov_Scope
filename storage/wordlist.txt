@@ -54,12 +54,12 @@ cpanel
 hybrid
 publicaties
 sts
+accept
 adfs
 a-english
 cdn
 onderzoek
 auth
-accept
 www2
 webdisk
 a-feeds.a-english
@@ -71,6 +71,7 @@ dialin
 oud
 www.acc
 mail2
+www.test
 fs
 ns2
 services
@@ -92,7 +93,6 @@ git
 lyncdiscover
 preview
 media
-www.test
 maps
 beta
 geo
@@ -863,6 +863,7 @@ pilot
 test.mijn
 prd-www
 webportaal
+www.accept
 mededeling
 leveranciersportaal
 ipv6
@@ -12294,7 +12295,6 @@ eu-wetgevingsmonitor
 domain-admin
 mijn-academie
 mijnacademie
-www.accept
 Md2
 Telewerken
 activesync2
