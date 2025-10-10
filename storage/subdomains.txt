@@ -2467,6 +2467,10 @@ ai.digicampus.tech
 aia.pki.rws.nl
 aiddata.rvo.nl
 aims.cultuurparticipatie.nl
+aimsacceptatie.zonmw.nl
+aimsontwikkel.zonmw.nl
+aimstest.zonmw.nl
+aimstraining.zonmw.nl
 ainformatieportaal.justid.nl
 aip-acc.nationaalcoordinatorgroningen.nl
 aip.nationaalcoordinatorgroningen.nl
@@ -3450,6 +3454,7 @@ autodiscover.vechtstromen.nl
 autodiscover.vnsc.eu
 autodiscover.waarborg.nl
 autodiscover.webmail.politieacademie.nl
+autodiscover.zonmw.nl
 autodoc.eerstekamer.nl
 autorisatie-a.cito.nl
 autorisatie-o.cito.nl
@@ -5150,6 +5155,7 @@ communicatie.zuid-holland.nl
 communicatiekompas.nl
 communicatieportaal.uwv.nl
 communicatieportaal.vrachtwagenheffing.nl
+communicatieportaal.zonmw.nl
 communicatierijk.nl
 community-climatesolutions.hub.arcgis.com
 community-funding-mapping-1-1-scotgov.hub.arcgis.com
@@ -5328,6 +5334,7 @@ covid-gagio.hub.arcgis.com
 covid19-bangor.hub.arcgis.com
 covid19-emsina.hub.arcgis.com
 covid19-sbcph.hub.arcgis.com
+covid19.zonmw.nl
 cp-public-info-castlepines.hub.arcgis.com
 cp.pkioverheid.nl
 cp.vcdn.belastingdienst.nl
@@ -5526,6 +5533,7 @@ d2val.staging.ndw.nu
 d7.rvo.nl
 da.ictu.nl
 da.stimuleringsfonds.nl
+da.zonmw.nl
 daf-eforms.ind.nl
 daf.ind.nl
 dafne.ndw.nu
@@ -6830,6 +6838,7 @@ elearning.mijncyberrijbewijs.nl
 elearning.naarnederland.nl
 elearning.ordz.nl
 elearning.platformrijksoverheid.nl
+elearning.zonmw.nl
 elearnings.mijncyberrijbewijs.nl
 elections-roscommoncoco.hub.arcgis.com
 elektrischvervoer.databank.nl
@@ -8026,6 +8035,7 @@ gemeenteportaal.waarderingskamer.nl
 gemhofvanjustitie.org
 genconnector-acceptatie.sawa-vth.nl
 genconnector.sawa-vth.nl
+genderquest.zonmw.nl
 geneesmiddeleninformatiebank.nl
 generator-dev.nba.nl
 generator.nba.nl
@@ -8911,6 +8921,7 @@ import.logerenbijdeboswachter.nl
 import.organisaties.overheid.nl
 import.tlokb.nl
 importacc.tlokb.nl
+impuls.zonmw.nl
 imvotraining.nl
 in-made.nl
 inbeeld.zuid-holland.nl
@@ -9044,6 +9055,7 @@ inspectielandschap.nl
 inspectieresultaten.nvwa.nl
 inspectieview.nl
 inspiratie.uwv.nl
+inspiratiewijzerdementie.zonmw.nl
 inspire.rivm.nl
 inspireaanmerking.nl
 instappen-a.cito.nl
@@ -11067,6 +11079,7 @@ mbg-proxy.flevoland.nl
 mbg.cbs.nl
 mboscanner.databank.nl
 mbotransparant.databank.nl
+mc-manager.zonmw.nl
 mc-upnl-acc.mijn.rvo.nl
 mc-upnl-acc.rvo.nl
 mc-upnl.mijn.rvo.nl
@@ -11133,6 +11146,7 @@ mediaportal.cbs.nl
 mediatheek.politieacademie.nl
 mediatheek.vfpf.nl
 mediation.online.rvr.org
+mediator.zonmw.nl
 medicijnkosten.nl
 medicineshortagesdefects.nl
 medicinfo.pzp.nl
@@ -11163,9 +11177,11 @@ meet.uwv.nl
 meet.vc.rechtspraak.nl
 meet.vechtstromen.nl
 meetgegevens.test.vm-05.azure.grid.rws.nl
+meeting-acc.zonmw.nl
 meeting.acm.nl
 meeting.nationaalarchief.nl
 meeting.services.acm.nl
+meeting.zonmw.nl
 meetingpointdji.nl
 melding-cmoa.cvdm.nl
 melding.aerius.nl
@@ -11422,6 +11438,7 @@ mijn.venvn.nl
 mijn.vfpf.nl
 mijn.voedingscentrum.nl
 mijn.waarborg.nl
+mijn.zonmw.nl
 mijn.zorgaanbiedersportaal.nl
 mijn.zuid-holland.nl
 mijn2-ontw.s-bb.nl
@@ -13278,6 +13295,7 @@ oud.mensenrechten.nl
 oud.mondriaanfonds.nl
 oud.platformrijksoverheidonline.nl
 oud.visitaties.nl
+oud.zonmw.nl
 ouders-uit-elkaar.nl
 oudewebsite.flevoland.nl
 ourplan.tno.nl
@@ -14443,8 +14461,10 @@ projecten.nba.nl
 projecten.netwerkplatteland.nl
 projecten.rijksvastgoedbedrijf.nl
 projecten.rvo.nl
+projecten.zonmw.nl
 projectenatlas.zuid-holland.nl
 projectie.cultuurparticipatie.nl
+projectnet.zonmw.nl
 projects-acc.rvo.nl
 projects-tst.rvo.nl
 projects.knmi.nl
@@ -14565,6 +14585,7 @@ publicaties.ptvt.nl
 publicaties.rvig.nl
 publicaties.schadefonds.nl
 publicaties.ser.nl
+publicaties.zonmw.nl
 publicatieservice-bms-acc.officielebekendmakingen.nl
 publicatieservice-rps-acc.officielebekendmakingen.nl
 publicwebservices-dcr.cibg.nl
@@ -14701,6 +14722,7 @@ radius.nvao.net
 radius.raadvanstate.nl
 radius.slo.nl
 radius.ssc-campus.nl
+radius.zonmw.nl
 radius2.ssc-campus.nl
 railstotrails.maps.arcgis.com
 raintoriveratx-austin.hub.arcgis.com
@@ -19752,6 +19774,7 @@ www.coronatest.nl
 www.cost832.alterra.nl
 www.cost869.alterra.nl
 www.courtmh17.com
+www.covid19.zonmw.nl
 www.covm.nl
 www.cpb.nl
 www.crimediggers.nl
@@ -21140,6 +21163,7 @@ www.zml-t.cito.nl
 www.zml.cito.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www.zonmw-jeugdmagazines.nl
+www.zonmw.nl
 www.zorgaanbiedersportaal.nl
 www.zorgcijfersdatabank.nl
 www.zorginstituutnederland.nl
@@ -21275,6 +21299,8 @@ zichtopnl.nl
 zichtopondermijning.nl
 ziektelast.vzinfo.nl
 ziem.cokz.nl
+zip-acc.zonmw.nl
+zip.zonmw.nl
 zittingsagenda.raadvanstate.nl
 zittingsprikker.rechtspraak.nl
 zm.chm-cbd.net
@@ -21314,6 +21340,7 @@ zoekengebruikstarief.douane.nl
 zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zonmw-jeugdmagazines.nl
+zonmw.nl
 zonnewijzer.zuid-holland.nl
 zorgaanbiedersportaal.nl
 zorgbeeld.nza.nl
