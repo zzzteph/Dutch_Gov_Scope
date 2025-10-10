@@ -9,8 +9,8 @@ test
 mijn
 english
 webmail
-api
 acceptatie
+api
 a-www
 a-opendata
 a-feeds
@@ -165,6 +165,7 @@ sdm
 dashboard
 repository
 geoweb
+secure
 nieuwsbrieven
 siam
 matomo
@@ -196,7 +197,6 @@ csoacct
 csotest
 zaaksysteem-acc
 synergy
-secure
 mx2
 iam
 service
@@ -14953,3 +14953,4 @@ projectnet
 www.covid19
 zip-acc
 zip
+acceptatie.secure

@@ -2067,6 +2067,7 @@ acceptatie.sawa-vth.nl
 acceptatie.schadedoormijnbouw.nl
 acceptatie.schadefonds.nl
 acceptatie.schoolleidersregisterpo.nl
+acceptatie.secure.zorgcsp.nl
 acceptatie.signalen.osiris.rivm.nl
 acceptatie.sluisplanning.rws.nl
 acceptatie.sniv.osiris.rivm.nl
@@ -2119,6 +2120,7 @@ acceptatie.zoeken.diergeneeskunderegister.nl
 acceptatie.zoeken.gratisvog.nl
 acceptatie.zoeken.registersocialehygiene.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
+acceptatie.zorgcsp.nl
 acceptatie.zwemwater.osiris.rivm.nl
 acceptatie2.spin.rijkswaterstaat.nl
 acceptatiedigikoppeling.bkd.eu
@@ -15734,6 +15736,7 @@ secure.knmi.nl
 secure.niwo.nl
 secure.rivm.nl
 secure.vechtstromen.nl
+secure.zorgcsp.nl
 secure4.svb.nl
 secure5.svb.nl
 securedownload.cito.nl
@@ -17334,6 +17337,7 @@ test.www.coa.nl
 test.www.knaw.nl
 test.www.mycoa.nl
 test.zeroemissiedoelgroepenvervoer.nl
+test.zorgcsp.nl
 test12.dictu.nl
 test2.kinderbescherming.nl
 test2.risicotoolboxbodem.nl
@@ -21167,6 +21171,7 @@ www.zonmw.nl
 www.zorgaanbiedersportaal.nl
 www.zorgbredecommunity.nl
 www.zorgcijfersdatabank.nl
+www.zorgcsp.nl
 www.zorginstituutnederland.nl
 www.zorginzicht.nl
 www.zuid-holland.nl
@@ -21346,6 +21351,7 @@ zonnewijzer.zuid-holland.nl
 zorgaanbiedersportaal.nl
 zorgbeeld.nza.nl
 zorgcijfersdatabank.nl
+zorgcsp.nl
 zorgenwerknetwerk.arboportaal.nl
 zorginstituutnederland.nl
 zorginzicht.nl
