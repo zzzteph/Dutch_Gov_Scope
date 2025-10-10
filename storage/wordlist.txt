@@ -877,6 +877,7 @@ acc-api
 datavisualisatie
 csr
 politie
+platform
 map
 accept-cm
 commissies
@@ -13405,7 +13406,6 @@ ontw.stagefonds
 overlapchecker
 pilots-mbo-certificaten
 pilots-praktijkleren
-platform
 praktijkloket-mijn-acc
 praktijkloket-mijn
 rapportage-mijn
@@ -14956,3 +14956,4 @@ zip
 acceptatie.secure
 publicaties-wvv
 www.csp
+www.platform
