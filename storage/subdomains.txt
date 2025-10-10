@@ -1803,6 +1803,7 @@ acc.woo.irealisatie.nl
 acc.www.coa.nl
 acc.www.mycoa.nl
 acc.zorginzicht.nl
+acc.zovar.nl
 acc.zsmgame.om.nl
 acc0.mijn.overheid.nl
 acc1.energiebesparingsverkenner.rvo.nl
@@ -7781,6 +7782,7 @@ formulieren.svb.nl
 formulieren.uwv.nl
 formulieren.uziregister.nl
 formulieren.waterschaplimburg.nl
+formulieren.zovar.nl
 formulieren.zuid-holland.nl
 fortbijrijnauwen.staatsbosbeheer.nl
 fortescloud.acc.belastingdienst.nl
@@ -10203,6 +10205,7 @@ lcms.nl
 lcnk.nl
 lcp.databank.nl
 ldap.cultuurparticipatie.nl
+ldap.zovar.nl
 ldaps.stimuleringsfonds.nl
 ldentool.nl
 ldn-inbox.labs.dans.knaw.nl
@@ -12593,6 +12596,7 @@ ocd-hub-nm-emnrd.hub.arcgis.com
 ocs.nba.nl
 ocs.nji.nl
 ocsp.pkioverheid.nl
+ocsp.zovar.nl
 octopus-acc-webdav.vfpf.nl
 octopus-acc.vfpf.nl
 octopus-webdav.vfpf.nl
@@ -19791,6 +19795,7 @@ www.crisis.nl
 www.crs.nba.nl
 www.cruksregister.nl
 www.csirtdsp.nl
+www.csp.zovar.nl
 www.ctgb.nl
 www.ctivd.nl
 www.ctpveldzicht.nl
@@ -21183,6 +21188,7 @@ www.zorginzicht.nl
 www.zorgopdekaart.nl
 www.zorgvannu.nl
 www.zorgvoorinnoveren.nl
+www.zovar.nl
 www.zuid-holland.nl
 www1.acp.kvk.nl
 www1.cbs.nl
@@ -21374,6 +21380,7 @@ zorgproducten-test.nza.nl
 zorgproducten.nza.nl
 zorgvannu.nl
 zorgvoorinnoveren.nl
+zovar.nl
 zsmgame.om.nl
 zta-ont.belastingdienst.nl
 zta-ota.belastingdienst.nl
