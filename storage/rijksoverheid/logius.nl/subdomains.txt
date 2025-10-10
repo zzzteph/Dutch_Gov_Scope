@@ -14,6 +14,7 @@ amp-idp.logius.nl
 amp-pre.logius.nl
 amp.logius.nl
 artifact-rv-pp1.logius.nl
+bc.acc.bvd.logius.nl
 beheerportaal.acceptatie.digipoort.logius.nl
 beheerportaal.digipoort.logius.nl
 beheerportaal.preproductie.digipoort.logius.nl
@@ -49,6 +50,8 @@ dgp-pp-az2.elastic.lpc.logius.nl
 dgp-pp-az2.kibana.lpc.logius.nl
 digipoort.logius.nl
 docs.lpc.logius.nl
+dzbd-pre.logius.nl
+dzbd.logius.nl
 eco-a-az1.elastic.lpc.logius.nl
 eco-a-az1.kibana.lpc.logius.nl
 eco-a-az2.elastic.lpc.logius.nl

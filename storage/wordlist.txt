@@ -3023,6 +3023,7 @@ amp-idp
 amp-pre
 amp
 artifact-rv-pp1
+bc.acc.bvd
 beheerportaal.acceptatie.digipoort
 beheerportaal.digipoort
 beheerportaal.preproductie.digipoort
@@ -3057,6 +3058,8 @@ dgp-pp-az2.elastic.lpc
 dgp-pp-az2.kibana.lpc
 digipoort
 docs.lpc
+dzbd-pre
+dzbd
 eco-a-az1.elastic.lpc
 eco-a-az1.kibana.lpc
 eco-a-az2.elastic.lpc
