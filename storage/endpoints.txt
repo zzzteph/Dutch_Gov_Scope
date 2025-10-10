@@ -67,7 +67,6 @@ http://acceptatie.inspire.rivm.nl
 http://acceptatie.isis-web.nl
 http://acceptatie.lims.rivm.nl
 http://acceptatie.lmm.rivm.nl
-http://acceptatie.loketgezondleven.nl
 http://acceptatie.ltfu.neorah.nl
 http://acceptatie.man.rivm.nl
 http://acceptatie.mebi-backoffice.rivm.nl
@@ -747,7 +746,6 @@ http://test.dpr.irealisatie.nl
 http://test.dusi.irealisatie.nl
 http://test.intranet.waarborg.nl
 http://test.lml.rivm.nl
-http://test.loketgezondleven.nl
 http://test.mgo.irealisatie.nl
 http://test.mijn.waarborg.nl
 http://test.praatmeemetdeoverheid.nl
