@@ -108,6 +108,7 @@ m
 archief
 mx1
 aanvragen
+papiamentu
 acceptatie.beheer
 acceptatie.mijn
 demo
@@ -130,7 +131,6 @@ magazine
 cpcalendars
 cpcontacts
 geodata
-papiamentu
 adobe-analytics-dc
 adobe-tags
 enterpriseenrollment
