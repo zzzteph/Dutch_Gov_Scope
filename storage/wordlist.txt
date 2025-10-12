@@ -106,6 +106,8 @@ mobile
 telewerken
 m
 archief
+acc-dictu
+test-dictu
 mx1
 aanvragen
 papiamentu
@@ -122,9 +124,7 @@ aanmelden
 chat
 files
 stats
-acc-dictu
 prod-dictu
-test-dictu
 admin
 events
 magazine
@@ -369,6 +369,7 @@ webaccess
 eva
 leren
 zakelijk
+mijn.test
 analytics
 keycloak
 sentry
@@ -589,7 +590,6 @@ upnl-zw.mijn
 upnl.mijn
 acceptatie.portaal
 api.mijn
-charlie
 backbone
 design
 faq
@@ -783,7 +783,6 @@ japan
 aa
 api.test
 apiportal
-mijn.test
 pulse
 www.sts
 lab
@@ -3165,6 +3164,7 @@ secure.geodata2
 pas
 acceptatie.uzipas.portaal
 uzipas.portaal
+acc-dictu.cms
 advisories-acceptatie
 advisories.acc
 advisories
@@ -3196,6 +3196,7 @@ privaat-acceptatie.octomon
 privaat.octomon
 securened
 taranis
+test-dictu.cms
 tip
 vulnerabilities.acc
 vulnerabilities
@@ -6520,6 +6521,7 @@ mx02
 o1.ptr6815
 teelt
 www.jaarverslag2024
+charlie
 echo
 inkijk.demo
 inkijkmail1

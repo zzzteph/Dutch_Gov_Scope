@@ -1472,12 +1472,14 @@ acc-ddapi-wkp.rws.nl
 acc-developer-portal-management.data-exchange.consular.mfaservices.nl
 acc-developer-portal.data-exchange.consular.mfaservices.nl
 acc-diamonds.tno.nl
+acc-dictu.cms.ncsc.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.digitoegankelijk.nl
 acc-dictu.eherkenning.nl
 acc-dictu.forumstandaardisatie.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
+acc-dictu.ncsc.nl
 acc-dictu.referentiegrootboekschema.nl
 acc-dictu.sbr-nl.nl
 acc-dictu.toegankelijkheidsverklaring.nl
@@ -4761,7 +4763,6 @@ channels.lpc.logius.nl
 charged3-hub-ifs-mpr.hub.arcgis.com
 chargerrecommendation-dcgis.hub.arcgis.com
 charlie.bkwi.nl
-charlie.ncsc.nl
 charriere.huygens.knaw.nl
 charterbank.huygens.knaw.nl
 chartmuseum.dmz.vm-04.azure.grid.rws.nl
@@ -11426,6 +11427,7 @@ mijn.t1.digid.nl
 mijn.t2.digid.nl
 mijn.test.kadaster.nl
 mijn.test.lcms.nl
+mijn.test.ncsc.nl
 mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
@@ -17075,12 +17077,14 @@ test-content.verbeterjehuis.nl
 test-dashboard.procesinfrastructuur.nl
 test-developer.stopheling.nl
 test-diane-exact.minszw.nl
+test-dictu.cms.ncsc.nl
 test-dictu.comcms.logius.nl
 test-dictu.digitoegankelijk.nl
 test-dictu.eherkenning.nl
 test-dictu.forumstandaardisatie.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
+test-dictu.ncsc.nl
 test-dictu.referentiegrootboekschema.nl
 test-dictu.sbr-nl.nl
 test-dictu.toegankelijkheidsverklaring.nl

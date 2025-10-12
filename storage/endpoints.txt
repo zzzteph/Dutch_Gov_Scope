@@ -1659,12 +1659,14 @@ https://acc-corsa-cu.tweedekamer.nl
 https://acc-corsa-vvd.tweedekamer.nl
 https://acc-ddapi-wkp.rws.nl
 https://acc-diamonds.tno.nl
+https://acc-dictu.cms.ncsc.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.digitoegankelijk.nl
 https://acc-dictu.eherkenning.nl
 https://acc-dictu.forumstandaardisatie.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
+https://acc-dictu.ncsc.nl
 https://acc-dictu.referentiegrootboekschema.nl
 https://acc-dictu.sbr-nl.nl
 https://acc-dictu.toegankelijkheidsverklaring.nl
@@ -7254,6 +7256,7 @@ https://mijn.skal.nl
 https://mijn.ssr.nl
 https://mijn.svdj.nl
 https://mijn.test.lcms.nl
+https://mijn.test.ncsc.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
 https://mijn.uwv.nl
@@ -10038,12 +10041,14 @@ https://test-cmswijser.ser.nl
 https://test-connect.aerius.nl
 https://test-content.verbeterjehuis.nl
 https://test-developer.stopheling.nl
+https://test-dictu.cms.ncsc.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.digitoegankelijk.nl
 https://test-dictu.eherkenning.nl
 https://test-dictu.forumstandaardisatie.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
+https://test-dictu.ncsc.nl
 https://test-dictu.referentiegrootboekschema.nl
 https://test-dictu.sbr-nl.nl
 https://test-dictu.toegankelijkheidsverklaring.nl
