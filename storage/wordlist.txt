@@ -21,9 +21,9 @@ cms
 intranet
 vpn
 www-acc
-feeds.english
 werkenbij
 login
+feeds.english
 opendata.english
 link
 prod
@@ -56,7 +56,6 @@ hybrid
 sts
 accept
 adfs
-a-english
 elearning
 cdn
 onderzoek
@@ -64,8 +63,7 @@ oud
 auth
 www2
 webdisk
-a-feeds.a-english
-a-opendata.a-english
+a-english
 enterpriseregistration
 webservices
 open
@@ -73,6 +71,8 @@ dialin
 www.acc
 mail2
 www.test
+a-feeds.a-english
+a-opendata.a-english
 fs
 ns2
 services
