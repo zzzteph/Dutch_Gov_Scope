@@ -34,7 +34,6 @@ english.ndw.nu
 error-reporting.ndw.nu
 faq.ndw.nu
 fbmonitor.ndw.nu
-feeds.ndw.nu
 file.ndw.nu
 geojson-converter.ndw.nu
 havik.ndw.nu
@@ -69,7 +68,6 @@ nls.staging.ndw.nu
 nt.ndw.nu
 ntm.ndw.nu
 ntm.staging.ndw.nu
-open-data.ndw.nu
 opendata-ref.ndw.nu
 opendata.ndw.nu
 pm-bounces.ndw.nu
@@ -77,6 +75,7 @@ put-kpi-dashboard.ndw.nu
 realtime.ndw.nu
 realtime.staging.ndw.nu
 reistijdtrajecten.ndw.nu
+routeradar.ndw.nu
 rt.ndw.nu
 s.ndw.nu
 security.ndw.nu
