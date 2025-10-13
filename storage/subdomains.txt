@@ -1048,7 +1048,6 @@ a-feeds.klimaatakkoord.nl
 a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
 a-feeds.loonaangifteketen.nl
-a-feeds.nza.nl
 a-feeds.ocwincijfers.nl
 a-feeds.politiekeambtsdragers.nl
 a-feeds.rekenkamer.nl
@@ -1123,7 +1122,6 @@ a-opendata.klimaatakkoord.nl
 a-opendata.koninklijkhuis.nl
 a-opendata.koopoverheid.nl
 a-opendata.loonaangifteketen.nl
-a-opendata.nza.nl
 a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
 a-opendata.politiekeambtsdragers.nl
@@ -1296,7 +1294,6 @@ a-www.loonaangifteketen.nl
 a-www.magazinesrijkswaterstaat.nl
 a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
-a-www.nza.nl
 a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
 a-www.politiekeambtsdragers.nl
@@ -7543,7 +7540,6 @@ feeds.nl-alert.nl
 feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
 feeds.nvwa.nl
-feeds.nza.nl
 feeds.ocwincijfers.nl
 feeds.oecdguidelines.nl
 feeds.oesorichtlijnen.nl
@@ -13016,7 +13012,6 @@ opendata.nl-alert.nl
 opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
 opendata.nvwa.nl
-opendata.nza.nl
 opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
 opendata.oesorichtlijnen.nl
