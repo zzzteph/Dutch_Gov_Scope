@@ -7542,7 +7542,6 @@ feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nl-alert.nl
 feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
-feeds.nponderwijs.nl
 feeds.nrgd.nl
 feeds.nvwa.nl
 feeds.nza.nl
@@ -13018,7 +13017,6 @@ opendata.nieuwsbrieven.rijkswaterstaat.nl
 opendata.nl-alert.nl
 opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
-opendata.nponderwijs.nl
 opendata.nrgd.nl
 opendata.nvwa.nl
 opendata.nza.nl
