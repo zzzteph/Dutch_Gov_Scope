@@ -31,9 +31,9 @@ data
 formulieren
 redactie
 e
-smtp
 app
 werkplek
+smtp
 portal
 dev
 beheer
@@ -50,10 +50,10 @@ zoeken
 kennisbank
 remote
 publicaties
-ftp
 cpanel
 hybrid
 sts
+ftp
 accept
 adfs
 elearning
@@ -378,7 +378,6 @@ voorlichting
 join
 leeromgeving
 webshop
-pop
 organisaties
 data-acc
 standaarden
@@ -681,6 +680,7 @@ register
 fed
 s3
 papiamento
+pop
 toolbox
 pdok
 wikixl-saml.acceptatie

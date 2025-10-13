@@ -7836,7 +7836,6 @@ ftp.kbvg.nl
 ftp.koop.overheid.nl
 ftp.nationaalarchief.nl
 ftp.ofgv.nl
-ftp.oostvaarderskliniek.nl
 ftp.rechtspraak.nl
 ftp.schoolleidersregisterpo.nl
 ftp.vechtstromen.nl
@@ -10834,7 +10833,6 @@ mail.onderwijsraad.nl
 mail.onderzoek.duo.nl
 mail.onderzoeksraad.nl
 mail.ontdekdezorg.nl
-mail.oostvaarderskliniek.nl
 mail.open-overheid.nl
 mail.opwegnaarseb.nl
 mail.orangecorners.com
@@ -13990,7 +13988,6 @@ politieopendata.cbs.nl
 politieorkest.nl
 pom.cultureelerfgoed.nl
 poortman.kb.nl
-pop.oostvaarderskliniek.nl
 pop.vechtstromen.nl
 pop.wijzijndus-i.nl
 por.pkioverheid.nl
@@ -16129,7 +16126,6 @@ smtp.kvk.nl
 smtp.lbio.nl
 smtp.nwo.nl
 smtp.ofgv.nl
-smtp.oostvaarderskliniek.nl
 smtp.parlement.nl
 smtp.rdw.nl
 smtp.rijksoverheid.nl
