@@ -7481,7 +7481,6 @@ feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
-feeds.english.nrgd.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
 feeds.english.p-direkt.nl
@@ -7542,7 +7541,6 @@ feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nl-alert.nl
 feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
-feeds.nrgd.nl
 feeds.nvwa.nl
 feeds.nza.nl
 feeds.ocwincijfers.nl
@@ -12953,7 +12951,6 @@ opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
-opendata.english.nrgd.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
 opendata.english.p-direkt.nl
@@ -13017,7 +13014,6 @@ opendata.nieuwsbrieven.rijkswaterstaat.nl
 opendata.nl-alert.nl
 opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
-opendata.nrgd.nl
 opendata.nvwa.nl
 opendata.nza.nl
 opendata.ocwincijfers.nl

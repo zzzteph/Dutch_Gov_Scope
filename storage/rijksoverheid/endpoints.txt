@@ -5123,7 +5123,6 @@ https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
-https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
 https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.rekenkamer.nl
@@ -5176,7 +5175,6 @@ https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nl-alert.nl
 https://feeds.nlarbeidsinspectie.nl
 https://feeds.nllabourauthority.nl
-https://feeds.nrgd.nl
 https://feeds.nvwa.nl
 https://feeds.nza.nl
 https://feeds.ocwincijfers.nl
@@ -8020,7 +8018,6 @@ https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
-https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
 https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.rekenkamer.nl
@@ -8075,7 +8072,6 @@ https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nl-alert.nl
 https://opendata.nlarbeidsinspectie.nl
 https://opendata.nllabourauthority.nl
-https://opendata.nrgd.nl
 https://opendata.nvwa.nl
 https://opendata.nza.nl
 https://opendata.ocwincijfers.nl
