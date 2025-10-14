@@ -2666,6 +2666,7 @@ api-acc.kansspelautoriteit.nl
 api-acc.rdi.nl
 api-acc.uboregistertrusts.nl
 api-acpt.brabant.nl
+api-admin.developer.overheid.nl
 api-auth.ilent.nl
 api-dev.afm.nl
 api-dev.dementieinkaart.nl
@@ -2758,6 +2759,7 @@ api.dementieinkaart.nl
 api.denkmee.zuid-holland.nl
 api.dev-lsp.rivm.nl
 api.developer.dnb.nl
+api.developer.overheid.nl
 api.digid.nl
 api.digitalenoordzee.nl
 api.diplomatieke-getuigenissen.huygens.knaw.nl
@@ -3267,6 +3269,7 @@ auth.acceptatie.kadaster.nl
 auth.acm.nl
 auth.dataplatform.knmi.nl
 auth.denkmee.zuid-holland.nl
+auth.developer.overheid.nl
 auth.dictu.nl
 auth.hogeraad.nl
 auth.ibki.nl
@@ -7965,7 +7968,12 @@ gebruikregistratie-acc.inspectieview.nl
 gebruikregistratie-tst.inspectieview.nl
 gebruikregistratie.inspectieview.nl
 gecko.cbs.nl
+gegevensbijbesluiten-acc.overheid.nl
+gegevensbijbesluiten-concept-acc.overheid.nl
 gegevensbijbesluiten-concept.overheid.nl
+gegevensbijbesluiten-inlog-acc.overheid.nl
+gegevensbijbesluiten-inlog.overheid.nl
+gegevensbijbesluiten-redactie-acc.overheid.nl
 gegevensbijbesluiten-redactie.overheid.nl
 gegevensbijbesluiten.overheid.nl
 gegevensdelen.acc.mijn.overheid.nl
@@ -14411,6 +14419,9 @@ professional.basisinformatie-overstromingen.nl
 professionalcentraal.sbcm.nl
 profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
+profiel.acc.mijn.overheid.nl
+profiel.acc1.mijn.overheid.nl
+profiel.acc2.mijn.overheid.nl
 profiles.werkenbijdefensie.nl
 prognosemodelzw.databank.nl
 programma-uned.nl
@@ -16203,6 +16214,7 @@ sociaalfonds.minienm.nl
 sociaalfondsminienw.nl
 sociaalfondspersoneel.nl
 sociaalfondspersoneel.sitearchief.nl
+social-tst.overheid.nl
 social.gov.nl
 social.overheid.nl
 socialestabiliteit.nl

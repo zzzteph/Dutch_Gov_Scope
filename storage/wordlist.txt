@@ -606,6 +606,7 @@ werkplaats
 e-learning
 import-acc.organisaties
 import.organisaties
+api.developer
 identifier-preprod
 identifier
 ondernemersplein
@@ -3457,6 +3458,7 @@ algoritme
 algoritmen
 algoritmes
 almanak
+api-admin.developer
 api.acc.mijn
 api.acc1.mijn
 api.acc2.mijn
@@ -3482,6 +3484,7 @@ artifact-pp2.toegang
 artifact-rd1.toegang
 artifact-rd2.toegang
 asl.omgevingswet
+auth.developer
 autodiscover.koop
 bag.acceptatie.basisregistraties
 bag.basisregistraties
@@ -3622,7 +3625,12 @@ emailtemplates
 enabling.omgevingswet
 forum.developer
 ftp.koop
+gegevensbijbesluiten-acc
+gegevensbijbesluiten-concept-acc
 gegevensbijbesluiten-concept
+gegevensbijbesluiten-inlog-acc
+gegevensbijbesluiten-inlog
+gegevensbijbesluiten-redactie-acc
 gegevensbijbesluiten-redactie
 gegevensbijbesluiten
 gegevensdelen.acc.mijn
@@ -3745,6 +3753,9 @@ preprod.omgevingswet
 preprod.zoekdienst
 preview-eto
 preview.wegwijzer
+profiel.acc.mijn
+profiel.acc1.mijn
+profiel.acc2.mijn
 puc-acc
 puc-redactie-acc
 puc-redactie
@@ -3795,6 +3806,7 @@ smtp1.mijn
 smtp2.mijn
 smtp3.mijn
 smtp4.mijn
+social-tst
 sso.acc.omgevingswet
 sso.bta.omgevingswet
 sso.dmo.omgevingswet
@@ -7625,7 +7637,6 @@ api-staging.scm
 api.dataloop-acc
 api.dataloop-test
 api.dataloop
-api.developer
 api.management
 api.portal
 atender
