@@ -527,8 +527,6 @@ ssl
 t-cms1
 t-site1
 deutsch
-feeds.deutsch
-opendata.deutsch
 dns1
 ns1.gslb
 ns2.gslb
@@ -2106,6 +2104,8 @@ dp2023
 dp2024
 dp2025
 dp2026
+feeds.deutsch
+opendata.deutsch
 acceptatie.abonnee
 acceptatie.auth
 acceptatie.authlab
