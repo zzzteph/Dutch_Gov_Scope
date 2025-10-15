@@ -7559,7 +7559,6 @@ feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.prosecutionservice.nl
 feeds.raadvoorcultuur.nl
-feeds.rabarijk.nl
 feeds.rdi.nl
 feeds.regelhulp.nl
 feeds.rekenkamer.nl
@@ -13032,7 +13031,6 @@ opendata.politiekeambtsdragers.nl
 opendata.preprod.kvk.nl
 opendata.prosecutionservice.nl
 opendata.raadvoorcultuur.nl
-opendata.rabarijk.nl
 opendata.rdi.nl
 opendata.rdw.nl
 opendata.regelhulp.nl
