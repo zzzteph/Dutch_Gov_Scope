@@ -795,6 +795,7 @@ _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
 _autodiscover._tcp.rechtsbijstand.nl
 _autodiscover._tcp.rijkewaddenzee.nl
+_autodiscover._tcp.rijksdienstcn.com
 _autodiscover._tcp.rijksorganisatieodi.nl
 _autodiscover._tcp.schadedoormijnbouw.nl
 _autodiscover._tcp.sodm.nl
@@ -1021,7 +1022,6 @@ a-feeds.a-english.defensie.nl
 a-feeds.a-english.igj.nl
 a-feeds.a-english.rekenkamer.nl
 a-feeds.a-english.rijksdienstcn.com
-a-feeds.a-papiamentu.rijksdienstcn.com
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -1095,7 +1095,6 @@ a-opendata.a-english.defensie.nl
 a-opendata.a-english.igj.nl
 a-opendata.a-english.rekenkamer.nl
 a-opendata.a-english.rijksdienstcn.com
-a-opendata.a-papiamentu.rijksdienstcn.com
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -1138,7 +1137,6 @@ a-origin.api.contenttoolsrijksoverheid.nl
 a-os.tno.nl
 a-ourplan.tno.nl
 a-outsystems.tsn.tno.nl
-a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
 a-ps1.platformrijksoverheid.nl
 a-ps2.platformrijksoverheid.nl
@@ -7809,7 +7807,6 @@ fs.belastingdienst.nl
 fs.cpb.nl
 fs.ctgb.nl
 fs.knmi.nl
-fs.rijksdienstcn.com
 fs.rivm.nl
 fs.rvr.org
 fs.ssc-campus.nl

@@ -73,7 +73,6 @@ mail2
 www.test
 a-feeds.a-english
 a-opendata.a-english
-fs
 ns2
 services
 old
@@ -95,6 +94,7 @@ preview
 media
 maps
 beta
+fs
 geo
 kennis
 proto
@@ -4738,9 +4738,6 @@ webmail.rsj
 whatsip.test.ix
 www.rapportage
 zabbix6.mintst2
-a-feeds.a-papiamentu
-a-opendata.a-papiamentu
-a-papiamentu
 push
 vpnbon
 tools-acc
