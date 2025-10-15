@@ -508,7 +508,6 @@ http://maps.fa.knaw.nl
 http://maps.rivm.nl
 http://mapserver.huc.knaw.nl
 http://margarethaklooster.huygens.knaw.nl
-http://matrix.ix.rijkscloud.nl
 http://mcra-test.rivm.nl
 http://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
@@ -2077,7 +2076,6 @@ https://accounts-stg.arcgis.com
 https://accounts.arcgis.com
 https://accounts.cbs.nl
 https://accounts.kim.rijkscloud.nl
-https://accounts.minszw.rijkscloud.nl
 https://accp-api.stopheling.nl
 https://accp-bp.stopheling.nl
 https://accp-dol.stopheling.nl
@@ -6975,7 +6973,6 @@ https://mail.cjib.nl
 https://mail.collegesanering.nl
 https://mail.community-gatewayreview.nl
 https://mail.cpb.nl
-https://mail.dgdoobi.rijkscloud.nl
 https://mail.dihoo.nl
 https://mail.efsca.org
 https://mail.eurofawc.com
@@ -8388,7 +8385,6 @@ https://pet-explorer.sensorlab.tno.nl
 https://pfbackend.acc.vfpf.nl
 https://pfbackend.vfpf.nl
 https://pfos-pfoa-cow.apps.feedfoodtransfer.nl
-https://pgadmin.analyse.ilt.rijkscloud.nl
 https://pgadmin.vm-02.azure.grid.rws.nl
 https://pgadmin4.analyse.ilt.rijkscloud.nl
 https://pgb-acc.confluence.odc-noord.nl

@@ -4116,9 +4116,7 @@ broker.cloudtop
 butler
 catalyst.so
 ceph-prx1.gn1
-ceph-prx1.rw1
 ceph-prx2.gn1
-ceph-prx2.rw1
 ceph-prx3.gn1
 ceph-prx3.gn3
 ceph-prx4.gn1
@@ -4395,7 +4393,6 @@ login-a.rvb
 login-net.rvb
 login-oms.rvb
 login.rvb
-mail.dgdoobi
 mail.gn2
 mail.ienw
 mail.rvb
@@ -4485,7 +4482,6 @@ pages.gitlab.analyse.ilt
 pages.mintst1.ix
 performance.ix
 performance
-pgadmin.analyse.ilt
 pgadmin.demo.ix
 pgadmin.dev.fib.ienw
 pgadmin.dgdoobi

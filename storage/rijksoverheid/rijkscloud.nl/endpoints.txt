@@ -1,6 +1,4 @@
-http://matrix.ix.rijkscloud.nl
 https://accounts.kim.rijkscloud.nl
-https://accounts.minszw.rijkscloud.nl
 https://api.cursus.rijkscloud.nl
 https://api.dbe-t.rvb.rijkscloud.nl
 https://api.ix.rijkscloud.nl
@@ -55,7 +53,6 @@ https://jupyter.ritp.rijkscloud.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.rdi.rijkscloud.nl
 https://keycloak.test.analyse.ilt.rijkscloud.nl
-https://mail.dgdoobi.rijkscloud.nl
 https://mail.rijkscloud.nl
 https://meet.rijkscloud.nl
 https://nc-a.rvb.rijkscloud.nl
@@ -66,7 +63,6 @@ https://nextcloud.rvb.rijkscloud.nl
 https://noorddrive.rijkscloud.nl
 https://opendata.rvb.rijkscloud.nl
 https://pages.ds-ocw.rijkscloud.nl
-https://pgadmin.analyse.ilt.rijkscloud.nl
 https://pgadmin4.analyse.ilt.rijkscloud.nl
 https://platform-acc.analyse.ilt.rijkscloud.nl
 https://platform.analyse.ilt.rijkscloud.nl

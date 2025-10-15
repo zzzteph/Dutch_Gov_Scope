@@ -4709,9 +4709,7 @@ centrale-eindtoets-po.nl
 centralecommissiedierproeven.nl
 centro-de-respuesta-coronavirus-soacha-sigsoacha15.hub.arcgis.com
 ceph-prx1.gn1.rijkscloud.nl
-ceph-prx1.rw1.rijkscloud.nl
 ceph-prx2.gn1.rijkscloud.nl
-ceph-prx2.rw1.rijkscloud.nl
 ceph-prx3.gn1.rijkscloud.nl
 ceph-prx3.gn3.rijkscloud.nl
 ceph-prx4.gn1.rijkscloud.nl
@@ -10776,7 +10774,6 @@ mail.cultuurparticipatie.nl
 mail.dagvandefg.nl
 mail.datachallenge.nl
 mail.dev.cbs.nl
-mail.dgdoobi.rijkscloud.nl
 mail.dictu.nl
 mail.dihoo.nl
 mail.dji.nl
@@ -13777,7 +13774,6 @@ pfm.document-viewer-api.dso.kadaster.nl
 pfm.geodoc.dso.kadaster.nl
 pfm.ozon.dso.kadaster.nl
 pfos-pfoa-cow.apps.feedfoodtransfer.nl
-pgadmin.analyse.ilt.rijkscloud.nl
 pgadmin.demo.ix.rijkscloud.nl
 pgadmin.dev.fib.ienw.rijkscloud.nl
 pgadmin.dgdoobi.rijkscloud.nl

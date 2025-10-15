@@ -33,9 +33,7 @@ broker.cloudtop.rijkscloud.nl
 butler.rijkscloud.nl
 catalyst.so.rijkscloud.nl
 ceph-prx1.gn1.rijkscloud.nl
-ceph-prx1.rw1.rijkscloud.nl
 ceph-prx2.gn1.rijkscloud.nl
-ceph-prx2.rw1.rijkscloud.nl
 ceph-prx3.gn1.rijkscloud.nl
 ceph-prx3.gn3.rijkscloud.nl
 ceph-prx4.gn1.rijkscloud.nl
@@ -319,7 +317,6 @@ login-a.rvb.rijkscloud.nl
 login-net.rvb.rijkscloud.nl
 login-oms.rvb.rijkscloud.nl
 login.rvb.rijkscloud.nl
-mail.dgdoobi.rijkscloud.nl
 mail.gn2.rijkscloud.nl
 mail.ienw.rijkscloud.nl
 mail.rijkscloud.nl
@@ -411,7 +408,6 @@ pages.gitlab.analyse.ilt.rijkscloud.nl
 pages.mintst1.ix.rijkscloud.nl
 performance.ix.rijkscloud.nl
 performance.rijkscloud.nl
-pgadmin.analyse.ilt.rijkscloud.nl
 pgadmin.demo.ix.rijkscloud.nl
 pgadmin.dev.fib.ienw.rijkscloud.nl
 pgadmin.dgdoobi.rijkscloud.nl
