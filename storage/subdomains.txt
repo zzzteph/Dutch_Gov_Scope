@@ -2823,6 +2823,7 @@ api.rechtspraak.nl
 api.reis.idm.rvig.nl
 api.rivm.nl
 api.rosetta-t.kb.nl
+api.rvo.nl
 api.rwsverkeersinfo.nl
 api.schadedoormijnbouw.nl
 api.schadefonds.nl
@@ -6000,6 +6001,7 @@ developer.omgevingswet.overheid.nl
 developer.overheid.nl
 developer.rivm.nl
 developer.rvig.nl
+developer.rvo.nl
 developer.test.kadaster.nl
 developers.acp.kvk.nl
 developers.arcgis.com
@@ -10489,6 +10491,7 @@ login.protocol.mfaservices.nl
 login.pzp.nl
 login.rivm.nl
 login.rvb.rijkscloud.nl
+login.rvo.nl
 login.rvr.org
 login.scp.nl
 login.skal.nl
@@ -13972,6 +13975,7 @@ poc1.bestandenpostbus.nl
 pocmdx.lab.cloud.kadaster.nl
 podium.knaw.nl
 poj.peeters-leuven.be.access.authkb.kb.nl
+polaris.rvo.nl
 politie-acc.rvr.org
 politie.nl
 politie.rvr.org

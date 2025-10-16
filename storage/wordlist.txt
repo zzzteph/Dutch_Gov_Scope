@@ -9,8 +9,8 @@ test
 mijn
 english
 webmail
-acceptatie
 api
+acceptatie
 a-www
 a-opendata
 a-feeds
@@ -21,8 +21,8 @@ cms
 intranet
 vpn
 www-acc
-werkenbij
 login
+werkenbij
 feeds.english
 link
 opendata.english
@@ -167,6 +167,7 @@ repository
 geoweb
 secure
 nieuwsbrieven
+developer
 siam
 matomo
 hostmaster
@@ -201,7 +202,6 @@ mx2
 iam
 service
 access
-developer
 forum
 monitor
 statistiek
@@ -5046,6 +5046,7 @@ ota-bbox-encr-tvs
 p-bbox-encr-tvs
 p-bbox-sign-tvs
 poc-intranet
+polaris
 preprod-iam.mijnoctrooi.mypage
 preprod-mijnoctrooi
 preprod-www.mijnoctrooi.mypage

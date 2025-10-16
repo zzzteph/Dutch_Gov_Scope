@@ -251,7 +251,6 @@ http://bibliotheek.gezondeleefomgeving.nl
 http://birdviewer.rws.nl
 http://blauwe-knop-acc.cjib.nl
 http://bmw9520.waddenzee.nl
-http://bpa.rvo.nl
 http://bridge-repair-d3p6-scdot.hub.arcgis.com
 http://bureau-reach.nl
 http://bvd.logius.nl
@@ -321,6 +320,7 @@ http://detoekomstbegintnu.brabant.nl
 http://dev-mijnsap.rivm.nl
 http://dev-veldmonitoring.rivm.nl
 http://dev.api.brp.mfaservices.nl
+http://developer.rvo.nl
 http://diagrams.at.rws.nl
 http://dialin.nba.nl
 http://digitaleoverheid.stelselcatalogus.nl
@@ -859,6 +859,7 @@ http://viya.rijkswaterstaat.nl
 http://vnsc.eu
 http://vo-rijk-acc.cjib.nl
 http://voi.brabant.nl
+http://vorijkbo-acc.rvo.nl
 http://vpn.bkd.eu
 http://vragenlijst-acc.rivm.nl
 http://vth.zuid-holland.nl
@@ -1737,6 +1738,7 @@ https://acc-gbvi.rws.nl
 https://acc-gbviapi.rws.nl
 https://acc-geo.rijkswaterstaat.nl
 https://acc-geo.rws.nl
+https://acc-geoservices.rvo.nl
 https://acc-groenesubsidiewijzer.verbeterjehuis.nl
 https://acc-iam.wm.gslb.rws.nl
 https://acc-iam.wm.rws.nl
@@ -2506,6 +2508,7 @@ https://api.rdi.nl
 https://api.rdw.nl
 https://api.rechtspraak.nl
 https://api.reis.idm.rvig.nl
+https://api.rvo.nl
 https://api.rwsverkeersinfo.nl
 https://api.skal.nl
 https://api.standaarden.overheid.nl
@@ -3261,6 +3264,7 @@ https://bovenschoolserapportage-t.cito.nl
 https://bovenschoolserapportage.cito.nl
 https://bozeman-covid-19-recovery-bozeman.hub.arcgis.com
 https://bp.stopheling.nl
+https://bpa.rvo.nl
 https://bpp.datasluis.dictu.nl
 https://bprd-asset-inventory-system-boston.hub.arcgis.com
 https://bra.rijksapplicaties.nl
@@ -3573,6 +3577,7 @@ https://cia.acp.ondernemersplein.overheid.nl
 https://cia.ondernemersplein.overheid.nl
 https://cia.staging.ondernemersplein.overheid.nl
 https://cia.tst.ondernemersplein.overheid.nl
+https://ciam.rvo.nl
 https://cibbrina.eu
 https://cibg.nl
 https://cibg.sitearchief.nl
@@ -6824,6 +6829,7 @@ https://login.pp2.digid.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://login.pzp.nl
 https://login.rivm.nl
+https://login.rvo.nl
 https://login.rvr.org
 https://login.scp.nl
 https://login.skal.nl
@@ -8481,6 +8487,7 @@ https://po.politieacademie.nl
 https://poc1.bestandenpostbus.nl
 https://podium.knaw.nl
 https://poj.peeters-leuven.be.access.authkb.kb.nl
+https://polaris.rvo.nl
 https://politie.nl
 https://politie.sitearchief.nl
 https://politieacademie.nl
