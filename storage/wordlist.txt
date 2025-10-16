@@ -4885,6 +4885,7 @@ www.staging.werkenbij
 acc2.intranet
 agw.idm
 agw.lap.idm
+agw.lap.stopid
 api.reis.idm
 apigw.brp.lap.idm
 idapps.npr.idm
@@ -4898,6 +4899,7 @@ login.idm
 login.npr.idm
 mail.tmv-lap
 mail.tmv
+probeerbrpapi
 prod.intranet
 publicaties-acc
 publicaties-prod
