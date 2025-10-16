@@ -4812,8 +4812,8 @@ am
 bmm
 bmm2016
 botova
+ddapi20-waterwebservices
 etl
-feeds.nieuwsbrieven
 geocontroletool
 iam-ext.intranet
 iam.intranet
@@ -4840,7 +4840,6 @@ ont.live
 ont.live.werkenbij
 ont.staging
 ont.staging.werkenbij
-opendata.nieuwsbrieven
 opleiding.spin2
 prd.web-static
 preprod.iam

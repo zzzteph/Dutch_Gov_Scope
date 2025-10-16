@@ -483,7 +483,6 @@ http://login.irealisatie.nl
 http://login.nba.nl
 http://lokaleregelgeving-eto.overheid.nl
 http://lokaleregelgeving.overheid.nl
-http://loket.acceptatie.rijkswaterstaat.nl
 http://loketgentherapie.nl
 http://longread.brabant.nl
 http://luchtfoto.zuid-holland.nl
@@ -4168,6 +4167,7 @@ https://dcmp-upnl-idp.rvo.nl
 https://dcp-time-slot.cbg-meb.nl
 https://dcypher.nl
 https://ddapi-wkp.rws.nl
+https://ddapi20-waterwebservices.rijkswaterstaat.nl
 https://ddd.test.cloud.kadaster.nl
 https://deafsluitdijk.nl
 https://debatdirect.tweedekamer.nl
@@ -5238,7 +5238,6 @@ https://feeds.ncab.nl
 https://feeds.ncpeh.nl
 https://feeds.ncsc.nl
 https://feeds.netwerkplatteland.nl
-https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nl-alert.nl
 https://feeds.nlarbeidsinspectie.nl
 https://feeds.nllabourauthority.nl
@@ -6850,6 +6849,7 @@ https://loket-inloggen-preprod.raadvanstate.nl
 https://loket-inloggen.raadvanstate.nl
 https://loket-preprod.hhdelfland.nl
 https://loket-preprod.raadvanstate.nl
+https://loket.acceptatie.rijkswaterstaat.nl
 https://loket.hhdelfland.nl
 https://loket.raadvanstate.nl
 https://loket.rechtspraak.nl
@@ -8106,7 +8106,6 @@ https://opendata.ncsc.nl
 https://opendata.ndw.nu
 https://opendata.nederlandwereldwijd.nl
 https://opendata.netwerkplatteland.nl
-https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nl-alert.nl
 https://opendata.nlarbeidsinspectie.nl
 https://opendata.nllabourauthority.nl

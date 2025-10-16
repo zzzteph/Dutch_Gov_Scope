@@ -5760,6 +5760,7 @@ ddapi-preprod.gslb.rws.nl
 ddapi-preprod.rws.nl
 ddapi-wkp.rws.nl
 ddapi.rws.nl
+ddapi20-waterwebservices.rijkswaterstaat.nl
 ddd.test.cloud.kadaster.nl
 dddn21.dans.knaw.nl
 ddi.ssc-campus.nl
@@ -7534,7 +7535,6 @@ feeds.ncpeh.nl
 feeds.ncsc.nl
 feeds.nctv.nl
 feeds.netwerkplatteland.nl
-feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nl-alert.nl
 feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
@@ -13004,7 +13004,6 @@ opendata.nctv.nl
 opendata.ndw.nu
 opendata.nederlandwereldwijd.nl
 opendata.netwerkplatteland.nl
-opendata.nieuwsbrieven.rijkswaterstaat.nl
 opendata.nl-alert.nl
 opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
