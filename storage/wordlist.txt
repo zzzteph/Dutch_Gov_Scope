@@ -5131,6 +5131,8 @@ uzipas.raadplegen
 webservice-preprod
 mailhost
 testmail
+informatiescherm-acc
+informatiescherm
 anyc-acceptatie
 anyc-t01-a
 anyc-t02
