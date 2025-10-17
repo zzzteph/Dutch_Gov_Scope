@@ -464,6 +464,7 @@ fibt2.acc
 filetransfer
 fmis
 gtmt
+gtmt.str13.tst
 jouw
 mijn-acc1
 mijn-test2
@@ -1158,7 +1159,6 @@ gtmd.str12.acc
 gtmd.str13.acc
 gtmd.str14.acc
 gtmdperf.acc
-gtmt.str13.tst
 gtmx.acc
 gtmz
 gtmz.str10.acc
@@ -5382,13 +5382,19 @@ fed01-acc
 fed01.acc
 fed01
 fed01.tst
+gtmt-et.tst
 gtmt-xt.tst
 gtmt.acc
 gtmt.str10.acc
+gtmt.str10.tst
 gtmt.str11.acc
+gtmt.str11.tst
 gtmt.str12.acc
+gtmt.str12.tst
 gtmt.str13.acc
 gtmt.str14.acc
+gtmt.str14.tst
+gtmt.tst
 gtmtperf.acc
 herstel
 inkomen
