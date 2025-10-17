@@ -4961,6 +4961,9 @@ https://esb.btp.sso3w.nl
 https://esb.expenses.sso3w.nl
 https://esb.flevoland.nl
 https://esb.rijkswaterstaat.nl
+https://escrow-dol.stopheling.nl
+https://escrow-dor.stopheling.nl
+https://escrow-dorbeheer.stopheling.nl
 https://esp-api-management.acc-probas.mfaservices.nl
 https://esp-api-management.dev-probas.mfaservices.nl
 https://esp-api-management.probas.mfaservices.nl
