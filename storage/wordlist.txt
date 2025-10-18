@@ -165,7 +165,6 @@ sdm
 dashboard
 repository
 geoweb
-secure
 nieuwsbrieven
 developer
 siam
@@ -198,6 +197,7 @@ csoacct
 csotest
 zaaksysteem-acc
 synergy
+secure
 mx2
 iam
 service
@@ -5434,6 +5434,7 @@ omi
 planonprod
 tmx
 acceptatie-zaaksysteem
+acckaarten
 apps-dev
 apps-tst
 basisregistratie
