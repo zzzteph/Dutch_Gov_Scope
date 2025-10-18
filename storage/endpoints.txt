@@ -779,6 +779,7 @@ http://technische-documentatie.oep.overheid.nl
 http://teebstad.nl
 http://teebstad.rivm.nl
 http://test-afleveren.procesinfrastructuur.nl
+http://test-bron.waterschaplimburg.nl
 http://test-cms-eef.waterschaplimburg.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
@@ -9989,7 +9990,6 @@ https://terugroepacties.rdw.nl
 https://test-api.stopheling.nl
 https://test-azure-waf1.lvnl.nl
 https://test-bp.stopheling.nl
-https://test-bron.waterschaplimburg.nl
 https://test-calculator.aerius.nl
 https://test-cms-bron.waterschaplimburg.nl
 https://test-cms.projecten.rvo.nl
