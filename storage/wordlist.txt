@@ -171,7 +171,6 @@ matomo
 hostmaster
 radius
 eloket
-web
 ontwikkel
 academie
 evenementen
@@ -275,6 +274,7 @@ acc-www
 cm
 toolkit
 idp
+web
 downloads
 activesync
 redirect
@@ -887,6 +887,7 @@ gisservicesacc
 wachtwoordwijzigen
 webgis
 webgisacc
+wik
 wms
 auth-admin-eopg-acc
 auth-admin-eopg
