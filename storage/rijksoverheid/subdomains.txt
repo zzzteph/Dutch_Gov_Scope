@@ -1480,7 +1480,6 @@ acc-dlm.ssr.nl
 acc-duvo-web-api.rivm.nl
 acc-dvu.rvo.nl
 acc-edfs.rivm.nl
-acc-eformulieren.zuid-holland.nl
 acc-energiebesparingsverkenner-ws.rvo.nl
 acc-energiebesparingsverkenner.rvo.nl
 acc-energielabels.gebouwen.overheid.nl
@@ -1563,7 +1562,6 @@ acc-saml.rd.2wssl.dictu.nl
 acc-sapphire.tno.nl
 acc-sonarreg.rws.nl
 acc-sso-osiris.rivm.nl
-acc-staten.zuid-holland.nl
 acc-tdv.rivm.nl
 acc-themasites.pbl.nl
 acc-thuisbezorgd.mijnrijkspas.nl
@@ -2298,7 +2296,6 @@ admin.denkmee.zuid-holland.nl
 admin.deweekvandecirculaireeconomie.nl
 admin.globalentry-rtp.nl
 admin.letterenfonds.nl
-admin.openstad.zuid-holland.nl
 admin.ptvt.nl
 admin.rws.nl
 admin.schoolleidersregisterpo.nl
@@ -2804,7 +2801,6 @@ api.ncsc.nl
 api.nederlandwereldwijd.nl
 api.ondernemersplein.nl
 api.ondernemersplein.overheid.nl
-api.openstad.zuid-holland.nl
 api.p-direkt.nl
 api.pdok.cloud.kadaster.nl
 api.pdok.nl
@@ -3088,7 +3084,6 @@ archief.nwo-i.nl
 archief.rijksbegroting.nl
 archief.rijksfinancien.nl
 archief.sbcm.nl
-archief.zuid-holland.nl
 archief22.sitearchief.nl
 archief23.sitearchief.nl
 archief24.sitearchief.nl
@@ -3274,7 +3269,6 @@ auth.kadaster.nl
 auth.mfaservices.nl
 auth.mijnoctrooi.mypage.rvo.nl
 auth.ndw.nu
-auth.openstad.zuid-holland.nl
 auth.protocol.mfaservices.nl
 auth.rivm.nl
 auth.services.acm.nl
@@ -3837,7 +3831,6 @@ beheerautoriteitwaddenzee.nl
 beheerd-bureau.knaw.nl
 beheerders.logerenbijdeboswachter.nl
 beheerdetoekomst.nl
-beheermlo.zuid-holland.nl
 beheerportaal.acc.omgevingswet.overheid.nl
 beheerportaal.acceptatie.digipoort.logius.nl
 beheerportaal.bta.omgevingswet.overheid.nl
@@ -3880,6 +3873,7 @@ belastingen.zuid-holland.nl
 belastingles.nl
 beleidsmonitor-acc.zuid-holland.nl
 beleidsmonitor-tst.zuid-holland.nl
+beleidsmonitor.zuid-holland.nl
 beleving.rivm.nl
 belize-coronavirus-response-tbsl-drp.hub.arcgis.com
 benbrook.maps.arcgis.com
@@ -5462,7 +5456,6 @@ csp.minienm.nl
 cspe-app.cito.nl
 csr.rvr.org
 csr.tno.nl
-css.openstad.zuid-holland.nl
 cst-syslog.test.cloud.kadaster.nl
 cst.kadaster.nl
 cst.rijkscloud.nl
@@ -6524,7 +6517,6 @@ dutchdubai.com
 dutchncca.nl
 dutchoffshorewindatlas.nl
 dutchrapporteur.nl
-duurzaam-mkb.zuid-holland.nl
 duurzaamdoor.nl
 duurzame-infra.nl
 duurzamecatering.voedingscentrum.nl
@@ -6766,7 +6758,6 @@ efeat.org
 efiling.mijnoctrooi.rvo.nl
 efm.belastingdienst.nl
 eforms.ind.nl
-eformulieren.zuid-holland.nl
 efsca.nipv.nl
 efsca.org
 egain-com.cbs.nl
@@ -7683,7 +7674,6 @@ flysafe-birdtam.eu
 fm63.dans.knaw.nl
 fme.brt.test.kadaster.nl
 fme.hdsr.nl
-fmeserver.zuid-holland.nl
 fmh.acc.syn.rijksapplicaties.nl
 fmh.syn.rijksapplicaties.nl
 fmh.test.syn.rijksapplicaties.nl
@@ -7745,7 +7735,6 @@ formulieren.uwv.nl
 formulieren.uziregister.nl
 formulieren.waterschaplimburg.nl
 formulieren.zovar.nl
-formulieren.zuid-holland.nl
 fortbijrijnauwen.staatsbosbeheer.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
@@ -8015,8 +8004,6 @@ generiekportaal.tst.belastingdienst.nl
 genomes.bioinf.nioo.knaw.nl
 gensys.flevoland.nl
 geo-fms.zuid-holland.nl
-geo-secure-test.zuid-holland.nl
-geo-secure.zuid-holland.nl
 geo-stats.zuid-holland.nl
 geo-test.zuid-holland.nl
 geo-tools.zuid-holland.nl
@@ -8108,7 +8095,6 @@ geoweb.odmh.nl
 geoweb.rijkswaterstaat.nl
 geoweb.rws.nl
 geoweb.vechtstromen.nl
-geoweb.zuid-holland.nl
 geraardsbergen.huygens.knaw.nl
 german.dev.investinholland.com
 german.investinholland.com
@@ -8743,7 +8729,6 @@ ibl-beheer-prd.cloudservices.kb.nl
 ibl.kb.nl
 ibw.databank.nl
 ibw.datawonen.nl
-ic-desk-functions.zuid-holland.nl
 icce.knmi.nl
 icdesk.zuid-holland.nl
 icer.pbl.nl
@@ -8885,7 +8870,6 @@ images.huygens.knaw.nl
 images.nieuwsbrieven.rivm.nl
 imageviewer.kb.nl
 img.denkmee.zuid-holland.nl
-img.openstad.zuid-holland.nl
 imgdownload.rws.nl
 imlc.huygens.knaw.nl
 immissietoets.nl
@@ -8930,6 +8914,7 @@ ind.sitearchief.nl
 index.0ctocat.github.io
 indicatorsysteem-acc.zuid-holland.nl
 indicatorsysteem-tst.zuid-holland.nl
+indicatorsysteem.zuid-holland.nl
 indigo-l3-sso.ilab.ota.ind.minbzk.nl
 industrie-en-omwonenden.onderzoeksraad.nl
 inechile.maps.arcgis.com
@@ -9284,10 +9269,6 @@ ix.bureau.knaw.nl
 ix.rijkscloud.nl
 izis.ofgv.nl
 jaarjournaal.rvo.nl
-jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
-jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
-jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl
-jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 jaarverantwoordingzorg.nl
 jaarverslag.acm.nl
@@ -10041,7 +10022,6 @@ komveiligthuis.nl
 konijn.hackaton.rijkscloud.nl
 koninklijkhuis.nl
 koninkrijk1813.huygens.knaw.nl
-koopkoppeling.zuid-holland.nl
 koopoverheid.nl
 koppeling.s-bb.nl
 koppelpunt.ciz.nl
@@ -10583,7 +10563,6 @@ lu-i.espacenet.com
 lu.espacenet.com
 luchtfoto.aaenmaas.nl
 luchtfoto.flevoland.nl
-luchtfoto.zuid-holland.nl
 luchtgevechtsleiding.werkenbijdefensie.nl
 luchtvaartindetoekomst.nl
 luchtvaartmeteo-test.knmi.nl
@@ -11421,7 +11400,6 @@ mijn.voedingscentrum.nl
 mijn.waarborg.nl
 mijn.zonmw.nl
 mijn.zorgaanbiedersportaal.nl
-mijn.zuid-holland.nl
 mijn2-ontw.s-bb.nl
 mijn2.venvn.nl
 mijn2acc01.cbr.nl
@@ -11698,7 +11676,6 @@ mobiel.voedingscentrum.nl
 mobiel1.acc.toeslagen.nl
 mobiel2-test.ows2.politie.nl
 mobiel2-test.politie.nl
-mobielgis-test.zuid-holland.nl
 mobielgsk.voedingscentrum.nl
 mobile-login-acc.uwv.nl
 mobile-login.uwv.nl
@@ -12032,12 +12009,10 @@ mysitestest.hhdelfland.nl
 mytoken.dictu.nl
 mz.orangecorners.com
 n-central.caop.nl
-n211wippolderlaan.zuid-holland.nl
 n35wijthmennijverdal.nl
 n3werkzaamheden.nl
 na-acc.topdesk.odc-noord.nl
 na-prd.topdesk.odc-noord.nl
-naaldwijk.zuid-holland.nl
 naarnederland.nl
 nabb.databank.nl
 nabs.officielebekendmakingen.nl
@@ -12088,8 +12063,6 @@ natuurenrecreatieschapijsselmonde.nl
 natuurentechniek.slo.nl
 natuurinbeeld-preprod.nederlandsesoorten.nl
 natuurinbeeld.nederlandsesoorten.nl
-natuurlijk.zuid-holland.nl
-natuurvanuitdelucht.zuid-holland.nl
 nav.rdw.nl
 nb.voedingscentrum.nl
 nba.nl
@@ -12822,7 +12795,6 @@ onva-3f.minszw.nl
 onvp-3f.minszw.nl
 onzedelta.nl
 oofggz.nl
-oogop.zuid-holland.nl
 oordelen.mensenrechten.nl
 oos-p1.coa.nl
 oostvaarderskliniek.nl
@@ -13091,7 +13063,6 @@ opensciencemeeting2014.knaw.nl
 openskos.meertens.knaw.nl
 openstack.gn2.rijkscloud.nl
 openstack.gn3.rijkscloud.nl
-openstad.zuid-holland.nl
 openvideo-streaming.github.io
 openvpn001.remxs.odc-noord.nl
 operationeel-geneeskundig.lcms.nl
@@ -14422,7 +14393,6 @@ projecten.netwerkplatteland.nl
 projecten.rijksvastgoedbedrijf.nl
 projecten.rvo.nl
 projecten.zonmw.nl
-projectenatlas.zuid-holland.nl
 projectie.cultuurparticipatie.nl
 projectnet.zonmw.nl
 projects-acc.rvo.nl
@@ -15921,7 +15891,6 @@ shiny.secdemo.rijkscloud.nl
 shiny.test.ix.rijkscloud.nl
 shiny.walter.rijkscloud.nl
 shiny02.p-direkt.rijkscloud.nl
-shinyserver.zuid-holland.nl
 shop.alleenjijbepaalt.nl
 shopper.huurcommissie.nl
 shpvdwh03.rdw.nl
@@ -16026,7 +15995,6 @@ sis-api.ontw.cloud.kadaster.nl
 sis-developer.ontw.cloud.kadaster.nl
 sis-mngmtapim.ontw.cloud.kadaster.nl
 sis.brabant.nl
-sis.zuid-holland.nl
 site.ptvt.nl
 site1.defensie.nl
 site1.platformrijksoverheid.nl
@@ -16062,13 +16030,10 @@ slachtoffer.jeugdconnect.nl
 slave1.darenet.knaw.nl
 slechtvalk.brabant.nl
 slim-reizen.ndw.nu
-slimmebruggen-backend.zuid-holland.nl
-slimmebruggen.zuid-holland.nl
 slimmer-acc.vfpf.nl
 slimmer-dev.vfpf.nl
 slimmer-tst.vfpf.nl
 slimmer.vfpf.nl
-slimmerreizen.zuid-holland.nl
 slimmestad.rdi.nl
 slimmezorgestafette.nl
 slims.github.io
@@ -18444,7 +18409,6 @@ vt.inburgeren.nl
 vt.landelijkregisterkinderopvang.nl
 vt016bpp.dictu.nl
 vt016ed.dictu.nl
-vth.zuid-holland.nl
 vtrack-acc.nvwa.nl
 vtrack.nvwa.nl
 vts-aanmelding.politieacademie.nl
@@ -18507,7 +18471,6 @@ wallboardbuitenleven.apps.staatsbosbeheer.nl
 wap.nak.nl
 wap.tno.nl
 wapenfeiten.zuid-holland.nl
-warmtetransitieatlas.zuid-holland.nl
 was-a1.digid.nl
 was-a2.digid.nl
 was-a3.digid.nl
@@ -20512,7 +20475,6 @@ www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.openkat.nl
 www.opensourcewerken.nl
-www.openstad.zuid-holland.nl
 www.opleider.ibki.nl
 www.opleiding.sbcm.nl
 www.opleidingsportal.sbcm.nl
@@ -20777,7 +20739,6 @@ www.site.ptvt.nl
 www.sitearchief.nl
 www.skal.nl
 www.skc-oc.org
-www.slimmerreizen.zuid-holland.nl
 www.slimmezorgestafette.nl
 www.slimwatermanagement.nl
 www.slmmicrosoftrijk.nl
@@ -21306,7 +21267,6 @@ zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zonmw-jeugdmagazines.nl
 zonmw.nl
-zonnewijzer.zuid-holland.nl
 zorgaanbiedersportaal.nl
 zorgbeeld.nza.nl
 zorgcijfersdatabank.nl

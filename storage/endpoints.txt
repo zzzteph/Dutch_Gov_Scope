@@ -24,14 +24,12 @@ http://acc-api.rivm.nl
 http://acc-bestellingen.rivm.nl
 http://acc-duvo-web-api.rivm.nl
 http://acc-edfs.rivm.nl
-http://acc-eformulieren.zuid-holland.nl
 http://acc-english.rvo.nl
 http://acc-isis-ar-rapportage.rivm.nl
 http://acc-mft.rivm.nl
 http://acc-mijnlmm.rivm.nl
 http://acc-participantapi.postcovidonderzoek.nl
 http://acc-researcher.postcovidonderzoek.nl
-http://acc-staten.zuid-holland.nl
 http://acc-tdv.rivm.nl
 http://acc-veldmonitoring.rivm.nl
 http://acc-website.rvo.nl
@@ -105,7 +103,6 @@ http://addressing.test.zm.irealisatie.nl
 http://adfs.venvn.nl
 http://admin-acc.globalentry-rtp.nl
 http://admin.globalentry-rtp.nl
-http://admin.openstad.zuid-holland.nl
 http://admin.tst-rds.nl
 http://ag-dcr.cibg.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
@@ -116,7 +113,6 @@ http://amp.logius.nl
 http://analytics-acc.cjib.nl
 http://analytics-solutions-esridech.hub.arcgis.com
 http://api.digitalenoordzee.nl
-http://api.openstad.zuid-holland.nl
 http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
 http://apollo.databank.nl
@@ -134,13 +130,11 @@ http://apps.rivm.nl
 http://apps.tweedekamer.nl
 http://aptikom-riau-smartcommunity.hub.arcgis.com
 http://arcgis-natgeo-home-learngis.hub.arcgis.com
-http://archief.zuid-holland.nl
 http://architectenregister.nl
 http://arcscripts.arcgis.com
 http://artifact-pp1.toegang.overheid.nl
 http://as.im.nba.nl
 http://atlas-acpt.brabant.nl
-http://auth.openstad.zuid-holland.nl
 http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
 http://authpms.dictu.nl
@@ -225,7 +219,6 @@ http://bayplanviewer.bics.nl
 http://bd-toegang-acc.topdesk.odc-noord.nl
 http://beeldenvanderaad.nl
 http://beeldverhalen.staatsbosbeheer.nl
-http://beheermlo.zuid-holland.nl
 http://beirut-built-environment-database-base-map-aub.hub.arcgis.com
 http://benchmarkpovo.databank.nl
 http://besloten-nba-acc.nba.nl
@@ -297,7 +290,6 @@ http://cs-portaal.procesinfrastructuur.nl
 http://csep2.rivm.nl
 http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl
 http://csotest.vacaturebeheer.werkenbijdeoverheid.nl
-http://css.openstad.zuid-holland.nl
 http://d7.rvo.nl
 http://dashboard.procesinfrastructuur.nl
 http://data-acc.rijkswaterstaat.nl
@@ -336,7 +328,6 @@ http://download.im.nba.nl
 http://download.webmail.knmi.nl
 http://dpp-webservice.rijksapplicaties.nl
 http://dse.lx.overheid.nl
-http://duurzaam-mkb.zuid-holland.nl
 http://dva.acc.mgo.irealisatie.nl
 http://dva.test.mgo.irealisatie.nl
 http://e-learning.rvo.nl
@@ -344,7 +335,6 @@ http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://ebc.databank.nl
 http://ecdis.osiris.rivm.nl
-http://eformulieren.zuid-holland.nl
 http://eindtoets-ouders.cito.nl
 http://eindtoetsbasisonderwijs.cito.nl
 http://emailtemplates.overheid.nl
@@ -363,10 +353,8 @@ http://ezines.rvo.nl
 http://ezips-app.rivm.nl
 http://faweb.fa.knaw.nl
 http://feeds.english.sso3w.nl
-http://fmeserver.zuid-holland.nl
 http://form.letterenfonds.nl
 http://formulier-beheer.dus-i.nl
-http://formulieren.zuid-holland.nl
 http://fryske2.fa.knaw.nl
 http://ftp.ofgv.nl
 http://ftp.schoolleidersregisterpo.nl
@@ -381,11 +369,8 @@ http://gegevensdelen.preprod.mijn.overheid.nl
 http://genconnector-acceptatie.sawa-vth.nl
 http://genconnector.sawa-vth.nl
 http://genomes.bioinf.nioo.knaw.nl
-http://geo-secure-test.zuid-holland.nl
-http://geo-secure.zuid-holland.nl
 http://geo2.flevoland.nl
 http://geodata.rivm.nl
-http://geoweb.zuid-holland.nl
 http://gevallenen40-45.niod.knaw.nl
 http://gezondgroeien.voedingscentrum.nl
 http://gfportal.test.gf.irealisatie.nl
@@ -410,7 +395,6 @@ http://hg.fa.knaw.nl
 http://hisgis2.fa.knaw.nl
 http://holland-rijnland.databank.nl
 http://hypocrates.rivm.nl
-http://ic-desk-functions.zuid-holland.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
 http://identifier.overheid.nl
@@ -422,7 +406,6 @@ http://iltbuildserver.dictu.nl
 http://im.nba.nl
 http://images.huygens.knaw.nl
 http://imageviewer.kb.nl
-http://img.openstad.zuid-holland.nl
 http://imlc.huygens.knaw.nl
 http://impacttest.nwo.nl
 http://import.logerenbijdeboswachter.nl
@@ -441,10 +424,6 @@ http://intranet-acc.vfpf.nl
 http://intranet.ctgb.nl
 http://intranet.knaw.nl
 http://irma.toegangtotdeoverheid.nl
-http://jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
-http://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl
-http://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl
-http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 http://jaeger.test.zm.irealisatie.nl
 http://jobcoaching-dev.uwv.nl
@@ -462,7 +441,6 @@ http://keiko.brba.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
 http://kim.omgevingswet.overheid.nl
-http://koopkoppeling.zuid-holland.nl
 http://koppelvlak.overheid.nl
 http://kosteneffectiviteit-preventie.rivm.nl
 http://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
@@ -485,7 +463,6 @@ http://lokaleregelgeving-eto.overheid.nl
 http://lokaleregelgeving.overheid.nl
 http://loketgentherapie.nl
 http://longread.brabant.nl
-http://luchtfoto.zuid-holland.nl
 http://luistertoets.cito.nl
 http://lv109366-web01-out.eerstekamer.nl
 http://lvbb-preprod.overheid.nl
@@ -533,7 +510,6 @@ http://mijn.logerenbijdeboswachter.nl
 http://mijn.nvao.net
 http://mijn.overheid.nl
 http://mijn.tweedekamer.nl
-http://mijn.zuid-holland.nl
 http://mijnloonstrook.knaw.nl
 http://mijnmobiel.nba.nl
 http://milieuportaal.rivm.nl
@@ -543,15 +519,10 @@ http://mip-proxy-acc.rws.nl
 http://mip-proxy-prod.rws.nl
 http://mobiel.douane.nl
 http://mobiel.nba.nl
-http://mobielgis-test.zuid-holland.nl
 http://monitoring-test5.koop.overheid.nl
 http://monitoring.huc.knaw.nl
 http://myadmin.huc.knaw.nl
-http://n211wippolderlaan.zuid-holland.nl
-http://naaldwijk.zuid-holland.nl
 http://nationalaccounts.niwi.knaw.nl
-http://natuurlijk.zuid-holland.nl
-http://natuurvanuitdelucht.zuid-holland.nl
 http://ncc.gov.nl
 http://nederlandschehistorien.huygens.knaw.nl
 http://netuit.kb.nl
@@ -583,12 +554,10 @@ http://old.visitaties.nl
 http://ont-bestellingen.rivm.nl
 http://ontw.api-samenmeten.rivm.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
-http://oogop.zuid-holland.nl
 http://oosweb.cbs.nl
 http://opendata.grensdata.eu
 http://opendata.papiamento.two-acs.com
 http://opensciencemeeting2014.knaw.nl
-http://openstad.zuid-holland.nl
 http://oproepingen-api-preprd.overheid.nl
 http://organisaties-redactie.overheid.nl
 http://oss.developer.overheid.nl
@@ -640,7 +609,6 @@ http://prod.rvo.nl
 http://proeftuin.gf.irealisatie.nl
 http://prohibit.osiris.rivm.nl
 http://projecten.nba.nl
-http://projectenatlas.zuid-holland.nl
 http://projects.knmi.nl
 http://promise.nioo.knaw.nl
 http://providence-gis-hub-pvdgis.hub.arcgis.com
@@ -721,16 +689,11 @@ http://share.bidbook.eu
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://sharepoint.lvnl.nl
-http://shinyserver.zuid-holland.nl
 http://sic.s-bb.nl
 http://siem.acc.irealisatie.nl
 http://siem.irealisatie.nl
 http://sip1.nba.nl
-http://sis.zuid-holland.nl
 http://sites-u.rdw.nl
-http://slimmebruggen-backend.zuid-holland.nl
-http://slimmebruggen.zuid-holland.nl
-http://slimmerreizen.zuid-holland.nl
 http://social-tst.overheid.nl
 http://sorry.belastingdienst.nl
 http://specials.brabant.nl
@@ -863,10 +826,8 @@ http://voi.brabant.nl
 http://vorijkbo-acc.rvo.nl
 http://vpn.bkd.eu
 http://vragenlijst-acc.rivm.nl
-http://vth.zuid-holland.nl
 http://w3dxweb.knmi.nl
 http://wadzee9520.waddenzee.nl
-http://warmtetransitieatlas.zuid-holland.nl
 http://waterbeschikbaarheid.nl
 http://waterwebservices-acc.rws.nl
 http://wcf-eafspraak-acceptatie.ba.uwv.nl
@@ -946,7 +907,6 @@ http://www.ncc.gov.nl
 http://www.nias.knaw.nl
 http://www.old.visitaties.nl
 http://www.onderzoekinzesstappen.slo.nl
-http://www.openstad.zuid-holland.nl
 http://www.owas1.nba.nl
 http://www.passendeperspectieven.slo.nl
 http://www.pe-upload.nba.nl
@@ -958,7 +918,6 @@ http://www.rivmmagazines.nl
 http://www.sawa-vth.nl
 http://www.scope.nin.knaw.nl
 http://www.sip1.nba.nl
-http://www.slimmerreizen.zuid-holland.nl
 http://www.ssc-campus.nl
 http://www.staging.opwegnaarzes.nl
 http://www.stookwijzer.nu
@@ -985,7 +944,6 @@ http://zeeland.databank.nl
 http://zeelandscan.databank.nl
 http://zoeken.hdsr.nl
 http://zoeken.ondernemersplein.overheid.nl
-http://zonnewijzer.zuid-holland.nl
 http://zorgmonitor.databank.nl
 http://zwemwater.osiris.rivm.nl
 https://0-0-256.github.io
