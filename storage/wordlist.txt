@@ -574,6 +574,7 @@ externemailsaas
 mobilesync
 welkom
 ca
+www2-p
 zoekservice
 kgr-acc.mijn
 kgr.mijn
@@ -3138,7 +3139,6 @@ test-machtigen.digipoort
 vault.lpc
 prerelease
 toolkits
-www2-p
 complaintform
 gelijkloon
 klachtenformulier
@@ -5502,6 +5502,7 @@ mijn.geschilleninstantie
 mijn.locatieregister
 mijn.melding
 mijn.toelatingsvergunning
+www2-p2
 passwordmanager
 plek
 odb-ac
