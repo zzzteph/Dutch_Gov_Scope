@@ -214,7 +214,6 @@ backend
 assets
 testeloket
 vpn2
-web01
 prd
 betalen
 huisstijl
@@ -436,6 +435,7 @@ rijnmond
 rds
 p-direkt
 werkbezoek
+web01
 www.old
 test-www
 www.jaarverslag
