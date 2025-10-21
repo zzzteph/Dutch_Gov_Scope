@@ -34,6 +34,7 @@ http://acc-tdv.rivm.nl
 http://acc-veldmonitoring.rivm.nl
 http://acc-website.rvo.nl
 http://acc.agrimatie.nl
+http://acc.avgregisterrijksoverheid.nl
 http://acc.boekingszuil.logerenbijdeboswachter.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
@@ -1741,7 +1742,6 @@ https://acc.api.knaw.nl
 https://acc.api.p-direkt.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
-https://acc.avgregisterrijksoverheid.nl
 https://acc.bcld-config.nl
 https://acc.beeldbellen.dji.nl
 https://acc.bestandenpostbus.nl
