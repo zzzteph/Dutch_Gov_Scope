@@ -13,8 +13,8 @@ api
 acceptatie
 a-www
 a-opendata
-a-feeds
 _autodiscover._tcp
+a-feeds
 staging
 magazines
 cms

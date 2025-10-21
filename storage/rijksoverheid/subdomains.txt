@@ -1024,7 +1024,6 @@ a-feeds.a-english.rekenkamer.nl
 a-feeds.a-english.rijksdienstcn.com
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
-a-feeds.antennebureau.nl
 a-feeds.arboportaal.nl
 a-feeds.autoriteitnvs.nl
 a-feeds.bigregister.nl
@@ -1096,7 +1095,6 @@ a-opendata.a-english.rekenkamer.nl
 a-opendata.a-english.rijksdienstcn.com
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
-a-opendata.antennebureau.nl
 a-opendata.arboportaal.nl
 a-opendata.autoriteitnvs.nl
 a-opendata.bigregister.nl
@@ -1262,7 +1260,6 @@ a-web-plesk81.tno.nl
 a-wiki.rijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
-a-www.antennebureau.nl
 a-www.arboportaal.nl
 a-www.autoriteitnvs.nl
 a-www.bigregister.nl
@@ -7408,7 +7405,6 @@ feeds.agroberichtenbuitenland.nl
 feeds.aivd.nl
 feeds.algemenebestuursdienst.nl
 feeds.allesoverbiologisch.nl
-feeds.antennebureau.nl
 feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
 feeds.asbestvrijdak.nl
@@ -12848,7 +12844,6 @@ opendata.agroberichtenbuitenland.nl
 opendata.aivd.nl
 opendata.algemenebestuursdienst.nl
 opendata.allesoverbiologisch.nl
-opendata.antennebureau.nl
 opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
 opendata.asbestvrijdak.nl
