@@ -63,7 +63,6 @@ oud
 auth
 www2
 webdisk
-a-english
 enterpriseregistration
 webservices
 open
@@ -71,8 +70,7 @@ dialin
 www.acc
 mail2
 www.test
-a-feeds.a-english
-a-opendata.a-english
+a-english
 ns2
 services
 old
@@ -93,6 +91,8 @@ lyncdiscover
 preview
 media
 maps
+a-feeds.a-english
+a-opendata.a-english
 beta
 fs
 geo
