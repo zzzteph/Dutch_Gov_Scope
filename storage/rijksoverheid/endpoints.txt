@@ -688,7 +688,6 @@ http://services-preprod.ep-online.nl
 http://services.kb.nl
 http://share.bidbook.eu
 http://sharepoint-ext-conf.belastingdienst.nl
-http://sharepoint-ext.belastingdienst.nl
 http://sharepoint.lvnl.nl
 http://sic.s-bb.nl
 http://siem.acc.irealisatie.nl
@@ -776,6 +775,8 @@ http://thuisindecitotoets.cito.nl
 http://tickets.bdmuseum.nl
 http://toegangtotdeoverheid.nl
 http://toekomst.nba.nl
+http://toestemming-acc.belastingdienst.nl
+http://toestemming-tst.belastingdienst.nl
 http://toetsingonline.ccmo.nl
 http://trade.rvo.nl
 http://training-advies.cito.nl
@@ -846,11 +847,12 @@ http://webmail.rivm.nl
 http://webmail.werkenvoornederland.nl
 http://webservice.mgk.osiris.rivm.nl
 http://webservice.prezies.osiris.rivm.nl
+http://website.belastingdienst.nl
 http://webtooling.irealisatie.nl
 http://webtooliso20400.nl
 http://wegwijzer.overheid.nl
 http://wem-live.waarderingskamer.nl
-http://werkenbij.belastingdienst.nl
+http://werken.belastingdienst.nl
 http://werkplek-test.rws.nl
 http://wetgevingskalender.overheid.nl
 http://wolk.hogeraad.nl
@@ -936,8 +938,6 @@ http://www.web.nba.nl
 http://www.web1.nba.nl
 http://www.webtooliso20400.nl
 http://www.wetenschapentechnologie.slo.nl
-http://wwwfcinetorg.belastingdienst.nl
-http://wwwrijksacademienl.belastingdienst.nl
 http://xelion.cokz.nl
 http://xwd.rws.nl
 http://yum.dans.knaw.nl
@@ -4578,6 +4578,8 @@ https://dutchrapporteur.nl
 https://duurzaamdoor.nl
 https://duurzame-infra.nl
 https://duurzamecatering.voedingscentrum.nl
+https://duurzameescaperoom-light-vr.belastingdienst.nl
+https://duurzameescaperoom-vr.belastingdienst.nl
 https://duurzamemobiliteit.databank.nl
 https://duvo-web-api.rivm.nl
 https://dv.ontwikkel.machtigen.digid.nl
@@ -9292,7 +9294,6 @@ https://schadefonds.nl
 https://schadeherstel.acc.toeslagen.nl
 https://schadeherstel.toeslagen.nl
 https://schakeldagen.nl
-https://scheiden.belastingdienst.nl
 https://schijf.schadedoormijnbouw.nl
 https://schijfvanvijf.voedingscentrum.nl
 https://schmavery.github.io
@@ -9379,7 +9380,6 @@ https://serviceportal.kadaster.nl
 https://serviceportal.test.kadaster.nl
 https://services-acc.burgernet.nl
 https://services-acc.globalentry-rtp.nl
-https://services.belastingdienst.nl
 https://services.burgernet.nl
 https://services.ep-online.nl
 https://services.globalentry-rtp.nl
@@ -9800,6 +9800,7 @@ https://sts.rdw.nl
 https://sts.rechtspraak.nl
 https://sts.test.tweedekamer.nl
 https://sts.tweedekamer.nl
+https://stubs.tst.belastingdienst.nl
 https://studentcoach.rijnmond.leerwerkloket.nl
 https://studenten.venvn.nl
 https://studentenmonitor.nl
@@ -10186,10 +10187,9 @@ https://toekomstvisiegewasbescherming2030.nl
 https://toelatingen.ctgb.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
 https://toeslagen.nl
-https://toestemming-acc.belastingdienst.nl
+https://toestemming-burger.belastingdienst.nl
 https://toestemming-commercieel.cvdm.nl
 https://toestemming-evenement.cvdm.nl
-https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
 https://toetredingzorgaanbieders.nl
@@ -10496,7 +10496,6 @@ https://veiligmailen.raadvoorrechtsbijstand.org
 https://veiligmailen.rechtsbijstand.nl
 https://veiligmailen.rvr.org
 https://veiligtatoeerenenpiercen.nl
-https://veiling.belastingdienst.nl
 https://veldmonitoring.rivm.nl
 https://velocity.arcgis.com
 https://velocitydemo.arcgis.com
@@ -10505,7 +10504,6 @@ https://velocitydevops.arcgis.com
 https://velsen.databank.nl
 https://venster.nl
 https://vepapi.vcdn.belastingdienst.nl
-https://vepkms.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
 https://vera-2r.nl
 https://verantwoordalcoholverkopen.nl
@@ -10588,7 +10586,6 @@ https://viewer.sensorenregister.test.cloud.kadaster.nl
 https://vild.ndw.nu
 https://vin-beheer.rdw.nl
 https://vin.rdw.nl
-https://vinden.belastingdienst.nl
 https://vindjeplek-app.rivm.nl
 https://vip-acc.tweedekamer.nl
 https://vip2.tweedekamer.nl
@@ -10702,7 +10699,6 @@ https://vssr.staging.rijksapplicaties.nl
 https://vt-personenregisterkinderopvang.duo.nl
 https://vt.1ratio.nl
 https://vt.landelijkregisterkinderopvang.nl
-https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
 https://vtv2018.nl
 https://vubis-az-t.politieacademie.nl
@@ -10885,7 +10881,6 @@ https://webshop-mijn.s-bb.nl
 https://webshop.incidentmanagement.nl
 https://webshop.voedingscentrum.nl
 https://webshopprof.voedingscentrum.nl
-https://website.belastingdienst.nl
 https://website.douane.nl
 https://webstatistieken.kb.nl
 https://webstatistiekenwaas.kb.nl
@@ -10921,7 +10916,6 @@ https://werkcentrumregioamersfoort.nl
 https://werkcentrumzuidkennemerlandenijmond.nl
 https://werkdrukenongewenstgedrag.zelfinspectie.nl
 https://werkelijkeschade.nl
-https://werken.belastingdienst.nl
 https://werken.cjib.nl
 https://werken.diensttoeslagen.nl
 https://werken.douane.nl
@@ -11285,6 +11279,7 @@ https://www.beheerautoriteitwaddenzee.nl
 https://www.beheerdetoekomst.nl
 https://www.belastingdienst-academie.nl
 https://www.belastingdienst-cn.nl
+https://www.belastingdienst.nl
 https://www.belastingles.nl
 https://www.benchmarkenindepubliekesector.nl
 https://www.benjamin.nin.knaw.nl
@@ -12625,6 +12620,7 @@ https://www2.leer-rijk.nl
 https://www2.om.nl
 https://www2.welcome-to-nl.nl
 https://wwwa.staatsbosbeheer.nl
+https://wwwrijksacademienl.belastingdienst.nl
 https://wwww.valys.nl
 https://wycopa.maps.arcgis.com
 https://xbrlonderwijsportaal-acp.duo.nl
