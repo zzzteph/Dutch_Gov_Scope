@@ -70,7 +70,6 @@ dialin
 www.acc
 mail2
 www.test
-a-english
 ns2
 services
 old
@@ -91,8 +90,7 @@ lyncdiscover
 preview
 media
 maps
-a-feeds.a-english
-a-opendata.a-english
+a-english
 beta
 fs
 geo
@@ -109,6 +107,8 @@ acc-dictu
 test-dictu
 mx1
 aanvragen
+a-feeds.a-english
+a-opendata.a-english
 papiamentu
 acceptatie.beheer
 acceptatie.mijn
