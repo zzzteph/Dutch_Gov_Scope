@@ -1679,6 +1679,8 @@ esb-p1
 esb-t1
 esb-test
 facilitor
+felix-preproductie
+felix
 fs-ms-exdns01
 fs-ms-exdns03
 fs-ms-exdns04
@@ -1709,6 +1711,7 @@ ondertekenentst
 osb-acpt
 osb-ontw
 osb-test
+printen
 psarchief
 s4a
 s4o

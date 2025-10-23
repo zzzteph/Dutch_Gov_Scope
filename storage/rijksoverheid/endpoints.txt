@@ -247,6 +247,7 @@ http://bmw9520.waddenzee.nl
 http://bridge-repair-d3p6-scdot.hub.arcgis.com
 http://bureau-reach.nl
 http://bvd.logius.nl
+http://bzv-a.brabant.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
@@ -353,6 +354,7 @@ http://ezines.rvo.nl
 http://ezips-app.rivm.nl
 http://faweb.fa.knaw.nl
 http://feeds.english.sso3w.nl
+http://felix.brabant.nl
 http://form.letterenfonds.nl
 http://formulier-beheer.dus-i.nl
 http://fryske2.fa.knaw.nl
@@ -3323,7 +3325,6 @@ https://bvs.belastingdienst.nl
 https://bvz-waves.databank.nl
 https://bvz.waves.databank.nl
 https://bzkdia.staging.rijksapplicaties.nl
-https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://c19-willcountygis.hub.arcgis.com
 https://c2000-ras01.politie.nl
@@ -5262,6 +5263,7 @@ https://feeds.werkenaanonspensioen.nl
 https://feeds.wodc.nl
 https://feeds.wrr.nl
 https://feeds.youthatheart.nl
+https://felix-preproductie.brabant.nl
 https://fez.mfaservices.nl
 https://fforw.github.io
 https://fhub.dictu.nl
@@ -7310,7 +7312,6 @@ https://mijnzaak.hogeraad.nl
 https://mijnzaak.raadvanstate.nl
 https://mijnzaak.rechtspraak.nl
 https://mijnzakelijk.belastingdienst.nl
-https://mik-acpt.brabant.nl
 https://milieuzones.nl
 https://mimir-gateway.pleio.nl
 https://mina-el-teniente-codelco-geo-usach.hub.arcgis.com
@@ -8579,6 +8580,7 @@ https://primet.alterra.nl
 https://primos.databank.nl
 https://primosinteractief.databank.nl
 https://primostijdreeks.databank.nl
+https://printen.brabant.nl
 https://prisma.kennisplatformondermijning.nl
 https://prisma.minbzk.nl
 https://prisma.rva.nl
