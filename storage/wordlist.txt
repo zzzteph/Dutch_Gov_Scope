@@ -33,9 +33,9 @@ e
 app
 formulieren
 werkplek
+dev
 smtp
 portal
-dev
 beheer
 sip
 portaal
@@ -139,7 +139,6 @@ acceptatie.behandel
 kaarten
 wifi
 helpdesk
-sso
 academy
 content
 onderhoud
@@ -195,6 +194,7 @@ csoacct
 csotest
 zaaksysteem-acc
 synergy
+sso
 geoweb
 secure
 mx2
@@ -227,7 +227,6 @@ esb
 ondertekenen
 samenwerken
 wachtwoord
-acc2
 conf
 crm
 ebms
@@ -304,7 +303,6 @@ osb
 proxy
 uzi
 broker
-doc
 uptime
 www.mail
 av
@@ -364,6 +362,7 @@ externemail01
 externemail02
 projects
 webaccess
+acc2
 eva
 www2-p
 leren
@@ -572,6 +571,7 @@ test2
 download.webmail
 externemailsaas
 mobilesync
+doc
 welkom
 ca
 zoekservice
@@ -1751,17 +1751,9 @@ viep.test
 web.test
 acc-v2
 broker-preprod
-demo2
-doc-acc
-pre
-sad
-sso-acc-tno
-sso-acc1
 sso-acc2
-sso-demo
 sso-demo2
 sso-dev
-sso-test-tno
 test-tno
 www.zoekeentolkvertaler
 zoekeentolkvertaler

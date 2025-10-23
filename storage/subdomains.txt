@@ -1790,7 +1790,6 @@ acc1.picard.mijn.overheid.nl
 acc11.machtigen.digid.nl
 acc12.machtigen.digid.nl
 acc2.bio-overheid.nl
-acc2.bronhouderportaal-bro.nl
 acc2.cip-overheid.nl
 acc2.inspectieresultaten.nvwa.nl
 acc2.intranet.rvig.nl
@@ -5816,7 +5815,6 @@ demo1-systemteam.overheid.nl
 demo1.tst.federatieveservice.nl
 demo17.huygens.knaw.nl
 demo2-systemteam.overheid.nl
-demo2.bronhouderportaal-bro.nl
 demo2.tst.federatieveservice.nl
 demo3.tst.federatieveservice.nl
 demo4.tst.federatieveservice.nl
@@ -5914,6 +5912,7 @@ dev.api-sec.p-direkt.nl
 dev.api.brp.mfaservices.nl
 dev.api.p-direkt.nl
 dev.at.rws.nl
+dev.bronhouderportaal-bro.nl
 dev.cbrnsecurity.nctv.nl
 dev.cdn.consular.mfaservices.nl
 dev.centruminternationaalrecht.nl
@@ -6283,11 +6282,9 @@ dnsa3.cbs.nl
 dnsa4.cbs.nl
 dnwxip.saphttp.minienm.nl
 dnwxiq.saphttp.minienm.nl
-doc-acc.bronhouderportaal-bro.nl
 doc-direkt-acc.topdesk.odc-noord.nl
 doc-direkt-prd.topdesk.odc-noord.nl
 doc.arcgis.com
-doc.bronhouderportaal-bro.nl
 doc.leefbaarometer.nl
 docd.acc.syn.rijksapplicaties.nl
 docd.syn.rijksapplicaties.nl
@@ -14098,7 +14095,6 @@ prd7.connectorscheduler.kb.nl
 pre-dpia.huc.knaw.nl
 pre-login.rivm.nl
 pre-uzi.rivm.nl
-pre.bronhouderportaal-bro.nl
 pre.document-viewer-api.dso.kadaster.nl
 pre.geodoc.dso.kadaster.nl
 pre.omgevingswet.overheid.nl
@@ -15395,7 +15391,6 @@ sa-tst.belastingdienst.nl
 sa.belastingdienst.nl
 sa.svb.nl
 sac-sharegisny.hub.arcgis.com
-sad.bronhouderportaal-bro.nl
 sadp.acc.belastingdienst.nl
 sadp.belastingdienst.nl
 safefiletransfer-acc.rdw.nl
@@ -16261,22 +16256,17 @@ ssl.defensie.nl
 sslvpn.eerstekamer.nl
 sslvpn.rekenkamer.nl
 sslvpn.test.atc.lvnl.nl
-sso-acc-tno.bronhouderportaal-bro.nl
-sso-acc1.bronhouderportaal-bro.nl
 sso-acc2.bronhouderportaal-bro.nl
-sso-demo.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl
 sso-dev.bronhouderportaal-bro.nl
 sso-lyncdiscover.sso-noord.nl
 sso-noord.nl
 sso-osiris.rivm.nl
 sso-pa.politie.nl
-sso-test-tno.bronhouderportaal-bro.nl
 sso-webauth.rivm.nl
 sso.acc.omgevingswet.overheid.nl
 sso.acceptatie.istandaarden.nl
 sso.api.rivm.nl
-sso.bronhouderportaal-bro.nl
 sso.bta.omgevingswet.overheid.nl
 sso.dbe-t.rvb.rijkscloud.nl
 sso.dmo.omgevingswet.overheid.nl
@@ -17066,7 +17056,6 @@ test.bidbook.eu
 test.bodemloket.nl
 test.botova.rijkswaterstaat.nl
 test.bromonitor.nl
-test.bronhouderportaal-bro.nl
 test.burgernet.nl
 test.caelus-tool.nl
 test.cbi.eu
