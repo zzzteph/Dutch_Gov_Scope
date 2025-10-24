@@ -2,6 +2,7 @@ http://adc.cbs.nl
 http://adc4.cbs.nl
 http://beta-dataportal.cbs.nl
 http://beta-odata4.cbs.nl
+http://dashboards.prev.cbs.nl
 http://mail.dev.cbs.nl
 http://mijn-api.cbs.nl
 http://odata4.cbs.nl
@@ -12,6 +13,7 @@ http://videoplatform.cbs.nl
 https://academy.cbs.nl
 https://acc.cerberus.cbs.nl
 https://accounts.cbs.nl
+https://adc-aer-p.cbs.nl
 https://adc3.cbs.nl
 https://adc7.cbs.nl
 https://afasmail.cbs.nl
@@ -33,6 +35,7 @@ https://capi.cbs.nl
 https://cbs.cbs.nl
 https://cbs.nl
 https://cdn.cbs.nl
+https://cebustaheerlen.cbs.nl
 https://cerberus.cbs.nl
 https://claircitydata.cbs.nl
 https://cn.cbs.nl
@@ -60,9 +63,9 @@ https://geoserver.cbs.nl
 https://geoservices.cbs.nl
 https://good.cbs.nl
 https://helpmee.cbs.nl
+https://highcharts-acc.cbs.nl
 https://highcharts.cbs.nl
 https://historisch.cbs.nl
-https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://ihg.cbs.nl
 https://isi.cbs.nl
@@ -87,6 +90,7 @@ https://mediaportal.cbs.nl
 https://micollab.cbs.nl
 https://micollabtest.cbs.nl
 https://microdata.cbs.nl
+https://microdata2.cbs.nl
 https://mig.cbs.nl
 https://mijn.cbs.nl
 https://mkbstatline.cbs.nl
@@ -105,7 +109,6 @@ https://overzicht.cbs.nl
 https://politieopendata.cbs.nl
 https://portal.cbs.nl
 https://projecten.cbs.nl
-https://redactie.cbs.nl
 https://research.cbs.nl
 https://rgs.cbs.nl
 https://rivmopendata.cbs.nl
@@ -135,6 +138,7 @@ https://werkplek.cbs.nl
 https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
+https://www-acc.cbs.nl
 https://www.cbs.nl
 https://www.databestanden.cbs.nl
 https://www.historisch.cbs.nl

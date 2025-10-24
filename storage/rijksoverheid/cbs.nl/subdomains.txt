@@ -5,6 +5,7 @@ acc.cerberus.cbs.nl
 accebms.cbs.nl
 acceptatie.cbs.nl
 accounts.cbs.nl
+adc-aer-p.cbs.nl
 adc.cbs.nl
 adc2.cbs.nl
 adc3.cbs.nl
@@ -42,6 +43,7 @@ cati-lt.cbs.nl
 cbs.cbs.nl
 cbs.nl
 cdn.cbs.nl
+cebustaheerlen.cbs.nl
 censushub.cbs.nl
 cerberus.cbs.nl
 claircitydata.cbs.nl
@@ -50,6 +52,7 @@ content.cbs.nl
 content1.cbs.nl
 contentadapter.cbs.nl
 dashboards.cbs.nl
+dashboards.prev.cbs.nl
 dashboards.test.cbs.nl
 databestanden.cbs.nl
 dataderden.cbs.nl
@@ -81,7 +84,6 @@ highcharts-acc.cbs.nl
 highcharts-test.cbs.nl
 highcharts.cbs.nl
 historisch.cbs.nl
-historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
 hybridexo.cbs.nl
 ihg.cbs.nl

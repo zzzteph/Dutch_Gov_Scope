@@ -2250,6 +2250,7 @@ adams-county-heritage-plan-adamsgis.hub.arcgis.com
 adams-county-open-data-portal-adams-county-wi.hub.arcgis.com
 adc-ad01.ad.tno.nl
 adc-ad02.ad.tno.nl
+adc-aer-p.cbs.nl
 adc.cbs.nl
 adc1.ext.kadaster.nl
 adc2.cbs.nl
@@ -4665,6 +4666,7 @@ cdp1.pki.rws.nl
 cdp2-glasgowgis.hub.arcgis.com
 cdp2.pki.rws.nl
 cea.nl
+cebustaheerlen.cbs.nl
 cecoldo-dimar.hub.arcgis.com
 cedar.rijksapplicaties.nl
 cedar.staging.rijksapplicaties.nl
@@ -5563,6 +5565,7 @@ dashboards.ilt-idlab.rijkscloud.nl
 dashboards.ilt.rijkscloud.nl
 dashboards.ipi.rijkscloud.nl
 dashboards.ndw.nu
+dashboards.prev.cbs.nl
 dashboards.rdi.rijkscloud.nl
 dashboards.secdemo.rijkscloud.nl
 dashboards.sodm.rijkscloud.nl
@@ -8561,7 +8564,6 @@ hisgis2.fa.knaw.nl
 historical1.arcgis.com
 historisch.cbs.nl
 historische-luchtfoto.flevoland.nl
-historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
 hld.rws.nl
 hoesterkstaik.nl

@@ -1775,6 +1775,7 @@ acc-ccb
 acc-vinden
 acc.cerberus
 accebms
+adc-aer-p
 adc
 adc2
 adc3
@@ -1805,11 +1806,13 @@ btb
 capi
 carrier
 cati-lt
+cebustaheerlen
 censushub
 cerberus
 claircitydata
 content1
 contentadapter
+dashboards.prev
 databestanden
 dataderden
 dataportal
@@ -1832,7 +1835,6 @@ highcharts-acc
 highcharts-test
 highcharts
 historisch
-historischebeelden
 historischebeeldenbeheer
 hybridexo
 ihg

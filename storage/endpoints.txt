@@ -293,6 +293,7 @@ http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl
 http://csotest.vacaturebeheer.werkenbijdeoverheid.nl
 http://d7.rvo.nl
 http://dashboard.procesinfrastructuur.nl
+http://dashboards.prev.cbs.nl
 http://data-acc.rijkswaterstaat.nl
 http://data-acc.rivm.nl
 http://data-preview.emissieregistratie.nl
@@ -2091,6 +2092,7 @@ https://acworthga-acworth.hub.arcgis.com
 https://ada1.tno.nl
 https://adaguc.knmi.nl
 https://adams-county-open-data-portal-adams-county-wi.hub.arcgis.com
+https://adc-aer-p.cbs.nl
 https://adc3.cbs.nl
 https://adc7.cbs.nl
 https://address-data-management-docogo.hub.arcgis.com
@@ -3453,6 +3455,7 @@ https://cdnqa.arcgis.com
 https://cdp1.pki.rws.nl
 https://cdp2.pki.rws.nl
 https://cea.nl
+https://cebustaheerlen.cbs.nl
 https://cecoldo-dimar.hub.arcgis.com
 https://cedar.rijksapplicaties.nl
 https://cedar.staging.rijksapplicaties.nl
@@ -5753,6 +5756,7 @@ https://hgr.rechtspraak.nl
 https://hhdelfland.nl
 https://hhnk.webgispublisher.nl
 https://hierradiokootwijk.nl
+https://highcharts-acc.cbs.nl
 https://highcharts.cbs.nl
 https://higherlevel.nl
 https://highlights2022.halt.nl
@@ -5765,7 +5769,6 @@ https://hisgis.fa.knaw.nl
 https://historical1.arcgis.com
 https://historisch.cbs.nl
 https://historische-luchtfoto.flevoland.nl
-https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://hld.rws.nl
 https://hoesterkstaik.nl
@@ -7168,6 +7171,7 @@ https://micollab.flevoland.nl
 https://micollab.mensenrechten.nl
 https://micollabtest.cbs.nl
 https://microdata.cbs.nl
+https://microdata2.cbs.nl
 https://microfoonbanden.nl
 https://middenbrabant.leerwerkloket.nl
 https://middenbrabant.lerenenwerken.nl
@@ -8873,7 +8877,6 @@ https://redactie-acc.rvr.org
 https://redactie-tl.iplo.nl
 https://redactie.aquo.nl
 https://redactie.brandweer.nl
-https://redactie.cbs.nl
 https://redactie.eerstekamer.nl
 https://redactie.gebruikercentraal.nl
 https://redactie.hdsr.nl
@@ -11096,6 +11099,7 @@ https://www-ac.medicijnkosten.nl
 https://www-ac.zorgcijfersdatabank.nl
 https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
+https://www-acc.cbs.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl
 https://www-acc.dcat-ap-donl.nl
 https://www-acc.fiu-nederland.nl
