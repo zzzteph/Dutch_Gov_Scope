@@ -12,8 +12,8 @@ webmail
 api
 acceptatie
 a-www
-a-opendata
 _autodiscover._tcp
+a-opendata
 a-feeds
 staging
 magazines
@@ -1937,6 +1937,7 @@ acceptatie.designsystem
 acceptatie.digikoppeling-dcr
 acceptatie.drms
 acceptatie.ebms.digikoppeling
+acceptatie.forms-behandel.isms
 acceptatie.lir
 acceptatie.meldingen.klopt
 acceptatie.portaal.competent
@@ -1967,6 +1968,7 @@ digikoppeling-dcr
 drms
 eherkenning.services
 eherkenningtest.services
+forms-behandel.isms
 forms.klopt
 kennissysteem
 klopt
