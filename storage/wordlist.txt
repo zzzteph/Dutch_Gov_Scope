@@ -136,7 +136,6 @@ adobe-tags
 enterpriseenrollment
 werken
 acceptatie.behandel
-kaarten
 wifi
 helpdesk
 academy
@@ -181,6 +180,7 @@ atlas
 email
 geoportaal
 id
+kaarten
 nieuws
 www-test
 m365
