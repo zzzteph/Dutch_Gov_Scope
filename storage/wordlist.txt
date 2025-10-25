@@ -2045,6 +2045,7 @@ acc.monumentenregister
 acc.stor.services
 acc.subsidie
 acceptatie.cmis
+acceptatie.facility
 acceptatie.geoservices
 api-gateway.archis
 api.linkeddata
@@ -2053,6 +2054,7 @@ archisarchief
 data.geo
 datastories
 erfgoedmonitor
+facility
 faro
 foto-opdracht
 idselect

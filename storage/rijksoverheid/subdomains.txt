@@ -1944,6 +1944,7 @@ acceptatie.ebms.digikoppeling.cibg.nl
 acceptatie.ecdis.osiris.rivm.nl
 acceptatie.esb.rijkswaterstaat.nl
 acceptatie.esb.rws.nl
+acceptatie.facility.cultureelerfgoed.nl
 acceptatie.federatie.rws.nl
 acceptatie.feedfoodtransfer.nl
 acceptatie.forms-behandel.isms.cibg.nl
@@ -7299,6 +7300,7 @@ facades-formats.labs.dans.knaw.nl
 facades-verification.labs.dans.knaw.nl
 facades.labs.dans.knaw.nl
 facilitor.brabant.nl
+facility.cultureelerfgoed.nl
 facturatie-acc.coa.nl
 facturatie.coa.nl
 facturen.kvk.nl

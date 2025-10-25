@@ -43,7 +43,6 @@ http://acc.logerenbijdeboswachter.nl
 http://acc.mgo.irealisatie.nl
 http://acc.mijn.logerenbijdeboswachter.nl
 http://acc.praatmeemetdeoverheid.nl
-http://acc.subsidie.cultureelerfgoed.nl
 http://acc.webtooliso20400.nl
 http://acc.woo.irealisatie.nl
 http://accept-betalen.nba.nl
@@ -787,6 +786,7 @@ http://trialdomorganisatieservicesocsp-g3.pkioverheid.nl
 http://trialrootocsp-g3.ocsp.pkioverheid.nl
 http://tst-rds.nl
 http://tst.federatieveservice.nl
+http://tst.subsidie.cultureelerfgoed.nl
 http://ttp.rivm.nl
 http://tuchtrecht-service-acc.overheid.nl
 http://tuchtrecht.overheid.nl
@@ -1848,6 +1848,7 @@ https://acc.spaceweather.knmi.nl
 https://acc.ssr.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
+https://acc.subsidie.cultureelerfgoed.nl
 https://acc.tradewithnl.nl
 https://acc.validatie.nl
 https://acc.wegwijzer.overheid.nl
@@ -1953,6 +1954,7 @@ https://acceptatie.designsystem.cibg.nl
 https://acceptatie.drms.cibg.nl
 https://acceptatie.dustex.nl
 https://acceptatie.esb.rijkswaterstaat.nl
+https://acceptatie.facility.cultureelerfgoed.nl
 https://acceptatie.federatie.rws.nl
 https://acceptatie.feedfoodtransfer.nl
 https://acceptatie.formulieren.uziregister.nl
@@ -10313,7 +10315,6 @@ https://tst.onlineform.culture.gov.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://tst.protocol.mfaservices.nl
 https://tst.service.mpn.minienm.nl
-https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tt.di.huc.knaw.nl
 https://tth.rdw.nl
