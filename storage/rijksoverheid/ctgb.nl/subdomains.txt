@@ -14,7 +14,6 @@ dwo.ctgb.nl
 english.ctgb.nl
 externemail.ctgb.nl
 feeds.ctgb.nl
-feeds.english.ctgb.nl
 filesender.ctgb.nl
 fs.ctgb.nl
 gewasbeschermingsmiddelen.ctgb.nl
@@ -29,7 +28,6 @@ mst-ci.ctgb.nl
 mst-test.ctgb.nl
 mst.ctgb.nl
 opendata.ctgb.nl
-opendata.english.ctgb.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
 openims-test.ctgb.nl

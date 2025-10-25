@@ -7437,7 +7437,6 @@ feeds.english.aivd.nl
 feeds.english.belastingdienst-cn.nl
 feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
-feeds.english.ctgb.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.igj.nl
@@ -12876,7 +12875,6 @@ opendata.english.aivd.nl
 opendata.english.belastingdienst-cn.nl
 opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
-opendata.english.ctgb.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.igj.nl
