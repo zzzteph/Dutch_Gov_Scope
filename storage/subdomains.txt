@@ -1382,6 +1382,7 @@ abk-tst.cbr.nl
 abk.cbr.nl
 abm.sbr-wonen.nl
 abo.digilevering.belastingdienst.nl
+abonnee.dezi.nl
 abonneren.toezichtdocumenten.igj.nl
 abortionfacilitydatabase-ucsf.hub.arcgis.com
 about.jstor.org.access.authkb.kb.nl
@@ -2020,6 +2021,7 @@ acceptatie.portie-online.rivm.nl
 acceptatie.prezies.osiris.rivm.nl
 acceptatie.proastweb.rivm.nl
 acceptatie.prohibit.osiris.rivm.nl
+acceptatie.proxy.auth.dezi.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
@@ -2057,8 +2059,10 @@ acceptatie.tmv.cibg.nl
 acceptatie.topshuis.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
 acceptatie.tws-esb.rws.nl
+acceptatie.uzipas.abonnee.dezi.nl
 acceptatie.uzipas.auth.dezi.nl
 acceptatie.uzipas.lir.cibg.nl
+acceptatie.uzipas.mijn.dezi.nl
 acceptatie.uzipas.portaal.ncpeh.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.uzipas.uziregister.nl
@@ -3761,6 +3765,7 @@ begroting2020.flevoland.nl
 beh-iam.acceptatie.cbs.nl
 beh-oob-dc.tno.nl
 behandel.bigregister.nl
+behandel.dezi.nl
 behandel.diergeneeskunderegister.nl
 behandel.donorgegevens.nl
 behandel.generiekeregistratiedienst.cibg.nl
@@ -3788,6 +3793,7 @@ beheer.bodemrichtlijn.nl
 beheer.burgernet.nl
 beheer.chat.ind.nl
 beheer.datastelselverduurzamingutiliteit.nl
+beheer.dezi.nl
 beheer.diergeneeskunderegister.nl
 beheer.donorregister.nl
 beheer.energiebesparingsverkenner.rvo.nl
@@ -11289,6 +11295,7 @@ mijn.buitenlevenvakanties.nl
 mijn.cbr.nl
 mijn.cbs.nl
 mijn.cokz.nl
+mijn.dezi.nl
 mijn.diergeneeskunderegister.nl
 mijn.digid.nl
 mijn.dnb.nl
@@ -12764,6 +12771,7 @@ ontwikkel.auth.dezi.nl
 ontwikkel.cbs.nl
 ontwikkel.machtigen.digid.nl
 ontwikkel.nationaleenergieatlas.nl
+ontwikkel.proxy.auth.dezi.nl
 ontwikkel.sapgw.minienw.nl
 ontwikkel.tenderned.nl
 ontwikkel.uzipas.auth.dezi.nl
@@ -17157,6 +17165,7 @@ test.portal.skal.nl
 test.praatmeemetdeoverheid.nl
 test.prefect.clustertool.tno.nl
 test.procesinfrastructuur.nl
+test.proxy.auth.dezi.nl
 test.publicwebservices.cibg.nl
 test.raadvanstate.nl
 test.rapportage.rijkscloud.nl
@@ -17846,7 +17855,9 @@ uzi.gebruikers.coronatest.nl
 uzi.rivm.nl
 uzi.test.brba.nl
 uzi.testuitslagen.coronatest.nl
+uzipas.abonnee.dezi.nl
 uzipas.lir.cibg.nl
+uzipas.mijn.dezi.nl
 uzipas.portaal.ncpeh.nl
 uzipas.raadplegen.sbv-z.nl
 uzipas.uziregister.nl
