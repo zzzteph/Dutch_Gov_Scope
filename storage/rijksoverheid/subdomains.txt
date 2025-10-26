@@ -3562,7 +3562,6 @@ b2btest-rijks.belastingdienst.nl
 b2btest-rijks.douane.nl
 b2btest-rijks.toeslagen.nl
 b2btest.belastingdienst.nl
-b2btest.douane.nl
 b2btest.toeslagen.nl
 b30-micol-a01p.int.ssc-campus.nl
 ba.uwv.nl
@@ -7582,7 +7581,6 @@ fibb2.acc.belastingdienst.nl
 fibd1.belastingdienst.nl
 fibd1.douane.nl
 fibd2.acc.belastingdienst.nl
-fibd2.acc.douane.nl
 fibe1-extern.belastingdienst.nl
 fibe1-samlsign-douane.belastingdienst.nl
 fibe1-samlsign.acc.belastingdienst.nl
@@ -11937,7 +11935,6 @@ mvs-sip07.kadaster.nl
 mvs-sip08.kadaster.nl
 mvs-sip09.kadaster.nl
 mvstat.cbs.nl
-mvt.exportvalidation.hsm.acc.douane.nl
 mvt.exportvalidation.hsm.douane.nl
 mw-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 mwr-app-api-ota.belastingdienst.nl
@@ -16822,7 +16819,6 @@ tapir.rivm.nl
 tar31.dans.knaw.nl
 taranis.ncsc.nl
 tarief.douane.nl
-tarief.str4.acc.douane.nl
 tas.sbcm.nl
 taskforce-riec-brabantzeeland.nl
 taupo.maps.arcgis.com
@@ -17897,7 +17893,6 @@ vademecum.cbr.nl
 validata.justis.nl
 validatie-acc.justid.nl
 validatie.justid.nl
-validationcalculation.douane.nl
 validationcalculationtest.douane.nl
 validator-bemobile-aid-triggers-actuators.tcp-acceptatietest.dmz.vm-04.azure.grid.rws.nl
 validator-bemobile-aid-triggers.fcd-acceptatietest.dmz.vm-04.azure.grid.rws.nl
@@ -18176,7 +18171,6 @@ vldbeheer.rdw.nl
 vliegbewijsonbemandeluchtvaartuigencontroleren.rdw.nl
 vliegtuiggeluid.nl
 vluchtinfo-test.douane.nl
-vluchtinfo.douane.nl
 vm-ivra.ndw.nu
 vmanage02.ksh.kadaster.nl
 vnacs.nl
@@ -19107,7 +19101,6 @@ wpo.staging.rijksapplicaties.nl
 wpptest.kb.nl
 wps.rijksapplicaties.nl
 wps.staging.rijksapplicaties.nl
-wpx-80-aix-http.acc.douane.nl
 wpx-80-aix-http.douane.nl
 wreg.rivm.nl
 wrr.nl
@@ -21229,7 +21222,6 @@ zoeken.werkenaanonspensioen.nl
 zoeken.zorgaanbiedersportaal.nl
 zoeken1.acp.kvk.nl
 zoeken2.acp.kvk.nl
-zoekengebruikstarief.douane.nl
 zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zonmw-jeugdmagazines.nl

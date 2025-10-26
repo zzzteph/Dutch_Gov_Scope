@@ -285,7 +285,6 @@ b2b
 b2btest-gemnet
 b2btest-osb
 b2btest-rijks
-b2btest
 download
 govroam
 mijn.acc
@@ -455,10 +454,10 @@ artifact-fibt1
 b2b-gemnet
 b2b-osb
 b2b-rijks
+b2btest
 delta
 dva
 fibd1
-fibd2.acc
 fibt1
 fibt2.acc
 filetransfer
@@ -1093,6 +1092,7 @@ fed01.hipad.tst
 fibb-perf.acc
 fibb1
 fibb2.acc
+fibd2.acc
 fibe1-extern
 fibe1-samlsign-douane
 fibe1-samlsign.acc
@@ -2382,19 +2382,13 @@ bvinet
 exchangerate
 exchangeratetest
 ier-online
-mvt.exportvalidation.hsm.acc
 mvt.exportvalidation.hsm
 nh.acc
 nh
 tarief
-tarief.str4.acc
-validationcalculation
 validationcalculationtest
 vluchtinfo-test
-vluchtinfo
-wpx-80-aix-http.acc
 wpx-80-aix-http
-zoekengebruikstarief
 beoordeling
 formulier-beheer
 gebruiker-beheer
