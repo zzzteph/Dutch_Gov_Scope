@@ -136,7 +136,6 @@ http://as.im.nba.nl
 http://atlas-acpt.brabant.nl
 http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
-http://authpms.dictu.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.actal.nl
 http://autodiscover.afm.nl
@@ -1787,9 +1786,7 @@ https://acc.fam.rws.nl
 https://acc.farmingthefuture.nl
 https://acc.federatieveservice.nl
 https://acc.fez.mfaservices.nl
-https://acc.fhub.dictu.nl
 https://acc.geluidgegevens.nl
-https://acc.gisextern.dictu.nl
 https://acc.gps-sa.sso3w.nl
 https://acc.grondstoffenscanner.nl
 https://acc.iaas-portal.odc-noord.nl
@@ -2751,7 +2748,6 @@ https://authenticatieapi.cito.nl
 https://authorization.acceptatie.kadaster.nl
 https://authorization.kadaster.nl
 https://authorization.ontwikkeling.kadaster.nl
-https://authpms-acc.dictu.nl
 https://autodiscover.aandeslagmetdeomgevingswet.nl
 https://autodiscover.aofondsrijk.nl
 https://autodiscover.aovvt.nl
@@ -4817,7 +4813,6 @@ https://energieoprijksgrond.nl
 https://energieprojectennederland.nl
 https://energierijkdenhaag.nl
 https://energyportpeelland.verbeterjehuis.nl
-https://engine.acc.fhub.dictu.nl
 https://engine.fhub.dictu.nl
 https://english.aivd.nl
 https://english.autoriteitnvs.nl
@@ -5871,9 +5866,7 @@ https://iam.staging.ndw.nu
 https://iam.tweedekamer.nl
 https://iamcdocumentation.eu
 https://iati-test2.platformrijksoverheidonline.nl
-https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
-https://ibg.webftp.dictu.nl
 https://ibki.nl
 https://ibl-beheer-prd.cloudservices.kb.nl
 https://ibl.kb.nl
@@ -8417,8 +8410,6 @@ https://pmk.test.cloud.kadaster.nl
 https://pmm.belastingdienst.nl
 https://pmon-tst.onderzoekmetmensen.nl
 https://pmon.onderzoekmetmensen.nl
-https://pms-acc.dictu.nl
-https://pms.dictu.nl
 https://pmz.logius.nl
 https://pns.nl
 https://po.politieacademie.nl
@@ -10291,7 +10282,6 @@ https://trifork-cus.player.cito.nl
 https://trifork-tst.player.cito.nl
 https://trifork.player.cito.nl
 https://trillingsdata-acc.dictu.nl
-https://trillingsdata.dictu.nl
 https://tropomi.eu
 https://truck-parking.ndw.nu
 https://trv.rdw.nl
