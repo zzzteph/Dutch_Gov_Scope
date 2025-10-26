@@ -1691,6 +1691,7 @@ acc.login.consular.mfaservices.nl
 acc.login.odc-noord.nl
 acc.luchtvaartmeteo.nl
 acc.machtigen.digid.nl
+acc.magazines.defensie.nl
 acc.meldingenapp.tweedekamer.nl
 acc.mercurius.sso3w.nl
 acc.metadata.stelselcatalogus.nl
@@ -5942,6 +5943,7 @@ dev.kvk.nl
 dev.leerwerkloket.nl
 dev.liferay.mfaservices.nl
 dev.login.consular.mfaservices.nl
+dev.magazines.defensie.nl
 dev.monitoring.ptvt.nl
 dev.netherlandsandyou.nl
 dev.nlog.nl
