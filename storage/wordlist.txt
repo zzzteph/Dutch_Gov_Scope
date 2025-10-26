@@ -41,12 +41,12 @@ sip
 portaal
 connect
 meet
-_dmarc
 www.acceptatie
 apps
 tst
 jaarverslag
 zoeken
+_dmarc
 kennisbank
 remote
 publicaties
@@ -2346,6 +2346,7 @@ magazine-nl
 visieopidentiteit
 www.magazine-en
 www.magazine-nl
+acc-epdintegratieplatform
 acc.beeldbellen
 beeldbellen
 drife-f
@@ -2355,11 +2356,13 @@ dvfz-auth
 dvfz
 eagle-acc
 eagle
+epdintegratieplatform
 joy.applicatie-domein
 lyncav.vico
 mail.beeldbellen
 plan.beeldbellen
 sip.vico
+tst-epdintegratieplatform
 video-acc.beeldbellen
 video.beeldbellen
 afspraak

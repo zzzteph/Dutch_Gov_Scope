@@ -810,7 +810,6 @@ _dc-mx.d43e04744c5a.politieenwetenschap.nl
 _dc-mx.dddce9f5a2d1.knooppuntjoure.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
-_dmarc.dji.nl
 _dmarc.donorregister.nl
 _dmarc.logius.nl
 _dmarc.nlarbeidsinspectie.nl
@@ -1470,6 +1469,7 @@ acc-energiebesparingsverkenner-ws.rvo.nl
 acc-energiebesparingsverkenner.rvo.nl
 acc-energielabels.gebouwen.overheid.nl
 acc-english.rvo.nl
+acc-epdintegratieplatform.dji.nl
 acc-esb.acc-protocol.mfaservices.nl
 acc-etl.rijkswaterstaat.nl
 acc-ez-rvo-ba.dictu.nl
@@ -7012,6 +7012,7 @@ epb.politie.nl
 epbdwebservices-acc.rvo.nl
 epbdwebservices-preprod.rvo.nl
 epbdwebservices.rvo.nl
+epdintegratieplatform.dji.nl
 epistolarium.huygens.knaw.nl
 epm.kadaster.nl
 epmm.acpt.autoriteitpersoonsgegevens.nl
@@ -17567,6 +17568,7 @@ tst-data-exchange.consular.mfaservices.nl
 tst-developer-portal-management.data-exchange.consular.mfaservices.nl
 tst-developer-portal.data-exchange.consular.mfaservices.nl
 tst-energiebesparingsverkenner.rvo.nl
+tst-epdintegratieplatform.dji.nl
 tst-euvis-api.data-exchange.consular.mfaservices.nl
 tst-euvis-ebms.data-exchange.consular.mfaservices.nl
 tst-lsp.rivm.nl

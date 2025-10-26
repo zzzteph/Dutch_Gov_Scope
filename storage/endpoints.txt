@@ -1697,6 +1697,7 @@ https://acc-dictu.referentiegrootboekschema.nl
 https://acc-dictu.sbr-nl.nl
 https://acc-dictu.toegankelijkheidsverklaring.nl
 https://acc-dlm.ssr.nl
+https://acc-epdintegratieplatform.dji.nl
 https://acc-flowlogics.minbzk.nl
 https://acc-gbvi.rws.nl
 https://acc-gbviapi.rws.nl
@@ -4900,6 +4901,7 @@ https://eovgb.aivd.nl
 https://ep-i.espacenet.com
 https://ep-online.nl
 https://ep.espacenet.com
+https://epdintegratieplatform.dji.nl
 https://epistolarium.huygens.knaw.nl
 https://epmm.acpt.autoriteitpersoonsgegevens.nl
 https://epmm.autoriteitpersoonsgegevens.nl
@@ -10287,6 +10289,7 @@ https://try.github.io
 https://ts.onderwijsraad.nl
 https://tst-bergerselect.rws.nl
 https://tst-biometric-service.consular.mfaservices.nl
+https://tst-epdintegratieplatform.dji.nl
 https://tst-lsp.rivm.nl
 https://tst-meldingenportaal.rws.nl
 https://tst-ovdsupport.rws.nl
