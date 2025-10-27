@@ -470,6 +470,7 @@ http://lvbb-preprod.overheid.nl
 http://lync.nba.nl
 http://lync1.nba.nl
 http://m.jaarverslag.uwv.nl
+http://maatwerkadvies-preprod.api.ep-online.nl
 http://macotra.rivm.nl
 http://mail-outside.nba.nl
 http://mail.agendavoorhetwaddengebied2050.nl
@@ -535,8 +536,6 @@ http://nl-a.cito.nl
 http://nlhull.bics.nl
 http://nlhull.rws.nl
 http://nlrdms.bics.nl
-http://notificatie-preprod.api.ep-online.nl
-http://notificatie.api.ep-online.nl
 http://npkd.nl
 http://ns.huc.knaw.nl
 http://nsl-monitoring.rivm.nl
@@ -620,7 +619,6 @@ http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
 http://pseudonym.test.zm.irealisatie.nl
 http://pts31.dans.knaw.nl
-http://public-preprod.ep-online.nl
 http://public.mondriaanfonds.nl
 http://publicatieservice-bms-acc.officielebekendmakingen.nl
 http://publicatieservice-rps-acc.officielebekendmakingen.nl
@@ -684,7 +682,6 @@ http://service.integratie.omgevingswet.overheid.nl
 http://service.intpatch.omgevingswet.overheid.nl
 http://service.perf.omgevingswet.overheid.nl
 http://service.tst2905.omgevingswet.overheid.nl
-http://services-preprod.ep-online.nl
 http://services.kb.nl
 http://share.bidbook.eu
 http://sharepoint-ext-conf.belastingdienst.nl
@@ -6872,7 +6869,6 @@ https://maakhetzeniettemakkelijk.nl
 https://maatschappelijkeonrust.nl
 https://maatschappelijkestabiliteit.nl
 https://maatschappijwetenschappen.slo.nl
-https://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
 https://maatwerkmultiproblematiek.nl
 https://maatwerkvoormensen.nl
@@ -7705,6 +7701,8 @@ https://northern-sunrise-county-gis-mmsa.hub.arcgis.com
 https://northseaportal.eu
 https://notebooksservices-eu1.arcgis.com
 https://notebooksservices-eu1.az-int.arcgis.com
+https://notificatie-preprod.api.ep-online.nl
+https://notificatie.api.ep-online.nl
 https://notificatie.pzp.nl
 https://novexrotterdamsehaven.nl
 https://novum.nu
@@ -8704,6 +8702,7 @@ https://psychosocialearbeidsbelasting.tno.nl
 https://pt-i.espacenet.com
 https://pt.espacenet.com
 https://ptvt.nl
+https://public-preprod.ep-online.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl
@@ -9370,6 +9369,7 @@ https://serviceportal.kadaster.nl
 https://serviceportal.test.kadaster.nl
 https://services-acc.burgernet.nl
 https://services-acc.globalentry-rtp.nl
+https://services-preprod.ep-online.nl
 https://services.burgernet.nl
 https://services.ep-online.nl
 https://services.globalentry-rtp.nl
