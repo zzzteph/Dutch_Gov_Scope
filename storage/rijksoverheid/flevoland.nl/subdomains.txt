@@ -6,6 +6,7 @@ begroting2019.flevoland.nl
 begroting2020.flevoland.nl
 bezoekersdata.flevoland.nl
 bodemrapportage.flevoland.nl
+brk1.flevoland.nl
 cmsintranet.flevoland.nl
 competentie.flevoland.nl
 connect-with.flevoland.nl
@@ -13,6 +14,8 @@ data.flevoland.nl
 denkmee.flevoland.nl
 desktop.flevoland.nl
 e.flevoland.nl
+edocsprod.flevoland.nl
+edocstest.flevoland.nl
 ehs.flevoland.nl
 eloket.flevoland.nl
 embraceintranet.flevoland.nl
@@ -21,14 +24,16 @@ esb-ibabs.flevoland.nl
 esb-preprod.flevoland.nl
 esb.flevoland.nl
 eula.flevoland.nl
-evserver1.flevoland.nl
 exchange.flevoland.nl
+felix-preproductie.flevoland.nl
+felix.flevoland.nl
 flair-demo.flevoland.nl
 flevoland.nl
 formulieren.flevoland.nl
 ftps.flevoland.nl
 gensys.flevoland.nl
 geo.flevoland.nl
+geo.poc.flevoland.nl
 geo2.flevoland.nl
 geo3.flevoland.nl
 geodiensten.flevoland.nl
@@ -53,7 +58,6 @@ mbg-proxy.flevoland.nl
 mdm.flevoland.nl
 meepraten.flevoland.nl
 mgt.flevoland.nl
-micollab.flevoland.nl
 monitorwonen.flevoland.nl
 natuurbeheerplan.flevoland.nl
 nhr.flevoland.nl

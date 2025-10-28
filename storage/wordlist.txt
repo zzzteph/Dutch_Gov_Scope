@@ -308,7 +308,6 @@ av
 ts
 accounts
 cbs
-micollab
 uag
 vpn1
 stijlgids
@@ -488,6 +487,8 @@ zoek
 acs
 beeldbank-bo
 federation
+felix-preproductie
+felix
 georegister
 werkenvoor
 uzi.acc
@@ -499,6 +500,7 @@ cn
 dashboards
 dashboards.test
 jeugdmonitor
+micollab
 redactie-acc
 research
 seg
@@ -544,6 +546,7 @@ webservice-acc
 www3
 piwik
 cms-acc
+edocstest
 ftps
 preprodformulieren
 co
@@ -1679,8 +1682,6 @@ esb-p1
 esb-t1
 esb-test
 facilitor
-felix-preproductie
-felix
 fs-ms-exdns01
 fs-ms-exdns03
 fs-ms-exdns04
@@ -2486,16 +2487,18 @@ begroting2019
 begroting2020
 bezoekersdata
 bodemrapportage
+brk1
 competentie
+edocsprod
 ehs
 embraceintranet
 esb-ibabs-preprod
 esb-ibabs
 esb-preprod
 eula
-evserver1
 flair-demo
 gensys
+geo.poc
 geo2
 geo3
 geodiensten
@@ -2568,7 +2571,6 @@ burgerloket.test
 connect.acceptatie
 dms
 edocs
-edocstest
 geoapps
 geoappstest
 geoportaalhhd

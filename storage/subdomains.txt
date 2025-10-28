@@ -4246,6 +4246,7 @@ bris.kvk.nl
 brk.acceptatie.basisregistraties.overheid.nl
 brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
+brk1.flevoland.nl
 brkpb.cloud.kadaster.nl
 brkpb.test.cloud.kadaster.nl
 brm-test.belastingdienst.nl
@@ -6716,6 +6717,8 @@ editor-drp.overheid.nl
 editor.stelselcatalogus.nl
 editorial.defensie.nl
 edocs.hhdelfland.nl
+edocsprod.flevoland.nl
+edocstest.flevoland.nl
 edocstest.hhdelfland.nl
 edsdiensten.e-tol.nl
 edsorderhub-ne.rdw.nl
@@ -7173,7 +7176,6 @@ events.kvk.nl
 events.nidos.nl
 events.slo.nl
 events.svb.nl
-evserver1.flevoland.nl
 evvv.belastingdienst.nl
 ewerken-acc.afm.nl
 ewerken.afm.nl
@@ -7564,7 +7566,9 @@ feeds.wodc.nl
 feeds.wrr.nl
 feeds.youthatheart.nl
 felix-preproductie.brabant.nl
+felix-preproductie.flevoland.nl
 felix.brabant.nl
+felix.flevoland.nl
 fems.acm.nl
 fems.services.acm.nl
 fepool01.s-bb.nl
@@ -7995,6 +7999,7 @@ geo.flevoland.nl
 geo.hhdelfland.nl
 geo.leefbaarometer.nl
 geo.odmh.nl
+geo.poc.flevoland.nl
 geo.rijkswaterstaat.nl
 geo.rws.nl
 geo.zuid-holland.nl
@@ -11216,7 +11221,6 @@ mi-cert.nl
 miauw.rdosecurity.nl
 micha.rivm.nl
 micollab.cbs.nl
-micollab.flevoland.nl
 micollab.mensenrechten.nl
 micollabtest.cbs.nl
 microcontent.ondernemersplein.kvk.nl

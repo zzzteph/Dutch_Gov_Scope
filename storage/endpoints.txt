@@ -4990,7 +4990,6 @@ https://events.kvk.nl
 https://events.nidos.nl
 https://events.slo.nl
 https://events.svb.nl
-https://evserver1.flevoland.nl
 https://ewnederland.nl
 https://ews.rijkewaddenzee.nl
 https://exactbrain.github.io
@@ -5462,6 +5461,7 @@ https://geo.di.huc.knaw.nl
 https://geo.flevoland.nl
 https://geo.leefbaarometer.nl
 https://geo.odmh.nl
+https://geo.poc.flevoland.nl
 https://geo.rijkswaterstaat.nl
 https://geo.rws.nl
 https://geo.zuid-holland.nl
@@ -5882,7 +5882,6 @@ https://id-broker.cbr.nl
 https://id.brabant.nl
 https://id.cultuurparticipatie.nl
 https://id.dblogistiek.brandweer.nl
-https://id.flevoland.nl
 https://id.inhuurdeskpolitie.nl
 https://id.limburg.nl
 https://idaf.tropomi.eu
@@ -7164,7 +7163,6 @@ https://mgt.flevoland.nl
 https://mh17.onderzoeksraad.nl
 https://mi-cert.nl
 https://micollab.cbs.nl
-https://micollab.flevoland.nl
 https://micollab.mensenrechten.nl
 https://micollabtest.cbs.nl
 https://microdata.cbs.nl
