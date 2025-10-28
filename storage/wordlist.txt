@@ -15,9 +15,9 @@ a-www
 _autodiscover._tcp
 staging
 a-opendata
-a-feeds
 magazines
 cms
+a-feeds
 intranet
 vpn
 www-acc

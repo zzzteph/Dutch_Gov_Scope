@@ -1029,7 +1029,6 @@ a-feeds.dus-i.nl
 a-feeds.dwangindezorg.nl
 a-feeds.forensicinstitute.nl
 a-feeds.forensischinstituut.nl
-a-feeds.gezondheidsraad.nl
 a-feeds.government.nl
 a-feeds.healthcouncil.nl
 a-feeds.igj.nl
@@ -1095,7 +1094,6 @@ a-opendata.dus-i.nl
 a-opendata.dwangindezorg.nl
 a-opendata.forensicinstitute.nl
 a-opendata.forensischinstituut.nl
-a-opendata.gezondheidsraad.nl
 a-opendata.government.nl
 a-opendata.healthcouncil.nl
 a-opendata.igj.nl
@@ -1258,7 +1256,6 @@ a-www.dus-i.nl
 a-www.dwangindezorg.nl
 a-www.forensicinstitute.nl
 a-www.forensischinstituut.nl
-a-www.gezondheidsraad.nl
 a-www.government.nl
 a-www.healthcouncil.nl
 a-www.igj.nl
@@ -7456,7 +7453,6 @@ feeds.english.wrr.nl
 feeds.forensicinstitute.nl
 feeds.forensischezorg.nl
 feeds.forensischinstituut.nl
-feeds.gezondheidsraad.nl
 feeds.government.nl
 feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
@@ -12886,7 +12882,6 @@ opendata.english.wrr.nl
 opendata.forensicinstitute.nl
 opendata.forensischezorg.nl
 opendata.forensischinstituut.nl
-opendata.gezondheidsraad.nl
 opendata.government.nl
 opendata.grensdata.eu
 opendata.groeiennaarmorgen.nl
