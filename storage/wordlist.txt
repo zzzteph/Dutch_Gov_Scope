@@ -192,6 +192,7 @@ www.mijn
 exchange
 csoacct
 csotest
+www2-p
 zaaksysteem-acc
 synergy
 sso
@@ -249,7 +250,6 @@ veiligmailen
 extern
 odc
 bibliotheek
-www2-p
 begrippen
 en
 vt
@@ -347,6 +347,7 @@ denkmee
 test-cmsintranet
 test-intranet
 portal2
+www2-p2
 kantoor
 acc.api
 authenticatie
@@ -552,7 +553,6 @@ osbacc
 preprodformulieren
 co
 stagefonds
-www2-p2
 coronadashboard
 sdg
 AutoDiscover
