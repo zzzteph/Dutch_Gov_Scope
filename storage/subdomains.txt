@@ -7432,7 +7432,6 @@ feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
-feeds.english.igj.nl
 feeds.english.ilent.nl
 feeds.english.kiesraad.nl
 feeds.english.knmidata.nl
@@ -12859,7 +12858,6 @@ opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
-opendata.english.igj.nl
 opendata.english.ilent.nl
 opendata.english.kiesraad.nl
 opendata.english.knmidata.nl
