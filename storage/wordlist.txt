@@ -14,9 +14,9 @@ acceptatie
 a-www
 _autodiscover._tcp
 staging
-a-opendata
 magazines
 cms
+a-opendata
 a-feeds
 intranet
 vpn

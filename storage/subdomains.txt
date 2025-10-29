@@ -1030,7 +1030,6 @@ a-feeds.dwangindezorg.nl
 a-feeds.forensicinstitute.nl
 a-feeds.forensischinstituut.nl
 a-feeds.government.nl
-a-feeds.healthcouncil.nl
 a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
 a-feeds.jaarverantwoordingzorg.nl
@@ -1095,7 +1094,6 @@ a-opendata.dwangindezorg.nl
 a-opendata.forensicinstitute.nl
 a-opendata.forensischinstituut.nl
 a-opendata.government.nl
-a-opendata.healthcouncil.nl
 a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
 a-opendata.jaarverantwoordingzorg.nl
@@ -1257,7 +1255,6 @@ a-www.dwangindezorg.nl
 a-www.forensicinstitute.nl
 a-www.forensischinstituut.nl
 a-www.government.nl
-a-www.healthcouncil.nl
 a-www.igj.nl
 a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
@@ -7455,7 +7452,6 @@ feeds.forensischezorg.nl
 feeds.forensischinstituut.nl
 feeds.government.nl
 feeds.hansken.nl
-feeds.healthcouncil.nl
 feeds.hogeraadvanadel.nl
 feeds.huiselijkgeweld.nl
 feeds.huurcommissie.nl
@@ -12883,7 +12879,6 @@ opendata.forensischinstituut.nl
 opendata.government.nl
 opendata.grensdata.eu
 opendata.hansken.nl
-opendata.healthcouncil.nl
 opendata.hhdelfland.nl
 opendata.hogeraadvanadel.nl
 opendata.huiselijkgeweld.nl
