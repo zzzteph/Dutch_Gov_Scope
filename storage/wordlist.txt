@@ -561,7 +561,6 @@ inloggen-preprod
 loket-preprod
 workspace
 cjib
-zaaksysteem-accept
 vt-mijn
 ediensten
 statistics
@@ -5581,6 +5580,7 @@ wapenfeiten
 windlansingerland
 www.denkmee
 www.windlansingerland
+zaaksysteem-accept
 api-a.services
 api.services
 apps.services

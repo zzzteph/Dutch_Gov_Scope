@@ -1887,6 +1887,7 @@ https://acceptance.monitoring.ptvt.nl
 https://acceptatie-app.mijnrijkspas.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://acceptatie-calculator.aerius.nl
+https://acceptatie-checkjeprijs.huurcommissie.nl
 https://acceptatie-connect.aerius.nl
 https://acceptatie-geneeskundig.lcms.nl
 https://acceptatie-identity.coa.nl
@@ -5755,7 +5756,6 @@ https://highlights2022.halt.nl
 https://highlights2023.halt.nl
 https://highlights2024.halt.nl
 https://hip-acc.huurcommissie.nl
-https://hip.huurcommissie.nl
 https://hisgis-iiif.huc.knaw.nl
 https://hisgis.fa.knaw.nl
 https://historical1.arcgis.com
@@ -11071,6 +11071,7 @@ https://wvlegislature.maps.arcgis.com
 https://wvsv.acceptatie.nipv.nl
 https://wvsv.nipv.nl
 https://www-a.grensinfo.nl
+https://www-a.huurcommissie.nl
 https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.gipdatabank.nl
 https://www-ac.horizonscangeneesmiddelen.nl
@@ -12623,7 +12624,6 @@ https://zaaksysteem-acc.hetcak.nl
 https://zaaksysteem-acc.inspectie-jenv.nl
 https://zaaksysteem-acc.odmh.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
-https://zaaksysteem-accept.huurcommissie.nl
 https://zaaksysteem-accept.zuid-holland.nl
 https://zaaksysteem-ont.hetcak.nl
 https://zaaksysteem-tst.hetcak.nl
