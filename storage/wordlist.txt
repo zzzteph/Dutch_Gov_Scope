@@ -157,6 +157,7 @@ www-acc2
 www-dev2
 www-p2
 www-tst2
+www2-p
 www-a
 forms
 mijn-acc
@@ -192,7 +193,6 @@ www.mijn
 exchange
 csoacct
 csotest
-www2-p
 zaaksysteem-acc
 synergy
 sso
@@ -250,6 +250,7 @@ veiligmailen
 extern
 odc
 bibliotheek
+www2-p2
 begrippen
 en
 vt
@@ -347,7 +348,6 @@ denkmee
 test-cmsintranet
 test-intranet
 portal2
-www2-p2
 kantoor
 acc.api
 authenticatie
