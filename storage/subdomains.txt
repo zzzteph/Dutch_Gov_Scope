@@ -7465,7 +7465,6 @@ feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
-feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
 feeds.jenvgegevens.nl
 feeds.justid.nl
@@ -12896,7 +12895,6 @@ opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
-opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
 opendata.jenvgegevens.nl
 opendata.justid.nl
