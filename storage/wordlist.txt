@@ -2687,6 +2687,7 @@ wio
 wiob
 beheer.chat
 checkout-acc.portal
+checkout-tst
 checkout-tst.portal
 checkout.portal
 daf-eforms
