@@ -2678,6 +2678,7 @@ api.acc-lsp.rivm.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
 api.acc.spaceweather.knmi.nl
+api.acc.woo.irealisatie.nl
 api.acc1.machtigen.digid.nl
 api.acc1.mijn.overheid.nl
 api.acc2.machtigen.digid.nl
@@ -2809,6 +2810,7 @@ api.spaceweather.knmi.nl
 api.standaarden.overheid.nl
 api.test.kadaster.nl
 api.test.pdok.nl
+api.test.woo.irealisatie.nl
 api.testbijdrukte.coronatest.nl
 api.tno.nl
 api.transformation.nsgi.nl
@@ -2831,6 +2833,7 @@ api.vallei-veluwe.nl
 api.voedingscentrum.nl
 api.waarborg.nl
 api.waarderingskamer.nl
+api.woo.irealisatie.nl
 api.woz.acceptatie.kadaster.nl
 api.zandbak.dans.knaw.nl
 api.zorgaanbiedersportaal.nl
@@ -7969,6 +7972,8 @@ genderquest.zonmw.nl
 geneesmiddeleninformatiebank.nl
 generator-dev.nba.nl
 generator.nba.nl
+generieke-issuer-portaal.test.gf.irealisatie.nl
+generieke-issuer-revocatie-api.test.gf.irealisatie.nl
 generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
 genomes.bioinf.nioo.knaw.nl
@@ -9192,6 +9197,7 @@ isis-web.nl
 isis.rivm.nl
 isisportal.rivm.nl
 isms.minienm.nl
+issuer-api.test.gf.irealisatie.nl
 issues-acc.eherkenning.nl
 istandaarden.nl
 it-academieoverheid.nl
@@ -10464,7 +10470,6 @@ lokaleregelgeving-acc.overheid.nl
 lokaleregelgeving-eto.overheid.nl
 lokaleregelgeving.overheid.nl
 lokalisatie-demo.proeftuin.gf.irealisatie.nl
-lokalisatie-demo.test.gf.irealisatie.nl
 loket-acc.hdsr.nl
 loket-inloggen-preprod.raadvanstate.nl
 loket-inloggen.raadvanstate.nl
@@ -11021,6 +11026,7 @@ mcra-training.rivm.nl
 mcra.rivm.nl
 mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 mcsd-consumer-admin.test.gf.irealisatie.nl
+mcsd-registratie-directory.test.gf.irealisatie.nl
 mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 mcsd-registratie-portaal.test.gf.irealisatie.nl
 mcsd-supplier.proeftuin.gf.irealisatie.nl
@@ -14421,6 +14427,7 @@ psb.cld.rdw.nl
 psb.rdw.nl
 psbwe.cld.rdw.nl
 pseudoniem.proeftuin.gf.irealisatie.nl
+pseudoniemendienst.test.gf.irealisatie.nl
 pseudonym.test.zm.irealisatie.nl
 psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl
@@ -16507,6 +16514,7 @@ stats.irealisatie.nl
 stats.ndw.nu
 stats.one-conference.nl
 stats.pleio.nl
+stats.proeftuin.gf.irealisatie.nl
 stats.raadvanstate.nl
 stats.test.gf.irealisatie.nl
 stats.test.mgo.irealisatie.nl
@@ -18014,6 +18022,7 @@ vergaderen.s-bb.nl
 vergelijkingskaart.afm.nl
 vergoedingsns.nl
 verhalenoverdeoorlog.nl
+verifier-api.test.gf.irealisatie.nl
 verjaringschecker-a.politieacademie.nl
 verjaringschecker-t.politieacademie.nl
 verjaringschecker.politieacademie.nl
@@ -18412,6 +18421,7 @@ wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
 wallboard.apps.staatsbosbeheer.nl
 wallboardbuitenleven.apps.staatsbosbeheer.nl
+waltid-dev-wallet.test.gf.irealisatie.nl
 wap.nak.nl
 wap.tno.nl
 wapenfeiten.zuid-holland.nl

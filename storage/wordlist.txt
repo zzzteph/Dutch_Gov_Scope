@@ -2725,6 +2725,9 @@ acme2.proeftuin.uzi-online
 addressing.test.zm
 adressering.proeftuin.gf
 adressering.test.gf
+api.acc.woo
+api.test.woo
+api.woo
 app-api.acc.mgo
 app-api.test.mgo
 balie.acc.woo
@@ -2745,10 +2748,13 @@ dvp-proxy.test.mgo
 emax.test.gf
 fdocs.test.gf
 gateway.test.ggdcontact
+generieke-issuer-portaal.test.gf
+generieke-issuer-revocatie-api.test.gf
 gfportal.test.gf
 hapi1.test.zm
 hapi2.test.zm
 helpdesk.acc
+issuer-api.test.gf
 jaeger.proeftuin.gf
 jaeger.test.gf
 jaeger.test.zm
@@ -2769,7 +2775,6 @@ localisation.test.zm
 login-uzi.proeftuin.uzi-online
 login.proeftuin.uzi-online
 lokalisatie-demo.proeftuin.gf
-lokalisatie-demo.test.gf
 lrs.proeftuin.gf
 lrs.test.gf
 mailcatch.acc.dpr
@@ -2782,6 +2787,7 @@ max.proeftuin.uzi-online
 max.test.mgo
 mcsd-consumer-admin.proeftuin.gf
 mcsd-consumer-admin.test.gf
+mcsd-registratie-directory.test.gf
 mcsd-registratie-portaal.proeftuin.gf
 mcsd-registratie-portaal.test.gf
 mcsd-supplier.proeftuin.gf
@@ -2809,6 +2815,7 @@ prs-stub.proeftuin.gf
 prs-stub.test.gf
 prs.test.zm
 pseudoniem.proeftuin.gf
+pseudoniemendienst.test.gf
 pseudonym.test.zm
 qualification-admin.test.zm
 qualification-api.test.zm
@@ -2821,6 +2828,7 @@ start.test.dusi
 static.acc.dpr
 static.test.dpr
 stats.acc.mgo
+stats.proeftuin.gf
 stats.test.gf
 stats.test.mgo
 stats.test.zm
@@ -2837,7 +2845,9 @@ uren.acc
 uren
 vad.acc.mgo
 vad.test.mgo
+verifier-api.test.gf
 viewer.test.zm
+waltid-dev-wallet.test.gf
 web.acc.dpr
 web.acc.mgo
 web.acc.woo

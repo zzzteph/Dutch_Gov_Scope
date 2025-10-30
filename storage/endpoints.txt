@@ -339,6 +339,7 @@ http://ecdis.osiris.rivm.nl
 http://eindtoets-ouders.cito.nl
 http://eindtoetsbasisonderwijs.cito.nl
 http://emailtemplates.overheid.nl
+http://emax.test.gf.irealisatie.nl
 http://embraceintranet.flevoland.nl
 http://employbrand.uwv.nl
 http://energielabel-checker.rvo.nl
@@ -375,7 +376,6 @@ http://geo2.flevoland.nl
 http://geodata.rivm.nl
 http://gevallenen40-45.niod.knaw.nl
 http://gezondgroeien.voedingscentrum.nl
-http://gfportal.test.gf.irealisatie.nl
 http://gipinfo.nl
 http://git-az2.lpc.logius.nl
 http://git.irealisatie.nl
@@ -463,6 +463,7 @@ http://login.irealisatie.nl
 http://login.nba.nl
 http://lokaleregelgeving-eto.overheid.nl
 http://lokaleregelgeving.overheid.nl
+http://lokalisatie-demo.proeftuin.gf.irealisatie.nl
 http://loketgentherapie.nl
 http://longread.brabant.nl
 http://luistertoets.cito.nl
@@ -490,7 +491,6 @@ http://margarethaklooster.huygens.knaw.nl
 http://mcra-test.rivm.nl
 http://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
-http://mcsd-registratie-portaal.test.gf.irealisatie.nl
 http://mcsd-supplier.test.gf.irealisatie.nl
 http://mcsd.test.zm.irealisatie.nl
 http://mebi-backoffice.rivm.nl
@@ -503,6 +503,7 @@ http://metabase.rdosecurity.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
 http://metadata-enhancer.labs.dans.knaw.nl
+http://metadata.test.zm.irealisatie.nl
 http://metrics.digitalenoordzee.nl
 http://metrokaart.pianoo.nl
 http://miauw.rdosecurity.nl
@@ -560,6 +561,7 @@ http://opendata.grensdata.eu
 http://opendata.papiamento.two-acs.com
 http://opensciencemeeting2014.knaw.nl
 http://oproepingen-api-preprd.overheid.nl
+http://orac.test.gf.irealisatie.nl
 http://organisaties-redactie.overheid.nl
 http://oss.developer.overheid.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
@@ -614,10 +616,10 @@ http://projects.knmi.nl
 http://promise.nioo.knaw.nl
 http://providence-gis-hub-pvdgis.hub.arcgis.com
 http://prs-stub.proeftuin.gf.irealisatie.nl
-http://prs-stub.test.gf.irealisatie.nl
 http://prs.rijkswaterstaat.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
+http://pseudoniemendienst.test.gf.irealisatie.nl
 http://pseudonym.test.zm.irealisatie.nl
 http://pts31.dans.knaw.nl
 http://public.mondriaanfonds.nl
@@ -629,7 +631,6 @@ http://pwa001.belastingdienst.nl
 http://qas-mijnsap.rivm.nl
 http://qbes.cbs.nl
 http://qr-app-webservice.rijksapplicaties.nl
-http://qualification.test.zm.irealisatie.nl
 http://redirect.rechtspraak.nl
 http://redirect.rivm.nl
 http://ref.omgevingswet.overheid.nl
@@ -716,6 +717,7 @@ http://static.wegwijzer.overheid.nl
 http://statistics.dnb.nl
 http://stats-acc.globalentry-rtp.nl
 http://stats.globalentry-rtp.nl
+http://stats.proeftuin.gf.irealisatie.nl
 http://status.proeftuin.gf.irealisatie.nl
 http://stcrtin.overheid.nl
 http://stelselcatalogus.acc.omgevingswet.overheid.nl
@@ -2383,6 +2385,7 @@ https://api.abonneren-pro2.platformrijksoverheidonline.nl
 https://api.abonneren.platformrijksoverheidonline.nl
 https://api.acc-lsp.rivm.nl
 https://api.acc.ncsc.nl
+https://api.acc.woo.irealisatie.nl
 https://api.acceptatie.kadaster.nl
 https://api.acceptatie.politie.nl
 https://api.acceptatie.vaarweginformatie.nl
@@ -2478,6 +2481,7 @@ https://api.rwsverkeersinfo.nl
 https://api.skal.nl
 https://api.standaarden.overheid.nl
 https://api.test.kadaster.nl
+https://api.test.woo.irealisatie.nl
 https://api.tno.nl
 https://api.transformation.nsgi.nl
 https://api.transformation.test.nsgi.nl
@@ -2485,6 +2489,7 @@ https://api.tst-lsp.rivm.nl
 https://api.vaarweginformatie.nl
 https://api.voedingscentrum.nl
 https://api.waarborg.nl
+https://api.woo.irealisatie.nl
 https://api2-mijn.voedingscentrum.nl
 https://api2.abonneren.platformrijksoverheidonline.nl
 https://api3-mijn.voedingscentrum.nl
@@ -4792,7 +4797,6 @@ https://emailsanitizer.labs.dans.knaw.nl
 https://emailsjablonen.tweedekamer.nl
 https://emailwijzer.rijksapplicaties.nl
 https://emailwijzer.staging.rijksapplicaties.nl
-https://emax.test.gf.irealisatie.nl
 https://emissieautoriteit.nl
 https://emissieautoriteit.sitearchief.nl
 https://emissieregistratie.nl
@@ -5443,6 +5447,8 @@ https://genderquest.zonmw.nl
 https://geneesmiddeleninformatiebank.nl
 https://generator-dev.nba.nl
 https://generator.nba.nl
+https://generieke-issuer-portaal.test.gf.irealisatie.nl
+https://generieke-issuer-revocatie-api.test.gf.irealisatie.nl
 https://generiekefuncties.datavoorgezondheid.nl
 https://gensys.flevoland.nl
 https://geo-fms.zuid-holland.nl
@@ -5531,6 +5537,7 @@ https://gezondeschool.nl
 https://gezondeschoolkantine.voedingscentrum.nl
 https://gezondheidsraad.nl
 https://gezondheidsverklaring.coronatest.nl
+https://gfportal.test.gf.irealisatie.nl
 https://ggdiamdemo.rivm.nl
 https://ggo-vergunningen.nl
 https://ggo-vergunningverlening.nl
@@ -6154,6 +6161,7 @@ https://isdatechtzo.nl
 https://ishetafval.nl
 https://isi.cbs.nl
 https://isis-web.nl
+https://issuer-api.test.gf.irealisatie.nl
 https://istandaarden.nl
 https://it-academieoverheid.nl
 https://it-i.espacenet.com
@@ -6788,8 +6796,6 @@ https://logius.sitearchief.nl
 https://logo.huygens.knaw.nl
 https://lokaalklimaat.databank.nl
 https://lokale-democratie.nl
-https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
-https://lokalisatie-demo.test.gf.irealisatie.nl
 https://loket-inloggen-preprod.raadvanstate.nl
 https://loket-inloggen.raadvanstate.nl
 https://loket-preprod.hhdelfland.nl
@@ -7048,7 +7054,9 @@ https://mc-upnl.mijn.rvo.nl
 https://mccg.nl
 https://mcra-training.rivm.nl
 https://mcra.rivm.nl
+https://mcsd-registratie-directory.test.gf.irealisatie.nl
 https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
+https://mcsd-registratie-portaal.test.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
 https://md-i.espacenet.com
 https://md.espacenet.com
@@ -8139,7 +8147,6 @@ https://opvragen.ep-online.nl
 https://opwegmetwaterstof.nl
 https://opwegnaarseb.nl
 https://opwegnaarzes.nl
-https://orac.test.gf.irealisatie.nl
 https://oracle-financials-acc.tweedekamer.nl
 https://oracle-financials-ontw.tweedekamer.nl
 https://oracle-financials.tweedekamer.nl
