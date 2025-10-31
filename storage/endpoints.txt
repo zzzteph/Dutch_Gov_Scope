@@ -5151,7 +5151,6 @@ https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.defensie.nl
 https://feeds.english.ilent.nl
 https://feeds.english.kiesraad.nl
-https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
@@ -5179,7 +5178,6 @@ https://feeds.kansrijkestartnl.nl
 https://feeds.kiesraad.nl
 https://feeds.kik-v.nl
 https://feeds.klimaatakkoord.nl
-https://feeds.knmidata.nl
 https://feeds.koninklijkhuis.nl
 https://feeds.koopoverheid.nl
 https://feeds.leerenontwikkelplein.nl
@@ -7986,7 +7984,6 @@ https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.defensie.nl
 https://opendata.english.ilent.nl
 https://opendata.english.kiesraad.nl
-https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
@@ -8014,7 +8011,6 @@ https://opendata.kansrijkestartnl.nl
 https://opendata.kiesraad.nl
 https://opendata.kik-v.nl
 https://opendata.klimaatakkoord.nl
-https://opendata.knmidata.nl
 https://opendata.koninklijkhuis.nl
 https://opendata.koopoverheid.nl
 https://opendata.kvk.nl

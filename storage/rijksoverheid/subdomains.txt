@@ -7438,7 +7438,6 @@ feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.ilent.nl
 feeds.english.kiesraad.nl
-feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
@@ -7472,7 +7471,6 @@ feeds.kansrijkestartnl.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
 feeds.klimaatakkoord.nl
-feeds.knmidata.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
 feeds.leerenontwikkelplein.nl
@@ -12866,7 +12864,6 @@ opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.ilent.nl
 opendata.english.kiesraad.nl
-opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
@@ -12901,7 +12898,6 @@ opendata.kansrijkestartnl.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
 opendata.klimaatakkoord.nl
-opendata.knmidata.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.kvk.nl
