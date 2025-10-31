@@ -148,7 +148,6 @@ www1
 survey
 externemail
 mam
-sf
 api-acc
 a-magazines
 servicedesk
@@ -186,6 +185,7 @@ nieuws
 www-test
 m365
 password
+sf
 formulier
 cms2
 acc.mijn
