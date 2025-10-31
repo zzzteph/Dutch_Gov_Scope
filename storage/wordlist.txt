@@ -570,6 +570,7 @@ kat.acc
 kat
 test3
 acc.intranet
+sbc01
 test2
 download.webmail
 externemailsaas
@@ -2907,6 +2908,9 @@ private.acc
 private.acc.staging
 private
 private.staging
+sbc01.acpt
+sbc02.acpt
+sbc02
 menukaart
 www-old
 woordenboek
@@ -12347,7 +12351,6 @@ rep100
 reptoegang
 roljournaalhandelgerechtshoven
 roljournaalhandelrechtbanken
-sbc01
 signin
 sip01
 sip02
