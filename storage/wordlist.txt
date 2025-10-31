@@ -356,6 +356,7 @@ privacy
 guest
 test.intranet
 metrics
+sbc01
 a
 confluence
 externemail01
@@ -570,7 +571,9 @@ kat.acc
 kat
 test3
 acc.intranet
-sbc01
+sbc01.acpt
+sbc02.acpt
+sbc02
 test2
 download.webmail
 externemailsaas
@@ -2908,9 +2911,6 @@ private.acc
 private.acc.staging
 private
 private.staging
-sbc01.acpt
-sbc02.acpt
-sbc02
 menukaart
 www-old
 woordenboek
