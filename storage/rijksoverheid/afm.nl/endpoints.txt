@@ -1,9 +1,6 @@
 http://autodiscover.afm.nl
 http://intern.afm.nl
 https://acc-vergelijkingskaart.afm.nl
-https://acc-www.afm.nl
-https://accnew-cms.afm.nl
-https://accnew-www.afm.nl
 https://afm.nl
 https://afmacademy.afm.nl
 https://afmcmg.afm.nl
@@ -15,10 +12,7 @@ https://api.afm.nl
 https://beginnenbij.afm.nl
 https://compliance.afm.nl
 https://cursusprospectus.afm.nl
-https://dev-cms.afm.nl
-https://dev-id.afm.nl
 https://dev-vergelijkingskaart.afm.nl
-https://dev-www.afm.nl
 https://elearning.afm.nl
 https://email.afm.nl
 https://filetransfer.afm.nl

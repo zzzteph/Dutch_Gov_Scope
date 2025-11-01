@@ -1738,7 +1738,6 @@ https://acc-werkplek.gw01-gslb.rws.nl
 https://acc-werkplek.rws.nl
 https://acc-wetten.rvo.nl
 https://acc-www-staging.cito.nl
-https://acc-www.afm.nl
 https://acc-www.cito.nl
 https://acc-www.verbeterjehuis.nl
 https://acc.adviescollegeveiligheidgroningen.nl
@@ -2040,8 +2039,6 @@ https://access.huc.knaw.nl
 https://accessibleayr-swecouk.hub.arcgis.com
 https://acckaarten.vechtstromen.nl
 https://acclongnis.naktuinbouw.nl
-https://accnew-cms.afm.nl
-https://accnew-www.afm.nl
 https://accompagnement-education-fr.hub.arcgis.com
 https://accounts-dev.arcgis.com
 https://accounts-stg.arcgis.com
@@ -4235,17 +4232,14 @@ https://desktop.rva.nl
 https://determinatie.nederlandsesoorten.nl
 https://determineren.nederlandsesoorten.nl
 https://deutsch.postedworkers.nl
-https://dev-cms.afm.nl
 https://dev-domain.leerwerkloket.nl
 https://dev-en.rli.nl
-https://dev-id.afm.nl
 https://dev-insights.mfaservices.nl
 https://dev-lsp.rivm.nl
 https://dev-quality.s-bb.nl
 https://dev-traineeship.s-bb.nl
 https://dev-vergelijkingskaart.afm.nl
 https://dev-wiki.s-bb.nl
-https://dev-www.afm.nl
 https://dev.aerius.nl
 https://dev.api-sec.p-direkt.nl
 https://dev.api.p-direkt.nl
