@@ -238,6 +238,7 @@ catalogus
 share
 cms1
 enquete
+gitlab
 jira
 connect-acpt
 preprod
@@ -337,7 +338,6 @@ site3
 site4
 t-www
 dns2
-gitlab
 lync
 mail01
 mail02
@@ -5671,15 +5671,18 @@ auth-register-pentest
 auth-register
 calculator
 fame
+fame2025
 imaer
 legend
 lightning
 mattermost
 meander
 mgmt
+monitor2025-intro
 nexus-docker
 pr
 regelingsondersteuning
+regionaal-register
 register-pentest
 scenario
 test-calculator

@@ -1,3 +1,4 @@
+https://aankoopcalculator.aerius.nl
 https://acceptatie-calculator.aerius.nl
 https://acceptatie-connect.aerius.nl
 https://acceptatie-imaer.aerius.nl
@@ -11,11 +12,15 @@ https://aerius.nl
 https://auth-dev.aerius.nl
 https://auth-register-dev.aerius.nl
 https://auth-register-gat.aerius.nl
+https://auth-register-pentest.aerius.nl
 https://auth-register.aerius.nl
 https://calculator.aerius.nl
 https://connect.aerius.nl
+https://dev.aerius.nl
 https://docs.aerius.nl
 https://fame.aerius.nl
+https://fame2025.aerius.nl
+https://gitlab.aerius.nl
 https://imaer.aerius.nl
 https://legend.aerius.nl
 https://lightning.aerius.nl
@@ -25,11 +30,13 @@ https://meander.aerius.nl
 https://melding.aerius.nl
 https://mgmt.aerius.nl
 https://monitor.aerius.nl
+https://monitor2025-intro.aerius.nl
 https://nexus-docker.aerius.nl
 https://nexus.aerius.nl
 https://pdok.aerius.nl
 https://pr.aerius.nl
 https://regelingsondersteuning.aerius.nl
+https://regionaal-register.aerius.nl
 https://register-pentest.aerius.nl
 https://register.aerius.nl
 https://scenario.aerius.nl

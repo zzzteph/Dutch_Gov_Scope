@@ -1609,6 +1609,7 @@ https://aangifte.politie.nl
 https://aangifteselectie-chat.pleio.nl
 https://aaninhetdonker.nl
 https://aankomst.nationaalarchief.nl
+https://aankoopcalculator.aerius.nl
 https://aanmelden.gratisvog.nl
 https://aanmelden.nieuwsbriefrechtspraak.nl
 https://aanmelden.samenvoordeklant.nl
@@ -2728,6 +2729,7 @@ https://auth-eopg.aivd.nl
 https://auth-iam.mijnoctrooi.mypage.rvo.nl
 https://auth-register-dev.aerius.nl
 https://auth-register-gat.aerius.nl
+https://auth-register-pentest.aerius.nl
 https://auth-register.aerius.nl
 https://auth.acceptatie.kadaster.nl
 https://auth.denkmee.zuid-holland.nl
@@ -4244,6 +4246,7 @@ https://dev-traineeship.s-bb.nl
 https://dev-vergelijkingskaart.afm.nl
 https://dev-wiki.s-bb.nl
 https://dev-www.afm.nl
+https://dev.aerius.nl
 https://dev.api-sec.p-direkt.nl
 https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
@@ -5062,6 +5065,7 @@ https://faireva.labs.dans.knaw.nl
 https://fairevaapi.labs.dans.knaw.nl
 https://fam.rws.nl
 https://fame.aerius.nl
+https://fame2025.aerius.nl
 https://faq-fb.staging.rijksapplicaties.nl
 https://faq.cbr.nl
 https://faq.ndw.nu
@@ -5573,6 +5577,7 @@ https://git.iaas.rijkscloud.nl
 https://gitdocumentatie.logius.nl
 https://github.apps.feedfoodtransfer.nl
 https://github.github.io
+https://gitlab.aerius.nl
 https://gitlab.datascience.rijkscloud.nl
 https://gitlab.ds-ocw.rijkscloud.nl
 https://gitlab.huc.knaw.nl
@@ -7386,6 +7391,7 @@ https://monitor.aerius.nl
 https://monitor.digitoegankelijk.nl
 https://monitor.rijksapplicaties.nl
 https://monitor.staging.rijksapplicaties.nl
+https://monitor2025-intro.aerius.nl
 https://monitorarbeid-data.tno.nl
 https://monitorgezondheid.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
@@ -8894,6 +8900,7 @@ https://regiobeelden.dejuistezorgopdejuisteplek.nl
 https://regioburgemeesters.nl
 https://regiodata.kvk.nl
 https://region-dalarna.github.io
+https://regionaal-register.aerius.nl
 https://regiosaandegrens.nl
 https://regiotaxi.flevoland.nl
 https://register-backend.tlokb.nl

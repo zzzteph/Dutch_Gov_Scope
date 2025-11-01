@@ -7318,6 +7318,7 @@ fairevaapi.labs.dans.knaw.nl
 fallback.hetcak.nl
 fam.rws.nl
 fame.aerius.nl
+fame2025.aerius.nl
 faq-fb.staging.rijksapplicaties.nl
 faq.cbr.nl
 faq.ndw.nu
@@ -8164,6 +8165,7 @@ gitdocumentatie.logius.nl
 github.apps.feedfoodtransfer.nl
 github.github.io
 gitlab-acc.dictu.nl
+gitlab.aerius.nl
 gitlab.analyse.ilt.rijkscloud.nl
 gitlab.anvs.rijkscloud.nl
 gitlab.at.rws.nl
@@ -11703,6 +11705,7 @@ monitor.rijksapplicaties.nl
 monitor.rijksoverheid.nl
 monitor.staging.rijksapplicaties.nl
 monitor01.iaas.rijkscloud.nl
+monitor2025-intro.aerius.nl
 monitorarbeid-data.tno.nl
 monitorgezondheid.nl
 monitoring-edu.efiling.mijnoctrooi.rvo.nl
@@ -14795,6 +14798,7 @@ regiobeelden.dejuistezorgopdejuisteplek.nl
 regioburgemeesters.nl
 regiodata.kvk.nl
 region-dalarna.github.io
+regionaal-register.aerius.nl
 regiosaandegrens.nl
 regiotaxi.flevoland.nl
 register-backend.tlokb.nl

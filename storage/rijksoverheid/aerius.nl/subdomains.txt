@@ -19,6 +19,8 @@ connect.aerius.nl
 dev.aerius.nl
 docs.aerius.nl
 fame.aerius.nl
+fame2025.aerius.nl
+gitlab.aerius.nl
 imaer.aerius.nl
 legend.aerius.nl
 lightning.aerius.nl
@@ -28,11 +30,13 @@ meander.aerius.nl
 melding.aerius.nl
 mgmt.aerius.nl
 monitor.aerius.nl
+monitor2025-intro.aerius.nl
 nexus-docker.aerius.nl
 nexus.aerius.nl
 pdok.aerius.nl
 pr.aerius.nl
 regelingsondersteuning.aerius.nl
+regionaal-register.aerius.nl
 register-pentest.aerius.nl
 register.aerius.nl
 scenario.aerius.nl
