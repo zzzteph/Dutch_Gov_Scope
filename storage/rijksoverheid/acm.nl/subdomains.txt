@@ -21,7 +21,6 @@ connect.acm.nl
 cryptshare.acm.nl
 cryptshare.services.acm.nl
 denkmee.acm.nl
-denkmee.bijna.acm.nl
 denkmee.nieuw.acm.nl
 dev.connect.acm.nl
 di.acm.nl
@@ -34,7 +33,6 @@ dns4.acm.nl
 exchange.acm.nl
 exchange.services.acm.nl
 fems.acm.nl
-fems.services.acm.nl
 fmreturn.acm.nl
 gasten.acm.nl
 ggm.acm.nl
@@ -68,6 +66,8 @@ rxs.acm.nl
 rxs.services.acm.nl
 sentry.acm.nl
 sentry.services.acm.nl
+sentry1.acm.nl
+services.acm.nl
 test.gegevensmagazijn.acm.nl
 ucs.acm.nl
 ucs.services.acm.nl

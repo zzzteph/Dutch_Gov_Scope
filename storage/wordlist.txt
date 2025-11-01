@@ -64,6 +64,7 @@ auth
 www2
 webdisk
 enterpriseregistration
+services
 webservices
 open
 dialin
@@ -71,7 +72,6 @@ www.acc
 mail2
 www.test
 ns2
-services
 old
 beeldbank
 docs
@@ -5611,7 +5611,6 @@ banaan.services
 codata
 cryptshare
 cryptshare.services
-denkmee.bijna
 denkmee.nieuw
 dev.connect
 di
@@ -5622,7 +5621,6 @@ dns3
 dns4
 exchange.services
 fems
-fems.services
 fmreturn
 gasten
 ggm
@@ -5644,6 +5642,7 @@ remote.services
 rxs
 rxs.services
 sentry.services
+sentry1
 test.gegevensmagazijn
 ucs
 ucs.services
