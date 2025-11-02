@@ -14,8 +14,8 @@ acceptatie
 a-www
 _autodiscover._tcp
 staging
-magazines
 cms
+magazines
 a-opendata
 a-feeds
 intranet
@@ -6754,6 +6754,7 @@ epmmsen01.acpt
 epmmsen01
 epmmsen02.acpt
 epmmsen02
+fgformulieren-acc
 www.datalekken-acc
 ondernemingsklimaat
 activation
