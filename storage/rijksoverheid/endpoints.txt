@@ -709,7 +709,6 @@ http://service.intpatch.omgevingswet.overheid.nl
 http://service.perf.omgevingswet.overheid.nl
 http://service.tst2905.omgevingswet.overheid.nl
 http://services.kb.nl
-http://share.bidbook.eu
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint.lvnl.nl
 http://sic.s-bb.nl
@@ -3193,6 +3192,7 @@ https://bibliotheekwerk.caop.nl
 https://bibob.kennisplatformondermijning.nl
 https://bics.nl
 https://bicycle-and-pedestrian-resource-center-acog.hub.arcgis.com
+https://bidbook.eu
 https://biedboek.nl
 https://big-dam-swamp-intersection-scdot.hub.arcgis.com
 https://big-register.nl
@@ -9437,11 +9437,9 @@ https://sgr.bkwi.nl
 https://shai.meldknop.nl
 https://shanghaiershouhuangguanche.meldknop.nl
 https://share-open-data-citywindsor.hub.arcgis.com
-https://share.acceptatie-nieuw.bidbook.eu
 https://share.acceptatie-nieuw.biedboek.nl
 https://share.biedboek.nl
 https://share.cvte.nl
-https://share.test-nieuw.bidbook.eu
 https://share.test-nieuw.biedboek.nl
 https://shared-services.ndw.nu
 https://shared-services.staging.ndw.nu
