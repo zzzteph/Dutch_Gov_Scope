@@ -29,12 +29,12 @@ data
 redactie
 e
 feeds.english
+smtp
 app
 formulieren
 werkplek
 dev
 opendata.english
-smtp
 beheer
 portal
 sip
@@ -726,6 +726,7 @@ web02
 rijbewijs
 tracking
 integration
+preproduction
 production
 be
 cf
@@ -11486,7 +11487,6 @@ pe
 praktijkopleiding
 preproduction-new
 preproduction-pe
-preproduction
 production-new
 production-pe
 rekentop
