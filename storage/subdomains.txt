@@ -2566,6 +2566,7 @@ ams-spatial-aarsc.hub.arcgis.com
 ams.cloud.kadaster.nl
 ams.test.cloud.kadaster.nl
 amsis-geoscience-au.hub.arcgis.com
+amsterdam.brandweer.nl
 amunet.cbs.nl
 amx.belastingdienst.nl
 analisten.kennisplatformondermijning.nl
@@ -6894,7 +6895,6 @@ eloket.cvdm.nl
 eloket.flevoland.nl
 eloket.s-bb.nl
 eloket.vallei-veluwe.nl
-elotest.brandweer.nl
 elotest.ifv.nl
 elotest.nipv.nl
 elpasoco.maps.arcgis.com
@@ -19632,6 +19632,7 @@ www.amberalert.nl
 www.ambtelijkerechtspositie.nl
 www.amlc.eu
 www.amlc.nl
+www.amsterdam.brandweer.nl
 www.animalfreeinnovationtpi.nl
 www.annotatedleadingcases.com.access.authkb.kb.nl
 www.anoniem.netftp.dictu.nl
