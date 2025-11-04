@@ -50,7 +50,11 @@ rijbewijzen-acc.cbr.nl
 rijbewijzen-tst.cbr.nl
 rijbewijzen.cbr.nl
 rijdata-acc.cbr.nl
+rijdata-tst.cbr.nl
 rijdata.cbr.nl
+sensordatacollectie-acc.cbr.nl
+sensordatacollectie-tst.cbr.nl
+sensordatacollectie.cbr.nl
 smtp.cbr.nl
 smtp2.cbr.nl
 stamdata-acc.cbr.nl

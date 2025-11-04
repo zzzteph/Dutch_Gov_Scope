@@ -141,7 +141,6 @@ http://autodiscover.atr-regeldruk.nl
 http://autodiscover.bb.huc.knaw.nl
 http://autodiscover.bkd.eu
 http://autodiscover.bureauft.nl
-http://autodiscover.cbr.nl
 http://autodiscover.cito.nl
 http://autodiscover.ciz.nl
 http://autodiscover.contactpuntbouwproducten.nl
@@ -587,6 +586,7 @@ http://otv-web.test.gf.irealisatie.nl
 http://oud.infowms.nl
 http://oud.visitaties.nl
 http://outilevaluationbiosecurite.nl
+http://output.cbr.nl
 http://overpass.dev.huc.knaw.nl
 http://overstroomik-acceptance.rws.nl
 http://owas1.nba.nl
@@ -2819,6 +2819,7 @@ https://autodiscover.arbeidsmarktplatformpo.nl
 https://autodiscover.arbocatalogusmbo.nl
 https://autodiscover.awti.nl
 https://autodiscover.caop.nl
+https://autodiscover.cbr.nl
 https://autodiscover.cdfd.nl
 https://autodiscover.cjib.nl
 https://autodiscover.coa.nl
@@ -7525,6 +7526,7 @@ https://mta-sts.belastingdienst.nl
 https://mta-sts.mail.cggp.nl
 https://mta-sts.nza.nl
 https://mta-sts.vechtstromen.nl
+https://mta.cbr.nl
 https://mtdphhs.maps.arcgis.com
 https://mtv.rdw.nl
 https://mu.digid.nl
@@ -8253,7 +8255,6 @@ https://outbound.onderwijsraad.nl
 https://outlook.svb.nl
 https://output-acc.cbr.nl
 https://output-tst.cbr.nl
-https://output.cbr.nl
 https://outsite.rvr.org
 https://ov-consumentenplatform.nl
 https://ov-kaarten.rijksapplicaties.nl
@@ -9064,6 +9065,7 @@ https://rijbewijzen-acc.cbr.nl
 https://rijbewijzen-tst.cbr.nl
 https://rijbewijzen.cbr.nl
 https://rijdata-acc.cbr.nl
+https://rijdata-tst.cbr.nl
 https://rijkcirculair.nl
 https://rijkewaddenzee.nl
 https://rijksacademie.nl
@@ -9382,6 +9384,9 @@ https://sekswerkgoedgeregeld.nl
 https://selfservice.onderzoeksraad.nl
 https://semaf.labs.dans.knaw.nl
 https://semaphore.cultuurparticipatie.nl
+https://sensordatacollectie-acc.cbr.nl
+https://sensordatacollectie-tst.cbr.nl
+https://sensordatacollectie.cbr.nl
 https://sensors.rivm.nl
 https://senternovem.databank.nl
 https://sentinel.arcgis.com
@@ -10882,6 +10887,7 @@ https://webmail.bkd.eu
 https://webmail.brabant.nl
 https://webmail.brandweer.nl
 https://webmail.caop.nl
+https://webmail.cbr.nl
 https://webmail.eurofawc.com
 https://webmail.flevoland.nl
 https://webmail.globio.info

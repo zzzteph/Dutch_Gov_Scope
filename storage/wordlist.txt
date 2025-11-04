@@ -6881,7 +6881,11 @@ rijbewijzen-acc
 rijbewijzen-tst
 rijbewijzen
 rijdata-acc
+rijdata-tst
 rijdata
+sensordatacollectie-acc
+sensordatacollectie-tst
+sensordatacollectie
 stamdata-acc
 stamdata-tst
 stamdata

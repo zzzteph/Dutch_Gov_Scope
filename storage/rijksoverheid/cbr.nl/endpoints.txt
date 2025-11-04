@@ -1,7 +1,8 @@
-http://autodiscover.cbr.nl
+http://output.cbr.nl
 https://abk-acc.cbr.nl
 https://abk-tst.cbr.nl
 https://abk.cbr.nl
+https://autodiscover.cbr.nl
 https://certificeren-toezicht-acc.cbr.nl
 https://certificeren-toezicht-tst.cbr.nl
 https://certificeren-toezicht.cbr.nl
@@ -22,6 +23,7 @@ https://medewerker-acc.cbr.nl
 https://medewerker-tst.cbr.nl
 https://medewerker.cbr.nl
 https://mijn.cbr.nl
+https://mta.cbr.nl
 https://opleidersadministratie-acc.cbr.nl
 https://opleidersadministratie-tst.cbr.nl
 https://opleidersadministratie.cbr.nl
@@ -30,7 +32,6 @@ https://opleidersportaal-tst.cbr.nl
 https://opleidersportaal.cbr.nl
 https://output-acc.cbr.nl
 https://output-tst.cbr.nl
-https://output.cbr.nl
 https://personen-acc.cbr.nl
 https://personen-tst.cbr.nl
 https://personen.cbr.nl
@@ -42,6 +43,10 @@ https://rijbewijzen-acc.cbr.nl
 https://rijbewijzen-tst.cbr.nl
 https://rijbewijzen.cbr.nl
 https://rijdata-acc.cbr.nl
+https://rijdata-tst.cbr.nl
+https://sensordatacollectie-acc.cbr.nl
+https://sensordatacollectie-tst.cbr.nl
+https://sensordatacollectie.cbr.nl
 https://stamdata-acc.cbr.nl
 https://stamdata-tst.cbr.nl
 https://stamdata.cbr.nl
@@ -57,4 +62,5 @@ https://vaardigheid-tst.cbr.nl
 https://vaardigheid.cbr.nl
 https://vademecum.cbr.nl
 https://vd.cbr.nl
+https://webmail.cbr.nl
 https://ws.cbr.nl

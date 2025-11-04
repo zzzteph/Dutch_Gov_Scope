@@ -15163,6 +15163,7 @@ rijbewijzen-acc.cbr.nl
 rijbewijzen-tst.cbr.nl
 rijbewijzen.cbr.nl
 rijdata-acc.cbr.nl
+rijdata-tst.cbr.nl
 rijdata.cbr.nl
 rijkcirculair.nl
 rijkewaddenzee.nl
@@ -15791,6 +15792,9 @@ semaf.labs.dans.knaw.nl
 semaphore.cultuurparticipatie.nl
 semarnath1.maps.arcgis.com
 send.kansspelautoriteit.nl
+sensordatacollectie-acc.cbr.nl
+sensordatacollectie-tst.cbr.nl
+sensordatacollectie.cbr.nl
 sensorlab.tno.nl
 sensors.rivm.nl
 sensu.ix.rijkscloud.nl
