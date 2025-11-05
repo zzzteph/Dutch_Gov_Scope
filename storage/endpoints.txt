@@ -416,6 +416,7 @@ http://import.organisaties.overheid.nl
 http://incidentacc.rivm.nl
 http://incidentapprivmacc.rivm.nl
 http://include-eafspraak-acceptatie.ba.uwv.nl
+http://infra.status.chm-cbd.net
 http://inkopers.werkenvoornederland.nl
 http://inspire.rivm.nl
 http://inspireaanmerking.nl
@@ -627,6 +628,7 @@ http://preview.wegwijzer.overheid.nl
 http://privilege.huc.knaw.nl
 http://prod.flevoland.nl
 http://prod.rvo.nl
+http://production.status.chm-cbd.net
 http://proeftuin.gf.irealisatie.nl
 http://prohibit.osiris.rivm.nl
 http://projecten.nba.nl
@@ -701,6 +703,7 @@ http://search.rivm.nl
 http://sec01.dans.knaw.nl
 http://secure-acceptatie.grip.rivm.nl
 http://secure.huygens.knaw.nl
+http://seed.status.chm-cbd.net
 http://seg.cbs.nl
 http://service.dmo.omgevingswet.overheid.nl
 http://service.int13m.omgevingswet.overheid.nl
@@ -3686,6 +3689,7 @@ https://clusterbuster.nl
 https://cm.chm-cbd.net
 https://cm.ser.nl
 https://cm.stvda.nl
+https://cm.test.chm-cbd.net
 https://cma-acc.internetconsultatie.nl
 https://cma.internetconsultatie.nl
 https://cmdi.dev.huc.knaw.nl
@@ -4477,7 +4481,6 @@ https://diversiteitsindex.databank.nl
 https://diversiteitsplein.politiekeambtsdragers.nl
 https://diversiteitsportaal.aofondsrijk.nl
 https://diverswerk.inclusiefwerkt.nl
-https://dj.chm-cbd.net
 https://dji.nl
 https://dji.sitearchief.nl
 https://dk-i.espacenet.com
@@ -5605,7 +5608,6 @@ https://gfportal.test.gf.irealisatie.nl
 https://ggdiamdemo.rivm.nl
 https://ggo-vergunningen.nl
 https://ggo-vergunningverlening.nl
-https://gh.chm-cbd.net
 https://ghis.maps.arcgis.com
 https://gids-backoffice.cloudservices.kb.nl
 https://gids-core.cloudservices.kb.nl
@@ -5740,7 +5742,6 @@ https://gtpa.rvo.nl
 https://gvn-prd.cloudservices.kb.nl
 https://gw.defensie.nl
 https://gwv.maps.arcgis.com
-https://gy.chm-cbd.net
 https://gy.test.chm-cbd.net
 https://haaglanden.databank.nl
 https://haaglanden.leerwerkloket.nl
@@ -6067,7 +6068,6 @@ https://infotrac.galegroup.com.access.authkb.kb.nl
 https://infowms.nl
 https://infra-templates.labs.dans.knaw.nl
 https://infra.cloud.kadaster.nl
-https://infra.status.chm-cbd.net
 https://infra.test.cloud.kadaster.nl
 https://infrabeheer.rvb.rijkscloud.nl
 https://infratemplater.labs.dans.knaw.nl
@@ -6223,9 +6223,7 @@ https://iowadot.maps.arcgis.com
 https://iowgis.maps.arcgis.com
 https://ip.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
-https://ip3.chm-cbd.net
 https://ip4.rijkscloud.nl
-https://ip5.chm-cbd.net
 https://ip6.rijkscloud.nl
 https://ipi.rijkscloud.nl
 https://ipkd-orders.rijksapplicaties.nl
@@ -6318,7 +6316,6 @@ https://jirafunctionapp.pbl.nl
 https://jiraimg-acc.rvo.nl
 https://jiraimg.rvo.nl
 https://jmopendata.cbs.nl
-https://jo.chm-cbd.net
 https://jobcoaching-acc.uwv.nl
 https://jobs.werkenvoornederland.nl
 https://join.odijmond.nl
@@ -6906,7 +6903,6 @@ https://lp-i.espacenet.com
 https://lp.espacenet.com
 https://lpg-handboek-oe5wphnfuua.rdw.nl
 https://lpg-handboek.rdw.nl
-https://lr.chm-cbd.net
 https://lrs.proeftuin.gf.irealisatie.nl
 https://lrs.test.gf.irealisatie.nl
 https://lt-i.espacenet.com
@@ -8688,7 +8684,6 @@ https://production-new.nba.nl
 https://production-pe.nba.nl
 https://production.cea.nl
 https://production.nba.nl
-https://production.status.chm-cbd.net
 https://productontwikkeling-acc.cbr.nl
 https://productontwikkeling-tst.cbr.nl
 https://productontwikkeling.cbr.nl
@@ -8746,6 +8741,7 @@ https://proto.zorginzicht.nl
 https://protocol.mfaservices.nl
 https://prototype.cibg.nl
 https://provenance.dev.huc.knaw.nl
+https://ps.chm-cbd.net
 https://ps.test.chm-cbd.net
 https://ps1.platformrijksoverheid.nl
 https://ps2.platformrijksoverheid.nl
@@ -9381,7 +9377,6 @@ https://securetest.vechtstromen.nl
 https://securetransfer.rijkscloud.nl
 https://security.ndw.nu
 https://securityservice.secure.cito.nl
-https://seed.status.chm-cbd.net
 https://seg.bij.hetcak.nl
 https://sekswerkgoedgeregeld.nl
 https://selfservice.onderzoeksraad.nl
@@ -9938,7 +9933,6 @@ https://tbadmin.dev.kvk.nl
 https://tbadmin.kvk.nl
 https://tbadmin.npo.kvk.nl
 https://tcw.rdw.nl
-https://td.chm-cbd.net
 https://tdportal.raadvanstate.nl
 https://tea.bigregister.nl
 https://teamcity.dev.huc.knaw.nl

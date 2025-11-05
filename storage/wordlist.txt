@@ -502,6 +502,7 @@ dashboards
 dashboards.test
 jeugdmonitor
 micollab
+ps
 redactie-acc
 research
 seg
@@ -1891,7 +1892,6 @@ oosweb
 oto
 overzicht
 politieopendata
-ps
 qbes
 redactie-test
 revproxy
@@ -6932,6 +6932,7 @@ ca.prod
 cd
 cd.test
 cg
+cm.test
 demo.test
 dj
 et
