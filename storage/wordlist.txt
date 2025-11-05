@@ -562,6 +562,7 @@ inloggen-preprod
 loket-preprod
 workspace
 cjib
+pkio
 vt-mijn
 ediensten
 statistics
@@ -2618,7 +2619,6 @@ hip
 huurprijscheck
 mail-a
 next
-pkio
 pkioverheid
 plantool
 s.checkjeprijs
@@ -6982,6 +6982,7 @@ zw.test
 104-47-169-195
 105-47-169-195
 106-47-169-195
+107-47-169-195
 108-47-169-195
 109-47-169-195
 110-47-169-195
@@ -7031,6 +7032,7 @@ zw.test
 156-47-169-195
 157-47-169-195
 159-47-169-195
+161-47-169-195
 162-47-169-195
 163-47-169-195
 164-47-169-195
@@ -7048,6 +7050,7 @@ zw.test
 176-47-169-195
 177-47-169-195
 178-47-169-195
+179-47-169-195
 180-47-169-195
 21-47-169-195
 23-47-169-195
@@ -7077,6 +7080,7 @@ zw.test
 49-47-169-195
 50-47-169-195
 51-47-169-195
+52-47-169-195
 53-47-169-195
 54-47-169-195
 56-47-169-195
@@ -7086,8 +7090,10 @@ zw.test
 60-47-169-195
 61-47-169-195
 62-47-169-195
+65-47-169-195
 66-47-169-195
 67-47-169-195
+68-47-169-195
 69-47-169-195
 70-47-169-195
 71-47-169-195
@@ -7096,6 +7102,7 @@ zw.test
 74-47-169-195
 75-47-169-195
 76-47-169-195
+77-47-169-195
 78-47-169-195
 79-47-169-195
 80-47-169-195
@@ -7107,11 +7114,13 @@ zw.test
 87-47-169-195
 88-47-169-195
 89-47-169-195
+90-47-169-195
 91-47-169-195
 92-47-169-195
 93-47-169-195
 94-47-169-195
 95-47-169-195
+96-47-169-195
 97-47-169-195
 98-47-169-195
 99-47-169-195
@@ -7165,6 +7174,7 @@ bovenschoolserapportage-a.secure
 bovenschoolserapportage-o
 bovenschoolserapportage-t
 bovenschoolserapportage
+breed-lb-vo
 cas-basispoort
 centraalexamen
 cfgcmg
@@ -7173,7 +7183,9 @@ citoconnect-a
 citoconnect
 citocountingservice-a.secure
 citocountingservice.secure
+citotoets
 cluster2-proeftoets
+coe
 connect-test
 constructieplatform-a
 constructieplatform-t
@@ -7184,6 +7196,7 @@ cookie-proxy-t
 cookie-proxy
 cspe-app
 design-system
+digitaletoetsen-po
 doorstroomtoets-las-a
 doorstroomtoets-las-o
 doorstroomtoets-las-t
@@ -7201,6 +7214,7 @@ gebruikersbeheer-a
 gebruikersbeheer-o
 gebruikersbeheer-t
 gebruikersbeheer
+geoblock-test
 groeimeter-a
 groeimeter-o
 groeimeter-t
@@ -7251,8 +7265,13 @@ licenties-o
 licenties-t
 licenties
 lika-basispoort
+lovsklantlicenties.secure
 luistertoets
+next.preview
 nl-a
+nt2-vb-beo-spreken.secure
+nt2
+paborapportage.secure
 papdig-toets3
 pmds-a
 pmds-o
@@ -7265,17 +7284,23 @@ qti-groeimeter-a
 qti-groeimeter-o
 qti-groeimeter-t
 qti-groeimeter
+questifyltiprovider.secure
+questifyplannerapi-o.secure
 questifyplannerapi-t.secure
 questifyplannerapi
 rapportagecvvo-a
 rapportagecvvo
 rapportagelibvo-a
 rapportagelibvo
+ravas-a.secure
+ravas.secure
 rekentoetsvo
 ret-a.secure
 screeningslijst-a
 securedownload
+securityservice-a.secure
 securityservice.secure
+so-regulier-proeftoets
 testplanner.secure
 testreporter-a.secure
 testreporter.secure
@@ -7303,6 +7328,7 @@ visualisatieservice-t
 visualisatieservice
 volgsysteem-configuratie.secure
 volgsysteem-qti37-player-cache
+volgsysteem-schoolmanagement
 wolf
 wolf.secure
 www.academy

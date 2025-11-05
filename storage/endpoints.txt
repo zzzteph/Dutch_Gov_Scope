@@ -2,9 +2,12 @@ http://0015774-monroe-armour-roundabout-gdot.hub.arcgis.com
 http://04272011-noaa.hub.arcgis.com
 http://2ffiber-palo-alto.hub.arcgis.com
 http://2fgis-awwu.hub.arcgis.com
+http://38-47-169-195.cito.nl
 http://45-47-169-195.cito.nl
 http://59-47-169-195.cito.nl
+http://61-47-169-195.cito.nl
 http://66-47-169-195.cito.nl
+http://72-47-169-195.cito.nl
 http://78-47-169-195.cito.nl
 http://88-47-169-195.cito.nl
 http://AutoDiscover.hdsr.nl
@@ -260,6 +263,7 @@ http://chargerrecommendation-dcgis.hub.arcgis.com
 http://checkout-tst.ind.nl
 http://circulaire-economie.ser.nl
 http://citavista.databank.nl
+http://citotoets.cito.nl
 http://city-of-taylor-open-data-mallard.hub.arcgis.com
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
@@ -278,6 +282,7 @@ http://cname-visitor-waterbenchmark-org.databank.nl
 http://cname-www-waterbenchmark-org.databank.nl
 http://cname-zeelandscan.databank.nl
 http://coalitieakkoord.zuid-holland.nl
+http://coe.cito.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://covid-19-test-to-treat-locator-dhhs.hub.arcgis.com
@@ -318,6 +323,7 @@ http://developer.rvo.nl
 http://diagrams.at.rws.nl
 http://dialin.nba.nl
 http://digitaleoverheid.stelselcatalogus.nl
+http://digitaletoetsen-po.cito.nl
 http://digitalnorthsea.eu
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
@@ -556,6 +562,7 @@ http://noaa.maps.arcgis.com
 http://npkd.nl
 http://ns.huc.knaw.nl
 http://nsl-monitoring.rivm.nl
+http://nt2.cito.nl
 http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
 http://nzrdashboard.vzinfo.nl
@@ -623,7 +630,6 @@ http://portal.knaw.nl
 http://post.nieuwesluisterneuzen.eu
 http://pre-dpia.huc.knaw.nl
 http://preprod.bvd.logius.nl
-http://preview-t.cito.nl
 http://preview.wegwijzer.overheid.nl
 http://privilege.huc.knaw.nl
 http://prod.flevoland.nl
@@ -698,6 +704,7 @@ http://samenwerkruimten.belastingdienst.nl
 http://sat.irealisatie.nl
 http://scf-mqtt.tno.nl
 http://schemas.kvk.nl
+http://screeningslijst-a.cito.nl
 http://search.developer.overheid.nl
 http://search.rivm.nl
 http://sec01.dans.knaw.nl
@@ -804,6 +811,7 @@ http://test3.isis-web.nl
 http://testconn.knmi.nl
 http://testconn.rivm.nl
 http://thuisindecitotoets.cito.nl
+http://tiaplus.cito.nl
 http://tickets.bdmuseum.nl
 http://tiledimageservices.arcgis.com
 http://toegangtotdeoverheid.nl
@@ -987,6 +995,7 @@ http://www.web.nba.nl
 http://www.web1.nba.nl
 http://www.webtooliso20400.nl
 http://www.wetenschapentechnologie.slo.nl
+http://www1.cito.nl
 http://xelion.cokz.nl
 http://xwd.rws.nl
 http://yum.dans.knaw.nl
@@ -1502,8 +1511,6 @@ https://0x000null.github.io
 https://0x0010.github.io
 https://0x0015.github.io
 https://100aardgasvrijewijken.nl
-https://142-47-169-195.cito.nl
-https://143-47-169-195.cito.nl
 https://16days-nyc.hub.arcgis.com
 https://1map-fcsa.hub.arcgis.com
 https://2-bridges-lancaster-co-scdot.hub.arcgis.com
@@ -1566,7 +1573,6 @@ https://360graden.apps.staatsbosbeheer.nl
 https://360gradena.apps.staatsbosbeheer.nl
 https://360gradent.apps.staatsbosbeheer.nl
 https://360vr.arcgis.com
-https://38-47-169-195.cito.nl
 https://3d-shipwreck-data-viewer-noaa.hub.arcgis.com
 https://3d.kadaster.nl
 https://3d.test.kadaster.nl
@@ -1584,23 +1590,15 @@ https://55plus.datawonen.nl
 https://56-47-169-195.cito.nl
 https://57-47-169-195.cito.nl
 https://5gmobis-ergebnisse-ispace.hub.arcgis.com
-https://61-47-169-195.cito.nl
 https://621082-gdot.hub.arcgis.com
 https://636f6465.summerschool.sh
 https://66wz.meldknop.nl
 https://67-47-169-195.cito.nl
-https://71-47-169-195.cito.nl
 https://710-south-corridor-task-force-lametro.hub.arcgis.com
-https://72-47-169-195.cito.nl
-https://73-47-169-195.cito.nl
-https://74-47-169-195.cito.nl
 https://74zus1y16bzg97w0.svcsdev.arcgis.com
 https://76-47-169-195.cito.nl
 https://79-47-169-195.cito.nl
-https://85-47-169-195.cito.nl
-https://86-47-169-195.cito.nl
 https://93-47-169-195.cito.nl
-https://95-47-169-195.cito.nl
 https://ACC.RD.dictu.nl
 https://Lyncdiscover.lbio.nl
 https://RDSapplications00.svb.nl
@@ -3296,7 +3294,6 @@ https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bouwbesluit.com
 https://bovenschoolserapportage-a.cito.nl
-https://bovenschoolserapportage-a.secure.cito.nl
 https://bovenschoolserapportage-o.cito.nl
 https://bovenschoolserapportage-t.cito.nl
 https://bovenschoolserapportage.cito.nl
@@ -3322,6 +3319,7 @@ https://brba.nl
 https://brdbeheer.rdw.nl
 https://brdcplusrma.rdw.nl
 https://brecht.chadwyck.co.uk.access.authkb.kb.nl
+https://breed-lb-vo.cito.nl
 https://brepolis.net.access.authkb.kb.nl
 https://brevard-gis-open-data-hub-brevardbocc.hub.arcgis.com
 https://bridge-repair-d3p6-scdot.hub.arcgis.com
@@ -5350,7 +5348,6 @@ https://filetransfer.afm.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://filetypevalidator.labs.dans.knaw.nl
-https://fileuploaderservice-a.secure.cito.nl
 https://fileuploaderservice.secure.cito.nl
 https://film.chadwyck.co.uk.access.authkb.kb.nl
 https://filmfonds.nl
@@ -6899,6 +6896,7 @@ https://loonaangifteketen.nl
 https://loopbaanadvies.aofondsrijk.nl
 https://lotos-euros.tno.nl
 https://louisville-metro-opendata-lojic.hub.arcgis.com
+https://lovsklantlicenties.secure.cito.nl
 https://lp-i.espacenet.com
 https://lp.espacenet.com
 https://lpg-handboek-oe5wphnfuua.rdw.nl
@@ -7664,6 +7662,7 @@ https://new.luchtvaartmeteo.nl
 https://new.mijn.knmi.nl
 https://new.one-conference.nl
 https://newsroom.minienw.nl
+https://next.preview.cito.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.cultuurparticipatie.nl
 https://nextcloud.dgdoobi.rijkscloud.nl
@@ -7791,6 +7790,7 @@ https://nrgd.nl
 https://nsgi.nl
 https://nsp-toekomstglb.nl
 https://nt.ndw.nu
+https://nt2-vb-beo-spreken.secure.cito.nl
 https://ntm.ndw.nu
 https://ntm.staging.ndw.nu
 https://nunietzwanger.nl
@@ -8811,10 +8811,12 @@ https://qr-app.rijksapplicaties.nl
 https://qr-app.staging.rijksapplicaties.nl
 https://qti-groeimeter-a.cito.nl
 https://qti-groeimeter-o.cito.nl
+https://qti-groeimeter-t.cito.nl
 https://qti-groeimeter.cito.nl
 https://queeste.huygens.knaw.nl
 https://quest.bodemrichtlijn.nl
 https://questback.politieacademie.nl
+https://questifyltiprovider.secure.cito.nl
 https://questifyplannerapi.cito.nl
 https://quicktelecomscan.nl
 https://qvj.chadwyck.com.access.authkb.kb.nl
@@ -8859,6 +8861,8 @@ https://rapporteurverslavingen.nl
 https://ras-acc.nvwa.nl
 https://ras.nvwa.nl
 https://rastoken.rws.nl
+https://ravas-a.secure.cito.nl
+https://ravas.secure.cito.nl
 https://rb.rvb.rijkscloud.nl
 https://rbbgroep.nl
 https://rbk.rdw.nl
@@ -9346,7 +9350,6 @@ https://scope.nin.knaw.nl
 https://scp.nl
 https://screening-acc.dnb.nl
 https://screening.dnb.nl
-https://screeningslijst-a.cito.nl
 https://sd.chm-cbd.net
 https://sd.di.huc.knaw.nl
 https://sdg.government.nl
@@ -9376,6 +9379,7 @@ https://secureportal.onderzoeksraad.nl
 https://securetest.vechtstromen.nl
 https://securetransfer.rijkscloud.nl
 https://security.ndw.nu
+https://securityservice-a.secure.cito.nl
 https://securityservice.secure.cito.nl
 https://seg.bij.hetcak.nl
 https://sekswerkgoedgeregeld.nl
@@ -10149,7 +10153,6 @@ https://testmonitorwonen.flevoland.nl
 https://testplanner.secure.cito.nl
 https://testplesk01.tno.nl
 https://testreport.rdw.nl
-https://testreporter-a.secure.cito.nl
 https://testreporter.secure.cito.nl
 https://testsiam.minszw.nl
 https://testvfrchart.lvnl.nl
@@ -10180,7 +10183,6 @@ https://thinkwiseprovisioning.cito.nl
 https://thomasbinaghi.github.io
 https://thuisbezorgd.mijnrijkspas.nl
 https://thuiswerken.filmfonds.nl
-https://tiaplus.cito.nl
 https://tib-ivd.nl
 https://tijdelijkdocumentnummeraanvragen.rdw.nl
 https://tijdlijnencovid19.rivm.nl
@@ -10672,6 +10674,7 @@ https://vogcheck.justis.nl
 https://vois.datawonen.nl
 https://volgsysteem-configuratie.secure.cito.nl
 https://volgsysteem-qti37-player-cache.cito.nl
+https://volgsysteem-schoolmanagement.cito.nl
 https://volksgezondheidenzorg.info
 https://volksgezondheidtoekomstverkenning.nl
 https://volkshuisvestingnederland.nl
@@ -12660,7 +12663,6 @@ https://www.zovar.nl
 https://www.zuid-holland.nl
 https://www.zwdelta.nl
 https://www1.cbs.nl
-https://www1.cito.nl
 https://www1.fa.knaw.nl
 https://www1.nationaalarchief.nl
 https://www2.cito.nl

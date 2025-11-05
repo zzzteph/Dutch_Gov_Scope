@@ -514,6 +514,7 @@
 104-47-169-195.cito.nl
 105-47-169-195.cito.nl
 106-47-169-195.cito.nl
+107-47-169-195.cito.nl
 108-47-169-195.cito.nl
 109-47-169-195.cito.nl
 110-47-169-195.cito.nl
@@ -570,6 +571,7 @@
 156-47-169-195.cito.nl
 157-47-169-195.cito.nl
 159-47-169-195.cito.nl
+161-47-169-195.cito.nl
 162-47-169-195.cito.nl
 163-47-169-195.cito.nl
 164-47-169-195.cito.nl
@@ -588,6 +590,7 @@
 176-47-169-195.cito.nl
 177-47-169-195.cito.nl
 178-47-169-195.cito.nl
+179-47-169-195.cito.nl
 180-47-169-195.cito.nl
 1map-fcsa.hub.arcgis.com
 2-bridges-lancaster-co-scdot.hub.arcgis.com
@@ -695,6 +698,7 @@
 4hclub-k12.hub.arcgis.com
 50-47-169-195.cito.nl
 51-47-169-195.cito.nl
+52-47-169-195.cito.nl
 53-47-169-195.cito.nl
 54-47-169-195.cito.nl
 55plus.datawonen.nl
@@ -708,9 +712,11 @@
 62-47-169-195.cito.nl
 621082-gdot.hub.arcgis.com
 636f6465.summerschool.sh
+65-47-169-195.cito.nl
 66-47-169-195.cito.nl
 66wz.meldknop.nl
 67-47-169-195.cito.nl
+68-47-169-195.cito.nl
 69-47-169-195.cito.nl
 70-47-169-195.cito.nl
 71-47-169-195.cito.nl
@@ -721,6 +727,7 @@
 74zus1y16bzg97w0.svcsdev.arcgis.com
 75-47-169-195.cito.nl
 76-47-169-195.cito.nl
+77-47-169-195.cito.nl
 78-47-169-195.cito.nl
 79-47-169-195.cito.nl
 80-47-169-195.cito.nl
@@ -732,11 +739,13 @@
 87-47-169-195.cito.nl
 88-47-169-195.cito.nl
 89-47-169-195.cito.nl
+90-47-169-195.cito.nl
 91-47-169-195.cito.nl
 92-47-169-195.cito.nl
 93-47-169-195.cito.nl
 94-47-169-195.cito.nl
 95-47-169-195.cito.nl
+96-47-169-195.cito.nl
 97-47-169-195.cito.nl
 98-47-169-195.cito.nl
 99-47-169-195.cito.nl
@@ -4262,6 +4271,7 @@ brba.nl
 brdbeheer.rdw.nl
 brdcplusrma.rdw.nl
 brecht.chadwyck.co.uk.access.authkb.kb.nl
+breed-lb-vo.cito.nl
 brepolis.net.access.authkb.kb.nl
 brevard-gis-open-data-hub-brevardbocc.hub.arcgis.com
 bri-olo.belastingdienst.nl
@@ -4870,6 +4880,7 @@ citoconnect-a.cito.nl
 citoconnect.cito.nl
 citocountingservice-a.secure.cito.nl
 citocountingservice.secure.cito.nl
+citotoets.cito.nl
 city-of-akron-leaf-collection-operations-akrongis.hub.arcgis.com
 city-of-bryant-parks-master-plan-update-2022-bryant.hub.arcgis.com
 city-of-burleson-covid19-statistics-bur.hub.arcgis.com
@@ -5133,6 +5144,7 @@ codesharing.arcgis.com
 codex.knmi.nl
 codexalimentarius.nl
 codingguild.tno.nl
+coe.cito.nl
 cogemjaarverslag.net
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
@@ -6236,6 +6248,7 @@ digital.scp.nl
 digitalenoordzee.nl
 digitaleoverheid.nl
 digitaleoverheid.stelselcatalogus.nl
+digitaletoetsen-po.cito.nl
 digitalforensics.huygens.knaw.nl
 digitalnorthsea.eu
 digitalnorthsea.nl
@@ -8063,6 +8076,7 @@ geoapl.devops.rvb.rijkscloud.nl
 geoapps.hhdelfland.nl
 geoappstest.hhdelfland.nl
 geobasisregistraties.nl
+geoblock-test.cito.nl
 geobs.kadaster.nl
 geocode-api.arcgis.com
 geocode-ls.arcgis.com
@@ -10619,6 +10633,7 @@ loonaangifteketen.nl
 loopbaanadvies.aofondsrijk.nl
 lotos-euros.tno.nl
 louisville-metro-opendata-lojic.hub.arcgis.com
+lovsklantlicenties.secure.cito.nl
 lp-i.espacenet.com
 lp.espacenet.com
 lpc-o-az1.elastic.lpc.logius.nl
@@ -12253,6 +12268,7 @@ new.one-conference.nl
 newsroom.minienw.nl
 newton-open-geo-data-newtonmagis.hub.arcgis.com
 next.huurcommissie.nl
+next.preview.cito.nl
 nextcloud.acc.irealisatie.nl
 nextcloud.cultuurparticipatie.nl
 nextcloud.dgdoobi.rijkscloud.nl
@@ -12528,6 +12544,8 @@ nsp-toekomstglb.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
 nt.ndw.nu
+nt2-vb-beo-spreken.secure.cito.nl
+nt2.cito.nl
 ntm.ndw.nu
 ntm.staging.ndw.nu
 ntp.odc-noord.nl
@@ -13379,6 +13397,7 @@ pa-a.politieacademie.nl
 paas-portal-gn3.odc-noord.nl
 paas-portal.odc-noord.nl
 pablofurt.github.io
+paborapportage.secure.cito.nl
 pacemweb.nl
 packaging.arcgis.com
 packaging.labs.dans.knaw.nl
@@ -13897,6 +13916,7 @@ pki-g2.kvk.nl
 pki.dnb.nl
 pki.parlement.nl
 pki.rechtspraak.nl
+pkio.cito.nl
 pkio.huurcommissie.nl
 pkio.intpatch.omgevingswet.overheid.nl
 pkio.service.acc.omgevingswet.overheid.nl
@@ -14704,6 +14724,8 @@ quality-time.devops.rvb.rijkscloud.nl
 queeste.huygens.knaw.nl
 quest.bodemrichtlijn.nl
 questback.politieacademie.nl
+questifyltiprovider.secure.cito.nl
+questifyplannerapi-o.secure.cito.nl
 questifyplannerapi-t.secure.cito.nl
 questifyplannerapi.cito.nl
 quickcapture.arcgis.com
@@ -14782,6 +14804,8 @@ rat.belastingdienst.nl
 rathenau.idp.knaw.nl
 rav-fw.naktuinbouw.nl
 rav.rdw.nl
+ravas-a.secure.cito.nl
+ravas.secure.cito.nl
 ravib-ng.odc-noord.nl
 ravib.so.rijkscloud.nl
 raw-data-multiplier-aid-triggers-incoming-actuator.incoming.test.vm-04.azure.grid.rws.nl
@@ -15779,6 +15803,7 @@ secureportal.onderzoeksraad.nl
 securetest.vechtstromen.nl
 securetransfer.rijkscloud.nl
 security.ndw.nu
+securityservice-a.secure.cito.nl
 securityservice.secure.cito.nl
 securityzkh.nctv.nl
 seed.status.chm-cbd.net
@@ -16261,6 +16286,7 @@ sniv.osiris.rivm.nl
 snow-cw.dictu.nl
 snow.afm.nl
 snuffle.org
+so-regulier-proeftoets.cito.nl
 soap.acc1.machtigen.digid.nl
 soap.acc2.machtigen.digid.nl
 soap.acc3.machtigen.digid.nl
@@ -18425,6 +18451,7 @@ voi.brabant.nl
 vois.datawonen.nl
 volgsysteem-configuratie.secure.cito.nl
 volgsysteem-qti37-player-cache.cito.nl
+volgsysteem-schoolmanagement.cito.nl
 volksgezondheidenzorg.info
 volksgezondheidtoekomstverkenning.nl
 volkshuisvestingnederland.nl
