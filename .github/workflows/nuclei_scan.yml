@@ -16,5 +16,5 @@ jobs:
       - name: Scan with nuclei
         id: latest_scope
         run: |
-          docker run -v "$PWD:/data" --rm projectdiscovery/nuclei -l /data/storage/endpoints.txt -t http/exposures/configs/
+          docker run -v "$PWD:/data" --rm projectdiscovery/nuclei -nh -mhe 5 -l /data/storage/endpoints.txt -t http/exposures/configs/ -severity medium,high,critical
 
