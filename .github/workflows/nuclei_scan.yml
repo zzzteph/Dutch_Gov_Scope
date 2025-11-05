@@ -6,7 +6,7 @@ on:
 
 
 jobs:
-  update-scope:
+  nuclei-scan:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,4 +16,5 @@ jobs:
       - name: Scan with nuclei
         id: latest_scope
         run: |
-          docker run --rm projectdiscovery/nuclei -u google.com -jsonl
+          docker run --rm projectdiscovery/nuclei -l storage/endpoints.txt -t http/exposures/configs/
+
