@@ -53,6 +53,12 @@ jobs:
           echo "LATEST_SCOPE_NAME=$LATEST_SCOPE_NAME" >> $GITHUB_ENV
           echo "LATEST_SCOPE_TYPE=$LATEST_SCOPE_TYPE" >> $GITHUB_ENV
 
+      - name: Notify
+        if: env.LATEST_SCOPE_NAME != ''
+        run: |
+          python engine/send_tg_scan_start_message.py ${{ env.LATEST_SCOPE_NAME }}
+
+
 
       - name: Run Subfinder (120s)
         if: env.LATEST_SCOPE_NAME != ''
