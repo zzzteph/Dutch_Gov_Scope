@@ -3,7 +3,6 @@ http://embraceintranet.flevoland.nl
 http://geo2.flevoland.nl
 http://int-prod-01.flevoland.nl
 http://prod.flevoland.nl
-http://test-intranet.flevoland.nl
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
 https://adfs.flevoland.nl
@@ -25,19 +24,19 @@ https://esb-ibabs.flevoland.nl
 https://esb-preprod.flevoland.nl
 https://esb.flevoland.nl
 https://eula.flevoland.nl
-https://evserver1.flevoland.nl
 https://exchange.flevoland.nl
+https://flair-demo.flevoland.nl
 https://flevoland.nl
 https://formulieren.flevoland.nl
 https://gensys.flevoland.nl
 https://geo.flevoland.nl
+https://geo.poc.flevoland.nl
 https://geo3.flevoland.nl
 https://geodiensten.flevoland.nl
 https://georegister-intern.flevoland.nl
 https://georegister.flevoland.nl
 https://hetverhaalvan.flevoland.nl
 https://historische-luchtfoto.flevoland.nl
-https://id.flevoland.nl
 https://intranet-bestanden.flevoland.nl
 https://intranet.flevoland.nl
 https://jaarverslag2017.flevoland.nl
@@ -48,7 +47,6 @@ https://mbg-proxy.flevoland.nl
 https://mdm.flevoland.nl
 https://meepraten.flevoland.nl
 https://mgt.flevoland.nl
-https://micollab.flevoland.nl
 https://monitorwonen.flevoland.nl
 https://natuurbeheerplan.flevoland.nl
 https://nnn.flevoland.nl
@@ -62,6 +60,7 @@ https://remote.flevoland.nl
 https://rwbg.flevoland.nl
 https://stateninformatie.flevoland.nl
 https://test-cmsintranet.flevoland.nl
+https://test-intranet.flevoland.nl
 https://test.flevoland.nl
 https://testeloket.flevoland.nl
 https://testmdm.flevoland.nl

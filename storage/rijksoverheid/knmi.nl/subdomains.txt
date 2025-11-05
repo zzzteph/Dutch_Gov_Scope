@@ -1,3 +1,4 @@
+acc.dataverkenner.knmi.nl
 acc.mijn.knmi.nl
 acc.spaceweather.knmi.nl
 adaguc-services-geoweb.knmi.nl
@@ -47,6 +48,7 @@ data-seismo-dev.knmi.nl
 data.knmi.nl
 datalab.knmi.nl
 dataplatform.knmi.nl
+dev.dataverkenner.knmi.nl
 developer.dataplatform.knmi.nl
 download.webmail.knmi.nl
 dwo.knmi.nl
@@ -116,6 +118,7 @@ orfeusdev.knmi.nl
 origin.klimaatscenarios-data.knmi.nl
 password-new.knmi.nl
 password.knmi.nl
+preview.api.dataplatform.knmi.nl
 projects.knmi.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
@@ -126,7 +129,6 @@ satarchive.knmi.nl
 scatterometer.knmi.nl
 secu.knmi.nl
 secure.knmi.nl
-sf.knmi.nl
 spaceweather.knmi.nl
 testconn.knmi.nl
 testgeoservices.knmi.nl

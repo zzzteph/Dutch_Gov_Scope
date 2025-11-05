@@ -2,6 +2,7 @@ http://acceptatie.digikoppeling-dcr.cibg.nl
 http://ag-dcr.cibg.nl
 http://publicwebservices-dcr.cibg.nl
 http://stijlgids.cibg.nl
+http://styleguide.cibg.nl
 http://test.digikoppeling.cibg.nl
 https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
@@ -32,16 +33,14 @@ https://content.klopt.cibg.nl
 https://designsystem.cibg.nl
 https://desktop.klopt.cibg.nl
 https://drms.cibg.nl
-https://feeds.cibg.nl
 https://forms.klopt.cibg.nl
 https://lir.cibg.nl
 https://manager.klopt.cibg.nl
 https://meldingen.klopt.cibg.nl
-https://opendata.cibg.nl
 https://portaal.competent.cibg.nl
 https://prototype.cibg.nl
-https://publicwebservices.cibg.nl
 https://survey.cibg.nl
+https://test.publicwebservices.cibg.nl
 https://tmv.cibg.nl
 https://uzipas.lir.cibg.nl
 https://webchat.klopt.cibg.nl

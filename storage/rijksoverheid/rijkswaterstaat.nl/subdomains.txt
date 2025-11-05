@@ -27,10 +27,10 @@ botova.rijkswaterstaat.nl
 crisiswerkplek.rijkswaterstaat.nl
 data-acc.rijkswaterstaat.nl
 data.rijkswaterstaat.nl
+ddapi20-waterwebservices.rijkswaterstaat.nl
 demo-geoservices.rijkswaterstaat.nl
 esb.rijkswaterstaat.nl
 etl.rijkswaterstaat.nl
-feeds.nieuwsbrieven.rijkswaterstaat.nl
 geo.rijkswaterstaat.nl
 geocontroletool.rijkswaterstaat.nl
 geoservices.rijkswaterstaat.nl
@@ -71,7 +71,6 @@ ont.live.werkenbij.rijkswaterstaat.nl
 ont.staging.rijkswaterstaat.nl
 ont.staging.werkenbij.rijkswaterstaat.nl
 open.rijkswaterstaat.nl
-opendata.nieuwsbrieven.rijkswaterstaat.nl
 opleiding.spin2.rijkswaterstaat.nl
 overstroomik.rijkswaterstaat.nl
 prd.web-static.rijkswaterstaat.nl

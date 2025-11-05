@@ -14,7 +14,6 @@ acc-rd.dictu.nl
 acc-saml.rd.2wssl.dictu.nl
 acc.dictu.nl
 acc.fhub.dictu.nl
-acc.gisextern.dictu.nl
 acc.intranet-demo.dictu.nl
 acc.rd.dictu.nl
 acceptatie.digikoppeling.dictu.nl
@@ -24,7 +23,11 @@ acceptatie.rijksweb.digikoppeling.diginetwerk.dictu.nl
 acceptatie.webservices.dictu.nl
 acceptatie.webservices1.dictu.nl
 acceptatie.webservices2.dictu.nl
+anm-acc.dictu.nl
 anoniem.netftp.dictu.nl
+apimgr-acc.dictu.nl
+apiportal-acc.dictu.nl
+apitraffic-acc.dictu.nl
 apps.dictu.nl
 artifact-acc.rd.dictu.nl
 asb.datasluis.dictu.nl

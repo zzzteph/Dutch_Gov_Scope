@@ -1,6 +1,5 @@
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://data-acc.rijkswaterstaat.nl
-http://loket.acceptatie.rijkswaterstaat.nl
 http://meridian.rijkswaterstaat.nl
 http://prs.rijkswaterstaat.nl
 http://tws-esb.rijkswaterstaat.nl
@@ -18,9 +17,9 @@ https://bezoekerscentrum.rijkswaterstaat.nl
 https://bmm2016.rijkswaterstaat.nl
 https://botova.rijkswaterstaat.nl
 https://crisiswerkplek.rijkswaterstaat.nl
+https://ddapi20-waterwebservices.rijkswaterstaat.nl
 https://esb.rijkswaterstaat.nl
 https://etl.rijkswaterstaat.nl
-https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://geo.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
@@ -28,6 +27,7 @@ https://innovatieloket-acc.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl
 https://innovatieloket.rijkswaterstaat.nl
 https://klimaateffectatlas.rijkswaterstaat.nl
+https://loket.acceptatie.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://m.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
@@ -35,7 +35,6 @@ https://mars.rijkswaterstaat.nl
 https://mks.esb.rijkswaterstaat.nl
 https://nieuwsbrieven.rijkswaterstaat.nl
 https://open.rijkswaterstaat.nl
-https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opleiding.spin2.rijkswaterstaat.nl
 https://overstroomik.rijkswaterstaat.nl
 https://preprod.iam.rijkswaterstaat.nl

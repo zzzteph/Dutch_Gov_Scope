@@ -5,11 +5,13 @@ acc.cerberus.cbs.nl
 accebms.cbs.nl
 acceptatie.cbs.nl
 accounts.cbs.nl
+adc-aer-p.cbs.nl
 adc.cbs.nl
 adc2.cbs.nl
 adc3.cbs.nl
 adc4.cbs.nl
 adc5.cbs.nl
+adc6.cbs.nl
 adc7.cbs.nl
 afasmail.cbs.nl
 afspraken.cbs.nl
@@ -26,6 +28,7 @@ beo.cbs.nl
 bestandslevering.cbs.nl
 beta-dataportal.cbs.nl
 beta-iv3-controle.cbs.nl
+beta-odata4.cbs.nl
 beta.cbs.nl
 beta.opendata.cbs.nl
 betalinkeddata.cbs.nl
@@ -40,15 +43,16 @@ cati-lt.cbs.nl
 cbs.cbs.nl
 cbs.nl
 cdn.cbs.nl
+cebustaheerlen.cbs.nl
 censushub.cbs.nl
 cerberus.cbs.nl
-chat.cbs.nl
 claircitydata.cbs.nl
 cn.cbs.nl
 content.cbs.nl
 content1.cbs.nl
 contentadapter.cbs.nl
 dashboards.cbs.nl
+dashboards.prev.cbs.nl
 dashboards.test.cbs.nl
 databestanden.cbs.nl
 dataderden.cbs.nl
@@ -80,7 +84,6 @@ highcharts-acc.cbs.nl
 highcharts-test.cbs.nl
 highcharts.cbs.nl
 historisch.cbs.nl
-historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
 hybridexo.cbs.nl
 ihg.cbs.nl
@@ -160,6 +163,7 @@ sdmx.cbs.nl
 seg.cbs.nl
 sftp.cbs.nl
 sftp.test.cbs.nl
+sftp4dummies.cbs.nl
 smartsurveys.cbs.nl
 ssh.cbs.nl
 statline.cbs.nl
@@ -177,6 +181,7 @@ test.status.cbs.nl
 tunnel.cbs.nl
 tunnel1.cbs.nl
 uag.cbs.nl
+uitgaven.cbs.nl
 uitwisseling.cbs.nl
 upload.cbs.nl
 videoplatform.cbs.nl

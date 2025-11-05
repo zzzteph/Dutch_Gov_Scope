@@ -29,9 +29,11 @@ algoritme.overheid.nl
 algoritmen.overheid.nl
 algoritmes.overheid.nl
 almanak.overheid.nl
+api-admin.developer.overheid.nl
 api.acc.mijn.overheid.nl
 api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
+api.developer.overheid.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
@@ -55,6 +57,7 @@ artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 asl.omgevingswet.overheid.nl
+auth.developer.overheid.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 bag.acceptatie.basisregistraties.overheid.nl
@@ -202,7 +205,12 @@ emailtemplates.overheid.nl
 enabling.omgevingswet.overheid.nl
 forum.developer.overheid.nl
 ftp.koop.overheid.nl
+gegevensbijbesluiten-acc.overheid.nl
+gegevensbijbesluiten-concept-acc.overheid.nl
 gegevensbijbesluiten-concept.overheid.nl
+gegevensbijbesluiten-inlog-acc.overheid.nl
+gegevensbijbesluiten-inlog.overheid.nl
+gegevensbijbesluiten-redactie-acc.overheid.nl
 gegevensbijbesluiten-redactie.overheid.nl
 gegevensbijbesluiten.overheid.nl
 gegevensdelen.acc.mijn.overheid.nl
@@ -335,6 +343,9 @@ preprod.omgevingswet.overheid.nl
 preprod.zoekdienst.overheid.nl
 preview-eto.overheid.nl
 preview.wegwijzer.overheid.nl
+profiel.acc.mijn.overheid.nl
+profiel.acc1.mijn.overheid.nl
+profiel.acc2.mijn.overheid.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
@@ -386,6 +397,7 @@ smtp1.mijn.overheid.nl
 smtp2.mijn.overheid.nl
 smtp3.mijn.overheid.nl
 smtp4.mijn.overheid.nl
+social-tst.overheid.nl
 social.overheid.nl
 sso.acc.omgevingswet.overheid.nl
 sso.bta.omgevingswet.overheid.nl
@@ -530,7 +542,6 @@ www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.tst2905.omgevingswet.overheid.nl
 zandbak.wegwijzer.overheid.nl
-zoek.overheid.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl
 zoeken.ondernemersplein.overheid.nl

@@ -6,6 +6,7 @@ acc.monumentenregister.cultureelerfgoed.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.subsidie.cultureelerfgoed.nl
 acceptatie.cmis.cultureelerfgoed.nl
+acceptatie.facility.cultureelerfgoed.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 api-gateway.archis.cultureelerfgoed.nl
 api.linkeddata.cultureelerfgoed.nl
@@ -18,8 +19,10 @@ catalogus.cultureelerfgoed.nl
 cultureelerfgoed.nl
 data.cultureelerfgoed.nl
 data.geo.cultureelerfgoed.nl
+datastories.cultureelerfgoed.nl
 english.cultureelerfgoed.nl
 erfgoedmonitor.cultureelerfgoed.nl
+facility.cultureelerfgoed.nl
 faro.cultureelerfgoed.nl
 feeds.cultureelerfgoed.nl
 feeds.english.cultureelerfgoed.nl
@@ -37,6 +40,8 @@ linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.test.cultureelerfgoed.nl
 magazines.cultureelerfgoed.nl
+mail.cultureelerfgoed.nl
+mail.mass.cultureelerfgoed.nl
 mailhog.acc.monumentenregister.cultureelerfgoed.nl
 mass.cultureelerfgoed.nl
 monumentenregister.cultureelerfgoed.nl
@@ -45,7 +50,6 @@ opendata.cultureelerfgoed.nl
 opendata.english.cultureelerfgoed.nl
 oud.cultureelerfgoed.nl
 pom.cultureelerfgoed.nl
-prd.archis.cultureelerfgoed.nl
 preprod.idselect.cultureelerfgoed.nl
 prod.cultureelerfgoed.nl
 services.cultureelerfgoed.nl

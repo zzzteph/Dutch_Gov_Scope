@@ -3,6 +3,7 @@ autodiscover.aaenmaas.nl
 eloket.aaenmaas.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
+gisservicesacc.aaenmaas.nl
 helloid.aaenmaas.nl
 login.aaenmaas.nl
 luchtfoto.aaenmaas.nl
@@ -11,8 +12,8 @@ oa.aaenmaas.nl
 testeloket.aaenmaas.nl
 vpn2.aaenmaas.nl
 wachtwoordwijzigen.aaenmaas.nl
-web.aaenmaas.nl
 webgis.aaenmaas.nl
 webgisacc.aaenmaas.nl
 webmail.aaenmaas.nl
+wik.aaenmaas.nl
 www.aaenmaas.nl

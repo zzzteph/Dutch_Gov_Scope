@@ -1,5 +1,6 @@
 http://autodiscover.vechtstromen.nl
 https://acceptatie-zaaksysteem.vechtstromen.nl
+https://acckaarten.vechtstromen.nl
 https://app.vechtstromen.nl
 https://apps-dev.vechtstromen.nl
 https://apps-tst.vechtstromen.nl
@@ -14,7 +15,6 @@ https://login.vechtstromen.nl
 https://mta-sts.vechtstromen.nl
 https://open.vechtstromen.nl
 https://redactie.vechtstromen.nl
-https://secure.vechtstromen.nl
 https://securetest.vechtstromen.nl
 https://support.vechtstromen.nl
 https://testkaarten.vechtstromen.nl

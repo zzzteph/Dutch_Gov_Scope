@@ -1,7 +1,4 @@
 _dmarc.cibg.nl
-a-feeds.cibg.nl
-a-opendata.cibg.nl
-a-www.cibg.nl
 acc-lrza.services.cibg.nl
 acceptatie.api.kcc.cibg.nl
 acceptatie.applicationframework.cibg.nl
@@ -18,6 +15,7 @@ acceptatie.digikoppeling.cibg.nl
 acceptatie.digikoppeling2.cibg.nl
 acceptatie.drms.cibg.nl
 acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.forms-behandel.isms.cibg.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.portaal.competent.cibg.nl
@@ -52,7 +50,7 @@ digikoppeling2.cibg.nl
 drms.cibg.nl
 eherkenning.services.cibg.nl
 eherkenningtest.services.cibg.nl
-feeds.cibg.nl
+forms-behandel.isms.cibg.nl
 forms.klopt.cibg.nl
 kennissysteem.cibg.nl
 klopt.cibg.nl
@@ -60,13 +58,13 @@ lir.cibg.nl
 lrza.services.cibg.nl
 manager.klopt.cibg.nl
 meldingen.klopt.cibg.nl
-opendata.cibg.nl
 portaal.competent.cibg.nl
 portal.cibg.nl
 prototype.cibg.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
 stijlgids.cibg.nl
+styleguide.cibg.nl
 survey.cibg.nl
 test.cibg.nl
 test.digikoppeling.cibg.nl

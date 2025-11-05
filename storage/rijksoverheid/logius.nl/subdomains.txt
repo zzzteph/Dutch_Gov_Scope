@@ -5,6 +5,7 @@ aansluitsuite.preproductie.digipoort.logius.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
+acc.bvd.logius.nl
 acc.eva.logius.nl
 acc.oinregister.logius.nl
 acpt-machtigen.digipoort.logius.nl
@@ -13,6 +14,7 @@ amp-idp.logius.nl
 amp-pre.logius.nl
 amp.logius.nl
 artifact-rv-pp1.logius.nl
+bc.acc.bvd.logius.nl
 beheerportaal.acceptatie.digipoort.logius.nl
 beheerportaal.digipoort.logius.nl
 beheerportaal.preproductie.digipoort.logius.nl
@@ -48,6 +50,8 @@ dgp-pp-az2.elastic.lpc.logius.nl
 dgp-pp-az2.kibana.lpc.logius.nl
 digipoort.logius.nl
 docs.lpc.logius.nl
+dzbd-pre.logius.nl
+dzbd.logius.nl
 eco-a-az1.elastic.lpc.logius.nl
 eco-a-az1.kibana.lpc.logius.nl
 eco-a-az2.elastic.lpc.logius.nl
@@ -55,6 +59,7 @@ eco-a-az2.kibana.lpc.logius.nl
 eco-p-az1.elastic.lpc.logius.nl
 eco-p-az1.kibana.lpc.logius.nl
 eco-p-az2.elastic.lpc.logius.nl
+eco-p-az2.kibana.lpc.logius.nl
 eva.logius.nl
 gatus.lpc.logius.nl
 gebruikersportaal-duo.acceptatie.digipoort.logius.nl
@@ -76,12 +81,16 @@ git.lpc.logius.nl
 gitdocumentatie.logius.nl
 gm-pre.mev.logius.nl
 gm.mev.logius.nl
+grafana-az1.lpc.logius.nl
+grafana-az2.lpc.logius.nl
 grafana.lpc.logius.nl
 harbor.az1.lpc.logius.nl
 harbor.az2.lpc.logius.nl
 iam-containerplatform-az1.lpc.logius.nl
+iam-containerplatform-az2.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
+idp-dgp.preproductie.digipoort.logius.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
@@ -117,6 +126,8 @@ prod-dictu.logius.nl
 routeringsvoorziening-pp1.logius.nl
 rvmetadata.logius.nl
 sb-dictu.logius.nl
+sonarqube-az1.lpc.logius.nl
+sonarqube-az2.lpc.logius.nl
 sonarqube.lpc.logius.nl
 stelselcatalogus.logius.nl
 svn.logius.nl

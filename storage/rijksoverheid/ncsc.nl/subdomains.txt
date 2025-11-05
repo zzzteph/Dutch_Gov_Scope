@@ -1,4 +1,6 @@
 a-english.ncsc.nl
+acc-dictu.cms.ncsc.nl
+acc-dictu.ncsc.nl
 acc.ncsc.nl
 acs.ncsc.nl
 advisories-acceptatie.ncsc.nl
@@ -11,7 +13,6 @@ api.mijn.ncsc.nl
 api.mijn.test.ncsc.nl
 api.ncsc.nl
 bvpn.ncsc.nl
-charlie.ncsc.nl
 chat.ncsc.nl
 chat2.ncsc.nl
 csaf.data.security.acc.ncsc.nl
@@ -47,8 +48,9 @@ orchestrator.ncsc.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
 securened.ncsc.nl
-securenet.ncsc.nl
 taranis.ncsc.nl
+test-dictu.cms.ncsc.nl
+test-dictu.ncsc.nl
 test.ncsc.nl
 tip.ncsc.nl
 uag.ncsc.nl
