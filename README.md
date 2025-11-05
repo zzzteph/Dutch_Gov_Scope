@@ -54,7 +54,15 @@ curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads
 curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt | ./nuclei -silent -id exposure -severity critical,high
 ```
 
+#### Scanning via Docker
 
+```
+curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt -o endpoints.txt | docker run -v "$PWD:/data" --rm projectdiscovery/nuclei -silent -id geoserver-login-panel
+```
+
+```
+curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt -o endpoints.txt | docker run -v "$PWD:/data" --rm projectdiscovery/nuclei -silent -id exposure -severity critical,high
+```
 
 
 
