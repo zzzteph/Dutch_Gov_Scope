@@ -163,7 +163,6 @@ mijn-acc
 sdm
 dashboard
 repository
-nieuwsbrieven
 developer
 siam
 matomo
@@ -183,6 +182,7 @@ id
 kaarten
 nieuws
 www-test
+outlook
 m365
 password
 sf
@@ -198,6 +198,7 @@ synergy
 sso
 geoweb
 secure
+nieuwsbrieven
 mx2
 iam
 service
@@ -230,7 +231,6 @@ wachtwoord
 conf
 crm
 ebms
-outlook
 status
 a-cms
 catalogus
@@ -7385,14 +7385,11 @@ acc.statistieken
 acceptatie-api
 acceptatie-identity
 cgbs
-coaodc01gp01
 condor
 facturatie-acc
 facturatie
-gp-clientless
 gp-infra
 gp-staging
-gp-tst
 gp
 gp1coajb2
 gp2coajb2

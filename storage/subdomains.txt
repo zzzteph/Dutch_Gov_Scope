@@ -5128,7 +5128,6 @@ coa.nl
 coa.sitearchief.nl
 coachaanmelden.rdw.nl
 coalitieakkoord.zuid-holland.nl
-coaodc01gp01.coa.nl
 coastal-data-hub-theriverstrust.hub.arcgis.com
 coastalcomm.maps.arcgis.com
 coava.meertens.knaw.nl
@@ -8349,10 +8348,8 @@ government.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
 govroam.tweedekamer.nl
-gp-clientless.coa.nl
 gp-infra.coa.nl
 gp-staging.coa.nl
-gp-tst.coa.nl
 gp.coa.nl
 gp1coajb2.coa.nl
 gp2coajb2.coa.nl
@@ -12338,7 +12335,6 @@ nieuwsbrief.wijzeringeldzaken.nl
 nieuwsbrief.zuid-holland.nl
 nieuwsbriefrechtspraak.nl
 nieuwsbrieven.caop.nl
-nieuwsbrieven.coa.nl
 nieuwsbrieven.lexces.nl
 nieuwsbrieven.limburg.nl
 nieuwsbrieven.rijkswaterstaat.nl
@@ -13339,6 +13335,7 @@ outbound.onderwijsraad.nl
 outilevaluationbiosecurite.nl
 outlet.tno.nl
 outlook.cbs.nl
+outlook.coa.nl
 outlook.dnb.nl
 outlook.rvr.org
 outlook.svb.nl

@@ -577,6 +577,7 @@ http://old.visitaties.nl
 http://ont-bestellingen.rivm.nl
 http://ontw.api-samenmeten.rivm.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
+http://oos-p1.coa.nl
 http://oosweb.cbs.nl
 http://open-data-ls-osp-sdg.hub.arcgis.com
 http://opendata.grensdata.eu
@@ -3754,7 +3755,6 @@ https://co2emissiefactoren.nl
 https://coa.nl
 https://coa.sitearchief.nl
 https://coachaanmelden.rdw.nl
-https://coaodc01gp01.coa.nl
 https://coastal-data-hub-theriverstrust.hub.arcgis.com
 https://coastalcomm.maps.arcgis.com
 https://coava.meertens.knaw.nl
@@ -7976,7 +7976,6 @@ https://ontwikkel.machtigen.digid.nl
 https://onzedelta.nl
 https://oofggz.nl
 https://oordelen.mensenrechten.nl
-https://oos-p1.coa.nl
 https://oostvaarderskliniek.nl
 https://opdrachttottenaamstelling.rdw.nl
 https://open-acc.overheid.nl
@@ -8250,6 +8249,7 @@ https://oud.mondriaanfonds.nl
 https://oud.platformrijksoverheidonline.nl
 https://ouders-uit-elkaar.nl
 https://outbound.onderwijsraad.nl
+https://outlook.coa.nl
 https://outlook.svb.nl
 https://output-acc.cbr.nl
 https://output-tst.cbr.nl
@@ -10378,6 +10378,7 @@ https://tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
 https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl
 https://tvep.dictu.nl
 https://tvnooddienst.rdw.nl
+https://tvs.coa.nl
 https://tvs.dictu.nl
 https://tvsimulator.rdw.nl
 https://tweedekamer.acceptatie.tweedekamer.nl

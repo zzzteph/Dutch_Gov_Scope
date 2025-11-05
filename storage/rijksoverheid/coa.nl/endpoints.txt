@@ -1,7 +1,7 @@
+http://oos-p1.coa.nl
 https://acceptatie-identity.coa.nl
 https://autodiscover.coa.nl
 https://coa.nl
-https://coaodc01gp01.coa.nl
 https://condor.coa.nl
 https://dialin.coa.nl
 https://gp-infra.coa.nl
@@ -17,7 +17,7 @@ https://huisstijl.coa.nl
 https://lyncdiscover.coa.nl
 https://meet.coa.nl
 https://nieuws.coa.nl
-https://oos-p1.coa.nl
+https://outlook.coa.nl
 https://sbae19-p1.coa.nl
 https://sbweb15-p1.coa.nl
 https://sbweb15-p2.coa.nl
@@ -26,6 +26,7 @@ https://sbweb19-p2.coa.nl
 https://sip.coa.nl
 https://sipfed.coa.nl
 https://statistieken.coa.nl
+https://tvs.coa.nl
 https://vpn.coa.nl
 https://werkenbij.coa.nl
 https://www.coa.nl
