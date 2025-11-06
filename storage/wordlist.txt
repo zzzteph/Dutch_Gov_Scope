@@ -62,20 +62,20 @@ cdn
 onderzoek
 oud
 auth
+www.acc
 www2
 webdisk
 enterpriseregistration
 webservices
 open
+docs
 dialin
-www.acc
 mail2
 www.test
 maps
 ns2
 old
 beeldbank
-docs
 static
 mdm
 geoservices
@@ -256,6 +256,7 @@ en
 vt
 registry
 extranet
+acc2
 vacatures
 wiki
 productie
@@ -365,7 +366,6 @@ externemail01
 externemail02
 projects
 webaccess
-acc2
 eva
 leren
 zakelijk
@@ -15257,3 +15257,8 @@ publicaties-wvv
 www.csp
 www.platform
 acc.elearning
+docs.acc
+docs.rke2
+rke2
+www.acc2
+www.rke2
