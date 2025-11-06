@@ -53,11 +53,11 @@ remote
 cpanel
 hybrid
 sts
+elearning
 ftp
 accept
 adfs
 services
-elearning
 cdn
 onderzoek
 oud
@@ -15256,3 +15256,4 @@ acceptatie.secure
 publicaties-wvv
 www.csp
 www.platform
+acc.elearning
