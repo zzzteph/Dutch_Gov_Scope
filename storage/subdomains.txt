@@ -3330,6 +3330,7 @@ authorization.ontwikkeling.kadaster.nl
 authorization.test.kadaster.nl
 authpms-acc.dictu.nl
 authpms.dictu.nl
+authuitslagen.coronatest.nl
 auto-ako.bureau.knaw.nl
 autodiscover.3ro.reclassering.nl
 autodiscover.aaenmaas.nl
@@ -5324,6 +5325,7 @@ copreg.rijksapplicaties.nl
 copreg.staging.rijksapplicaties.nl
 core.odmh.nl
 corona.callisto.rivm.nl
+coronacheck.coronatest.nl
 coronadashboard.government.nl
 coronadashboard.rijksoverheid.nl
 coronaonderzoek.onderzoeksraad.nl
@@ -5992,6 +5994,7 @@ dev.collectiefnatuurinclusief.nl
 dev.connect.acm.nl
 dev.consular-service.consular.mfaservices.nl
 dev.consular.mfaservices.nl
+dev.coronatest.nl
 dev.countrydashboard.mfaservices.nl
 dev.crimediggers.nl
 dev.dataverkenner.knmi.nl
@@ -8598,6 +8601,7 @@ hdsr.nl
 hdsr.webgispublisher.nl
 health-api.acc.coronatest.nl
 health-api.acceptatie.coronatest.nl
+health-api.coronatest.nl
 health-api.test.coronatest.nl
 healthcouncil.nl
 helloid.aaenmaas.nl
@@ -9118,6 +9122,7 @@ instellingsinformatie.scha.duo.nl
 instellingsinformatie.scha2.duo.nl
 instroom.belastingdienst.nl
 instrumenten.fysiekebelasting.tno.nl
+insuitslagen.coronatest.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
 int-v.arcgis.com
@@ -14197,6 +14202,7 @@ postergenerator.denkvooruit.nl
 postergenerator.ontdekdezorg.nl
 postmaster.ertms.nl
 postmaster.gemhofvanjustitie.org
+postuitslagen.coronatest.nl
 potn.houseofrepresentatives.nl
 povv-poc.ilent.nl
 powhatancounty.maps.arcgis.com
@@ -18076,6 +18082,7 @@ usar.nl
 use1-geocode-ls.arcgis.com
 user-api.acc.coronatest.nl
 user-api.acceptatie.coronatest.nl
+user-api.coronatest.nl
 user-api.test.coronatest.nl
 usercheck.hetcak.nl
 usernamesalah.github.io
@@ -18152,6 +18159,7 @@ vacaturezoekservice-test.mobiliteitsbank.nl
 vacaturezoekservice-test.werkenbijdeoverheid.nl
 vacaturezoekservice.mobiliteitsbank.nl
 vacaturezoekservice.werkenbijdeoverheid.nl
+vacdev.coronatest.nl
 vad.acc.mgo.irealisatie.nl
 vad.test.mgo.irealisatie.nl
 vademecum.cbr.nl
@@ -19614,6 +19622,7 @@ www.acc-vtlb.rvr.org
 www.acc-windviewer.rvo.nl
 www.acc.auth.binnenvaart.inspectieview.nl
 www.acc.auth.wegvervoer.inspectieview.nl
+www.acc.coronatest.nl
 www.acc.cruksregister.nl
 www.acc.ep-online.nl
 www.acc.grondstoffenscanner.nl
