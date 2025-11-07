@@ -754,6 +754,7 @@ sparql
 externemail03
 externemail04
 rest
+grafana
 ldap
 metabase
 regio
@@ -12046,7 +12047,6 @@ dw
 dwo-t
 edge.webmail
 extbhr
-grafana
 kennisbank-a
 kennisbank-api-a
 kennisbank-api-t

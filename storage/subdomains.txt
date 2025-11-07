@@ -8390,6 +8390,7 @@ grafana-acc.vm-02.azure.grid.rws.nl
 grafana-az1.lpc.logius.nl
 grafana-az2.lpc.logius.nl
 grafana-test.vm-02.azure.grid.rws.nl
+grafana.cruksregister.nl
 grafana.extern.minszw.nl
 grafana.ix.rijkscloud.nl
 grafana.lpc.logius.nl
