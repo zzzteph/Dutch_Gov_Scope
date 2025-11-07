@@ -185,7 +185,6 @@ www-test
 outlook
 m365
 password
-sf
 formulier
 cms2
 acc.mijn
@@ -233,6 +232,7 @@ crm
 ebms
 status
 a-cms
+sf
 catalogus
 share
 cms1
@@ -751,6 +751,8 @@ acc.www
 develop
 playground
 sparql
+externemail03
+externemail04
 rest
 ldap
 metabase
@@ -7452,7 +7454,6 @@ www.vragen
 ad-ldap
 airwatch-gw
 cpb-adprx-l01p-ext
-cpb-mail-l01p
 cpb-mail-l02p
 cpb-xtweb-l01p
 irc
@@ -13132,8 +13133,6 @@ eurgen-net
 ewrs
 expertrolesqsort
 externemail.test
-externemail03
-externemail04
 ezips-app
 ezips
 filesender01

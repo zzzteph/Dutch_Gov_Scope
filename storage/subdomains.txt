@@ -5396,7 +5396,6 @@ cpanel.summercourt.nl
 cpapps.belastingdienst.nl
 cparegister.nl
 cpb-adprx-l01p-ext.cpb.nl
-cpb-mail-l01p.cpb.nl
 cpb-mail-l02p.cpb.nl
 cpb-xtweb-l01p.cpb.nl
 cpb.nl
@@ -7353,7 +7352,9 @@ externemail01.rivm.nl
 externemail02.cpb.nl
 externemail02.knmi.nl
 externemail02.rivm.nl
+externemail03.cpb.nl
 externemail03.rivm.nl
+externemail04.cpb.nl
 externemail04.rivm.nl
 externemailsaas.knmi.nl
 externemailsaas.rivm.nl
@@ -15975,7 +15976,6 @@ setuppw.ictu.nl
 seveso-plus.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
-sf.cpb.nl
 sf.ctgb.nl
 sf.pbl.nl
 sf.rivm.nl

@@ -3,7 +3,6 @@ airwatch-gw.cpb.nl
 autodiscover.cpb.nl
 confluence.cpb.nl
 cpb-adprx-l01p-ext.cpb.nl
-cpb-mail-l01p.cpb.nl
 cpb-mail-l02p.cpb.nl
 cpb-xtweb-l01p.cpb.nl
 cpb.nl
@@ -12,9 +11,10 @@ dwo.cpb.nl
 externemail.cpb.nl
 externemail01.cpb.nl
 externemail02.cpb.nl
+externemail03.cpb.nl
+externemail04.cpb.nl
 fed.cpb.nl
 fs.cpb.nl
 m365.cpb.nl
 mail.cpb.nl
-sf.cpb.nl
 www.cpb.nl
