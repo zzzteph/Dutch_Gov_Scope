@@ -513,7 +513,6 @@ http://meet.nba.nl
 http://meridian.rijkswaterstaat.nl
 http://meridian.rws.nl
 http://merkportaal.dnb.nl
-http://metabase.cultuurparticipatie.nl
 http://metabase.rdosecurity.nl
 http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
@@ -7228,6 +7227,7 @@ https://merkportaal.e-tol.nl
 https://merkportaal.kb.nl
 https://merkportaal.staatsbosbeheer.nl
 https://mestobb.maps.arcgis.com
+https://metabase.cultuurparticipatie.nl
 https://metadata-refiner.labs.dans.knaw.nl
 https://metadata.maptiles.arcgis.com
 https://metadata.stelselcatalogus.nl

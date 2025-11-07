@@ -1,5 +1,4 @@
 http://autodiscover.cultuurparticipatie.nl
-http://metabase.cultuurparticipatie.nl
 https://aims.cultuurparticipatie.nl
 https://airbyte.cultuurparticipatie.nl
 https://ambitie.cultuurparticipatie.nl
@@ -25,6 +24,7 @@ https://ldap.cultuurparticipatie.nl
 https://links.cultuurparticipatie.nl
 https://mastodon.cultuurparticipatie.nl
 https://mautic.cultuurparticipatie.nl
+https://metabase.cultuurparticipatie.nl
 https://nextcloud.cultuurparticipatie.nl
 https://office.cultuurparticipatie.nl
 https://patatjepinda.cultuurparticipatie.nl
