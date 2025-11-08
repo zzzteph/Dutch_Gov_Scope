@@ -7526,8 +7526,10 @@ beta-duurzamemobiliteit
 beta-ebc
 beta-ftgelderland
 beta-gdi
+beta-hsw
 beta-kis
 beta-klimaatbeleid
+beta-klimaatmonitor
 beta-laadinfrastructuur
 beta-mobiliteitsregelingen
 beta-nbtc
@@ -7543,6 +7545,7 @@ cbc
 cbc2
 citavista
 ciz
+ciz1
 cname-adc
 cname-benchmarkonderwijs
 cname-benchmarkpovo
@@ -7558,6 +7561,7 @@ cname-www-waterbenchmark-org
 cname-zeelandscan
 crow
 crowlogin
+dcmr
 demo-ebc
 demo-veiligheidsmonitor
 demo-vgm
@@ -7566,6 +7570,7 @@ dgstat
 diversiteitsindex
 drentsklimaat
 dth.hermes
+duurzaamdcmr
 duurzamemobiliteit
 ebc
 elektrischvervoer
@@ -7586,11 +7591,14 @@ holland-rijnland
 horecadna
 horizon
 hr-sectorwaterschappen
+ijssellandscan
+ikob
 impactmonitortoerisme
 ivm11
 jeugdengezin
 klimaatbeleid
 klimaatmonitor
+kso2011
 laadinfrastructuur
 lcp
 limburg
@@ -7602,7 +7610,9 @@ mbotransparant
 mee
 mobis
 mre
+mvb
 nabb
+nbtc
 nederlandschoon
 noordholland
 omz
@@ -7616,14 +7626,17 @@ personeelsmonitor
 primosinteractief
 primostijdreeks
 prognosemodelzw
+prognoses
 pzh
 ret
 senternovem
 sre-wmo
 staatvanbrabant
 staatvanutrecht
+test-mbotransparant
 test-prognosemodelzw
 veiligheidsmonitor
+veiligheidsmonitor2012-2019
 velsen
 vgm-demo
 vivet

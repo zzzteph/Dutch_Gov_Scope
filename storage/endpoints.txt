@@ -218,16 +218,11 @@ http://beeldenvanderaad.nl
 http://beeldverhalen.staatsbosbeheer.nl
 http://benchmarkpovo.databank.nl
 http://besloten-nba-acc.nba.nl
-http://beta-adc.databank.nl
-http://beta-aisnbtc.databank.nl
 http://beta-beslotenwaves.databank.nl
 http://beta-dataportal.cbs.nl
 http://beta-ftgelderland.databank.nl
-http://beta-gdi.databank.nl
+http://beta-hsw.databank.nl
 http://beta-kis.databank.nl
-http://beta-klimaatbeleid.databank.nl
-http://beta-nbtc.databank.nl
-http://beta-noordholland.databank.nl
 http://beta-odata4.cbs.nl
 http://beta-velsen.databank.nl
 http://beta-waves.databank.nl
@@ -452,6 +447,7 @@ http://kibana.lpc.logius.nl
 http://kim.omgevingswet.overheid.nl
 http://koppelvlak.overheid.nl
 http://kosteneffectiviteit-preventie.rivm.nl
+http://kso2011.databank.nl
 http://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie.proeftuin.gf.irealisatie.nl
@@ -784,6 +780,7 @@ http://test-cms-eef.waterschaplimburg.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
 http://test-machtigen.digipoort.logius.nl
+http://test-mbotransparant.databank.nl
 http://test-website.rvo.nl
 http://test-wijser.ser.nl
 http://test.alexandria.huygens.knaw.nl
@@ -3131,12 +3128,19 @@ https://bestelloket.qs.kadaster.nl
 https://bestpracticesleidraad.nl
 https://bestrijdingsmiddelen-omwonenden.nl
 https://bestuurlijkeweerbaarheid.kennisplatformondermijning.nl
+https://beta-adc.databank.nl
+https://beta-aisnbtc.databank.nl
 https://beta-berst.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://beta-ebc.databank.nl
+https://beta-gdi.databank.nl
 https://beta-iv3-controle.cbs.nl
+https://beta-klimaatbeleid.databank.nl
+https://beta-klimaatmonitor.databank.nl
 https://beta-laadinfrastructuur.databank.nl
 https://beta-mobiliteitsregelingen.databank.nl
+https://beta-nbtc.databank.nl
+https://beta-noordholland.databank.nl
 https://beta-vivet.databank.nl
 https://beta-wsjg.databank.nl
 https://beta.belastingdienst.nl
@@ -4217,6 +4221,7 @@ https://dcm-dev.vfpf.nl
 https://dcm-tst.vfpf.nl
 https://dcm.vfpf.nl
 https://dcmp-upnl-idp.rvo.nl
+https://dcmr.databank.nl
 https://dcp-time-slot.cbg-meb.nl
 https://dcypher.nl
 https://ddapi-wkp.rws.nl
@@ -4658,6 +4663,7 @@ https://dutchdubai.com
 https://dutchncca.nl
 https://dutchoffshorewindatlas.nl
 https://dutchrapporteur.nl
+https://duurzaamdcmr.databank.nl
 https://duurzaamdoor.nl
 https://duurzame-infra.nl
 https://duurzamecatering.voedingscentrum.nl
@@ -5998,9 +6004,11 @@ https://ih-static.rvo.nl
 https://ihg.cbs.nl
 https://iinterimrijk.nl
 https://iiz.staging.rijksapplicaties.nl
+https://ijssellandscan.databank.nl
 https://ikbenhandelaar.nl
 https://iknowcimow.acc.omgevingswet.overheid.nl
 https://iknowcimow.tst.omgevingswet.overheid.nl
+https://ikob.databank.nl
 https://ikp-ota.waterschaplimburg.nl
 https://ikp.waterschaplimburg.nl
 https://ikvermoedhuiselijkgeweld.nl
@@ -7615,6 +7623,7 @@ https://nb.voedingscentrum.nl
 https://nba.nl
 https://nbso-brazil.com.br
 https://nbso-texas.com
+https://nbtc.databank.nl
 https://nc-a.rvb.rijkscloud.nl
 https://nc-openbaar.vallei-veluwe.nl
 https://nc.rivm.rijkscloud.nl
@@ -8722,6 +8731,7 @@ https://profgeodata.dynamic.basisinformatie-overstromingen.nl
 https://profgeodata.static.basisinformatie-overstromingen.nl
 https://profiles.werkenbijdefensie.nl
 https://prognosemodelzw.databank.nl
+https://prognoses.databank.nl
 https://programma-uned.nl
 https://programmavivet.nl
 https://project.cultuurparticipatie.nl
@@ -10560,6 +10570,7 @@ https://veiligbestandenversturen.ciz.nl
 https://veiligepubliekedienstverlening.nl
 https://veiligheidsberaad.nl
 https://veiligheidsmonitor.databank.nl
+https://veiligheidsmonitor2012-2019.databank.nl
 https://veiligheidsregioflevoland.nl
 https://veiligmailen.flevoland.nl
 https://veiligmailen.raadvoorrechtsbijstand.org

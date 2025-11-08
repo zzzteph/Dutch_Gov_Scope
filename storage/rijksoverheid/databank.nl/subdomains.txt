@@ -22,8 +22,10 @@ beta-duurzamemobiliteit.databank.nl
 beta-ebc.databank.nl
 beta-ftgelderland.databank.nl
 beta-gdi.databank.nl
+beta-hsw.databank.nl
 beta-kis.databank.nl
 beta-klimaatbeleid.databank.nl
+beta-klimaatmonitor.databank.nl
 beta-laadinfrastructuur.databank.nl
 beta-mobiliteitsregelingen.databank.nl
 beta-nbtc.databank.nl
@@ -39,6 +41,7 @@ cbc.databank.nl
 cbc2.databank.nl
 citavista.databank.nl
 ciz.databank.nl
+ciz1.databank.nl
 cname-adc.databank.nl
 cname-benchmarkonderwijs.databank.nl
 cname-benchmarkpovo.databank.nl
@@ -55,6 +58,7 @@ cname-zeelandscan.databank.nl
 crow.databank.nl
 crowlogin.databank.nl
 databank.nl
+dcmr.databank.nl
 demo-ebc.databank.nl
 demo-veiligheidsmonitor.databank.nl
 demo-vgm.databank.nl
@@ -63,6 +67,7 @@ dgstat.databank.nl
 diversiteitsindex.databank.nl
 drentsklimaat.databank.nl
 dth.hermes.databank.nl
+duurzaamdcmr.databank.nl
 duurzamemobiliteit.databank.nl
 ebc.databank.nl
 elektrischvervoer.databank.nl
@@ -87,6 +92,8 @@ horecadna.databank.nl
 horizon.databank.nl
 hr-sectorwaterschappen.databank.nl
 ibw.databank.nl
+ijssellandscan.databank.nl
+ikob.databank.nl
 impactmonitortoerisme.databank.nl
 inspectie-oe.databank.nl
 ivm11.databank.nl
@@ -94,6 +101,7 @@ jeugdengezin.databank.nl
 jeugdmonitor.databank.nl
 klimaatbeleid.databank.nl
 klimaatmonitor.databank.nl
+kso2011.databank.nl
 laadinfrastructuur.databank.nl
 lcp.databank.nl
 limburg.databank.nl
@@ -105,7 +113,9 @@ mbotransparant.databank.nl
 mee.databank.nl
 mobis.databank.nl
 mre.databank.nl
+mvb.databank.nl
 nabb.databank.nl
+nbtc.databank.nl
 nederlandschoon.databank.nl
 noordholland.databank.nl
 omz.databank.nl
@@ -120,6 +130,7 @@ primos.databank.nl
 primosinteractief.databank.nl
 primostijdreeks.databank.nl
 prognosemodelzw.databank.nl
+prognoses.databank.nl
 pzh.databank.nl
 ret.databank.nl
 router.databank.nl
@@ -128,8 +139,10 @@ senternovem.databank.nl
 sre-wmo.databank.nl
 staatvanbrabant.databank.nl
 staatvanutrecht.databank.nl
+test-mbotransparant.databank.nl
 test-prognosemodelzw.databank.nl
 veiligheidsmonitor.databank.nl
+veiligheidsmonitor2012-2019.databank.nl
 velsen.databank.nl
 vgm-demo.databank.nl
 vivet.databank.nl

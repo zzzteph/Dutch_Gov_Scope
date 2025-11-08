@@ -3973,9 +3973,11 @@ beta-duurzamemobiliteit.databank.nl
 beta-ebc.databank.nl
 beta-ftgelderland.databank.nl
 beta-gdi.databank.nl
+beta-hsw.databank.nl
 beta-iv3-controle.cbs.nl
 beta-kis.databank.nl
 beta-klimaatbeleid.databank.nl
+beta-klimaatmonitor.databank.nl
 beta-laadinfrastructuur.databank.nl
 beta-mobiliteitsregelingen.databank.nl
 beta-nbtc.databank.nl
@@ -4913,6 +4915,7 @@ cityofkingman.maps.arcgis.com
 civvv-mtm2-router-nwn.publicatie.test.vm-04.azure.grid.rws.nl
 ciz.databank.nl
 ciz.nl
+ciz1.databank.nl
 cjib.huurcommissie.nl
 cjib.nl
 cjib.sitearchief.nl
@@ -5806,6 +5809,7 @@ dcm-tst.vfpf.nl
 dcm.vfpf.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
+dcmr.databank.nl
 dcp-time-slot.cbg-meb.nl
 dcpp.ssc-ict.nl
 dcypher.nl
@@ -6589,6 +6593,7 @@ dutchdubai.com
 dutchncca.nl
 dutchoffshorewindatlas.nl
 dutchrapporteur.nl
+duurzaamdcmr.databank.nl
 duurzaamdoor.nl
 duurzame-infra.nl
 duurzamecatering.voedingscentrum.nl
@@ -8927,10 +8932,12 @@ ihw.nl
 iinterimrijk.nl
 iisg.idp.knaw.nl
 iiz.staging.rijksapplicaties.nl
+ijssellandscan.databank.nl
 ikbenhandelaar.nl
 iknowcimow.acc.omgevingswet.overheid.nl
 iknowcimow.omgevingswet.overheid.nl
 iknowcimow.tst.omgevingswet.overheid.nl
+ikob.databank.nl
 ikp-ota.waterschaplimburg.nl
 ikp.waterschaplimburg.nl
 ikvermoedhuiselijkgeweld.nl
@@ -10190,6 +10197,7 @@ ksh-web-fto.orkr.kadaster.nl
 ksh-web.orkr.kadaster.nl
 ksliberal.github.io
 ksmo.s-bb.nl
+kso2011.databank.nl
 kta.document-viewer-api.dso.kadaster.nl
 kta.geodoc.dso.kadaster.nl
 kta.ozon.dso.kadaster.nl
@@ -12083,6 +12091,7 @@ muntvondsten.dnb.nl
 muralidhar.maps.arcgis.com
 murder-case.om.nl
 muse.jhu.edu.access.authkb.kb.nl
+mvb.databank.nl
 mvicriteria.nl
 mvotools.nl
 mvpn-pre.gslbppe.politie.nl
@@ -12216,6 +12225,7 @@ nb.voedingscentrum.nl
 nba.nl
 nbso-brazil.com.br
 nbso-texas.com
+nbtc.databank.nl
 nc-a.rvb.rijkscloud.nl
 nc-openbaar.vallei-veluwe.nl
 nc.mindemo.rijkscloud.nl
@@ -14517,6 +14527,7 @@ profiel.acc1.mijn.overheid.nl
 profiel.acc2.mijn.overheid.nl
 profiles.werkenbijdefensie.nl
 prognosemodelzw.databank.nl
+prognoses.databank.nl
 programma-uned.nl
 programmaplan-admin.vm-02.azure.grid.rws.nl
 programmaplan-test.vm-02.azure.grid.rws.nl
@@ -17246,6 +17257,7 @@ test-login.pzp.nl
 test-ma.chm-cbd.net
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
+test-mbotransparant.databank.nl
 test-melding.aerius.nl
 test-mijn.kadaster.nl
 test-mijn.rvo.nl
@@ -18258,6 +18270,7 @@ veiligbron.scha.duo.nl
 veiligepubliekedienstverlening.nl
 veiligheidsberaad.nl
 veiligheidsmonitor.databank.nl
+veiligheidsmonitor2012-2019.databank.nl
 veiligheidsregioflevoland.nl
 veiligmailen.flevoland.nl
 veiligmailen.raadvoorrechtsbijstand.org
