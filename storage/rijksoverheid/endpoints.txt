@@ -112,7 +112,6 @@ http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
 http://analytics-acc.cjib.nl
-http://api.digitalenoordzee.nl
 http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
 http://apollo.databank.nl
@@ -515,7 +514,6 @@ http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
 http://metadata-enhancer.labs.dans.knaw.nl
 http://metadata.test.zm.irealisatie.nl
-http://metrics.digitalenoordzee.nl
 http://metrokaart.pianoo.nl
 http://miauw.rdosecurity.nl
 http://mijn-api.cbs.nl
