@@ -4,12 +4,12 @@ http://app-a3.digid.nl
 http://app-a4.digid.nl
 http://app-a5.digid.nl
 http://app-a6.digid.nl
+http://app-preprod1.digid.nl
 https://acceptatie.machtigen.digid.nl
 https://api-preprod1.digid.nl
 https://api-preprod2.digid.nl
 https://api.digid.nl
 https://app-o1.digid.nl
-https://app-preprod1.digid.nl
 https://app-preprod2.digid.nl
 https://app.digid.nl
 https://balieportaal.digid.nl
@@ -39,6 +39,7 @@ https://preprod2.digid.nl
 https://rda-preprod1.digid.nl
 https://rda-preprod2.digid.nl
 https://rda.digid.nl
+https://soap.acceptatie.machtigen.digid.nl
 https://statistiek.digid.nl
 https://statistiek.machtigen.digid.nl
 https://was-preprod1.digid.nl

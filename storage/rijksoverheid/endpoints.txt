@@ -122,6 +122,7 @@ http://app-a3.digid.nl
 http://app-a4.digid.nl
 http://app-a5.digid.nl
 http://app-a6.digid.nl
+http://app-preprod1.digid.nl
 http://app.rivm.nl
 http://appl.rdi.nl
 http://applications-acc.globalentry-rtp.nl
@@ -2580,7 +2581,6 @@ https://app-o.svb.nl
 https://app-o1.digid.nl
 https://app-olja02.hex.tno.nl
 https://app-planttes-eulaliabota.hub.arcgis.com
-https://app-preprod1.digid.nl
 https://app-preprod2.digid.nl
 https://app-solar01.hex.tno.nl
 https://app-t.svb.nl
@@ -9570,6 +9570,7 @@ https://snippet.startanalyse.pbl.nl
 https://snippet.wlo2025.nl
 https://sniv.osiris.rivm.nl
 https://snow-cw.dictu.nl
+https://soap.acceptatie.machtigen.digid.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl
 https://soap.osiris.rivm.nl
 https://sociaalfonds.minienm.nl
