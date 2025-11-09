@@ -25,6 +25,14 @@ cc5.dnb.nl
 cc6.dnb.nl
 cc7.dnb.nl
 cc8.dnb.nl
+chartaal.cc1.dnb.nl
+chartaal.cc2.dnb.nl
+chartaal.cc3.dnb.nl
+chartaal.cc4.dnb.nl
+chartaal.cc5.dnb.nl
+chartaal.cc6.dnb.nl
+chartaal.cc7.dnb.nl
+chartaal.cc8.dnb.nl
 cn.dnb.nl
 dataloop-acc.dnb.nl
 dataloop-test.dnb.nl
@@ -55,6 +63,14 @@ federated-login-pp.dnb.nl
 federated-login.dnb.nl
 firehose.dnb.nl
 formulieren.dnb.nl
+giraal.cc1.dnb.nl
+giraal.cc2.dnb.nl
+giraal.cc3.dnb.nl
+giraal.cc4.dnb.nl
+giraal.cc5.dnb.nl
+giraal.cc6.dnb.nl
+giraal.cc7.dnb.nl
+giraal.cc8.dnb.nl
 grasp-acc.azure.dnb.nl
 grasp-dev.azure.dnb.nl
 grasp.azure.dnb.nl
@@ -172,3 +188,7 @@ woxi.dnb.nl
 www.cn.dnb.nl
 www.dnb.nl
 www.toezicht.dnb.nl
+xdt-monitoring-acc.azure.dnb.nl
+xdt-monitoring-dev.azure.dnb.nl
+xdt-monitoring-prd.azure.dnb.nl
+xdt-monitoring-tst.azure.dnb.nl
