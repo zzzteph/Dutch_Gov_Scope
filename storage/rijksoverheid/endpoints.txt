@@ -6588,8 +6588,9 @@ https://kostenkentallen.rvo.nl
 https://kostenvanziektentool.volksgezondheidenzorg.info
 https://kpm.jeugdconnect.nl
 https://kpn-eid-acc.sso.eherkenning.nl
-https://kpn-eid-dev.drp.sso.eherkenning.nl
+https://kpn-eid-dev.sso.eherkenning.nl
 https://kpn-eid-pp.sso.eherkenning.nl
+https://kpn-eid-tst.sso.eherkenning.nl
 https://kpn-eid.sso.eherkenning.nl
 https://kpzss.nl
 https://kreekraksluizen.nl
@@ -8943,6 +8944,7 @@ https://rechtwijzer.nl
 https://reclassering.nl
 https://reconi-etoegang-acc.sso.eherkenning.nl
 https://reconi-etoegang-pp.sso.eherkenning.nl
+https://reconi-etoegang-tst.sso.eherkenning.nl
 https://reconi-etoegang.sso.eherkenning.nl
 https://recranet-api.logerenbijdeboswachter.nl
 https://recreatieschaprottemeren.nl

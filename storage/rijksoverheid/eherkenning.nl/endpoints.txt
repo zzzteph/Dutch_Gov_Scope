@@ -6,14 +6,16 @@ https://digidentity.sso.eherkenning.nl
 https://eherkenning.nl
 https://extranet.eherkenning.nl
 https://kpn-eid-acc.sso.eherkenning.nl
-https://kpn-eid-dev.drp.sso.eherkenning.nl
+https://kpn-eid-dev.sso.eherkenning.nl
 https://kpn-eid-pp.sso.eherkenning.nl
+https://kpn-eid-tst.sso.eherkenning.nl
 https://kpn-eid.sso.eherkenning.nl
 https://onewelcome-staging.sso.eherkenning.nl
 https://onewelcome.sso.eherkenning.nl
 https://prod-dictu.eherkenning.nl
 https://reconi-etoegang-acc.sso.eherkenning.nl
 https://reconi-etoegang-pp.sso.eherkenning.nl
+https://reconi-etoegang-tst.sso.eherkenning.nl
 https://reconi-etoegang.sso.eherkenning.nl
 https://signicat-qa.sso.eherkenning.nl
 https://signicat-staging.sso.eherkenning.nl
