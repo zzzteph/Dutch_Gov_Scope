@@ -164,6 +164,7 @@ sdm
 dashboard
 repository
 developer
+forum
 siam
 matomo
 hostmaster
@@ -202,7 +203,6 @@ mx2
 iam
 service
 access
-forum
 monitor
 statistiek
 www.staging
@@ -8263,7 +8263,9 @@ cms-o
 cms-th
 cms-u-new
 cn-i-no-apigee
+cn-i
 cn-no-apigee
+cn-o-no-apigee-lux
 cn-o-no-apigee
 cy-i
 cy

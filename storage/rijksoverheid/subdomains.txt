@@ -5121,7 +5121,9 @@ cmswijser.ser.nl
 cmv-kandidaat.sso3w.nl
 cmv-opdrachtgever.sso3w.nl
 cn-i-no-apigee.espacenet.com
+cn-i.espacenet.com
 cn-no-apigee.espacenet.com
+cn-o-no-apigee-lux.espacenet.com
 cn-o-no-apigee.espacenet.com
 cn.cbs.nl
 cn.dnb.nl
@@ -7823,6 +7825,7 @@ fortbijrijnauwen.staatsbosbeheer.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
 forum.developer.overheid.nl
+forum.espacenet.com
 forum.orfeus-eu.org
 forum.raadopenbaarbestuur.nl
 forum.schadedoormijnbouw.nl

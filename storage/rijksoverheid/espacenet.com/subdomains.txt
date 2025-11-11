@@ -16,7 +16,9 @@ cms-test.espacenet.com
 cms-th.espacenet.com
 cms-u-new.espacenet.com
 cn-i-no-apigee.espacenet.com
+cn-i.espacenet.com
 cn-no-apigee.espacenet.com
+cn-o-no-apigee-lux.espacenet.com
 cn-o-no-apigee.espacenet.com
 cy-i.espacenet.com
 cy.espacenet.com
@@ -39,6 +41,7 @@ es.espacenet.com
 espacenet.com
 fi-i.espacenet.com
 fi.espacenet.com
+forum.espacenet.com
 fr.espacenet.com
 ftp.espacenet.com
 gb.espacenet.com
