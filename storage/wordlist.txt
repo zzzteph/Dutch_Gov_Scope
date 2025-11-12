@@ -13,8 +13,8 @@ api
 acceptatie
 a-www
 _autodiscover._tcp
-staging
 cms
+staging
 magazines
 a-opendata
 a-feeds
@@ -8460,6 +8460,7 @@ toolkittaal
 volwassenheidsscan
 data.test
 aandeslag
+www.jouw
 0-0-256
 0-001-0
 0-experiments
