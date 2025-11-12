@@ -617,6 +617,7 @@ api.developer
 identifier-preprod
 identifier
 ondernemersplein
+social-tst
 social
 wetten
 kms
@@ -3839,7 +3840,6 @@ smtp1.mijn
 smtp2.mijn
 smtp3.mijn
 smtp4.mijn
-social-tst
 sso.acc.omgevingswet
 sso.bta.omgevingswet
 sso.dmo.omgevingswet
@@ -9367,6 +9367,7 @@ ncc
 onlineform.culture
 opendata.acp.business
 opendata.business
+sdep
 search.acp.business
 search.business
 static.acp.business
