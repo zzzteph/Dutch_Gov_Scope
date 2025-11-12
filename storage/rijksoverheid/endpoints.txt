@@ -247,6 +247,7 @@ http://carbon-southend.hub.arcgis.com
 http://carmarthenshire-gbi-strategy-wal-luc.hub.arcgis.com
 http://catalogus.cito.nl
 http://cb.entreepgb.svb.nl
+http://cdn.fondspodiumkunsten.nl
 http://centraalexamen.cito.nl
 http://cesar-database.knmi.nl
 http://ceses.osiris.rivm.nl
@@ -7687,6 +7688,9 @@ https://nevenactiviteiten.cvdm.nl
 https://nevenbetrekkingen.om.nl
 https://nevo-online.rivm.nl
 https://nevo.rivm.nl
+https://new-accept.fondspodiumkunsten.nl
+https://new-dev.fondspodiumkunsten.nl
+https://new-prod.fondspodiumkunsten.nl
 https://new-topdesk-wvl.rws.nl
 https://new.deweekvandecirculaireeconomie.nl
 https://new.luchtvaartmeteo.nl

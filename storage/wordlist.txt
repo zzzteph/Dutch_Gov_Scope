@@ -55,11 +55,11 @@ cpanel
 hybrid
 sts
 elearning
+cdn
 ftp
 accept
 adfs
 services
-cdn
 onderzoek
 oud
 auth
@@ -8411,6 +8411,9 @@ meldportaal
 commotie
 meerjarig
 meerjarigeadviezen
+new-accept
+new-dev
+new-prod
 phished
 web-protagonist
 web-transip

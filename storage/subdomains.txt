@@ -4706,6 +4706,7 @@ cdn.consular.mfaservices.nl
 cdn.crimediggers.nl
 cdn.debatdirect.tweedekamer.nl
 cdn.dji.nl
+cdn.fondspodiumkunsten.nl
 cdn.huygens.knaw.nl
 cdn.kcb.nl
 cdn.klopt.cibg.nl
@@ -12319,6 +12320,9 @@ nevenactiviteiten.cvdm.nl
 nevenbetrekkingen.om.nl
 nevo-online.rivm.nl
 nevo.rivm.nl
+new-accept.fondspodiumkunsten.nl
+new-dev.fondspodiumkunsten.nl
+new-prod.fondspodiumkunsten.nl
 new-topdesk-wvl.rws.nl
 new.boekingszuil.logerenbijdeboswachter.nl
 new.deweekvandecirculaireeconomie.nl
