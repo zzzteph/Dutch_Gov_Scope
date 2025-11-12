@@ -5715,6 +5715,7 @@ data.rivm.nl
 data.rvo.nl
 data.schadefonds.nl
 data.staging.ndw.nu
+data.test.geoforum.nl
 data.zuid-holland.nl
 data2.emissieregistratie.nl
 dataalsonbekendevervuiler.nl
@@ -17388,6 +17389,7 @@ test.flevoland.nl
 test.gds.dopingautoriteit.nl
 test.gebruikercentraal.nl
 test.gegevensmagazijn.acm.nl
+test.geoforum.nl
 test.geoservices.cultureelerfgoed.nl
 test.gezondeleefomgeving.nl
 test.gezondeschool.nl
@@ -20253,6 +20255,7 @@ www.geneesmiddeleninformatiebank.nl
 www.geobasisregistraties.nl
 www.geodata.alterra.nl
 www.geoenrichdev.arcgis.com
+www.geoforum.nl
 www.geoserver.limburg.nl
 www.german.investinholland.com
 www.geschilleninstantieszorg.nl
