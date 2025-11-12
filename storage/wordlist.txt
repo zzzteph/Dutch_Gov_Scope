@@ -161,7 +161,6 @@ www-a
 forms
 mijn-acc
 sdm
-dashboard
 repository
 developer
 forum
@@ -195,6 +194,7 @@ csoacct
 csotest
 zaaksysteem-acc
 synergy
+dashboard
 sso
 geoweb
 secure
@@ -8458,8 +8458,6 @@ test.volwassenheidsscan
 toolkitinclusie
 toolkittaal
 volwassenheidsscan
-digiles
-themalessen
 aandeslag
 0-0-256
 0-001-0
