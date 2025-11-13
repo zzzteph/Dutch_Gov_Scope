@@ -317,6 +317,7 @@ http://dev-mijnsap.rivm.nl
 http://dev-veldmonitoring.rivm.nl
 http://dev.api.brp.mfaservices.nl
 http://developer.rvo.nl
+http://dfaas.hansken.org
 http://diagrams.at.rws.nl
 http://dialin.nba.nl
 http://digitaleoverheid.stelselcatalogus.nl
@@ -450,6 +451,7 @@ http://kat.acc.irealisatie.nl
 http://kat.irealisatie.nl
 http://kat.rdosecurity.nl
 http://keiko.brba.nl
+http://keycloak.dfaas.hansken.org
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
 http://kim.omgevingswet.overheid.nl
@@ -463,6 +465,7 @@ http://kwaliteitsdashboard-koop.overheid.nl
 http://kwaliteitstoetsing.nba.nl
 http://ldn-inbox.labs.dans.knaw.nl
 http://lead-service-line-inventory-emua.hub.arcgis.com
+http://learning.hansken.org
 http://license.labs.dans.knaw.nl
 http://link.ptvt.nl
 http://linkextractor.overheid.nl

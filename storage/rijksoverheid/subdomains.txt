@@ -6159,6 +6159,7 @@ dexter.ndw.nu
 dexter.staging.ndw.nu
 deystroom.huygens.knaw.nl
 dezi.nl
+dfaas.hansken.org
 dfg.datawonen.nl
 dfp.domeinenrz.nl
 dfront.rijkscloud.nl
@@ -10181,6 +10182,7 @@ keycloak.acc.onlinepublicatie.topinkomens.nl
 keycloak.acceptatie.vm-05.azure.grid.rws.nl
 keycloak.analyse.ilt.rijkscloud.nl
 keycloak.devops.rvb.rijkscloud.nl
+keycloak.dfaas.hansken.org
 keycloak.dgdoobi.rijkscloud.nl
 keycloak.mintst.rijkscloud.nl
 keycloak.ndw.nu
@@ -10478,6 +10480,7 @@ lea-registry.hansken.org
 lead-service-line-inventory-emua.hub.arcgis.com
 leap.lvnl.nl
 learn.arcgis.com
+learning.hansken.org
 ledendomein.platformparticipatie.nl
 leefbaarenveilig.nl
 leefbaarometer.nl

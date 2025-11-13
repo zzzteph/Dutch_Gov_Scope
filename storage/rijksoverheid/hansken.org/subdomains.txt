@@ -3,11 +3,14 @@ academic.container.hansken.org
 communityportal.hansken.org
 container.hansken.org
 demo.hansken.org
+dfaas.hansken.org
 docs.hansken.org
 downloads.hansken.org
 hansken.org
+keycloak.dfaas.hansken.org
 law-enforcement.container.hansken.org
 lea-registry.hansken.org
+learning.hansken.org
 repo.hansken.org
 training.hansken.org
 www.hansken.org

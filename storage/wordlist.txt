@@ -9388,8 +9388,11 @@ academic-registry
 academic.container
 communityportal
 container
+dfaas
+keycloak.dfaas
 law-enforcement.container
 lea-registry
+learning
 apptest
 bg-tst
 bg2-acc
