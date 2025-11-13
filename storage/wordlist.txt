@@ -491,6 +491,7 @@ federation
 felix-preproductie
 felix
 georegister
+sis
 werkenvoor
 uzi.acc
 web.acc
@@ -1734,7 +1735,6 @@ s4a
 s4o
 s4p
 signing.pre
-sis
 slechtvalk
 sltn.bzv
 specials-acpt
