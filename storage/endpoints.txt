@@ -721,6 +721,7 @@ http://safefiletransfer.rdw.nl
 http://salesforcecopadorepo.wgu-edu.github.io
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
+http://sandbox.kansspelautoriteit.nl
 http://sat.irealisatie.nl
 http://scf-mqtt.tno.nl
 http://schemas.kvk.nl
@@ -1915,6 +1916,7 @@ https://acc.isdatechtzo.nl
 https://acc.jonglereneten.nl
 https://acc.justis.nl
 https://acc.justitieconnect.nl
+https://acc.kansspelautoriteit.nl
 https://acc.knaw.nl
 https://acc.leer-rijk.nl
 https://acc.leeroverzicht.nl
@@ -11255,7 +11257,6 @@ https://webmail.eurofawc.com
 https://webmail.flevoland.nl
 https://webmail.globio.info
 https://webmail.ibki.nl
-https://webmail.kansspelautoriteit.nl
 https://webmail.leidraadse.nl
 https://webmail.nak.nl
 https://webmail.nedmextrade.com
