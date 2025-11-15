@@ -837,6 +837,7 @@ _dc-mx.dddce9f5a2d1.knooppuntjoure.nl
 _dmarc.cibg.nl
 _dmarc.cparegister.nl
 _dmarc.donorregister.nl
+_dmarc.kb.nl
 _dmarc.logius.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nvwa.nl
@@ -1363,6 +1364,7 @@ aankomst.nationaalarchief.nl
 aankoopcalculator.aerius.nl
 aanmelden.gratisvog.nl
 aanmelden.huurcommissie.nl
+aanmelden.kb.nl
 aanmelden.nieuwsbriefrechtspraak.nl
 aanmelden.samenvoordeklant.nl
 aanmelden.skal.nl
@@ -1655,9 +1657,11 @@ acc.cimlk.nl
 acc.cip-overheid.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.clo.nl
+acc.cloudservices.kb.nl
 acc.cms.mycoa.nl
 acc.cms21.knaw.nl
 acc.cmv-kandidaat.sso3w.nl
+acc.connectorscheduler.kb.nl
 acc.consexponano.nl
 acc.consular-service.consular.mfaservices.nl
 acc.consular.mfaservices.nl
@@ -3095,6 +3099,7 @@ apps.hogeraad.nl
 apps.jeugdconnect.nl
 apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
+apps.kb.nl
 apps.politie.nl
 apps.politieacademie.nl
 apps.rivm.nl
@@ -3233,6 +3238,8 @@ artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
 artifactory.nwo.nl
+artikelvinder-cms.kb.nl
+artikelvinder.kb.nl
 artursdoet.huygens.knaw.nl
 artus.s-bb.nl
 arun-at-work.github.io
@@ -3447,6 +3454,7 @@ autodiscover.inspectie-oe.nl
 autodiscover.iuc-noord.nl
 autodiscover.justid.nl
 autodiscover.kadaster.nl
+autodiscover.kb.nl
 autodiscover.kenniscentrum-oo.nl
 autodiscover.knaw.nl
 autodiscover.knmi.nl
@@ -4214,10 +4222,13 @@ bj.test.chm-cbd.net
 bjfw01.knmi.nl
 bkd.eu
 bkk.odmh.nl
+bkt-acp.acc.cloudservices.kb.nl
+bkt-prd.cloudservices.kb.nl
 bkwi.nl
 bl2.chm-cbd.net
 blackcountry-blackcountry.hub.arcgis.com
 blackduck-tools.tomtompilot.github.io
+bladertool-prd.cloudservices.kb.nl
 bladertool-tst.ot.cloudservices.kb.nl
 blaeudamo-a.vechtstromen.nl
 blaine-county-montana-elections-blainecounty-mt.hub.arcgis.com
@@ -5372,12 +5383,14 @@ connect2-test.ows2.politie.nl
 connect2-test.politie.nl
 connect2.kadaster.nl
 connector.isaac.nwo.nl
+connectorscheduler.kb.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
 connectpeoplereg.belastingdienst.nl
 conservation-abra.hub.arcgis.com
 conservering-api.cloudservices.kb.nl
+conservering-prd.cloudservices.kb.nl
 consexponano.nl
 constructieplatform-a.cito.nl
 constructieplatform-t.cito.nl
@@ -6156,6 +6169,7 @@ develop31.dans.knaw.nl
 developer-portal-management.data-exchange.consular.mfaservices.nl
 developer-portal.data-exchange.consular.mfaservices.nl
 developer.acceptatie.kadaster.nl
+developer.apim.acc.cloudservices.kb.nl
 developer.apis.acc.rechtspraak.nl
 developer.apis.rechtspraak.nl
 developer.arcgis.com
@@ -6375,6 +6389,8 @@ digitaalvergaderen.ont.belastingdienst.nl
 digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
 digital.nba.nl
 digital.scp.nl
+digitale-topstukken.acc.cloudservices.kb.nl
+digitale-topstukken.cloudservices.kb.nl
 digitalenoordzee.nl
 digitaleoverheid.nl
 digitaleoverheid.stelselcatalogus.nl
@@ -6608,6 +6624,7 @@ dpi.sbr-wonen.nl
 dplockers.brabant.nl
 dpp-webservice.rijksapplicaties.nl
 dps.tweedekamer.nl
+dqm.cloudservices.kb.nl
 dr-prd-apk-handboek-aw8ldacdcqe.rdw.nl
 dr-prd-cms-bqopbqsgcay.rdw.nl
 dr-prd-handboek-aw8ldacdcqe.rdw.nl
@@ -6951,6 +6968,8 @@ eeb.chadwyck.com.access.authkb.kb.nl
 eebo.chadwyck.com.access.authkb.kb.nl
 eef.waterschaplimburg.nl
 eendagskentekenbewijsaanvragen.rdw.nl
+eenlogin-acc.kb.nl
+eenlogin.kb.nl
 eenmaligmachtigen.rdw.nl
 eenoverheidsincasso.nl
 eentegeneenzaamheid.nl
@@ -8103,6 +8122,7 @@ gateway-extern.minienw.nl
 gateway-pre.minienw.nl
 gateway.afm.nl
 gateway.apim.acc.cloudservices.kb.nl
+gateway.apim.cloudservices.kb.nl
 gateway.cultuurparticipatie.nl
 gateway.minienm.nl
 gateway.minienw.nl
@@ -8375,7 +8395,9 @@ gharvester-oai.dans.knaw.nl
 gharvester-wcp.dans.knaw.nl
 ghis.maps.arcgis.com
 ghreports.pages.github.io
+gids-backoffice.acc.cloudservices.kb.nl
 gids-backoffice.cloudservices.kb.nl
+gids-core.acc.cloudservices.kb.nl
 gids-core.cloudservices.kb.nl
 gids-frontoffice.acc.cloudservices.kb.nl
 gids-frontoffice.cloudservices.kb.nl
@@ -8419,6 +8441,7 @@ gisservices.aaenmaas.nl
 gisservicesacc.aaenmaas.nl
 gisviewer.odijmond.nl
 git-acc.parlement.nl
+git-auth.kb.nl
 git-az1.lpc.logius.nl
 git-az2.lpc.logius.nl
 git-dev.rijkscloud.nl
@@ -8999,11 +9022,14 @@ iam.tweedekamer.nl
 iamcdocumentation.eu
 ias-cloud.tno.nl
 iati-test2.platformrijksoverheidonline.nl
+ib-gm.wpakb.kb.nl
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
 ibki.nl
+ibl-beheer-acp.acc.cloudservices.kb.nl
 ibl-beheer-prd.cloudservices.kb.nl
+ibl-beheer-tst.ot.cloudservices.kb.nl
 ibl.kb.nl
 ibw.databank.nl
 ibw.datawonen.nl
@@ -9287,11 +9313,15 @@ inkoopplein.dictu.nl
 inkoopportaal.belastingdienst.nl
 inkoopworkflow.staging.rijksapplicaties.nl
 inkopers.werkenvoornederland.nl
+inloggen-acc.kb.nl
+inloggen-dev.kb.nl
 inloggen-pre.limburg.nl
 inloggen-preprod.hhdelfland.nl
 inloggen-preprod.waterschaplimburg.nl
+inloggen-tst.kb.nl
 inloggen.ciz.nl
 inloggen.hhdelfland.nl
+inloggen.kb.nl
 inloggen.limburg.nl
 inloggen.nidos.nl
 inloggen.platformrijksoverheidonline.nl
@@ -9313,6 +9343,7 @@ inschrijven.cultuurparticipatie.nl
 inschrijven.kb.nl
 inschrijven.sportdagjenv.nl
 inschrijvena.kb.nl
+inschrijveno.kb.nl
 inschrijvent.kb.nl
 insights.mfaservices.nl
 insightsservices3.arcgis.com
@@ -9733,6 +9764,7 @@ jso.arcgis.com
 jsru.kb.nl
 jsrua.kb.nl
 jsruo.kb.nl
+jsrut.kb.nl
 jsrut2.kb.nl
 jucies.github.io
 juno.cdfd.nl
@@ -10300,7 +10332,9 @@ klachtenformulier.mensenrechten.nl
 klachtenformulierlink.mensenrechten.nl
 klactest-afleveren.procesinfrastructuur.nl
 klant-acc.hetcak.nl
+klant-beheer-acp.acc.cloudservices.kb.nl
 klant-beheer-prd.cloudservices.kb.nl
+klant-beheer-tst.ot.cloudservices.kb.nl
 klant.hetcak.nl
 klantonderzoek.cbr.nl
 klantportaal.caop.nl
@@ -10409,6 +10443,9 @@ krf-2-acp.acc.cloudservices.kb.nl
 krf-2-prd.cloudservices.kb.nl
 kris-om.politieacademie.nl
 kroniekvankampen.huygens.knaw.nl
+krs-beheer-acp.acc.cloudservices.kb.nl
+krs-beheer-prd.cloudservices.kb.nl
+krs-beheer-tst.ot.cloudservices.kb.nl
 krv-art.cvr.rvb.rijkscloud.nl
 krv-art.devops.rvb.rijkscloud.nl
 krv-demo.cvr.rvb.rijkscloud.nl
@@ -10810,6 +10847,7 @@ login.a5.digid.nl
 login.a6.digid.nl
 login.aaenmaas.nl
 login.acc.mijncn.nl
+login.acc1.kb.nl
 login.access.authkb.kb.nl
 login.cbs.nl
 login.consular.mfaservices.nl
@@ -11348,6 +11386,7 @@ map.test.cloud.kadaster.nl
 mapgis-map-gis.hub.arcgis.com
 mapmkeonline.maps.arcgis.com
 mappingtool.acc.cloudservices.kb.nl
+mappingtool.cloudservices.kb.nl
 maps-a.nak.nl
 maps-braintreema.hub.arcgis.com
 maps-cityofpasco.hub.arcgis.com
@@ -12301,6 +12340,7 @@ msteamnotification.wgu-edu.github.io
 mta-a.svb.nl
 mta-p.svb.nl
 mta-sts.belastingdienst.nl
+mta-sts.kb.nl
 mta-sts.mail.cggp.nl
 mta-sts.nza.nl
 mta-sts.rws.nl
@@ -13064,6 +13104,8 @@ offshorewind.rvo.nl
 ofgv.nl
 ofgvtransfer.ofgv.nl
 ogco.nl
+oggc-bezit.acc.cloudservices.kb.nl
+oggc-omeka-s.acc.cloudservices.kb.nl
 ogier.huygens.knaw.nl
 oicrf.org
 oid.pkioverheid.nl
@@ -14333,6 +14375,7 @@ plato.dictu.nl
 playground.commabz.nl
 playground.stelselcatalogus.nl
 pld.chadwyck.co.uk.access.authkb.kb.nl
+plein.kb.nl
 plein2-acc.tweedekamer.nl
 plein2-parlementair.test.tweedekamer.nl
 plein2-test.tweedekamer.nl
@@ -15525,6 +15568,7 @@ registry.odc-noord.nl
 registry.ost.digid.nl
 registry.prod.dmi-ecosysteem.nl
 registry.staging.dmi-ecosysteem.nl
+rego.kb.nl
 regt.kb.nl
 regulatoryscience.nl
 reintegratiebijdefensie.nl
@@ -16178,6 +16222,7 @@ sbc.rvr.org
 sbc01.acpt.justitieleictorganisatie.nl
 sbc01.acpt.kinderbescherming.nl
 sbc01.justitieleictorganisatie.nl
+sbc01.kb.nl
 sbc01.kinderbescherming.nl
 sbc01.mvs.kadaster.nl
 sbc01.rechtspraak.nl
@@ -16723,7 +16768,9 @@ smartforms.nak.nl
 smartmobility.flevoland.nl
 smartsurveys.cbs.nl
 smc.politie.nl
+smetrics.reg.kb.nl
 sms-tool.rvr.org
+smtp-relay.ot.cloudservices.kb.nl
 smtp-wem.rijksapplicaties.nl
 smtp.awti.nl
 smtp.bapi.belastingdienst.nl
@@ -17826,6 +17873,7 @@ test.cloud.kadaster.nl
 test.clustertool.tno.nl
 test.cms.mycoa.nl
 test.commabz.nl
+test.connectorscheduler.kb.nl
 test.consuwijzer.nl
 test.contactpuntbouwproducten.nl
 test.control.ictu.nl
@@ -17881,6 +17929,7 @@ test.intranet.rvig.nl
 test.intranet.waarborg.nl
 test.jonglereneten.nl
 test.justis.nl
+test.kb.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 test.kinderbescherming.nl
@@ -17986,6 +18035,7 @@ test.zeroemissiedoelgroepenvervoer.nl
 test.zorgcsp.nl
 test01.maptiles.arcgis.com
 test12.dictu.nl
+test2.connectorscheduler.kb.nl
 test2.kinderbescherming.nl
 test2.risicotoolboxbodem.nl
 test202007201227.dictu.nl
@@ -18091,6 +18141,7 @@ tiaplus.cito.nl
 tib-ivd.nl
 tib.dataplatform.knmi.nl
 tickets.bdmuseum.nl
+tickets.kb.nl
 tickets.wachtrijbooster.nl
 tijdelijkdocumentnummeraanvragen.rdw.nl
 tijdlijnencovid19.rivm.nl
@@ -18280,6 +18331,7 @@ track.uwv.nl
 tracker.arcgis.com
 tracking.cbr.nl
 tracking.delpher.nl
+tracking.kb.nl
 tracks.wgu-edu.github.io
 trade-acc.rvo.nl
 trade.rvo.nl
@@ -18297,6 +18349,7 @@ trainingenwetbibob.kennisplatformondermijning.nl
 trainingvalsgeld.dnb.nl
 tran-web-ns001.valys.nl
 transcriptions.globalise.huygens.knaw.nl
+transfer-dwh.kb.nl
 transfer.kb.nl
 transfer.naktuinbouw.nl
 transfer.ofgv.nl
@@ -19283,8 +19336,6 @@ waterinfo.rws.nl
 waterkwaliteitinbeeld.hdsr.nl
 waterkwaliteitscheck.nl
 waterkwaliteitsportaal.nl
-watermark-prd.cloudservices.kb.nl
-watermark.kb.nl
 watermerk.hdsr.nl
 waterschaplimburg.nl
 watertoetsportaal-a.hhdelfland.nl
@@ -19334,7 +19385,6 @@ web-da81.hex.tno.nl
 web-df12.tsn.tno.nl
 web-electre01.tsn.tno.nl
 web-itonics10.hex.tno.nl
-web-p-ebscohost-com.access.authkb.kb.nl
 web-plesk81.tno.nl
 web-protagonist.fondspodiumkunsten.nl
 web-seatable01.hex.tno.nl
@@ -19347,7 +19397,6 @@ web.acc.dpr.irealisatie.nl
 web.acc.irealisatie.nl
 web.acc.mgo.irealisatie.nl
 web.acc.woo.irealisatie.nl
-web.b.ebscohost.com.access.authkb.kb.nl
 web.brt.kadaster.nl
 web.brt.test.kadaster.nl
 web.ertms.nl
@@ -19386,7 +19435,6 @@ web5.fa.knaw.nl
 web6.fa.knaw.nl
 web7.fa.knaw.nl
 web8.fa.knaw.nl
-webaccess.kb.nl
 webaccess.knaw.nl
 webaccess.knmi.nl
 webapps-a.politieacademie.nl
@@ -19452,7 +19500,6 @@ webgis.aaenmaas.nl
 webgisacc.aaenmaas.nl
 webgispublisher.nl
 webhook-teams.rws.nl
-webloket-beheer-prd.cloudservices.kb.nl
 webloket.kb.nl
 webloketienw.rijksapplicaties.nl
 webmail-a.huurcommissie.nl
@@ -19524,7 +19571,6 @@ webmail.visitaties.nl
 webmail.werkenbijdefensie.nl
 webmail.werkenvoornederland.nl
 webmail1.politieacademie.nl
-webmaila2.kb.nl
 webmed.rdw.nl
 webmeeting.minbzk.nl
 webmob.rdw.nl
@@ -19608,7 +19654,6 @@ website.burgernet.nl
 website.douane.nl
 website.kvk.nl
 webstatistieken.kb.nl
-webstatistiekenwaas.kb.nl
 webtest.cokz.nl
 webtest10.rijksoverheid.nl
 webtooling.irealisatie.nl
@@ -19942,7 +19987,6 @@ wpo-webservice.staging.rijksapplicaties.nl
 wpo.rijksapplicaties.nl
 wpo.sbcm.nl
 wpo.staging.rijksapplicaties.nl
-wpptest.kb.nl
 wps.rijksapplicaties.nl
 wps.staging.rijksapplicaties.nl
 wpx-80-aix-http.douane.nl
@@ -20057,8 +20101,6 @@ www-dev2.istandaarden.nl
 www-dev2.medicijnkosten.nl
 www-dev2.zorgcijfersdatabank.nl
 www-dev2.zorginzicht.nl
-www-ingentaconnect-com.access.authkb.kb.nl
-www-jstor-org.access.authkb.kb.nl
 www-old.kiesraad.nl
 www-ontw.brabant.nl
 www-ow.farmacotherapeutischkompas.nl
@@ -20068,7 +20110,6 @@ www-ow.istandaarden.nl
 www-ow.medicijnkosten.nl
 www-ow.zorgcijfersdatabank.nl
 www-ow.zorginzicht.nl
-www-oxfordmusiconline-com.access.authkb.kb.nl
 www-p.farmacotherapeutischkompas.nl
 www-p.gipdatabank.nl
 www-p.horizonscangeneesmiddelen.nl
@@ -20206,7 +20247,6 @@ www.acceptatie.redactie.aquo.nl
 www.acceptatie.ruimtelijkeplannen.nl
 www.acceptatie.staatvenz.nl
 www.acceptatie.vaarweginformatie.nl
-www.access.authkbtest.kb.nl
 www.access.nba.nl
 www.achilles-acc.rvo.nl
 www.achilles.rvo.nl
@@ -20256,7 +20296,6 @@ www.amlc.eu
 www.amlc.nl
 www.amsterdam.brandweer.nl
 www.animalfreeinnovationtpi.nl
-www.annotatedleadingcases.com.access.authkb.kb.nl
 www.anoniem.netftp.dictu.nl
 www.antennebureau.nl
 www.antenneregister.nl
@@ -20284,7 +20323,6 @@ www.arboportaal.nl
 www.arcgis.com
 www.archief.nwo-i.nl
 www.architectenregister.nl
-www.arkyves.org.access.authkb.kb.nl
 www.asbestvolgsysteem.nl
 www.asbestvrijdak.nl
 www.asl.omgevingswet.overheid.nl
@@ -20561,7 +20599,6 @@ www.deafsluitdijk.nl
 www.deeljekennis.s-bb.nl
 www.deelnemer.ibki.nl
 www.defensie.nl
-www.degruyter.com.access.authkb.kb.nl
 www.dejuistezorgopdejuisteplek.nl
 www.dekinderombudsman.nl
 www.delichtkogel.nl
@@ -20960,7 +20997,6 @@ www.kansspelautoriteit.nl
 www.kantinescan.voedingscentrum.nl
 www.kantinescanacc.voedingscentrum.nl
 www.kantinescanrgk.voedingscentrum.nl
-www.kb.nl
 www.kbvg.nl
 www.kcb-p-dc002.kcb.nl
 www.kcb.nl
@@ -21659,7 +21695,6 @@ www.startmetdelen.nl
 www.startmetoesorichtlijnen.nl
 www.startpagina.sap.minienm.nl
 www.staten-generaal.nl
-www.statesmansyearbook.com.access.authkb.kb.nl
 www.stats.kansspelautoriteit.nl
 www.stats.one-conference.nl
 www.stelselcatalogus.nl
@@ -21689,7 +21724,6 @@ www.sustainabilitymethod.nl
 www.svb.nl
 www.svdj.nl
 www.swap.alterra.nl
-www.swetswise.com.access.authkb.kb.nl
 www.symposium.keringhuis.nl
 www.synbiosys.alterra.nl
 www.t.valys.nl

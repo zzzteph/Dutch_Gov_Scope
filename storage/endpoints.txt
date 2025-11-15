@@ -103,6 +103,7 @@ http://admin.globalentry-rtp.nl
 http://admin.tst-rds.nl
 http://afro-gis-center-who.hub.arcgis.com
 http://ag-dcr.cibg.nl
+http://agalerij.kb.nl
 http://agenda-regulatoria-rio-aguas-bienio-2025-2026-pcrj.hub.arcgis.com
 http://aip-acc.nationaalcoordinatorgroningen.nl
 http://air-egle.hub.arcgis.com
@@ -218,6 +219,7 @@ http://bd-toegang-acc.topdesk.odc-noord.nl
 http://beeldenvanderaad.nl
 http://beeldverhalen.staatsbosbeheer.nl
 http://benchmarkpovo.databank.nl
+http://bergfashionlibrary.com.access.authkb.kb.nl
 http://besloten-nba-acc.nba.nl
 http://beta-beslotenwaves.databank.nl
 http://beta-dataportal.cbs.nl
@@ -235,7 +237,10 @@ http://bggo.rivm.nl
 http://bibliotheek.gezondeleefomgeving.nl
 http://biomap-mass-eoeea.hub.arcgis.com
 http://birdviewer.rws.nl
+http://bladertool-tst.ot.cloudservices.kb.nl
+http://bloomsburyfashioncentral.com.access.authkb.kb.nl
 http://bmw9520.waddenzee.nl
+http://books.google.com.access.authkb.kb.nl
 http://brt.kadaster.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
@@ -282,6 +287,10 @@ http://cname-www-waterbenchmark-org.databank.nl
 http://cname-zeelandscan.databank.nl
 http://coalitieakkoord.zuid-holland.nl
 http://coe.cito.nl
+http://collecties.kb.nl
+http://collections.chadwyck.co.uk.access.authkb.kb.nl
+http://conservering-api.cloudservices.kb.nl
+http://conservering-prd.cloudservices.kb.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://covid-19-test-to-treat-locator-dhhs.hub.arcgis.com
@@ -306,6 +315,7 @@ http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
 http://ddapi-preprod.gslb.rws.nl
 http://ddapi-preprod.rws.nl
+http://degruyter.com.access.authkb.kb.nl
 http://demo-ebc.databank.nl
 http://demo1-systemteam.overheid.nl
 http://demo1.tst.federatieveservice.nl
@@ -334,6 +344,7 @@ http://domorganisatieservicesocsp-g3.pkioverheid.nl
 http://download.im.nba.nl
 http://download.webmail.knmi.nl
 http://dpp-webservice.rijksapplicaties.nl
+http://dqm.cloudservices.kb.nl
 http://drafts.github.io
 http://dse.lx.overheid.nl
 http://dva.acc.mgo.irealisatie.nl
@@ -343,6 +354,8 @@ http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://ebc.databank.nl
 http://ecdis.osiris.rivm.nl
+http://eebo.chadwyck.com.access.authkb.kb.nl
+http://eenlogin-acc.kb.nl
 http://eindtoets-ouders.cito.nl
 http://eindtoetsbasisonderwijs.cito.nl
 http://emailtemplates.overheid.nl
@@ -365,6 +378,7 @@ http://feeds.english.sso3w.nl
 http://felix.brabant.nl
 http://form.letterenfonds.nl
 http://formulier-beheer.dus-i.nl
+http://formulieren.kb.nl
 http://fryske2.fa.knaw.nl
 http://ftp.ofgv.nl
 http://ftp.schoolleidersregisterpo.nl
@@ -376,6 +390,7 @@ http://gegevensbijbesluiten-inlog-acc.overheid.nl
 http://gegevensbijbesluiten-inlog.overheid.nl
 http://gegevensbijbesluiten-redactie.overheid.nl
 http://gegevensdelen.preprod.mijn.overheid.nl
+http://geheugen-cms.kb.nl
 http://genconnector-acceptatie.sawa-vth.nl
 http://genconnector.sawa-vth.nl
 http://genomes.bioinf.nioo.knaw.nl
@@ -384,6 +399,9 @@ http://geodata.rivm.nl
 http://gevallenen40-45.niod.knaw.nl
 http://gezondgroeien.voedingscentrum.nl
 http://gh-pages.paper-spa.github.io
+http://gids-core.acc.cloudservices.kb.nl
+http://gids-frontoffice.acc.cloudservices.kb.nl
+http://gids-frontoffice.cloudservices.kb.nl
 http://gipinfo.nl
 http://git-az2.lpc.logius.nl
 http://git.irealisatie.nl
@@ -393,6 +411,7 @@ http://gitlab.at.rws.nl
 http://globalise.huygens.knaw.nl
 http://gm-pre.mev.logius.nl
 http://gm.mev.logius.nl
+http://gso.gbv.de.access.authkb.kb.nl
 http://gvopsawa-t.waterschaplimburg.nl
 http://gvopsawa.waterschaplimburg.nl
 http://gw.cea.nl
@@ -404,7 +423,10 @@ http://helpdesk.rijksacademie.nl
 http://hg.fa.knaw.nl
 http://hisgis2.fa.knaw.nl
 http://holland-rijnland.databank.nl
+http://hpb.cerl.org.access.authkb.kb.nl
 http://hypocrates.rivm.nl
+http://ibl-beheer-tst.ot.cloudservices.kb.nl
+http://ibl.kb.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
 http://ideal-octo-carnival.paper-spa.github.io
@@ -416,7 +438,6 @@ http://iknowcimow.omgevingswet.overheid.nl
 http://iltbuildserver.dictu.nl
 http://im.nba.nl
 http://images.huygens.knaw.nl
-http://imageviewer.kb.nl
 http://imlc.huygens.knaw.nl
 http://impacttest.nwo.nl
 http://import.logerenbijdeboswachter.nl
@@ -424,11 +445,15 @@ http://import.organisaties.overheid.nl
 http://incidentacc.rivm.nl
 http://incidentapprivmacc.rivm.nl
 http://include-eafspraak-acceptatie.ba.uwv.nl
+http://infotrac.galegroup.com.access.authkb.kb.nl
 http://infra.status.chm-cbd.net
 http://init-with-private-0.paper-spa.github.io
 http://init-with-private.paper-spa.github.io
 http://init-with-private2.paper-spa.github.io
 http://inkopers.werkenvoornederland.nl
+http://inloggen-dev.kb.nl
+http://inloggen-tst.kb.nl
+http://inschrijvent.kb.nl
 http://inspire.rivm.nl
 http://int-prod-01.flevoland.nl
 http://integratie02.omgevingswet.overheid.nl
@@ -456,8 +481,12 @@ http://keycloak.dfaas.hansken.org
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
 http://kim.omgevingswet.overheid.nl
+http://klant-beheer-acp.acc.cloudservices.kb.nl
+http://klantweb-acp.acc.cloudservices.kb.nl
 http://koppelvlak.overheid.nl
 http://kosteneffectiviteit-preventie.rivm.nl
+http://krf-2-acp.acc.cloudservices.kb.nl
+http://krs-beheer-prd.cloudservices.kb.nl
 http://kso2011.databank.nl
 http://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie-api.proeftuin.gf.irealisatie.nl
@@ -504,6 +533,7 @@ http://mailing.halt.nl
 http://managementapi.vragenlijst-acc.rivm.nl
 http://managementapi.vragenlijst.rivm.nl
 http://mapmkeonline.maps.arcgis.com
+http://mappingtool.acc.cloudservices.kb.nl
 http://maps-north-ayrshire.opendata.arcgis.com
 http://maps.fa.knaw.nl
 http://maps.rivm.nl
@@ -550,6 +580,7 @@ http://mon-saint-quentin.hub.arcgis.com
 http://monitoring-test5.koop.overheid.nl
 http://monitoring.huc.knaw.nl
 http://mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
+http://mta-sts.kb.nl
 http://myadmin.huc.knaw.nl
 http://nationalaccounts.niwi.knaw.nl
 http://ncc.gov.nl
@@ -590,6 +621,7 @@ http://open-data-ls-osp-sdg.hub.arcgis.com
 http://opendata.papiamento.two-acs.com
 http://opendatadev.arcgis.com
 http://opensciencemeeting2014.knaw.nl
+http://opmaat.sdu.nl.access.authkb.kb.nl
 http://oproepingen-api-preprd.overheid.nl
 http://orac.test.gf.irealisatie.nl
 http://organisaties-redactie.overheid.nl
@@ -620,6 +652,7 @@ http://pe-upload.nba.nl
 http://pers.letterenfonds.nl
 http://pgodemo.test.zm.irealisatie.nl
 http://php74.visitaties.nl
+http://picarta.nl.access.authkb.kb.nl
 http://pilot3.praatmeemetdeoverheid.nl
 http://pki-g2.kvk.nl
 http://pki.dnb.nl
@@ -630,6 +663,7 @@ http://pkio.service.integratie.omgevingswet.overheid.nl
 http://pkio.service.perf.omgevingswet.overheid.nl
 http://pkio.service.pre.omgevingswet.overheid.nl
 http://platformservices-watchtower-scanning-array.wgu-edu.github.io
+http://pleinplus.kb.nl
 http://pm-bounces.ndw.nu
 http://portal-a.cito.nl
 http://portal-test-escap.hub.arcgis.com
@@ -679,6 +713,7 @@ http://redirect.rechtspraak.nl
 http://redirect.rivm.nl
 http://redlands-anca.hub.arcgis.com
 http://ref.omgevingswet.overheid.nl
+http://rega.kb.nl
 http://regeorge.github.io
 http://region-dalarna.github.io
 http://registers.dnb.nl
@@ -726,6 +761,7 @@ http://sat.irealisatie.nl
 http://scf-mqtt.tno.nl
 http://schemas.kvk.nl
 http://schmavery.github.io
+http://sconline.nl.access.authkb.kb.nl
 http://screeningslijst-a.cito.nl
 http://search.developer.overheid.nl
 http://search.rivm.nl
@@ -877,6 +913,7 @@ http://ufftest25.waterschaplimburg.nl
 http://ufp-webservice.rijksapplicaties.nl
 http://ufp-webservice.staging.rijksapplicaties.nl
 http://uitkeren.uwv.nl
+http://universiteiten.rechtsorde.nl.access.authkb.kb.nl
 http://uptime.bureauft.nl
 http://uptime.bureauwbtv.nl
 http://uptime.huc.knaw.nl
@@ -920,14 +957,17 @@ http://wadzee9520.waddenzee.nl
 http://waterbeschikbaarheid.nl
 http://waterwebservices-acc.rws.nl
 http://wcf-eafspraak-acceptatie.ba.uwv.nl
+http://web-b-ebscohost-com.access.authkb.kb.nl
 http://web-casta01.hex.tno.nl
 http://web-plesk81.tno.nl
+http://web.a.ebscohost.com.access.authkb.kb.nl
 http://web.nba.nl
 http://web.proeftuin.gf.irealisatie.nl
 http://web1.nba.nl
 http://web6.fa.knaw.nl
 http://web7.fa.knaw.nl
 http://webfilter.hetcak.nl
+http://webloket.kb.nl
 http://webmail.knmi.nl
 http://webmail.nbso-brazil.com.br
 http://webmail.rivm.nl
@@ -935,6 +975,7 @@ http://webmail.werkenvoornederland.nl
 http://webservice.mgk.osiris.rivm.nl
 http://webservice.prezies.osiris.rivm.nl
 http://website.belastingdienst.nl
+http://webstatistieken.kb.nl
 http://webtooling.irealisatie.nl
 http://webtooliso20400.nl
 http://wegwijzer.overheid.nl
@@ -1723,6 +1764,7 @@ https://aaninhetdonker.nl
 https://aankomst.nationaalarchief.nl
 https://aankoopcalculator.aerius.nl
 https://aanmelden.gratisvog.nl
+https://aanmelden.kb.nl
 https://aanmelden.nieuwsbriefrechtspraak.nl
 https://aanmelden.samenvoordeklant.nl
 https://aanmelden.skal.nl
@@ -2324,7 +2366,6 @@ https://afsprakenstelsel.etoegang.nl
 https://afvalcirculair.nl
 https://afvalmonitor.databank.nl
 https://againhay.github.io
-https://agalerij.kb.nl
 https://agc-coastal-soa-dnr.hub.arcgis.com
 https://agc-vegetation-soa-dnr.hub.arcgis.com
 https://agcomm-montereyco.hub.arcgis.com
@@ -2791,13 +2832,13 @@ https://argenteuil-geo-open-data-ca-ab.hub.arcgis.com
 https://argocd-infra.efiling.mijnoctrooi.rvo.nl
 https://argon2.cbs.nl
 https://aris.brabant.nl
-https://arkyves.org.access.authkb.kb.nl
 https://arp-dviraciu-takai-maper.hub.arcgis.com
 https://arpa-data-reporting-pdx.hub.arcgis.com
 https://arpa-mtdnrc.hub.arcgis.com
 https://arrow-program-overview-arrowak.hub.arcgis.com
 https://art-of-reasoning.huygens.knaw.nl
 https://artifact-rd1.toegang.overheid.nl
+https://artikelvinder-cms.kb.nl
 https://artursdoet.huygens.knaw.nl
 https://arun-at-work.github.io
 https://asannou.github.io
@@ -3190,7 +3231,6 @@ https://bereikbaarheid.staging.ndw.nu
 https://bereikbaarheidvooriedereen.nl
 https://bereken.uwbeslagvrijevoet.nl
 https://bergerselect.rws.nl
-https://bergfashionlibrary.com.access.authkb.kb.nl
 https://beroepsgerichtevakken.slo.nl
 https://berst.databank.nl
 https://berwyn-inspection-hub-gis-mmsa.hub.arcgis.com
@@ -3282,7 +3322,6 @@ https://bhw.rijksapplicaties.nl
 https://bhw.staging.rijksapplicaties.nl
 https://bi.chm-cbd.net
 https://bi.test.chm-cbd.net
-https://bibliographies.brillonline.com.access.authkb.kb.nl
 https://bibliopolis-prd.cloudservices.kb.nl
 https://bibliotheek-test.tweedekamer.nl
 https://bibliotheek-tkw-test.tweedekamer.nl
@@ -3337,10 +3376,11 @@ https://bj.chm-cbd.net
 https://bj.test.chm-cbd.net
 https://bkd.eu
 https://bkk.odmh.nl
+https://bkt-prd.cloudservices.kb.nl
 https://bkwi.nl
 https://blackcountry-blackcountry.hub.arcgis.com
 https://blackduck-tools.tomtompilot.github.io
-https://bladertool-tst.ot.cloudservices.kb.nl
+https://bladertool-prd.cloudservices.kb.nl
 https://blaeudamo-a.vechtstromen.nl
 https://blaine-county-montana-elections-blainecounty-mt.hub.arcgis.com
 https://blaise.cbs.nl
@@ -3354,7 +3394,6 @@ https://blog.brabant.nl
 https://blogs.arcgis.com
 https://blogs.brabant.nl
 https://blogs.slo.nl
-https://bloomsburyfashioncentral.com.access.authkb.kb.nl
 https://bltvn-prd.cloudservices.kb.nl
 https://bltvn.kb.nl
 https://blue-accounting-glcommission.hub.arcgis.com
@@ -3382,7 +3421,6 @@ https://boerenkpi.nl
 https://boetebase.om.nl
 https://bofeb.nl
 https://bon.arcgis.com
-https://books.google.com.access.authkb.kb.nl
 https://boone-gis.maps.arcgis.com
 https://bor-mcogis.hub.arcgis.com
 https://borden.staatsbosbeheer.nl
@@ -3421,7 +3459,6 @@ https://brdbeheer.rdw.nl
 https://brdcplusrma.rdw.nl
 https://brecht.chadwyck.co.uk.access.authkb.kb.nl
 https://breed-lb-vo.cito.nl
-https://brepolis.net.access.authkb.kb.nl
 https://brettwbyron.github.io
 https://brevard-gis-open-data-hub-brevardbocc.hub.arcgis.com
 https://brian-test.near-dimension.github.io
@@ -3896,8 +3933,6 @@ https://collabra.cvte.nl
 https://collectiefnatuurinclusief.nl
 https://collectienederland.nl
 https://collecties-cert-test.kb.nl
-https://collecties.kb.nl
-https://collections.chadwyck.co.uk.access.authkb.kb.nl
 https://collegesanering.nl
 https://collegevanrijksadviseurs.nl
 https://collierville.maps.arcgis.com
@@ -3980,7 +4015,6 @@ https://connect.wodc.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://conservation-abra.hub.arcgis.com
-https://conservering-api.cloudservices.kb.nl
 https://consexponano.nl
 https://constructieplatform-a.cito.nl
 https://constructieplatform-t.cito.nl
@@ -4086,7 +4120,6 @@ https://cpcontacts.globio.info
 https://cpcontacts.rijkewaddenzee.nl
 https://cpcontacts.sekswerkgoedgeregeld.nl
 https://cpcontacts.summercourt.nl
-https://cpps.brepolis.net.access.authkb.kb.nl
 https://cps.pkioverheid.nl
 https://crc-hub-segrass.hub.arcgis.com
 https://crimediggers.nl
@@ -4362,7 +4395,6 @@ https://defensie.nl
 https://definities.dmi-ecosysteem.nl
 https://definities.sbr-wonen.nl
 https://degezondheidsraad.sitearchief.nl
-https://degruyter.com.access.authkb.kb.nl
 https://dejuistezorgopdejuisteplek.nl
 https://delichtkogel.nl
 https://delivery.pdok.nl
@@ -4475,6 +4507,7 @@ https://dev.rli.nl
 https://dev.test.cloud.kadaster.nl
 https://devashishyadav20.github.io
 https://develop.dementieinkaart.nl
+https://developer.apim.acc.cloudservices.kb.nl
 https://developer.apis.rechtspraak.nl
 https://developer.arcgis.com
 https://developer.dataplatform.knmi.nl
@@ -4578,6 +4611,7 @@ https://digitaalstelselmobiliteitsdata.nl
 https://digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
 https://digital.nba.nl
 https://digital.scp.nl
+https://digitale-topstukken.cloudservices.kb.nl
 https://digitalenoordzee.nl
 https://digitaleoverheid.nl
 https://digitalforensics.huygens.knaw.nl
@@ -4670,7 +4704,6 @@ https://doeonbeperktmee.nl
 https://doi-org.access.authkb.kb.nl
 https://dol.stopheling.nl
 https://domain-admin.rechtenoverheid.nl
-https://domeinen-prd.cloudservices.kb.nl
 https://domeinen.kb.nl
 https://domeinenrz.nl
 https://doncker.huygens.knaw.nl
@@ -4916,10 +4949,9 @@ https://educatie.halt.nl
 https://educatie.weekvanhetgeld.nl
 https://ee-i.espacenet.com
 https://ee.espacenet.com
-https://eeb.chadwyck.com.access.authkb.kb.nl
-https://eebo.chadwyck.com.access.authkb.kb.nl
 https://eef.waterschaplimburg.nl
 https://eendagskentekenbewijsaanvragen.rdw.nl
+https://eenlogin.kb.nl
 https://eenmaligmachtigen.rdw.nl
 https://eenoverheidsincasso.nl
 https://eentegeneenzaamheid.nl
@@ -4960,7 +4992,6 @@ https://eigenkracht.nl
 https://eijsden.dbsync.aqualarm.nl
 https://eindhoven.lerenenwerken.nl
 https://eiti.nl
-https://ejournals.ebsco.com.access.authkb.kb.nl
 https://elaborate.huygens.knaw.nl
 https://elcaf-usflibrary.hub.arcgis.com
 https://elearning-atb.nctv.nl
@@ -5585,7 +5616,6 @@ https://formulieren.dnb.nl
 https://formulieren.flevoland.nl
 https://formulieren.kadaster.nl
 https://formulieren.kansspelautoriteit.nl
-https://formulieren.kb.nl
 https://formulieren.lbio.nl
 https://formulieren.limburg.nl
 https://formulieren.nvwa.nl
@@ -5650,6 +5680,7 @@ https://gatekeeper.nationaalarchief.nl
 https://gateway-edu-test.s-bb.nl
 https://gateway.afm.nl
 https://gateway.apim.acc.cloudservices.kb.nl
+https://gateway.apim.cloudservices.kb.nl
 https://gateway.cultuurparticipatie.nl
 https://gb.espacenet.com
 https://gbp-blm-egis.hub.arcgis.com
@@ -5680,7 +5711,6 @@ https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
 https://gegevensmagazijn.tweedekamer.nl
 https://gegevensportaal.belastingdienst.nl
-https://geheugen-cms.kb.nl
 https://geheugen.delpher.nl
 https://geheugensteuntje.voedingscentrum.nl
 https://geheugenvannederland.nl
@@ -5795,10 +5825,9 @@ https://ggo-vergunningverlening.nl
 https://ggs-ggc-print-services.kadaster-it.github.io
 https://ghis.maps.arcgis.com
 https://ghreports.pages.github.io
+https://gids-backoffice.acc.cloudservices.kb.nl
 https://gids-backoffice.cloudservices.kb.nl
 https://gids-core.cloudservices.kb.nl
-https://gids-frontoffice.acc.cloudservices.kb.nl
-https://gids-frontoffice.cloudservices.kb.nl
 https://gima.cloud.kadaster.nl
 https://gima.test.cloud.kadaster.nl
 https://gip-a.minbzk.nl
@@ -5923,14 +5952,12 @@ https://groningen.leerwerkloket.nl
 https://groningen.lerenenwerken.nl
 https://grootamsterdam.leerwerkloket.nl
 https://grpc.annorepo.dev.huc.knaw.nl
-https://gso.gbv.de.access.authkb.kb.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
 https://gtmt.toeslagen.nl
 https://gtmz.belastingdienst.nl
 https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
-https://gvn-prd.cloudservices.kb.nl
 https://gw.defensie.nl
 https://gwv.maps.arcgis.com
 https://gy.test.chm-cbd.net
@@ -6057,7 +6084,6 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.nl
 https://houseofrepresentatives.test.tweedekamer.nl
 https://hp-01.huc.knaw.nl
-https://hpb.cerl.org.access.authkb.kb.nl
 https://hpma-backend-staging.excite.tno.nl
 https://hpma-frontend-staging.excite.tno.nl
 https://hpma-jenkins-staging.excite.tno.nl
@@ -6110,7 +6136,6 @@ https://hv.proquest.com.access.authkb.kb.nl
 https://hwbp.nl
 https://hwtest.vm-02.azure.grid.rws.nl
 https://hygienecode.voedingscentrum.nl
-https://hymnology.hymnsam.co.uk.access.authkb.kb.nl
 https://i-login.mijncn.nl
 https://i-partnerschap.staging.rijksapplicaties.nl
 https://iaas-portal-gn3.odc-noord.nl
@@ -6132,8 +6157,8 @@ https://iamcdocumentation.eu
 https://iati-test2.platformrijksoverheidonline.nl
 https://ibg.datasluis.dictu.nl
 https://ibki.nl
+https://ibl-beheer-acp.acc.cloudservices.kb.nl
 https://ibl-beheer-prd.cloudservices.kb.nl
-https://ibl.kb.nl
 https://ibw.databank.nl
 https://ibw.datawonen.nl
 https://icdesk.zuid-holland.nl
@@ -6208,7 +6233,6 @@ https://iliwoy.github.io
 https://ilt-acc.topdesk.odc-noord.nl
 https://ilt-prd.topdesk.odc-noord.nl
 https://im.di.huc.knaw.nl
-https://ima-princeton-edu.access.authkb.kb.nl
 https://imaer.aerius.nl
 https://image.email.kvk.nl
 https://images.analyse.ilt.rijkscloud.nl
@@ -6269,7 +6293,6 @@ https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://informatiescherm-acc.slimwatermanagement.nl
 https://informatiescherm.slimwatermanagement.nl
 https://informatieservice.nederlandwereldwijd.nl
-https://infotrac.galegroup.com.access.authkb.kb.nl
 https://infowms.nl
 https://infra-templates.labs.dans.knaw.nl
 https://infra.cloud.kadaster.nl
@@ -6286,10 +6309,12 @@ https://inhuurdeskpolitie.nl
 https://init-with-private4.paper-spa.github.io
 https://inkoopplein.dictu.nl
 https://inkoopworkflow.staging.rijksapplicaties.nl
+https://inloggen-acc.kb.nl
 https://inloggen-pre.limburg.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen-preprod.waterschaplimburg.nl
 https://inloggen.hhdelfland.nl
+https://inloggen.kb.nl
 https://inloggen.limburg.nl
 https://inloggen.nidos.nl
 https://inloggen.platformrijksoverheidonline.nl
@@ -6305,7 +6330,6 @@ https://inschrijven.cultuurparticipatie.nl
 https://inschrijven.kb.nl
 https://inschrijven.sportdagjenv.nl
 https://inschrijvena.kb.nl
-https://inschrijvent.kb.nl
 https://insights.mfaservices.nl
 https://insightsservices3.arcgis.com
 https://insightsservices6.arcgis.com
@@ -6730,11 +6754,11 @@ https://klachten.s-bb.nl
 https://klachtenformulier.mensenrechten.nl
 https://klachtenformulierlink.mensenrechten.nl
 https://klant-beheer-prd.cloudservices.kb.nl
+https://klant-beheer-tst.ot.cloudservices.kb.nl
 https://klantonderzoek.cbr.nl
 https://klantportaal.caop.nl
 https://klanttevredenheidsonderzoek.uwv.nl
 https://klanttoegang.cbs.nl
-https://klantweb-acp.acc.cloudservices.kb.nl
 https://klas.oidji.nl
 https://klassieketalen.slo.nl
 https://klassiker.chadwyck.co.uk.access.authkb.kb.nl
@@ -6800,10 +6824,10 @@ https://kpn-eid-tst.sso.eherkenning.nl
 https://kpn-eid.sso.eherkenning.nl
 https://kpzss.nl
 https://kreekraksluizen.nl
-https://krf-2-acp.acc.cloudservices.kb.nl
 https://krf-2-prd.cloudservices.kb.nl
 https://kris-om.politieacademie.nl
 https://kroniekvankampen.huygens.knaw.nl
+https://krs-beheer-tst.ot.cloudservices.kb.nl
 https://ksliberal.github.io
 https://ksmo.s-bb.nl
 https://ktv-servicedesk.ciz.nl
@@ -7068,6 +7092,7 @@ https://login-test.dnb.nl
 https://login-test.rvr.org
 https://login-test.skal.nl
 https://login.aaenmaas.nl
+https://login.acc1.kb.nl
 https://login.access.authkb.kb.nl
 https://login.cbs.nl
 https://login.consular.mfaservices.nl
@@ -7299,12 +7324,10 @@ https://man.rivm.nl
 https://management.api-acc.afm.nl
 https://management.api-dev.afm.nl
 https://management.api.afm.nl
-https://management.apim.acc.cloudservices.kb.nl
 https://manager.klopt.cibg.nl
 https://manan-1112.github.io
 https://manifestgroep.nl
 https://manuscripts-prd.cloudservices.kb.nl
-https://manuscripts.kb.nl
 https://manveldapp-beheer.rivm.nl
 https://map-acceptatie.sawa-vth.nl
 https://map-wellesleyma.hub.arcgis.com
@@ -7314,7 +7337,7 @@ https://map.samenvoordeklant.nl
 https://map.sawa-vth.nl
 https://map.test.cloud.kadaster.nl
 https://mapgis-map-gis.hub.arcgis.com
-https://mappingtool.acc.cloudservices.kb.nl
+https://mappingtool.cloudservices.kb.nl
 https://maps-a.nak.nl
 https://maps-braintreema.hub.arcgis.com
 https://maps.aaenmaas.nl
@@ -7443,7 +7466,6 @@ https://menukaart.kansrijkestartnl.nl
 https://mercurius.sso3w.nl
 https://merkportaal-backoffice.staatsbosbeheer.nl
 https://merkportaal.e-tol.nl
-https://merkportaal.kb.nl
 https://merkportaal.staatsbosbeheer.nl
 https://mestobb.maps.arcgis.com
 https://metabase.cultuurparticipatie.nl
@@ -8155,6 +8177,8 @@ https://offshorewind-measurements.tno.nl
 https://offshorewind.rvo.nl
 https://ofgv.nl
 https://ogco.nl
+https://oggc-bezit.acc.cloudservices.kb.nl
+https://oggc-omeka-s.acc.cloudservices.kb.nl
 https://oicrf.org
 https://oid.pkioverheid.nl
 https://oidc.proeftuin.uzi-online.irealisatie.nl
@@ -8487,7 +8511,6 @@ https://opleidersportaal.cbr.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
 https://opleiding.spin2.rijkswaterstaat.nl
-https://opmaat.sdu.nl.access.authkb.kb.nl
 https://oprijk.nl
 https://oproepingen-api-preprd-poc.overheid.nl
 https://oproepingen-api.overheid.nl
@@ -8681,7 +8704,6 @@ https://phantom7666.github.io
 https://phished.fondspodiumkunsten.nl
 https://pianoo-congres.nl
 https://pianoo.nl
-https://picarta.nl.access.authkb.kb.nl
 https://picarta.pica.nl.access.authkb.kb.nl
 https://pih.belastingdienst.nl
 https://pilootonbemandeluchtvaartuigen.rdw.nl
@@ -8745,11 +8767,10 @@ https://platformservices-scripts.wgu-edu.github.io
 https://platformservices-team-scripts.wgu-edu.github.io
 https://platformwow.nl
 https://playground.stelselcatalogus.nl
-https://pld.chadwyck.co.uk.access.authkb.kb.nl
+https://plein.kb.nl
 https://plein2-acc.tweedekamer.nl
 https://plein2-test.tweedekamer.nl
 https://plein2.tweedekamer.nl
-https://pleinplus.kb.nl
 https://pleio.kiesraad.nl
 https://pleio.nl
 https://plek.zorginstituutnederland.nl
@@ -8933,7 +8954,6 @@ https://preview.netherlandsworldwide.nl
 https://preview.rdw.nl
 https://previewnext.emissieregistratie.nl
 https://prezies.osiris.rivm.nl
-https://primarysources.brillonline.com.access.authkb.kb.nl
 https://primet.alterra.nl
 https://primos.databank.nl
 https://primos.datawonen.nl
@@ -9281,8 +9301,6 @@ https://referendum-backoffice.limburg.nl
 https://referendum.limburg.nl
 https://referentiegegevens.justid.nl
 https://referentiegrootboekschema.nl
-https://reg.kb.nl
-https://rega.kb.nl
 https://regeldrukmonitor.nl
 https://regelgeving.ibki.nl
 https://regelgeving.omgevingswet.overheid.nl
@@ -9325,7 +9343,6 @@ https://registry.istandaarden.nl
 https://registry.notary.huc.knaw.nl
 https://registry.prod.dmi-ecosysteem.nl
 https://registry.staging.dmi-ecosysteem.nl
-https://regt.kb.nl
 https://regulatoryscience.nl
 https://reintegratiebijdefensie.nl
 https://reistijdtrajecten.ndw.nu
@@ -9681,7 +9698,6 @@ https://schorsen.rdw.nl
 https://schoudersonderschoon.nl
 https://schrauger.github.io
 https://scm.apim.acc.cloudservices.kb.nl
-https://sconline.nl.access.authkb.kb.nl
 https://scope.nin.knaw.nl
 https://scp.nl
 https://screening-acc.dnb.nl
@@ -9861,6 +9877,7 @@ https://sm-i.espacenet.com
 https://sm.espacenet.com
 https://smartforms.nak.nl
 https://smartsurveys.cbs.nl
+https://smetrics.reg.kb.nl
 https://sms-tool.rvr.org
 https://smtp.awti.nl
 https://smtp.wijzijndus-i.nl
@@ -10538,6 +10555,7 @@ https://thinkwiseprovisioning.cito.nl
 https://thuisbezorgd.mijnrijkspas.nl
 https://thuiswerken.filmfonds.nl
 https://tib-ivd.nl
+https://tickets.kb.nl
 https://tijdelijkdocumentnummeraanvragen.rdw.nl
 https://tijdlijnencovid19.rivm.nl
 https://tijdschrijven.caop.nl
@@ -10655,6 +10673,7 @@ https://tr.espacenet.com
 https://track.uwv.nl
 https://tracking.cbr.nl
 https://tracking.delpher.nl
+https://tracking.kb.nl
 https://tracks.wgu-edu.github.io
 https://tradewithnl.nl
 https://traefik.cultuurparticipatie.nl
@@ -10802,7 +10821,6 @@ https://unhcoopext.maps.arcgis.com
 https://unit4erp.apps.staatsbosbeheer.nl
 https://unit4erpa.apps.staatsbosbeheer.nl
 https://unit4erpt.apps.staatsbosbeheer.nl
-https://universiteiten.rechtsorde.nl.access.authkb.kb.nl
 https://universitypublishingonline.org.access.authkb.kb.nl
 https://uno.dfront.rijkscloud.nl
 https://uno.duo.nl
@@ -11163,8 +11181,6 @@ https://waterinfo-extra.rws.nl
 https://waterinfo.rws.nl
 https://waterkwaliteitinbeeld.hdsr.nl
 https://waterkwaliteitscheck.nl
-https://watermark-prd.cloudservices.kb.nl
-https://watermark.kb.nl
 https://watermerk.hdsr.nl
 https://waterschaplimburg.nl
 https://watertoetsportaal-a.hhdelfland.nl
@@ -11193,21 +11209,17 @@ https://wcf-eafspraak.ba.uwv.nl
 https://we-graph.tno.nl
 https://web-api.kvk.nl
 https://web-app.naktuinbouw.nl
-https://web-b-ebscohost-com.access.authkb.kb.nl
 https://web-da81.hex.tno.nl
 https://web-itonics10.hex.tno.nl
-https://web-p-ebscohost-com.access.authkb.kb.nl
 https://web-protagonist.fondspodiumkunsten.nl
 https://web-seatable01.hex.tno.nl
 https://web-sp02.hex.tno.nl
 https://web-transip.fondspodiumkunsten.nl
-https://web.a.ebscohost.com.access.authkb.kb.nl
 https://web.acc.brba.nl
 https://web.acc.dpr.irealisatie.nl
 https://web.acc.irealisatie.nl
 https://web.acc.mgo.irealisatie.nl
 https://web.acc.woo.irealisatie.nl
-https://web.b.ebscohost.com.access.authkb.kb.nl
 https://web.ertms.nl
 https://web.login-test.skal.nl
 https://web.login.skal.nl
@@ -11243,8 +11255,6 @@ https://webgca.rdw.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
 https://webgispublisher.nl
-https://webloket-beheer-prd.cloudservices.kb.nl
-https://webloket.kb.nl
 https://webloketienw.rijksapplicaties.nl
 https://webmail-t.politieacademie.nl
 https://webmail.atr-regeldruk.nl
@@ -11297,10 +11307,7 @@ https://webshop.incidentmanagement.nl
 https://webshop.voedingscentrum.nl
 https://webshopprof.voedingscentrum.nl
 https://website.douane.nl
-https://webstatistieken.kb.nl
-https://webstatistiekenwaas.kb.nl
 https://webtest.cokz.nl
-https://webwinkel.kb.nl
 https://weekvanhetgeld.nl
 https://weekvanhetgeld.wijzeringeldzaken.nl
 https://weerbaarbestuur.nl
@@ -11542,9 +11549,6 @@ https://www-acc.schadefonds.nl
 https://www-acceptatie2.werkenbijdeoverheid.nl
 https://www-b.natuurinbeeld.nederlandsesoorten.nl
 https://www-c.natuurinbeeld.nederlandsesoorten.nl
-https://www-ingentaconnect-com.access.authkb.kb.nl
-https://www-jstor-org.access.authkb.kb.nl
-https://www-oxfordmusiconline-com.access.authkb.kb.nl
 https://www-preprod.officielebekendmakingen.nl
 https://www-sandbox.werkenbijdeoverheid.nl
 https://www-sandbox.werkenvoornederland.nl
@@ -11646,7 +11650,6 @@ https://www.ambtelijkerechtspositie.nl
 https://www.amlc.eu
 https://www.amlc.nl
 https://www.animalfreeinnovationtpi.nl
-https://www.annotatedleadingcases.com.access.authkb.kb.nl
 https://www.antennebureau.nl
 https://www.antenneregister.nl
 https://www.antisemitismebestrijding.nl
@@ -11671,7 +11674,6 @@ https://www.arboportaal.nl
 https://www.arcgis.com
 https://www.archief.nwo-i.nl
 https://www.architectenregister.nl
-https://www.arkyves.org.access.authkb.kb.nl
 https://www.asbestvolgsysteem.nl
 https://www.asbestvrijdak.nl
 https://www.atgb.nl
@@ -11901,7 +11903,6 @@ https://www.dcc-ienw.nl
 https://www.dcypher.nl
 https://www.deafsluitdijk.nl
 https://www.defensie.nl
-https://www.degruyter.com.access.authkb.kb.nl
 https://www.dejuistezorgopdejuisteplek.nl
 https://www.dekinderombudsman.nl
 https://www.delichtkogel.nl
@@ -12225,7 +12226,6 @@ https://www.kansspelautoriteit.nl
 https://www.kantinescan.voedingscentrum.nl
 https://www.kantinescanacc.voedingscentrum.nl
 https://www.kantinescanrgk.voedingscentrum.nl
-https://www.kb.nl
 https://www.kbvg.nl
 https://www.kcb.nl
 https://www.kcbr.nl
@@ -12813,7 +12813,6 @@ https://www.startmetdelen.nl
 https://www.startmetoesorichtlijnen.nl
 https://www.startpagina.sap.minienm.nl
 https://www.staten-generaal.nl
-https://www.statesmansyearbook.com.access.authkb.kb.nl
 https://www.stats.one-conference.nl
 https://www.stelselcatalogus.nl
 https://www.sterkmedezeggenschap.nl
@@ -12837,7 +12836,6 @@ https://www.sustainabilitymethod.nl
 https://www.svb.nl
 https://www.svdj.nl
 https://www.swap.alterra.nl
-https://www.swetswise.com.access.authkb.kb.nl
 https://www.symposium.keringhuis.nl
 https://www.synbiosys.alterra.nl
 https://www.t.valys.nl
