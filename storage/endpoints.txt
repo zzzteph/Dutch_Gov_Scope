@@ -169,6 +169,7 @@ http://autodiscover.huygens.knaw.nl
 http://autodiscover.iac.knaw.nl
 http://autodiscover.ictu.nl
 http://autodiscover.ihw.nl
+http://autodiscover.kadaster.nl
 http://autodiscover.knaw.nl
 http://autodiscover.knmi.nl
 http://autodiscover.kvk.nl
@@ -235,6 +236,7 @@ http://bibliotheek.gezondeleefomgeving.nl
 http://biomap-mass-eoeea.hub.arcgis.com
 http://birdviewer.rws.nl
 http://bmw9520.waddenzee.nl
+http://brt.kadaster.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
 http://bzv-a.brabant.nl
@@ -2378,8 +2380,6 @@ https://akgeomaps-akgeographic.hub.arcgis.com
 https://akgeosummit-soa-dnr.hub.arcgis.com
 https://akkoordverbeteringproductsamenstelling.nl
 https://akronohio-covid-19-response-hub-akrongis.hub.arcgis.com
-https://akteviewer.brk.kadaster.nl
-https://akteviewer.brk.test.kadaster.nl
 https://al-i.espacenet.com
 https://al.espacenet.com
 https://alameda-and-contra-costa-county-regional-priority-plan-ccrcd.hub.arcgis.com
@@ -3247,6 +3247,7 @@ https://betaopendata.cbs.nl
 https://betaversie.lees-rijk.nl
 https://beterbediend.rws.nl
 https://beterwordenvancorona.zuid-holland.nl
+https://beveiligd.kadaster.nl
 https://bevolkingsprognose.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://bewegingsonderwijs.slo.nl
@@ -3454,7 +3455,6 @@ https://browse.nexus.vm-02.azure.grid.rws.nl
 https://browser.dataplatform.knmi.nl
 https://brt.basisregistraties.overheid.nl
 https://brt.cloud.kadaster.nl
-https://brt.kadaster.nl
 https://brt.test.basisregistraties.overheid.nl
 https://bruce-county-open-spatial-data-brucecounty.hub.arcgis.com
 https://brunswickcap-gpcog.hub.arcgis.com
@@ -3545,6 +3545,7 @@ https://canyon-comeback-marioncounty.hub.arcgis.com
 https://cao.minszw.nl
 https://caop.nl
 https://caorijk.nl
+https://cap.internal.kadaster.nl
 https://capi.cbs.nl
 https://carbonbudgetexplorer.eu
 https://cares-act-arp-meckgov.hub.arcgis.com
@@ -3720,7 +3721,9 @@ https://cia.acp.ondernemersplein.overheid.nl
 https://cia.ondernemersplein.overheid.nl
 https://cia.staging.ondernemersplein.overheid.nl
 https://cia.tst.ondernemersplein.overheid.nl
+https://ciam.cloud.kadaster.nl
 https://ciam.rvo.nl
+https://ciam.test.cloud.kadaster.nl
 https://cibbrina.eu
 https://cibg.nl
 https://cibg.sitearchief.nl
@@ -4132,6 +4135,7 @@ https://csotest.werkenvoornederland.nl
 https://csp.minienm.nl
 https://cspe-app.cito.nl
 https://cst-syslog.test.cloud.kadaster.nl
+https://cst.cloud.kadaster.nl
 https://cst.kadaster.nl
 https://cstm.rivm.nl
 https://cta.rvo.nl
@@ -4500,6 +4504,8 @@ https://dgs.dnb.nl
 https://dgsa.dnb.nl
 https://dgsp.dnb.nl
 https://dgv.nl
+https://dhub.cloud.kadaster.nl
+https://dhub.test.cloud.kadaster.nl
 https://di.huc.knaw.nl
 https://dia-acceptatie.rijksapplicaties.nl
 https://dia.rijksapplicaties.nl
@@ -4739,10 +4745,12 @@ https://dsbrennan.github.io
 https://dsm.odc-noord.nl
 https://dso.brabant.nl
 https://dso.cloud.kadaster.nl
+https://dso.kadaster.nl
 https://dso.test.kadaster.nl
 https://dsolv.cloud.kadaster.nl
 https://dsolv.test.cloud.kadaster.nl
 https://dsom-int.dsolv.test.cloud.kadaster.nl
+https://dsom-pro.dsolv.cloud.kadaster.nl
 https://dsov-viewer-documentatie.kadaster-it.github.io
 https://dsp-security-workflows.github.io
 https://dsp.cjib.nl
@@ -5167,6 +5175,7 @@ https://esri-disasterresponse.hub.arcgis.com
 https://et.chm-cbd.net
 https://etalage.ifv.nl
 https://etalagetest.ifv.nl
+https://etc.cloud.kadaster.nl
 https://etc.test.cloud.kadaster.nl
 https://etender.dnb.nl
 https://etl.rijkswaterstaat.nl
@@ -5572,12 +5581,14 @@ https://formulieren.brabant.nl
 https://formulieren.caop.nl
 https://formulieren.dnb.nl
 https://formulieren.flevoland.nl
+https://formulieren.kadaster.nl
 https://formulieren.kansspelautoriteit.nl
 https://formulieren.kb.nl
 https://formulieren.lbio.nl
 https://formulieren.limburg.nl
 https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
+https://formulieren.pre-prod.kadaster.nl
 https://formulieren.rechtspraak.nl
 https://formulieren.svb.nl
 https://formulieren.uwv.nl
@@ -5628,6 +5639,7 @@ https://fwd.maps.arcgis.com
 https://fysiekebelasting.tno.nl
 https://g4aw.spaceoffice.nl
 https://ga.chm-cbd.net
+https://gaa.acceptatie.kadaster.nl
 https://gaa.test.kadaster.nl
 https://galerij.kb.nl
 https://galway-city-council-opendata-galwaycityco.hub.arcgis.com
@@ -5791,6 +5803,7 @@ https://gip-a.minbzk.nl
 https://gip.minbzk.nl
 https://gipdatabank.nl
 https://gird.cloud.kadaster.nl
+https://gird.test.cloud.kadaster.nl
 https://gis-covalent.hub.arcgis.com
 https://gis-dedham.hub.arcgis.com
 https://gis-egle.hub.arcgis.com
@@ -6450,6 +6463,8 @@ https://itsupport.nza.nl
 https://iuc-noord.nl
 https://iucn-acc.topdesk.odc-noord.nl
 https://iucn-prd.topdesk.odc-noord.nl
+https://iv.cloud.kadaster.nl
+https://iv.test.cloud.kadaster.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-controle.beta.cbs.nl
 https://iv3-controle.cbs.nl
@@ -8476,6 +8491,7 @@ https://oproepingen-api-preprd-poc.overheid.nl
 https://oproepingen-api.overheid.nl
 https://oproepingen-preprd.overheid.nl
 https://ops.dhub.cloud.kadaster.nl
+https://ops.dhub.test.cloud.kadaster.nl
 https://optimaaldigitaal.gebruikercentraal.nl
 https://opvangportaal-acc.nidos.nl
 https://opvangportaal.nidos.nl
@@ -8874,6 +8890,7 @@ https://preprod-machtigen.digipoort.logius.nl
 https://preprod.begrippen.stelselcatalogus.nl
 https://preprod.beterbediend.rws.nl
 https://preprod.capacitor.pleio.nl
+https://preprod.document-viewer.dso.kadaster.nl
 https://preprod.editor.stelselcatalogus.nl
 https://preprod.ep-online.nl
 https://preprod.iam.rijkswaterstaat.nl
@@ -9810,6 +9827,9 @@ https://sip.rijksrecherche.nl
 https://sip1.hetcak.nl
 https://sip2.hetcak.nl
 https://sipfed.coa.nl
+https://sis-api.ontw.cloud.kadaster.nl
+https://sis-developer.ontw.cloud.kadaster.nl
+https://sis-mngmtapim.ontw.cloud.kadaster.nl
 https://site.ptvt.nl
 https://sitearchief.nl
 https://sitecore.staatsbosbeheer.nl

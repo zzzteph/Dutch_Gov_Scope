@@ -2040,6 +2040,7 @@ acceptatie.omgevingswet.overheid.nl
 acceptatie.onderzoeksraad.nl
 acceptatie.ordz.nl
 acceptatie.osiris.rivm.nl
+acceptatie.ozontokoop.dso.kadaster.nl
 acceptatie.pacemweb.nl
 acceptatie.password.osiris.rivm.nl
 acceptatie.passwordreset.rws.nl
@@ -3432,6 +3433,7 @@ autodiscover.informatiehuismarien.nl
 autodiscover.inspectie-oe.nl
 autodiscover.iuc-noord.nl
 autodiscover.justid.nl
+autodiscover.kadaster.nl
 autodiscover.kenniscentrum-oo.nl
 autodiscover.knaw.nl
 autodiscover.knmi.nl
@@ -4891,6 +4893,8 @@ chat.rijkscloud.nl
 chat.tst.rijkscloud.nl
 chat2.ncsc.nl
 chatapi.klopt.cibg.nl
+chatgpt.dst.kadaster.nl
+chatgpt.dst.test.kadaster.nl
 chattanooga-bike-to-work-day-chcrpa.hub.arcgis.com
 check.opwegnaarzes.nl
 checkjeprijs.huurcommissie.nl
@@ -4921,7 +4925,9 @@ cia.acp.ondernemersplein.overheid.nl
 cia.ondernemersplein.overheid.nl
 cia.staging.ondernemersplein.overheid.nl
 cia.tst.ondernemersplein.overheid.nl
+ciam.cloud.kadaster.nl
 ciam.rvo.nl
+ciam.test.cloud.kadaster.nl
 cib-dev.knmi.nl
 cibbrina.eu
 cibg.nl
@@ -5597,6 +5603,7 @@ cspe-app.cito.nl
 csr.rvr.org
 csr.tno.nl
 cst-syslog.test.cloud.kadaster.nl
+cst.cloud.kadaster.nl
 cst.kadaster.nl
 cst.rijkscloud.nl
 cstm.rivm.nl
@@ -5858,6 +5865,9 @@ datawonen.nl
 dati-annuali-rete-arpas-2021-arpas.hub.arcgis.com
 datumprikker.belastingdienst.nl
 dav.enlets.politie.nl
+daw.acceptatie.kadaster.nl
+daw.kadaster.nl
+daw.test.kadaster.nl
 daws1.dopingautoriteit.nl
 db.cbg-meb.nl
 db.kvk.nl
@@ -6203,6 +6213,8 @@ dhcp2.ec.rijkscloud.nl
 dhcp2.gn1.rijkscloud.nl
 dhcp2.gn3.rijkscloud.nl
 dhcp2.rw1.rijkscloud.nl
+dhub.cloud.kadaster.nl
+dhub.test.cloud.kadaster.nl
 di.acm.nl
 di.huc.knaw.nl
 di.idp.knaw.nl
@@ -6634,10 +6646,13 @@ dse.lx.overheid.nl
 dsm.odc-noord.nl
 dso.brabant.nl
 dso.cloud.kadaster.nl
+dso.kadaster.nl
 dso.test.kadaster.nl
 dsolv.cloud.kadaster.nl
 dsolv.test.cloud.kadaster.nl
 dsom-int.dsolv.test.cloud.kadaster.nl
+dsom-pro.dsolv.cloud.kadaster.nl
+dsomtokoop.dso.kadaster.nl
 dsov-viewer-documentatie.kadaster-it.github.io
 dsp-security-workflows.github.io
 dsp.cjib.nl
@@ -7289,6 +7304,7 @@ esri-disasterresponse.hub.arcgis.com
 et.chm-cbd.net
 etalage.ifv.nl
 etalagetest.ifv.nl
+etc.cloud.kadaster.nl
 etc.test.cloud.kadaster.nl
 etender.dnb.nl
 etl.rijkswaterstaat.nl
@@ -7389,6 +7405,7 @@ examenorganisator.ibki.nl
 examenplein.cvte.nl
 examinator.ibki.nl
 examinatoragenda.cbr.nl
+example-app.kadaster.nl
 excellentescholen.nl
 exchange-mit.rva.nl
 exchange-uw.intern.reclassering.nl
@@ -8039,6 +8056,7 @@ functiegebouwrijksoverheid.nl
 functiemix.nl
 fvp.rijksapplicaties.nl
 fvp.staging.rijksapplicaties.nl
+fw.ie.kadaster.nl
 fwd.maps.arcgis.com
 fwtrack.dmi-ecosysteem.nl
 fysiekebelasting.tno.nl
@@ -8361,6 +8379,7 @@ giraal.cc6.dnb.nl
 giraal.cc7.dnb.nl
 giraal.cc8.dnb.nl
 gird.cloud.kadaster.nl
+gird.test.cloud.kadaster.nl
 gis-art.cvr.rvb.rijkscloud.nl
 gis-art.devops.rvb.rijkscloud.nl
 gis-covalent.hub.arcgis.com
@@ -9060,16 +9079,31 @@ ienrregister.rvo.nl
 iens.politie.nl
 ienx001.ie.kadaster.nl
 ienx225.ie.kadaster.nl
+ienx226.ie.kadaster.nl
+iep102.ie.kadaster.nl
+iep103.ie.kadaster.nl
 iep104.ie.kadaster.nl
+iep105.ie.kadaster.nl
+iep106.ie.kadaster.nl
 iep107.ie.kadaster.nl
 iep110.ie.kadaster.nl
+iep117.ie.kadaster.nl
+iep119.ie.kadaster.nl
 iep122.ie.kadaster.nl
+iep123.ie.kadaster.nl
+iep124.ie.kadaster.nl
 iep126.ie.kadaster.nl
 iep127.ie.kadaster.nl
+iep128.ie.kadaster.nl
+iep166.ie.kadaster.nl
+iep211.ie.kadaster.nl
+iep230.ie.kadaster.nl
 iep234.ie.kadaster.nl
+iep235.ie.kadaster.nl
 iep238.ie.kadaster.nl
 iep250.ie.kadaster.nl
 ier-online.douane.nl
+ieu232.ie.kadaster.nl
 iex.acc.belastingdienst.nl
 ifv.nl
 igis.ilt.rijkscloud.nl
@@ -9532,6 +9566,8 @@ iuc-noord.nl
 iuc-wsgi-acc.rijkscloud.nl
 iucn-acc.topdesk.odc-noord.nl
 iucn-prd.topdesk.odc-noord.nl
+iv.cloud.kadaster.nl
+iv.test.cloud.kadaster.nl
 iv3-controle-api.cbs.nl
 iv3-controle.beta.cbs.nl
 iv3-controle.cbs.nl
@@ -11265,6 +11301,7 @@ mailserver.notificatie.pzp.nl
 mailserver.pzp.nl
 mailserver.service.nvwa.nl
 maine.hub.arcgis.com
+maintenance.kadaster.nl
 mam.ctgb.nl
 mam.duo.nl
 mam.justid.nl
@@ -12159,6 +12196,7 @@ ms.gds.kadaster.nl
 ms.gds.test.kadaster.nl
 ms.geoportal.acceptatie.kadaster.nl
 ms.geoportal.kadaster.nl
+ms.gnss.kadaster.nl
 ms.gus.acceptatie.kadaster.nl
 ms.gus.kadaster.nl
 ms.gus.test.kadaster.nl
@@ -12198,6 +12236,7 @@ ms.or.test.kadaster.nl
 ms.orkr.acceptatie.kadaster.nl
 ms.orkr.kadaster.nl
 ms.orkr.test.kadaster.nl
+ms.pdok.kadaster.nl
 ms.releaseberichten.acceptatie.kadaster.nl
 ms.sandbox.geoportal.test.kadaster.nl
 ms.sandbox.kir.test.kadaster.nl
@@ -13163,6 +13202,7 @@ ontw-cmapi-cmpreview-pzpdirect.pzp.nl
 ontw-cmapi-cmpreview-www.pzp.nl
 ontw-cmpreview-pzpdirect.pzp.nl
 ontw-cmpreview-www.pzp.nl
+ontw-kadata.kadaster.nl
 ontw-kadatamobiel.kadaster.nl
 ontw-kadatawebservice.kadaster.nl
 ontw-mijn.kadaster.nl
@@ -13480,6 +13520,7 @@ ops-o-no-apigee.espacenet.com
 ops-test.espacenet.com
 ops-u.espacenet.com
 ops.dhub.cloud.kadaster.nl
+ops.dhub.test.cloud.kadaster.nl
 ops.espacenet.com
 optimaaldigitaal.gebruikercentraal.nl
 opvangportaal-acc.nidos.nl
@@ -13653,6 +13694,7 @@ owa01.rechtspraak.nl
 owaext.rws.nl
 owas1.nba.nl
 oxfordartonline.com.access.authkb.kb.nl
+ozontokoop.dso.kadaster.nl
 p-bbox-encr-tvs.rvo.nl
 p-bbox-sign-tvs.rvo.nl
 p-crl.justid.nl
@@ -14415,6 +14457,7 @@ portal.cibg.nl
 portal.cito.nl
 portal.datascience.rijkscloud.nl
 portal.dmi-ecosysteem.nl
+portal.dsov.kadaster.nl
 portal.ec.rijkscloud.nl
 portal.entreepgb.svb.nl
 portal.ewnederland.nl
@@ -14579,6 +14622,7 @@ preprod.begrippen.stelselcatalogus.nl
 preprod.beterbediend.rws.nl
 preprod.bvd.logius.nl
 preprod.capacitor.pleio.nl
+preprod.document-viewer.dso.kadaster.nl
 preprod.editor.stelselcatalogus.nl
 preprod.efiling.mijnoctrooi.rvo.nl
 preprod.ep-online.nl
@@ -18555,7 +18599,6 @@ vault.efiling.mijnoctrooi.rvo.nl
 vault.lpc.logius.nl
 vault.vechtstromen.nl
 vaultfs.vechtstromen.nl
-vbond01.ksh.kadaster.nl
 vbu.acp.kvk.nl
 vbu.kvk.nl
 vc.belastingdienst.nl
@@ -18819,7 +18862,6 @@ vliegbewijsonbemandeluchtvaartuigencontroleren.rdw.nl
 vliegtuiggeluid.nl
 vluchtinfo-test.douane.nl
 vm-ivra.ndw.nu
-vmanage02.ksh.kadaster.nl
 vnacs.nl
 vng.databank.nl
 vno.minbzk.nl
@@ -20776,6 +20818,7 @@ www.kaartenvannederland.nl
 www.kabinetsformatie2023.nl
 www.kabinetvandekoning.nl
 www.kadaster.com
+www.kadaster.nl
 www.kamerindeklas.nl
 www.kamervoordebinnenvisserij.nl
 www.kansrijkestartnl.nl
