@@ -1,6 +1,12 @@
 cdn.kcb.nl
+citrix.kcb.nl
+dcs01.kcb.nl
+kcb-a-azure.kcb.nl
+kcb-p-dc001.kcb.nl
 kcb-p-dc002.kcb.nl
 kcb.nl
+kcbuf01.kcb.nl
+ldaps.kcb.nl
 ma.kcb.nl
 mail.kcb.nl
 portaal-acc.kcb.nl
@@ -9,5 +15,8 @@ st.kcb.nl
 webmail.kcb.nl
 werkenbij.kcb.nl
 wireframes.kcb.nl
+www.dcs01.kcb.nl
 www.kcb-p-dc002.kcb.nl
 www.kcb.nl
+www.kcbuf01.kcb.nl
+www.ma.kcb.nl

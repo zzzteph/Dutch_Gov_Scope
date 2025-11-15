@@ -4989,6 +4989,7 @@ citoconnect.cito.nl
 citocountingservice-a.secure.cito.nl
 citocountingservice.secure.cito.nl
 citotoets.cito.nl
+citrix.kcb.nl
 city-of-akron-leaf-collection-operations-akrongis.hub.arcgis.com
 city-of-bryant-parks-master-plan-update-2022-bryant.hub.arcgis.com
 city-of-burleson-covid19-statistics-bur.hub.arcgis.com
@@ -5933,6 +5934,7 @@ dcmp-upnl-idp.rvo.nl
 dcmr.databank.nl
 dcp-time-slot.cbg-meb.nl
 dcpp.ssc-ict.nl
+dcs01.kcb.nl
 dcypher.nl
 ddapi-preprod.gslb.rws.nl
 ddapi-preprod.rws.nl
@@ -10162,9 +10164,12 @@ kbs-productie.suwinet.uwv.nl
 kbvg.nl
 kc.ilent.nl
 kc31.dans.knaw.nl
+kcb-a-azure.kcb.nl
+kcb-p-dc001.kcb.nl
 kcb-p-dc002.kcb.nl
 kcb.nl
 kcbr.nl
+kcbuf01.kcb.nl
 kcd.rechtspraak.nl
 kcwj.nl
 kda.rijksapplicaties.nl
@@ -10560,6 +10565,7 @@ lcnk.nl
 lcp.databank.nl
 ldap.cultuurparticipatie.nl
 ldap.zovar.nl
+ldaps.kcb.nl
 ldaps.stimuleringsfonds.nl
 ldentool.nl
 ldn-inbox.labs.dans.knaw.nl
@@ -20595,6 +20601,7 @@ www.datavoorgezondheid.nl
 www.datawonen.nl
 www.dcat-ap-donl.nl
 www.dcc-ienw.nl
+www.dcs01.kcb.nl
 www.dcypher.nl
 www.deafsluitdijk.nl
 www.deeljekennis.s-bb.nl
@@ -21002,6 +21009,7 @@ www.kbvg.nl
 www.kcb-p-dc002.kcb.nl
 www.kcb.nl
 www.kcbr.nl
+www.kcbuf01.kcb.nl
 www.kcwj.nl
 www.kemprogramma.nl
 www.kenniscentrum-oo.nl
@@ -21115,6 +21123,7 @@ www.lvmb.nl
 www.lvnl.nl
 www.lync.nba.nl
 www.lzalpkcommissie.nl
+www.ma.kcb.nl
 www.maakhetzeniettemakkelijk.nl
 www.maatschappelijkeonrust.nl
 www.maatschappelijkestabiliteit.nl
