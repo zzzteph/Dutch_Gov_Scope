@@ -2987,6 +2987,9 @@ https://autorisatie-t.cito.nl
 https://autorisatie.cito.nl
 https://autorisatie.iam.acceptatie.kadaster.nl
 https://autorisatie.iam.kadaster.nl
+https://autorisatieportaal.dev.kvk.nl
+https://autorisatieportaal.test.kvk.nl
+https://autorisatieportaal.uat.kvk.nl
 https://autorisatieregister-acc.datastelselverduurzamingutiliteit.nl
 https://autorisatieregister.datastelselverduurzamingutiliteit.nl
 https://autoriteitnvs.nl
@@ -6165,6 +6168,7 @@ https://identificatie.rdi.nl
 https://identifier-preprod.officielebekendmakingen.nl
 https://identifier-preprod.overheid.nl
 https://identifier.officielebekendmakingen.nl
+https://identitybroker.npo.kvk.nl
 https://idm-bzk.staging.rijksapplicaties.nl
 https://idm.k8sauth.pleio.nl
 https://idp-dgp.preproductie.digipoort.logius.nl
@@ -9391,6 +9395,7 @@ https://reset.reclassering.nl
 https://resolver.dans.knaw.nl
 https://resolver.pre.omgevingswet.overheid.nl
 https://resolver.tno.nl
+https://rest.acp.kvk.nl
 https://rest.crimediggers.nl
 https://rest.kvk.nl
 https://rest.preprod.kvk.nl

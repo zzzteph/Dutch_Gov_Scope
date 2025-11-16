@@ -1,5 +1,4 @@
 acp.kvk.nl
-acp.osb.kvk.nl
 adfs.kvk.nl
 admin.tbadmin.dev.kvk.nl
 admin.tbadmin.kvk.nl
@@ -13,6 +12,9 @@ appdata.kvk.nl
 appstore.kvk.nl
 assets.kvk.nl
 autodiscover.kvk.nl
+autorisatieportaal.dev.kvk.nl
+autorisatieportaal.test.kvk.nl
+autorisatieportaal.uat.kvk.nl
 av.kvk.nl
 av2.kvk.nl
 bedrijventeller.kvk.nl
@@ -45,8 +47,6 @@ downloads.kvk.nl
 downloadservice.acp.kvk.nl
 downloadservice.kvk.nl
 e.kvk.nl
-ebms.kvk.nl
-ebms2.kvk.nl
 events.kvk.nl
 facturen.kvk.nl
 git.dev.kvk.nl
@@ -55,8 +55,7 @@ gsa01.kvk.nl
 gsa02.kvk.nl
 gw1.kvk.nl
 hallo.kvk.nl
-hrs-slave.acp.osb.kvk.nl
-hrs-slave.osb.kvk.nl
+identitybroker.npo.kvk.nl
 idp.acp.kvk.nl
 idp.dev.kvk.nl
 idp.kvk.nl
@@ -91,7 +90,6 @@ opendata.acp.kvk.nl
 opendata.kvk.nl
 opendata.preprod.kvk.nl
 osb.kvk.nl
-osbk.kvk.nl
 payt.kvk.nl
 pki-g2.kvk.nl
 regiodata.kvk.nl
@@ -101,8 +99,12 @@ relay.acp.kvk.nl
 rest.acp.kvk.nl
 rest.kvk.nl
 rest.preprod.kvk.nl
+s2._domainkey.kvk.nl
 schemas.kvk.nl
 search.acp.kvk.nl
+sel1._domainkey.lms.kvk.nl
+sel2._domainkey.lms.kvk.nl
+selector2._domainkey.kvk.nl
 server2.db.kvk.nl
 server4.db.kvk.nl
 sip2.kvk.nl
@@ -119,10 +121,8 @@ tbserver.dev.kvk.nl
 tbserver.kvk.nl
 tbserver.npo.kvk.nl
 test.kvk.nl
-testserver.osb.kvk.nl
 toegang.beheer.kvk.nl
 tst.kvk.nl
-tst.osb.kvk.nl
 vbu.acp.kvk.nl
 vbu.kvk.nl
 view.email.kvk.nl
@@ -137,13 +137,8 @@ webmail.kvk.nl
 webservices-deprecated.preprod.kvk.nl
 webservices.acp.kvk.nl
 webservices.kvk.nl
-webservices.osb.kvk.nl
 webservices.preprod.kvk.nl
-webservices.preprod.osb.kvk.nl
 webservices.tst.kvk.nl
-webservices11.preprod.osb.kvk.nl
-webservices5.acp.osb.kvk.nl
-webservices6.acp.osb.kvk.nl
 website.acp.kvk.nl
 website.kvk.nl
 werkenbij.kvk.nl

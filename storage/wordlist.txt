@@ -231,7 +231,6 @@ samenwerken
 wachtwoord
 conf
 crm
-ebms
 status
 a-cms
 sf
@@ -315,6 +314,7 @@ av
 ts
 accounts
 cbs
+ebms
 uag
 vpn1
 stijlgids
@@ -610,6 +610,7 @@ a-voorlichting
 acc.opendata
 projecten-acc
 opleiding
+selector2._domainkey
 formulieren-acc
 zandbak
 odin
@@ -814,7 +815,6 @@ autodiscover.test
 certificaten
 monitoring
 webmail.test
-ebms2
 facturen
 lync1
 opendata.acp
@@ -3361,7 +3361,6 @@ test.actueel
 asbestovertredingen
 resultaten
 selector1._domainkey
-selector2._domainkey
 test.portaal
 acc.inspectieresultaten
 acc2.inspectieresultaten
@@ -11528,7 +11527,6 @@ _dc-mx.dddce9f5a2d1
 commissie
 committee
 acp
-acp.osb
 admin.tbadmin.dev
 admin.tbadmin
 admin.tbadmin.npo
@@ -11537,6 +11535,9 @@ apim01.npo.cloud001
 apim01.prd.cloud001
 apiservices99
 appdata
+autorisatieportaal.dev
+autorisatieportaal.test
+autorisatieportaal.uat
 av2
 bedrijventeller
 beheervpn
@@ -11564,8 +11565,7 @@ gsa01
 gsa02
 gw1
 hallo
-hrs-slave.acp.osb
-hrs-slave.osb
+identitybroker.npo
 idp.acp
 idp.dev
 idp.npo
@@ -11588,7 +11588,6 @@ ondertekenen-id.acp
 ondertekenen-id
 ondertekenen.acp
 opendata.preprod
-osbk
 payt
 pki-g2
 regiodata
@@ -11596,7 +11595,10 @@ registry.dev
 relay.acp
 rest.acp
 rest.preprod
+s2._domainkey
 search.acp
+sel1._domainkey.lms
+sel2._domainkey.lms
 server2.db
 server4.db
 solliciteer-direct
@@ -11608,9 +11610,7 @@ tbadmin.npo
 tbserver.dev
 tbserver
 tbserver.npo
-testserver.osb
 toegang.beheer
-tst.osb
 vbu.acp
 vbu
 view.email
@@ -11622,13 +11622,8 @@ web-api
 web2
 webservices-deprecated.preprod
 webservices.acp
-webservices.osb
 webservices.preprod
-webservices.preprod.osb
 webservices.tst
-webservices11.preprod.osb
-webservices5.acp.osb
-webservices6.acp.osb
 website.acp
 www.bedrijventeller
 www.locatiescan
@@ -12927,6 +12922,7 @@ dgp2
 diginetwerk
 ebms-internet
 ebms-internet2
+ebms2
 emachtigen-beheer
 emachtigen-dashboard
 emachtigen-diginetwerk

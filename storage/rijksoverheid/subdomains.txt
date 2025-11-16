@@ -2239,7 +2239,6 @@ acp.kvk.nl
 acp.live.rijkswaterstaat.nl
 acp.live.werkenbij.rijkswaterstaat.nl
 acp.ondernemersplein.overheid.nl
-acp.osb.kvk.nl
 acp.staging.rijkswaterstaat.nl
 acp.staging.werkenbij.rijkswaterstaat.nl
 acpt-bd-internet.procesinfrastructuur.nl
@@ -3552,6 +3551,9 @@ autorisatie.iam.acceptatie.kadaster.nl
 autorisatie.iam.kadaster.nl
 autorisatie.iam.test.kadaster.nl
 autorisatie.rechtspraak.nl
+autorisatieportaal.dev.kvk.nl
+autorisatieportaal.test.kvk.nl
+autorisatieportaal.uat.kvk.nl
 autorisatieregister-acc.datastelselverduurzamingutiliteit.nl
 autorisatieregister.datastelselverduurzamingutiliteit.nl
 autoriteitnvs.nl
@@ -6900,11 +6902,9 @@ ebms-ted.nationaalarchief.nl
 ebms.cbs.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
-ebms.kvk.nl
 ebms.nationaalarchief.nl
 ebms.procesinfrastructuur.nl
 ebms.service.bta.omgevingswet.overheid.nl
-ebms2.kvk.nl
 ebms2.procesinfrastructuur.nl
 ebookmessage.kb.nl
 ebs-a.knaw.nl
@@ -8961,8 +8961,6 @@ hr-sectorwaterschappen.databank.nl
 hr.espacenet.com
 hrc.ba.uwv.nl
 hrcommunityrijk.nl
-hrs-slave.acp.osb.kvk.nl
-hrs-slave.osb.kvk.nl
 hrz-uag-ext.belastingdienst.nl
 hs.bics.nl
 hsacc.bics.nl
@@ -9123,6 +9121,7 @@ identifier-preprod.overheid.nl
 identifier.officielebekendmakingen.nl
 identifier.overheid.nl
 identity.coa.nl
+identitybroker.npo.kvk.nl
 idm-bzk.staging.rijksapplicaties.nl
 idm-int.erp.kadaster.nl
 idm-test.politie.nl
@@ -13783,7 +13782,6 @@ osb.flevoland.nl
 osb.kvk.nl
 osbacc.flevoland.nl
 osbacc.hhdelfland.nl
-osbk.kvk.nl
 osg-prx1.gn2.rijkscloud.nl
 osg-prx1.gn3.rijkscloud.nl
 osg-prx2.gn2.rijkscloud.nl
@@ -16246,6 +16244,7 @@ s1.toeslagen.nl
 s10011-out.eerstekamer.nl
 s10013-out.eerstekamer.nl
 s2-acc1.toeslagen.nl
+s2._domainkey.kvk.nl
 s2.toeslagen.nl
 s3-acc1.toeslagen.nl
 s3.acc.etoegang.nl
@@ -16540,7 +16539,10 @@ seg.bij.hetcak.nl
 seg.cbs.nl
 seg.duo.nl
 sekswerkgoedgeregeld.nl
+sel1._domainkey.lms.kvk.nl
+sel2._domainkey.lms.kvk.nl
 selector1._domainkey.nlarbeidsinspectie.nl
+selector2._domainkey.kvk.nl
 selector2._domainkey.nlarbeidsinspectie.nl
 selfservice.dhub.in.kadaster.nl
 selfservice.onderzoeksraad.nl
@@ -18280,7 +18282,6 @@ testreporter.secure.cito.nl
 testresultaten-webdav.vm-05.azure.grid.rws.nl
 testresultaten.vm-05.azure.grid.rws.nl
 tests.constructieplatform.cito.nl
-testserver.osb.kvk.nl
 testsiam.minszw.nl
 testtunnelmdm.flevoland.nl
 testuitslagen.coronatest.nl
@@ -18645,7 +18646,6 @@ tst.ondernemersplein.overheid.nl
 tst.onlineform.culture.gov.nl
 tst.opendata.nederlandwereldwijd.nl
 tst.orangecorners.com
-tst.osb.kvk.nl
 tst.protocol.mfaservices.nl
 tst.schadedoormijnbouw.nl
 tst.service.mpn.minienm.nl
@@ -19818,10 +19818,8 @@ webservices.hdsr.nl
 webservices.kvk.nl
 webservices.lrza.cibg.nl
 webservices.om.nl
-webservices.osb.kvk.nl
 webservices.pbl.nl
 webservices.preprod.kvk.nl
-webservices.preprod.osb.kvk.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
@@ -19830,10 +19828,7 @@ webservices.str30.acc.belastingdienst.nl
 webservices.tenderned.nl
 webservices.tst.kvk.nl
 webservices1.dictu.nl
-webservices11.preprod.osb.kvk.nl
 webservices2.dictu.nl
-webservices5.acp.osb.kvk.nl
-webservices6.acp.osb.kvk.nl
 webshop-mijn.s-bb.nl
 webshop.incidentmanagement.nl
 webshop.onderwijsraad.nl
