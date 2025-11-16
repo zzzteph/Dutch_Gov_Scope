@@ -3314,6 +3314,7 @@ ats-test.knaw.nl
 ats.knaw.nl
 attachments.mail.onderzoeksraad.nl
 atviri-duomenys-ltdata.hub.arcgis.com
+audit.keurmerk.nl
 auditdienstrijk.nl
 augurk.cultuurparticipatie.nl
 augustagis.maps.arcgis.com
@@ -3457,6 +3458,7 @@ autodiscover.kadaster.nl
 autodiscover.kb.nl
 autodiscover.kbvg.nl
 autodiscover.kenniscentrum-oo.nl
+autodiscover.keurmerk.nl
 autodiscover.knaw.nl
 autodiscover.knmi.nl
 autodiscover.kolonialecollecties.nl
@@ -7934,7 +7936,9 @@ fmis-nvwa.justid.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 fmis.tno.nl
+fmp-poc.keurmerk.nl
 fmreturn.acm.nl
+fms.keurmerk.nl
 focus.jitsi.rijkscloud.nl
 fondspodiumkunsten.nl
 fonts.cbs.nl
@@ -11197,6 +11201,7 @@ mail.incca.org
 mail.infowms.nl
 mail.isdatechtzo.nl
 mail.kcb.nl
+mail.keurmerk.nl
 mail.knooppuntjoure.nl
 mail.koop.overheid.nl
 mail.kvk.nl
@@ -15618,6 +15623,7 @@ remote.dnb.nl
 remote.dopingautoriteit.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
+remote.keurmerk.nl
 remote.letterenfonds.nl
 remote.onderzoeksraad.nl
 remote.services.acm.nl
@@ -21028,6 +21034,7 @@ www.kennisplatformwerkeninkomen.nl
 www.kennisvandeoverheid.nl
 www.kenniswijzer.rvr.org
 www.keringhuis.nl
+www.keurmerk.nl
 www.keyhub.onderzoeksraad.nl
 www.kidsacc.minvws.nl
 www.kiesraad.nl

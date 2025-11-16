@@ -172,6 +172,7 @@ http://autodiscover.ictu.nl
 http://autodiscover.ihw.nl
 http://autodiscover.kadaster.nl
 http://autodiscover.kbvg.nl
+http://autodiscover.keurmerk.nl
 http://autodiscover.knaw.nl
 http://autodiscover.knmi.nl
 http://autodiscover.kvk.nl
@@ -2893,6 +2894,7 @@ https://ats-intern.knaw.nl
 https://ats-test.knaw.nl
 https://ats.knaw.nl
 https://atviri-duomenys-ltdata.hub.arcgis.com
+https://audit.keurmerk.nl
 https://auditdienstrijk.nl
 https://augurk.cultuurparticipatie.nl
 https://augustagis.maps.arcgis.com
@@ -5587,7 +5589,9 @@ https://fmhaaglanden.nl
 https://fmis-nvwa.justid.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
+https://fmp-poc.keurmerk.nl
 https://fmreturn.acm.nl
+https://fms.keurmerk.nl
 https://fondspodiumkunsten.nl
 https://foodvalley.leerwerkloket.nl
 https://foodvalley.lerenenwerken.nl
@@ -12247,6 +12251,7 @@ https://www.kennisplatformveehouderij.nl
 https://www.kennisplatformwerkeninkomen.nl
 https://www.kennisvandeoverheid.nl
 https://www.keringhuis.nl
+https://www.keurmerk.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
 https://www.kimnet.nl
