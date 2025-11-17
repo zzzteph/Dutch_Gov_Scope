@@ -61,6 +61,7 @@ oud
 accept
 adfs
 services
+docs
 onderzoek
 auth
 www2
@@ -69,7 +70,6 @@ enterpriseregistration
 ns2
 webservices
 open
-docs
 dialin
 inloggen
 mail2
