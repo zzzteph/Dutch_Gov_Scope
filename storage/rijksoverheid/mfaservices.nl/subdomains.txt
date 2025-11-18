@@ -3,11 +3,13 @@ acc-auth.mfaservices.nl
 acc-auth2.mfaservices.nl
 acc-biometric-service.consular.mfaservices.nl
 acc-biometricservice.mfaservices.nl
+acc-bvv-ebms.data-exchange.consular.mfaservices.nl
 acc-consular.mfaservices.nl
 acc-data-exchange.consular.mfaservices.nl
 acc-developer-portal-management.data-exchange.consular.mfaservices.nl
 acc-developer-portal.data-exchange.consular.mfaservices.nl
 acc-esb.acc-protocol.mfaservices.nl
+acc-euvis-ebms.data-exchange.consular.mfaservices.nl
 acc-insights.mfaservices.nl
 acc-login.acc-protocol.mfaservices.nl
 acc-ls4.mfaservices.nl
@@ -18,6 +20,8 @@ acc-portal2.mfaservices.nl
 acc-probas.mfaservices.nl
 acc-protocol.mfaservices.nl
 acc-reftool-portal.consular.mfaservices.nl
+acc-sigma-ebms.data-exchange.consular.mfaservices.nl
+acc-vismail-ebms.data-exchange.consular.mfaservices.nl
 acc.cdn.consular.mfaservices.nl
 acc.consular-service.consular.mfaservices.nl
 acc.consular.mfaservices.nl
@@ -40,6 +44,7 @@ bao-services.dev-consular.mfaservices.nl
 bao-services.tst-consular.mfaservices.nl
 biometric-service.consular.mfaservices.nl
 biometricservice.mfaservices.nl
+bvv-ebms.data-exchange.consular.mfaservices.nl
 cdn.consular.mfaservices.nl
 consular-api.acc-consular.mfaservices.nl
 consular-api.consular.mfaservices.nl
@@ -105,6 +110,7 @@ esp-api.tst-probas.mfaservices.nl
 esp-portal-api.consular.mfaservices.nl
 esp-portal.consular.mfaservices.nl
 esp.mfaservices.nl
+euvis-ebms.data-exchange.consular.mfaservices.nl
 fez.mfaservices.nl
 frontend-bao-services.dev-consular.mfaservices.nl
 frontend-bao-services.tst-consular.mfaservices.nl
@@ -122,6 +128,7 @@ portal2.mfaservices.nl
 prod.sq.mfaservices.nl
 protocol.mfaservices.nl
 reftool-portal.consular.mfaservices.nl
+sigma-ebms.data-exchange.consular.mfaservices.nl
 snd-bvv-api.data-exchange.consular.mfaservices.nl
 snd-bvv-ebms.data-exchange.consular.mfaservices.nl
 snd-bzk2-api.data-exchange.consular.mfaservices.nl
@@ -167,3 +174,4 @@ tst.liferay.mfaservices.nl
 tst.login.consular.mfaservices.nl
 tst.nww.mfaservices.nl
 tst.protocol.mfaservices.nl
+vismail-ebms.data-exchange.consular.mfaservices.nl

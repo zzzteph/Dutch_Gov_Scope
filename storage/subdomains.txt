@@ -1463,6 +1463,7 @@ acc-biometric-service.consular.mfaservices.nl
 acc-biometricservice.mfaservices.nl
 acc-bvrin.minbzk.nl
 acc-bvrin.minszw.nl
+acc-bvv-ebms.data-exchange.consular.mfaservices.nl
 acc-ccb.cbs.nl
 acc-cdb-01234572.kansspelautoriteit.nl
 acc-cdb-v10.kansspelautoriteit.nl
@@ -1517,6 +1518,7 @@ acc-english.rvo.nl
 acc-epdintegratieplatform.dji.nl
 acc-esb.acc-protocol.mfaservices.nl
 acc-etl.rijkswaterstaat.nl
+acc-euvis-ebms.data-exchange.consular.mfaservices.nl
 acc-ez-rvo-ba.dictu.nl
 acc-ezine.rvo.nl
 acc-flowlogics.minbzk.nl
@@ -1591,6 +1593,7 @@ acc-researcher.postcovidonderzoek.nl
 acc-rioportaal.ssr.nl
 acc-saml.rd.2wssl.dictu.nl
 acc-sapphire.tno.nl
+acc-sigma-ebms.data-exchange.consular.mfaservices.nl
 acc-sonarreg.rws.nl
 acc-sso-osiris.rivm.nl
 acc-tdv.rivm.nl
@@ -1602,6 +1605,7 @@ acc-veldmonitoring.rivm.nl
 acc-vergelijkingskaart.afm.nl
 acc-vgd.ext.kadaster.nl
 acc-vinden.cbs.nl
+acc-vismail-ebms.data-exchange.consular.mfaservices.nl
 acc-vjeh.ext.kadaster.nl
 acc-vtcc.rivm.nl
 acc-vtlb.rvr.org
@@ -4500,6 +4504,7 @@ bvpn.ncsc.nl
 bvrin.minbzk.nl
 bvrin.minszw.nl
 bvs.belastingdienst.nl
+bvv-ebms.data-exchange.consular.mfaservices.nl
 bvz-waves.databank.nl
 bvz.waves.databank.nl
 bwdb03.knmi.nl
@@ -7405,6 +7410,7 @@ europeanpartnership-responsibleminerals.eu
 europese-subsidies.rvo.nl
 eurovignettes.eu
 euthanasiecommissie.nl
+euvis-ebms.data-exchange.consular.mfaservices.nl
 euvoertuigregistreren.rdw.nl
 eux-olo.belastingdienst.nl
 eux-tao.belastingdienst.nl
@@ -16794,6 +16800,7 @@ sic.s-bb.nl
 siecc-ieecc-ieecc.hub.arcgis.com
 siem.acc.irealisatie.nl
 siem.irealisatie.nl
+sigma-ebms.data-exchange.consular.mfaservices.nl
 sign.test.who.minvws.nl
 sign1-acc.toeslagen.nl
 sign1.toeslagen.nl
@@ -19222,6 +19229,7 @@ visit-acc.schadedoormijnbouw.nl
 visit-tst.schadedoormijnbouw.nl
 visit.schadedoormijnbouw.nl
 visitaties.nl
+vismail-ebms.data-exchange.consular.mfaservices.nl
 visserijinnovatienetwerk.nl
 visualisatieservice-a.cito.nl
 visualisatieservice-t.cito.nl

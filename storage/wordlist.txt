@@ -11750,11 +11750,13 @@ acc-auth.acc-protocol
 acc-auth2
 acc-biometric-service.consular
 acc-biometricservice
+acc-bvv-ebms.data-exchange.consular
 acc-consular
 acc-data-exchange.consular
 acc-developer-portal-management.data-exchange.consular
 acc-developer-portal.data-exchange.consular
 acc-esb.acc-protocol
+acc-euvis-ebms.data-exchange.consular
 acc-insights
 acc-login.acc-protocol
 acc-ls4
@@ -11765,6 +11767,8 @@ acc-portal2
 acc-probas
 acc-protocol
 acc-reftool-portal.consular
+acc-sigma-ebms.data-exchange.consular
+acc-vismail-ebms.data-exchange.consular
 acc.cdn.consular
 acc.consular-service.consular
 acc.consular
@@ -11786,6 +11790,7 @@ bao-services.dev-consular
 bao-services.tst-consular
 biometric-service.consular
 biometricservice
+bvv-ebms.data-exchange.consular
 cdn.consular
 consular-api.acc-consular
 consular-api.consular
@@ -11850,6 +11855,7 @@ esp-api.tst-consular
 esp-api.tst-probas
 esp-portal-api.consular
 esp-portal.consular
+euvis-ebms.data-exchange.consular
 fez
 frontend-bao-services.dev-consular
 frontend-bao-services.tst-consular
@@ -11864,6 +11870,7 @@ o1.ptr6472.consular
 prod.sq
 protocol
 reftool-portal.consular
+sigma-ebms.data-exchange.consular
 snd-bvv-api.data-exchange.consular
 snd-bvv-ebms.data-exchange.consular
 snd-bzk2-api.data-exchange.consular
@@ -11909,6 +11916,7 @@ tst.liferay
 tst.login.consular
 tst.nww
 tst.protocol
+vismail-ebms.data-exchange.consular
 elearnings
 mediamasters
 doorstromen
