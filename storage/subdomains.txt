@@ -17180,6 +17180,8 @@ ssh.cbs.nl
 ssl-vpn.brabant.nl
 ssl.cokz.nl
 ssl.defensie.nl
+ssl.ops.atc.lvnl.nl
+ssl.test.fence.atc.lvnl.nl
 sslvpn.eerstekamer.nl
 sslvpn.rekenkamer.nl
 sslvpn.test.atc.lvnl.nl

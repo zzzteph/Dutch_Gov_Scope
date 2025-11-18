@@ -11731,6 +11731,8 @@ mag
 pkiv2
 prd-azure-waf1
 proxy-cache
+ssl.ops.atc
+ssl.test.fence.atc
 sslvpn.test.atc
 test-azure-waf1
 testvfrchart

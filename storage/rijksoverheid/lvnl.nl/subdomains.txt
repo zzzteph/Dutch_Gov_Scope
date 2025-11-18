@@ -19,6 +19,8 @@ proxy.lvnl.nl
 sharepoint.lvnl.nl
 smtp1.lvnl.nl
 smtp2.lvnl.nl
+ssl.ops.atc.lvnl.nl
+ssl.test.fence.atc.lvnl.nl
 sslvpn.test.atc.lvnl.nl
 test-azure-waf1.lvnl.nl
 testvfrchart.lvnl.nl
