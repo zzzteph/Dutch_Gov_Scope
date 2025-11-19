@@ -12042,13 +12042,11 @@ utils.kennisplein.intranet
 www.startpagina.sap
 zoeken.kennisplein.intranet
 acc-newsroom
-acceptatie.bct.tsp
 acceptatie.grccontrol
 adresgids2
 bct.tsp
 gateway-pre
 newsroom
-ontwik.sapgw
 ontwikkel.sapgw
 revoketestca
 rpa
