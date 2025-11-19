@@ -1,5 +1,4 @@
 acc.service.mpn.minienm.nl
-acceptatie.isms.minienm.nl
 autodiscover.minienm.nl
 banking.minienm.nl
 bct.csp.minienm.nl
@@ -9,7 +8,6 @@ csm.minienm.nl
 csp.minienm.nl
 dcc.minienm.nl
 dnwxip.saphttp.minienm.nl
-dnwxiq.saphttp.minienm.nl
 epublicatie.minienm.nl
 files.kennisplein.intranet.minienm.nl
 gateway-acc.minienm.nl
@@ -34,8 +32,8 @@ mimboq.sap.minienm.nl
 mimboq.saphttp.minienm.nl
 mimbsp.saphttp.minienm.nl
 mimbwp.saphttp.minienm.nl
+mimcec.saphttp.minienm.nl
 mimdbw.saphttp.minienm.nl
-mimdec.saphttp.minienm.nl
 mimdip.saphttp.minienm.nl
 mimgfp.sap.minienm.nl
 mimgfq.sap.minienm.nl
@@ -43,17 +41,19 @@ mimmpd.saphttp.minienm.nl
 mimmpp.saphttp.minienm.nl
 mimmpq.saphttp.minienm.nl
 mimmps.saphttp.minienm.nl
+mimobw.saphttp.minienm.nl
+mimoec.saphttp.minienm.nl
 mimpip.saphttp.minienm.nl
 mimqbw.saphttp.minienm.nl
 mimqec.sap.minienm.nl
 mimqec.saphttp.minienm.nl
 mimqip.saphttp.minienm.nl
 mimsec.sap.minienm.nl
-mimsec.saphttp.minienm.nl
 mimsmp.sap.minienm.nl
-mimsmp.saphttp.minienm.nl
 mimsmtp01.sapsmtp.minienm.nl
 mimsmtp02.sapsmtp.minienm.nl
+mimtbw.saphttp.minienm.nl
+mimtec.saphttp.minienm.nl
 mimxid.saphttp.minienm.nl
 mimxip.saphttp.minienm.nl
 mimxiq.saphttp.minienm.nl
@@ -70,7 +70,6 @@ pre.service.mpn.minienm.nl
 publicaties.minienm.nl
 revoketestsp.minienm.nl
 rijksoverheid.minienm.nl
-rwbxip.saphttp.minienm.nl
 rwbxiq.saphttp.minienm.nl
 sap.intranet.minienm.nl
 saphttp.minienm.nl

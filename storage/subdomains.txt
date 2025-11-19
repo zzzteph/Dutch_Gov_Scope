@@ -2015,7 +2015,6 @@ acceptatie.ictu.nl
 acceptatie.inspire.rivm.nl
 acceptatie.intranet.schadedoormijnbouw.nl
 acceptatie.isis-web.nl
-acceptatie.isms.minienm.nl
 acceptatie.istandaarden.nl
 acceptatie.kennisplatform.nl
 acceptatie.klinieken.donorgegevens.nl
@@ -6515,7 +6514,6 @@ dns4.acm.nl
 dnsa3.cbs.nl
 dnsa4.cbs.nl
 dnwxip.saphttp.minienm.nl
-dnwxiq.saphttp.minienm.nl
 doc-direkt-acc.topdesk.odc-noord.nl
 doc-direkt-prd.topdesk.odc-noord.nl
 doc.arcgis.com
@@ -12114,8 +12112,8 @@ mimboq.sap.minienm.nl
 mimboq.saphttp.minienm.nl
 mimbsp.saphttp.minienm.nl
 mimbwp.saphttp.minienm.nl
+mimcec.saphttp.minienm.nl
 mimdbw.saphttp.minienm.nl
-mimdec.saphttp.minienm.nl
 mimdip.saphttp.minienm.nl
 mimgfp.sap.minienm.nl
 mimgfq.sap.minienm.nl
@@ -12124,17 +12122,19 @@ mimmpd.saphttp.minienm.nl
 mimmpp.saphttp.minienm.nl
 mimmpq.saphttp.minienm.nl
 mimmps.saphttp.minienm.nl
+mimobw.saphttp.minienm.nl
+mimoec.saphttp.minienm.nl
 mimpip.saphttp.minienm.nl
 mimqbw.saphttp.minienm.nl
 mimqec.sap.minienm.nl
 mimqec.saphttp.minienm.nl
 mimqip.saphttp.minienm.nl
 mimsec.sap.minienm.nl
-mimsec.saphttp.minienm.nl
 mimsmp.sap.minienm.nl
-mimsmp.saphttp.minienm.nl
 mimsmtp01.sapsmtp.minienm.nl
 mimsmtp02.sapsmtp.minienm.nl
+mimtbw.saphttp.minienm.nl
+mimtec.saphttp.minienm.nl
 mimxid.saphttp.minienm.nl
 mimxip.saphttp.minienm.nl
 mimxiq.saphttp.minienm.nl
@@ -16229,7 +16229,6 @@ rw.belastingdienst.nl
 rw.chm-cbd.net
 rw1.rijkscloud.nl
 rwbg.flevoland.nl
-rwbxip.saphttp.minienm.nl
 rwbxiq.saphttp.minienm.nl
 rwn.belastingdienst.nl
 rwo.dictu.nl
