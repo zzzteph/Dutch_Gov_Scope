@@ -1,4 +1,6 @@
 acc-bvrin.minszw.nl
+acc-diane-exact.minszw.nl
+acc-venus-exact.minszw.nl
 adselfservice.extern.minszw.nl
 autodiscover.minszw.nl
 bvrin.minszw.nl
@@ -6,7 +8,6 @@ cao.minszw.nl
 caobank.minszw.nl
 ceres.intra.minszw.nl
 ceres.minszw.nl
-cms.gemeenteloket.minszw.nl
 cms.o.extern.minszw.nl
 confluence.extern.minszw.nl
 cpe-a.extern.minszw.nl
@@ -23,8 +24,10 @@ diane-tst.extern.minszw.nl
 diane.extern.minszw.nl
 dms.o.extern.minszw.nl
 docs.minszw.nl
+dvs-dev.minszw.nl
 dvs-qas.minszw.nl
 extern.minszw.nl
+feedback.fdcbeheer.minszw.nl
 gemeenteloket.minszw.nl
 gitlab.extern.minszw.nl
 grafana.extern.minszw.nl
@@ -35,6 +38,7 @@ logging.o.extern.minszw.nl
 loki.extern.minszw.nl
 messagebroker.minszw.nl
 minszw.nl
+myroom.minszw.nl
 nexus.extern.minszw.nl
 onva-3f.minszw.nl
 onvp-3f.minszw.nl
@@ -48,7 +52,7 @@ registry.extern.minszw.nl
 sdm.minszw.nl
 siam.minszw.nl
 sip.minszw.nl
-sip.myroom.minszw.nl
+smtp02.minszw.nl
 sonar.extern.minszw.nl
 statuschecker.extern.minszw.nl
 studio.extern.minszw.nl

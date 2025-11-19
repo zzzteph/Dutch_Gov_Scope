@@ -282,7 +282,6 @@ downloads
 activesync
 redirect
 community
-sip.myroom
 pushmail
 smtp1
 appstore
@@ -434,6 +433,7 @@ ns
 rijnmond
 rds
 p-direkt
+sip.myroom
 werkbezoek
 web01
 www.old
@@ -12054,12 +12054,13 @@ tsp
 widscan-acc
 www.mpn-pre
 lhc2024
+acc-diane-exact
+acc-venus-exact
 adselfservice.extern
 cao
 caobank
 ceres.intra
 ceres
-cms.gemeenteloket
 cms.o.extern
 confluence.extern
 cpe-a.extern
@@ -12075,7 +12076,9 @@ diane-t.extern
 diane-tst.extern
 diane.extern
 dms.o.extern
+dvs-dev
 dvs-qas
+feedback.fdcbeheer
 gemeenteloket
 gitlab.extern
 grafana.extern
@@ -12085,6 +12088,7 @@ kvk.o.extern
 logging.o.extern
 loki.extern
 messagebroker
+myroom
 nexus.extern
 onva-3f
 onvp-3f
@@ -12095,6 +12099,7 @@ prod.signing.bizagi-cloud
 promtail.extern
 publisher.extern
 registry.extern
+smtp02
 sonar.extern
 statuschecker.extern
 studio.extern

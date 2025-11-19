@@ -1495,6 +1495,7 @@ acc-ddapi-wkp.rws.nl
 acc-developer-portal-management.data-exchange.consular.mfaservices.nl
 acc-developer-portal.data-exchange.consular.mfaservices.nl
 acc-diamonds.tno.nl
+acc-diane-exact.minszw.nl
 acc-dictu.cms.ncsc.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.digitoegankelijk.nl
@@ -1602,6 +1603,7 @@ acc-thuisbezorgd.mijnrijkspas.nl
 acc-tvs.coa.nl
 acc-v2.bronhouderportaal-bro.nl
 acc-veldmonitoring.rivm.nl
+acc-venus-exact.minszw.nl
 acc-vergelijkingskaart.afm.nl
 acc-vgd.ext.kadaster.nl
 acc-vinden.cbs.nl
@@ -5165,7 +5167,6 @@ cms.digid.nl
 cms.dsta.nl
 cms.farmacotherapeutischkompas.nl
 cms.filmfonds.nl
-cms.gemeenteloket.minszw.nl
 cms.gezondeschool.nl
 cms.hhdelfland.nl
 cms.intranet.minienm.nl
@@ -6798,6 +6799,7 @@ dvrvb-gui-acc.rvb.rijkscloud.nl
 dvrvb-gui-dev.devops.rvb.rijkscloud.nl
 dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
+dvs-dev.minszw.nl
 dvs-qas.minszw.nl
 dvu.rvo.nl
 dw.politieacademie.nl
@@ -7678,6 +7680,7 @@ fee3e048-12345678-2979f7.near-dimension.github.io
 fee3e048-12345678.near-dimension.github.io
 fee3e048.near-dimension.github.io
 feedback.atkm.nl
+feedback.fdcbeheer.minszw.nl
 feedfoodtransfer.nl
 feeds.adviescommissievolkenrecht.nl
 feeds.adviesraadinternationalevraagstukken.nl
@@ -12575,6 +12578,7 @@ myidp-acc.postedworkers.nl
 myidp.postedworkers.nl
 myk.cloud.kadaster.nl
 mypage.brentjo-testorg.github.io
+myroom.minszw.nl
 mysampleexpressapponazure.octodemo.github.io
 mysharebox.skc-oc.org
 mysite-acc.belastingdienst.nl
@@ -16852,7 +16856,6 @@ sip.minszw.nl
 sip.minvws.nl
 sip.myroom.minbzk.nl
 sip.myroom.minienw.nl
-sip.myroom.minszw.nl
 sip.myroom.minvws.nl
 sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
@@ -16976,6 +16979,7 @@ smtp.tmv.rvig.nl
 smtp.vechtstromen.nl
 smtp.waterschaplimburg.nl
 smtp.wijzijndus-i.nl
+smtp02.minszw.nl
 smtp03.rijkscloud.nl
 smtp04.rijkscloud.nl
 smtp1.awti.nl
