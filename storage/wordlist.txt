@@ -11946,10 +11946,7 @@ gip
 indigo-l3-sso.ilab.ota.ind
 loc
 mail.vno
-mail.vnp
-mail.vnw
 mail2.vno
-mail2.vnw
 mft-e
 mft-i
 ptw
@@ -11968,7 +11965,9 @@ tcs0204-server
 tcs0206-rvb-r8
 tcs0207-rvb-kk4
 tcs0215-rvb-kk4
+topinkomens
 vno
+vnp
 vnw
 vz
 webcon1

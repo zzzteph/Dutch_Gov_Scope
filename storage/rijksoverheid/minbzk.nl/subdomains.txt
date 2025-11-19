@@ -19,12 +19,9 @@ ind.minbzk.nl
 indigo-l3-sso.ilab.ota.ind.minbzk.nl
 loc.minbzk.nl
 mail.vno.minbzk.nl
-mail.vnp.minbzk.nl
-mail.vnw.minbzk.nl
 mail1.minbzk.nl
 mail2.minbzk.nl
 mail2.vno.minbzk.nl
-mail2.vnw.minbzk.nl
 mft-e.minbzk.nl
 mft-i.minbzk.nl
 mft.minbzk.nl
@@ -54,7 +51,9 @@ tcs0206-rvb-r8.minbzk.nl
 tcs0207-rvb-kk4.minbzk.nl
 tcs0215-rvb-kk4.minbzk.nl
 test.minbzk.nl
+topinkomens.minbzk.nl
 vno.minbzk.nl
+vnp.minbzk.nl
 vnw.minbzk.nl
 vz.minbzk.nl
 webcon1.minbzk.nl
