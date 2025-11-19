@@ -16819,6 +16819,8 @@ signing-api-acc.ep-online.nl
 signing-auth-acc.dictu.nl
 signing-auth-prod.dictu.nl
 signing.ep-online.nl
+signing.ingelogd.mijnslachtofferzaak.nl
+signing.ingelogd.staging.mijnslachtofferzaak.nl
 signing.landelijkemeldkamer.org
 signing.login-acc.rvr.org
 signing.login.rvr.org
