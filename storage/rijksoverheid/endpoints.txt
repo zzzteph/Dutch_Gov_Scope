@@ -222,6 +222,7 @@ http://backend-groeimeter-o.cito.nl
 http://bacterial-meningitis.nl
 http://bayplanviewer.bics.nl
 http://bd-toegang-acc.topdesk.odc-noord.nl
+http://beeldbank.nationaalarchief.nl
 http://beeldenvanderaad.nl
 http://beeldverhalen.staatsbosbeheer.nl
 http://benchmarkpovo.databank.nl
@@ -5902,7 +5903,6 @@ https://grafana.cruksregister.nl
 https://grafana.politieacademie.nl
 https://grafana.vm-02.azure.grid.rws.nl
 https://granvillecounty.maps.arcgis.com
-https://graphdb.nationaalarchief.nl
 https://graphql-oat.dev.huc.knaw.nl
 https://graphs.globalise.huygens.knaw.nl
 https://grasp-acc.azure.dnb.nl
@@ -8283,7 +8283,6 @@ https://ontdek.tweedekamer.nl
 https://ontdekdezorg.nl
 https://ontheffingaanvragen.e-tol.nl
 https://ontheffingaanvragen.vrachtwagenheffing.nl
-https://ontorefine.nationaalarchief.nl
 https://ontw-pzpdirect.pzp.nl
 https://ontw-www.pzp.nl
 https://ontw.app.pzp.nl

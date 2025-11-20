@@ -3864,6 +3864,7 @@ beeldbank.cbs.nl
 beeldbank.cultureelerfgoed.nl
 beeldbank.gebruikercentraal.nl
 beeldbank.hhdelfland.nl
+beeldbank.nationaalarchief.nl
 beeldbank.nimh.nl
 beeldbank.staatsbosbeheer.nl
 beeldbank.vfpf.nl
@@ -8634,7 +8635,6 @@ grafana.test.vm-04.azure.grid.rws.nl
 grafana.vm-02.azure.grid.rws.nl
 granvillecounty.maps.arcgis.com
 graph.zandbak.dans.knaw.nl
-graphdb.nationaalarchief.nl
 graphql-oat.dev.huc.knaw.nl
 graphs.globalise.huygens.knaw.nl
 grasp-acc.azure.dnb.nl
@@ -13347,6 +13347,7 @@ ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
 onderwaterobjecten.rws.nl
 onderwijs.eerstekamer.nl
+onderwijs.nationaalarchief.nl
 onderwijsdata.duo.nl
 onderwijsinderegioincijfers.nl
 onderwijsinspectie.nl
@@ -13407,7 +13408,6 @@ ontheffingaanvragen.rdw.nl
 ontheffingaanvragen.vrachtwagenheffing.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
-ontorefine.nationaalarchief.nl
 ontw-app.pzp.nl
 ontw-cdapi-a-pzpdirect.pzp.nl
 ontw-cdapi-a-www.pzp.nl
@@ -14505,6 +14505,7 @@ pktate.kb.nl
 pl-i.espacenet.com
 pl.espacenet.com
 pla.dnb.nl
+placeholder.nationaalarchief.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
 plan.beeldbellen.dji.nl
 planmer-acc.zuid-holland.nl

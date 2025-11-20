@@ -69,6 +69,7 @@ webdisk
 enterpriseregistration
 ns2
 webservices
+beeldbank
 open
 dialin
 inloggen
@@ -76,7 +77,6 @@ mail2
 www.test
 maps
 old
-beeldbank
 static
 mdm
 geoservices
@@ -779,6 +779,7 @@ plp
 toezicht
 lod
 as2
+onderwijs
 at
 bg
 cms-test
@@ -8200,7 +8201,6 @@ autodoc
 cmeets
 europapoort
 lv109366-web01-out
-onderwijs
 ontwikkelserver
 remoteaccess1
 remoteaccess2
@@ -12209,15 +12209,14 @@ gaf
 gatekeeper
 gb-acpt
 gb-ted
-graphdb
 hub3
 lbrproxy.prod
 lbrproxy.test
 lod-data
 lod-graphdb.test
 nextdrive
-ontorefine
 oranjehotel
+placeholder
 pywb-warc-check.acpt
 pywb.acpt
 pywb

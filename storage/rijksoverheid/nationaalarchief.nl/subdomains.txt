@@ -5,6 +5,7 @@ actorenregister.nationaalarchief.nl
 actorenregister.test.nationaalarchief.nl
 apenet.nationaalarchief.nl
 autodiscover.nationaalarchief.nl
+beeldbank.nationaalarchief.nl
 bibliotheek.nationaalarchief.nl
 cbs.acpt.nationaalarchief.nl
 cbs.nationaalarchief.nl
@@ -39,7 +40,6 @@ gateway.nationaalarchief.nl
 gb-acpt.nationaalarchief.nl
 gb-ted.nationaalarchief.nl
 gb.nationaalarchief.nl
-graphdb.nationaalarchief.nl
 hub3.nationaalarchief.nl
 lbrproxy.prod.nationaalarchief.nl
 lbrproxy.test.nationaalarchief.nl
@@ -50,8 +50,9 @@ matomo.nationaalarchief.nl
 meeting.nationaalarchief.nl
 nationaalarchief.nl
 nextdrive.nationaalarchief.nl
-ontorefine.nationaalarchief.nl
+onderwijs.nationaalarchief.nl
 oranjehotel.nationaalarchief.nl
+placeholder.nationaalarchief.nl
 prod.nationaalarchief.nl
 pywb-warc-check.acpt.nationaalarchief.nl
 pywb.acpt.nationaalarchief.nl
