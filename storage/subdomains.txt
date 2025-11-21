@@ -5394,6 +5394,7 @@ connect.justitieleictorganisatie.nl
 connect.kadaster.nl
 connect.kinderbescherming.nl
 connect.knmi.nl
+connect.niwo.nl
 connect.rivm.nl
 connect.schadefonds.nl
 connect.ssc-campus.nl
@@ -5444,6 +5445,7 @@ content.vfpf.nl
 content1.cbs.nl
 contentadapter.cbs.nl
 contentbeheer.acc.omgevingswet.overheid.nl
+contentbeheer.niwo.nl
 contentbeheer.omgevingswet.overheid.nl
 contentbeheer.tst.omgevingswet.overheid.nl
 contenttoolsrijksoverheid.nl
@@ -9394,6 +9396,7 @@ innovatieloket-acc.rijkswaterstaat.nl
 innovatieloket-tst.rijkswaterstaat.nl
 innovatieloket.rijkswaterstaat.nl
 innovationradar.tno.nl
+inproces.niwo.nl
 ins.testuitslagen.coronatest.nl
 inschrijven.cultuurparticipatie.nl
 inschrijven.kb.nl
@@ -22339,6 +22342,7 @@ zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.duo.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 zakelijk.rdw.nl
+zaken.niwo.nl
 zandbak.duo.nl
 zandbak.nvwa.nl
 zandbak.wegwijzer.overheid.nl
