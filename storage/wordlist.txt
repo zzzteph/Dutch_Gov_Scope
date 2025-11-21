@@ -28,13 +28,13 @@ link
 data
 dev
 redactie
-e
 feeds.english
 smtp
 app
 formulieren
 werkplek
 portal
+e
 opendata.english
 beheer
 sip
