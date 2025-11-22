@@ -18666,7 +18666,6 @@ tst.login.consular.mfaservices.nl
 tst.mercurius.sso3w.nl
 tst.mijn.overheid.nl
 tst.netherlandsandyou.nl
-tst.nlog.nl
 tst.nlontwikkelingssamenwerking.nl
 tst.nww.mfaservices.nl
 tst.ondernemersplein.overheid.nl
@@ -21517,6 +21516,7 @@ www.nlflag.nl
 www.nlinfrankrijk.nl
 www.nllabourauthority.nl
 www.nlmaps.nl
+www.nlog.nl
 www.nlontwikkelingssamenwerking.nl
 www.nlot.org.tw
 www.nlplatform.com
