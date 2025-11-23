@@ -2353,6 +2353,7 @@ admin.letterenfonds.nl
 admin.ptvt.nl
 admin.rws.nl
 admin.schoolleidersregisterpo.nl
+admin.sso.odc-noord.nl
 admin.tbadmin.dev.kvk.nl
 admin.tbadmin.kvk.nl
 admin.tbadmin.npo.kvk.nl
@@ -17232,6 +17233,7 @@ sso.integratie02.omgevingswet.overheid.nl
 sso.intpatch.omgevingswet.overheid.nl
 sso.istandaarden.nl
 sso.landelijkemeldkamer.org
+sso.odc-noord.nl
 sso.omgevingswet.overheid.nl
 sso.perf.omgevingswet.overheid.nl
 sso.politie.nl

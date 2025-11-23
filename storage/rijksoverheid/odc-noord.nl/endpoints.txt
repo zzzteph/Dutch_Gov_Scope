@@ -1,10 +1,11 @@
 http://bd-toegang-acc.topdesk.odc-noord.nl
+http://vpn.digiinkooppentest.odc-noord.nl
 https://acc.iaas-portal.odc-noord.nl
 https://acc.login.odc-noord.nl
 https://acc.paas-portal.odc-noord.nl
+https://admin.sso.odc-noord.nl
 https://bd-acc.topdesk.odc-noord.nl
 https://bd-prd.topdesk.odc-noord.nl
-https://docdirekt-ont-va.topdesk.odc-noord.nl
 https://dsm.odc-noord.nl
 https://duo-acc.topdesk.odc-noord.nl
 https://duo-acc2.topdesk.odc-noord.nl
@@ -42,7 +43,6 @@ https://odc-noord.nl
 https://odcn-acc.confluence.odc-noord.nl
 https://odcn-acc.jira.odc-noord.nl
 https://odcn-acc.topdesk.odc-noord.nl
-https://odcn-ont-va.topdesk.odc-noord.nl
 https://odcn-ont.jira.odc-noord.nl
 https://odcn-ont.topdesk.odc-noord.nl
 https://odcn-prd.confluence.odc-noord.nl
@@ -64,8 +64,8 @@ https://rvihh-acc.topdesk.odc-noord.nl
 https://rvihh-prd.topdesk.odc-noord.nl
 https://socjenv-acc.topdesk.odc-noord.nl
 https://socjenv-prd.topdesk.odc-noord.nl
+https://sso.odc-noord.nl
 https://terraform.odc-noord.nl
-https://vpn.a4.odc-noord.nl
 https://vpn.bzknpr.odc-noord.nl
 https://vpn.bzkprd.odc-noord.nl
 https://vpn.gn2.koop-a.odc-noord.nl

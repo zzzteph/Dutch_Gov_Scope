@@ -163,6 +163,7 @@ forms
 mijn-acc
 sdm
 repository
+sso
 developer
 forum
 siam
@@ -196,7 +197,6 @@ csotest
 zaaksysteem-acc
 synergy
 dashboard
-sso
 geoweb
 secure
 nieuwsbrieven
@@ -12402,6 +12402,7 @@ www.isaac
 acc.iaas-portal
 acc.login
 acc.paas-portal
+admin.sso
 bd-acc.topdesk
 bd-prd.topdesk
 bd-toegang-acc.topdesk

@@ -968,6 +968,7 @@ http://vnsc.eu
 http://voi.brabant.nl
 http://vorijkbo-acc.rvo.nl
 http://vpn.bkd.eu
+http://vpn.digiinkooppentest.odc-noord.nl
 http://vragenlijst-acc.rivm.nl
 http://w3dxweb.knmi.nl
 http://wadzee9520.waddenzee.nl
@@ -2287,6 +2288,7 @@ https://admin.denkmee.zuid-holland.nl
 https://admin.deweekvandecirculaireeconomie.nl
 https://admin.letterenfonds.nl
 https://admin.ptvt.nl
+https://admin.sso.odc-noord.nl
 https://admin.tbadmin.dev.kvk.nl
 https://admin.tbadmin.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
@@ -4665,7 +4667,6 @@ https://dnadatabank.forensischinstituut.nl
 https://dnb.nl
 https://doc.arcgis.com
 https://doc.leefbaarometer.nl
-https://docdirekt-ont-va.topdesk.odc-noord.nl
 https://dockercloud.dev.huc.knaw.nl
 https://docs-tst.onderzoekmetmensen.nl
 https://docs.acc.nldoc.nl
@@ -8151,7 +8152,6 @@ https://odc.werkenvoornederland.nl
 https://odcn-acc.confluence.odc-noord.nl
 https://odcn-acc.jira.odc-noord.nl
 https://odcn-acc.topdesk.odc-noord.nl
-https://odcn-ont-va.topdesk.odc-noord.nl
 https://odcn-ont.jira.odc-noord.nl
 https://odcn-ont.topdesk.odc-noord.nl
 https://odcn-prd.confluence.odc-noord.nl
@@ -9991,6 +9991,7 @@ https://sso.int13m.omgevingswet.overheid.nl
 https://sso.integratie.omgevingswet.overheid.nl
 https://sso.intpatch.omgevingswet.overheid.nl
 https://sso.istandaarden.nl
+https://sso.odc-noord.nl
 https://sso.omgevingswet.overheid.nl
 https://sso.perf.omgevingswet.overheid.nl
 https://sso.politie.nl
@@ -11090,7 +11091,6 @@ https://vorijk.nl
 https://vorijkbo-tst.rvo.nl
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn-nabs.officielebekendmakingen.nl
-https://vpn.a4.odc-noord.nl
 https://vpn.brabant.nl
 https://vpn.bureauft.nl
 https://vpn.bzknpr.odc-noord.nl
