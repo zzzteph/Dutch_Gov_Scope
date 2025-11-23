@@ -821,6 +821,7 @@ http://sso.tst2905.omgevingswet.overheid.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
 http://staging.halt.nl
+http://staging.ontdekdezorg.nl
 http://staging.opwegnaarzes.nl
 http://static.rechtspraak.nl
 http://static.wegwijzer.overheid.nl
@@ -10054,7 +10055,6 @@ https://staging.jury.knawonderwijsprijs.nl
 https://staging.justisbehindthescreens.nl
 https://staging.meldknop.nl
 https://staging.niwo.nl
-https://staging.ontdekdezorg.nl
 https://staging.ptvt.nl
 https://staging.rechtenoverheid.nl
 https://staging.rijksapplicaties.nl
@@ -11241,7 +11241,6 @@ https://web.test.brba.nl
 https://web.test.dpr.irealisatie.nl
 https://web.test.mgo.irealisatie.nl
 https://web01.huygens.knaw.nl
-https://web01.ontdekdezorg.nl
 https://web11.dans.knaw.nl
 https://web2.fa.knaw.nl
 https://web21.dans.knaw.nl

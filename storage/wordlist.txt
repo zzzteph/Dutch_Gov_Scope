@@ -435,7 +435,6 @@ rds
 p-direkt
 sip.myroom
 werkbezoek
-web01
 www.old
 test-www
 www.jaarverslag
@@ -731,7 +730,6 @@ share.acceptatie-nieuw
 share.test-nieuw
 test-nieuw
 dashboard-acc
-web02
 rijbewijs
 integration
 preproduction
@@ -891,6 +889,7 @@ www.accept
 mededeling
 leveranciersportaal
 ipv6
+web01
 bva
 wpo
 archief-acc
@@ -6828,6 +6827,7 @@ actie-acc
 actie
 alerteren
 app-acc
+web02
 bibliotheekwerk
 caopmgw01
 leerstoel
@@ -12580,7 +12580,6 @@ www.softwareveiligheid
 www.uem
 emagazine
 registration
-db01
 check
 kentekencheck
 mz

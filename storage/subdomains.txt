@@ -5923,7 +5923,6 @@ daws1.dopingautoriteit.nl
 db.cbg-meb.nl
 db.kvk.nl
 db.saur.de.access.authkb.kb.nl
-db01.ontdekdezorg.nl
 dba.rijksapplicaties.nl
 dba.staging.rijksapplicaties.nl
 dbadmin.huc.knaw.nl
@@ -19638,13 +19637,11 @@ web.test.gf.irealisatie.nl
 web.test.mgo.irealisatie.nl
 web01-nabs.officielebekendmakingen.nl
 web01.huygens.knaw.nl
-web01.ontdekdezorg.nl
 web01.rijksacademie.nl
 web01.waarborg.nl
 web02-nabs.officielebekendmakingen.nl
 web02.burgernet.nl
 web02.huygens.knaw.nl
-web02.ontdekdezorg.nl
 web03-nabs.officielebekendmakingen.nl
 web1.fa.knaw.nl
 web1.nba.nl
