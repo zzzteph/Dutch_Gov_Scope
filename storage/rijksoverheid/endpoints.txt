@@ -652,7 +652,6 @@ http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
 http://oud.infowms.nl
 http://oud.visitaties.nl
-http://outilevaluationbiosecurite.nl
 http://output.cbr.nl
 http://overstroomik-acceptance.rws.nl
 http://owas1.nba.nl
@@ -8572,6 +8571,7 @@ https://oud.mondriaanfonds.nl
 https://oud.platformrijksoverheidonline.nl
 https://ouders-uit-elkaar.nl
 https://outbound.onderwijsraad.nl
+https://outilevaluationbiosecurite.nl
 https://outlook.coa.nl
 https://outlook.svb.nl
 https://output-acc.cbr.nl
