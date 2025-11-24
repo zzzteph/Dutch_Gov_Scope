@@ -8473,6 +8473,7 @@ git-auth.kb.nl
 git-az1.lpc.logius.nl
 git-az2.lpc.logius.nl
 git-dev.rijkscloud.nl
+git-test.parlement.nl
 git.dev.kvk.nl
 git.dfront.rijkscloud.nl
 git.dictu.rijkscloud.nl
