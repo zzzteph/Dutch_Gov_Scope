@@ -1464,6 +1464,7 @@ acc-biometricservice.mfaservices.nl
 acc-bvrin.minbzk.nl
 acc-bvrin.minszw.nl
 acc-bvv-ebms.data-exchange.consular.mfaservices.nl
+acc-carbonbudgetexplorer.pbl.nl
 acc-ccb.cbs.nl
 acc-cdb-01234572.kansspelautoriteit.nl
 acc-cdb-v10.kansspelautoriteit.nl
@@ -1490,6 +1491,7 @@ acc-corsa-cu.tweedekamer.nl
 acc-corsa-vvd.tweedekamer.nl
 acc-cruks.kansspelautoriteit.nl
 acc-data-exchange.consular.mfaservices.nl
+acc-data.pbl.nl
 acc-dataportaal.pbl.nl
 acc-ddapi-wkp.rws.nl
 acc-developer-portal-management.data-exchange.consular.mfaservices.nl
@@ -1556,6 +1558,7 @@ acc-lsp.rivm.nl
 acc-maps.rijkswaterstaat.nl
 acc-maps.rivm.nl
 acc-maps.rws.nl
+acc-mapservices.pbl.nl
 acc-media.schadedoormijnbouw.nl
 acc-mft.acc-protocol.mfaservices.nl
 acc-mft.rivm.nl
@@ -1622,6 +1625,7 @@ acc-www-staging.cito.nl
 acc-www.afm.nl
 acc-www.cito.nl
 acc-www.clo.nl
+acc-www.pbl.nl
 acc-www.verbeterjehuis.nl
 acc.aanbiedersmedicijnen.nl
 acc.adminpure.knaw.nl
@@ -1721,6 +1725,7 @@ acc.grondstoffenscanner.nl
 acc.helpdesk.machtigen.digid.nl
 acc.hhdelfland.nl
 acc.iaas-portal.odc-noord.nl
+acc.icer.pbl.nl
 acc.informatiehuis.rvo.nl
 acc.informatieservice.nederlandwereldwijd.nl
 acc.inspectieresultaten.nvwa.nl
@@ -1759,6 +1764,7 @@ acc.mijn.overheid.nl
 acc.mijn.pzp.nl
 acc.mijnslachtofferzaak.nl
 acc.milieuzones.nl
+acc.monovi.pbl.nl
 acc.monumentenregister.cultureelerfgoed.nl
 acc.mpl.stelselcatalogus.nl
 acc.naamswijziging.justis.nl
@@ -1808,6 +1814,7 @@ acc.spaceweather.knmi.nl
 acc.ssr.nl
 acc.staatvanbiologisch.nl
 acc.staging.justitieconnect.nl
+acc.startanalyse.pbl.nl
 acc.statistiek.digid.nl
 acc.statistiek.mijn.overheid.nl
 acc.statistieken.coa.nl
@@ -3504,6 +3511,7 @@ autodiscover.ondernemersplein.nl
 autodiscover.onderzoeksraad.nl
 autodiscover.oofggz.nl
 autodiscover.overheid.nl
+autodiscover.pbl.nl
 autodiscover.politie.nl
 autodiscover.politieacademie.nl
 autodiscover.raadvanstate.nl
@@ -4938,8 +4946,10 @@ chat.rijkscloud.nl
 chat.tst.rijkscloud.nl
 chat2.ncsc.nl
 chatapi.klopt.cibg.nl
+chatgpt-a.pbl.nl
 chatgpt.dst.kadaster.nl
 chatgpt.dst.test.kadaster.nl
+chatgpt.pbl.nl
 chattanooga-bike-to-work-day-chcrpa.hub.arcgis.com
 check.opwegnaarzes.nl
 checkjeprijs.huurcommissie.nl
@@ -5395,6 +5405,7 @@ connect.kadaster.nl
 connect.kinderbescherming.nl
 connect.knmi.nl
 connect.niwo.nl
+connect.pbl.nl
 connect.rivm.nl
 connect.schadefonds.nl
 connect.ssc-campus.nl
@@ -8062,6 +8073,7 @@ fs.belastingdienst.nl
 fs.cpb.nl
 fs.ctgb.nl
 fs.knmi.nl
+fs.pbl.nl
 fs.rivm.nl
 fs.rvr.org
 fs.ssc-campus.nl
@@ -8086,6 +8098,7 @@ ftp.kbvg.nl
 ftp.koop.overheid.nl
 ftp.nationaalarchief.nl
 ftp.ofgv.nl
+ftp.pbl.nl
 ftp.rechtspraak.nl
 ftp.schoolleidersregisterpo.nl
 ftp.vechtstromen.nl
@@ -10562,6 +10575,7 @@ kwaliteit.nba.nl
 kwaliteitsdashboard-koop.overheid.nl
 kwaliteitsdashboard.test.kadaster.nl
 kwaliteitstoetsing.nba.nl
+kwaliteitvanleven.pbl.nl
 kweepeer.dev.huc.knaw.nl
 kwiv.rijksapplicaties.nl
 kwiv.staging.rijksapplicaties.nl
@@ -11361,6 +11375,7 @@ mail.opwegnaarseb.nl
 mail.orangecorners.com
 mail.parlement.nl
 mail.partnersforwater.nl
+mail.pbl.nl
 mail.politieacademie.nl
 mail.rdw.nl
 mail.rechtenoverheid.nl
@@ -11496,6 +11511,7 @@ mam.ctgb.nl
 mam.duo.nl
 mam.justid.nl
 mam.knmi.nl
+mam.pbl.nl
 mam.rivm.nl
 mam.scp.nl
 man-ad02.ad.tno.nl
@@ -12278,6 +12294,7 @@ modellenplatform-rekenen.ssc-campus.nl
 modellenplatform.ssc-campus.nl
 modellenregister.rivm.nl
 modelregistry.clustertool.tno.nl
+models.pbl.nl
 modis.arcgis.com
 module-denkprofielen.slo.nl
 modules-talentontwikkeling.slo.nl
@@ -14014,6 +14031,7 @@ password.iam.test.kadaster.nl
 password.knaw.nl
 password.knmi.nl
 password.osiris.rivm.nl
+password.pbl.nl
 password.rivm.nl
 password.ssc-campus.nl
 password51-iis.knaw.nl
@@ -14271,6 +14289,7 @@ pdx.staging.dmi-ecosysteem.nl
 pe-upload.nba.nl
 pe.nba.nl
 pearl.alterra.nl
+pebbles.pbl.nl
 peer0.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 pensioen.toeslagen.nl
@@ -14728,6 +14747,7 @@ portal.lvb.test.kadaster.nl
 portal.mfaservices.nl
 portal.nak.nl
 portal.nba.nl
+portal.pbl.nl
 portal.plp.kadaster.nl
 portal.reclassering.nl
 portal.rijksdienstcn.com
@@ -16704,7 +16724,6 @@ seveso-plus.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
 sf.ctgb.nl
-sf.pbl.nl
 sf.rivm.nl
 sf.scp.nl
 sfb.cjib.nl
@@ -17039,10 +17058,12 @@ snellemotorboten.rdw.nl
 snippet.acc.clo.nl
 snippet.acc.icer.pbl.nl
 snippet.acc.monovi.pbl.nl
+snippet.acc.pbl.nl
 snippet.acc.startanalyse.pbl.nl
 snippet.acc.wlo2025.nl
 snippet.clo.nl
 snippet.icer.pbl.nl
+snippet.monovi.pbl.nl
 snippet.pbl.nl
 snippet.startanalyse.pbl.nl
 snippet.wlo2025.nl
@@ -17378,6 +17399,7 @@ start.belastingdienst.nl
 start.cito.nl
 start.dus-i.nl
 start.test.dusi.irealisatie.nl
+startanalyse.pbl.nl
 startat.afm.nl
 startformulier.brabant.nl
 startformuliertest.brabant.nl
@@ -18279,6 +18301,7 @@ testcloud.cvte.nl
 testconn-mp.ssc-campus.nl
 testconn.ctgb.nl
 testconn.knmi.nl
+testconn.pbl.nl
 testconn.rivm.nl
 testdigikoppeling.waterschaplimburg.nl
 testdigitaalvergaderen.belastingdienst.nl
@@ -18334,6 +18357,7 @@ th.espacenet.com
 thatsip.nl
 thehub.paper-spa.github.io
 themaportefeuillesriec-liec.kennisplatformondermijning.nl
+themasites.pbl.nl
 theoriereservering.cbr.nl
 thesaurus-a.politieacademie.nl
 thesaurus-az-a.politieacademie.nl
@@ -20006,6 +20030,7 @@ werkplek.justid.nl
 werkplek.lvnl.nl
 werkplek.nvao.net
 werkplek.om.nl
+werkplek.pbl.nl
 werkplek.rekenkamer.nl
 werkplek.rws.nl
 werkplek.services.acm.nl

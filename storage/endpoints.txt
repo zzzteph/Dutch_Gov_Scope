@@ -197,6 +197,7 @@ http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
 http://autodiscover.ofgv.nl
 http://autodiscover.ondernemersplein.nl
+http://autodiscover.pbl.nl
 http://autodiscover.politieacademie.nl
 http://autodiscover.raadvanstate.nl
 http://autodiscover.rvr.org
@@ -888,6 +889,7 @@ http://test.waddenzee.nl
 http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
+http://testconn.pbl.nl
 http://testconn.rivm.nl
 http://testrepo3.visibilitysaurus.github.io
 http://thuisindecitotoets.cito.nl
@@ -3742,6 +3744,7 @@ https://chat.ind.nl
 https://chat.nationaalarchief.nl
 https://chat.ncsc.nl
 https://chatapi.klopt.cibg.nl
+https://chatgpt.pbl.nl
 https://chattanooga-bike-to-work-day-chcrpa.hub.arcgis.com
 https://check.opwegnaarzes.nl
 https://checkjeprijs.huurcommissie.nl
@@ -4010,6 +4013,7 @@ https://connect.justitieleictorganisatie.nl
 https://connect.kinderbescherming.nl
 https://connect.knmi.nl
 https://connect.niwo.nl
+https://connect.pbl.nl
 https://connect.rivm.nl
 https://connect.schadefonds.nl
 https://connect.ssc-campus.nl
@@ -5632,6 +5636,7 @@ https://fs.afm.nl
 https://fs.cpb.nl
 https://fs.ctgb.nl
 https://fs.knmi.nl
+https://fs.pbl.nl
 https://fs.rivm.nl
 https://fs.ssc-campus.nl
 https://fscontest.github.io
@@ -6830,6 +6835,7 @@ https://kwalificatie-mijn.s-bb.nl
 https://kwalificaties.s-bb.nl
 https://kwalificatiestructuur-mijn.s-bb.nl
 https://kwaliteit.nba.nl
+https://kwaliteitvanleven.pbl.nl
 https://kweepeer.dev.huc.knaw.nl
 https://kwiv.rijksapplicaties.nl
 https://kwiv.staging.rijksapplicaties.nl
@@ -7275,6 +7281,7 @@ https://mail.ontdekdezorg.nl
 https://mail.open-overheid.nl
 https://mail.opwegnaarseb.nl
 https://mail.partnersforwater.nl
+https://mail.pbl.nl
 https://mail.rechtenoverheid.nl
 https://mail.rijkewaddenzee.nl
 https://mail.rijkscloud.nl
@@ -7703,6 +7710,7 @@ https://modellenplatform-rekenen.ssc-campus.nl
 https://modellenplatform.ssc-campus.nl
 https://modellenregister.rivm.nl
 https://modelregistry.clustertool.tno.nl
+https://models.pbl.nl
 https://module-denkprofielen.slo.nl
 https://modules.istandaarden.nl
 https://mogin.ndw.nu
@@ -8657,6 +8665,7 @@ https://password-new.knmi.nl
 https://password.ctgb.nl
 https://password.knaw.nl
 https://password.knmi.nl
+https://password.pbl.nl
 https://password.rivm.nl
 https://password.ssc-campus.nl
 https://paste.huc.knaw.nl
@@ -9804,7 +9813,6 @@ https://services7.arcgis.com
 https://servicesqa.arcgis.com
 https://sesam-acc.tweedekamer.nl
 https://seveso-plus.nl
-https://sf.pbl.nl
 https://sf.rivm.nl
 https://sfbwebext.lbio.nl
 https://sfdc-to-dgc-integration.wgu-edu.github.io
@@ -9905,6 +9913,7 @@ https://snelheidsovertredingen.om.nl
 https://snellemotorboten.rdw.nl
 https://snippet.clo.nl
 https://snippet.icer.pbl.nl
+https://snippet.monovi.pbl.nl
 https://snippet.pbl.nl
 https://snippet.startanalyse.pbl.nl
 https://snippet.wlo2025.nl
@@ -10087,6 +10096,7 @@ https://start.acc.dusi.irealisatie.nl
 https://start.cito.nl
 https://start.dus-i.nl
 https://start.test.dusi.irealisatie.nl
+https://startanalyse.pbl.nl
 https://startat.afm.nl
 https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
@@ -10560,6 +10570,7 @@ https://tgv.nipv.nl
 https://thatsip.nl
 https://thehub.paper-spa.github.io
 https://themaportefeuillesriec-liec.kennisplatformondermijning.nl
+https://themasites.pbl.nl
 https://thesaurus-a.politieacademie.nl
 https://thesaurus-az-a.politieacademie.nl
 https://thesaurus-az-t.politieacademie.nl
