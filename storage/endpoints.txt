@@ -846,7 +846,6 @@ http://student-information-system.wgu-edu.github.io
 http://styleguide.cibg.nl
 http://sub.gezondekinderopvang.nl
 http://sub.gezondeschool.nl
-http://support.test.pdok.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://svnmvn.huygens.knaw.nl
@@ -10260,6 +10259,7 @@ https://support-tst.cbr.nl
 https://support.cbr.nl
 https://support.huc.knaw.nl
 https://support.rivm.nl
+https://support.test.pdok.nl
 https://support.vechtstromen.nl
 https://supportschonesport.nl
 https://surf.tropomi.eu

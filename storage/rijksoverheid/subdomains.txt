@@ -2000,6 +2000,7 @@ acceptatie.digikoppeling.dictu.nl
 acceptatie.digikoppeling.diginetwerk.dictu.nl
 acceptatie.digikoppeling2.cibg.nl
 acceptatie.digikoppeling2.dictu.nl
+acceptatie.downloads.pdok.nl
 acceptatie.drms.cibg.nl
 acceptatie.dustex.nl
 acceptatie.ebms.digikoppeling.cibg.nl
@@ -2024,6 +2025,7 @@ acceptatie.inspire.rivm.nl
 acceptatie.intranet.schadedoormijnbouw.nl
 acceptatie.isis-web.nl
 acceptatie.istandaarden.nl
+acceptatie.kaart.pdok.nl
 acceptatie.kennisplatform.nl
 acceptatie.klinieken.donorgegevens.nl
 acceptatie.kvz2005.rivm.nl
@@ -2075,6 +2077,7 @@ acceptatie.pacemweb.nl
 acceptatie.password.osiris.rivm.nl
 acceptatie.passwordreset.rws.nl
 acceptatie.pbl.nl
+acceptatie.pdokviewer.pdok.nl
 acceptatie.philotes.rivm.nl
 acceptatie.politie.nl
 acceptatie.portaal.competent.cibg.nl
@@ -3115,6 +3118,7 @@ apps.jeugdconnect.nl
 apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
 apps.kb.nl
+apps.pdok.nl
 apps.politie.nl
 apps.politieacademie.nl
 apps.rivm.nl
@@ -4265,8 +4269,10 @@ blauwe-knop-acc.cjib.nl
 blauwegolfverbindend.nl
 blikvooruit.aofondsrijk.nl
 blockchain.tno.nl
+blog.acceptatie.pdok.nl
 blog.arcgis.com
 blog.brabant.nl
+blog.pdok.nl
 blog.rijkscloud.nl
 blogs.arcgis.com
 blogs.brabant.nl
@@ -5827,6 +5833,7 @@ data-usfs.hub.arcgis.com
 data-wcc.opendata.arcgis.com
 data-winterspringsfl.hub.arcgis.com
 data-wshd.opendata.arcgis.com
+data.acceptatie.pdok.nl
 data.aquo.nl
 data.cdho.nl
 data.collectienederland.nl
@@ -5840,11 +5847,13 @@ data.ilent.nl
 data.kkg.kadaster.nl
 data.knmi.nl
 data.labs.kadaster.nl
+data.labs.pdok.nl
 data.ndw.nu
 data.noraonline.nl
 data.nwo.nl
 data.overheid.nl
 data.pbl.nl
+data.pdok.nl
 data.politie.nl
 data.rechtspraak.nl
 data.rijkswaterstaat.nl
@@ -5853,6 +5862,7 @@ data.rvo.nl
 data.schadefonds.nl
 data.staging.ndw.nu
 data.test.geoforum.nl
+data.test.pdok.nl
 data.zuid-holland.nl
 data2.emissieregistratie.nl
 dataalsonbekendevervuiler.nl
@@ -6640,6 +6650,7 @@ downloadpdf.ep-online.nl
 downloads.acp.kvk.nl
 downloads.hansken.org
 downloads.kvk.nl
+downloads.pdok.nl
 downloads.rijkswaterstaatdata.nl
 downloads.slo.nl
 downloadservice.acp.kvk.nl
@@ -7376,6 +7387,7 @@ etc.cloud.kadaster.nl
 etc.test.cloud.kadaster.nl
 etender.dnb.nl
 etl.rijkswaterstaat.nl
+eto.loket.pdok.nl
 etoegang-acc.belastingdienst.nl
 etoegang-mtls-acc.belastingdienst.nl
 etoegang-mtls-douane.belastingdienst.nl
@@ -8029,9 +8041,11 @@ formulieren.zovar.nl
 fortbijrijnauwen.staatsbosbeheer.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
+forum.acceptatie.pdok.nl
 forum.developer.overheid.nl
 forum.espacenet.com
 forum.orfeus-eu.org
+forum.pdok.nl
 forum.raadopenbaarbestuur.nl
 forum.schadedoormijnbouw.nl
 forum.topinkomens.nl
@@ -8344,6 +8358,7 @@ geodata.rivm.nl
 geodata.staatsbosbeheer.nl
 geodata.zuid-holland.nl
 geodata1.nationaalgeoregister.nl
+geodatastore.pdok.nl
 geodiensten.flevoland.nl
 geodocs.odmh.nl
 geoenrich.arcgis.com
@@ -9915,6 +9930,7 @@ kaart.acceptatie.lcms.nl
 kaart.collectiefnatuurinclusief.nl
 kaart.flevoland.nl
 kaart.nationaalwegenbestand.nl
+kaart.pdok.nl
 kaart.productie.lcms.nl
 kaart.staatsbosbeheer.nl
 kaart.test.lcms.nl
@@ -11877,6 +11893,7 @@ mijn.acc.ncsc.nl
 mijn.acc.vfpf.nl
 mijn.acceptatie.kadaster.nl
 mijn.acceptatie.lcms.nl
+mijn.acceptatie.pdok.nl
 mijn.acceptatie.schadefonds.nl
 mijn.acm.nl
 mijn.adr.donorregister.nl
@@ -11925,6 +11942,7 @@ mijn.odc-noord.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
 mijn.parlement.nl
+mijn.pdok.nl
 mijn.preprod.vfpf.nl
 mijn.preprod1.digid.nl
 mijn.preprod2.digid.nl
@@ -14282,6 +14300,7 @@ pdc.pre.omgevingswet.overheid.nl
 pdok.aerius.nl
 pdok.nl
 pdok.waterschaplimburg.nl
+pdokviewer.pdok.nl
 pdvnl31.dans.knaw.nl
 pdx.dev.dmi-ecosysteem.nl
 pdx.dmi-ecosysteem.nl
@@ -15009,6 +15028,7 @@ probeer.waterkwaliteitsportaal.nl
 probeerbrpapi.rvig.nl
 procesinfrastructuur.nl
 processierups.nu
+processing.test.pdok.nl
 processinnovation.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
@@ -16354,6 +16374,7 @@ sandbox.kansspelautoriteit.nl
 sandbox.mobiliteitsbank.nl
 sandbox.redactie.eerstekamer.nl
 sandbox.schadedoormijnbouw.nl
+sandbox.test.pdok.nl
 sandbox.werkenbijdeoverheid.nl
 sandbox.werkenvoornederland.nl
 sap-internet-test.belastingdienst.nl
@@ -16711,6 +16732,8 @@ services.gmh.dans.knaw.nl
 services.ilent.nl
 services.kb.nl
 services.odc-noord.nl
+services.pdok.nl
+services.test.pdok.nl
 services.uwv.nl
 services1.domeinenrz.nl
 services7.arcgis.com
@@ -18182,6 +18205,7 @@ test.lma.nl
 test.lma.rws.nl
 test.lml.rivm.nl
 test.lmm.rivm.nl
+test.loket.pdok.nl
 test.loketgezondleven.nl
 test.meertens.knaw.nl
 test.meldingenapp.tweedekamer.nl

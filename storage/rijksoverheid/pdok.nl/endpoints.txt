@@ -1,4 +1,3 @@
-http://support.test.pdok.nl
 https://api.pdok.nl
 https://app.pdok.nl
 https://delivery.pdok.nl
@@ -7,5 +6,6 @@ https://kangaroo.acceptatie.pdok.nl
 https://pdok.nl
 https://s3.delivery.pdok.nl
 https://service.pdok.nl
+https://support.test.pdok.nl
 https://www.acceptatie.pdok.nl
 https://www.pdok.nl

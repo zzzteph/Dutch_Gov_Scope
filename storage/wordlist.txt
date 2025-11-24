@@ -39,8 +39,8 @@ opendata.english
 beheer
 connect
 sip
-portaal
 apps
+portaal
 meet
 _dmarc
 www.acceptatie
@@ -53,6 +53,7 @@ publicaties
 ftp
 www.acc
 cpanel
+services
 hybrid
 sts
 elearning
@@ -60,7 +61,6 @@ cdn
 oud
 accept
 adfs
-services
 docs
 onderzoek
 auth
@@ -126,6 +126,7 @@ chat
 archief
 files
 prod-dictu
+forum
 admin
 events
 magazine
@@ -166,7 +167,6 @@ sdm
 repository
 sso
 developer
-forum
 siam
 matomo
 hostmaster
@@ -192,6 +192,7 @@ cms2
 acc.mijn
 www.mijn
 exchange
+kaart
 csoacct
 csotest
 zaaksysteem-acc
@@ -216,6 +217,7 @@ backend
 toolkit
 assets
 idp
+downloads
 testeloket
 vpn2
 prd
@@ -224,6 +226,7 @@ huisstijl
 sharepoint
 website
 acceptatie.webservices
+blog
 connect-with
 dataportaal
 esb
@@ -247,7 +250,6 @@ services-acc
 webservice
 desktop
 intranet-acc
-kaart
 veiligmailen
 extern
 odc
@@ -278,9 +280,9 @@ search
 cm
 stage
 web
-downloads
 activesync
 redirect
+mijn.acceptatie
 community
 pushmail
 smtp1
@@ -300,7 +302,6 @@ smtp2
 start
 video
 wus
-blog
 blogs
 geoserver
 osb
@@ -426,7 +427,6 @@ mijnzaak
 da
 2020
 api.acceptatie
-mijn.acceptatie
 mft
 prisma
 cloud
@@ -788,6 +788,7 @@ token
 www.aanvragen
 bes
 sites
+data.test
 sub
 educatie
 guestportal
@@ -803,6 +804,7 @@ japan
 aa
 api.test
 apiportal
+data.labs
 pulse
 www.stats
 www.sts
@@ -8460,7 +8462,6 @@ test.volwassenheidsscan
 toolkitinclusie
 toolkittaal
 volwassenheidsscan
-data.test
 aandeslag
 www.jouw
 0-0-256
@@ -9653,7 +9654,6 @@ csu070-med
 cua.erp
 dashboards.acceptatie
 data.kkg
-data.labs
 dataleveringen.acceptatie
 dataleveringen
 dataleveringen.test
@@ -12632,15 +12632,28 @@ snippet.monovi
 snippet.startanalyse
 startanalyse
 themasites
+acceptatie.downloads
+acceptatie.kaart
 acceptatie.loket
+acceptatie.pdokviewer
 app.test
+blog.acceptatie
+data.acceptatie
 delivery
 delivery.test
 download.test
+eto.loket
+forum.acceptatie
+geodatastore
 kangaroo.acceptatie
+pdokviewer
+processing.test
 s3.delivery
+sandbox.test
 service.test
+services.test
 support.test
+test.loket
 metrokaart
 cert
 cp
