@@ -875,6 +875,7 @@ werkenbij.acceptatie
 crl
 beeld
 class
+minvws
 tweedekamer
 ocsp
 oid
@@ -14663,7 +14664,6 @@ minienw
 minjenv
 minocw
 minszw
-minvws
 nvwa
 nza
 om
