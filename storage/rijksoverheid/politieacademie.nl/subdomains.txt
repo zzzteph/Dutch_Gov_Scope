@@ -28,7 +28,9 @@ dwo-t.politieacademie.nl
 dwo.politieacademie.nl
 edge.politieacademie.nl
 edge.webmail.politieacademie.nl
+euvid.politieacademie.nl
 extbhr.politieacademie.nl
+gebouwbeheersysteem.politieacademie.nl
 grafana.politieacademie.nl
 kennisbank-a.politieacademie.nl
 kennisbank-api-a.politieacademie.nl
@@ -60,6 +62,10 @@ lesrooster.politieacademie.nl
 login-t.politieacademie.nl
 loginsso.politieacademie.nl
 mail.politieacademie.nl
+mail1.politieacademie.nl
+mail1.webmail.politieacademie.nl
+mail2.politieacademie.nl
+mail2.webmail.politieacademie.nl
 mediatheek.politieacademie.nl
 mijnkompol-a.politieacademie.nl
 mijnkompol-t.politieacademie.nl
@@ -70,10 +76,10 @@ mir.politieacademie.nl
 mms.politieacademie.nl
 momo.politieacademie.nl
 multiteam.politieacademie.nl
-mx.webmail.politieacademie.nl
 mx.webmail1.politieacademie.nl
 netwerktoegang.politieacademie.nl
 ns1.politieacademie.nl
+onderhoud.politieacademie.nl
 osiris-t.politieacademie.nl
 osiris.politieacademie.nl
 osirisacc.politieacademie.nl
@@ -142,6 +148,7 @@ webmail-t.politieacademie.nl
 webmail.politieacademie.nl
 webmail1.politieacademie.nl
 webuntis.politieacademie.nl
+www-test.politieacademie.nl
 www.politieacademie.nl
 zeden-az.politieacademie.nl
 zeden.politieacademie.nl

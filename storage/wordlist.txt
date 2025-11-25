@@ -65,6 +65,7 @@ docs
 onderzoek
 auth
 www2
+mail2
 webdisk
 enterpriseregistration
 ns2
@@ -74,7 +75,6 @@ open
 dialin
 digikoppeling
 inloggen
-mail2
 www.test
 maps
 fs
@@ -117,6 +117,7 @@ acceptatie.beheer
 acceptatie.mijn
 demo
 designsystem
+onderhoud
 mam
 mobiel
 www-ow
@@ -141,10 +142,10 @@ werken
 acceptatie.behandel
 behandel
 wifi
+www-test
 helpdesk
 academy
 content
-onderhoud
 projecten
 sftp
 www1
@@ -186,7 +187,6 @@ id
 kaarten
 nieuws
 samenwerken
-www-test
 outlook
 formulier
 cms2
@@ -212,6 +212,7 @@ statistiek
 www.staging
 acc-mijn
 securemail
+mail1
 nieuw
 acc-www
 gateway
@@ -275,7 +276,6 @@ idm
 acc-cms
 support
 elo
-mail1
 probeer
 search
 cm
@@ -13069,7 +13069,9 @@ dust-api
 dw
 dwo-t
 edge.webmail
+euvid
 extbhr
+gebouwbeheersysteem
 kennisbank-a
 kennisbank-api-a
 kennisbank-api-t
@@ -13098,6 +13100,8 @@ lesrooster-t
 lesrooster
 login-t
 loginsso
+mail1.webmail
+mail2.webmail
 mijnkompol-a
 mijnkompol-t
 mijnkompol
@@ -13107,7 +13111,6 @@ mir
 mms
 momo
 multiteam
-mx.webmail
 mx.webmail1
 netwerktoegang
 osiris-t

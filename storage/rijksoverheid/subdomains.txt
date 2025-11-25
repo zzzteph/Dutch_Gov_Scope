@@ -7504,6 +7504,7 @@ europese-subsidies.rvo.nl
 eurosai.pleio.nl
 eurovignettes.eu
 euthanasiecommissie.nl
+euvid.politieacademie.nl
 euvis-ebms.data-exchange.consular.mfaservices.nl
 euvoertuigregistreren.rdw.nl
 eux-olo.belastingdienst.nl
@@ -8315,6 +8316,7 @@ gdw-release.cvr.rvb.rijkscloud.nl
 gdw-release.devops.rvb.rijkscloud.nl
 gebiedagen2.waddenzee.nl
 gebiedsprofielen.zuid-holland.nl
+gebouwbeheersysteem.politieacademie.nl
 gebruiker-beheer.dus-i.nl
 gebruiker.rvo.nl
 gebruikerbeheer.rvo.nl
@@ -11615,6 +11617,8 @@ mail1.gn3.rijkscloud.nl
 mail1.minbzk.nl
 mail1.parlement.nl
 mail1.politie.nl
+mail1.politieacademie.nl
+mail1.webmail.politieacademie.nl
 mail2.acm.nl
 mail2.afm.nl
 mail2.dnb.nl
@@ -11623,10 +11627,12 @@ mail2.filmfonds.nl
 mail2.minbzk.nl
 mail2.parlement.nl
 mail2.politie.nl
+mail2.politieacademie.nl
 mail2.raadvanstate.nl
 mail2.rvig.nl
 mail2.venvn.nl
 mail2.vno.minbzk.nl
+mail2.webmail.politieacademie.nl
 mail230.brabant.nl
 mail231.brabant.nl
 mail240.brabant.nl
@@ -12743,7 +12749,6 @@ mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx.ncsc.nl
 mx.odc.pleio.nl
-mx.webmail.politieacademie.nl
 mx.webmail1.politieacademie.nl
 mx01.tib-ivd.nl
 mx02.bkd.eu
@@ -13546,6 +13551,7 @@ onboarding.acc.belastingdienst.nl
 onboarding.belastingdienst.nl
 onderhoud.cbs.nl
 onderhoud.ciz.nl
+onderhoud.politieacademie.nl
 onderhoud.rdw.nl
 onderhoud.rechtspraak.nl
 onderhoud.s-bb.nl
@@ -20668,6 +20674,7 @@ www-test.brabant.nl
 www-test.cbs.nl
 www-test.ciz.nl
 www-test.inhuurdeskpolitie.nl
+www-test.politieacademie.nl
 www-test.werkenbijciz.nl
 www-test2.werkenbijdeoverheid.nl
 www-ts.farmacotherapeutischkompas.nl
