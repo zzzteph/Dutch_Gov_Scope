@@ -283,7 +283,6 @@ search
 cm
 stage
 web
-activesync
 da
 mijn.acceptatie
 community
@@ -430,6 +429,7 @@ pki
 sip2
 international
 www.cms
+activesync
 mijnzaak
 2020
 api.acceptatie
@@ -13855,7 +13855,6 @@ mijn-academie
 mijnacademie
 Md2
 Telewerken
-activesync2
 api-gateway
 apis.acc
 apis
@@ -13906,6 +13905,7 @@ px-manager.onlinezitting
 rechtspraaklogin
 rep100
 reptoegang
+repv2
 roljournaalhandelgerechtshoven
 roljournaalhandelrechtbanken
 signin

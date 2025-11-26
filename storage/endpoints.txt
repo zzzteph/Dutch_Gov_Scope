@@ -11,6 +11,7 @@ http://72-47-169-195.cito.nl
 http://78-47-169-195.cito.nl
 http://88-47-169-195.cito.nl
 http://AutoDiscover.hdsr.nl
+http://Telewerken.rechtspraak.nl
 http://_dc-mx.d43e04744c5a.politieenwetenschap.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
@@ -855,6 +856,7 @@ http://tag2.uwv.nl
 http://technische-documentatie.oep.overheid.nl
 http://teebstad.nl
 http://teebstad.rivm.nl
+http://telewerken.rechtspraak.nl
 http://test-afleveren.procesinfrastructuur.nl
 http://test-bron.waterschaplimburg.nl
 http://test-cms-eef.waterschaplimburg.nl
@@ -1730,7 +1732,6 @@ https://RDSapplications06.svb.nl
 https://RDSapplications07.svb.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
-https://Telewerken.rechtspraak.nl
 https://TvSimulator.rdw.nl
 https://V14.rws.nl
 https://_dc-mx.41dece63829c.partnersforwater.nl
@@ -10640,7 +10641,6 @@ https://telewerken-pre.landelijkemeldkamer.org
 https://telewerken.gslb.landelijkemeldkamer.org
 https://telewerken.landelijkemeldkamer.org
 https://telewerken.politieacademie.nl
-https://telewerken.rechtspraak.nl
 https://tellerrapportcontroleren.rdw.nl
 https://tellerrapportuitgebreidaanvragen.rdw.nl
 https://tellerstand.rdw.nl

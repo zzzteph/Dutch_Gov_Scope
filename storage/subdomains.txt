@@ -2311,8 +2311,6 @@ activesync-ota.parlement.nl
 activesync.hetcak.nl
 activesync.kadaster.nl
 activesync.parlement.nl
-activesync.rechtspraak.nl
-activesync2.rechtspraak.nl
 activitydashboard.arcgis.com
 actorenregister.acpt.nationaalarchief.nl
 actorenregister.nationaalarchief.nl
@@ -16268,6 +16266,7 @@ reps.kadaster.nl
 reps.test.kadaster.nl
 reptoegang.rechtspraak.nl
 republic.huygens.knaw.nl
+repv2.rechtspraak.nl
 research.cbs.nl
 research.kb.nl
 researcher.postcovidonderzoek.nl

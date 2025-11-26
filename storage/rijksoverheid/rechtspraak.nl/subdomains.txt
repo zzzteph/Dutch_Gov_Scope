@@ -1,7 +1,5 @@
 Md2.rechtspraak.nl
 Telewerken.rechtspraak.nl
-activesync.rechtspraak.nl
-activesync2.rechtspraak.nl
 api-gateway.rechtspraak.nl
 api.rechtspraak.nl
 apis.acc.rechtspraak.nl
@@ -79,6 +77,7 @@ rechtspraaklogin.rechtspraak.nl
 redirect.rechtspraak.nl
 rep100.rechtspraak.nl
 reptoegang.rechtspraak.nl
+repv2.rechtspraak.nl
 roljournaalhandelgerechtshoven.rechtspraak.nl
 roljournaalhandelrechtbanken.rechtspraak.nl
 sbc01.rechtspraak.nl
