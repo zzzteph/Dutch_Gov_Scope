@@ -78,10 +78,10 @@ allesisgezondheid.rivm.nl
 apex-cmm.rivm.nl
 api-samenmeten.rivm.nl
 api.acc-lsp.rivm.nl
+api.acc-seqdb.rivm.nl
 api.dev-lsp.rivm.nl
 api.rivm.nl
 api.tst-lsp.rivm.nl
-app.rivm.nl
 apps.rivm.nl
 asa1-extern.rivm.nl
 auth.rivm.nl
@@ -146,6 +146,7 @@ externemail04.rivm.nl
 externemailsaas.rivm.nl
 ezips-app.rivm.nl
 ezips.rivm.nl
+federatievesurveillance.rivm.nl
 filesender.rivm.nl
 filesender01.rivm.nl
 fs-pub.rivm.nl
@@ -277,7 +278,6 @@ secure.rivm.nl
 securemail.rivm.nl
 sensors.rivm.nl
 serhatpc.rivm.nl
-sf.rivm.nl
 sftp-test01.rivm.nl
 sftp.cims.rivm.nl
 sftp.rivm.nl
@@ -326,6 +326,7 @@ typened-mrsa.rivm.nl
 uzi.rivm.nl
 vacatiegelden.rivm.nl
 vcpapp.rivm.nl
+veldapp.rivm.nl
 veldmonitoring.rivm.nl
 vindjeplek-app.rivm.nl
 voorraadtelling.rivm.nl

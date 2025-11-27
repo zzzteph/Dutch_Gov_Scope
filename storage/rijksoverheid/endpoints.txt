@@ -20,7 +20,6 @@ http://aanvraag-uzi.ciz.nl
 http://acagiscience-zgis.hub.arcgis.com
 http://acc-api.rivm.nl
 http://acc-bestellingen.rivm.nl
-http://acc-duvo-web-api.rivm.nl
 http://acc-edfs.rivm.nl
 http://acc-english.rvo.nl
 http://acc-isis-ar-rapportage.rivm.nl
@@ -126,7 +125,6 @@ http://app-a4.digid.nl
 http://app-a5.digid.nl
 http://app-a6.digid.nl
 http://app-preprod1.digid.nl
-http://app.rivm.nl
 http://appl.rdi.nl
 http://applications-acc.globalentry-rtp.nl
 http://applications.globalentry-rtp.nl
@@ -273,6 +271,7 @@ http://cev.nl
 http://channels-az2.lpc.logius.nl
 http://chargerrecommendation-dcgis.hub.arcgis.com
 http://checkout-tst.ind.nl
+http://chemkap.rivm.nl
 http://circulaire-economie.ser.nl
 http://citavista.databank.nl
 http://citotoets.cito.nl
@@ -313,7 +312,6 @@ http://crlresidues.rivm.nl
 http://crm.nza.nl
 http://crs.nba.nl
 http://cs-portaal.procesinfrastructuur.nl
-http://csep2.rivm.nl
 http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl
 http://csotest.vacaturebeheer.werkenbijdeoverheid.nl
 http://d7.rvo.nl
@@ -400,6 +398,7 @@ http://ezips-app.rivm.nl
 http://facades-conversion.labs.dans.knaw.nl
 http://fairevaapi.labs.dans.knaw.nl
 http://faweb.fa.knaw.nl
+http://federatievesurveillance.rivm.nl
 http://feeds.english.sso3w.nl
 http://felix.brabant.nl
 http://filetypevalidator.labs.dans.knaw.nl
@@ -528,6 +527,7 @@ http://kwaliteitstoetsing.nba.nl
 http://lead-service-line-inventory-emua.hub.arcgis.com
 http://learning.hansken.org
 http://license.labs.dans.knaw.nl
+http://lims.rivm.nl
 http://link.ptvt.nl
 http://linkextractor.overheid.nl
 http://lmr.proeftuin.gf.irealisatie.nl
@@ -586,6 +586,7 @@ http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
 http://metadata.test.zm.irealisatie.nl
 http://metrokaart.pianoo.nl
+http://mft.rivm.nl
 http://miauw.rdosecurity.nl
 http://migrantcards.huygens.knaw.nl
 http://mijn-api.cbs.nl
@@ -892,7 +893,6 @@ http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
 http://testconn.pbl.nl
-http://testconn.rivm.nl
 http://testrepo3.visibilitysaurus.github.io
 http://thuisindecitotoets.cito.nl
 http://tiaplus.cito.nl
@@ -966,6 +966,7 @@ http://videobellen.waterschaplimburg.nl
 http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://view.herseninstituut.knaw.nl
+http://vindjeplek-app.rivm.nl
 http://visitaties.nl
 http://viya.rijkswaterstaat.nl
 http://vnsc.eu
@@ -994,8 +995,9 @@ http://webmail.knmi.nl
 http://webmail.nbso-brazil.com.br
 http://webmail.rivm.nl
 http://webmail.werkenvoornederland.nl
+http://webservice.aiz.osiris.rivm.nl
 http://webservice.mgk.osiris.rivm.nl
-http://webservice.prezies.osiris.rivm.nl
+http://webservice.signalen.osiris.rivm.nl
 http://website.belastingdienst.nl
 http://webstatistieken.kb.nl
 http://webtooling.irealisatie.nl
@@ -1031,6 +1033,7 @@ http://www.bestellingen.rivm.nl
 http://www.betalen.nba.nl
 http://www.bevolkingsonderzoek.nl
 http://www.bureau-reach.nl
+http://www.caontb.rivm.nl
 http://www.cev.nl
 http://www.chemkap.rivm.nl
 http://www.cn.dnb.nl
@@ -1038,8 +1041,8 @@ http://www.criminaliteitenrecht.nl
 http://www.crs.nba.nl
 http://www.curriculumontwerp.slo.nl
 http://www.danstijd.slo.nl
-http://www.draaiboekhielprikscreening.rivm.nl
 http://www.dwc.knaw.nl
+http://www.earss.rivm.nl
 http://www.enabling.omgevingswet.overheid.nl
 http://www.entreepgb.svb.nl
 http://www.german.investinholland.com
@@ -1049,11 +1052,13 @@ http://www.int02.omgevingswet.overheid.nl
 http://www.int2905.omgevingswet.overheid.nl
 http://www.integratie.omgevingswet.overheid.nl
 http://www.intranet.knaw.nl
+http://www.isis.rivm.nl
 http://www.japan.investinholland.com
 http://www.jongekind.slo.nl
 http://www.kennisplatformvhg.nl
 http://www.korea.investinholland.com
 http://www.kwaliteitstoetsing.nba.nl
+http://www.lci.rivm.nl
 http://www.leerganglob.slo.nl
 http://www.login.nba.nl
 http://www.loketgentherapie.nl
@@ -1075,6 +1080,7 @@ http://www.perf.omgevingswet.overheid.nl
 http://www.rca.rivm.nl
 http://www.rekentop.nba.nl
 http://www.rijbewijs.nl
+http://www.rivm.nl
 http://www.rivmmagazines.nl
 http://www.sawa-vth.nl
 http://www.sip1.nba.nl
@@ -1109,7 +1115,6 @@ http://zeelandscan.databank.nl
 http://zoeken.hdsr.nl
 http://zoeken.ondernemersplein.overheid.nl
 http://zorgmonitor.databank.nl
-http://zwemwater.osiris.rivm.nl
 https://0-0-256.github.io
 https://0-001-0.github.io
 https://0-experiments.github.io
@@ -1904,7 +1909,6 @@ https://acc-pzpdirect.pzp.nl
 https://acc-referentiegegevens.justid.nl
 https://acc-sapphire.tno.nl
 https://acc-sonarreg.rws.nl
-https://acc-sso-osiris.rivm.nl
 https://acc-thuisbezorgd.mijnrijkspas.nl
 https://acc-v2.bronhouderportaal-bro.nl
 https://acc-vergelijkingskaart.afm.nl
@@ -2587,6 +2591,7 @@ https://api-tst.afm.nl
 https://api.abonneren-pro2.platformrijksoverheidonline.nl
 https://api.abonneren.platformrijksoverheidonline.nl
 https://api.acc-lsp.rivm.nl
+https://api.acc-seqdb.rivm.nl
 https://api.acc.ncsc.nl
 https://api.acc.woo.irealisatie.nl
 https://api.acceptatie.kadaster.nl
@@ -3802,7 +3807,6 @@ https://check.opwegnaarzes.nl
 https://checkjeprijs.huurcommissie.nl
 https://chemischestoffengoedgeregeld.nl
 https://chemkap-oud.rivm.nl
-https://chemkap.rivm.nl
 https://cher.emissieautoriteit.nl
 https://chesapeake-deij2-chesbay.hub.arcgis.com
 https://chester-county-s-gis-hub-chesco.hub.arcgis.com
@@ -4225,6 +4229,7 @@ https://csaf.data.security.ncsc.nl
 https://csaf.data.security.test.ncsc.nl
 https://cse.maps.arcgis.com
 https://csep.rivm.nl
+https://csep2.rivm.nl
 https://csirtdsp.nl
 https://csm.arcgis.com
 https://csm.az-int.arcgis.com
@@ -7174,7 +7179,6 @@ https://limburg.databank.nl
 https://limburg.nl
 https://limburger.wgu-edu.github.io
 https://limesurvey.pleio.nl
-https://lims.rivm.nl
 https://link.aerius.nl
 https://link.aofondsrijk.nl
 https://link.aovvt.nl
@@ -7677,7 +7681,6 @@ https://mft-acc.svb.nl
 https://mft-e.minbzk.nl
 https://mft-prd.svb.nl
 https://mft.kb.nl
-https://mft.rivm.nl
 https://mft.webftp.dictu.nl
 https://mg.chm-cbd.net
 https://mgk.osiris.rivm.nl
@@ -10084,7 +10087,6 @@ https://services7.arcgis.com
 https://servicesqa.arcgis.com
 https://sesam-acc.tweedekamer.nl
 https://seveso-plus.nl
-https://sf.rivm.nl
 https://sfbwebext.lbio.nl
 https://sfdc-to-dgc-integration.wgu-edu.github.io
 https://sfs-acc.dictu.nl
@@ -10255,7 +10257,6 @@ https://sportakkoord.nl
 https://sportdagjenv.nl
 https://sportenbewegenincijfers.nl
 https://sportinnovator.nl
-https://sprproposal.rivm.nl
 https://spx-oec.digitalenoordzee.nl
 https://sq.mfaservices.nl
 https://sqaas.labs.dans.knaw.nl
@@ -10269,7 +10270,6 @@ https://ssc-ict.nl
 https://ssc-ictspecials.nl
 https://sso-demo2.bronhouderportaal-bro.nl
 https://sso-noord.nl
-https://sso-osiris.rivm.nl
 https://sso-webauth.rivm.nl
 https://sso.acceptatie.istandaarden.nl
 https://sso.dbe-t.rvb.rijkscloud.nl
@@ -10687,7 +10687,6 @@ https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-dol.stopheling.nl
 https://test-dor.stopheling.nl
 https://test-dorbeheer.stopheling.nl
-https://test-fides.rivm.nl
 https://test-groenesubsidiewijzer.verbeterjehuis.nl
 https://test-hdl.staging.rijksapplicaties.nl
 https://test-internationaal.ondernemen.overheid.nl
@@ -10833,6 +10832,7 @@ https://testcao.minszw.nl
 https://testcloud.cvte.nl
 https://testconn-mp.ssc-campus.nl
 https://testconn.ctgb.nl
+https://testconn.rivm.nl
 https://testeloket.aaenmaas.nl
 https://testeloket.cvdm.nl
 https://testeloket.flevoland.nl
@@ -11259,6 +11259,7 @@ https://veiligmailen.raadvoorrechtsbijstand.org
 https://veiligmailen.rechtsbijstand.nl
 https://veiligmailen.rvr.org
 https://veiligtatoeerenenpiercen.nl
+https://veldapp.rivm.nl
 https://veldmonitoring.rivm.nl
 https://velocity6001.arcgis.com
 https://velocitydev1.arcgis.com
@@ -11355,7 +11356,6 @@ https://viewer.sensorenregister.test.cloud.kadaster.nl
 https://vild.ndw.nu
 https://vin-beheer.rdw.nl
 https://vin.rdw.nl
-https://vindjeplek-app.rivm.nl
 https://vip-acc.tweedekamer.nl
 https://vip2.tweedekamer.nl
 https://vipasbest.nl
@@ -11646,8 +11646,8 @@ https://webserver.cbs.nl
 https://webservice-acc.sbv-z.nl
 https://webservice-fab3.kbvg.nl
 https://webservice-kadaster.kbvg.nl
-https://webservice.cdif.osiris.rivm.nl
 https://webservice.ep-online.nl
+https://webservice.prezies.osiris.rivm.nl
 https://webservice.rechtspraak.nl
 https://webservice.sbv-z.nl
 https://webservice.sniv.osiris.rivm.nl
@@ -11952,7 +11952,6 @@ https://www.academie.ind.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academy.cito.nl
 https://www.academyforinternationalrelations.nl
-https://www.acc-mijn.rivm.nl
 https://www.acc.grondstoffenscanner.nl
 https://www.acc.inspectieview.nl
 https://www.acc.isdatechtzo.nl
@@ -12319,6 +12318,7 @@ https://www.dopingautoriteit.nl
 https://www.dopinginfo.nl
 https://www.dopingwaaier.nl
 https://www.douane.nl
+https://www.draaiboekhielprikscreening.rivm.nl
 https://www.draaiboekpsie.nl
 https://www.drupaloverheid.nl
 https://www.dsta.nl
@@ -13087,7 +13087,6 @@ https://www.rijkswaterstaatdata.nl
 https://www.rijkswaterstaatstrooit.nl
 https://www.risicotoolboxbodem.nl
 https://www.rivierklimaatpark.nl
-https://www.rivm.nl
 https://www.rke2.nldoc.nl
 https://www.rli.nl
 https://www.roraonline.nl
@@ -13559,6 +13558,7 @@ https://zvt.nationaalarchief.nl
 https://zw.chm-cbd.net
 https://zw.test.chm-cbd.net
 https://zwdelta.nl
+https://zwemwater.osiris.rivm.nl
 https://zwerfafval.rijkswaterstaat.nl
 https://zwerfafval.rws.nl
 https://zwolle.leerwerkloket.nl

@@ -33,10 +33,10 @@ portal
 redactie
 feeds.english
 smtp
-app
 e
 opendata.english
 beheer
+app
 sip
 connect
 apps
@@ -324,7 +324,6 @@ owa
 t-cms
 acm
 filesender
-sf
 linkeddata
 t
 thesaurus
@@ -529,6 +528,7 @@ digikoppeling2
 test.digikoppeling
 tmv
 a-api
+sf
 auth.services
 subsidie
 ibw
@@ -14336,6 +14336,7 @@ allesisgezondheid
 apex-cmm
 api-samenmeten
 api.acc-lsp
+api.acc-seqdb
 api.dev-lsp
 api.tst-lsp
 asa1-extern
@@ -14384,6 +14385,7 @@ expertrolesqsort
 externemail.test
 ezips-app
 ezips
+federatievesurveillance
 filesender01
 fs-pub
 g2b.acc-api
@@ -14530,6 +14532,7 @@ typened-crmo
 typened-mrsa
 vacatiegelden
 vcpapp
+veldapp
 veldmonitoring
 vindjeplek-app
 voorraadtelling

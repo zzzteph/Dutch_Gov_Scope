@@ -2800,6 +2800,7 @@ api.abonneren-pro2.platformrijksoverheidonline.nl
 api.abonneren.platformrijksoverheidonline.nl
 api.acc-cruks.kansspelautoriteit.nl
 api.acc-lsp.rivm.nl
+api.acc-seqdb.rivm.nl
 api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
 api.acc.spaceweather.knmi.nl
@@ -3087,7 +3088,6 @@ app.pdok.nl
 app.politie.nl
 app.pzp.nl
 app.raadvanstate.nl
-app.rivm.nl
 app.staatvanhetmkb.nl
 app.svb.nl
 app.test.pdok.nl
@@ -7849,6 +7849,7 @@ federatie.rechtspraak.nl
 federatie.rws.nl
 federatie.uwv.nl
 federatieveservice.nl
+federatievesurveillance.rivm.nl
 federation-test.reclassering.nl
 federation.brabant.nl
 federation.reclassering.nl
@@ -17155,7 +17156,6 @@ seveso-plus.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
 sf.ctgb.nl
-sf.rivm.nl
 sf.scp.nl
 sfb.cjib.nl
 sfbav.cjib.nl
@@ -19600,6 +19600,7 @@ veiligmailen.rvr.org
 veiligtatoeerenenpiercen.nl
 veiling.acc.belastingdienst.nl
 veiling.belastingdienst.nl
+veldapp.rivm.nl
 veldmonitoring.rivm.nl
 velocity.arcgis.com
 velocity1.arcgis.com
