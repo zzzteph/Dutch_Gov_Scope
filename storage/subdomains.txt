@@ -13019,6 +13019,7 @@ ncg-hr-ws.staging.rijksapplicaties.nl
 ncg-ivd.rijksapplicaties.nl
 ncg-ivd.staging.rijksapplicaties.nl
 ncg-jez-wv.rijksapplicaties.nl
+ncg-lerenversterken.rijksapplicaties.nl
 ncg-on-vv.rijksapplicaties.nl
 ncg-on-vv.staging.rijksapplicaties.nl
 ncg-thv.rijksapplicaties.nl
@@ -16626,6 +16627,7 @@ rvb-vgi1.staging.rijksapplicaties.nl
 rvb-vgi2.rijksapplicaties.nl
 rvb-vgi2.staging.rijksapplicaties.nl
 rvb-vgp.staging.rijksapplicaties.nl
+rvb-vi-2.rijksapplicaties.nl
 rvb-viad.staging.rijksapplicaties.nl
 rvb-vmr.rijksapplicaties.nl
 rvb-vmr.staging.rijksapplicaties.nl
