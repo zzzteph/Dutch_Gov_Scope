@@ -11,8 +11,8 @@ webmail
 english
 api
 acceptatie
-a-www
 _autodiscover._tcp
+a-www
 cms
 staging
 magazines
@@ -455,6 +455,7 @@ oa
 chw
 test.resultaten
 bezwaar
+feedback
 meldingen
 rivm
 rdgateway
@@ -959,7 +960,6 @@ odctest
 www.testdigitalediensten
 zorgenwerknetwerk
 b-acc
-feedback
 professional
 profgeodata.dynamic
 profgeodata.static
