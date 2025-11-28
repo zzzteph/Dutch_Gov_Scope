@@ -12,6 +12,7 @@ http://78-47-169-195.cito.nl
 http://88-47-169-195.cito.nl
 http://AutoDiscover.hdsr.nl
 http://Telewerken.rechtspraak.nl
+http://V14.rws.nl
 http://_dc-mx.d43e04744c5a.politieenwetenschap.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
@@ -22,17 +23,23 @@ http://acc-api.rivm.nl
 http://acc-bestellingen.rivm.nl
 http://acc-edfs.rivm.nl
 http://acc-english.rvo.nl
+http://acc-iam.wm.gslb.rws.nl
 http://acc-isis-ar-rapportage.rivm.nl
+http://acc-maps.rws.nl
 http://acc-mft.rivm.nl
 http://acc-mijnlmm.rivm.nl
 http://acc-participantapi.postcovidonderzoek.nl
 http://acc-researcher.postcovidonderzoek.nl
 http://acc-tdv.rivm.nl
 http://acc-veldmonitoring.rivm.nl
+http://acc-webportaal.rws.nl
 http://acc-website.rvo.nl
+http://acc-werkplek.gw01-gslb.rws.nl
+http://acc-werkplek.rws.nl
 http://acc.agrimatie.nl
 http://acc.avgregisterrijksoverheid.nl
 http://acc.boekingszuil.logerenbijdeboswachter.nl
+http://acc.digitaltwin.rws.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://acc.irealisatie.nl
@@ -42,10 +49,12 @@ http://acc.mijn.logerenbijdeboswachter.nl
 http://acc.praatmeemetdeoverheid.nl
 http://acc.webtooliso20400.nl
 http://acc.woo.irealisatie.nl
+http://accclap.rws.nl
 http://accept-betalen.nba.nl
 http://acceptatie-data.rivm.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
+http://acceptatie.bics.rws.nl
 http://acceptatie.ceses.osiris.rivm.nl
 http://acceptatie.chemkap.rivm.nl
 http://acceptatie.clusterbuster.nl
@@ -78,6 +87,7 @@ http://acceptatie.rivm.nl
 http://acceptatie.rivmweb72.rivm.nl
 http://acceptatie.rvs.rivm.nl
 http://acceptatie.rvszoeksysteem.rivm.nl
+http://acceptatie.sluisplanning.rws.nl
 http://acceptatie.ssc-campus.nl
 http://acceptatie.staatvenz.nl
 http://acceptatie.tws-esb.rijkswaterstaat.nl
@@ -106,6 +116,7 @@ http://afro-gis-center-who.hub.arcgis.com
 http://ag-dcr.cibg.nl
 http://agalerij.kb.nl
 http://agenda-regulatoria-rio-aguas-bienio-2025-2026-pcrj.hub.arcgis.com
+http://aia.pki.rws.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
 http://air-egle.hub.arcgis.com
 http://airflow.labs.dans.knaw.nl
@@ -238,6 +249,7 @@ http://beta-velsen.databank.nl
 http://beta-waves.databank.nl
 http://betalen.nba.nl
 http://bevolkingsonderzoek.nl
+http://bezoekerscentrum.rws.nl
 http://bft-plein-acc.bureauft.nl
 http://bft-plein.bureauft.nl
 http://bggo.rivm.nl
@@ -277,6 +289,7 @@ http://citavista.databank.nl
 http://citotoets.cito.nl
 http://city-of-taylor-open-data-mallard.hub.arcgis.com
 http://ckcc.huygens.knaw.nl
+http://clap.rws.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://clusiuscorrespondence.huygens.knaw.nl
@@ -329,8 +342,6 @@ http://dataverse-importer.labs.dans.knaw.nl
 http://dbadmin.huc.knaw.nl
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
-http://ddapi-preprod.gslb.rws.nl
-http://ddapi-preprod.rws.nl
 http://degruyter.com.access.authkb.kb.nl
 http://demo-ebc.databank.nl
 http://demo1-systemteam.overheid.nl
@@ -345,7 +356,6 @@ http://dev-mijnsap.rivm.nl
 http://dev-veldmonitoring.rivm.nl
 http://developer.rvo.nl
 http://dfaas.hansken.org
-http://diagrams.at.rws.nl
 http://dialin.nba.nl
 http://digitaleoverheid.stelselcatalogus.nl
 http://digitaletoetsen-po.cito.nl
@@ -386,6 +396,7 @@ http://employbrand.uwv.nl
 http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
 http://english.rivmmagazines.nl
+http://eov.acceptatie.rws.nl
 http://epistolarium.huygens.knaw.nl
 http://euir.rechtspraak.nl
 http://eurgen-net.rivm.nl
@@ -397,6 +408,7 @@ http://ezines.rvo.nl
 http://ezips-app.rivm.nl
 http://facades-conversion.labs.dans.knaw.nl
 http://fairevaapi.labs.dans.knaw.nl
+http://fam.rws.nl
 http://faweb.fa.knaw.nl
 http://federatievesurveillance.rivm.nl
 http://feeds.english.sso3w.nl
@@ -436,6 +448,7 @@ http://gitlab.at.rws.nl
 http://gitlab.huc.knaw.nl
 http://gm-pre.mev.logius.nl
 http://gm.mev.logius.nl
+http://grafana-acc.vm-02.azure.grid.rws.nl
 http://gso.gbv.de.access.authkb.kb.nl
 http://guydebres.huygens.knaw.nl
 http://gvopsawa-t.waterschaplimburg.nl
@@ -579,7 +592,6 @@ http://mebi-backoffice.rivm.nl
 http://meertenspanel.meertens.knaw.nl
 http://meet.nba.nl
 http://meridian.rijkswaterstaat.nl
-http://meridian.rws.nl
 http://merkportaal.dnb.nl
 http://metabase.rdosecurity.nl
 http://metadata-b.test.zm.irealisatie.nl
@@ -645,6 +657,7 @@ http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oos-p1.coa.nl
 http://oosweb.cbs.nl
 http://open-data-ls-osp-sdg.hub.arcgis.com
+http://open.rws.nl
 http://opendata.papiamento.two-acs.com
 http://opendatadev.arcgis.com
 http://opmaat.sdu.nl.access.authkb.kb.nl
@@ -652,6 +665,7 @@ http://oproepingen-api-preprd.overheid.nl
 http://orac.test.gf.irealisatie.nl
 http://organisaties-redactie.overheid.nl
 http://oss.developer.overheid.nl
+http://otl.rws.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
@@ -707,9 +721,11 @@ http://proeftuin.gf.irealisatie.nl
 http://prohibit.osiris.rivm.nl
 http://projecten.nba.nl
 http://projects.knmi.nl
+http://protide.rws.nl
 http://providence-gis-hub-pvdgis.hub.arcgis.com
 http://prs-stub.proeftuin.gf.irealisatie.nl
 http://prs.rijkswaterstaat.nl
+http://prs.rws.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
 http://pseudoniemendienst.test.gf.irealisatie.nl
@@ -729,6 +745,7 @@ http://quickcapture.arcgis.com
 http://rachel-splatt.github.io
 http://racine-water-utility-racine-wu.hub.arcgis.com
 http://railstotrails.maps.arcgis.com
+http://redactie.rwskennisplatform.rws.nl
 http://redeamer.github.io
 http://redirect.rechtspraak.nl
 http://redirect.rivm.nl
@@ -774,6 +791,7 @@ http://sac-sharegisny.hub.arcgis.com
 http://salesforcecopadorepo.wgu-edu.github.io
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
+http://samp.rws.nl
 http://sandbox.kansspelautoriteit.nl
 http://sat.irealisatie.nl
 http://scf-mqtt.tno.nl
@@ -806,6 +824,7 @@ http://sip1.nba.nl
 http://sites-u.rdw.nl
 http://sitescan-eu1.arcgis.com
 http://sitescan.arcgis.com
+http://sluisplanning.rws.nl
 http://smtp.cea.nl
 http://social-tst.overheid.nl
 http://sorry.belastingdienst.nl
@@ -874,6 +893,7 @@ http://test.api.waarborg.nl
 http://test.atlasnatuurlijkkapitaal.nl
 http://test.beheer.waarborg.nl
 http://test.bestandenpostbus.nl
+http://test.bezoekerscentrum.rws.nl
 http://test.burgernet.nl
 http://test.crios.rivm.nl
 http://test.digikoppeling.cibg.nl
@@ -886,6 +906,7 @@ http://test.mgo.irealisatie.nl
 http://test.mijn.waarborg.nl
 http://test.praatmeemetdeoverheid.nl
 http://test.staatvenz.nl
+http://test.tws-esb.rws.nl
 http://test.volksgezondheidenzorg.info
 http://test.vtv2018.nl
 http://test.waddenzee.nl
@@ -916,6 +937,7 @@ http://trialdomorganisatieservicesocsp-g3.pkioverheid.nl
 http://trialrootocsp-g3.ocsp.pkioverheid.nl
 http://try.github.io
 http://tst-rds.nl
+http://tst.fam.rws.nl
 http://tst.federatieveservice.nl
 http://tst.subsidie.cultureelerfgoed.nl
 http://ttp.rivm.nl
@@ -949,10 +971,12 @@ http://uworktest.flevoland.nl
 http://uzi.acc.brba.nl
 http://uzi.brba.nl
 http://uzi.test.brba.nl
+http://v14.rws.nl
 http://vacatiegelden.rivm.nl
 http://vacaturezoekservice-test.mobiliteitsbank.nl
 http://vacaturezoekservice-test.werkenbijdeoverheid.nl
 http://vas.cito.nl
+http://vegetatiemonitor.rws.nl
 http://velocity.arcgis.com
 http://velocity1.arcgis.com
 http://velocitydev.arcgis.com
@@ -976,7 +1000,9 @@ http://vpn.bkd.eu
 http://vpn.digiinkooppentest.odc-noord.nl
 http://vragenlijst-acc.rivm.nl
 http://w3dxweb.knmi.nl
+http://wachtwoord.rws.nl
 http://wadzee9520.waddenzee.nl
+http://waterberichtgeving.rws.nl
 http://waterbeschikbaarheid.nl
 http://waterwebservices-acc.rws.nl
 http://wcf-eafspraak-acceptatie.ba.uwv.nl
@@ -995,6 +1021,7 @@ http://webmail.knmi.nl
 http://webmail.nbso-brazil.com.br
 http://webmail.rivm.nl
 http://webmail.werkenvoornederland.nl
+http://webportaal.rws.nl
 http://webservice.aiz.osiris.rivm.nl
 http://webservice.mgk.osiris.rivm.nl
 http://webservice.signalen.osiris.rivm.nl
@@ -1009,6 +1036,7 @@ http://werkplek-test.rws.nl
 http://wetgevingskalender.overheid.nl
 http://wguid--sdk.wgu-edu.github.io
 http://williampetermatthew.github.io
+http://wkp.rws.nl
 http://wolk.hogeraad.nl
 http://wordimport.drop.overheid.nl
 http://wpo-webservice.staging.rijksapplicaties.nl
@@ -1103,7 +1131,6 @@ http://www.wetenschapentechnologie.slo.nl
 http://www1.cito.nl
 http://x.paper-spa.github.io
 http://xelion.cokz.nl
-http://xwd.rws.nl
 http://yashtalla.github.io
 http://yoann-404.paper-spa.github.io
 http://yoann2.paper-spa.github.io
@@ -1737,7 +1764,6 @@ https://RDSapplications07.svb.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
 https://TvSimulator.rdw.nl
-https://V14.rws.nl
 https://_dc-mx.41dece63829c.partnersforwater.nl
 https://_dc-mx.dddce9f5a2d1.knooppuntjoure.nl
 https://a-aag.sap.tno.nl
@@ -1883,13 +1909,11 @@ https://acc-dictu.toegankelijkheidsverklaring.nl
 https://acc-dlm.ssr.nl
 https://acc-epdintegratieplatform.dji.nl
 https://acc-flowlogics.minbzk.nl
-https://acc-gbvi.rws.nl
 https://acc-gbviapi.rws.nl
 https://acc-geo.rijkswaterstaat.nl
 https://acc-geo.rws.nl
 https://acc-geoservices.rvo.nl
 https://acc-groenesubsidiewijzer.verbeterjehuis.nl
-https://acc-iam.wm.gslb.rws.nl
 https://acc-iam.wm.rws.nl
 https://acc-insights.mfaservices.nl
 https://acc-internationaal.ondernemen.overheid.nl
@@ -1897,7 +1921,6 @@ https://acc-klas.oidji.nl
 https://acc-ls4.mfaservices.nl
 https://acc-lsp.rivm.nl
 https://acc-maps.rijkswaterstaat.nl
-https://acc-maps.rws.nl
 https://acc-mijn.cokz.nl
 https://acc-mijn.rivm.nl
 https://acc-mijn.ssr.nl
@@ -1913,14 +1936,12 @@ https://acc-v2.bronhouderportaal-bro.nl
 https://acc-vergelijkingskaart.afm.nl
 https://acc-vtcc.rivm.nl
 https://acc-webform.rvo.nl
-https://acc-werkplek.gw01-gslb.rws.nl
-https://acc-werkplek.rws.nl
 https://acc-wetten.rvo.nl
+https://acc-wkp.rws.nl
 https://acc-www-staging.cito.nl
 https://acc-www.cito.nl
 https://acc-www.verbeterjehuis.nl
 https://acc.adviescollegeveiligheidgroningen.nl
-https://acc.alarmmodule.rws.nl
 https://acc.antenneregister.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.api-sec.p-direkt.nl
@@ -1957,7 +1978,6 @@ https://acc.dcat-ap-donl.nl
 https://acc.derdekamer.nl
 https://acc.dictu.nl
 https://acc.digitaltrustcenter.nl
-https://acc.digitaltwin.rws.nl
 https://acc.drupaloverheid.nl
 https://acc.duurzaamdoor.nl
 https://acc.e-akkoord.nl
@@ -1965,7 +1985,6 @@ https://acc.e-loket.ilent.nl
 https://acc.esp.mfaservices.nl
 https://acc.eva.logius.nl
 https://acc.expenses.sso3w.nl
-https://acc.fam.rws.nl
 https://acc.farmingthefuture.nl
 https://acc.federatieveservice.nl
 https://acc.fez.mfaservices.nl
@@ -2042,7 +2061,6 @@ https://acc2.inspectieresultaten.nvwa.nl
 https://acc2.intranet.rvig.nl
 https://acc2.leer-rijk.nl
 https://acc2.nldoc.nl
-https://accclap.rws.nl
 https://accept-cm.ser.nl
 https://accept-cm.stvda.nl
 https://accept.beeldbank.gebruikercentraal.nl
@@ -2125,8 +2143,6 @@ https://acceptatie.beheer.ncpeh.nl
 https://acceptatie.beheer.registersocialehygiene.nl
 https://acceptatie.beheer.zorgaanbiedersportaal.nl
 https://acceptatie.bestandsportaal.cibg.nl
-https://acceptatie.beterbediend.rws.nl
-https://acceptatie.bics.rws.nl
 https://acceptatie.biotechnologie.rivm.nl
 https://acceptatie.botova.rijkswaterstaat.nl
 https://acceptatie.cdif.osiris.rivm.nl
@@ -2137,7 +2153,6 @@ https://acceptatie.drms.cibg.nl
 https://acceptatie.dustex.nl
 https://acceptatie.esb.rijkswaterstaat.nl
 https://acceptatie.facility.cultureelerfgoed.nl
-https://acceptatie.federatie.rws.nl
 https://acceptatie.feedfoodtransfer.nl
 https://acceptatie.formulieren.uziregister.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
@@ -2164,7 +2179,6 @@ https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.zorgaanbiedersportaal.nl
 https://acceptatie.mondriaanfonds.nl
 https://acceptatie.nipv.nl
-https://acceptatie.nlrdms.rws.nl
 https://acceptatie.onderzoeksraad.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
@@ -2180,7 +2194,6 @@ https://acceptatie.samenvoordeklant.nl
 https://acceptatie.sawa-vth.nl
 https://acceptatie.schadedoormijnbouw.nl
 https://acceptatie.signalen.osiris.rivm.nl
-https://acceptatie.sluisplanning.rws.nl
 https://acceptatie.sniv.osiris.rivm.nl
 https://acceptatie.soap.osiris.rivm.nl
 https://acceptatie.spin2.rijkswaterstaat.nl
@@ -2426,7 +2439,6 @@ https://ahn.nl
 https://ai-proeftuin.s-bb.nl
 https://ai-similia.labs.dans.knaw.nl
 https://ai.digicampus.tech
-https://aia.pki.rws.nl
 https://aicoeapp.rdw.nl
 https://aiddata.rvo.nl
 https://aienalgoritmes.pleio.nl
@@ -2454,7 +2466,6 @@ https://akronohio-covid-19-response-hub-akrongis.hub.arcgis.com
 https://al-i.espacenet.com
 https://al.espacenet.com
 https://alameda-and-contra-costa-county-regional-priority-plan-ccrcd.hub.arcgis.com
-https://alarmmodule.rws.nl
 https://alaska-dhss.hub.arcgis.com
 https://alaska-economic-data-dcced.hub.arcgis.com
 https://alaska-food-systems-soa-dnr.hub.arcgis.com
@@ -2957,7 +2968,6 @@ https://auth.services.cultureelerfgoed.nl
 https://auth.videobellen-jwt-moderator.pleio.nl
 https://auth.videobellen-jwt-only.pleio.nl
 https://auth.videobellen.pleio.nl
-https://auth.vm-02.azure.grid.rws.nl
 https://auth20.dictu.nl
 https://authenticatie-a.cito.nl
 https://authenticatie-o.cito.nl
@@ -3003,7 +3013,6 @@ https://autodiscover.restitutiecommissie.nl
 https://autodiscover.rijkewaddenzee.nl
 https://autodiscover.rivm.nl
 https://autodiscover.rva.nl
-https://autodiscover.rws.nl
 https://autodiscover.sbcm.nl
 https://autodiscover.sekswerkgoedgeregeld.nl
 https://autodiscover.sommbo.nl
@@ -3357,7 +3366,6 @@ https://bewustbodemgebruik.nl
 https://beyond-mobility-massdot.hub.arcgis.com
 https://bezoekers.tweedekamer.nl
 https://bezoekerscentrum.rijkswaterstaat.nl
-https://bezoekerscentrum.rws.nl
 https://bezoekersdata.flevoland.nl
 https://bezpiecznykrakow-gmk.hub.arcgis.com
 https://bezwaar.atkm.nl
@@ -3553,7 +3561,6 @@ https://bronhouderportaal-bro.nl
 https://bronnen.politieacademie.nl
 https://broward-county-demographics-bcgis.hub.arcgis.com
 https://broward-metropolitan-planning-organization-open-data-browardmpo.hub.arcgis.com
-https://browse.nexus.vm-02.azure.grid.rws.nl
 https://browser.dataplatform.knmi.nl
 https://brt.basisregistraties.overheid.nl
 https://brt.cloud.kadaster.nl
@@ -3732,7 +3739,6 @@ https://cdn.politieacademie.nl
 https://cdn.staatsbosbeheer.nl
 https://cdndev.arcgis.com
 https://cdnqa.arcgis.com
-https://cdp1.pki.rws.nl
 https://cdp2-glasgowgis.hub.arcgis.com
 https://cdp2.pki.rws.nl
 https://cea.nl
@@ -3753,7 +3759,6 @@ https://centraalexamenmbo.nl
 https://centraalexamenvmbo.nl
 https://centraalexamenvo.nl
 https://centraalexamenvwo.nl
-https://centraaltoegangspuntdata.rws.nl
 https://centrale-eindtoets-po.nl
 https://centralecommissiedierproeven.nl
 https://centro-de-respuesta-coronavirus-soacha-sigsoacha15.hub.arcgis.com
@@ -3878,7 +3883,6 @@ https://cjib.sitearchief.nl
 https://ckmbo.nl
 https://claircitydata.cbs.nl
 https://clallam-county-portal-clallam.hub.arcgis.com
-https://clap.rws.nl
 https://class.whofic.nl
 https://classic.npostart.nl
 https://clddeploy-landingzone-o.rdw.nl
@@ -4054,8 +4058,6 @@ https://componenten.overheid.nl
 https://computervision.tno.nl
 https://condor.coa.nl
 https://conference.gebruikercentraal.nl
-https://configgenerator.vm-02.azure.grid.rws.nl
-https://configuration.vm-02.azure.grid.rws.nl
 https://confluence.knmi.nl
 https://confluenceimg-acc.rvo.nl
 https://confluenceimg.rvo.nl
@@ -4778,7 +4780,6 @@ https://docspace.dmi-ecosysteem.nl
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
 https://document-viewer.dso.kadaster.nl
-https://documentatie.vm-02.azure.grid.rws.nl
 https://documentenapplicatie.igj.nl
 https://documentnummercontroleren.rdw.nl
 https://doemee.cbs.nl
@@ -5232,7 +5233,6 @@ https://enterpriseregistration.rws.nl
 https://enterpriseregistration.svb.nl
 https://env1.arcgis.com
 https://enwinfo.nl
-https://eov.acceptatie.rws.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://ep-i.espacenet.com
@@ -5403,7 +5403,6 @@ https://faculteitmilitairewetenschappen.nl
 https://fairaware-api.labs.dans.knaw.nl
 https://fairaware.dans.knaw.nl
 https://faireva.labs.dans.knaw.nl
-https://fam.rws.nl
 https://fame.aerius.nl
 https://fame2025.aerius.nl
 https://faq-fb.staging.rijksapplicaties.nl
@@ -5443,7 +5442,6 @@ https://feda.databank.nl
 https://federated-login-pp.dnb.nl
 https://federated-login.dnb.nl
 https://federatie.rechtspraak.nl
-https://federatie.rws.nl
 https://federatieveservice.nl
 https://federation-test.reclassering.nl
 https://federation.reclassering.nl
@@ -6038,7 +6036,6 @@ https://gpkb.kb.nl
 https://gps-sa.sso3w.nl
 https://gr-i.espacenet.com
 https://gr.espacenet.com
-https://grafana-acc.vm-02.azure.grid.rws.nl
 https://grafana.cruksregister.nl
 https://grafana.odc.pleio.nl
 https://grafana.pleio.nl
@@ -6273,7 +6270,6 @@ https://huurprijscheck.huurcommissie.nl
 https://huygens.knaw.nl
 https://hv.proquest.com.access.authkb.kb.nl
 https://hwbp.nl
-https://hwtest.vm-02.azure.grid.rws.nl
 https://hygienecode.voedingscentrum.nl
 https://i-login.mijncn.nl
 https://i-partnerschap.staging.rijksapplicaties.nl
@@ -6593,7 +6589,6 @@ https://inzichten.platformrijksoverheidonline.nl
 https://io.debatdirect.tweedekamer.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
-https://iodk.vm-02.azure.grid.rws.nl
 https://iot-demos.arcgis.com
 https://iot.arcgis.com
 https://iot1.arcgis.com
@@ -6624,7 +6619,6 @@ https://ir-edw-databricks.wgu-edu.github.io
 https://irc.crimediggers.nl
 https://irealisatie.nl
 https://iris.knmi.nl
-https://irose.vm-02.azure.grid.rws.nl
 https://is-i.espacenet.com
 https://is.espacenet.com
 https://isaac.nwo.nl
@@ -6691,7 +6685,6 @@ https://japan.investinholland.com
 https://japan.tno.nl
 https://jarvis-front.hm-it.github.io
 https://jduke7.maps.arcgis.com
-https://jenkins.vm-02.azure.grid.rws.nl
 https://jenkins.wgu-edu.github.io
 https://jenvacademie.nl
 https://jenvbredewerkagenda.nl
@@ -7485,7 +7478,6 @@ https://mail.rechtenoverheid.nl
 https://mail.rijkewaddenzee.nl
 https://mail.rijkscloud.nl
 https://mail.rivierklimaatpark.nl
-https://mail.rws.nl
 https://mail.scp.nl
 https://mail.sekswerkgoedgeregeld.nl
 https://mail.sportdagjenv.nl
@@ -7554,7 +7546,6 @@ https://marechaussee.nl
 https://maricopa.maps.arcgis.com
 https://maror.nl
 https://mars.rijkswaterstaat.nl
-https://mars.rws.nl
 https://mass.cultureelerfgoed.nl
 https://masterplanbasisvaardigheden.nl
 https://mastodon.cultuurparticipatie.nl
@@ -7566,7 +7557,6 @@ https://matomo.lerenenwerken.nl
 https://matomo.nwo.nl
 https://matomo.onderzoeksraad.nl
 https://matomo.pleio.nl
-https://matroos.rws.nl
 https://mattermost.aerius.nl
 https://maturityscan.gebruikercentraal.nl
 https://mautic.cultuurparticipatie.nl
@@ -8156,7 +8146,6 @@ https://nevo.rivm.nl
 https://new-accept.fondspodiumkunsten.nl
 https://new-dev.fondspodiumkunsten.nl
 https://new-prod.fondspodiumkunsten.nl
-https://new-topdesk-wvl.rws.nl
 https://new.deweekvandecirculaireeconomie.nl
 https://new.luchtvaartmeteo.nl
 https://new.mijn.knmi.nl
@@ -8545,7 +8534,6 @@ https://open.minvws.nl
 https://open.odijmond.nl
 https://open.overheid.nl
 https://open.rijkswaterstaat.nl
-https://open.rws.nl
 https://open.vechtstromen.nl
 https://open.waterschaplimburg.nl
 https://openapi-client-poc.wgu-edu.github.io
@@ -8806,7 +8794,6 @@ https://osirislink-t.politieacademie.nl
 https://osirisont.politieacademie.nl
 https://osiristst.politieacademie.nl
 https://oss-slu.github.io
-https://otl.rws.nl
 https://oto.cbs.nl
 https://otv-web.proeftuin.gf.irealisatie.nl
 https://oud.mondriaanfonds.nl
@@ -8947,7 +8934,6 @@ https://pfbackend.vfpf.nl
 https://pfos-pfoa-cow.apps.feedfoodtransfer.nl
 https://pg-testing-jtd.githubpartners.github.io
 https://pgadmin.huc.knaw.nl
-https://pgadmin.vm-02.azure.grid.rws.nl
 https://pgadmin4.analyse.ilt.rijkscloud.nl
 https://pgb-acc.confluence.odc-noord.nl
 https://pgb-acc.topdesk.odc-noord.nl
@@ -9176,7 +9162,6 @@ https://prefect.labs.dans.knaw.nl
 https://preprod-belastingen.zuid-holland.nl
 https://preprod-machtigen.digipoort.logius.nl
 https://preprod.begrippen.stelselcatalogus.nl
-https://preprod.beterbediend.rws.nl
 https://preprod.capacitor.pleio.nl
 https://preprod.document-viewer.dso.kadaster.nl
 https://preprod.editor.stelselcatalogus.nl
@@ -9344,13 +9329,11 @@ https://projects.tno.nl
 https://prolander.nl
 https://prom-select.eu
 https://prometheus-vps.pleio.nl
-https://prometheus.vm-02.azure.grid.rws.nl
 https://promise.nioo.knaw.nl
 https://promtoolbox.zorginzicht.nl
 https://proofofconcept.rivm.nl
 https://prosecutionservice.nl
 https://protide.rijkswaterstaat.nl
-https://protide.rws.nl
 https://proto.farmacotherapeutischkompas.nl
 https://proto.gipdatabank.nl
 https://proto.horizonscangeneesmiddelen.nl
@@ -9563,7 +9546,6 @@ https://redactie.odmh.nl
 https://redactie.ofgv.nl
 https://redactie.platformrijksoverheidonline.nl
 https://redactie.rvr.org
-https://redactie.rwskennisplatform.rws.nl
 https://redactie.slo.nl
 https://redactie.tno.nl
 https://redactie.vallei-veluwe.nl
@@ -9920,7 +9902,6 @@ https://rwseconomie.nl
 https://rwsgolfdag.nl
 https://rwsinnoveert.nl
 https://rwsnatura2000.nl
-https://rwsos.rws.nl
 https://rwsverkeersinfo.nl
 https://rybbeheer.rdw.nl
 https://s-bb.nl
@@ -10182,7 +10163,6 @@ https://slmmicrosoftrijk.nl
 https://slo.nl
 https://sloopvoertuigdoorgeven.rdw.nl
 https://slotcoordination.nl
-https://sluisplanning.rws.nl
 https://sm-i.espacenet.com
 https://sm.espacenet.com
 https://smartforms.nak.nl
@@ -10579,7 +10559,6 @@ https://svcalendar-tst.dnb.nl
 https://svcalendar.dnb.nl
 https://svdj.nl
 https://svk-info.rws.nl
-https://svk-login.rws.nl
 https://svnmondxml.huygens.knaw.nl
 https://svs.rws.nl
 https://swap.alterra.nl
@@ -10631,6 +10610,7 @@ https://teamcity.dev.huc.knaw.nl
 https://teamsites.tweedekamer.nl
 https://tech-radar.tomtompilot.github.io
 https://techniekacademie.rijkswaterstaat.nl
+https://techniekacademie.rws.nl
 https://technologiezoektondernemer.tno.nl
 https://techtransfer.tno.nl
 https://ted.nationaalarchief.nl
@@ -10732,7 +10712,6 @@ https://test.aquo.nl
 https://test.beeldbank.gebruikercentraal.nl
 https://test.belastingdienst-cn.nl
 https://test.bezoekerscentrum.rijkswaterstaat.nl
-https://test.bezoekerscentrum.rws.nl
 https://test.bodemloket.nl
 https://test.botova.rijkswaterstaat.nl
 https://test.bromonitor.nl
@@ -10862,6 +10841,7 @@ https://teverantwoordenregelingen.rijksoverheid.nl
 https://teylingendigitaal.pleio.nl
 https://tg.chm-cbd.net
 https://tg.test.chm-cbd.net
+https://tgox-acc.rws.nl
 https://tgox.rws.nl
 https://tgv-acceptatie.nipv.nl
 https://tgv-test.nipv.nl
@@ -10923,7 +10903,6 @@ https://toegang-tst.cbr.nl
 https://toegang.cbr.nl
 https://toegang.rechtspraak.nl
 https://toegangderden.rijkswaterstaat.nl
-https://toegangderden.rws.nl
 https://toegangscode.ciz.nl
 https://toegangspuntmobiliteit.nl
 https://toegankelijkheidsverklaring.nl
@@ -11048,8 +11027,10 @@ https://tst-biometric-service.consular.mfaservices.nl
 https://tst-epdintegratieplatform.dji.nl
 https://tst-lsp.rivm.nl
 https://tst-meldingenportaal.rws.nl
-https://tst-ovdsupport.rws.nl
+https://tst-onderwaterobjecten.rws.nl
 https://tst-referentiegegevens.justid.nl
+https://tst-sig.fam.rws.nl
+https://tst-sonarreg.rws.nl
 https://tst-vergelijkingskaart.afm.nl
 https://tst-www-staging.cito.nl
 https://tst-www.cito.nl
@@ -11058,7 +11039,6 @@ https://tst.centruminternationaalrecht.nl
 https://tst.consular-service.consular.mfaservices.nl
 https://tst.consular.mfaservices.nl
 https://tst.esp.mfaservices.nl
-https://tst.fam.rws.nl
 https://tst.fez.mfaservices.nl
 https://tst.grondstoffenscanner.nl
 https://tst.liferay.mfaservices.nl
@@ -11083,9 +11063,6 @@ https://tule.slo.nl
 https://tunnel.cbs.nl
 https://tunnel.justitieleictorganisatie.nl
 https://tunnel1.cbs.nl
-https://tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl
-https://tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
-https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl
 https://tus.labs.dans.knaw.nl
 https://tvep.dictu.nl
 https://tvnooddienst.rdw.nl
@@ -11205,7 +11182,6 @@ https://uzipas.raadplegen.sbv-z.nl
 https://uzipas.uziregister.nl
 https://uziregister.nl
 https://v1.dementieinkaart.nl
-https://v14.rws.nl
 https://v3-i.espacenet.com
 https://v3.espacenet.com
 https://vaardigheid-acc.cbr.nl
@@ -11252,7 +11228,6 @@ https://vectortileservices9.arcgis.com
 https://veelgesteldevragen.secure.cito.nl
 https://veelgesteldevragenomgevingswet.pleio.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
-https://vegetatiemonitor.rws.nl
 https://veiligbestandenversturen.ciz.nl
 https://veiligepubliekedienstverlening.nl
 https://veiligheidsberaad.nl
@@ -11492,7 +11467,6 @@ https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
 https://vuurwerk.domeinenrz.nl
 https://vvkbedrijven.rdw.nl
-https://vwantstweu.gridtst.rws.nl
 https://vwh.rdw.nl
 https://vws-acc.jira.odc-noord.nl
 https://vws-prd.jira.odc-noord.nl
@@ -11508,13 +11482,11 @@ https://waardelijsten.dcat-ap-donl.nl
 https://waarderingskamer.nl
 https://waarderingskamer.sitearchief.nl
 https://wabinfo.rijkswaterstaat.nl
-https://wabinfo.rws.nl
 https://wachtrijbooster.nl
 https://wachttijden.nza.nl
 https://wachtwoord.brabant.nl
 https://wachtwoord.cultuurparticipatie.nl
 https://wachtwoord.rijkswaterstaat.nl
-https://wachtwoord.rws.nl
 https://waddenzee.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wadziejij.rijkewaddenzee.nl
@@ -11529,8 +11501,6 @@ https://was.digid.nl
 https://wateetnederland.nl
 https://water-amerigeoss.opendata.arcgis.com
 https://water.platformwow.nl
-https://waterberichtgeving.rws.nl
-https://waterinfo-extra.rws.nl
 https://waterinfo.rws.nl
 https://waterkwaliteitinbeeld.hdsr.nl
 https://waterkwaliteitscheck.nl
@@ -11641,7 +11611,6 @@ https://webmail1.politieacademie.nl
 https://webmed.rdw.nl
 https://webmob.rdw.nl
 https://webportaal.rdw.nl
-https://webportaal.rws.nl
 https://webrdd.rdw.nl
 https://webrddaz.rdw.nl
 https://webredactie.caop.nl
@@ -11780,7 +11749,6 @@ https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://werkplekvpn.parlement.nl
-https://werkstation.vm-02.azure.grid.rws.nl
 https://westbrabant.leerwerkloket.nl
 https://westbrabant.lerenenwerken.nl
 https://wetbeschermingklokkenluiders.nl
@@ -13374,7 +13342,6 @@ https://www.werkenaanjouwtoekomst.nl
 https://www.werkenaanonspensioen.nl
 https://www.werkenbij.naktuinbouw.nl
 https://www.werkenbij.rijkswaterstaat.nl
-https://www.werkenbij.rws.nl
 https://www.werkenbijcbg.nl
 https://www.werkenbijciz.nl
 https://www.werkenbijdeeu.nl
@@ -13566,6 +13533,5 @@ https://zw.test.chm-cbd.net
 https://zwdelta.nl
 https://zwemwater.osiris.rivm.nl
 https://zwerfafval.rijkswaterstaat.nl
-https://zwerfafval.rws.nl
 https://zwolle.leerwerkloket.nl
 https://zwolle.lerenenwerken.nl
