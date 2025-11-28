@@ -1014,7 +1014,6 @@ http://wordimport.drop.overheid.nl
 http://wpo-webservice.staging.rijksapplicaties.nl
 http://wvlegislature.maps.arcgis.com
 http://www-test2.werkenbijdeoverheid.nl
-http://www.acc-vtlb.rvr.org
 http://www.accept-betalen.nba.nl
 http://www.acceptatie.clusterbuster.nl
 http://www.acceptatie.neorah.nl
@@ -7071,6 +7070,7 @@ https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://lea-registry.hansken.org
 https://leap.lvnl.nl
+https://leapwork.rvr.org
 https://learn.arcgis.com
 https://learningnetwork.pleio.nl
 https://ledendomein.platformparticipatie.nl
@@ -7816,6 +7816,7 @@ https://mijnpgb.nl
 https://mijnpgb.svb.nl
 https://mijnportaal.topsectoragrifood.nl
 https://mijnrdtmnl.ndw.nu
+https://mijnrechtsbijstand.rvr.org
 https://mijnresolutie-acc.azure.dnb.nl
 https://mijnresolutie-tst.azure.dnb.nl
 https://mijnresolutie.azure.dnb.nl
@@ -8902,6 +8903,7 @@ https://password.pbl.nl
 https://password.rivm.nl
 https://password.ssc-campus.nl
 https://paste.huc.knaw.nl
+https://pat-fn.rvr.org
 https://patatjepinda.cultuurparticipatie.nl
 https://pay-acc.cjib.nl
 https://pay.cjib.nl
@@ -11955,6 +11957,7 @@ https://www.academie.ind.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academy.cito.nl
 https://www.academyforinternationalrelations.nl
+https://www.acc-vtlb.rvr.org
 https://www.acc.grondstoffenscanner.nl
 https://www.acc.inspectieview.nl
 https://www.acc.isdatechtzo.nl

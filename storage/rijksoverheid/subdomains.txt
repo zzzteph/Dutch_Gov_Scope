@@ -8867,6 +8867,7 @@ granvillecounty.maps.arcgis.com
 graph.zandbak.dans.knaw.nl
 graphql-oat.dev.huc.knaw.nl
 graphs.globalise.huygens.knaw.nl
+gras-prd.rvr.org
 grasp-acc.azure.dnb.nl
 grasp-dev.azure.dnb.nl
 grasp.azure.dnb.nl
@@ -10939,6 +10940,7 @@ le-webservices.belastingdienst.nl
 lea-registry.hansken.org
 lead-service-line-inventory-emua.hub.arcgis.com
 leap.lvnl.nl
+leapwork.rvr.org
 learn.arcgis.com
 learning.hansken.org
 learningnetwork.pleio.nl
@@ -12376,6 +12378,7 @@ mijnpgb.nl
 mijnpgb.svb.nl
 mijnportaal.topsectoragrifood.nl
 mijnrdtmnl.ndw.nu
+mijnrechtsbijstand.rvr.org
 mijnresolutie-acc.azure.dnb.nl
 mijnresolutie-tst.azure.dnb.nl
 mijnresolutie.azure.dnb.nl
@@ -14397,6 +14400,7 @@ passwordmanager.zorginstituutnederland.nl
 passwordreset.ictu.nl
 passwordreset.rdw.nl
 paste.huc.knaw.nl
+pat-fn.rvr.org
 patatjepinda.cultuurparticipatie.nl
 pay-acc.cjib.nl
 pay.cjib.nl
