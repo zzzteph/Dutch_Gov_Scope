@@ -5568,6 +5568,7 @@ contentbeheer.omgevingswet.overheid.nl
 contentbeheer.tst.omgevingswet.overheid.nl
 contenttoolsrijksoverheid.nl
 contoso.interstellar-tars.github.io
+contract-mijn.s-bb.nl
 contractantendatabase.rivm.nl
 control.amx.belastingdienst.nl
 cookie-bomb.gnk-ghe-3-org.github.io
@@ -10621,6 +10622,7 @@ kerncijfers.nipv.nl
 keten.hetcak.nl
 keten.sophie.oidji.nl
 ketenregisterapi.naktuinbouw.nl
+ketens-mijn.s-bb.nl
 ketentest.hetcak.nl
 ketentestnvr.belastingdienst.nl
 keuringsafspraakmaken.rdw.nl
@@ -11233,6 +11235,7 @@ login-fin.staging.rijksapplicaties.nl
 login-gn3.odc-noord.nl
 login-ienw.rijksapplicaties.nl
 login-ienw.staging.rijksapplicaties.nl
+login-mijn-acc.s-bb.nl
 login-mijn-test2.s-bb.nl
 login-mijn.s-bb.nl
 login-net.rvb.rijkscloud.nl
