@@ -1,11 +1,10 @@
 http://autodiscover.ser.nl
 http://circulaire-economie.ser.nl
-http://test-wijser.ser.nl
+http://commissies.ser.nl
 https://accept-cm.ser.nl
 https://accept.ser.nl
 https://cm.ser.nl
 https://cmswijser.ser.nl
-https://commissies.ser.nl
 https://evenement.ser.nl
 https://media.ser.nl
 https://mfiles.ser.nl
@@ -15,6 +14,6 @@ https://ser.nl
 https://solr-acc.ser.nl
 https://solr-prd.ser.nl
 https://solr.ser.nl
-https://test-cmswijser.ser.nl
+https://test-wijser.ser.nl
 https://wijser.ser.nl
 https://www.ser.nl

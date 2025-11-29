@@ -314,6 +314,7 @@ http://coalitieakkoord.zuid-holland.nl
 http://coe.cito.nl
 http://collecties.kb.nl
 http://collections.chadwyck.co.uk.access.authkb.kb.nl
+http://commissies.ser.nl
 http://conservering-api.cloudservices.kb.nl
 http://conservering-prd.cloudservices.kb.nl
 http://coronadashboard.government.nl
@@ -888,7 +889,6 @@ http://test-machtigen.digipoort.logius.nl
 http://test-mbotransparant.databank.nl
 http://test-number-two.gnk-ghe-2-org.github.io
 http://test-website.rvo.nl
-http://test-wijser.ser.nl
 http://test.alexandria.huygens.knaw.nl
 http://test.api.waarborg.nl
 http://test.atlasnatuurlijkkapitaal.nl
@@ -4016,7 +4016,6 @@ https://commissie.kolonialecollecties.nl
 https://commissiebbv.nl
 https://commissiecelz.nl
 https://commissiemijnbouwschade.nl
-https://commissies.ser.nl
 https://commissies.stvda.nl
 https://commissievanaanbestedingsexperts.nl
 https://commit2data.nl
@@ -10667,7 +10666,6 @@ https://test-cms.verbeterjehuis.nl
 https://test-cmsintranet.flevoland.nl
 https://test-cmsintranet.scp.nl
 https://test-cmsintranet.svb.nl
-https://test-cmswijser.ser.nl
 https://test-connect.aerius.nl
 https://test-content.verbeterjehuis.nl
 https://test-demo.yuichielectric-enterprise.github.io
@@ -10712,6 +10710,7 @@ https://test-veiligheidsregio.lcms.nl
 https://test-veldmonitoring.rivm.nl
 https://test-waterschappen.lcms.nl
 https://test-wetten.rvo.nl
+https://test-wijser.ser.nl
 https://test-wiki.cultuurparticipatie.nl
 https://test-www.pzp.nl
 https://test-www.verbeterjehuis.nl
