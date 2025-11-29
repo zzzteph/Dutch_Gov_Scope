@@ -141,6 +141,7 @@ enterpriseenrollment
 werken
 acceptatie.behandel
 behandel
+samenwerken
 wifi
 www-test
 helpdesk
@@ -188,7 +189,6 @@ geoportaal
 id
 kaarten
 nieuws
-samenwerken
 conf
 outlook
 formulier
