@@ -766,6 +766,7 @@ autorisatie
 bestellen
 portal-a
 tst-www
+umbraco
 www-staging
 pay
 acc.www
@@ -7347,7 +7348,6 @@ trifork-tst.player
 trifork.player
 tst-www-staging
 ubuntunginxtest.secure
-umbraco
 upload.secure
 vas
 veelgesteldevragen.secure
@@ -15280,6 +15280,7 @@ danstijd
 doordachtcurriculum
 doorstroomvmbo
 durftecombineren
+formatiefevalueren
 freesport
 gezondeleefstijl
 handreiking-se-wiskundea-havo
@@ -15304,6 +15305,8 @@ maatschappijwetenschappen
 mensmaatschappij
 module-denkprofielen
 modules-talentontwikkeling
+mvt
+natuurentechniek-kennisbasis-onderbouw
 natuurentechniek
 nederlands
 onderzoekinzesstappen
@@ -15321,7 +15324,9 @@ wetenschapentechnologie
 www.basisdocumentinbeeld
 www.curriculumontwerp
 www.danstijd
+www.freesport
 www.jongekind
+www.kunstzinnigeorientatie
 www.leerganglob
 www.onderzoekinzesstappen
 www.passendeperspectieven
