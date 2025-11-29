@@ -1429,6 +1429,7 @@ aboutnetherlandscustoms.nl
 abr.acc.belastingdienst.nl
 abr.belastingdienst.nl
 abx02.sitearchief.nl
+abx03.sitearchief.nl
 abx04.sitearchief.nl
 abx05.sitearchief.nl
 ac.sa.svb.nl
@@ -2721,6 +2722,7 @@ antisemitismebestrijding.nl
 antispam.halt.nl
 anton-de-kom.huygens.knaw.nl
 antwoord.cbs.nl
+anvs.sitearchief.nl
 anyc-acceptatie.ssc-ict.nl
 anyc-t01-a.ssc-ict.nl
 anyc-t02.ssc-ict.nl
@@ -3246,7 +3248,10 @@ archief48.sitearchief.nl
 archief49.sitearchief.nl
 archief50.sitearchief.nl
 archief51.sitearchief.nl
+archief52.sitearchief.nl
 archief53.sitearchief.nl
+archief56.sitearchief.nl
+archief59.sitearchief.nl
 archief60.sitearchief.nl
 archiefviewer.knmi.nl
 archiefwiki.pleio.nl
@@ -4844,6 +4849,7 @@ cbp.acc.mgo.irealisatie.nl
 cbp.test.mgo.irealisatie.nl
 cbpbes.com
 cbr.nl
+cbr.sitearchief.nl
 cbrnsecurity.nctv.nl
 cbs-dnb.dnb.nl
 cbs-dnba.dnb.nl
@@ -5133,6 +5139,7 @@ cityofkingman.maps.arcgis.com
 civvv-mtm2-router-nwn.publicatie.test.vm-04.azure.grid.rws.nl
 ciz.databank.nl
 ciz.nl
+ciz.sitearchief.nl
 ciz1.databank.nl
 cjib.huurcommissie.nl
 cjib.nl
@@ -5658,6 +5665,7 @@ cpb-adprx-l01p-ext.cpb.nl
 cpb-mail-l02p.cpb.nl
 cpb-xtweb-l01p.cpb.nl
 cpb.nl
+cpb.sitearchief.nl
 cpcalendars.farmingthefuture.nl
 cpcalendars.globio.info
 cpcalendars.nladag.nl
@@ -6752,6 +6760,7 @@ doorstroomvmbo.slo.nl
 doortrappen.nl
 doping.nl
 dopingautoriteit.nl
+dopingautoriteit.sitearchief.nl
 dopinginfo.nl
 dopingwaaier.nl
 dor-api.stopheling.nl
@@ -7181,6 +7190,7 @@ eerlijkwerken.zelfinspectie.nl
 eersteenthuis.nl
 eerstekamer.nl
 eerstekamer.parlement.nl
+eerstekamer.sitearchief.nl
 eerstelijn.venvn.nl
 eetmeter.voedingscentrum.nl
 eetomgeving.voedingscentrum.nl
@@ -9518,6 +9528,7 @@ images.halt.nl
 images.huygens.knaw.nl
 images.nieuwsbrieven.rivm.nl
 imageviewer.kb.nl
+imagineminienm1.sitearchief.nl
 imd.pleio.nl
 imerk.rdw.nl
 img.arcgis.com
@@ -13020,6 +13031,7 @@ nationaleconferentieduurzamemobiliteit.nl
 nationaleenergieatlas.nl
 nationaleenergieatlas.rivm.nl
 nationaleombudsman.nl
+nationaleombudsman.sitearchief.nl
 nationaleparkenbureau.nl
 natura2000-data.zuid-holland.nl
 natura2000.nl
@@ -13251,6 +13263,7 @@ nisha240799.github.io
 nisheedkumarrout.github.io
 nivelform.rivm.nl
 niwo.nl
+niwo.sitearchief.nl
 nix18.nl
 nji.nl
 njtpa-plan-2050-njtpa.hub.arcgis.com
@@ -14314,6 +14327,7 @@ overstroomik.rijkswaterstaat.nl
 overstroomik.rws.nl
 overtoeslagen.nl
 overzicht.cbs.nl
+overzicht.sitearchief.nl
 ovi.rdw.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
@@ -15920,7 +15934,9 @@ raadsaam-t.raadvanstate.nl
 raadsaam.raadvanstate.nl
 raadswebamstelveen.pleio.nl
 raadvanstate.nl
+raadvanstate.sitearchief.nl
 raadvoorcultuur.nl
+raadvoorcultuur.sitearchief.nl
 raadvoorhetoverheidspersoneelsbeleid.nl
 raadvoorplantenrassen.nl
 raadvoorrechtsbijstand.org
@@ -16554,6 +16570,7 @@ rri.schadedoormijnbouw.nl
 rs-i.espacenet.com
 rs.espacenet.com
 rsj.nl
+rsj.sitearchief.nl
 rso.acc.syn.rijksapplicaties.nl
 rso.syn.rijksapplicaties.nl
 rso.test.syn.rijksapplicaties.nl
@@ -16943,6 +16960,7 @@ scepman.s-bb.nl
 scf-mqtt.tno.nl
 schadedoormijnbouw.nl
 schadefonds.nl
+schadefonds.sitearchief.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
 schadeportaal.ptp.inloggen.rws.nl
@@ -16971,6 +16989,7 @@ scm.apim.acc.cloudservices.kb.nl
 sconline.nl.access.authkb.kb.nl
 scope.nin.knaw.nl
 scp.nl
+scp.sitearchief.nl
 screenconnect.hhdelfland.nl
 screening-acc.dnb.nl
 screening.dnb.nl
@@ -17670,6 +17689,7 @@ sportakkoord.nl
 sportdagjenv.nl
 sportenbewegenincijfers.nl
 sportinnovator.nl
+sportraad.sitearchief.nl
 spot-on-acc.afm.nl
 spot-on-dt.afm.nl
 spot-on.afm.nl
