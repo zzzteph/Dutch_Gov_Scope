@@ -832,7 +832,6 @@ http://social-tst.overheid.nl
 http://sorry.belastingdienst.nl
 http://spcgis-spc.hub.arcgis.com
 http://specials.brabant.nl
-http://ssc-campus.nl
 http://ssl.cokz.nl
 http://sso.acc.omgevingswet.overheid.nl
 http://sso.api.rivm.nl
@@ -915,6 +914,7 @@ http://test.woo.irealisatie.nl
 http://test3.isis-web.nl
 http://testconn.knmi.nl
 http://testconn.pbl.nl
+http://testconn.ssc-campus.nl
 http://testrepo3.visibilitysaurus.github.io
 http://thuisindecitotoets.cito.nl
 http://tiaplus.cito.nl

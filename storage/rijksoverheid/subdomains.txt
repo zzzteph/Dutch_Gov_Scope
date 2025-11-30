@@ -17730,7 +17730,6 @@ srv1.sbr-wonen.nl
 srv2.rdw.nl
 srv3.dopingautoriteit.nl
 ssa.vfpf.nl
-ssc-campus.nl
 ssc-ict.nl
 ssc-ictspecials.nl
 ssc.acc.syn.rijksapplicaties.nl
@@ -18856,6 +18855,7 @@ testconn.ctgb.nl
 testconn.knmi.nl
 testconn.pbl.nl
 testconn.rivm.nl
+testconn.ssc-campus.nl
 testdigikoppeling.waterschaplimburg.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
@@ -22944,7 +22944,6 @@ www2.om.nl
 www2.onderzoeksraad.nl
 www2.platformrijksoverheid.nl
 www2.rechtwijzer.nl
-www2.ssc-campus.nl
 www2.welcome-to-nl.nl
 www2.werkenbijhetkadaster.nl
 www2.zorgcsp.cibg.nl
