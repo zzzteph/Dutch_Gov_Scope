@@ -3589,6 +3589,7 @@ autodiscover.skal.nl
 autodiscover.slo.nl
 autodiscover.sommbo.nl
 autodiscover.spinozacentre.knaw.nl
+autodiscover.sso-noord.nl
 autodiscover.ssr.nl
 autodiscover.staatsbosbeheer.nl
 autodiscover.stimuleringsfonds.nl
@@ -5190,6 +5191,7 @@ cloud.email.kvk.nl
 cloud.knaw.nl
 cloud.sso-noord.nl
 cloud.staatsbosbeheer.nl
+cloud.vpn.sso-noord.nl
 cloudie.cultuurparticipatie.nl
 cloudstorage-koop.overheid.nl
 cloudtopienw.rijkscloud.nl
@@ -12988,6 +12990,7 @@ n35wijthmennijverdal.nl
 n3werkzaamheden.nl
 na-acc.topdesk.odc-noord.nl
 na-prd.topdesk.odc-noord.nl
+na-preservica.objects.sso-noord.nl
 naarnederland.nl
 nabb.databank.nl
 nabs.officielebekendmakingen.nl

@@ -15358,6 +15358,8 @@ sscc-sbc-a02p
 test.modellenplatform
 testconn-mp
 tst-modellenplatform-rekenen
+cloud.vpn
+na-preservica.objects
 objects
 smtprelay01
 sso-lyncdiscover
