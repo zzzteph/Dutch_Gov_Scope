@@ -1,5 +1,4 @@
 http://autodiscover.staatsbosbeheer.nl
-http://beeldverhalen.staatsbosbeheer.nl
 https://360graden.apps.staatsbosbeheer.nl
 https://360gradena.apps.staatsbosbeheer.nl
 https://360gradent.apps.staatsbosbeheer.nl
@@ -9,6 +8,7 @@ https://assyst.apps.staatsbosbeheer.nl
 https://assysta.apps.staatsbosbeheer.nl
 https://beeldbank-cms.staatsbosbeheer.nl
 https://beeldbank.staatsbosbeheer.nl
+https://beeldverhalen.staatsbosbeheer.nl
 https://bentwoud.staatsbosbeheer.nl
 https://borden.staatsbosbeheer.nl
 https://cdn.staatsbosbeheer.nl
@@ -24,11 +24,15 @@ https://director.apps.staatsbosbeheer.nl
 https://directort.apps.staatsbosbeheer.nl
 https://elswout.staatsbosbeheer.nl
 https://exohybrid.staatsbosbeheer.nl
-https://fortbijrijnauwen.staatsbosbeheer.nl
+https://geo.apps.staatsbosbeheer.nl
+https://geoa.apps.staatsbosbeheer.nl
 https://geodata-a.staatsbosbeheer.nl
 https://geodata-t.staatsbosbeheer.nl
 https://geodata.staatsbosbeheer.nl
+https://geoweb.apps.staatsbosbeheer.nl
+https://geoweba.apps.staatsbosbeheer.nl
 https://kaart.staatsbosbeheer.nl
+https://librarylinkt.apps.staatsbosbeheer.nl
 https://mail.staatsbosbeheer.nl
 https://merkportaal-backoffice.staatsbosbeheer.nl
 https://merkportaal.staatsbosbeheer.nl

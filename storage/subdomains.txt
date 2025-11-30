@@ -8244,7 +8244,6 @@ formulieren.uwv.nl
 formulieren.uziregister.nl
 formulieren.waterschaplimburg.nl
 formulieren.zovar.nl
-fortbijrijnauwen.staatsbosbeheer.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
 forum.acceptatie.pdok.nl
@@ -8544,6 +8543,7 @@ geo-stats.zuid-holland.nl
 geo-test.zuid-holland.nl
 geo-tools.zuid-holland.nl
 geo-wayback.maptiles.arcgis.com
+geo.apps.staatsbosbeheer.nl
 geo.cultureelerfgoed.nl
 geo.di.huc.knaw.nl
 geo.flevoland.nl
@@ -8556,6 +8556,7 @@ geo.rws.nl
 geo.zuid-holland.nl
 geo2.flevoland.nl
 geo3.flevoland.nl
+geoa.apps.staatsbosbeheer.nl
 geoapl.devops.rvb.rijkscloud.nl
 geoapps.hhdelfland.nl
 geoappstest.hhdelfland.nl
@@ -8631,12 +8632,14 @@ geotriggers.arcgis.com
 geoview.hhdelfland.nl
 geoviewerhhd.hhdelfland.nl
 geoviewhhd.hhdelfland.nl
+geoweb.apps.staatsbosbeheer.nl
 geoweb.devops.rvb.rijkscloud.nl
 geoweb.knmi.nl
 geoweb.odmh.nl
 geoweb.rijkswaterstaat.nl
 geoweb.rws.nl
 geoweb.vechtstromen.nl
+geoweba.apps.staatsbosbeheer.nl
 geraardsbergen.huygens.knaw.nl
 german.dev.investinholland.com
 german.investinholland.com
@@ -11081,6 +11084,7 @@ lib-doorstroomtoets-t.cito.nl
 lib-doorstroomtoets.cito.nl
 libertycountyga.maps.arcgis.com
 library.pressdisplay.com.access.authkb.kb.nl
+librarylinkt.apps.staatsbosbeheer.nl
 libvo-a.cito.nl
 libvo-o.cito.nl
 libvo-t.cito.nl

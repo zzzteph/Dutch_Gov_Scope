@@ -235,7 +235,6 @@ http://bayplanviewer.bics.nl
 http://bd-toegang-acc.topdesk.odc-noord.nl
 http://beeldbank.nationaalarchief.nl
 http://beeldenvanderaad.nl
-http://beeldverhalen.staatsbosbeheer.nl
 http://benchmarkpovo.databank.nl
 http://bergfashionlibrary.com.access.authkb.kb.nl
 http://besloten-nba-acc.nba.nl
@@ -3183,6 +3182,7 @@ https://beeldbankbelastingdienst.nl
 https://beeldbellen.dji.nl
 https://beeldbieb.gebruikercentraal.nl
 https://beeldkompas.nl
+https://beeldverhalen.staatsbosbeheer.nl
 https://begeleiderspasaanvragen.rdw.nl
 https://beginnenbij.afm.nl
 https://begrippen.hdsr.nl
@@ -5743,7 +5743,6 @@ https://formulieren.svb.nl
 https://formulieren.uwv.nl
 https://formulieren.uziregister.nl
 https://formulieren.waterschaplimburg.nl
-https://fortbijrijnauwen.staatsbosbeheer.nl
 https://forum.orfeus-eu.org
 https://forum.schadedoormijnbouw.nl
 https://forum.topinkomens.nl
@@ -5871,6 +5870,7 @@ https://geo-stats.zuid-holland.nl
 https://geo-test.zuid-holland.nl
 https://geo-tools.zuid-holland.nl
 https://geo-wayback.maptiles.arcgis.com
+https://geo.apps.staatsbosbeheer.nl
 https://geo.flevoland.nl
 https://geo.leefbaarometer.nl
 https://geo.odmh.nl
@@ -5879,6 +5879,7 @@ https://geo.rijkswaterstaat.nl
 https://geo.rws.nl
 https://geo.zuid-holland.nl
 https://geo3.flevoland.nl
+https://geoa.apps.staatsbosbeheer.nl
 https://geobasisregistraties.nl
 https://geocode-api.arcgis.com
 https://geocode-ls.arcgis.com
@@ -5927,10 +5928,12 @@ https://geoservices.knmi.nl
 https://geoservices.lvnl.nl
 https://geoservices.rvo.nl
 https://geoservices.zuid-holland.nl
+https://geoweb.apps.staatsbosbeheer.nl
 https://geoweb.odmh.nl
 https://geoweb.rijkswaterstaat.nl
 https://geoweb.rws.nl
 https://geoweb.vechtstromen.nl
+https://geoweba.apps.staatsbosbeheer.nl
 https://geraardsbergen.huygens.knaw.nl
 https://german.investinholland.com
 https://gerritsen.chadwyck.com.access.authkb.kb.nl
@@ -7167,6 +7170,7 @@ https://lib-doorstroomtoets-t.cito.nl
 https://lib-doorstroomtoets.cito.nl
 https://libertycountyga.maps.arcgis.com
 https://library.pressdisplay.com.access.authkb.kb.nl
+https://librarylinkt.apps.staatsbosbeheer.nl
 https://libvo-a.cito.nl
 https://libvo-o.cito.nl
 https://libvo-t.cito.nl

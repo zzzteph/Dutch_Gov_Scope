@@ -15397,9 +15397,13 @@ director.apps
 directort.apps
 elswout
 exohybrid
-fortbijrijnauwen
+geo.apps
+geoa.apps
 geodata-a
 geodata-t
+geoweb.apps
+geoweba.apps
+librarylinkt.apps
 merkportaal-backoffice
 observium.apps
 pbm
