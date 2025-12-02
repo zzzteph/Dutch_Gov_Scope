@@ -16369,7 +16369,6 @@ employbrand
 eures2
 formulieren-a
 ftp-voorziening-acc
-ftp-voorziening-goh
 ftp-voorziening
 gast.wireless
 gebruikersonderzoek
@@ -16391,6 +16390,7 @@ kmm-cag
 kvb-wsp.a-dc.ba
 kvb-wsp.p-dc.ba
 m.jaarverslag
+mijn-p
 mijngegevensdiensten-a
 mijngegevensdiensten
 mobile-login-acc
@@ -16405,7 +16405,6 @@ now
 onlinetrainingen
 panel
 perspectief
-ps92app2-a.ba
 reintegratieverslag
 service-mgt-accept
 service-mgt-prod
@@ -16426,17 +16425,12 @@ uwv-acc-digikoppeling.suwinet
 uwv-digikoppeling.suwinet
 uwvnl-p
 uwvsmtp05
-uwvsmtp06
 vacatureportaal
 wbs-accept.ba
 wcf-eafspraak-acceptatie.ba
-wcf-eafspraak.ba
 webservices-acc
 werkbedrijfvandetoekomst
 werkgeversportaal-a
-werkgeversportaal-p
-werkgeversportaal
-wis-accept
 vaarmelder
 htwww
 tran-web-ns001

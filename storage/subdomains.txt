@@ -8270,7 +8270,6 @@ ftp-migtest.knmi.nl
 ftp-p.ags.dictu.nl
 ftp-test01.knmi.nl
 ftp-voorziening-acc.uwv.nl
-ftp-voorziening-goh.uwv.nl
 ftp-voorziening.uwv.nl
 ftp.cbs.nl
 ftp.ctpveldzicht.nl
@@ -12211,6 +12210,7 @@ mijn-inlog-acceptatie.schadefonds.nl
 mijn-inlog.schadefonds.nl
 mijn-ncg.rijksapplicaties.nl
 mijn-ncg.staging.rijksapplicaties.nl
+mijn-p.uwv.nl
 mijn-perf.acc.belastingdienst.nl
 mijn-pp.dnb.nl
 mijn-test.dnb.nl
@@ -15780,7 +15780,6 @@ ps1.platformrijksoverheid.nl
 ps2.platformrijksoverheid.nl
 ps3.platformrijksoverheid.nl
 ps4.platformrijksoverheid.nl
-ps92app2-a.ba.uwv.nl
 psarchief.brabant.nl
 psb.cld.int.rdw.nl
 psb.cld.rdw.nl
@@ -19583,7 +19582,6 @@ uwv-digikoppeling.suwinet.uwv.nl
 uwv.nl
 uwvnl-p.uwv.nl
 uwvsmtp05.uwv.nl
-uwvsmtp06.uwv.nl
 uzi.acc.brba.nl
 uzi.acc.federatieveservice.nl
 uzi.brba.nl
@@ -20286,7 +20284,6 @@ wbtvspacc.rvr.org
 wbxbotserver.belastingdienst.nl
 wbxbottestserver.belastingdienst.nl
 wcf-eafspraak-acceptatie.ba.uwv.nl
-wcf-eafspraak.ba.uwv.nl
 wd-ont.belastingdienst.nl
 wd.belastingdienst.nl
 wd.ont.belastingdienst.nl
@@ -20689,8 +20686,6 @@ werkenvoorinternationaleorganisaties.nl
 werkenvoornederland.nl
 werkgever.ibki.nl
 werkgeversportaal-a.uwv.nl
-werkgeversportaal-p.uwv.nl
-werkgeversportaal.uwv.nl
 werkgeversscan.samenvoordeklant.nl
 werkplaats-acc.onslevendlandschap.nl
 werkplaats.onslevendlandschap.nl
@@ -20853,7 +20848,6 @@ wireframes.kcb.nl
 wireless-guest.rdw.nl
 wireless.nza.nl
 wireless.rgd.minbzk.nl
-wis-accept.uwv.nl
 wist-fpi.hhdelfland.nl
 wkotool.nl
 wkp.rws.nl

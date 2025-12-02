@@ -42,7 +42,6 @@ federatie.uwv.nl
 formulieren-a.uwv.nl
 formulieren.uwv.nl
 ftp-voorziening-acc.uwv.nl
-ftp-voorziening-goh.uwv.nl
 ftp-voorziening.uwv.nl
 gast.wireless.uwv.nl
 gebruikersonderzoek.uwv.nl
@@ -68,6 +67,7 @@ m.jaarverslag.uwv.nl
 mail.uwv.nl
 meet.uwv.nl
 mijn-a.uwv.nl
+mijn-p.uwv.nl
 mijn.uwv.nl
 mijngegevensdiensten-a.uwv.nl
 mijngegevensdiensten.uwv.nl
@@ -84,7 +84,6 @@ onderzoek.uwv.nl
 onlinetrainingen.uwv.nl
 panel.uwv.nl
 perspectief.uwv.nl
-ps92app2-a.ba.uwv.nl
 reintegratieverslag.uwv.nl
 service-mgt-accept.uwv.nl
 service-mgt-prod.uwv.nl
@@ -109,15 +108,10 @@ uwv-digikoppeling.suwinet.uwv.nl
 uwv.nl
 uwvnl-p.uwv.nl
 uwvsmtp05.uwv.nl
-uwvsmtp06.uwv.nl
 vacatureportaal.uwv.nl
 via.uwv.nl
 wbs-accept.ba.uwv.nl
 wcf-eafspraak-acceptatie.ba.uwv.nl
-wcf-eafspraak.ba.uwv.nl
 webservices-acc.uwv.nl
 werkbedrijfvandetoekomst.uwv.nl
 werkgeversportaal-a.uwv.nl
-werkgeversportaal-p.uwv.nl
-werkgeversportaal.uwv.nl
-wis-accept.uwv.nl
