@@ -109,7 +109,6 @@ http://adc.cbs.nl
 http://adc4.cbs.nl
 http://addressing-homelessness-muniorg.hub.arcgis.com
 http://addressing.test.zm.irealisatie.nl
-http://adfs.venvn.nl
 http://admin-acc.globalentry-rtp.nl
 http://admin.globalentry-rtp.nl
 http://admin.tst-rds.nl
@@ -229,6 +228,7 @@ http://autodiscover.test.knaw.nl
 http://autodiscover.tno.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
+http://autodiscover.venvn.nl
 http://autodiscover.vnsc.eu
 http://autodiscover.waarborg.nl
 http://autodiscover.webmail.politieacademie.nl
@@ -1013,6 +1013,7 @@ http://uzi.test.brba.nl
 http://v14.rws.nl
 http://vacatiegelden.rivm.nl
 http://vacatureportaal.uwv.nl
+http://vacatures.venvn.nl
 http://vacaturezoekservice-test.mobiliteitsbank.nl
 http://vacaturezoekservice-test.werkenbijdeoverheid.nl
 http://vas.cito.nl
@@ -3991,6 +3992,7 @@ https://cms.stimuleringsfonds.nl
 https://cms.tenderned.nl
 https://cms.test.tenderned.nl
 https://cms.tlokb.nl
+https://cms.venvn.nl
 https://cms.verbeterjehuis.nl
 https://cms.vfpf.nl
 https://cms.waterkwaliteitscheck.nl
@@ -4161,6 +4163,7 @@ https://contentbeheer.acc.omgevingswet.overheid.nl
 https://contentbeheer.niwo.nl
 https://contentbeheer.omgevingswet.overheid.nl
 https://contentbeheer.tst.omgevingswet.overheid.nl
+https://continentie.venvn.nl
 https://contoso.interstellar-tars.github.io
 https://contract-mijn.s-bb.nl
 https://contracts.tno.nl
@@ -4566,6 +4569,7 @@ https://denw.hdsr.nl
 https://deploy-vraagje.doeonbeperktmee.nl
 https://deployment.biedboek.nl
 https://derdekamer.nl
+https://dermatologie.venvn.nl
 https://design-system.cito.nl
 https://design.ndw.nu
 https://design.uwv.nl
@@ -5144,6 +5148,7 @@ https://elearning.mijncyberrijbewijs.nl
 https://elearning.naarnederland.nl
 https://elearning.ordz.nl
 https://elearning.platformrijksoverheid.nl
+https://elearning.venvn.nl
 https://elearning.zonmw.nl
 https://elearning.zorgvannu.nl
 https://elearnings.mijncyberrijbewijs.nl
@@ -5971,6 +5976,7 @@ https://geoweb.rws.nl
 https://geoweb.vechtstromen.nl
 https://geoweba.apps.staatsbosbeheer.nl
 https://geraardsbergen.huygens.knaw.nl
+https://geriatrie.venvn.nl
 https://german.investinholland.com
 https://gerritsen.chadwyck.com.access.authkb.kb.nl
 https://geschiedenis.reclassering.nl
@@ -6352,11 +6358,13 @@ https://ibl-beheer-acp.acc.cloudservices.kb.nl
 https://ibl-beheer-prd.cloudservices.kb.nl
 https://ibw.databank.nl
 https://ibw.datawonen.nl
+https://ic.venvn.nl
 https://icdesk.zuid-holland.nl
 https://icer.pbl.nl
 https://icorridor-fr-mto-on-ca.hub.arcgis.com
 https://icov.nl
 https://ict.nvao.net
+https://ict.venvn.nl
 https://ictexamenhelpdesk.cito.nl
 https://ictu.nl
 https://id-beheer-beta.dblogistiek.brandweer.nl
@@ -6769,6 +6777,7 @@ https://jokesmitprijs.nl
 https://jong.belastingdienst.nl
 https://jongekind.slo.nl
 https://jonglereneten.nl
+https://jongprofessionals.venvn.nl
 https://jonyjunk.github.io
 https://journaalfamilierechtbanken.rechtspraak.nl
 https://journals.cambridge.org.access.authkb.kb.nl
@@ -6806,6 +6815,7 @@ https://justid.sitearchief.nl
 https://justis.nl
 https://justisbehindthescreens.nl
 https://justitieconnect.nl
+https://justitieel.venvn.nl
 https://justitieleictorganisatie.nl
 https://jv.nza.nl
 https://kaart.acceptatie.lcms.nl
@@ -6966,6 +6976,7 @@ https://kimnet.nl
 https://kinderbescherming.nl
 https://kinderbescherming.sitearchief.nl
 https://kindermeldpunt.cvdm.nl
+https://kinderverpleegkunde.venvn.nl
 https://kioskconfig.tno.nl
 https://kkl-new-kkl.hub.arcgis.com
 https://klachten-acc.autoriteitpersoonsgegevens.nl
@@ -7067,6 +7078,7 @@ https://kwalificaties.s-bb.nl
 https://kwalificatiestructuur-mijn.s-bb.nl
 https://kwaliteit.nba.nl
 https://kwaliteitvanleven.pbl.nl
+https://kwalitijd.venvn.nl
 https://kweepeer.dev.huc.knaw.nl
 https://kwiv.rijksapplicaties.nl
 https://kwiv.staging.rijksapplicaties.nl
@@ -7088,6 +7100,7 @@ https://labelstudio.huc.knaw.nl
 https://labs.dst.cloud.kadaster.nl
 https://labs.dst.test.cloud.kadaster.nl
 https://labs.kadaster.nl
+https://labs.venvn.nl
 https://labvantage-acc.nvwa.nl
 https://lake-elsinore-downtown-revitilazation-arellano.hub.arcgis.com
 https://lamar-web-maps-warc.hub.arcgis.com
@@ -7363,9 +7376,11 @@ https://login.ssc-campus.nl
 https://login.test.kb.nl
 https://login.tweedekamer.nl
 https://login.vechtstromen.nl
+https://login.venvn.nl
 https://login.werk.nl
 https://login.werkenbijdefensie.nl
 https://loginacc.venvn.nl
+https://logindev.venvn.nl
 https://logius-acc.confluence.odc-noord.nl
 https://logius-acc.jira.odc-noord.nl
 https://logius-prd.confluence.odc-noord.nl
@@ -7394,6 +7409,7 @@ https://loki-internal.pleio.nl
 https://loki.pleio.nl
 https://longcovid.rivm.nl
 https://longreads.cbs.nl
+https://longverpleegkundigen.venvn.nl
 https://loonaangifteketen.nl
 https://loopbaanadvies.aofondsrijk.nl
 https://louisville-metro-opendata-lojic.hub.arcgis.com
@@ -7547,6 +7563,7 @@ https://mail.summerschool2023.nl
 https://mail.toezichtfestival.nl
 https://mail.uwv.nl
 https://mail.veiligheidsregioflevoland.nl
+https://mail.venvn.nl
 https://mail.visinhetho.nl
 https://mail.waterschaplimburg.nl
 https://mail.werkcentrumregioamersfoort.nl
@@ -7669,6 +7686,7 @@ https://mediator.zonmw.nl
 https://medicijnkosten.nl
 https://medicijnresten.org
 https://medicineshortagesdefects.nl
+https://mediumcare.venvn.nl
 https://mee-oefenen.weerbaredigitaleoverheid.nl
 https://meepraten.flevoland.nl
 https://meerjarenactiviteitenbegroting.staging.rijksapplicaties.nl
@@ -7833,8 +7851,8 @@ https://mijn.voedingscentrum.nl
 https://mijn.waarborg.nl
 https://mijn.zonmw.nl
 https://mijn.zorgaanbiedersportaal.nl
-https://mijn2.venvn.nl
 https://mijnacademie.rechtenoverheid.nl
+https://mijnacc2.venvn.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
 https://mijnatm-acc.azure.dnb.nl
@@ -9013,6 +9031,7 @@ https://pianoo-congres.nl
 https://pianoo.nl
 https://picarta.pica.nl.access.authkb.kb.nl
 https://pih.belastingdienst.nl
+https://pijn.venvn.nl
 https://pilootonbemandeluchtvaartuigen.rdw.nl
 https://pilot.praatmeemetdeoverheid.nl
 https://pilot.ruimtelijkeplannen.nl
@@ -9145,6 +9164,7 @@ https://portaal.nlarbeidsinspectie.nl
 https://portaal.onderzoekmetmensen.nl
 https://portaal.prolander.nl
 https://portaal.rechtspraak.nl
+https://portaal.venvn.nl
 https://portainer.cultuurparticipatie.nl
 https://portal-a.nak.nl
 https://portal-a.secure.cito.nl
@@ -9650,6 +9670,7 @@ https://register.tlokb.nl
 https://registerexterneveiligheid.nl
 https://registersocialehygiene.nl
 https://registeruniformeloonwaarde.nl
+https://registerzorgprofessionals.venvn.nl
 https://registrar.labs.dans.knaw.nl
 https://registratiewebradiokanaal.cvdm.nl
 https://registration.one-conference.nl
@@ -11066,11 +11087,13 @@ https://trainingvalsgeld.dnb.nl
 https://tran-web-ns001.valys.nl
 https://transfer.kb.nl
 https://transfer.naktuinbouw.nl
+https://transfer.venvn.nl
 https://transfer.waterschaplimburg.nl
 https://transferium-db.politie.nl
 https://transferium-oh.politie.nl
 https://transferium.gslb-trf.politie.nl
 https://transferium.politie.nl
+https://transferverpleegkundigen.venvn.nl
 https://transitieagendakunststoffen.nl
 https://transitieproefdiervrijeinnovatie.nl
 https://transportenlogistiek.zelfinspectie.nl
@@ -11223,6 +11246,7 @@ https://uracimamaps.maps.arcgis.com
 https://uren.acc.irealisatie.nl
 https://uren.irealisatie.nl
 https://url6099.mail.postedworkers.nl
+https://urologie.venvn.nl
 https://us-iot.arcgis.com
 https://us-iotdev.arcgis.com
 https://us-iotqa.arcgis.com
@@ -11263,7 +11287,6 @@ https://vaarweginformatie.nl
 https://vacatures.afm.nl
 https://vacatures.limburg.nl
 https://vacatures.odmh.nl
-https://vacatures.venvn.nl
 https://vacaturezoekservice-accept.werkenbijdeoverheid.nl
 https://vacaturezoekservice.mobiliteitsbank.nl
 https://vacaturezoekservice.werkenbijdeoverheid.nl
@@ -11290,6 +11313,7 @@ https://vault.efiling.mijnoctrooi.rvo.nl
 https://vault.vechtstromen.nl
 https://vaultfs.vechtstromen.nl
 https://vbu.kvk.nl
+https://vchivaids.venvn.nl
 https://vcpapp.rivm.nl
 https://vd.cbr.nl
 https://vdbs.sso3w.nl
@@ -11320,6 +11344,7 @@ https://velocityqa1.arcgis.com
 https://velocityqaext.arcgis.com
 https://velsen.databank.nl
 https://venster.nl
+https://venvn.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
 https://vera-2r.nl
@@ -11446,7 +11471,9 @@ https://voertuigoverzicht.rdw.nl
 https://voertuigrapportdownloaden.rdw.nl
 https://voertuigvannaamhalen.rdw.nl
 https://vog.jeugdconnect.nl
+https://vog.venvn.nl
 https://vogcheck.justis.nl
+https://vogz.venvn.nl
 https://vois.datawonen.nl
 https://volgsysteem-configuratie.secure.cito.nl
 https://volgsysteem-qti37-player-cache.cito.nl
@@ -11523,6 +11550,7 @@ https://vrln.databank.nl
 https://vso.pleio.nl
 https://vsp.acm.nl
 https://vsp.services.acm.nl
+https://vsregister.venvn.nl
 https://vssr.rijksapplicaties.nl
 https://vssr.staging.rijksapplicaties.nl
 https://vt-personenregisterkinderopvang.duo.nl
@@ -11540,6 +11568,7 @@ https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
 https://vuurwerk.domeinenrz.nl
 https://vvkbedrijven.rdw.nl
+https://vvkv.venvn.nl
 https://vwh.rdw.nl
 https://vws-acc.jira.odc-noord.nl
 https://vws-prd.jira.odc-noord.nl
@@ -11823,6 +11852,7 @@ https://werkplekvpn.parlement.nl
 https://westbrabant.leerwerkloket.nl
 https://westbrabant.lerenenwerken.nl
 https://wetbeschermingklokkenluiders.nl
+https://wetenschap.venvn.nl
 https://wetenschapentechnologie.slo.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
@@ -11851,6 +11881,7 @@ https://wifi-guest.hetcak.nl
 https://wifi.brabant.nl
 https://wifi.stimuleringsfonds.nl
 https://wijbunnik.pleio.nl
+https://wijmakenhetverschil.venvn.nl
 https://wijser.ser.nl
 https://wijzeringeldzaken.nl
 https://wijzijndus-i.nl
@@ -13016,7 +13047,6 @@ https://www.perpest.alterra.nl
 https://www.pgdi.nl
 https://www.pianoo-congres.nl
 https://www.pianoo.nl
-https://www.pilot.venvn.nl
 https://www.pkioverheid.nl
 https://www.platform.zwdelta.nl
 https://www.platformafvalcirculair.nl
@@ -13273,7 +13303,6 @@ https://www.taskforce-riec-brabantzeeland.nl
 https://www.taskforceinfra.nl
 https://www.ted.nationaalarchief.nl
 https://www.tegengaanradicalisering.nl
-https://www.telewerk.venvn.nl
 https://www.temis.nl
 https://www.tenderned.nl
 https://www.test.kadaster.com

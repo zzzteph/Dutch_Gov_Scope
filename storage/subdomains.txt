@@ -1352,6 +1352,7 @@ academie.ind.nl
 academie.nifp.nl
 academie.rechtenoverheid.nl
 academie.reclassering.nl
+academie.venvn.nl
 academievoorinternationalebetrekkingen.nl
 academy.cbs.nl
 academy.cito.nl
@@ -3101,6 +3102,7 @@ apps.slo.nl
 apps.svb.nl
 apps.tweedekamer.nl
 apps.vechtstromen.nl
+apps.venvn.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
 appstore.kvk.nl
@@ -3541,6 +3543,7 @@ autodiscover.tweedekamer.nl
 autodiscover.uwv.nl
 autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
+autodiscover.venvn.nl
 autodiscover.vnsc.eu
 autodiscover.waarborg.nl
 autodiscover.webmail.politieacademie.nl
@@ -5247,6 +5250,7 @@ cms.stimuleringsfonds.nl
 cms.tenderned.nl
 cms.test.tenderned.nl
 cms.tlokb.nl
+cms.venvn.nl
 cms.verbeterjehuis.nl
 cms.vfpf.nl
 cms.waterkwaliteitscheck.nl
@@ -5514,6 +5518,7 @@ contentbeheer.niwo.nl
 contentbeheer.omgevingswet.overheid.nl
 contentbeheer.tst.omgevingswet.overheid.nl
 contenttoolsrijksoverheid.nl
+continentie.venvn.nl
 contoso.interstellar-tars.github.io
 contract-mijn.s-bb.nl
 contractantendatabase.rivm.nl
@@ -6154,6 +6159,7 @@ depos.acceptatie.kadaster.nl
 depos.kadaster.nl
 depos.test.kadaster.nl
 derdekamer.nl
+dermatologie.venvn.nl
 design-system.cito.nl
 design.ndw.nu
 design.uwv.nl
@@ -6909,6 +6915,7 @@ dva.belastingdienst.nl
 dva.rdw.nl
 dva.test.mgo.irealisatie.nl
 dvabackend.rdw.nl
+dvdv.venvn.nl
 dvfz-acc-auth.dji.nl
 dvfz-acc.dji.nl
 dvfz-auth.dji.nl
@@ -7216,6 +7223,7 @@ elearning.mijncyberrijbewijs.nl
 elearning.naarnederland.nl
 elearning.ordz.nl
 elearning.platformrijksoverheid.nl
+elearning.venvn.nl
 elearning.zonmw.nl
 elearning.zorgvannu.nl
 elearnings.mijncyberrijbewijs.nl
@@ -8597,6 +8605,7 @@ geoweb.rws.nl
 geoweb.vechtstromen.nl
 geoweba.apps.staatsbosbeheer.nl
 geraardsbergen.huygens.knaw.nl
+geriatrie.venvn.nl
 german.dev.investinholland.com
 german.investinholland.com
 gerritsen.chadwyck.com.access.authkb.kb.nl
@@ -9327,6 +9336,7 @@ ibl-beheer-tst.ot.cloudservices.kb.nl
 ibl.kb.nl
 ibw.databank.nl
 ibw.datawonen.nl
+ic.venvn.nl
 icce.knmi.nl
 icdesk.zuid-holland.nl
 icer.pbl.nl
@@ -9339,6 +9349,7 @@ icorridor-fr-mto-on-ca.hub.arcgis.com
 icov.nl
 ict-ers.werkenvoornederland.nl
 ict.nvao.net
+ict.venvn.nl
 icters.werkenvoornederland.nl
 ictexamenhelpdesk.cito.nl
 ictu.nl
@@ -10077,6 +10088,7 @@ jong.belastingdienst.nl
 jongekind.slo.nl
 jongerensite.belastingdienst.nl
 jonglereneten.nl
+jongprofessionals.venvn.nl
 jonyjunk.github.io
 journaalfamilierechtbanken.rechtspraak.nl
 journals.cambridge.org.access.authkb.kb.nl
@@ -10164,6 +10176,7 @@ justid.sitearchief.nl
 justis.nl
 justisbehindthescreens.nl
 justitieconnect.nl
+justitieel.venvn.nl
 justitieleictorganisatie.nl
 jv.nza.nl
 k3cr-productie.suwinet.uwv.nl
@@ -10688,6 +10701,7 @@ kimnet.nl
 kinderbescherming.nl
 kinderbescherming.sitearchief.nl
 kindermeldpunt.cvdm.nl
+kinderverpleegkunde.venvn.nl
 kioskconfig.tno.nl
 kit-art.cvr.rvb.rijkscloud.nl
 kit-demo.cvr.rvb.rijkscloud.nl
@@ -10868,6 +10882,7 @@ kwaliteitsdashboard-koop.overheid.nl
 kwaliteitsdashboard.test.kadaster.nl
 kwaliteitstoetsing.nba.nl
 kwaliteitvanleven.pbl.nl
+kwalitijd.venvn.nl
 kweepeer.dev.huc.knaw.nl
 kwiv.rijksapplicaties.nl
 kwiv.staging.rijksapplicaties.nl
@@ -10895,6 +10910,7 @@ labs.dst.kadaster.nl
 labs.dst.test.cloud.kadaster.nl
 labs.dst.test.kadaster.nl
 labs.kadaster.nl
+labs.venvn.nl
 labservant-acc.nwo-i.nl
 labservant.nwo-i.nl
 labvantage-acc.nvwa.nl
@@ -11290,9 +11306,12 @@ login.t2.digid.nl
 login.test.kb.nl
 login.tweedekamer.nl
 login.vechtstromen.nl
+login.venvn.nl
 login.werk.nl
 login.werkenbijdefensie.nl
 loginacc.venvn.nl
+logindev.venvn.nl
+loginpoc.venvn.nl
 loginsso.politieacademie.nl
 logintest.hetcak.nl
 logius-acc.confluence.odc-noord.nl
@@ -11336,6 +11355,7 @@ loki.pleio.nl
 longcovid.rivm.nl
 longread.brabant.nl
 longreads.cbs.nl
+longverpleegkundigen.venvn.nl
 lookapp.tno.nl
 loonaangifteketen.nl
 loopbaanadvies.aofondsrijk.nl
@@ -11739,6 +11759,7 @@ mail.uboregistertrusts.nl
 mail.uwv.nl
 mail.vechtstromen.nl
 mail.veiligheidsregioflevoland.nl
+mail.venvn.nl
 mail.visinhetho.nl
 mail.vno.minbzk.nl
 mail.vnsc.eu
@@ -12033,6 +12054,7 @@ medicijnkosten.nl
 medicijnresten.org
 medicineshortagesdefects.nl
 medicinfo.pzp.nl
+mediumcare.venvn.nl
 mee-oefenen.weerbaredigitaleoverheid.nl
 mee.databank.nl
 meepraten.flevoland.nl
@@ -12342,6 +12364,7 @@ mijn8.belastingdienst.nl
 mijnacademie.rechtenoverheid.nl
 mijnacademy.forensischinstituut.nl
 mijnacc01.cbr.nl
+mijnacc2.venvn.nl
 mijnadministratie-acpt.brabant.nl
 mijnadministratie.brabant.nl
 mijnatm-acc.azure.dnb.nl
@@ -14912,6 +14935,7 @@ picarta.nl.access.authkb.kb.nl
 picarta.pica.nl.access.authkb.kb.nl
 pih.acc.belastingdienst.nl
 pih.belastingdienst.nl
+pijn.venvn.nl
 pilootonbemandeluchtvaartuigen.rdw.nl
 pilot-vcpapp.rivm.nl
 pilot.mijn.overheid.nl
@@ -14919,6 +14943,7 @@ pilot.praatmeemetdeoverheid.nl
 pilot.ruimtelijkeplannen.nl
 pilot.test.ruimtelijkeplannen.nl
 pilot.uzi-online.minvws.nl
+pilot.venvn.nl
 pilot1.praatmeemetdeoverheid.nl
 pilot2.praatmeemetdeoverheid.nl
 pilot3.praatmeemetdeoverheid.nl
@@ -15139,6 +15164,7 @@ portaal.onderzoekmetmensen.nl
 portaal.prolander.nl
 portaal.rechtspraak.nl
 portaal.tst.belastingdienst.nl
+portaal.venvn.nl
 portaal.wifi.belastingdienst.nl
 portaalsp.minienm.nl
 portainer.cultuurparticipatie.nl
@@ -16216,6 +16242,7 @@ registermydevice.tno.nl
 registers.dnb.nl
 registersocialehygiene.nl
 registeruniformeloonwaarde.nl
+registerzorgprofessionals.venvn.nl
 registrar.labs.dans.knaw.nl
 registratiewebradiokanaal.cvdm.nl
 registration.one-conference.nl
@@ -17293,6 +17320,7 @@ share.test-nieuw.bidbook.eu
 share.test-nieuw.biedboek.nl
 share.tno.nl
 share.tweedekamer.nl
+share.venvn.nl
 shared-hosting.pleio.nl
 shared-services.ndw.nu
 shared-services.staging.ndw.nu
@@ -17699,6 +17727,7 @@ sparql.competentnl.nl
 sparql.noraonline.nl
 spatialdata-cbmdc.hub.arcgis.com
 spcgis-spc.hub.arcgis.com
+specialistggz.venvn.nl
 specials-acpt.brabant.nl
 specials.brabant.nl
 spelen.cultuurparticipatie.nl
@@ -18495,6 +18524,7 @@ tekstanalyse.ptvt.nl
 tele-db.politie.nl
 tele-od.politie.nl
 telewerk.huurcommissie.nl
+telewerk.venvn.nl
 telewerken-db.landelijkemeldkamer.org
 telewerken-oh.landelijkemeldkamer.org
 telewerken-pre-db.landelijkemeldkamer.org
@@ -19208,11 +19238,13 @@ transfer-dwh.kb.nl
 transfer.kb.nl
 transfer.naktuinbouw.nl
 transfer.ofgv.nl
+transfer.venvn.nl
 transfer.waterschaplimburg.nl
 transferium-db.politie.nl
 transferium-oh.politie.nl
 transferium.gslb-trf.politie.nl
 transferium.politie.nl
+transferverpleegkundigen.venvn.nl
 transformer.labs.dans.knaw.nl
 transitieagendakunststoffen.nl
 transitieproefdiervrijeinnovatie.nl
@@ -19532,6 +19564,7 @@ urepo.hex.tno.nl
 urepo.tno.nl
 urepotest.tno.nl
 url6099.mail.postedworkers.nl
+urologie.venvn.nl
 us-iot.arcgis.com
 us-iotdev.arcgis.com
 us-iotdevops.arcgis.com
@@ -19689,6 +19722,7 @@ vcedge00.belastingdienst.nl
 vcenter7.vechtstromen.nl
 vcewpa01a.belastingdienst.nl
 vcewqa01a.belastingdienst.nl
+vchivaids.venvn.nl
 vclgwpa01-ext.kdmz.belastingdienst.nl
 vclgwpa01-int.kdmz.belastingdienst.nl
 vclgwqa01-ext.kdmz.belastingdienst.nl
@@ -19752,6 +19786,7 @@ velocityqa1.arcgis.com
 velocityqaext.arcgis.com
 velsen.databank.nl
 venster.nl
+venvn.nl
 vep.belastingdienst.nl
 vepana.vcdn.belastingdienst.nl
 vepanaont.vcdn.belastingdienst.nl
@@ -19967,7 +20002,9 @@ voertuigoverzicht.rdw.nl
 voertuigrapportdownloaden.rdw.nl
 voertuigvannaamhalen.rdw.nl
 vog.jeugdconnect.nl
+vog.venvn.nl
 vogcheck.justis.nl
+vogz.venvn.nl
 voi.brabant.nl
 vois.datawonen.nl
 volgsysteem-configuratie.secure.cito.nl
@@ -20135,6 +20172,7 @@ vso.pleio.nl
 vsp.acm.nl
 vsp.nji.nl
 vsp.services.acm.nl
+vsregister.venvn.nl
 vssr.rijksapplicaties.nl
 vssr.staging.rijksapplicaties.nl
 vt-apps.duo.nl
@@ -20176,6 +20214,7 @@ vulnerabilities.ncsc.nl
 vulnerabilities.test.ncsc.nl
 vuurwerk.domeinenrz.nl
 vvkbedrijven.rdw.nl
+vvkv.venvn.nl
 vwantestswecenfd.rws-a5-t.azure.gridtst.rws.nl
 vwantestswefd.rws-a5-p.azure.grid.rws.nl
 vwantestweufd.rws-a5-t.azure.gridtst.rws.nl
@@ -20729,6 +20768,7 @@ werkvoorraad.reps.test.kadaster.nl
 westbrabant.leerwerkloket.nl
 westbrabant.lerenenwerken.nl
 wetbeschermingklokkenluiders.nl
+wetenschap.venvn.nl
 wetenschapentechnologie.slo.nl
 wetgeving.acc.omgevingswet.overheid.nl
 wetgeving.int.omgevingswet.overheid.nl
@@ -20786,6 +20826,7 @@ wifi2.rws.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
 wijbunnik.pleio.nl
+wijmakenhetverschil.venvn.nl
 wijser.ser.nl
 wijzeringeldzaken.nl
 wijzijndus-i.nl
@@ -21147,6 +21188,7 @@ www.abdtopconsult.nl
 www.abonneren.toezichtdocumenten.igj.nl
 www.aboutnetherlandscustoms.nl
 www.academie.ind.nl
+www.academie.venvn.nl
 www.academievoorinternationalebetrekkingen.nl
 www.academy.cito.nl
 www.academyforinternationalrelations.nl
@@ -21203,6 +21245,7 @@ www.acoi.nl
 www.acp.business.gov.nl
 www.actal.nl
 www.actiemonitoringce.nl
+www.adfs.venvn.nl
 www.admin.ptvt.nl
 www.adronderzoek.nl
 www.adviescollegeicttoetsing.nl
@@ -21240,6 +21283,7 @@ www.alterraqua.alterra.nl
 www.ambassadeursconferentie.nl
 www.amberalert.nl
 www.ambtelijkerechtspositie.nl
+www.ambulancezorg.venvn.nl
 www.amlc.eu
 www.amlc.nl
 www.amsterdam.brandweer.nl
@@ -21561,6 +21605,7 @@ www.denkdoeduurzaam.nl
 www.denkmee.zuid-holland.nl
 www.denkvooruit.nl
 www.derdekamer.nl
+www.dermatologie.venvn.nl
 www.deskundigengroepdierziekten.nl
 www.developerscorner.storymaps.arcgis.com
 www.devops.arcgis.com
@@ -21643,6 +21688,7 @@ www.eenoverheidsincasso.nl
 www.eentegeneenzaamheid.nl
 www.eersteenthuis.nl
 www.eerstekamer.nl
+www.eerstelijn.venvn.nl
 www.efeat.org
 www.efsca.org
 www.eherkenning.nl
@@ -21828,6 +21874,7 @@ www.huygens.knaw.nl
 www.hwbp.nl
 www.iamcdocumentation.eu
 www.ibki.nl
+www.ic.venvn.nl
 www.icov.nl
 www.ictu.nl
 www.ideasfrom.eu
@@ -22123,6 +22170,7 @@ www.mijn.dus-i.nl
 www.mijn.overheid.nl
 www.mijn.rvo.nl
 www.mijn.valys.nl
+www.mijn2.venvn.nl
 www.mijnbouwschadelimburg.nl
 www.mijnbouwvergunningen.nl
 www.mijncn.nl
@@ -22311,6 +22359,7 @@ www.omgevingswet.overheid.nl
 www.omgevingswijzer.org
 www.on2013.nl
 www.onbeperkttoegankelijk.nl
+www.oncologie.venvn.nl
 www.ondermijningapp.nl
 www.ondernemersplein.nl
 www.onderwijsinderegioincijfers.nl
@@ -22598,6 +22647,7 @@ www.senternovem.databank.nl
 www.ser.nl
 www.seveso-plus.nl
 www.sftp.onderzoeksraad.nl
+www.share.venvn.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.sharingknowledge.rvo.nl
@@ -22842,6 +22892,7 @@ www.visserijinnovatienetwerk.nl
 www.vliegtuiggeluid.nl
 www.vnacs.nl
 www.voedingscentrum.nl
+www.vog.venvn.nl
 www.volksgezondheidenzorg.info
 www.volksgezondheidtoekomstverkenning.nl
 www.volkshuisvestingnederland.nl
