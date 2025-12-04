@@ -1033,7 +1033,6 @@ http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://view.herseninstituut.knaw.nl
 http://vindjeplek-app.rivm.nl
-http://visitaties.nl
 http://viya.rijkswaterstaat.nl
 http://vnsc.eu
 http://voi.brabant.nl
@@ -1063,6 +1062,7 @@ http://webloket.kb.nl
 http://webmail.knmi.nl
 http://webmail.nbso-brazil.com.br
 http://webmail.rivm.nl
+http://webmail.visitaties.nl
 http://webmail.werkenvoornederland.nl
 http://webportaal.rws.nl
 http://webservice.aiz.osiris.rivm.nl
@@ -1144,6 +1144,7 @@ http://www.ncc.gov.nl
 http://www.near-dimension.github.io
 http://www.old.visitaties.nl
 http://www.onderzoekinzesstappen.slo.nl
+http://www.oud.visitaties.nl
 http://www.owas1.nba.nl
 http://www.passendeperspectieven.slo.nl
 http://www.pe-upload.nba.nl
@@ -1166,7 +1167,6 @@ http://www.topasdata.tno.nl
 http://www.tst-rds.nl
 http://www.typened-mrsa.rivm.nl
 http://www.uk.investinholland.com
-http://www.visitaties.nl
 http://www.waterbeschikbaarheid.nl
 http://www.waterkwaliteitsportaal.nl
 http://www.web.nba.nl
@@ -11440,6 +11440,7 @@ https://vipasbest.nl
 https://virtueel.zuid-holland.nl
 https://virtuele-tour-rechtspraak.nl
 https://visinhetho.nl
+https://visitaties.nl
 https://visserijinnovatienetwerk.nl
 https://visualisatieservice-a.cito.nl
 https://visualisatieservice-t.cito.nl
@@ -13400,6 +13401,7 @@ https://www.viewer.globio.info
 https://www.vipasbest.nl
 https://www.virtuele-tour-rechtspraak.nl
 https://www.visinhetho.nl
+https://www.visitaties.nl
 https://www.visserijinnovatienetwerk.nl
 https://www.vliegtuiggeluid.nl
 https://www.vnacs.nl
