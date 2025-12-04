@@ -9,8 +9,8 @@ test
 mijn
 webmail
 english
-api
 acceptatie
+api
 a-www
 _autodiscover._tcp
 cms
@@ -221,6 +221,7 @@ support
 securemail
 mail1
 nieuw
+search
 acc-www
 gateway
 toolkit
@@ -232,6 +233,7 @@ testeloket
 vpn2
 prd
 betalen
+download
 huisstijl
 sharepoint
 website
@@ -278,7 +280,6 @@ idm
 acc-cms
 elo
 probeer
-search
 cm
 stage
 backend
@@ -293,7 +294,6 @@ b2b
 b2btest-gemnet
 b2btest-osb
 b2btest-rijks
-download
 govroam
 mijn.acc
 ns3
@@ -495,6 +495,7 @@ vergaderen
 webapps
 webdiensten
 wus2
+acceptatie.api
 zoek
 acs
 beeldbank-bo
@@ -1695,7 +1696,6 @@ collabora.poc1
 poc
 poc1
 acceptatie.advieswijzer
-acceptatie.api
 acceptatie.tea
 advieswijzer
 tea
@@ -16582,7 +16582,9 @@ test.klantensite
 acceptatie.woz-it
 gemeenteportaal
 lvwozportaal
+scim
 wem-live
+wem-staging
 woz-it
 agendavoorhetwaddengebied2050
 basismonitoringwadden

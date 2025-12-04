@@ -827,6 +827,7 @@ http://sat.irealisatie.nl
 http://scf-mqtt.tno.nl
 http://schemas.kvk.nl
 http://schmavery.github.io
+http://scim.waarderingskamer.nl
 http://sconline.nl.access.authkb.kb.nl
 http://screeningslijst-a.cito.nl
 http://search.developer.overheid.nl
@@ -2242,6 +2243,7 @@ https://acceptatie.uzipas.raadplegen.sbv-z.nl
 https://acceptatie.uzipas.uziregister.nl
 https://acceptatie.vaarweginformatie.nl
 https://acceptatie.vcpapp.rivm.nl
+https://acceptatie.waarderingskamer.nl
 https://acceptatie.webservice.aiz.osiris.rivm.nl
 https://acceptatie.webservice.prezies.osiris.rivm.nl
 https://acceptatie.webservice.signalen.osiris.rivm.nl
@@ -3057,6 +3059,7 @@ https://autodiscover.sommbo.nl
 https://autodiscover.summercourt.nl
 https://autodiscover.svb.nl
 https://autodiscover.via15.nl
+https://autodiscover.waarderingskamer.nl
 https://autodoc.eerstekamer.nl
 https://autorisatie-a.cito.nl
 https://autorisatie-o.cito.nl
@@ -4865,6 +4868,7 @@ https://download.mail.cpb.nl
 https://download.mail.scp.nl
 https://download.pdok.cloud.kadaster.nl
 https://download.pdok.nl
+https://download.waarderingskamer.nl
 https://download.webmail.rivm.nl
 https://downloaddomain.svb.nl
 https://downloadpdf.ep-online.nl
@@ -7843,6 +7847,7 @@ https://mijn.venvn.nl
 https://mijn.vfpf.nl
 https://mijn.voedingscentrum.nl
 https://mijn.waarborg.nl
+https://mijn.waarderingskamer.nl
 https://mijn.zonmw.nl
 https://mijn.zorgaanbiedersportaal.nl
 https://mijnacademie.rechtenoverheid.nl
@@ -10083,6 +10088,7 @@ https://se.espacenet.com
 https://search.aerius.nl
 https://search.business.gov.nl
 https://search.ebscohost.com.access.authkb.kb.nl
+https://search.waarderingskamer.nl
 https://seb.ibki.nl
 https://sec01.dans.knaw.nl
 https://secretaria-de-salud-de-soacha-sigsoacha15.hub.arcgis.com

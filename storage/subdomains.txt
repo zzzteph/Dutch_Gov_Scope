@@ -1861,6 +1861,7 @@ acceptatie.aerius.nl
 acceptatie.aiz.osiris.rivm.nl
 acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
+acceptatie.api.waarderingskamer.nl
 acceptatie.applicationframework.cibg.nl
 acceptatie.aquo.nl
 acceptatie.as2.minbzk.nl
@@ -2059,6 +2060,7 @@ acceptatie.vm-esb.rws.nl
 acceptatie.volksgezondheidenzorg.info
 acceptatie.voorraadtelling.rivm.nl
 acceptatie.vtv2018.nl
+acceptatie.waarderingskamer.nl
 acceptatie.webservice.aiz.osiris.rivm.nl
 acceptatie.webservice.cdif.osiris.rivm.nl
 acceptatie.webservice.prezies.osiris.rivm.nl
@@ -3546,6 +3548,7 @@ autodiscover.vechtstromen.nl
 autodiscover.venvn.nl
 autodiscover.via15.nl
 autodiscover.waarborg.nl
+autodiscover.waarderingskamer.nl
 autodiscover.webmail.politieacademie.nl
 autodiscover.zonmw.nl
 autodoc.eerstekamer.nl
@@ -6735,6 +6738,7 @@ download.mail.scp.nl
 download.pdok.cloud.kadaster.nl
 download.pdok.nl
 download.test.pdok.nl
+download.waarderingskamer.nl
 download.webmail.knmi.nl
 download.webmail.rivm.nl
 download.webmail.test.rivm.nl
@@ -12353,6 +12357,7 @@ mijn.venvn.nl
 mijn.vfpf.nl
 mijn.voedingscentrum.nl
 mijn.waarborg.nl
+mijn.waarderingskamer.nl
 mijn.zonmw.nl
 mijn.zorgaanbiedersportaal.nl
 mijn2-ontw.s-bb.nl
@@ -17038,6 +17043,7 @@ sciamachy.org
 scim.raadsaam-a.raadvanstate.nl
 scim.raadsaam-t.raadvanstate.nl
 scim.raadsaam.raadvanstate.nl
+scim.waarderingskamer.nl
 scm.apim.acc.cloudservices.kb.nl
 sconline.nl.access.authkb.kb.nl
 scope.nin.knaw.nl
@@ -17083,6 +17089,7 @@ search.ebscohost.com.access.authkb.kb.nl
 search.nvao.net
 search.rivm.nl
 search.tweedekamer.nl
+search.waarderingskamer.nl
 seb.ibki.nl
 sec01.dans.knaw.nl
 secform.tno.nl
@@ -20647,6 +20654,7 @@ welkombij.cbs.nl
 welkombij.staatsbosbeheer.nl
 wellesleyma.maps.arcgis.com
 wem-live.waarderingskamer.nl
+wem-staging.waarderingskamer.nl
 wenjiaba.github.io
 wereldzaken.rvo.nl
 werk-portal.nl
