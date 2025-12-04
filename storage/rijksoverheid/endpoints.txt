@@ -922,9 +922,7 @@ http://test-mbotransparant.databank.nl
 http://test-number-two.gnk-ghe-2-org.github.io
 http://test-website.rvo.nl
 http://test.alexandria.huygens.knaw.nl
-http://test.api.waarborg.nl
 http://test.atlasnatuurlijkkapitaal.nl
-http://test.beheer.waarborg.nl
 http://test.bestandenpostbus.nl
 http://test.bezoekerscentrum.rws.nl
 http://test.burgernet.nl
@@ -932,11 +930,9 @@ http://test.crios.rivm.nl
 http://test.digikoppeling.cibg.nl
 http://test.dpr.irealisatie.nl
 http://test.dusi.irealisatie.nl
-http://test.intranet.waarborg.nl
 http://test.leganinc.github.io
 http://test.lml.rivm.nl
 http://test.mgo.irealisatie.nl
-http://test.mijn.waarborg.nl
 http://test.praatmeemetdeoverheid.nl
 http://test.staatvenz.nl
 http://test.tws-esb.rws.nl
@@ -10793,9 +10789,11 @@ https://test.acm.skal.nl
 https://test.actueel.nl-alert.nl
 https://test.adviescollegeveiligheidgroningen.nl
 https://test.aerius.nl
+https://test.api.waarborg.nl
 https://test.app.pzp.nl
 https://test.aquo.nl
 https://test.beeldbank.gebruikercentraal.nl
+https://test.beheer.waarborg.nl
 https://test.belastingdienst-cn.nl
 https://test.bezoekerscentrum.rijkswaterstaat.nl
 https://test.bodemloket.nl
@@ -10836,6 +10834,7 @@ https://test.international.gebruikercentraal.nl
 https://test.intranet-demo.dictu.nl
 https://test.intranet.justis.nl
 https://test.intranet.rvig.nl
+https://test.intranet.waarborg.nl
 https://test.jonglereneten.nl
 https://test.justis.nl
 https://test.kennis-staging.cultureelerfgoed.nl
@@ -10847,6 +10846,7 @@ https://test.lma.nl
 https://test.lma.rws.nl
 https://test.meldingenapp.tweedekamer.nl
 https://test.mi-cert.nl
+https://test.mijn.waarborg.nl
 https://test.milieuzones.nl
 https://test.mobiliteitsbank.nl
 https://test.mondriaanfonds.nl
@@ -13416,6 +13416,7 @@ https://www.vrachtwagenheffingsbeleid.nl
 https://www.vreemdelingenvisie.nl
 https://www.vtv2018.nl
 https://www.vzinfo.nl
+https://www.waarborg.nl
 https://www.waarderingskamer.nl
 https://www.waarzitwatin.nl
 https://www.wachtrijbooster.nl
