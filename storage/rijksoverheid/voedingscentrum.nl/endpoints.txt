@@ -1,4 +1,3 @@
-http://gezondgroeien.voedingscentrum.nl
 https://api-recepten.voedingscentrum.nl
 https://api.kantinescan.voedingscentrum.nl
 https://api.kantinescanacc.voedingscentrum.nl
@@ -13,6 +12,7 @@ https://eettest.voedingscentrum.nl
 https://eetwisselspel.voedingscentrum.nl
 https://geheugensteuntje.voedingscentrum.nl
 https://gezondeschoolkantine.voedingscentrum.nl
+https://gezondgroeien.voedingscentrum.nl
 https://hygienecode.voedingscentrum.nl
 https://kantine.voedingscentrum.nl
 https://kantinescan.voedingscentrum.nl
@@ -24,6 +24,7 @@ https://m.voedingscentrum.nl
 https://mijn.voedingscentrum.nl
 https://mobiel.voedingscentrum.nl
 https://mobielgsk.voedingscentrum.nl
+https://mta-sts.voedingscentrum.nl
 https://nb.voedingscentrum.nl
 https://nieuwsbrief.voedingscentrum.nl
 https://recepten.voedingscentrum.nl

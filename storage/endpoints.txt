@@ -449,7 +449,6 @@ http://genconnector.sawa-vth.nl
 http://genomes.bioinf.nioo.knaw.nl
 http://geo2.flevoland.nl
 http://geodata.rivm.nl
-http://gezondgroeien.voedingscentrum.nl
 http://gh-pages.paper-spa.github.io
 http://gids-core.acc.cloudservices.kb.nl
 http://gids-frontoffice.acc.cloudservices.kb.nl
@@ -5996,6 +5995,7 @@ https://gezondenveiliggedrag.tno.nl
 https://gezondenveiligwerk.tno.nl
 https://gezondeschool.nl
 https://gezondeschoolkantine.voedingscentrum.nl
+https://gezondgroeien.voedingscentrum.nl
 https://gezondheidsraad.nl
 https://gfportal.test.gf.irealisatie.nl
 https://ggdiamdemo.rivm.nl
@@ -8060,6 +8060,7 @@ https://mta-sts.belastingdienst.nl
 https://mta-sts.mail.cggp.nl
 https://mta-sts.nza.nl
 https://mta-sts.vechtstromen.nl
+https://mta-sts.voedingscentrum.nl
 https://mta.cbr.nl
 https://mtdphhs.maps.arcgis.com
 https://mtv.rdw.nl
