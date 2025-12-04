@@ -1,8 +1,8 @@
 
 www
 opendata
-mail
 feeds
+mail
 autodiscover
 acc
 test
@@ -15,9 +15,9 @@ a-www
 _autodiscover._tcp
 cms
 staging
-magazines
 intranet
 a-opendata
+magazines
 a-feeds
 vpn
 login
@@ -742,7 +742,6 @@ test.redactie
 csm
 developers
 help
-pro
 sentinel5
 workforce
 klachten-acc
@@ -6577,6 +6576,7 @@ portal-sigtec.hub
 portal-test-escap.hub
 portal.hubdev
 powhatancounty.maps
+pro
 providence-gis-hub-pvdgis.hub
 pub
 pubdev
@@ -16542,7 +16542,6 @@ vfpf-blueriq-studio2
 www.ssa
 php74
 www.oud
-programs
 api-recepten
 api.kantinescan
 api.kantinescanacc
