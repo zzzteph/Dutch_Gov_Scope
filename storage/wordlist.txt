@@ -11,8 +11,8 @@ webmail
 english
 acceptatie
 api
-a-www
 _autodiscover._tcp
+a-www
 cms
 staging
 intranet
