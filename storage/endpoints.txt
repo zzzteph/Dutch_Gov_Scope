@@ -483,6 +483,8 @@ http://hpma-jupyter-staging.excite.tno.nl
 http://humanities.knaw.nl
 http://humanstudies.tno.nl
 http://hypocrates.rivm.nl
+http://iam-containerplatform-az1.lpc.logius.nl
+http://iam-containerplatform-az2.lpc.logius.nl
 http://ibl-beheer-tst.ot.cloudservices.kb.nl
 http://ibl.kb.nl
 http://ict-ers.werkenvoornederland.nl
@@ -1864,7 +1866,6 @@ https://aanpaklerarentekort.nl
 https://aanpakringzuid.nl
 https://aanpassingvoertuigdoorgeven.rdw.nl
 https://aansluiten.procesinfrastructuur.nl
-https://aansluitsuite.preproductie.digipoort.logius.nl
 https://aansprakelijkhedenoverzichtaanvragen.rdw.nl
 https://aantekeningen-abbesteech.huygens.knaw.nl
 https://aanvraag-beheer.ciz.nl
@@ -3282,6 +3283,7 @@ https://beheerders.logerenbijdeboswachter.nl
 https://beheerdetoekomst.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://beheerportaal.bta.omgevingswet.overheid.nl
+https://beheerportaal.digipoort.logius.nl
 https://beheerportaal.dmo.omgevingswet.overheid.nl
 https://beheerportaal.enabling.omgevingswet.overheid.nl
 https://beheerportaal.int.omgevingswet.overheid.nl
@@ -4998,6 +5000,7 @@ https://dxp.test.cloud.kadaster.nl
 https://dynamics.tno.nl
 https://dynamo-hia.eu
 https://dzbd-pre.logius.nl
+https://dzbd.logius.nl
 https://e-akkoord.nl
 https://e-bom.acpt.nationaalarchief.nl
 https://e-bom.nationaalarchief.nl
@@ -5865,8 +5868,11 @@ https://gebruikersbeheer-o.cito.nl
 https://gebruikersbeheer-t.cito.nl
 https://gebruikersbeheer.cito.nl
 https://gebruikersonderzoek.uwv.nl
+https://gebruikersportaal-duo.digipoort.logius.nl
 https://gebruikersportaal-duo.preproductie.digipoort.logius.nl
+https://gebruikersportaal-sbr.digipoort.logius.nl
 https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl
+https://gebruikersportaal.digipoort.logius.nl
 https://gebruikersportaal.preproductie.digipoort.logius.nl
 https://gebruikregistratie-acc.inspectieview.nl
 https://gebruikregistratie.inspectieview.nl
@@ -6338,8 +6344,6 @@ https://iaas-portal.odc-noord.nl
 https://iac.nlspace.nl
 https://iafc.maps.arcgis.com
 https://iam-acc.rdi.nl
-https://iam-containerplatform-az1.lpc.logius.nl
-https://iam-containerplatform-az2.lpc.logius.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam.mijnoctrooi.mypage.rvo.nl
 https://iam.ndw.nu
@@ -6386,6 +6390,7 @@ https://identifier.officielebekendmakingen.nl
 https://identitybroker.npo.kvk.nl
 https://idm-bzk.staging.rijksapplicaties.nl
 https://idm.k8sauth.pleio.nl
+https://idp-dgp.digipoort.logius.nl
 https://idp-dgp.preproductie.digipoort.logius.nl
 https://idp.dev.kvk.nl
 https://idp.dmi-ecosysteem.nl
@@ -6637,7 +6642,6 @@ https://intranetvanrvo-test.odc.pleio.nl
 https://intranetvanrvo.odc.pleio.nl
 https://intraspectie.inspectiebtd.nl
 https://intrekkingeigenverzoek.cvdm.nl
-https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://inventaris.huygens.knaw.nl
 https://inventory.hex.tno.nl
 https://invester-i-slagelse-startside-slagelse.hub.arcgis.com
@@ -9324,7 +9328,6 @@ https://prod-dictu.comcms.logius.nl
 https://prod-dictu.digitoegankelijk.nl
 https://prod-dictu.eherkenning.nl
 https://prod-dictu.forumstandaardisatie.nl
-https://prod-dictu.logius.nl
 https://prod-dictu.referentiegrootboekschema.nl
 https://prod-dictu.sbr-nl.nl
 https://prod-dictu.toegankelijkheidsverklaring.nl

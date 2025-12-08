@@ -23,9 +23,9 @@ vpn
 login
 www-acc
 werkenbij
+data
 link
 prod
-data
 portal
 formulieren
 werkplek
@@ -127,7 +127,6 @@ zaaksysteem
 chat
 archief
 files
-prod-dictu
 forum
 events
 magazine
@@ -176,6 +175,7 @@ service
 access
 developer
 siam
+prod-dictu
 hostmaster
 radius
 eloket
@@ -3083,8 +3083,6 @@ sbl
 www.atlas
 www.geoserver
 aansluitsuite.acceptatie.digipoort
-aansluitsuite.digipoort
-aansluitsuite.preproductie.digipoort
 acc-dictu.comcms
 acc-dictu.kennisbank
 acc.bvd
@@ -3169,10 +3167,9 @@ iam-containerplatform-az1.lpc
 iam-containerplatform-az2.lpc
 iam-containerplatform
 iam-containerplatform.lpc
+idp-dgp.digipoort
 idp-dgp.preproductie.digipoort
 intrekkingsportaal.acceptatie.digipoort
-intrekkingsportaal.digipoort
-intrekkingsportaal.preproductie.digipoort
 kibana-prod.lpc
 kibana.lpc
 lpc-o-az1.elastic.lpc

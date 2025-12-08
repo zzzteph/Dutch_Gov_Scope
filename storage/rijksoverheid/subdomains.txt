@@ -1295,8 +1295,6 @@ aanpakringzuid.nl
 aanpassingvoertuigdoorgeven.rdw.nl
 aansluiten.procesinfrastructuur.nl
 aansluitsuite.acceptatie.digipoort.logius.nl
-aansluitsuite.digipoort.logius.nl
-aansluitsuite.preproductie.digipoort.logius.nl
 aansprakelijkhedenoverzichtaanvragen.rdw.nl
 aantekeningen-abbesteech.huygens.knaw.nl
 aanvraag-beheer.ciz.nl
@@ -5920,6 +5918,7 @@ data.kkg.kadaster.nl
 data.knmi.nl
 data.labs.kadaster.nl
 data.labs.pdok.nl
+data.logius.nl
 data.ndw.nu
 data.noraonline.nl
 data.nwo.nl
@@ -9399,6 +9398,7 @@ idm.politie.nl
 idm.rvig.nl
 idm2.minvws.nl
 idp-acc.globalentry-rtp.nl
+idp-dgp.digipoort.logius.nl
 idp-dgp.preproductie.digipoort.logius.nl
 idp.acp.kvk.nl
 idp.dev.kvk.nl
@@ -9833,8 +9833,6 @@ intraspectie.inspectiebtd.nl
 intratst.belastingdienst.nl
 intrekkingeigenverzoek.cvdm.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
-intrekkingsportaal.digipoort.logius.nl
-intrekkingsportaal.preproductie.digipoort.logius.nl
 inventaris.huygens.knaw.nl
 inventory.afm.nl
 inventory.hex.tno.nl
@@ -15612,7 +15610,6 @@ prod-dictu.comcms.logius.nl
 prod-dictu.digitoegankelijk.nl
 prod-dictu.eherkenning.nl
 prod-dictu.forumstandaardisatie.nl
-prod-dictu.logius.nl
 prod-dictu.referentiegrootboekschema.nl
 prod-dictu.sbr-nl.nl
 prod-dictu.toegankelijkheidsverklaring.nl
