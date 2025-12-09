@@ -3229,9 +3229,14 @@ nox.intranet
 zakelijk-acc
 geodata1
 lab.geodata
+ngr-test
 ngr.acceptatie
 ngr.ontwikkeling
+secure.geodata
 secure.geodata2
+staging.secure.geodata
+test.geodata
+test.secure.geodata2
 pas
 acceptatie.uzipas.portaal
 uzipas.portaal

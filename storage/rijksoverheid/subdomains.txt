@@ -13218,6 +13218,7 @@ ngp-kernel-sharedinfra.wgu-edu.github.io
 ngp-kernel-team-docs.wgu-edu.github.io
 ngp-kernel-wgu-boot.wgu-edu.github.io
 ngp-kernel-wguid-sdk.wgu-edu.github.io
+ngr-test.nationaalgeoregister.nl
 ngr.acceptatie.nationaalgeoregister.nl
 ngr.ontwikkeling.nationaalgeoregister.nl
 nh.acc.douane.nl
@@ -17095,6 +17096,7 @@ secure-acceptatie.grip.rivm.nl
 secure-bvi-test.politie.nl
 secure-test.rivm.nl
 secure.cito.nl
+secure.geodata.nationaalgeoregister.nl
 secure.geodata2.nationaalgeoregister.nl
 secure.grip.rivm.nl
 secure.huygens.knaw.nl
@@ -17943,6 +17945,7 @@ staging.rechtenoverheid.nl
 staging.rijksapplicaties.nl
 staging.rijkswaterstaat.nl
 staging.samenbouwenaanbereikbaarheid.nl
+staging.secure.geodata.nationaalgeoregister.nl
 staging.ser.nl
 staging.staatvandeuitvoering.nl
 staging.static.werkenbij.rijkswaterstaat.nl
@@ -18753,6 +18756,7 @@ test.flevoland.nl
 test.gds.dopingautoriteit.nl
 test.gebruikercentraal.nl
 test.gegevensmagazijn.acm.nl
+test.geodata.nationaalgeoregister.nl
 test.geoforum.nl
 test.geoservices.cultureelerfgoed.nl
 test.gezondeleefomgeving.nl
@@ -18852,6 +18856,7 @@ test.rvo.nl
 test.s-bb.nl
 test.samenmetenaanluchtkwaliteit.nl
 test.schadedoormijnbouw.nl
+test.secure.geodata2.nationaalgeoregister.nl
 test.spin2.rijkswaterstaat.nl
 test.staatvenz.nl
 test.statistieken.coa.nl

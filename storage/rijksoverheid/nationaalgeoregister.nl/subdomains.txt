@@ -2,7 +2,12 @@ geodata.nationaalgeoregister.nl
 geodata1.nationaalgeoregister.nl
 lab.geodata.nationaalgeoregister.nl
 nationaalgeoregister.nl
+ngr-test.nationaalgeoregister.nl
 ngr.acceptatie.nationaalgeoregister.nl
 ngr.ontwikkeling.nationaalgeoregister.nl
+secure.geodata.nationaalgeoregister.nl
 secure.geodata2.nationaalgeoregister.nl
+staging.secure.geodata.nationaalgeoregister.nl
+test.geodata.nationaalgeoregister.nl
+test.secure.geodata2.nationaalgeoregister.nl
 www.nationaalgeoregister.nl
