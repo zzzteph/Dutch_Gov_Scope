@@ -26,7 +26,6 @@ gl.ncsc.nl
 gl1.ncsc.nl
 intel-acc.ncsc.nl
 intel.ncsc.nl
-magazines.ncsc.nl
 melissa.ncsc.nl
 mijn.acc.ncsc.nl
 mijn.ncsc.nl
@@ -34,6 +33,11 @@ mijn.test.ncsc.nl
 min1.ncsc.nl
 min2.ncsc.nl
 min3.ncsc.nl
+misp-instance1.ncsc.nl
+misp-instance2.ncsc.nl
+misp-instance3.ncsc.nl
+misp-instance4.ncsc.nl
+misp-instance5.ncsc.nl
 mx.ncsc.nl
 mx1.ncsc.nl
 mx2.ncsc.nl

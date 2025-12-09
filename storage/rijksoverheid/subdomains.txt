@@ -11587,7 +11587,6 @@ magazines.inspectie-jenv.nl
 magazines.interbestuurlijkedatastrategie.nl
 magazines.jeugdautoriteit.nl
 magazines.kinderbescherming.nl
-magazines.ncsc.nl
 magazines.nctv.nl
 magazines.nza.nl
 magazines.onderwijsinspectie.nl
@@ -12605,6 +12604,11 @@ mirta20nieuwerkerkgouda.nl
 mirta2deilvught.nl
 mirtoverzicht.nl
 misfir3-site.brentjo-testorg.github.io
+misp-instance1.ncsc.nl
+misp-instance2.ncsc.nl
+misp-instance3.ncsc.nl
+misp-instance4.ncsc.nl
+misp-instance5.ncsc.nl
 missing.amberalert.nl
 mivp.emissieautoriteit.nl
 mizar.kadaster.nl

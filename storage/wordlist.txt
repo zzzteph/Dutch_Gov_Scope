@@ -17,8 +17,8 @@ cms
 staging
 intranet
 a-opendata
-magazines
 a-feeds
+magazines
 vpn
 login
 www-acc
@@ -3262,6 +3262,11 @@ melissa
 min1
 min2
 min3
+misp-instance1
+misp-instance2
+misp-instance3
+misp-instance4
+misp-instance5
 mx
 ndn-onderzoek
 nspnws-cursus
