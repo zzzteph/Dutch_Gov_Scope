@@ -632,6 +632,7 @@ selector2._domainkey
 formulieren-acc
 zandbak
 odin
+rapportage
 werkplaats
 e-learning
 import-acc.organisaties
@@ -8410,7 +8411,6 @@ aggregator
 datareportr.acc
 datareportr
 datareportr.pre
-rapportage
 s3.acc
 simulator-acc
 simulator-dev
