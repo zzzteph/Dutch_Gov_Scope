@@ -251,6 +251,7 @@ status
 a-cms
 catalogus
 cms1
+t-www
 enquete
 gitlab
 jira
@@ -342,7 +343,6 @@ site1
 site2
 site3
 site4
-t-www
 dns2
 lync
 mail01
