@@ -63,7 +63,6 @@ http://acceptatie.chemkap.rivm.nl
 http://acceptatie.clusterbuster.nl
 http://acceptatie.consexponano.nl
 http://acceptatie.crios.rivm.nl
-http://acceptatie.crm.nza.nl
 http://acceptatie.data.rivm.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acceptatie.ecdis.osiris.rivm.nl
@@ -334,7 +333,6 @@ http://covid-19-test-to-treat-locator-dhhs.hub.arcgis.com
 http://criminaliteitenrecht.nl
 http://crl.rdw.nl
 http://crlresidues.rivm.nl
-http://crm.nza.nl
 http://crs.nba.nl
 http://cs-portaal.procesinfrastructuur.nl
 http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl
@@ -2184,6 +2182,7 @@ https://acceptatie.botova.rijkswaterstaat.nl
 https://acceptatie.cdif.osiris.rivm.nl
 https://acceptatie.cibrapportage.rivm.nl
 https://acceptatie.consuwijzer.nl
+https://acceptatie.crm.nza.nl
 https://acceptatie.designsystem.cibg.nl
 https://acceptatie.drms.cibg.nl
 https://acceptatie.dustex.nl
@@ -2469,6 +2468,7 @@ https://ags.rijkswaterstaat.nl
 https://agw.idm.rvig.nl
 https://agw.lap.idm.rvig.nl
 https://agw.lap.stopid.rvig.nl
+https://agw02-nomail.nza.nl
 https://ahc-covid19-ahc.hub.arcgis.com
 https://ahlainen-pori.hub.arcgis.com
 https://ahn.nl
@@ -4261,6 +4261,7 @@ https://crl.npkd.nl
 https://crl.pkioverheid.nl
 https://crm.cbi.eu
 https://crm.cultuurparticipatie.nl
+https://crm.nza.nl
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
 https://crow.databank.nl
