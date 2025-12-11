@@ -846,7 +846,6 @@ _dmarc.kb.nl
 _dmarc.logius.nl
 _dmarc.nvwa.nl
 _dmarc.nza.nl
-_dmarc.p-direkt.nl
 _dmarc.rijksoverheid.nl
 _dmarc.rijksvastgoedbedrijf.nl
 _dmarc.rvig.nl
@@ -2495,7 +2494,6 @@ akteviewer.brk.kadaster.nl
 akteviewer.brk.test.kadaster.nl
 al-i.espacenet.com
 al.espacenet.com
-aladdin.p-direkt.nl
 alameda-and-contra-costa-county-regional-priority-plan-ccrcd.hub.arcgis.com
 alarmmodule.rws.nl
 alaska-dhss.hub.arcgis.com
@@ -2748,7 +2746,6 @@ api.acp.business.gov.nl
 api.acp.kvk.nl
 api.afm.nl
 api.amx.belastingdienst.nl
-api.appstore.p-direkt.nl
 api.bag.acceptatie.kadaster.nl
 api.bag.kadaster.nl
 api.bag.test.kadaster.nl
@@ -3108,7 +3105,6 @@ apps.venvn.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
 appstore.kvk.nl
-appstore.p-direkt.nl
 appstudio.arcgis.com
 apptest.hetcak.nl
 apptunnel.rechtspraak.nl
@@ -7368,7 +7364,6 @@ english.ndw.nu
 english.nrgd.nl
 english.nvwa.nl
 english.onderwijsinspectie.nl
-english.p-direkt.nl
 english.politiecn.com
 english.postedworkers.nl
 english.rda.nl
@@ -7915,7 +7910,6 @@ feeds.english.ncsc.nl
 feeds.english.nctv.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
-feeds.english.p-direkt.nl
 feeds.english.rekenkamer.nl
 feeds.english.rijksdienstcn.com
 feeds.english.sso3w.nl
@@ -7965,7 +7959,6 @@ feeds.om.nl
 feeds.onderwijsinspectie.nl
 feeds.oud.platformrijksoverheidonline.nl
 feeds.over.leeroverzicht.nl
-feeds.p-direkt.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
@@ -8865,10 +8858,6 @@ grasp-acc.azure.dnb.nl
 grasp-dev.azure.dnb.nl
 grasp.azure.dnb.nl
 gratisvog.nl
-grc-apps.p-direkt.nl
-grc.p-direkt.nl
-grct-apps.p-direkt.nl
-grct.p-direkt.nl
 greater-rift-valley-worldresources.hub.arcgis.com
 greatlakesresilience-floodscience.hub.arcgis.com
 greencove.maps.arcgis.com
@@ -11573,7 +11562,6 @@ magazines.defensie.nl
 magazines.deltaprogramma.nl
 magazines.dji.nl
 magazines.emissieautoriteit.nl
-magazines.english.p-direkt.nl
 magazines.english.vrachtwagenheffing.nl
 magazines.forensischinstituut.nl
 magazines.government.nl
@@ -11587,7 +11575,6 @@ magazines.nctv.nl
 magazines.nza.nl
 magazines.onderwijsinspectie.nl
 magazines.openbaarministerie.nl
-magazines.p-direkt.nl
 magazines.rdi.nl
 magazines.rijksoverheid.nl
 magazines.rivm.nl
@@ -11598,7 +11585,6 @@ magazines.vrachtwagenheffing.nl
 magazines.werkenvoornederland.nl
 magazines.wrr.nl
 magazinesintern.english.vrachtwagenheffing.nl
-magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
 magazinesintern.vrachtwagenheffing.nl
@@ -11612,7 +11598,6 @@ mail.acm.nl
 mail.actal.nl
 mail.afm.nl
 mail.agendavoorhetwaddengebied2050.nl
-mail.aladdin.p-direkt.nl
 mail.aquo.nl
 mail.atr-regeldruk.nl
 mail.bapi.belastingdienst.nl
@@ -14007,7 +13992,6 @@ opendata.english.ncsc.nl
 opendata.english.nctv.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
-opendata.english.p-direkt.nl
 opendata.english.rekenkamer.nl
 opendata.english.rijksdienstcn.com
 opendata.english.vrachtwagenheffing.nl
@@ -14062,7 +14046,6 @@ opendata.ondernemersplein.nl
 opendata.onderwijsinspectie.nl
 opendata.oud.platformrijksoverheidonline.nl
 opendata.over.leeroverzicht.nl
-opendata.p-direkt.nl
 opendata.papiamento.two-acs.com
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18013,8 +17996,6 @@ static.acp.live.rijkswaterstaat.nl
 static.acp.live.werkenbij.rijkswaterstaat.nl
 static.acp.staging.rijkswaterstaat.nl
 static.acp.staging.werkenbij.rijkswaterstaat.nl
-static.aladdin.p-direkt.nl
-static.appstore.p-direkt.nl
 static.caorijk.nl
 static.demo.mijn.overheid.nl
 static.developer.overheid.nl
@@ -18077,7 +18058,6 @@ statpubliekedata.azure.dnb.nl
 stats-acc.globalentry-rtp.nl
 stats-restore.pleio.nl
 stats.acc.mgo.irealisatie.nl
-stats.aladdin.p-direkt.nl
 stats.dans.knaw.nl
 stats.datascience.rijkscloud.nl
 stats.debatdirect.tweedekamer.nl
