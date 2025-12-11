@@ -979,7 +979,6 @@ a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
 a-feeds.loonaangifteketen.nl
 a-feeds.ocwincijfers.nl
-a-feeds.politiekeambtsdragers.nl
 a-feeds.rekenkamer.nl
 a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
@@ -1043,7 +1042,6 @@ a-opendata.koopoverheid.nl
 a-opendata.loonaangifteketen.nl
 a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
-a-opendata.politiekeambtsdragers.nl
 a-opendata.rekenkamer.nl
 a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
@@ -1209,7 +1207,6 @@ a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
 a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
-a-www.politiekeambtsdragers.nl
 a-www.rekenkamer.nl
 a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
@@ -7961,7 +7958,6 @@ feeds.oud.platformrijksoverheidonline.nl
 feeds.over.leeroverzicht.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
-feeds.politiekeambtsdragers.nl
 feeds.prosecutionservice.nl
 feeds.raadvoorcultuur.nl
 feeds.rdi.nl
@@ -14050,7 +14046,6 @@ opendata.papiamento.two-acs.com
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.platformrijksoverheid.nl
-opendata.politiekeambtsdragers.nl
 opendata.preprod.kvk.nl
 opendata.prosecutionservice.nl
 opendata.raadvoorcultuur.nl
