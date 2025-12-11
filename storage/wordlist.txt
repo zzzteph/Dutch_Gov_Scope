@@ -288,6 +288,7 @@ web
 da
 mijn.acceptatie
 community
+feedback
 pushmail
 smtp1
 appstore
@@ -455,7 +456,6 @@ oa
 chw
 test.resultaten
 bezwaar
-feedback
 meldingen
 rivm
 rdgateway
