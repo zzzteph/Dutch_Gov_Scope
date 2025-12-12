@@ -2,6 +2,7 @@ http://appl.rdi.nl
 https://api-acc.rdi.nl
 https://api.rdi.nl
 https://callbook.rdi.nl
+https://digitaalveiligeproducten.rdi.nl
 https://feeds.rdi.nl
 https://iam-acc.rdi.nl
 https://iam.rdi.nl
@@ -9,9 +10,12 @@ https://identificatie.rdi.nl
 https://infoportal.rdi.nl
 https://magazines.rdi.nl
 https://mijn.rdi.nl
+https://nox.infoportal.rdi.nl
 https://onderzoek.rdi.nl
 https://opendata.rdi.nl
 https://prod.radar.rdi.nl
+https://radar-acc.rdi.nl
+https://radar-test.rdi.nl
 https://radar.rdi.nl
 https://rdi.nl
 https://slimmestad.rdi.nl
