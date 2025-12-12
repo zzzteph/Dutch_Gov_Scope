@@ -9,8 +9,8 @@ test
 mijn
 webmail
 english
-acceptatie
 api
+acceptatie
 _autodiscover._tcp
 a-www
 cms
@@ -648,6 +648,7 @@ social
 wetten
 kms
 cms21
+api-test
 digitaal
 radar
 fileshare
@@ -4128,6 +4129,7 @@ myidp-acc
 myidp
 o1.ptr2462.mail
 url6099.mail
+api-accept
 gis
 criminalfilesmh17.acc
 criminalfilesmh17
@@ -10091,7 +10093,6 @@ acc-cruks
 api-proeftuin-acc
 api-proeftuin-test
 api-proeftuin
-api-test
 api.acc-cruks
 cdb
 cruks-acc
