@@ -2597,6 +2597,7 @@ analytics-solutions-esridech.hub.arcgis.com
 analytics.caop.nl
 analytics.cjib.nl
 analytics.dataplatform.knmi.nl
+analytics.explorer.kim.rijkscloud.nl
 analytics.feni.ienw.rijkscloud.nl
 analytics.ienw.rijkscloud.nl
 analytics.ndw.nu
@@ -10618,6 +10619,7 @@ keycloak-acc.vm-02.azure.grid.rws.nl
 keycloak-admin.acceptatie.vm-05.azure.grid.rws.nl
 keycloak-admin.vm-05.azure.grid.rws.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
+keycloak-ext.dgdoobi.rijkscloud.nl
 keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 keycloak-test-admin.vm-02.azure.grid.rws.nl
 keycloak-test.vm-02.azure.grid.rws.nl
@@ -10627,6 +10629,7 @@ keycloak.analyse.ilt.rijkscloud.nl
 keycloak.devops.rvb.rijkscloud.nl
 keycloak.dfaas.hansken.org
 keycloak.dgdoobi.rijkscloud.nl
+keycloak.ix.rijkscloud.nl
 keycloak.mintst.rijkscloud.nl
 keycloak.ndw.nu
 keycloak.onlinepublicatie.topinkomens.nl
@@ -11228,6 +11231,7 @@ login-nl.rijksapplicaties.nl
 login-nl.staging.rijksapplicaties.nl
 login-ocw.rijksapplicaties.nl
 login-ocw.staging.rijksapplicaties.nl
+login-oms-a.rvb.rijkscloud.nl
 login-oms.rvb.rijkscloud.nl
 login-pp.dnb.nl
 login-services-mijn-test2.s-bb.nl
@@ -15799,6 +15803,7 @@ pubdev.arcgis.com
 public-acc.ep-online.nl
 public-acc1.ep-online.nl
 public-preprod.ep-online.nl
+public.dashboards.dgdoobi.rijkscloud.nl
 public.ep-online.nl
 public.mondriaanfonds.nl
 public.mst-acc.ctgb.nl
@@ -16243,6 +16248,7 @@ registry.gitlab.test.ix.rijkscloud.nl
 registry.gitlab.wibo.ienw.rijkscloud.nl
 registry.huc.knaw.nl
 registry.istandaarden.nl
+registry.ix.rijkscloud.nl
 registry.kvk.nl
 registry.notary.huc.knaw.nl
 registry.odc-noord.nl
@@ -16626,6 +16632,7 @@ rstudio.informatieproducten.duo.rijkscloud.nl
 rstudio.ip.test.duo.rijkscloud.nl
 rstudio.ipi.rijkscloud.nl
 rstudio.ivho.rijkscloud.nl
+rstudio.ix.rijkscloud.nl
 rstudio.jv-dspoc.rijkscloud.nl
 rstudio.jvs.ix.rijkscloud.nl
 rstudio.jvs1.lgs.rijkscloud.nl

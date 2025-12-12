@@ -2512,6 +2512,7 @@ https://analysis8.az-int.arcgis.com
 https://analytics-radius.raadvanstate.nl
 https://analytics-solutions-esridech.hub.arcgis.com
 https://analytics.cjib.nl
+https://analytics.explorer.kim.rijkscloud.nl
 https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
 https://anderson-sc-comp-udo-hlplanning.hub.arcgis.com
@@ -6890,6 +6891,7 @@ https://keuzehulp.simpel-switchen.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keuzekompas.werkenbijdefensie.nl
 https://keycloak-acc.vm-02.azure.grid.rws.nl
+https://keycloak-ext.dgdoobi.rijkscloud.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://keycloak.acc.onlinepublicatie.topinkomens.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
@@ -9406,6 +9408,7 @@ https://ptvt.nl
 https://pub.arcgis.com
 https://pubdev.arcgis.com
 https://public-preprod.ep-online.nl
+https://public.dashboards.dgdoobi.rijkscloud.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.portal.ind.nl

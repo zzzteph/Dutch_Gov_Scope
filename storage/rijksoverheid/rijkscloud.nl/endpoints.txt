@@ -1,4 +1,5 @@
 https://accounts.kim.rijkscloud.nl
+https://analytics.explorer.kim.rijkscloud.nl
 https://api.cursus.rijkscloud.nl
 https://api.dbe-t.rvb.rijkscloud.nl
 https://api.ix.rijkscloud.nl
@@ -50,6 +51,7 @@ https://jupyter.ipi.rijkscloud.nl
 https://jupyter.kim.rijkscloud.nl
 https://jupyter.rdi.rijkscloud.nl
 https://jupyter.ritp.rijkscloud.nl
+https://keycloak-ext.dgdoobi.rijkscloud.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.rdi.rijkscloud.nl
 https://keycloak.test.analyse.ilt.rijkscloud.nl
@@ -71,6 +73,7 @@ https://portal.informatieproducten.duo.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://portal118.rijkscloud.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
+https://public.dashboards.dgdoobi.rijkscloud.nl
 https://pw.rvb.rijkscloud.nl
 https://rb.rvb.rijkscloud.nl
 https://registry.gitlab.datascience.rijkscloud.nl

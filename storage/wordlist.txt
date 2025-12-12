@@ -4163,6 +4163,7 @@ accounts.kim
 accounts.minszw
 accounts.mintst2
 analyse-pipeline.pages.gitlab.analyse.ilt
+analytics.explorer.kim
 analytics.feni.ienw
 analytics.ienw
 api-performance.test.ix
@@ -4429,9 +4430,11 @@ jupyterhub02.mintst2
 kevin.devops.rvb
 keycloak-acc.rvb
 keycloak-devops.devops.rvb
+keycloak-ext.dgdoobi
 keycloak.analyse.ilt
 keycloak.devops.rvb
 keycloak.dgdoobi
+keycloak.ix
 keycloak.mintst
 keycloak.rdi
 keycloak.sodm
@@ -4464,6 +4467,7 @@ lb1.gn3
 loadtest.test
 login-a.rvb
 login-net.rvb
+login-oms-a.rvb
 login-oms.rvb
 login.rvb
 mail.gn2
@@ -4595,6 +4599,7 @@ prx2.gn1
 prx2.gn2
 prx2.gn3
 prx2.rw1
+public.dashboards.dgdoobi
 pw.rvb
 pypostcode.dev-datafabriek.ienw
 quality-time-2.devops.rvb
@@ -4622,6 +4627,7 @@ registry.gitlab.rvb
 registry.gitlab.sodm
 registry.gitlab.test.ix
 registry.gitlab.wibo.ienw
+registry.ix
 repo.ix
 repo.so
 repo1.gn2
@@ -4676,6 +4682,7 @@ rstudio.informatieproducten.duo
 rstudio.ip.test.duo
 rstudio.ipi
 rstudio.ivho
+rstudio.ix
 rstudio.jv-dspoc
 rstudio.jvs.ix
 rstudio.jvs1.lgs

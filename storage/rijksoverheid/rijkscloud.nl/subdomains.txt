@@ -6,6 +6,7 @@ accounts.minszw.rijkscloud.nl
 accounts.mintst2.rijkscloud.nl
 accounts.rijkscloud.nl
 analyse-pipeline.pages.gitlab.analyse.ilt.rijkscloud.nl
+analytics.explorer.kim.rijkscloud.nl
 analytics.feni.ienw.rijkscloud.nl
 analytics.ienw.rijkscloud.nl
 api-performance.test.ix.rijkscloud.nl
@@ -280,9 +281,11 @@ jupyterhub02.mintst2.rijkscloud.nl
 kevin.devops.rvb.rijkscloud.nl
 keycloak-acc.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
+keycloak-ext.dgdoobi.rijkscloud.nl
 keycloak.analyse.ilt.rijkscloud.nl
 keycloak.devops.rvb.rijkscloud.nl
 keycloak.dgdoobi.rijkscloud.nl
+keycloak.ix.rijkscloud.nl
 keycloak.mintst.rijkscloud.nl
 keycloak.rdi.rijkscloud.nl
 keycloak.sodm.rijkscloud.nl
@@ -315,6 +318,7 @@ lb1.gn3.rijkscloud.nl
 loadtest.test.rijkscloud.nl
 login-a.rvb.rijkscloud.nl
 login-net.rvb.rijkscloud.nl
+login-oms-a.rvb.rijkscloud.nl
 login-oms.rvb.rijkscloud.nl
 login.rvb.rijkscloud.nl
 mail.gn2.rijkscloud.nl
@@ -449,6 +453,7 @@ prx2.gn1.rijkscloud.nl
 prx2.gn2.rijkscloud.nl
 prx2.gn3.rijkscloud.nl
 prx2.rw1.rijkscloud.nl
+public.dashboards.dgdoobi.rijkscloud.nl
 pw.rvb.rijkscloud.nl
 pypostcode.dev-datafabriek.ienw.rijkscloud.nl
 quality-time-2.devops.rvb.rijkscloud.nl
@@ -476,6 +481,7 @@ registry.gitlab.rvb.rijkscloud.nl
 registry.gitlab.sodm.rijkscloud.nl
 registry.gitlab.test.ix.rijkscloud.nl
 registry.gitlab.wibo.ienw.rijkscloud.nl
+registry.ix.rijkscloud.nl
 repo.ix.rijkscloud.nl
 repo.so.rijkscloud.nl
 repo1.gn2.rijkscloud.nl
@@ -531,6 +537,7 @@ rstudio.informatieproducten.duo.rijkscloud.nl
 rstudio.ip.test.duo.rijkscloud.nl
 rstudio.ipi.rijkscloud.nl
 rstudio.ivho.rijkscloud.nl
+rstudio.ix.rijkscloud.nl
 rstudio.jv-dspoc.rijkscloud.nl
 rstudio.jvs.ix.rijkscloud.nl
 rstudio.jvs1.lgs.rijkscloud.nl
