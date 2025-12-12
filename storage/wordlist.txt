@@ -17,8 +17,8 @@ cms
 staging
 intranet
 a-opendata
-a-feeds
 magazines
+a-feeds
 vpn
 login
 www-acc
@@ -34,13 +34,13 @@ redactie
 e
 smtp
 apps
-feeds.english
 beheer
 app
 sip
 connect
-opendata.english
+feeds.english
 portaal
+opendata.english
 meet
 www.acceptatie
 kennisbank
@@ -92,7 +92,6 @@ telewerken
 git
 preview
 media
-a-english
 beta
 geo
 kennis
@@ -110,8 +109,7 @@ test-dictu
 mx1
 aanvragen
 admin
-a-feeds.a-english
-a-opendata.a-english
+a-english
 papiamentu
 acceptatie.beheer
 acceptatie.mijn
@@ -133,6 +131,8 @@ magazine
 matomo
 cpcalendars
 cpcontacts
+a-feeds.a-english
+a-opendata.a-english
 geodata
 academie
 adobe-analytics-dc
