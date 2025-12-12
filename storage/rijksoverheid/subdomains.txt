@@ -977,7 +977,6 @@ a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
 a-feeds.loonaangifteketen.nl
 a-feeds.ocwincijfers.nl
-a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
@@ -1038,7 +1037,6 @@ a-opendata.koopoverheid.nl
 a-opendata.loonaangifteketen.nl
 a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
-a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
@@ -1202,7 +1200,6 @@ a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
 a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
-a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
@@ -7960,7 +7957,6 @@ feeds.prosecutionservice.nl
 feeds.raadvoorcultuur.nl
 feeds.rdi.nl
 feeds.regelhulp.nl
-feeds.rijksdienstcn.com
 feeds.rijksinspecties.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
@@ -14053,7 +14049,6 @@ opendata.rdi.nl
 opendata.rdw.nl
 opendata.regelhulp.nl
 opendata.rijksbegroting.nl
-opendata.rijksdienstcn.com
 opendata.rijksinspecties.nl
 opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
