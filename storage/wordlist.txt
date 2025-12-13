@@ -12,8 +12,8 @@ english
 api
 acceptatie
 _autodiscover._tcp
-a-www
 cms
+a-www
 staging
 intranet
 magazines

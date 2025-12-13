@@ -979,7 +979,6 @@ a-feeds.loonaangifteketen.nl
 a-feeds.ocwincijfers.nl
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
-a-feeds.rijksvastgoedbedrijf.nl
 a-feeds.royal-house.nl
 a-feeds.sbv-z.nl
 a-feeds.socialestabiliteit.nl
@@ -1039,7 +1038,6 @@ a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
-a-opendata.rijksvastgoedbedrijf.nl
 a-opendata.royal-house.nl
 a-opendata.sbv-z.nl
 a-opendata.socialestabiliteit.nl
@@ -1202,7 +1200,6 @@ a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
-a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
 a-www.socialestabiliteit.nl
@@ -7962,7 +7959,6 @@ feeds.regelhulp.nl
 feeds.rijksinspecties.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
-feeds.rijksvastgoedbedrijf.nl
 feeds.royal-house.nl
 feeds.rsj.nl
 feeds.ruimtelijkeordening.nl
@@ -14050,7 +14046,6 @@ opendata.rijksbegroting.nl
 opendata.rijksinspecties.nl
 opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
-opendata.rijksvastgoedbedrijf.nl
 opendata.royal-house.nl
 opendata.rsj.nl
 opendata.ruimtelijkeordening.nl
