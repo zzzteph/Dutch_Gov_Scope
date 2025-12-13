@@ -531,7 +531,6 @@ digikoppeling2
 test.digikoppeling
 tmv
 a-api
-sf
 auth.services
 subsidie
 ibw
@@ -2098,6 +2097,7 @@ openims
 pesticidesdatabase
 public.mst-acc
 public.mst
+sf
 test-mam
 toelatingen
 emailcluster
