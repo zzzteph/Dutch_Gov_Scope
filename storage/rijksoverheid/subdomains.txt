@@ -5849,6 +5849,7 @@ dashboards.ipi.rijkscloud.nl
 dashboards.ndw.nu
 dashboards.prev.cbs.nl
 dashboards.rdi.rijkscloud.nl
+dashboards.rijksoverheid.nl
 dashboards.secdemo.rijkscloud.nl
 dashboards.sodm.rijkscloud.nl
 dashboards.staging.ndw.nu
@@ -6324,6 +6325,8 @@ dfront.rijkscloud.nl
 dfu-challenge.github.io
 dfw.maps.arcgis.com
 dgbw15.rvo.nl
+dgdoo-preview.dashboards.rijksoverheid.nl
+dgdoo.dashboards.rijksoverheid.nl
 dggf.nl
 dgh-admin.pleio.nl
 dgh-chat.pleio.nl
@@ -7952,7 +7955,6 @@ feeds.onderwijsinspectie.nl
 feeds.oud.platformrijksoverheidonline.nl
 feeds.over.leeroverzicht.nl
 feeds.papiamentu.belastingdienst-cn.nl
-feeds.persberichten.rijksoverheid.nl
 feeds.prosecutionservice.nl
 feeds.raadvoorcultuur.nl
 feeds.rdi.nl
@@ -10900,6 +10902,7 @@ landelijkeadviescommissieplaatsing.nl
 landelijkemeldkamer.org
 landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 landelijkregisterkinderopvang.nl
+landingpage.rijksoverheid.nl
 landingzone.rdw.nl
 landsat.arcgis.com
 landsat2.arcgis.com
@@ -12992,10 +12995,6 @@ naarnederland.nl
 nabb.databank.nl
 nabs.officielebekendmakingen.nl
 nac.nctv.nl
-nac014001.mgmtdwr.rijksoverheid.nl
-nac014003.mgmtdwr.rijksoverheid.nl
-nac024002.mgmtdwr.rijksoverheid.nl
-nac024004.mgmtdwr.rijksoverheid.nl
 nadev.arcgis.com
 naip.arcgis.com
 naipdev.imagery1.arcgis.com
@@ -14040,7 +14039,6 @@ opendata.oud.platformrijksoverheidonline.nl
 opendata.over.leeroverzicht.nl
 opendata.papiamento.two-acs.com
 opendata.papiamentu.belastingdienst-cn.nl
-opendata.persberichten.rijksoverheid.nl
 opendata.platformrijksoverheid.nl
 opendata.preprod.kvk.nl
 opendata.prosecutionservice.nl
@@ -16274,6 +16272,7 @@ relay-2s.rws.nl
 relay-3.rws.nl
 relay.acp.kvk.nl
 relay.pbl.nl
+relay.rijksoverheid.nl
 relay1.c2000.nl
 relay2.c2000.nl
 relayaccept.commabz.nl
@@ -18369,6 +18368,7 @@ t-magazines.rijksoverheid.nl
 t-magazinesintern.rijksoverheid.nl
 t-next-cms.contenttoolsrijksoverheid.nl
 t-old-cms.contenttoolsrijksoverheid.nl
+t-opendata.rijksoverheid.nl
 t-persberichten.rijksoverheid.nl
 t-ps.platformrijksoverheid.nl
 t-site1.defensie.nl

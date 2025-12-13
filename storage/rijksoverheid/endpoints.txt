@@ -4318,6 +4318,7 @@ https://dashboards.ilt.rijkscloud.nl
 https://dashboards.ipi.rijkscloud.nl
 https://dashboards.ndw.nu
 https://dashboards.rdi.rijkscloud.nl
+https://dashboards.rijksoverheid.nl
 https://dashboards.staging.ndw.nu
 https://dashboards.test.analyse.ilt.rijkscloud.nl
 https://dashboards.test.cbs.nl
@@ -4603,6 +4604,8 @@ https://dezi.nl
 https://dfg.datawonen.nl
 https://dfu-challenge.github.io
 https://dfw.maps.arcgis.com
+https://dgdoo-preview.dashboards.rijksoverheid.nl
+https://dgdoo.dashboards.rijksoverheid.nl
 https://dggf.nl
 https://dgh-admin.pleio.nl
 https://dgh-chat.pleio.nl
@@ -5550,7 +5553,6 @@ https://feeds.onderwijsinspectie.nl
 https://feeds.oud.platformrijksoverheidonline.nl
 https://feeds.over.leeroverzicht.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
-https://feeds.persberichten.rijksoverheid.nl
 https://feeds.prosecutionservice.nl
 https://feeds.raadvoorcultuur.nl
 https://feeds.rdi.nl
@@ -8691,7 +8693,6 @@ https://opendata.onderwijsinspectie.nl
 https://opendata.oud.platformrijksoverheidonline.nl
 https://opendata.over.leeroverzicht.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
-https://opendata.persberichten.rijksoverheid.nl
 https://opendata.platformrijksoverheid.nl
 https://opendata.prosecutionservice.nl
 https://opendata.raadvoorcultuur.nl

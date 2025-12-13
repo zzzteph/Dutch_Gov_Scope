@@ -316,6 +316,7 @@ av
 ts
 accounts
 cbs
+dashboards
 ebms
 uag
 vpn1
@@ -511,7 +512,6 @@ web.acc
 ws
 db
 cn
-dashboards
 dashboards.test
 jeugdmonitor
 micollab
@@ -665,6 +665,7 @@ online
 a-magazinesintern
 a-static
 handleiding
+relay
 acc-geo
 acc-inloggen
 acceptatie.esb
@@ -4829,6 +4830,8 @@ a-voor1
 a-voor2
 a-wiki
 bastion
+dgdoo-preview.dashboards
+dgdoo.dashboards
 dns-fw1
 dns-fw4
 dns-ns1
@@ -4840,19 +4843,14 @@ dns-web300
 domeinnaamregistratie
 e-mailabonnementen
 e-maildiensten
-feeds.persberichten
 i-voor1
 informatiepuntkinderopvangtoeslag
+landingpage
 magazines-ienw
 med-srv20
-nac014001.mgmtdwr
-nac014003.mgmtdwr
-nac024002.mgmtdwr
-nac024004.mgmtdwr
 o-magazinesintern
 o-static
 o-voor1
-opendata.persberichten
 persberichten
 ps-www
 site5
@@ -4862,6 +4860,7 @@ site8
 t-feeds
 t-magazines
 t-magazinesintern
+t-opendata
 t-persberichten
 t-static
 t-voor1
@@ -12645,7 +12644,6 @@ mapservices
 models
 monovi
 pebbles
-relay
 roadsfromrio
 snippet.acc.icer
 snippet.acc.monovi
