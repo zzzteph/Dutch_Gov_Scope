@@ -3,6 +3,7 @@ acc-etl.rijkswaterstaat.nl
 acc-geo.rijkswaterstaat.nl
 acc-inloggen.rijkswaterstaat.nl
 acc-maps.rijkswaterstaat.nl
+acc.pgr-ext.rijkswaterstaat.nl
 acc.web-static.rijkswaterstaat.nl
 acc.werkenbij.api.rijkswaterstaat.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
@@ -73,6 +74,7 @@ ont.staging.werkenbij.rijkswaterstaat.nl
 open.rijkswaterstaat.nl
 opleiding.spin2.rijkswaterstaat.nl
 overstroomik.rijkswaterstaat.nl
+pgr-ext.rijkswaterstaat.nl
 prd.web-static.rijkswaterstaat.nl
 preprod.iam.rijkswaterstaat.nl
 protide.rijkswaterstaat.nl
@@ -111,6 +113,7 @@ test.bezoekerscentrum.rijkswaterstaat.nl
 test.botova.rijkswaterstaat.nl
 test.esb.rijkswaterstaat.nl
 test.spin2.rijkswaterstaat.nl
+test.tws-esb.rijkswaterstaat.nl
 tmxweb.rijkswaterstaat.nl
 toegangderden.rijkswaterstaat.nl
 topdesk-iv.rijkswaterstaat.nl

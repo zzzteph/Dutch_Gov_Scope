@@ -1693,6 +1693,7 @@ acc.orangecorners.com
 acc.paas-portal.odc-noord.nl
 acc.pbl.nl
 acc.pergamon.huygens.knaw.nl
+acc.pgr-ext.rijkswaterstaat.nl
 acc.pianoo.nl
 acc.picard.mijn.overheid.nl
 acc.playground.stelselcatalogus.nl
@@ -14866,6 +14867,7 @@ pgbverwerkingservicetest.entreepgb.svb.nl
 pgdi.nl
 pge.nctv.nl
 pgodemo.test.zm.irealisatie.nl
+pgr-ext.rijkswaterstaat.nl
 pgv.cbr.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
@@ -18836,6 +18838,7 @@ test.tno.nl
 test.tooling.pleio.nl
 test.toolkittaal.gebruikercentraal.nl
 test.tradewithnl.nl
+test.tws-esb.rijkswaterstaat.nl
 test.tws-esb.rws.nl
 test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl

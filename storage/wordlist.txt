@@ -688,6 +688,7 @@ staging.werkenbij
 techniekacademie
 test.bezoekerscentrum
 test.esb
+test.tws-esb
 tmxweb
 toegangderden
 topdesk-iv
@@ -4874,6 +4875,7 @@ a-server
 landelijkevastgoeddag
 acc-ags
 acc-etl
+acc.pgr-ext
 acc.web-static
 acc.werkenbij.api
 acceptatie-bmm2016
@@ -4919,6 +4921,7 @@ ont.live.werkenbij
 ont.staging
 ont.staging.werkenbij
 opleiding.spin2
+pgr-ext
 prd.web-static
 preprod.iam
 staging.acc.static.werkenbij
@@ -14908,7 +14911,6 @@ test-inloggen
 test.digitaltwin.infra-17.azure.grid
 test.lma
 test.nlhull
-test.tws-esb
 test.vm-05.azure.grid
 testresultaten-webdav.vm-05.azure.grid
 testresultaten.vm-05.azure.grid

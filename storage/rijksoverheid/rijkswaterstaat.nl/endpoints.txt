@@ -2,11 +2,15 @@ http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://data-acc.rijkswaterstaat.nl
 http://meridian.rijkswaterstaat.nl
 http://prs.rijkswaterstaat.nl
+http://test.tws-esb.rijkswaterstaat.nl
+http://topdesk-wvl.rijkswaterstaat.nl
+http://topdesk.rijkswaterstaat.nl
 http://tws-esb.rijkswaterstaat.nl
 http://viya.rijkswaterstaat.nl
 https://acc-ags.rijkswaterstaat.nl
 https://acc-geo.rijkswaterstaat.nl
 https://acc-maps.rijkswaterstaat.nl
+https://acc.pgr-ext.rijkswaterstaat.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://acceptatie.botova.rijkswaterstaat.nl
 https://acceptatie.esb.rijkswaterstaat.nl
@@ -37,6 +41,7 @@ https://nieuwsbrieven.rijkswaterstaat.nl
 https://open.rijkswaterstaat.nl
 https://opleiding.spin2.rijkswaterstaat.nl
 https://overstroomik.rijkswaterstaat.nl
+https://pgr-ext.rijkswaterstaat.nl
 https://preprod.iam.rijkswaterstaat.nl
 https://protide.rijkswaterstaat.nl
 https://rhel8.wabinfo.rijkswaterstaat.nl
@@ -69,8 +74,6 @@ https://test.spin2.rijkswaterstaat.nl
 https://tmxweb.rijkswaterstaat.nl
 https://toegangderden.rijkswaterstaat.nl
 https://topdesk-iv.rijkswaterstaat.nl
-https://topdesk-wvl.rijkswaterstaat.nl
-https://topdesk.rijkswaterstaat.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
 https://vpr.rijkswaterstaat.nl
 https://wabinfo.rijkswaterstaat.nl
