@@ -8,7 +8,7 @@ http://english-data.rvo.nl
 http://ezines.rvo.nl
 http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
-http://intra-acc.rvo.nl
+http://login.rvo.nl
 http://prod.rvo.nl
 http://test-english.rvo.nl
 http://test-website.rvo.nl
@@ -56,6 +56,7 @@ https://iam.mijnoctrooi.mypage.rvo.nl
 https://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
+https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
@@ -66,16 +67,15 @@ https://kennisbank-tst.rvo.nl
 https://kennisdelen.rvo.nl
 https://kgr.mijn.rvo.nl
 https://kostenkentallen.rvo.nl
-https://login.rvo.nl
 https://mc-upnl.mijn.rvo.nl
 https://mijn.rvo.nl
 https://mijnoctrooi.mypage.rvo.nl
 https://mijnoctrooi.rvo.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring.efiling.mijnoctrooi.rvo.nl
+https://mp.rvo.nl
 https://nieuws.rvo.nl
 https://offshorewind.rvo.nl
-https://ojb.rvo.nl
 https://polaris.rvo.nl
 https://prizmo-web.rvo.nl
 https://prod.wetten.rvo.nl
@@ -89,7 +89,6 @@ https://rvo.nl
 https://sharingknowledge.rvo.nl
 https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
 https://statistiek.rvo.nl
-https://stglb.rvo.nl
 https://sys-staging-mijn.rvo.nl
 https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
@@ -105,6 +104,7 @@ https://vorijkbo-tst.rvo.nl
 https://wba-acc.rvo.nl
 https://wba.rvo.nl
 https://webform.rvo.nl
+https://werkenbij.rvo.nl
 https://wetten.rvo.nl
 https://www.economicdiplomacy.rvo.nl
 https://www.infographics.rvo.nl

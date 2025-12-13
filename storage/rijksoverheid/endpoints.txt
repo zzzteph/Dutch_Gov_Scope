@@ -509,7 +509,6 @@ http://inspiratie.uwv.nl
 http://inspire.rivm.nl
 http://int-prod-01.flevoland.nl
 http://intern.afm.nl
-http://intra-acc.rvo.nl
 http://intra.dans.knaw.nl
 http://intranet-acc.vfpf.nl
 http://intranet.ctgb.nl
@@ -556,6 +555,7 @@ http://login-uzi.pilot.uzi-online.minvws.nl
 http://login-uzi.proeftuin.uzi-online.irealisatie.nl
 http://login.irealisatie.nl
 http://login.nba.nl
+http://login.rvo.nl
 http://lokalisatie-demo.proeftuin.gf.irealisatie.nl
 http://longread.brabant.nl
 http://lookapp.tno.nl
@@ -6543,6 +6543,7 @@ https://internetdienstensiam.svb.nl
 https://interspeciesinfo.com
 https://interventiedatabase.nl
 https://intpatch.omgevingswet.overheid.nl
+https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
@@ -7318,7 +7319,6 @@ https://login.pp2.digid.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://login.pzp.nl
 https://login.rivm.nl
-https://login.rvo.nl
 https://login.rvr.org
 https://login.scp.nl
 https://login.skal.nl
@@ -7984,6 +7984,7 @@ https://mooibeweging.nl
 https://moordzaak.om.nl
 https://motorstoiclathe.github.io
 https://move-rdh.nl
+https://mp.rvo.nl
 https://mp.ssc-campus.nl
 https://mpc-l2.tropomi.eu
 https://mpc-vdaf-server.tropomi.eu
@@ -8460,7 +8461,6 @@ https://oidji.nl
 https://oig.tno.nl
 https://oinregister.logius.nl
 https://oioportaal.ssr.nl
-https://ojb.rvo.nl
 https://old.belastingles.nl
 https://old.caop.nl
 https://old.keringhuis.nl
@@ -10549,7 +10549,6 @@ https://stepui.azure.dnb.nl
 https://sterftedashboard-regionaal.vzinfo.nl
 https://sterkmedezeggenschap.nl
 https://steunpunt.caop.nl
-https://stglb.rvo.nl
 https://sth.staging.rijksapplicaties.nl
 https://stichting.caop.nl
 https://stichtingrpo.nl
@@ -11816,6 +11815,7 @@ https://werkenbij.nipv.nl
 https://werkenbij.nvao.net
 https://werkenbij.reclassering.nl
 https://werkenbij.rijkswaterstaat.nl
+https://werkenbij.rvo.nl
 https://werkenbij.rws.nl
 https://werkenbij.skal.nl
 https://werkenbij.staatsbosbeheer.nl
