@@ -3785,6 +3785,7 @@ https://charged3-hub-ifs-mpr.hub.arcgis.com
 https://charriere.huygens.knaw.nl
 https://charterbank.huygens.knaw.nl
 https://chascogis.maps.arcgis.com
+https://chat-acc.servicedesk.ssc-ict.nl
 https://chat-ai.s-bb.nl
 https://chat-dashboard.pleio.nl
 https://chat-dev.rijkscloud.nl
@@ -5566,7 +5567,6 @@ https://feeds.rsj.nl
 https://feeds.samenwerkingrijknoord.nl
 https://feeds.sbv-z.nl
 https://feeds.socialestabiliteit.nl
-https://feeds.ssc-ict.nl
 https://feeds.staatscommissierechtsstaat.nl
 https://feeds.staatsexamensnt2.nl
 https://feeds.startmetoesorichtlijnen.nl
@@ -8707,7 +8707,6 @@ https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
 https://opendata.slo.nl
 https://opendata.socialestabiliteit.nl
-https://opendata.ssc-ict.nl
 https://opendata.staatscommissierechtsstaat.nl
 https://opendata.staatsexamensnt2.nl
 https://opendata.startmetoesorichtlijnen.nl
