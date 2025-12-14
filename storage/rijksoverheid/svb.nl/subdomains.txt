@@ -9,6 +9,7 @@ RDSapplications05.svb.nl
 RDSapplications06.svb.nl
 RDSapplications07.svb.nl
 ac.sa.svb.nl
+actransitc.svb.nl
 apim-icc-a.svb.nl
 apim-icc-t.svb.nl
 apim-icc.svb.nl
@@ -91,6 +92,7 @@ mijnsvb-a.svb.nl
 mijnsvb-loadtest.svb.nl
 mijnsvb.svb.nl
 mijntpw-a.svb.nl
+mijntpw-modern-a.svb.nl
 mijntpw.svb.nl
 mijnwmo-siam-a.svb.nl
 mijnwmo-siam.svb.nl

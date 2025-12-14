@@ -5318,6 +5318,7 @@ RDSapplications05
 RDSapplications06
 RDSapplications07
 ac.sa
+actransitc
 apim-icc-a
 apim-icc-t
 apim-icc
@@ -5385,6 +5386,7 @@ mijnsvb-a
 mijnsvb-loadtest
 mijnsvb
 mijntpw-a
+mijntpw-modern-a
 mijntpw
 mijnwmo-siam-a
 mijnwmo-siam
