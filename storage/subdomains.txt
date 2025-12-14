@@ -7966,7 +7966,6 @@ feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
 feeds.scp.nl
 feeds.socialestabiliteit.nl
-feeds.sodm.nl
 feeds.ssc-ict.nl
 feeds.staatscommissierechtsstaat.nl
 feeds.staatsexamensnt2.nl
@@ -14055,7 +14054,6 @@ opendata.sbv-z.nl
 opendata.scp.nl
 opendata.slo.nl
 opendata.socialestabiliteit.nl
-opendata.sodm.nl
 opendata.ssc-ict.nl
 opendata.staatscommissierechtsstaat.nl
 opendata.staatsexamensnt2.nl
@@ -18822,6 +18820,7 @@ test.s-bb.nl
 test.samenmetenaanluchtkwaliteit.nl
 test.schadedoormijnbouw.nl
 test.secure.geodata2.nationaalgeoregister.nl
+test.sodm.nl
 test.spin2.rijkswaterstaat.nl
 test.staatvenz.nl
 test.statistieken.coa.nl
