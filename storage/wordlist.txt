@@ -710,6 +710,7 @@ digital
 download.mail
 dc
 accp
+k8s
 apps-a
 live
 mft-acc
@@ -5291,14 +5292,12 @@ accp-bp
 accp-dol
 accp-dor
 accp-dorbeheer
+accp-infra
 bp
 dol
 dor-api
 dor
 dorbeheer
-escrow-dol
-escrow-dor
-escrow-dorbeheer
 ltu-admin
 ltu-api
 opkopersregister
@@ -5676,7 +5675,6 @@ ipsec
 ipsec.services
 ise
 k8s-cw
-k8s
 mail.services
 markt-overheid
 meeting.services

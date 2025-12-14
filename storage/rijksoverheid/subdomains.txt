@@ -2121,6 +2121,7 @@ accp-cmpreview-www.pzp.nl
 accp-dol.stopheling.nl
 accp-dor.stopheling.nl
 accp-dorbeheer.stopheling.nl
+accp-infra.stopheling.nl
 accp-login.pzp.nl
 accp-pzpdirect.pzp.nl
 accp-rh-a-pzpdirect.pzp.nl
@@ -7477,9 +7478,6 @@ esb.rijkswaterstaat.nl
 esb.rws.nl
 esb01.schadefonds.nl
 esb02.schadefonds.nl
-escrow-dol.stopheling.nl
-escrow-dor.stopheling.nl
-escrow-dorbeheer.stopheling.nl
 esg.cito.nl
 esi-df.tno.nl
 esi-redmine.hex.tno.nl
@@ -10154,6 +10152,7 @@ jv.nza.nl
 k3cr-productie.suwinet.uwv.nl
 k8s-cw.acm.nl
 k8s.acm.nl
+k8s.stopheling.nl
 k8s.svm-admin.cnap-am4.intranet.rws.nl
 k8s.svm-alkmaar.cnap-am4.intranet.rws.nl
 k8s.svm-bourtange.cnap-am2.intranet.rws.nl
