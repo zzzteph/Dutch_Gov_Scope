@@ -7976,7 +7976,6 @@ feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
 feeds.topsectoren.nl
 feeds.tuchtcollege-gezondheidszorg.nl
-feeds.uziregister.nl
 feeds.versterkenweerbaarheid.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
@@ -14063,7 +14062,6 @@ opendata.topcorridors.nl
 opendata.topsectoren.nl
 opendata.tuchtcollege-gezondheidszorg.nl
 opendata.tweedekamer.nl
-opendata.uziregister.nl
 opendata.versterkenweerbaarheid.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
@@ -17999,6 +17997,7 @@ static.tst6.mijn.overheid.nl
 static.tst7.mijn.overheid.nl
 static.tst8.mijn.overheid.nl
 static.tst9.mijn.overheid.nl
+static.uziregister.nl
 static.voedingscentrum.nl
 static.wegwijzer.overheid.nl
 static.werkenaanjouwtoekomst.nl

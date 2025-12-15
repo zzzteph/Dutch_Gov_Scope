@@ -72,6 +72,7 @@ enterpriseregistration
 ns2
 beeldbank
 open
+static
 digikoppeling
 www2
 inloggen
@@ -80,7 +81,6 @@ www.test
 maps
 fs
 old
-static
 mdm
 geoservices
 dwo

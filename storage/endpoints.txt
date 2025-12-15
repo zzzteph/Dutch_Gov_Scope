@@ -5573,7 +5573,6 @@ https://feeds.toezichtsociaaldomein.nl
 https://feeds.topcorridors.nl
 https://feeds.topsectoren.nl
 https://feeds.tuchtcollege-gezondheidszorg.nl
-https://feeds.uziregister.nl
 https://feeds.versterkenweerbaarheid.nl
 https://feeds.volkshuisvestingnederland.nl
 https://feeds.voordejeugdenhetgezin.nl
@@ -8712,7 +8711,6 @@ https://opendata.topcorridors.nl
 https://opendata.topsectoren.nl
 https://opendata.tuchtcollege-gezondheidszorg.nl
 https://opendata.tweedekamer.nl
-https://opendata.uziregister.nl
 https://opendata.versterkenweerbaarheid.nl
 https://opendata.volkshuisvestingnederland.nl
 https://opendata.voordejeugdenhetgezin.nl
@@ -10471,6 +10469,7 @@ https://static.tst.live.rijkswaterstaat.nl
 https://static.tst.live.werkenbij.rijkswaterstaat.nl
 https://static.tst.staging.rijkswaterstaat.nl
 https://static.tst.staging.werkenbij.rijkswaterstaat.nl
+https://static.uziregister.nl
 https://static.voedingscentrum.nl
 https://static.wegwijzer.overheid.nl
 https://static.werkenaanjouwtoekomst.nl
