@@ -23,8 +23,8 @@ vpn
 login
 www-acc
 werkenbij
-data
 link
+data
 prod
 portal
 formulieren
@@ -171,6 +171,7 @@ mijn-acc
 sdm
 repository
 sso
+secure
 service
 access
 developer
@@ -207,7 +208,6 @@ zaaksysteem-acc
 synergy
 dashboard
 geoweb
-secure
 nieuwsbrieven
 wiki
 leren

@@ -16,6 +16,7 @@ helloid.vechtstromen.nl
 hybrid.vechtstromen.nl
 intranet.vechtstromen.nl
 kaarten.vechtstromen.nl
+link.vechtstromen.nl
 localhost.vechtstromen.nl
 login.vechtstromen.nl
 mail.vechtstromen.nl
@@ -24,6 +25,7 @@ mta-sts.vechtstromen.nl
 open.vechtstromen.nl
 pop.vechtstromen.nl
 redactie.vechtstromen.nl
+secure.vechtstromen.nl
 securetest.vechtstromen.nl
 smtp.vechtstromen.nl
 support.vechtstromen.nl
