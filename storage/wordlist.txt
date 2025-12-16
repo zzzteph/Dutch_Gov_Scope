@@ -304,6 +304,7 @@ smtp2
 start
 video
 wus
+acceptatie.api
 blogs
 geoserver
 proxy
@@ -496,7 +497,6 @@ vergaderen
 webapps
 webdiensten
 wus2
-acceptatie.api
 zoek
 acs
 beeldbank-bo
