@@ -1030,6 +1030,7 @@ http://wpo-webservice.staging.rijksapplicaties.nl
 http://wvlegislature.maps.arcgis.com
 http://www-ac.medicijnkosten.nl
 http://www-ac.zorgcijfersdatabank.nl
+http://www-ac.zorginstituutnederland.nl
 http://www-ac.zorginzicht.nl
 http://www-test2.werkenbijdeoverheid.nl
 http://www.accept-betalen.nba.nl
@@ -11981,7 +11982,6 @@ https://www-a.huurcommissie.nl
 https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.gipdatabank.nl
 https://www-ac.horizonscangeneesmiddelen.nl
-https://www-ac.zorginstituutnederland.nl
 https://www-acc.cbs.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl
 https://www-acc.dcat-ap-donl.nl
