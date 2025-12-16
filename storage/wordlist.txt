@@ -165,6 +165,7 @@ www-dev2
 www-p2
 www-tst2
 www2-p
+www2-p2
 www-a
 forms
 mijn-acc
@@ -203,7 +204,6 @@ kaart
 csoacct
 csotest
 odc
-www2-p2
 zaaksysteem-acc
 synergy
 dashboard

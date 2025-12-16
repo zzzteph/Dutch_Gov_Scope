@@ -52,6 +52,7 @@ http://acc.mijn.logerenbijdeboswachter.nl
 http://acc.praatmeemetdeoverheid.nl
 http://acc.webtooliso20400.nl
 http://acc.woo.irealisatie.nl
+http://acc.zorginzicht.nl
 http://accclap.rws.nl
 http://accept-betalen.nba.nl
 http://acceptatie-data.rivm.nl
@@ -1029,6 +1030,7 @@ http://wpo-webservice.staging.rijksapplicaties.nl
 http://wvlegislature.maps.arcgis.com
 http://www-ac.medicijnkosten.nl
 http://www-ac.zorgcijfersdatabank.nl
+http://www-ac.zorginzicht.nl
 http://www-test2.werkenbijdeoverheid.nl
 http://www.accept-betalen.nba.nl
 http://www.acceptatie.clusterbuster.nl
@@ -2033,7 +2035,6 @@ https://acc.tradewithnl.nl
 https://acc.validatie.nl
 https://acc.wegwijzer.overheid.nl
 https://acc.www.mycoa.nl
-https://acc.zorginzicht.nl
 https://acc.zsmgame.om.nl
 https://acc2.bio-overheid.nl
 https://acc2.cip-overheid.nl
@@ -11981,7 +11982,6 @@ https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.gipdatabank.nl
 https://www-ac.horizonscangeneesmiddelen.nl
 https://www-ac.zorginstituutnederland.nl
-https://www-ac.zorginzicht.nl
 https://www-acc.cbs.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl
 https://www-acc.dcat-ap-donl.nl
