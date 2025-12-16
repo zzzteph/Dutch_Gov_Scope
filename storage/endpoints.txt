@@ -623,6 +623,7 @@ http://mobile-services.uwv.nl
 http://modis.arcgis.com
 http://mon-saint-quentin.hub.arcgis.com
 http://monarchy-in-turmoil.huygens.knaw.nl
+http://mondgezondheidsdashboard.vzinfo.nl
 http://monitorarbeid-data.tno.nl
 http://monitoring.huc.knaw.nl
 http://mpox-who-goarn-depoloyment-dashboard-who.hub.arcgis.com
@@ -839,6 +840,7 @@ http://stats.globalentry-rtp.nl
 http://stats.proeftuin.gf.irealisatie.nl
 http://status.proeftuin.gf.irealisatie.nl
 http://sterftecijfers.rivm.nl
+http://sterftedashboard-regionaal.vzinfo.nl
 http://sterftedashboard.vzinfo.nl
 http://stevekerrison.github.io
 http://stijlgids.cibg.nl
@@ -1119,6 +1121,7 @@ http://yuichi-bookstore.octodemo.github.io
 http://zeeland.databank.nl
 http://zeelandscan.databank.nl
 http://zetookdeknopom.nl
+http://ziektelast.vzinfo.nl
 http://zoekdienst-preprod.overheid.nl
 http://zoeken.hdsr.nl
 http://zorgmonitor.databank.nl
@@ -7941,7 +7944,6 @@ https://mogin.ndw.nu
 https://mohdrahil-wiz.github.io
 https://moline.maps.arcgis.com
 https://momfer.meertens.knaw.nl
-https://mondgezondheidsdashboard.vzinfo.nl
 https://mondriaanfonds.nl
 https://monet-dev.dnb.nl
 https://monet-tst.dnb.nl
@@ -10527,7 +10529,6 @@ https://stepui-acc.azure.dnb.nl
 https://stepui-dev.azure.dnb.nl
 https://stepui-tst.azure.dnb.nl
 https://stepui.azure.dnb.nl
-https://sterftedashboard-regionaal.vzinfo.nl
 https://sterkmedezeggenschap.nl
 https://steunpunt.caop.nl
 https://sth.staging.rijksapplicaties.nl
@@ -13599,7 +13600,6 @@ https://zhailuxu.github.io
 https://zhc.leerwerkloket.nl
 https://zichtopnl.nl
 https://zichtopwijken.nl
-https://ziektelast.vzinfo.nl
 https://zip-acc.zonmw.nl
 https://zip.zonmw.nl
 https://zittingsagenda.raadvanstate.nl
