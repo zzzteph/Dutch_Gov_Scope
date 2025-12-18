@@ -959,7 +959,6 @@ a-feeds.a-english.igj.nl
 a-feeds.a-english.rijksdienstcn.com
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
-a-feeds.arboportaal.nl
 a-feeds.autoriteitnvs.nl
 a-feeds.bigregister.nl
 a-feeds.cbg-meb.nl
@@ -1017,7 +1016,6 @@ a-opendata.a-english.igj.nl
 a-opendata.a-english.rijksdienstcn.com
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
-a-opendata.arboportaal.nl
 a-opendata.autoriteitnvs.nl
 a-opendata.bigregister.nl
 a-opendata.cbg-meb.nl
@@ -1175,7 +1173,6 @@ a-web-plesk81.tno.nl
 a-wiki.rijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
-a-www.arboportaal.nl
 a-www.autoriteitnvs.nl
 a-www.bigregister.nl
 a-www.cbg-meb.nl
@@ -7860,7 +7857,6 @@ feeds.advisorycommitteeinternationallaw.nl
 feeds.aeriusproducten.nl
 feeds.agroberichtenbuitenland.nl
 feeds.aivd.nl
-feeds.arboportaal.nl
 feeds.autoriteitnvs.nl
 feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
@@ -13919,7 +13915,6 @@ opendata.advisorycommitteeinternationallaw.nl
 opendata.aeriusproducten.nl
 opendata.agroberichtenbuitenland.nl
 opendata.aivd.nl
-opendata.arboportaal.nl
 opendata.arcgis.com
 opendata.autoriteitnvs.nl
 opendata.beheerautoriteitwaddenzee.nl
