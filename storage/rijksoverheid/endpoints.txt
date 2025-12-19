@@ -5502,7 +5502,6 @@ https://feeds.elkeregiotelt.nl
 https://feeds.emm-online.nl
 https://feeds.energierijkdenhaag.nl
 https://feeds.english.aivd.nl
-https://feeds.english.belastingdienst-cn.nl
 https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
 https://feeds.english.cultureelerfgoed.nl
@@ -5553,7 +5552,6 @@ https://feeds.om.nl
 https://feeds.onderwijsinspectie.nl
 https://feeds.oud.platformrijksoverheidonline.nl
 https://feeds.over.leeroverzicht.nl
-https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.prosecutionservice.nl
 https://feeds.raadvoorcultuur.nl
 https://feeds.rdi.nl
@@ -8617,7 +8615,6 @@ https://opendata.elkeregiotelt.nl
 https://opendata.emm-online.nl
 https://opendata.energierijkdenhaag.nl
 https://opendata.english.aivd.nl
-https://opendata.english.belastingdienst-cn.nl
 https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
 https://opendata.english.cultureelerfgoed.nl
@@ -8673,7 +8670,6 @@ https://opendata.ondernemersplein.nl
 https://opendata.onderwijsinspectie.nl
 https://opendata.oud.platformrijksoverheidonline.nl
 https://opendata.over.leeroverzicht.nl
-https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.platformrijksoverheid.nl
 https://opendata.prosecutionservice.nl
 https://opendata.raadvoorcultuur.nl

@@ -38,10 +38,10 @@ beheer
 app
 sip
 connect
-feeds.english
 portaal
-opendata.english
+feeds.english
 meet
+opendata.english
 www.acceptatie
 kennisbank
 jaarverslag
@@ -990,8 +990,6 @@ feature-demo-root.dev
 feature-ease-installer.dev
 wadsup
 asycuda
-feeds.papiamentu
-opendata.papiamentu
 abat.acc
 abo.digilevering
 abr.acc
