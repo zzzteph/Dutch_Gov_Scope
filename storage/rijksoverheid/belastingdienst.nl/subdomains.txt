@@ -156,6 +156,8 @@ duo2.belastingdienst.nl
 duurzameescaperoom-light-vr.belastingdienst.nl
 duurzameescaperoom-vr.belastingdienst.nl
 dva.belastingdienst.nl
+e.acc.videobellen.belastingdienst.nl
+e.videobellen.belastingdienst.nl
 efm.belastingdienst.nl
 eladownload.belastingdienst.nl
 emm.belastingdienst.nl
@@ -349,6 +351,7 @@ mailer2.belastingdienst.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 merkportaal.belastingdienst.nl
+mijn-aanvraag.belastingdienst.nl
 mijn-acc1.belastingdienst.nl
 mijn-c1.tst.belastingdienst.nl
 mijn-c2.tst.belastingdienst.nl
@@ -457,6 +460,8 @@ nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 ns2.belastingdienst.nl
 ns3.belastingdienst.nl
+ns4-mgmt.belastingdienst.nl
+ns4-mgt.belastingdienst.nl
 ns4.belastingdienst.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
@@ -611,6 +616,7 @@ sva.prod.belastingdienst.nl
 t-test.belastingdienst.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
+test-psproxy.belastingdienst.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl

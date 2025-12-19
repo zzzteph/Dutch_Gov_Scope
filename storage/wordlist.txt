@@ -294,6 +294,8 @@ b2b
 b2btest-gemnet
 b2btest-osb
 b2btest-rijks
+e.acc.videobellen
+e.videobellen
 govroam
 mijn.acc
 ns3
@@ -551,8 +553,6 @@ dnadatabank
 ras
 vpn3
 acceptatie.raadplegen
-e.acc.videobellen
-e.videobellen
 mailings
 public
 schemas
@@ -1303,6 +1303,7 @@ mailer1
 mailer2
 mc
 mc.ont
+mijn-aanvraag
 mijn-c1.tst
 mijn-c2.tst
 mijn-perf.acc
@@ -1402,6 +1403,8 @@ nat_o5001vmfavapp.ont
 nat_o5002vmfavapp.ont
 nple-test
 nple
+ns4-mgmt
+ns4-mgt
 o5000proxvapp.ont
 o5001proxvapp.ont
 o5002proxvapp.ont
@@ -1539,6 +1542,7 @@ sva.prod
 t-test
 te205vcciw12.dmzota.ont
 te205vcciw12f.dmzota.ont
+test-psproxy
 test2gbav
 testdigitaalvergaderen
 testdigitaalvergaderen.ont

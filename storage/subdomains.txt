@@ -6987,6 +6987,7 @@ e-mjv.nl
 e-recruitment.tno.nl
 e-tol.nl
 e-tracking.nipv.nl
+e.acc.videobellen.belastingdienst.nl
 e.acc.videobellen.douane.nl
 e.acc.videobellen.toeslagen.nl
 e.aofondsrijk.nl
@@ -7012,6 +7013,7 @@ e.staatsbosbeheer.nl
 e.svdj.nl
 e.topshuis.rws.nl
 e.valys.nl
+e.videobellen.belastingdienst.nl
 e.videobellen.douane.nl
 e.videobellen.toeslagen.nl
 e.werkenaanjouwtoekomst.nl
@@ -12158,6 +12160,7 @@ migratie.rivm.nl
 migratieaws.pleio.nl
 mijn-a.nipv.nl
 mijn-a.uwv.nl
+mijn-aanvraag.belastingdienst.nl
 mijn-academie.rechtenoverheid.nl
 mijn-acc.hetcak.nl
 mijn-acc.igj.nl
@@ -13430,6 +13433,8 @@ ns22.knaw.nl
 ns3.belastingdienst.nl
 ns3.brabant.nl
 ns3.rdw.nl
+ns4-mgmt.belastingdienst.nl
+ns4-mgt.belastingdienst.nl
 ns4.belastingdienst.nl
 ns4.brabant.nl
 ns4.rdw.nl
@@ -18577,6 +18582,7 @@ test-preview.digid.nl
 test-private-pages-2.interstellar-tars.github.io
 test-private-pages.interstellar-tars.github.io
 test-prognosemodelzw.databank.nl
+test-psproxy.belastingdienst.nl
 test-pzpdirect.pzp.nl
 test-register.aerius.nl
 test-rh-a-pzpdirect.pzp.nl
