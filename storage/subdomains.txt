@@ -1552,7 +1552,6 @@ acc.bics.nl
 acc.bio-overheid.nl
 acc.boekingszuil.logerenbijdeboswachter.nl
 acc.broloket.nl
-acc.bromonitor.nl
 acc.bronhouderportaal-bro.nl
 acc.btp.sso3w.nl
 acc.bvd.logius.nl
@@ -18622,7 +18621,6 @@ test.bezoekerscentrum.rijkswaterstaat.nl
 test.bezoekerscentrum.rws.nl
 test.bidbook.eu
 test.botova.rijkswaterstaat.nl
-test.bromonitor.nl
 test.burgernet.nl
 test.caelus-tool.nl
 test.catto-ent1.github.io
@@ -21345,7 +21343,6 @@ www.brandam.nl
 www.brandweer.nl
 www.brba.nl
 www.broloket.nl
-www.bromonitor.nl
 www.bron.nl
 www.bronbeek.nl
 www.bronhouderportaal-bro.nl
