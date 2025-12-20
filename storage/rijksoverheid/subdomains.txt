@@ -2059,7 +2059,6 @@ acceptatie.wioservice.ilent.nl
 acceptatie.woz-it.waarderingskamer.nl
 acceptatie.wreg.rivm.nl
 acceptatie.wvsv.nipv.nl
-acceptatie.zoek.bodemambities.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.diergeneeskunderegister.nl
 acceptatie.zoeken.gratisvog.nl
@@ -23116,7 +23115,6 @@ zml-t.cito.nl
 zml.cito.nl
 zoek-acc.officielebekendmakingen.nl
 zoek-preprod.officielebekendmakingen.nl
-zoek.bodemambities.nl
 zoek.officielebekendmakingen.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl

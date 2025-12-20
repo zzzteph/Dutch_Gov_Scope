@@ -499,7 +499,6 @@ vergaderen
 webapps
 webdiensten
 wus2
-zoek
 acs
 beeldbank-bo
 dso
@@ -1705,7 +1704,6 @@ acceptatie.advieswijzer
 acceptatie.tea
 advieswijzer
 tea
-acceptatie.zoek
 acs-acpt
 api-acpt
 aris
@@ -12556,6 +12554,7 @@ web03-nabs
 www-preprod
 zoek-acc
 zoek-preprod
+zoek
 acc-klas
 keten.sophie
 klas
