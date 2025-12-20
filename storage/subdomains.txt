@@ -1499,7 +1499,6 @@ acc-tdv.rivm.nl
 acc-themasites.pbl.nl
 acc-thuisbezorgd.mijnrijkspas.nl
 acc-tvs.coa.nl
-acc-v2.bronhouderportaal-bro.nl
 acc-veldmonitoring.rivm.nl
 acc-venus-exact.minszw.nl
 acc-vergelijkingskaart.afm.nl
@@ -6221,7 +6220,6 @@ dev.api-sec.p-direkt.nl
 dev.api.brp.mfaservices.nl
 dev.api.p-direkt.nl
 dev.at.rws.nl
-dev.bronhouderportaal-bro.nl
 dev.cbrnsecurity.nctv.nl
 dev.cdn.consular.mfaservices.nl
 dev.centruminternationaalrecht.nl
@@ -17722,8 +17720,6 @@ sslvpn.eerstekamer.nl
 sslvpn.rekenkamer.nl
 sslvpn.test.atc.lvnl.nl
 sso-acc2.bronhouderportaal-bro.nl
-sso-demo2.bronhouderportaal-bro.nl
-sso-dev.bronhouderportaal-bro.nl
 sso-lyncdiscover.sso-noord.nl
 sso-noord.nl
 sso-osiris.rivm.nl

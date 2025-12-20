@@ -30,10 +30,10 @@ portal
 e
 formulieren
 werkplek
-dev
 redactie
 smtp
 apps
+dev
 beheer
 app
 sip
@@ -1815,11 +1815,8 @@ viep.acc
 viep
 viep.test
 web.test
-acc-v2
 broker-preprod
 sso-acc2
-sso-demo2
-sso-dev
 test-tno
 www.zoekeentolkvertaler
 zoekeentolkvertaler

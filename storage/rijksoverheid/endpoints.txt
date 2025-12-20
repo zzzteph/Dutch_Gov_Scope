@@ -267,6 +267,7 @@ http://bladertool-tst.ot.cloudservices.kb.nl
 http://bloomsburyfashioncentral.com.access.authkb.kb.nl
 http://bmw9520.waddenzee.nl
 http://books.google.com.access.authkb.kb.nl
+http://broker-preprod.bronhouderportaal-bro.nl
 http://brt.kadaster.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
@@ -1918,7 +1919,6 @@ https://acc-pzpdirect.pzp.nl
 https://acc-referentiegegevens.justid.nl
 https://acc-sonarreg.rws.nl
 https://acc-thuisbezorgd.mijnrijkspas.nl
-https://acc-v2.bronhouderportaal-bro.nl
 https://acc-vergelijkingskaart.afm.nl
 https://acc-vtcc.rivm.nl
 https://acc-webform.rvo.nl
@@ -3549,7 +3549,6 @@ https://broadband-nm-state.hub.arcgis.com
 https://broadband-outreach-odoc.hub.arcgis.com
 https://broadband-wacommerce.hub.arcgis.com
 https://broccoli.globalise.huygens.knaw.nl
-https://broker-preprod.bronhouderportaal-bro.nl
 https://broloket.nl
 https://bromtotaal.politieacademie.nl
 https://bron.nl
@@ -10298,7 +10297,6 @@ https://srv3.dopingautoriteit.nl
 https://ssa.vfpf.nl
 https://ssc-ict.nl
 https://ssc-ictspecials.nl
-https://sso-demo2.bronhouderportaal-bro.nl
 https://sso-noord.nl
 https://sso-webauth.rivm.nl
 https://sso.acc.omgevingswet.overheid.nl
