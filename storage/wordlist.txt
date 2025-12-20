@@ -13,8 +13,8 @@ api
 acceptatie
 _autodiscover._tcp
 cms
-staging
 a-www
+staging
 intranet
 magazines
 vpn
