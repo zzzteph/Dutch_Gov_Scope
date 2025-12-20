@@ -270,7 +270,6 @@ http://books.google.com.access.authkb.kb.nl
 http://brt.kadaster.nl
 http://bureau-reach.nl
 http://bvd.logius.nl
-http://bzv-a.brabant.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
@@ -427,7 +426,6 @@ http://fam.rws.nl
 http://faweb.fa.knaw.nl
 http://federatievesurveillance.rivm.nl
 http://feeds.english.sso3w.nl
-http://felix.brabant.nl
 http://filetypevalidator.labs.dans.knaw.nl
 http://financials.werkenvoornederland.nl
 http://form.letterenfonds.nl
@@ -3612,6 +3610,7 @@ https://bvs.belastingdienst.nl
 https://bvz-waves.databank.nl
 https://bvz.waves.databank.nl
 https://bzkdia.staging.rijksapplicaties.nl
+https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://c19-willcountygis.hub.arcgis.com
 https://c2000-ras01.politie.nl
@@ -5581,6 +5580,7 @@ https://feeds.werkaanuitvoering.nl
 https://feeds.werkenaanonspensioen.nl
 https://feeds.wrr.nl
 https://felix-preproductie.brabant.nl
+https://felix.brabant.nl
 https://feremote.fabricdev.arcgis.com
 https://fez.mfaservices.nl
 https://ffd.pleio.nl
@@ -11493,7 +11493,6 @@ https://vorijkbo-tst.rvo.nl
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn-nabs.officielebekendmakingen.nl
 https://vpn.awti.nl
-https://vpn.brabant.nl
 https://vpn.bureauft.nl
 https://vpn.bzknpr.odc-noord.nl
 https://vpn.bzkprd.odc-noord.nl
@@ -11742,7 +11741,6 @@ https://weerbaarbestuur.nl
 https://weerbaredigitaleoverheid.nl
 https://weerbareoverheid.nl
 https://weg.platformwow.nl
-https://wegen.brabant.nl
 https://wegkenmerken.ndw.nu
 https://wegkenmerken.staging.ndw.nu
 https://wegtotdewetenschap.nl
@@ -13445,7 +13443,6 @@ https://www.weekvanhetgeld.wijzeringeldzaken.nl
 https://www.weerbaarbestuur.nl
 https://www.weerbaredigitaleoverheid.nl
 https://www.weerbareoverheid.nl
-https://www.wegen.brabant.nl
 https://www.wegtotdewetenschap.nl
 https://www.wegwijs-beterbenutten.nl
 https://www.wegwijzermensenhandel.nl
