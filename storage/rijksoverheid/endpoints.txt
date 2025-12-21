@@ -56,6 +56,7 @@ http://acc.zorginzicht.nl
 http://accclap.rws.nl
 http://accept-betalen.nba.nl
 http://acceptatie-data.rivm.nl
+http://acceptatie.ag-dcr.cibg.nl
 http://acceptatie.atlasleefomgeving.nl
 http://acceptatie.atlasnatuurlijkkapitaal.nl
 http://acceptatie.bics.rws.nl
@@ -2123,6 +2124,7 @@ https://acceptatie.behandel.hulpmiddelen.farmatec.nl
 https://acceptatie.behandel.registersocialehygiene.nl
 https://acceptatie.behandel.sbv-z.nl
 https://acceptatie.beheer.bigregister.nl
+https://acceptatie.beheer.developer.cibg.nl
 https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.diergeneeskunderegister.nl
 https://acceptatie.beheer.donorregister.nl
@@ -2141,6 +2143,7 @@ https://acceptatie.cibrapportage.rivm.nl
 https://acceptatie.consuwijzer.nl
 https://acceptatie.crm.nza.nl
 https://acceptatie.designsystem.cibg.nl
+https://acceptatie.developer.cibg.nl
 https://acceptatie.drms.cibg.nl
 https://acceptatie.dustex.nl
 https://acceptatie.esb.rijkswaterstaat.nl
@@ -4689,6 +4692,7 @@ https://digik.s-bb.nl
 https://digikoppeling.bkd.eu
 https://digikoppeling.pleio.nl
 https://digikoppeling.waterschaplimburg.nl
+https://digikoppeling2.cibg.nl
 https://digilab.overheid.nl
 https://digiplein.reclassering.nl
 https://digipoortproxy.rijksapplicaties.nl
@@ -5022,6 +5026,7 @@ https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
 https://ebms.contentbeheer.omgevingswet.overheid.nl
+https://ebms.digikoppeling.cibg.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
 https://ebs-a.knaw.nl
 https://ebs-o.knaw.nl
@@ -8781,6 +8786,7 @@ https://osirisont.politieacademie.nl
 https://osiristst.politieacademie.nl
 https://oss-slu.github.io
 https://oss.developer.overheid.nl
+https://ota.portaal.iga.cibg.nl
 https://oto.cbs.nl
 https://otv-web.proeftuin.gf.irealisatie.nl
 https://oud.mondriaanfonds.nl
@@ -9076,6 +9082,7 @@ https://portaal.competent.cibg.nl
 https://portaal.ctgb.nl
 https://portaal.dienstterugkeerenvertrek.nl
 https://portaal.huurcommissie.nl
+https://portaal.iga.cibg.nl
 https://portaal.ikz.nl
 https://portaal.interventiedatabase.nl
 https://portaal.kcb.nl
@@ -9385,6 +9392,7 @@ https://publicaties.schadefonds.nl
 https://publicaties.ser.nl
 https://publicaties.zonmw.nl
 https://publications.tno.nl
+https://publicwebservices.cibg.nl
 https://publieksverslag.rva.nl
 https://publieksvragen-en-signalen.cvdm.nl
 https://pubqa.arcgis.com
@@ -10836,7 +10844,6 @@ https://test.optimaaldigitaal.gebruikercentraal.nl
 https://test.peppolautoriteit.nl
 https://test.portaal.nlarbeidsinspectie.nl
 https://test.prefect.clustertool.tno.nl
-https://test.publicwebservices.cibg.nl
 https://test.raadvanstate.nl
 https://test.redactie.aquo.nl
 https://test.redactie.gebruikercentraal.nl

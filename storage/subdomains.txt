@@ -1831,6 +1831,7 @@ acceptatie.aanvragen.uziregister.nl
 acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.aerius.nl
+acceptatie.ag-dcr.cibg.nl
 acceptatie.aiz.osiris.rivm.nl
 acceptatie.api.bigregister.nl
 acceptatie.api.kcc.cibg.nl
@@ -1853,6 +1854,7 @@ acceptatie.behandel.isms.cibg.nl
 acceptatie.behandel.registersocialehygiene.nl
 acceptatie.behandel.sbv-z.nl
 acceptatie.beheer.bigregister.nl
+acceptatie.beheer.developer.cibg.nl
 acceptatie.beheer.dezi.nl
 acceptatie.beheer.diergeneeskunderegister.nl
 acceptatie.beheer.donorregister.nl
@@ -1888,6 +1890,7 @@ acceptatie.crios.rivm.nl
 acceptatie.crm.nza.nl
 acceptatie.data.rivm.nl
 acceptatie.designsystem.cibg.nl
+acceptatie.developer.cibg.nl
 acceptatie.digikoppeling-dcr.cibg.nl
 acceptatie.digikoppeling.cibg.nl
 acceptatie.digikoppeling.dictu.nl
@@ -3901,6 +3904,7 @@ beheer.bodemrichtlijn.nl
 beheer.burgernet.nl
 beheer.chat.ind.nl
 beheer.datastelselverduurzamingutiliteit.nl
+beheer.developer.cibg.nl
 beheer.dezi.nl
 beheer.diergeneeskunderegister.nl
 beheer.donorregister.nl
@@ -4376,6 +4380,7 @@ brandam.nl
 brandportal.cbs.nl
 brandweer.nl
 bravo.sbcm.nl
+brba.cibg.nl
 brba.eu
 brba.nl
 brdbeheer.rdw.nl
@@ -6280,6 +6285,7 @@ developer.apim.acc.cloudservices.kb.nl
 developer.apis.acc.rechtspraak.nl
 developer.apis.rechtspraak.nl
 developer.arcgis.com
+developer.cibg.nl
 developer.dataplatform.knmi.nl
 developer.integratieplatform.rdw.nl
 developer.ix.rijkscloud.nl
@@ -7040,6 +7046,7 @@ ebms-ted.nationaalarchief.nl
 ebms.cbs.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
+ebms.digikoppeling.cibg.nl
 ebms.nationaalarchief.nl
 ebms.procesinfrastructuur.nl
 ebms.service.bta.omgevingswet.overheid.nl
@@ -14186,6 +14193,7 @@ ot-vgvhr-wv-ar.rvo.nl
 ot.cloudservices.kb.nl
 ota-bbox-encr-tvs.rvo.nl
 ota.kadaster.nl
+ota.portaal.iga.cibg.nl
 otagrnxm003.duo.nl
 otagrnxm004.duo.nl
 otamam.duo.nl
@@ -15055,6 +15063,7 @@ portaal.ctgb.nl
 portaal.dienstterugkeerenvertrek.nl
 portaal.huurcommissie.nl
 portaal.ictu.nl
+portaal.iga.cibg.nl
 portaal.ikz.nl
 portaal.interventiedatabase.nl
 portaal.kcb.nl
@@ -19459,6 +19468,7 @@ uptime.bureauft.nl
 uptime.bureauwbtv.nl
 uptime.huc.knaw.nl
 uptime.rvr.org
+uptrends.webservices.lrza.cibg.nl
 uracimamaps.maps.arcgis.com
 urbanworkshop.maps.arcgis.com
 uren.acc.irealisatie.nl
