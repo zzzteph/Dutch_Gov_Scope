@@ -115,6 +115,7 @@ http://admin.globalentry-rtp.nl
 http://admin.tst-rds.nl
 http://adminpure.knaw.nl
 http://afro-gis-center-who.hub.arcgis.com
+http://afspraken.cbs.nl
 http://ag-dcr.cibg.nl
 http://agalerij.kb.nl
 http://agenda-regulatoria-rio-aguas-bienio-2025-2026-pcrj.hub.arcgis.com
@@ -264,6 +265,7 @@ http://bibliotheek.gezondeleefomgeving.nl
 http://biomap-mass-eoeea.hub.arcgis.com
 http://birdviewer.rws.nl
 http://bladertool-tst.ot.cloudservices.kb.nl
+http://blaiseish2.cbs.nl
 http://bloomsburyfashioncentral.com.access.authkb.kb.nl
 http://bmw9520.waddenzee.nl
 http://books.google.com.access.authkb.kb.nl
@@ -343,6 +345,7 @@ http://d7.rvo.nl
 http://dandiweek2023.tno.nl
 http://dashboard.procesinfrastructuur.nl
 http://dashboards.prev.cbs.nl
+http://dashboards.test.cbs.nl
 http://data-acc.rijkswaterstaat.nl
 http://data-acc.rivm.nl
 http://data-lfucg.hub.arcgis.com
@@ -2387,7 +2390,6 @@ https://afreg.staging.rijksapplicaties.nl
 https://african-american-experiences-in-los-angeles-csungis.hub.arcgis.com
 https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
-https://afspraken.cbs.nl
 https://afsprakenstelsel.etoegang.nl
 https://afvalcirculair.nl
 https://afvalmonitor.databank.nl
@@ -4333,7 +4335,6 @@ https://dashboards.rdi.rijkscloud.nl
 https://dashboards.rijksoverheid.nl
 https://dashboards.staging.ndw.nu
 https://dashboards.test.analyse.ilt.rijkscloud.nl
-https://dashboards.test.cbs.nl
 https://dashboardsdev-api.arcgis.com
 https://dashview.rivm.nl
 https://daszogefietst.nl
@@ -5317,6 +5318,7 @@ https://eu-wetgevingsmonitor.realisatieibds.nl
 https://eu.odc.pleio.nl
 https://eu.pleio.nl
 https://eu1-iot.arcgis.com
+https://eu2016.cbs.nl
 https://eubtw.belastingdienst.nl
 https://euc1-geocode.arcgis.com
 https://euc1-tiledbasemaps.arcgis.com
@@ -6178,6 +6180,7 @@ https://historical1-stg.arcgis.com
 https://historical1.arcgis.com
 https://historisch.cbs.nl
 https://historische-luchtfoto.flevoland.nl
+https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://hld.rws.nl
 https://hogeraad.nl
@@ -7699,8 +7702,8 @@ https://mi-cert.nl
 https://micollab.cbs.nl
 https://micollab.mensenrechten.nl
 https://micollabtest.cbs.nl
+https://microdata-events.cbs.nl
 https://microdata.cbs.nl
-https://microdata2.cbs.nl
 https://microfoonbanden.nl
 https://middenbrabant.leerwerkloket.nl
 https://middenbrabant.lerenenwerken.nl
@@ -8423,7 +8426,6 @@ https://oefen-veiligheidsregio.lcms.nl
 https://oefen-waterschappen.lcms.nl
 https://oefen.productie.lcms.nl
 https://oefenstembiljet.nl
-https://oefenvragenlijst.cbs.nl
 https://oeps.rdw.nl
 https://oesorichtlijnen.nl
 https://ofallon.maps.arcgis.com
@@ -11180,7 +11182,6 @@ https://ug.test.chm-cbd.net
 https://uh1.maps.arcgis.com
 https://uht.pleio.nl
 https://uitelkaarmetkinderen.nl
-https://uitgaven.cbs.nl
 https://uitgeverij.nipv.nl
 https://uitkomstgerichtezorg.nl
 https://uitspraken.rechtspraak.nl
@@ -11834,7 +11835,6 @@ https://werkplek.services.acm.nl
 https://werkplek.vallei-veluwe.nl
 https://werkplek.vechtstromen.nl
 https://werkplek.waterschaplimburg.nl
-https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://werkplekvpn.parlement.nl
@@ -13599,6 +13599,7 @@ https://zoeken.werkenaanonspensioen.nl
 https://zoeken.zorgaanbiedersportaal.nl
 https://zoekservice.overheid.nl
 https://zonmw.nl
+https://zoomews.cbs.nl
 https://zorgaanbiedersportaal.nl
 https://zorgakkoorden.nl
 https://zorgbeeld.nza.nl

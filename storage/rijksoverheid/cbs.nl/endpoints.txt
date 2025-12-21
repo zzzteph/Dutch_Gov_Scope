@@ -1,8 +1,11 @@
 http://adc.cbs.nl
 http://adc4.cbs.nl
+http://afspraken.cbs.nl
 http://beta-dataportal.cbs.nl
 http://beta-odata4.cbs.nl
+http://blaiseish2.cbs.nl
 http://dashboards.prev.cbs.nl
+http://dashboards.test.cbs.nl
 http://mail.dev.cbs.nl
 http://mijn-api.cbs.nl
 http://odata4.cbs.nl
@@ -17,7 +20,6 @@ https://adc-aer-p.cbs.nl
 https://adc3.cbs.nl
 https://adc7.cbs.nl
 https://afasmail.cbs.nl
-https://afspraken.cbs.nl
 https://antwoord.cbs.nl
 https://argon2.cbs.nl
 https://azwstatline.cbs.nl
@@ -43,7 +45,6 @@ https://content.cbs.nl
 https://content1.cbs.nl
 https://contentadapter.cbs.nl
 https://dashboards.cbs.nl
-https://dashboards.test.cbs.nl
 https://databestanden.cbs.nl
 https://dataderden.cbs.nl
 https://dataportaal.cbs.nl
@@ -56,6 +57,7 @@ https://doemee.cbs.nl
 https://dossierportal.cbs.nl
 https://download.cbs.nl
 https://egain-com.cbs.nl
+https://eu2016.cbs.nl
 https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
 https://geodata.cbs.nl
@@ -66,6 +68,7 @@ https://helpmee.cbs.nl
 https://highcharts-acc.cbs.nl
 https://highcharts.cbs.nl
 https://historisch.cbs.nl
+https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://ihg.cbs.nl
 https://isi.cbs.nl
@@ -89,8 +92,8 @@ https://mbg.cbs.nl
 https://mediaportal.cbs.nl
 https://micollab.cbs.nl
 https://micollabtest.cbs.nl
+https://microdata-events.cbs.nl
 https://microdata.cbs.nl
-https://microdata2.cbs.nl
 https://mig.cbs.nl
 https://mijn.cbs.nl
 https://mkbstatline.cbs.nl
@@ -99,7 +102,6 @@ https://mlzstatline.cbs.nl
 https://mvstat.cbs.nl
 https://nationaalcohortonderzoek.cbs.nl
 https://odata.cbs.nl
-https://oefenvragenlijst.cbs.nl
 https://onderhoud.cbs.nl
 https://onderzoek.cbs.nl
 https://onderzoek2.cbs.nl
@@ -127,7 +129,6 @@ https://test.cerberus.cbs.nl
 https://tunnel.cbs.nl
 https://tunnel1.cbs.nl
 https://uag.cbs.nl
-https://uitgaven.cbs.nl
 https://uitwisseling.cbs.nl
 https://upload.cbs.nl
 https://videos.cbs.nl
@@ -135,7 +136,6 @@ https://vocabs.cbs.nl
 https://webserver.cbs.nl
 https://welkombij.cbs.nl
 https://werkplek.cbs.nl
-https://werkplekom.cbs.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://www-acc.cbs.nl
@@ -144,3 +144,4 @@ https://www.databestanden.cbs.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
 https://www1.cbs.nl
+https://zoomews.cbs.nl

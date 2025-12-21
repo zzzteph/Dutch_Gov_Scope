@@ -34,6 +34,7 @@ beta.opendata.cbs.nl
 betalinkeddata.cbs.nl
 betaopendata.cbs.nl
 blaise.cbs.nl
+blaiseish2.cbs.nl
 blaisesupport.cbs.nl
 brandportal.cbs.nl
 btb.cbs.nl
@@ -84,6 +85,7 @@ highcharts-acc.cbs.nl
 highcharts-test.cbs.nl
 highcharts.cbs.nl
 historisch.cbs.nl
+historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
 hybridexo.cbs.nl
 ihg.cbs.nl
@@ -101,6 +103,7 @@ jmopendata.cbs.nl
 klanttoegang.cbs.nl
 lc.cbs.nl
 licensemanagerblaise.cbs.nl
+listserv.cbs.nl
 livecharts.cbs.nl
 login.cbs.nl
 login.databestanden.cbs.nl
@@ -115,6 +118,7 @@ mbg.cbs.nl
 mediaportal.cbs.nl
 micollab.cbs.nl
 micollabtest.cbs.nl
+microdata-events.cbs.nl
 microdata.cbs.nl
 microdata2.cbs.nl
 microdatavpn.cbs.nl
@@ -202,3 +206,4 @@ www.databestanden.cbs.nl
 www.historisch.cbs.nl
 www.ihg.cbs.nl
 www1.cbs.nl
+zoomews.cbs.nl
