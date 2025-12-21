@@ -1,3 +1,5 @@
+_dmarc.mail.cggp.nl
+_mta-sts.mail.cggp.nl
 cggp.nl
 mail.cggp.nl
 mta-sts.mail.cggp.nl

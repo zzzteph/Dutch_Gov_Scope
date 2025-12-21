@@ -1988,6 +1988,8 @@ www.ihg
 zoomews
 ncp-api-1
 toetsingonline
+_dmarc.mail
+_mta-sts.mail
 mta-sts.mail
 acc-lrza.services
 acceptatie.api.kcc

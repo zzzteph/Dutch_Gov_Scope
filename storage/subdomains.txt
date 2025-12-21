@@ -845,6 +845,7 @@ _dmarc.cparegister.nl
 _dmarc.donorregister.nl
 _dmarc.kb.nl
 _dmarc.logius.nl
+_dmarc.mail.cggp.nl
 _dmarc.nvwa.nl
 _dmarc.nza.nl
 _dmarc.rijksoverheid.nl
@@ -853,6 +854,7 @@ _dmarc.rvig.nl
 _dmarc.ssc-ict.nl
 _dmarc.wkr.nl
 _dmarc.wodc.nl
+_mta-sts.mail.cggp.nl
 a-aag.sap.tno.nl
 a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
