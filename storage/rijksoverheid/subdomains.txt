@@ -7859,7 +7859,6 @@ feeds.belastingdienst-cn.nl
 feeds.bigregister.nl
 feeds.campagnetoolkits.nl
 feeds.commissiemijnbouwschade.nl
-feeds.commissievanaanbestedingsexperts.nl
 feeds.ctgb.nl
 feeds.cultureelerfgoed.nl
 feeds.cybersecurityraad.nl
@@ -13915,7 +13914,6 @@ opendata.business.gov.nl
 opendata.campagnetoolkits.nl
 opendata.cbs.nl
 opendata.commissiemijnbouwschade.nl
-opendata.commissievanaanbestedingsexperts.nl
 opendata.ctgb.nl
 opendata.cultureelerfgoed.nl
 opendata.cybersecurityraad.nl
