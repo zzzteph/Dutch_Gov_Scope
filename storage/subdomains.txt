@@ -891,6 +891,7 @@ a-cluster9.a-cms.platformrijksoverheid.nl
 a-cms.contenttoolsrijksoverheid.nl
 a-cms.defensie.nl
 a-cms.platformrijksoverheid.nl
+a-cms.prod1.contenttoolsrijksoverheid.nl
 a-cms.rijksoverheid.nl
 a-cms1.defensie.nl
 a-cms1.platformrijksoverheid.nl
@@ -1036,6 +1037,7 @@ a-opendata.royal-house.nl
 a-opendata.sbv-z.nl
 a-opendata.socialestabiliteit.nl
 a-origin.api.contenttoolsrijksoverheid.nl
+a-origin.api.prod1.contenttoolsrijksoverheid.nl
 a-os.tno.nl
 a-ourplan.tno.nl
 a-outsystems.tsn.tno.nl
@@ -5221,6 +5223,7 @@ cms.minienm.nl
 cms.mycoa.nl
 cms.o.extern.minszw.nl
 cms.platformrijksoverheid.nl
+cms.prod1.contenttoolsrijksoverheid.nl
 cms.productenmeldwijzer.nl
 cms.projects.rvo.nl
 cms.rdw.nl
@@ -14145,6 +14148,7 @@ organizations.test.vm-05.azure.grid.rws.nl
 organizations.vm-05.azure.grid.rws.nl
 origin-metadata.maptiles.arcgis.com
 origin.api.contenttoolsrijksoverheid.nl
+origin.api.prod1.contenttoolsrijksoverheid.nl
 origin.klimaatscenarios-data.knmi.nl
 oroc.knaw.nl
 orv.rdw.nl

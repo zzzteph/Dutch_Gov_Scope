@@ -15,8 +15,10 @@ http://AutoDiscover.hdsr.nl
 http://Telewerken.rechtspraak.nl
 http://V14.rws.nl
 http://_dc-mx.d43e04744c5a.politieenwetenschap.nl
+http://a-cms.prod1.contenttoolsrijksoverheid.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
+http://a-origin.api.prod1.contenttoolsrijksoverheid.nl
 http://a-redactie.tno.nl
 http://a-web-plesk81.tno.nl
 http://aanvraag-uzi.ciz.nl
@@ -309,6 +311,7 @@ http://cloudstorage-koop.overheid.nl
 http://clusiuscorrespondence.huygens.knaw.nl
 http://cmdi2rdf.meertens.knaw.nl
 http://cms-eef.waterschaplimburg.nl
+http://cms.prod1.contenttoolsrijksoverheid.nl
 http://cn-o-no-apigee-lux.espacenet.com
 http://cn.dnb.nl
 http://cname-benchmarkonderwijs.databank.nl
@@ -683,6 +686,7 @@ http://opendatadev.arcgis.com
 http://opleiding.sbcm.nl
 http://opmaat.sdu.nl.access.authkb.kb.nl
 http://orac.test.gf.irealisatie.nl
+http://origin.api.prod1.contenttoolsrijksoverheid.nl
 http://otl.rws.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl

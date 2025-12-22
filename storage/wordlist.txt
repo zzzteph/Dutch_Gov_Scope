@@ -2066,9 +2066,12 @@ www2.zorgcsp
 mijnloket-acc
 mijnloket
 ons
+a-cms.prod1
 a-next-cms
 a-old-cms
 a-origin.api
+a-origin.api.prod1
+cms.prod1
 o1-api
 o1-cms
 o1-next-cms
@@ -2091,6 +2094,7 @@ o5-next-cms
 o5-old-cms
 old-cms
 origin.api
+origin.api.prod1
 t-api
 t-next-cms
 t-old-cms

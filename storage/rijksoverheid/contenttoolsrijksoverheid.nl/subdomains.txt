@@ -1,10 +1,13 @@
 a-api.contenttoolsrijksoverheid.nl
 a-cms.contenttoolsrijksoverheid.nl
+a-cms.prod1.contenttoolsrijksoverheid.nl
 a-next-cms.contenttoolsrijksoverheid.nl
 a-old-cms.contenttoolsrijksoverheid.nl
 a-origin.api.contenttoolsrijksoverheid.nl
+a-origin.api.prod1.contenttoolsrijksoverheid.nl
 api.contenttoolsrijksoverheid.nl
 cms.contenttoolsrijksoverheid.nl
+cms.prod1.contenttoolsrijksoverheid.nl
 contenttoolsrijksoverheid.nl
 o1-api.contenttoolsrijksoverheid.nl
 o1-cms.contenttoolsrijksoverheid.nl
@@ -28,6 +31,7 @@ o5-next-cms.contenttoolsrijksoverheid.nl
 o5-old-cms.contenttoolsrijksoverheid.nl
 old-cms.contenttoolsrijksoverheid.nl
 origin.api.contenttoolsrijksoverheid.nl
+origin.api.prod1.contenttoolsrijksoverheid.nl
 t-api.contenttoolsrijksoverheid.nl
 t-cms.contenttoolsrijksoverheid.nl
 t-next-cms.contenttoolsrijksoverheid.nl
