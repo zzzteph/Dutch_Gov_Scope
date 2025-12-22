@@ -154,6 +154,7 @@ survey
 externemail
 m365
 password
+mx2
 share
 api-acc
 a-magazines
@@ -211,7 +212,6 @@ geoweb
 nieuwsbrieven
 wiki
 leren
-mx2
 iam
 transfer
 monitor
