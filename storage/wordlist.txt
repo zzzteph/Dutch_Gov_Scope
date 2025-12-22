@@ -43,11 +43,10 @@ meet
 www.acceptatie
 kennisbank
 jaarverslag
-feeds.english
 zoeken
 remote
 tst
-opendata.english
+feeds.english
 publicaties
 sts
 elearning
@@ -55,6 +54,7 @@ ftp
 _dmarc
 www.acc
 cpanel
+opendata.english
 services
 hybrid
 cdn

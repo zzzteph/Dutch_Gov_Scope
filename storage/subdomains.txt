@@ -7863,7 +7863,6 @@ feeds.bigregister.nl
 feeds.campagnetoolkits.nl
 feeds.commissiemijnbouwschade.nl
 feeds.ctgb.nl
-feeds.cultureelerfgoed.nl
 feeds.cybersecurityraad.nl
 feeds.dcc-ienw.nl
 feeds.defensie.nl
@@ -7877,7 +7876,6 @@ feeds.elkeregiotelt.nl
 feeds.emm-online.nl
 feeds.energierijkdenhaag.nl
 feeds.english.aivd.nl
-feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.ilent.nl
 feeds.english.kiesraad.nl
@@ -13918,7 +13916,6 @@ opendata.campagnetoolkits.nl
 opendata.cbs.nl
 opendata.commissiemijnbouwschade.nl
 opendata.ctgb.nl
-opendata.cultureelerfgoed.nl
 opendata.cybersecurityraad.nl
 opendata.dcc-ienw.nl
 opendata.defensie.nl
@@ -13932,7 +13929,6 @@ opendata.elkeregiotelt.nl
 opendata.emm-online.nl
 opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
-opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.ilent.nl
 opendata.english.kiesraad.nl
