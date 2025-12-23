@@ -3332,6 +3332,7 @@ auth.acm.nl
 auth.dataplatform.knmi.nl
 auth.denkmee.zuid-holland.nl
 auth.developer.overheid.nl
+auth.dezi.nl
 auth.dictu.nl
 auth.hogeraad.nl
 auth.ibki.nl
@@ -7863,7 +7864,6 @@ feeds.commissiemijnbouwschade.nl
 feeds.ctgb.nl
 feeds.cybersecurityraad.nl
 feeds.defensie.nl
-feeds.dezi.nl
 feeds.dji.nl
 feeds.dus-i.nl
 feeds.duurzame-infra.nl
@@ -13915,7 +13915,6 @@ opendata.commissiemijnbouwschade.nl
 opendata.ctgb.nl
 opendata.cybersecurityraad.nl
 opendata.defensie.nl
-opendata.dezi.nl
 opendata.dji.nl
 opendata.dus-i.nl
 opendata.duurzame-infra.nl
@@ -15668,6 +15667,7 @@ proxy-epbd-w1091p0012.ep-online.nl
 proxy-epbd-w1091p0035.ep-online.nl
 proxy-epbd.ep-online.nl
 proxy-lab.rvb.rijkscloud.nl
+proxy.auth.dezi.nl
 proxy.brabant.nl
 proxy.cbs.nl
 proxy.geodata.alterra.nl
@@ -19525,6 +19525,7 @@ uzi.rivm.nl
 uzi.test.brba.nl
 uzi.testuitslagen.coronatest.nl
 uzipas.abonnee.dezi.nl
+uzipas.auth.dezi.nl
 uzipas.lir.cibg.nl
 uzipas.mijn.dezi.nl
 uzipas.portaal.ncpeh.nl

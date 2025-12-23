@@ -2986,6 +2986,7 @@ https://authenticatieapi-a.cito.nl
 https://authenticatieapi-o.cito.nl
 https://authenticatieapi-t.cito.nl
 https://authenticatieapi.cito.nl
+https://authlab.dezi.nl
 https://authorization.acceptatie.kadaster.nl
 https://authorization.kadaster.nl
 https://authorization.ontwikkeling.kadaster.nl
@@ -5496,7 +5497,6 @@ https://feeds.bigregister.nl
 https://feeds.campagnetoolkits.nl
 https://feeds.commissiemijnbouwschade.nl
 https://feeds.defensie.nl
-https://feeds.dezi.nl
 https://feeds.dji.nl
 https://feeds.dus-i.nl
 https://feeds.duurzame-infra.nl
@@ -8597,7 +8597,6 @@ https://opendata.campagnetoolkits.nl
 https://opendata.cbs.nl
 https://opendata.commissiemijnbouwschade.nl
 https://opendata.defensie.nl
-https://opendata.dezi.nl
 https://opendata.dji.nl
 https://opendata.dus-i.nl
 https://opendata.duurzame-infra.nl
