@@ -27,7 +27,9 @@ anm-acc.dictu.nl
 anoniem.netftp.dictu.nl
 apimgr-acc.dictu.nl
 apiportal-acc.dictu.nl
+apiportal.dictu.nl
 apitraffic-acc.dictu.nl
+apitraffic.dictu.nl
 apps.dictu.nl
 artifact-acc.rd.dictu.nl
 asb.datasluis.dictu.nl
@@ -86,17 +88,21 @@ ez-rvo-ba-prd-2020.dictu.nl
 ez-rvo-ba-prd.dictu.nl
 f1130a.dictu.nl
 f1130b.dictu.nl
+fhub-ont.dictu.nl
 fhub.dictu.nl
 ftp-a-ags.dictu.nl
 ftp-a.ags.dictu.nl
 ftp-p.ags.dictu.nl
 gcms-client-certificaat.dictu.nl
+gisauth-acc.dictu.nl
+gisextern-acc.dictu.nl
 gisextern.dictu.nl
 gitlab-acc.dictu.nl
 gitlab.dictu.nl
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
+idp3-acc.dictu.nl
 idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
 iltbuildserver.dictu.nl
@@ -151,6 +157,8 @@ ns1.dictu.nl
 ns1.gslb.dictu.nl
 ns2.dictu.nl
 ns2.gslb.dictu.nl
+oauth-apitraffic-acc.dictu.nl
+pam.dictu.nl
 panter001.dictu.nl
 panter001a-relay.dictu.nl
 panter001a.dictu.nl
@@ -183,6 +191,8 @@ rijkspasocsp2-acc.dictu.nl
 rijkspasocsp2.dictu.nl
 rijksweb.digikoppeling.diginetwerk.dictu.nl
 rwo.dictu.nl
+s2s-vpn.dictu.nl
+s2s-vpna.dictu.nl
 servicedesk.dictu.nl
 sf-aaa.dictu.nl
 sf-szc.dictu.nl
@@ -241,6 +251,7 @@ www.connect.dictu.nl
 www.dictu.nl
 www.large.netftp.dictu.nl
 www.netftp.dictu.nl
+www.pms.dictu.nl
 www.prod-nl-nvwa-dkb-sign.dictu.nl
 www.tpaw.dictu.nl
 www.tvs.dictu.nl

@@ -16,7 +16,9 @@ https://SFS.dictu.nl
 https://acc.dictu.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.rd.dictu.nl
+https://apiportal.dictu.nl
 https://apitraffic-acc.dictu.nl
+https://apitraffic.dictu.nl
 https://asb.datasluis.dictu.nl
 https://auth-acc.dictu.nl
 https://auth.dictu.nl
@@ -26,7 +28,10 @@ https://bpp.datasluis.dictu.nl
 https://datasluis.dictu.nl
 https://dictu.nl
 https://engine.fhub.dictu.nl
+https://fhub-ont.dictu.nl
 https://fhub.dictu.nl
+https://gisauth-acc.dictu.nl
+https://gisextern-acc.dictu.nl
 https://gisextern.dictu.nl
 https://ibg.datasluis.dictu.nl
 https://idppoc-ont.dictu.nl
@@ -35,11 +40,10 @@ https://inkoopplein.dictu.nl
 https://inmemoriam.dictu.nl
 https://intranet-demo.dictu.nl
 https://jira.dictu.nl
-https://klussenbank-acc.dictu.nl
 https://klussenbank.dictu.nl
 https://mailing.dictu.nl
-https://mft.webftp.dictu.nl
 https://mijntoken.dictu.nl
+https://oauth-apitraffic-acc.dictu.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://prod.dictu.nl

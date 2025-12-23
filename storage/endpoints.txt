@@ -2724,12 +2724,14 @@ https://apikey.ep-online.nl
 https://apim-icc.svb.nl
 https://apim.datalab-01.azure.grid.rws.nl
 https://apiportal.acceptatie.kadaster.nl
+https://apiportal.dictu.nl
 https://apiportal.kadaster.nl
 https://apiportal.rdw.nl
 https://apiportal.test.kadaster.nl
 https://apis.developer.overheid.nl
 https://apis.rechtspraak.nl
 https://apitraffic-acc.dictu.nl
+https://apitraffic.dictu.nl
 https://apk-handboek-oe6eduhgwvm.rdw.nl
 https://apk-handboek.rdw.nl
 https://apm-acc.tweedekamer.nl
@@ -5582,6 +5584,7 @@ https://fez.mfaservices.nl
 https://ffd.pleio.nl
 https://fforw.github.io
 https://fgformulieren-acc.autoriteitpersoonsgegevens.nl
+https://fhub-ont.dictu.nl
 https://fhub.dictu.nl
 https://fi-i.espacenet.com
 https://fi.espacenet.com
@@ -5949,8 +5952,10 @@ https://gis-lasallecoil.opendata.arcgis.com
 https://gis-tfl.opendata.arcgis.com
 https://gis.prolander.nl
 https://gisacademy.maps.arcgis.com
+https://gisauth-acc.dictu.nl
 https://gisbergen-gbergen.hub.arcgis.com
 https://gisdata-delco.hub.arcgis.com
+https://gisextern-acc.dictu.nl
 https://gisextern.dictu.nl
 https://gishubdata-ndgov.hub.arcgis.com
 https://gisportal.rivm.nl
@@ -6951,7 +6956,6 @@ https://klt-qti37-api.cito.nl
 https://klt-qti37-player-a.cito.nl
 https://klt-qti37-player.cito.nl
 https://kluis.cultuurparticipatie.nl
-https://klussenbank-acc.dictu.nl
 https://klussenbank.dictu.nl
 https://km.chm-cbd.net
 https://kms-test.p-direkt.nl
@@ -7692,7 +7696,6 @@ https://mft-acc.svb.nl
 https://mft-e.minbzk.nl
 https://mft-prd.svb.nl
 https://mft.kb.nl
-https://mft.webftp.dictu.nl
 https://mg.chm-cbd.net
 https://mgk.osiris.rivm.nl
 https://mgmt.aerius.nl
@@ -8378,6 +8381,7 @@ https://oa.aaenmaas.nl
 https://oai-harvester.labs.dans.knaw.nl
 https://oap.ind.nl
 https://oat.dev.huc.knaw.nl
+https://oauth-apitraffic-acc.dictu.nl
 https://oauth.k8sauth.pleio.nl
 https://ob.ontwikkel.machtigen.digid.nl
 https://obfcm-beheer.rdw.nl

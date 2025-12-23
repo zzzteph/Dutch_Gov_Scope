@@ -346,6 +346,7 @@ site1
 site2
 site3
 site4
+apiportal
 dns2
 lync
 mail01
@@ -834,7 +835,6 @@ japan
 2021
 aa
 api.test
-apiportal
 data.labs
 labs
 pulse
@@ -2234,6 +2234,7 @@ anoniem.netftp
 apimgr-acc
 apiportal-acc
 apitraffic-acc
+apitraffic
 artifact-acc.rd
 asb.datasluis
 auth-acc
@@ -2283,16 +2284,20 @@ ez-rvo-ba-prd-2020
 ez-rvo-ba-prd
 f1130a
 f1130b
+fhub-ont
 fhub
 ftp-a-ags
 ftp-a.ags
 ftp-p.ags
 gcms-client-certificaat
+gisauth-acc
+gisextern-acc
 gisextern
 gitlab-acc
 ibabs
 ibg.datasluis
 ibg.webftp
+idp3-acc
 idppoc-ont
 idppoc-sp-ont
 iltbuildserver
@@ -2337,6 +2342,8 @@ mytoken
 netftp
 nl-dictu-nhr-sign
 nl-dictu-rijkspas
+oauth-apitraffic-acc
+pam
 panter001
 panter001a-relay
 panter001a
@@ -2368,6 +2375,8 @@ rijkspasocsp2-acc
 rijkspasocsp2
 rijksweb.digikoppeling.diginetwerk
 rwo
+s2s-vpn
+s2s-vpna
 sf-aaa
 sf-szc
 sfs-acc
@@ -2418,6 +2427,7 @@ www.apps
 www.connect
 www.large.netftp
 www.netftp
+www.pms
 www.prod-nl-nvwa-dkb-sign
 www.tpaw
 www.tvs

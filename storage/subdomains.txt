@@ -2897,6 +2897,7 @@ apim01.prd.cloud001.kvk.nl
 apimgr-acc.dictu.nl
 apiportal-acc.dictu.nl
 apiportal.acceptatie.kadaster.nl
+apiportal.dictu.nl
 apiportal.kadaster.nl
 apiportal.rdw.nl
 apiportal.test.kadaster.nl
@@ -2909,6 +2910,7 @@ apiservices99.kvk.nl
 apisimplex.cbs.nl
 apitest.rapportage.rijkscloud.nl
 apitraffic-acc.dictu.nl
+apitraffic.dictu.nl
 apk-handboek-oe6eduhgwvm.rdw.nl
 apk-handboek.rdw.nl
 apkl.huisvoorklokkenluiders.nl
@@ -7967,6 +7969,7 @@ fez.mfaservices.nl
 ffd.pleio.nl
 fforw.github.io
 fgformulieren-acc.autoriteitpersoonsgegevens.nl
+fhub-ont.dictu.nl
 fhub.dictu.nl
 fi-i.espacenet.com
 fi.espacenet.com
@@ -8621,9 +8624,11 @@ gis-release.devops.rvb.rijkscloud.nl
 gis-tfl.opendata.arcgis.com
 gis.prolander.nl
 gisacademy.maps.arcgis.com
+gisauth-acc.dictu.nl
 gisbergen-gbergen.hub.arcgis.com
 gisbim-app-dev.devops.rvb.rijkscloud.nl
 gisdata-delco.hub.arcgis.com
+gisextern-acc.dictu.nl
 gisextern.dictu.nl
 gishubdata-ndgov.hub.arcgis.com
 gisportal.rivm.nl
@@ -9346,6 +9351,7 @@ idp.rvr.org
 idp.sandbox.odc-noord.nl
 idp.staging.dmi-ecosysteem.nl
 idp.test.knaw.nl
+idp3-acc.dictu.nl
 idpmr.rvr.org
 idposr.duo.nl
 idppoc-ont.dictu.nl
@@ -13543,6 +13549,7 @@ oai-service.labs.dans.knaw.nl
 oap.ind.nl
 oat.acc.huc.knaw.nl
 oat.dev.huc.knaw.nl
+oauth-apitraffic-acc.dictu.nl
 oauth.k8sauth.pleio.nl
 ob.acc1.machtigen.digid.nl
 ob.acc2.machtigen.digid.nl
@@ -14307,6 +14314,7 @@ pages.svb.nl
 pages.test.internal.nza.nl
 pagetest.testgame1337.github.io
 pagw.nl
+pam.dictu.nl
 pan.emissieautoriteit.nl
 pand29gbs.bureau.knaw.nl
 panel.uwv.nl
@@ -16724,6 +16732,8 @@ s10013-out.eerstekamer.nl
 s2-acc1.toeslagen.nl
 s2._domainkey.kvk.nl
 s2.toeslagen.nl
+s2s-vpn.dictu.nl
+s2s-vpna.dictu.nl
 s3-acc1.toeslagen.nl
 s3.acc.etoegang.nl
 s3.delivery.pdok.nl
@@ -22354,6 +22364,7 @@ www.platformrijksoverheidonline.nl
 www.platformwow.nl
 www.pleio.nl
 www.plekchecker.rvo.nl
+www.pms.dictu.nl
 www.pns.nl
 www.podium.knaw.nl
 www.politie.nl
