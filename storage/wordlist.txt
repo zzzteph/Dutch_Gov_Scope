@@ -294,6 +294,7 @@ b2b
 b2btest-gemnet
 b2btest-osb
 b2btest-rijks
+b2btest
 e.acc.videobellen
 e.videobellen
 govroam
@@ -470,7 +471,6 @@ artifact-fibt1
 b2b-gemnet
 b2b-osb
 b2b-rijks
-b2btest
 delta
 dva
 fibd1
@@ -2477,9 +2477,14 @@ mvt.exportvalidation.hsm
 nh.acc
 nh
 tarief
+tarief.str4.acc
+validationcalculation
 validationcalculationtest
 vluchtinfo-test
+vluchtinfo
+wpx-80-aix-http.acc
 wpx-80-aix-http
+zoekengebruikstarief
 beoordeling
 formulier-beheer
 gebruiker-beheer

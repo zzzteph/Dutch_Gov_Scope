@@ -1588,6 +1588,7 @@ acc.digid.nl
 acc.digitaltrustcenter.nl
 acc.digitaltwin.rws.nl
 acc.donorgegevens.nl
+acc.douane.nl
 acc.dpr.irealisatie.nl
 acc.drupaloverheid.nl
 acc.dusi.irealisatie.nl
@@ -3673,6 +3674,7 @@ b2btest-rijks.belastingdienst.nl
 b2btest-rijks.douane.nl
 b2btest-rijks.toeslagen.nl
 b2btest.belastingdienst.nl
+b2btest.douane.nl
 b2btest.toeslagen.nl
 b30-micol-a01p.int.ssc-campus.nl
 ba.uwv.nl
@@ -18348,6 +18350,7 @@ tapir.rivm.nl
 tar31.dans.knaw.nl
 taranis.ncsc.nl
 tarief.douane.nl
+tarief.str4.acc.douane.nl
 tas.sbcm.nl
 taskforce-riec-brabantzeeland.nl
 taskforceinfra.nl
@@ -19579,6 +19582,7 @@ validata.justis.nl
 validatie-acc.justid.nl
 validatie.justid.nl
 validatie.nl
+validationcalculation.douane.nl
 validationcalculationtest.douane.nl
 validator-bemobile-aid-triggers-actuators.tcp-acceptatietest.dmz.vm-04.azure.grid.rws.nl
 validator-bemobile-aid-triggers.fcd-acceptatietest.dmz.vm-04.azure.grid.rws.nl
@@ -19890,6 +19894,7 @@ vldbeheer.rdw.nl
 vliegbewijsonbemandeluchtvaartuigencontroleren.rdw.nl
 vliegtuiggeluid.nl
 vluchtinfo-test.douane.nl
+vluchtinfo.douane.nl
 vm-esb.rws.nl
 vm-ivra.ndw.nu
 vnacs.nl
@@ -20889,6 +20894,7 @@ wpo.sbcm.nl
 wpo.staging.rijksapplicaties.nl
 wps.rijksapplicaties.nl
 wps.staging.rijksapplicaties.nl
+wpx-80-aix-http.acc.douane.nl
 wpx-80-aix-http.douane.nl
 wreg.rivm.nl
 wrr.nl
@@ -23126,6 +23132,7 @@ zoeken.werkenaanonspensioen.nl
 zoeken.zorgaanbiedersportaal.nl
 zoeken1.acp.kvk.nl
 zoeken2.acp.kvk.nl
+zoekengebruikstarief.douane.nl
 zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zonmw.nl
