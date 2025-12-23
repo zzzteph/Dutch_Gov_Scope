@@ -248,6 +248,7 @@ http://bd-toegang-acc.topdesk.odc-noord.nl
 http://beeldbank.nationaalarchief.nl
 http://beeldenvanderaad.nl
 http://benchmarkpovo.databank.nl
+http://beoordeling.dus-i.nl
 http://bergfashionlibrary.com.access.authkb.kb.nl
 http://besloten-nba-acc.nba.nl
 http://beta-beslotenwaves.databank.nl
@@ -446,6 +447,7 @@ http://gbatmv.rvo.nl
 http://gdi-a.rvo.nl
 http://gdlo.belastingdienst.nl
 http://gebiedagen2.waddenzee.nl
+http://gebruiker-beheer.dus-i.nl
 http://gegevensbijbesluiten-inlog-acc.overheid.nl
 http://gegevensbijbesluiten-inlog.overheid.nl
 http://gegevensuitwisseling.belastingdienst.nl
@@ -598,6 +600,7 @@ http://maps.fa.knaw.nl
 http://maps.rivm.nl
 http://mapsforfabricdev.arcgis.com
 http://martaonline.maps.arcgis.com
+http://max.dus-i.nl
 http://mcra-test.rivm.nl
 http://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
@@ -3297,7 +3300,6 @@ https://benchmarkregister.datastelselverduurzamingutiliteit.nl
 https://benjamin.nin.knaw.nl
 https://bentwoud.staatsbosbeheer.nl
 https://beo.cbs.nl
-https://beoordeling.dus-i.nl
 https://beoordelingarbeidsrelatie.nl
 https://beoordelingscommissiedopingzaken.nl
 https://bereikbaarheid.ndw.nu
@@ -5780,7 +5782,6 @@ https://gdindex.databank.nl
 https://gds.dopingautoriteit.nl
 https://gdsnext.dopingautoriteit.nl
 https://gebiedsprofielen.zuid-holland.nl
-https://gebruiker-beheer.dus-i.nl
 https://gebruikercentraal.nl
 https://gebruikersbeheer-a.cito.nl
 https://gebruikersbeheer-o.cito.nl
@@ -7584,7 +7585,6 @@ https://maturityscan.gebruikercentraal.nl
 https://mautic.cultuurparticipatie.nl
 https://maven.huygens.knaw.nl
 https://max.acc.mgo.irealisatie.nl
-https://max.dus-i.nl
 https://max.proeftuin.uzi-online.irealisatie.nl
 https://max.test.mgo.irealisatie.nl
 https://mbg-proxy.flevoland.nl
