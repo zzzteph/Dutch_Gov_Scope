@@ -36,9 +36,9 @@ apps
 dev
 beheer
 app
-sip
 connect
 portaal
+sip
 meet
 www.acceptatie
 kennisbank
@@ -461,7 +461,6 @@ oa
 chw
 test.resultaten
 bezwaar
-meldingen
 rivm
 rdgateway
 dataservice
@@ -979,6 +978,7 @@ odctest
 www.testdigitalediensten
 zorgenwerknetwerk
 b-acc
+meldingen
 professional
 profgeodata.dynamic
 profgeodata.static
@@ -2490,14 +2490,13 @@ formulier-beheer
 gebruiker-beheer
 max
 www.acc.mijn
-acceptatiepan
 cher
 ehd
 ehp
 ehp2
 ehpzee
 mivp
-pan
+preprodch4p
 preprodcher
 preprodehd
 preprodehp
@@ -2505,7 +2504,9 @@ preprodehp2
 preprodehpzee
 preprodmivp
 preprodrev
+preprodthp
 rev
+thp
 acc1
 afmelden-acc
 afmelden-acc1

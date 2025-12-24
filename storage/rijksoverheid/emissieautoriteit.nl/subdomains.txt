@@ -1,5 +1,4 @@
 _autodiscover._tcp.emissieautoriteit.nl
-acceptatiepan.emissieautoriteit.nl
 cher.emissieautoriteit.nl
 ehd.emissieautoriteit.nl
 ehp.emissieautoriteit.nl
@@ -8,9 +7,8 @@ ehpzee.emissieautoriteit.nl
 emissieautoriteit.nl
 formulier.emissieautoriteit.nl
 magazines.emissieautoriteit.nl
-meldingen.emissieautoriteit.nl
 mivp.emissieautoriteit.nl
-pan.emissieautoriteit.nl
+preprodch4p.emissieautoriteit.nl
 preprodcher.emissieautoriteit.nl
 preprodehd.emissieautoriteit.nl
 preprodehp.emissieautoriteit.nl
@@ -18,6 +16,7 @@ preprodehp2.emissieautoriteit.nl
 preprodehpzee.emissieautoriteit.nl
 preprodmivp.emissieautoriteit.nl
 preprodrev.emissieautoriteit.nl
+preprodthp.emissieautoriteit.nl
 rev.emissieautoriteit.nl
-sip.emissieautoriteit.nl
+thp.emissieautoriteit.nl
 www.emissieautoriteit.nl
