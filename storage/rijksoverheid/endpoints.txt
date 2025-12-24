@@ -135,6 +135,7 @@ http://amp.logius.nl
 http://analytics-acc.cjib.nl
 http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
+http://apikey-preprod.ep-online.nl
 http://apollo.databank.nl
 http://app-a1.digid.nl
 http://app-a2.digid.nl
@@ -660,6 +661,7 @@ http://nlhull.rws.nl
 http://nlrdms.bics.nl
 http://noaa.maps.arcgis.com
 http://normengineering.tno.nl
+http://notificatie-preprod.api.ep-online.nl
 http://npkd.nl
 http://nsl-monitoring.rivm.nl
 http://nt2.cito.nl
@@ -2722,7 +2724,6 @@ https://api7.abonneren.platformrijksoverheidonline.nl
 https://apiacc.eerstekamer.nl
 https://apiarbor.eerstekamer.nl
 https://apiback.eerstekamer.nl
-https://apikey-preprod.ep-online.nl
 https://apikey.ep-online.nl
 https://apim-icc.svb.nl
 https://apim.datalab-01.azure.grid.rws.nl
@@ -8319,7 +8320,6 @@ https://not-an-aardvark.github.io
 https://notebooksservices-eu1.arcgis.com
 https://notebooksservices.arcgis.com
 https://notebooksservices.az-int.arcgis.com
-https://notificatie-preprod.api.ep-online.nl
 https://notificatie.api.ep-online.nl
 https://notificatie.pzp.nl
 https://novexrotterdamsehaven.nl
