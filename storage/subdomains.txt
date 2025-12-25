@@ -7881,7 +7881,6 @@ feeds.english.sso3w.nl
 feeds.english.vrachtwagenheffing.nl
 feeds.english.wrr.nl
 feeds.forensicinstitute.nl
-feeds.forensischezorg.nl
 feeds.forensischinstituut.nl
 feeds.government.nl
 feeds.hansken.nl
@@ -13932,7 +13931,6 @@ opendata.english.rijksdienstcn.com
 opendata.english.vrachtwagenheffing.nl
 opendata.english.wrr.nl
 opendata.forensicinstitute.nl
-opendata.forensischezorg.nl
 opendata.forensischinstituut.nl
 opendata.government.nl
 opendata.grensdata.eu
