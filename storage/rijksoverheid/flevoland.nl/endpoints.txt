@@ -11,7 +11,6 @@ https://begroting2020.flevoland.nl
 https://bezoekersdata.flevoland.nl
 https://bodemrapportage.flevoland.nl
 https://cmsintranet.flevoland.nl
-https://competentie.flevoland.nl
 https://connect-with.flevoland.nl
 https://data.flevoland.nl
 https://denkmee.flevoland.nl
@@ -25,6 +24,8 @@ https://esb-preprod.flevoland.nl
 https://esb.flevoland.nl
 https://eula.flevoland.nl
 https://exchange.flevoland.nl
+https://felix-preproductie.flevoland.nl
+https://felix.flevoland.nl
 https://flair-demo.flevoland.nl
 https://flevoland.nl
 https://formulieren.flevoland.nl
@@ -59,8 +60,6 @@ https://regiotaxi.flevoland.nl
 https://remote.flevoland.nl
 https://rwbg.flevoland.nl
 https://stateninformatie.flevoland.nl
-https://test-cmsintranet.flevoland.nl
-https://test-intranet.flevoland.nl
 https://test.flevoland.nl
 https://testeloket.flevoland.nl
 https://testmdm.flevoland.nl
