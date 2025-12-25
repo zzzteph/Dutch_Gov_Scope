@@ -1045,6 +1045,7 @@ http://wkp.rws.nl
 http://wolk.hogeraad.nl
 http://wpo-webservice.staging.rijksapplicaties.nl
 http://wvlegislature.maps.arcgis.com
+http://www-ac.gipdatabank.nl
 http://www-ac.medicijnkosten.nl
 http://www-ac.zorgcijfersdatabank.nl
 http://www-ac.zorginstituutnederland.nl
@@ -11952,7 +11953,6 @@ https://wvsv.nipv.nl
 https://www-a.grensinfo.nl
 https://www-a.huurcommissie.nl
 https://www-ac.farmacotherapeutischkompas.nl
-https://www-ac.gipdatabank.nl
 https://www-ac.horizonscangeneesmiddelen.nl
 https://www-acc.cbs.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl
