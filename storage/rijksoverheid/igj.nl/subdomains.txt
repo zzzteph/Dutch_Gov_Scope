@@ -17,6 +17,7 @@ dbbprodmta01.dbb.igj.nl
 dbbtamta01.dbb-acc.igj.nl
 documentenapplicatie.igj.nl
 english.igj.nl
+eudamed.webservices-dbb-acc.igj.nl
 feeds.igj.nl
 igj.nl
 igjportaal.webservices-dbb-acc.igj.nl
@@ -29,6 +30,7 @@ mijn-acc.igj.nl
 mijn.igj.nl
 opendata.igj.nl
 sdm.igj.nl
+sip.igj.nl
 survey-acc.igj.nl
 survey-beheer.igj.nl
 survey-beheeracc.igj.nl

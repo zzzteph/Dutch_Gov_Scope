@@ -36,9 +36,9 @@ apps
 dev
 beheer
 app
+sip
 connect
 portaal
-sip
 meet
 www.acceptatie
 kennisbank
@@ -2721,6 +2721,7 @@ dbb
 dbbprodmta01.dbb
 dbbtamta01.dbb-acc
 documentenapplicatie
+eudamed.webservices-dbb-acc
 igjportaal.webservices-dbb-acc
 igjportaal.webservices-dbb
 inbewaringstelling.webservices-dbb-acc
