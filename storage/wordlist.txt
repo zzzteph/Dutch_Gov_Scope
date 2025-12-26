@@ -87,7 +87,6 @@ dwo
 mailing
 ns1
 nieuwsbrief
-loket
 telewerken
 git
 preview
@@ -100,6 +99,7 @@ www-ac
 www-dev
 www-p
 www-tst
+loket
 mobile
 m
 aanmelden
@@ -2648,12 +2648,12 @@ denw
 fme
 ftp-hdsr
 intranet.ad
-loket-acc
 remote-pa
 testbegrippen
 testkennis
 uconnect-acc
 uconnect
+veiligwerk
 waterkwaliteitinbeeld
 watermerk
 wsus
