@@ -969,7 +969,6 @@ a-feeds.forensischinstituut.nl
 a-feeds.government.nl
 a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
-a-feeds.jaarverantwoordingzorg.nl
 a-feeds.klimaatakkoord.nl
 a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
@@ -1023,7 +1022,6 @@ a-opendata.forensischinstituut.nl
 a-opendata.government.nl
 a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
-a-opendata.jaarverantwoordingzorg.nl
 a-opendata.klimaatakkoord.nl
 a-opendata.koninklijkhuis.nl
 a-opendata.koopoverheid.nl
@@ -1180,7 +1178,6 @@ a-www.forensischinstituut.nl
 a-www.government.nl
 a-www.igj.nl
 a-www.inspectie-jenv.nl
-a-www.jaarverantwoordingzorg.nl
 a-www.klimaatakkoord.nl
 a-www.koninklijkhuis.nl
 a-www.koopoverheid.nl
@@ -7895,7 +7892,6 @@ feeds.hwbp.nl
 feeds.igj.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
-feeds.jaarverantwoordingzorg.nl
 feeds.justid.nl
 feeds.kabinetsformatie2023.nl
 feeds.kansrijkestartnl.nl
@@ -13941,7 +13937,6 @@ opendata.hwbp.nl
 opendata.igj.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
-opendata.jaarverantwoordingzorg.nl
 opendata.justid.nl
 opendata.kabinetsformatie2023.nl
 opendata.kansrijkestartnl.nl
