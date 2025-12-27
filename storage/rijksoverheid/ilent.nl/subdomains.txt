@@ -1,3 +1,4 @@
+a-magazines.ilent.nl
 acc.api-auth.ilent.nl
 acc.api.ilent.nl
 acc.b2b.digi.ilent.nl
@@ -6,8 +7,10 @@ acc.data.ilent.nl
 acc.e-loket.ilent.nl
 acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
+api-acc.resources.ilent.nl
 api-auth.ilent.nl
 api.ilent.nl
+api.resources.ilent.nl
 b2b.digi.ilent.nl
 b2b.ilent.nl
 content.ilent.nl
@@ -15,9 +18,8 @@ data.ilent.nl
 digi.ilent.nl
 e-loket.ilent.nl
 easyrules.ilent.nl
+empic.ilent.nl
 english.ilent.nl
-feeds.english.ilent.nl
-feeds.ilent.nl
 ilent.nl
 inspecteur.ilent.nl
 itp-acc.ilent.nl
@@ -26,8 +28,6 @@ kc.ilent.nl
 lip.ilent.nl
 magazines.ilent.nl
 metrixinbound.inspecteur.ilent.nl
-opendata.english.ilent.nl
-opendata.ilent.nl
 povv-poc.ilent.nl
 sasbi-acc.ilent.nl
 sasbi.ilent.nl

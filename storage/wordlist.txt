@@ -3,8 +3,8 @@ www
 mail
 autodiscover
 acc
-opendata
 test
+opendata
 feeds
 mijn
 webmail
@@ -46,7 +46,6 @@ jaarverslag
 zoeken
 remote
 tst
-feeds.english
 publicaties
 sts
 elearning
@@ -54,7 +53,7 @@ ftp
 _dmarc
 www.acc
 cpanel
-opendata.english
+feeds.english
 services
 hybrid
 cdn
@@ -62,6 +61,7 @@ oud
 auth
 accept
 adfs
+opendata.english
 webservices
 docs
 dialin
@@ -117,6 +117,7 @@ designsystem
 onderhoud
 developer
 mam
+a-magazines
 mobiel
 www-ow
 www-ts
@@ -157,7 +158,6 @@ password
 mx2
 share
 api-acc
-a-magazines
 servicedesk
 legacy
 www-acc2
@@ -2757,11 +2757,14 @@ acc.data
 acc.e-loket
 acceptatie.wio
 acceptatie.wioservice
+api-acc.resources
 api-auth
+api.resources
 b2b.digi
 digi
 e-loket
 easyrules
+empic
 inspecteur
 itp-acc
 itp

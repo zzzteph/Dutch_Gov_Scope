@@ -2590,6 +2590,7 @@ https://api-acc.afm.nl
 https://api-acc.competentnl.nl
 https://api-acc.dashboardgroningen.nl
 https://api-acc.rdi.nl
+https://api-acc.resources.ilent.nl
 https://api-admin.developer.overheid.nl
 https://api-dev.afm.nl
 https://api-dev.dementieinkaart.nl
@@ -5511,7 +5512,6 @@ https://feeds.emm-online.nl
 https://feeds.energierijkdenhaag.nl
 https://feeds.english.aivd.nl
 https://feeds.english.defensie.nl
-https://feeds.english.ilent.nl
 https://feeds.english.kiesraad.nl
 https://feeds.english.marechaussee.nl
 https://feeds.english.ncsc.nl
@@ -5524,7 +5524,6 @@ https://feeds.forensicinstitute.nl
 https://feeds.forensischinstituut.nl
 https://feeds.government.nl
 https://feeds.hwbp.nl
-https://feeds.ilent.nl
 https://feeds.informatiehuishouding.nl
 https://feeds.inspectie-oe.nl
 https://feeds.inspectiebtd.nl
@@ -6475,7 +6474,6 @@ https://insightsservices3.arcgis.com
 https://insightsservices6.arcgis.com
 https://insightsservices9.arcgis.com
 https://insolventies.rechtspraak.nl
-https://inspecteur.ilent.nl
 https://inspectie-checklist.nl
 https://inspectie-jenv.nl
 https://inspectie-oe.databank.nl
@@ -8608,7 +8606,6 @@ https://opendata.emm-online.nl
 https://opendata.energierijkdenhaag.nl
 https://opendata.english.aivd.nl
 https://opendata.english.defensie.nl
-https://opendata.english.ilent.nl
 https://opendata.english.kiesraad.nl
 https://opendata.english.marechaussee.nl
 https://opendata.english.ncsc.nl
@@ -8622,7 +8619,6 @@ https://opendata.forensischinstituut.nl
 https://opendata.government.nl
 https://opendata.grensdata.eu
 https://opendata.hwbp.nl
-https://opendata.ilent.nl
 https://opendata.informatiehuishouding.nl
 https://opendata.inspectie-oe.nl
 https://opendata.inspectiebtd.nl
@@ -10484,6 +10480,7 @@ https://status.pleio.nl
 https://status.pre.omgevingswet.overheid.nl
 https://status.rijkscloud.nl
 https://statuspage-bridge.pleio.nl
+https://stc-acc.ilent.nl
 https://stc.ilent.nl
 https://stclairco.maps.arcgis.com
 https://stcrtin-preprd.overheid.nl

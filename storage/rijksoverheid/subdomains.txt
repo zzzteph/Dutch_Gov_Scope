@@ -998,6 +998,7 @@ a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
 a-magazines.government.nl
+a-magazines.ilent.nl
 a-magazines.openbaarministerie.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
@@ -2664,6 +2665,7 @@ api-acc.competentnl.nl
 api-acc.dashboardgroningen.nl
 api-acc.kansspelautoriteit.nl
 api-acc.rdi.nl
+api-acc.resources.ilent.nl
 api-acc.uboregistertrusts.nl
 api-accept.prolander.nl
 api-acpt.brabant.nl
@@ -2828,6 +2830,7 @@ api.rdi.nl
 api.rdw.nl
 api.rechtspraak.nl
 api.reis.idm.rvig.nl
+api.resources.ilent.nl
 api.rivm.nl
 api.rosetta-t.kb.nl
 api.rvo.nl
@@ -7289,6 +7292,7 @@ emmettpeng.github.io
 emnnetherlands.nl
 emobility-acc.rvo.nl
 emobility.rvo.nl
+empic.ilent.nl
 employbrand.uwv.nl
 empowerment-photography.btywu.github.io
 en.inburgeren.nl
@@ -7870,7 +7874,6 @@ feeds.emm-online.nl
 feeds.energierijkdenhaag.nl
 feeds.english.aivd.nl
 feeds.english.defensie.nl
-feeds.english.ilent.nl
 feeds.english.kiesraad.nl
 feeds.english.marechaussee.nl
 feeds.english.ncsc.nl
@@ -7887,7 +7890,6 @@ feeds.government.nl
 feeds.hogeraadvanadel.nl
 feeds.hwbp.nl
 feeds.igj.nl
-feeds.ilent.nl
 feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
@@ -13916,7 +13918,6 @@ opendata.emm-online.nl
 opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.defensie.nl
-opendata.english.ilent.nl
 opendata.english.kiesraad.nl
 opendata.english.marechaussee.nl
 opendata.english.ncsc.nl
@@ -13934,7 +13935,6 @@ opendata.hhdelfland.nl
 opendata.hogeraadvanadel.nl
 opendata.hwbp.nl
 opendata.igj.nl
-opendata.ilent.nl
 opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
