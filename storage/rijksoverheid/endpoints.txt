@@ -457,6 +457,7 @@ http://genconnector.sawa-vth.nl
 http://genomes.bioinf.nioo.knaw.nl
 http://geo2.flevoland.nl
 http://geodata.rivm.nl
+http://gfportal.test.gf.irealisatie.nl
 http://gh-pages.paper-spa.github.io
 http://gids-core.acc.cloudservices.kb.nl
 http://gids-frontoffice.acc.cloudservices.kb.nl
@@ -536,8 +537,6 @@ http://jsru.kb.nl
 http://juristen.werkenvoornederland.nl
 http://k8s-cw.acm.nl
 http://k8s.acm.nl
-http://kat.acc.irealisatie.nl
-http://kat.irealisatie.nl
 http://kat.rdosecurity.nl
 http://keiko.brba.nl
 http://kennisbank.raadvanstate.nl
@@ -600,10 +599,14 @@ http://maps.fa.knaw.nl
 http://maps.rivm.nl
 http://mapsforfabricdev.arcgis.com
 http://martaonline.maps.arcgis.com
+http://max.acc.mgo.irealisatie.nl
 http://max.dus-i.nl
+http://max.test.mgo.irealisatie.nl
 http://mcra-test.rivm.nl
 http://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 http://mcsd-consumer-admin.test.gf.irealisatie.nl
+http://mcsd-consumer.test.gf.irealisatie.nl
+http://mcsd-registratie-directory.test.gf.irealisatie.nl
 http://mcsd-supplier.test.gf.irealisatie.nl
 http://mcsd.test.zm.irealisatie.nl
 http://meadhunt.maps.arcgis.com
@@ -614,7 +617,6 @@ http://meeting-acc.zonmw.nl
 http://meridian.rijkswaterstaat.nl
 http://merkportaal.dnb.nl
 http://metabase.rdosecurity.nl
-http://metadata-b.test.zm.irealisatie.nl
 http://metadata-c.test.zm.irealisatie.nl
 http://metadata.test.zm.irealisatie.nl
 http://metrokaart.pianoo.nl
@@ -664,6 +666,7 @@ http://notificatie-preprod.api.ep-online.nl
 http://npkd.nl
 http://nsl-monitoring.rivm.nl
 http://nt2.cito.nl
+http://nvi-registratie-service.test.gf.irealisatie.nl
 http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
 http://nzrdashboard.vzinfo.nl
@@ -689,7 +692,6 @@ http://opendata.papiamento.two-acs.com
 http://opendatadev.arcgis.com
 http://opleiding.sbcm.nl
 http://opmaat.sdu.nl.access.authkb.kb.nl
-http://orac.test.gf.irealisatie.nl
 http://origin.api.prod1.contenttoolsrijksoverheid.nl
 http://otl.rws.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
@@ -712,7 +714,6 @@ http://pdok.waterschaplimburg.nl
 http://pdvnl31.dans.knaw.nl
 http://pe-upload.nba.nl
 http://pers.letterenfonds.nl
-http://pgodemo.test.zm.irealisatie.nl
 http://php74.visitaties.nl
 http://picarta.nl.access.authkb.kb.nl
 http://pilot3.praatmeemetdeoverheid.nl
@@ -747,7 +748,6 @@ http://prs.rijkswaterstaat.nl
 http://prs.rws.nl
 http://prs.test.zm.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
-http://pseudoniemendienst.test.gf.irealisatie.nl
 http://pseudonym.test.zm.irealisatie.nl
 http://pts31.dans.knaw.nl
 http://public.mondriaanfonds.nl
@@ -851,6 +851,8 @@ http://stagiairs.werkenvoornederland.nl
 http://staging.halt.nl
 http://staging.ontdekdezorg.nl
 http://staging.opwegnaarzes.nl
+http://start.acc.dusi.irealisatie.nl
+http://start.test.dusi.irealisatie.nl
 http://static.rechtspraak.nl
 http://statistics.dnb.nl
 http://stats-acc.globalentry-rtp.nl
@@ -5924,7 +5926,6 @@ https://gezondeschool.nl
 https://gezondeschoolkantine.voedingscentrum.nl
 https://gezondgroeien.voedingscentrum.nl
 https://gezondheidsraad.nl
-https://gfportal.test.gf.irealisatie.nl
 https://ggdiamdemo.rivm.nl
 https://gghmest.pleio.nl
 https://ggo-vergunningen.nl
@@ -6791,7 +6792,6 @@ https://kantonjournaal.rechtspraak.nl
 https://kantoor.hdsr.nl
 https://karin.ndw.nu
 https://kas.tno.nl
-https://katpilot.acc.irealisatie.nl
 https://katv.rdw.nl
 https://kavaanalytics.vcdn.belastingdienst.nl
 https://kazi-yeasin.github.io
@@ -7583,9 +7583,7 @@ https://mattermost.aerius.nl
 https://maturityscan.gebruikercentraal.nl
 https://mautic.cultuurparticipatie.nl
 https://maven.huygens.knaw.nl
-https://max.acc.mgo.irealisatie.nl
 https://max.proeftuin.uzi-online.irealisatie.nl
-https://max.test.mgo.irealisatie.nl
 https://mbg-proxy.flevoland.nl
 https://mbg.cbs.nl
 https://mbotransparant.databank.nl
@@ -7593,7 +7591,6 @@ https://mc-upnl.mijn.rvo.nl
 https://mccg.nl
 https://mcra-training.rivm.nl
 https://mcra.rivm.nl
-https://mcsd-registratie-directory.test.gf.irealisatie.nl
 https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 https://mcsd-registratie-portaal.test.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
@@ -10389,10 +10386,8 @@ https://standaarden.rws.nl
 https://stappenplan.simpel-switchen.nl
 https://start-contract-bij.slo.nl
 https://start-here.near-dimension.github.io
-https://start.acc.dusi.irealisatie.nl
 https://start.cito.nl
 https://start.dus-i.nl
-https://start.test.dusi.irealisatie.nl
 https://startanalyse.pbl.nl
 https://startat.afm.nl
 https://startformulier.brabant.nl

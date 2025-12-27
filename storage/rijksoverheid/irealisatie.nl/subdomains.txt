@@ -75,6 +75,7 @@ max.proeftuin.uzi-online.irealisatie.nl
 max.test.mgo.irealisatie.nl
 mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
 mcsd-consumer-admin.test.gf.irealisatie.nl
+mcsd-consumer.test.gf.irealisatie.nl
 mcsd-registratie-directory.test.gf.irealisatie.nl
 mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl
 mcsd-registratie-portaal.test.gf.irealisatie.nl
@@ -88,6 +89,7 @@ metadata.test.zm.irealisatie.nl
 nextcloud.acc.irealisatie.nl
 nextcloud.irealisatie.nl
 noc.irealisatie.nl
+nvi-registratie-service.test.gf.irealisatie.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
