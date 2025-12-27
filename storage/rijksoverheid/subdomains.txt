@@ -7893,7 +7893,6 @@ feeds.government.nl
 feeds.hogeraadvanadel.nl
 feeds.hwbp.nl
 feeds.igj.nl
-feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
@@ -13939,7 +13938,6 @@ opendata.hhdelfland.nl
 opendata.hogeraadvanadel.nl
 opendata.hwbp.nl
 opendata.igj.nl
-opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
