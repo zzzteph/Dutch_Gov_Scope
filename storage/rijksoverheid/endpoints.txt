@@ -297,7 +297,6 @@ http://cest-cusec.hub.arcgis.com
 http://cev.nl
 http://channels-az2.lpc.logius.nl
 http://chargerrecommendation-dcgis.hub.arcgis.com
-http://checkout-tst.ind.nl
 http://chemkap.rivm.nl
 http://circulaire-economie.ser.nl
 http://citavista.databank.nl
@@ -2374,6 +2373,7 @@ https://advisories.acc.ncsc.nl
 https://advisories.ncsc.nl
 https://advisories.test.ncsc.nl
 https://advisorycommitteeinternationallaw.nl
+https://advocaten.ind.nl
 https://ae.dae.test.kadaster.nl
 https://aec-customer-success-stories-arcaec.hub.arcgis.com
 https://aedesforecast.databank.nl
@@ -13543,6 +13543,7 @@ https://zaalreserveringen.tweedekamer.nl
 https://zaanstreekwaterland.leerwerkloket.nl
 https://zabbix.cultuurparticipatie.nl
 https://zakelijk.duo.nl
+https://zakelijk.ind.nl
 https://zakelijk.rdw.nl
 https://zaken.niwo.nl
 https://zandbak.nvwa.nl

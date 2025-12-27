@@ -2340,6 +2340,7 @@ advisories.ncsc.nl
 advisories.test.ncsc.nl
 advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
+advocaten.ind.nl
 ae.dae.test.kadaster.nl
 aec-customer-success-stories-arcaec.hub.arcgis.com
 aedesforecast.databank.nl
@@ -4976,9 +4977,11 @@ chattanooga-bike-to-work-day-chcrpa.hub.arcgis.com
 check.opwegnaarzes.nl
 checkjeprijs.huurcommissie.nl
 checkmk.devops.rvb.rijkscloud.nl
+checkout-acc.ind.nl
 checkout-acc.portal.ind.nl
 checkout-tst.ind.nl
 checkout-tst.portal.ind.nl
+checkout.ind.nl
 checkout.portal.ind.nl
 chef.rijkscloud.nl
 chemischestoffengoedgeregeld.nl
@@ -12216,6 +12219,7 @@ mijn.huurcommissie.nl
 mijn.ibki.nl
 mijn.igj.nl
 mijn.inburgeren.nl
+mijn.ind.nl
 mijn.justis.nl
 mijn.kadaster.nl
 mijn.keten.vfpf.nl
@@ -23050,6 +23054,7 @@ zabbix.cultuurparticipatie.nl
 zabbix6.mintst2.rijkscloud.nl
 zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.duo.nl
+zakelijk.ind.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 zakelijk.rdw.nl
 zaken.niwo.nl
