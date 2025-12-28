@@ -251,6 +251,8 @@ status
 a-cms
 catalogus
 cms1
+i-www
+o-www
 t-www
 enquete
 gitlab
@@ -340,10 +342,8 @@ a-site1
 a-site2
 cmsdev
 gw
-i-www
 o-cms1
 o-site1
-o-www
 site1
 site2
 site3
