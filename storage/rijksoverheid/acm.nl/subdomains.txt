@@ -2,6 +2,7 @@ acm.nl
 api-a.acm.nl
 api-a.services.acm.nl
 api.acm.nl
+api.dev.connect.acm.nl
 api.services.acm.nl
 apps.acm.nl
 apps.services.acm.nl
@@ -33,6 +34,7 @@ dns4.acm.nl
 exchange.acm.nl
 exchange.services.acm.nl
 fems.acm.nl
+fems.services.acm.nl
 fmreturn.acm.nl
 gasten.acm.nl
 ggm.acm.nl
@@ -59,7 +61,9 @@ mr.acm.nl
 msg.acm.nl
 msg.services.acm.nl
 nieuw.acm.nl
+portal.dev.connect.acm.nl
 probeer.acm.nl
+proxy.dev.connect.acm.nl
 remote.acm.nl
 remote.services.acm.nl
 rxs.acm.nl

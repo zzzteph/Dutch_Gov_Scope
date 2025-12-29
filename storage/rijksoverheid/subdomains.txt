@@ -2767,6 +2767,7 @@ api.debatdirect.tweedekamer.nl
 api.dementieinkaart.nl
 api.denkmee.zuid-holland.nl
 api.dev-lsp.rivm.nl
+api.dev.connect.acm.nl
 api.developer.dnb.nl
 api.developer.overheid.nl
 api.digid.nl
@@ -7953,6 +7954,7 @@ felix-preproductie.flevoland.nl
 felix.brabant.nl
 felix.flevoland.nl
 fems.acm.nl
+fems.services.acm.nl
 fepool01.s-bb.nl
 feremote.fabricdev.arcgis.com
 fez.mfaservices.nl
@@ -15069,6 +15071,7 @@ portal.cbs.nl
 portal.cibg.nl
 portal.cito.nl
 portal.datascience.rijkscloud.nl
+portal.dev.connect.acm.nl
 portal.dmi-ecosysteem.nl
 portal.dsov.kadaster.nl
 portal.ec.rijkscloud.nl
@@ -15655,6 +15658,7 @@ proxy-lab.rvb.rijkscloud.nl
 proxy.auth.dezi.nl
 proxy.brabant.nl
 proxy.cbs.nl
+proxy.dev.connect.acm.nl
 proxy.geodata.alterra.nl
 proxy.lvnl.nl
 proxy.socint.belastingdienst.nl

@@ -5684,6 +5684,7 @@ www.denkmee
 www.windlansingerland
 zaaksysteem-accept
 api-a.services
+api.dev.connect
 api.services
 apps.services
 authentication
@@ -5705,6 +5706,7 @@ dns3
 dns4
 exchange.services
 fems
+fems.services
 fmreturn
 gasten
 ggm
@@ -5721,6 +5723,8 @@ meeting.services
 mkb
 msg
 msg.services
+portal.dev.connect
+proxy.dev.connect
 remote.services
 rxs
 rxs.services
