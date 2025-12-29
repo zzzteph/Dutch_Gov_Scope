@@ -2101,6 +2101,7 @@ https://acceptatie-identity.coa.nl
 https://acceptatie-imaer.aerius.nl
 https://acceptatie-kira.lcms.nl
 https://acceptatie-kmar.lcms.nl
+https://acceptatie-meander.aerius.nl
 https://acceptatie-melding.aerius.nl
 https://acceptatie-melvin.ndw.nu
 https://acceptatie-monitor.aerius.nl
@@ -5825,6 +5826,7 @@ https://generator.nba.nl
 https://generieke-issuer-portaal.test.gf.irealisatie.nl
 https://generieke-issuer-revocatie-api.test.gf.irealisatie.nl
 https://generiekefuncties.datavoorgezondheid.nl
+https://genesis.aerius.nl
 https://gensys.flevoland.nl
 https://geo-fms.zuid-holland.nl
 https://geo-stats.zuid-holland.nl
@@ -6193,6 +6195,7 @@ https://honolulu-cchnl.opendata.arcgis.com
 https://horizon.databank.nl
 https://horizonscangeneesmiddelen.nl
 https://host.neorah.nl
+https://hostmaster.aerius.nl
 https://hostmaster.derdekamer.nl
 https://hostmaster.raadvoorplantenrassen.nl
 https://hostmaster.rechtenoverheid.nl
@@ -6932,6 +6935,7 @@ https://kleutervolgsysteem.cito.nl
 https://klic.cloud.kadaster.nl
 https://klic.test.cloud.kadaster.nl
 https://klicviewer.nl
+https://klikmodel.aerius.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
 https://klimaatbeleid.databank.nl
@@ -9654,6 +9658,7 @@ https://resultaten.nlarbeidsinspectie.nl
 https://ret.databank.nl
 https://return.ser.nl
 https://rev.emissieautoriteit.nl
+https://revelation.aerius.nl
 https://revi.incidentmanagement.nl
 https://rgp.huygens.knaw.nl
 https://rgs.cbs.nl

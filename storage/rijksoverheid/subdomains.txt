@@ -1810,6 +1810,7 @@ acceptatie-identity.coa.nl
 acceptatie-imaer.aerius.nl
 acceptatie-kira.lcms.nl
 acceptatie-kmar.lcms.nl
+acceptatie-meander.aerius.nl
 acceptatie-melding.aerius.nl
 acceptatie-melvin.ndw.nu
 acceptatie-monitor.aerius.nl
@@ -8433,6 +8434,7 @@ generieke-issuer-portaal.test.gf.irealisatie.nl
 generieke-issuer-revocatie-api.test.gf.irealisatie.nl
 generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
+genesis.aerius.nl
 genomes.bioinf.nioo.knaw.nl
 gensys.flevoland.nl
 geo-airbusds1.arcgis.com
@@ -9126,6 +9128,7 @@ horizonscangeneesmiddelen.nl
 horst-fw.naktuinbouw.nl
 host.neorah.nl
 hostingportal.huc.knaw.nl
+hostmaster.aerius.nl
 hostmaster.derdekamer.nl
 hostmaster.raadvoorplantenrassen.nl
 hostmaster.rechtenoverheid.nl
@@ -10682,6 +10685,7 @@ kleutervolgsysteem.cito.nl
 klic.cloud.kadaster.nl
 klic.test.cloud.kadaster.nl
 klicviewer.nl
+klikmodel.aerius.nl
 klimaatadaptatienederland.nl
 klimaatakkoord.nl
 klimaatbeleid.databank.nl
@@ -11551,6 +11555,7 @@ mail-zm.s-bb.nl
 mail.080.github.io
 mail.acm.nl
 mail.actal.nl
+mail.aerius.nl
 mail.afm.nl
 mail.agendavoorhetwaddengebied2050.nl
 mail.aquo.nl
@@ -16320,6 +16325,7 @@ ret-a.secure.cito.nl
 ret.databank.nl
 return.ser.nl
 rev.emissieautoriteit.nl
+revelation.aerius.nl
 revi.incidentmanagement.nl
 review.developer.overheid.nl
 reviewhumanresearch.tno.nl

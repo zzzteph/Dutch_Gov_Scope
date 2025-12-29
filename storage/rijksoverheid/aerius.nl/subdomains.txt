@@ -2,6 +2,7 @@ aankoopcalculator.aerius.nl
 acceptatie-calculator.aerius.nl
 acceptatie-connect.aerius.nl
 acceptatie-imaer.aerius.nl
+acceptatie-meander.aerius.nl
 acceptatie-melding.aerius.nl
 acceptatie-monitor.aerius.nl
 acceptatie-pdok.aerius.nl
@@ -20,11 +21,15 @@ dev.aerius.nl
 docs.aerius.nl
 fame.aerius.nl
 fame2025.aerius.nl
+genesis.aerius.nl
 gitlab.aerius.nl
+hostmaster.aerius.nl
 imaer.aerius.nl
+klikmodel.aerius.nl
 legend.aerius.nl
 lightning.aerius.nl
 link.aerius.nl
+mail.aerius.nl
 mattermost.aerius.nl
 meander.aerius.nl
 melding.aerius.nl
@@ -39,6 +44,7 @@ regelingsondersteuning.aerius.nl
 regionaal-register.aerius.nl
 register-pentest.aerius.nl
 register.aerius.nl
+revelation.aerius.nl
 scenario.aerius.nl
 search.aerius.nl
 test-calculator.aerius.nl

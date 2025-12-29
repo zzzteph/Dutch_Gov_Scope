@@ -129,6 +129,7 @@ files
 forum
 events
 magazine
+hostmaster
 matomo
 cpcalendars
 cpcontacts
@@ -177,7 +178,6 @@ service
 access
 siam
 prod-dictu
-hostmaster
 radius
 eloket
 a-feeds.a-english
@@ -5746,6 +5746,7 @@ aankoopcalculator
 acceptatie-calculator
 acceptatie-connect
 acceptatie-imaer
+acceptatie-meander
 acceptatie-melding
 acceptatie-monitor
 acceptatie-pdok
@@ -5759,7 +5760,9 @@ auth-register
 calculator
 fame
 fame2025
+genesis
 imaer
+klikmodel
 legend
 lightning
 mattermost
@@ -5771,6 +5774,7 @@ pr
 regelingsondersteuning
 regionaal-register
 register-pentest
+revelation
 scenario
 test-calculator
 test-connect
