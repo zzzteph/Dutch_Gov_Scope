@@ -11404,6 +11404,7 @@ m-efiling.mijnoctrooi.rvo.nl
 m-files.stichtingrpo.nl
 m-i0.espacenet.com
 m-preprod.efiling.mijnoctrooi.rvo.nl
+m.afm.nl
 m.espacenet.com
 m.fondspodiumkunsten.nl
 m.huisvoorklokkenluiders.nl
@@ -11819,9 +11820,6 @@ mam.scp.nl
 man-ad02.ad.tno.nl
 man.rivm.nl
 managedservices.logius.nl
-management.api-acc.afm.nl
-management.api-dev.afm.nl
-management.api.afm.nl
 management.apim.acc.cloudservices.kb.nl
 management.integratieplatform.rdw.nl
 managementapi.vragenlijst-acc.rivm.nl
@@ -15068,10 +15066,6 @@ portal-performance.test.ix.rijkscloud.nl
 portal-sigtec.hub.arcgis.com
 portal-test-escap.hub.arcgis.com
 portal.afm.nl
-portal.api-acc.afm.nl
-portal.api-dev.afm.nl
-portal.api-tst.afm.nl
-portal.api.afm.nl
 portal.cbs.nl
 portal.cibg.nl
 portal.cito.nl

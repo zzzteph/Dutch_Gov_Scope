@@ -2577,7 +2577,6 @@ https://anyc-t03.ssc-ict.nl
 https://anyc.ssc-ict.nl
 https://aoep-iam.rvo.nl
 https://aofondsrijk.nl
-https://aovpn.afm.nl
 https://aovpn.lvnl.nl
 https://aovvt.nl
 https://apabeheer-a.cito.nl
@@ -7394,6 +7393,7 @@ https://lvnl.nl
 https://lyncdiscover.coa.nl
 https://lyncdiscover.lbio.nl
 https://lzalpkcommissie.nl
+https://m.afm.nl
 https://m.fondspodiumkunsten.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.rijkswaterstaat.nl
@@ -7528,9 +7528,6 @@ https://mailings.dus-i.nl
 https://mailings.pbl.nl
 https://maine.hub.arcgis.com
 https://man.rivm.nl
-https://management.api-acc.afm.nl
-https://management.api-dev.afm.nl
-https://management.api.afm.nl
 https://management.integratieplatform.rdw.nl
 https://manager.klopt.cibg.nl
 https://manan-1112.github.io
@@ -9066,10 +9063,6 @@ https://portal-a.nak.nl
 https://portal-a.secure.cito.nl
 https://portal-ams.ewnederland.nl
 https://portal-sigtec.hub.arcgis.com
-https://portal.api-acc.afm.nl
-https://portal.api-dev.afm.nl
-https://portal.api-tst.afm.nl
-https://portal.api.afm.nl
 https://portal.cbs.nl
 https://portal.cito.nl
 https://portal.datascience.rijkscloud.nl

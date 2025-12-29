@@ -88,6 +88,7 @@ mailing
 ns1
 nieuwsbrief
 telewerken
+m
 git
 preview
 media
@@ -101,7 +102,6 @@ www-p
 www-tst
 loket
 mobile
-m
 aanmelden
 stats
 acc-dictu
@@ -5805,15 +5805,8 @@ ewerken2
 interventie
 inventory
 kvkdataservice
-management.api-acc
-management.api-dev
-management.api
 portaal-dev
 portaal-tst
-portal.api-acc
-portal.api-dev
-portal.api-tst
-portal.api
 snow
 spot-on-acc
 spot-on-dt

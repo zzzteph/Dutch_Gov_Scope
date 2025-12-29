@@ -4,7 +4,6 @@ https://acc-vergelijkingskaart.afm.nl
 https://afm.nl
 https://afmacademy.afm.nl
 https://afmcmg.afm.nl
-https://aovpn.afm.nl
 https://api-acc.afm.nl
 https://api-dev.afm.nl
 https://api-tst.afm.nl
@@ -20,14 +19,8 @@ https://formulieren-acc.afm.nl
 https://formulieren.afm.nl
 https://fs.afm.nl
 https://gateway.afm.nl
-https://management.api-acc.afm.nl
-https://management.api-dev.afm.nl
-https://management.api.afm.nl
+https://m.afm.nl
 https://portaal.afm.nl
-https://portal.api-acc.afm.nl
-https://portal.api-dev.afm.nl
-https://portal.api-tst.afm.nl
-https://portal.api.afm.nl
 https://publicaties.afm.nl
 https://startat.afm.nl
 https://stor.portaal-acc.afm.nl
