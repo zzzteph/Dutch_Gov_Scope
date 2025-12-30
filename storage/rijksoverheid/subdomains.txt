@@ -6369,6 +6369,7 @@ dhcp2.gn3.rijkscloud.nl
 dhcp2.rw1.rijkscloud.nl
 dhub.cloud.kadaster.nl
 dhub.test.cloud.kadaster.nl
+di-wisdot.img.arcgis.com
 di.acm.nl
 di.huc.knaw.nl
 di.idp.knaw.nl
@@ -6830,6 +6831,17 @@ dsa.rijksapplicaties.nl
 dsa.staging.rijksapplicaties.nl
 dsbrennan.github.io
 dse.lx.overheid.nl
+dservices-eu1.arcgis.com
+dservices-eu1.az-int.arcgis.com
+dservices1.az-int.arcgis.com
+dservices3.arcgis.com
+dservices3.az-int.arcgis.com
+dservices5.arcgis.com
+dservices5.az-int.arcgis.com
+dservices6.arcgis.com
+dservices6.az-int.arcgis.com
+dservices9.arcgis.com
+dservices9.az-int.arcgis.com
 dsm.odc-noord.nl
 dso.brabant.nl
 dso.cloud.kadaster.nl
@@ -11874,6 +11886,7 @@ marcwalsh.github.io
 marechaussee.nl
 margarethaklooster.huygens.knaw.nl
 maricopa.maps.arcgis.com
+marketplace.arcgis.com
 markt-overheid.acm.nl
 maror.nl
 mars.rijkswaterstaat.nl
@@ -13574,6 +13587,7 @@ observium.apps.staatsbosbeheer.nl
 obstbackup-prod-va-01.dans.knaw.nl
 occassio.dev.huc.knaw.nl
 ocd-hub-nm-emnrd.hub.arcgis.com
+oceans2.arcgis.com
 ocs.nba.nl
 ocs.nji.nl
 ocsp.pkioverheid.nl
@@ -17160,6 +17174,8 @@ services.pdok.nl
 services.test.pdok.nl
 services.uwv.nl
 services1.domeinenrz.nl
+services3.arcgis.com
+services5.arcgis.com
 services7.arcgis.com
 servicesa.kb.nl
 servicesdev.arcgis.com
@@ -18034,6 +18050,7 @@ sterkmedezeggenschap.nl
 steunpunt.caop.nl
 steunpuntcoronazorgen.nl
 stevekerrison.github.io
+stg-arcgisazurecdataprod1.az.arcgis.com
 stg.historical1.arcgis.com
 stglb.rvo.nl
 sth.staging.rijksapplicaties.nl

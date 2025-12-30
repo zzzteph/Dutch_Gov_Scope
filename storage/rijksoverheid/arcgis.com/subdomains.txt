@@ -488,6 +488,7 @@ developerscorner.storymaps.arcgis.com
 devext.arcgis.com
 devops.arcgis.com
 dfw.maps.arcgis.com
+di-wisdot.img.arcgis.com
 digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
 doc.arcgis.com
 dreu-ade.arcgis.com
@@ -497,6 +498,17 @@ drus-ade.arcgis.com
 drus-cd.arcgis.com
 drus-ei.arcgis.com
 drus-m4cc-ei.arcgis.com
+dservices-eu1.arcgis.com
+dservices-eu1.az-int.arcgis.com
+dservices1.az-int.arcgis.com
+dservices3.arcgis.com
+dservices3.az-int.arcgis.com
+dservices5.arcgis.com
+dservices5.az-int.arcgis.com
+dservices6.arcgis.com
+dservices6.az-int.arcgis.com
+dservices9.arcgis.com
+dservices9.az-int.arcgis.com
 earthlive.maptiles.arcgis.com
 earthobs3.arcgis.com
 ecoexplorer.arcgis.com
@@ -694,6 +706,7 @@ mapsqa.arcgis.com
 mapsqaext.arcgis.com
 maptiles.arcgis.com
 maricopa.maps.arcgis.com
+marketplace.arcgis.com
 martaonline.maps.arcgis.com
 meadhunt.maps.arcgis.com
 mestobb.maps.arcgis.com
@@ -725,6 +738,7 @@ notebooksservices.az-int.arcgis.com
 nws-miami-drought-page-noaa.hub.arcgis.com
 nwsmfl-coop-noaa.hub.arcgis.com
 ocd-hub-nm-emnrd.hub.arcgis.com
+oceans2.arcgis.com
 ofallon.maps.arcgis.com
 okotoksmaps-okotoks.hub.arcgis.com
 oktibbeha.maps.arcgis.com
@@ -782,6 +796,8 @@ sentineldev.arcgis.com
 server.arcgis.com
 services-ap1.arcgis.com
 services.arcgis.com
+services3.arcgis.com
+services5.arcgis.com
 services7.arcgis.com
 servicesdev.arcgis.com
 servicesqa.arcgis.com
@@ -805,6 +821,7 @@ spmgis.maps.arcgis.com
 stage.arcgis.com
 status.location.arcgis.com
 stclairco.maps.arcgis.com
+stg-arcgisazurecdataprod1.az.arcgis.com
 stg.historical1.arcgis.com
 stormtools-mainpage-crc-uri.hub.arcgis.com
 storymaps.arcgis.com

@@ -6363,6 +6363,7 @@ developerscorner.storymaps
 devext
 devops
 dfw.maps
+di-wisdot.img
 digital-zoning-bylaw-citysaskatoon.hub
 dreu-ade
 dreu-cd
@@ -6371,6 +6372,17 @@ drus-ade
 drus-cd
 drus-ei
 drus-m4cc-ei
+dservices-eu1
+dservices-eu1.az-int
+dservices1.az-int
+dservices3
+dservices3.az-int
+dservices5
+dservices5.az-int
+dservices6
+dservices6.az-int
+dservices9
+dservices9.az-int
 earthlive.maptiles
 earthobs3
 ecoexplorer
@@ -6565,6 +6577,7 @@ mapsqa
 mapsqaext
 maptiles
 maricopa.maps
+marketplace
 martaonline.maps
 meadhunt.maps
 mestobb.maps
@@ -6596,6 +6609,7 @@ notebooksservices.az-int
 nws-miami-drought-page-noaa.hub
 nwsmfl-coop-noaa.hub
 ocd-hub-nm-emnrd.hub
+oceans2
 ofallon.maps
 okotoksmaps-okotoks.hub
 oktibbeha.maps
@@ -6649,6 +6663,8 @@ semarnath1.maps
 sentinel
 sentineldev
 services-ap1
+services3
+services5
 services7
 servicesdev
 servicesqa
@@ -6671,6 +6687,7 @@ spcgis-spc.hub
 spmgis.maps
 status.location
 stclairco.maps
+stg-arcgisazurecdataprod1.az
 stg.historical1
 stormtools-mainpage-crc-uri.hub
 storymaps
