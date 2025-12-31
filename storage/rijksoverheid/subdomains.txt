@@ -3385,6 +3385,7 @@ authpms-acc.dictu.nl
 authpms.dictu.nl
 authuitslagen.coronatest.nl
 auto-ako.bureau.knaw.nl
+autoconfig.bedrijfscommissieoverheid.nl
 autodiscover.3ro.reclassering.nl
 autodiscover.aaenmaas.nl
 autodiscover.aandeslagmetdeomgevingswet.nl
@@ -3399,6 +3400,7 @@ autodiscover.atgb.nl
 autodiscover.atr-regeldruk.nl
 autodiscover.awti.nl
 autodiscover.bb.huc.knaw.nl
+autodiscover.bedrijfscommissieoverheid.nl
 autodiscover.beschermdecultuurgoederen.nl
 autodiscover.bkd.eu
 autodiscover.brabant.nl
@@ -8228,6 +8230,7 @@ ftp-p.ags.dictu.nl
 ftp-test01.knmi.nl
 ftp-voorziening-acc.uwv.nl
 ftp-voorziening.uwv.nl
+ftp.bedrijfscommissieoverheid.nl
 ftp.cbs.nl
 ftp.ctpveldzicht.nl
 ftp.dji.nl

@@ -164,12 +164,14 @@ http://ats-intern.knaw.nl
 http://ats-test.knaw.nl
 http://authenticatie-acc.inspectieview.nl
 http://authenticatie.inspectieview.nl
+http://autoconfig.bedrijfscommissieoverheid.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.actal.nl
 http://autodiscover.afm.nl
 http://autodiscover.atgb.nl
 http://autodiscover.atr-regeldruk.nl
 http://autodiscover.bb.huc.knaw.nl
+http://autodiscover.bedrijfscommissieoverheid.nl
 http://autodiscover.bkd.eu
 http://autodiscover.bureauft.nl
 http://autodiscover.cito.nl
@@ -5755,6 +5757,7 @@ https://fsv.pleio.nl
 https://fsvportaal.belastingdienst.nl
 https://ftgelderland.databank.nl
 https://ftp-hdsr.hdsr.nl
+https://ftp.bedrijfscommissieoverheid.nl
 https://ftp.dji.nl
 https://ftp.kbvg.nl
 https://ftp.rli.nl

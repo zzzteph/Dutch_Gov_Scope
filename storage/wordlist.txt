@@ -44,12 +44,12 @@ www.acceptatie
 kennisbank
 remote
 zoeken
+ftp
 tst
 jaarverslag
 publicaties
 sts
 elearning
-ftp
 _dmarc
 www.acc
 cpanel
@@ -6853,6 +6853,7 @@ epmmsen02.acpt
 epmmsen02
 fgformulieren-acc
 www.datalekken-acc
+autoconfig
 ondernemingsklimaat
 activation
 bayplanviewer
