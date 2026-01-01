@@ -3236,7 +3236,6 @@ https://beheer.acc.grondstoffenscanner.nl
 https://beheer.acc.stagefonds.s-bb.nl
 https://beheer.bigregister.nl
 https://beheer.bke.kadaster.nl
-https://beheer.bodemrichtlijn.nl
 https://beheer.burgernet.nl
 https://beheer.chat.ind.nl
 https://beheer.datastelselverduurzamingutiliteit.nl
@@ -7230,7 +7229,6 @@ https://linkeddata.competentnl.nl
 https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
 https://linkmanager.bodemrichtlijn.nl
-https://linkmanager5.bodemrichtlijn.nl
 https://links.cultuurparticipatie.nl
 https://links.informatieservice.nederlandwereldwijd.nl
 https://lint.gebruikercentraal.nl
@@ -11411,7 +11409,6 @@ https://viv-acc.tweedekamer.nl
 https://viv.tweedekamer.nl
 https://vivet.databank.nl
 https://viz.ndw.nu
-https://vizier.bodemrichtlijn.nl
 https://vk.s-bb.nl
 https://vld.rdw.nl
 https://vldbeheer.rdw.nl

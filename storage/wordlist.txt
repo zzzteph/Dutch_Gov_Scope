@@ -34,11 +34,11 @@ redactie
 smtp
 apps
 dev
-beheer
 app
 sip
 connect
 portaal
+beheer
 meet
 ftp
 www.acceptatie
@@ -6899,9 +6899,7 @@ sgr
 xml-gba.demo
 _dc-mx.d31eecba31f5
 linkmanager
-linkmanager5
 quest
-vizier
 www.rijksoverheid
 ncdr
 szw-via

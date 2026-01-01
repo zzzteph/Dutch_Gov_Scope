@@ -3910,7 +3910,6 @@ beheer.acceptatie.omgevingswet.overheid.nl
 beheer.ack.omgevingswet.overheid.nl
 beheer.bigregister.nl
 beheer.bke.kadaster.nl
-beheer.bodemrichtlijn.nl
 beheer.burgernet.nl
 beheer.chat.ind.nl
 beheer.datastelselverduurzamingutiliteit.nl
@@ -11095,7 +11094,6 @@ linkeddata.overheid.nl
 linkeddata.test.cultureelerfgoed.nl
 linkextractor.overheid.nl
 linkmanager.bodemrichtlijn.nl
-linkmanager5.bodemrichtlijn.nl
 links.cultuurparticipatie.nl
 links.informatieservice.nederlandwereldwijd.nl
 lint.gebruikercentraal.nl
@@ -19892,7 +19890,6 @@ viv.tweedekamer.nl
 vivet.databank.nl
 viya.rijkswaterstaat.nl
 viz.ndw.nu
-vizier.bodemrichtlijn.nl
 vk.s-bb.nl
 vlan2006_internet_ac-bgp-r01-1.svb.nl
 vlan2006_internet_ac-bgp-r01-2.svb.nl
