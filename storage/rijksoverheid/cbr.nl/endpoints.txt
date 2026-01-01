@@ -1,4 +1,3 @@
-http://output.cbr.nl
 https://abk-acc.cbr.nl
 https://abk-tst.cbr.nl
 https://abk.cbr.nl
@@ -8,7 +7,6 @@ https://certificeren-toezicht-tst.cbr.nl
 https://certificeren-toezicht.cbr.nl
 https://chip.cbr.nl
 https://examinatoragenda.cbr.nl
-https://extranet.cbr.nl
 https://faq.cbr.nl
 https://financieel-acc.cbr.nl
 https://financieel-tst.cbr.nl
@@ -32,6 +30,7 @@ https://opleidersportaal-tst.cbr.nl
 https://opleidersportaal.cbr.nl
 https://output-acc.cbr.nl
 https://output-tst.cbr.nl
+https://output.cbr.nl
 https://personen-acc.cbr.nl
 https://personen-tst.cbr.nl
 https://personen.cbr.nl
@@ -44,6 +43,8 @@ https://rijbewijzen-tst.cbr.nl
 https://rijbewijzen.cbr.nl
 https://rijdata-acc.cbr.nl
 https://rijdata-tst.cbr.nl
+https://rijdata.cbr.nl
+https://rijdataverwerking-tst.cbr.nl
 https://sensordatacollectie-acc.cbr.nl
 https://sensordatacollectie-tst.cbr.nl
 https://sensordatacollectie.cbr.nl

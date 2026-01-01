@@ -6983,6 +6983,9 @@ rijbewijzen
 rijdata-acc
 rijdata-tst
 rijdata
+rijdataverwerking-acc
+rijdataverwerking-tst
+rijdataverwerking
 sensordatacollectie-acc
 sensordatacollectie-tst
 sensordatacollectie

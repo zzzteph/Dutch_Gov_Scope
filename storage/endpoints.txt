@@ -700,7 +700,6 @@ http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
 http://oud.infowms.nl
 http://oud.visitaties.nl
-http://output.cbr.nl
 http://overlandpark.maps.arcgis.com
 http://overstroomik-acceptance.rws.nl
 http://owas1.nba.nl
@@ -5447,7 +5446,6 @@ https://extern.formulierdus-i.nl
 https://extern.ifv.nl
 https://extrainfo-acc.rijksbegroting.nl
 https://extrainfo.rijksbegroting.nl
-https://extranet.cbr.nl
 https://extranet.eherkenning.nl
 https://extranet.onderwijsraad.nl
 https://extreemrechts.nctv.nl
@@ -8787,6 +8785,7 @@ https://outlook.coa.nl
 https://outlook.svb.nl
 https://output-acc.cbr.nl
 https://output-tst.cbr.nl
+https://output.cbr.nl
 https://outsite.rvr.org
 https://ov-consumentenplatform.nl
 https://ov-kaarten.rijksapplicaties.nl
@@ -9694,6 +9693,8 @@ https://rijbewijzen-tst.cbr.nl
 https://rijbewijzen.cbr.nl
 https://rijdata-acc.cbr.nl
 https://rijdata-tst.cbr.nl
+https://rijdata.cbr.nl
+https://rijdataverwerking-tst.cbr.nl
 https://rijkcirculair.nl
 https://rijkewaddenzee.nl
 https://rijksacademie.nl
