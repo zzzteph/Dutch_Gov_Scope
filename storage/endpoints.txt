@@ -5791,7 +5791,9 @@ https://gateway.afm.nl
 https://gateway.apim.acc.cloudservices.kb.nl
 https://gateway.apim.cloudservices.kb.nl
 https://gateway.cultuurparticipatie.nl
+https://gb.chm-cbd.net
 https://gb.espacenet.com
+https://gb.test.chm-cbd.net
 https://gbavonlinewcf.rdw.nl
 https://gbp-blm-egis.hub.arcgis.com
 https://gcgis-gwinnettcountyga.hub.arcgis.com
@@ -5954,6 +5956,7 @@ https://gghmest.pleio.nl
 https://ggo-vergunningen.nl
 https://ggo-vergunningverlening.nl
 https://ggs-ggc-print-services.kadaster-it.github.io
+https://gh.test.chm-cbd.net
 https://ghis.maps.arcgis.com
 https://ghreports.pages.github.io
 https://gids-backoffice.acc.cloudservices.kb.nl
@@ -6013,6 +6016,7 @@ https://glp.chadwyck.co.uk.access.authkb.kb.nl
 https://gma.cloud.kadaster.nl
 https://gma.test.cloud.kadaster.nl
 https://gn.chm-cbd.net
+https://gn.test.chm-cbd.net
 https://gn2.meet.rijkscloud.nl
 https://gn3.meet.rijkscloud.nl
 https://gnk-ghe-3-org-github-i.gnk-ghe-3-org.github.io
@@ -6726,6 +6730,7 @@ https://jirafunctionapp.pbl.nl
 https://jiraimg-acc.rvo.nl
 https://jiraimg.rvo.nl
 https://jmopendata.cbs.nl
+https://jo.test.chm-cbd.net
 https://jobs.werkenvoornederland.nl
 https://join.odijmond.nl
 https://jokesmitprijs.nl
@@ -7079,6 +7084,7 @@ https://lasbeheer-t.cito.nl
 https://lasbeheer.cito.nl
 https://lavsinfo.nl
 https://law-enforcement.container.hansken.org
+https://lb.test.chm-cbd.net
 https://lbio.nl
 https://lbrproxy.prod.nationaalarchief.nl
 https://lc.cbs.nl
@@ -8161,6 +8167,7 @@ https://ndw.nu
 https://ndwiki.ndw.nu
 https://ndwviewer.ndw.nu
 https://ne.chm-cbd.net
+https://ne.test.chm-cbd.net
 https://near-dimension-github.near-dimension.github.io
 https://nederlandcirculairin2050.nl
 https://nederlanddigitaal.nl
@@ -8292,6 +8299,7 @@ https://nl-alert.nl
 https://nl-alerttijdlijn.nl
 https://nl-i.espacenet.com
 https://nl-works.com
+https://nl.chm-cbd.net
 https://nl.espacenet.com
 https://nladag.nl
 https://nlarbeidsinspectie.nl
@@ -8932,6 +8940,7 @@ https://pge.nctv.nl
 https://pgr-ext.rijkswaterstaat.nl
 https://pgv.cbr.nl
 https://pgw.belastingdienst.nl
+https://ph.test.chm-cbd.net
 https://phantom7666.github.io
 https://phished.fondspodiumkunsten.nl
 https://pianoo-congres.nl

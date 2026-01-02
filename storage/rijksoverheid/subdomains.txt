@@ -8321,8 +8321,10 @@ gatus.lpc.logius.nl
 gb-acpt.nationaalarchief.nl
 gb-ted.nationaalarchief.nl
 gb-test.brabant.nl
+gb.chm-cbd.net
 gb.espacenet.com
 gb.nationaalarchief.nl
+gb.test.chm-cbd.net
 gba-bvr-ftps.belastingdienst.nl
 gba-bvr.belastingdienst.nl
 gbatmv.rvo.nl
@@ -8598,6 +8600,7 @@ ggo-vergunningverlening.nl
 ggs-ggc-print-services.kadaster-it.github.io
 gh-pages.paper-spa.github.io
 gh.chm-cbd.net
+gh.test.chm-cbd.net
 gharvester-oai.dans.knaw.nl
 gharvester-wcp.dans.knaw.nl
 ghis.maps.arcgis.com
@@ -8754,6 +8757,7 @@ gma.cloud.kadaster.nl
 gma.test.cloud.kadaster.nl
 gms-test.lcms.nl
 gn.chm-cbd.net
+gn.test.chm-cbd.net
 gn0.rijkscloud.nl
 gn1.rijkscloud.nl
 gn2.meet.rijkscloud.nl
@@ -10033,6 +10037,7 @@ jitsi.iaas.rijkscloud.nl
 jitsi.rijkscloud.nl
 jmopendata.cbs.nl
 jo.chm-cbd.net
+jo.test.chm-cbd.net
 jobcoach-acc.uwv.nl
 jobcoaching-acc.uwv.nl
 jobcoaching-dev.uwv.nl
@@ -10912,6 +10917,7 @@ lasbeheer.cito.nl
 lasersacom.labs.tno.nl
 lavsinfo.nl
 law-enforcement.container.hansken.org
+lb.test.chm-cbd.net
 lb1.gn3.rijkscloud.nl
 lbio.nl
 lbrproxy.prod.nationaalarchief.nl
@@ -13085,6 +13091,7 @@ ndw.nu
 ndwiki.ndw.nu
 ndwviewer.ndw.nu
 ne.chm-cbd.net
+ne.test.chm-cbd.net
 near-dimension-github.near-dimension.github.io
 nederlandcirculairin2050.nl
 nederlanddigitaal.nl
@@ -13274,6 +13281,7 @@ nl-dictu-nhr-sign.dictu.nl
 nl-dictu-rijkspas.dictu.nl
 nl-i.espacenet.com
 nl-works.com
+nl.chm-cbd.net
 nl.espacenet.com
 nladag.nl
 nlarbeidsinspectie.nl
@@ -14825,6 +14833,7 @@ pgr-ext.rijkswaterstaat.nl
 pgv.cbr.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
+ph.test.chm-cbd.net
 phantom7666.github.io
 philotes.rivm.nl
 phished.fondspodiumkunsten.nl
