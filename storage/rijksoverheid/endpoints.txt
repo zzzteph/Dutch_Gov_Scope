@@ -134,6 +134,7 @@ http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
 http://analytics-acc.cjib.nl
+http://analytics.cjib.nl
 http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
 http://apikey-preprod.ep-online.nl
@@ -2569,7 +2570,6 @@ https://analysis8.arcgis.com
 https://analysis8.az-int.arcgis.com
 https://analytics-radius.raadvanstate.nl
 https://analytics-solutions-esridech.hub.arcgis.com
-https://analytics.cjib.nl
 https://analytics.explorer.kim.rijkscloud.nl
 https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
@@ -11765,6 +11765,7 @@ https://werkcentrumregioamersfoort.nl
 https://werkcentrumzuidkennemerlandenijmond.nl
 https://werkdrukenongewenstgedrag.zelfinspectie.nl
 https://werkelijkeschade.nl
+https://werken-test.cjib.nl
 https://werken.belastingdienst.nl
 https://werken.cjib.nl
 https://werken.diensttoeslagen.nl
