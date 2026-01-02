@@ -7459,6 +7459,8 @@ aanvraag-uzi
 datakluis-portero
 datakluis
 helpdesk-test
+koppelpunt-cloud
+koppelpunt-cloud.test
 koppelpunt
 koppelpunt.test
 ktv-servicedesk
