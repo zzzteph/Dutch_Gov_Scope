@@ -183,6 +183,7 @@ eloket
 a-feeds.a-english
 a-opendata.a-english
 ontwikkel
+download
 evenementen
 merkportaal
 videobellen
@@ -234,7 +235,6 @@ testeloket
 vpn2
 prd
 betalen
-download
 huisstijl
 sharepoint
 website
@@ -771,6 +771,7 @@ nl
 uk
 www.prod
 www.matomo
+acc-portal
 adfs2
 autorisatie
 bestellen
@@ -7142,6 +7143,7 @@ zw.test
 155-47-169-195
 156-47-169-195
 157-47-169-195
+158-47-169-195
 159-47-169-195
 161-47-169-195
 162-47-169-195
@@ -7194,6 +7196,7 @@ zw.test
 52-47-169-195
 53-47-169-195
 54-47-169-195
+55-47-169-195
 56-47-169-195
 57-47-169-195
 58-47-169-195
@@ -7294,6 +7297,7 @@ citoconnect-a
 citoconnect
 citocountingservice-a.secure
 citocountingservice.secure
+citospecial
 citotoets
 cluster2-proeftoets
 coe
@@ -7407,6 +7411,7 @@ ravas-a.secure
 ravas.secure
 rekentoetsvo
 ret-a.secure
+sbo
 screeningslijst-a
 securedownload
 securityservice-a.secure
@@ -7446,9 +7451,6 @@ www.kleutervolgsysteem-a
 www.kleutervolgsysteem-demo
 www.kleutervolgsysteem
 www.secure
-www.zml-a
-www.zml-t
-www.zml
 zml-a
 zml-t
 zml
@@ -11854,7 +11856,6 @@ acc-login.acc-protocol
 acc-ls4
 acc-mft.acc-protocol
 acc-portal.acc-protocol
-acc-portal
 acc-portal2
 acc-probas
 acc-protocol

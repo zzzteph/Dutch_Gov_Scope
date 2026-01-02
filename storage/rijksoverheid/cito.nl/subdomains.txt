@@ -54,6 +54,7 @@
 155-47-169-195.cito.nl
 156-47-169-195.cito.nl
 157-47-169-195.cito.nl
+158-47-169-195.cito.nl
 159-47-169-195.cito.nl
 161-47-169-195.cito.nl
 162-47-169-195.cito.nl
@@ -106,6 +107,7 @@
 52-47-169-195.cito.nl
 53-47-169-195.cito.nl
 54-47-169-195.cito.nl
+55-47-169-195.cito.nl
 56-47-169-195.cito.nl
 57-47-169-195.cito.nl
 58-47-169-195.cito.nl
@@ -148,6 +150,7 @@
 98-47-169-195.cito.nl
 99-47-169-195.cito.nl
 academy.cito.nl
+acc-portal.cito.nl
 acc-www-staging.cito.nl
 acc-www.cito.nl
 adfs.cito.nl
@@ -217,6 +220,7 @@ citoconnect-a.cito.nl
 citoconnect.cito.nl
 citocountingservice-a.secure.cito.nl
 citocountingservice.secure.cito.nl
+citospecial.cito.nl
 citotoets.cito.nl
 cluster2-proeftoets.cito.nl
 cms.cito.nl
@@ -236,6 +240,7 @@ doorstroomtoets-las-a.cito.nl
 doorstroomtoets-las-o.cito.nl
 doorstroomtoets-las-t.cito.nl
 doorstroomtoets-las.cito.nl
+download.cito.nl
 dtiservice.secure.cito.nl
 eindtoets-ouders.cito.nl
 eindtoetsbasisonderwijs.cito.nl
@@ -338,6 +343,7 @@ ravas.secure.cito.nl
 rekentoetsvo.cito.nl
 remote.cito.nl
 ret-a.secure.cito.nl
+sbo.cito.nl
 screeningslijst-a.cito.nl
 secure.cito.nl
 securedownload.cito.nl
@@ -384,9 +390,6 @@ www.kleutervolgsysteem-a.cito.nl
 www.kleutervolgsysteem-demo.cito.nl
 www.kleutervolgsysteem.cito.nl
 www.secure.cito.nl
-www.zml-a.cito.nl
-www.zml-t.cito.nl
-www.zml.cito.nl
 www1.cito.nl
 www2.cito.nl
 zml-a.cito.nl

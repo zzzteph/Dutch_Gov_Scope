@@ -574,6 +574,7 @@
 155-47-169-195.cito.nl
 156-47-169-195.cito.nl
 157-47-169-195.cito.nl
+158-47-169-195.cito.nl
 159-47-169-195.cito.nl
 161-47-169-195.cito.nl
 162-47-169-195.cito.nl
@@ -711,6 +712,7 @@
 52-47-169-195.cito.nl
 53-47-169-195.cito.nl
 54-47-169-195.cito.nl
+55-47-169-195.cito.nl
 55plus.datawonen.nl
 56-47-169-195.cito.nl
 57-47-169-195.cito.nl
@@ -1473,6 +1475,7 @@ acc-paskaart.rivm.nl
 acc-pebbles.pbl.nl
 acc-port-enc.rws.nl
 acc-portal.acc-protocol.mfaservices.nl
+acc-portal.cito.nl
 acc-portal.mfaservices.nl
 acc-portal2.mfaservices.nl
 acc-preview.digid.nl
@@ -5052,6 +5055,7 @@ citoconnect-a.cito.nl
 citoconnect.cito.nl
 citocountingservice-a.secure.cito.nl
 citocountingservice.secure.cito.nl
+citospecial.cito.nl
 citotoets.cito.nl
 citrix.kcb.nl
 city-of-akron-leaf-collection-operations-akrongis.hub.arcgis.com
@@ -6735,6 +6739,7 @@ douane.nl
 douane.sitearchief.nl
 download.belastingdienst.nl
 download.cbs.nl
+download.cito.nl
 download.im.nba.nl
 download.mail.cpb.nl
 download.mail.scp.nl
@@ -16920,6 +16925,7 @@ sbi-api.cbs.nl
 sbi.cbs.nl
 sbi2008.cbs.nl
 sbl.limburg.nl
+sbo.cito.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
 sbr-nl.nl
 sbr-wonen.nl
@@ -22956,9 +22962,6 @@ www.zetjefietshelmop.nl
 www.zetookdeknopom.nl
 www.zichtopnl.nl
 www.zichtopwijken.nl
-www.zml-a.cito.nl
-www.zml-t.cito.nl
-www.zml.cito.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www.zonmw.nl
 www.zorgaanbiedersportaal.nl
