@@ -59,13 +59,13 @@ hybrid
 cdn
 oud
 auth
-accept
 adfs
 opendata.english
 webservices
 docs
 dialin
 onderzoek
+accept
 mail2
 webdisk
 enterpriseregistration
@@ -782,8 +782,6 @@ umbraco
 www-staging
 pay
 acc.www
-develop
-playground
 sparql
 externemail03
 externemail04
@@ -7532,8 +7530,6 @@ webtest
 xelion
 ziem
 wo2
-relayaccept
-relayprod
 devportal
 linkeddata-acc
 sparql-a
@@ -7798,6 +7794,7 @@ reserveren
 regiobeelden
 voorbeelden
 geheugen
+develop
 v1
 acc.lespakketten
 lespakketten
@@ -15511,6 +15508,7 @@ acc.playground
 acc.purl
 editor
 metadata
+playground
 preprod.begrippen
 preprod.editor
 preprod.keycloak
