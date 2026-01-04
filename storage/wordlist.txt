@@ -46,12 +46,12 @@ kennisbank
 remote
 zoeken
 tst
-jaarverslag
 publicaties
 sts
 elearning
 _dmarc
 www.acc
+jaarverslag
 cpanel
 feeds.english
 services
@@ -408,6 +408,7 @@ melding
 simcms
 www.redactie
 experience
+klachten
 development
 tickets
 office
@@ -750,7 +751,6 @@ help
 sentinel5
 workforce
 klachten-acc
-klachten
 nlhull
 nlrdms
 acceptatie-nieuw
@@ -7596,8 +7596,7 @@ test-wiki
 traefik
 www.inschrijven
 zabbix
-aanwijzing-lokaal
-aov
+algemenevragen
 besluiten
 boekenprijs
 intrekkingeigenverzoek
@@ -7606,7 +7605,6 @@ melding-cmoa
 nevenactiviteiten
 publieksvragen-en-signalen
 registratiewebradiokanaal
-serviceportaal
 toestemming-commercieel
 toestemming-evenement
 video-uploader-aanmelding

@@ -1290,7 +1290,6 @@ aanvragen.zuid-holland.nl
 aanwezigheid-ilab.staging.rijksapplicaties.nl
 aanwezigheidsapp-oprijk.rijksapplicaties.nl
 aanwezigheidsbord.huc.knaw.nl
-aanwijzing-lokaal.cvdm.nl
 aapi-community-hub-aauc.hub.arcgis.com
 aardrijkskunde.pleio.nl
 ab-i.espacenet.com
@@ -2501,6 +2500,7 @@ alexandria.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
 alfamatoolkit-lisboaenova.hub.arcgis.com
 algemenebestuursdienst.nl
+algemenevragen.cvdm.nl
 algoritme.overheid.nl
 algoritmen.overheid.nl
 algoritmes.overheid.nl
@@ -2632,7 +2632,6 @@ anyc.ssc-ict.nl
 aoep-iam.rvo.nl
 aofondsrijk.nl
 aon.nin.knaw.nl
-aov.cvdm.nl
 aovpn.afm.nl
 aovpn.lvnl.nl
 aovvt.nl
@@ -9951,7 +9950,6 @@ jaarjournaal.rvo.nl
 jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 jaarverantwoordingzorg.nl
 jaarverslag.acm.nl
-jaarverslag.cvdm.nl
 jaarverslag.dopingautoriteit.nl
 jaarverslag.fondspodiumkunsten.nl
 jaarverslag.knmi.nl
@@ -10690,6 +10688,7 @@ klac.procesinfrastructuur.nl
 klachten-acc.autoriteitpersoonsgegevens.nl
 klachten-acc.s-bb.nl
 klachten.autoriteitpersoonsgegevens.nl
+klachten.cvdm.nl
 klachten.s-bb.nl
 klachtenformulier.mensenrechten.nl
 klachtenformulierlink.mensenrechten.nl
@@ -17169,7 +17168,6 @@ servicedesk.s-bb.nl
 servicedesk.sbr-wonen.nl
 servicemanager-ota.ka.rdw.nl
 serviceplatform-technical-platform.tomtompilot.github.io
-serviceportaal.cvdm.nl
 serviceportal.acceptatie.kadaster.nl
 serviceportal.kadaster.nl
 serviceportal.test.kadaster.nl

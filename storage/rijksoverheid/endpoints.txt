@@ -1875,7 +1875,6 @@ https://aanvragen.zuid-holland.nl
 https://aanwezigheid-ilab.staging.rijksapplicaties.nl
 https://aanwezigheidsapp-oprijk.rijksapplicaties.nl
 https://aanwezigheidsbord.huc.knaw.nl
-https://aanwijzing-lokaal.cvdm.nl
 https://aapi-community-hub-aauc.hub.arcgis.com
 https://aardrijkskunde.pleio.nl
 https://ab-i.espacenet.com
@@ -2513,6 +2512,7 @@ https://alert.amberalert.nl
 https://alfalablog.huygens.knaw.nl
 https://alfamatoolkit-lisboaenova.hub.arcgis.com
 https://algemenebestuursdienst.nl
+https://algemenevragen.cvdm.nl
 https://algoritme.overheid.nl
 https://algoritmen.overheid.nl
 https://algoritmes.overheid.nl
@@ -6965,6 +6965,7 @@ https://kkl-new-kkl.hub.arcgis.com
 https://klachten-acc.autoriteitpersoonsgegevens.nl
 https://klachten-acc.s-bb.nl
 https://klachten.autoriteitpersoonsgegevens.nl
+https://klachten.cvdm.nl
 https://klachten.s-bb.nl
 https://klachtenformulier.mensenrechten.nl
 https://klachtenformulierlink.mensenrechten.nl
