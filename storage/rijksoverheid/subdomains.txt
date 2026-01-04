@@ -1828,6 +1828,7 @@ acceptatie-rws.lcms.nl
 acceptatie-scenario.aerius.nl
 acceptatie-veiligheidsregio.lcms.nl
 acceptatie-waterschappen.lcms.nl
+acceptatie-wsjg.databank.nl
 acceptatie-zaaksysteem.vechtstromen.nl
 acceptatie.aanmelden.gratisvog.nl
 acceptatie.aanvraag.donorgegevens.nl
@@ -4064,6 +4065,7 @@ bestrijdingsmiddelen-omwonenden.nl
 bestuurlijkeweerbaarheid.kennisplatformondermijning.nl
 beta-adc.databank.nl
 beta-aisnbtc.databank.nl
+beta-benchmark-mbotransparant.databank.nl
 beta-berst.databank.nl
 beta-beslotenwaves.databank.nl
 beta-dataportal.cbs.nl
@@ -4078,12 +4080,14 @@ beta-klimaatbeleid.databank.nl
 beta-klimaatmonitor.databank.nl
 beta-laadinfrastructuur.databank.nl
 beta-mobiliteitsregelingen.databank.nl
+beta-monitor-ow-en-wkb.databank.nl
 beta-nbtc.databank.nl
 beta-noordholland.databank.nl
 beta-odata4.cbs.nl
 beta-velsen.databank.nl
 beta-vivet.databank.nl
 beta-waves.databank.nl
+beta-wozbenchmark.databank.nl
 beta-wsjg.databank.nl
 beta.belastingdienst.nl
 beta.buitenlandsebetrekkingen.huygens.knaw.nl
@@ -5304,16 +5308,23 @@ cn-o-no-apigee.espacenet.com
 cn.cbs.nl
 cn.dnb.nl
 cname-adc.databank.nl
+cname-arbeidsmarktmonitor-nbtc.databank.nl
+cname-arbeidsmarktstl.databank.nl
+cname-benchmark-aedes.databank.nl
 cname-benchmarkonderwijs.databank.nl
 cname-benchmarkpovo.databank.nl
 cname-demo-waterbenchmark-org.databank.nl
 cname-erfgoed.databank.nl
+cname-forecast-adc.databank.nl
 cname-holland-rijnland.databank.nl
+cname-impactmonitortoerisme-nbtc.databank.nl
 cname-in-repo-test.paper-spa.github.io
+cname-limburg.databank.nl
 cname-mbotransparant.databank.nl
 cname-nbtc.databank.nl
 cname-noordholland.databank.nl
 cname-onderwijsbenchmark.databank.nl
+cname-vakantieonderzoek-nbtc.databank.nl
 cname-visitor-waterbenchmark-org.databank.nl
 cname-www-waterbenchmark-org.databank.nl
 cname-zeelandscan.databank.nl
@@ -5782,6 +5793,7 @@ cv-mailrelay6.overheid.nl
 cv-mailrelays.overheid.nl
 cvdm.nl
 cvdr.overheid.nl
+cvo.databank.nl
 cvta.nl
 cvte.nl
 cvte.sitearchief.nl
@@ -6128,6 +6140,7 @@ demo.ix.rijkscloud.nl
 demo.jira.odc-noord.nl
 demo.mijn.overheid.nl
 demo.mpc.tno.nl
+demo.neptunus.databank.nl
 demo.odc.pleio.nl
 demo.pb-pk.rivm.nl
 demo.pet.tno.nl
@@ -7165,6 +7178,7 @@ ee.espacenet.com
 eeb.chadwyck.com.access.authkb.kb.nl
 eebo.chadwyck.com.access.authkb.kb.nl
 eef.waterschaplimburg.nl
+eemsdelta.databank.nl
 eendagskentekenbewijsaanvragen.rdw.nl
 eenlogin-acc.kb.nl
 eenlogin.kb.nl
@@ -8193,6 +8207,7 @@ fr.prod.chm-cbd.net
 francodevrije.huygens.knaw.nl
 freesport.slo.nl
 friesland.databank.nl
+frieslandsnb.databank.nl
 front1.rechtspraak.nl
 front2.rechtspraak.nl
 frontend-bao-services.dev-consular.mfaservices.nl
@@ -8619,6 +8634,7 @@ gids-frontoffice.cloudservices.kb.nl
 gima.cloud.kadaster.nl
 gima.test.cloud.kadaster.nl
 gip-a.minbzk.nl
+gip.databank.nl
 gip.minbzk.nl
 gipdatabank.nl
 gipinfo.nl
@@ -12681,6 +12697,7 @@ mondriaanfonds.nl
 monet-dev.dnb.nl
 monet-tst.dnb.nl
 monitor-klimaatadaptatie.zuid-holland.nl
+monitor-ow-en-wkb.databank.nl
 monitor.aerius.nl
 monitor.digitoegankelijk.nl
 monitor.nji.nl
@@ -12905,6 +12922,7 @@ mul-mmi.belastingdienst.nl
 mul-redirect.belastingdienst.nl
 mul.belastingdienst.nl
 multiteam.politieacademie.nl
+municipalbarometer.databank.nl
 muniorg.maps.arcgis.com
 muntvondsten.dnb.nl
 muralidhar.maps.arcgis.com
@@ -13119,6 +13137,7 @@ neodatafoundations-collibra-project.wgu-edu.github.io
 neolatenc.huygens.knaw.nl
 neorah.nl
 neoreloaded.arcgis.com
+neptunus.databank.nl
 neries.knmi.nl
 nessus.tno.nl
 netftp.dictu.nl
@@ -13916,6 +13935,7 @@ open.dnb.nl
 open.minvws.nl
 open.odijmond.nl
 open.overheid.nl
+open.ret.databank.nl
 open.rijkswaterstaat.nl
 open.rws.nl
 open.vechtstromen.nl
@@ -15948,6 +15968,7 @@ radius.zonmw.nl
 radius2.ssc-campus.nl
 radprox01.knaw.nl
 radprox02.knaw.nl
+raedelijn.rosopen.databank.nl
 railstotrails.maps.arcgis.com
 raintoriveratx-austin.hub.arcgis.com
 rally.gn2.rijkscloud.nl
@@ -17907,6 +17928,7 @@ standaarden.omgevingswet.overheid.nl
 standaarden.overheid.nl
 standaarden.rijkswaterstaat.nl
 standaarden.rws.nl
+stap.databank.nl
 stappenplan.simpel-switchen.nl
 start-contract-bij.slo.nl
 start-here.near-dimension.github.io
@@ -18552,6 +18574,7 @@ test-dor.stopheling.nl
 test-dorbeheer.stopheling.nl
 test-dwo.rivm.nl
 test-eas.kadaster.nl
+test-ebc.databank.nl
 test-ebf-internet.procesinfrastructuur.nl
 test-ebms-internet.procesinfrastructuur.nl
 test-ebms.procesinfrastructuur.nl
@@ -19703,6 +19726,7 @@ veiligbestandenversturen.ciz.nl
 veiligbron.duo.nl
 veiligbron.scha.duo.nl
 veiligepubliekedienstverlening.nl
+veiligheidsbeelden.databank.nl
 veiligheidsberaad.nl
 veiligheidsmonitor.databank.nl
 veiligheidsmonitor2012-2019.databank.nl
@@ -19928,6 +19952,7 @@ vluchtinfo-test.douane.nl
 vluchtinfo.douane.nl
 vm-esb.rws.nl
 vm-ivra.ndw.nu
+vmbodoorstroom.databank.nl
 vnacs.nl
 vng.databank.nl
 vno.minbzk.nl
@@ -20103,6 +20128,7 @@ vri-admin.ndw.nu
 vrijstellingmelden.vrachtwagenheffing.nl
 vrijwaringsbewijsaanvragen.rdw.nl
 vrijwilligers.staatsbosbeheer.nl
+vrk.databank.nl
 vrln.databank.nl
 vs-anpr-producer-8085.politie.nl
 vs-tst-auth.dictu.nl
@@ -20157,6 +20183,7 @@ vubis-az.politieacademie.nl
 vubis-t.politieacademie.nl
 vubis.politieacademie.nl
 vubispc.slo.nl
+vue-uitvraag.databank.nl
 vue.databank.nl
 vulnerabilities.acc.ncsc.nl
 vulnerabilities.ncsc.nl
@@ -21445,6 +21472,7 @@ www.circularfestivals.nl
 www.cito.nl
 www.citydeal-acc.s-bb.nl
 www.citydeal.s-bb.nl
+www.ciz.databank.nl
 www.ciz.nl
 www.cjib.nl
 www.ckmbo.nl
@@ -22833,6 +22861,7 @@ www.veterinairberoepscollege.nl
 www.veterinairtuchtcollege.nl
 www.veva.nl
 www.vfpf.nl
+www.vgm-demo.databank.nl
 www.via15.nl
 www.videos.minbzk.nl
 www.viewer.globio.info
@@ -22947,6 +22976,7 @@ www.wodc.nl
 www.woononderzoek.nl
 www.workforce.arcgis.com
 www.workinnl.nl
+www.wozbenchmark.databank.nl
 www.wozep.nl
 www.wozwaardeloket.nl
 www.wrr.nl
@@ -23177,6 +23207,7 @@ zorgcsp.nl
 zorgenjeugdcn.nl
 zorgenveiligheidshuizen.nl
 zorgenwerknetwerk.arboportaal.nl
+zorgenwonen.databank.nl
 zorginstituutnederland.nl
 zorginzicht.nl
 zorgmonitor.databank.nl

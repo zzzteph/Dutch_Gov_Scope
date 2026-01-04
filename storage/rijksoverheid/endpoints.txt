@@ -255,13 +255,16 @@ http://benchmarkpovo.databank.nl
 http://beoordeling.dus-i.nl
 http://bergfashionlibrary.com.access.authkb.kb.nl
 http://besloten-nba-acc.nba.nl
+http://beta-benchmark-mbotransparant.databank.nl
 http://beta-beslotenwaves.databank.nl
 http://beta-dataportal.cbs.nl
 http://beta-ftgelderland.databank.nl
 http://beta-hsw.databank.nl
 http://beta-kis.databank.nl
+http://beta-monitor-ow-en-wkb.databank.nl
 http://beta-odata4.cbs.nl
 http://beta-velsen.databank.nl
+http://beta-vivet.databank.nl
 http://beta-waves.databank.nl
 http://betalen.nba.nl
 http://bevolkingsonderzoek.nl
@@ -316,16 +319,21 @@ http://cms-eef.waterschaplimburg.nl
 http://cms.prod1.contenttoolsrijksoverheid.nl
 http://cn-o-no-apigee-lux.espacenet.com
 http://cn.dnb.nl
+http://cname-arbeidsmarktmonitor-nbtc.databank.nl
+http://cname-arbeidsmarktstl.databank.nl
 http://cname-benchmarkonderwijs.databank.nl
 http://cname-benchmarkpovo.databank.nl
 http://cname-demo-waterbenchmark-org.databank.nl
 http://cname-erfgoed.databank.nl
 http://cname-holland-rijnland.databank.nl
+http://cname-impactmonitortoerisme-nbtc.databank.nl
 http://cname-in-repo-test.paper-spa.github.io
+http://cname-limburg.databank.nl
 http://cname-mbotransparant.databank.nl
 http://cname-nbtc.databank.nl
 http://cname-noordholland.databank.nl
 http://cname-onderwijsbenchmark.databank.nl
+http://cname-vakantieonderzoek-nbtc.databank.nl
 http://cname-visitor-waterbenchmark-org.databank.nl
 http://cname-www-waterbenchmark-org.databank.nl
 http://cname-zeelandscan.databank.nl
@@ -647,6 +655,7 @@ http://mta-sts.kb.nl
 http://mtdphhs.maps.arcgis.com
 http://muralidhar.maps.arcgis.com
 http://myadmin.huc.knaw.nl
+http://nbtc.databank.nl
 http://ncc.gov.nl
 http://netuit.kb.nl
 http://neurodiversity.tno.nl
@@ -894,6 +903,7 @@ http://teebstad.rivm.nl
 http://telewerken.rechtspraak.nl
 http://test-afleveren.procesinfrastructuur.nl
 http://test-cms-eef.waterschaplimburg.nl
+http://test-ebc.databank.nl
 http://test-eef.waterschaplimburg.nl
 http://test-english.rvo.nl
 http://test-init-with-api.paper-spa.github.io
@@ -3383,7 +3393,7 @@ https://beta-laadinfrastructuur.databank.nl
 https://beta-mobiliteitsregelingen.databank.nl
 https://beta-nbtc.databank.nl
 https://beta-noordholland.databank.nl
-https://beta-vivet.databank.nl
+https://beta-wozbenchmark.databank.nl
 https://beta-wsjg.databank.nl
 https://beta.belastingdienst.nl
 https://beta.buitenlandsebetrekkingen.huygens.knaw.nl
@@ -4024,6 +4034,8 @@ https://cmv-kandidaat.sso3w.nl
 https://cmv-opdrachtgever.sso3w.nl
 https://cn.cbs.nl
 https://cname-adc.databank.nl
+https://cname-benchmark-aedes.databank.nl
+https://cname-forecast-adc.databank.nl
 https://cnbdashboard.rdw.nl
 https://co.chm-cbd.net
 https://co.formulierdus-i.nl
@@ -4330,6 +4342,7 @@ https://cursuscurriculumontwerp.slo.nl
 https://cursusprospectus.afm.nl
 https://customer-story-explorer.octodemo.github.io
 https://cvdm.nl
+https://cvo.databank.nl
 https://cvta.nl
 https://cvte.nl
 https://cvte.sitearchief.nl
@@ -4552,6 +4565,7 @@ https://demo.document-viewer.dso.kadaster.nl
 https://demo.federatieveservice.nl
 https://demo.hansken.org
 https://demo.mijn.overheid.nl
+https://demo.neptunus.databank.nl
 https://demo.odc.pleio.nl
 https://demo.pet.tno.nl
 https://demo.repository.huygens.knaw.nl
@@ -5118,6 +5132,7 @@ https://educatie.weekvanhetgeld.nl
 https://ee-i.espacenet.com
 https://ee.espacenet.com
 https://eef.waterschaplimburg.nl
+https://eemsdelta.databank.nl
 https://eendagskentekenbewijsaanvragen.rdw.nl
 https://eenlogin.kb.nl
 https://eenmaligmachtigen.rdw.nl
@@ -5759,6 +5774,7 @@ https://fr.chm-cbd.net
 https://fr.espacenet.com
 https://francodevrije.huygens.knaw.nl
 https://freesport.slo.nl
+https://frieslandsnb.databank.nl
 https://fryslan.leerwerkloket.nl
 https://fryslan.lerenenwerken.nl
 https://fs-pub.rivm.nl
@@ -5984,6 +6000,7 @@ https://gids-core.cloudservices.kb.nl
 https://gima.cloud.kadaster.nl
 https://gima.test.cloud.kadaster.nl
 https://gip-a.minbzk.nl
+https://gip.databank.nl
 https://gip.minbzk.nl
 https://gipdatabank.nl
 https://gird.cloud.kadaster.nl
@@ -7988,6 +8005,7 @@ https://mondriaanfonds.nl
 https://monet-dev.dnb.nl
 https://monet-tst.dnb.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
+https://monitor-ow-en-wkb.databank.nl
 https://monitor.aerius.nl
 https://monitor.digitoegankelijk.nl
 https://monitor.rijksapplicaties.nl
@@ -8070,6 +8088,7 @@ https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
 https://mul.belastingdienst.nl
+https://municipalbarometer.databank.nl
 https://muniorg.maps.arcgis.com
 https://muntvondsten.dnb.nl
 https://murder-case.om.nl
@@ -8153,7 +8172,6 @@ https://nb.voedingscentrum.nl
 https://nba.nl
 https://nbso-brazil.com.br
 https://nbso-texas.com
-https://nbtc.databank.nl
 https://nc-a.rvb.rijkscloud.nl
 https://nc-openbaar.vallei-veluwe.nl
 https://nc.rivm.rijkscloud.nl
@@ -8207,6 +8225,7 @@ https://neo-databricks.wgu-edu.github.io
 https://neodatafoundations-collibra-project.wgu-edu.github.io
 https://neolatenc.huygens.knaw.nl
 https://neorah.nl
+https://neptunus.databank.nl
 https://netherlandsandyou.nl
 https://netherlandspointofentry.nl
 https://netherlandsworldwide.nl
@@ -8616,6 +8635,7 @@ https://open.dnb.nl
 https://open.minvws.nl
 https://open.odijmond.nl
 https://open.overheid.nl
+https://open.ret.databank.nl
 https://open.rijkswaterstaat.nl
 https://open.vechtstromen.nl
 https://open.waterschaplimburg.nl
@@ -9490,6 +9510,7 @@ https://radius-acc.raadvanstate.nl
 https://radius.niwo.nl
 https://radius.nvao.net
 https://radius.raadvanstate.nl
+https://raedelijn.rosopen.databank.nl
 https://raintoriveratx-austin.hub.arcgis.com
 https://rapbeheer.rdw.nl
 https://rapportaardgaswinning.tweedekamer.nl
@@ -10433,6 +10454,7 @@ https://standaarden.omgevingswet.overheid.nl
 https://standaarden.overheid.nl
 https://standaarden.rijkswaterstaat.nl
 https://standaarden.rws.nl
+https://stap.databank.nl
 https://stappenplan.simpel-switchen.nl
 https://start-contract-bij.slo.nl
 https://start-here.near-dimension.github.io
@@ -11322,6 +11344,7 @@ https://veelgesteldevragenomgevingswet.pleio.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
 https://veiligbestandenversturen.ciz.nl
 https://veiligepubliekedienstverlening.nl
+https://veiligheidsbeelden.databank.nl
 https://veiligheidsberaad.nl
 https://veiligheidsmonitor.databank.nl
 https://veiligheidsmonitor2012-2019.databank.nl
@@ -11455,6 +11478,7 @@ https://vldbeheer.rdw.nl
 https://vliegbewijsonbemandeluchtvaartuigencontroleren.rdw.nl
 https://vliegtuiggeluid.nl
 https://vm-ivra.ndw.nu
+https://vmbodoorstroom.databank.nl
 https://vnacs.nl
 https://vng.databank.nl
 https://vo-rijk-acc.cjib.nl
@@ -11549,6 +11573,7 @@ https://vri-admin.ndw.nu
 https://vrijstellingmelden.vrachtwagenheffing.nl
 https://vrijwaringsbewijsaanvragen.rdw.nl
 https://vrijwilligers.staatsbosbeheer.nl
+https://vrk.databank.nl
 https://vrln.databank.nl
 https://vso.pleio.nl
 https://vsp.acm.nl
@@ -11565,6 +11590,7 @@ https://vubis-az-t.politieacademie.nl
 https://vubis-az.politieacademie.nl
 https://vubis-t.politieacademie.nl
 https://vubis.politieacademie.nl
+https://vue-uitvraag.databank.nl
 https://vue.databank.nl
 https://vulnerabilities.acc.ncsc.nl
 https://vulnerabilities.ncsc.nl
@@ -12263,6 +12289,7 @@ https://www.circulairmaterialenplan.nl
 https://www.circularandfairictpact.com
 https://www.circularfestivals.nl
 https://www.cito.nl
+https://www.ciz.databank.nl
 https://www.ciz.nl
 https://www.cjib.nl
 https://www.ckmbo.nl
@@ -13496,6 +13523,7 @@ https://www.wlo2025.nl
 https://www.wodc.nl
 https://www.woononderzoek.nl
 https://www.workinnl.nl
+https://www.wozbenchmark.databank.nl
 https://www.wozep.nl
 https://www.wozwaardeloket.nl
 https://www.wrr.nl
@@ -13624,6 +13652,7 @@ https://zorgcsp.nl
 https://zorgenjeugdcn.nl
 https://zorgenveiligheidshuizen.nl
 https://zorgenwerknetwerk.arboportaal.nl
+https://zorgenwonen.databank.nl
 https://zorginstituutnederland.nl
 https://zorginzicht.nl
 https://zorgopdekaart.nl
