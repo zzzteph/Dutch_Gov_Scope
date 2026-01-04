@@ -19,8 +19,8 @@ a-www
 magazines
 vpn
 login
-www-acc
 werkenbij
+www-acc
 link
 data
 a-opendata
@@ -787,6 +787,7 @@ externemail03
 externemail04
 rest
 www.toolkit
+afas
 ldap
 metabase
 regio
@@ -7571,6 +7572,7 @@ airbyte
 ambitie
 ansible
 augurk
+cafetaria
 cloudie
 crystal
 dbpostgres
@@ -9584,7 +9586,6 @@ accept.control
 accept.github-push
 accept.web
 accept.web.nmp
-afas
 darktrace
 iti-acceptance
 iti-test
