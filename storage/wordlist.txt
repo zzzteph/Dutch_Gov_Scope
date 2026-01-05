@@ -93,6 +93,7 @@ git
 preview
 media
 beta
+mta-sts
 geo
 kennis
 proto
@@ -110,7 +111,6 @@ mx1
 aanvragen
 admin
 papiamentu
-mta-sts
 acceptatie.beheer
 acceptatie.mijn
 demo
