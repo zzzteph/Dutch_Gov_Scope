@@ -33,6 +33,7 @@ http://acc-maps.rws.nl
 http://acc-mft.rivm.nl
 http://acc-mijnlmm.rivm.nl
 http://acc-participantapi.postcovidonderzoek.nl
+http://acc-preview.digid.nl
 http://acc-researcher.postcovidonderzoek.nl
 http://acc-sapphire.tno.nl
 http://acc-tdv.rivm.nl
@@ -139,14 +140,9 @@ http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
 http://apikey-preprod.ep-online.nl
 http://apollo.databank.nl
-http://app-a1.digid.nl
-http://app-a2.digid.nl
 http://app-a3.digid.nl
-http://app-a4.digid.nl
-http://app-a5.digid.nl
 http://app-a6.digid.nl
 http://app-olja02.hex.tno.nl
-http://app-preprod1.digid.nl
 http://app-vf01.hex.tno.nl
 http://appl.rdi.nl
 http://applications-acc.globalentry-rtp.nl
@@ -909,6 +905,7 @@ http://test-init-with-api.paper-spa.github.io
 http://test-machtigen.digipoort.logius.nl
 http://test-mbotransparant.databank.nl
 http://test-number-two.gnk-ghe-2-org.github.io
+http://test-preview.digid.nl
 http://test-website.rvo.nl
 http://test.alexandria.huygens.knaw.nl
 http://test.atlasnatuurlijkkapitaal.nl
@@ -1923,6 +1920,7 @@ https://acb.test.chm-cbd.net
 https://acc-ags.rijkswaterstaat.nl
 https://acc-auth.rivm.nl
 https://acc-bergerselect.rws.nl
+https://acc-cms.digid.nl
 https://acc-cms.projecten.rvo.nl
 https://acc-cms.projects.rvo.nl
 https://acc-cms.rvo.nl
@@ -2016,6 +2014,7 @@ https://acc.dashboardgroningen.nl
 https://acc.dcat-ap-donl.nl
 https://acc.derdekamer.nl
 https://acc.dictu.nl
+https://acc.digid.nl
 https://acc.digitaltrustcenter.nl
 https://acc.drupaloverheid.nl
 https://acc.duurzaamdoor.nl
@@ -2638,7 +2637,6 @@ https://api-gateway.archis.cultureelerfgoed.nl
 https://api-gateway.rechtspraak.nl
 https://api-ota.belastingdienst.nl
 https://api-preprod1.digid.nl
-https://api-preprod2.digid.nl
 https://api-recepten.voedingscentrum.nl
 https://api-samenmeten.rivm.nl
 https://api-sec.p-direkt.nl
@@ -2785,6 +2783,9 @@ https://apopka.maps.arcgis.com
 https://apos-int.erp.kadaster.nl
 https://apos.erp.kadaster.nl
 https://app-a.svb.nl
+https://app-a1.digid.nl
+https://app-a4.digid.nl
+https://app-a5.digid.nl
 https://app-api.acc.mgo.irealisatie.nl
 https://app-api.test.mgo.irealisatie.nl
 https://app-bluebird01.hex.tno.nl
@@ -2795,7 +2796,7 @@ https://app-grafa01.hex.tno.nl
 https://app-o.svb.nl
 https://app-o1.digid.nl
 https://app-planttes-eulaliabota.hub.arcgis.com
-https://app-preprod2.digid.nl
+https://app-preprod1.digid.nl
 https://app-solar01.hex.tno.nl
 https://app-t.svb.nl
 https://app-test.raadvanstate.nl
@@ -5012,7 +5013,6 @@ https://duurzameescaperoom-light-vr.belastingdienst.nl
 https://duurzameescaperoom-vr.belastingdienst.nl
 https://duurzamemobiliteit.databank.nl
 https://duvo-web-api.rivm.nl
-https://dv.ontwikkel.machtigen.digid.nl
 https://dva-mock.test.mgo.irealisatie.nl
 https://dva.belastingdienst.nl
 https://dva.rdw.nl
@@ -5167,7 +5167,6 @@ https://ehpzee.emissieautoriteit.nl
 https://ehrv.rdw.nl
 https://ehs.flevoland.nl
 https://eid-preprod1.digid.nl
-https://eid-preprod2.digid.nl
 https://eid.digid.nl
 https://eida-oculus.orfeus-eu.org
 https://eidas-mijn.duo.nl
@@ -7369,7 +7368,6 @@ https://login.naktuinbouw.com
 https://login.odc-noord.nl
 https://login.pilot.uzi-online.minvws.nl
 https://login.pp1.digid.nl
-https://login.pp2.digid.nl
 https://login.proeftuin.uzi-online.irealisatie.nl
 https://login.pzp.nl
 https://login.rivm.nl
@@ -7830,7 +7828,6 @@ https://mijn.odc-noord.nl
 https://mijn.overheid.nl
 https://mijn.parlement.nl
 https://mijn.preprod1.digid.nl
-https://mijn.preprod2.digid.nl
 https://mijn.productie.lcms.nl
 https://mijn.pzp.nl
 https://mijn.rdi.nl
@@ -8451,7 +8448,6 @@ https://oap.ind.nl
 https://oat.dev.huc.knaw.nl
 https://oauth-apitraffic-acc.dictu.nl
 https://oauth.k8sauth.pleio.nl
-https://ob.ontwikkel.machtigen.digid.nl
 https://obfcm-beheer.rdw.nl
 https://obfcm.rdw.nl
 https://obi-t.knaw.nl
@@ -8622,7 +8618,6 @@ https://ontw-pzpdirect.pzp.nl
 https://ontw-www.pzp.nl
 https://ontw.app.pzp.nl
 https://ontw.livechat.pzp.nl
-https://ontwikkel.machtigen.digid.nl
 https://onzedelta.nl
 https://oofggz.nl
 https://oordelen.mensenrechten.nl
@@ -9229,7 +9224,6 @@ https://preprod.playground.stelselcatalogus.nl
 https://preprod.purl.stelselcatalogus.nl
 https://preprod.stelselcatalogus.nl
 https://preprod1.digid.nl
-https://preprod2.digid.nl
 https://preprodch4p.emissieautoriteit.nl
 https://preprodcher.emissieautoriteit.nl
 https://preprodehd.emissieautoriteit.nl
@@ -9549,7 +9543,6 @@ https://rcihh.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
 https://rda-preprod1.digid.nl
-https://rda-preprod2.digid.nl
 https://rda.digid.nl
 https://rda.nl
 https://rdi.nl
@@ -10277,6 +10270,7 @@ https://snippet.wlo2025.nl
 https://sniv.osiris.rivm.nl
 https://snow-cw.dictu.nl
 https://soap.acceptatie.machtigen.digid.nl
+https://soap.machtigen.digid.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl
 https://soap.osiris.rivm.nl
 https://sociaalfonds.minienm.nl
@@ -10760,6 +10754,7 @@ https://test-bp.stopheling.nl
 https://test-bron.waterschaplimburg.nl
 https://test-calculator.aerius.nl
 https://test-cms-bron.waterschaplimburg.nl
+https://test-cms.digid.nl
 https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl
 https://test-cms.rvo.nl
@@ -10839,6 +10834,7 @@ https://test.cruksregister.nl
 https://test.csirtdsp.nl
 https://test.designthinking.gebruikercentraal.nl
 https://test.dictu.nl
+https://test.digid.nl
 https://test.digikoppeling.nidos.nl
 https://test.digitaleoverheid.nl
 https://test.digitaltrustcenter.nl
@@ -11632,7 +11628,6 @@ https://wallboardbuitenleven.apps.staatsbosbeheer.nl
 https://wap.nak.nl
 https://wapenfeiten.zuid-holland.nl
 https://was-preprod1.digid.nl
-https://was-preprod2.digid.nl
 https://was.digid.nl
 https://wateetnederland.nl
 https://water-amerigeoss.opendata.arcgis.com
