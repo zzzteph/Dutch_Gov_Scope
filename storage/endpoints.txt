@@ -183,7 +183,6 @@ http://autodiscover.ctgb.nl
 http://autodiscover.cultuurparticipatie.nl
 http://autodiscover.cvdm.nl
 http://autodiscover.dans.knaw.nl
-http://autodiscover.dekinderombudsman.nl
 http://autodiscover.dh.huc.knaw.nl
 http://autodiscover.di.huc.knaw.nl
 http://autodiscover.dnb.nl
@@ -4545,6 +4544,7 @@ https://definities.dmi-ecosysteem.nl
 https://definities.sbr-wonen.nl
 https://degezondheidsraad.sitearchief.nl
 https://dejuistezorgopdejuisteplek.nl
+https://dekinderombudsman.nl
 https://delichtkogel.nl
 https://delivery.pdok.nl
 https://delpher-cms.kb.nl
@@ -8078,6 +8078,7 @@ https://msnp.pleio.nl
 https://msoid.nak.nl
 https://msteamnotification.wgu-edu.github.io
 https://mta-sts.belastingdienst.nl
+https://mta-sts.dekinderombudsman.nl
 https://mta-sts.mail.cggp.nl
 https://mta-sts.nza.nl
 https://mta-sts.vechtstromen.nl

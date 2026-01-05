@@ -110,6 +110,7 @@ mx1
 aanvragen
 admin
 papiamentu
+mta-sts
 acceptatie.beheer
 acceptatie.mijn
 demo
@@ -139,7 +140,6 @@ academie
 adobe-analytics-dc
 adobe-tags
 enterpriseenrollment
-mta-sts
 werken
 acceptatie.behandel
 behandel

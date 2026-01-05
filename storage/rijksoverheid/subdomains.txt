@@ -3430,7 +3430,6 @@ autodiscover.cvdm.nl
 autodiscover.cvte.nl
 autodiscover.dans.knaw.nl
 autodiscover.deafsluitdijk.nl
-autodiscover.dekinderombudsman.nl
 autodiscover.dh.huc.knaw.nl
 autodiscover.di.huc.knaw.nl
 autodiscover.dnb.nl
@@ -6103,6 +6102,7 @@ degezondheidsraad.sitearchief.nl
 degruyter.com.access.authkb.kb.nl
 dei.nji.nl
 dejuistezorgopdejuisteplek.nl
+dekinderombudsman.nl
 delichtkogel.nl
 delivery.pdok.nl
 delivery.test.pdok.nl
@@ -12896,6 +12896,7 @@ msteamnotification.wgu-edu.github.io
 mta-a.svb.nl
 mta-p.svb.nl
 mta-sts.belastingdienst.nl
+mta-sts.dekinderombudsman.nl
 mta-sts.kb.nl
 mta-sts.mail.cggp.nl
 mta-sts.nza.nl
