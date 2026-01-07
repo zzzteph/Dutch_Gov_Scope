@@ -31,8 +31,8 @@ e
 formulieren
 werkplek
 redactie
-smtp
 apps
+smtp
 dev
 app
 sip
@@ -8522,6 +8522,10 @@ simulator.acc
 simulator
 apps-o
 apps-t
+cr-data-o
+cr-data
+cr-o
+cr
 ecoc-a
 ecoc-o
 ecoc-t

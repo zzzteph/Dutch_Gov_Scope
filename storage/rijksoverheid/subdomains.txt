@@ -3081,6 +3081,7 @@ apps.arcgis.com
 apps.brepolis.net.access.authkb.kb.nl
 apps.dictu.nl
 apps.duo.nl
+apps.eucaris.net
 apps.feedfoodtransfer.nl
 apps.hhdelfland.nl
 apps.hogeraad.nl
@@ -5661,6 +5662,10 @@ cprsprod.afm.nl
 cps.pkioverheid.nl
 cptst.vcdn.belastingdienst.nl
 cpw.bvi.politie.nl
+cr-data-o.eucaris.net
+cr-data.eucaris.net
+cr-o.eucaris.net
+cr.eucaris.net
 crc-hub-segrass.hub.arcgis.com
 creaim-etoegang-acc.sso.eherkenning.nl
 creaim-etoegang-pp.sso.eherkenning.nl
