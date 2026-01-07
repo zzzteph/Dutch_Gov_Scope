@@ -526,7 +526,6 @@ seg
 statline
 storing
 tunnel
-upload
 welkombij
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
@@ -1977,6 +1976,7 @@ test.status
 tunnel1
 uitgaven
 uitwisseling
+upload
 videoplatform
 videos
 vocabs
@@ -8520,7 +8520,6 @@ simulator-dev
 simulator-tst
 simulator.acc
 simulator
-upload.acc
 apps-o
 apps-t
 ecoc-a
