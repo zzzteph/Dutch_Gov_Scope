@@ -5,7 +5,6 @@ https://digidentity-staging.sso.eherkenning.nl
 https://digidentity.sso.eherkenning.nl
 https://eherkenning.nl
 https://extranet.eherkenning.nl
-https://kpn-eid-acc.sso.eherkenning.nl
 https://kpn-eid-dev.sso.eherkenning.nl
 https://kpn-eid-pp.sso.eherkenning.nl
 https://kpn-eid-tst.sso.eherkenning.nl
@@ -17,7 +16,6 @@ https://reconi-etoegang-acc.sso.eherkenning.nl
 https://reconi-etoegang-pp.sso.eherkenning.nl
 https://reconi-etoegang-tst.sso.eherkenning.nl
 https://reconi-etoegang.sso.eherkenning.nl
-https://signicat-qa.sso.eherkenning.nl
 https://signicat-staging.sso.eherkenning.nl
 https://signicat.sso.eherkenning.nl
 https://test-dictu.eherkenning.nl
