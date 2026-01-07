@@ -2594,6 +2594,7 @@ analytics-solutions-esridech.hub.arcgis.com
 analytics.caop.nl
 analytics.cjib.nl
 analytics.dataplatform.knmi.nl
+analytics.eerstekamer.nl
 analytics.explorer.kim.rijkscloud.nl
 analytics.feni.ienw.rijkscloud.nl
 analytics.ienw.rijkscloud.nl
@@ -12202,6 +12203,7 @@ mig.cbs.nl
 migrantcards.huygens.knaw.nl
 migrants-test.red.huygens.knaw.nl
 migratie.rivm.nl
+migratie.ssc.eerstekamer.nl
 migratieaws.pleio.nl
 mijn-a.nipv.nl
 mijn-a.uwv.nl

@@ -235,6 +235,7 @@ http://autodiscover.venvn.nl
 http://autodiscover.waarborg.nl
 http://autodiscover.webmail.politieacademie.nl
 http://autodiscover.zonmw.nl
+http://autodoc.eerstekamer.nl
 http://autorisatie.rechtspraak.nl
 http://av1.nba.nl
 http://awa001.acc.belastingdienst.nl
@@ -422,6 +423,7 @@ http://energiearmoede.tno.nl
 http://energielabel-checker.rvo.nl
 http://english-data.rvo.nl
 http://english.rivmmagazines.nl
+http://enquete.eerstekamer.nl
 http://eov.acceptatie.rws.nl
 http://epistolarium.huygens.knaw.nl
 http://euir.rechtspraak.nl
@@ -2581,6 +2583,7 @@ https://analysis8.arcgis.com
 https://analysis8.az-int.arcgis.com
 https://analytics-radius.raadvanstate.nl
 https://analytics-solutions-esridech.hub.arcgis.com
+https://analytics.eerstekamer.nl
 https://analytics.explorer.kim.rijkscloud.nl
 https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
@@ -3078,7 +3081,6 @@ https://autodiscover.summercourt.nl
 https://autodiscover.svb.nl
 https://autodiscover.via15.nl
 https://autodiscover.waarderingskamer.nl
-https://autodoc.eerstekamer.nl
 https://autorisatie-a.cito.nl
 https://autorisatie-o.cito.nl
 https://autorisatie-preprod.brabant.nl
@@ -5313,7 +5315,6 @@ https://english.wrr.nl
 https://english.zorgenjeugdcn.nl
 https://english.zorginstituutnederland.nl
 https://enlets.politie.nl
-https://enquete.eerstekamer.nl
 https://enquete.werkenbijdefensie.nl
 https://enquetes.pleio.nl
 https://enroll-tkmw.tweedekamer.nl
@@ -7774,6 +7775,7 @@ https://middenholland.leerwerkloket.nl
 https://middenlimburg.leerwerkloket.nl
 https://middenlimburg.lerenenwerken.nl
 https://mig.cbs.nl
+https://migratie.ssc.eerstekamer.nl
 https://migratieaws.pleio.nl
 https://mijn-a.nipv.nl
 https://mijn-aanvraag.belastingdienst.nl
