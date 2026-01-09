@@ -2097,6 +2097,7 @@ account.pleio.nl
 accounts-dev.arcgis.com
 accounts-stg.arcgis.com
 accounts.arcgis.com
+accounts.atabase.gratisvog.nl
 accounts.cbs.nl
 accounts.ix.rijkscloud.nl
 accounts.kim.rijkscloud.nl
@@ -2268,6 +2269,7 @@ adfspa.politieacademie.nl
 adkc.dopingautoriteit.nl
 adlib.rathenau.knaw.nl
 admin-acc.globalentry-rtp.nl
+admin.atabase.gratisvog.nl
 admin.denkmee.zuid-holland.nl
 admin.deweekvandecirculaireeconomie.nl
 admin.globalentry-rtp.nl
@@ -2732,6 +2734,7 @@ api.acc6.machtigen.digid.nl
 api.acceptatie.kadaster.nl
 api.acceptatie.politie.nl
 api.acceptatie.vaarweginformatie.nl
+api.accounts.atabase.gratisvog.nl
 api.acm.nl
 api.acp.business.gov.nl
 api.acp.kvk.nl
@@ -2759,12 +2762,14 @@ api.buitenlevenvakanties.nl
 api.burgemeesterworden.politiekeambtsdragers.nl
 api.business.gov.nl
 api.caelus-tool.nl
+api.cases.atabase.gratisvog.nl
 api.cccd.platformrijksoverheidonline.nl
 api.coa.nl
 api.cokz.nl
 api.competentnl.nl
 api.contenttoolsrijksoverheid.nl
 api.crimediggers.nl
+api.crm.atabase.gratisvog.nl
 api.cursus.rijkscloud.nl
 api.dashboardgroningen.nl
 api.dataloop-acc.dnb.nl
@@ -2782,6 +2787,7 @@ api.developer.overheid.nl
 api.digid.nl
 api.digitalenoordzee.nl
 api.diplomatieke-getuigenissen.huygens.knaw.nl
+api.dms.atabase.gratisvog.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
@@ -2790,6 +2796,8 @@ api.dst.test.kadaster.nl
 api.duo.nl
 api.eerstekamer.nl
 api.enlets.politie.nl
+api.finance.atabase.gratisvog.nl
+api.forms.atabase.gratisvog.nl
 api.ienw.ix.rijkscloud.nl
 api.ilent.nl
 api.ivopzee.nl
@@ -2832,6 +2840,7 @@ api.pdok.cloud.kadaster.nl
 api.pdok.nl
 api.performance.ix.rijkscloud.nl
 api.politie.nl
+api.portal.atabase.gratisvog.nl
 api.portal.dnb.nl
 api.preprod.mijn.overheid.nl
 api.prolander.nl
@@ -3196,6 +3205,7 @@ architectenregister.nl
 architecture.arcgis.com
 architectuurexplains.rijksapplicaties.nl
 architectuurexplains.staging.rijksapplicaties.nl
+archive.atabase.gratisvog.nl
 archive.developers.arcgis.com
 archivedevext.developers.arcgis.com
 arcpadapi.arcgis.com
@@ -3288,6 +3298,7 @@ at-o.espacenet.com
 at.espacenet.com
 at.rws.nl
 ata.tno.nl
+atabase.gratisvog.nl
 atc-covid19data-austin.hub.arcgis.com
 atender.dnb.nl
 atgb.nl
@@ -3343,6 +3354,7 @@ auth-register.aerius.nl
 auth-tst.dictu.nl
 auth.acceptatie.kadaster.nl
 auth.acm.nl
+auth.atabase.gratisvog.nl
 auth.dataplatform.knmi.nl
 auth.denkmee.zuid-holland.nl
 auth.developer.overheid.nl
@@ -4706,6 +4718,7 @@ case-studies-pwa.hub.arcgis.com
 case360-a.politieacademie.nl
 case360-t.politieacademie.nl
 case360.politieacademie.nl
+cases.atabase.gratisvog.nl
 casing-repo.paper-spa.github.io
 casitas-in-tucson-cotgis.hub.arcgis.com
 casos-de-uso-plataformacovid.hub.arcgis.com
@@ -5515,6 +5528,7 @@ consultatie.knmi.nl
 consultatievepsychiatrie.venvn.nl
 consumenten.voedingscentrum.nl
 consuwijzer.nl
+contact.atabase.gratisvog.nl
 contactformulier.acc.onderwijsinspectie.nl
 contactformulier.onderwijsinspectie.nl
 contactherstelservice.lpc.mijn.overheid.nl
@@ -5689,6 +5703,7 @@ crlresidues.rivm.nl
 crm-fto.erp.kadaster.nl
 crm-int.erp.kadaster.nl
 crm-ont.erp.kadaster.nl
+crm.atabase.gratisvog.nl
 crm.cbi.eu
 crm.cultuurparticipatie.nl
 crm.erp.kadaster.nl
@@ -6640,6 +6655,7 @@ dmo.geodoc.dso.kadaster.nl
 dmo.omgevingswet.overheid.nl
 dmo.ozon.dso.kadaster.nl
 dmponline.rivm.nl
+dms.atabase.gratisvog.nl
 dms.hhdelfland.nl
 dms.o.extern.minszw.nl
 dmzntp1.dictu.nl
@@ -7716,6 +7732,7 @@ exp2-ebms-internet.procesinfrastructuur.nl
 exp2-wus-internet.procesinfrastructuur.nl
 exp2.procesinfrastructuur.nl
 expeditiewaddenkust.nl.rijkewaddenzee.nl
+expenses.atabase.gratisvog.nl
 expenses.sso3w.nl
 experience.arcgis.com
 experience.crimediggers.nl
@@ -8066,6 +8083,7 @@ fileuploaderservice.secure.cito.nl
 film.chadwyck.co.uk.access.authkb.kb.nl
 filmexploitatie.filmfonds.nl
 filmfonds.nl
+finance.atabase.gratisvog.nl
 financials.werkenvoornederland.nl
 financieel-acc.cbr.nl
 financieel-tst.cbr.nl
@@ -8152,6 +8170,7 @@ formio-v4.wgu-edu.github.io
 forms-acc.nvwa.nl
 forms-api.wgu-edu.github.io
 forms-behandel.isms.cibg.nl
+forms.atabase.gratisvog.nl
 forms.hhdelfland.nl
 forms.iplo.nl
 forms.klopt.cibg.nl
@@ -9193,6 +9212,7 @@ hostmaster.summerschool2023.nl
 hostmaster.werkenbijdkh.nl
 hotnews.maps.arcgis.com
 houdmisdaaduitjebuurt.nl
+hours.atabase.gratisvog.nl
 houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.nl
 houseofrepresentatives.test.tweedekamer.nl
@@ -9834,6 +9854,7 @@ investerenin.zuid-holland.nl
 investeringsimpulsspv.nl
 investinholland.com
 invoermodule.kennisplein.intranet.minienm.nl
+invoicing.atabase.gratisvog.nl
 inweva.ndw.nu
 inzagepersoonsgegevens.rdw.nl
 inzageverzoekpersoonsgegevensindienen.rdw.nl
@@ -11078,6 +11099,7 @@ libertycountyga.maps.arcgis.com
 library.pressdisplay.com.access.authkb.kb.nl
 library.tno.nl
 librarylinkt.apps.staatsbosbeheer.nl
+libreoffice.atabase.gratisvog.nl
 libvo-a.cito.nl
 libvo-o.cito.nl
 libvo-t.cito.nl
@@ -13640,6 +13662,7 @@ obfcm.rdw.nl
 obi-o.knaw.nl
 obi-t.knaw.nl
 obi.knaw.nl
+objects.atabase.gratisvog.nl
 objects.gn2.rijkscloud.nl
 objects.gn3.rijkscloud.nl
 objects.rw1.rijkscloud.nl
@@ -15112,6 +15135,7 @@ portaal-iuc-acceptatie.rijkscloud.nl
 portaal-tst.afm.nl
 portaal.acc.belastingdienst.nl
 portaal.afm.nl
+portaal.atabase.gratisvog.nl
 portaal.belastingdienst.nl
 portaal.competent.cibg.nl
 portaal.ctgb.nl
@@ -15145,6 +15169,7 @@ portal-performance.test.ix.rijkscloud.nl
 portal-sigtec.hub.arcgis.com
 portal-test-escap.hub.arcgis.com
 portal.afm.nl
+portal.atabase.gratisvog.nl
 portal.cbs.nl
 portal.cibg.nl
 portal.cito.nl
@@ -15670,6 +15695,7 @@ profgeodata.static.basisinformatie-overstromingen.nl
 profiel.acc.mijn.overheid.nl
 profiel.acc1.mijn.overheid.nl
 profiel.acc2.mijn.overheid.nl
+profile.atabase.gratisvog.nl
 profiles.werkenbijdefensie.nl
 prognosemodelzw.databank.nl
 prognoses.databank.nl
@@ -15697,6 +15723,7 @@ projectie.cultuurparticipatie.nl
 projectnet.zonmw.nl
 projects-acc.rvo.nl
 projects-tst.rvo.nl
+projects.atabase.gratisvog.nl
 projects.knmi.nl
 projects.pages.ds-ocw.rijkscloud.nl
 projects.pages.mintst1.ix.rijkscloud.nl
@@ -16978,6 +17005,7 @@ sbweb19-p2.coa.nl
 sc-webserver-001.nin.knaw.nl
 scaling-bassoon.paper-spa.github.io
 scanmail.rdw.nl
+scanner.atabase.gratisvog.nl
 scansys.huurcommissie.nl
 scatterometer.knmi.nl
 scenario.aerius.nl
@@ -19217,6 +19245,7 @@ trainingvalsgeld.dnb.nl
 tran-web-ns001.valys.nl
 transcriptions.globalise.huygens.knaw.nl
 transfer-dwh.kb.nl
+transfer.atabase.gratisvog.nl
 transfer.kb.nl
 transfer.naktuinbouw.nl
 transfer.ofgv.nl

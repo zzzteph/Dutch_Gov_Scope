@@ -138,6 +138,12 @@ http://amp-pre.logius.nl
 http://amp.logius.nl
 http://analytics-acc.cjib.nl
 http://analytics.cjib.nl
+http://api.accounts.atabase.gratisvog.nl
+http://api.cases.atabase.gratisvog.nl
+http://api.crm.atabase.gratisvog.nl
+http://api.dms.atabase.gratisvog.nl
+http://api.finance.atabase.gratisvog.nl
+http://api.forms.atabase.gratisvog.nl
 http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
 http://apikey-preprod.ep-online.nl
@@ -2995,6 +3001,7 @@ https://auth-register-gat.aerius.nl
 https://auth-register-pentest.aerius.nl
 https://auth-register.aerius.nl
 https://auth.acceptatie.kadaster.nl
+https://auth.atabase.gratisvog.nl
 https://auth.denkmee.zuid-holland.nl
 https://auth.developer.overheid.nl
 https://auth.dictu.nl
@@ -7221,6 +7228,7 @@ https://lib-doorstroomtoets.cito.nl
 https://library.pressdisplay.com.access.authkb.kb.nl
 https://library.tno.nl
 https://librarylinkt.apps.staatsbosbeheer.nl
+https://libreoffice.atabase.gratisvog.nl
 https://libvo-a.cito.nl
 https://libvo-o.cito.nl
 https://libvo-t.cito.nl
@@ -10038,6 +10046,7 @@ https://sbweb15-p2.coa.nl
 https://sbweb19-p1.coa.nl
 https://sbweb19-p2.coa.nl
 https://scaling-bassoon.paper-spa.github.io
+https://scanner.atabase.gratisvog.nl
 https://scansys.huurcommissie.nl
 https://scatterometer.knmi.nl
 https://scenario.aerius.nl
