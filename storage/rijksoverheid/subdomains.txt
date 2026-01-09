@@ -4360,6 +4360,9 @@ bon.rijksdienstcn.com
 bonusers.arcgis.com
 books.google.com.access.authkb.kb.nl
 boone-gis.maps.arcgis.com
+bootstrap.dfaas.hansken.org
+bootstrap.inzage.hansken.org
+bootstrap.learning.hansken.org
 boportaalkd.belastingdienst.nl
 boportaalkdo.belastingdienst.nl
 boportaalkdt.belastingdienst.nl
@@ -7272,6 +7275,9 @@ elabel.pleio.nl
 elaborate.huygens.knaw.nl
 eladownload.belastingdienst.nl
 elastic.onderzoeksraad.nl
+elasticsearch.dfaas.hansken.org
+elasticsearch.inzage.hansken.org
+elasticsearch.learning.hansken.org
 elcaf-usflibrary.hub.arcgis.com
 elearning-atb.nctv.nl
 elearning-basiscrisisbeheersing.nctv.nl
@@ -7778,6 +7784,9 @@ externemailsaas.knmi.nl
 externemailsaas.rivm.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
+extraction.dfaas.hansken.org
+extraction.inzage.hansken.org
+extraction.learning.hansken.org
 extrainfo-acc.rijksbegroting.nl
 extrainfo.rijksbegroting.nl
 extranet.cbr.nl
@@ -9856,6 +9865,7 @@ investinholland.com
 invoermodule.kennisplein.intranet.minienm.nl
 invoicing.atabase.gratisvog.nl
 inweva.ndw.nu
+inzage.hansken.org
 inzagepersoonsgegevens.rdw.nl
 inzageverzoekpersoonsgegevensindienen.rdw.nl
 inzenden.knawonderwijsprijs.nl
@@ -10669,7 +10679,9 @@ keycloak.analyse.ilt.rijkscloud.nl
 keycloak.devops.rvb.rijkscloud.nl
 keycloak.dfaas.hansken.org
 keycloak.dgdoobi.rijkscloud.nl
+keycloak.inzage.hansken.org
 keycloak.ix.rijkscloud.nl
+keycloak.learning.hansken.org
 keycloak.mintst.rijkscloud.nl
 keycloak.ndw.nu
 keycloak.onlinepublicatie.topinkomens.nl
@@ -14906,6 +14918,9 @@ philotes.rivm.nl
 phished.fondspodiumkunsten.nl
 phonebook.knaw.nl
 php74.visitaties.nl
+phpldapadmin.dfaas.hansken.org
+phpldapadmin.inzage.hansken.org
+phpldapadmin.learning.hansken.org
 phpmyadmin-test.vm-02.azure.grid.rws.nl
 pi-extern.wcm.acceptatie.kadaster.nl
 pi-extern.wcm.kadaster.nl
@@ -19218,6 +19233,9 @@ tpk-ac.zorginzicht.nl
 tpk.zorginzicht.nl
 tr-i.espacenet.com
 tr.espacenet.com
+trace.dfaas.hansken.org
+trace.inzage.hansken.org
+trace.learning.hansken.org
 track.nederlandwereldwijd.nl
 track.netherlandsworldwide.nl
 track.uwv.nl

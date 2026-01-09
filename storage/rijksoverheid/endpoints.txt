@@ -283,6 +283,9 @@ http://blaiseish2.cbs.nl
 http://bloomsburyfashioncentral.com.access.authkb.kb.nl
 http://bmw9520.waddenzee.nl
 http://books.google.com.access.authkb.kb.nl
+http://bootstrap.dfaas.hansken.org
+http://bootstrap.inzage.hansken.org
+http://bootstrap.learning.hansken.org
 http://broadband-bedfordvagis.hub.arcgis.com
 http://broker-preprod.bronhouderportaal-bro.nl
 http://brt.kadaster.nl
@@ -422,6 +425,9 @@ http://eebo.chadwyck.com.access.authkb.kb.nl
 http://eenlogin-acc.kb.nl
 http://eindtoets-ouders.cito.nl
 http://eindtoetsbasisonderwijs.cito.nl
+http://elasticsearch.dfaas.hansken.org
+http://elasticsearch.inzage.hansken.org
+http://elasticsearch.learning.hansken.org
 http://elevation3ddev.arcgis.com
 http://emax.test.gf.irealisatie.nl
 http://embraceintranet.flevoland.nl
@@ -438,6 +444,9 @@ http://europapoort.eerstekamer.nl
 http://ewrs.rivm.nl
 http://examen-vo.cito.nl
 http://extern.knmi.nl
+http://extraction.dfaas.hansken.org
+http://extraction.inzage.hansken.org
+http://extraction.learning.hansken.org
 http://ezines.rvo.nl
 http://ezips-app.rivm.nl
 http://facades-conversion.labs.dans.knaw.nl
@@ -535,6 +544,7 @@ http://intern.afm.nl
 http://intra.dans.knaw.nl
 http://intranet-acc.vfpf.nl
 http://intranet.ctgb.nl
+http://inzage.hansken.org
 http://irma.toegangtotdeoverheid.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 http://jaarverslag.uwv.nl
@@ -549,6 +559,7 @@ http://kat.rdosecurity.nl
 http://keiko.brba.nl
 http://kennisbank.raadvanstate.nl
 http://keycloak.dfaas.hansken.org
+http://keycloak.inzage.hansken.org
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
 http://klant-beheer-acp.acc.cloudservices.kb.nl
@@ -564,7 +575,6 @@ http://kwalificatie-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie.proeftuin.gf.irealisatie.nl
 http://kwaliteitstoetsing.nba.nl
 http://landsat.arcgis.com
-http://learning.hansken.org
 http://license.labs.dans.knaw.nl
 http://lims.rivm.nl
 http://link.ptvt.nl
@@ -729,6 +739,9 @@ http://pe-upload.nba.nl
 http://perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
 http://pers.letterenfonds.nl
 http://php74.visitaties.nl
+http://phpldapadmin.dfaas.hansken.org
+http://phpldapadmin.inzage.hansken.org
+http://phpldapadmin.learning.hansken.org
 http://picarta.nl.access.authkb.kb.nl
 http://pilot3.praatmeemetdeoverheid.nl
 http://pki-g2.kvk.nl
@@ -948,6 +961,9 @@ http://topas-nl-fc.tno.nl
 http://topas.tno.nl
 http://topdesk-wvl.rijkswaterstaat.nl
 http://topdesk.rijkswaterstaat.nl
+http://trace.dfaas.hansken.org
+http://trace.inzage.hansken.org
+http://trace.learning.hansken.org
 http://trade.rvo.nl
 http://train-gatsby-action.interstellar-tars.github.io
 http://training-advies.cito.nl
@@ -6953,6 +6969,7 @@ https://keycloak-ext.dgdoobi.rijkscloud.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://keycloak.acc.onlinepublicatie.topinkomens.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
+https://keycloak.learning.hansken.org
 https://keycloak.ndw.nu
 https://keycloak.onlinepublicatie.topinkomens.nl
 https://keycloak.pleio.nl
@@ -7141,6 +7158,7 @@ https://lea-registry.hansken.org
 https://leap.lvnl.nl
 https://leapwork.rvr.org
 https://learn.arcgis.com
+https://learning.hansken.org
 https://learningnetwork.pleio.nl
 https://ledendomein.platformparticipatie.nl
 https://leefbaarenveilig.nl
