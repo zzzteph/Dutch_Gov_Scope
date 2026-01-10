@@ -57,6 +57,7 @@ feeds.english
 services
 hybrid
 cdn
+onderzoek
 oud
 auth
 adfs
@@ -64,7 +65,6 @@ opendata.english
 webservices
 docs
 dialin
-onderzoek
 accept
 mail2
 webdisk
@@ -288,7 +288,6 @@ cm
 stage
 backend
 web
-da
 mijn.acceptatie
 community
 feedback
@@ -455,6 +454,7 @@ pilot
 www.old
 test-www
 www.jaarverslag
+da
 federatie
 via
 helloid
@@ -829,7 +829,6 @@ sip1
 mijnzaak-acc
 sync
 passwordreset
-timetell
 elotest
 kerncijfers
 japan
@@ -9667,7 +9666,6 @@ accept.control
 accept.github-push
 accept.web
 accept.web.nmp
-darktrace
 iti-acceptance
 iti-test
 iti
@@ -11614,6 +11612,7 @@ tileserver.huc
 timbuctoo-prod.red.huygens
 timbuctoo-repo-prod.red.huygens
 timetell-test
+timetell
 tjalie-robinson.huygens
 tkemp01
 tlhms31.dans

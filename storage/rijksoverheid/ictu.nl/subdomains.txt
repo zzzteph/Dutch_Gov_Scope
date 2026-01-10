@@ -7,8 +7,6 @@ accept.web.nmp.ictu.nl
 acceptatie.ictu.nl
 afas.ictu.nl
 autodiscover.ictu.nl
-da.ictu.nl
-darktrace.ictu.nl
 enterpriseregistration.ictu.nl
 hybrid.ictu.nl
 ictu.nl
@@ -20,6 +18,7 @@ mail.ictu.nl
 ns1.dns.ictu.nl
 ns2.dns.ictu.nl
 office.ictu.nl
+onderzoek.ictu.nl
 onedrive.ictu.nl
 passwordreset.ictu.nl
 portaal.ictu.nl
@@ -39,7 +38,6 @@ test.github-push.ictu.nl
 test.ictu.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
-timetell.ictu.nl
 topdesk.ictu.nl
 vpn.ictu.nl
 vpn.web.ictu.nl
