@@ -282,7 +282,6 @@ analytics
 tools
 idm
 acc-cms
-elo
 probeer
 cm
 stage
@@ -397,6 +396,7 @@ intra
 klantportaal
 test-cms
 handboek
+elo
 communicatieportaal
 ontheffingaanvragen
 pdok
@@ -829,7 +829,6 @@ sip1
 mijnzaak-acc
 sync
 passwordreset
-elotest
 kerncijfers
 japan
 2021
@@ -9688,8 +9687,6 @@ test.web
 test.web.nmp
 vpn.web
 yammer
-etalage
-etalagetest
 mijnexamens
 revi
 www.publiek
@@ -12494,6 +12491,7 @@ beheer-tgv-test
 beheer-tgv
 e-tracking
 ecpc.acceptatie
+elotest
 exactctxgw
 exactportal
 ikzoekmijnnaaste.acceptatie

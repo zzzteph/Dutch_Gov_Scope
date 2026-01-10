@@ -5218,7 +5218,6 @@ https://elevation3d.arcgis.com
 https://elink.ertms.nl
 https://elkeregiotelt.nl
 https://elo.brandweer.nl
-https://elo.ifv.nl
 https://elo.nipv.nl
 https://elo.veiligheidsregioflevoland.nl
 https://eloket-test.s-bb.nl
@@ -5227,7 +5226,6 @@ https://eloket.cvdm.nl
 https://eloket.flevoland.nl
 https://eloket.s-bb.nl
 https://eloket.vallei-veluwe.nl
-https://elotest.ifv.nl
 https://elotest.nipv.nl
 https://elpasoco.maps.arcgis.com
 https://elswout.staatsbosbeheer.nl
@@ -5399,8 +5397,6 @@ https://esp.ssc-campus.nl
 https://espacenet.com
 https://esri-disasterresponse.hub.arcgis.com
 https://et.chm-cbd.net
-https://etalage.ifv.nl
-https://etalagetest.ifv.nl
 https://etc.cloud.kadaster.nl
 https://etc.test.cloud.kadaster.nl
 https://etender.dnb.nl
