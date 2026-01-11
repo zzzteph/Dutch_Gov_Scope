@@ -9696,6 +9696,7 @@ wordpress
 wp
 cma-acc
 cma
+accelerate
 bak-jp
 bak-kor
 bak-tw
@@ -9707,8 +9708,10 @@ german
 japan.dev
 korea.dev
 korea
+protein.accelerate
 taiwan.dev
 taiwan
+tech
 www.bak-jp
 www.china
 www.german
