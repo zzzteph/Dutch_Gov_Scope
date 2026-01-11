@@ -50,7 +50,6 @@ publicaties
 sts
 elearning
 _dmarc
-www.acc
 jaarverslag
 cpanel
 feeds.english
@@ -60,6 +59,7 @@ cdn
 onderzoek
 oud
 auth
+www.acc
 adfs
 opendata.english
 webservices
@@ -230,7 +230,6 @@ toolkit
 assets
 idp
 downloads
-redirect
 testeloket
 vpn2
 prd
@@ -287,6 +286,7 @@ cm
 stage
 backend
 web
+redirect
 mijn.acceptatie
 community
 feedback
@@ -9719,7 +9719,6 @@ www.japan
 www.korea
 www.taiwan
 www.uk
-www.redirect
 3d
 3d.test
 3dgeluid
