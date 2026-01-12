@@ -1633,6 +1633,7 @@ acc.inspectieresultaten.nvwa.nl
 acc.inspectieview.nl
 acc.intranet-demo.dictu.nl
 acc.intranet.justis.nl
+acc.intranet.kansspelautoriteit.nl
 acc.intranet.rvig.nl
 acc.irealisatie.nl
 acc.isdatechtzo.nl
@@ -14307,6 +14308,7 @@ open-wave.odijmond.nl
 open.brabant.nl
 open.cjib.nl
 open.dnb.nl
+open.kansspelautoriteit.nl
 open.minvws.nl
 open.odijmond.nl
 open.overheid.nl

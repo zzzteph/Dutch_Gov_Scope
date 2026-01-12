@@ -64,6 +64,7 @@ www.acc
 adfs
 opendata.english
 webservices
+open
 dialin
 accept
 mail2
@@ -71,7 +72,6 @@ webdisk
 enterpriseregistration
 ns2
 beeldbank
-open
 static
 digikoppeling
 www2
@@ -367,6 +367,7 @@ authenticatie
 nextcloud
 privacy
 guest
+acc.intranet
 test.intranet
 metrics
 a
@@ -594,7 +595,6 @@ kat.acc
 kat
 test3
 vog
-acc.intranet
 private
 sbc01.acpt
 sbc02.acpt
