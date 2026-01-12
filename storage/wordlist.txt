@@ -54,6 +54,7 @@ jaarverslag
 cpanel
 feeds.english
 services
+webservices
 hybrid
 docs
 cdn
@@ -63,7 +64,6 @@ auth
 www.acc
 adfs
 opendata.english
-webservices
 open
 dialin
 accept
