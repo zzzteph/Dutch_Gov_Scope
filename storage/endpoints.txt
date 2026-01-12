@@ -146,6 +146,7 @@ http://api.finance.atabase.gratisvog.nl
 http://api.forms.atabase.gratisvog.nl
 http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
+http://api.woz.kadaster.nl
 http://apikey-preprod.ep-online.nl
 http://apollo.databank.nl
 http://app-a3.digid.nl
@@ -569,11 +570,14 @@ http://kosteneffectiviteit-preventie.rivm.nl
 http://krf-2-acp.acc.cloudservices.kb.nl
 http://krs-beheer-prd.cloudservices.kb.nl
 http://kso2011.databank.nl
+http://kss-signinghub-acc.test.kadaster.nl
+http://kss-signinghub-eto.kadaster.nl
 http://kvb-wsp.p-dc.ba.uwv.nl
 http://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie.proeftuin.gf.irealisatie.nl
 http://kwaliteitstoetsing.nba.nl
+http://labs.dst.test.cloud.kadaster.nl
 http://landsat.arcgis.com
 http://license.labs.dans.knaw.nl
 http://lims.rivm.nl
@@ -594,6 +598,7 @@ http://lookapp.tno.nl
 http://lotos-euros.tno.nl
 http://luistertoets.cito.nl
 http://lv109366-web01-out.eerstekamer.nl
+http://lvb.kadaster.nl
 http://lync.nba.nl
 http://lync1.nba.nl
 http://m.jaarverslag.uwv.nl
@@ -611,6 +616,7 @@ http://mail.werkenbijdefensie.nl
 http://mailing.halt.nl
 http://managementapi.vragenlijst-acc.rivm.nl
 http://managementapi.vragenlijst.rivm.nl
+http://map.test.cloud.kadaster.nl
 http://mappingtool.acc.cloudservices.kb.nl
 http://maps-north-ayrshire.opendata.arcgis.com
 http://maps.fa.knaw.nl
@@ -646,6 +652,7 @@ http://mijn.logerenbijdeboswachter.nl
 http://mijn.tweedekamer.nl
 http://mijnmobiel.nba.nl
 http://milieuportaal.rivm.nl
+http://minio.ddd.test.cloud.kadaster.nl
 http://minio2.labs.dans.knaw.nl
 http://mip-proxy-acc.rws.nl
 http://mip-proxy-prod.rws.nl
@@ -658,10 +665,18 @@ http://monarchy-in-turmoil.huygens.knaw.nl
 http://mondgezondheidsdashboard.vzinfo.nl
 http://monitorarbeid-data.tno.nl
 http://monitoring.huc.knaw.nl
+http://ms.gus.test.kadaster.nl
+http://ms.kss.test.kadaster.nl
+http://ms.myk.test.kadaster.nl
+http://ms.nur.test.kadaster.nl
+http://ms.opleiding.geoportal.test.kadaster.nl
+http://ms.opleiding.kir.test.kadaster.nl
+http://ms.sandbox.geoportal.test.kadaster.nl
 http://msbds.tno.nl
 http://mta-sts.kb.nl
 http://mtdphhs.maps.arcgis.com
 http://muralidhar.maps.arcgis.com
+http://mwm2mail.marktonderzoek.kadaster.nl
 http://myadmin.huc.knaw.nl
 http://nbtc.databank.nl
 http://ncc.gov.nl
@@ -683,6 +698,9 @@ http://notificatie-preprod.api.ep-online.nl
 http://npkd.nl
 http://nsl-monitoring.rivm.nl
 http://nt2.cito.nl
+http://ntrip.cloud.kadaster.nl
+http://ntrip1-netpos.cloud.kadaster.nl
+http://ntrip2-netpos.cloud.kadaster.nl
 http://nvi-registratie-service.test.gf.irealisatie.nl
 http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
@@ -742,6 +760,7 @@ http://php74.visitaties.nl
 http://phpldapadmin.dfaas.hansken.org
 http://phpldapadmin.inzage.hansken.org
 http://phpldapadmin.learning.hansken.org
+http://pi-myk.wcm.test.kadaster.nl
 http://picarta.nl.access.authkb.kb.nl
 http://pilot3.praatmeemetdeoverheid.nl
 http://pki-g2.kvk.nl
@@ -749,6 +768,7 @@ http://pki.dnb.nl
 http://pleinplus.kb.nl
 http://pm-bounces.ndw.nu
 http://portal-a.cito.nl
+http://portal.lvb.test.kadaster.nl
 http://postmaster.ertms.nl
 http://powerbi.knaw.nl
 http://preprod.bvd.logius.nl
@@ -775,6 +795,7 @@ http://public.mondriaanfonds.nl
 http://publicatieservice-bms-acc.officielebekendmakingen.nl
 http://publicatieservice-rps-acc.officielebekendmakingen.nl
 http://publicwebservices-dcr.cibg.nl
+http://pulse.test.kadaster.nl
 http://pure.knaw.nl
 http://pwa001.belastingdienst.nl
 http://py-selenium-test-automation.wgu-edu.github.io
@@ -784,6 +805,7 @@ http://qr-app-webservice.rijksapplicaties.nl
 http://r-wasm.github.io
 http://racine-water-utility-racine-wu.hub.arcgis.com
 http://railstotrails.maps.arcgis.com
+http://rec.test.cloud.kadaster.nl
 http://redactie.rwskennisplatform.rws.nl
 http://redactie.tno.nl
 http://redirect.rechtspraak.nl
@@ -796,6 +818,7 @@ http://rekentop.nba.nl
 http://release.isis-web.nl
 http://remdoc.huygens.knaw.nl
 http://repoa.brentjo-testorg.github.io
+http://reps.test.kadaster.nl
 http://research.kb.nl
 http://reserved-cesar-db.knmi.nl
 http://resolver.kb.nl
@@ -839,6 +862,8 @@ http://secure-acceptatie.grip.rivm.nl
 http://secure.huygens.knaw.nl
 http://seed.status.chm-cbd.net
 http://seg.cbs.nl
+http://serviceportal.acceptatie.kadaster.nl
+http://serviceportal.kadaster.nl
 http://services.gmh.dans.knaw.nl
 http://services.kb.nl
 http://services5.arcgis.com
@@ -864,6 +889,7 @@ http://spmgis.maps.arcgis.com
 http://ssi-lab.sensorlab.tno.nl
 http://ssl.cokz.nl
 http://sso.api.rivm.nl
+http://sss.cloud.kadaster.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
 http://staging.halt.nl
@@ -891,6 +917,7 @@ http://storing.knaw.nl
 http://styleguide.cibg.nl
 http://sub.gezondekinderopvang.nl
 http://sub.gezondeschool.nl
+http://support.pdok.test.cloud.kadaster.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
 http://survey.tno.nl
@@ -898,6 +925,7 @@ http://survey123.arcgis.com
 http://svnmvn.huygens.knaw.nl
 http://swka.rivm.nl
 http://takemobi4.github.io
+http://tax.test.kadaster.nl
 http://technische-documentatie.oep.overheid.nl
 http://technologiezoektondernemer.tno.nl
 http://techtransfer.tno.nl
@@ -1020,6 +1048,9 @@ http://vegetatiemonitor.rws.nl
 http://velocity.arcgis.com
 http://velocity6001.arcgis.com
 http://velocitydevext.arcgis.com
+http://verbeterdekaart.acceptatie.kadaster.nl
+http://verbeterdekaart.kadaster.nl
+http://verbeterdeluchtvaartkaart.acceptatie.kadaster.nl
 http://verzekeringsproducten.belastingdienst.nl
 http://vf-test.tno.nl
 http://video.belastingdienst.nl
@@ -1028,6 +1059,7 @@ http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
 http://viep.brba.nl
 http://view.herseninstituut.knaw.nl
+http://viewer.sensorenregister.test.cloud.kadaster.nl
 http://vindjeplek-app.rivm.nl
 http://viya.rijkswaterstaat.nl
 http://voi.brabant.nl
@@ -1047,6 +1079,7 @@ http://web-itonics10.hex.tno.nl
 http://web-octoplus01.tno.nl
 http://web-plesk81.tno.nl
 http://web.a.ebscohost.com.access.authkb.kb.nl
+http://web.mgcp.test.kadaster.nl
 http://web.nba.nl
 http://web.proeftuin.gf.irealisatie.nl
 http://web1.nba.nl
@@ -1795,6 +1828,7 @@ https://948c4220.near-dimension.github.io
 https://948c4221.near-dimension.github.io
 https://95-47-169-195.cito.nl
 https://ACC.RD.dictu.nl
+https://Connect.kadaster.nl
 https://Lyncdiscover.lbio.nl
 https://RDSapplications00.svb.nl
 https://RDSapplications01.svb.nl
@@ -2415,7 +2449,6 @@ https://advisories.ncsc.nl
 https://advisories.test.ncsc.nl
 https://advisorycommitteeinternationallaw.nl
 https://advocaten.ind.nl
-https://ae.dae.test.kadaster.nl
 https://aec-customer-success-stories-arcaec.hub.arcgis.com
 https://aedesforecast.databank.nl
 https://aerialphotography-geoscience-au.hub.arcgis.com
@@ -2701,6 +2734,7 @@ https://api.developer.dnb.nl
 https://api.developer.overheid.nl
 https://api.digid.nl
 https://api.dnb.nl
+https://api.dst.kadaster.nl
 https://api.dst.test.kadaster.nl
 https://api.eerstekamer.nl
 https://api.enlets.politie.nl
@@ -2771,7 +2805,6 @@ https://apiback.eerstekamer.nl
 https://apikey.ep-online.nl
 https://apim-icc.svb.nl
 https://apim.datalab-01.azure.grid.rws.nl
-https://apiportal.acceptatie.kadaster.nl
 https://apiportal.dictu.nl
 https://apiportal.kadaster.nl
 https://apiportal.rdw.nl
@@ -3045,6 +3078,7 @@ https://authlab.dezi.nl
 https://authorization.acceptatie.kadaster.nl
 https://authorization.kadaster.nl
 https://authorization.ontwikkeling.kadaster.nl
+https://authorization.test.kadaster.nl
 https://autodiscover.aandeslagmetdeomgevingswet.nl
 https://autodiscover.aofondsrijk.nl
 https://autodiscover.aovvt.nl
@@ -3123,6 +3157,7 @@ https://azwstatline.cbs.nl
 https://b-acc.asbestvolgsysteem.nl
 https://b12c9226.near-dimension.github.io
 https://b30-micol-a01p.int.ssc-campus.nl
+https://babst.gma.kadaster.nl
 https://back2roots.nioo.knaw.nl
 https://backbone.ndw.nu
 https://backbone.politieacademie.nl
@@ -3145,7 +3180,6 @@ https://bag.test.basisregistraties.overheid.nl
 https://bag.test.kadaster.nl
 https://bag2.basisregistraties.overheid.nl
 https://bagviewer.kadaster.nl
-https://bagviewer.test.kadaster.nl
 https://baja-sdg-performance-management-ucsdonline.hub.arcgis.com
 https://balie.acc.woo.irealisatie.nl
 https://balie.dpr.irealisatie.nl
@@ -3244,6 +3278,7 @@ https://beeldverhalen.staatsbosbeheer.nl
 https://begeleiderspasaanvragen.rdw.nl
 https://beginnenbij.afm.nl
 https://begrippen.hdsr.nl
+https://begrippen.kadaster.nl
 https://begrippen.noraonline.nl
 https://begrippen.stelselcatalogus.nl
 https://begrippen.waterschaplimburg.nl
@@ -3362,7 +3397,6 @@ https://berwyn-inspection-hub-gis-mmsa.hub.arcgis.com
 https://bes-acc.fiu-nederland.nl
 https://bes.fiu-nederland.nl
 https://bes.kadaster.nl
-https://bes.test.kadaster.nl
 https://beschermdecultuurgoederen.nl
 https://beslagleggen.rdw.nl
 https://beslisboom.rijksapplicaties.nl
@@ -3420,6 +3454,7 @@ https://beterbediend.rws.nl
 https://beterwerkeninhetopenbaarbestuur.pleio.nl
 https://beterwordenvancorona.zuid-holland.nl
 https://beveiligd.kadaster.nl
+https://beveiligd.test.kadaster.nl
 https://bevolkingsprognose.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://bewegingsonderwijs.slo.nl
@@ -3508,6 +3543,8 @@ https://bizzmine.rva.nl
 https://bj.chm-cbd.net
 https://bj.test.chm-cbd.net
 https://bkd.eu
+https://bke.cloud.kadaster.nl
+https://bke.test.cloud.kadaster.nl
 https://bkk.odmh.nl
 https://bkt-prd.cloudservices.kb.nl
 https://bkwi.nl
@@ -3607,6 +3644,7 @@ https://briefwisseling-bosboom-toussaint.huygens.knaw.nl
 https://brievenhermans.huygens.knaw.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
+https://brk.test.cloud.kadaster.nl
 https://brkpb.cloud.kadaster.nl
 https://brkpb.test.cloud.kadaster.nl
 https://bro.pleio.nl
@@ -4045,6 +4083,8 @@ https://cname-benchmark-aedes.databank.nl
 https://cname-forecast-adc.databank.nl
 https://cname-in-repo-test.paper-spa.github.io
 https://cnbdashboard.rdw.nl
+https://cnt.cloud.kadaster.nl
+https://cnt.test.cloud.kadaster.nl
 https://co.chm-cbd.net
 https://co.formulierdus-i.nl
 https://co2emissiefactoren.nl
@@ -4150,6 +4190,7 @@ https://connect.ctgb.nl
 https://connect.dji.nl
 https://connect.ikz.nl
 https://connect.justitieleictorganisatie.nl
+https://connect.kadaster.nl
 https://connect.kinderbescherming.nl
 https://connect.knmi.nl
 https://connect.niwo.nl
@@ -4158,6 +4199,8 @@ https://connect.rivm.nl
 https://connect.schadefonds.nl
 https://connect.ssc-campus.nl
 https://connect.wodc.nl
+https://connect1.kadaster.nl
+https://connect2.kadaster.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://consexponano.nl
@@ -4286,8 +4329,12 @@ https://crisiswerkplek.rijkswaterstaat.nl
 https://crisiswerkplek.rws.nl
 https://crl.npkd.nl
 https://crl.pkioverheid.nl
+https://crm-fto.erp.kadaster.nl
+https://crm-int.erp.kadaster.nl
+https://crm-ont.erp.kadaster.nl
 https://crm.cbi.eu
 https://crm.cultuurparticipatie.nl
+https://crm.erp.kadaster.nl
 https://crm.nza.nl
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
@@ -4331,6 +4378,7 @@ https://csr.pleio.nl
 https://cst-syslog.test.cloud.kadaster.nl
 https://cst.cloud.kadaster.nl
 https://cst.kadaster.nl
+https://cst.test.cloud.kadaster.nl
 https://cstm.rivm.nl
 https://cta.rvo.nl
 https://ctd.rws.nl
@@ -4341,6 +4389,7 @@ https://cts.acc.woo.irealisatie.nl
 https://cts.test.woo.irealisatie.nl
 https://ctx.rijksapplicaties.nl
 https://ctx.staging.rijksapplicaties.nl
+https://cua.erp.kadaster.nl
 https://cuixing100876.github.io
 https://cultureelerfgoed.nl
 https://cultureelerfgoed.sitearchief.nl
@@ -4375,6 +4424,8 @@ https://czisxfrxky7ywyy.raadvoorplantenrassen.nl
 https://d2val.staging.ndw.nu
 https://da.stimuleringsfonds.nl
 https://da.zonmw.nl
+https://dae.kadaster.nl
+https://dae.test.kadaster.nl
 https://dafne.ndw.nu
 https://daggegevens.knmi.nl
 https://dagvandefg.nl
@@ -4406,6 +4457,7 @@ https://dashboards.datalab-2.ocw.rijkscloud.nl
 https://dashboards.ilt-idlab.rijkscloud.nl
 https://dashboards.ilt.rijkscloud.nl
 https://dashboards.ipi.rijkscloud.nl
+https://dashboards.kadaster.nl
 https://dashboards.ndw.nu
 https://dashboards.rdi.rijkscloud.nl
 https://dashboards.rijksoverheid.nl
@@ -4448,6 +4500,7 @@ https://data.emissieregistratie.nl
 https://data.flevoland.nl
 https://data.geo.cultureelerfgoed.nl
 https://data.huygens.knaw.nl
+https://data.kkg.dst.cloud.kadaster.nl
 https://data.kkg.kadaster.nl
 https://data.knmi.nl
 https://data.labs.kadaster.nl
@@ -4477,6 +4530,7 @@ https://datahuiswadden.waddenzee.nl
 https://datalab.knmi.nl
 https://datalekken-acc.autoriteitpersoonsgegevens.nl
 https://datalekken.autoriteitpersoonsgegevens.nl
+https://dataleveringen.kadaster.nl
 https://dataloket.zuid-holland.nl
 https://dataloop-acc.dnb.nl
 https://dataloop-test.dnb.nl
@@ -4576,6 +4630,7 @@ https://demo.bronhouderportaal-bro.nl
 https://demo.chm-cbd.net
 https://demo.document-viewer.dso.kadaster.nl
 https://demo.federatieveservice.nl
+https://demo.geodoc.dso.kadaster.nl
 https://demo.hansken.org
 https://demo.mijn.overheid.nl
 https://demo.neptunus.databank.nl
@@ -4602,6 +4657,9 @@ https://denkvooruit.nl
 https://denw.hdsr.nl
 https://deploy-vraagje.doeonbeperktmee.nl
 https://deployment.biedboek.nl
+https://depos.acceptatie.kadaster.nl
+https://depos.kadaster.nl
+https://depos.test.kadaster.nl
 https://derdekamer.nl
 https://dermatologie.venvn.nl
 https://design-system.cito.nl
@@ -4680,6 +4738,7 @@ https://developer.apis.rechtspraak.nl
 https://developer.arcgis.com
 https://developer.dataplatform.knmi.nl
 https://developer.integratieplatform.rdw.nl
+https://developer.kadaster.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
 https://developer.rivm.nl
@@ -4842,7 +4901,10 @@ https://dmi-governance.dev.dmi-ecosysteem.nl
 https://dmi-governance.dmi-ecosysteem.nl
 https://dmi-governance.staging.dmi-ecosysteem.nl
 https://dmi-pdx.staging.dmi-ecosysteem.nl
+https://dmo.document-viewer-api.dso.kadaster.nl
+https://dmo.geodoc.dso.kadaster.nl
 https://dmo.omgevingswet.overheid.nl
+https://dmo.ozon.dso.kadaster.nl
 https://dmponline.rivm.nl
 https://dnadatabank.forensischinstituut.nl
 https://dnajaarverslag2011.forensischinstituut.nl
@@ -4854,8 +4916,11 @@ https://docs-tst.onderzoekmetmensen.nl
 https://docs.acc.nldoc.nl
 https://docs.aerius.nl
 https://docs.brba.eu
+https://docs.dev.cloud.kadaster.nl
+https://docs.dev.test.cloud.kadaster.nl
 https://docs.ey-devops-practice-playground.github.io
 https://docs.globalise.huygens.knaw.nl
+https://docs.kadaster.nl
 https://docs.ndw.nu
 https://docs.nldoc.nl
 https://docs.onderzoekmetmensen.nl
@@ -4981,6 +5046,7 @@ https://dsp-security-workflows.github.io
 https://dsp.cjib.nl
 https://dss11.meertens.knaw.nl
 https://dst.cloud.kadaster.nl
+https://dst.test.cloud.kadaster.nl
 https://dsta.nl
 https://dth.hermes.databank.nl
 https://dtlgt-monitoring-acc.azure.dnb.nl
@@ -5822,6 +5888,7 @@ https://fysieke-handhaving.vwh.rdw.nl
 https://g4aw.spaceoffice.nl
 https://ga.chm-cbd.net
 https://gaa.acceptatie.kadaster.nl
+https://gaa.test.cloud.kadaster.nl
 https://gaa.test.kadaster.nl
 https://gab.pleio.nl
 https://galerij.kb.nl
@@ -5842,6 +5909,7 @@ https://gcgis-gwinnettcountyga.hub.arcgis.com
 https://gcn-app.rivm.nl
 https://gco.cloud.kadaster.nl
 https://gdc.cloud.kadaster.nl
+https://gdc.test.cloud.kadaster.nl
 https://gdi-b.rvo.nl
 https://gdi.databank.nl
 https://gdindex.databank.nl
@@ -5994,6 +6062,8 @@ https://gezondeschool.nl
 https://gezondeschoolkantine.voedingscentrum.nl
 https://gezondgroeien.voedingscentrum.nl
 https://gezondheidsraad.nl
+https://ggc.cloud.kadaster.nl
+https://ggc.test.cloud.kadaster.nl
 https://ggdiamdemo.rivm.nl
 https://gghmest.pleio.nl
 https://ggo-vergunningen.nl
@@ -6033,6 +6103,7 @@ https://gisservices.aaenmaas.nl
 https://gisservicesacc.aaenmaas.nl
 https://gisviewer.odijmond.nl
 https://git-dev.rijkscloud.nl
+https://git.dev.cloud.kadaster.nl
 https://git.dfront.rijkscloud.nl
 https://git.dictu.rijkscloud.nl
 https://git.iaas.rijkscloud.nl
@@ -6067,6 +6138,8 @@ https://gn.test.chm-cbd.net
 https://gn2.meet.rijkscloud.nl
 https://gn3.meet.rijkscloud.nl
 https://gnk-ghe-3-org-github-i.gnk-ghe-3-org.github.io
+https://gnss-data.gird.cloud.kadaster.nl
+https://gnss-data.kadaster.nl
 https://gobernadoraruba.com
 https://gobernadorkorsou.com
 https://gobiernodireino.nl
@@ -6294,6 +6367,7 @@ https://hpma-frontend-staging.excite.tno.nl
 https://hpma-grafana-staging.excite.tno.nl
 https://hpma-jenkins-staging.excite.tno.nl
 https://hpma-kibana-staging.excite.tno.nl
+https://hpmmw.kadaster.nl
 https://hr-i.espacenet.com
 https://hr-sectorwaterschappen.databank.nl
 https://hr.espacenet.com
@@ -6344,6 +6418,7 @@ https://i-partnerschap.staging.rijksapplicaties.nl
 https://iaas-portal-gn3.odc-noord.nl
 https://iaas-portal.odc-noord.nl
 https://iac.nlspace.nl
+https://iad.test.kadaster.nl
 https://iafc.maps.arcgis.com
 https://iam-acc.rdi.nl
 https://iam-containerplatform.lpc.logius.nl
@@ -6570,7 +6645,10 @@ https://instappen-o.cito.nl
 https://instappen-t.cito.nl
 https://instappen.cito.nl
 https://instroom.belastingdienst.nl
+https://int.document-viewer-api.dso.kadaster.nl
+https://int.geodoc.dso.kadaster.nl
 https://int.omgevingswet.overheid.nl
+https://int.ozon.dso.kadaster.nl
 https://int02.omgevingswet.overheid.nl
 https://int12.omgevingswet.overheid.nl
 https://int13.omgevingswet.overheid.nl
@@ -6592,6 +6670,7 @@ https://integration.nba.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intel-acc.ncsc.nl
 https://intel.ncsc.nl
+https://interactief.brkinzage.test.kadaster.nl
 https://interedition.huygens.knaw.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
@@ -6606,6 +6685,8 @@ https://international.slo.nl
 https://internationalactivities.mondriaanfonds.nl
 https://internationalerechtshulp.nl
 https://internationalstudy.nl
+https://internecatalogus.kadaster.nl
+https://internecatalogus.test.kadaster.nl
 https://internetconsultatie.nl
 https://internetdienstensiam.svb.nl
 https://interspeciesinfo.com
@@ -6848,6 +6929,7 @@ https://kabinetkoning.sitearchief.nl
 https://kabinetsformatie2023.nl
 https://kabinetvandekoning.nl
 https://kadans.cloud.kadaster.nl
+https://kadans.kadaster.nl
 https://kadans.test.cloud.kadaster.nl
 https://kadaster.com
 https://kadaster.kbvg.nl
@@ -6949,6 +7031,7 @@ https://kerncijfers.ifv.nl
 https://kerncijfers.nipv.nl
 https://keten.hetcak.nl
 https://keten.sophie.oidji.nl
+https://ketenacceptatie.document-viewer.dso.kadaster.nl
 https://ketenregisterapi.naktuinbouw.nl
 https://ketens-mijn.s-bb.nl
 https://keuringsafspraakmaken.rdw.nl
@@ -6985,6 +7068,7 @@ https://kiesraad.nl
 https://kiesraad.sitearchief.nl
 https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
+https://kim.test.kadaster.nl
 https://kimdatamanagementtool.staging.rijksapplicaties.nl
 https://kimi-infodeling.jeugdconnect.nl
 https://kimi.jeugdconnect.nl
@@ -7076,6 +7160,7 @@ https://kroniekvankampen.huygens.knaw.nl
 https://krs-beheer-tst.ot.cloudservices.kb.nl
 https://ksliberal.github.io
 https://ksmo.s-bb.nl
+https://kss-signinghub.kadaster.nl
 https://ktv-servicedesk.ciz.nl
 https://kube-prometheus-odcn.pleio.nl
 https://kubernetes-odc.pleio.nl
@@ -7116,8 +7201,9 @@ https://lab.kb.nl
 https://lab.venvn.nl
 https://labelstudio.huc.knaw.nl
 https://labs.dst.cloud.kadaster.nl
-https://labs.dst.test.cloud.kadaster.nl
+https://labs.dst.test.kadaster.nl
 https://labs.kadaster.nl
+https://labs.test.kadaster.nl
 https://labs.venvn.nl
 https://labvantage-acc.nvwa.nl
 https://lake-elsinore-downtown-revitilazation-arellano.hub.arcgis.com
@@ -7461,7 +7547,7 @@ https://lup.rijksapplicaties.nl
 https://lup.staging.rijksapplicaties.nl
 https://lv-i.espacenet.com
 https://lv.espacenet.com
-https://lvb.kadaster.nl
+https://lvb.cloud.kadaster.nl
 https://lvb.test.kadaster.nl
 https://lvbag.cloud.kadaster.nl
 https://lvbag.test.cloud.kadaster.nl
@@ -7621,7 +7707,6 @@ https://map.cloud.kadaster.nl
 https://map.lab.cloud.kadaster.nl
 https://map.samenvoordeklant.nl
 https://map.sawa-vth.nl
-https://map.test.cloud.kadaster.nl
 https://mapgis-map-gis.hub.arcgis.com
 https://mapitout.welcome-to-nl.nl
 https://mapmkeonline.maps.arcgis.com
@@ -7858,6 +7943,7 @@ https://mijn.schadefonds.nl
 https://mijn.skal.nl
 https://mijn.ssr.nl
 https://mijn.svdj.nl
+https://mijn.test.kadaster.nl
 https://mijn.test.lcms.nl
 https://mijn.test.ncsc.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
@@ -7946,7 +8032,6 @@ https://minfin.sitearchief.nl
 https://minienm.nl
 https://minienw.nl
 https://minienw.sitearchief.nl
-https://minio.ddd.test.cloud.kadaster.nl
 https://minio.labs.dans.knaw.nl
 https://minioapi2.labs.dans.knaw.nl
 https://minjenv-events.nl
@@ -8078,6 +8163,21 @@ https://mqtt.dataplatform.knmi.nl
 https://mr.chm-cbd.net
 https://mre.databank.nl
 https://mrkp-test-app-development.wgu-edu.github.io
+https://ms.bgt-lv.test.kadaster.nl
+https://ms.dashboards.test.kadaster.nl
+https://ms.gds.test.kadaster.nl
+https://ms.kennisgeving.test.kadaster.nl
+https://ms.kio.test.kadaster.nl
+https://ms.klic.test.kadaster.nl
+https://ms.kpv.test.kadaster.nl
+https://ms.opleiding.kio.test.kadaster.nl
+https://ms.opleiding.landmeterkaart.test.kadaster.nl
+https://ms.opleiding.releaseberichten.test.kadaster.nl
+https://ms.or.test.kadaster.nl
+https://ms.sandbox.kio.test.kadaster.nl
+https://ms.sandbox.landmeterkaart.test.kadaster.nl
+https://ms.shk.test.kadaster.nl
+https://ms.splits.test.kadaster.nl
 https://msafe.kvk.nl
 https://msb2.hex.tno.nl
 https://msdi-a.uwv.nl
@@ -8133,6 +8233,7 @@ https://mydesktop.svb.nl
 https://myidp-acc.postedworkers.nl
 https://myidp.postedworkers.nl
 https://myk.cloud.kadaster.nl
+https://myk.test.cloud.kadaster.nl
 https://mypage.brentjo-testorg.github.io
 https://mysampleexpressapponazure.octodemo.github.io
 https://mysharebox.skc-oc.org
@@ -8401,6 +8502,7 @@ https://noraonline.nl
 https://north-central-wisconsin-entrepreneurial-portal-ncwrpc.hub.arcgis.com
 https://northseaportal.eu
 https://not-an-aardvark.github.io
+https://notariaatdashboard.kadaster.nl
 https://notebooksservices-eu1.arcgis.com
 https://notebooksservices-eu1.az-int.arcgis.com
 https://notebooksservices.arcgis.com
@@ -8961,6 +9063,7 @@ https://pdfchecker.pleio.nl
 https://pdok.aerius.nl
 https://pdok.nl
 https://pdok.pleio.nl
+https://pdok.test.cloud.kadaster.nl
 https://pdx.dev.dmi-ecosysteem.nl
 https://pdx.dmi-ecosysteem.nl
 https://pdx.staging.dmi-ecosysteem.nl
@@ -8970,6 +9073,7 @@ https://peer1.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://pensioenduidelijkheid.nl
 https://pentest.leerwerkloket.nl
 https://peppolautoriteit.nl
+https://perf.document-viewer.dso.kadaster.nl
 https://perf.omgevingswet.overheid.nl
 https://perpest.alterra.nl
 https://pers.svb.nl
@@ -8985,6 +9089,9 @@ https://pesticidesdatabase.ctgb.nl
 https://pet-explorer.sensorlab.tno.nl
 https://pfbackend.acc.vfpf.nl
 https://pfbackend.vfpf.nl
+https://pfm.document-viewer-api.dso.kadaster.nl
+https://pfm.geodoc.dso.kadaster.nl
+https://pfm.ozon.dso.kadaster.nl
 https://pfos-pfoa-cow.apps.feedfoodtransfer.nl
 https://pg-testing-jtd.githubpartners.github.io
 https://pgadmin.huc.knaw.nl
@@ -9003,6 +9110,8 @@ https://pgw.belastingdienst.nl
 https://ph.test.chm-cbd.net
 https://phantom7666.github.io
 https://phished.fondspodiumkunsten.nl
+https://pi-extern.wcm.test.kadaster.nl
+https://pi-pdok.wcm.test.kadaster.nl
 https://pianoo-congres.nl
 https://pianoo.nl
 https://picarta.pica.nl.access.authkb.kb.nl
@@ -9171,7 +9280,7 @@ https://portal.ip.test.duo.rijkscloud.nl
 https://portal.kbvg.nl
 https://portal.lvb.cloud.kadaster.nl
 https://portal.lvb.kadaster.nl
-https://portal.lvb.test.kadaster.nl
+https://portal.lvb.test.cloud.kadaster.nl
 https://portal.nak.nl
 https://portal.nba.nl
 https://portal.reclassering.nl
@@ -9179,7 +9288,6 @@ https://portal.rijksdienstcn.com
 https://portal.risicotoolboxbodem.nl
 https://portal.skal.nl
 https://portal.tno.nl
-https://portal.workspace.kadaster.nl
 https://portal118.rijkscloud.nl
 https://portal2.formulierdus-i.nl
 https://portalco.formulierdus-i.nl
@@ -9440,6 +9548,7 @@ https://publicaties-tst.rvig.nl
 https://publicaties-wvv.zorgenveiligheidshuizen.nl
 https://publicaties.afm.nl
 https://publicaties.brabant.nl
+https://publicaties.kadaster.nl
 https://publicaties.mensenrechten.nl
 https://publicaties.minienw.nl
 https://publicaties.nvao.net
@@ -9593,8 +9702,6 @@ https://reallyold.neovintage-corp.github.io
 https://realtime-code.tno.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
-https://rec.cloud.kadaster.nl
-https://rec.test.cloud.kadaster.nl
 https://recall.rdw.nl
 https://recepten.voedingscentrum.nl
 https://rechtenoverheid.nl
@@ -9870,7 +9977,6 @@ https://rp1.acc.federatieveservice.nl
 https://rp1.federatieveservice.nl
 https://rpnl-acc.dsolv.test.cloud.kadaster.nl
 https://rpnl-pil.dsolv.cloud.kadaster.nl
-https://rpnl-pro.dsolv.cloud.kadaster.nl
 https://rpx-qa.nza.nl
 https://rpx.nza.nl
 https://rs-i.espacenet.com
@@ -9997,6 +10103,7 @@ https://rybbeheer.rdw.nl
 https://s-bb.nl
 https://s.checkjeprijs.huurcommissie.nl
 https://s.ndw.nu
+https://s3.delivery.pdok.cloud.kadaster.nl
 https://s3.delivery.pdok.nl
 https://s3.etoegang.nl
 https://s4a.brabant.nl
@@ -10166,9 +10273,6 @@ https://servicedesk.jira.nipv.nl
 https://servicedesk.nipv.nl
 https://servicedesk.sbr-wonen.nl
 https://serviceplatform-technical-platform.tomtompilot.github.io
-https://serviceportal.acceptatie.kadaster.nl
-https://serviceportal.kadaster.nl
-https://serviceportal.test.kadaster.nl
 https://services-acc.burgernet.nl
 https://services-acc.globalentry-rtp.nl
 https://services-ap1.arcgis.com
@@ -10239,9 +10343,16 @@ https://sip.lbio.nl
 https://sip.om.nl
 https://sip.rijksrecherche.nl
 https://sipfed.coa.nl
+https://sis-api-02.ontw.cloud.kadaster.nl
 https://sis-api.ontw.cloud.kadaster.nl
-https://sis-developer.ontw.cloud.kadaster.nl
+https://sis-api.test.cloud.kadaster.nl
+https://sis-developer-02.ontw.cloud.kadaster.nl
+https://sis-developer.cloud.kadaster.nl
+https://sis-developer.test.cloud.kadaster.nl
+https://sis-mngmtapim-02.ontw.cloud.kadaster.nl
+https://sis-mngmtapim.cloud.kadaster.nl
 https://sis-mngmtapim.ontw.cloud.kadaster.nl
+https://sis-mngmtapim.test.cloud.kadaster.nl
 https://site.ptvt.nl
 https://sitearchief.nl
 https://sitecore.staatsbosbeheer.nl
@@ -10401,7 +10512,6 @@ https://sspr-ex.politieacademie.nl
 https://sspr-p.politieacademie.nl
 https://sspr.politieacademie.nl
 https://ssr.nl
-https://sss.cloud.kadaster.nl
 https://sss.test.cloud.kadaster.nl
 https://sst.buitenlevenvakanties.nl
 https://st.kcb.nl
@@ -11352,6 +11462,7 @@ https://vandale.tweedekamer.nl
 https://vang-hha.nl
 https://vangbuitenshuis.nl
 https://vangogh.dev.huc.knaw.nl
+https://vastgoeddashboard.kadaster.nl
 https://vault-infra.efiling.mijnoctrooi.rvo.nl
 https://vault.efiling.mijnoctrooi.rvo.nl
 https://vault.vechtstromen.nl
@@ -11395,8 +11506,8 @@ https://vepkms.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
 https://vera-2r.nl
 https://verantwoordalcoholverkopen.nl
+https://verbeterdebrk.acceptatie.kadaster.nl
 https://verbeterdekaart.nl
-https://verbeterdeluchtvaartkaart.kadaster.nl
 https://verbeterjehuis.nl
 https://verborgentuinen.pleio.nl
 https://verbose-octo-garbanzo.snh-test-org.github.io
@@ -11478,7 +11589,6 @@ https://viewer.dsolv.cloud.kadaster.nl
 https://viewer.dsolv.test.cloud.kadaster.nl
 https://viewer.globio.info
 https://viewer.sensorenregister.cloud.kadaster.nl
-https://viewer.sensorenregister.test.cloud.kadaster.nl
 https://vild.ndw.nu
 https://vin-beheer.rdw.nl
 https://vin.rdw.nl
@@ -11700,6 +11810,7 @@ https://web.acc.dpr.irealisatie.nl
 https://web.acc.irealisatie.nl
 https://web.acc.mgo.irealisatie.nl
 https://web.acc.woo.irealisatie.nl
+https://web.brt.test.kadaster.nl
 https://web.ertms.nl
 https://web.huygens.knaw.nl
 https://web.login-test.skal.nl
@@ -11912,6 +12023,7 @@ https://werkplek.waterschaplimburg.nl
 https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://werkplekvpn.parlement.nl
+https://werkvoorraad.reps.test.kadaster.nl
 https://westbrabant.leerwerkloket.nl
 https://westbrabant.lerenenwerken.nl
 https://wetbeschermingklokkenluiders.nl
@@ -11950,12 +12062,10 @@ https://wijzijndus-i.nl
 https://wik.aaenmaas.nl
 https://wiki.acceptatie.kadaster.nl
 https://wiki.benjamin.nin.knaw.nl
-https://wiki.kadaster.nl
 https://wikict.nin.knaw.nl
 https://wikixl-saml.acceptatie.kadaster.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://wikixl-saml.cultureelerfgoed.nl
-https://wikixl-saml.kadaster.nl
 https://wikixl-saml.minbzk.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://windlansingerland.zuid-holland.nl
