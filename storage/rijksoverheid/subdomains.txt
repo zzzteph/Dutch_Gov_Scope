@@ -1206,6 +1206,7 @@ a-www.vreemdelingenvisie.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
 a-www4.platformrijksoverheid.nl
+a.did.zandbak.dans.knaw.nl
 a.kimnet.nl
 a.knaw.nl
 a.knawonderwijsprijs.nl
@@ -2104,6 +2105,7 @@ acclongnis.naktuinbouw.nl
 accnew-cms.afm.nl
 accnew-www.afm.nl
 accompagnement-education-fr.hub.arcgis.com
+account.knaw.nl
 account.npostart.nl
 account.pleio.nl
 accounts-dev.arcgis.com
@@ -2210,6 +2212,7 @@ acs.ncsc.nl
 act-13-program-crawfordcountypa.hub.arcgis.com
 act-intern.rdw.nl
 act.gharvester-oai.dans.knaw.nl
+act.gharvester-wcp.dans.knaw.nl
 act.rdw.nl
 act.resolver.dans.knaw.nl
 acta.chadwyck.co.uk.access.authkb.kb.nl
@@ -2240,6 +2243,7 @@ ad.hdsr.nl
 ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
 ad.rws.nl
 ada1.tno.nl
+adagia.resources.huygens.knaw.nl
 adaguc-services-geoweb.knmi.nl
 adaguc.knmi.nl
 adams-county-heritage-plan-adamsgis.hub.arcgis.com
@@ -2285,6 +2289,7 @@ admin.atabase.gratisvog.nl
 admin.denkmee.zuid-holland.nl
 admin.deweekvandecirculaireeconomie.nl
 admin.globalentry-rtp.nl
+admin.k8s.huc.knaw.nl
 admin.letterenfonds.nl
 admin.pleio.nl
 admin.ptvt.nl
@@ -2297,6 +2302,7 @@ admin.tbadmin.npo.kvk.nl
 admin.test-rabbitmq.test.vm-04.azure.grid.rws.nl
 admin.tst-rds.nl
 admin.webmail.werkenbijdefensie.nl
+adminer.wordpress.dans.knaw.nl
 administratie-a.cito.nl
 administratie-o.cito.nl
 administratie-t.cito.nl
@@ -2464,6 +2470,7 @@ ahr.lcms.nl
 ai-proeftuin.s-bb.nl
 ai-similia.labs.dans.knaw.nl
 ai.digicampus.tech
+ai.nioo.knaw.nl
 aia.pki.rws.nl
 aicoeapp.rdw.nl
 aiddata.rvo.nl
@@ -2594,6 +2601,7 @@ ams.test.kadaster.nl
 amsbeheer.rdw.nl
 amsis-geoscience-au.hub.arcgis.com
 amsterdam.brandweer.nl
+amsterdammerchants.dans.knaw.nl
 amunet.cbs.nl
 amx.belastingdienst.nl
 analisten.kennisplatformondermijning.nl
@@ -2637,6 +2645,9 @@ anm-acc.dictu.nl
 annapolis-ahead-2040-annapolis.hub.arcgis.com
 annearundelcc.maps.arcgis.com
 annorepo.dev.huc.knaw.nl
+annorepo.globalise.huygens.knaw.nl
+annorepo.suriano.huygens.knaw.nl
+annorepo.translatin.huygens.knaw.nl
 annualreport.dopingautoriteit.nl
 anokacounty-swmasterplan-wsbeng.hub.arcgis.com
 anoniem.netftp.dictu.nl
@@ -3058,7 +3069,9 @@ app.bestelloket.kadaster.nl
 app.brabant.nl
 app.burgernet.nl
 app.dagvandeforensischezorg.nl
+app.dcp.huc.knaw.nl
 app.digid.nl
+app.goetgevonden.huygens.knaw.nl
 app.hetcak.nl
 app.inhuurdeskpolitie.nl
 app.mijnrijkspas.nl
@@ -3073,6 +3086,7 @@ app.staatvanhetmkb.nl
 app.svb.nl
 app.test.pdok.nl
 app.toezichtfestival.nl
+app.translatin.huygens.knaw.nl
 app.uboregistertrusts.nl
 app.vechtstromen.nl
 app1.rdw.nl
@@ -3177,6 +3191,7 @@ arccanadaatlas-edu.hub.arcgis.com
 arcgis-insightslab.hub.arcgis.com
 arcgis-natgeo-home-learngis.hub.arcgis.com
 arcgis.com
+archaeology.dans.knaw.nl
 archeologie.zuid-holland.nl
 archeologie2.zuid-holland.nl
 archie.nji.nl
@@ -3191,6 +3206,7 @@ archief.rijksbegroting.nl
 archief.rijksfinancien.nl
 archief.sbcm.nl
 archief01.meertens.knaw.nl
+archief2011.meertens.knaw.nl
 archief22.sitearchief.nl
 archief23.sitearchief.nl
 archief24.sitearchief.nl
@@ -3228,6 +3244,7 @@ archief59.sitearchief.nl
 archief60.sitearchief.nl
 archiefviewer.knmi.nl
 archiefwiki.pleio.nl
+archieven.meertens.knaw.nl
 archis.cultureelerfgoed.nl
 archisarchief.cultureelerfgoed.nl
 architectenregister.nl
@@ -3260,6 +3277,7 @@ arkyves.org.access.authkb.kb.nl
 arp-dviraciu-takai-maper.hub.arcgis.com
 arpa-data-reporting-pdx.hub.arcgis.com
 arpa-mtdnrc.hub.arcgis.com
+arrestanten40-45.niod.knaw.nl
 arrow-program-overview-arrowak.hub.arcgis.com
 art-of-reasoning.huygens.knaw.nl
 artifact-acc.rd.dictu.nl
@@ -3760,9 +3778,11 @@ backend.socint.acc.belastingdienst.nl
 backend.socint.belastingdienst.nl
 backoffice-acc.schadedoormijnbouw.nl
 backoffice-tst.schadedoormijnbouw.nl
+backoffice.knaw.nl
 backoffice.schadedoormijnbouw.nl
 backstage.labs.dans.knaw.nl
 backtoroots.nioo.knaw.nl
+backup.huc.knaw.nl
 backyard-cottages-lewisville.hub.arcgis.com
 bacterial-meningitis.nl
 bag.acceptatie.basisregistraties.overheid.nl
@@ -3809,6 +3829,7 @@ baobeta.arcgis.com
 bapicft.belastingdienst.nl
 baral-connect-2024-baral.hub.arcgis.com
 barclay-park-bufc.hub.arcgis.com
+bartholomeusengelsman.huygens.knaw.nl
 bartrams-garden-bufc.hub.arcgis.com
 bas-books.octodemo.github.io
 bas-bookstore.octodemo.github.io
@@ -3849,6 +3870,7 @@ bb-wrb.rvr.org
 bb.huc.knaw.nl
 bbapitest.ix.rijkscloud.nl
 bbdc.cjib.nl
+bbeheer.meertens.knaw.nl
 bbkl.de.access.authkb.kb.nl
 bblonline.nl
 bbm.databank.nl
@@ -3896,6 +3918,7 @@ beaver-county-cog-covid-19-hub-bcrcog.hub.arcgis.com
 beavertonsd.maps.arcgis.com
 becq-dcrm.opendata.arcgis.com
 becw-gi-carpc.hub.arcgis.com
+bedevaart.meertens.knaw.nl
 bedrijf-mijn-acc.s-bb.nl
 bedrijfscommissieoverheid.nl
 bedrijfsgegevenswijzigen.rdw.nl
@@ -3925,6 +3948,7 @@ beeldbankbeheer.zuid-holland.nl
 beeldbankbelastingdienst.nl
 beeldbellen.dji.nl
 beeldbieb.gebruikercentraal.nl
+beeldenbank.meertens.knaw.nl
 beeldenvanderaad.nl
 beeldkompas.nl
 beeldverhalen.staatsbosbeheer.nl
@@ -4089,6 +4113,7 @@ bes.fiu-nederland.nl
 bes.kadaster.nl
 bes.test.kadaster.nl
 beschermdecultuurgoederen.nl
+beschermheiligen.meertens.knaw.nl
 beslaghuis.politie.nl
 beslagleggen.rdw.nl
 beslisboom.rijksapplicaties.nl
@@ -4102,6 +4127,7 @@ besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
 bestand-diensten.rdw.nl
 bestanden-delen.pleio.nl
+bestanden-roe.meertens.knaw.nl
 bestanden.alleenjijbepaalt.nl
 bestanden.koop.overheid.nl
 bestandendelen.pleio.nl
@@ -4220,6 +4246,7 @@ bg2.hetcak.nl
 bgapi.public.vm-05.azure.grid.rws.nl
 bgapplicatie.vm-05.azure.grid.rws.nl
 bgb.huygens.knaw.nl
+bgb.resources.huygens.knaw.nl
 bgfg-outcomes-24-austin.hub.arcgis.com
 bggo.rivm.nl
 bgt-acc.rvo.nl
@@ -4242,6 +4269,7 @@ bhw.staging.rijksapplicaties.nl
 bi.chm-cbd.net
 bi.prod.chm-cbd.net
 bi.test.chm-cbd.net
+bia.huygens.knaw.nl
 bibliographies.brillonline.com.access.authkb.kb.nl
 bibliopolis-prd.cloudservices.kb.nl
 bibliopolis.nl
@@ -4250,6 +4278,7 @@ bibliotheek-tkw-test.tweedekamer.nl
 bibliotheek-tkw.tweedekamer.nl
 bibliotheek.gezondeleefomgeving.nl
 bibliotheek.knmi.nl
+bibliotheek.meertens.knaw.nl
 bibliotheek.nationaalarchief.nl
 bibliotheek.tweedekamer.nl
 bibliotheekwerk.caop.nl
@@ -4269,6 +4298,7 @@ bijna.acm.nl
 bijna.pianoo.nl
 bike-ped-plan-candidate-project-listing-sapdcgis.hub.arcgis.com
 bikeparking-chicago.hub.arcgis.com
+biland.huygens.knaw.nl
 billing.arcgis.com
 bim-acc.inspectieview.nl
 bim-tst.inspectieview.nl
@@ -4389,6 +4419,7 @@ bodemontwikkelgroep.pleio.nl
 bodemrapportage.flevoland.nl
 bodemrichtlijn.nl
 bodemvizier.nl
+boedelbank.meertens.knaw.nl
 boekenprijs.cvdm.nl
 boekingszuil.logerenbijdeboswachter.nl
 boem-metaport-boem.hub.arcgis.com
@@ -4399,6 +4430,7 @@ bon.arcgis.com
 bon.rijksdienstcn.com
 bonusers.arcgis.com
 books.google.com.access.authkb.kb.nl
+books.meertens.knaw.nl
 boone-gis.maps.arcgis.com
 bootstrap.dfaas.hansken.org
 bootstrap.inzage.hansken.org
@@ -4463,6 +4495,7 @@ brba.nl
 brdbeheer.rdw.nl
 brdcplusrma.rdw.nl
 brecht.chadwyck.co.uk.access.authkb.kb.nl
+brederode.huygens.knaw.nl
 breed-lb-vo.cito.nl
 brepolis.net.access.authkb.kb.nl
 brettwbyron.github.io
@@ -4501,6 +4534,8 @@ broadband-nm-state.hub.arcgis.com
 broadband-outreach-odoc.hub.arcgis.com
 broadband-wacommerce.hub.arcgis.com
 broccoli.globalise.huygens.knaw.nl
+broccoli.suriano.huygens.knaw.nl
+broccoli.translatin.huygens.knaw.nl
 broker-preprod.bronhouderportaal-bro.nl
 broker.bronhouderportaal-bro.nl
 broker.cloudtop.rijkscloud.nl
@@ -4512,6 +4547,7 @@ bromtotaal.politieacademie.nl
 bron.nl
 bron.waterschaplimburg.nl
 bronbeek.nl
+bronhist.huygens.knaw.nl
 bronhouderportaal-bro.nl
 bronkopie.ct.kvk.nl
 bronkopie.ct.osb.kvk.nl
@@ -4535,6 +4571,7 @@ brt.test.private.kadaster.nl
 brtmeldingen.kadaster.nl
 bruce-county-open-spatial-data-brucecounty.hub.arcgis.com
 brunswickcap-gpcog.hub.arcgis.com
+bs.mvn.huygens.knaw.nl
 bscs.maps.arcgis.com
 bsfso1.knmi.nl
 bsp.cjib.nl
@@ -4612,6 +4649,7 @@ bvs.belastingdienst.nl
 bvv-ebms.data-exchange.consular.mfaservices.nl
 bvz-waves.databank.nl
 bvz.waves.databank.nl
+bwb.meertens.knaw.nl
 bwdb03.knmi.nl
 bwi.minbzk.nl
 bwi.minbzk.nl.p-direkt.nl
@@ -4980,9 +5018,11 @@ cert.test2gbav.belastingdienst.nl
 certauth.authenticatie2.rdw.nl
 certauth.signin.rechtspraak.nl
 certificaat-mijn.s-bb.nl
+certificaat.knaw.nl
 certificate.knaw.nl
 certificaten.knaw.nl
 certificaten.rdw.nl
+certificates.knaw.nl
 certificeren-toezicht-acc.cbr.nl
 certificeren-toezicht-tst.cbr.nl
 certificeren-toezicht.cbr.nl
@@ -5260,6 +5300,7 @@ cm.test.chm-cbd.net
 cma-acc.internetconsultatie.nl
 cma.internetconsultatie.nl
 cmdi.dev.huc.knaw.nl
+cmdi.meertens.knaw.nl
 cmdi2rdf.meertens.knaw.nl
 cmeets.eerstekamer.nl
 cmg.rdw.nl
@@ -5473,6 +5514,7 @@ committee.kolonialecollecties.nl
 commonground.pleio.nl
 commotie.fondspodiumkunsten.nl
 communicatie.cultuurparticipatie.nl
+communicatie.huc.knaw.nl
 communicatie.kennisplatformondermijning.nl
 communicatie.niod.knaw.nl
 communicatie.zuid-holland.nl
@@ -5915,6 +5957,7 @@ czisxfrxky7ywyy.raadvoorplantenrassen.nl
 d-dha-p001-v701.tno.nl
 d2val.staging.ndw.nu
 d7.rvo.nl
+da.dans.knaw.nl
 da.rdw.nl
 da.stimuleringsfonds.nl
 da.zonmw.nl
@@ -6039,6 +6082,7 @@ data.duo.nl
 data.emissieregistratie.nl
 data.flevoland.nl
 data.geo.cultureelerfgoed.nl
+data.globalise.huygens.knaw.nl
 data.huygens.knaw.nl
 data.ilent.nl
 data.kkg.dst.cloud.kadaster.nl
@@ -6060,6 +6104,7 @@ data.rivm.nl
 data.rvo.nl
 data.schadefonds.nl
 data.staging.ndw.nu
+data.suriano.huygens.knaw.nl
 data.test.geoforum.nl
 data.test.pdok.nl
 data.zuid-holland.nl
@@ -6094,6 +6139,7 @@ dataloket.zuid-holland.nl
 dataloop-acc.dnb.nl
 dataloop-test.dnb.nl
 dataloop.dnb.nl
+dataminter.labs.dans.knaw.nl
 datamonitor.ndw.nu
 datapedia.nl
 dataplatform.knmi.nl
@@ -6111,6 +6157,7 @@ dataservice.acp.kvk.nl
 dataservice.basisinformatie-overstromingen.nl
 dataservice.kvk.nl
 dataservice.preprod.kvk.nl
+dataset-search.resources.huygens.knaw.nl
 dataset.cbs.nl
 datasets.cbs.nl
 datasets.kb.nl
@@ -6129,6 +6176,8 @@ dataverse-fetcher.labs.dans.knaw.nl
 dataverse-importer.labs.dans.knaw.nl
 dataverse-mapper.labs.dans.knaw.nl
 dataverse.dans.knaw.nl
+dataverse.zandbak.dans.knaw.nl
+dataviewer.wateropdekaart.nioo.knaw.nl
 datavis.tno.nl
 datavisualisatie.rivm.nl
 datavisualisatie.tno.nl
@@ -6178,6 +6227,7 @@ dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
 dcmr.databank.nl
 dcp-time-slot.cbg-meb.nl
+dcp.huc.knaw.nl
 dcpp.ssc-ict.nl
 dcs01.kcb.nl
 dcypher.nl
@@ -6192,6 +6242,7 @@ ddd.test.kadaster.nl
 dddn21.dans.knaw.nl
 ddi.ssc-campus.nl
 ddn21.dans.knaw.nl
+de-diepte.nioo.knaw.nl
 de.espacenet.com
 de.pleio.nl
 deafsluitdijk.nl
@@ -6265,11 +6316,13 @@ demo.repository.huygens.knaw.nl
 demo.sensorenregister.test.cloud.kadaster.nl
 demo.test.chm-cbd.net
 demo.topdesk.odc-noord.nl
+demo.vaultservice.dans.knaw.nl
 demo.viewer.dso.kadaster.nl
 demo.vmbodoorstroom.databank.nl
 demo.vorijk.nl
 demo1-systemteam.overheid.nl
 demo1.tst.federatieveservice.nl
+demo15.huygens.knaw.nl
 demo17.huygens.knaw.nl
 demo2-systemteam.overheid.nl
 demo2.tst.federatieveservice.nl
@@ -6293,6 +6346,7 @@ denkmeemet.zuid-holland.nl
 denkvooruit.nl
 denw.hdsr.nl
 deploy-vraagje.doeonbeperktmee.nl
+deploy.huc.knaw.nl
 deployment.biedboek.nl
 depos.acceptatie.kadaster.nl
 depos.kadaster.nl
@@ -6400,6 +6454,7 @@ dev.fez.mfaservices.nl
 dev.fib.ienw.rijkscloud.nl
 dev.fondspodiumkunsten.nl
 dev.formulieren.lbio.nl
+dev.huc.knaw.nl
 dev.informatieservice.nederlandwereldwijd.nl
 dev.investinholland.com
 dev.kadaster-it.github.io
@@ -6563,6 +6618,7 @@ dictu.sitearchief.nl
 dictuext04.ymor.dictu.nl
 dictuext05.ymor.dictu.nl
 dictumagazines.nl
+diddd.meertens.knaw.nl
 diego.ndw.nu
 dieldrinhcblindane-hen.apps.feedfoodtransfer.nl
 diensten-ne.rdw.nl
@@ -6847,6 +6903,7 @@ domeinenrz.nl
 domeinnaamregistratie.rijksoverheid.nl
 domeintabellen-idsw.rws.nl
 domorganisatieservicesocsp-g3.pkioverheid.nl
+donation.wi.knaw.nl
 doncker.huygens.knaw.nl
 donorgegevens.nl
 donorregister.nl
@@ -6909,6 +6966,7 @@ downloadservice.acp.kvk.nl
 downloadservice.kvk.nl
 dp-dnb.dnb.nl
 dp-dnba.dnb.nl
+dp.meertens.knaw.nl
 dp2021.deltaprogramma.nl
 dp2022.deltaprogramma.nl
 dp2023.deltaprogramma.nl
@@ -7006,6 +7064,7 @@ dsomtokoop.dso.kadaster.nl
 dsov-viewer-documentatie.kadaster-it.github.io
 dsp-security-workflows.github.io
 dsp.cjib.nl
+dss01.meertens.knaw.nl
 dss11.meertens.knaw.nl
 dst.cloud.kadaster.nl
 dst.test.cloud.kadaster.nl
@@ -7018,6 +7077,7 @@ dtlgt-monitoring-prd.azure.dnb.nl
 dtlgt-monitoring-tst.azure.dnb.nl
 dtrs.labs.dans.knaw.nl
 dualusequickscan.nl
+dubbeltje.meertens.knaw.nl
 ducaphen.com
 duediligencetraining.mvotools.nl
 dummy-signposting.labs.dans.knaw.nl
@@ -7173,6 +7233,7 @@ e.gezondeschool.nl
 e.hhdelfland.nl
 e.inclusiefwerkt.nl
 e.kbvg.nl
+e.knaw.nl
 e.kvk.nl
 e.meldpuntintegriteitjenv.nl
 e.oofggz.nl
@@ -7260,8 +7321,10 @@ ecoc-a.eucaris.net
 ecoc-o.eucaris.net
 ecoc-t.eucaris.net
 ecoc.rdw.nl
+ecodices.sd.di.huc.knaw.nl
 ecoexplorer.arcgis.com
 economicdiplomacy.rvo.nl
+ecotest.dev.huc.knaw.nl
 ecpc.acceptatie.nipv.nl
 ecs-hotfix.wgu-edu.github.io
 ecu.maps.arcgis.com
@@ -7278,6 +7341,9 @@ edicrop-acc.rvo.nl
 edicrop.rvo.nl
 ediensten.bureauft.nl
 ediensten.ind.nl
+edisyn.meertens.knaw.nl
+edities.mvn.huygens.knaw.nl
+edition.suriano.huygens.knaw.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
 editor.stelselcatalogus.nl
@@ -7373,6 +7439,7 @@ ekv-a.uwv.nl
 ekv-p.uwv.nl
 ekvvpn.ssc-ict.nl
 elabel.pleio.nl
+elaborate-editions.huygens.knaw.nl
 elaborate.huygens.knaw.nl
 eladownload.belastingdienst.nl
 elastic.onderzoeksraad.nl
@@ -7815,6 +7882,7 @@ exchange.intern.reclassering.nl
 exchange.reclassering.nl
 exchange.rva.nl
 exchange.services.acm.nl
+exchange.spinozacentre.knaw.nl
 exchange.waarderingskamer.nl
 exchange2016.tno.nl
 exchangehcw.knaw.nl
@@ -8229,11 +8297,13 @@ flag.crimson-perch.github.io
 flag.gnk-ghe-3-org.github.io
 flag.near-dimension.github.io
 flair-demo.flevoland.nl
+flat.meertens.knaw.nl
 flevoland.leerwerkloket.nl
 flevoland.lerenenwerken.nl
 flevoland.nl
 flexiblemanufacturing.tno.nl
 flexplek.duo.nl
+flippinglakes.nioo.knaw.nl
 floris-a.rdw.nl
 floris.rdw.nl
 flow-bbv.pleio.nl
@@ -8246,6 +8316,7 @@ flow-lochem.pleio.nl
 flow-nvwa.pleio.nl
 flow-rbs.pleio.nl
 flow-wfs.pleio.nl
+flow.labs.dans.knaw.nl
 flowlogics.minbzk.nl
 flowmail-elo.nba.nl
 flowmailer.s-bb.nl
@@ -8253,6 +8324,8 @@ flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 flux-acc.rvo.nl
 flux.rvo.nl
 flysafe-birdtam.eu
+fm61.meertens.knaw.nl
+fm62.meertens.knaw.nl
 fm63.dans.knaw.nl
 fme.brt.test.kadaster.nl
 fme.hdsr.nl
@@ -8334,6 +8407,7 @@ formulieren.waterschaplimburg.nl
 formulieren.zovar.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
+fortuyn.meertens.knaw.nl
 forum.acceptatie.pdok.nl
 forum.developer.overheid.nl
 forum.espacenet.com
@@ -8355,6 +8429,7 @@ fr.chm-cbd.net
 fr.espacenet.com
 fr.prod.chm-cbd.net
 francodevrije.huygens.knaw.nl
+freckenhorst.mvn.huygens.knaw.nl
 freesport.slo.nl
 friesland.databank.nl
 frieslandsnb.databank.nl
@@ -8445,6 +8520,7 @@ fubecasper.cbs.nl
 fujitsu-built.rdw.nl
 functiegebouwrijksoverheid.nl
 functiemix.nl
+fuseki.zandbak.dans.knaw.nl
 fvp.rijksapplicaties.nl
 fvp.staging.rijksapplicaties.nl
 fw.ie.kadaster.nl
@@ -8456,6 +8532,7 @@ g2b.acc-api.rivm.nl
 g2b.api.rivm.nl
 g4.databank.nl
 g4aw.spaceoffice.nl
+ga-wp3.sd.di.huc.knaw.nl
 ga.chm-cbd.net
 gaa-jwt.acc.private.kadaster.nl
 gaa-jwt.cs.kadaster.nl
@@ -8847,6 +8924,7 @@ git.dev.cloud.kadaster.nl
 git.dev.kvk.nl
 git.dfront.rijkscloud.nl
 git.dictu.rijkscloud.nl
+git.huc.knaw.nl
 git.iaas.rijkscloud.nl
 git.irealisatie.nl
 git.ivho.rijkscloud.nl
@@ -8875,6 +8953,7 @@ gitlab.aerius.nl
 gitlab.analyse.ilt.rijkscloud.nl
 gitlab.anvs.rijkscloud.nl
 gitlab.at.rws.nl
+gitlab.bioinf.nioo.knaw.nl
 gitlab.bkwi.nl
 gitlab.datascience.rijkscloud.nl
 gitlab.dgdoobi.rijkscloud.nl
@@ -8918,6 +8997,7 @@ gladheid.knmi.nl
 glmig.tst.ix.rijkscloud.nl
 globalentry-rtp.nl
 globalhealthhub.nl
+globalise-refdata.huc.knaw.nl
 globalise.huygens.knaw.nl
 globe-ebms-diginetwerk.procesinfrastructuur.nl
 globe-ebms-internet.procesinfrastructuur.nl
@@ -8963,11 +9043,13 @@ gobernadoraruba.com
 gobernadorkorsou.com
 gobiernodireino.nl
 gobiernudireino.nl
+goetgevonden.huygens.knaw.nl
 gofer.nwo.nl
 good.cbs.nl
 google.com.access.authkb.kb.nl
 gooienvechtstreek.leerwerkloket.nl
 goto.arcgis.com
+goudeneeuwblog.huygens.knaw.nl
 goudenpiramide.nl
 goudo.rijksapplicaties.nl
 goudo.staging.rijksapplicaties.nl
@@ -9015,7 +9097,9 @@ grafana.politieacademie.nl
 grafana.test.vm-04.azure.grid.rws.nl
 grafana.vm-02.azure.grid.rws.nl
 granvillecounty.maps.arcgis.com
+graph.sd.di.huc.knaw.nl
 graph.zandbak.dans.knaw.nl
+graphdb.huc.knaw.nl
 graphql-oat.dev.huc.knaw.nl
 graphs.globalise.huygens.knaw.nl
 gras-prd.rvr.org
@@ -9061,6 +9145,7 @@ groningen.leerwerkloket.nl
 groningen.lerenenwerken.nl
 grootamsterdam.leerwerkloket.nl
 grootamsterdam.lerenenwerken.nl
+grotius.huygens.knaw.nl
 grpc.annorepo.dev.huc.knaw.nl
 grs-test.dans.knaw.nl
 gs-acc.politie.nl
@@ -9223,6 +9308,7 @@ hbo-portaal-stagefonds-acc.s-bb.nl
 hbo-portaal-stagefonds-ontw.s-bb.nl
 hbo-portaal-stagefonds-test.s-bb.nl
 hbo-portaal-stagefonds.s-bb.nl
+hbsr.mvn.huygens.knaw.nl
 hcaict.nl
 hcib.datawonen.nl
 hdcgis.maps.arcgis.com
@@ -9271,6 +9357,7 @@ herseninstituut.knaw.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
 heserver.arcgis.com
+het-bureau.meertens.knaw.nl
 hetcak.nl
 hetverhaalvan.flevoland.nl
 heyteach.wgu-edu.github.io
@@ -9359,6 +9446,8 @@ houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.nl
 houseofrepresentatives.test.tweedekamer.nl
 hp-01.huc.knaw.nl
+hp-02.huc.knaw.nl
+hp-03.huc.knaw.nl
 hpb.cerl.org.access.authkb.kb.nl
 hpma-auth-staging.excite.tno.nl
 hpma-backend-staging.excite.tno.nl
@@ -9406,6 +9495,8 @@ huc.knaw.nl
 hucdrive-internal.huc.knaw.nl
 hucdrive.huc.knaw.nl
 hucdrive.s3.huc.knaw.nl
+hucscan.huc.knaw.nl
+hucsys.huc.knaw.nl
 huiselijkgeweld.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
@@ -9424,6 +9515,7 @@ huurcommissie.nl
 huurprijscheck.huurcommissie.nl
 huygens.idp.knaw.nl
 huygens.knaw.nl
+huygensinstituut.knaw.nl
 hv-proquest-com.access.authkb.kb.nl
 hv.proquest.com.access.authkb.kb.nl
 hwbp.nl
@@ -9434,6 +9526,7 @@ hybrid.domeinenrz.nl
 hybrid.ictu.nl
 hybrid.kadaster.nl
 hybrid.kb.nl
+hybrid.knaw.nl
 hybrid.landelijkemeldkamer.org
 hybrid.ofgv.nl
 hybrid.onderzoeksraad.nl
@@ -9495,6 +9588,7 @@ iamcdocumentation.eu
 ias-cloud.tno.nl
 iati-test2.platformrijksoverheidonline.nl
 ib-gm.wpakb.kb.nl
+ib-test-srv01.ib.knaw.nl
 ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
@@ -9571,6 +9665,7 @@ idp.acp.kvk.nl
 idp.dev.kvk.nl
 idp.dmi-ecosysteem.nl
 idp.globalentry-rtp.nl
+idp.huc.knaw.nl
 idp.knaw.nl
 idp.kvk.nl
 idp.npo.kvk.nl
@@ -9640,6 +9735,7 @@ ih-static.rvo.nl
 iharh.github.io
 ihg.cbs.nl
 ihw.nl
+iiif-text.huc.knaw.nl
 iilab09.labs.tno.nl
 iinterimrijk.nl
 iiq-sftp.wgu-edu.github.io
@@ -9693,6 +9789,7 @@ imlc.huygens.knaw.nl
 immissietoets.nl
 impact-project.eu
 impact.nwo.nl
+impactandfiction.huygens.knaw.nl
 impactmonitortoerisme.databank.nl
 impacttest.nwo.nl
 implementatiecoachdi.nl
@@ -9744,6 +9841,7 @@ infinispan.vm-05.azure.grid.rws.nl
 influx.rivm.nl
 influxg.rivm.nl
 influxs.rivm.nl
+info.bedevaart.meertens.knaw.nl
 info.ptvt.nl
 infographic.agrimatie.nl
 infographics.pbl.nl
@@ -9928,6 +10026,7 @@ internetdienstenp.svb.nl
 internetdienstensiam.svb.nl
 internetdienstensiamacc.svb.nl
 internetsearch.rijkswaterstaat.nl
+interneurons.nin.knaw.nl
 interspeciesinfo.com
 interventie.afm.nl
 interventiedatabase.nl
@@ -9973,7 +10072,6 @@ intranet.minienw.nl
 intranet.naktuinbouw.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet.nin.knaw.nl
-intranet.nioo.knaw.nl
 intranet.nwo.nl
 intranet.odijmond.nl
 intranet.ont.toeslagen.nl
@@ -10257,6 +10355,7 @@ jitsi-videobridge.jitsi.rijkscloud.nl
 jitsi.iaas.rijkscloud.nl
 jitsi.rijkscloud.nl
 jmopendata.cbs.nl
+jo-daan.meertens.knaw.nl
 jo.chm-cbd.net
 jo.test.chm-cbd.net
 jobcoach-acc.uwv.nl
@@ -10342,6 +10441,7 @@ jupyter.rekenkamer.rijkscloud.nl
 jupyter.ritp.rijkscloud.nl
 jupyter.rvb.rijkscloud.nl
 jupyter.rws.rijkscloud.nl
+jupyter.sd.di.huc.knaw.nl
 jupyter.secdemo.rijkscloud.nl
 jupyter.shinyproxy.ix.rijkscloud.nl
 jupyter.sodm.rijkscloud.nl
@@ -10382,6 +10482,7 @@ ka.rdw.nl
 kaart.acceptatie.lcms.nl
 kaart.collectiefnatuurinclusief.nl
 kaart.flevoland.nl
+kaart.meertens.knaw.nl
 kaart.nationaalwegenbestand.nl
 kaart.pdok.nl
 kaart.productie.lcms.nl
@@ -10396,6 +10497,7 @@ kaarten.odmh.nl
 kaarten.ruimtelijkeplannen.nl
 kaarten.test.ruimtelijkeplannen.nl
 kaarten.vechtstromen.nl
+kaartenbank.meertens.knaw.nl
 kaartenvannederland.acceptatie.kadaster.nl
 kaartenvannederland.nl
 kaartenvannederland.nl.kadaster.nl
@@ -10849,6 +10951,7 @@ ketenregisterapi.naktuinbouw.nl
 ketens-mijn.s-bb.nl
 ketentest.hetcak.nl
 ketentestnvr.belastingdienst.nl
+keur.knaw.nl
 keuringsafspraakmaken.rdw.nl
 keuringsafspraakopmaatmaken.rdw.nl
 keuringvoertuigaanvragen.rdw.nl
@@ -10873,6 +10976,7 @@ keycloak-test.vm-02.azure.grid.rws.nl
 keycloak.acc.onlinepublicatie.topinkomens.nl
 keycloak.acceptatie.vm-05.azure.grid.rws.nl
 keycloak.analyse.ilt.rijkscloud.nl
+keycloak.dans.knaw.nl
 keycloak.devops.rvb.rijkscloud.nl
 keycloak.dfaas.hansken.org
 keycloak.dgdoobi.rijkscloud.nl
@@ -10894,6 +10998,7 @@ keycloak.vm-05.azure.grid.rws.nl
 keyhub.onderzoeksraad.nl
 keys-updates.rijksapplicaties.nl
 keys-updates.staging.rijksapplicaties.nl
+kg.zandbak.dans.knaw.nl
 kgr-acc.mijn.rvo.nl
 kgr.mijn.rvo.nl
 kia.odc.pleio.nl
@@ -10988,6 +11093,7 @@ klinieken.donorgegevens.nl
 klinkendetaal.tweedekamer.nl
 klk.rijksapplicaties.nl
 klk.staging.rijksapplicaties.nl
+kloeke.meertens.knaw.nl
 klopt.cibg.nl
 klt-qti37-api-a.cito.nl
 klt-qti37-api.cito.nl
@@ -11071,6 +11177,7 @@ kps-ocr.cs.kadaster.nl
 kps-ocr.fto.kadaster.nl
 kps-ocr.in.kadaster.nl
 kpzss.nl
+kranten-editor-fr.meertens.knaw.nl
 kreekraksluizen.nl
 krf-2-acp.acc.cloudservices.kb.nl
 krf-2-prd.cloudservices.kb.nl
@@ -11371,6 +11478,7 @@ leiderschapp.belastingdienst.nl
 leidraad.pbl.nl
 leidraadse.nl
 lekker-op-weg.nl
+lennep.resources.huygens.knaw.nl
 lenohuis.kennisplatformondermijning.nl
 leo.wgu-edu.github.io
 leraar-test.odc.pleio.nl
@@ -11439,6 +11547,8 @@ lil.cultureelerfgoed.nl
 limburg.databank.nl
 limburg.nl
 limburger.wgu-edu.github.io
+lime.meertens.knaw.nl
+limesurvey.comtes.huygens.knaw.nl
 limesurvey.pleio.nl
 limesurvey.rd.di.huc.knaw.nl
 lims.rivm.nl
@@ -11863,6 +11973,7 @@ macgw123.meertens.knaw.nl
 macgw124.meertens.knaw.nl
 macgw125.meertens.knaw.nl
 macgw126.meertens.knaw.nl
+macgw68.meertens.knaw.nl
 macgw70.meertens.knaw.nl
 macgw71.meertens.knaw.nl
 macgw72.meertens.knaw.nl
@@ -12229,6 +12340,7 @@ managementapi.vragenlijst-acc.rivm.nl
 managementapi.vragenlijst.rivm.nl
 manager.klopt.cibg.nl
 manan-1112.github.io
+mand.meertens.knaw.nl
 manifestgroep.nl
 manifestgroep.pleio.nl
 manuscripts-prd.cloudservices.kb.nl
@@ -12276,6 +12388,7 @@ marcwalsh.github.io
 marechaussee.nl
 margarethaklooster.huygens.knaw.nl
 maricopa.maps.arcgis.com
+maritimecareers.huygens.knaw.nl
 marketplace.arcgis.com
 markt-overheid.acm.nl
 maror.nl
@@ -12283,6 +12396,7 @@ mars.rijkswaterstaat.nl
 mars.rws.nl
 mars2.ptp.inloggen.rws.nl
 martaonline.maps.arcgis.com
+martianus.huygens.knaw.nl
 mass.cultureelerfgoed.nl
 master-browser.dataplatform.knmi.nl
 master.darenet.knaw.nl
@@ -12329,6 +12443,7 @@ mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 mccg.nl
 mcm-pre.gslbppe.politie.nl
+mcmnioocmg.nioo.knaw.nl
 mcra-test.rivm.nl
 mcra-training.rivm.nl
 mcra.rivm.nl
@@ -12395,6 +12510,7 @@ medicijnkosten.nl
 medicijnresten.org
 medicineshortagesdefects.nl
 medicinfo.pzp.nl
+medievalireland.huygens.knaw.nl
 mediumcare.venvn.nl
 mee.databank.nl
 meepraten.flevoland.nl
@@ -12405,6 +12521,7 @@ meerjarigesubsidie.evenementen.fondspodiumkunsten.nl
 meertens.idp.knaw.nl
 meertens.knaw.nl
 meertenspanel.meertens.knaw.nl
+meertenspublicaties.meertens.knaw.nl
 meet.cbg-meb.nl
 meet.coa.nl
 meet.csr.tno.nl
@@ -12456,6 +12573,7 @@ meldpuntwki.inspectie-jenv.nl
 melissa.ncsc.nl
 melvin-acc.staging.ndw.nu
 melvin.ndw.nu
+menschenenbergen.huygens.knaw.nl
 mensenrechten.nl
 mensmaatschappij.slo.nl
 menukaart-kansrijkestart-nl.rivm.nl
@@ -12499,7 +12617,10 @@ metrokaart.pianoo.nl
 metspoedbeschikbaar.nl
 mezzo.ser.nl
 mfa-portal.rdw.nl
+mfa.knaw.nl
+mfa.nioo.knaw.nl
 mfaservices.nl
+mfiles.knaw.nl
 mfiles.ser.nl
 mfproxy01.knaw.nl
 mft-acc.kb.nl
@@ -12521,6 +12642,7 @@ mg21.kadaster.nl
 mg22.kadaster.nl
 mgk.osiris.rivm.nl
 mgmt.aerius.nl
+mgmt.spinozacentre.knaw.nl
 mgt.flevoland.nl
 mgw.meertens.knaw.nl
 mh17.onderzoeksraad.nl
@@ -12546,6 +12668,8 @@ middenholland.leerwerkloket.nl
 middenlimburg.leerwerkloket.nl
 middenlimburg.lerenenwerken.nl
 mig.cbs.nl
+migmap.meertens.knaw.nl
+migrant.huygens.knaw.nl
 migrantcards.huygens.knaw.nl
 migrants-test.red.huygens.knaw.nl
 migratie.rivm.nl
@@ -12876,6 +13000,7 @@ mimmpq.saphttp.minienm.nl
 mimmps.saphttp.minienm.nl
 mimobw.saphttp.minienm.nl
 mimoec.saphttp.minienm.nl
+mimore.meertens.knaw.nl
 mimpip.saphttp.minienm.nl
 mimqbw.saphttp.minienm.nl
 mimqec.sap.minienm.nl
@@ -12990,6 +13115,7 @@ mn-mx1.search.nvao.net
 mn.datawonen.nl
 mnd-preprd.overheid.nl
 mnd.overheid.nl
+mnet.meertens.knaw.nl
 moa.ser.nl
 mobicert.brabant.nl
 mobiel.acc.toeslagen.nl
@@ -13056,6 +13182,7 @@ monitor-klimaatadaptatie.zuid-holland.nl
 monitor-ow-en-wkb.databank.nl
 monitor.aerius.nl
 monitor.digitoegankelijk.nl
+monitor.meertens.knaw.nl
 monitor.nji.nl
 monitor.rijksapplicaties.nl
 monitor.rijksoverheid.nl
@@ -13101,12 +13228,14 @@ motorstoiclathe.github.io
 move-rdh.nl
 mp.rvo.nl
 mp.ssc-campus.nl
+mpadmin.meertens.knaw.nl
 mpc-l2.tropomi.eu
 mpc-vdaf-server.tropomi.eu
 mpc-vdaf.tropomi.eu
 mpc.tno.nl
 mpclab.tno.nl
 mpf.rivm.nl
+mpgebruikers.meertens.knaw.nl
 mpn-acc.minienm.nl
 mpn-acc.minienw.nl
 mpn-pre.minienm.nl
@@ -13384,6 +13513,7 @@ my.skal.nl
 my.test.chm-cbd.net
 my2.naktuinbouw.com
 myadmin.huc.knaw.nl
+myapps.knaw.nl
 mycoa.nl
 mydesktop.svb.nl
 mydevicesportal.cs.kadaster.nl
@@ -13500,6 +13630,7 @@ ncg-on-vv.rijksapplicaties.nl
 ncg-on-vv.staging.rijksapplicaties.nl
 ncg-thv.rijksapplicaties.nl
 ncg-thv.staging.rijksapplicaties.nl
+ncg.knaw.nl
 ncis-ref.ndw.nu
 ncis.ndw.nu
 ncis.staging.ndw.nu
@@ -13507,6 +13638,7 @@ ncp-api-1.ccmo.nl
 ncpeh.nl
 ncsc.nl
 nctv.nl
+ndb.meertens.knaw.nl
 ndev.api-sec.p-direkt.nl
 ndev.api.p-direkt.nl
 ndlpcb-hen.apps.feedfoodtransfer.nl
@@ -13569,9 +13701,11 @@ new.mensenrechten.nl
 new.mijn.knmi.nl
 new.one-conference.nl
 newrelic-rapid7-chefconfig.wgu-edu.github.io
+newsletter.nias.knaw.nl
 newsroom.minienw.nl
 newtestingrepoagain.brentjo-testorg.github.io
 newton-open-geo-data-newtonmagis.hub.arcgis.com
+neww.huygens.knaw.nl
 next.huurcommissie.nl
 next.preview.cito.nl
 nextcloud.acc.irealisatie.nl
@@ -13590,6 +13724,7 @@ nexus-ivp.rws.nl
 nexus-test.vm-02.azure.grid.rws.nl
 nexus.aerius.nl
 nexus.cvm.rijkscloud.nl
+nexus.dans.knaw.nl
 nexus.devops.rvb.rijkscloud.nl
 nexus.extern.minszw.nl
 nexus.lpc.logius.nl
@@ -13653,7 +13788,9 @@ nieuws.rvo.nl
 nieuws.tenderned.nl
 nieuwsbrief.autoriteitpersoonsgegevens.nl
 nieuwsbrief.examenblad.nl
+nieuwsbrief.huygens.knaw.nl
 nieuwsbrief.lexces.nl
+nieuwsbrief.meertens.knaw.nl
 nieuwsbrief.rijksacademie.nl
 nieuwsbrief.rivm.nl
 nieuwsbrief.voedingscentrum.nl
@@ -13739,8 +13876,10 @@ nmdc.eu
 nmdc.knmi.nl
 nmdcacc.knmi.nl
 nmdctest.knmi.nl
+nmgn.huygens.knaw.nl
 nnc.dnb.nl
 nnn.flevoland.nl
+nnn.meertens.knaw.nl
 no-i.espacenet.com
 no.espacenet.com
 noaa.cultureelerfgoed.nl
@@ -13751,6 +13890,7 @@ node1.kafka-facet.duo.nl
 node2.kafka-facet.duo.nl
 node3.kafka-facet.duo.nl
 nohm.sensorlab.tno.nl
+nominatim.kloeke.huc.knaw.nl
 noorddrive.rijkscloud.nl
 noorderparkruigenhoek.nl
 noordholland.databank.nl
@@ -13925,6 +14065,7 @@ nur.rdw.nl
 nurservice.rdw.nl
 nutriscorevoorbedrijven.nl
 nvao.net
+nvb.meertens.knaw.nl
 nvi-registratie-service.test.gf.irealisatie.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
@@ -14007,6 +14148,7 @@ oa.aaenmaas.nl
 oa.espacenet.com
 oai-harvester.labs.dans.knaw.nl
 oai-service.labs.dans.knaw.nl
+oaipmh.huygens.knaw.nl
 oap.ind.nl
 oat.acc.huc.knaw.nl
 oat.dev.huc.knaw.nl
@@ -14058,8 +14200,10 @@ ocwincijfers.nl
 odata.cbs.nl
 odata4.cbs.nl
 odb-ac.zorginzicht.nl
+odb-api.huc.knaw.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
+odb.huc.knaw.nl
 odc-noord.nl
 odc-noord.rijkscloud.nl
 odc.functiegebouwrijksoverheid.nl
@@ -14130,6 +14274,7 @@ ogco.nl
 oggc-bezit.acc.cloudservices.kb.nl
 oggc-omeka-s.acc.cloudservices.kb.nl
 ogier.huygens.knaw.nl
+ohs31.dans.knaw.nl
 oicrf.org
 oid.pkioverheid.nl
 oid.politie.nl
@@ -14160,6 +14305,7 @@ oldold.neovintage-corp.github.io
 oldoldold.neovintage-corp.github.io
 oldsmar.maps.arcgis.com
 ollama.pleio.nl
+ollama.zandbak.dans.knaw.nl
 ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
 olsgqa09.belastingdienst.nl
@@ -14183,6 +14329,7 @@ omnas.labs.tno.nl
 omnas2.labs.tno.nl
 omnichannel.gebruikercentraal.nl
 omnivista.knaw.nl
+omnivista31.knaw.nl
 omoju-oceo-demo.octodemo.github.io
 oms-order.dktunited.github.io
 omvc.tsn.tno.nl
@@ -14497,6 +14644,7 @@ openims-test.ctgb.nl
 openims.ctgb.nl
 openkat.nl
 openlab.tno.nl
+openprojects.dans.knaw.nl
 opensciencemeeting2014.knaw.nl
 openshift.lab.private.kadaster.nl
 openshift.private.kadaster.nl
@@ -14507,6 +14655,7 @@ openstack.gn2.rijkscloud.nl
 openstack.gn3.rijkscloud.nl
 openvideo-streaming.github.io
 openvpn001.remxs.odc-noord.nl
+operas.huc.knaw.nl
 operationeel-geneeskundig.lcms.nl
 operationeel-kira.lcms.nl
 operationeel-kmar.lcms.nl
@@ -14571,6 +14720,7 @@ oraclebi31.knaw.nl
 oraclebiadm21.knaw.nl
 oracledb21.knaw.nl
 oracleoem21.knaw.nl
+oraclesso31.knaw.nl
 orangecorners.com
 oranjehotel.nationaalarchief.nl
 orb.rdw.nl
@@ -14635,6 +14785,7 @@ osirisont.politieacademie.nl
 osirisprd.politieacademie.nl
 osiristst.politieacademie.nl
 osirisweb.politieacademie.nl
+osm.kloeke.huc.knaw.nl
 oss-slu.github.io
 oss.developer.overheid.nl
 ost.digid.nl
@@ -14673,11 +14824,14 @@ oud.aquo.nl
 oud.cip-overheid.nl
 oud.cultureelerfgoed.nl
 oud.infowms.nl
+oud.intranet.knaw.nl
 oud.knaw.nl
 oud.knawonderwijsprijs.nl
 oud.luchtvaartmeteo.nl
+oud.meertens.knaw.nl
 oud.mensenrechten.nl
 oud.mondriaanfonds.nl
+oud.niod.knaw.nl
 oud.platformrijksoverheidonline.nl
 oud.visitaties.nl
 oud.zonmw.nl
@@ -14719,6 +14873,7 @@ overlapchecker.s-bb.nl
 overlegorgaanfysiekeleefomgeving.nl
 overpass.dev.huc.knaw.nl
 overpass.huc.knaw.nl
+overpass.kloeke.huc.knaw.nl
 overstroomik-acceptance.rws.nl
 overstroomik.nl
 overstroomik.rijkswaterstaat.nl
@@ -15125,6 +15280,7 @@ perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
 pers.letterenfonds.nl
 pers.svb.nl
 persberichten.rijksoverheid.nl
+person.did.zandbak.dans.knaw.nl
 personeelsmonitor.databank.nl
 personen-acc.cbr.nl
 personen-tst.cbr.nl
@@ -15291,6 +15447,7 @@ phpldapadmin.dfaas.hansken.org
 phpldapadmin.inzage.hansken.org
 phpldapadmin.learning.hansken.org
 phpmyadmin-test.vm-02.azure.grid.rws.nl
+phpmyadmin.wordpress.dans.knaw.nl
 pi-extern.wcm.acceptatie.kadaster.nl
 pi-extern.wcm.kadaster.nl
 pi-extern.wcm.test.kadaster.nl
@@ -15368,6 +15525,7 @@ pla.dnb.nl
 placeholder.nationaalarchief.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
 plan.beeldbellen.dji.nl
+pland.meertens.knaw.nl
 planmer-acc.zuid-holland.nl
 planmer-test.zuid-holland.nl
 planmer.zuid-holland.nl
@@ -15608,6 +15766,7 @@ portal.rijksdienstcn.com
 portal.risicotoolboxbodem.nl
 portal.roo.acceptatie.kadaster.nl
 portal.roo.kadaster.nl
+portal.sciencefunds.knaw.nl
 portal.shinyproxy.ix.rijkscloud.nl
 portal.skal.nl
 portal.test.datascience.rijkscloud.nl
@@ -15637,6 +15796,8 @@ portaltest.entreepgb.svb.nl
 portaltest.politieacademie.nl
 portie-online.rivm.nl
 porto.bkwi.nl
+portus-acc.knaw.nl
+portus.knaw.nl
 positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
@@ -15817,6 +15978,7 @@ preview.kosteneffectiviteit-preventie.rivm.nl
 preview.loketgezondleven.nl
 preview.nederlandwereldwijd.nl
 preview.netherlandsworldwide.nl
+preview.nias.knaw.nl
 preview.rdw.nl
 preview.wegwijzer.overheid.nl
 previewnext.emissieregistratie.nl
@@ -16124,6 +16286,7 @@ projecten-acc.netwerkplatteland.nl
 projecten-acc.rvo.nl
 projecten-tst.rvo.nl
 projecten.cbs.nl
+projecten.meertens.knaw.nl
 projecten.nba.nl
 projecten.netwerkplatteland.nl
 projecten.rijksvastgoedbedrijf.nl
@@ -16380,6 +16543,7 @@ r-quantities.github.io
 r-wasm.github.io
 ra.odc-noord.nl
 ra.zorginstituutnederland.nl
+raa.huygens.knaw.nl
 raadbaak.nl
 raadopenbaarbestuur.nl
 raadplegen-acc.sbv-z.nl
@@ -16388,6 +16552,7 @@ raadplegen-preprod.sbv-z.nl
 raadplegen.donorregister.nl
 raadplegen.sbv-z.nl
 raadplegen.uboregistertrusts.nl
+raadpleging.knaw.nl
 raadrechtshandhaving.com
 raadrvs.nl
 raadsaam-a.raadvanstate.nl
@@ -16475,6 +16640,7 @@ rbo-ipkd-prd.topdesk.odc-noord.nl
 rbo-klachtenregister.staging.rijksapplicaties.nl
 rbv-acc.rijksfinancien.nl
 rbv.rijksfinancien.nl
+rc01.dh.huc.knaw.nl
 rc02.dh.huc.knaw.nl
 rc03.dh.huc.knaw.nl
 rca.rivm.nl
@@ -16510,9 +16676,12 @@ rdi.nl
 rdinfo.kadaster.nl
 rdp.cultuurparticipatie.nl
 rds-acpt.nationaalarchief.nl
+rds.knaw.nl
 rds.letterenfonds.nl
+rds.nioo.knaw.nl
 rds.onderzoeksraad.nl
 rds.skal.nl
+rds7.knaw.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
 rdsa.knmi.nl
@@ -16524,9 +16693,22 @@ rdsapplications04.svb.nl
 rdsapplications05.svb.nl
 rdsapplications06.svb.nl
 rdsapplications07.svb.nl
+rdscbsh.knaw.nl
+rdscbsh61.knaw.nl
+rdscbsh7.knaw.nl
+rdscbsh71.knaw.nl
+rdsgw.knaw.nl
+rdsgw.nioo.knaw.nl
+rdsgw61.knaw.nl
+rdsgw7.knaw.nl
+rdsgw71.knaw.nl
 rdsinfra-acc.rdw.nl
 rdsinfra-nft.rdw.nl
 rdsinfra.rdw.nl
+rdswa.knaw.nl
+rdswa61.knaw.nl
+rdswa7.knaw.nl
+rdswa71.knaw.nl
 rdw-cip-client.rdw.nl
 rdw-diensten-ap-01.rdw.nl
 rdw-diensten-ot-01.rdw.nl
@@ -16726,6 +16908,8 @@ relay.rijksoverheid.nl
 relay1.c2000.nl
 relay2.c2000.nl
 release.isis-web.nl
+religious-policies.huygens.knaw.nl
+rembench.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 remdoc.huygens.knaw.nl
 remote-logging.ntw.tno.nl
@@ -16781,6 +16965,7 @@ repository-preprod.overheid.nl
 repository.acceptatie.istandaarden.nl
 repository.huygens.knaw.nl
 repository.istandaarden.nl
+repository.knaw.nl
 repository.officiele-overheidspublicaties.nl
 repository.overheid.nl
 repository.red.huygens.knaw.nl
@@ -16795,6 +16980,7 @@ republic.huygens.knaw.nl
 repv2.rechtspraak.nl
 research.cbs.nl
 research.kb.nl
+researchdrive.knaw.nl
 researcher.postcovidonderzoek.nl
 reserved-cesar-db.knmi.nl
 reserveren.deafsluitdijk.nl
@@ -16809,6 +16995,7 @@ resolv2.gn1.rijkscloud.nl
 resolv2.gn2.rijkscloud.nl
 resolv2.gn3.rijkscloud.nl
 resolv2.rw1.rijkscloud.nl
+resolve.labs.dans.knaw.nl
 resolver.dans.knaw.nl
 resolver.int.omgevingswet.overheid.nl
 resolver.kb.nl
@@ -16818,6 +17005,7 @@ resolver.omgevingswet.overheid.nl
 resolver.pfm.omgevingswet.overheid.nl
 resolver.pre.omgevingswet.overheid.nl
 resolver.tno.nl
+resolver.zandbak.dans.knaw.nl
 resolvera.kb.nl
 resolvert.kb.nl
 resources.huygens.knaw.nl
@@ -16831,6 +17019,7 @@ resources652.kb.nl
 resources653.kb.nl
 resources67n.kb.nl
 resper.rdw.nl
+respons.meertens.knaw.nl
 rest.acp.kvk.nl
 rest.crimediggers.nl
 rest.elaborate.huygens.knaw.nl
@@ -16840,11 +17029,13 @@ restitutiecommissie.nl
 resultaten.nlarbeidsinspectie.nl
 ret-a.secure.cito.nl
 ret.databank.nl
+retro.meertens.knaw.nl
 return.ser.nl
 rev.emissieautoriteit.nl
 revelation.aerius.nl
 revi.incidentmanagement.nl
 review.developer.overheid.nl
+review.sciencefunds.knaw.nl
 reviewhumanresearch.tno.nl
 revoketestca.minienw.nl
 revoketestsp.minienm.nl
@@ -17052,6 +17243,7 @@ rso.test.syn.rijksapplicaties.nl
 rss.acceptatie.politie.nl
 rss.amberalert.nl
 rss.politie.nl
+rssfeeds.huc.knaw.nl
 rstatci.onderzoeksraad.nl
 rstudio-almalinux.dgdoobi.rijkscloud.nl
 rstudio.abibzk.rijkscloud.nl
@@ -17249,6 +17441,8 @@ s3.delivery.pdok.cloud.kadaster.nl
 s3.delivery.pdok.nl
 s3.etoegang.nl
 s3.toeslagen.nl
+s3.zandbak.dans.knaw.nl
+s3api.zandbak.dans.knaw.nl
 s4a.brabant.nl
 s4o.brabant.nl
 s4p.brabant.nl
@@ -17313,6 +17507,7 @@ sample-ui-app.wgu-edu.github.io
 sampletrackingserver1.arcgis.com
 samsvr.kadaster.nl
 samuraitruong.github.io
+sand.meertens.knaw.nl
 sandbox.functiegebouwrijksoverheid.nl
 sandbox.ikwerkvoornederland.nl
 sandbox.kansspelautoriteit.nl
@@ -17465,6 +17660,7 @@ sbweb15-p1.coa.nl
 sbweb15-p2.coa.nl
 sbweb19-p1.coa.nl
 sbweb19-p2.coa.nl
+sc-adfs.spinozacentre.knaw.nl
 sc-webserver-001.nin.knaw.nl
 scaling-bassoon.paper-spa.github.io
 scanmail.rdw.nl
@@ -17589,6 +17785,7 @@ securened.ncsc.nl
 secureportal.onderzoeksraad.nl
 securetest.vechtstromen.nl
 securetransfer.rijkscloud.nl
+security.dans.knaw.nl
 security.ndw.nu
 securityservice-a.secure.cito.nl
 securityservice.secure.cito.nl
@@ -17633,10 +17830,12 @@ sentry.ndw.nu
 sentry.services.acm.nl
 sentry1.acm.nl
 sentry1.zwb.riec.nl
+sep.nioo.knaw.nl
 sepm.belastingdienst.nl
 ser.nl
 serhatpc.rivm.nl
 seriousgame.simpel-switchen.nl
+serrure.mvn.huygens.knaw.nl
 server-monitoring.ptvt.nl
 server.arcgis.com
 server.hcaict.nl
@@ -18156,6 +18355,7 @@ socjenv-prd.topdesk.odc-noord.nl
 sodm.nl
 sodm.sitearchief.nl
 softwareveiligheid.onderzoeksraad.nl
+soilpros.nioo.knaw.nl
 solar.tno.nl
 sollicitanten.ictu.nl
 solliciteer-direct.kvk.nl
@@ -18167,6 +18367,7 @@ solr.acc.staatsbosbeheer.nl
 solr.prd.staatsbosbeheer.nl
 solr.ser.nl
 solr.staatsbosbeheer.nl
+solr.zandbak.dans.knaw.nl
 solutions.arcgis.com
 sommbo.nl
 sonar-lts.test.ix.rijkscloud.nl
@@ -18210,6 +18411,7 @@ sparql-a.competentnl.nl
 sparql-acc.competentnl.nl
 sparql.competentnl.nl
 sparql.noraonline.nl
+sparql.zandbak.dans.knaw.nl
 spatialdata-cbmdc.hub.arcgis.com
 spcgis-spc.hub.arcgis.com
 specialistggz.venvn.nl
@@ -18218,6 +18420,7 @@ specials.brabant.nl
 spelen.cultuurparticipatie.nl
 spf.nvao.net
 spfesfuidb.ictu.nl
+spibirds.nioo-preprod.knaw.nl
 spiegel-a.werk.nl
 spiegel-accept.ba.uwv.nl
 spiegel.werk.nl
@@ -18283,6 +18486,7 @@ srv1.rdw.nl
 srv1.sbr-wonen.nl
 srv2.rdw.nl
 srv3.dopingautoriteit.nl
+ss31.dans.knaw.nl
 ssa.vfpf.nl
 ssc-ict.nl
 ssc-ictspecials.nl
@@ -18422,11 +18626,13 @@ staging.english.ctpveldzicht.nl
 staging.filmfonds.nl
 staging.halt.nl
 staging.huc.knaw.nl
+staging.huygens.knaw.nl
 staging.ideasfrom.eu
 staging.inburgeren.nl
 staging.inzenden.knawonderwijsprijs.nl
 staging.jury.knawonderwijsprijs.nl
 staging.justitieconnect.nl
+staging.meertens.knaw.nl
 staging.meldknop.nl
 staging.meldpuntintegriteitjenv.nl
 staging.ndw.nu
@@ -18586,6 +18792,7 @@ stats.globalentry-rtp.nl
 stats.hogeraad.nl
 stats.irealisatie.nl
 stats.kansspelautoriteit.nl
+stats.knaw.nl
 stats.ndw.nu
 stats.one-conference.nl
 stats.pleio.nl
@@ -18652,6 +18859,7 @@ stijlgids.cibg.nl
 stijlgids.rijkswaterstaat.nl
 stijlgids.rws.nl
 stikstofdepositiedata.rivm.nl
+stilletochten.meertens.knaw.nl
 stimuleringsfonds.nl
 stimva.nl
 stl.sensorlab.tno.nl
@@ -18667,6 +18875,7 @@ stor.portaal-tst.afm.nl
 stor.portaal.afm.nl
 stor.services.cultureelerfgoed.nl
 storage.databestanden.cbs.nl
+storage.knaw.nl
 storage.labs.dans.knaw.nl
 storage.test.mgo.irealisatie.nl
 storing.cbs.nl
@@ -18732,6 +18941,7 @@ studiegroepopenbaarbestuur.pleio.nl
 studieincijfers-acc.s-bb.nl
 studieincijfers.s-bb.nl
 studio.extern.minszw.nl
+stv31.dans.knaw.nl
 stvda.nl
 styleguide.cibg.nl
 sub.gezondekinderopvang.nl
@@ -18752,6 +18962,8 @@ subsidies-login.aofondsrijk.nl
 subsidies.acceptatie.aofondsrijk.nl
 subsidies.minvws.nl
 subsite.nioo-acc.knaw.nl
+successfactors-test.knaw.nl
+successfactors.knaw.nl
 sumatra.huurcommissie.nl
 summercourt.nl
 summerschool.nin.knaw.nl
@@ -18768,6 +18980,8 @@ support-gn5.rdw.nl
 support-tst.cbr.nl
 support.cbr.nl
 support.chm-cbd.net
+support.dans.knaw.nl
+support.easy.dans.knaw.nl
 support.huc.knaw.nl
 support.pdok.test.cloud.kadaster.nl
 support.rdw.nl
@@ -18782,6 +18996,8 @@ support4.rdw.nl
 support5.rdw.nl
 supportschonesport.nl
 surf.tropomi.eu
+suriano.huygens.knaw.nl
+suriname-tijdmachine.huygens.knaw.nl
 survey-acc.igj.nl
 survey-beheer.igj.nl
 survey-beheeracc.igj.nl
@@ -18842,13 +19058,16 @@ svk-info.rws.nl
 svk-login.rws.nl
 svm.rws.nl
 svmsta.dictu.nl
+svn.huygens.knaw.nl
 svn.logius.nl
+svnmondriaan.huygens.knaw.nl
 svnmondxml.huygens.knaw.nl
 svnmvn.huygens.knaw.nl
 svs-acc.rws.nl
 svs.ptp.inloggen.rws.nl
 svs.rws.nl
 swap.alterra.nl
+sweb11.dans.knaw.nl
 swib.sbcm.nl
 swirrl.climate4impact.eu
 switchbox.rijksapplicaties.nl
@@ -18882,6 +19101,7 @@ synergy.nipv.nl
 synergy24.knaw.nl
 sys-mijn.rvo.nl
 sys-staging-mijn.rvo.nl
+systems.huc.knaw.nl
 syswov.datawonen.nl
 szw-via.brandam.nl
 t-api.contenttoolsrijksoverheid.nl
@@ -18916,6 +19136,7 @@ t1.digid.nl
 t1.espacenet.com
 t2.digid.nl
 taalakkoord.leerwerkloket.nl
+taaldetector.meertens.knaw.nl
 taalweb.fa.knaw.nl
 taalweek.gebruikercentraal.nl
 tachograaf-handboek-oep3rbgktmt.rdw.nl
@@ -18937,6 +19158,7 @@ taoracledb21.knaw.nl
 taoracledb22.knaw.nl
 taoracledb23.knaw.nl
 taoracleoem21.knaw.nl
+taoraclesso31.knaw.nl
 tapir-acc.rivm.nl
 tapir.rivm.nl
 tar31.dans.knaw.nl
@@ -18973,6 +19195,7 @@ tbo.politie.nl
 tbserver.dev.kvk.nl
 tbserver.kvk.nl
 tbserver.npo.kvk.nl
+tc13.huygens.knaw.nl
 tcbb.nl
 tcs-resident.minvws.nl
 tcs.rdw.nl
@@ -19231,7 +19454,6 @@ test.crios.rivm.nl
 test.cruksregister.nl
 test.csirtdsp.nl
 test.cultureelerfgoed.nl
-test.dans.knaw.nl
 test.designthinking.gebruikercentraal.nl
 test.dictu.nl
 test.digid.nl
@@ -19296,7 +19518,6 @@ test.lml.rivm.nl
 test.lmm.rivm.nl
 test.loket.pdok.nl
 test.loketgezondleven.nl
-test.meertens.knaw.nl
 test.meldingenapp.tweedekamer.nl
 test.meldpuntbodemkwaliteit.nl
 test.metspoedbeschikbaar.nl
@@ -19391,7 +19612,6 @@ test.web.nmp.ictu.nl
 test.webservices.donorregister.nl
 test.woo.irealisatie.nl
 test.www.coa.nl
-test.www.knaw.nl
 test.www.mycoa.nl
 test.zeroemissiedoelgroepenvervoer.nl
 test.zorgcsp.nl
@@ -19412,12 +19632,10 @@ test3.risicotoolboxbodem.nl
 test300.dictu.nl
 test4-keytalk.rdw.nl
 testacm.skal.nl
-testadfs.knaw.nl
 testadminpure.knaw.nl
 testapi.ix.rijkscloud.nl
 testapi.tweedekamer.nl
 testapp.devops.rvb.rijkscloud.nl
-testauthentication.di.huc.knaw.nl
 testbegrippen.hdsr.nl
 testbijdrukte.coronatest.nl
 testcao.minszw.nl
@@ -19439,8 +19657,6 @@ testeloket.flevoland.nl
 testeloket.vallei-veluwe.nl
 testgeoservices.knmi.nl
 testhf.gn2.rijkscloud.nl
-testhi25.huygens.knaw.nl
-testhostingportal.huc.knaw.nl
 testinternet.politieacademie.nl
 testkaarten.vechtstromen.nl
 testkennis.hdsr.nl
@@ -19474,7 +19690,6 @@ teveelbetaaldschorsingsbedragterugvragen.rdw.nl
 teverantwoordenregelingen.rijksoverheid.nl
 teylingendigitaal.pleio.nl
 tf.tno.nl
-tfm63.dans.knaw.nl
 tfs.naktuinbouw.com
 tg.chm-cbd.net
 tg.test.chm-cbd.net
@@ -19500,7 +19715,6 @@ thesaurus-az-t.politieacademie.nl
 thesaurus-az.politieacademie.nl
 thesaurus-t.politieacademie.nl
 thesaurus.cultureelerfgoed.nl
-thesaurus.globalise.huygens.knaw.nl
 thesaurus.politieacademie.nl
 thesaurus.zuid-holland.nl
 thinkwiseprovisioning-a.cito.nl
@@ -19531,29 +19745,22 @@ tiles.ndw.nu
 tiles1.arcgis.com
 tiles2.arcgis.com
 tiles4.arcgis.com
-tileserver.huc.knaw.nl
 tileserver.ndw.nu
 tileserver.staatvanhetbestuurdashboard.nl
 tim-maintainer-test.paper-spa.github.io
-timbuctoo-prod.red.huygens.knaw.nl
-timbuctoo-repo-prod.red.huygens.knaw.nl
 time.tno.nl
 timeit-acc.hetcak.nl
 timeit.hetcak.nl
 timeline.test.zm.irealisatie.nl
 timetell-test.knaw.nl
-timetell.knaw.nl
 timnath.maps.arcgis.com
 tip.ncsc.nl
 tiptap-ai.pleio.nl
 tiptap-collab.pleio.nl
-tjalie-robinson.huygens.knaw.nl
-tkemp01.knaw.nl
 tkr.rdw.nl
 tkworkspacevpn.parlement.nl
 tkwspavpn.parlement.nl
 tl.iplo.nl
-tlhms31.dans.knaw.nl
 tlokb.nl
 tls-conformiteit10.kadaster.nl
 tls-conformiteit30.acceptatie.kadaster.nl
@@ -19562,6 +19769,7 @@ tm.knmi.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
+tmfiles.knaw.nl
 tmint.github.io
 tmp-c6ffdb.crimson-perch.github.io
 tmp-cad776.crimson-perch.github.io
@@ -19579,7 +19787,6 @@ tmxweb.rws.nl
 tno.nl
 tnoportal.tno.nl
 tnotime.tno.nl
-todo.nin.knaw.nl
 toe.rdw.nl
 toegang-tst.cbr.nl
 toegang.beheer.kvk.nl
@@ -19651,7 +19858,6 @@ tolpaymentapi.e-tol.nl
 tolviewer.tth.rdw.nl
 tolvrij-proxy-actuators.test.vm-04.azure.grid.rws.nl
 tomcat-on-docker.wgu-edu.github.io
-tomcat.tiler01.huygens.knaw.nl
 tool-esbxml-supplier-vcmn.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier-vcnon.incoming.test.vm-04.azure.grid.rws.nl
 tool-esbxml-supplier-vcnwn.incoming.test.vm-04.azure.grid.rws.nl
@@ -19675,7 +19881,6 @@ toolkits.loketgezondleven.nl
 toolkittaal.gebruikercentraal.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.digitaltrustcenter.nl
-tools.huc.knaw.nl
 tools.pianoo.nl
 tools.rijksinnovatiecommunity.nl
 tools.wijzeringeldzaken.nl
@@ -19712,7 +19917,6 @@ topsectoren.nl
 topshuis.nl
 topswb.cbr.nl
 toptaken.pleio.nl
-torec.huygens.knaw.nl
 torenvalk.brabant.nl
 tovertool.nza.nl
 tp-proxy.acc.private.kadaster.nl
@@ -19752,7 +19956,6 @@ trainingcloud.arcgis.com
 trainingenwetbibob.kennisplatformondermijning.nl
 trainingvalsgeld.dnb.nl
 tran-web-ns001.valys.nl
-transcriptions.globalise.huygens.knaw.nl
 transfer-dwh.kb.nl
 transfer.atabase.gratisvog.nl
 transfer.kb.nl
@@ -19765,11 +19968,9 @@ transferium-oh.politie.nl
 transferium.gslb-trf.politie.nl
 transferium.politie.nl
 transferverpleegkundigen.venvn.nl
-transformer.labs.dans.knaw.nl
 transitieagendakunststoffen.nl
 transitieproefdiervrijeinnovatie.nl
 transportenlogistiek.zelfinspectie.nl
-travellingtexts.huygens.knaw.nl
 travelpoint.sso3w.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
@@ -19802,7 +20003,6 @@ ts.cbi.eu
 ts.onderwijsraad.nl
 ts.slotcoordination.nl
 tsp.minienw.nl
-tss31.dans.knaw.nl
 tssrpm-iis.knaw.nl
 tst-bergerselect.rws.nl
 tst-biometric-service.consular.mfaservices.nl
@@ -19887,7 +20087,6 @@ tst6.mijn.overheid.nl
 tst7.mijn.overheid.nl
 tst8.mijn.overheid.nl
 tst9.mijn.overheid.nl
-tt.di.huc.knaw.nl
 tte.rdw.nl
 tth.rdw.nl
 tthclientcertificate.rdw.nl
@@ -19895,7 +20094,6 @@ tthcontrole-p-we-apim-cert.rdw.nl
 tthprdclient.rdw.nl
 tthprdsigner.rdw.nl
 ttp.rivm.nl
-ttv.dans.knaw.nl
 ttw.rijksapplicaties.nl
 ttw.staging.rijksapplicaties.nl
 tu-dan.github.io
@@ -19915,9 +20113,7 @@ tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl
 tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
 tunnelservice-werkstation.vm-02.azure.grid.rws.nl
 turn.rijkscloud.nl
-tus.labs.dans.knaw.nl
 tv.procesinfrastructuur.nl
-tva31.dans.knaw.nl
 tvep.dictu.nl
 tvim.rdw.nl
 tvnooddienst.rdw.nl
@@ -19926,7 +20122,6 @@ tvs-sign.tenderned.nl
 tvs.coa.nl
 tvs.dictu.nl
 tvsimulator.rdw.nl
-tweb11.dans.knaw.nl
 tweedekamer-d8.acceptatie.tweedekamer.nl
 tweedekamer-ota.parlement.nl
 tweedekamer.acceptatie.tweedekamer.nl
@@ -19936,7 +20131,6 @@ tweedekamer.sitearchief.nl
 tweedekamer.test.tweedekamer.nl
 twente.leerwerkloket.nl
 twente.lerenenwerken.nl
-twister21.dans.knaw.nl
 twistlock.pleio.nl
 twitch-octocat-generator.octodemo.github.io
 two-acs.com
@@ -19944,12 +20138,9 @@ tws-esb.rijkswaterstaat.nl
 tws-esb.rws.nl
 tws.rdw.nl
 tws.tth.rdw.nl
-twww11.meertens.knaw.nl
 twww13.meertens.knaw.nl
-twww14.meertens.knaw.nl
 tyk-cdn.dataplatform.knmi.nl
 type-approval.rdw.nl
-type.labs.dans.knaw.nl
 typegoedkeuringaanvragen.rdw.nl
 typened-cpe.rivm.nl
 typened-crmo.rivm.nl
@@ -20072,7 +20263,6 @@ upnl.mijn.rvo.nl
 upri-roes-rvs.preprod.rvo.nl
 uptime.bureauft.nl
 uptime.bureauwbtv.nl
-uptime.huc.knaw.nl
 uptime.rvr.org
 uptrends.webservices.lrza.cibg.nl
 uracimamaps.maps.arcgis.com
@@ -20159,6 +20349,7 @@ v3-o.espacenet.com
 v3-test.espacenet.com
 v3-u.espacenet.com
 v3.espacenet.com
+va31.dans.knaw.nl
 va_do.belastingdienst.nl
 vaardigheid-acc.cbr.nl
 vaardigheid-tst.cbr.nl
@@ -20205,7 +20396,7 @@ vananaarbeter.nl
 vandale.tweedekamer.nl
 vang-hha.nl
 vangbuitenshuis.nl
-vangogh.dev.huc.knaw.nl
+vangogh-api.dev.huc.knaw.nl
 vaoa.politie.nl
 vas.cito.nl
 vastgoeddashboard.acceptatie.kadaster.nl
@@ -20349,7 +20540,6 @@ verbose-octo-garbanzo.snh-test-org.github.io
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
 verduurzamingindustrie.nl
-vereijck.huygens.knaw.nl
 verenigingvoorklachtrecht.pleio.nl
 vergaderapp.tweedekamer.nl
 vergaderen.belastingdienst.nl
@@ -20380,7 +20570,6 @@ vermissinghandelaarskentekenmelden.rdw.nl
 vermissingrijbewijsmelden.rdw.nl
 vernieuwingiv.kennisplatformondermijning.nl
 verpakkingen.belastingdienst.nl
-version-tracker.labs.dans.knaw.nl
 verslaggeving.afm.nl
 versnellingshuisce.nl
 versnellingspartner.versnellingshuisce.nl
@@ -20390,8 +20579,8 @@ versterkenweerbaarheid.nl
 versterkingpolitieprofessie.politieacademie.nl
 verstoringsmelder.rechtspraak.nl
 verstrekkingsvoorbehoud.rdw.nl
+vertrokken-nederlands.meertens.knaw.nl
 vervangendkentekenbewijsaanvragen.rdw.nl
-verwer.nin.knaw.nl
 verwerkingen.rijksoverheid.nl
 verzekeringsgegevensopvragen.rdw.nl
 verzekeringsproducten.acc.belastingdienst.nl
@@ -20411,13 +20600,11 @@ vfpf.nl
 vfrchart.lvnl.nl
 vgc-acc.nvwa.nl
 vgc.nvwa.nl
-vgdyn11.huygens.knaw.nl
 vglas-a.svb.nl
 vglas-p.svb.nl
 vgm-demo.databank.nl
 vgr.zuid-holland.nl
 vgstat11.huygens.knaw.nl
-vgtile11.huygens.knaw.nl
 vhk.mindef-vio.nl
 via-i.rijksapplicaties.nl
 via-i.staging.rijksapplicaties.nl
@@ -20445,7 +20632,6 @@ videobellen.douane.nl
 videobellen.pleio.nl
 videobellen.toeslagen.nl
 videobellen.waterschaplimburg.nl
-videoconf.knaw.nl
 videoconf02.knaw.nl
 videoleren.nvwa.nl
 videoplatform.cbs.nl
@@ -20457,8 +20643,6 @@ viep.acc.brba.nl
 viep.brba.nl
 viep.test.brba.nl
 view.email.kvk.nl
-view.herseninstituut.knaw.nl
-view.nin.knaw.nl
 viewer.ahn.nl
 viewer.dso.kadaster.nl
 viewer.dsolv.cloud.kadaster.nl
@@ -20815,7 +20999,6 @@ wadziejij.rijkewaddenzee.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
-waleweinendekeye.huygens.knaw.nl
 wallboard.apps.staatsbosbeheer.nl
 wallboardbuitenleven.apps.staatsbosbeheer.nl
 waltid-dev-wallet.test.gf.irealisatie.nl
@@ -20923,7 +21106,6 @@ web.b.ebscohost.com.access.authkb.kb.nl
 web.brt.kadaster.nl
 web.brt.test.kadaster.nl
 web.ertms.nl
-web.huygens.knaw.nl
 web.kvk.nl
 web.login-test.skal.nl
 web.login.skal.nl
@@ -20937,28 +21119,16 @@ web.test.dpr.irealisatie.nl
 web.test.gf.irealisatie.nl
 web.test.mgo.irealisatie.nl
 web01-nabs.officielebekendmakingen.nl
-web01.huygens.knaw.nl
 web01.rijksacademie.nl
 web01.waarborg.nl
 web02-nabs.officielebekendmakingen.nl
 web02.burgernet.nl
-web02.huygens.knaw.nl
 web03-nabs.officielebekendmakingen.nl
-web1.fa.knaw.nl
 web1.nba.nl
 web11.dans.knaw.nl
-web2.fa.knaw.nl
 web2.kvk.nl
 web21.dans.knaw.nl
-web3.fa.knaw.nl
-web31.knaw.nl
-web4.fa.knaw.nl
-web5.fa.knaw.nl
-web6.fa.knaw.nl
-web7.fa.knaw.nl
-web8.fa.knaw.nl
 webaccess.kb.nl
-webaccess.knaw.nl
 webaccess.knmi.nl
 webapps-a.politieacademie.nl
 webapps-acc.belastingdienst.nl
@@ -21090,7 +21260,6 @@ webmail.ser.nl
 webmail.skal.nl
 webmail.stimuleringsfonds.nl
 webmail.summercourt.nl
-webmail.test.knaw.nl
 webmail.test.rivm.nl
 webmail.tib-ivd.nl
 webmail.tno.nl
@@ -21378,7 +21547,6 @@ whitelabel-ontw.s-bb.nl
 who.maptiles.arcgis.com
 whoami.zandbak.dans.knaw.nl
 whofic.nl
-wi.knaw.nl
 wi.maptiles.arcgis.com
 wibe.databank.nl
 wibo.rijksapplicaties.nl
@@ -21408,14 +21576,12 @@ wiki-acc.eherkenning.nl
 wiki-eve.tno.nl
 wiki-intern.rws.nl
 wiki.acceptatie.kadaster.nl
-wiki.benjamin.nin.knaw.nl
 wiki.kadaster.nl
 wiki.keurmerk.nl
 wiki.logius.nl
 wiki.rijkscloud.nl
 wiki.rijksoverheid.nl
 wiki.rws.nl
-wikict.nin.knaw.nl
 wikixl-saml.acceptatie.kadaster.nl
 wikixl-saml.acceptatie.waterschaplimburg.nl
 wikixl-saml.cultureelerfgoed.nl
@@ -21514,14 +21680,11 @@ workfolder.rdw.nl
 workfolders.rdw.nl
 workforce.arcgis.com
 workforce.knaw.nl
-workforce.nioo.knaw.nl
 workforce.stage.arcgis.com
 workinnl.nl
 workspace.hhdelfland.nl
 workspace.kadaster.nl
 workspace.kansspelautoriteit.nl
-workspaces.huc.knaw.nl
-worldengine.labs.dans.knaw.nl
 worldwide-i-no-apigee-th.espacenet.com
 worldwide-i-no-apigee.espacenet.com
 worldwide-i.espacenet.com
@@ -21540,7 +21703,11 @@ wozwaardeloket.acceptatie.kadaster.nl
 wozwaardeloket.kadaster.nl
 wozwaardeloket.nl
 wozwaardeloket.test.kadaster.nl
-wp-08.dev.huc.knaw.nl
+wp-02.dev.huc.knaw.nl
+wp-04.dev.huc.knaw.nl
+wp-09.dev.huc.knaw.nl
+wp-14.dev.huc.knaw.nl
+wp-17.dev.huc.knaw.nl
 wp.internationalstudy.nl
 wpo-webservice.staging.rijksapplicaties.nl
 wpo.rijksapplicaties.nl
@@ -21877,7 +22044,6 @@ www.antennebureau.nl
 www.antenneregister.nl
 www.antisemitismebestrijding.nl
 www.aofondsrijk.nl
-www.aon.nin.knaw.nl
 www.aovvt.nl
 www.app.dagvandeforensischezorg.nl
 www.app.mijnrijkspas.nl
@@ -21946,7 +22112,6 @@ www.belastingdienst-cn.nl
 www.belastingdienst.nl
 www.belastingles.nl
 www.benchmarkenindepubliekesector.nl
-www.benjamin.nin.knaw.nl
 www.beoordelingarbeidsrelatie.nl
 www.beoordelingscommissiedopingzaken.nl
 www.bereikbaarheidvooriedereen.nl
@@ -22151,7 +22316,6 @@ www.daggegevens.knmi.nl
 www.dagvandefg.nl
 www.dagvandeforensischezorg.nl
 www.dagvandewetgeving.nl
-www.dans.knaw.nl
 www.danstijd.slo.nl
 www.dashboardgroningen.nl
 www.dashboardklimaatbeleid.nl
@@ -22266,7 +22430,6 @@ www.e-mjv.nl
 www.e-tol.nl
 www.eakkoord.nl
 www.earss.rivm.nl
-www.easy.dans.knaw.nl
 www.ecad.eu
 www.ecoexplorer.arcgis.com
 www.economicdiplomacy.rvo.nl
@@ -22280,7 +22443,6 @@ www.efsca.org
 www.eherkenning.nl
 www.eigenkracht.nl
 www.eiti.nl
-www.elaborate.huygens.knaw.nl
 www.elastic.onderzoeksraad.nl
 www.elkeregiotelt.nl
 www.eloket-test.s-bb.nl
@@ -22331,7 +22493,6 @@ www.expeditiewaddenkust.nl.rijkewaddenzee.nl
 www.expertisecentrumlyme.nl
 www.expertisecentrummggz.nl
 www.ezips.rivm.nl
-www.fa.knaw.nl
 www.faculteitmilitairewetenschappen.nl
 www.farmacotherapeutischkompas.nl
 www.farmatec.nl
@@ -22413,6 +22574,7 @@ www.groeiennaarmorgen.nl
 www.groenalliantiemiddenholland.nl
 www.groenwonen.alterra.nl
 www.grondstoffenscanner.nl
+www.grotius.huygens.knaw.nl
 www.gtmx.acc.belastingdienst.nl
 www.halt.nl
 www.handelingenbank.info
@@ -22450,13 +22612,11 @@ www.hubqacdn.arcgis.com
 www.hubstatus.arcgis.com
 www.hubstatusdev.arcgis.com
 www.hubstatusqa.arcgis.com
-www.huc.knaw.nl
 www.huiselijkgeweld.nl
 www.huisstijl.sbcm.nl
 www.huisvoorklokkenluiders.nl
 www.humanstudies.tno.nl
 www.huurcommissie.nl
-www.huygens.knaw.nl
 www.hwbp.nl
 www.iamcdocumentation.eu
 www.ibki.nl
@@ -22526,7 +22686,6 @@ www.interspeciesinfo.com
 www.interventiedatabase.nl
 www.intpatch.omgevingswet.overheid.nl
 www.intra.rvr.org
-www.intranet.knaw.nl
 www.investeringsimpulsspv.nl
 www.investinholland.com
 www.iob-evaluatie.nl
@@ -22623,7 +22782,6 @@ www.klimaatadaptatienederland.nl
 www.klimaatakkoord.nl
 www.klimaatmonitor.databank.nl
 www.klimaatscenarios-data.knmi.nl
-www.knaw.nl
 www.knawonderwijsprijs.nl
 www.knmi.nl
 www.knmidata.nl
@@ -22732,14 +22890,12 @@ www.matamo.onderzoeksraad.nl
 www.matomo.cip-overheid.nl
 www.matomo.onderzoeksraad.nl
 www.mattermost.aerius.nl
-www.maximizer.rathenau.knaw.nl
 www.mccg.nl
 www.me2.alterra.nl
 www.mediation.online.rvr.org
 www.medicijnkosten.nl
 www.medicijnresten.org
 www.medicineshortagesdefects.nl
-www.meertens.knaw.nl
 www.meetingpointdji.nl
 www.meldknop.nl
 www.meldproduct.nl
@@ -22791,7 +22947,6 @@ www.mobiel.nba.nl
 www.mobiliteitsbank.nl
 www.mobiliteitsscan-info.nl
 www.mobilitylab.nl
-www.monarchy-in-turmoil.huygens.knaw.nl
 www.mondriaanfonds.nl
 www.monitorarbeid.tno.nl
 www.monitorgezondheid.nl
@@ -22862,7 +23017,6 @@ www.netherlandsworldwide.nl
 www.netwerkplatteland.nl
 www.new.deweekvandecirculaireeconomie.nl
 www.new.one-conference.nl
-www.nias.knaw.nl
 www.nidos.nl
 www.nieuwesluisterneuzen.eu
 www.nieuwjaarstoost.nl
@@ -22874,8 +23028,6 @@ www.nieuwsienw.nl
 www.nieuwstembiljet.nl
 www.nifp.nl
 www.nimh.nl
-www.nin.knaw.nl
-www.nioo.knaw.nl
 www.nipv.nl
 www.niwo.nl
 www.nix18.nl
@@ -23036,7 +23188,6 @@ www.pleio.nl
 www.plekchecker.rvo.nl
 www.pms.dictu.nl
 www.pns.nl
-www.podium.knaw.nl
 www.politie.nl
 www.politieacademie.nl
 www.politiecn.com
@@ -23569,6 +23720,7 @@ www.werkplaatsvoorlandbouwennatuur.nl
 www.wetbeschermingklokkenluiders.nl
 www.wetenschapentechnologie.slo.nl
 www.whofic.nl
+www.wi.knaw.nl
 www.wifi.stimuleringsfonds.nl
 www.wijzeringeldzaken.nl
 www.wijzijndus-i.nl
@@ -23693,14 +23845,12 @@ xmdm.justid.nl
 xml-gba.demo.bkwi.nl
 xml-test.duo.nl
 xml.belastingdienst.nl
-xml.huygens.knaw.nl
 xmpp.chat.ind.nl
 xnimorz.github.io
 xploreus.rvo.nl
 xwc-prd.rdw.nl
 xwc-test.rdw.nl
 yammer.ictu.nl
-yasgui.dev.huc.knaw.nl
 yashtalla.github.io
 ye.chm-cbd.net
 yivi.pilot.uzi-online.minvws.nl
