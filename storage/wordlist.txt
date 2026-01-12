@@ -96,6 +96,7 @@ beta
 mta-sts
 geo
 kennis
+mobiel
 proto
 www-ac
 www-dev
@@ -119,7 +120,6 @@ onderhoud
 developer
 mam
 a-magazines
-mobiel
 www-ow
 www-ts
 sandbox
@@ -279,6 +279,7 @@ productie
 intern
 new
 analytics
+sentry
 tools
 idm
 acc-cms
@@ -380,7 +381,6 @@ eva
 mijn.test
 keycloak
 s
-sentry
 track
 voorlichting
 join
@@ -401,6 +401,7 @@ klantportaal
 test-cms
 webwinkel
 handboek
+pop
 elo
 communicatieportaal
 ontheffingaanvragen
@@ -728,7 +729,6 @@ register
 fed
 s3
 papiamento
-pop
 toolbox
 wikixl-saml.acceptatie
 vacature
