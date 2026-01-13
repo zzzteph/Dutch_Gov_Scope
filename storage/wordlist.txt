@@ -12542,8 +12542,6 @@ plot-test
 test-kira
 test-veiligheidsregio
 test-waterschappen
-feeds.over
-opendata.over
 over
 voorvertoning
 lms
