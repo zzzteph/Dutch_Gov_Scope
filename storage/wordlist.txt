@@ -861,6 +861,7 @@ diensten
 facturen
 lync1
 opendata.acp
+mijnoverheid
 webconf
 achterhoek
 drechtsteden
@@ -15439,7 +15440,6 @@ kenniswijzer
 leapwork
 login-acc
 mediation.online
-mijnoverheid
 mijnrechtsbijstand
 outlook2016
 outsite
