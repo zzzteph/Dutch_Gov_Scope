@@ -2775,6 +2775,7 @@ https://api.pdok.cloud.kadaster.nl
 https://api.pdok.nl
 https://api.politie.nl
 https://api.portal.dnb.nl
+https://api.preprod.kvk.nl
 https://api.preprod.mijn.overheid.nl
 https://api.pzp.nl
 https://api.rdi.nl
@@ -10418,6 +10419,7 @@ https://server-monitoring.ptvt.nl
 https://server.arcgis.com
 https://server.hcaict.nl
 https://server.rijksoverheidsvideo.nl
+https://server4.db.kvk.nl
 https://service-index.labs.dans.knaw.nl
 https://service.acc.omgevingswet.overheid.nl
 https://service.bta.omgevingswet.overheid.nl
@@ -12089,10 +12091,12 @@ https://webservice.rechtspraak.nl
 https://webservice.sbv-z.nl
 https://webservice.sniv.osiris.rivm.nl
 https://webservice.soap.osiris.rivm.nl
+https://webservices.acp.kvk.nl
 https://webservices.bigregister.nl
 https://webservices.diergeneeskunderegister.nl
 https://webservices.hdsr.nl
 https://webservices.kbvg.nl
+https://webservices.preprod.kvk.nl
 https://webshop-mijn.s-bb.nl
 https://webshop.incidentmanagement.nl
 https://webshop.voedingscentrum.nl

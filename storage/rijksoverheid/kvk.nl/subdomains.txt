@@ -5,6 +5,7 @@ admin.tbadmin.kvk.nl
 admin.tbadmin.npo.kvk.nl
 api.acp.kvk.nl
 api.kvk.nl
+api.preprod.kvk.nl
 apim01.npo.cloud001.kvk.nl
 apim01.prd.cloud001.kvk.nl
 apiservices99.kvk.nl
@@ -44,8 +45,6 @@ diensten.npo.kvk.nl
 directchat.kvk.nl
 downloads.acp.kvk.nl
 downloads.kvk.nl
-downloadservice.acp.kvk.nl
-downloadservice.kvk.nl
 e.kvk.nl
 events.kvk.nl
 facturen.kvk.nl
@@ -92,6 +91,7 @@ opendata.preprod.kvk.nl
 osb.kvk.nl
 payt.kvk.nl
 pki-g2.kvk.nl
+pr.kvk.nl
 regiodata.kvk.nl
 registry.dev.kvk.nl
 registry.kvk.nl

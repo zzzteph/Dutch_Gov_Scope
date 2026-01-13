@@ -2878,6 +2878,7 @@ api.performance.ix.rijkscloud.nl
 api.politie.nl
 api.portal.atabase.gratisvog.nl
 api.portal.dnb.nl
+api.preprod.kvk.nl
 api.preprod.mijn.overheid.nl
 api.prolander.nl
 api.pzp.nl
@@ -6962,8 +6963,6 @@ downloads.kvk.nl
 downloads.pdok.nl
 downloads.rijkswaterstaatdata.nl
 downloads.slo.nl
-downloadservice.acp.kvk.nl
-downloadservice.kvk.nl
 dp-dnb.dnb.nl
 dp-dnba.dnb.nl
 dp.meertens.knaw.nl
@@ -15828,6 +15827,7 @@ ppvr.staging.rijksapplicaties.nl
 ppxax01.pam.acceptatie.kadaster.nl
 ppxax02.pam.acceptatie.kadaster.nl
 pr.aerius.nl
+pr.kvk.nl
 pra.svb.nl
 praatmeemetdeoverheid.nl
 praktijkgerichteprogrammas.nl

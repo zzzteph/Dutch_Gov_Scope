@@ -6,6 +6,7 @@ https://admin.tbadmin.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
 https://api.acp.kvk.nl
 https://api.kvk.nl
+https://api.preprod.kvk.nl
 https://autorisatieportaal.dev.kvk.nl
 https://autorisatieportaal.test.kvk.nl
 https://autorisatieportaal.uat.kvk.nl
@@ -37,6 +38,7 @@ https://regiodata.kvk.nl
 https://rest.acp.kvk.nl
 https://rest.kvk.nl
 https://rest.preprod.kvk.nl
+https://server4.db.kvk.nl
 https://staging.werkenbij.kvk.nl
 https://status.kvk.nl
 https://swp.kvk.nl
@@ -46,6 +48,8 @@ https://tbadmin.npo.kvk.nl
 https://vbu.kvk.nl
 https://view.email.kvk.nl
 https://web-api.kvk.nl
+https://webservices.acp.kvk.nl
+https://webservices.preprod.kvk.nl
 https://werkenbij.kvk.nl
 https://www.bedrijventeller.kvk.nl
 https://www.kvk.nl

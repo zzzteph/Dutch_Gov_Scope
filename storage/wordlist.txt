@@ -742,6 +742,7 @@ mail3
 mr
 vsp
 nexus
+pr
 aovpn
 api-dev
 portaal-acc
@@ -5772,7 +5773,6 @@ meander
 mgmt
 monitor2025-intro
 nexus-docker
-pr
 regelingsondersteuning
 regionaal-register
 register-pentest
@@ -12387,6 +12387,7 @@ admin.tbadmin.dev
 admin.tbadmin
 admin.tbadmin.npo
 api.acp
+api.preprod
 apim01.npo.cloud001
 apim01.prd.cloud001
 apiservices99
@@ -12413,8 +12414,6 @@ developers.acp
 diensten.npo
 directchat
 downloads.acp
-downloadservice.acp
-downloadservice
 git.dev
 gsa01
 gsa02
