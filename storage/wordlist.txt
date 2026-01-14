@@ -799,6 +799,7 @@ ldap
 metabase
 regio
 ciz
+friesland
 gip
 inspectie-oe
 router
@@ -7703,7 +7704,6 @@ fcb
 fcbjeugdzorg
 fcbwelzijn
 feda
-friesland
 frieslandsnb
 ftgelderland
 g4
