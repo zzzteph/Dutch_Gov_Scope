@@ -2061,6 +2061,7 @@ https://acc.fez.mfaservices.nl
 https://acc.geluidgegevens.nl
 https://acc.gps-sa.sso3w.nl
 https://acc.grondstoffenscanner.nl
+https://acc.hcw.mfaservices.nl
 https://acc.iaas-portal.odc-noord.nl
 https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
@@ -2118,6 +2119,7 @@ https://acc.rvr.org
 https://acc.s-bb.nl
 https://acc.service.mpn.minienm.nl
 https://acc.spaceweather.knmi.nl
+https://acc.srs.mfaservices.nl
 https://acc.ssr.nl
 https://acc.staging.justitieconnect.nl
 https://acc.stor.services.cultureelerfgoed.nl
@@ -4763,6 +4765,7 @@ https://dev.esp.mfaservices.nl
 https://dev.fez.mfaservices.nl
 https://dev.fondspodiumkunsten.nl
 https://dev.formulieren.lbio.nl
+https://dev.hcw.mfaservices.nl
 https://dev.huc.knaw.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kadaster-it.github.io
@@ -4778,6 +4781,8 @@ https://dev.onlineform.culture.gov.nl
 https://dev.opendata.nederlandwereldwijd.nl
 https://dev.protocol.mfaservices.nl
 https://dev.rli.nl
+https://dev.sq.mfaservices.nl
+https://dev.srs.mfaservices.nl
 https://dev.test.cloud.kadaster.nl
 https://devashishyadav20.github.io
 https://develop.dementieinkaart.nl
@@ -6365,6 +6370,7 @@ https://hbo-portaal-stagefonds.s-bb.nl
 https://hbsr.mvn.huygens.knaw.nl
 https://hcaict.nl
 https://hcib.datawonen.nl
+https://hcw.mfaservices.nl
 https://hdcgis.maps.arcgis.com
 https://hdl.rijksapplicaties.nl
 https://hdsr.nl
@@ -10652,6 +10658,7 @@ https://sq.mfaservices.nl
 https://sqaas.labs.dans.knaw.nl
 https://sr-data.hex.tno.nl
 https://sri-richtlijnen.nl
+https://srs.mfaservices.nl
 https://srv-ca01.nvao.net
 https://srv1.sbr-wonen.nl
 https://srv3.dopingautoriteit.nl
@@ -11484,6 +11491,7 @@ https://tst.consular.mfaservices.nl
 https://tst.esp.mfaservices.nl
 https://tst.fez.mfaservices.nl
 https://tst.grondstoffenscanner.nl
+https://tst.hcw.mfaservices.nl
 https://tst.liferay.mfaservices.nl
 https://tst.login.consular.mfaservices.nl
 https://tst.mercurius.sso3w.nl
@@ -11494,6 +11502,7 @@ https://tst.onlineform.culture.gov.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://tst.protocol.mfaservices.nl
 https://tst.service.mpn.minienm.nl
+https://tst.srs.mfaservices.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tte.rdw.nl
 https://tth.rdw.nl

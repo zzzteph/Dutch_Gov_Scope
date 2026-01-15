@@ -1626,6 +1626,7 @@ acc.geluidgegevens.nl
 acc.gps-sa-api.sso3w.nl
 acc.gps-sa.sso3w.nl
 acc.grondstoffenscanner.nl
+acc.hcw.mfaservices.nl
 acc.helpdesk.machtigen.digid.nl
 acc.hhdelfland.nl
 acc.iaas-portal.odc-noord.nl
@@ -1716,6 +1717,7 @@ acc.schadedoormijnbouw.nl
 acc.service.mpn.minienm.nl
 acc.service.mpn.minienw.nl
 acc.spaceweather.knmi.nl
+acc.srs.mfaservices.nl
 acc.ssr.nl
 acc.staatvanbiologisch.nl
 acc.staging.justitieconnect.nl
@@ -6456,6 +6458,7 @@ dev.fez.mfaservices.nl
 dev.fib.ienw.rijkscloud.nl
 dev.fondspodiumkunsten.nl
 dev.formulieren.lbio.nl
+dev.hcw.mfaservices.nl
 dev.huc.knaw.nl
 dev.informatieservice.nederlandwereldwijd.nl
 dev.investinholland.com
@@ -6477,6 +6480,7 @@ dev.protocol.mfaservices.nl
 dev.rijksacademie.nl
 dev.rli.nl
 dev.sq.mfaservices.nl
+dev.srs.mfaservices.nl
 dev.ssr.nl
 dev.test.cloud.kadaster.nl
 dev.test.kadaster.nl
@@ -7731,21 +7735,13 @@ esp-api-management.acc-probas.mfaservices.nl
 esp-api-management.dev-probas.mfaservices.nl
 esp-api-management.probas.mfaservices.nl
 esp-api-management.tst-probas.mfaservices.nl
-esp-api-portal.acc-consular.mfaservices.nl
 esp-api-portal.acc-probas.mfaservices.nl
-esp-api-portal.consular.mfaservices.nl
-esp-api-portal.dev-consular.mfaservices.nl
 esp-api-portal.dev-probas.mfaservices.nl
 esp-api-portal.probas.mfaservices.nl
-esp-api-portal.tst-consular.mfaservices.nl
 esp-api-portal.tst-probas.mfaservices.nl
-esp-api.acc-consular.mfaservices.nl
 esp-api.acc-probas.mfaservices.nl
-esp-api.consular.mfaservices.nl
-esp-api.dev-consular.mfaservices.nl
 esp-api.dev-probas.mfaservices.nl
 esp-api.probas.mfaservices.nl
-esp-api.tst-consular.mfaservices.nl
 esp-api.tst-probas.mfaservices.nl
 esp-portal-api.consular.mfaservices.nl
 esp-portal.consular.mfaservices.nl
@@ -9311,6 +9307,7 @@ hbo-portaal-stagefonds.s-bb.nl
 hbsr.mvn.huygens.knaw.nl
 hcaict.nl
 hcib.datawonen.nl
+hcw.mfaservices.nl
 hdcgis.maps.arcgis.com
 hdl.rijksapplicaties.nl
 hdsr.nl
@@ -14122,6 +14119,7 @@ o1-old-cms.contenttoolsrijksoverheid.nl
 o1.digid.nl
 o1.ptr2462.mail.postedworkers.nl
 o1.ptr4698.acc-consular.mfaservices.nl
+o1.ptr6210.snd.consular.mfaservices.nl
 o1.ptr6472.consular.mfaservices.nl
 o1.ptr6815.bkd.eu
 o2-api.contenttoolsrijksoverheid.nl
@@ -18477,6 +18475,7 @@ sr-proxy.test.private.kadaster.nl
 sre-wmo.databank.nl
 sri-richtlijnen.nl
 srkbroker.bics.nl
+srs.mfaservices.nl
 srv-52b05-19.gn2.rijkscloud.nl
 srv-52b13-13.gn2.rijkscloud.nl
 srv-ap-web186.politieacademie.nl
@@ -20056,6 +20055,7 @@ tst.fam.rws.nl
 tst.federatieveservice.nl
 tst.fez.mfaservices.nl
 tst.grondstoffenscanner.nl
+tst.hcw.mfaservices.nl
 tst.inspectieview.nl
 tst.kvk.nl
 tst.liferay.mfaservices.nl
@@ -20074,6 +20074,7 @@ tst.orangecorners.com
 tst.protocol.mfaservices.nl
 tst.schadedoormijnbouw.nl
 tst.service.mpn.minienm.nl
+tst.srs.mfaservices.nl
 tst.staatvanbiologisch.nl
 tst.staging.rijkswaterstaat.nl
 tst.staging.werkenbij.rijkswaterstaat.nl
