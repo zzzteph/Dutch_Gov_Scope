@@ -7080,6 +7080,7 @@ dtlgt-monitoring-dev.azure.dnb.nl
 dtlgt-monitoring-prd.azure.dnb.nl
 dtlgt-monitoring-tst.azure.dnb.nl
 dtrs.labs.dans.knaw.nl
+dualisme.minbzk.nl
 dualusequickscan.nl
 dubbeltje.meertens.knaw.nl
 ducaphen.com
@@ -11655,7 +11656,6 @@ lo-ad.acc.mgo.irealisatie.nl
 lo-ad.test.mgo.irealisatie.nl
 loadtest.test.rijkscloud.nl
 loc.did.zandbak.dans.knaw.nl
-loc.minbzk.nl
 localbox.pleio.nl
 localhost.vechtstromen.nl
 localisation.test.zm.irealisatie.nl
@@ -11898,6 +11898,7 @@ lyncdiscover.cjib.nl
 lyncdiscover.coa.nl
 lyncdiscover.justid.nl
 lyncdiscover.lbio.nl
+lyncdiscover.minbzk.nl
 lyncdiscover.om.nl
 lyncdiscover.rdw.nl
 lyncdiscover.regioburgemeesters.nl
@@ -18127,7 +18128,6 @@ sip.minvws.nl
 sip.myroom.minbzk.nl
 sip.myroom.minienw.nl
 sip.myroom.minvws.nl
-sip.myroom.p-direkt.minbzk.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl
 sip.rdw.nl

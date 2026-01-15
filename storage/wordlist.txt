@@ -67,6 +67,7 @@ opendata.english
 open
 dialin
 accept
+lyncdiscover
 mail2
 webdisk
 enterpriseregistration
@@ -76,7 +77,6 @@ static
 digikoppeling
 www2
 inloggen
-lyncdiscover
 www.test
 maps
 fs
@@ -12792,12 +12792,12 @@ biztalk
 bwi
 cas-online
 cas
+dualisme
 flowlogics
 fmis-mobile-acc
 fmis-mobile
 gip-a
 indigo-l3-sso.ilab.ota.ind
-loc
 mail.vno
 mail2.vno
 mft-e
@@ -12809,7 +12809,6 @@ rbl-talent
 red
 remoteaccess.rgd
 sdm.p-direkt
-sip.myroom.p-direkt
 sip.p-direkt
 tcs0201-server
 tcs0202-server
