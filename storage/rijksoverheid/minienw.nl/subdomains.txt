@@ -1,7 +1,9 @@
 acc-newsroom.minienw.nl
 acc.service.mpn.minienw.nl
+acceptatie.bct.tsp.minienw.nl
 acceptatie.grccontrol.minienw.nl
 adresgids2.minienw.nl
+bct.csp.minienw.nl
 bct.tsp.minienw.nl
 cms.intranet.minienw.nl
 gateway-acc.minienw.nl
@@ -16,6 +18,7 @@ mpn-acc.minienw.nl
 mpn-pre.minienw.nl
 mpn.minienw.nl
 newsroom.minienw.nl
+ontwik.sapgw.minienw.nl
 ontwikkel.sapgw.minienw.nl
 publicaties.minienw.nl
 revoketestca.minienw.nl
@@ -26,7 +29,6 @@ service.mpn.minienw.nl
 services-hprm-acc.minienw.nl
 services-hprm.minienw.nl
 sip.minienw.nl
-sip.myroom.minienw.nl
 sp-prd.topdesk.minienw.nl
 tsp.minienw.nl
 werkbezoek.minienw.nl

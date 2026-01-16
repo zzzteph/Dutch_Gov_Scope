@@ -1861,6 +1861,7 @@ acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
 acceptatie.auth.dezi.nl
 acceptatie.authlab.dezi.nl
+acceptatie.bct.tsp.minienw.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
 acceptatie.behandel.diergeneeskunderegister.nl
@@ -3886,6 +3887,7 @@ bcrpwt.knmi.nl
 bcsorf.knmi.nl
 bcstat-bc-gis.hub.arcgis.com
 bct.csp.minienm.nl
+bct.csp.minienw.nl
 bct.tsp.minienw.nl
 bd-acc.topdesk.odc-noord.nl
 bd-internet.procesinfrastructuur.nl
@@ -14456,6 +14458,7 @@ ontw.api-samenmeten.rivm.nl
 ontw.app.pzp.nl
 ontw.livechat.pzp.nl
 ontw.stagefonds.s-bb.nl
+ontwik.sapgw.minienw.nl
 ontwikkel-wsjg.databank.nl
 ontwikkel.atlasleefomgeving.nl
 ontwikkel.atlasnatuurlijkkapitaal.nl
@@ -18130,7 +18133,6 @@ sip.minienw.nl
 sip.minszw.nl
 sip.minvws.nl
 sip.myroom.minbzk.nl
-sip.myroom.minienw.nl
 sip.myroom.minvws.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl

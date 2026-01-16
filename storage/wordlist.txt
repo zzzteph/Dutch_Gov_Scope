@@ -450,7 +450,6 @@ account
 ns
 rijnmond
 p-direkt
-sip.myroom
 werkbezoek
 crl
 csr
@@ -892,7 +891,9 @@ esp
 acc-bvrin
 bvrin
 ind
+sip.myroom
 acc.service.mpn
+bct.csp
 gateway-acc
 gateway-extern-pre
 gateway-extern
@@ -12829,7 +12830,6 @@ www.videos
 vhk
 acceptatie.isms
 banking
-bct.csp
 csp
 dcc
 dnwxip.saphttp
@@ -12898,12 +12898,14 @@ utils.kennisplein.intranet
 www.startpagina.sap
 zoeken.kennisplein.intranet
 acc-newsroom
+acceptatie.bct.tsp
 acceptatie.grccontrol
 adresgids2
 bct.tsp
 cms.intranet
 gateway-pre
 newsroom
+ontwik.sapgw
 ontwikkel.sapgw
 revoketestca
 rpa
