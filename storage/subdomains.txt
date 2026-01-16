@@ -5143,6 +5143,7 @@ ciam.rvo.nl
 ciam.test.cloud.kadaster.nl
 cib-dev.knmi.nl
 cibbrina.eu
+cibg.minvws.nl
 cibg.nl
 cibg.sitearchief.nl
 cibologis-cibolotx.hub.arcgis.com
@@ -18433,6 +18434,7 @@ specialistggz.venvn.nl
 specials-acpt.brabant.nl
 specials.brabant.nl
 spelen.cultuurparticipatie.nl
+spf.minvws.nl
 spf.nvao.net
 spfesfuidb.ictu.nl
 spibirds.nioo-preprod.knaw.nl
@@ -18968,6 +18970,7 @@ subdata-portal.rdw.nl
 subdata.rdw.nl
 submit.aon.nin.knaw.nl
 subsidie.cultureelerfgoed.nl
+subsidie.minvws.nl
 subsidie.waterschaplimburg.nl
 subsidieportaal.zuid-holland.nl
 subsidieregister.zuid-holland.nl
@@ -20982,6 +20985,9 @@ vwhclient.rdw.nl
 vwhsigner.rdw.nl
 vws-acc.jira.odc-noord.nl
 vws-prd.jira.odc-noord.nl
+vws.minvws.nl
+vws2.minvws.nl
+vws2a.minvws.nl
 vwsnet.odc.pleio.nl
 vwsnet.pleio.nl
 vz.minbzk.nl
@@ -23345,11 +23351,10 @@ www.rivierklimaatpark.nl
 www.rivm.nl
 www.rivmmagazines.nl
 www.rke2.nldoc.nl
-www.rl.minvws.nl
-www.rlacc.minvws.nl
 www.rli.nl
 www.roraonline.nl
 www.row-minvws.nl
+www.row.minvws.nl
 www.royal-house.nl
 www.royalhonoursanddecorations.nl
 www.rsj.nl

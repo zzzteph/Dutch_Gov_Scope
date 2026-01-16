@@ -335,6 +335,7 @@ t-cms
 acm
 filesender
 linkeddata
+subsidie
 t
 thesaurus
 wikixl-saml
@@ -541,7 +542,6 @@ tmv
 mijnloket
 a-api
 auth.services
-subsidie
 ibw
 primos
 i-cms
@@ -907,6 +907,8 @@ services-hprm
 www.sociaalfonds
 rijkspas
 sp-prd.topdesk
+cibg
+spf
 vacaturezoekservice-test
 vacaturezoekservice
 wap
@@ -13017,9 +13019,11 @@ row
 sign.test.who
 subsidies
 tcs-resident
+vws
+vws2
+vws2a
 www.kidsacc
-www.rl
-www.rlacc
+www.row
 www.tcs-resident
 www.vragenlijst
 www.zbs
@@ -13233,7 +13237,6 @@ nf
 panelaanvraag
 panellidbij
 sonicwall
-spf
 srv-ca01
 www.panelaanvraag
 www.search
@@ -16041,7 +16044,6 @@ cak
 cbg-meb
 cbr
 ccmo
-cibg
 coa
 cpb
 cultureelerfgoed
