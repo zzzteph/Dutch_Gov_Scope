@@ -5354,6 +5354,7 @@ cms.digid.nl
 cms.dsta.nl
 cms.farmacotherapeutischkompas.nl
 cms.filmfonds.nl
+cms.gemeenteloket.minszw.nl
 cms.gezondeschool.nl
 cms.hhdelfland.nl
 cms.intranet.minienw.nl
@@ -5774,7 +5775,6 @@ cpd.bureau.knaw.nl
 cpe-a.extern.minszw.nl
 cpe-o.extern.minszw.nl
 cpe-t.extern.minszw.nl
-cpe-tst.extern.minszw.nl
 cpe.extern.minszw.nl
 cpext.ont.belastingdienst.nl
 cpf.odc.pleio.nl
@@ -11742,6 +11742,7 @@ login.idm.rvig.nl
 login.irealisatie.nl
 login.kb.nl
 login.mijncn.nl
+login.minszw.nl
 login.naktuinbouw.com
 login.nba.nl
 login.npostart.nl
@@ -18138,6 +18139,7 @@ sip.minienw.nl
 sip.minszw.nl
 sip.minvws.nl
 sip.myroom.minbzk.nl
+sip.myroom.minszw.nl
 sip.myroom.minvws.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl
@@ -21624,12 +21626,10 @@ win2989vm.extern.minszw.nl
 win2990vm.extern.minszw.nl
 win2991vm.extern.minszw.nl
 win4017vm.extern.minszw.nl
-win4018vm.extern.minszw.nl
 win4019vm.extern.minszw.nl
 win4020vm.extern.minszw.nl
 win4021vm.extern.minszw.nl
 win4022vm.extern.minszw.nl
-win4023vm.extern.minszw.nl
 win4024vm.extern.minszw.nl
 win7567.extern.minszw.nl
 win7568.extern.minszw.nl
@@ -22208,6 +22208,7 @@ www.c2coe.org
 www.cabinetspecialenvoy.com
 www.campagnetoolkits.nl
 www.cannabisbureau.nl
+www.cao.minszw.nl
 www.caontb.rivm.nl
 www.caop.nl
 www.caorijk.nl
@@ -23532,6 +23533,7 @@ www.test.ruimtelijkeplannen.nl
 www.test.zeroemissiedoelgroepenvervoer.nl
 www.test.zm.irealisatie.nl
 www.test4-keytalk.rdw.nl
+www.testcao.minszw.nl
 www.testdigitalediensten.arbeidsinspectie.nl
 www.testuitvoeringarbeidsvoorwaardenwetgeving.nl
 www.thatsip.nl

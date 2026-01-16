@@ -8,12 +8,12 @@ cao.minszw.nl
 caobank.minszw.nl
 ceres.intra.minszw.nl
 ceres.minszw.nl
+cms.gemeenteloket.minszw.nl
 cms.o.extern.minszw.nl
 confluence.extern.minszw.nl
 cpe-a.extern.minszw.nl
 cpe-o.extern.minszw.nl
 cpe-t.extern.minszw.nl
-cpe-tst.extern.minszw.nl
 cpe.extern.minszw.nl
 crm.o.extern.minszw.nl
 dashboard.o.extern.minszw.nl
@@ -35,6 +35,7 @@ im.o.extern.minszw.nl
 jira.extern.minszw.nl
 kvk.o.extern.minszw.nl
 logging.o.extern.minszw.nl
+login.minszw.nl
 loki.extern.minszw.nl
 messagebroker.minszw.nl
 minszw.nl
@@ -52,6 +53,7 @@ registry.extern.minszw.nl
 sdm.minszw.nl
 siam.minszw.nl
 sip.minszw.nl
+sip.myroom.minszw.nl
 smtp02.minszw.nl
 sonar.extern.minszw.nl
 statuschecker.extern.minszw.nl
@@ -80,14 +82,14 @@ win2989vm.extern.minszw.nl
 win2990vm.extern.minszw.nl
 win2991vm.extern.minszw.nl
 win4017vm.extern.minszw.nl
-win4018vm.extern.minszw.nl
 win4019vm.extern.minszw.nl
 win4020vm.extern.minszw.nl
 win4021vm.extern.minszw.nl
 win4022vm.extern.minszw.nl
-win4023vm.extern.minszw.nl
 win4024vm.extern.minszw.nl
 win7567.extern.minszw.nl
 win7568.extern.minszw.nl
+www.cao.minszw.nl
 www.gemeenteloket.minszw.nl
 www.minszw.nl
+www.testcao.minszw.nl
