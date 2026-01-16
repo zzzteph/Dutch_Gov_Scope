@@ -1940,6 +1940,7 @@ acceptatie.ictu.nl
 acceptatie.inspire.rivm.nl
 acceptatie.intranet.schadedoormijnbouw.nl
 acceptatie.isis-web.nl
+acceptatie.isms.minienm.nl
 acceptatie.istandaarden.nl
 acceptatie.kaart.pdok.nl
 acceptatie.kennisplatform.nl
@@ -5353,7 +5354,6 @@ cms.farmacotherapeutischkompas.nl
 cms.filmfonds.nl
 cms.gezondeschool.nl
 cms.hhdelfland.nl
-cms.intranet.minienm.nl
 cms.intranet.minienw.nl
 cms.jeugdconnect.nl
 cms.knaw.nl
@@ -6844,6 +6844,7 @@ dns4.acm.nl
 dnsa3.cbs.nl
 dnsa4.cbs.nl
 dnwxip.saphttp.minienm.nl
+dnwxiq.saphttp.minienm.nl
 do-it-a.rdw.nl
 do-it.rdw.nl
 doc-direkt-acc.topdesk.odc-noord.nl
@@ -8557,6 +8558,7 @@ gateway-extern-acc.minienm.nl
 gateway-extern-pre.minienm.nl
 gateway-extern-pre.minienw.nl
 gateway-extern-sao.minienm.nl
+gateway-extern-tao.minienm.nl
 gateway-extern.minienm.nl
 gateway-extern.minienw.nl
 gateway-pre.minienw.nl
@@ -12981,7 +12983,6 @@ milieuzones.nl
 miljoenennota.rijksfinancien.nl
 mimbmp.sap.minienm.nl
 mimbmp.saphttp.minienm.nl
-mimbod.sap.minienm.nl
 mimbod.saphttp.minienm.nl
 mimbop.sap.minienm.nl
 mimbop.saphttp.minienm.nl
@@ -12991,6 +12992,7 @@ mimbsp.saphttp.minienm.nl
 mimbwp.saphttp.minienm.nl
 mimcec.saphttp.minienm.nl
 mimdbw.saphttp.minienm.nl
+mimdec.saphttp.minienm.nl
 mimdip.saphttp.minienm.nl
 mimgfp.sap.minienm.nl
 mimgfq.sap.minienm.nl
@@ -13008,7 +13010,9 @@ mimqec.sap.minienm.nl
 mimqec.saphttp.minienm.nl
 mimqip.saphttp.minienm.nl
 mimsec.sap.minienm.nl
+mimsec.saphttp.minienm.nl
 mimsmp.sap.minienm.nl
+mimsmp.saphttp.minienm.nl
 mimsmtp01.sapsmtp.minienm.nl
 mimsmtp02.sapsmtp.minienm.nl
 mimtbw.saphttp.minienm.nl
@@ -13016,7 +13020,6 @@ mimtec.saphttp.minienm.nl
 mimxid.saphttp.minienm.nl
 mimxip.saphttp.minienm.nl
 mimxiq.saphttp.minienm.nl
-mimxoq.sap.minienm.nl
 min1.ncsc.nl
 min2.ncsc.nl
 min3.ncsc.nl
@@ -17407,6 +17410,7 @@ rw.belastingdienst.nl
 rw.chm-cbd.net
 rw1.rijkscloud.nl
 rwbg.flevoland.nl
+rwbxip.saphttp.minienm.nl
 rwbxiq.saphttp.minienm.nl
 rwis-frontend-acceptatie.vm-05.azure.grid.rws.nl
 rwis-frontend-test.vm-05.azure.grid.rws.nl
