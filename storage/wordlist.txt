@@ -80,6 +80,7 @@ inloggen
 www.test
 maps
 fs
+mta-sts
 old
 mdm
 geoservices
@@ -94,7 +95,6 @@ stats
 preview
 media
 beta
-mta-sts
 geo
 kennis
 mobiel
