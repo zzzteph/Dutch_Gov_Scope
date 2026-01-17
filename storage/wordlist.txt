@@ -358,6 +358,7 @@ mail01
 mail02
 raadplegen
 aanvraag
+public
 cmsintranet
 denkmee
 test-cmsintranet
@@ -561,7 +562,6 @@ ras
 vpn3
 acceptatie.raadplegen
 mailings
-public
 schemas
 signing
 webservice-acc
@@ -13040,6 +13040,7 @@ materiaal
 duediligencetraining
 acc.cms
 test.cms
+customers
 maps-a
 msoid
 smartforms
