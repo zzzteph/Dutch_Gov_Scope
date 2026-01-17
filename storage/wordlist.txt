@@ -426,7 +426,6 @@ vragen
 vragenlijst
 toegang
 tracking
-gb
 thuiswerken
 sbc
 snippet.acc
@@ -579,7 +578,6 @@ coronadashboard
 sdg
 AutoDiscover
 ad
-digikoppeling-test
 inloggen-preprod
 loket-preprod
 teams
@@ -773,6 +771,7 @@ be
 cf
 ci
 fr
+gb
 ma
 nl
 uk
@@ -2656,6 +2655,7 @@ alerting
 cawfirewall
 cawuitwijkfirewall
 denw
+digikoppeling-test
 fme
 ftp-hdsr
 intranet.ad
@@ -13060,11 +13060,9 @@ actorenregister
 actorenregister.test
 apenet
 cbs.acpt
-digikoppeling-acpt
 digikoppeling-ted
 digikoppeling.acpt
 digikoppeling.ted
-digikoppeling.test
 e-bom.acpt
 e-bom
 e-bom.ted
@@ -13079,13 +13077,10 @@ e-depot.test
 ebms-ted
 gaf
 gatekeeper
-gb-acpt
-gb-ted
 hub3
 lbrproxy.prod
 lbrproxy.test
 lod-data
-lod-graphdb.test
 nextdrive
 oranjehotel
 placeholder
@@ -13108,7 +13103,6 @@ vocseavoyagers
 vpn-server1.acpt
 vpn-server1
 vpn-server2
-wus-acpt
 wus-ted
 www.ted
 zvt

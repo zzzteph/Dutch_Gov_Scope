@@ -12,13 +12,10 @@ cbs.nationaalarchief.nl
 chat.nationaalarchief.nl
 crm.nationaalarchief.nl
 development.nationaalarchief.nl
-digikoppeling-acpt.nationaalarchief.nl
 digikoppeling-ted.nationaalarchief.nl
-digikoppeling-test.nationaalarchief.nl
 digikoppeling.acpt.nationaalarchief.nl
 digikoppeling.nationaalarchief.nl
 digikoppeling.ted.nationaalarchief.nl
-digikoppeling.test.nationaalarchief.nl
 e-bom.acpt.nationaalarchief.nl
 e-bom.nationaalarchief.nl
 e-bom.ted.nationaalarchief.nl
@@ -37,14 +34,10 @@ ftp.nationaalarchief.nl
 gaf.nationaalarchief.nl
 gatekeeper.nationaalarchief.nl
 gateway.nationaalarchief.nl
-gb-acpt.nationaalarchief.nl
-gb-ted.nationaalarchief.nl
-gb.nationaalarchief.nl
 hub3.nationaalarchief.nl
 lbrproxy.prod.nationaalarchief.nl
 lbrproxy.test.nationaalarchief.nl
 lod-data.nationaalarchief.nl
-lod-graphdb.test.nationaalarchief.nl
 mail.nationaalarchief.nl
 matomo.nationaalarchief.nl
 meeting.nationaalarchief.nl
@@ -77,7 +70,6 @@ vocseavoyagers.nationaalarchief.nl
 vpn-server1.acpt.nationaalarchief.nl
 vpn-server1.nationaalarchief.nl
 vpn-server2.nationaalarchief.nl
-wus-acpt.nationaalarchief.nl
 wus-ted.nationaalarchief.nl
 wus.nationaalarchief.nl
 www.nationaalarchief.nl

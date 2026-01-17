@@ -6678,12 +6678,10 @@ digidex.staging.rijksapplicaties.nl
 digidzakelijk.duo.nl
 digik.s-bb.nl
 digikoppeling-acceptatie.suwinet.uwv.nl
-digikoppeling-acpt.nationaalarchief.nl
 digikoppeling-dcr.cibg.nl
 digikoppeling-productie.suwinet.uwv.nl
 digikoppeling-ted.nationaalarchief.nl
 digikoppeling-test.hdsr.nl
-digikoppeling-test.nationaalarchief.nl
 digikoppeling.acm.nl
 digikoppeling.acpt.nationaalarchief.nl
 digikoppeling.bkd.eu
@@ -6696,7 +6694,6 @@ digikoppeling.nidos.nl
 digikoppeling.odmh.nl
 digikoppeling.pleio.nl
 digikoppeling.ted.nationaalarchief.nl
-digikoppeling.test.nationaalarchief.nl
 digikoppeling.waterschaplimburg.nl
 digikoppeling1.duo.nl
 digikoppeling2.cibg.nl
@@ -8576,12 +8573,9 @@ gateway.minienw.nl
 gateway.nationaalarchief.nl
 gateway.test.ggdcontact.irealisatie.nl
 gatus.lpc.logius.nl
-gb-acpt.nationaalarchief.nl
-gb-ted.nationaalarchief.nl
 gb-test.brabant.nl
 gb.chm-cbd.net
 gb.espacenet.com
-gb.nationaalarchief.nl
 gb.test.chm-cbd.net
 gba-bvr-ftps.belastingdienst.nl
 gba-bvr.belastingdienst.nl
@@ -11678,7 +11672,6 @@ locationservices8.az-int.arcgis.com
 locov.nl
 locus.pleio.nl
 lod-data.nationaalarchief.nl
-lod-graphdb.test.nationaalarchief.nl
 lod.duo.nl
 lod.kb.nl
 loganms.github.io
@@ -21765,7 +21758,6 @@ wst.rijksapplicaties.nl
 wst.staging.rijksapplicaties.nl
 wsus.hdsr.nl
 wtb.maptiles.arcgis.com
-wus-acpt.nationaalarchief.nl
 wus-encryptie.acc.belastingdienst.nl
 wus-encryptie.belastingdienst.nl
 wus-gemnet.belastingdienst.nl
