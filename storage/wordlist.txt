@@ -404,7 +404,6 @@ test-cms
 webwinkel
 handboek
 pop
-elo
 communicatieportaal
 ontheffingaanvragen
 pdok
@@ -728,6 +727,7 @@ fed
 s3
 papiamento
 toolbox
+elo
 wikixl-saml.acceptatie
 vacature
 www-sandbox
@@ -13188,7 +13188,6 @@ beheer-tgv-test
 beheer-tgv
 e-tracking
 ecpc.acceptatie
-elotest
 exactctxgw
 exactportal
 ikzoekmijnnaaste.acceptatie
