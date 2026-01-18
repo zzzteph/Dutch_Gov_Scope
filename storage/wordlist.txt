@@ -577,6 +577,7 @@ coronadashboard
 sdg
 AutoDiscover
 ad
+connect.acceptatie
 inloggen-preprod
 loket-preprod
 teams
@@ -919,6 +920,7 @@ www.login
 minlnv
 mijn-a
 werkenbij.acceptatie
+wwww
 storybook
 ict
 beeld
@@ -2670,7 +2672,6 @@ wsus
 burgerloket.acceptatie
 burgerloket
 burgerloket.test
-connect.acceptatie
 dms
 edocs
 geoapps
@@ -13203,11 +13204,14 @@ tgv
 uitgeverij
 wvsv.acceptatie
 wvsv
+contentbeheer.acceptatie
 contentbeheer
+inproces.acceptatie
 inproces
 ondernemersloket.acceptatie
 ondernemersloket
 www.radius
+zaken.acceptatie
 zaken
 archie
 datavisualisatieportal
@@ -17283,7 +17287,6 @@ tran-web-ns001
 vita
 w.w.w
 www.t
-wwww
 winwin
 dienstverlening
 dienstverleningskompas

@@ -5592,6 +5592,7 @@ connect-with.flevoland.nl
 connect-with.kvk.nl
 connect-with.limburg.nl
 connect.acceptatie.hhdelfland.nl
+connect.acceptatie.niwo.nl
 connect.acm.nl
 connect.aerius.nl
 connect.autoriteitpersoonsgegevens.nl
@@ -5659,6 +5660,7 @@ content.vfpf.nl
 content1.cbs.nl
 contentadapter.cbs.nl
 contentbeheer.acc.omgevingswet.overheid.nl
+contentbeheer.acceptatie.niwo.nl
 contentbeheer.niwo.nl
 contentbeheer.omgevingswet.overheid.nl
 contentbeheer.tst.omgevingswet.overheid.nl
@@ -9927,6 +9929,7 @@ innovatieloket-acc.rijkswaterstaat.nl
 innovatieloket-tst.rijkswaterstaat.nl
 innovatieloket.rijkswaterstaat.nl
 innovationradar.tno.nl
+inproces.acceptatie.niwo.nl
 inproces.niwo.nl
 ins.testuitslagen.coronatest.nl
 inschrijven.cultuurparticipatie.nl
@@ -23841,6 +23844,7 @@ wwwtepr.entreepgb.svb.nl
 wwwtest.entreepgb.svb.nl
 wwwtest.hetcak.nl
 wwwtst01.cbr.nl
+wwww.niwo.nl
 wwww.valys.nl
 wycopa.maps.arcgis.com
 x.paper-spa.github.io
@@ -23906,6 +23910,7 @@ zakelijk.ind.nl
 zakelijk.kadaster.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 zakelijk.rdw.nl
+zaken.acceptatie.niwo.nl
 zaken.niwo.nl
 zandbak.duo.nl
 zandbak.nvwa.nl

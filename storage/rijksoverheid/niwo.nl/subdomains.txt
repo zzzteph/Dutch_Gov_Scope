@@ -1,7 +1,10 @@
 acceptatie.niwo.nl
 autodiscover.niwo.nl
+connect.acceptatie.niwo.nl
 connect.niwo.nl
+contentbeheer.acceptatie.niwo.nl
 contentbeheer.niwo.nl
+inproces.acceptatie.niwo.nl
 inproces.niwo.nl
 international.niwo.nl
 mail.niwo.nl
@@ -16,4 +19,6 @@ vpn.niwo.nl
 webmail.niwo.nl
 www.niwo.nl
 www.radius.niwo.nl
+wwww.niwo.nl
+zaken.acceptatie.niwo.nl
 zaken.niwo.nl
