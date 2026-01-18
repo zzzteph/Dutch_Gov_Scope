@@ -2678,6 +2678,7 @@ https://api-dev.afm.nl
 https://api-dev.dementieinkaart.nl
 https://api-eafspraak-acceptatie.ba.uwv.nl
 https://api-eafspraak.ba.uwv.nl
+https://api-elvy.nidos.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-gateway.rechtspraak.nl
 https://api-ota.belastingdienst.nl
@@ -3058,6 +3059,7 @@ https://auteurs.allesoversport.nl
 https://auth-acc.dictu.nl
 https://auth-acceptatie.ibki.nl
 https://auth-dev.aerius.nl
+https://auth-elvy.nidos.nl
 https://auth-eopg-acc.aivd.nl
 https://auth-eopg.aivd.nl
 https://auth-iam.mijnoctrooi.mypage.rvo.nl
@@ -5369,6 +5371,7 @@ https://eloket.vallei-veluwe.nl
 https://elotest.nipv.nl
 https://elpasoco.maps.arcgis.com
 https://elswout.staatsbosbeheer.nl
+https://elvy.nidos.nl
 https://em.oxfordjournals.org.access.authkb.kb.nl
 https://emaddc.com
 https://emagazine.one-conference.nl
@@ -9693,6 +9696,7 @@ https://prototype.cibg.nl
 https://providence-gis-hub-pvdgis.hub.arcgis.com
 https://provincies.pleio.nl
 https://prplatform.pleio.nl
+https://prtg.nidos.nl
 https://ps.chm-cbd.net
 https://ps.test.chm-cbd.net
 https://ps1.platformrijksoverheid.nl
@@ -9995,6 +9999,7 @@ https://remote.caop.nl
 https://remote.cito.nl
 https://remote.cultuurparticipatie.nl
 https://remote.flevoland.nl
+https://remote.nidos.nl
 https://remote.onderzoeksraad.nl
 https://remote.services.acm.nl
 https://remoteaccess1.eerstekamer.nl

@@ -2727,6 +2727,7 @@ api-dev.afm.nl
 api-dev.dementieinkaart.nl
 api-eafspraak-acceptatie.ba.uwv.nl
 api-eafspraak.ba.uwv.nl
+api-elvy.nidos.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-gateway.rechtspraak.nl
 api-mockapp-dev.dnb.nl
@@ -3398,6 +3399,7 @@ auth-binnenvaart.acc.inspectieview.nl
 auth-dev.aerius.nl
 auth-edu-iam.mijnoctrooi.mypage.rvo.nl
 auth-edu.mijnoctrooi.mypage.rvo.nl
+auth-elvy.nidos.nl
 auth-eopg-acc.aivd.nl
 auth-eopg.aivd.nl
 auth-iam.mijnoctrooi.mypage.rvo.nl
@@ -7503,6 +7505,7 @@ eloket.vallei-veluwe.nl
 elotest.nipv.nl
 elpasoco.maps.arcgis.com
 elswout.staatsbosbeheer.nl
+elvy.nidos.nl
 elvyweb.onderzoeksraad.nl
 em-3ro.intern.reclassering.nl
 em-3ro.reclassering.nl
@@ -16366,6 +16369,7 @@ prs-stub.test.gf.irealisatie.nl
 prs.rijkswaterstaat.nl
 prs.rws.nl
 prs.test.zm.irealisatie.nl
+prtg.nidos.nl
 prx.gn2.rijkscloud.nl
 prx.gn3.rijkscloud.nl
 prx.rw1.rijkscloud.nl
@@ -16938,6 +16942,7 @@ remote.flevoland.nl
 remote.hhdelfland.nl
 remote.keurmerk.nl
 remote.letterenfonds.nl
+remote.nidos.nl
 remote.onderzoeksraad.nl
 remote.services.acm.nl
 remote.stimuleringsfonds.nl

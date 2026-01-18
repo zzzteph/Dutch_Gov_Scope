@@ -1,6 +1,9 @@
 adfs.nidos.nl
+api-elvy.nidos.nl
+auth-elvy.nidos.nl
 autodiscover.nidos.nl
 digikoppeling.nidos.nl
+elvy.nidos.nl
 events.nidos.nl
 inloggen.nidos.nl
 mail.nidos.nl
@@ -8,6 +11,8 @@ methodiekwoonbegeleiding-amv.nidos.nl
 nidos.nl
 opvangportaal-acc.nidos.nl
 opvangportaal.nidos.nl
+prtg.nidos.nl
+remote.nidos.nl
 test.digikoppeling.nidos.nl
 webmail.nidos.nl
 www.nidos.nl

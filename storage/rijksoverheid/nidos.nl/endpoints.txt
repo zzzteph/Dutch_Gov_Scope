@@ -1,10 +1,15 @@
 http://autodiscover.nidos.nl
 https://adfs.nidos.nl
+https://api-elvy.nidos.nl
+https://auth-elvy.nidos.nl
+https://elvy.nidos.nl
 https://events.nidos.nl
 https://methodiekwoonbegeleiding-amv.nidos.nl
 https://nidos.nl
 https://opvangportaal-acc.nidos.nl
 https://opvangportaal.nidos.nl
+https://prtg.nidos.nl
+https://remote.nidos.nl
 https://test.digikoppeling.nidos.nl
 https://webmail.nidos.nl
 https://www.nidos.nl
