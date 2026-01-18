@@ -849,6 +849,7 @@ http://rivmmagazines.nl
 http://rldb-webservice.rijksapplicaties.nl
 http://rootocsp-g3.pkioverheid.nl
 http://rp1.tst.federatieveservice.nl
+http://rvdr.nieuwsbriefrechtspraak.nl
 http://s10011-out.eerstekamer.nl
 http://sadp.belastingdienst.nl
 http://saga.tno.nl
@@ -10254,7 +10255,6 @@ https://rvb-vmr.rijksapplicaties.nl
 https://rvb-vmr.staging.rijksapplicaties.nl
 https://rvbvba.staging.rijksapplicaties.nl
 https://rvdmschaduwdraaien.nvwa.nl
-https://rvdr.nieuwsbriefrechtspraak.nl
 https://rvig-acc.topdesk.odc-noord.nl
 https://rvig-prd.jira.odc-noord.nl
 https://rvig-prd.topdesk.odc-noord.nl
