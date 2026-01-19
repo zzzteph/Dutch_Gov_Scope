@@ -453,6 +453,7 @@ p-direkt
 sip.myroom
 werkbezoek
 crl
+web01
 csr
 pilot
 www.old
@@ -568,6 +569,7 @@ piwik
 cms-acc
 edocstest
 ftps
+mgt
 osbacc
 preprodformulieren
 jaarverslag2011
@@ -764,6 +766,7 @@ share.test-nieuw
 test-nieuw
 app-acc
 dashboard-acc
+web02
 rijbewijs
 integration
 preproduction
@@ -952,7 +955,6 @@ www.accept
 mededeling
 leveranciersportaal
 ipv6
-web01
 bva
 wpo
 archief-acc
@@ -2619,7 +2621,6 @@ jaarverslag2018
 mailmdm
 mbg-proxy
 meepraten
-mgt
 monitorwonen
 natuurbeheerplan
 nhr
@@ -6928,7 +6929,6 @@ bft-plein
 actie-acc
 actie
 alerteren
-web02
 bibliotheekwerk
 caopmgw01
 leerstoel
@@ -13389,6 +13389,9 @@ vpn.rvb
 vpn1.minions
 vws-acc.jira
 vws-prd.jira
+lb01
+lb02
+web03
 beheer-sgd-acc
 beheer-sgd
 beheersite-op-acc

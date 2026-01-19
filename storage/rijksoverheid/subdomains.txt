@@ -11393,6 +11393,8 @@ lasersacom.labs.tno.nl
 lavsinfo.nl
 law-enforcement.container.hansken.org
 lb.test.chm-cbd.net
+lb01.oefenstembiljet.nl
+lb02.oefenstembiljet.nl
 lb1.gn3.rijkscloud.nl
 lbio.nl
 lbrproxy.prod.nationaalarchief.nl
@@ -12651,6 +12653,7 @@ mgk.osiris.rivm.nl
 mgmt.aerius.nl
 mgmt.spinozacentre.knaw.nl
 mgt.flevoland.nl
+mgt.oefenstembiljet.nl
 mgw.meertens.knaw.nl
 mh17.onderzoeksraad.nl
 mh3.kadaster.nl
@@ -21147,11 +21150,14 @@ web.test.dpr.irealisatie.nl
 web.test.gf.irealisatie.nl
 web.test.mgo.irealisatie.nl
 web01-nabs.officielebekendmakingen.nl
+web01.oefenstembiljet.nl
 web01.rijksacademie.nl
 web01.waarborg.nl
 web02-nabs.officielebekendmakingen.nl
 web02.burgernet.nl
+web02.oefenstembiljet.nl
 web03-nabs.officielebekendmakingen.nl
+web03.oefenstembiljet.nl
 web1.nba.nl
 web11.dans.knaw.nl
 web2.kvk.nl
