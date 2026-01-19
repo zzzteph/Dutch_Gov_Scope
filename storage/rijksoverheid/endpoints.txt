@@ -2005,6 +2005,7 @@ https://acc-portal.cito.nl
 https://acc-pzpdirect.pzp.nl
 https://acc-referentiegegevens.justid.nl
 https://acc-sonarreg.rws.nl
+https://acc-sso.odc-noord.nl
 https://acc-thuisbezorgd.mijnrijkspas.nl
 https://acc-vergelijkingskaart.afm.nl
 https://acc-vtcc.rivm.nl
@@ -2398,6 +2399,7 @@ https://adfs.nidos.nl
 https://adfs.raadvanstate.nl
 https://adfs.vallei-veluwe.nl
 https://adkc.dopingautoriteit.nl
+https://admin.acc-sso.odc-noord.nl
 https://admin.denkmee.zuid-holland.nl
 https://admin.deweekvandecirculaireeconomie.nl
 https://admin.k8s.huc.knaw.nl
@@ -8751,7 +8753,6 @@ https://odcn-acc.topdesk.odc-noord.nl
 https://odcn-ont.jira.odc-noord.nl
 https://odcn-ont.topdesk.odc-noord.nl
 https://odcn-prd.confluence.odc-noord.nl
-https://odcn-prd.jira.odc-noord.nl
 https://odcn-prd.topdesk.odc-noord.nl
 https://odcn.pleio.nl
 https://odijmond.nl
@@ -11897,7 +11898,6 @@ https://vpn.irealisatie.nl
 https://vpn.nwo.nl
 https://vpn.ocw.odc-noord.nl
 https://vpn.politieacademie.nl
-https://vpn.rvb.odc-noord.nl
 https://vpn.test.cloud.kadaster.nl
 https://vpn.web.ictu.nl
 https://vpn1.cjib.nl

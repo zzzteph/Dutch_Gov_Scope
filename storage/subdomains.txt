@@ -1501,6 +1501,7 @@ acc-sapphire.tno.nl
 acc-sigma-ebms.data-exchange.consular.mfaservices.nl
 acc-sonarreg.rws.nl
 acc-sso-osiris.rivm.nl
+acc-sso.odc-noord.nl
 acc-tdv.rivm.nl
 acc-themasites.pbl.nl
 acc-thuisbezorgd.mijnrijkspas.nl
@@ -2290,6 +2291,7 @@ adfspa.politieacademie.nl
 adkc.dopingautoriteit.nl
 adlib.rathenau.knaw.nl
 admin-acc.globalentry-rtp.nl
+admin.acc-sso.odc-noord.nl
 admin.atabase.gratisvog.nl
 admin.denkmee.zuid-holland.nl
 admin.deweekvandecirculaireeconomie.nl
@@ -14229,7 +14231,6 @@ odcn-ont-va.topdesk.odc-noord.nl
 odcn-ont.jira.odc-noord.nl
 odcn-ont.topdesk.odc-noord.nl
 odcn-prd.confluence.odc-noord.nl
-odcn-prd.jira.odc-noord.nl
 odcn-prd.topdesk.odc-noord.nl
 odcn.pleio.nl
 odctest.arbeidsinspectie.nl
@@ -14321,7 +14322,6 @@ ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
 olsgqa09.belastingdienst.nl
 olsgqa50.belastingdienst.nl
-om-acc.topdesk.odc-noord.nl
 om-ont.topdesk.odc-noord.nl
 om-veld01.om.nl
 om.nl
@@ -14329,6 +14329,7 @@ om.sitearchief.nl
 om.test.chm-cbd.net
 om.topdesk.odc-noord.nl
 ombouwsnorfietsnaarbromfiets.rdw.nl
+omdemo.topdesk.odc-noord.nl
 omgevingsbeleid.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
 omgevingsplan.flevoland.nl
@@ -20869,6 +20870,7 @@ vpn04.ec.rijkscloud.nl
 vpn1.cbs.nl
 vpn1.cjib.nl
 vpn1.ec.rijkscloud.nl
+vpn1.minions.odc-noord.nl
 vpn1.nak.nl
 vpn10.tno.nl
 vpn11.tno.nl

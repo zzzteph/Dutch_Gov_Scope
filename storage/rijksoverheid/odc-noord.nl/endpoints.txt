@@ -1,8 +1,10 @@
 http://bd-toegang-acc.topdesk.odc-noord.nl
 http://vpn.digiinkooppentest.odc-noord.nl
+https://acc-sso.odc-noord.nl
 https://acc.iaas-portal.odc-noord.nl
 https://acc.login.odc-noord.nl
 https://acc.paas-portal.odc-noord.nl
+https://admin.acc-sso.odc-noord.nl
 https://admin.sso.odc-noord.nl
 https://bd-acc.topdesk.odc-noord.nl
 https://bd-prd.topdesk.odc-noord.nl
@@ -46,7 +48,6 @@ https://odcn-acc.topdesk.odc-noord.nl
 https://odcn-ont.jira.odc-noord.nl
 https://odcn-ont.topdesk.odc-noord.nl
 https://odcn-prd.confluence.odc-noord.nl
-https://odcn-prd.jira.odc-noord.nl
 https://odcn-prd.topdesk.odc-noord.nl
 https://paas-portal-gn3.odc-noord.nl
 https://paas-portal.odc-noord.nl
@@ -74,7 +75,6 @@ https://vpn.gn2.koop-pp.odc-noord.nl
 https://vpn.gn2.koop-t.odc-noord.nl
 https://vpn.gn3.koop-a.odc-noord.nl
 https://vpn.ocw.odc-noord.nl
-https://vpn.rvb.odc-noord.nl
 https://vws-acc.jira.odc-noord.nl
 https://vws-prd.jira.odc-noord.nl
 https://www.odc-noord.nl

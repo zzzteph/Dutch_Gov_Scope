@@ -1,6 +1,8 @@
+acc-sso.odc-noord.nl
 acc.iaas-portal.odc-noord.nl
 acc.login.odc-noord.nl
 acc.paas-portal.odc-noord.nl
+admin.acc-sso.odc-noord.nl
 admin.sso.odc-noord.nl
 autodiscover.odc-noord.nl
 bd-acc.topdesk.odc-noord.nl
@@ -74,11 +76,10 @@ odcn-ont-va.topdesk.odc-noord.nl
 odcn-ont.jira.odc-noord.nl
 odcn-ont.topdesk.odc-noord.nl
 odcn-prd.confluence.odc-noord.nl
-odcn-prd.jira.odc-noord.nl
 odcn-prd.topdesk.odc-noord.nl
-om-acc.topdesk.odc-noord.nl
 om-ont.topdesk.odc-noord.nl
 om.topdesk.odc-noord.nl
+omdemo.topdesk.odc-noord.nl
 openvpn001.remxs.odc-noord.nl
 paas-portal-gn3.odc-noord.nl
 paas-portal.odc-noord.nl
@@ -128,6 +129,7 @@ vpn.gn3.koop-p.odc-noord.nl
 vpn.gn3.odc-noord.nl
 vpn.ocw.odc-noord.nl
 vpn.rvb.odc-noord.nl
+vpn1.minions.odc-noord.nl
 vws-acc.jira.odc-noord.nl
 vws-prd.jira.odc-noord.nl
 www.odc-noord.nl

@@ -13268,9 +13268,11 @@ vibec
 vpnportal-supplier
 vpnportal
 www.isaac
+acc-sso
 acc.iaas-portal
 acc.login
 acc.paas-portal
+admin.acc-sso
 admin.sso
 bd-acc.topdesk
 bd-prd.topdesk
@@ -13337,11 +13339,10 @@ odcn-ont-va.topdesk
 odcn-ont.jira
 odcn-ont.topdesk
 odcn-prd.confluence
-odcn-prd.jira
 odcn-prd.topdesk
-om-acc.topdesk
 om-ont.topdesk
 om.topdesk
+omdemo.topdesk
 openvpn001.remxs
 paas-portal-gn3
 paas-portal
@@ -13385,6 +13386,7 @@ vpn.gn3.koop-p
 vpn.gn3
 vpn.ocw
 vpn.rvb
+vpn1.minions
 vws-acc.jira
 vws-prd.jira
 beheer-sgd-acc
