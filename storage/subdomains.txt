@@ -4565,6 +4565,7 @@ bronhouderportaal-bro.nl
 bronkopie.ct.kvk.nl
 bronkopie.ct.osb.kvk.nl
 bronkopie.osb.kvk.nl
+bronnen-t.politieacademie.nl
 bronnen.politieacademie.nl
 broward-county-demographics-bcgis.hub.arcgis.com
 broward-metropolitan-planning-organization-open-data-browardmpo.hub.arcgis.com
@@ -7656,6 +7657,7 @@ enterpriseenrollment.belastingdienst.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.duo.nl
 enterpriseenrollment.ofgv.nl
+enterpriseenrollment.politieacademie.nl
 enterpriseenrollment.slo.nl
 enterpriseenrollment.svb.nl
 enterpriseregistration.belastingdienst.nl
@@ -11026,6 +11028,7 @@ kibana.oai.rijkscloud.nl
 kibana.ocw.rijkscloud.nl
 kibana.odc.pleio.nl
 kibana.ost.digid.nl
+kibana.politieacademie.nl
 kibana.rapportage.rijkscloud.nl
 kibana.rvb.rijkscloud.nl
 kibana.test.ix.rijkscloud.nl
@@ -11141,6 +11144,7 @@ kofax.intern.reclassering.nl
 kolonialecollecties.nl
 kombijde.acceptatie.politie.nl
 kombijde.politie.nl
+kompol-a.politieacademie.nl
 kompol-api-a.politieacademie.nl
 kompol-api-t.politieacademie.nl
 kompol-api.politieacademie.nl
@@ -20277,6 +20281,7 @@ ums.hogeraad.nl
 umvo.politieacademie.nl
 unescowikiwijscommunity.pleio.nl
 unhcoopext.maps.arcgis.com
+unicom-survey.politieacademie.nl
 unit4erp.apps.staatsbosbeheer.nl
 unit4erpa.apps.staatsbosbeheer.nl
 unit4erpt.apps.staatsbosbeheer.nl
@@ -20665,7 +20670,6 @@ video-uploaders.cvdm.nl
 video.arcgis.com
 video.beeldbellen.dji.nl
 video.belastingdienst.nl
-video.politieacademie.nl
 videobellen-jwt-moderator.pleio.nl
 videobellen-jwt-only.pleio.nl
 videobellen-lobby.pleio.nl

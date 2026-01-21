@@ -13,6 +13,7 @@ autodiscover.politieacademie.nl
 autodiscover.webmail.politieacademie.nl
 backbone.politieacademie.nl
 bromtotaal.politieacademie.nl
+bronnen-t.politieacademie.nl
 bronnen.politieacademie.nl
 case360-a.politieacademie.nl
 case360-t.politieacademie.nl
@@ -28,6 +29,7 @@ dwo-t.politieacademie.nl
 dwo.politieacademie.nl
 edge.politieacademie.nl
 edge.webmail.politieacademie.nl
+enterpriseenrollment.politieacademie.nl
 euvid.politieacademie.nl
 extbhr.politieacademie.nl
 gebouwbeheersysteem.politieacademie.nl
@@ -42,6 +44,8 @@ kennisbank-beheer.politieacademie.nl
 kennisbank-t.politieacademie.nl
 kennisbank.politieacademie.nl
 kennisbanksvn.politieacademie.nl
+kibana.politieacademie.nl
+kompol-a.politieacademie.nl
 kompol-api-a.politieacademie.nl
 kompol-api-t.politieacademie.nl
 kompol-api.politieacademie.nl
@@ -128,11 +132,11 @@ um-i.politieacademie.nl
 um-t.politieacademie.nl
 um.politieacademie.nl
 umvo.politieacademie.nl
+unicom-survey.politieacademie.nl
 verjaringschecker-a.politieacademie.nl
 verjaringschecker-t.politieacademie.nl
 verjaringschecker.politieacademie.nl
 versterkingpolitieprofessie.politieacademie.nl
-video.politieacademie.nl
 vpn-test.politieacademie.nl
 vpn.politieacademie.nl
 vts-aanmelding.politieacademie.nl

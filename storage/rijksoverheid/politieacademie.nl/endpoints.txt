@@ -1,5 +1,6 @@
 http://autodiscover.politieacademie.nl
 http://autodiscover.webmail.politieacademie.nl
+http://osiristst.politieacademie.nl
 https://aa-t.politieacademie.nl
 https://aa.politieacademie.nl
 https://applicaties-a.politieacademie.nl
@@ -11,6 +12,7 @@ https://applicaties.politieacademie.nl
 https://apps.politieacademie.nl
 https://backbone.politieacademie.nl
 https://bromtotaal.politieacademie.nl
+https://bronnen-t.politieacademie.nl
 https://bronnen.politieacademie.nl
 https://case360-a.politieacademie.nl
 https://case360-t.politieacademie.nl
@@ -24,6 +26,7 @@ https://dust-api.politieacademie.nl
 https://dw.politieacademie.nl
 https://dwo-t.politieacademie.nl
 https://dwo.politieacademie.nl
+https://enterpriseenrollment.politieacademie.nl
 https://euvid.politieacademie.nl
 https://extbhr.politieacademie.nl
 https://grafana.politieacademie.nl
@@ -37,6 +40,8 @@ https://kennisbank-beheer.politieacademie.nl
 https://kennisbank-t.politieacademie.nl
 https://kennisbank.politieacademie.nl
 https://kennisbanksvn.politieacademie.nl
+https://kibana.politieacademie.nl
+https://kompol-a.politieacademie.nl
 https://kompol-api-a.politieacademie.nl
 https://kompol-api-t.politieacademie.nl
 https://kompol-api.politieacademie.nl
@@ -67,8 +72,9 @@ https://osiris.politieacademie.nl
 https://osirisacc.politieacademie.nl
 https://osirislink-a.politieacademie.nl
 https://osirislink-t.politieacademie.nl
+https://osirislink.politieacademie.nl
 https://osirisont.politieacademie.nl
-https://osiristst.politieacademie.nl
+https://osirisprd.politieacademie.nl
 https://pa-a.politieacademie.nl
 https://po.politieacademie.nl
 https://politieacademie.nl
@@ -98,10 +104,10 @@ https://um-a.politieacademie.nl
 https://um-i.politieacademie.nl
 https://um-t.politieacademie.nl
 https://um.politieacademie.nl
+https://unicom-survey.politieacademie.nl
 https://verjaringschecker-a.politieacademie.nl
 https://verjaringschecker-t.politieacademie.nl
 https://verjaringschecker.politieacademie.nl
-https://video.politieacademie.nl
 https://vpn.politieacademie.nl
 https://vubis-az-t.politieacademie.nl
 https://vubis-az.politieacademie.nl

@@ -744,6 +744,7 @@ http://opgravingen.huygens.knaw.nl
 http://opleiding.sbcm.nl
 http://origin-metadata.maptiles.arcgis.com
 http://origin.api.prod1.contenttoolsrijksoverheid.nl
+http://osiristst.politieacademie.nl
 http://otl.rws.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
@@ -3714,6 +3715,7 @@ https://bron.nl
 https://bron.waterschaplimburg.nl
 https://bronbeek.nl
 https://bronhouderportaal-bro.nl
+https://bronnen-t.politieacademie.nl
 https://bronnen.politieacademie.nl
 https://broward-county-demographics-bcgis.hub.arcgis.com
 https://broward-metropolitan-planning-organization-open-data-browardmpo.hub.arcgis.com
@@ -5492,6 +5494,7 @@ https://enterprise.arcgis.com
 https://enterpriseenrollment.belastingdienst.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
+https://enterpriseenrollment.politieacademie.nl
 https://enterpriseenrollment.slo.nl
 https://enterpriseenrollment.svb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -7207,6 +7210,7 @@ https://kgr.mijn.rvo.nl
 https://kia.odc.pleio.nl
 https://kia.pleio.nl
 https://kibana.odc.pleio.nl
+https://kibana.politieacademie.nl
 https://kiddi.rivm.nl
 https://kie.pleio.nl
 https://kiesraad.nl
@@ -7281,6 +7285,7 @@ https://koaportaal.nl
 https://kolonialecollecties.nl
 https://kombijde.acceptatie.politie.nl
 https://kombijde.politie.nl
+https://kompol-a.politieacademie.nl
 https://kompol-api-a.politieacademie.nl
 https://kompol-api-t.politieacademie.nl
 https://kompol-api.politieacademie.nl
@@ -9115,8 +9120,9 @@ https://osiris.rivm.nl
 https://osirisacc.politieacademie.nl
 https://osirislink-a.politieacademie.nl
 https://osirislink-t.politieacademie.nl
+https://osirislink.politieacademie.nl
 https://osirisont.politieacademie.nl
-https://osiristst.politieacademie.nl
+https://osirisprd.politieacademie.nl
 https://osm.kloeke.huc.knaw.nl
 https://oss-slu.github.io
 https://oss.developer.overheid.nl
@@ -11628,6 +11634,7 @@ https://umbraco.cito.nl
 https://umbraco.slo.nl
 https://unescowikiwijscommunity.pleio.nl
 https://unhcoopext.maps.arcgis.com
+https://unicom-survey.politieacademie.nl
 https://unit4erp.apps.staatsbosbeheer.nl
 https://unit4erpa.apps.staatsbosbeheer.nl
 https://unit4erpt.apps.staatsbosbeheer.nl
@@ -11815,7 +11822,6 @@ https://video-uploader-aanmelding.cvdm.nl
 https://video-uploaders.cvdm.nl
 https://video.arcgis.com
 https://video.beeldbellen.dji.nl
-https://video.politieacademie.nl
 https://videobellen-jwt-moderator.pleio.nl
 https://videobellen-jwt-only.pleio.nl
 https://videobellen-lobby.pleio.nl

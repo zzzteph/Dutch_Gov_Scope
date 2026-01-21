@@ -112,6 +112,7 @@ mx1
 aanvragen
 admin
 papiamentu
+enterpriseenrollment
 acceptatie.beheer
 acceptatie.mijn
 demo
@@ -141,7 +142,6 @@ geodata
 academie
 adobe-analytics-dc
 adobe-tags
-enterpriseenrollment
 werken
 acceptatie.behandel
 behandel
@@ -311,7 +311,6 @@ sharepoint-acc
 sharepoint-conf
 smtp2
 start
-video
 wus
 acceptatie.api
 blogs
@@ -503,6 +502,7 @@ toestemming
 vc
 vcsew
 vergaderen
+video
 webapps
 webdiensten
 wus2
@@ -13929,6 +13929,7 @@ applicaties-az
 applicaties-t
 autodiscover.webmail
 bromtotaal
+bronnen-t
 bronnen
 case360-a
 case360-t
@@ -13953,6 +13954,8 @@ kennisbank-beheer-t
 kennisbank-beheer
 kennisbank-t
 kennisbanksvn
+kibana
+kompol-a
 kompol-api-a
 kompol-api-t
 kompol-api
@@ -14025,6 +14028,7 @@ um-i
 um-t
 um
 umvo
+unicom-survey
 verjaringschecker-a
 verjaringschecker-t
 verjaringschecker
