@@ -6,6 +6,7 @@
 145-119-165-116.politie.nl
 145-119-165-117.politie.nl
 145-119-165-118.politie.nl
+_dmarc.mail1.politie.nl
 aangifte-acc.politie.nl
 aangifte.politie.nl
 accdws.politie.nl
@@ -45,12 +46,14 @@ carriere.politie.nl
 cbd.politie.nl
 chat.enlets.politie.nl
 chat.politie.nl
+ckc.politie.nl
 confluence.politie.nl
 connect2-test.ows2.politie.nl
 connect2-test.politie.nl
 cpw.bvi.politie.nl
 data.politie.nl
 dav.enlets.politie.nl
+dmarc-reportonly.politie.nl
 dws.politie.nl
 enlets.politie.nl
 evenementen.politie.nl
@@ -72,6 +75,7 @@ kombijde.politie.nl
 mail1.politie.nl
 mail2.politie.nl
 mcm-pre.gslbppe.politie.nl
+mcm.gslbpe.politie.nl
 mdc-ras-01.politie.nl
 mdm.politie.nl
 mobiel2-test.ows2.politie.nl
@@ -111,6 +115,7 @@ ssovpnappa-pre.gslbppe.politie.nl
 ssovpnappa-tst.ows2.politie.nl
 ssovpnappa.gslbpe.politie.nl
 ssovpnappi-pre.gslbppe.politie.nl
+ssovpnappi-tst.ows2.politie.nl
 ssovpnappi.gslbpe.politie.nl
 ssovpnintune-pre.gslbppe.politie.nl
 ssovpnintune-tst.ows2.politie.nl

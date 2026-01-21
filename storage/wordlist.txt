@@ -13820,6 +13820,7 @@ zandvoort
 145-119-165-116
 145-119-165-117
 145-119-165-118
+_dmarc.mail1
 aangifte-acc
 aangifte
 accdws
@@ -13852,10 +13853,12 @@ c2000-ras02
 carriere
 cbd
 chat.enlets
+ckc
 connect2-test.ows2
 connect2-test
 cpw.bvi
 dav.enlets
+dmarc-reportonly
 dws
 enlets
 exchangemrs1
@@ -13871,6 +13874,7 @@ iens
 kombijde.acceptatie
 kombijde
 mcm-pre.gslbppe
+mcm.gslbpe
 mdc-ras-01
 mobiel2-test.ows2
 mobiel2-test
@@ -13901,6 +13905,7 @@ ssovpnappa-pre.gslbppe
 ssovpnappa-tst.ows2
 ssovpnappa.gslbpe
 ssovpnappi-pre.gslbppe
+ssovpnappi-tst.ows2
 ssovpnappi.gslbpe
 ssovpnintune-pre.gslbppe
 ssovpnintune-tst.ows2

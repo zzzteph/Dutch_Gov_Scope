@@ -149,6 +149,7 @@ http://api.dms.atabase.gratisvog.nl
 http://api.finance.atabase.gratisvog.nl
 http://api.forms.atabase.gratisvog.nl
 http://api.knaw.nl
+http://api.politie.nl
 http://api.rivm.nl
 http://api.woz.acceptatie.kadaster.nl
 http://api.woz.kadaster.nl
@@ -2800,7 +2801,6 @@ https://api.ondernemersplein.overheid.nl
 https://api.p-direkt.nl
 https://api.pdok.cloud.kadaster.nl
 https://api.pdok.nl
-https://api.politie.nl
 https://api.portal.dnb.nl
 https://api.preprod.kvk.nl
 https://api.preprod.mijn.overheid.nl

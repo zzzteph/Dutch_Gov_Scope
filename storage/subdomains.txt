@@ -854,6 +854,7 @@ _dmarc.donorregister.nl
 _dmarc.kb.nl
 _dmarc.logius.nl
 _dmarc.mail.cggp.nl
+_dmarc.mail1.politie.nl
 _dmarc.nvwa.nl
 _dmarc.nza.nl
 _dmarc.rijksoverheid.nl
@@ -5217,6 +5218,7 @@ ciz1.databank.nl
 cjib.huurcommissie.nl
 cjib.nl
 cjib.sitearchief.nl
+ckc.politie.nl
 ckcc.huygens.knaw.nl
 ckmbo.nl
 cl-compliancetest.webservices.tenderned.nl
@@ -6809,6 +6811,7 @@ dlo-tst.dnb.nl
 dlo.dnb.nl
 dm-qse.s-bb.nl
 dm.s-bb.nl
+dmarc-reportonly.politie.nl
 dmarcreport.ncsc.nl
 dme-gw-dmz.rivm.nl
 dmi-ecosysteem.nl
@@ -12457,6 +12460,7 @@ mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 mccg.nl
 mcm-pre.gslbppe.politie.nl
+mcm.gslbpe.politie.nl
 mcmnioocmg.nioo.knaw.nl
 mcra-test.rivm.nl
 mcra-training.rivm.nl
@@ -18577,6 +18581,7 @@ ssovpnappa-pre.gslbppe.politie.nl
 ssovpnappa-tst.ows2.politie.nl
 ssovpnappa.gslbpe.politie.nl
 ssovpnappi-pre.gslbppe.politie.nl
+ssovpnappi-tst.ows2.politie.nl
 ssovpnappi.gslbpe.politie.nl
 ssovpnintune-pre.gslbppe.politie.nl
 ssovpnintune-tst.ows2.politie.nl
