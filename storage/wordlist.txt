@@ -67,6 +67,7 @@ opendata.english
 open
 dialin
 accept
+www2
 lyncdiscover
 mail2
 webdisk
@@ -75,7 +76,6 @@ ns2
 beeldbank
 static
 digikoppeling
-www2
 inloggen
 www.test
 maps
@@ -610,6 +610,7 @@ webaccess
 doc
 welkom
 ca
+svn
 zoekservice
 kgr-acc.mijn
 kgr.mijn
@@ -3258,7 +3259,6 @@ sonarqube-az1.lpc
 sonarqube-az2.lpc
 sonarqube.lpc
 stelselcatalogus
-svn
 test-dictu.comcms
 test-dictu.kennisbank
 test-machtigen.digipoort
@@ -13493,6 +13493,7 @@ leidraad
 mapservices
 models
 monovi
+openwebui
 pebbles
 roadsfromrio
 snippet.acc.icer

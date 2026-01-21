@@ -1963,6 +1963,7 @@ https://acb.test.chm-cbd.net
 https://acc-ags.rijkswaterstaat.nl
 https://acc-auth.rivm.nl
 https://acc-bergerselect.rws.nl
+https://acc-carbonbudgetexplorer.pbl.nl
 https://acc-cms.digid.nl
 https://acc-cms.projecten.rvo.nl
 https://acc-cms.projects.rvo.nl
@@ -1971,6 +1972,8 @@ https://acc-cms.verbeterjehuis.nl
 https://acc-content.verbeterjehuis.nl
 https://acc-corsa-cu.tweedekamer.nl
 https://acc-corsa-vvd.tweedekamer.nl
+https://acc-data.pbl.nl
+https://acc-dataportaal.pbl.nl
 https://acc-ddapi-wkp.rws.nl
 https://acc-diamonds.tno.nl
 https://acc-dictu.cms.ncsc.nl
@@ -1993,12 +1996,15 @@ https://acc-geo.rws.nl
 https://acc-geoservices.rvo.nl
 https://acc-groenesubsidiewijzer.verbeterjehuis.nl
 https://acc-iam.wm.rws.nl
+https://acc-infographics.pbl.nl
 https://acc-insights.mfaservices.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc-klas.oidji.nl
+https://acc-leidraad.pbl.nl
 https://acc-ls4.mfaservices.nl
 https://acc-lsp.rivm.nl
 https://acc-maps.rijkswaterstaat.nl
+https://acc-mapservices.pbl.nl
 https://acc-mijn.cokz.nl
 https://acc-mijn.rivm.nl
 https://acc-mijn.ssr.nl
@@ -2010,6 +2016,7 @@ https://acc-pzpdirect.pzp.nl
 https://acc-referentiegegevens.justid.nl
 https://acc-sonarreg.rws.nl
 https://acc-sso.odc-noord.nl
+https://acc-themasites.pbl.nl
 https://acc-thuisbezorgd.mijnrijkspas.nl
 https://acc-vergelijkingskaart.afm.nl
 https://acc-vtcc.rivm.nl
@@ -2075,6 +2082,7 @@ https://acc.gps-sa.sso3w.nl
 https://acc.grondstoffenscanner.nl
 https://acc.hcw.mfaservices.nl
 https://acc.iaas-portal.odc-noord.nl
+https://acc.icer.pbl.nl
 https://acc.informatiehuis.rvo.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieresultaten.nvwa.nl
@@ -2102,6 +2110,7 @@ https://acc.mercurius.sso3w.nl
 https://acc.mijn.pzp.nl
 https://acc.mijnslachtofferzaak.nl
 https://acc.milieuzones.nl
+https://acc.monovi.pbl.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.naamswijziging.justis.nl
 https://acc.natura2000.nl
@@ -2119,6 +2128,7 @@ https://acc.onlineform.culture.gov.nl
 https://acc.onlinepublicatie.topinkomens.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://acc.paas-portal.odc-noord.nl
+https://acc.pbl.nl
 https://acc.pergamon.huygens.knaw.nl
 https://acc.pgr-ext.rijkswaterstaat.nl
 https://acc.protocol.mfaservices.nl
@@ -2134,6 +2144,7 @@ https://acc.spaceweather.knmi.nl
 https://acc.srs.mfaservices.nl
 https://acc.ssr.nl
 https://acc.staging.justitieconnect.nl
+https://acc.startanalyse.pbl.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
 https://acc.tradewithnl.nl
@@ -3965,6 +3976,7 @@ https://chat.ind.nl
 https://chat.nationaalarchief.nl
 https://chat.ncsc.nl
 https://chatapi.klopt.cibg.nl
+https://chatgpt-a.pbl.nl
 https://chatgpt.pbl.nl
 https://chatmigrate.pleio.nl
 https://check.opwegnaarzes.nl
@@ -9032,6 +9044,7 @@ https://opensciencemeeting2014.knaw.nl
 https://opensource.pleio.nl
 https://opensourcewerken.nl
 https://openvideo-streaming.github.io
+https://openwebui.pbl.nl
 https://operas.huc.knaw.nl
 https://operationeel-geneeskundig.lcms.nl
 https://operationeel-kira.lcms.nl
@@ -10600,6 +10613,10 @@ https://snd.consular.mfaservices.nl
 https://snelheidsovertredingen.om.nl
 https://snellemotorboten.rdw.nl
 https://snippet.acc.clo.nl
+https://snippet.acc.icer.pbl.nl
+https://snippet.acc.monovi.pbl.nl
+https://snippet.acc.pbl.nl
+https://snippet.acc.startanalyse.pbl.nl
 https://snippet.clo.nl
 https://snippet.icer.pbl.nl
 https://snippet.monovi.pbl.nl
@@ -11016,6 +11033,7 @@ https://svcalendar.dnb.nl
 https://svdj.nl
 https://svk-info.rws.nl
 https://svn.huygens.knaw.nl
+https://svn.pbl.nl
 https://svnmondriaan.huygens.knaw.nl
 https://svnmondxml.huygens.knaw.nl
 https://svnmvn.huygens.knaw.nl
