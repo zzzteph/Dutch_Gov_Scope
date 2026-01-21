@@ -2713,7 +2713,6 @@ https://api-staging.management.dnb.nl
 https://api-staging.portal.dnb.nl
 https://api-staging.scm.dnb.nl
 https://api-tst.afm.nl
-https://api.abonneren-pro2.platformrijksoverheidonline.nl
 https://api.abonneren.platformrijksoverheidonline.nl
 https://api.acc-lsp.rivm.nl
 https://api.acc-seqdb.rivm.nl
@@ -2825,6 +2824,7 @@ https://api.vaarweginformatie.nl
 https://api.voedingscentrum.nl
 https://api.waarborg.nl
 https://api.woo.irealisatie.nl
+https://api10.abonneren.platformrijksoverheidonline.nl
 https://api2-mijn.voedingscentrum.nl
 https://api2.abonneren.platformrijksoverheidonline.nl
 https://api3-mijn.voedingscentrum.nl
