@@ -122,6 +122,7 @@ mam
 a-magazines
 www-ow
 www-ts
+legacy
 sandbox
 zaaksysteem
 chat
@@ -161,7 +162,6 @@ mx2
 share
 api-acc
 servicedesk
-legacy
 www-acc2
 www-dev2
 www-p2
