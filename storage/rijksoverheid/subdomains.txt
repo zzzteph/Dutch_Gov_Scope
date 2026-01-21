@@ -826,7 +826,6 @@ _autodiscover._tcp.nationaalrapporteur.nl
 _autodiscover._tcp.natura2000.nl
 _autodiscover._tcp.nplw.nl
 _autodiscover._tcp.nvwa.nl
-_autodiscover._tcp.politieorkest.nl
 _autodiscover._tcp.postcovidonderzoek.nl
 _autodiscover._tcp.rda.nl
 _autodiscover._tcp.rdi.nl
@@ -15695,7 +15694,6 @@ politiecn.com
 politieenwetenschap.nl
 politiekeambtsdragers.nl
 politieopendata.cbs.nl
-politieorkest.nl
 politieplanner.nl
 pom.cultureelerfgoed.nl
 poortman.kb.nl
@@ -23242,7 +23240,6 @@ www.politieacademie.nl
 www.politiecn.com
 www.politieenwetenschap.nl
 www.politiekeambtsdragers.nl
-www.politieorkest.nl
 www.portal.ewnederland.nl
 www.portal.hubdev.arcgis.com
 www.portal.hubqa.arcgis.com
