@@ -562,7 +562,6 @@ http://jupyter.sd.di.huc.knaw.nl
 http://juristen.werkenvoornederland.nl
 http://k8s-cw.acm.nl
 http://k8s.acm.nl
-http://kat.rdosecurity.nl
 http://keiko.brba.nl
 http://kennisbank.raadvanstate.nl
 http://keycloak.dfaas.hansken.org
@@ -645,14 +644,12 @@ http://meet.nba.nl
 http://meeting-acc.zonmw.nl
 http://meridian.rijkswaterstaat.nl
 http://merkportaal.dnb.nl
-http://metabase.rdosecurity.nl
 http://metadata-c.test.zm.irealisatie.nl
 http://metadata-refiner.labs.dans.knaw.nl
 http://metadata.test.zm.irealisatie.nl
 http://metrokaart.pianoo.nl
 http://mfa.knaw.nl
 http://mft.rivm.nl
-http://miauw.rdosecurity.nl
 http://mijn-api.cbs.nl
 http://mijn.adr.donorregister.nl
 http://mijn.leeroverzicht.nl
@@ -9876,6 +9873,7 @@ https://rda-preprod1.digid.nl
 https://rda.digid.nl
 https://rda.nl
 https://rdi.nl
+https://rdosecurity.nl
 https://rdp.cultuurparticipatie.nl
 https://rds.knaw.nl
 https://rds.skal.nl

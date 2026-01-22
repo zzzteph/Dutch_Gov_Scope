@@ -593,8 +593,6 @@ www.academie
 grip
 jip
 collabora
-kat.acc
-kat
 test3
 vog
 private
@@ -801,7 +799,6 @@ rest
 www.toolkit
 afas
 ldap
-metabase
 regio
 ciz
 friesland
@@ -2867,6 +2864,8 @@ issuer-api.test.gf
 jaeger.proeftuin.gf
 jaeger.test.gf
 jaeger.test.zm
+kat.acc
+kat
 katpilot.acc
 kwalificatie-admin-api.proeftuin.gf
 kwalificatie-api.proeftuin.gf
@@ -7590,6 +7589,7 @@ kluis
 links
 mastodon
 mautic
+metabase
 patatjepinda
 portainer
 project
@@ -14282,8 +14282,6 @@ siam-acp
 tdportal
 zittingsagenda
 czisxfrxky7ywyy
-metabase.acc
-miauw
 75jaar
 REXO
 TvSimulator

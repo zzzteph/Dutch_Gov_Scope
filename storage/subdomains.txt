@@ -10580,9 +10580,7 @@ kasidealsigning-cnf.belastingdienst.nl
 kasidealsigning-test.belastingdienst.nl
 kasidealsigning.belastingdienst.nl
 kat.acc.irealisatie.nl
-kat.acc.rdosecurity.nl
 kat.irealisatie.nl
-kat.rdosecurity.nl
 katpilot.acc.irealisatie.nl
 katv.rdw.nl
 kava-admin.vcdn.belastingdienst.nl
@@ -12612,9 +12610,7 @@ merkportaal.staatsbosbeheer.nl
 messagebox.test.ggdcontact.irealisatie.nl
 messagebroker.minszw.nl
 mestobb.maps.arcgis.com
-metabase.acc.rdosecurity.nl
 metabase.cultuurparticipatie.nl
-metabase.rdosecurity.nl
 metadata-b.test.zm.irealisatie.nl
 metadata-c.test.zm.irealisatie.nl
 metadata-enhancer.labs.dans.knaw.nl
@@ -12672,7 +12668,6 @@ mh17.onderzoeksraad.nl
 mh3.kadaster.nl
 mh4.kadaster.nl
 mi-cert.nl
-miauw.rdosecurity.nl
 micha.rivm.nl
 micollab.cbs.nl
 micollab.mensenrechten.nl
@@ -16706,6 +16701,7 @@ rdgateway.awti.nl
 rdgateway.onderwijsraad.nl
 rdi.nl
 rdinfo.kadaster.nl
+rdosecurity.nl
 rdp.cultuurparticipatie.nl
 rds-acpt.nationaalarchief.nl
 rds.knaw.nl
