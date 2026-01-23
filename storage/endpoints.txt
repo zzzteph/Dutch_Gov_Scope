@@ -434,6 +434,7 @@ http://easytools.huygens.knaw.nl
 http://ebc.databank.nl
 http://ecdis.osiris.rivm.nl
 http://edisyn.meertens.knaw.nl
+http://eendagskentekenbewijsaanvragen.rdw.nl
 http://eindtoets-ouders.cito.nl
 http://eindtoetsbasisonderwijs.cito.nl
 http://elasticsearch.dfaas.hansken.org
@@ -449,6 +450,7 @@ http://english-data.rvo.nl
 http://english.rivmmagazines.nl
 http://enquete.eerstekamer.nl
 http://eov.acceptatie.rws.nl
+http://erkendbedrijfaanmelden.rdw.nl
 http://euir.rechtspraak.nl
 http://eurgen-net.rivm.nl
 http://europapoort.eerstekamer.nl
@@ -542,6 +544,7 @@ http://infra.status.chm-cbd.net
 http://infratemplater.labs.dans.knaw.nl
 http://inkopers.werkenvoornederland.nl
 http://inspiratie.uwv.nl
+http://inspire.rdw.nl
 http://inspire.rivm.nl
 http://int-prod-01.flevoland.nl
 http://interedition.huygens.knaw.nl
@@ -575,6 +578,7 @@ http://kso2011.databank.nl
 http://kss-signinghub-acc.test.kadaster.nl
 http://kss-signinghub-eto.kadaster.nl
 http://kvb-wsp.p-dc.ba.uwv.nl
+http://kvkviewer.rdw.nl
 http://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie-api.proeftuin.gf.irealisatie.nl
 http://kwalificatie.proeftuin.gf.irealisatie.nl
@@ -642,6 +646,7 @@ http://mcsd.test.zm.irealisatie.nl
 http://mebi-backoffice.rivm.nl
 http://meet.nba.nl
 http://meeting-acc.zonmw.nl
+http://melding.rdw.nl
 http://meridian.rijkswaterstaat.nl
 http://merkportaal.dnb.nl
 http://metadata-c.test.zm.irealisatie.nl
@@ -681,6 +686,7 @@ http://ms.opleiding.kir.test.kadaster.nl
 http://ms.sandbox.geoportal.test.kadaster.nl
 http://msbds.tno.nl
 http://mtdphhs.maps.arcgis.com
+http://mtv.rdw.nl
 http://muralidhar.maps.arcgis.com
 http://mwm2mail.marktonderzoek.kadaster.nl
 http://myadmin.huc.knaw.nl
@@ -725,6 +731,7 @@ http://ofallon.maps.arcgis.com
 http://old-cms.contenttoolsrijksoverheid.nl
 http://old.cea.nl
 http://old.visitaties.nl
+http://onderhoud.rdw.nl
 http://onderzoek.uwv.nl
 http://ont-bestellingen.rivm.nl
 http://ontw.api-samenmeten.rivm.nl
@@ -748,9 +755,11 @@ http://otv-stub.test.gf.irealisatie.nl
 http://otv-web.test.gf.irealisatie.nl
 http://oud.infowms.nl
 http://oud.visitaties.nl
+http://ouv.rdw.nl
 http://overlandpark.maps.arcgis.com
 http://overpass.kloeke.huc.knaw.nl
 http://overstroomik-acceptance.rws.nl
+http://ovi.rdw.nl
 http://owas1.nba.nl
 http://p-crl.justid.nl
 http://packaging.labs.dans.knaw.nl
@@ -782,6 +791,7 @@ http://portal.lvb.test.kadaster.nl
 http://portus.knaw.nl
 http://postmaster.ertms.nl
 http://preprod.bvd.logius.nl
+http://preview-tachograaf-handboek.rdw.nl
 http://preview.nias.knaw.nl
 http://private-docs.octodemo.github.io
 http://private-oink.dsp-testing.github.io
@@ -817,6 +827,7 @@ http://qr-app-webservice.rijksapplicaties.nl
 http://r-wasm.github.io
 http://racine-water-utility-racine-wu.hub.arcgis.com
 http://railstotrails.maps.arcgis.com
+http://rbk.rdw.nl
 http://rec.test.cloud.kadaster.nl
 http://redactie.rwskennisplatform.rws.nl
 http://redactie.tno.nl
@@ -940,6 +951,7 @@ http://survey-beheeracc.igj.nl
 http://survey.tno.nl
 http://survey123.arcgis.com
 http://swka.rivm.nl
+http://tachograaf-handboek-oep3rbgktmt.rdw.nl
 http://takemobi4.github.io
 http://tax.test.kadaster.nl
 http://technische-documentatie.oep.overheid.nl
@@ -986,11 +998,13 @@ http://testconn.pbl.nl
 http://testconn.ssc-campus.nl
 http://testda01.tno.nl
 http://testpages.ey-devops-practice-playground.github.io
+http://teveelbetaaldschorsingsbedragterugvragen.rdw.nl
 http://thomasbinaghi.github.io
 http://thuisindecitotoets.cito.nl
 http://tiaplus.cito.nl
 http://tickets.bdmuseum.nl
 http://tickets.kb.nl
+http://tijdelijkdocumentnummeraanvragen.rdw.nl
 http://tmp-f25474.crimson-perch.github.io
 http://tnoportal.tno.nl
 http://toegangtotdeoverheid.nl
@@ -1014,6 +1028,7 @@ http://tst-www.cito.nl
 http://tst.fam.rws.nl
 http://tst.federatieveservice.nl
 http://tst.subsidie.cultureelerfgoed.nl
+http://tte.rdw.nl
 http://ttp.rivm.nl
 http://tweedekamer.parlement.nl
 http://twitch-octocat-generator.octodemo.github.io
@@ -1061,6 +1076,7 @@ http://velocitydevext.arcgis.com
 http://verbeterdekaart.acceptatie.kadaster.nl
 http://verbeterdekaart.kadaster.nl
 http://verbeterdeluchtvaartkaart.acceptatie.kadaster.nl
+http://verzekeringsgegevensopvragen.rdw.nl
 http://verzekeringsproducten.belastingdienst.nl
 http://vf-test.tno.nl
 http://video.belastingdienst.nl
@@ -1076,6 +1092,7 @@ http://vorijkbo-acc.rvo.nl
 http://vpn.bkd.eu
 http://vpn.digiinkooppentest.odc-noord.nl
 http://vragenlijst-acc.rivm.nl
+http://vrijwaringsbewijsaanvragen.rdw.nl
 http://w3dxweb.knmi.nl
 http://wachtwoord.rws.nl
 http://wadzee9520.waddenzee.nl
@@ -1092,12 +1109,14 @@ http://web.proeftuin.gf.irealisatie.nl
 http://web1.nba.nl
 http://webdisk.nedmextrade.com
 http://webfilter.hetcak.nl
+http://webgca.rdw.nl
 http://webmail.knmi.nl
 http://webmail.nbso-brazil.com.br
 http://webmail.rivm.nl
 http://webmail.visitaties.nl
 http://webmail.werkenvoornederland.nl
 http://webportaal.rws.nl
+http://webrdd.rdw.nl
 http://webservice.aiz.osiris.rivm.nl
 http://webservice.mgk.osiris.rivm.nl
 http://webservice.signalen.osiris.rivm.nl
@@ -1109,6 +1128,7 @@ http://werkplek-test.rws.nl
 http://wgu-labs.wgu-edu.github.io
 http://wgu-ui.wgu-edu.github.io
 http://wi.maptiles.arcgis.com
+http://wifdemo.rdw.nl
 http://wiltshire-council-open-data-hub-wiltscouncil.hub.arcgis.com
 http://wkp.rws.nl
 http://wolk.hogeraad.nl
@@ -1119,6 +1139,7 @@ http://www-ac.medicijnkosten.nl
 http://www-ac.zorgcijfersdatabank.nl
 http://www-ac.zorginstituutnederland.nl
 http://www-ac.zorginzicht.nl
+http://www-diensten.rdw.nl
 http://www-test2.werkenbijdeoverheid.nl
 http://www.accept-betalen.nba.nl
 http://www.acceptatie.clusterbuster.nl
@@ -1844,6 +1865,7 @@ https://RDSapplications07.svb.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
 https://TvSimulator.rdw.nl
+https://WinframeInsights.rdw.nl
 https://_dc-mx.41dece63829c.partnersforwater.nl
 https://_dc-mx.dddce9f5a2d1.knooppuntjoure.nl
 https://_dmarc.mail.cggp.nl
@@ -2561,7 +2583,9 @@ https://aire.werkplaatsvoorlandbouwennatuur.nl
 https://airquality.tno.nl
 https://airwatch-gw.cpb.nl
 https://ais-program-lakecountymn.hub.arcgis.com
+https://aitgkcert.rdw.nl
 https://aivd.nl
+https://aiwkr.rdw.nl
 https://aiz.osiris.rivm.nl
 https://ak-lsli-adec.hub.arcgis.com
 https://akai.cloud.kadaster.nl
@@ -2843,6 +2867,7 @@ https://apitraffic-acc.dictu.nl
 https://apitraffic.dictu.nl
 https://apk-handboek-oe6eduhgwvm.rdw.nl
 https://apk-handboek.rdw.nl
+https://apk.rdw.nl
 https://apm-acc.tweedekamer.nl
 https://apm.tweedekamer.nl
 https://apopka.maps.arcgis.com
@@ -4059,6 +4084,7 @@ https://clddeploy-landingzone.rdw.nl
 https://clddeploy-rdw-devseats.rdw.nl
 https://clddeploy-rdw-diensten-ap-01.rdw.nl
 https://clddeploy-rdw-diensten-ot-01.rdw.nl
+https://clddeployv2-landingzone-o.rdw.nl
 https://click.email.kvk.nl
 https://clicks.w.staatsbosbeheer.nl
 https://climate-arcgis-content.hub.arcgis.com
@@ -4405,6 +4431,7 @@ https://crm.erp.kadaster.nl
 https://crm.nza.nl
 https://crmacc.cbi.eu
 https://crmtest.cbi.eu
+https://crosweb.rdw.nl
 https://crow.databank.nl
 https://crowdtech.rvo.nl
 https://crowdtech.skal.nl
@@ -5305,7 +5332,6 @@ https://eeb.chadwyck.com.access.authkb.kb.nl
 https://eebo.chadwyck.com.access.authkb.kb.nl
 https://eef.waterschaplimburg.nl
 https://eemsdelta.databank.nl
-https://eendagskentekenbewijsaanvragen.rdw.nl
 https://eenlogin-acc.kb.nl
 https://eenlogin.kb.nl
 https://eenmaligmachtigen.rdw.nl
@@ -5524,7 +5550,6 @@ https://erfgoed.databank.nl
 https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://erica.reclassering.nl
-https://erkendbedrijfaanmelden.rdw.nl
 https://erkenning-mijn.s-bb.nl
 https://erkenningaanvragen.rdw.nl
 https://erkenningbeeindigen.rdw.nl
@@ -5589,7 +5614,6 @@ https://eurovignettes.eu
 https://euthanasiecommissie.nl
 https://euvid.politieacademie.nl
 https://euvoertuigregistreren.rdw.nl
-https://eva.rdw.nl
 https://eva.rijksapplicaties.nl
 https://eva.staging.rijksapplicaties.nl
 https://evaluaties-acc.rijksfinancien.nl
@@ -5699,7 +5723,6 @@ https://fcp-crystal.cultuurparticipatie.nl
 https://fcpwiki.cultuurparticipatie.nl
 https://fcss.maps.arcgis.com
 https://fdocs.test.gf.irealisatie.nl
-https://fdr.rdw.nl
 https://feature-cic-673.dev.bcld-config.nl
 https://feature-cicd-deployment.dev.bcld-config.nl
 https://feature-demo-child.dev.bcld-config.nl
@@ -6280,7 +6303,6 @@ https://gp5coajb2.coa.nl
 https://gp6coajb2.coa.nl
 https://gpip.nvao.net
 https://gpk-app-adapter.rdw.nl
-https://gpk.rdw.nl
 https://gpkb.kb.nl
 https://gps-sa.sso3w.nl
 https://gr-i.espacenet.com
@@ -6529,7 +6551,6 @@ https://huisstijl.coa.nl
 https://huisstijl.sbcm.nl
 https://huisstijlportaal.kb.nl
 https://huisstijlsjablonen.tweedekamer.nl
-https://huisstijlweb.rdw.nl
 https://huisvoorklokkenluiders.nl
 https://hulpmiddelen.farmatec.nl
 https://hulpsheet.sbr-wonen.nl
@@ -6570,6 +6591,7 @@ https://ibw.datawonen.nl
 https://ic.venvn.nl
 https://icdesk.zuid-holland.nl
 https://icer.pbl.nl
+https://icm.rdw.nl
 https://icorridor-fr-mto-on-ca.hub.arcgis.com
 https://icov.nl
 https://ict.nvao.net
@@ -6777,7 +6799,6 @@ https://inspectielandschap.nl
 https://inspectieresultaten.nvwa.nl
 https://inspectieview.nl
 https://inspiratiewijzerdementie.zonmw.nl
-https://inspire.rdw.nl
 https://inspireaanmerking.nl
 https://inspraaknotaruimte.nl
 https://instappen-a.cito.nl
@@ -6948,7 +6969,6 @@ https://ivho-acc.confluence.odc-noord.nl
 https://ivho-prd.confluence.odc-noord.nl
 https://ivho-staf-acc.topdesk.odc-noord.nl
 https://ivho-staf-prd.topdesk.odc-noord.nl
-https://ivibeheer.rdw.nl
 https://ivm11.databank.nl
 https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
@@ -7170,7 +7190,6 @@ https://kenniswijzer.rvr.org
 https://kentekenbewijsbedrijfsvoorraadaanvragen.rdw.nl
 https://kentekenbijzonderebromfietsaanvragen.rdw.nl
 https://kentekencheck.opwegnaarzes.nl
-https://kentekenregistratieactiefmaken.rdw.nl
 https://keringhuis.nl
 https://kerncijfers.ifv.nl
 https://kerncijfers.nipv.nl
@@ -7179,9 +7198,7 @@ https://keten.sophie.oidji.nl
 https://ketenacceptatie.document-viewer.dso.kadaster.nl
 https://ketenregisterapi.naktuinbouw.nl
 https://ketens-mijn.s-bb.nl
-https://keuringsafspraakmaken.rdw.nl
 https://keuringsafspraakopmaatmaken.rdw.nl
-https://keuringvoertuigaanvragen.rdw.nl
 https://keurmeesterinformatie.rdw.nl
 https://keurmerk.nl
 https://keuzehulp.simpel-switchen.nl
@@ -7326,7 +7343,6 @@ https://kvb-wsp.a-dc.ba.uwv.nl
 https://kvk.nl
 https://kvkhuurtin.nl
 https://kvkmutatieservice.rdw.nl
-https://kvkviewer.rdw.nl
 https://kwalificatie-mijn.s-bb.nl
 https://kwalificaties.s-bb.nl
 https://kwalificatiestructuur-mijn.s-bb.nl
@@ -7336,7 +7352,6 @@ https://kwaliteitvanleven.pbl.nl
 https://kwalitijd.venvn.nl
 https://kwiv.rijksapplicaties.nl
 https://kwiv.staging.rijksapplicaties.nl
-https://kwr.rdw.nl
 https://kwwm-a.politieacademie.nl
 https://kwwm-az-a.politieacademie.nl
 https://kwwm-az-t.politieacademie.nl
@@ -7970,7 +7985,6 @@ https://meeting.zonmw.nl
 https://melding-cmoa.cvdm.nl
 https://melding.aerius.nl
 https://melding.e-tol.nl
-https://melding.rdw.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
 https://meldingen.klopt.cibg.nl
@@ -8174,7 +8188,6 @@ https://mijntokenactiveren.logius.nl
 https://mijntpw-modern-a.svb.nl
 https://mijntpw.svb.nl
 https://mijnvf.vfpf.nl
-https://mijnvoertuig.rdw.nl
 https://mijnwerkplek.cbg-meb.nl
 https://mijnwmo-siam.svb.nl
 https://mijnzaak-acc.hogeraad.nl
@@ -8368,7 +8381,6 @@ https://mta-sts.nza.nl
 https://mta-sts.vechtstromen.nl
 https://mta-sts.voedingscentrum.nl
 https://mta.cbr.nl
-https://mtv.rdw.nl
 https://mu.digid.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
@@ -8696,7 +8708,6 @@ https://nprauthenticatiebeheer.rdw.nl
 https://nprbeheer.rdw.nl
 https://nprexploitantstub.rdw.nl
 https://nprinfo.rdw.nl
-https://npropendata.rdw.nl
 https://nprproviderstub.rdw.nl
 https://nrgd.nl
 https://ns.huc.knaw.nl
@@ -8739,11 +8750,9 @@ https://oat.acc.huc.knaw.nl
 https://oat.dev.huc.knaw.nl
 https://oauth-apitraffic-acc.dictu.nl
 https://oauth.k8sauth.pleio.nl
-https://obfcm-beheer.rdw.nl
 https://obfcm.rdw.nl
 https://obi-o.knaw.nl
 https://obi-t.knaw.nl
-https://observation-service.vwh.rdw.nl
 https://observium.apps.staatsbosbeheer.nl
 https://occassio.dev.huc.knaw.nl
 https://ocd-hub-nm-emnrd.hub.arcgis.com
@@ -8843,7 +8852,6 @@ https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
 https://onderhoud.politieacademie.nl
-https://onderhoud.rdw.nl
 https://onderhoud.rechtspraak.nl
 https://onderhoud.vfpf.nl
 https://ondermijningapp.nl
@@ -9006,6 +9014,7 @@ https://opendata.platformrijksoverheid.nl
 https://opendata.prosecutionservice.nl
 https://opendata.raadvoorcultuur.nl
 https://opendata.rdi.nl
+https://opendata.rdw.nl
 https://opendata.regelhulp.nl
 https://opendata.rijksbegroting.nl
 https://opendata.rijksinspecties.nl
@@ -9161,7 +9170,6 @@ https://overstroomik.rws.nl
 https://overtoeslagen.nl
 https://overzicht.cbs.nl
 https://overzicht.sitearchief.nl
-https://ovi.rdw.nl
 https://ovverklaringen.belastingdienst.nl
 https://oxfordartonline.com.access.authkb.kb.nl
 https://oxfordmusiconline.com.access.authkb.kb.nl
@@ -9201,7 +9209,6 @@ https://papiamentu.rijksdienstcn.com
 https://papiamentu.two-acs.com
 https://papiamentu.vnacs.nl
 https://papiamentu.zorgenjeugdcn.nl
-https://papierenkentekenbewijsomwisselen.rdw.nl
 https://parkstadforum.pleio.nl
 https://parlement.nl
 https://parlisweb.tweedekamer.nl
@@ -9503,6 +9510,7 @@ https://praktijkgerichteprogrammas.nl
 https://praktijkloket-mijn-acc.s-bb.nl
 https://praktijkloket-mijn.s-bb.nl
 https://praktijkopleiding.nba.nl
+https://prbeheer.rdw.nl
 https://prd-azure-waf1.lvnl.nl
 https://prd-cms-oec816yw4m3.rdw.nl
 https://prd-cms.verbeterjehuis.nl
@@ -9559,9 +9567,7 @@ https://pressdisplay.com.access.authkb.kb.nl
 https://prestatiecall-la-2028.sportinnovator.nl
 https://pretix.odc.pleio.nl
 https://preview-apk-handboek.rdw.nl
-https://preview-kennisbank.rdw.nl
 https://preview-lpg-handboek.rdw.nl
-https://preview-tachograaf-handboek.rdw.nl
 https://preview.api.dataplatform.knmi.nl
 https://preview.cito.nl
 https://preview.nederlandwereldwijd.nl
@@ -9836,7 +9842,6 @@ https://radius.nvao.net
 https://radius.raadvanstate.nl
 https://raedelijn.rosopen.databank.nl
 https://raintoriveratx-austin.hub.arcgis.com
-https://rapbeheer.rdw.nl
 https://rapportaardgaswinning.tweedekamer.nl
 https://rapportaardgaswinninggroningen.tweedekamer.nl
 https://rapportage-mijn.s-bb.nl
@@ -9855,7 +9860,6 @@ https://ravas-a.secure.cito.nl
 https://ravas.secure.cito.nl
 https://rb.rvb.rijkscloud.nl
 https://rbbgroep.nl
-https://rbk.rdw.nl
 https://rbl-talent.minbzk.nl
 https://rbo-klachtenregister.staging.rijksapplicaties.nl
 https://rbv-acc.rijksfinancien.nl
@@ -9891,11 +9895,9 @@ https://rdsgw.nioo.knaw.nl
 https://rdsgw61.knaw.nl
 https://rdsgw7.knaw.nl
 https://rdw.nl
+https://rdwchat.rdw.nl
 https://rdwcia.rdw.nl
-https://rdwcvi.rdw.nl
-https://rdwelkom.rdw.nl
 https://rdwschema.rdw.nl
-https://rdwschemaaz.rdw.nl
 https://reach-aut.pleio.nl
 https://reader12308.github.io
 https://realisatie.cultuurparticipatie.nl
@@ -9905,7 +9907,6 @@ https://reallyold.neovintage-corp.github.io
 https://realtime-code.tno.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
-https://recall.rdw.nl
 https://recepten.voedingscentrum.nl
 https://receptie.logerenbijdeboswachter.nl
 https://rechtenoverheid.nl
@@ -10081,8 +10082,6 @@ https://ri-department-of-health-covid-19-case-data-rihealth.hub.arcgis.com
 https://ri-erin.vragenlijst.rivm.nl
 https://riec-liec-academie.pleio.nl
 https://riec.nl
-https://rijbewijsaanvragen.rdw.nl
-https://rijbewijscontroleren.rdw.nl
 https://rijbewijzen-acc.cbr.nl
 https://rijbewijzen-tst.cbr.nl
 https://rijbewijzen.cbr.nl
@@ -10378,6 +10377,7 @@ https://sbweb19-p2.coa.nl
 https://scaling-bassoon.paper-spa.github.io
 https://scanner.atabase.gratisvog.nl
 https://scansys.huurcommissie.nl
+https://scappur.rdw.nl
 https://scatterometer.knmi.nl
 https://scenario.aerius.nl
 https://scenarioboeken.acceptatie.nipv.nl
@@ -10423,7 +10423,6 @@ https://search.waarderingskamer.nl
 https://seb.ibki.nl
 https://secudoc.nji.nl
 https://secure.grip.rivm.nl
-https://secure.integratieplatform.rdw.nl
 https://secure.rivm.nl
 https://secure.vechtstromen.nl
 https://secure5.svb.nl
@@ -10613,7 +10612,6 @@ https://snd.cdn.consular.mfaservices.nl
 https://snd.consular-service.consular.mfaservices.nl
 https://snd.consular.mfaservices.nl
 https://snelheidsovertredingen.om.nl
-https://snellemotorboten.rdw.nl
 https://snippet.acc.clo.nl
 https://snippet.acc.icer.pbl.nl
 https://snippet.acc.monovi.pbl.nl
@@ -10978,7 +10976,6 @@ https://studiegroepopenbaarbestuur.pleio.nl
 https://studieincijfers-acc.s-bb.nl
 https://studieincijfers.s-bb.nl
 https://stvda.nl
-https://subdata-admin.rdw.nl
 https://subdata-authenticatie.rdw.nl
 https://subdata-portal.rdw.nl
 https://subdata.rdw.nl
@@ -11066,7 +11063,6 @@ https://t.crimson-perch.github.io
 https://taalakkoord.leerwerkloket.nl
 https://taaldetector.meertens.knaw.nl
 https://taalweek.gebruikercentraal.nl
-https://tachograaf-handboek-oep3rbgktmt.rdw.nl
 https://tachograaf-handboek.rdw.nl
 https://tag-aid.huygens.knaw.nl
 https://tag2.uwv.nl
@@ -11081,7 +11077,6 @@ https://tarief.douane.nl
 https://taskforce-riec-brabantzeeland.nl
 https://taskforceinfra.nl
 https://taupo.maps.arcgis.com
-https://taxiregistratiestoppen.rdw.nl
 https://taxonomie.cbs.nl
 https://tba.werk.nl
 https://tbadmin.dev.kvk.nl
@@ -11119,8 +11114,6 @@ https://telewerken.om.nl
 https://telewerken.politieacademie.nl
 https://tellerrapportcontroleren.rdw.nl
 https://tellerrapportuitgebreidaanvragen.rdw.nl
-https://tellerstand.rdw.nl
-https://tellerstandcontroleren.rdw.nl
 https://template-bzk.staging.rijksapplicaties.nl
 https://tempo-gateway.pleio.nl
 https://tenaamstellingscodeaanvragen.rdw.nl
@@ -11129,7 +11122,7 @@ https://termsandconditionsofemployment.tno.nl
 https://terraform.odc-noord.nl
 https://terrell.maps.arcgis.com
 https://terugblik.stimuleringsfonds.nl
-https://terugroepacties.rdw.nl
+https://terugroepregister.rdw.nl
 https://test-5.gnk-ghe-3-org.github.io
 https://test-api.stopheling.nl
 https://test-azure-waf1.lvnl.nl
@@ -11329,7 +11322,6 @@ https://testreporter-a.secure.cito.nl
 https://testreporter.secure.cito.nl
 https://testsiam.minszw.nl
 https://testvfrchart.lvnl.nl
-https://teveelbetaaldschorsingsbedragterugvragen.rdw.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://teylingendigitaal.pleio.nl
 https://tg.chm-cbd.net
@@ -11357,7 +11349,6 @@ https://thinkwiseprovisioning.cito.nl
 https://thuisbezorgd.mijnrijkspas.nl
 https://thuiswerken.filmfonds.nl
 https://tib-ivd.nl
-https://tijdelijkdocumentnummeraanvragen.rdw.nl
 https://tijdlijnencovid19.rivm.nl
 https://tijdschrijven.caop.nl
 https://tiledimageservices.arcgis.com
@@ -11508,7 +11499,6 @@ https://trifork.player.cito.nl
 https://trillingsdata-acc.dictu.nl
 https://tropomi.eu
 https://truck-parking.ndw.nu
-https://trv.rdw.nl
 https://try.github.io
 https://tryitlive.arcgis.com
 https://ts.onderwijsraad.nl
@@ -11543,7 +11533,6 @@ https://tst.protocol.mfaservices.nl
 https://tst.service.mpn.minienm.nl
 https://tst.srs.mfaservices.nl
 https://tst2905.omgevingswet.overheid.nl
-https://tte.rdw.nl
 https://tth.rdw.nl
 https://ttw.rijksapplicaties.nl
 https://ttw.staging.rijksapplicaties.nl
@@ -11559,10 +11548,8 @@ https://tunnel.cbs.nl
 https://tunnel.justitieleictorganisatie.nl
 https://tunnel1.cbs.nl
 https://tvep.dictu.nl
-https://tvnooddienst.rdw.nl
 https://tvs.coa.nl
 https://tvs.dictu.nl
-https://tvsimulator.rdw.nl
 https://tweedekamer.acceptatie.tweedekamer.nl
 https://tweedekamer.nl
 https://tweedekamer.sitearchief.nl
@@ -11573,9 +11560,9 @@ https://twistlock.pleio.nl
 https://two-acs.com
 https://tws.rdw.nl
 https://tws.tth.rdw.nl
+https://twsai.rdw.nl
 https://twww13.meertens.knaw.nl
 https://tyk-cdn.dataplatform.knmi.nl
-https://type-approval.rdw.nl
 https://typegoedkeuringaanvragen.rdw.nl
 https://tz-aanvragen-acc.dnb.nl
 https://tz-aanvragen-dev.dnb.nl
@@ -11779,7 +11766,6 @@ https://verlofadviescollege.nl
 https://vermissingbedrijfsvoorraadpasmelden.rdw.nl
 https://vermissingdienstenpasmelden.rdw.nl
 https://vermissinghandelaarskentekenmelden.rdw.nl
-https://vermissingrijbewijsmelden.rdw.nl
 https://vernieuwingiv.kennisplatformondermijning.nl
 https://verslaggeving.afm.nl
 https://versnellingshuisce.nl
@@ -11792,7 +11778,6 @@ https://verstrekkingsvoorbehoud.rdw.nl
 https://vertrokken-nederlands.meertens.knaw.nl
 https://vervangendkentekenbewijsaanvragen.rdw.nl
 https://verwerkingen.rijksoverheid.nl
-https://verzekeringsgegevensopvragen.rdw.nl
 https://verzorgenden.venvn.nl
 https://verzorgingsplaats.ndw.nu
 https://veterinairberoepscollege.nl
@@ -11833,8 +11818,6 @@ https://viewer.dsolv.test.cloud.kadaster.nl
 https://viewer.globio.info
 https://viewer.sensorenregister.cloud.kadaster.nl
 https://vild.ndw.nu
-https://vin-beheer.rdw.nl
-https://vin.rdw.nl
 https://vip-acc.tweedekamer.nl
 https://vip2.tweedekamer.nl
 https://vipasbest.nl
@@ -11852,9 +11835,8 @@ https://viv.tweedekamer.nl
 https://vivet.databank.nl
 https://viz.ndw.nu
 https://vk.s-bb.nl
-https://vld.rdw.nl
 https://vldbeheer.rdw.nl
-https://vliegbewijsonbemandeluchtvaartuigencontroleren.rdw.nl
+https://vldraadpleging.rdw.nl
 https://vliegtuiggeluid.nl
 https://vm-ivra.ndw.nu
 https://vmbodoorstroom.databank.nl
@@ -11870,7 +11852,6 @@ https://voedingscentrum.nl
 https://voertuigenopnaamtot9jaarterug.rdw.nl
 https://voertuiggegevensraadplegen.rdw.nl
 https://voertuigkenmerkenhandhavingssysteem.rdw.nl
-https://voertuigoverschrijven.rdw.nl
 https://voertuigoverzicht.rdw.nl
 https://voertuigrapportdownloaden.rdw.nl
 https://voertuigvannaamhalen.rdw.nl
@@ -11949,7 +11930,6 @@ https://vrd.rdw.nl
 https://vreemdelingenvisie.nl
 https://vri-admin.ndw.nu
 https://vrijstellingmelden.vrachtwagenheffing.nl
-https://vrijwaringsbewijsaanvragen.rdw.nl
 https://vrijwilligers.staatsbosbeheer.nl
 https://vrk.databank.nl
 https://vrln.databank.nl
@@ -11974,6 +11954,7 @@ https://vulnerabilities.acc.ncsc.nl
 https://vulnerabilities.ncsc.nl
 https://vulnerabilities.test.ncsc.nl
 https://vuurwerk.domeinenrz.nl
+https://vvk.rdw.nl
 https://vvkbedrijven.rdw.nl
 https://vvkv.venvn.nl
 https://vwh.rdw.nl
@@ -12086,7 +12067,6 @@ https://webdisk.summercourt.nl
 https://webform.rvo.nl
 https://webforms.acc.belastingdienst.nl
 https://webforms.belastingdienst.nl
-https://webgca.rdw.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
 https://webgispublisher.nl
@@ -12122,9 +12102,6 @@ https://webmail.werkenbijdefensie.nl
 https://webmail1.politieacademie.nl
 https://webmed.rdw.nl
 https://webmob.rdw.nl
-https://webportaal.rdw.nl
-https://webrdd.rdw.nl
-https://webrddaz.rdw.nl
 https://webredactie.caop.nl
 https://webrta.rdw.nl
 https://webscan.rdw.nl
@@ -12154,6 +12131,7 @@ https://websockets.vwh.rdw.nl
 https://webstatistieken.kb.nl
 https://webstatistiekenwaas.kb.nl
 https://webtest.cokz.nl
+https://webvkr.rdw.nl
 https://webwinkel.kb.nl
 https://weekvanhetgeld.nl
 https://weekvanhetgeld.wijzeringeldzaken.nl
@@ -12299,7 +12277,6 @@ https://whofic.nl
 https://wibe.databank.nl
 https://wibo.rijksapplicaties.nl
 https://wibo.staging.rijksapplicaties.nl
-https://wifdemo.rdw.nl
 https://wifi-guest.hetcak.nl
 https://wifi.brabant.nl
 https://wifi.stimuleringsfonds.nl
@@ -12320,7 +12297,6 @@ https://windlansingerland.zuid-holland.nl
 https://windmolens.tno.nl
 https://windmolensopzee.noordzeeloket.nl
 https://windopzee.nl
-https://winframeinsights.rdw.nl
 https://winkel.staatsbosbeheer.nl
 https://winkelgebiedenscan.databank.nl
 https://winwin.vananaarbeter.nl
@@ -13978,7 +13954,6 @@ https://zaanstreekwaterland.leerwerkloket.nl
 https://zabbix.cultuurparticipatie.nl
 https://zakelijk.duo.nl
 https://zakelijk.ind.nl
-https://zakelijk.rdw.nl
 https://zaken.acceptatie.niwo.nl
 https://zaken.niwo.nl
 https://zandbak.nvwa.nl

@@ -401,6 +401,7 @@ intra
 klantportaal
 test-cms
 webwinkel
+pers
 handboek
 pop
 communicatieportaal
@@ -723,7 +724,6 @@ mft-acc
 mx3
 mx4
 pages
-pers
 import
 register
 fed
@@ -927,6 +927,7 @@ wwww
 storybook
 ict
 beeld
+ntp
 class
 selfservice
 minvws
@@ -13328,7 +13329,6 @@ na-acc.topdesk
 na-prd.topdesk
 nfi-acc.topdesk
 nfi-prd.topdesk
-ntp
 ntp1
 ntp2
 ntp3
@@ -14283,8 +14283,11 @@ tdportal
 zittingsagenda
 czisxfrxky7ywyy
 75jaar
+DGS
 REXO
 TvSimulator
+WebSNG
+WinframeInsights
 aanpassingvoertuigdoorgeven
 aansprakelijkhedenoverzichtaanvragen
 acn-archief-a
@@ -14293,6 +14296,8 @@ act-intern
 act
 afnorth
 aicoeapp
+aitgkcert
+aiwkr
 amsbeheer
 api-admin
 api-authenticatie
@@ -14303,6 +14308,7 @@ apigwr3-mng-we.azr.cld.int
 apigwr3-out-we.azr.cld.int
 apk-handboek-oe6eduhgwvm
 apk-handboek
+apk
 app1
 app2
 app3
@@ -14353,6 +14359,11 @@ clddeploy-rdw-diensten-ap-01
 clddeploy-rdw-diensten-ot-01
 clddeploy-tol-ap
 clddeploy-tol-ot
+clddeployv2-landingzone-o
+clddeployv2-landingzone
+clddeployv2-rdw-devseats
+clddeployv2-rdw-diensten-ap-01
+clddeployv2-rdw-diensten-ot-01
 clientcert-osb
 cmg
 cmgrdw
@@ -14362,6 +14373,7 @@ coachaanmelden
 colla2-a
 colla2
 correctietenaamstellingaanvragen
+crosweb
 crwam
 cws
 dailin
@@ -14399,6 +14411,7 @@ e-invoices-in
 ebms-gw-we.azr.cld.int
 ebms-gw-we.cld.int
 ecoc
+edsclient
 edsorderhub-ne
 edsorderhub-we
 edsorderhubnext-ne
@@ -14424,11 +14437,13 @@ floris
 fotovergelijking
 fujitsu-built
 fysieke-handhaving.vwh
+gaikonline
 gbavonlinewcf
 gemeentebestand
 gemeenteportaalrijbewijzen
 gob
 gpk-app-adapter
+gpk-digid-machtigen
 gpk
 gpkv2
 han
@@ -14514,8 +14529,10 @@ orb
 orders
 orv
 osa
+ouv
 ovi
 papierenkentekenbewijsomwisselen
+parambeheerHH
 parambeheerhh
 parked
 pasbedrijven
@@ -14524,6 +14541,7 @@ pincodeaanvragen
 portal-4
 portal-5
 portaltalk
+prbeheer
 prd-apk-handboek-awudba4naqy
 prd-cms-cq4ibqkbags
 prd-cms-oec816yw4m3
@@ -14559,6 +14577,7 @@ rdw-cip-client
 rdw-diensten-ap-01
 rdw-diensten-ot-01
 rdw-teamcloudlab
+rdwchat
 rdwcia
 rdwcvi
 rdwelkom
@@ -14587,6 +14606,7 @@ safefiletransfer-acc
 safefiletransfer
 safefiletransferapi
 scanmail
+scappur
 schorsen
 secure.integratieplatform
 senioren
@@ -14630,6 +14650,7 @@ tellerstand
 tellerstandcontroleren
 tenaamstellingscodeaanvragen
 terugroepacties
+terugroepregister
 test-demo
 test.onlineleren
 test4-keytalk
@@ -14660,6 +14681,7 @@ tvnooddienst
 tvsimulator
 tws
 tws.tth
+twsai
 type-approval
 typegoedkeuringaanvragen
 uitsluitenrv
@@ -14679,6 +14701,7 @@ vin
 visyr
 vld
 vldbeheer
+vldraadpleging
 vliegbewijsonbemandeluchtvaartuigencontroleren
 voertuigenopnaamtot9jaarterug
 voertuiggegevensraadplegen
@@ -14691,6 +14714,7 @@ vpl
 vrd
 vrijwaringsbewijsaanvragen
 vs
+vvk
 vvkbedrijven
 vwh
 vwhclient
@@ -14706,6 +14730,7 @@ webrta
 webscan
 websng
 websockets.vwh
+webvkr
 webxs
 wifdemo
 winframeinsights
@@ -14716,6 +14741,7 @@ ws-prd
 wsh
 wvk
 www-acceptatie
+www-diensten
 www.test4-keytalk
 xwc-prd
 xwc-test

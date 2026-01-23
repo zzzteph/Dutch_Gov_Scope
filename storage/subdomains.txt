@@ -776,6 +776,7 @@ AutoDiscover.hdsr.nl
 AutoDiscover.rijksdienstcn.com
 Autodiscover.tib-ivd.nl
 Connect.kadaster.nl
+DGS.rdw.nl
 DP-DNBA.dnb.nl
 EPBDWebservices-acc.rvo.nl
 ESB01.schadefonds.nl
@@ -801,6 +802,8 @@ SFS.dictu.nl
 Telewerken.rechtspraak.nl
 TvSimulator.rdw.nl
 V14.rws.nl
+WebSNG.rdw.nl
+WinframeInsights.rdw.nl
 _autodiscover._tcp.aanbiedersmedicijnen.nl
 _autodiscover._tcp.adviescollegeveiligheidgroningen.nl
 _autodiscover._tcp.belastingdienst-cn.nl
@@ -2501,7 +2504,9 @@ airwatch-gw.cpb.nl
 ais-database.tno.nl
 ais-program-lakecountymn.hub.arcgis.com
 ais.test.cloud.kadaster.nl
+aitgkcert.rdw.nl
 aivd.nl
+aiwkr.rdw.nl
 aiz.osiris.new.rivm.nl
 aiz.osiris.rivm.nl
 ak-lsli-adec.hub.arcgis.com
@@ -2982,6 +2987,7 @@ apitraffic-acc.dictu.nl
 apitraffic.dictu.nl
 apk-handboek-oe6eduhgwvm.rdw.nl
 apk-handboek.rdw.nl
+apk.rdw.nl
 apkl.huisvoorklokkenluiders.nl
 apl-ecaccess-acpt.knmi.nl
 apl-ecaccess-new.knmi.nl
@@ -5237,6 +5243,11 @@ clddeploy-rdw-diensten-ap-01.rdw.nl
 clddeploy-rdw-diensten-ot-01.rdw.nl
 clddeploy-tol-ap.rdw.nl
 clddeploy-tol-ot.rdw.nl
+clddeployv2-landingzone-o.rdw.nl
+clddeployv2-landingzone.rdw.nl
+clddeployv2-rdw-devseats.rdw.nl
+clddeployv2-rdw-diensten-ap-01.rdw.nl
+clddeployv2-rdw-diensten-ot-01.rdw.nl
 clds.odc-noord.nl
 clefw.gn2.rijkscloud.nl
 clefw.gn3.rijkscloud.nl
@@ -5833,6 +5844,7 @@ crm.nza.nl
 crm.o.extern.minszw.nl
 crmacc.cbi.eu
 crmtest.cbi.eu
+crosweb.rdw.nl
 crow.databank.nl
 crowdtech.rvo.nl
 crowdtech.skal.nl
@@ -7371,6 +7383,7 @@ edocs.hhdelfland.nl
 edocsprod.flevoland.nl
 edocstest.flevoland.nl
 edocstest.hhdelfland.nl
+edsclient.rdw.nl
 edsdiensten.e-tol.nl
 edsdiensten.rdw.nl
 edsorderhub-ne.rdw.nl
@@ -8560,6 +8573,7 @@ gaa.test.cloud.kadaster.nl
 gaa.test.kadaster.nl
 gab.pleio.nl
 gaf.nationaalarchief.nl
+gaikonline.rdw.nl
 galerij.kb.nl
 galway-city-council-opendata-galwaycityco.hub.arcgis.com
 garima-ydv.github.io
@@ -9086,6 +9100,7 @@ gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 gpip.nvao.net
 gpk-app-adapter.rdw.nl
+gpk-digid-machtigen.rdw.nl
 gpk.rdw.nl
 gpkb.kb.nl
 gpkv2.rdw.nl
@@ -14065,6 +14080,7 @@ nt2.cito.nl
 ntm.ndw.nu
 ntm.staging.ndw.nu
 ntp.odc-noord.nl
+ntp.rdw.nl
 ntp1.ec.rijkscloud.nl
 ntp1.gn1.rijkscloud.nl
 ntp1.gn3.rijkscloud.nl
@@ -14879,6 +14895,7 @@ output-tst.cbr.nl
 output.cbr.nl
 outsite.rvr.org
 outsystems.tsn.tno.nl
+ouv.rdw.nl
 ov-consumentenplatform.nl
 ov-kaarten.rijksapplicaties.nl
 ov-kaarten.staging.rijksapplicaties.nl
@@ -14985,6 +15002,7 @@ paragon-acc.hetcak.nl
 paragon-dev.hetcak.nl
 paragon-prd.hetcak.nl
 paragon-tst.hetcak.nl
+parambeheerHH.rdw.nl
 parambeheerhh.rdw.nl
 parked.rdw.nl
 parkstadforum.pleio.nl
@@ -15303,6 +15321,7 @@ pergamon.huygens.knaw.nl
 perpest.alterra.nl
 perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
 pers.letterenfonds.nl
+pers.rdw.nl
 pers.svb.nl
 persberichten.rijksoverheid.nl
 person.did.zandbak.dans.knaw.nl
@@ -15859,6 +15878,7 @@ praktijkgerichteprogrammas.nl
 praktijkloket-mijn-acc.s-bb.nl
 praktijkloket-mijn.s-bb.nl
 praktijkopleiding.nba.nl
+prbeheer.rdw.nl
 prd-apk-handboek-awudba4naqy.rdw.nl
 prd-azure-waf1.lvnl.nl
 prd-cms-cq4ibqkbags.rdw.nl
@@ -16743,6 +16763,7 @@ rdw-diensten-ot-01.rdw.nl
 rdw-teamcloudlab.rdw.nl
 rdw.nl
 rdw.seb.ibki.nl
+rdwchat.rdw.nl
 rdwcia.rdw.nl
 rdwcvi.rdw.nl
 rdwelkom.rdw.nl
@@ -17697,6 +17718,7 @@ scaling-bassoon.paper-spa.github.io
 scanmail.rdw.nl
 scanner.atabase.gratisvog.nl
 scansys.huurcommissie.nl
+scappur.rdw.nl
 scatterometer.knmi.nl
 scenario.aerius.nl
 scenarioboeken.acceptatie.nipv.nl
@@ -19317,6 +19339,7 @@ terraform.odc-noord.nl
 terrell.maps.arcgis.com
 terugblik.stimuleringsfonds.nl
 terugroepacties.rdw.nl
+terugroepregister.rdw.nl
 tes.duo.nl
 test-3.gnk-ghe-3-org.github.io
 test-5.gnk-ghe-3-org.github.io
@@ -20179,6 +20202,7 @@ tws-esb.rijkswaterstaat.nl
 tws-esb.rws.nl
 tws.rdw.nl
 tws.tth.rdw.nl
+twsai.rdw.nl
 twww13.meertens.knaw.nl
 tyk-cdn.dataplatform.knmi.nl
 type-approval.rdw.nl
@@ -20733,6 +20757,7 @@ vlan2007_internet_uc-bgp-r01-2.svb.nl
 vlan2007_internet_uc-bgp-r01.svb.nl
 vld.rdw.nl
 vldbeheer.rdw.nl
+vldraadpleging.rdw.nl
 vliegbewijsonbemandeluchtvaartuigencontroleren.rdw.nl
 vliegtuiggeluid.nl
 vluchtinfo-test.douane.nl
@@ -20994,6 +21019,7 @@ vulnerabilities.acc.ncsc.nl
 vulnerabilities.ncsc.nl
 vulnerabilities.test.ncsc.nl
 vuurwerk.domeinenrz.nl
+vvk.rdw.nl
 vvkbedrijven.rdw.nl
 vvkv.venvn.nl
 vwantestswecenfd.rws-a5-t.azure.gridtst.rws.nl
@@ -21408,6 +21434,7 @@ webtest10.rijksoverheid.nl
 webtooling.irealisatie.nl
 webtooliso20400.nl
 webuntis.politieacademie.nl
+webvkr.rdw.nl
 webwinkel.kadaster.nl
 webwinkel.kb.nl
 webwinkel.rvo.nl
@@ -21881,6 +21908,7 @@ www-dev2.istandaarden.nl
 www-dev2.medicijnkosten.nl
 www-dev2.zorgcijfersdatabank.nl
 www-dev2.zorginzicht.nl
+www-diensten.rdw.nl
 www-ingentaconnect-com.access.authkb.kb.nl
 www-jstor-org.access.authkb.kb.nl
 www-old.kiesraad.nl
