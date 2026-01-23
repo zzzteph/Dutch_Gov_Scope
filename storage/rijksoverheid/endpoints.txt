@@ -15,7 +15,6 @@ http://72-47-169-195.cito.nl
 http://78-47-169-195.cito.nl
 http://88-47-169-195.cito.nl
 http://AutoDiscover.hdsr.nl
-http://Telewerken.rechtspraak.nl
 http://V14.rws.nl
 http://_dc-mx.d43e04744c5a.politieenwetenschap.nl
 http://a-cms.prod1.contenttoolsrijksoverheid.nl
@@ -925,7 +924,6 @@ http://staging.opwegnaarzes.nl
 http://start-here.near-dimension.github.io
 http://start.acc.dusi.irealisatie.nl
 http://start.test.dusi.irealisatie.nl
-http://static.rechtspraak.nl
 http://statistics.dnb.nl
 http://stats-acc.globalentry-rtp.nl
 http://stats.dans.knaw.nl
@@ -958,7 +956,6 @@ http://technische-documentatie.oep.overheid.nl
 http://technologiezoektondernemer.tno.nl
 http://techtransfer.tno.nl
 http://teebstad.rivm.nl
-http://telewerken.rechtspraak.nl
 http://test-3.gnk-ghe-3-org.github.io
 http://test-6.gnk-ghe-3-org.github.io
 http://test-afleveren.procesinfrastructuur.nl
@@ -1864,6 +1861,7 @@ https://RDSapplications06.svb.nl
 https://RDSapplications07.svb.nl
 https://SFS-ACC.dictu.nl
 https://SFS.dictu.nl
+https://Telewerken.rechtspraak.nl
 https://TvSimulator.rdw.nl
 https://WinframeInsights.rdw.nl
 https://_dc-mx.41dece63829c.partnersforwater.nl
@@ -11113,6 +11111,7 @@ https://telewerken.gslb.landelijkemeldkamer.org
 https://telewerken.landelijkemeldkamer.org
 https://telewerken.om.nl
 https://telewerken.politieacademie.nl
+https://telewerken.rechtspraak.nl
 https://tellerrapportcontroleren.rdw.nl
 https://tellerrapportuitgebreidaanvragen.rdw.nl
 https://template-bzk.staging.rijksapplicaties.nl

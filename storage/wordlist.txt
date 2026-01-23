@@ -74,7 +74,6 @@ webdisk
 enterpriseregistration
 ns2
 beeldbank
-static
 digikoppeling
 inloggen
 www.test
@@ -82,6 +81,7 @@ maps
 fs
 mta-sts
 old
+static
 mdm
 geoservices
 dwo

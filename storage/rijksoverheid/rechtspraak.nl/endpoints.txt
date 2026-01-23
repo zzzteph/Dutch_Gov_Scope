@@ -1,9 +1,7 @@
-http://Telewerken.rechtspraak.nl
 http://autorisatie.rechtspraak.nl
 http://euir.rechtspraak.nl
 http://redirect.rechtspraak.nl
-http://static.rechtspraak.nl
-http://telewerken.rechtspraak.nl
+https://Telewerken.rechtspraak.nl
 https://api-gateway.rechtspraak.nl
 https://api.rechtspraak.nl
 https://apis.rechtspraak.nl
@@ -58,6 +56,7 @@ https://siam.rechtspraak.nl
 https://signin.rechtspraak.nl
 https://statistiek.rechtspraak.nl
 https://sts.rechtspraak.nl
+https://telewerken.rechtspraak.nl
 https://toegang.rechtspraak.nl
 https://toezicht.rechtspraak.nl
 https://toezichtcbm.rechtspraak.nl
