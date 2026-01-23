@@ -9360,6 +9360,7 @@ help.odc.pleio.nl
 help.pleio.nl
 help200x.alterra.nl
 helpdesk-efactureren.nl
+helpdesk-efactureren.rijksapplicaties.nl
 helpdesk-test.ciz.nl
 helpdesk.acc.irealisatie.nl
 helpdesk.brba.nl
@@ -21777,6 +21778,7 @@ wp-09.dev.huc.knaw.nl
 wp-14.dev.huc.knaw.nl
 wp-17.dev.huc.knaw.nl
 wp.internationalstudy.nl
+wpo-webservice.rijksapplicaties.nl
 wpo-webservice.staging.rijksapplicaties.nl
 wpo.rijksapplicaties.nl
 wpo.sbcm.nl

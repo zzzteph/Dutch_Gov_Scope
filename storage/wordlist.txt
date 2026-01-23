@@ -14968,6 +14968,7 @@ fvp.staging
 goudo
 goudo.staging
 hdl
+helpdesk-efactureren
 i-partnerschap.staging
 idm-bzk.staging
 iiz.staging
@@ -15143,6 +15144,7 @@ wibo
 wibo.staging
 wobi
 wobi.staging
+wpo-webservice
 wpo-webservice.staging
 wpo.staging
 wps

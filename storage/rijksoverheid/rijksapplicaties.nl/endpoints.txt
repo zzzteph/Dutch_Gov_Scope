@@ -3,6 +3,7 @@ http://qr-app-webservice.rijksapplicaties.nl
 http://rldb-webservice.rijksapplicaties.nl
 http://ufp-webservice.rijksapplicaties.nl
 http://ufp-webservice.staging.rijksapplicaties.nl
+http://wpo-webservice.rijksapplicaties.nl
 http://wpo-webservice.staging.rijksapplicaties.nl
 https://aanwezigheid-ilab.staging.rijksapplicaties.nl
 https://aanwezigheidsapp-oprijk.rijksapplicaties.nl
@@ -87,6 +88,7 @@ https://fvp.staging.rijksapplicaties.nl
 https://goudo.rijksapplicaties.nl
 https://goudo.staging.rijksapplicaties.nl
 https://hdl.rijksapplicaties.nl
+https://helpdesk-efactureren.rijksapplicaties.nl
 https://i-partnerschap.staging.rijksapplicaties.nl
 https://idm-bzk.staging.rijksapplicaties.nl
 https://iiz.staging.rijksapplicaties.nl

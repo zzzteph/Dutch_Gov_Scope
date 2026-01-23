@@ -103,6 +103,7 @@ fvp.staging.rijksapplicaties.nl
 goudo.rijksapplicaties.nl
 goudo.staging.rijksapplicaties.nl
 hdl.rijksapplicaties.nl
+helpdesk-efactureren.rijksapplicaties.nl
 i-partnerschap.staging.rijksapplicaties.nl
 idm-bzk.staging.rijksapplicaties.nl
 iiz.staging.rijksapplicaties.nl
@@ -283,6 +284,7 @@ wibo.rijksapplicaties.nl
 wibo.staging.rijksapplicaties.nl
 wobi.rijksapplicaties.nl
 wobi.staging.rijksapplicaties.nl
+wpo-webservice.rijksapplicaties.nl
 wpo-webservice.staging.rijksapplicaties.nl
 wpo.rijksapplicaties.nl
 wpo.staging.rijksapplicaties.nl
