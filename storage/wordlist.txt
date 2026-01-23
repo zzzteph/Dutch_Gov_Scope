@@ -178,7 +178,6 @@ wiki
 service
 access
 siam
-prod-dictu
 radius
 eloket
 a-feeds.a-english
@@ -222,6 +221,7 @@ monitor
 statistiek
 www.staging
 acc-mijn
+prod-dictu
 support
 securemail
 mail1
