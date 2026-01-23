@@ -2104,7 +2104,6 @@ access.lvnl.nl
 access.nba.nl
 access.om.nl
 access.rdw.nl
-access.regioburgemeesters.nl
 access.rijksrecherche.nl
 access1.minbzk.nl
 accessibility.tno.nl
@@ -5584,7 +5583,6 @@ condor.coa.nl
 conf.cbg-meb.nl
 conf.om.nl
 conf.rdw.nl
-conf.regioburgemeesters.nl
 conf.rijksrecherche.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
@@ -6619,7 +6617,6 @@ dialin.nba.nl
 dialin.om.nl
 dialin.prolander.nl
 dialin.rdw.nl
-dialin.regioburgemeesters.nl
 dialin.rijksrecherche.nl
 dialin2.vechtstromen.nl
 diamonds.tno.nl
@@ -11937,7 +11934,6 @@ lyncdiscover.lbio.nl
 lyncdiscover.minbzk.nl
 lyncdiscover.om.nl
 lyncdiscover.rdw.nl
-lyncdiscover.regioburgemeesters.nl
 lyncdiscover.rijksrecherche.nl
 lyncdiscover.s-bb.nl
 lyncdiscover.voedingscentrum.nl
@@ -12569,7 +12565,6 @@ meet.om.nl
 meet.prolander.nl
 meet.rdw.nl
 meet.rechtspraak.nl
-meet.regioburgemeesters.nl
 meet.rijkscloud.nl
 meet.rijksrecherche.nl
 meet.sso-noord.nl
@@ -18182,7 +18177,6 @@ sip.myroom.minvws.nl
 sip.om.nl
 sip.p-direkt.minbzk.nl
 sip.rdw.nl
-sip.regioburgemeesters.nl
 sip.rijksrecherche.nl
 sip.rvig.nl
 sip.s-bb.nl
