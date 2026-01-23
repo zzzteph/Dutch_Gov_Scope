@@ -535,6 +535,7 @@ statline
 storing
 tunnel
 welkombij
+mta-sts.mail
 acceptatie.digikoppeling
 acceptatie.digikoppeling2
 digikoppeling2
@@ -2005,7 +2006,6 @@ ncp-api-1
 toetsingonline
 _dmarc.mail
 _mta-sts.mail
-mta-sts.mail
 acc-lrza.services
 acceptatie.ag-dcr
 acceptatie.api.kcc
