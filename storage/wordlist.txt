@@ -222,7 +222,6 @@ www.staging
 acc-mijn
 prod-dictu
 support
-securemail
 mail1
 nieuw
 search
@@ -283,6 +282,7 @@ sentry
 tools
 idm
 acc-cms
+securemail
 probeer
 cm
 stage
@@ -15163,10 +15163,10 @@ nieuwestoffen
 a-biokap
 a-chemkap
 a-ewrs
+acc-agstat
 acc-apps
 acc-bestellingen
 acc-bestelmedicatie
-acc-duvo-web-api
 acc-edfs
 acc-isis-ar-rapportage
 acc-lsp
@@ -15174,10 +15174,12 @@ acc-mft
 acc-mijnlmm
 acc-nieuwsbrieven
 acc-paskaart
+acc-sftp01
 acc-sso-osiris
-acc-tdv
 acc-veldmonitoring
 acc-vtcc
+acc.chauffeurs
+acc.nhs-lims
 acceptatie-data
 acceptatie.aiz.osiris
 acceptatie.biotechnologie
@@ -15215,7 +15217,6 @@ acceptatie.rvszoeksysteem
 acceptatie.signalen.osiris
 acceptatie.sniv.osiris
 acceptatie.soap.osiris
-acceptatie.sorproposal
 acceptatie.star.osiris
 acceptatie.teebstad
 acceptatie.vcpapp
@@ -15229,6 +15230,7 @@ acceptatie.webservice.soap.osiris
 acceptatie.wreg
 acceptatie.zwemwater.osiris
 aerius-sftp
+agstat
 aiz.osiris.new
 aiz.osiris
 allesisgezondheid
@@ -15252,6 +15254,7 @@ caontb
 ccc-appgw-test1
 cdif.osiris
 ceses.osiris
+chauffeurs
 chemkap-oud
 chemkap
 cibrapportage
@@ -15268,6 +15271,8 @@ demo.pb-pk
 dev-lsp
 dev-mijnsap
 dev-veldmonitoring
+dev.chauffeurs
+dev.scanapp
 dme-gw-dmz
 dmponline
 docsacc
@@ -15278,11 +15283,13 @@ drupal
 duvo-web-api
 earss
 ecdis.osiris
+erin.vragenlijst
 eurgen-net
 ewrs
 expertrolesqsort
 externemail.test
-ezips-app
+externemail05
+externemail06
 ezips
 federatievesurveillance
 filesender01
@@ -15295,6 +15302,7 @@ geluidsrm
 geluidwsv
 ggdiamdemo
 gisportal
+gitlab-test
 gvcheckrivm1
 gvcheckrivm2
 hypocrates
@@ -15327,6 +15335,8 @@ lsocit1
 lsocit2
 lsocom1
 lsocom2
+lsp-acc
+lsp-api-casedb-acc
 macotra
 man
 managementapi.vragenlijst-acc
@@ -15366,6 +15376,7 @@ password.osiris
 philotes
 pilot-vcpapp
 portie-online
+prd-agstat
 pre-login
 pre-uzi
 preview.chemkap
@@ -15390,13 +15401,13 @@ secure.grip
 sensors
 serhatpc
 sftp-test01
+sftp-test02
 sftp.cims
 sftp1.cims
 signalen.osiris
 signalen
 sniv.osiris
 soap.osiris
-sorproposal
 sprproposal
 sqproxyl03-int-p-nat
 sso-osiris
@@ -15407,7 +15418,6 @@ stikstofdepositiedata
 swka
 tapir-acc
 tapir
-teebstad-app
 teebstad
 teekcontrol
 test-dwo
@@ -15426,6 +15436,8 @@ tst-lsp
 tst-mam
 tst-mijn
 ttp
+tuberculosis
+typened-cpe-demo
 typened-cpe
 typened-crmo
 typened-mrsa
@@ -15433,7 +15445,6 @@ vacatiegelden
 vcpapp
 veldapp
 veldmonitoring
-vindjeplek-app
 voorraadtelling
 vragenlijst-acc
 webmail.test
@@ -15461,9 +15472,6 @@ www.lci
 www.lml
 www.portie-online
 www.rca
-www.teebstad
-www.typened-mrsa
-zwemwater.osiris
 dev-en
 afnemers.acceptatie
 afnemers.pilot

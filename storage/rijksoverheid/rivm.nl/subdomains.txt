@@ -1,12 +1,12 @@
 a-biokap.rivm.nl
 a-chemkap.rivm.nl
 a-ewrs.rivm.nl
+acc-agstat.rivm.nl
 acc-api.rivm.nl
 acc-apps.rivm.nl
 acc-auth.rivm.nl
 acc-bestellingen.rivm.nl
 acc-bestelmedicatie.rivm.nl
-acc-duvo-web-api.rivm.nl
 acc-edfs.rivm.nl
 acc-isis-ar-rapportage.rivm.nl
 acc-lsp.rivm.nl
@@ -16,10 +16,12 @@ acc-mijn.rivm.nl
 acc-mijnlmm.rivm.nl
 acc-nieuwsbrieven.rivm.nl
 acc-paskaart.rivm.nl
+acc-sftp01.rivm.nl
 acc-sso-osiris.rivm.nl
-acc-tdv.rivm.nl
 acc-veldmonitoring.rivm.nl
 acc-vtcc.rivm.nl
+acc.chauffeurs.rivm.nl
+acc.nhs-lims.rivm.nl
 acceptatie-data.rivm.nl
 acceptatie.aiz.osiris.rivm.nl
 acceptatie.biotechnologie.rivm.nl
@@ -58,7 +60,6 @@ acceptatie.rvszoeksysteem.rivm.nl
 acceptatie.signalen.osiris.rivm.nl
 acceptatie.sniv.osiris.rivm.nl
 acceptatie.soap.osiris.rivm.nl
-acceptatie.sorproposal.rivm.nl
 acceptatie.star.osiris.rivm.nl
 acceptatie.teebstad.rivm.nl
 acceptatie.vcpapp.rivm.nl
@@ -72,6 +73,7 @@ acceptatie.webservice.soap.osiris.rivm.nl
 acceptatie.wreg.rivm.nl
 acceptatie.zwemwater.osiris.rivm.nl
 aerius-sftp.rivm.nl
+agstat.rivm.nl
 aiz.osiris.new.rivm.nl
 aiz.osiris.rivm.nl
 allesisgezondheid.rivm.nl
@@ -100,6 +102,7 @@ caontb.rivm.nl
 ccc-appgw-test1.rivm.nl
 cdif.osiris.rivm.nl
 ceses.osiris.rivm.nl
+chauffeurs.rivm.nl
 chemkap-oud.rivm.nl
 chemkap.rivm.nl
 cibrapportage.rivm.nl
@@ -120,6 +123,8 @@ demo.pb-pk.rivm.nl
 dev-lsp.rivm.nl
 dev-mijnsap.rivm.nl
 dev-veldmonitoring.rivm.nl
+dev.chauffeurs.rivm.nl
+dev.scanapp.rivm.nl
 developer.rivm.nl
 dme-gw-dmz.rivm.nl
 dmponline.rivm.nl
@@ -134,6 +139,7 @@ dwo.rivm.nl
 earss.rivm.nl
 ecdis.osiris.rivm.nl
 enquete.rivm.nl
+erin.vragenlijst.rivm.nl
 eurgen-net.rivm.nl
 ewrs.rivm.nl
 expertrolesqsort.rivm.nl
@@ -143,8 +149,9 @@ externemail01.rivm.nl
 externemail02.rivm.nl
 externemail03.rivm.nl
 externemail04.rivm.nl
+externemail05.rivm.nl
+externemail06.rivm.nl
 externemailsaas.rivm.nl
-ezips-app.rivm.nl
 ezips.rivm.nl
 federatievesurveillance.rivm.nl
 filesender.rivm.nl
@@ -160,6 +167,7 @@ geluidwsv.rivm.nl
 geodata.rivm.nl
 ggdiamdemo.rivm.nl
 gisportal.rivm.nl
+gitlab-test.rivm.nl
 grip.rivm.nl
 gvcheckrivm1.rivm.nl
 gvcheckrivm2.rivm.nl
@@ -197,6 +205,8 @@ lsocit1.rivm.nl
 lsocit2.rivm.nl
 lsocom1.rivm.nl
 lsocom2.rivm.nl
+lsp-acc.rivm.nl
+lsp-api-casedb-acc.rivm.nl
 m365.rivm.nl
 macotra.rivm.nl
 magazines.rivm.nl
@@ -249,6 +259,7 @@ password.rivm.nl
 philotes.rivm.nl
 pilot-vcpapp.rivm.nl
 portie-online.rivm.nl
+prd-agstat.rivm.nl
 pre-login.rivm.nl
 pre-uzi.rivm.nl
 preview.chemkap.rivm.nl
@@ -275,10 +286,10 @@ secure-acceptatie.grip.rivm.nl
 secure-test.rivm.nl
 secure.grip.rivm.nl
 secure.rivm.nl
-securemail.rivm.nl
 sensors.rivm.nl
 serhatpc.rivm.nl
 sftp-test01.rivm.nl
+sftp-test02.rivm.nl
 sftp.cims.rivm.nl
 sftp.rivm.nl
 sftp1.cims.rivm.nl
@@ -286,7 +297,6 @@ signalen.osiris.rivm.nl
 signalen.rivm.nl
 sniv.osiris.rivm.nl
 soap.osiris.rivm.nl
-sorproposal.rivm.nl
 sprproposal.rivm.nl
 sqproxyl03-int-p-nat.rivm.nl
 sso-osiris.rivm.nl
@@ -299,7 +309,6 @@ support.rivm.nl
 swka.rivm.nl
 tapir-acc.rivm.nl
 tapir.rivm.nl
-teebstad-app.rivm.nl
 teebstad.rivm.nl
 teekcontrol.rivm.nl
 test-dwo.rivm.nl
@@ -320,6 +329,8 @@ tst-lsp.rivm.nl
 tst-mam.rivm.nl
 tst-mijn.rivm.nl
 ttp.rivm.nl
+tuberculosis.rivm.nl
+typened-cpe-demo.rivm.nl
 typened-cpe.rivm.nl
 typened-crmo.rivm.nl
 typened-mrsa.rivm.nl
@@ -328,7 +339,6 @@ vacatiegelden.rivm.nl
 vcpapp.rivm.nl
 veldapp.rivm.nl
 veldmonitoring.rivm.nl
-vindjeplek-app.rivm.nl
 voorraadtelling.rivm.nl
 vpn.rivm.nl
 vragenlijst-acc.rivm.nl
@@ -360,6 +370,3 @@ www.lml.rivm.nl
 www.portie-online.rivm.nl
 www.rca.rivm.nl
 www.rivm.nl
-www.teebstad.rivm.nl
-www.typened-mrsa.rivm.nl
-zwemwater.osiris.rivm.nl
