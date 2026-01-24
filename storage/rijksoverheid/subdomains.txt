@@ -2164,6 +2164,7 @@ accsso-adobecc.politie.nl
 accsso-pa.politie.nl
 accsso.politie.nl
 acct.nvao.net
+acct.rvr.org
 ace38.labs.tno.nl
 ace_nat17.belastingdienst.nl
 acgsa.maps.arcgis.com
@@ -5852,6 +5853,7 @@ crowdtech.rvo.nl
 crowdtech.skal.nl
 crowlogin.databank.nl
 crs.nba.nl
+crtsvr.rvr.org
 crud.acceptatie.vm-05.azure.grid.rws.nl
 crud.test.vm-05.azure.grid.rws.nl
 crud.vm-05.azure.grid.rws.nl
@@ -5941,6 +5943,7 @@ ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
 ctx.rijksapplicaties.nl
 ctx.staging.rijksapplicaties.nl
+ctxgateway.rvr.org
 cua-fto.erp.kadaster.nl
 cua.erp.kadaster.nl
 cuixing100876.github.io
@@ -8859,6 +8862,7 @@ geschiedenis.reclassering.nl
 geschiktheid-acc.cbr.nl
 geschiktheid-tst.cbr.nl
 geschiktheid.cbr.nl
+geschillenboom.rvr.org
 geschilleninstantieszorg.nl
 getij.rws.nl
 gevaarlijkestoffen.zelfinspectie.nl
@@ -12115,6 +12119,7 @@ mail.afm.nl
 mail.agendavoorhetwaddengebied2050.nl
 mail.aofondsrijk.nl
 mail.aquo.nl
+mail.arh.rvr.org
 mail.atr-regeldruk.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
@@ -17449,6 +17454,7 @@ rvp-beheer-demo.devops.rvb.rijkscloud.nl
 rvp-demo.devops.rvb.rijkscloud.nl
 rvp.reis.idm.rvig.nl
 rvr.org
+rvr01.wsnp.rvr.org
 rvs-beheer.rivm.nl
 rvs.rivm.nl
 rvsapi-kiwi-a.raadvanstate.nl
@@ -20137,6 +20143,7 @@ tst.onlineform.culture.gov.nl
 tst.opendata.nederlandwereldwijd.nl
 tst.orangecorners.com
 tst.protocol.mfaservices.nl
+tst.rvr.org
 tst.schadedoormijnbouw.nl
 tst.service.mpn.minienm.nl
 tst.srs.mfaservices.nl
@@ -21815,6 +21822,7 @@ wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
 wsh.rdw.nl
 wsjg.databank.nl
+wsnp.rvr.org
 wsp.waves.databank.nl
 wst.rijksapplicaties.nl
 wst.staging.rijksapplicaties.nl

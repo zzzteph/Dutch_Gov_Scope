@@ -2,6 +2,7 @@ acc-vtlb.rvr.org
 acc.rvr.org
 accbopzterug.rvr.org
 accbopzuit.rvr.org
+acct.rvr.org
 adfs.rvr.org
 arh.rvr.org
 autodiscover.rvr.org
@@ -15,9 +16,12 @@ bb-wrb.rvr.org
 bopzterug.rvr.org
 bopzuit.rvr.org
 broker.rvr.org
+crtsvr.rvr.org
 csr.rvr.org
+ctxgateway.rvr.org
 dilat.rvr.org
 fs.rvr.org
+geschillenboom.rvr.org
 gras-prd.rvr.org
 idp.rvr.org
 idpmr.rvr.org
@@ -28,6 +32,7 @@ leapwork.rvr.org
 login-acc.rvr.org
 login-test.rvr.org
 login.rvr.org
+mail.arh.rvr.org
 mail.rvr.org
 mediation.online.rvr.org
 mijnoverheid.rvr.org
@@ -46,12 +51,14 @@ qwsnp-spf-prd.rvr.org
 redactie-acc.rvr.org
 redactie.rvr.org
 rvr.org
+rvr01.wsnp.rvr.org
 sbc.rvr.org
 signing.login-acc.rvr.org
 signing.login.rvr.org
 sms-tool.rvr.org
 status-page.rvr.org
 sts.rvr.org
+tst.rvr.org
 uptime.rvr.org
 veiligmailen.rvr.org
 wbtv-test-mendix.rvr.org
@@ -63,6 +70,7 @@ wbtvcrm.rvr.org
 wbtvcrmacc.rvr.org
 wbtvsp.rvr.org
 wbtvspacc.rvr.org
+wsnp.rvr.org
 www.acc-vtlb.rvr.org
 www.fs.rvr.org
 www.intra.rvr.org
