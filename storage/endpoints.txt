@@ -718,7 +718,6 @@ http://opendata-hrcgis.hub.arcgis.com
 http://opendata.arcgis.com
 http://opendata.papiamento.two-acs.com
 http://opgravingen.huygens.knaw.nl
-http://opleiding.sbcm.nl
 http://origin-metadata.maptiles.arcgis.com
 http://origin.api.prod1.contenttoolsrijksoverheid.nl
 http://osiristst.politieacademie.nl
@@ -3654,7 +3653,6 @@ https://brains.brabant.nl
 https://brandaen.huygens.knaw.nl
 https://brandam.nl
 https://brandweer.nl
-https://bravo.sbcm.nl
 https://brba.eu
 https://brba.nl
 https://brdbeheer.rdw.nl
@@ -6861,7 +6859,6 @@ https://inzichten.platformrijksoverheidonline.nl
 https://io.debatdirect.tweedekamer.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
-https://iop.sbcm.nl
 https://iot-demos.arcgis.com
 https://iot.grid.rws.nl
 https://iotdev.arcgis.com
@@ -9033,7 +9030,6 @@ https://opleidersportaal.cbr.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
 https://opleiding.spin2.rijkswaterstaat.nl
-https://opleidingsportal.sbcm.nl
 https://opmaat.sdu.nl.access.authkb.kb.nl
 https://oprijk.nl
 https://oproepingen-api-preprd-poc.overheid.nl
@@ -9623,7 +9619,6 @@ https://profchecks-beheer.politieacademie.nl
 https://profchecks-t.politieacademie.nl
 https://profchecks.politieacademie.nl
 https://professional.basisinformatie-overstromingen.nl
-https://professionalcentraal.sbcm.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
 https://profgeodata.static.basisinformatie-overstromingen.nl
 https://profiel-mijn.s-bb.nl
@@ -11370,7 +11365,6 @@ https://token-secure.pzp.nl
 https://token.pzp.nl
 https://tolviewer.tth.rdw.nl
 https://tomcat-on-docker.wgu-edu.github.io
-https://toolbox.sbcm.nl
 https://toolbox.veiligepubliekedienstverlening.nl
 https://tooling.capacitor.pleio.nl
 https://toolkit-acc.nlplatform.com
@@ -12905,7 +12899,6 @@ https://www.houdmisdaaduitjebuurt.nl
 https://www.houseofrepresentatives.nl
 https://www.hrcommunityrijk.nl
 https://www.huiselijkgeweld.nl
-https://www.huisstijl.sbcm.nl
 https://www.huisvoorklokkenluiders.nl
 https://www.humanstudies.tno.nl
 https://www.huurcommissie.nl
@@ -12974,7 +12967,6 @@ https://www.intpatch.omgevingswet.overheid.nl
 https://www.investeringsimpulsspv.nl
 https://www.investinholland.com
 https://www.iob-evaluatie.nl
-https://www.iop.sbcm.nl
 https://www.iplo.nl
 https://www.ipw4.alterra.nl
 https://www.irealisatie.nl
@@ -12989,7 +12981,6 @@ https://www.ivd.nl
 https://www.ivm11.databank.nl
 https://www.ivopzee.nl
 https://www.jaarverantwoordingzorg.nl
-https://www.jaarverslag.sbcm.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.jaarverslag2024.bkd.eu
 https://www.jaarverslagrechtspraak.nl
@@ -13349,8 +13340,6 @@ https://www.openbaarministerie.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openkat.nl
 https://www.opensourcewerken.nl
-https://www.opleiding.sbcm.nl
-https://www.opleidingsportal.sbcm.nl
 https://www.oprijk.nl
 https://www.opwegmetwaterstof.nl
 https://www.opwegnaarseb.nl
@@ -13416,7 +13405,6 @@ https://www.primet.alterra.nl
 https://www.processierups.nu
 https://www.procestoolbackend.gezondeschool.nl
 https://www.productenmeldwijzer.nl
-https://www.professionalcentraal.sbcm.nl
 https://www.programma-uned.nl
 https://www.programmavivet.nl
 https://www.projecta44.nl
@@ -13666,7 +13654,6 @@ https://www.toetsingscommissievp.nl
 https://www.toezicht.dnb.nl
 https://www.toezichtfestival.nl
 https://www.toezichtsociaaldomein.nl
-https://www.toolbox.sbcm.nl
 https://www.toolkithoudmisdaaduitjebuurt.nl
 https://www.topcorridors.nl
 https://www.topdesk.vechtstromen.nl
