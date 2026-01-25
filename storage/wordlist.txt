@@ -220,7 +220,6 @@ monitor
 statistiek
 www.staging
 acc-mijn
-prod-dictu
 support
 mail1
 nieuw
@@ -281,6 +280,7 @@ sentry
 tools
 idm
 acc-cms
+prod-dictu
 securemail
 probeer
 cm
