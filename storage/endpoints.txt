@@ -302,7 +302,6 @@ http://cev.nl
 http://channels-az2.lpc.logius.nl
 http://chattanooga-bike-to-work-day-chcrpa.hub.arcgis.com
 http://ci.di.huc.knaw.nl
-http://circulaire-economie.ser.nl
 http://citavista.databank.nl
 http://citospecial.cito.nl
 http://citotoets.cito.nl
@@ -338,7 +337,6 @@ http://cname-www-waterbenchmark-org.databank.nl
 http://cname-zeelandscan.databank.nl
 http://coalitieakkoord.zuid-holland.nl
 http://coe.cito.nl
-http://commissies.ser.nl
 http://communicatie.niod.knaw.nl
 http://communicatieportaal.uwv.nl
 http://compliance.gridacc.rws.nl
@@ -1279,6 +1277,11 @@ https://0101.github.io
 https://01010101coder.github.io
 https://0101kvmt.github.io
 https://01039402468.github.io
+https://010inclusief-award2024.evenement.ser.nl
+https://010inclusief-hoevindjediverspersoneel.evenement.ser.nl
+https://010inclusief-themabijeenkomstmetenisweten.evenement.ser.nl
+https://010inclusiefaward.evenement.ser.nl
+https://010inclusiefaward2023.evenement.ser.nl
 https://010m010.github.io
 https://010pixel.github.io
 https://01100100.github.io
@@ -2305,6 +2308,8 @@ https://access.authkb.kb.nl
 https://access.huc.knaw.nl
 https://accessibility.tno.nl
 https://accessibleayr-swecouk.hub.arcgis.com
+https://accesstoremedy.evenement.ser.nl
+https://accesstoremedywebinar2.evenement.ser.nl
 https://acckaarten.vechtstromen.nl
 https://acclongnis.naktuinbouw.nl
 https://accompagnement-education-fr.hub.arcgis.com
@@ -2382,6 +2387,7 @@ https://adfs.knaw.nl
 https://adfs.nidos.nl
 https://adfs.raadvanstate.nl
 https://adfs.vallei-veluwe.nl
+https://adiwebinar5.evenement.ser.nl
 https://adkc.dopingautoriteit.nl
 https://admin.acc-sso.odc-noord.nl
 https://admin.denkmee.zuid-holland.nl
@@ -2478,6 +2484,8 @@ https://african-american-experiences-in-los-angeles-csungis.hub.arcgis.com
 https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
 https://afsprakenstelsel.etoegang.nl
+https://aftrapdiversityday.evenement.ser.nl
+https://aftrapdiversityday22.evenement.ser.nl
 https://afvalcirculair.nl
 https://afvalmonitor.databank.nl
 https://againhay.github.io
@@ -3524,6 +3532,7 @@ https://big-register.nl
 https://big-stone-county-hmp-umn.hub.arcgis.com
 https://bigregister.nl
 https://bigsurfire-tigeo.hub.arcgis.com
+https://bijeenkomstnetsparpensioenonderzoek.evenement.ser.nl
 https://bijna.acm.nl
 https://bijna.pianoo.nl
 https://bike-ped-plan-candidate-project-listing-sapdcgis.hub.arcgis.com
@@ -3725,6 +3734,7 @@ https://burgemeesterworden.politiekeambtsdragers.nl
 https://burgerberaadklimaat.nl
 https://burgerloket.hhdelfland.nl
 https://burgernet.nl
+https://burgerparticipatie.evenement.ser.nl
 https://burgerschap.slo.nl
 https://bus-priority-dcgis.hub.arcgis.com
 https://business-development-ops.github.io
@@ -3939,6 +3949,10 @@ https://charged3-hub-ifs-mpr.hub.arcgis.com
 https://chargerrecommendation-dcgis.hub.arcgis.com
 https://charriere.huygens.knaw.nl
 https://charterbank.huygens.knaw.nl
+https://charterbijeenkomst-14november-tegenhetpersoneelstekort.evenement.ser.nl
+https://charterbijeenkomst-25mei2023-wervingenselectie.evenement.ser.nl
+https://charterbijeenkomst-medewerkersnetwerken2022.evenement.ser.nl
+https://charterbijeenkomst-werkennaarvermogen-9oktober.evenement.ser.nl
 https://chascogis.maps.arcgis.com
 https://chat-acc.servicedesk.ssc-ict.nl
 https://chat-ai.s-bb.nl
@@ -3967,6 +3981,7 @@ https://chip.cbr.nl
 https://chris-greening.github.io
 https://chrisgavin-thehub.dsp-testing.github.io
 https://christina-cleanup-dnrec.hub.arcgis.com
+https://chronischeaandoeningen.evenement.ser.nl
 https://chw.aandeslagmetdeomgevingswet.nl
 https://chw.iplo.nl
 https://ci.chm-cbd.net
@@ -3992,6 +4007,7 @@ https://cip.odc.pleio.nl
 https://cip.pleio.nl
 https://circulair.zuid-holland.nl
 https://circulairambachtscentrum.nl
+https://circulaire-economie.ser.nl
 https://circulaireviaducten.nl
 https://circulairinkopen.nl
 https://circulairmaterialenplan.nl
@@ -4165,6 +4181,7 @@ https://commissie.kolonialecollecties.nl
 https://commissiebbv.nl
 https://commissiecelz.nl
 https://commissiemijnbouwschade.nl
+https://commissies.ser.nl
 https://commissies.stvda.nl
 https://commissievanaanbestedingsexperts.nl
 https://commit2data.nl
@@ -4413,6 +4430,8 @@ https://csotest.werkenvoornederland.nl
 https://csp.minienm.nl
 https://cspe-app.cito.nl
 https://csr.pleio.nl
+https://csrd.evenement.ser.nl
+https://csrdvoornl.evenement.ser.nl
 https://cst-syslog.test.cloud.kadaster.nl
 https://cst.cloud.kadaster.nl
 https://cst.kadaster.nl
@@ -4851,6 +4870,9 @@ https://dib-pbl.rijksapplicaties.nl
 https://dib-pbl.staging.rijksapplicaties.nl
 https://dib-rws.rijksapplicaties.nl
 https://dib-rws.staging.rijksapplicaties.nl
+https://dibacademy2023.evenement.ser.nl
+https://dibwebinar5.evenement.ser.nl
+https://dibwebinar6.evenement.ser.nl
 https://dictu.nl
 https://dictu.sitearchief.nl
 https://dictumagazines.nl
@@ -4889,6 +4911,7 @@ https://digipoortproxy.rijksapplicaties.nl
 https://digipoortproxy.staging.rijksapplicaties.nl
 https://digischool.odc.pleio.nl
 https://digischool.pleio.nl
+https://digitaal-bewust-vaardig.evenement.ser.nl
 https://digitaal.raadopenbaarbestuur.nl
 https://digitaal.scp.nl
 https://digitaalaanvrageninschrijving.rdw.nl
@@ -4908,6 +4931,7 @@ https://digitaledemocratie.pleio.nl
 https://digitalenoordzee.nl
 https://digitaleoverheid.nl
 https://digitaleoverheid.pleio.nl
+https://digitalisering-inclusieve-arbeidsmarkt.evenement.ser.nl
 https://digitalnorthsea.nl
 https://digitalpages.tno.nl
 https://digitaltrustcenter.nl
@@ -4935,9 +4959,13 @@ https://directort.apps.staatsbosbeheer.nl
 https://discipl.nl
 https://disk.rws.nl
 https://disportal.nl
+https://diversiteitindetop.evenement.ser.nl
 https://diversiteitsindex.databank.nl
 https://diversiteitsplein.politiekeambtsdragers.nl
 https://diversiteitsportaal.aofondsrijk.nl
+https://diversity-day-sessie-2023.evenement.ser.nl
+https://diversityday.evenement.ser.nl
+https://diversityday2022.evenement.ser.nl
 https://diverswerk.inclusiefwerkt.nl
 https://dji.nl
 https://dji.sitearchief.nl
@@ -5557,9 +5585,11 @@ https://europeanpartnership-responsibleminerals.eu
 https://europese-subsidies.rvo.nl
 https://eurosai.pleio.nl
 https://eurovignettes.eu
+https://eutaxonomy.evenement.ser.nl
 https://euthanasiecommissie.nl
 https://euvid.politieacademie.nl
 https://euvoertuigregistreren.rdw.nl
+https://euwetsvoorstelduediligence.evenement.ser.nl
 https://eva.rijksapplicaties.nl
 https://eva.staging.rijksapplicaties.nl
 https://evaluaties-acc.rijksfinancien.nl
@@ -5819,6 +5849,7 @@ https://find.galegroup.com.access.authkb.kb.nl
 https://findo.nl
 https://fiod.nl
 https://firehose.dnb.nl
+https://fitfor55-esr.evenement.ser.nl
 https://fiu-nederland.nl
 https://flag-45ad25.near-dimension.github.io
 https://flag-475ab8.near-dimension.github.io
@@ -6407,6 +6438,7 @@ https://herseninstituut.knaw.nl
 https://herstel.toeslagen.nl
 https://het-bureau.meertens.knaw.nl
 https://hetcak.nl
+https://hetgrotegeld-en-klimaat.evenement.ser.nl
 https://hetslachtofferenhetstrafproces.minjenv-events.nl
 https://hetverhaalvan.flevoland.nl
 https://heyteach.wgu-edu.github.io
@@ -6471,6 +6503,7 @@ https://hr-i.espacenet.com
 https://hr-sectorwaterschappen.databank.nl
 https://hr.espacenet.com
 https://hrcommunityrijk.nl
+https://hrddriskmanagement.evenement.ser.nl
 https://hs.bics.nl
 https://hsacc.bics.nl
 https://htwww.valys.nl
@@ -6642,6 +6675,7 @@ https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://impuls.zonmw.nl
 https://imvo.pleio.nl
+https://imvostakeholdersamenwerking.evenement.ser.nl
 https://in-made.nl
 https://inbeeld.zuid-holland.nl
 https://inburgeren.nl
@@ -6745,6 +6779,7 @@ https://inspectiebtd.nl
 https://inspectielandschap.nl
 https://inspectieresultaten.nvwa.nl
 https://inspectieview.nl
+https://inspiratiesessiesdiversityday2022.evenement.ser.nl
 https://inspiratiewijzerdementie.zonmw.nl
 https://inspireaanmerking.nl
 https://inspraaknotaruimte.nl
@@ -6841,6 +6876,7 @@ https://intranetvan.rvo.nl
 https://intranetvanrvo-test.odc.pleio.nl
 https://intranetvanrvo.odc.pleio.nl
 https://intraspectie.inspectiebtd.nl
+https://intrbcinresupplychains.evenement.ser.nl
 https://intrekkingeigenverzoek.cvdm.nl
 https://inventaris.huygens.knaw.nl
 https://inventory.hex.tno.nl
@@ -6879,6 +6915,7 @@ https://ipw4.alterra.nl
 https://iq.chm-cbd.net
 https://ir-databricks.wgu-edu.github.io
 https://ir-edw-databricks.wgu-edu.github.io
+https://irbc-accesstoremedy.evenement.ser.nl
 https://irc.crimediggers.nl
 https://irealisatie.nl
 https://iris.knmi.nl
@@ -6979,6 +7016,8 @@ https://join.odijmond.nl
 https://jokesmitprijs.nl
 https://jong.belastingdienst.nl
 https://jongekind.slo.nl
+https://jongeren.evenement.ser.nl
+https://jongerendenktankcoronacrisis.evenement.ser.nl
 https://jonglereneten.nl
 https://jongprofessionals.venvn.nl
 https://jonyjunk.github.io
@@ -6994,6 +7033,7 @@ https://jr-bzk.staging.rijksapplicaties.nl
 https://jscu.summerschool.sh
 https://jso.arcgis.com
 https://jstor.org.access.authkb.kb.nl
+https://jubileum.evenement.ser.nl
 https://jucies.github.io
 https://jupyter.analyse.ilt.rijkscloud.nl
 https://jupyter.cursus.rijkscloud.nl
@@ -7217,8 +7257,11 @@ https://klikmodel.aerius.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
 https://klimaatbeleid.databank.nl
+https://klimaatcast.evenement.ser.nl
 https://klimaateffectatlas.rijkswaterstaat.nl
 https://klimaatmonitor.databank.nl
+https://klimaatplatform-gevechtwaterstof.evenement.ser.nl
+https://klimaatplatform-spanningopdenetten.evenement.ser.nl
 https://klimaatscenarios-data.knmi.nl
 https://klimaatweegschaal.voedingscentrum.nl
 https://klinieken.donorgegevens.nl
@@ -7360,6 +7403,7 @@ https://ledendomein.platformparticipatie.nl
 https://leefbaarenveilig.nl
 https://leefbaarometer.nl
 https://leer-rijk.nl
+https://leercultuurenbehoudvanpersoneel.evenement.ser.nl
 https://leerenontwikkelplein.nl
 https://leerganglob.slo.nl
 https://leerhuisinformatiehuishouding.nl
@@ -7528,6 +7572,7 @@ https://livingatlas.arcgis.com
 https://livra2.bics.nl
 https://lk.chm-cbd.net
 https://lkod-iprpraha.hub.arcgis.com
+https://lloontwikkelenzonderdrempels.evenement.ser.nl
 https://lma.nl
 https://lmm.rivm.nl
 https://lmr-noord.proeftuin.gf.irealisatie.nl
@@ -7690,6 +7735,7 @@ https://ma.chm-cbd.net
 https://ma.kcb.nl
 https://ma.test.chm-cbd.net
 https://maakhetzeniettemakkelijk.nl
+https://maandvandemezeggenschap.evenement.ser.nl
 https://maatschappelijkeonrust.nl
 https://maatschappelijkestabiliteit.nl
 https://maatschappijwetenschappen.slo.nl
@@ -8476,6 +8522,7 @@ https://netherlandsworldwide.nl
 https://netsil.pleio.nl
 https://netwerk.publiektoezicht.nl
 https://netwerkabroad.odc.pleio.nl
+https://netwerkcafemaritiemmuseum.evenement.ser.nl
 https://netwerkplatteland.nl
 https://networkabroad.odc.pleio.nl
 https://neuro.venvn.nl
@@ -8809,6 +8856,7 @@ https://ondernemersplein.nl
 https://ondernemersplein.overheid.nl
 https://ondernemingsklimaat.bedrijvenbeleidinbeeld.nl
 https://ondersteuning.omgevingswet.overheid.nl
+https://ondertekenbijeenkomst-100222.evenement.ser.nl
 https://ondertekenen-id.acp.kvk.nl
 https://ondertekenen-id.kvk.nl
 https://ondertekenen.acp.kvk.nl
@@ -9041,6 +9089,7 @@ https://opvragen.ep-online.nl
 https://opwegmetwaterstof.nl
 https://opwegnaarseb.nl
 https://opwegnaarzes.nl
+https://oraandeslagmetdiversiteit.evenement.ser.nl
 https://oracle-financials-acc.tweedekamer.nl
 https://oracle-financials-ontw.tweedekamer.nl
 https://oracle-financials.tweedekamer.nl
@@ -9371,6 +9420,7 @@ https://politieacademie.nl
 https://politieacademie.sitearchief.nl
 https://politiecn.com
 https://politieenwetenschap.nl
+https://politiek-of-rechter.evenement.ser.nl
 https://politiekeambtsdragers.nl
 https://politieopendata.cbs.nl
 https://pom.cultureelerfgoed.nl
@@ -9660,6 +9710,7 @@ https://proto.zorginzicht.nl
 https://protocol.mfaservices.nl
 https://prototype.cibg.nl
 https://providence-gis-hub-pvdgis.hub.arcgis.com
+https://provinciaalsymposiumlimburg.evenement.ser.nl
 https://provincies.pleio.nl
 https://prplatform.pleio.nl
 https://prtg.nidos.nl
@@ -9801,6 +9852,7 @@ https://ravas-a.secure.cito.nl
 https://ravas.secure.cito.nl
 https://rb.rvb.rijkscloud.nl
 https://rbbgroep.nl
+https://rbckeyelementsforleaders.evenement.ser.nl
 https://rbl-talent.minbzk.nl
 https://rbo-klachtenregister.staging.rijksapplicaties.nl
 https://rbv-acc.rijksfinancien.nl
@@ -9855,6 +9907,7 @@ https://rechtsbijstand.nl
 https://rechtspraak.nl
 https://rechtspraaklogin.rechtspraak.nl
 https://rechtvaardig.nl
+https://rechtvaardigetransitie.evenement.ser.nl
 https://rechtvoorjou.nl
 https://rechtwijzer.nl
 https://reclassering.nl
@@ -10008,6 +10061,7 @@ https://rest.kvk.nl
 https://rest.preprod.kvk.nl
 https://restitutiecommissie.nl
 https://resultaten.nlarbeidsinspectie.nl
+https://resvooruit.evenement.ser.nl
 https://ret.databank.nl
 https://retro.meertens.knaw.nl
 https://return.ser.nl
@@ -10322,12 +10376,15 @@ https://scenario.aerius.nl
 https://scenarioboeken.acceptatie.nipv.nl
 https://scenarioboeken.nipv.nl
 https://scepman.s-bb.nl
+https://schaarste-groene-grondstoffen.evenement.ser.nl
 https://schadedoormijnbouw.nl
 https://schadefonds.nl
 https://schadefonds.sitearchief.nl
 https://schadeherstel.acc.toeslagen.nl
 https://schadeherstel.toeslagen.nl
 https://schakeldagen.nl
+https://schakelpartij.evenement.ser.nl
+https://schakelpartijwebinar.evenement.ser.nl
 https://scheepvaartexperience.rws.nl
 https://schijf.schadedoormijnbouw.nl
 https://schijfvanvijf.voedingscentrum.nl
@@ -10391,6 +10448,8 @@ https://sentineldev.arcgis.com
 https://sentry.ndw.nu
 https://ser.nl
 https://serrure.mvn.huygens.knaw.nl
+https://sersidesession2023oecdforum.evenement.ser.nl
+https://sertopvrouwen-webinar-veilige-werkcultuur.evenement.ser.nl
 https://server-monitoring.ptvt.nl
 https://server.arcgis.com
 https://server.hcaict.nl
@@ -11073,6 +11132,7 @@ https://test-cms.rvo.nl
 https://test-cms.verbeterjehuis.nl
 https://test-cmsintranet.scp.nl
 https://test-cmsintranet.svb.nl
+https://test-cmswijser.ser.nl
 https://test-connect.aerius.nl
 https://test-content.verbeterjehuis.nl
 https://test-demo.yuichielectric-enterprise.github.io
@@ -11269,6 +11329,7 @@ https://tgv-acceptatie.nipv.nl
 https://tgv-test.nipv.nl
 https://tgv.nipv.nl
 https://thatsip.nl
+https://themabijeenkomst010inclusief-stagediscriminatie.evenement.ser.nl
 https://themaportefeuillesriec-liec.kennisplatformondermijning.nl
 https://themasites.pbl.nl
 https://thesaurus-a.politieacademie.nl
@@ -11323,6 +11384,7 @@ https://toegangscode.ciz.nl
 https://toegangsociaaldomein.nl
 https://toegangspuntmobiliteit.nl
 https://toegankelijkheidsverklaring.nl
+https://toekomstgerichte-arbeidsverhoudingen.evenement.ser.nl
 https://toekomstglb.nl
 https://toekomstnatuur.pleio.nl
 https://toekomstreligieuserfgoed.nl
@@ -11721,6 +11783,7 @@ https://vfpf.nl
 https://vfrchart.lvnl.nl
 https://vgc-acc.nvwa.nl
 https://vgc.nvwa.nl
+https://vgoklimaat-nieuwbos.evenement.ser.nl
 https://vgr.zuid-holland.nl
 https://vhk.mindef-vio.nl
 https://via-i.rijksapplicaties.nl
@@ -12001,6 +12064,8 @@ https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
 https://webgispublisher.nl
+https://webinardigitalisering.evenement.ser.nl
+https://webinarontbossing.evenement.ser.nl
 https://webloket-beheer-prd.cloudservices.kb.nl
 https://webloket.kb.nl
 https://webloketienw.rijksapplicaties.nl
@@ -12267,6 +12332,7 @@ https://workflow.arcgis.com
 https://workflowdev.arcgis.com
 https://workforce.knaw.nl
 https://workinnl.nl
+https://workshoppensioenmedezeggenschap.evenement.ser.nl
 https://worldwide-i.espacenet.com
 https://worldwide-o.espacenet.com
 https://worldwide.espacenet.com
