@@ -3967,6 +3967,7 @@ becq-dcrm.opendata.arcgis.com
 becw-gi-carpc.hub.arcgis.com
 bedevaart.meertens.knaw.nl
 bedrijf-mijn-acc.s-bb.nl
+bedrijf-mijn.s-bb.nl
 bedrijfscommissieoverheid.nl
 bedrijfsgegevenswijzigen.rdw.nl
 bedrijfsvoorraadpasaanvragen.rdw.nl
@@ -4353,6 +4354,7 @@ bim-tst.inspectieview.nl
 bim.cloud.kadaster.nl
 bim.inspectieview.nl
 bim.test.cloud.kadaster.nl
+bin.s-bb.nl
 binnenhofrenovatie.nl
 binnenplein.cjib.nl
 binnenvaart.inspectieview.nl
@@ -5442,6 +5444,7 @@ cms1.platformrijksoverheid.nl
 cms1.rechtspraak.nl
 cms1.rijksoverheid.nl
 cms2-acc.s-bb.nl
+cms2-test.s-bb.nl
 cms2.defensie.nl
 cms2.platformrijksoverheid.nl
 cms2.rechtspraak.nl
@@ -5881,6 +5884,7 @@ crm.nza.nl
 crm.o.extern.minszw.nl
 crmacc.cbi.eu
 crmtest.cbi.eu
+crossover-mijn.s-bb.nl
 crosweb.rdw.nl
 crow.databank.nl
 crowdtech.rvo.nl
@@ -8639,7 +8643,10 @@ gasten.acm.nl
 gatekeeper.nationaalarchief.nl
 gateway-acc.minienm.nl
 gateway-acc.minienw.nl
+gateway-edu-acc.s-bb.nl
+gateway-edu-ontw.s-bb.nl
 gateway-edu-test.s-bb.nl
+gateway-edu.s-bb.nl
 gateway-extern-acc.minienm.nl
 gateway-extern-pre.minienm.nl
 gateway-extern-pre.minienw.nl
@@ -8647,6 +8654,7 @@ gateway-extern-sao.minienm.nl
 gateway-extern-tao.minienm.nl
 gateway-extern.minienm.nl
 gateway-extern.minienw.nl
+gateway-portal.s-bb.nl
 gateway-pre.minienw.nl
 gateway.afm.nl
 gateway.apim.acc.cloudservices.kb.nl
@@ -11572,6 +11580,7 @@ leeromgeving.om.nl
 leeromgeving.voedingscentrum.nl
 leeroverdeholocaust.nl
 leeroverzicht.nl
+leerplaats-mijn-acc.s-bb.nl
 leerplaats-mijn.s-bb.nl
 leerplanevaluatie.slo.nl
 leerplaninbeeld.slo.nl
@@ -16180,6 +16189,7 @@ pra.svb.nl
 praatmeemetdeoverheid.nl
 praktijkgerichteprogrammas.nl
 praktijkloket-mijn-acc.s-bb.nl
+praktijkloket-mijn-test.s-bb.nl
 praktijkloket-mijn.s-bb.nl
 praktijkopleiding.nba.nl
 prbeheer.rdw.nl
@@ -16613,6 +16623,7 @@ professional.basisinformatie-overstromingen.nl
 professionalcentraal.sbcm.nl
 profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
+profiel-mijn.s-bb.nl
 profiel.acc.mijn.overheid.nl
 profiel.acc1.mijn.overheid.nl
 profiel.acc2.mijn.overheid.nl
@@ -21165,6 +21176,7 @@ vouch.checkjeprijs.huurcommissie.nl
 vpc.slo.nl
 vpg-aag-test.belastingdienst.nl
 vpl.rdw.nl
+vpn-kpn.s-bb.nl
 vpn-nabs.officielebekendmakingen.nl
 vpn-server1.acpt.nationaalarchief.nl
 vpn-server1.nationaalarchief.nl

@@ -4,10 +4,12 @@ artus.s-bb.nl
 autodiscover.s-bb.nl
 basiscijfers.s-bb.nl
 bedrijf-mijn-acc.s-bb.nl
+bedrijf-mijn.s-bb.nl
 beheer.acc.stagefonds.s-bb.nl
 beheer.ontw.stagefonds.s-bb.nl
 beheer.stagefonds.s-bb.nl
 beheer.test.stagefonds.s-bb.nl
+bin.s-bb.nl
 certificaat-mijn.s-bb.nl
 chat-ai.s-bb.nl
 citydeal-acc.s-bb.nl
@@ -19,8 +21,10 @@ cms-trendrapportage-test.s-bb.nl
 cms-trendrapportage.s-bb.nl
 cms.s-bb.nl
 cms2-acc.s-bb.nl
+cms2-test.s-bb.nl
 cms2.s-bb.nl
 contract-mijn.s-bb.nl
+crossover-mijn.s-bb.nl
 cs-acc.s-bb.nl
 cs-test.s-bb.nl
 cs.s-bb.nl
@@ -41,7 +45,11 @@ erkenning-mijn.s-bb.nl
 erkenningsaanvraag-mijn.s-bb.nl
 fepool01.s-bb.nl
 flowmailer.s-bb.nl
+gateway-edu-acc.s-bb.nl
+gateway-edu-ontw.s-bb.nl
 gateway-edu-test.s-bb.nl
+gateway-edu.s-bb.nl
+gateway-portal.s-bb.nl
 handtekening.s-bb.nl
 handtekeningspeciaal.s-bb.nl
 hbo-portaal-stagefonds-acc.s-bb.nl
@@ -58,6 +66,7 @@ ksmo.s-bb.nl
 kwalificatie-mijn.s-bb.nl
 kwalificaties.s-bb.nl
 kwalificatiestructuur-mijn.s-bb.nl
+leerplaats-mijn-acc.s-bb.nl
 leerplaats-mijn.s-bb.nl
 login-mijn-acc.s-bb.nl
 login-mijn-test2.s-bb.nl
@@ -83,7 +92,9 @@ pilots-mbo-certificaten.s-bb.nl
 pilots-praktijkleren.s-bb.nl
 platform.s-bb.nl
 praktijkloket-mijn-acc.s-bb.nl
+praktijkloket-mijn-test.s-bb.nl
 praktijkloket-mijn.s-bb.nl
+profiel-mijn.s-bb.nl
 rapportage-mijn.s-bb.nl
 s-bb.nl
 scepman.s-bb.nl
@@ -127,6 +138,7 @@ upload-mijn-test.s-bb.nl
 upload-mijn.s-bb.nl
 vergaderen.s-bb.nl
 vk.s-bb.nl
+vpn-kpn.s-bb.nl
 webmail.s-bb.nl
 webshop-mijn.s-bb.nl
 whitelabel-doc.s-bb.nl

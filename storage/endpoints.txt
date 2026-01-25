@@ -761,6 +761,8 @@ http://portal-a.cito.nl
 http://portal.lvb.test.kadaster.nl
 http://portus.knaw.nl
 http://postmaster.ertms.nl
+http://praktijkloket-mijn-acc.s-bb.nl
+http://praktijkloket-mijn-test.s-bb.nl
 http://preprod.bvd.logius.nl
 http://preview-tachograaf-handboek.rdw.nl
 http://preview.nias.knaw.nl
@@ -864,7 +866,6 @@ http://share.tno.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://sharepoint.lvnl.nl
-http://sic.s-bb.nl
 http://siem.acc.irealisatie.nl
 http://siem.irealisatie.nl
 http://signalen.osiris.rivm.nl
@@ -3270,6 +3271,7 @@ https://becq-dcrm.opendata.arcgis.com
 https://becw-gi-carpc.hub.arcgis.com
 https://bedevaart.meertens.knaw.nl
 https://bedrijf-mijn-acc.s-bb.nl
+https://bedrijf-mijn.s-bb.nl
 https://bedrijfscommissieoverheid.nl
 https://bedrijfsvoorraadpasaanvragen.rdw.nl
 https://bedrijvenbeleidinbeeld.nl
@@ -3531,6 +3533,7 @@ https://bikeparking-chicago.hub.arcgis.com
 https://billing.arcgis.com
 https://bim.cloud.kadaster.nl
 https://bim.test.cloud.kadaster.nl
+https://bin.s-bb.nl
 https://binnenhofrenovatie.nl
 https://binnenplein.cjib.nl
 https://binnl.nl
@@ -4067,7 +4070,6 @@ https://cms-bron.waterschaplimburg.nl
 https://cms-extern.rvo.nl
 https://cms-info.ndw.nu
 https://cms-origin.klimaatscenarios-data.knmi.nl
-https://cms-test.s-bb.nl
 https://cms-trendrapportage-acc.s-bb.nl
 https://cms-trendrapportage-test.s-bb.nl
 https://cms-trendrapportage.s-bb.nl
@@ -4098,9 +4100,7 @@ https://cms.vfpf.nl
 https://cms.waterkwaliteitscheck.nl
 https://cms.werkenbij.rvo.nl
 https://cms1.rechtspraak.nl
-https://cms2-acc.s-bb.nl
 https://cms2.rechtspraak.nl
-https://cms2.s-bb.nl
 https://cms21.knaw.nl
 https://cms3.rechtspraak.nl
 https://cmsgui.ondernemersplein.overheid.nl
@@ -4652,7 +4652,6 @@ https://decide-madrid.hub.arcgis.com
 https://declaree.knaw.nl
 https://declareren.staatsbosbeheer.nl
 https://deegsnccu.maps.arcgis.com
-https://deeljekennis.s-bb.nl
 https://deelnemer.ibki.nl
 https://deeplink.rechtspraak.nl
 https://defencedsoc.skal.nl
@@ -5976,7 +5975,11 @@ https://galerij.kb.nl
 https://galway-city-council-opendata-galwaycityco.hub.arcgis.com
 https://garima-ydv.github.io
 https://gatekeeper.nationaalarchief.nl
+https://gateway-edu-acc.s-bb.nl
+https://gateway-edu-ontw.s-bb.nl
 https://gateway-edu-test.s-bb.nl
+https://gateway-edu.s-bb.nl
+https://gateway-portal.s-bb.nl
 https://gateway.afm.nl
 https://gateway.apim.acc.cloudservices.kb.nl
 https://gateway.apim.cloudservices.kb.nl
@@ -7386,6 +7389,7 @@ https://leeromgeving.om.nl
 https://leeromgeving.voedingscentrum.nl
 https://leeroverdeholocaust.nl
 https://leeroverzicht.nl
+https://leerplaats-mijn-acc.s-bb.nl
 https://leerplaats-mijn.s-bb.nl
 https://leerplanevaluatie.slo.nl
 https://leerplaninbeeld.slo.nl
@@ -9264,8 +9268,6 @@ https://pilot.ruimtelijkeplannen.nl
 https://pilot.uzi-online.minvws.nl
 https://pilot1.praatmeemetdeoverheid.nl
 https://pilot2.praatmeemetdeoverheid.nl
-https://pilots-mbo-certificaten.s-bb.nl
-https://pilots-praktijkleren.s-bb.nl
 https://pimtest.pleio.nl
 https://pincodeaanvragen.rdw.nl
 https://pki.rechtspraak.nl
@@ -9457,7 +9459,6 @@ https://ppvr.staging.rijksapplicaties.nl
 https://pr.aerius.nl
 https://praatmeemetdeoverheid.nl
 https://praktijkgerichteprogrammas.nl
-https://praktijkloket-mijn-acc.s-bb.nl
 https://praktijkloket-mijn.s-bb.nl
 https://praktijkopleiding.nba.nl
 https://prbeheer.rdw.nl
@@ -9623,6 +9624,7 @@ https://professional.basisinformatie-overstromingen.nl
 https://professionalcentraal.sbcm.nl
 https://profgeodata.dynamic.basisinformatie-overstromingen.nl
 https://profgeodata.static.basisinformatie-overstromingen.nl
+https://profiel-mijn.s-bb.nl
 https://profiles.werkenbijdefensie.nl
 https://prognosemodelzw.databank.nl
 https://prognoses.databank.nl
@@ -10706,9 +10708,6 @@ https://stage.elearning.dopingautoriteit.nl
 https://stage.gds.dopingautoriteit.nl
 https://stage.officielebekendmakingen.nl
 https://stage.supplementenwijzer.dopingautoriteit.nl
-https://stagebedrijven.s-bb.nl
-https://stagecoach.s-bb.nl
-https://stagedocenten.s-bb.nl
 https://stagefonds.formulierdus-i.nl
 https://stagefonds.s-bb.nl
 https://stagefonds2-ontw.s-bb.nl
@@ -11228,7 +11227,6 @@ https://test.risicotoolboxbodem.nl
 https://test.rotterdammer.gebruikercentraal.nl
 https://test.rvig.nl
 https://test.rvo.nl
-https://test.s-bb.nl
 https://test.samenmetenaanluchtkwaliteit.nl
 https://test.spin2.rijkswaterstaat.nl
 https://test.stopheling.nl
@@ -11695,7 +11693,6 @@ https://verdragenbank.overheid.nl
 https://verduurzamingindustrie.nl
 https://verenigingvoorklachtrecht.pleio.nl
 https://vergaderapp.tweedekamer.nl
-https://vergaderen.s-bb.nl
 https://vergelijkingskaart.afm.nl
 https://vergoedingsns.nl
 https://verhalenoverdeoorlog.nl

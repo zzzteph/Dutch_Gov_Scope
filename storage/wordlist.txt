@@ -16168,10 +16168,12 @@ ai-proeftuin
 artus
 basiscijfers
 bedrijf-mijn-acc
+bedrijf-mijn
 beheer.acc.stagefonds
 beheer.ontw.stagefonds
 beheer.stagefonds
 beheer.test.stagefonds
+bin
 certificaat-mijn
 chat-ai
 citydeal-acc
@@ -16180,7 +16182,9 @@ cms-trendrapportage-acc
 cms-trendrapportage-test
 cms-trendrapportage
 cms2-acc
+cms2-test
 contract-mijn
+crossover-mijn
 cs-acc
 cs-test
 cs
@@ -16199,7 +16203,11 @@ erkenning-mijn
 erkenningsaanvraag-mijn
 fepool01
 flowmailer
+gateway-edu-acc
+gateway-edu-ontw
 gateway-edu-test
+gateway-edu
+gateway-portal
 handtekening
 handtekeningspeciaal
 hbo-portaal-stagefonds-acc
@@ -16213,6 +16221,7 @@ ksmo
 kwalificatie-mijn
 kwalificaties
 kwalificatiestructuur-mijn
+leerplaats-mijn-acc
 leerplaats-mijn
 login-mijn-acc
 login-mijn-test2
@@ -16228,7 +16237,9 @@ overlapchecker
 pilots-mbo-certificaten
 pilots-praktijkleren
 praktijkloket-mijn-acc
+praktijkloket-mijn-test
 praktijkloket-mijn
+profiel-mijn
 rapportage-mijn
 scepman
 services-mijn-test2
@@ -16265,6 +16276,7 @@ upload-mijn-ontw
 upload-mijn-test
 upload-mijn
 vk
+vpn-kpn
 webshop-mijn
 whitelabel-doc
 whitelabel-ontw
