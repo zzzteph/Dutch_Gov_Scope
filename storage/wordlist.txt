@@ -52,7 +52,6 @@ sts
 elearning
 _dmarc
 jaarverslag
-cpanel
 feeds.english
 services
 webservices
@@ -63,12 +62,12 @@ oud
 auth
 www.acc
 adfs
+cpanel
 opendata.english
 open
 accept
 www2
 mail2
-webdisk
 enterpriseregistration
 ns2
 beeldbank
@@ -77,6 +76,7 @@ digikoppeling
 inloggen
 lyncdiscover
 www.test
+webdisk
 maps
 fs
 mta-sts
@@ -135,8 +135,6 @@ events
 magazine
 hostmaster
 matomo
-cpcalendars
-cpcontacts
 a-english
 geodata
 academie
@@ -176,6 +174,8 @@ sso
 secure
 service
 siam
+cpcalendars
+cpcontacts
 radius
 eloket
 a-feeds.a-english
