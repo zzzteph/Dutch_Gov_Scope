@@ -23,8 +23,10 @@ nwm-zw-input.ssc-campus.nl
 nwm-zw-output.ssc-campus.nl
 password.ssc-campus.nl
 radius.ssc-campus.nl
+radius1.ssc-campus.nl
 radius2.ssc-campus.nl
 rivm-micol-a01p.rivm.ssc-campus.nl
+ssc-campus.nl
 sscc-ddict-a01p.ddi.ssc-campus.nl
 sscc-ddign-a01p.ddi.ssc-campus.nl
 sscc-sbc-a01p.ssc-campus.nl
@@ -34,3 +36,4 @@ testconn-mp.ssc-campus.nl
 testconn.ssc-campus.nl
 tst-modellenplatform-rekenen.ssc-campus.nl
 www.ssc-campus.nl
+www2.ssc-campus.nl
