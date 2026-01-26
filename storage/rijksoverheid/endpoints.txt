@@ -146,6 +146,7 @@ http://applications.globalentry-rtp.nl
 http://apps.rivm.nl
 http://apps.tweedekamer.nl
 http://arbeidsveiligheid.tno.nl
+http://archief60.sitearchief.nl
 http://archieven.meertens.knaw.nl
 http://architectenregister.nl
 http://arcscripts.arcgis.com
@@ -1908,6 +1909,7 @@ https://abx02.sitearchief.nl
 https://abx03.sitearchief.nl
 https://abx04.sitearchief.nl
 https://abx05.sitearchief.nl
+https://abx06.sitearchief.nl
 https://ac-dynac.rws.nl
 https://academic-oup-com.access.authkb.kb.nl
 https://academic-registry.hansken.org
@@ -2542,6 +2544,7 @@ https://airwatch-gw.cpb.nl
 https://ais-program-lakecountymn.hub.arcgis.com
 https://aitgkcert.rdw.nl
 https://aivd.nl
+https://aivd.sitearchief.nl
 https://aiwkr.rdw.nl
 https://aiz.osiris.rivm.nl
 https://ak-lsli-adec.hub.arcgis.com
@@ -2971,7 +2974,6 @@ https://archief50.sitearchief.nl
 https://archief51.sitearchief.nl
 https://archief52.sitearchief.nl
 https://archief53.sitearchief.nl
-https://archief60.sitearchief.nl
 https://archiefwiki.pleio.nl
 https://archis.cultureelerfgoed.nl
 https://archisarchief.cultureelerfgoed.nl
@@ -3872,6 +3874,7 @@ https://cd.test.chm-cbd.net
 https://cdbg-dr-leegis.hub.arcgis.com
 https://cdfd.nl
 https://cdho.nl
+https://cdho.sitearchief.nl
 https://cdn-a.arcgis.com
 https://cdn-mediaprogram.maps.arcgis.com
 https://cdn.cbs.nl
@@ -4669,6 +4672,7 @@ https://deelnemer.ibki.nl
 https://deeplink.rechtspraak.nl
 https://defencedsoc.skal.nl
 https://defensie.nl
+https://defensie.sitearchief.nl
 https://definities.dmi-ecosysteem.nl
 https://definities.sbr-wonen.nl
 https://deformatieviewer.rws.nl
@@ -7984,6 +7988,7 @@ https://meldingen.klopt.cibg.nl
 https://meldingenapp.tweedekamer.nl
 https://meldingrijbewijscontrole.rdw.nl
 https://meldingwd.odmh.nl
+https://meldkamer.sitearchief.nl
 https://meldknop.nl
 https://meldloket.postedworkers.nl
 https://meldportaal-acc.fiu-nederland.nl
@@ -8715,6 +8720,7 @@ https://nunietzwanger.nl
 https://nur.rdw.nl
 https://nutriscorevoorbedrijven.nl
 https://nvao.net
+https://nvao.sitearchief.nl
 https://nvwa.nl
 https://nvwa.odc.pleio.nl
 https://nvwa.pleio.nl
@@ -9811,6 +9817,7 @@ https://raadplegen.sbv-z.nl
 https://raadpleging.knaw.nl
 https://raadrechtshandhaving.com
 https://raadrvs.nl
+https://raadrvs.sitearchief.nl
 https://raadswebamstelveen.pleio.nl
 https://raadvanstate.nl
 https://raadvanstate.sitearchief.nl
