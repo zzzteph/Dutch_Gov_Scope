@@ -634,7 +634,6 @@ design
 faq
 file
 pm-bounces
-tileserver
 a-voorlichting
 acc.opendata
 projecten-acc
@@ -3425,6 +3424,7 @@ slim-reizen
 sonar
 test-kpi-dashboard
 tiles
+tileserver
 truck-parking
 verkeersveiligheid
 verzorgingsplaats
