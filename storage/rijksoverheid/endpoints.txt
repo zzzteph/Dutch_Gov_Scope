@@ -1936,6 +1936,7 @@ https://acb.test.chm-cbd.net
 https://acc-ags.rijkswaterstaat.nl
 https://acc-auth.rivm.nl
 https://acc-bergerselect.rws.nl
+https://acc-beta.ssr.nl
 https://acc-carbonbudgetexplorer.pbl.nl
 https://acc-cms.digid.nl
 https://acc-cms.projecten.rvo.nl
@@ -1985,11 +1986,13 @@ https://acc-mapservices.pbl.nl
 https://acc-mijn.cokz.nl
 https://acc-mijn.rivm.nl
 https://acc-mijn.ssr.nl
+https://acc-oioportaal.ssr.nl
 https://acc-open-wave.odijmond.nl
 https://acc-ovdsupport.rws.nl
 https://acc-portal.cito.nl
 https://acc-pzpdirect.pzp.nl
 https://acc-referentiegegevens.justid.nl
+https://acc-rioportaal.ssr.nl
 https://acc-sonarreg.rws.nl
 https://acc-sso.odc-noord.nl
 https://acc-themasites.pbl.nl
@@ -3469,6 +3472,7 @@ https://beta.dblogistiek.brandweer.nl
 https://beta.machtigen.digid.nl
 https://beta.nmgn.huygens.knaw.nl
 https://beta.politieenwetenschap.nl
+https://beta.ssr.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
 https://betalen.pzp.nl
@@ -4809,6 +4813,7 @@ https://dev.rli.nl
 https://dev.scanapp.rivm.nl
 https://dev.sq.mfaservices.nl
 https://dev.srs.mfaservices.nl
+https://dev.ssr.nl
 https://dev.test.cloud.kadaster.nl
 https://devashishyadav20.github.io
 https://develop.dementieinkaart.nl
@@ -5222,6 +5227,7 @@ https://e-depot.nationaalarchief.nl
 https://e-depot.ted.nationaalarchief.nl
 https://e-facturen.rechtspraak.nl
 https://e-learning.opwegnaarseb.nl
+https://e-learning.ssr.nl
 https://e-learningbibob.acc.justis.nl
 https://e-learningbibob.justis.nl
 https://e-loket.ilent.nl
@@ -11925,6 +11931,7 @@ https://vpnportal.nwo.nl
 https://vpr.rijkswaterstaat.nl
 https://vps-prod-01.flevoland.nl
 https://vps.pleio.nl
+https://vps66655.dev.ssr.nl
 https://vraagje.doeonbeperktmee.nl
 https://vrachtwagenheffing.nl
 https://vrachtwagenheffingsbeleid.nl

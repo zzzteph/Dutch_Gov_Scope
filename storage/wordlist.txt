@@ -388,6 +388,7 @@ voorlichting
 join
 leeromgeving
 webshop
+e-learning
 organisaties
 data-acc
 omgevingswet
@@ -644,7 +645,6 @@ zandbak
 odin
 rapportage
 werkplaats
-e-learning
 import-acc.organisaties
 import.organisaties
 algoritmes
