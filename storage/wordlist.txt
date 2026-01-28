@@ -916,6 +916,7 @@ my
 tfs
 nis
 acpt
+ted
 ocs
 www.login
 minlnv
@@ -13097,7 +13098,6 @@ rproxy-prod
 schaduw
 sftp.acpt
 sftp.ted
-ted
 ua.e-depot-ted
 vocbesatzungen
 vocopvarenden
@@ -16755,6 +16755,7 @@ www.wifi
 jscu
 uat
 acceptatie-cloud
+beta.acceptatie
 cl-compliancetest.webservices
 cms.acceptatie
 cms.test
