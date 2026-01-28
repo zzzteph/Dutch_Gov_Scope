@@ -131,7 +131,6 @@ archief
 files
 forum
 events
-magazine
 hostmaster
 matomo
 a-english
@@ -172,6 +171,7 @@ sso
 secure
 service
 siam
+magazine
 cpcalendars
 cpcontacts
 radius
