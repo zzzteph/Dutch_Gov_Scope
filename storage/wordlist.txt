@@ -929,6 +929,7 @@ aws
 csr
 digitaleoverheid
 dsa
+loki
 nvwa
 ods
 edge
@@ -13692,7 +13693,6 @@ locus
 logger
 loki-gateway
 loki-internal
-loki
 mail.odc
 manifestgroep
 migratieaws

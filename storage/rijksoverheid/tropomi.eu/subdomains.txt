@@ -1,4 +1,5 @@
 idaf.tropomi.eu
+loki.tropomi.eu
 mpc-l2.tropomi.eu
 mpc-vdaf-server.tropomi.eu
 mpc-vdaf.tropomi.eu
