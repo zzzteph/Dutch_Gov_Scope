@@ -979,7 +979,6 @@ http://uzi.acc.brba.nl
 http://uzi.brba.nl
 http://uzi.test.brba.nl
 http://vacatiegelden.rivm.nl
-http://vacatures.venvn.nl
 http://vacaturezoekservice-test.mobiliteitsbank.nl
 http://vacaturezoekservice-test.werkenbijdeoverheid.nl
 http://vas.cito.nl
@@ -2565,6 +2564,7 @@ https://ambtelijkerechtspositie.nl
 https://ambtenaar20.pleio.nl
 https://ambtenarengeschiedenis.pleio.nl
 https://ambu-gdi-online.hub.arcgis.com
+https://ambulancezorg.venvn.nl
 https://american-marten-pagame.hub.arcgis.com
 https://amerigeo-week-2021-amerigeoss.hub.arcgis.com
 https://amersfoort.leerwerkloket.nl
@@ -4800,9 +4800,11 @@ https://di.huc.knaw.nl
 https://dia-acceptatie.rijksapplicaties.nl
 https://dia.rijksapplicaties.nl
 https://dia.staging.rijksapplicaties.nl
+https://diabeteszorg.venvn.nl
 https://dialin.coa.nl
 https://dialin.lbio.nl
 https://dialin2.vechtstromen.nl
+https://dialyse.venvn.nl
 https://dib-anvs.rijksapplicaties.nl
 https://dib-anvs.staging.rijksapplicaties.nl
 https://dib-ienw.rijksapplicaties.nl
@@ -6409,6 +6411,7 @@ https://historisch.cbs.nl
 https://historische-luchtfoto.flevoland.nl
 https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
+https://hiv.venvn.nl
 https://hoesterkstaik.nl
 https://hogeraad.nl
 https://hogeraad.sitearchief.nl
@@ -7275,6 +7278,7 @@ https://kwalificaties.s-bb.nl
 https://kwalificatiestructuur-mijn.s-bb.nl
 https://kwaliteit.nba.nl
 https://kwaliteitsdashboard-koop.overheid.nl
+https://kwaliteitsregister.venvn.nl
 https://kwaliteitvanleven.pbl.nl
 https://kwalitijd.venvn.nl
 https://kwiv.rijksapplicaties.nl
@@ -7291,14 +7295,12 @@ https://laa.odc.pleio.nl
 https://laadinfrastructuur.databank.nl
 https://lab.globalise.huygens.knaw.nl
 https://lab.kb.nl
-https://lab.venvn.nl
 https://labelstudio.huc.knaw.nl
 https://labs.dans.knaw.nl
 https://labs.dst.cloud.kadaster.nl
 https://labs.dst.test.kadaster.nl
 https://labs.kadaster.nl
 https://labs.test.kadaster.nl
-https://labs.venvn.nl
 https://labvantage-acc.nvwa.nl
 https://lake-elsinore-downtown-revitilazation-arellano.hub.arcgis.com
 https://lamar-web-maps-warc.hub.arcgis.com
@@ -7710,6 +7712,7 @@ https://magazines.rijksoverheid.nl
 https://magazines.slo.nl
 https://magazines.socialestabiliteit.nl
 https://magazines.sso3w.nl
+https://magazines.venvn.nl
 https://magazines.werkenvoornederland.nl
 https://magazines.wrr.nl
 https://magazinesintern.rijksoverheid.nl
@@ -7860,6 +7863,7 @@ https://md-i.espacenet.com
 https://md.espacenet.com
 https://md.rechtspraak.nl
 https://mda.nioo.knaw.nl
+https://mdl.venvn.nl
 https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
@@ -7960,6 +7964,7 @@ https://mg.chm-cbd.net
 https://mgmt.aerius.nl
 https://mgt.flevoland.nl
 https://mgw.meertens.knaw.nl
+https://mgz.venvn.nl
 https://mh17.onderzoeksraad.nl
 https://mi-cert.nl
 https://micollab.cbs.nl
@@ -8058,7 +8063,9 @@ https://mijn.waarborg.nl
 https://mijn.waarderingskamer.nl
 https://mijn.zonmw.nl
 https://mijn.zorgaanbiedersportaal.nl
+https://mijn2.venvn.nl
 https://mijnacademie.rechtenoverheid.nl
+https://mijnacc.venvn.nl
 https://mijnacc2.venvn.nl
 https://mijnadministratie-acpt.brabant.nl
 https://mijnadministratie.brabant.nl
@@ -8071,6 +8078,7 @@ https://mijncn.nl
 https://mijncyberrijbewijs.nl
 https://mijndeelsite.odc.pleio.nl
 https://mijndeelsite.pleio.nl
+https://mijndev.venvn.nl
 https://mijndossier.schadedoormijnbouw.nl
 https://mijndouane.belastingdienst.nl
 https://mijneindexamen.nl
@@ -8987,6 +8995,7 @@ https://operationeel-waterschappen.lcms.nl
 https://opil.ouplaw.com.access.authkb.kb.nl
 https://opkopersregister.stopheling.nl
 https://opleider.ibki.nl
+https://opleiders.venvn.nl
 https://opleidersadministratie-acc.cbr.nl
 https://opleidersadministratie-tst.cbr.nl
 https://opleidersadministratie.cbr.nl
@@ -9958,6 +9967,7 @@ https://repository.wodc.nl
 https://republic.huygens.knaw.nl
 https://research.cbs.nl
 https://researcher.postcovidonderzoek.nl
+https://researchprofessionals.venvn.nl
 https://reserveren.deafsluitdijk.nl
 https://reset.reclassering.nl
 https://resolve.labs.dans.knaw.nl
@@ -9980,6 +9990,7 @@ https://resvooruit.evenement.ser.nl
 https://ret.databank.nl
 https://retro.meertens.knaw.nl
 https://return.ser.nl
+https://reumatologie.venvn.nl
 https://rev.emissieautoriteit.nl
 https://revelation.aerius.nl
 https://revi.incidentmanagement.nl
@@ -11570,6 +11581,7 @@ https://vaarweginformatie.nl
 https://vacatures.afm.nl
 https://vacatures.limburg.nl
 https://vacatures.odmh.nl
+https://vacatures.venvn.nl
 https://vacaturezoekservice-accept.werkenbijdeoverheid.nl
 https://vacaturezoekservice.mobiliteitsbank.nl
 https://vacaturezoekservice.werkenbijdeoverheid.nl
@@ -12148,6 +12160,7 @@ https://westbrabant.lerenenwerken.nl
 https://wetbeschermingklokkenluiders.nl
 https://wetenschap.venvn.nl
 https://wetenschapentechnologie.slo.nl
+https://wetenschapinpraktijk.venvn.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
 https://wetgevingskalender-acc.overheid.nl
@@ -12207,6 +12220,7 @@ https://wobi.staging.rijksapplicaties.nl
 https://wodc.nl
 https://wolf.cito.nl
 https://wolf.secure.cito.nl
+https://wondexpertise.venvn.nl
 https://wonen.databank.nl
 https://woo-dashboards.overheid.nl
 https://woo-formulier.rijksoverheid.nl
