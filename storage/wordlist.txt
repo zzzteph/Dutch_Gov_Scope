@@ -938,6 +938,7 @@ osiris
 pda
 test.mijn
 inspire
+jaarverslag2012
 lis
 prd-cms
 prd-www
@@ -14464,7 +14465,6 @@ ivbeheer
 ivi
 ivibeheer
 jaarverslag2010
-jaarverslag2012
 jaarverslag2013
 ka
 katv
@@ -17183,6 +17183,8 @@ mps8
 mps9
 surf
 thor
+Search-prod
+Search
 acc-correctie
 acc-corsa-cu
 acc-corsa-vvd
@@ -17193,6 +17195,7 @@ api.debatdirect
 apm-acc
 apm
 apps-ota
+attenderingen
 avgregister
 bewerktarchief
 bezoekers
@@ -17241,7 +17244,6 @@ ingest.acc.livedebat
 io.debatdirect
 join.videovergaderen
 kana
-klinkendetaal
 kva-acc
 kva-tst
 kva
@@ -17310,6 +17312,7 @@ viv
 wachtrij
 werkenbij.test
 woningcorporaties
+www.eunieuws
 www.onderzoek
 zaalreserveringen
 base

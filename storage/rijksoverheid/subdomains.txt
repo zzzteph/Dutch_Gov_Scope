@@ -812,6 +812,8 @@ RDSapplications07.svb.nl
 REXO.rdw.nl
 SFS-ACC.dictu.nl
 SFS.dictu.nl
+Search-prod.tweedekamer.nl
+Search.tweedekamer.nl
 Telewerken.rechtspraak.nl
 TvSimulator.rdw.nl
 V14.rws.nl
@@ -3470,6 +3472,7 @@ ats-intern.knaw.nl
 ats-test.knaw.nl
 ats.knaw.nl
 attachments.mail.onderzoeksraad.nl
+attenderingen.tweedekamer.nl
 atviri-duomenys-ltdata.hub.arcgis.com
 audit.keurmerk.nl
 auditdienstrijk.nl
@@ -10375,6 +10378,7 @@ jaarverslag2010.rdw.nl
 jaarverslag2011.forensischinstituut.nl
 jaarverslag2011.rdw.nl
 jaarverslag2012.rdw.nl
+jaarverslag2012.tweedekamer.nl
 jaarverslag2013.rdw.nl
 jaarverslag2014.platformwow.nl
 jaarverslag2014.rdw.nl
@@ -11203,7 +11207,6 @@ klimaatplatform-spanningopdenetten.evenement.ser.nl
 klimaatscenarios-data.knmi.nl
 klimaatweegschaal.voedingscentrum.nl
 klinieken.donorgegevens.nl
-klinkendetaal.tweedekamer.nl
 klk.rijksapplicaties.nl
 klk.staging.rijksapplicaties.nl
 kloeke.meertens.knaw.nl
@@ -22605,6 +22608,7 @@ www.eu-iotdevops.arcgis.com
 www.eu-iotqa.arcgis.com
 www.eucaris.net
 www.eumetcal.eu
+www.eunieuws.tweedekamer.nl
 www.eurlsalmonella.eu
 www.eurofawc.com
 www.europaomdehoek.nl

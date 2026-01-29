@@ -1,11 +1,14 @@
 http://apps.tweedekamer.nl
+http://debatgemist.beta.tweedekamer.nl
 http://mijn.tweedekamer.nl
+http://ontdek.test.tweedekamer.nl
 https://acc-corsa-cu.tweedekamer.nl
 https://acc-corsa-vvd.tweedekamer.nl
 https://acc.meldingenapp.tweedekamer.nl
 https://api.debatdirect.tweedekamer.nl
 https://apm-acc.tweedekamer.nl
 https://apm.tweedekamer.nl
+https://attenderingen.tweedekamer.nl
 https://avgregister.tweedekamer.nl
 https://bewerktarchief.tweedekamer.nl
 https://bezoekers.tweedekamer.nl
@@ -43,9 +46,9 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.test.tweedekamer.nl
 https://huisstijlsjablonen.tweedekamer.nl
 https://iam.tweedekamer.nl
+https://ingest.acc.livedebat.tweedekamer.nl
 https://io.debatdirect.tweedekamer.nl
 https://kana.tweedekamer.nl
-https://klinkendetaal.tweedekamer.nl
 https://kva-acc.tweedekamer.nl
 https://kva-tst.tweedekamer.nl
 https://kva.tweedekamer.nl
@@ -67,6 +70,7 @@ https://onderzoek.tweedekamer.nl
 https://ontdek.tweedekamer.nl
 https://openbare-tzr.tweedekamer.nl
 https://opendata-wiki.tweedekamer.nl
+https://opendata.acceptatie.tweedekamer.nl
 https://opendata.test.tweedekamer.nl
 https://opendata.tweedekamer.nl
 https://oracle-financials-acc.tweedekamer.nl

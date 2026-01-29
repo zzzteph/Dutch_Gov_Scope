@@ -360,6 +360,7 @@ http://datachallenge.nl
 http://dataset-search.resources.huygens.knaw.nl
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
+http://debatgemist.beta.tweedekamer.nl
 http://demo-ebc.databank.nl
 http://demo.vaultservice.dans.knaw.nl
 http://demo1-systemteam.overheid.nl
@@ -687,6 +688,7 @@ http://old.cea.nl
 http://old.visitaties.nl
 http://onderhoud.rdw.nl
 http://onderzoek.uwv.nl
+http://ontdek.test.tweedekamer.nl
 http://ontw.api-samenmeten.rivm.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://oos-p1.coa.nl
@@ -3016,6 +3018,7 @@ https://atriumgroep.databank.nl
 https://ats-intern.knaw.nl
 https://ats-test.knaw.nl
 https://ats.knaw.nl
+https://attenderingen.tweedekamer.nl
 https://atviri-duomenys-ltdata.hub.arcgis.com
 https://audit.keurmerk.nl
 https://auditdienstrijk.nl
@@ -6677,6 +6680,7 @@ https://ingelogd.acc.mijnslachtofferzaak.nl
 https://ingelogd.acc.staging.mijnslachtofferzaak.nl
 https://ingelogd.mijnslachtofferzaak.nl
 https://ingelogd.staging.mijnslachtofferzaak.nl
+https://ingest.acc.livedebat.tweedekamer.nl
 https://inhuur.vfpf.nl
 https://inhuurdeskpolitie.nl
 https://init-with-private-0.paper-spa.github.io
@@ -7204,7 +7208,6 @@ https://klimaatplatform-spanningopdenetten.evenement.ser.nl
 https://klimaatscenarios-data.knmi.nl
 https://klimaatweegschaal.voedingscentrum.nl
 https://klinieken.donorgegevens.nl
-https://klinkendetaal.tweedekamer.nl
 https://klk.rijksapplicaties.nl
 https://klk.staging.rijksapplicaties.nl
 https://kloeke.meertens.knaw.nl
@@ -8873,6 +8876,7 @@ https://opendata-tourcoingcarto.hub.arcgis.com
 https://opendata-townofchapelhill.hub.arcgis.com
 https://opendata-westspringfield.hub.arcgis.com
 https://opendata-wiki.tweedekamer.nl
+https://opendata.acceptatie.tweedekamer.nl
 https://opendata.acp.ondernemersplein.nl
 https://opendata.adviescommissievolkenrecht.nl
 https://opendata.advisorycommitteeinternationallaw.nl

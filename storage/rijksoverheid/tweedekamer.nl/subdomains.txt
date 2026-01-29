@@ -1,3 +1,5 @@
+Search-prod.tweedekamer.nl
+Search.tweedekamer.nl
 acc-correctie.tweedekamer.nl
 acc-corsa-cu.tweedekamer.nl
 acc-corsa-vvd.tweedekamer.nl
@@ -10,6 +12,7 @@ apm-acc.tweedekamer.nl
 apm.tweedekamer.nl
 apps-ota.tweedekamer.nl
 apps.tweedekamer.nl
+attenderingen.tweedekamer.nl
 autodiscover.tweedekamer.nl
 avgregister.tweedekamer.nl
 beta.tweedekamer.nl
@@ -62,10 +65,10 @@ huisstijlsjablonen.tweedekamer.nl
 iam.tweedekamer.nl
 ingest.acc.livedebat.tweedekamer.nl
 io.debatdirect.tweedekamer.nl
+jaarverslag2012.tweedekamer.nl
 jenkins.tweedekamer.nl
 join.videovergaderen.tweedekamer.nl
 kana.tweedekamer.nl
-klinkendetaal.tweedekamer.nl
 kva-acc.tweedekamer.nl
 kva-tst.tweedekamer.nl
 kva.tweedekamer.nl
@@ -150,6 +153,7 @@ werkenbij.acceptatie.tweedekamer.nl
 werkenbij.test.tweedekamer.nl
 werkenbij.tweedekamer.nl
 woningcorporaties.tweedekamer.nl
+www.eunieuws.tweedekamer.nl
 www.onderzoek.tweedekamer.nl
 www.tweedekamer.nl
 zaalreserveringen.tweedekamer.nl
