@@ -1422,6 +1422,7 @@ acc-int.mijn.overheid.nl
 acc-internationaal.ondernemen.overheid.nl
 acc-intranet.pbl.nl
 acc-isis-ar-rapportage.rivm.nl
+acc-jubit3.validatie.nl
 acc-kadata.ext.kadaster.nl
 acc-kadata.kadaster.nl
 acc-kadatabackend.ext.kadaster.nl
@@ -10499,6 +10500,7 @@ jsrut.kb.nl
 jsrut2.kb.nl
 jstor.org.access.authkb.kb.nl
 jubileum.evenement.ser.nl
+jubit3.validatie.nl
 jucies.github.io
 juno.cdfd.nl
 jupyter-almalinux.dgdoobi.rijkscloud.nl
