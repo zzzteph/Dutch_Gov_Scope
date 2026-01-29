@@ -2303,6 +2303,8 @@ adiwebinar5.evenement.ser.nl
 adkc.dopingautoriteit.nl
 adlib.rathenau.knaw.nl
 admin-acc.globalentry-rtp.nl
+admin-vfv-a.gait.uwv.nl
+admin-vfv.gait.uwv.nl
 admin.acc-sso.odc-noord.nl
 admin.atabase.gratisvog.nl
 admin.city.tno.nl
@@ -3786,6 +3788,7 @@ azfortigate.bkd.eu
 azgeo-data-hub-agic.hub.arcgis.com
 azgeo-open-data-agic.hub.arcgis.com
 azuredevops-accept.ba.uwv.nl
+azuredevops.ba.uwv.nl
 azwstatline.cbs.nl
 b-acc.asbestvolgsysteem.nl
 b-dc1-d001-lo10.tno.nl
@@ -6766,9 +6769,7 @@ digidex.rijksapplicaties.nl
 digidex.staging.rijksapplicaties.nl
 digidzakelijk.duo.nl
 digik.s-bb.nl
-digikoppeling-acceptatie.suwinet.uwv.nl
 digikoppeling-dcr.cibg.nl
-digikoppeling-productie.suwinet.uwv.nl
 digikoppeling-ted.nationaalarchief.nl
 digikoppeling-test.hdsr.nl
 digikoppeling.acm.nl
@@ -6790,7 +6791,6 @@ digikoppeling2.dictu.nl
 digikoppelingtest.odmh.nl
 digilab.overheid.nl
 digilegger.kadaster.nl
-diginet-sip.suwinet.uwv.nl
 diginetwerk.procesinfrastructuur.nl
 digip.vechtstromen.nl
 digiplein.reclassering.nl
@@ -8577,6 +8577,7 @@ ftp-migtest.knmi.nl
 ftp-p.ags.dictu.nl
 ftp-test01.knmi.nl
 ftp-voorziening-acc.uwv.nl
+ftp-voorziening-goh.uwv.nl
 ftp-voorziening.uwv.nl
 ftp.bedrijfscommissieoverheid.nl
 ftp.blauwegolfverbindend.nl
@@ -8651,7 +8652,6 @@ gaikonline.rdw.nl
 galerij.kb.nl
 galway-city-council-opendata-galwaycityco.hub.arcgis.com
 garima-ydv.github.io
-gast.wireless.uwv.nl
 gasten.acm.nl
 gatekeeper.nationaalarchief.nl
 gateway-acc.minienm.nl
@@ -10569,7 +10569,6 @@ justitieconnect.nl
 justitieel.venvn.nl
 justitieleictorganisatie.nl
 jv.nza.nl
-k3cr-productie.suwinet.uwv.nl
 k8s-cw.acm.nl
 k8s.acm.nl
 k8s.stopheling.nl
@@ -10949,8 +10948,6 @@ kb-client-252.kb.nl
 kb-client-253.kb.nl
 kb-client-254.kb.nl
 kb.nl
-kbs-integratietest.suwinet.uwv.nl
-kbs-productie.suwinet.uwv.nl
 kbvg.nl
 kc.ilent.nl
 kc31.dans.knaw.nl
@@ -14450,6 +14447,8 @@ oa.espacenet.com
 oai-harvester.labs.dans.knaw.nl
 oai-service.labs.dans.knaw.nl
 oaipmh.huygens.knaw.nl
+oam.a-dc.ba.uwv.nl
+oam.p-dc.ba.uwv.nl
 oap.ind.nl
 oat.acc.huc.knaw.nl
 oat.dev.huc.knaw.nl
@@ -15578,7 +15577,6 @@ personenimport.nwo.nl
 personenregisterkinderopvang.duo.nl
 persons.did.zandbak.dans.knaw.nl
 persoonlijkeregelingenassistent.pleio.nl
-perspectief.uwv.nl
 perszaken.rws.nl
 pesticidesdatabase.ctgb.nl
 pf1.slotcoordination.nl
@@ -15868,6 +15866,7 @@ portaal-acceptatie.rijkscloud.nl
 portaal-acceptatie.venvn.nl
 portaal-dev.afm.nl
 portaal-iuc-acceptatie.rijkscloud.nl
+portaal-o.hip.uwv.nl
 portaal-tst.afm.nl
 portaal.acc.belastingdienst.nl
 portaal.afm.nl
@@ -16558,6 +16557,7 @@ ps1.platformrijksoverheid.nl
 ps2.platformrijksoverheid.nl
 ps3.platformrijksoverheid.nl
 ps4.platformrijksoverheid.nl
+ps92app2-a.ba.uwv.nl
 psarchief.brabant.nl
 psb.cld.int.rdw.nl
 psb.cld.rdw.nl
@@ -18109,8 +18109,6 @@ services-hprm.minienm.nl
 services-hprm.minienw.nl
 services-mijn-test2.s-bb.nl
 services-preprod.ep-online.nl
-services-sip-acc.suwinet.uwv.nl
-services-sip-prod.suwinet.uwv.nl
 services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
 services.acm.nl
@@ -19988,7 +19986,6 @@ toegangslaag.rvig.nl
 toegangsociaaldomein.nl
 toegangspuntmobiliteit.nl
 toegangtotdeoverheid.nl
-toeganguwvomgeving.suwinet.uwv.nl
 toegankelijkheidsverklaring.nl
 toekomst.nba.nl
 toekomstgerichte-arbeidsverhoudingen.evenement.ser.nl
@@ -20504,6 +20501,7 @@ uwv-digikoppeling.suwinet.uwv.nl
 uwv.nl
 uwvnl-p.uwv.nl
 uwvsmtp05.uwv.nl
+uwvsmtp06.uwv.nl
 uzi.acc.brba.nl
 uzi.acc.federatieveservice.nl
 uzi.brba.nl
@@ -20770,6 +20768,8 @@ vfpf-blueriq-studio.vfpf.nl
 vfpf-blueriq-studio2.vfpf.nl
 vfpf.nl
 vfrchart.lvnl.nl
+vfv-a.gait.uwv.nl
+vfv.gait.uwv.nl
 vgc-acc.nvwa.nl
 vgc.nvwa.nl
 vglas-a.svb.nl
@@ -21213,6 +21213,7 @@ wba-acc.rvo.nl
 wba.rvo.nl
 wbp6.hhdelfland.nl
 wbs-accept.ba.uwv.nl
+wbs.ba.uwv.nl
 wbtv-test-mendix.rvr.org
 wbtv-test.rvr.org
 wbtv.rvr.org
@@ -21225,6 +21226,7 @@ wbtvspacc.rvr.org
 wbxbotserver.belastingdienst.nl
 wbxbottestserver.belastingdienst.nl
 wcf-eafspraak-acceptatie.ba.uwv.nl
+wcf-eafspraak.ba.uwv.nl
 wd-ont.belastingdienst.nl
 wd.belastingdienst.nl
 wd.ont.belastingdienst.nl
@@ -21610,7 +21612,6 @@ werkenvoor.zuid-holland.nl
 werkenvoorinternationaleorganisaties.nl
 werkenvoornederland.nl
 werkgever.ibki.nl
-werkgeversportaal-a.uwv.nl
 werkgeversscan.samenvoordeklant.nl
 werkplaats-acc.onslevendlandschap.nl
 werkplaats.onslevendlandschap.nl
@@ -21766,6 +21767,7 @@ wireframes.kcb.nl
 wireless-guest.rdw.nl
 wireless.nza.nl
 wireless.rgd.minbzk.nl
+wis-accept.uwv.nl
 wist-fpi.hhdelfland.nl
 wkotool.nl
 wkp.rws.nl
@@ -23410,6 +23412,7 @@ www.registersocialehygiene.nl
 www.registeruniformeloonwaarde.nl
 www.regulatoryscience.nl
 www.reintegratiebijdefensie.nl
+www.reintegratieverslag.uwv.nl
 www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
 www.rekenspel.slo.nl
