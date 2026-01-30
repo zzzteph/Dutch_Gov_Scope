@@ -226,6 +226,7 @@ http://autodiscover.test.knaw.nl
 http://autodiscover.vallei-veluwe.nl
 http://autodiscover.vechtstromen.nl
 http://autodiscover.venvn.nl
+http://autodiscover.vnsc.eu
 http://autodiscover.waarborg.nl
 http://autodiscover.webmail.politieacademie.nl
 http://autodiscover.zonmw.nl
@@ -741,6 +742,7 @@ http://preview.nias.knaw.nl
 http://private-docs.octodemo.github.io
 http://private-oink.dsp-testing.github.io
 http://privilege.huc.knaw.nl
+http://pro.vnsc.eu
 http://prod.flevoland.nl
 http://prod.rvo.nl
 http://production.status.chm-cbd.net
@@ -7711,6 +7713,7 @@ https://magazines.slo.nl
 https://magazines.socialestabiliteit.nl
 https://magazines.sso3w.nl
 https://magazines.venvn.nl
+https://magazines.vnsc.eu
 https://magazines.werkenvoornederland.nl
 https://magazines.wrr.nl
 https://magazinesintern.rijksoverheid.nl
@@ -9402,6 +9405,7 @@ https://portal.reclassering.nl
 https://portal.rijksdienstcn.com
 https://portal.risicotoolboxbodem.nl
 https://portal.skal.nl
+https://portal.vnsc.eu
 https://portal118.rijkscloud.nl
 https://portal2.formulierdus-i.nl
 https://portalco.formulierdus-i.nl
@@ -11746,6 +11750,7 @@ https://vm-ivra.ndw.nu
 https://vmbodoorstroom.databank.nl
 https://vnacs.nl
 https://vng.databank.nl
+https://vnsc.eu
 https://vo-rijk-acc.cjib.nl
 https://vocabs.cbs.nl
 https://vocbesatzungen.nationaalarchief.nl
@@ -13676,6 +13681,7 @@ https://www.visitaties.nl
 https://www.visserijinnovatienetwerk.nl
 https://www.vliegtuiggeluid.nl
 https://www.vnacs.nl
+https://www.vnsc.eu
 https://www.voedingscentrum.nl
 https://www.volksgezondheidenzorg.info
 https://www.volksgezondheidtoekomstverkenning.nl

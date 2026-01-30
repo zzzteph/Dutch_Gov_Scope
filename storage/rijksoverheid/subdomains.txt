@@ -3716,6 +3716,7 @@ autodiscover.vallei-veluwe.nl
 autodiscover.vechtstromen.nl
 autodiscover.venvn.nl
 autodiscover.via15.nl
+autodiscover.vnsc.eu
 autodiscover.waarborg.nl
 autodiscover.waarderingskamer.nl
 autodiscover.webmail.politieacademie.nl
@@ -12187,6 +12188,7 @@ magazines.slo.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
 magazines.venvn.nl
+magazines.vnsc.eu
 magazines.vrachtwagenheffing.nl
 magazines.werkenvoornederland.nl
 magazines.wrr.nl
@@ -12349,6 +12351,7 @@ mail.veiligheidsregioflevoland.nl
 mail.venvn.nl
 mail.visinhetho.nl
 mail.vno.minbzk.nl
+mail.vnsc.eu
 mail.waterschaplimburg.nl
 mail.werkcentrumregioamersfoort.nl
 mail.werkenaanjouwtoekomst.nl
@@ -15972,6 +15975,7 @@ portal.skal.nl
 portal.test.datascience.rijkscloud.nl
 portal.test.ggdcontact.irealisatie.nl
 portal.test.ix.rijkscloud.nl
+portal.vnsc.eu
 portal.workspace.kadaster.nl
 portal117.rijkscloud.nl
 portal118.rijkscloud.nl
@@ -16234,6 +16238,7 @@ pro.arcgis.com
 pro.document-viewer-api.dso.kadaster.nl
 pro.geodoc.dso.kadaster.nl
 pro.ozon.dso.kadaster.nl
+pro.vnsc.eu
 proastweb.rivm.nl
 probeer.acm.nl
 probeer.ihw.nl
@@ -16477,6 +16482,7 @@ programmaplan-test.vm-02.azure.grid.rws.nl
 programmaplan.vm-02.azure.grid.rws.nl
 programmavivet.nl
 programmeringsraadlogius.pleio.nl
+programs.vnsc.eu
 prohibit.osiris.rivm.nl
 project.cultuurparticipatie.nl
 projecta44.nl
@@ -20913,6 +20919,7 @@ vnacs.nl
 vng.databank.nl
 vno.minbzk.nl
 vnp.minbzk.nl
+vnsc.eu
 vnw.minbzk.nl
 vo-rijk-acc.cjib.nl
 vocabs.cbs.nl
@@ -23784,6 +23791,7 @@ www.visitaties.nl
 www.visserijinnovatienetwerk.nl
 www.vliegtuiggeluid.nl
 www.vnacs.nl
+www.vnsc.eu
 www.voedingscentrum.nl
 www.vog.venvn.nl
 www.volksgezondheidenzorg.info
