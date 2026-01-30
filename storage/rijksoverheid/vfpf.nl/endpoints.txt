@@ -1,4 +1,3 @@
-http://intranet-acc.vfpf.nl
 https://cms.vfpf.nl
 https://content.vfpf.nl
 https://dcm-acc.vfpf.nl
@@ -6,6 +5,8 @@ https://dcm-dev.vfpf.nl
 https://dcm-tst.vfpf.nl
 https://dcm.vfpf.nl
 https://inhuur.vfpf.nl
+https://intranet-acc.vfpf.nl
+https://intranet-test.vfpf.nl
 https://intranet.vfpf.nl
 https://intranetcms-acc.vfpf.nl
 https://intranetcms.vfpf.nl

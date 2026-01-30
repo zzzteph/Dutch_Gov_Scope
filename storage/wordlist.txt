@@ -954,6 +954,7 @@ archief-acc
 informatie
 acc-api
 politie
+intranet-test
 platform
 map
 accept-cm
@@ -16214,7 +16215,6 @@ hbo-portaal-stagefonds-acc
 hbo-portaal-stagefonds-ontw
 hbo-portaal-stagefonds-test
 hbo-portaal-stagefonds
-intranet-test
 ketens-mijn
 koppeling
 ksmo

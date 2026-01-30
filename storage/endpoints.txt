@@ -515,7 +515,6 @@ http://int-prod-01.flevoland.nl
 http://interedition.huygens.knaw.nl
 http://intern.afm.nl
 http://interneurons.nin.knaw.nl
-http://intranet-acc.vfpf.nl
 http://intranet.ctgb.nl
 http://inzage.hansken.org
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
@@ -6783,9 +6782,11 @@ https://intra.slo.nl
 https://intrana.odc.pleio.nl
 https://intranet-acc.nwo.nl
 https://intranet-acc.rvr.org
+https://intranet-acc.vfpf.nl
 https://intranet-bestanden.flevoland.nl
 https://intranet-demo.dictu.nl
 https://intranet-test.s-bb.nl
+https://intranet-test.vfpf.nl
 https://intranet.ad.hdsr.nl
 https://intranet.ciz.nl
 https://intranet.cultureelerfgoed.nl
