@@ -858,6 +858,7 @@ http://staging.halt.nl
 http://staging.huygens.knaw.nl
 http://staging.ontdekdezorg.nl
 http://staging.opwegnaarzes.nl
+http://staging.webshop.voedingscentrum.nl
 http://start-here.near-dimension.github.io
 http://start.acc.dusi.irealisatie.nl
 http://start.test.dusi.irealisatie.nl
@@ -2721,7 +2722,6 @@ https://api.ix.rijkscloud.nl
 https://api.jeugdconnect.nl
 https://api.kadaster.nl
 https://api.kantinescan.voedingscentrum.nl
-https://api.kantinescanacc.voedingscentrum.nl
 https://api.klic.acceptatie.kadaster.nl
 https://api.klic.kadaster.nl
 https://api.klic.test.kadaster.nl
@@ -7037,7 +7037,6 @@ https://kansrijkestartnl.nl
 https://kansspelautoriteit.nl
 https://kantine.voedingscentrum.nl
 https://kantinescan.voedingscentrum.nl
-https://kantinescanacc.voedingscentrum.nl
 https://kantinescanrgk.voedingscentrum.nl
 https://kantonjournaal.rechtspraak.nl
 https://kantoor.hdsr.nl
@@ -8190,6 +8189,7 @@ https://mnd.overheid.nl
 https://mobiel.hogeraad.nl
 https://mobiel.voedingscentrum.nl
 https://mobielgsk.voedingscentrum.nl
+https://mobielkantine.voedingscentrum.nl
 https://mobile-login-acc.uwv.nl
 https://mobile-services.uwv.nl
 https://mobile.lvnl.nl
@@ -10715,7 +10715,6 @@ https://staging.staatvandeuitvoering.nl
 https://staging.vananaarbeter.nl
 https://staging.visitaties.nl
 https://staging.waarzitwatin.nl
-https://staging.webshop.voedingscentrum.nl
 https://staging.werkenbij.kvk.nl
 https://stakeholdersregistratie.rijksapplicaties.nl
 https://stakeholdersregistratie.staging.rijksapplicaties.nl
@@ -12965,7 +12964,6 @@ https://www.kamervoordebinnenvisserij.nl
 https://www.kansrijkestartnl.nl
 https://www.kansspelautoriteit.nl
 https://www.kantinescan.voedingscentrum.nl
-https://www.kantinescanacc.voedingscentrum.nl
 https://www.kantinescanrgk.voedingscentrum.nl
 https://www.kb.nl
 https://www.kbvg.nl

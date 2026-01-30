@@ -2939,6 +2939,7 @@ api.kadaster.nl
 api.kansspelautoriteit.nl
 api.kantinescan.voedingscentrum.nl
 api.kantinescanacc.voedingscentrum.nl
+api.kantinescanrgk.voedingscentrum.nl
 api.kcc.cibg.nl
 api.kkg.kadaster.nl
 api.klic.acceptatie.kadaster.nl
@@ -8659,6 +8660,7 @@ gaf.nationaalarchief.nl
 gaikonline.rdw.nl
 galerij.kb.nl
 galway-city-council-opendata-galwaycityco.hub.arcgis.com
+games.voedingscentrum.nl
 garima-ydv.github.io
 gasten.acm.nl
 gatekeeper.nationaalarchief.nl
@@ -13261,6 +13263,7 @@ mobiel1.acc.toeslagen.nl
 mobiel2-test.ows2.politie.nl
 mobiel2-test.politie.nl
 mobielgsk.voedingscentrum.nl
+mobielkantine.voedingscentrum.nl
 mobile-login-acc.uwv.nl
 mobile-login.uwv.nl
 mobile-services-acc.uwv.nl
@@ -18478,6 +18481,7 @@ smtp.rws.nl
 smtp.syn.rijksapplicaties.nl
 smtp.tmv.rvig.nl
 smtp.vechtstromen.nl
+smtp.voedingscentrum.nl
 smtp.waterschaplimburg.nl
 smtp.wijzijndus-i.nl
 smtp02.minszw.nl
@@ -20790,6 +20794,7 @@ verzorgenden.venvn.nl
 verzorgingsplaats.ndw.nu
 veterinairberoepscollege.nl
 veterinairtuchtcollege.nl
+vettefoodfight.voedingscentrum.nl
 veva.nl
 vfbackend.acc.vfpf.nl
 vfbackend.vfpf.nl
@@ -21440,6 +21445,7 @@ webmail.summercourt.nl
 webmail.test.rivm.nl
 webmail.tib-ivd.nl
 webmail.visitaties.nl
+webmail.voedingscentrum.nl
 webmail.werkenbijdefensie.nl
 webmail.werkenvoornederland.nl
 webmail1.politieacademie.nl
@@ -23186,6 +23192,7 @@ www.new.one-conference.nl
 www.nidos.nl
 www.nieuwesluisterneuzen.eu
 www.nieuwsbrief.examenblad.nl
+www.nieuwsbrief.voedingscentrum.nl
 www.nieuwsbriefrechtspraak.nl
 www.nieuwsbrievenminocw.nl
 www.nieuwsenkennisportaalbzk.nl
@@ -24093,6 +24100,7 @@ zml.cito.nl
 zoek-acc.officielebekendmakingen.nl
 zoek-preprod.officielebekendmakingen.nl
 zoek.officielebekendmakingen.nl
+zoek.voedingscentrum.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl
 zoekeentolkvertaler.bureauwbtv.nl

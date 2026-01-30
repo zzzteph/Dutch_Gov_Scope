@@ -28,9 +28,9 @@ a-opendata
 e
 a-feeds
 portal
+smtp
 formulieren
 apps
-smtp
 werkplek
 redactie
 dev
@@ -568,6 +568,7 @@ signing
 webservice-acc
 www3
 piwik
+www.nieuwsbrief
 cms-acc
 edocstest
 ftps
@@ -918,6 +919,7 @@ acct
 ict
 beeld
 ntp
+zoek
 class
 selfservice
 minvws
@@ -2562,7 +2564,6 @@ www2.acc1
 www2.acc1.webapplicaties
 piwik2
 syllabi
-www.nieuwsbrief
 cms-ac
 cms-dev
 cms-ow
@@ -13410,7 +13411,6 @@ web03-nabs
 www-preprod
 zoek-acc
 zoek-preprod
-zoek
 acc-klas
 keten.sophie
 klas
@@ -17558,6 +17558,7 @@ programs
 api-recepten
 api.kantinescan
 api.kantinescanacc
+api.kantinescanrgk
 api2-mijn
 api3-mijn
 consumenten
@@ -17566,6 +17567,7 @@ eetmeter
 eetomgeving
 eettest
 eetwisselspel
+games
 geheugensteuntje
 gezondeschoolkantine
 gezondgroeien
@@ -17576,12 +17578,14 @@ kantinescanacc
 kantinescanrgk
 klimaatweegschaal
 mobielgsk
+mobielkantine
 nb
 recepten
 schijfvanvijf
 staging.webshop
 static-mijn
 sv5
+vettefoodfight
 webshopprof
 werkenbijhet
 www.kantinescan
