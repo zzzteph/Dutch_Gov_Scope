@@ -3122,6 +3122,7 @@ https://autoriteitnvs.nl
 https://autoriteitnvs.sitearchief.nl
 https://autoriteitpersoonsgegevens.nl
 https://autorization.entreepgb.svb.nl
+https://avans.webgispublisher.nl
 https://avd.datasluis.dictu.nl
 https://avg.pleio.nl
 https://avghelpdeskzorg.nl
@@ -3429,6 +3430,7 @@ https://beta.machtigen.digid.nl
 https://beta.nmgn.huygens.knaw.nl
 https://beta.politieenwetenschap.nl
 https://beta.ssr.nl
+https://beta4.webgispublisher.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
 https://betalen.pzp.nl
@@ -3577,6 +3579,7 @@ https://bodemontwikkelgroep.pleio.nl
 https://bodemrapportage.flevoland.nl
 https://bodemrichtlijn.nl
 https://bodemvizier.nl
+https://bodk.webgispublisher.nl
 https://boekenprijs.cvdm.nl
 https://boekingszuil.logerenbijdeboswachter.nl
 https://boem-metaport-boem.hub.arcgis.com
@@ -3614,6 +3617,7 @@ https://bra.rijksapplicaties.nl
 https://bra.staging.rijksapplicaties.nl
 https://brabant.databank.nl
 https://brabant.nl
+https://brabantsedelta.webgispublisher.nl
 https://braic.nl
 https://brainps.brabant.nl
 https://brains-acc.brabant.nl
@@ -3679,6 +3683,7 @@ https://btx311-bur.hub.arcgis.com
 https://bu.politie.nl
 https://budget-de-la-gente-cotgis.hub.arcgis.com
 https://budgy.ndw.nu
+https://buha.webgispublisher.nl
 https://building-inspection-pictoucounty.hub.arcgis.com
 https://buitenlevenvakanties.nl
 https://buitenplaatselswout.nl
@@ -4599,6 +4604,7 @@ https://dcm-tst.vfpf.nl
 https://dcm.vfpf.nl
 https://dcmp-upnl-idp.rvo.nl
 https://dcmr.databank.nl
+https://dcmr.webgispublisher.nl
 https://dcp-time-slot.cbg-meb.nl
 https://dcp.huc.knaw.nl
 https://dcypher.nl
@@ -4658,6 +4664,7 @@ https://demo.sensorenregister.test.cloud.kadaster.nl
 https://demo.test.chm-cbd.net
 https://demo.vmbodoorstroom.databank.nl
 https://demo.vorijk.nl
+https://demo.webgispublisher.nl
 https://demo15.huygens.knaw.nl
 https://demodaystartupinresidenceii.minjenv-events.nl
 https://demographics1.arcgis.com
@@ -4982,6 +4989,7 @@ https://domain-admin.rechtenoverheid.nl
 https://domeinen-prd.cloudservices.kb.nl
 https://domeinen.kb.nl
 https://domeinenrz.nl
+https://dommel.webgispublisher.nl
 https://donation.wi.knaw.nl
 https://donorgegevens.nl
 https://donorregister.nl
@@ -6062,6 +6070,7 @@ https://geodocs.odmh.nl
 https://geoenrich.arcgis.com
 https://geoenrichdev.arcgis.com
 https://geoforum.nl
+https://geofox.webgispublisher.nl
 https://geohub-cadhcs.hub.arcgis.com
 https://geojson-converter.ndw.nu
 https://geoplanner.arcgis.com
@@ -6073,6 +6082,9 @@ https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
 https://georegister.brabant.nl
 https://georegister.flevoland.nl
+https://geoserver-almereinkaart.webgispublisher.nl
+https://geoserver-dcmr-haven.webgispublisher.nl
+https://geoserver-gemeenten.webgispublisher.nl
 https://geoserver.atlas.webgispublisher.nl
 https://geoserver.brabantsedelta.webgispublisher.nl
 https://geoserver.cbs.nl
@@ -6083,6 +6095,8 @@ https://geoserver.hdsr.webgispublisher.nl
 https://geoserver.hhnk.webgispublisher.nl
 https://geoserver.limburg.nl
 https://geoserver.productie.webgispublisher.nl
+https://geoserver.wsrl.webgispublisher.nl
+https://geoserver.wvv.webgispublisher.nl
 https://geoservices.cbs.nl
 https://geoservices.cultureelerfgoed.nl
 https://geoservices.hdsr.nl
@@ -6194,6 +6208,7 @@ https://globiowebapi.globio.info
 https://glp.chadwyck.co.uk.access.authkb.kb.nl
 https://gma.cloud.kadaster.nl
 https://gma.test.cloud.kadaster.nl
+https://gmb-mobiel.webgispublisher.nl
 https://gn.chm-cbd.net
 https://gn.test.chm-cbd.net
 https://gn2.meet.rijkscloud.nl
@@ -6388,6 +6403,7 @@ https://hetverhaalvan.flevoland.nl
 https://heyteach.wgu-edu.github.io
 https://hgr.rechtspraak.nl
 https://hhdelfland.nl
+https://hhnk-acceptatie.webgispublisher.nl
 https://hhnk.webgispublisher.nl
 https://hi14hingtest.huygens.knaw.nl
 https://hi2.huygens.knaw.nl
@@ -6434,6 +6450,7 @@ https://houdmisdaaduitjebuurt.nl
 https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.nl
 https://houseofrepresentatives.test.tweedekamer.nl
+https://houten.webgispublisher.nl
 https://hp-01.huc.knaw.nl
 https://hp-02.huc.knaw.nl
 https://hpb.cerl.org.access.authkb.kb.nl
@@ -7027,6 +7044,7 @@ https://kadans.test.cloud.kadaster.nl
 https://kadaster.com
 https://kadaster.kbvg.nl
 https://kadaster.sitearchief.nl
+https://kadaster.webgispublisher.nl
 https://kaiachain.github.io
 https://kamerindeklas.nl
 https://kamervoordebinnenvisserij.nl
@@ -7821,6 +7839,7 @@ https://maps.rijkswaterstaat.nl
 https://maps.rws.nl
 https://maps.staging.ndw.nu
 https://maps.waterschaplimburg.nl
+https://maps.webgispublisher.nl
 https://mapserver.fa.knaw.nl
 https://mapservices.pbl.nl
 https://marcwalsh.github.io
@@ -8697,6 +8716,7 @@ https://ocwincijfers.nl
 https://odata.cbs.nl
 https://odb.belastingdienst.nl
 https://odb.huc.knaw.nl
+https://odbn.webgispublisher.nl
 https://odc-noord.nl
 https://odc.functiegebouwrijksoverheid.nl
 https://odc.mobiliteitsbank.nl
@@ -9572,6 +9592,7 @@ https://producten.lees-rijk.nl
 https://productenmeldwijzer.nl
 https://productie-nieuw.bidbook.eu
 https://productie-nieuw.biedboek.nl
+https://productie.webgispublisher.nl
 https://production-new.nba.nl
 https://production-pe.nba.nl
 https://production.cea.nl
@@ -10054,6 +10075,7 @@ https://rijkswaterstaatstrooit.nl
 https://rijkvannijmegen.leerwerkloket.nl
 https://rijkvannijmegen.lerenenwerken.nl
 https://rijmspreuken.huygens.knaw.nl
+https://rijnland.webgispublisher.nl
 https://rijnmond.leerwerkloket.nl
 https://rijnmond.lerenenwerken.nl
 https://rijnstraat8.odc.pleio.nl
@@ -10094,6 +10116,7 @@ https://rob2000.rijkscloud.nl
 https://rocket.odc.pleio.nl
 https://roljournaalhandelgerechtshoven.rechtspraak.nl
 https://roljournaalhandelrechtbanken.rechtspraak.nl
+https://rom3d.webgispublisher.nl
 https://ron-proxy.pleio.nl
 https://rooswijk.huygens.knaw.nl
 https://rop.caop.nl
@@ -11268,6 +11291,7 @@ https://thinkwiseprovisioning.cito.nl
 https://thuisbezorgd.mijnrijkspas.nl
 https://thuiswerken.filmfonds.nl
 https://tib-ivd.nl
+https://tiel.webgispublisher.nl
 https://tijdlijnencovid19.rivm.nl
 https://tijdschrijven.caop.nl
 https://tiledimageservices.arcgis.com
@@ -11901,10 +11925,12 @@ https://water-amerigeoss.opendata.arcgis.com
 https://water.platformwow.nl
 https://waterkwaliteitinbeeld.hdsr.nl
 https://waterkwaliteitsportaal.nl
+https://waterliniemuseum.webgispublisher.nl
 https://watermark-prd.cloudservices.kb.nl
 https://watermark.kb.nl
 https://watermerk.hdsr.nl
 https://waterschaplimburg.nl
+https://waterschapservices.webgispublisher.nl
 https://watertoetsportaal-a.hhdelfland.nl
 https://watertoetsportaal.hhdelfland.nl
 https://waterveiligheidsportaal.nl
@@ -12173,6 +12199,8 @@ https://wetten.rvo.nl
 https://wfm.dev.huc.knaw.nl
 https://wfs-interactie.pleio.nl
 https://wfs.pleio.nl
+https://wgp5-acceptatie.webgispublisher.nl
+https://wgp5-test.webgispublisher.nl
 https://wgu-common.wgu-edu.github.io
 https://wgu-labs-content.wgu-edu.github.io
 https://wguid-sdk.wgu-edu.github.io

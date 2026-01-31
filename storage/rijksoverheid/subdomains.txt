@@ -3756,6 +3756,7 @@ av.kvk.nl
 av.lbio.nl
 av1.nba.nl
 av2.kvk.nl
+avans.webgispublisher.nl
 avb.rvo.nl
 avd.datasluis.dictu.nl
 avg.pleio.nl
@@ -4282,6 +4283,7 @@ beta.ssr.nl
 beta.tweedekamer.nl
 beta.whofic.nl
 beta.workforce.arcgis.com
+beta4.webgispublisher.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
 betalen-cnf.belastingdienst.nl
@@ -4517,6 +4519,7 @@ bodemontwikkelgroep.pleio.nl
 bodemrapportage.flevoland.nl
 bodemrichtlijn.nl
 bodemvizier.nl
+bodk.webgispublisher.nl
 boedelbank.meertens.knaw.nl
 boekenprijs.cvdm.nl
 boekingszuil.logerenbijdeboswachter.nl
@@ -4570,6 +4573,7 @@ bra.staging.rijksapplicaties.nl
 brabant.databank.nl
 brabant.nl
 brabantapps.brabant.nl
+brabantsedelta.webgispublisher.nl
 braic.nl
 brain-acpt.brabant.nl
 brain-ontw.brabant.nl
@@ -4687,6 +4691,7 @@ btx311-bur.hub.arcgis.com
 bu.politie.nl
 budget-de-la-gente-cotgis.hub.arcgis.com
 budgy.ndw.nu
+buha.webgispublisher.nl
 building-inspection-pictoucounty.hub.arcgis.com
 buitenlevenvakanties.nl
 buitenplaatselswout.nl
@@ -6322,6 +6327,7 @@ dcm.vfpf.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
 dcmr.databank.nl
+dcmr.webgispublisher.nl
 dcp-time-slot.cbg-meb.nl
 dcp.huc.knaw.nl
 dcpp.ssc-ict.nl
@@ -6417,6 +6423,7 @@ demo.vaultservice.dans.knaw.nl
 demo.viewer.dso.kadaster.nl
 demo.vmbodoorstroom.databank.nl
 demo.vorijk.nl
+demo.webgispublisher.nl
 demo1-systemteam.overheid.nl
 demo1.tst.federatieveservice.nl
 demo15.huygens.knaw.nl
@@ -7015,6 +7022,7 @@ domeinen.kb.nl
 domeinenrz.nl
 domeinnaamregistratie.rijksoverheid.nl
 domeintabellen-idsw.rws.nl
+dommel.webgispublisher.nl
 domorganisatieservicesocsp-g3.pkioverheid.nl
 donation.wi.knaw.nl
 doncker.huygens.knaw.nl
@@ -8880,6 +8888,7 @@ geodocs.odmh.nl
 geoenrich.arcgis.com
 geoenrichdev.arcgis.com
 geoforum.nl
+geofox.webgispublisher.nl
 geohub-cadhcs.hub.arcgis.com
 geojson-converter.ndw.nu
 geoplanner.arcgis.com
@@ -8896,6 +8905,9 @@ geoportal.aaenmaas.nl
 georegister-intern.flevoland.nl
 georegister.brabant.nl
 georegister.flevoland.nl
+geoserver-almereinkaart.webgispublisher.nl
+geoserver-dcmr-haven.webgispublisher.nl
+geoserver-gemeenten.webgispublisher.nl
 geoserver.atlas.webgispublisher.nl
 geoserver.brabant.nl
 geoserver.brabantsedelta.webgispublisher.nl
@@ -8907,6 +8919,8 @@ geoserver.hdsr.webgispublisher.nl
 geoserver.hhnk.webgispublisher.nl
 geoserver.limburg.nl
 geoserver.productie.webgispublisher.nl
+geoserver.wsrl.webgispublisher.nl
+geoserver.wvv.webgispublisher.nl
 geoservertest.brabant.nl
 geoservices.cbs.nl
 geoservices.cultureelerfgoed.nl
@@ -9133,6 +9147,7 @@ gma.cloud.kadaster.nl
 gma.kadaster.nl
 gma.test.cloud.kadaster.nl
 gma.test.kadaster.nl
+gmb-mobiel.webgispublisher.nl
 gms-test.lcms.nl
 gn.chm-cbd.net
 gn.test.chm-cbd.net
@@ -9478,6 +9493,7 @@ heyteach.wgu-edu.github.io
 hg.fa.knaw.nl
 hgr.rechtspraak.nl
 hhdelfland.nl
+hhnk-acceptatie.webgispublisher.nl
 hhnk.webgispublisher.nl
 hi1.huygens.knaw.nl
 hi10.huygens.knaw.nl
@@ -9560,6 +9576,7 @@ hours.atabase.gratisvog.nl
 houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.nl
 houseofrepresentatives.test.tweedekamer.nl
+houten.webgispublisher.nl
 hp-01.huc.knaw.nl
 hp-02.huc.knaw.nl
 hp-03.huc.knaw.nl
@@ -10662,6 +10679,7 @@ kadaster.com
 kadaster.kbvg.nl
 kadaster.nl
 kadaster.sitearchief.nl
+kadaster.webgispublisher.nl
 kadata.kadaster.nl
 kadatawebservice.kadaster.nl
 kadatawebservices.acceptatie.kadaster.nl
@@ -12499,6 +12517,7 @@ maps.rivm.nl
 maps.rws.nl
 maps.staging.ndw.nu
 maps.waterschaplimburg.nl
+maps.webgispublisher.nl
 mapsdevext.arcgis.com
 mapserver.fa.knaw.nl
 mapserver.huc.knaw.nl
@@ -14526,6 +14545,7 @@ odb-api.huc.knaw.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 odb.huc.knaw.nl
+odbn.webgispublisher.nl
 odc-noord.nl
 odc-noord.rijkscloud.nl
 odc.functiegebouwrijksoverheid.nl
@@ -16445,6 +16465,7 @@ productie.loketgezondleven.nl
 productie.metspoedbeschikbaar.nl
 productie.rivm.nl
 productie.sodm.nl
+productie.webgispublisher.nl
 production-new.nba.nl
 production-pe.nba.nl
 production.cea.nl
@@ -17359,6 +17380,7 @@ rijksweb.digikoppeling.diginetwerk.dictu.nl
 rijkvannijmegen.leerwerkloket.nl
 rijkvannijmegen.lerenenwerken.nl
 rijmspreuken.huygens.knaw.nl
+rijnland.webgispublisher.nl
 rijnmond.leerwerkloket.nl
 rijnmond.lerenenwerken.nl
 rijnmond.politie.nl
@@ -17420,6 +17442,7 @@ rocket.odc.pleio.nl
 rockleigh.samenbouwenaanbereikbaarheid.nl
 roljournaalhandelgerechtshoven.rechtspraak.nl
 roljournaalhandelrechtbanken.rechtspraak.nl
+rom3d.webgispublisher.nl
 romanvanwalewein.huygens.knaw.nl
 ron-proxy.pleio.nl
 roomreservation.belastingdienst.nl
@@ -19958,6 +19981,7 @@ tib.dataplatform.knmi.nl
 tickets.bdmuseum.nl
 tickets.kb.nl
 tickets.wachtrijbooster.nl
+tiel.webgispublisher.nl
 tijdelijkdocumentnummeraanvragen.rdw.nl
 tijdlijnencovid19.rivm.nl
 tijdschrijven.caop.nl
@@ -21227,10 +21251,12 @@ waterbeschikbaarheid.nl
 watergegevens.rijkswaterstaat.nl
 waterkwaliteitinbeeld.hdsr.nl
 waterkwaliteitsportaal.nl
+waterliniemuseum.webgispublisher.nl
 watermark-prd.cloudservices.kb.nl
 watermark.kb.nl
 watermerk.hdsr.nl
 waterschaplimburg.nl
+waterschapservices.webgispublisher.nl
 watertoetsportaal-a.hhdelfland.nl
 watertoetsportaal.hhdelfland.nl
 waterveiligheidsportaal.nl
@@ -21713,6 +21739,8 @@ wgcdev.arcgis.com
 wgcdeva.arcgis.com
 wgo-test.rivm.nl
 wgos.rivm.nl
+wgp5-acceptatie.webgispublisher.nl
+wgp5-test.webgispublisher.nl
 wgu-common.wgu-edu.github.io
 wgu-labs-content.wgu-edu.github.io
 wgu-labs.wgu-edu.github.io

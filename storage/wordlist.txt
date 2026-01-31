@@ -68,6 +68,7 @@ opendata.english
 open
 accept
 mail2
+maps
 enterpriseregistration
 ns2
 beeldbank
@@ -77,7 +78,6 @@ inloggen
 lyncdiscover
 www.test
 webdisk
-maps
 fs
 mta-sts
 old
@@ -94,6 +94,7 @@ stats
 preview
 media
 beta
+demo
 geo
 kennis
 mailing
@@ -115,7 +116,6 @@ papiamentu
 enterpriseenrollment
 acceptatie.beheer
 acceptatie.mijn
-demo
 designsystem
 onderhoud
 developer
@@ -212,6 +212,7 @@ zakelijk
 geoweb
 nieuwsbrieven
 wiki
+productie
 leren
 iam
 transfer
@@ -272,7 +273,6 @@ sbc01
 extranet
 acc2
 vacatures
-productie
 intern
 new
 analytics
@@ -447,6 +447,7 @@ mijnzaak
 2020
 api.acceptatie
 mft
+kadaster
 prisma
 account
 ns
@@ -795,6 +796,7 @@ afas
 ldap
 regio
 ciz
+dcmr
 friesland
 gip
 inspectie-oe
@@ -842,7 +844,6 @@ pulse
 www.stats
 www.sts
 lab
-kadaster
 ldaps
 autodiscover.test
 backoffice
@@ -7687,7 +7688,6 @@ cname-zeelandscan
 crow
 crowlogin
 cvo
-dcmr
 demo-ebc
 demo-veiligheidsmonitor
 demo-vgm
@@ -17615,7 +17615,17 @@ idsrvacc
 idsrvtest
 almereinkaart-acceptatie
 almereinkaart
+avans
+beta4
+bodk
+brabantsedelta
+buha
 dev.wgp5
+dommel
+geofox
+geoserver-almereinkaart
+geoserver-dcmr-haven
+geoserver-gemeenten
 geoserver.atlas
 geoserver.brabantsedelta
 geoserver.dcmr
@@ -17624,9 +17634,22 @@ geoserver.fugro
 geoserver.hdsr
 geoserver.hhnk
 geoserver.productie
+geoserver.wsrl
+geoserver.wvv
+gmb-mobiel
 hdsr
+hhnk-acceptatie
 hhnk
+houten
+odbn
 rce
+rijnland
+rom3d
+tiel
+waterliniemuseum
+waterschapservices
+wgp5-acceptatie
+wgp5-test
 mapitout
 digid-a
 digid
