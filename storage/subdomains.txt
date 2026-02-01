@@ -1728,6 +1728,7 @@ acc.web-static.rijkswaterstaat.nl
 acc.webtooliso20400.nl
 acc.wegwijzer.overheid.nl
 acc.werkenbij.api.rijkswaterstaat.nl
+acc.werkplaatsvoorlandbouwennatuur.nl
 acc.wlo2015.nl
 acc.wlo2025.nl
 acc.woo.irealisatie.nl
@@ -19854,6 +19855,7 @@ test.waterkwaliteitsportaal.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
 test.webservices.donorregister.nl
+test.werkplaatsvoorlandbouwennatuur.nl
 test.woo.irealisatie.nl
 test.www.coa.nl
 test.www.mycoa.nl
