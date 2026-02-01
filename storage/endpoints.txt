@@ -582,7 +582,6 @@ http://mail.infowms.nl
 http://mail.naarnederland.nl
 http://mail.nba.nl
 http://mail.rivierklimaatpark.nl
-http://mail.werkenbijdefensie.nl
 http://mailing.halt.nl
 http://managementapi.vragenlijst.rivm.nl
 http://map.test.cloud.kadaster.nl
@@ -2370,7 +2369,6 @@ https://admin.sso.odc-noord.nl
 https://admin.tbadmin.dev.kvk.nl
 https://admin.tbadmin.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
-https://admin.webmail.werkenbijdefensie.nl
 https://adminer.wordpress.dans.knaw.nl
 https://administratie-a.cito.nl
 https://administratie-o.cito.nl
@@ -7791,6 +7789,7 @@ https://mail.visinhetho.nl
 https://mail.waterschaplimburg.nl
 https://mail.werkcentrumregioamersfoort.nl
 https://mail.werkenaanjouwtoekomst.nl
+https://mail.werkenbijdefensie.nl
 https://mail.wijzijndus-i.nl
 https://mail.zeeweringenwiki.nl
 https://mailcatch.acc.dpr.irealisatie.nl
