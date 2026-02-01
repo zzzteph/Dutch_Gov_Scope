@@ -211,6 +211,7 @@ dashboard
 zakelijk
 geoweb
 nieuwsbrieven
+vacatures
 wiki
 productie
 leren
@@ -272,7 +273,6 @@ registry
 sbc01
 extranet
 acc2
-vacatures
 intern
 new
 analytics
