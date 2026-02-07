@@ -3151,6 +3151,8 @@ bc.acc.bvd
 beheerportaal.acceptatie.digipoort
 beheerportaal.digipoort
 beheerportaal.preproductie.digipoort
+belastingdienst.acc.data
+belastingdienst.data
 bvd-pre.mev
 bvd
 bvd.mev
@@ -3160,6 +3162,7 @@ ca-devportal
 ca-idp-pre
 ca-idp-tst
 ca-idp
+ca-pre
 ca-tst
 channels-az1.lpc
 channels-az2.lpc
@@ -3211,11 +3214,11 @@ git.lpc
 gitdocumentatie
 gm-pre.mev
 gm.mev
-grafana-az1.lpc
-grafana-az2.lpc
 grafana.lpc
 harbor.az1.lpc
 harbor.az2.lpc
+hello.acc.data
+hello.data
 iam-containerplatform-az1.lpc
 iam-containerplatform-az2.lpc
 iam-containerplatform
@@ -3247,14 +3250,13 @@ preprod-machtigen.digipoort
 preprod-portalen.digipoort
 preprod.bvd
 preprod.oinregister
-prod-dictu.comcms
 routeringsvoorziening-pp1
 rvmetadata
 sb-dictu
-sonarqube-az1.lpc
-sonarqube-az2.lpc
 sonarqube.lpc
 stelselcatalogus
+superset.acc.data
+superset.data
 test-dictu.comcms
 test-dictu.kennisbank
 test-machtigen.digipoort

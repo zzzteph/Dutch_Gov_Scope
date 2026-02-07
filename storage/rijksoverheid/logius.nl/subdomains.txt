@@ -16,6 +16,8 @@ bc.acc.bvd.logius.nl
 beheerportaal.acceptatie.digipoort.logius.nl
 beheerportaal.digipoort.logius.nl
 beheerportaal.preproductie.digipoort.logius.nl
+belastingdienst.acc.data.logius.nl
+belastingdienst.data.logius.nl
 bvd-pre.mev.logius.nl
 bvd.logius.nl
 bvd.mev.logius.nl
@@ -25,6 +27,7 @@ ca-devportal.logius.nl
 ca-idp-pre.logius.nl
 ca-idp-tst.logius.nl
 ca-idp.logius.nl
+ca-pre.logius.nl
 ca-tst.logius.nl
 ca.logius.nl
 channels-az1.lpc.logius.nl
@@ -80,11 +83,11 @@ git.lpc.logius.nl
 gitdocumentatie.logius.nl
 gm-pre.mev.logius.nl
 gm.mev.logius.nl
-grafana-az1.lpc.logius.nl
-grafana-az2.lpc.logius.nl
 grafana.lpc.logius.nl
 harbor.az1.lpc.logius.nl
 harbor.az2.lpc.logius.nl
+hello.acc.data.logius.nl
+hello.data.logius.nl
 iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform-az2.lpc.logius.nl
 iam-containerplatform.logius.nl
@@ -119,14 +122,13 @@ preprod-machtigen.digipoort.logius.nl
 preprod-portalen.digipoort.logius.nl
 preprod.bvd.logius.nl
 preprod.oinregister.logius.nl
-prod-dictu.comcms.logius.nl
 routeringsvoorziening-pp1.logius.nl
 rvmetadata.logius.nl
 sb-dictu.logius.nl
-sonarqube-az1.lpc.logius.nl
-sonarqube-az2.lpc.logius.nl
 sonarqube.lpc.logius.nl
 stelselcatalogus.logius.nl
+superset.acc.data.logius.nl
+superset.data.logius.nl
 svn.logius.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl

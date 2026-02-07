@@ -4171,6 +4171,8 @@ beirut-urban-observatory-aub.hub.arcgis.com
 belangenbehartigerbt.nl
 belastingdienst-academie.nl
 belastingdienst-cn.nl
+belastingdienst.acc.data.logius.nl
+belastingdienst.data.logius.nl
 belastingdienst.nl
 belastingdienst.sitearchief.nl
 belastingen.zuid-holland.nl
@@ -4795,6 +4797,7 @@ ca-devportal.logius.nl
 ca-idp-pre.logius.nl
 ca-idp-tst.logius.nl
 ca-idp.logius.nl
+ca-pre.logius.nl
 ca-tst.logius.nl
 ca.chm-cbd.net
 ca.logius.nl
@@ -9211,8 +9214,6 @@ gps-sa.sso3w.nl
 gr-i.espacenet.com
 gr.espacenet.com
 grafana-acc.vm-02.azure.grid.rws.nl
-grafana-az1.lpc.logius.nl
-grafana-az2.lpc.logius.nl
 grafana-test.vm-02.azure.grid.rws.nl
 grafana.cruksregister.nl
 grafana.extern.minszw.nl
@@ -9452,6 +9453,8 @@ healthcouncil.nl
 heapster.odc.pleio.nl
 hello-gh-pages.paper-spa.github.io
 hello-world.crimson-perch.github.io
+hello.acc.data.logius.nl
+hello.data.logius.nl
 helloid.aaenmaas.nl
 helloid.vechtstromen.nl
 helloworld-acc.vm-02.azure.grid.rws.nl
@@ -16403,7 +16406,6 @@ prod-cmpreview-pzpdirect.pzp.nl
 prod-cmpreview-www.pzp.nl
 prod-cms.digid.nl
 prod-diane-exact.minszw.nl
-prod-dictu.comcms.logius.nl
 prod-dictu.digitoegankelijk.nl
 prod-dictu.eherkenning.nl
 prod-dictu.forumstandaardisatie.nl
@@ -18622,8 +18624,6 @@ sonar.extern.minszw.nl
 sonar.ix.rijkscloud.nl
 sonar.ndw.nu
 sonarqube-2.devops.rvb.rijkscloud.nl
-sonarqube-az1.lpc.logius.nl
-sonarqube-az2.lpc.logius.nl
 sonarqube-infra-edu.efiling.mijnoctrooi.rvo.nl
 sonarqube-infra-preprod.efiling.mijnoctrooi.rvo.nl
 sonarqube-infra.efiling.mijnoctrooi.rvo.nl
@@ -19218,6 +19218,8 @@ summercourt.nl
 summerschool.nin.knaw.nl
 summerschool.sh
 summerschool2023.nl
+superset.acc.data.logius.nl
+superset.data.logius.nl
 superset.demo.ix.rijkscloud.nl
 superset.dev.fib.ienw.rijkscloud.nl
 superset.dgdoobi.rijkscloud.nl
