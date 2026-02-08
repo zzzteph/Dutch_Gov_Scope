@@ -997,7 +997,6 @@ a-feeds.inspectie-jenv.nl
 a-feeds.klimaatakkoord.nl
 a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
-a-feeds.loonaangifteketen.nl
 a-feeds.ocwincijfers.nl
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
@@ -1056,7 +1055,6 @@ a-opendata.inspectie-jenv.nl
 a-opendata.klimaatakkoord.nl
 a-opendata.koninklijkhuis.nl
 a-opendata.koopoverheid.nl
-a-opendata.loonaangifteketen.nl
 a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
 a-opendata.rijksoverheid.nl
@@ -1159,7 +1157,6 @@ a-www.inspectie-jenv.nl
 a-www.klimaatakkoord.nl
 a-www.koninklijkhuis.nl
 a-www.koopoverheid.nl
-a-www.loonaangifteketen.nl
 a-www.magazinesrijkswaterstaat.nl
 a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
@@ -8276,7 +8273,6 @@ feeds.kiesraad.nl
 feeds.klimaatakkoord.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
-feeds.loonaangifteketen.nl
 feeds.marechaussee.nl
 feeds.mensenrechten.nl
 feeds.mijnpgb.nl
@@ -14912,7 +14908,6 @@ opendata.klimaatakkoord.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.kvk.nl
-opendata.loonaangifteketen.nl
 opendata.marechaussee.nl
 opendata.mensenrechten.nl
 opendata.mijnpgb.nl
