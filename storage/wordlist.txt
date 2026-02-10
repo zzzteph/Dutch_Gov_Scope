@@ -51,7 +51,6 @@ hybrid
 elearning
 _dmarc
 jaarverslag
-feeds.english
 services
 webservices
 docs
@@ -64,11 +63,12 @@ www.acc
 adfs
 www2
 cpanel
-opendata.english
+feeds.english
 open
 accept
 mail2
 maps
+opendata.english
 enterpriseregistration
 ns2
 beeldbank
@@ -118,6 +118,7 @@ acceptatie.beheer
 acceptatie.mijn
 designsystem
 onderhoud
+www1
 developer
 mam
 a-magazines
@@ -149,7 +150,6 @@ academy
 content
 projecten
 sftp
-www1
 externemail
 m365
 password

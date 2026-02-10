@@ -8251,7 +8251,6 @@ feeds.energierijkdenhaag.nl
 feeds.english.aivd.nl
 feeds.english.defensie.nl
 feeds.english.kiesraad.nl
-feeds.english.marechaussee.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
 feeds.english.nvwa.nl
@@ -14884,7 +14883,6 @@ opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.defensie.nl
 opendata.english.kiesraad.nl
-opendata.english.marechaussee.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
 opendata.english.nvwa.nl
@@ -23974,6 +23972,7 @@ www1.cbs.nl
 www1.cito.nl
 www1.hdsr.nl
 www1.kvk.nl
+www1.marechaussee.nl
 www1.nationaalarchief.nl
 www1.rijkswaterstaat.nl
 www2-p.gipdatabank.nl
