@@ -68,7 +68,6 @@ open
 accept
 mail2
 maps
-opendata.english
 enterpriseregistration
 ns2
 beeldbank
@@ -78,6 +77,7 @@ inloggen
 lyncdiscover
 www.test
 webdisk
+opendata.english
 fs
 mta-sts
 old
@@ -215,6 +215,8 @@ vacatures
 wiki
 productie
 leren
+community
+tools
 iam
 transfer
 access
@@ -275,9 +277,9 @@ extranet
 acc2
 intern
 new
+www.cms
 analytics
 sentry
-tools
 idm
 acc-cms
 prod-dictu
@@ -291,7 +293,6 @@ redirect
 cloud
 mijn.acceptatie
 rds
-community
 feedback
 pushmail
 smtp1
@@ -443,7 +444,6 @@ login-test
 pki
 sip2
 international
-www.cms
 activesync
 mijnzaak
 2020
@@ -628,6 +628,7 @@ upnl-zw.mijn
 upnl.mijn
 acceptatie.portaal
 api.mijn
+basisscan
 mx
 backbone
 design
@@ -3304,11 +3305,13 @@ api.acc
 api.mijn.acc
 api.mijn.test
 bvpn
+chat-acc
 chat2
 csaf.data.security.acc
 csaf.data.security
 csaf.data.security.test
 dmarcreport
+gl-acc
 gl
 gl1
 intel-acc
@@ -3337,6 +3340,7 @@ vulnerabilities.acc
 vulnerabilities
 vulnerabilities.test
 wds
+www.english
 1.ivory
 2.ivory
 3.ivory
@@ -8058,7 +8062,6 @@ was-t1
 was-t2
 was
 spx-oec
-basisscan
 dashboard-keten
 clone
 dmi-governance.dev

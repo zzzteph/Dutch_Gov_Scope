@@ -12,9 +12,13 @@ api.mijn.acc.ncsc.nl
 api.mijn.ncsc.nl
 api.mijn.test.ncsc.nl
 api.ncsc.nl
+basisscan.ncsc.nl
 bvpn.ncsc.nl
+chat-acc.ncsc.nl
 chat.ncsc.nl
 chat2.ncsc.nl
+cms.ncsc.nl
+community.ncsc.nl
 csaf.data.security.acc.ncsc.nl
 csaf.data.security.ncsc.nl
 csaf.data.security.test.ncsc.nl
@@ -22,6 +26,7 @@ dmarcreport.ncsc.nl
 english.ncsc.nl
 feeds.english.ncsc.nl
 feeds.ncsc.nl
+gl-acc.ncsc.nl
 gl.ncsc.nl
 gl1.ncsc.nl
 intel-acc.ncsc.nl
@@ -46,8 +51,6 @@ ndn-onderzoek.ncsc.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
 nwrar-acc.ncsc.nl
-opendata.english.ncsc.nl
-opendata.ncsc.nl
 orchestrator.ncsc.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
@@ -57,9 +60,12 @@ test-dictu.cms.ncsc.nl
 test-dictu.ncsc.nl
 test.ncsc.nl
 tip.ncsc.nl
+tools.ncsc.nl
 uag.ncsc.nl
 vulnerabilities.acc.ncsc.nl
 vulnerabilities.ncsc.nl
 vulnerabilities.test.ncsc.nl
 wds.ncsc.nl
+www.cms.ncsc.nl
+www.english.ncsc.nl
 www.ncsc.nl

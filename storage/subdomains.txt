@@ -3939,6 +3939,7 @@ basismonitoringwadden.waddenzee.nl
 basisregistratie.vechtstromen.nl
 basisregistratieondergrond.nl
 basisscan.digitaltrustcenter.nl
+basisscan.ncsc.nl
 bastion.rijksoverheid.nl
 bastion365.raadvoorrechtsbijstand.org
 bastion365.rechtsbijstand.nl
@@ -5133,6 +5134,7 @@ charterbijeenkomst-werkennaarvermogen-9oktober.evenement.ser.nl
 chartmuseum.dmz.vm-04.azure.grid.rws.nl
 chartmuseum.test.vm-04.azure.grid.rws.nl
 chascogis.maps.arcgis.com
+chat-acc.ncsc.nl
 chat-acc.servicedesk.ssc-ict.nl
 chat-ai.s-bb.nl
 chat-api-a.uwv.nl
@@ -5424,6 +5426,7 @@ cms.knmi.nl
 cms.mensenrechten.nl
 cms.minienm.nl
 cms.mycoa.nl
+cms.ncsc.nl
 cms.o.extern.minszw.nl
 cms.platformrijksoverheid.nl
 cms.prod1.contenttoolsrijksoverheid.nl
@@ -5605,6 +5608,7 @@ community-xr.pleio.nl
 community.leerwerkloket.nl
 community.lerenenwerken.nl
 community.nba.nl
+community.ncsc.nl
 community.visinhetho.nl
 communityanalyst.arcgis.com
 communitymaps.arcgis.com
@@ -9112,6 +9116,7 @@ gitlab.wibo.ienw.rijkscloud.nl
 gitlab.wk.rijkscloud.nl
 gitlab2.testing.rijkscloud.nl
 gkssb.chm-cbd.net
+gl-acc.ncsc.nl
 gl-skosmos.dev.huc.knaw.nl
 gl.ncsc.nl
 gl1.ncsc.nl
@@ -14885,7 +14890,6 @@ opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.defensie.nl
 opendata.english.kiesraad.nl
-opendata.english.ncsc.nl
 opendata.english.nctv.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
@@ -14912,7 +14916,6 @@ opendata.marechaussee.nl
 opendata.mensenrechten.nl
 opendata.nationaalrapporteur.nl
 opendata.ncab.nl
-opendata.ncsc.nl
 opendata.nctv.nl
 opendata.ndw.nu
 opendata.nederlandwereldwijd.nl
@@ -20120,6 +20123,7 @@ toolkits.loketgezondleven.nl
 toolkittaal.gebruikercentraal.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.digitaltrustcenter.nl
+tools.ncsc.nl
 tools.pianoo.nl
 tools.rijksinnovatiecommunity.nl
 tools.wijzeringeldzaken.nl
@@ -22456,6 +22460,7 @@ www.clone.dmi-ecosysteem.nl
 www.clusterbuster.nl
 www.cms.gezondeschool.nl
 www.cms.minienm.nl
+www.cms.ncsc.nl
 www.cms.waterkwaliteitscheck.nl
 www.cms1.acceptatie.kadaster.nl
 www.cms2.acceptatie.kadaster.nl
@@ -22665,6 +22670,7 @@ www.energieoprijksgrond.nl
 www.energieprojectennederland.nl
 www.energierijkdenhaag.nl
 www.energieslag.rvo.nl
+www.english.ncsc.nl
 www.entreepgb.svb.nl
 www.enwinfo.nl
 www.ep-online.nl
