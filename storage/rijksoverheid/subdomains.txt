@@ -7580,6 +7580,7 @@ elearning-irb.nctv.nl
 elearning-lcp-egt.nctv.nl
 elearning-msz.nza.nl
 elearning-zvjz-medewerkers.nctv.nl
+elearning-zvjz-uk.nctv.nl
 elearning.afm.nl
 elearning.cbi.eu
 elearning.dopingautoriteit.nl
@@ -8258,7 +8259,6 @@ feeds.english.aivd.nl
 feeds.english.defensie.nl
 feeds.english.kiesraad.nl
 feeds.english.ncsc.nl
-feeds.english.nctv.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
 feeds.english.rijksdienstcn.com
@@ -14890,7 +14890,6 @@ opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.defensie.nl
 opendata.english.kiesraad.nl
-opendata.english.nctv.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
 opendata.english.rijksdienstcn.com
