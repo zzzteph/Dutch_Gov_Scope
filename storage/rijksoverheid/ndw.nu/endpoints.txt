@@ -39,7 +39,6 @@ https://geojson-converter.ndw.nu
 https://havik.ndw.nu
 https://iam.ndw.nu
 https://iam.staging.ndw.nu
-https://internal-docs.ndw.nu
 https://inweva.ndw.nu
 https://karin.ndw.nu
 https://keycloak.ndw.nu
@@ -50,12 +49,14 @@ https://melvin-acc.staging.ndw.nu
 https://melvin.ndw.nu
 https://mijn.ndw.nu
 https://mijnrdtmnl.ndw.nu
+https://milo.ndw.nu
 https://mlops-models.ndw.nu
 https://mlops-monitoring.ndw.nu
 https://mlops-platform.ndw.nu
 https://mlops-platform.staging.ndw.nu
 https://mlops-tracking.ndw.nu
 https://mogin.ndw.nu
+https://monitoring.ndw.nu
 https://nap-ev.ndw.nu
 https://ncis-ref.ndw.nu
 https://ncis.ndw.nu

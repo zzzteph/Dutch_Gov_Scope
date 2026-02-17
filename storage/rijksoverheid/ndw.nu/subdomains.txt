@@ -39,7 +39,6 @@ geojson-converter.ndw.nu
 havik.ndw.nu
 iam.ndw.nu
 iam.staging.ndw.nu
-internal-docs.ndw.nu
 inweva.ndw.nu
 karin.ndw.nu
 keycloak.ndw.nu
@@ -50,12 +49,14 @@ melvin-acc.staging.ndw.nu
 melvin.ndw.nu
 mijn.ndw.nu
 mijnrdtmnl.ndw.nu
+milo.ndw.nu
 mlops-models.ndw.nu
 mlops-monitoring.ndw.nu
 mlops-platform.ndw.nu
 mlops-platform.staging.ndw.nu
 mlops-tracking.ndw.nu
 mogin.ndw.nu
+monitoring.ndw.nu
 nap-ev.ndw.nu
 ncis-ref.ndw.nu
 ncis.ndw.nu

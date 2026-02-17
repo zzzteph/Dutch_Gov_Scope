@@ -384,6 +384,7 @@ mx3
 mx4
 mijn.test
 keycloak
+monitoring
 s
 track
 voorlichting
@@ -851,7 +852,6 @@ backoffice
 certificaten
 fa
 mfiles
-monitoring
 diensten
 facturen
 lync1
@@ -3393,13 +3393,13 @@ fbmonitor
 geojson-converter
 havik
 iam.staging
-internal-docs
 inweva
 karin
 maps.staging
 melvin-acc.staging
 melvin
 mijnrdtmnl
+milo
 mlops-models
 mlops-monitoring
 mlops-platform
