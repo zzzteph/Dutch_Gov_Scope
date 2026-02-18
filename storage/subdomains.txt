@@ -8284,7 +8284,6 @@ feeds.nationaalrapporteur.nl
 feeds.ncab.nl
 feeds.ncsc.nl
 feeds.nctv.nl
-feeds.netwerkplatteland.nl
 feeds.nl-alert.nl
 feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
@@ -14919,7 +14918,6 @@ opendata.ncab.nl
 opendata.nctv.nl
 opendata.ndw.nu
 opendata.nederlandwereldwijd.nl
-opendata.netwerkplatteland.nl
 opendata.nl-alert.nl
 opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
@@ -16510,13 +16508,11 @@ programs.vnsc.eu
 prohibit.osiris.rivm.nl
 project.cultuurparticipatie.nl
 projecta44.nl
-projecten-acc.netwerkplatteland.nl
 projecten-acc.rvo.nl
 projecten-tst.rvo.nl
 projecten.cbs.nl
 projecten.meertens.knaw.nl
 projecten.nba.nl
-projecten.netwerkplatteland.nl
 projecten.rijksvastgoedbedrijf.nl
 projecten.rvo.nl
 projecten.zonmw.nl

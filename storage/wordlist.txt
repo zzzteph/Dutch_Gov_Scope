@@ -149,7 +149,6 @@ www-test
 helpdesk
 academy
 content
-projecten
 sftp
 externemail
 m365
@@ -191,6 +190,7 @@ id
 kaarten
 nieuws
 outlook
+projecten
 survey
 testconn
 catalogus
@@ -638,7 +638,6 @@ file
 pm-bounces
 a-voorlichting
 acc.opendata
-projecten-acc
 opleiding
 selector2._domainkey
 formulieren-acc
@@ -5195,6 +5194,7 @@ prizmo-acc
 prizmo-web
 prizmo
 prod.wetten
+projecten-acc
 projecten-tst
 projects-acc
 projects-tst
