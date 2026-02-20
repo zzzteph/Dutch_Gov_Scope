@@ -8283,7 +8283,6 @@ feeds.nationaalrapporteur.nl
 feeds.ncab.nl
 feeds.ncsc.nl
 feeds.nctv.nl
-feeds.nlarbeidsinspectie.nl
 feeds.nllabourauthority.nl
 feeds.nvwa.nl
 feeds.ocwincijfers.nl
@@ -14916,7 +14915,6 @@ opendata.ncab.nl
 opendata.nctv.nl
 opendata.ndw.nu
 opendata.nederlandwereldwijd.nl
-opendata.nlarbeidsinspectie.nl
 opendata.nllabourauthority.nl
 opendata.nvwa.nl
 opendata.ocwincijfers.nl
@@ -18038,7 +18036,6 @@ seg.duo.nl
 sekswerkgoedgeregeld.nl
 sel1._domainkey.lms.kvk.nl
 sel2._domainkey.lms.kvk.nl
-selector1._domainkey.nlarbeidsinspectie.nl
 selector2._domainkey.kvk.nl
 selector2._domainkey.nlarbeidsinspectie.nl
 selfservice.dhub.in.kadaster.nl
