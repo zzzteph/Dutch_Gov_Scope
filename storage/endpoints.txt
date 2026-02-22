@@ -518,6 +518,8 @@ http://intern.afm.nl
 http://interneurons.nin.knaw.nl
 http://intranet.ctgb.nl
 http://inzage.hansken.org
+http://iwelcome-preprod.nvwa.nl
+http://iwelcome.nvwa.nl
 http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 http://jaeger.test.zm.irealisatie.nl
 http://jp-o-no-apigee-lux.espacenet.com
@@ -3714,6 +3716,7 @@ https://bva.staging.rijksapplicaties.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvma.nvwa.nl
+https://bvmagr.nvwa.nl
 https://bvs.belastingdienst.nl
 https://bvz-waves.databank.nl
 https://bvz.waves.databank.nl
@@ -5167,6 +5170,7 @@ https://dxp.test.cloud.kadaster.nl
 https://dynamo-hia.eu
 https://dzbd-pre.logius.nl
 https://dzbd.logius.nl
+https://e-CertNL.nvwa.nl
 https://e-akkoord.nl
 https://e-bom.acpt.nationaalarchief.nl
 https://e-bom.nationaalarchief.nl
@@ -5710,7 +5714,6 @@ https://feeds.english.aivd.nl
 https://feeds.english.defensie.nl
 https://feeds.english.kiesraad.nl
 https://feeds.english.ncsc.nl
-https://feeds.english.nvwa.nl
 https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.rijksdienstcn.com
 https://feeds.english.wrr.nl
@@ -6498,6 +6501,7 @@ https://hv.proquest.com.access.authkb.kb.nl
 https://hwbp.nl
 https://hygienecode.voedingscentrum.nl
 https://hymnology.hymnsam.co.uk.access.authkb.kb.nl
+https://i-certnl.nvwa.nl
 https://i-login.mijncn.nl
 https://i-partnerschap.staging.rijksapplicaties.nl
 https://iaas-portal-gn3.odc-noord.nl
@@ -6911,8 +6915,6 @@ https://ivo.nvwa.nl
 https://ivopzee.nl
 https://ivz.cloud.kadaster.nl
 https://ivz.test.cloud.kadaster.nl
-https://iwelcome-preprod.nvwa.nl
-https://iwelcome.nvwa.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag.dopingautoriteit.nl
 https://jaarverslag.fondspodiumkunsten.nl
@@ -8921,7 +8923,6 @@ https://opendata.energierijkdenhaag.nl
 https://opendata.english.aivd.nl
 https://opendata.english.defensie.nl
 https://opendata.english.kiesraad.nl
-https://opendata.english.nvwa.nl
 https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.rijksdienstcn.com
 https://opendata.english.wrr.nl

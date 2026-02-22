@@ -67,7 +67,6 @@ open
 accept
 mail2
 maps
-feeds.english
 enterpriseregistration
 ns2
 beeldbank
@@ -77,6 +76,7 @@ inloggen
 lyncdiscover
 www.test
 webdisk
+feeds.english
 fs
 mta-sts
 old
@@ -92,7 +92,6 @@ git
 stats
 preview
 media
-opendata.english
 beta
 demo
 geo
@@ -112,6 +111,7 @@ test-dictu
 mx1
 aanvragen
 admin
+opendata.english
 papiamentu
 enterpriseenrollment
 acceptatie.beheer
@@ -197,6 +197,7 @@ catalogus
 formulier
 share
 cms2
+o-www
 acc.mijn
 www.mijn
 exchange
@@ -255,7 +256,6 @@ status
 a-cms
 cms1
 i-www
-o-www
 t-www
 enquete
 gitlab
@@ -3464,6 +3464,8 @@ test.portaal
 acc.inspectieresultaten
 acc2.inspectieresultaten
 bvma
+bvmagr
+e-CertNL
 e-certnl-acc
 e-certnl-sch
 e-certnl

@@ -4747,6 +4747,7 @@ bvid-kmar.politie.nl
 bvinet.douane.nl
 bvlfls.knmi.nl
 bvma.nvwa.nl
+bvmagr.nvwa.nl
 bvpn.ncsc.nl
 bvrin.minbzk.nl
 bvrin.minszw.nl
@@ -7311,6 +7312,7 @@ dynac.rws.nl
 dynamo-hia.eu
 dzbd-pre.logius.nl
 dzbd.logius.nl
+e-CertNL.nvwa.nl
 e-akkoord.nl
 e-bom.acpt.nationaalarchief.nl
 e-bom.nationaalarchief.nl
@@ -8258,7 +8260,6 @@ feeds.english.aivd.nl
 feeds.english.defensie.nl
 feeds.english.kiesraad.nl
 feeds.english.ncsc.nl
-feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
 feeds.english.rijksdienstcn.com
 feeds.english.sso3w.nl
@@ -14454,6 +14455,7 @@ o-voor1.rijksoverheid.nl
 o-www.defensie.nl
 o-www.government.nl
 o-www.koninklijkhuis.nl
+o-www.nvwa.nl
 o-www.rijksoverheid.nl
 o1-api.contenttoolsrijksoverheid.nl
 o1-cms.contenttoolsrijksoverheid.nl
@@ -14886,7 +14888,6 @@ opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.defensie.nl
 opendata.english.kiesraad.nl
-opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
 opendata.english.rijksdienstcn.com
 opendata.english.vrachtwagenheffing.nl
