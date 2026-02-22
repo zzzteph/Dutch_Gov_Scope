@@ -3498,9 +3498,11 @@ acceptatie.crm
 agw01-nomail
 agw02-nomail
 elearning-msz
+entrancemanager
 itsupport
 jeugdzorg-acc
 jeugdzorg
+jv-acc
 jv
 nza-form1
 nza-form2
@@ -3512,8 +3514,7 @@ opendisdata-acc
 opendisdata
 pages.internal
 pages.test.internal
-rpx-qa
-rpx
+tmu-acc
 tovertool
 wachttijden
 werkenbijde

@@ -5469,6 +5469,7 @@ https://enterpriseregistration.rdw.nl
 https://enterpriseregistration.rechtspraak.nl
 https://enterpriseregistration.rws.nl
 https://enterpriseregistration.svb.nl
+https://entrancemanager.nza.nl
 https://env1.arcgis.com
 https://enwinfo.nl
 https://eov-api.acceptatie.rws.nl
@@ -6953,6 +6954,7 @@ https://jeugdmonitor-acc.cbs.nl
 https://jeugdmonitor.cbs.nl
 https://jeugdstatline.cbs.nl
 https://jeugdzorg-acc.nza.nl
+https://jeugdzorg.nza.nl
 https://jiadongy.github.io
 https://jinnbo.github.io
 https://jip.inspectie-jenv.nl
@@ -7015,6 +7017,7 @@ https://justis.nl
 https://justitieconnect.nl
 https://justitieel.venvn.nl
 https://justitieleictorganisatie.nl
+https://jv-acc.nza.nl
 https://jv.nza.nl
 https://k8s.stopheling.nl
 https://kaart.acceptatie.lcms.nl
@@ -10117,8 +10120,6 @@ https://rp1.acc.federatieveservice.nl
 https://rp1.federatieveservice.nl
 https://rpnl-acc.dsolv.test.cloud.kadaster.nl
 https://rpnl-pil.dsolv.cloud.kadaster.nl
-https://rpx-qa.nza.nl
-https://rpx.nza.nl
 https://rs-i.espacenet.com
 https://rs.espacenet.com
 https://rsj.nl
@@ -11300,6 +11301,7 @@ https://tmp-cad776.crimson-perch.github.io
 https://tmp-e5726e.crimson-perch.github.io
 https://tmp.crimson-perch.github.io
 https://tmp.swap.alterra.nl
+https://tmu-acc.nza.nl
 https://tmv.cibg.nl
 https://tmx.vallei-veluwe.nl
 https://tmxweb.rijkswaterstaat.nl
