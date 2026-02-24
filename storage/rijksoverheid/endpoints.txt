@@ -3587,7 +3587,6 @@ https://boekenprijs.cvdm.nl
 https://boekingszuil.logerenbijdeboswachter.nl
 https://boem-metaport-boem.hub.arcgis.com
 https://boerenkpi.nl
-https://boetebase.om.nl
 https://bofeb.nl
 https://bon.arcgis.com
 https://books.google.com.access.authkb.kb.nl
@@ -5668,6 +5667,7 @@ https://fcd-prod-bemobile-trajectorien.rws.nl
 https://fcp-crystal.cultuurparticipatie.nl
 https://fcpwiki.cultuurparticipatie.nl
 https://fcss.maps.arcgis.com
+https://fcvpn.om.nl
 https://fdocs.test.gf.irealisatie.nl
 https://feature-cic-673.dev.bcld-config.nl
 https://feature-cicd-deployment.dev.bcld-config.nl
@@ -5732,7 +5732,6 @@ https://feeds.marechaussee.nl
 https://feeds.ncsc.nl
 https://feeds.nvwa.nl
 https://feeds.ocwincijfers.nl
-https://feeds.om.nl
 https://feeds.onderwijsinspectie.nl
 https://feeds.oud.platformrijksoverheidonline.nl
 https://feeds.prosecutionservice.nl
@@ -8489,7 +8488,6 @@ https://neuro.venvn.nl
 https://neuronprod.vallei-veluwe.nl
 https://neurontest.vallei-veluwe.nl
 https://nevenactiviteiten.cvdm.nl
-https://nevenbetrekkingen.om.nl
 https://nevo-online.rivm.nl
 https://nevo.rivm.nl
 https://new-accept.fondspodiumkunsten.nl
@@ -8782,6 +8780,7 @@ https://oldold.neovintage-corp.github.io
 https://oldoldold.neovintage-corp.github.io
 https://oldsmar.maps.arcgis.com
 https://ollama.pleio.nl
+https://om-veld01.om.nl
 https://om.nl
 https://om.sitearchief.nl
 https://om.test.chm-cbd.net
@@ -8946,7 +8945,6 @@ https://opendata.ndw.nu
 https://opendata.nederlandwereldwijd.nl
 https://opendata.nvwa.nl
 https://opendata.ocwincijfers.nl
-https://opendata.om.nl
 https://opendata.ondernemersplein.nl
 https://opendata.onderwijsinspectie.nl
 https://opendata.oud.platformrijksoverheidonline.nl
@@ -10490,7 +10488,6 @@ https://simulator.etoegang.nl
 https://singelpark.pleio.nl
 https://sip.coa.nl
 https://sip.lbio.nl
-https://sip.om.nl
 https://sip.rijksrecherche.nl
 https://sipfed.coa.nl
 https://sis-api-02.ontw.cloud.kadaster.nl
@@ -10546,7 +10543,6 @@ https://smtp1.awti.nl
 https://snd.cdn.consular.mfaservices.nl
 https://snd.consular-service.consular.mfaservices.nl
 https://snd.consular.mfaservices.nl
-https://snelheidsovertredingen.om.nl
 https://snippet.acc.clo.nl
 https://snippet.acc.icer.pbl.nl
 https://snippet.acc.monovi.pbl.nl

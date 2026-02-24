@@ -2087,7 +2087,6 @@ access.authkbtest.kb.nl
 access.huc.knaw.nl
 access.lvnl.nl
 access.nba.nl
-access.om.nl
 access.rdw.nl
 access.rijksrecherche.nl
 access1.minbzk.nl
@@ -5633,7 +5632,6 @@ componenten-tst.overheid.nl
 componenten.overheid.nl
 condor.coa.nl
 conf.cbg-meb.nl
-conf.om.nl
 conf.rdw.nl
 conf.rijksrecherche.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
@@ -6708,7 +6706,6 @@ dialin.justid.nl
 dialin.kvk.nl
 dialin.lbio.nl
 dialin.nba.nl
-dialin.om.nl
 dialin.prolander.nl
 dialin.rdw.nl
 dialin.rijksrecherche.nl
@@ -12057,7 +12054,6 @@ lyncdiscover.coa.nl
 lyncdiscover.justid.nl
 lyncdiscover.lbio.nl
 lyncdiscover.minbzk.nl
-lyncdiscover.om.nl
 lyncdiscover.rdw.nl
 lyncdiscover.rijksrecherche.nl
 lyncdiscover.s-bb.nl
@@ -12680,7 +12676,6 @@ meet.justid.nl
 meet.kvk.nl
 meet.lbio.nl
 meet.nba.nl
-meet.om.nl
 meet.prolander.nl
 meet.rdw.nl
 meet.rechtspraak.nl
@@ -18361,7 +18356,6 @@ sip.minvws.nl
 sip.myroom.minbzk.nl
 sip.myroom.minszw.nl
 sip.myroom.minvws.nl
-sip.om.nl
 sip.p-direkt.minbzk.nl
 sip.rdw.nl
 sip.rijksrecherche.nl
@@ -21530,7 +21524,6 @@ webservices.hdsr.nl
 webservices.kbvg.nl
 webservices.kvk.nl
 webservices.lrza.cibg.nl
-webservices.om.nl
 webservices.pbl.nl
 webservices.preprod.kvk.nl
 webservices.rdw.nl
