@@ -8260,7 +8260,6 @@ feeds.english.aivd.nl
 feeds.english.defensie.nl
 feeds.english.kiesraad.nl
 feeds.english.ncsc.nl
-feeds.english.onderwijsinspectie.nl
 feeds.english.rijksdienstcn.com
 feeds.english.sso3w.nl
 feeds.english.vrachtwagenheffing.nl
@@ -8287,7 +8286,6 @@ feeds.nctv.nl
 feeds.nvwa.nl
 feeds.ocwincijfers.nl
 feeds.om.nl
-feeds.onderwijsinspectie.nl
 feeds.oud.platformrijksoverheidonline.nl
 feeds.prosecutionservice.nl
 feeds.raadvoorcultuur.nl
@@ -14887,7 +14885,6 @@ opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.defensie.nl
 opendata.english.kiesraad.nl
-opendata.english.onderwijsinspectie.nl
 opendata.english.rijksdienstcn.com
 opendata.english.vrachtwagenheffing.nl
 opendata.english.wrr.nl
@@ -14918,7 +14915,6 @@ opendata.nvwa.nl
 opendata.ocwincijfers.nl
 opendata.om.nl
 opendata.ondernemersplein.nl
-opendata.onderwijsinspectie.nl
 opendata.oud.platformrijksoverheidonline.nl
 opendata.papiamento.two-acs.com
 opendata.platformrijksoverheid.nl

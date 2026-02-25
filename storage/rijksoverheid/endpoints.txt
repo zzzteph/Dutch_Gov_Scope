@@ -5716,7 +5716,6 @@ https://feeds.english.aivd.nl
 https://feeds.english.defensie.nl
 https://feeds.english.kiesraad.nl
 https://feeds.english.ncsc.nl
-https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.rijksdienstcn.com
 https://feeds.english.wrr.nl
 https://feeds.forensicinstitute.nl
@@ -5732,7 +5731,6 @@ https://feeds.marechaussee.nl
 https://feeds.ncsc.nl
 https://feeds.nvwa.nl
 https://feeds.ocwincijfers.nl
-https://feeds.onderwijsinspectie.nl
 https://feeds.oud.platformrijksoverheidonline.nl
 https://feeds.prosecutionservice.nl
 https://feeds.raadvoorcultuur.nl
@@ -8926,7 +8924,6 @@ https://opendata.energierijkdenhaag.nl
 https://opendata.english.aivd.nl
 https://opendata.english.defensie.nl
 https://opendata.english.kiesraad.nl
-https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.rijksdienstcn.com
 https://opendata.english.wrr.nl
 https://opendata.forensicinstitute.nl
@@ -8946,7 +8943,6 @@ https://opendata.nederlandwereldwijd.nl
 https://opendata.nvwa.nl
 https://opendata.ocwincijfers.nl
 https://opendata.ondernemersplein.nl
-https://opendata.onderwijsinspectie.nl
 https://opendata.oud.platformrijksoverheidonline.nl
 https://opendata.platformrijksoverheid.nl
 https://opendata.prosecutionservice.nl

@@ -74,7 +74,6 @@ digikoppeling
 inloggen
 www.test
 webdisk
-feeds.english
 fs
 mta-sts
 old
@@ -92,6 +91,7 @@ stats
 lyncdiscover
 preview
 media
+feeds.english
 beta
 demo
 geo
@@ -111,7 +111,6 @@ test-dictu
 mx1
 aanvragen
 admin
-opendata.english
 papiamentu
 enterpriseenrollment
 acceptatie.beheer
@@ -136,6 +135,7 @@ events
 hostmaster
 matomo
 a-english
+opendata.english
 geodata
 academie
 adobe-analytics-dc
