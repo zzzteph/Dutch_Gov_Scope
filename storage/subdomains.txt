@@ -2446,6 +2446,7 @@ afsprakenstelsel-acc.etoegang.nl
 afsprakenstelsel.etoegang.nl
 aftrapdiversityday.evenement.ser.nl
 aftrapdiversityday22.evenement.ser.nl
+afval.omgevingswet.overheid.nl
 afvalcirculair.nl
 afvalmonitor.databank.nl
 ag-dcr.cibg.nl
@@ -2822,6 +2823,8 @@ api-gateway.rechtspraak.nl
 api-mockapp-dev.dnb.nl
 api-mockapp-test.dnb.nl
 api-o1.digid.nl
+api-organisaties-acc.overheid.nl
+api-organisaties.overheid.nl
 api-ota.belastingdienst.nl
 api-performance.test.ix.rijkscloud.nl
 api-portal.rdw.nl
@@ -2848,7 +2851,6 @@ api.abonneren.platformrijksoverheidonline.nl
 api.acc-cruks.kansspelautoriteit.nl
 api.acc-lsp.rivm.nl
 api.acc-seqdb.rivm.nl
-api.acc.mijn.overheid.nl
 api.acc.ncsc.nl
 api.acc.spaceweather.knmi.nl
 api.acc.woo.irealisatie.nl
@@ -4512,6 +4514,7 @@ bob.rvo.nl
 bod1-o.dictu.nl
 bod1-t.dictu.nl
 bod2-o.dictu.nl
+bodem-ondergrond.omgevingswet.overheid.nl
 bodem-ondergrond.pleio.nl
 bodemambities.nl
 bodematlas.brabant.nl
@@ -4556,6 +4559,7 @@ boub-api-acc.overheid.nl
 boub-api.overheid.nl
 bouncer-odcn.pleio.nl
 bouncer.pleio.nl
+bouw.omgevingswet.overheid.nl
 bouwbesluit.com
 bovenschoolserapportage-a.cito.nl
 bovenschoolserapportage-a.secure.cito.nl
@@ -5638,6 +5642,7 @@ conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.gebruikercentraal.nl
 conference.jitsi.rijkscloud.nl
+confluence-koop.overheid.nl
 confluence.cpb.nl
 confluence.extern.minszw.nl
 confluence.knmi.nl
@@ -5992,6 +5997,7 @@ ctxgateway.rvr.org
 cua-fto.erp.kadaster.nl
 cua.erp.kadaster.nl
 cuixing100876.github.io
+cultureel-erfgoed.omgevingswet.overheid.nl
 cultureelerfgoed.nl
 cultureelerfgoed.sitearchief.nl
 cultuurparticipatie.nl
@@ -6401,7 +6407,6 @@ demo-frontend.fcd.test.vm-04.azure.grid.rws.nl
 demo-geoservices.rijkswaterstaat.nl
 demo-geoservices.rws.nl
 demo-pedrolacerda.octodemo.github.io
-demo-systemteam.overheid.nl
 demo-test.web.ssc-ict.nl
 demo-veiligheidsmonitor.databank.nl
 demo-vgm.databank.nl
@@ -8061,6 +8066,7 @@ extern.ifv.nl
 extern.knmi.nl
 extern.minszw.nl
 externe-mail.knmi.nl
+externe-veiligheid.omgevingswet.overheid.nl
 externemail.cpb.nl
 externemail.ctgb.nl
 externemail.knmi.nl
@@ -8767,7 +8773,6 @@ gegevensbijbesluiten-inlog.overheid.nl
 gegevensbijbesluiten-redactie-acc.overheid.nl
 gegevensbijbesluiten-redactie.overheid.nl
 gegevensbijbesluiten.overheid.nl
-gegevensdelen.acc.mijn.overheid.nl
 gegevensdelen.acc.picard.mijn.overheid.nl
 gegevensdelen.acc1.mijn.overheid.nl
 gegevensdelen.acc1.picard.mijn.overheid.nl
@@ -11282,6 +11287,7 @@ konijn.hackaton.rijkscloud.nl
 koninklijkhuis.nl
 koninkrijk1813.huygens.knaw.nl
 koolmonoxide.brandweer.nl
+koop.overheid.nl
 koopoverheid.nl
 koppeling.s-bb.nl
 koppelpunt-cloud.ciz.nl
@@ -11462,6 +11468,8 @@ kwaliteitsdashboard.kadaster.nl
 kwaliteitsdashboard.test.kadaster.nl
 kwaliteitsregister.venvn.nl
 kwaliteitstoetsing.nba.nl
+kwaliteitstool-acc.koop.overheid.nl
+kwaliteitstool.koop.overheid.nl
 kwaliteitvanleven.pbl.nl
 kwalitijd.venvn.nl
 kweepeer.dev.huc.knaw.nl
@@ -12009,6 +12017,7 @@ ltu-admin.stopheling.nl
 ltu-api.stopheling.nl
 lu-i.espacenet.com
 lu.espacenet.com
+lucht.omgevingswet.overheid.nl
 luchtfoto.aaenmaas.nl
 luchtfoto.flevoland.nl
 luchtgevechtsleiding.werkenbijdefensie.nl
@@ -13935,6 +13944,7 @@ nationaleombudsman.sitearchief.nl
 nationaleparkenbureau.nl
 natura2000-data.zuid-holland.nl
 natura2000.nl
+natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
 natuurbrandrisico.nl
 natuurenrecreatieschapijsselmonde.nl
@@ -16479,9 +16489,9 @@ professionalcentraal.sbcm.nl
 profgeodata.dynamic.basisinformatie-overstromingen.nl
 profgeodata.static.basisinformatie-overstromingen.nl
 profiel-mijn.s-bb.nl
-profiel.acc.mijn.overheid.nl
 profiel.acc1.mijn.overheid.nl
 profiel.acc2.mijn.overheid.nl
+profiel.tst1.mijn.overheid.nl
 profile.atabase.gratisvog.nl
 profiles.werkenbijdefensie.nl
 prognosemodelzw.databank.nl
@@ -17186,6 +17196,7 @@ repoa.brentjo-testorg.github.io
 repob.brentjo-testorg.github.io
 reporting.iam.acceptatie.kadaster.nl
 repository-acc.officiele-overheidspublicaties.nl
+repository-acc.overheid.nl
 repository-assistant.labs.dans.knaw.nl
 repository-eto.officiele-overheidspublicaties.nl
 repository-huygens.red.huygens.knaw.nl
@@ -17532,6 +17543,7 @@ ru-i.espacenet.com
 ru.espacenet.com
 ruier.github.io
 ruimte.dmo.omgevingswet.overheid.nl
+ruimte.int.omgevingswet.overheid.nl
 ruimte.kta.omgevingswet.overheid.nl
 ruimte.omgevingswet.overheid.nl
 ruimte.pfm.omgevingswet.overheid.nl
@@ -17981,6 +17993,8 @@ search.nvao.net
 search.rivm.nl
 search.tweedekamer.nl
 search.waarderingskamer.nl
+seatsurfing-tst.koop.overheid.nl
+seatsurfing.koop.overheid.nl
 seb.ibki.nl
 sec01.dans.knaw.nl
 secretaria-de-salud-de-soacha-sigsoacha15.hub.arcgis.com
@@ -21232,6 +21246,7 @@ was.digid.nl
 watdraagjijbij.arbeidsmarktplatformpo.nl
 wateetnederland.nl
 water-amerigeoss.opendata.arcgis.com
+water.omgevingswet.overheid.nl
 water.platformwow.nl
 waterbeschikbaarheid.nl
 watergegevens.rijkswaterstaat.nl
