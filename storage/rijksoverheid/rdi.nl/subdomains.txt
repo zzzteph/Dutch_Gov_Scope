@@ -4,18 +4,15 @@ api.rdi.nl
 appl.rdi.nl
 callbook.rdi.nl
 digitaalveiligeproducten.rdi.nl
-feeds.rdi.nl
 iam-acc.rdi.nl
 iam.rdi.nl
 identificatie.rdi.nl
 infoportal.rdi.nl
-magazines.rdi.nl
 mijn-acc.rdi.nl
 mijn.rdi.nl
 nox.infoportal.rdi.nl
 nox.radar.rdi.nl
 onderzoek.rdi.nl
-opendata.rdi.nl
 prod.radar.rdi.nl
 radar-acc.rdi.nl
 radar-test.rdi.nl
@@ -24,4 +21,5 @@ rdi.nl
 slimmestad.rdi.nl
 uploadmodule-acc.rdi.nl
 uploadmodule.rdi.nl
+webmail.rdi.nl
 www.rdi.nl

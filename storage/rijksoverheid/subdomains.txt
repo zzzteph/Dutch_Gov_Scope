@@ -8295,7 +8295,6 @@ feeds.nvwa.nl
 feeds.ocwincijfers.nl
 feeds.om.nl
 feeds.oud.platformrijksoverheidonline.nl
-feeds.rdi.nl
 feeds.regelhulp.nl
 feeds.rijksinspecties.nl
 feeds.rijksoverheid.nl
@@ -12206,7 +12205,6 @@ magazines.nctv.nl
 magazines.nza.nl
 magazines.onderwijsinspectie.nl
 magazines.openbaarministerie.nl
-magazines.rdi.nl
 magazines.rijksoverheid.nl
 magazines.rivm.nl
 magazines.slo.nl
@@ -14929,7 +14927,6 @@ opendata.oud.platformrijksoverheidonline.nl
 opendata.papiamento.two-acs.com
 opendata.platformrijksoverheid.nl
 opendata.preprod.kvk.nl
-opendata.rdi.nl
 opendata.rdw.nl
 opendata.regelhulp.nl
 opendata.rijksbegroting.nl
@@ -21450,6 +21447,7 @@ webmail.parlement.nl
 webmail.partnersforwater.nl
 webmail.pbl.nl
 webmail.politieacademie.nl
+webmail.rdi.nl
 webmail.rdw.nl
 webmail.rekenkamer.nl
 webmail.rgd.minbzk.nl
