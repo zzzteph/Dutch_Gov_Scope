@@ -168,6 +168,7 @@ sdm
 repository
 sso
 secure
+vacatures
 service
 siam
 magazine
@@ -212,7 +213,6 @@ dashboard
 zakelijk
 geoweb
 nieuwsbrieven
-vacatures
 wiki
 productie
 leren
