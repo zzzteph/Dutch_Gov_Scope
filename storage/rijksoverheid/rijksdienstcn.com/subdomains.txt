@@ -1,17 +1,12 @@
 AutoDiscover.rijksdienstcn.com
 _autodiscover._tcp.rijksdienstcn.com
-a-english.rijksdienstcn.com
-a-feeds.a-english.rijksdienstcn.com
-a-opendata.a-english.rijksdienstcn.com
 autodiscover.rijksdienstcn.com
 bon.rijksdienstcn.com
 english.rijksdienstcn.com
-feeds.english.rijksdienstcn.com
 fileshare.rijksdienstcn.com
 legacy.rijksdienstcn.com
 mail.rijksdienstcn.com
 mobile.rijksdienstcn.com
-opendata.english.rijksdienstcn.com
 papiamentu.rijksdienstcn.com
 portal.rijksdienstcn.com
 push.rijksdienstcn.com

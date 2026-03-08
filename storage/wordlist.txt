@@ -91,7 +91,6 @@ stats
 lyncdiscover
 preview
 media
-feeds.english
 beta
 demo
 geo
@@ -111,6 +110,7 @@ test-dictu
 mx1
 aanvragen
 admin
+feeds.english
 papiamentu
 enterpriseenrollment
 acceptatie.beheer
@@ -134,8 +134,6 @@ forum
 events
 hostmaster
 matomo
-a-english
-opendata.english
 geodata
 academie
 adobe-analytics-dc
@@ -176,8 +174,8 @@ cpcalendars
 cpcontacts
 radius
 eloket
-a-feeds.a-english
-a-opendata.a-english
+a-english
+opendata.english
 ontwikkel
 download
 evenementen
@@ -236,6 +234,8 @@ idp
 downloads
 testeloket
 vpn2
+a-feeds.a-english
+a-opendata.a-english
 prd
 betalen
 huisstijl
