@@ -4237,12 +4237,14 @@ accounts.ix
 accounts.kim
 accounts.minszw
 accounts.mintst2
+acl.ix
 analyse-pipeline.pages.gitlab.analyse.ilt
 analytics.explorer.kim
 analytics.feni.ienw
 analytics.ienw
 api-performance.test.ix
 api.cursus
+api.data.ilt
 api.dbe-t.rvb
 api.ienw.ix
 api.ix
@@ -4267,6 +4269,7 @@ catalyst.so
 ceph-prx1.gn1
 ceph-prx2.gn1
 ceph-prx3.gn1
+ceph-prx3.gn2
 ceph-prx3.gn3
 ceph-prx4.gn1
 ceph-prx4.gn2
@@ -4275,7 +4278,6 @@ ceph-prx5.gn3
 ceph-prx6.gn3
 chat-dev
 chat.datascience
-chat.ix
 chat.tst
 checkmk.devops.rvb
 chef
@@ -4294,6 +4296,7 @@ dashboard.analytics.ienw
 dashboards-at.dstrial-inspectieraad
 dashboards-private.ilt
 dashboards-sodm.dstrial-inspectieraad
+dashboards-temp.sodm
 dashboards-test.sodm
 dashboards.analyse.ilt
 dashboards.datalab-2.ocw
@@ -4320,7 +4323,9 @@ demo.ix
 demowebsite.ix
 dev.fib.ienw
 developer.ix
+development.rdi
 dfront
+dhcp.gn3
 dhcp1.ec
 dhcp1.gn1
 dhcp1.gn2
@@ -4348,6 +4353,7 @@ elkdmz1.ec
 elkdmz1.gn1
 elkdmz1.gn2
 esb-demo.cvr.rvb
+explorer.kim
 factuur.dbe-t.rvb
 fbs-art.cvr.rvb
 fbs-art.devops.rvb
@@ -4357,6 +4363,7 @@ fbs-release.cvr.rvb
 fbs-release.devops.rvb
 focus.jitsi
 fourdigitstest.iuc
+free-ipa.devops.rvb
 frontend-duo
 gdw-art.cvr.rvb
 gdw-art.devops.rvb
@@ -4395,6 +4402,7 @@ gitlab.gn3
 gitlab.ix
 gitlab.keycloak
 gitlab.kim
+gitlab.minszw
 gitlab.mintst1.ix
 gitlab.primary
 gitlab.prisma
@@ -4416,6 +4424,7 @@ gn1
 gn2.meet
 gn2.openstack
 gn2
+gn3.api.ix
 gn3.meet
 gn3
 grafana.ix
@@ -4423,6 +4432,7 @@ gui.datascience
 gui.ienw.ix
 gui.performance.ix
 handleiding-iuc-acceptatie
+ienw
 igis.ilt
 igjtest
 images.analyse.ilt
@@ -4446,6 +4456,7 @@ jenkins-test.devops.rvb
 jenkins.devops.rvb
 jenkins.koopvm
 jira-poc.duo
+jiritest
 jitsi-videobridge.jitsi
 jitsi.iaas
 jitsi
@@ -4482,6 +4493,7 @@ jupyter.jvs
 jupyter.jvs1.lgs
 jupyter.kim
 jupyter.michel
+jupyter.minszw
 jupyter.oprijk.minbzk
 jupyter.p-direkt.azure
 jupyter.p-direkt
@@ -4515,9 +4527,11 @@ keycloak.rdi
 keycloak.sodm
 keycloak.test.analyse.ilt
 keycloak.test.ix
+kibana.analyse.ilt
 kibana.anvs-infra
 kibana.bzknpr
 kibana.dev.fib.ienw
+kibana.dgdoobi
 kibana.front.ix
 kibana.ix
 kibana.jenv
@@ -4525,6 +4539,7 @@ kibana.oai
 kibana.ocw
 kibana.rapportage
 kibana.rvb
+kibana.sodm
 kibana.test.ix
 kit-art.cvr.rvb
 kit-demo.cvr.rvb
@@ -4544,6 +4559,8 @@ login-a.rvb
 login-net.rvb
 login-oms-a.rvb
 login-oms.rvb
+login-planon-a.rvb
+login-planon.rvb
 login.rvb
 mail.gn2
 mail.ienw
@@ -4556,13 +4573,16 @@ mail1.gn3
 mail2.ec
 matrix.ix
 matter.minaz
+mattermost.tst.ix
 minio.datafabriek.ienw
 minio.dev-datafabriek.ienw
 minio.dev.fib.ienw
 minprd2.api.ix
+minprd2.ssp.ix
 mintst2.api.ix
 monitor01.iaas
 mrcdb
+msat.analyse.ilt
 nc-a.rvb
 nc.mindemo
 nc.rivm
@@ -4606,6 +4626,7 @@ ns1.ec
 ns2.ec
 ntp1.ec
 ntp1.gn1
+ntp1.gn2
 ntp1.gn3
 ntp1.rw1
 ntp2.ec
@@ -4619,6 +4640,9 @@ objects.gn3
 objects.rw1
 objectse.gn3
 odc-noord
+odcn-sar
+oms-a.rvb
+oms.rvb
 opendata.rvb
 openstack.gn2
 openstack.gn3
@@ -4629,6 +4653,7 @@ osg-prx2.gn3
 osg-test.gn2
 osg.gn2
 osg.gn3
+overdracht.rvb
 pages.ds-ocw
 pages.gitlab.analyse.ilt
 pages.mintst1.ix
@@ -4642,6 +4667,7 @@ pgadmin.rapportage
 pgadmin.sodm
 pgadmin.test.ix
 pgadmin4.analyse.ilt
+pgadmin4.ix
 pgalab1.rvb
 platform-acc.analyse.ilt
 platform.analyse.ilt
@@ -4649,6 +4675,7 @@ portaal-iuc-acceptatie
 portal-performance.test.ix
 portal.datascience
 portal.ec
+portal.ec1
 portal.informatieproducten-test.duo
 portal.informatieproducten.duo
 portal.ip.test.duo
@@ -4660,6 +4687,7 @@ portal118
 projects.pages.ds-ocw
 projects.pages.mintst1.ix
 prometheus.gn3
+prometheus.tst.ix
 proxy-lab.rvb
 prx.gn2
 prx.gn3
@@ -4679,6 +4707,7 @@ pw.rvb
 pypostcode.dev-datafabriek.ienw
 quality-time-2.devops.rvb
 quality-time-ldap.devops.rvb
+quality-time-oud.devops.rvb
 quality-time.devops.rvb
 rabbitmq.rvb
 rally.gn2
@@ -4696,6 +4725,7 @@ registry.gitlab.dgdoobi
 registry.gitlab.docdirekt
 registry.gitlab.ix
 registry.gitlab.kim
+registry.gitlab.minszw
 registry.gitlab.mintst1.ix
 registry.gitlab.rdi
 registry.gitlab.rvb
@@ -4703,15 +4733,14 @@ registry.gitlab.sodm
 registry.gitlab.test.ix
 registry.gitlab.wibo.ienw
 registry.ix
+registry.verrekeningneveninkomsten
 repo.ix
 repo.so
 repo1.gn2
 repo1.gn3
-repo1.rw1
 repo2.gn2
 repo2.gn3
 repo2.ix
-repo2.rw1
 resolv1.ec
 resolv1.gn1
 resolv1.gn2
@@ -4721,6 +4750,7 @@ resolv2.ec
 resolv2.gn1
 resolv2.gn2
 resolv2.gn3
+resolv2
 resolv2.rw1
 rmq.front.ix
 rmq.ix
@@ -4760,10 +4790,13 @@ rstudio.ivho
 rstudio.ix
 rstudio.jv-dspoc
 rstudio.jvs.ix
+rstudio.jvs
 rstudio.jvs1.lgs
 rstudio.kim
 rstudio.michel
+rstudio.minszw
 rstudio.oprijk.minbzk
+rstudio.p-direkt.azure
 rstudio.p-direkt
 rstudio.paas-p-direkt
 rstudio.rdi
@@ -4823,6 +4856,7 @@ shiny.secdemo
 shiny.test.ix
 shiny.walter
 shiny02.p-direkt
+smtp01
 smtp03
 smtp04
 smtp1.rvb
@@ -4844,16 +4878,20 @@ ssp.estota
 ssp.ix
 stats.datascience
 stats.duo
+stats2.duo
 status-acceptatie
 status.gn3
 stepprx
+superset.analyse.ilt
 superset.demo.ix
 superset.dev.fib.ienw
 superset.dgdoobi
 synapse
 tenantapp.ec
 test.rapportage
+test.th
 test.thms
+test5.th
 testapi.ix
 testapp.devops.rvb
 testhf.gn2
@@ -4889,6 +4927,7 @@ vscode.analyse.ilt
 vscode.idlab.ilt
 vscode.ix
 vscode.kim
+vscode.minszw
 webmail.rsj
 whatsip.test.ix
 www.rapportage

@@ -806,6 +806,7 @@ http://resources.huygens.knaw.nl
 http://ri-erin.vragenlijst-acc.rivm.nl
 http://ricegis.maps.arcgis.com
 http://rijbewijs.nl
+http://rijkscloud.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
@@ -886,6 +887,7 @@ http://stats.dans.knaw.nl
 http://stats.globalentry-rtp.nl
 http://stats.knaw.nl
 http://stats.proeftuin.gf.irealisatie.nl
+http://status.gn3.rijkscloud.nl
 http://status.location.arcgis.com
 http://status.proeftuin.gf.irealisatie.nl
 http://stelselcatalogus.acc.omgevingswet.overheid.nl
@@ -2728,11 +2730,11 @@ https://api.contenttoolsrijksoverheid.nl
 https://api.crimediggers.nl
 https://api.cursus.rijkscloud.nl
 https://api.dashboardgroningen.nl
+https://api.data.ilt.rijkscloud.nl
 https://api.dataloop-acc.dnb.nl
 https://api.dataloop-test.dnb.nl
 https://api.dataloop.dnb.nl
 https://api.dataplatform.knmi.nl
-https://api.dbe-t.rvb.rijkscloud.nl
 https://api.debatdirect.tweedekamer.nl
 https://api.dementieinkaart.nl
 https://api.denkmee.zuid-holland.nl
@@ -4485,13 +4487,10 @@ https://dashboard.skc-oc.org
 https://dashboardduurzaamheid.nl
 https://dashboardgroningen.nl
 https://dashboardklimaatbeleid.nl
-https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl
 https://dashboards-private.ilt.rijkscloud.nl
-https://dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl
 https://dashboards.analyse.ilt.rijkscloud.nl
 https://dashboards.cbs.nl
 https://dashboards.datalab-2.ocw.rijkscloud.nl
-https://dashboards.ilt-idlab.rijkscloud.nl
 https://dashboards.ilt.rijkscloud.nl
 https://dashboards.ipi.rijkscloud.nl
 https://dashboards.kadaster.nl
@@ -4614,7 +4613,6 @@ https://dba.rijksapplicaties.nl
 https://dba.staging.rijksapplicaties.nl
 https://dbc.rijksapplicaties.nl
 https://dbc.staging.rijksapplicaties.nl
-https://dbe-t.rvb.rijkscloud.nl
 https://dbgb.pleio.nl
 https://dblogistiek.brandweer.nl
 https://dbpostgres.cultuurparticipatie.nl
@@ -4800,6 +4798,7 @@ https://developer.rvig.nl
 https://developers.arcgis.com
 https://developers.kvk.nl
 https://development.bodemrichtlijn.nl
+https://development.rdi.rijkscloud.nl
 https://devext.arcgis.com
 https://devportal.competentnl.nl
 https://devsamdevelop.github.io
@@ -5618,6 +5617,7 @@ https://expertpanel.gebruikercentraal.nl
 https://exploitantonbemandeluchtvaartuigen.rdw.nl
 https://explore-humanitarian.hub.arcgis.com
 https://explorer.arcgis.com
+https://explorer.kim.rijkscloud.nl
 https://export.bkd.eu
 https://extbhr.politieacademie.nl
 https://extern.formulierdus-i.nl
@@ -5642,7 +5642,6 @@ https://facades-verification.labs.dans.knaw.nl
 https://facades.labs.dans.knaw.nl
 https://facturen.kvk.nl
 https://facturen.ptvt.nl
-https://factuur.dbe-t.rvb.rijkscloud.nl
 https://faculteitmilitairewetenschappen.nl
 https://fairaware.labs.dans.knaw.nl
 https://faireva.labs.dans.knaw.nl
@@ -6169,7 +6168,6 @@ https://gisservices.aaenmaas.nl
 https://gisservicesacc.aaenmaas.nl
 https://gisviewer.odijmond.nl
 https://git-auth.kb.nl
-https://git-dev.rijkscloud.nl
 https://git.dev.cloud.kadaster.nl
 https://git.dfront.rijkscloud.nl
 https://git.dictu.rijkscloud.nl
@@ -6182,8 +6180,8 @@ https://github.apps.feedfoodtransfer.nl
 https://github.github.io
 https://gitlab.aerius.nl
 https://gitlab.datascience.rijkscloud.nl
-https://gitlab.ds-ocw.rijkscloud.nl
 https://gitlab.huc.knaw.nl
+https://gitlab.rdi.rijkscloud.nl
 https://gitlab.ritp.rijkscloud.nl
 https://gitlab.wibo.ienw.rijkscloud.nl
 https://gkssb.chm-cbd.net
@@ -6676,7 +6674,6 @@ https://infotrac.galegroup.com.access.authkb.kb.nl
 https://infowms.nl
 https://infra.cloud.kadaster.nl
 https://infra.test.cloud.kadaster.nl
-https://infrabeheer.rvb.rijkscloud.nl
 https://ingelogd.acc.mijnslachtofferzaak.nl
 https://ingelogd.acc.staging.mijnslachtofferzaak.nl
 https://ingelogd.mijnslachtofferzaak.nl
@@ -6849,7 +6846,6 @@ https://iowgis.maps.arcgis.com
 https://ip.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://ip4.rijkscloud.nl
-https://ip6.rijkscloud.nl
 https://ipi.rijkscloud.nl
 https://ipkd-orders.rijksapplicaties.nl
 https://ipkd-orders.staging.rijksapplicaties.nl
@@ -6983,17 +6979,12 @@ https://jupyter.analyse.ilt.rijkscloud.nl
 https://jupyter.cursus.rijkscloud.nl
 https://jupyter.datalab-2.ocw.rijkscloud.nl
 https://jupyter.datalab-3.ocw.rijkscloud.nl
-https://jupyter.dstrial-inspectieraad.rijkscloud.nl
 https://jupyter.fib.ienw.rijkscloud.nl
 https://jupyter.horizon.ienw.rijkscloud.nl
 https://jupyter.hr-ienw.rijkscloud.nl
 https://jupyter.idlab.ilt.rijkscloud.nl
-https://jupyter.ilt-zz.rijkscloud.nl
-https://jupyter.ilt.rijkscloud.nl
 https://jupyter.ipi.rijkscloud.nl
 https://jupyter.kim.rijkscloud.nl
-https://jupyter.rdi.rijkscloud.nl
-https://jupyter.ritp.rijkscloud.nl
 https://juristenriec-liec.kennisplatformondermijning.nl
 https://jury.knawonderwijsprijs.nl
 https://just-joshing-private-repo.anthophila.github.io
@@ -7134,7 +7125,6 @@ https://keuzehulp.simpel-switchen.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keuzekompas.werkenbijdefensie.nl
 https://keycloak-acc.vm-02.azure.grid.rws.nl
-https://keycloak-ext.dgdoobi.rijkscloud.nl
 https://keycloak-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://keycloak.acc.onlinepublicatie.topinkomens.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
@@ -7143,9 +7133,7 @@ https://keycloak.learning.hansken.org
 https://keycloak.ndw.nu
 https://keycloak.onlinepublicatie.topinkomens.nl
 https://keycloak.pleio.nl
-https://keycloak.rdi.rijkscloud.nl
 https://keycloak.stelselcatalogus.nl
-https://keycloak.test.analyse.ilt.rijkscloud.nl
 https://keycloak.vm-02.azure.grid.rws.nl
 https://keys-updates.rijksapplicaties.nl
 https://keys-updates.staging.rijksapplicaties.nl
@@ -7908,7 +7896,6 @@ https://meertenspublicaties.meertens.knaw.nl
 https://meet.coa.nl
 https://meet.lbio.nl
 https://meet.rechtspraak.nl
-https://meet.rijkscloud.nl
 https://meet.th.rechtspraak.nl
 https://meet.vc.rechtspraak.nl
 https://meeting-acc.zonmw.nl
@@ -8404,9 +8391,7 @@ https://nb.voedingscentrum.nl
 https://nba.nl
 https://nbso-brazil.com.br
 https://nbso-texas.com
-https://nc-a.rvb.rijkscloud.nl
 https://nc-openbaar.vallei-veluwe.nl
-https://nc.rivm.rijkscloud.nl
 https://ncab.nl
 https://ncadierproevenbeleid.nl
 https://ncdr.brandam.nl
@@ -8490,8 +8475,6 @@ https://nextcloud.acc.irealisatie.nl
 https://nextcloud.cultuurparticipatie.nl
 https://nextcloud.dgdoobi.rijkscloud.nl
 https://nextcloud.irealisatie.nl
-https://nextcloud.rijkspas.rijkscloud.nl
-https://nextcloud.rvb.rijkscloud.nl
 https://nextdrive.nationaalarchief.nl
 https://nexus-docker.aerius.nl
 https://nexus.aerius.nl
@@ -8604,7 +8587,6 @@ https://no.espacenet.com
 https://noaa.cultureelerfgoed.nl
 https://noaa.maps.arcgis.com
 https://nominatim.kloeke.huc.knaw.nl
-https://noorddrive.rijkscloud.nl
 https://noorderparkruigenhoek.nl
 https://noordholland.databank.nl
 https://noordhollandnoord.leerwerkloket.nl
@@ -8714,6 +8696,7 @@ https://odcn-ont.jira.odc-noord.nl
 https://odcn-ont.topdesk.odc-noord.nl
 https://odcn-prd.confluence.odc-noord.nl
 https://odcn-prd.topdesk.odc-noord.nl
+https://odcn-sar.rijkscloud.nl
 https://odcn.pleio.nl
 https://odijmond.nl
 https://odin.odmh.nl
@@ -8934,7 +8917,6 @@ https://opendata.rijksinspecties.nl
 https://opendata.rijksoverheid.nl
 https://opendata.royal-house.nl
 https://opendata.rsj.nl
-https://opendata.rvb.rijkscloud.nl
 https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
 https://opendata.slo.nl
@@ -9093,7 +9075,6 @@ https://pacemweb.nl
 https://paco.caop.nl
 https://pages-123.private-pages.github.io
 https://pages-engineering.github.github.io
-https://pages.ds-ocw.rijkscloud.nl
 https://pages.github.io
 https://pages.huc.knaw.nl
 https://pages.svb.nl
@@ -9250,7 +9231,6 @@ https://platcicdjavasample.wgu-edu.github.io
 https://platform-acc.analyse.ilt.rijkscloud.nl
 https://platform-services-nodejs.wgu-edu.github.io
 https://platform-services-scripts.wgu-edu.github.io
-https://platform.analyse.ilt.rijkscloud.nl
 https://platform.zwdelta.nl
 https://platformafpakken.fiod.nl
 https://platformafvalcirculair.nl
@@ -9363,7 +9343,6 @@ https://portal.formulierdus-i.nl
 https://portal.githubpartners.github.io
 https://portal.hubdev.arcgis.com
 https://portal.informatieproducten.duo.rijkscloud.nl
-https://portal.ip.test.duo.rijkscloud.nl
 https://portal.kbvg.nl
 https://portal.knaw.nl
 https://portal.lvb.cloud.kadaster.nl
@@ -9581,7 +9560,6 @@ https://projectie.cultuurparticipatie.nl
 https://projectnet.zonmw.nl
 https://projects-acc.rvo.nl
 https://projects-tst.rvo.nl
-https://projects.pages.ds-ocw.rijkscloud.nl
 https://projects.rvo.nl
 https://prolander.nl
 https://prom-select.eu
@@ -9622,7 +9600,6 @@ https://ptvt.nl
 https://pub.arcgis.com
 https://pubdev.arcgis.com
 https://public-preprod.ep-online.nl
-https://public.dashboards.dgdoobi.rijkscloud.nl
 https://public.ep-online.nl
 https://public.mst.ctgb.nl
 https://public.nak.nl
@@ -9661,7 +9638,6 @@ https://pushmail.awti.nl
 https://pushmail.flevoland.nl
 https://put-kpi-dashboard.ndw.nu
 https://pvs.oostvaarderskliniek.nl
-https://pw.rvb.rijkscloud.nl
 https://pwa-api-test.raadvanstate.nl
 https://pwa-api.raadvanstate.nl
 https://pwdreset.onderzoeksraad.nl
@@ -9740,7 +9716,6 @@ https://ras.nvwa.nl
 https://rastoken.rws.nl
 https://ravas-a.secure.cito.nl
 https://ravas.secure.cito.nl
-https://rb.rvb.rijkscloud.nl
 https://rbbgroep.nl
 https://rbckeyelementsforleaders.evenement.ser.nl
 https://rbl-talent.minbzk.nl
@@ -9981,7 +9956,6 @@ https://rijksbeveiligingsportaal.staging.rijksapplicaties.nl
 https://rijksboarding.staging.rijksapplicaties.nl
 https://rijksbrededienstverleners.nl
 https://rijksbredekennisagenda.nl
-https://rijkscloud.nl
 https://rijksdienstcn.com
 https://rijksevents-bzk.rijksapplicaties.nl
 https://rijksevents-bzk.staging.rijksapplicaties.nl
@@ -10081,21 +10055,12 @@ https://rss.politie.nl
 https://rssfeeds.huc.knaw.nl
 https://rstatci.onderzoeksraad.nl
 https://rstudio.analyse.ilt.rijkscloud.nl
-https://rstudio.cursus.rijkscloud.nl
 https://rstudio.datalab-2.ocw.rijkscloud.nl
 https://rstudio.datalab-3.ocw.rijkscloud.nl
-https://rstudio.dstrial-inspectieraad.rijkscloud.nl
 https://rstudio.fib.ienw.rijkscloud.nl
-https://rstudio.horizon.ienw.rijkscloud.nl
-https://rstudio.hr-ienw.rijkscloud.nl
-https://rstudio.idlab.ilt.rijkscloud.nl
-https://rstudio.ilt.rijkscloud.nl
 https://rstudio.informatieproducten.duo.rijkscloud.nl
-https://rstudio.ip.test.duo.rijkscloud.nl
 https://rstudio.ipi.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl
-https://rstudio.rdi.rijkscloud.nl
-https://rstudio.ritp.rijkscloud.nl
 https://rt.ndw.nu
 https://rtl.rdw.nl
 https://ru-i.espacenet.com
@@ -10576,7 +10541,6 @@ https://ssc-ictspecials.nl
 https://sso-noord.nl
 https://sso-webauth.rivm.nl
 https://sso.acceptatie.istandaarden.nl
-https://sso.dbe-t.rvb.rijkscloud.nl
 https://sso.dmo.omgevingswet.overheid.nl
 https://sso.enabling.omgevingswet.overheid.nl
 https://sso.int.omgevingswet.overheid.nl
@@ -10744,6 +10708,7 @@ https://stats.ndw.nu
 https://stats.one-conference.nl
 https://stats.pleio.nl
 https://stats.test.mgo.irealisatie.nl
+https://stats2.duo.rijkscloud.nl
 https://status-page.rvr.org
 https://status.debatdirect.tweedekamer.nl
 https://status.grid.rws.nl
@@ -10755,7 +10720,6 @@ https://status.my.skal.nl
 https://status.omgevingswet.overheid.nl
 https://status.pleio.nl
 https://status.pre.omgevingswet.overheid.nl
-https://status.rijkscloud.nl
 https://statuspage-bridge.pleio.nl
 https://stc-acc.ilent.nl
 https://stc.ilent.nl
@@ -13357,7 +13321,6 @@ https://www.rijksappstore.nl
 https://www.rijksbegroting.nl
 https://www.rijksbrededienstverleners.nl
 https://www.rijksbredekennisagenda.nl
-https://www.rijkscloud.nl
 https://www.rijksdienstcn.com
 https://www.rijksfinancien.nl
 https://www.rijkshuisstijl.nl
