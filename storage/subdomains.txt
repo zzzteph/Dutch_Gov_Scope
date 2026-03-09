@@ -8297,7 +8297,6 @@ feeds.nvwa.nl
 feeds.ocwincijfers.nl
 feeds.om.nl
 feeds.oud.platformrijksoverheidonline.nl
-feeds.rijksinspecties.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
 feeds.royal-house.nl
@@ -14947,7 +14946,6 @@ opendata.platformrijksoverheid.nl
 opendata.preprod.kvk.nl
 opendata.rdw.nl
 opendata.rijksbegroting.nl
-opendata.rijksinspecties.nl
 opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
 opendata.royal-house.nl
