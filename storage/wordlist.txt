@@ -398,7 +398,6 @@ omgevingswet
 standaarden
 bastion365
 magazinesintern
-server
 acc-maps
 topdesk
 applicaties
@@ -752,6 +751,7 @@ csm
 developers
 help
 pro
+server
 workforce
 klachten-acc
 nlhull
@@ -4978,7 +4978,6 @@ voor1
 voor2
 webtest10
 woo-formulier
-a-server
 a-magazinesintern
 landelijkevastgoeddag
 acc-ags
