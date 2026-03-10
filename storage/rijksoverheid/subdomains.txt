@@ -1029,8 +1029,6 @@ a-magazines.forensischinstituut.nl
 a-magazines.government.nl
 a-magazines.ilent.nl
 a-magazines.openbaarministerie.nl
-a-magazines.rijksoverheid.nl
-a-magazinesintern.rijksoverheid.nl
 a-magazinesintern.rijksvastgoedbedrijf.nl
 a-media.ssr.nl
 a-mijnhrservices.tno.nl
@@ -1069,7 +1067,6 @@ a-origin.api.prod1.contenttoolsrijksoverheid.nl
 a-os.tno.nl
 a-ourplan.tno.nl
 a-outsystems.tsn.tno.nl
-a-persberichten.rijksoverheid.nl
 a-pfa.tno.nl
 a-provisioning.tno.nl
 a-ps1.platformrijksoverheid.nl
@@ -12194,6 +12191,7 @@ magazine.forumstandaardisatie.nl
 magazine.kvk.nl
 magazine.sommbo.nl
 magazine.zuid-holland.nl
+magazines-bz.rijksoverheid.nl
 magazines-ienw.rijksoverheid.nl
 magazines.agendastad.nl
 magazines.algemenebestuursdienst.nl
@@ -14466,7 +14464,6 @@ o-cms1.defensie.nl
 o-cms1.platformrijksoverheid.nl
 o-cms1.rijksoverheid.nl
 o-magazines.government.nl
-o-magazinesintern.rijksoverheid.nl
 o-site1.defensie.nl
 o-site1.platformrijksoverheid.nl
 o-site1.rijksoverheid.nl
@@ -19375,12 +19372,9 @@ t-cms.rijksoverheid.nl
 t-cms1.defensie.nl
 t-cms1.rijksoverheid.nl
 t-feeds.rijksoverheid.nl
-t-magazines.rijksoverheid.nl
-t-magazinesintern.rijksoverheid.nl
 t-next-cms.contenttoolsrijksoverheid.nl
 t-old-cms.contenttoolsrijksoverheid.nl
 t-opendata.rijksoverheid.nl
-t-persberichten.rijksoverheid.nl
 t-ps.platformrijksoverheid.nl
 t-site1.defensie.nl
 t-site1.rijksoverheid.nl

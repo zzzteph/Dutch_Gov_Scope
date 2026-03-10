@@ -121,7 +121,6 @@ www1
 developer
 mam
 mx2
-a-magazines
 www-ow
 www-ts
 legacy
@@ -152,6 +151,7 @@ externemail
 m365
 password
 api-acc
+a-magazines
 servicedesk
 www-acc2
 www-dev2
@@ -672,7 +672,6 @@ portaal-acceptatie
 startpagina
 bon
 online
-a-magazinesintern
 a-static
 handleiding
 relay
@@ -4937,7 +4936,6 @@ vpnbon
 tools-acc
 a-git
 a-jira
-a-persberichten
 a-servicedesk
 a-voor1
 a-voor2
@@ -4959,9 +4957,9 @@ e-maildiensten
 i-voor1
 informatiepuntkinderopvangtoeslag
 landingpage
+magazines-bz
 magazines-ienw
 med-srv20
-o-magazinesintern
 o-static
 o-voor1
 persberichten
@@ -4971,10 +4969,7 @@ site6
 site7
 site8
 t-feeds
-t-magazines
-t-magazinesintern
 t-opendata
-t-persberichten
 t-static
 t-voor1
 teverantwoordenregelingen
@@ -4984,6 +4979,7 @@ voor2
 webtest10
 woo-formulier
 a-server
+a-magazinesintern
 landelijkevastgoeddag
 acc-ags
 acc-etl
