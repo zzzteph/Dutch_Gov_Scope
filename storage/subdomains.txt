@@ -999,7 +999,6 @@ a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
 a-feeds.ocwincijfers.nl
 a-feeds.rijksoverheid.nl
-a-feeds.rijksrecherche.nl
 a-feeds.royal-house.nl
 a-feeds.sbv-z.nl
 a-feeds.socialestabiliteit.nl
@@ -1055,7 +1054,6 @@ a-opendata.koopoverheid.nl
 a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
 a-opendata.rijksoverheid.nl
-a-opendata.rijksrecherche.nl
 a-opendata.royal-house.nl
 a-opendata.sbv-z.nl
 a-opendata.socialestabiliteit.nl
@@ -1158,7 +1156,6 @@ a-www.netherlandsworldwide.nl
 a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
 a-www.rijksoverheid.nl
-a-www.rijksrecherche.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
 a-www.socialestabiliteit.nl
@@ -2082,7 +2079,6 @@ access.huc.knaw.nl
 access.lvnl.nl
 access.nba.nl
 access.rdw.nl
-access.rijksrecherche.nl
 access1.minbzk.nl
 accessibility.tno.nl
 accessibleayr-swecouk.hub.arcgis.com
@@ -5633,7 +5629,6 @@ componenten.overheid.nl
 condor.coa.nl
 conf.cbg-meb.nl
 conf.rdw.nl
-conf.rijksrecherche.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.gebruikercentraal.nl
@@ -6712,7 +6707,6 @@ dialin.lbio.nl
 dialin.nba.nl
 dialin.prolander.nl
 dialin.rdw.nl
-dialin.rijksrecherche.nl
 dialin2.vechtstromen.nl
 dialyse.venvn.nl
 diane-a.extern.minszw.nl
@@ -8294,7 +8288,6 @@ feeds.ocwincijfers.nl
 feeds.om.nl
 feeds.oud.platformrijksoverheidonline.nl
 feeds.rijksoverheid.nl
-feeds.rijksrecherche.nl
 feeds.royal-house.nl
 feeds.rsj.nl
 feeds.samenwerkingrijknoord.nl
@@ -12068,7 +12061,6 @@ lyncdiscover.justid.nl
 lyncdiscover.lbio.nl
 lyncdiscover.minbzk.nl
 lyncdiscover.rdw.nl
-lyncdiscover.rijksrecherche.nl
 lyncdiscover.s-bb.nl
 lyncdiscover.voedingscentrum.nl
 lyncdiscoverinternal.s-bb.nl
@@ -12694,7 +12686,6 @@ meet.prolander.nl
 meet.rdw.nl
 meet.rechtspraak.nl
 meet.rijkscloud.nl
-meet.rijksrecherche.nl
 meet.sso-noord.nl
 meet.th.rechtspraak.nl
 meet.uwv.nl
@@ -14943,7 +14934,6 @@ opendata.preprod.kvk.nl
 opendata.rdw.nl
 opendata.rijksbegroting.nl
 opendata.rijksoverheid.nl
-opendata.rijksrecherche.nl
 opendata.royal-house.nl
 opendata.rsj.nl
 opendata.rvb.rijkscloud.nl
@@ -18382,7 +18372,6 @@ sip.myroom.minszw.nl
 sip.myroom.minvws.nl
 sip.p-direkt.minbzk.nl
 sip.rdw.nl
-sip.rijksrecherche.nl
 sip.rvig.nl
 sip.s-bb.nl
 sip.vico.dji.nl
