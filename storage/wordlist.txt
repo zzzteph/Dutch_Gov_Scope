@@ -395,7 +395,6 @@ data-acc
 omgevingswet
 standaarden
 bastion365
-magazinesintern
 acc-maps
 topdesk
 applicaties
@@ -673,6 +672,7 @@ bon
 online
 a-static
 handleiding
+magazinesintern
 relay
 acc-geo
 acc-inloggen
@@ -4978,7 +4978,6 @@ voor1
 voor2
 webtest10
 woo-formulier
-a-magazinesintern
 landelijkevastgoeddag
 acc-ags
 acc-etl
