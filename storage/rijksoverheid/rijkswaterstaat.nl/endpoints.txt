@@ -1,8 +1,11 @@
+http://acceptatie.botova.rijkswaterstaat.nl
 http://acceptatie.tws-esb.rijkswaterstaat.nl
 http://data-acc.rijkswaterstaat.nl
 http://meridian.rijkswaterstaat.nl
+http://preprod.iam.rijkswaterstaat.nl
 http://prs.rijkswaterstaat.nl
 http://test.tws-esb.rijkswaterstaat.nl
+http://topdesk-iv.rijkswaterstaat.nl
 http://topdesk-wvl.rijkswaterstaat.nl
 http://topdesk.rijkswaterstaat.nl
 http://tws-esb.rijkswaterstaat.nl
@@ -12,8 +15,8 @@ https://acc-geo.rijkswaterstaat.nl
 https://acc-maps.rijkswaterstaat.nl
 https://acc.pgr-ext.rijkswaterstaat.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
-https://acceptatie.botova.rijkswaterstaat.nl
 https://acceptatie.esb.rijkswaterstaat.nl
+https://acceptatie.iam.rijkswaterstaat.nl
 https://acceptatie.spin2.rijkswaterstaat.nl
 https://ags.rijkswaterstaat.nl
 https://am.rijkswaterstaat.nl
@@ -42,9 +45,7 @@ https://open.rijkswaterstaat.nl
 https://opleiding.spin2.rijkswaterstaat.nl
 https://overstroomik.rijkswaterstaat.nl
 https://pgr-ext.rijkswaterstaat.nl
-https://preprod.iam.rijkswaterstaat.nl
 https://protide.rijkswaterstaat.nl
-https://rhel8.wabinfo.rijkswaterstaat.nl
 https://rijkswaterstaat.nl
 https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
@@ -73,12 +74,9 @@ https://test.esb.rijkswaterstaat.nl
 https://test.spin2.rijkswaterstaat.nl
 https://tmxweb.rijkswaterstaat.nl
 https://toegangderden.rijkswaterstaat.nl
-https://topdesk-iv.rijkswaterstaat.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
 https://vpr.rijkswaterstaat.nl
-https://wabinfo.rijkswaterstaat.nl
 https://wachtwoord.rijkswaterstaat.nl
-https://waterwebservices.beta.rijkswaterstaat.nl
 https://waterwebservices.rijkswaterstaat.nl
 https://werkenbij.rijkswaterstaat.nl
 https://www.bezoekerscentrum.rijkswaterstaat.nl
