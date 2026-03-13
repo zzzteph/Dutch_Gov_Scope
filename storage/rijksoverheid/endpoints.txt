@@ -33,6 +33,7 @@ http://acc-mip.rws.nl
 http://acc-participantapi.postcovidonderzoek.nl
 http://acc-preview.digid.nl
 http://acc-researcher.postcovidonderzoek.nl
+http://acc-staging-mijn.rvo.nl
 http://acc-veldmonitoring.rivm.nl
 http://acc-vtcc.rivm.nl
 http://acc-webportaal.rws.nl
@@ -455,7 +456,7 @@ http://ftp.ofgv.nl
 http://ftp.schoolleidersregisterpo.nl
 http://gbatmv.rvo.nl
 http://gcn-app.rivm.nl
-http://gdi-a.rvo.nl
+http://gdi-b.rvo.nl
 http://gdlo.belastingdienst.nl
 http://gebiedagen2.waddenzee.nl
 http://gebruiker-beheer.dus-i.nl
@@ -524,6 +525,7 @@ http://int-prod-01.flevoland.nl
 http://interedition.huygens.knaw.nl
 http://intern.afm.nl
 http://interneurons.nin.knaw.nl
+http://intra-acc.rvo.nl
 http://intranet.ctgb.nl
 http://inzage.hansken.org
 http://iwelcome-preprod.nvwa.nl
@@ -1029,7 +1031,6 @@ http://viep.brba.nl
 http://viewer.sensorenregister.test.cloud.kadaster.nl
 http://viya.rijkswaterstaat.nl
 http://voi.brabant.nl
-http://vorijkbo-acc.rvo.nl
 http://vpn.bkd.eu
 http://vpn.digiinkooppentest.odc-noord.nl
 http://vrijwaringsbewijsaanvragen.rdw.nl
@@ -2339,6 +2340,7 @@ https://accshortnis.naktuinbouw.nl
 https://accsso.politie.nl
 https://acgsa.maps.arcgis.com
 https://achd-substance-use-adcogov-health.hub.arcgis.com
+https://achilles-prd.rvo.nl
 https://achilles.rvo.nl
 https://achterhoek.leerwerkloket.nl
 https://achterhoek.lerenenwerken.nl
@@ -2679,6 +2681,7 @@ https://api-acc.competentnl.nl
 https://api-acc.dashboardgroningen.nl
 https://api-acc.rdi.nl
 https://api-acc.resources.ilent.nl
+https://api-acc.rvo.nl
 https://api-admin.developer.overheid.nl
 https://api-dev.afm.nl
 https://api-dev.dementieinkaart.nl
@@ -5398,6 +5401,7 @@ https://energieslag.pleio.nl
 https://energyportpeelland.verbeterjehuis.nl
 https://energyscenarios.tno.nl
 https://engine.fhub.dictu.nl
+https://english-prod.rvo.nl
 https://english.aivd.nl
 https://english.autoriteitnvs.nl
 https://english.belastingdienst-cn.nl
@@ -5975,7 +5979,7 @@ https://gcgis-gwinnettcountyga.hub.arcgis.com
 https://gco.cloud.kadaster.nl
 https://gdc.cloud.kadaster.nl
 https://gdc.test.cloud.kadaster.nl
-https://gdi-b.rvo.nl
+https://gdi-a.rvo.nl
 https://gdi.databank.nl
 https://gdindex.databank.nl
 https://gds.dopingautoriteit.nl
@@ -6775,7 +6779,6 @@ https://internetconsultatie.nl
 https://internetdienstensiam.svb.nl
 https://interspeciesinfo.com
 https://interventiedatabase.nl
-https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.dans.knaw.nl
@@ -7061,6 +7064,7 @@ https://kennis.nponderwijs.nl
 https://kennis.waterschaplimburg.nl
 https://kennis.zuid-holland.nl
 https://kennisbank-a.politieacademie.nl
+https://kennisbank-acc.rvo.nl
 https://kennisbank-api-a.politieacademie.nl
 https://kennisbank-api-t.politieacademie.nl
 https://kennisbank-api.politieacademie.nl
@@ -7523,6 +7527,7 @@ https://loganms.github.io
 https://logerenbijdeboswachter.nl
 https://logger.pleio.nl
 https://loggingbe.huygens.knaw.nl
+https://login-acc.rvo.nl
 https://login-acc.rvr.org
 https://login-az.rijksapplicaties.nl
 https://login-az.staging.rijksapplicaties.nl
@@ -8733,6 +8738,7 @@ https://oidc.proeftuin.uzi-online.irealisatie.nl
 https://oidji.nl
 https://oinregister.logius.nl
 https://oioportaal.ssr.nl
+https://ojb.rvo.nl
 https://okotoksmaps-okotoks.hub.arcgis.com
 https://oktibbeha.maps.arcgis.com
 https://old.belastingles.nl
@@ -10184,10 +10190,12 @@ https://samenwerkingsplatform-sroks.pleio.nl
 https://samenwerkruimten.tweedekamer.nl
 https://sample-ui-app.wgu-edu.github.io
 https://sand.meertens.knaw.nl
+https://sandbox-cms.rvo.nl
 https://sandbox.functiegebouwrijksoverheid.nl
 https://sandbox.ikwerkvoornederland.nl
 https://sandbox.mobiliteitsbank.nl
 https://sandbox.redactie.eerstekamer.nl
+https://sandbox.rvo.nl
 https://sandbox.werkenbijdeoverheid.nl
 https://sandbox.werkenvoornederland.nl
 https://sap.intranet.minienm.nl
@@ -11265,6 +11273,7 @@ https://tracking.cbr.nl
 https://tracking.delpher.nl
 https://tracking.kb.nl
 https://tracks.wgu-edu.github.io
+https://trade-prd.rvo.nl
 https://tradeandinnovate.nl
 https://tradewithnl.nl
 https://traefik.cultuurparticipatie.nl
@@ -11675,6 +11684,7 @@ https://voorraadtelling.rivm.nl
 https://voorvertoning.leeroverzicht.nl
 https://vor-ont.hetcak.nl
 https://vorijk.nl
+https://vorijkbo-acc.rvo.nl
 https://vorijkbo-tst.rvo.nl
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn-nabs.officielebekendmakingen.nl

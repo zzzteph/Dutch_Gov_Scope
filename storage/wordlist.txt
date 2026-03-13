@@ -101,6 +101,7 @@ www-ac
 www-dev
 www-p
 www-tst
+sandbox
 loket
 mobile
 aanmelden
@@ -121,10 +122,10 @@ www1
 developer
 mam
 mx2
+api-acc
 www-ow
 www-ts
 legacy
-sandbox
 zaaksysteem
 chat
 archief
@@ -150,7 +151,6 @@ sftp
 externemail
 m365
 password
-api-acc
 a-magazines
 servicedesk
 www-acc2
@@ -708,6 +708,7 @@ acc-infographics
 crowdtech
 energieslag
 gdi
+login-acc
 mp
 test-mijn
 raadplegen-acc
@@ -5124,6 +5125,7 @@ acc-english
 acc-ezine
 acc-geocontent
 acc-geoservices
+acc-staging-mijn
 acc-webform
 acc-website
 acc-wetten
@@ -5131,6 +5133,8 @@ acc-windviewer
 acc.informatiehuis
 acc1.energiebesparingsverkenner
 achilles-acc
+achilles-prd
+achilles-tst
 achilles
 aiddata
 amglb
@@ -5187,6 +5191,7 @@ energiebesparingsverkenner-ws
 energiebesparingsverkenner
 energielabel-checker
 english-data
+english-prod
 epbdwebservices-acc
 epbdwebservices-preprod
 epbdwebservices
@@ -5195,6 +5200,7 @@ ezine
 ezines
 flux-acc
 flux
+garanties
 gbatmv
 gdi-a
 gdi-b
@@ -5217,6 +5223,7 @@ intranetvan
 jaarjournaal
 jiraimg-acc
 jiraimg
+kennisbank-acc
 kennisbank-tst
 kennisdelen
 kostenkentallen
@@ -5233,6 +5240,7 @@ monitoring-infra-preprod.efiling.mijnoctrooi
 monitoring-infra.efiling.mijnoctrooi
 monitoring-preprod.efiling.mijnoctrooi
 monitoring.efiling.mijnoctrooi
+mypage
 offshorewind
 ojb
 ont-mijn
@@ -5263,6 +5271,7 @@ regelingen-tst
 regelingen
 rhel-np-mijn
 rhel-p-mijn
+sandbox-cms
 sharingknowledge
 sonarqube-infra-edu.efiling.mijnoctrooi
 sonarqube-infra-preprod.efiling.mijnoctrooi
@@ -5278,6 +5287,8 @@ test-website
 test-wetten
 test.informatiehuis
 trade-acc
+trade-prd
+trade-tst
 trade
 tst-energiebesparingsverkenner
 upnl-acc
@@ -15576,7 +15587,6 @@ gras-prd
 idpmr
 kenniswijzer
 leapwork
-login-acc
 mail.arh
 mediation.online
 mijnrechtsbijstand

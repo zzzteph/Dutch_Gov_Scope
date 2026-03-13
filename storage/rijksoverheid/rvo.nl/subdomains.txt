@@ -1,4 +1,5 @@
 EPBDWebservices-acc.rvo.nl
+_autodiscover._tcp.rvo.nl
 a-gebruiker.rvo.nl
 a-gebruikerbeheer.rvo.nl
 a-inloggen.rvo.nl
@@ -15,6 +16,7 @@ acc-geocontent.rvo.nl
 acc-geoservices.rvo.nl
 acc-infographics.rvo.nl
 acc-mijn.rvo.nl
+acc-staging-mijn.rvo.nl
 acc-webform.rvo.nl
 acc-website.rvo.nl
 acc-wetten.rvo.nl
@@ -23,10 +25,13 @@ acc.informatiehuis.rvo.nl
 acc.rvo.nl
 acc1.energiebesparingsverkenner.rvo.nl
 achilles-acc.rvo.nl
+achilles-prd.rvo.nl
+achilles-tst.rvo.nl
 achilles.rvo.nl
 aiddata.rvo.nl
 amglb.rvo.nl
 aoep-iam.rvo.nl
+api-acc.rvo.nl
 api.rvo.nl
 applicaties.rvo.nl
 argocd-infra-edu.efiling.mijnoctrooi.rvo.nl
@@ -87,6 +92,7 @@ energiebesparingsverkenner.rvo.nl
 energielabel-checker.rvo.nl
 energieslag.rvo.nl
 english-data.rvo.nl
+english-prod.rvo.nl
 english.rvo.nl
 epbdwebservices-acc.rvo.nl
 epbdwebservices-preprod.rvo.nl
@@ -96,6 +102,7 @@ ezine.rvo.nl
 ezines.rvo.nl
 flux-acc.rvo.nl
 flux.rvo.nl
+garanties.rvo.nl
 gbatmv.rvo.nl
 gdi-a.rvo.nl
 gdi-b.rvo.nl
@@ -124,6 +131,7 @@ intranetvan.rvo.nl
 jaarjournaal.rvo.nl
 jiraimg-acc.rvo.nl
 jiraimg.rvo.nl
+kennisbank-acc.rvo.nl
 kennisbank-tst.rvo.nl
 kennisbank.rvo.nl
 kennisdelen.rvo.nl
@@ -131,6 +139,7 @@ kgr-acc.mijn.rvo.nl
 kgr.mijn.rvo.nl
 klantportaal.rvo.nl
 kostenkentallen.rvo.nl
+login-acc.rvo.nl
 login.rvo.nl
 m-edu.efiling.mijnoctrooi.rvo.nl
 m-efiling.mijnoctrooi.rvo.nl
@@ -149,6 +158,7 @@ monitoring-infra.efiling.mijnoctrooi.rvo.nl
 monitoring-preprod.efiling.mijnoctrooi.rvo.nl
 monitoring.efiling.mijnoctrooi.rvo.nl
 mp.rvo.nl
+mypage.rvo.nl
 nieuws.rvo.nl
 offshorewind.rvo.nl
 ojb.rvo.nl
@@ -184,6 +194,8 @@ regelingen.rvo.nl
 rhel-np-mijn.rvo.nl
 rhel-p-mijn.rvo.nl
 rvo.nl
+sandbox-cms.rvo.nl
+sandbox.rvo.nl
 sharingknowledge.rvo.nl
 siam.rvo.nl
 sonarqube-infra-edu.efiling.mijnoctrooi.rvo.nl
@@ -204,6 +216,8 @@ test-wetten.rvo.nl
 test.informatiehuis.rvo.nl
 test.rvo.nl
 trade-acc.rvo.nl
+trade-prd.rvo.nl
+trade-tst.rvo.nl
 trade.rvo.nl
 tst-energiebesparingsverkenner.rvo.nl
 upnl-acc-businesstest.mijn.rvo.nl

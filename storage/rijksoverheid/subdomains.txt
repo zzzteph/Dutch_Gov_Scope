@@ -854,6 +854,7 @@ _autodiscover._tcp.rijkewaddenzee.nl
 _autodiscover._tcp.rijksdienstcn.com
 _autodiscover._tcp.rijksorganisatieodi.nl
 _autodiscover._tcp.risicotoolboxbodem.nl
+_autodiscover._tcp.rvo.nl
 _autodiscover._tcp.schadedoormijnbouw.nl
 _autodiscover._tcp.sodm.nl
 _autodiscover._tcp.staatscommissierechtsstaat.nl
@@ -1476,6 +1477,7 @@ acc-sigma-ebms.data-exchange.consular.mfaservices.nl
 acc-sonarreg.rws.nl
 acc-sso-osiris.rivm.nl
 acc-sso.odc-noord.nl
+acc-staging-mijn.rvo.nl
 acc-themasites.pbl.nl
 acc-thuisbezorgd.mijnrijkspas.nl
 acc-tvs.coa.nl
@@ -2162,6 +2164,8 @@ ace_nat17.belastingdienst.nl
 acgsa.maps.arcgis.com
 achd-substance-use-adcogov-health.hub.arcgis.com
 achilles-acc.rvo.nl
+achilles-prd.rvo.nl
+achilles-tst.rvo.nl
 achilles.rvo.nl
 achterhoek.leerwerkloket.nl
 achterhoek.lerenenwerken.nl
@@ -2797,6 +2801,7 @@ api-acc.dashboardgroningen.nl
 api-acc.kansspelautoriteit.nl
 api-acc.rdi.nl
 api-acc.resources.ilent.nl
+api-acc.rvo.nl
 api-acc.uboregistertrusts.nl
 api-accept.prolander.nl
 api-acpt.brabant.nl
@@ -7687,6 +7692,7 @@ energyscenarios.tno.nl
 engine.acc.fhub.dictu.nl
 engine.fhub.dictu.nl
 english-data.rvo.nl
+english-prod.rvo.nl
 english.aivd.nl
 english.autoriteitnvs.nl
 english.belastingdienst-cn.nl
@@ -8661,6 +8667,7 @@ gaikonline.rdw.nl
 galerij.kb.nl
 galway-city-council-opendata-galwaycityco.hub.arcgis.com
 games.voedingscentrum.nl
+garanties.rvo.nl
 garima-ydv.github.io
 gasten.acm.nl
 gatekeeper.nationaalarchief.nl
@@ -11014,6 +11021,7 @@ kennis.nponderwijs.nl
 kennis.waterschaplimburg.nl
 kennis.zuid-holland.nl
 kennisbank-a.politieacademie.nl
+kennisbank-acc.rvo.nl
 kennisbank-api-a.politieacademie.nl
 kennisbank-api-t.politieacademie.nl
 kennisbank-api.politieacademie.nl
@@ -11838,6 +11846,7 @@ logging.platformrijksoverheid.nl
 loggingbe.huygens.knaw.nl
 login-a.rvb.rijkscloud.nl
 login-a.werk.nl
+login-acc.rvo.nl
 login-acc.rvr.org
 login-az.rijksapplicaties.nl
 login-az.staging.rijksapplicaties.nl
@@ -13878,6 +13887,7 @@ myk.kadaster.nl
 myk.test.cloud.kadaster.nl
 myk.test.kadaster.nl
 mypage.brentjo-testorg.github.io
+mypage.rvo.nl
 myroom.minszw.nl
 mysampleexpressapponazure.octodemo.github.io
 mysharebox.skc-oc.org
@@ -17758,11 +17768,13 @@ sampletrackingserver1.arcgis.com
 samsvr.kadaster.nl
 samuraitruong.github.io
 sand.meertens.knaw.nl
+sandbox-cms.rvo.nl
 sandbox.functiegebouwrijksoverheid.nl
 sandbox.ikwerkvoornederland.nl
 sandbox.kansspelautoriteit.nl
 sandbox.mobiliteitsbank.nl
 sandbox.redactie.eerstekamer.nl
+sandbox.rvo.nl
 sandbox.schadedoormijnbouw.nl
 sandbox.test.pdok.nl
 sandbox.werkenbijdeoverheid.nl
@@ -20181,6 +20193,8 @@ tracking.delpher.nl
 tracking.kb.nl
 tracks.wgu-edu.github.io
 trade-acc.rvo.nl
+trade-prd.rvo.nl
+trade-tst.rvo.nl
 trade.rvo.nl
 tradeandinnovate.nl
 tradewithnl.nl
