@@ -6,6 +6,7 @@ agw.idm.rvig.nl
 agw.lap.idm.rvig.nl
 agw.lap.stopid.rvig.nl
 api.reis.idm.rvig.nl
+api.reis.npr.idm.rvig.nl
 apigw.brp.lap.idm.rvig.nl
 developer.rvig.nl
 idapps.npr.idm.rvig.nl
@@ -22,8 +23,11 @@ login.npr.idm.rvig.nl
 mail.tmv-lap.rvig.nl
 mail.tmv.rvig.nl
 mail2.rvig.nl
+npr2.idm.rvig.nl
+npr3.idm.rvig.nl
+prd2.idm.rvig.nl
+prd3.idm.rvig.nl
 probeerbrpapi.rvig.nl
-prod.intranet.rvig.nl
 prod.rvig.nl
 publicaties-acc.rvig.nl
 publicaties-prod.rvig.nl
@@ -35,10 +39,11 @@ rni-webform-acc.rvig.nl
 rni-webform.rvig.nl
 rvig.nl
 rvp.reis.idm.rvig.nl
+rvp.reis.npr.idm.rvig.nl
 sip.rvig.nl
+smtp.grid.npr.idm.rvig.nl
 smtp.tmv.rvig.nl
 stopid.reis.lap.idm.rvig.nl
-test.intranet.rvig.nl
 test.rvig.nl
 tmv.rvig.nl
 toegangslaag-gn2.rvig.nl

@@ -2520,6 +2520,7 @@ https://agroforestrynetwerk.nl
 https://ags.rijkswaterstaat.nl
 https://agstat.rivm.nl
 https://agw.idm.rvig.nl
+https://agw.lap.idm.rvig.nl
 https://agw02-nomail.nza.nl
 https://ahc-covid19-ahc.hub.arcgis.com
 https://ahlainen-pori.hub.arcgis.com
@@ -9492,7 +9493,6 @@ https://prod.control.ictu.nl
 https://prod.derdekamer.nl
 https://prod.dictu.nl
 https://prod.higherlevel.nl
-https://prod.intranet.rvig.nl
 https://prod.jonglereneten.nl
 https://prod.justis.nl
 https://prod.lerenenwerken.nl
@@ -11049,7 +11049,6 @@ https://test.inhuurdeskpolitie.nl
 https://test.international.gebruikercentraal.nl
 https://test.intranet-demo.dictu.nl
 https://test.intranet.justis.nl
-https://test.intranet.rvig.nl
 https://test.intranet.waarborg.nl
 https://test.jonglereneten.nl
 https://test.justis.nl

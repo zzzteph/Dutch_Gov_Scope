@@ -371,7 +371,6 @@ nextcloud
 privacy
 guest
 acc.intranet
-test.intranet
 metrics
 a
 confluence
@@ -598,6 +597,7 @@ jip
 collabora
 test3
 vog
+test.intranet
 private
 sbc01.acpt
 sbc02.acpt
@@ -5077,6 +5077,7 @@ agw.idm
 agw.lap.idm
 agw.lap.stopid
 api.reis.idm
+api.reis.npr.idm
 apigw.brp.lap.idm
 idapps.npr.idm
 idbs-esp.npr.idm
@@ -5089,8 +5090,11 @@ login.idm
 login.npr.idm
 mail.tmv-lap
 mail.tmv
+npr2.idm
+npr3.idm
+prd2.idm
+prd3.idm
 probeerbrpapi
-prod.intranet
 publicaties-acc
 publicaties-prod
 publicaties-tst
@@ -5099,6 +5103,8 @@ rni-portal
 rni-webform-acc
 rni-webform
 rvp.reis.idm
+rvp.reis.npr.idm
+smtp.grid.npr.idm
 smtp.tmv
 stopid.reis.lap.idm
 toegangslaag-gn2

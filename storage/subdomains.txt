@@ -2977,6 +2977,7 @@ api.rdi.nl
 api.rdw.nl
 api.rechtspraak.nl
 api.reis.idm.rvig.nl
+api.reis.npr.idm.rvig.nl
 api.resources.ilent.nl
 api.rivm.nl
 api.rosetta-t.kb.nl
@@ -14292,6 +14293,8 @@ npm-documentation.ethomson.github.io
 npo.kvk.nl
 nponderwijs.nl
 npostart.nl
+npr2.idm.rvig.nl
+npr3.idm.rvig.nl
 nprauthenticatiebeheer.rdw.nl
 nprbeheer.rdw.nl
 nprexploitantstub.rdw.nl
@@ -16089,6 +16092,8 @@ prd.btp.sso3w.nl
 prd.cip-overheid.nl
 prd.consexponano.nl
 prd.web-static.rijkswaterstaat.nl
+prd2.idm.rvig.nl
+prd3.idm.rvig.nl
 prd7.connectorscheduler.kb.nl
 pre-dpia.huc.knaw.nl
 pre-login.rivm.nl
@@ -16426,7 +16431,6 @@ prod.flevoland.nl
 prod.github-push.ictu.nl
 prod.higherlevel.nl
 prod.ifundswebservice.architectenregister.nl
-prod.intranet.rvig.nl
 prod.jonglereneten.nl
 prod.justis.nl
 prod.lerenenwerken.nl
@@ -17630,6 +17634,7 @@ rvothema4.pleio.nl
 rvp-beheer-demo.devops.rvb.rijkscloud.nl
 rvp-demo.devops.rvb.rijkscloud.nl
 rvp.reis.idm.rvig.nl
+rvp.reis.npr.idm.rvig.nl
 rvr.org
 rvr01.wsnp.rvr.org
 rvs-beheer.rivm.nl
@@ -18488,6 +18493,7 @@ smtp.bkd.eu
 smtp.cbr.nl
 smtp.cea.nl
 smtp.fondspodiumkunsten.nl
+smtp.grid.npr.idm.rvig.nl
 smtp.hhdelfland.nl
 smtp.kb.nl
 smtp.kvk.nl
@@ -19740,7 +19746,6 @@ test.inhuurdeskpolitie.nl
 test.international.gebruikercentraal.nl
 test.intranet-demo.dictu.nl
 test.intranet.justis.nl
-test.intranet.rvig.nl
 test.intranet.waarborg.nl
 test.jonglereneten.nl
 test.justis.nl
