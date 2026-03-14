@@ -8297,7 +8297,6 @@ feeds.oud.platformrijksoverheidonline.nl
 feeds.rijksoverheid.nl
 feeds.royal-house.nl
 feeds.rsj.nl
-feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
 feeds.scp.nl
 feeds.socialestabiliteit.nl
@@ -14949,7 +14948,6 @@ opendata.rijksoverheid.nl
 opendata.royal-house.nl
 opendata.rsj.nl
 opendata.rvb.rijkscloud.nl
-opendata.samenwerkingrijknoord.nl
 opendata.sbv-z.nl
 opendata.scp.nl
 opendata.slo.nl
