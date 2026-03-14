@@ -1,12 +1,8 @@
-a-feeds.sbv-z.nl
-a-opendata.sbv-z.nl
-a-www.sbv-z.nl
+_autodiscover._tcp.sbv-z.nl
 acceptatie.behandel.sbv-z.nl
 acceptatie.raadplegen.sbv-z.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
 behandel.sbv-z.nl
-feeds.sbv-z.nl
-opendata.sbv-z.nl
 raadplegen-acc.sbv-z.nl
 raadplegen-preprod.sbv-z.nl
 raadplegen.sbv-z.nl
