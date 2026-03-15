@@ -6832,7 +6832,6 @@ digit.vechtstromen.nl
 digitaal-bewust-vaardig.evenement.ser.nl
 digitaal.loket.afm.nl
 digitaal.raadopenbaarbestuur.nl
-digitaal.scp.nl
 digitaalaanvrageninschrijving-ctrl.rdw.nl
 digitaalaanvrageninschrijving.rdw.nl
 digitaalloket-acc.cjib.nl
@@ -6846,7 +6845,6 @@ digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 digital-zoning-bylaw-citysaskatoon.hub.arcgis.com
 digital.nba.nl
-digital.scp.nl
 digitale-topstukken.acc.cloudservices.kb.nl
 digitale-topstukken.cloudservices.kb.nl
 digitaledemocratie.pleio.nl
@@ -8067,6 +8065,7 @@ extern.knmi.nl
 extern.minszw.nl
 externe-mail.knmi.nl
 externe-veiligheid.omgevingswet.overheid.nl
+externemail-mx2.scp.nl
 externemail.cpb.nl
 externemail.ctgb.nl
 externemail.knmi.nl

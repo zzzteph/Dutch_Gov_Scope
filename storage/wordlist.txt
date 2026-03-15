@@ -657,7 +657,6 @@ wetten
 kms
 cms21
 api-test
-digitaal
 radar
 fileshare
 hybridmail
@@ -712,7 +711,6 @@ login-acc
 mp
 test-mijn
 raadplegen-acc
-digital
 download.mail
 dc
 accp
@@ -4207,6 +4205,7 @@ api-accept
 gis
 criminalfilesmh17.acc
 criminalfilesmh17
+digitaal
 discussie
 adviezen
 appl
@@ -5337,6 +5336,7 @@ acceptatie.uzipas.raadplegen
 raadplegen-preprod
 uzipas.raadplegen
 webservice-preprod
+externemail-mx2
 mailhost
 testmail
 informatiescherm-acc
@@ -13193,6 +13193,7 @@ av1
 besloten-nba-acc
 compact
 crs
+digital
 download.im
 flowmail-elo
 generator-dev
