@@ -1002,7 +1002,6 @@ a-feeds.koopoverheid.nl
 a-feeds.ocwincijfers.nl
 a-feeds.rijksoverheid.nl
 a-feeds.royal-house.nl
-a-feeds.socialestabiliteit.nl
 a-fmis.tno.nl
 a-focus.tno.nl
 a-fsv-db21-21.tsn.tno.nl
@@ -1055,7 +1054,6 @@ a-opendata.ocwincijfers.nl
 a-opendata.platformrijksoverheid.nl
 a-opendata.rijksoverheid.nl
 a-opendata.royal-house.nl
-a-opendata.socialestabiliteit.nl
 a-ora-app02.tsn.tno.nl
 a-ora-cpa01-stor.tsn.tno.nl
 a-ora-cpa01.tsn.tno.nl
@@ -1156,7 +1154,6 @@ a-www.ocwincijfers.nl
 a-www.platformrijksoverheid.nl
 a-www.rijksoverheid.nl
 a-www.royal-house.nl
-a-www.socialestabiliteit.nl
 a-www.tno.nl
 a-www.toezichtsociaaldomein.nl
 a-www.tuchtcollege-gezondheidszorg.nl
@@ -8295,7 +8292,6 @@ feeds.rijksoverheid.nl
 feeds.royal-house.nl
 feeds.rsj.nl
 feeds.scp.nl
-feeds.socialestabiliteit.nl
 feeds.staatscommissierechtsstaat.nl
 feeds.staatsexamensnt2.nl
 feeds.startmetoesorichtlijnen.nl
@@ -14946,7 +14942,6 @@ opendata.rsj.nl
 opendata.rvb.rijkscloud.nl
 opendata.scp.nl
 opendata.slo.nl
-opendata.socialestabiliteit.nl
 opendata.staatscommissierechtsstaat.nl
 opendata.staatsexamensnt2.nl
 opendata.startmetoesorichtlijnen.nl

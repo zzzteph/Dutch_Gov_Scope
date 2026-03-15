@@ -16,8 +16,8 @@ cms
 staging
 intranet
 magazines
-a-www
 vpn
+a-www
 login
 www-acc
 link
@@ -29,13 +29,13 @@ portal
 smtp
 formulieren
 apps
-a-opendata
 werkplek
 redactie
 dev
-a-feeds
+a-opendata
 app
 connect
+a-feeds
 portaal
 beheer
 tst
