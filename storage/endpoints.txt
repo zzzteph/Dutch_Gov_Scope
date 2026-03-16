@@ -390,6 +390,7 @@ http://docs.hansken.org
 http://docs.labs.dans.knaw.nl
 http://docs.letterenfonds.nl
 http://docs.lpc.logius.nl
+http://docs.ssc-ict.nl
 http://doculoket-acc.overheid.nl
 http://documentlevering.kb.nl
 http://domorganisatieservicesocsp-g3.pkioverheid.nl
@@ -2660,10 +2661,6 @@ https://antenneregister.nl
 https://antisemitismebestrijding.nl
 https://antwoord.cbs.nl
 https://anvs.sitearchief.nl
-https://anyc-t01-a.ssc-ict.nl
-https://anyc-t02.ssc-ict.nl
-https://anyc-t03.ssc-ict.nl
-https://anyc.ssc-ict.nl
 https://aoep-iam.rvo.nl
 https://aofondsrijk.nl
 https://aovpn.lvnl.nl
@@ -3954,7 +3951,6 @@ https://charterbijeenkomst-medewerkersnetwerken2022.evenement.ser.nl
 https://charterbijeenkomst-werkennaarvermogen-9oktober.evenement.ser.nl
 https://chascogis.maps.arcgis.com
 https://chat-acc.ncsc.nl
-https://chat-acc.servicedesk.ssc-ict.nl
 https://chat-ai.s-bb.nl
 https://chat-dashboard.pleio.nl
 https://chat-dev.rijkscloud.nl

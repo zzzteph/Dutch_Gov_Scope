@@ -1,13 +1,10 @@
 _dmarc.ssc-ict.nl
-anyc-t01-a.ssc-ict.nl
-anyc-t02.ssc-ict.nl
-anyc-t03.ssc-ict.nl
-anyc.ssc-ict.nl
 chat-acc.servicedesk.ssc-ict.nl
 dc.ssc-ict.nl
 dcpp.ssc-ict.nl
 demo-en.web.ssc-ict.nl
 demo-test.web.ssc-ict.nl
+docs.ssc-ict.nl
 dwrt2.ssc-ict.nl
 dwrt3.ssc-ict.nl
 ekvvpn.ssc-ict.nl
@@ -21,6 +18,7 @@ sbc-ota-B-tenant01.ssc-ict.nl
 sbc-ota-B-tenant02.ssc-ict.nl
 sbc-ota-B-tenant03.ssc-ict.nl
 sbc-ota-B-tenant04.ssc-ict.nl
+sbc-ota-a-tenant-C01.ssc-ict.nl
 sbc-ota-a-tenant-c01.ssc-ict.nl
 sbc-ota-a-tenant0.dev.ssc-ict.nl
 sbc-ota-a-tenant01.ssc-ict.nl
@@ -30,6 +28,7 @@ sbc-ota-a-tenant03.dwrt3.ssc-ict.nl
 sbc-ota-a-tenant03.ssc-ict.nl
 sbc-ota-a-tenant04.dwrt4.ssc-ict.nl
 sbc-ota-a-tenant04.ssc-ict.nl
+sbc-ota-b-tenant-C01.ssc-ict.nl
 sbc-ota-b-tenant-c01.ssc-ict.nl
 sbc-ota-b-tenant01.dwrt1.ssc-ict.nl
 sbc-ota-b-tenant01.ssc-ict.nl
@@ -40,12 +39,14 @@ sbc-ota-b-tenant03.ssc-ict.nl
 sbc-ota-b-tenant04.dwrt4.ssc-ict.nl
 sbc-ota-b-tenant04.ssc-ict.nl
 sbc-prd-A-tenant01.ssc-ict.nl
+sbc-prd-a-tenant-C01.ssc-ict.nl
 sbc-prd-a-tenant-c01.ssc-ict.nl
 sbc-prd-a-tenant01.dwrt1.ssc-ict.nl
 sbc-prd-a-tenant01.ssc-ict.nl
 sbc-prd-a-tenant02.dwrt2.ssc-ict.nl
 sbc-prd-a-tenant03.dwrt3.ssc-ict.nl
 sbc-prd-a-tenant04.dwrt4.ssc-ict.nl
+sbc-prd-b-tenant-C01.ssc-ict.nl
 sbc-prd-b-tenant-c01.ssc-ict.nl
 sbc-prd-b-tenant01.dwrt1.ssc-ict.nl
 sbc-prd-b-tenant02.dwrt2.ssc-ict.nl

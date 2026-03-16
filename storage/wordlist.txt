@@ -48,11 +48,11 @@ zoeken
 publicaties
 _dmarc
 hybrid
+docs
 meet
 elearning
 jaarverslag
 services
-docs
 sts
 cdn
 onderzoek
@@ -5341,10 +5341,6 @@ mailhost
 testmail
 informatiescherm-acc
 informatiescherm
-anyc-t01-a
-anyc-t02
-anyc-t03
-anyc
 chat-acc.servicedesk
 dcpp
 demo-en.web
@@ -5362,6 +5358,7 @@ sbc-ota-B-tenant01
 sbc-ota-B-tenant02
 sbc-ota-B-tenant03
 sbc-ota-B-tenant04
+sbc-ota-a-tenant-C01
 sbc-ota-a-tenant-c01
 sbc-ota-a-tenant0.dev
 sbc-ota-a-tenant01
@@ -5371,6 +5368,7 @@ sbc-ota-a-tenant03.dwrt3
 sbc-ota-a-tenant03
 sbc-ota-a-tenant04.dwrt4
 sbc-ota-a-tenant04
+sbc-ota-b-tenant-C01
 sbc-ota-b-tenant-c01
 sbc-ota-b-tenant01.dwrt1
 sbc-ota-b-tenant01
@@ -5381,12 +5379,14 @@ sbc-ota-b-tenant03
 sbc-ota-b-tenant04.dwrt4
 sbc-ota-b-tenant04
 sbc-prd-A-tenant01
+sbc-prd-a-tenant-C01
 sbc-prd-a-tenant-c01
 sbc-prd-a-tenant01.dwrt1
 sbc-prd-a-tenant01
 sbc-prd-a-tenant02.dwrt2
 sbc-prd-a-tenant03.dwrt3
 sbc-prd-a-tenant04.dwrt4
+sbc-prd-b-tenant-C01
 sbc-prd-b-tenant-c01
 sbc-prd-b-tenant01.dwrt1
 sbc-prd-b-tenant02.dwrt2
