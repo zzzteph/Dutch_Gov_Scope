@@ -7838,6 +7838,8 @@ esb-test.brabant.nl
 esb-werkstation-1.vm-02.azure.grid.rws.nl
 esb-werkstation-2.vm-02.azure.grid.rws.nl
 esb-werkstation-3.vm-02.azure.grid.rws.nl
+esb.acc.btp.sso3w.nl
+esb.acc.expenses.sso3w.nl
 esb.brabant.nl
 esb.btp.sso3w.nl
 esb.cs.kadaster.nl
@@ -12207,7 +12209,6 @@ magazines.rijksoverheid.nl
 magazines.rivm.nl
 magazines.slo.nl
 magazines.socialestabiliteit.nl
-magazines.sso3w.nl
 magazines.venvn.nl
 magazines.vnsc.eu
 magazines.vrachtwagenheffing.nl
