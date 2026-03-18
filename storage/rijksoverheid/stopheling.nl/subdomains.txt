@@ -14,6 +14,7 @@ k8s.stopheling.nl
 ltu-admin.stopheling.nl
 ltu-api.stopheling.nl
 opkopersregister.stopheling.nl
+prod-infra.stopheling.nl
 stopheling.nl
 test-api.stopheling.nl
 test-bp.stopheling.nl

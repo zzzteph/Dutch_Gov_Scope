@@ -11,9 +11,8 @@ https://dor-api.stopheling.nl
 https://dor.stopheling.nl
 https://dorbeheer.stopheling.nl
 https://k8s.stopheling.nl
-https://ltu-admin.stopheling.nl
-https://ltu-api.stopheling.nl
 https://opkopersregister.stopheling.nl
+https://prod-infra.stopheling.nl
 https://stopheling.nl
 https://test-api.stopheling.nl
 https://test-bp.stopheling.nl
