@@ -9992,6 +9992,7 @@ infra.status.chm-cbd.net
 infra.test.cloud.kadaster.nl
 infrabeheer.rvb.rijkscloud.nl
 infratemplater.labs.dans.knaw.nl
+infratest-a.svb.nl
 ing-dnb.dnb.nl
 ing-dnba.dnb.nl
 ingelogd.acc.mijnslachtofferzaak.nl
@@ -13078,7 +13079,6 @@ mijntoezicht.azure.dnb.nl
 mijntoken.dictu.nl
 mijntokenactiveren.logius.nl
 mijntpw-a.svb.nl
-mijntpw-modern-a.svb.nl
 mijntpw.svb.nl
 mijntst01.cbr.nl
 mijnvf.acc.vfpf.nl
@@ -15601,7 +15601,6 @@ perpest.alterra.nl
 perpignan-mediterranee-metropole-perpignan-mediterranee.hub.arcgis.com
 pers.letterenfonds.nl
 pers.rdw.nl
-pers.svb.nl
 persberichten.rijksoverheid.nl
 person.did.zandbak.dans.knaw.nl
 personeelsmonitor.databank.nl
@@ -15647,6 +15646,7 @@ pgbverwerkingserviceeduc.entreepgb.svb.nl
 pgbverwerkingservicenaan.entreepgb.svb.nl
 pgbverwerkingservicetepr.entreepgb.svb.nl
 pgbverwerkingservicetest.entreepgb.svb.nl
+pgbwijzer.svb.nl
 pgdi.nl
 pge.nctv.nl
 pgodemo.test.zm.irealisatie.nl
@@ -18673,7 +18673,6 @@ spin2.rijkswaterstaat.nl
 spin2.rws.nl
 spinner.knaw.nl
 spinner11.knaw.nl
-splunk-a.svb.nl
 splunkhec.grid.rws.nl
 splunkhec.gridacc.rws.nl
 splunksyslog.dmz.belastingdienst.nl
@@ -21006,6 +21005,7 @@ vor-ont.hetcak.nl
 vorijk.nl
 vorijkbo-acc.rvo.nl
 vorijkbo-tst.rvo.nl
+vork-tst.svb.nl
 vos.intranet.rijkswaterstaat.nl
 vouch.checkjeprijs.huurcommissie.nl
 vpc.slo.nl

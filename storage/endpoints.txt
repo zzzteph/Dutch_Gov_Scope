@@ -2885,6 +2885,7 @@ https://application-config.wgu-edu.github.io
 https://applicationframework.cibg.nl
 https://applications.klopt.cibg.nl
 https://applicationstest.svb.nl
+https://apps-a.svb.nl
 https://apps-dev.vechtstromen.nl
 https://apps-nccde.hub.arcgis.com
 https://apps-tst.vechtstromen.nl
@@ -6012,6 +6013,7 @@ https://geluidwsv.rivm.nl
 https://gemeente-eersel.odc.pleio.nl
 https://gemeentebestand.rdw.nl
 https://gemeenteloket.minszw.nl
+https://gemeenten-a.svb.nl
 https://gemeenten.svb.nl
 https://gemeenteportaal.waarderingskamer.nl
 https://gemeenteportaalrijbewijzen.rdw.nl
@@ -6670,6 +6672,7 @@ https://infotrac.galegroup.com.access.authkb.kb.nl
 https://infowms.nl
 https://infra.cloud.kadaster.nl
 https://infra.test.cloud.kadaster.nl
+https://infratest-a.svb.nl
 https://ingelogd.acc.mijnslachtofferzaak.nl
 https://ingelogd.acc.staging.mijnslachtofferzaak.nl
 https://ingelogd.mijnslachtofferzaak.nl
@@ -6768,6 +6771,7 @@ https://internecatalogus.kadaster.nl
 https://internecatalogus.test.kadaster.nl
 https://internetconsultatie.nl
 https://internetdienstensiam.svb.nl
+https://internetdienstensiamacc.svb.nl
 https://interspeciesinfo.com
 https://interventiedatabase.nl
 https://intra-cms-acc.rvo.nl
@@ -8080,6 +8084,8 @@ https://mijnoctrooi.mypage.rvo.nl
 https://mijnoctrooi.rvo.nl
 https://mijnontwikkelhuis.nl
 https://mijnpf.vfpf.nl
+https://mijnpgb-a.svb.nl
+https://mijnpgb-siam-a.svb.nl
 https://mijnpgb-siam.svb.nl
 https://mijnpgb.nl
 https://mijnpgb.svb.nl
@@ -8094,16 +8100,18 @@ https://mijnslachtofferzaak.nl
 https://mijnstrafdossiers.rechtspraak.nl
 https://mijnsubsidies-acc.limburg.nl
 https://mijnsubsidies.limburg.nl
+https://mijnsvb-a.svb.nl
 https://mijnsvb.svb.nl
 https://mijntoezicht-acc.azure.dnb.nl
 https://mijntoezicht-tst.azure.dnb.nl
 https://mijntoezicht.azure.dnb.nl
 https://mijntoken.dictu.nl
 https://mijntokenactiveren.logius.nl
-https://mijntpw-modern-a.svb.nl
+https://mijntpw-a.svb.nl
 https://mijntpw.svb.nl
 https://mijnvf.vfpf.nl
 https://mijnwerkplek.cbg-meb.nl
+https://mijnwmo-siam-a.svb.nl
 https://mijnwmo-siam.svb.nl
 https://mijnzaak-acc.hogeraad.nl
 https://mijnzaak-acc.raadvanstate.nl
@@ -9137,7 +9145,6 @@ https://pentest.leerwerkloket.nl
 https://peppolautoriteit.nl
 https://perf.document-viewer.dso.kadaster.nl
 https://perpest.alterra.nl
-https://pers.svb.nl
 https://persberichten.rijksoverheid.nl
 https://personeelsmonitor.databank.nl
 https://personen-acc.cbr.nl
@@ -9160,6 +9167,7 @@ https://pgb-iam.odc-noord.nl
 https://pgb-prd.confluence.odc-noord.nl
 https://pgb-prd.topdesk.odc-noord.nl
 https://pgbverwerkingservice.entreepgb.svb.nl
+https://pgbwijzer.svb.nl
 https://pgdi.nl
 https://pge.nctv.nl
 https://pgr-ext.rijkswaterstaat.nl
@@ -9732,8 +9740,8 @@ https://rdsapplications01.svb.nl
 https://rdsapplications02.svb.nl
 https://rdsapplications03.svb.nl
 https://rdsapplications04.svb.nl
-https://rdsapplications05.svb.nl
 https://rdsapplications06.svb.nl
+https://rdsapplications07.svb.nl
 https://rdsgw.knaw.nl
 https://rdsgw.nioo.knaw.nl
 https://rdsgw61.knaw.nl
@@ -9868,7 +9876,6 @@ https://remote.services.acm.nl
 https://remoteaccess1.eerstekamer.nl
 https://remoteaccess2.eerstekamer.nl
 https://remoteaccess3.eerstekamer.nl
-https://remotedesktop.svb.nl
 https://render-reports.github.io
 https://render-reports.nottolivc.github.io
 https://renvooiservice.overheid.nl
@@ -10257,6 +10264,7 @@ https://seb.ibki.nl
 https://secudoc.nji.nl
 https://secure.grip.rivm.nl
 https://secure.vechtstromen.nl
+https://secure4.svb.nl
 https://secure5.svb.nl
 https://securedownload.cito.nl
 https://securemail.hetcak.nl
@@ -10505,7 +10513,6 @@ https://spiegel.werk.nl
 https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
 https://spin2.rws.nl
-https://splunk-a.svb.nl
 https://sportakkoord.allesoversport.nl
 https://sportakkoord.nl
 https://sportenbewegenincijfers.nl
@@ -11669,6 +11676,7 @@ https://vor-ont.hetcak.nl
 https://vorijk.nl
 https://vorijkbo-acc.rvo.nl
 https://vorijkbo-tst.rvo.nl
+https://vork-tst.svb.nl
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn-nabs.officielebekendmakingen.nl
 https://vpn.awti.nl
@@ -12153,6 +12161,7 @@ https://wvsv.acceptatie.nipv.nl
 https://wvsv.nipv.nl
 https://www-a.grensinfo.nl
 https://www-a.huurcommissie.nl
+https://www-a.svb.nl
 https://www-ac.farmacotherapeutischkompas.nl
 https://www-acc.cbs.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl

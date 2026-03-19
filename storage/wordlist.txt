@@ -402,7 +402,6 @@ intra
 klantportaal
 test-cms
 webwinkel
-pers
 handboek
 pop
 communicatieportaal
@@ -879,6 +878,7 @@ zuidhollandcentraal
 zuidlimburg
 zuidoostbrabant
 zwolle
+pers
 acc-auth
 esp
 acc-bvrin
@@ -5495,6 +5495,7 @@ downloaddomain
 entreepgb
 gemeenten-a
 gemeenten
+infratest-a
 internetdienstena
 internetdienstenp
 internetdienstensiam
@@ -5515,7 +5516,6 @@ mijnsvb-a
 mijnsvb-loadtest
 mijnsvb
 mijntpw-a
-mijntpw-modern-a
 mijntpw
 mijnwmo-siam-a
 mijnwmo-siam
@@ -5532,6 +5532,7 @@ pgbverwerkingserviceeduc.entreepgb
 pgbverwerkingservicenaan.entreepgb
 pgbverwerkingservicetepr.entreepgb
 pgbverwerkingservicetest.entreepgb
+pgbwijzer
 portal.entreepgb
 portalaccp.entreepgb
 portalaccp2.entreepgb
@@ -5554,7 +5555,6 @@ rdsapplications07
 remotedesktop
 secure4
 secure5
-splunk-a
 svbappa
 svbappo
 uc.sa
@@ -5566,6 +5566,7 @@ vlan2006_internet_ac-bgp-r01
 vlan2007_internet_uc-bgp-r01-1
 vlan2007_internet_uc-bgp-r01-2
 vlan2007_internet_uc-bgp-r01
+vork-tst
 www.entreepgb
 wwwaccp.entreepgb
 wwwdemo.entreepgb

@@ -68,6 +68,7 @@ formulieren.svb.nl
 gemeenten-a.svb.nl
 gemeenten.svb.nl
 guest.svb.nl
+infratest-a.svb.nl
 internetdienstena.svb.nl
 internetdienstenp.svb.nl
 internetdienstensiam.svb.nl
@@ -92,7 +93,6 @@ mijnsvb-a.svb.nl
 mijnsvb-loadtest.svb.nl
 mijnsvb.svb.nl
 mijntpw-a.svb.nl
-mijntpw-modern-a.svb.nl
 mijntpw.svb.nl
 mijnwmo-siam-a.svb.nl
 mijnwmo-siam.svb.nl
@@ -110,7 +110,6 @@ ns2.svb.nl
 onderzoek.svb.nl
 outlook.svb.nl
 pages.svb.nl
-pers.svb.nl
 pgbverwerkingservice.entreepgb.svb.nl
 pgbverwerkingserviceaccp.entreepgb.svb.nl
 pgbverwerkingserviceaccp2.entreepgb.svb.nl
@@ -119,6 +118,7 @@ pgbverwerkingserviceeduc.entreepgb.svb.nl
 pgbverwerkingservicenaan.entreepgb.svb.nl
 pgbverwerkingservicetepr.entreepgb.svb.nl
 pgbverwerkingservicetest.entreepgb.svb.nl
+pgbwijzer.svb.nl
 portal.entreepgb.svb.nl
 portalaccp.entreepgb.svb.nl
 portalaccp2.entreepgb.svb.nl
@@ -142,7 +142,6 @@ remotedesktop.svb.nl
 sa.svb.nl
 secure4.svb.nl
 secure5.svb.nl
-splunk-a.svb.nl
 svb.nl
 svbappa.svb.nl
 svbappo.svb.nl
@@ -157,6 +156,7 @@ vlan2006_internet_ac-bgp-r01.svb.nl
 vlan2007_internet_uc-bgp-r01-1.svb.nl
 vlan2007_internet_uc-bgp-r01-2.svb.nl
 vlan2007_internet_uc-bgp-r01.svb.nl
+vork-tst.svb.nl
 wifi.svb.nl
 www-a.svb.nl
 www.entreepgb.svb.nl
