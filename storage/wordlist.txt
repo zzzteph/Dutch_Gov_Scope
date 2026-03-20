@@ -280,7 +280,6 @@ analytics
 sentry
 idm
 acc-cms
-prod-dictu
 securemail
 probeer
 cm
@@ -435,6 +434,7 @@ www.app
 fryslan
 haaglanden
 zeeland
+prod-dictu
 login-test
 pki
 sip2
