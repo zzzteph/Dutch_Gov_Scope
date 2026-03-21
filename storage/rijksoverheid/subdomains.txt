@@ -12839,6 +12839,7 @@ mijn-api.cbs.nl
 mijn-c1.tst.belastingdienst.nl
 mijn-c2.tst.belastingdienst.nl
 mijn-dev.dnb.nl
+mijn-et.tst.toeslagen.nl
 mijn-inlog-acceptatie.schadefonds.nl
 mijn-inlog.schadefonds.nl
 mijn-ncg.rijksapplicaties.nl
@@ -20890,6 +20891,7 @@ vild.ndw.nu
 vin-beheer.rdw.nl
 vin.rdw.nl
 vinden.belastingdienst.nl
+vinden.toeslagen.nl
 vip-acc.tweedekamer.nl
 vip2.tweedekamer.nl
 vipasbest.nl

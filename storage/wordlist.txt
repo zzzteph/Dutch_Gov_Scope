@@ -503,6 +503,7 @@ vc
 vcsew
 vergaderen
 video
+vinden
 webapps
 webdiensten
 wus2
@@ -1625,7 +1626,6 @@ verzekeringsproducten.acc
 verzekeringsproducten
 via2008pilot-test2
 via2008pilot
-vinden
 vpg-aag-test
 vs_mijn.str13.tst
 vs_mijnzakelijk.str10.tst
@@ -5607,6 +5607,7 @@ machtigen-ont
 mijn-acc2
 mijn-acc3
 mijn-acc4
+mijn-et.tst
 mijn-xt.tst
 mobiel.acc
 mobiel1.acc
