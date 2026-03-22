@@ -1155,7 +1155,6 @@ a-www.platformrijksoverheid.nl
 a-www.rijksoverheid.nl
 a-www.royal-house.nl
 a-www.tno.nl
-a-www.toezichtsociaaldomein.nl
 a-www.tuchtcollege-gezondheidszorg.nl
 a-www.vreemdelingenvisie.nl
 a-www2.platformrijksoverheid.nl
@@ -8292,7 +8291,6 @@ feeds.royal-house.nl
 feeds.rsj.nl
 feeds.scp.nl
 feeds.staatsexamensnt2.nl
-feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
 feeds.topsectoren.nl
 feeds.tuchtcollege-gezondheidszorg.nl
@@ -14940,7 +14938,6 @@ opendata.slo.nl
 opendata.staatsexamensnt2.nl
 opendata.stelselcatalogus.nl
 opendata.test.tweedekamer.nl
-opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
 opendata.topsectoren.nl
 opendata.tuchtcollege-gezondheidszorg.nl
