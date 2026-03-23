@@ -1155,7 +1155,6 @@ a-www.platformrijksoverheid.nl
 a-www.rijksoverheid.nl
 a-www.royal-house.nl
 a-www.tno.nl
-a-www.tuchtcollege-gezondheidszorg.nl
 a-www.vreemdelingenvisie.nl
 a-www2.platformrijksoverheid.nl
 a-www3.platformrijksoverheid.nl
@@ -8291,7 +8290,6 @@ feeds.royal-house.nl
 feeds.rsj.nl
 feeds.scp.nl
 feeds.staatsexamensnt2.nl
-feeds.tuchtcollege-gezondheidszorg.nl
 feeds.vrachtwagenheffing.nl
 feeds.werkaanuitvoering.nl
 feeds.werkenaanonspensioen.nl
@@ -14936,7 +14934,6 @@ opendata.slo.nl
 opendata.staatsexamensnt2.nl
 opendata.stelselcatalogus.nl
 opendata.test.tweedekamer.nl
-opendata.tuchtcollege-gezondheidszorg.nl
 opendata.tweedekamer.nl
 opendata.vrachtwagenheffing.nl
 opendata.werkaanuitvoering.nl
