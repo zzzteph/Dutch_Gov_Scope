@@ -288,9 +288,11 @@ http://bwb.meertens.knaw.nl
 http://c-pki-acc.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki.extranet.dictu.nl
+http://cadacconnect.waterschaplimburg.nl
 http://caontb.rivm.nl
 http://casos-de-uso-plataformacovid.hub.arcgis.com
 http://catalogus.cito.nl
+http://caw.waterschaplimburg.nl
 http://cb.entreepgb.svb.nl
 http://cbm.preprod.mijn.overheid.nl
 http://cbs.knaw.nl
@@ -904,6 +906,7 @@ http://sts.koop.overheid.nl
 http://styleguide.cibg.nl
 http://sub.gezondekinderopvang.nl
 http://sub.gezondeschool.nl
+http://subsidie.waterschaplimburg.nl
 http://support.pdok.test.cloud.kadaster.nl
 http://survey-acc.igj.nl
 http://survey-beheeracc.igj.nl
@@ -914,6 +917,7 @@ http://tax.test.kadaster.nl
 http://test-3.gnk-ghe-3-org.github.io
 http://test-6.gnk-ghe-3-org.github.io
 http://test-afleveren.procesinfrastructuur.nl
+http://test-bron.waterschaplimburg.nl
 http://test-cms-eef.waterschaplimburg.nl
 http://test-ebc.databank.nl
 http://test-eef.waterschaplimburg.nl
@@ -1061,6 +1065,7 @@ http://wiltshire-council-open-data-hub-wiltscouncil.hub.arcgis.com
 http://wolk.hogeraad.nl
 http://wpo-webservice.rijksapplicaties.nl
 http://wpo-webservice.staging.rijksapplicaties.nl
+http://ww.waterschaplimburg.nl
 http://www-ac.gipdatabank.nl
 http://www-ac.horizonscangeneesmiddelen.nl
 http://www-ac.medicijnkosten.nl
@@ -4882,7 +4887,6 @@ https://digidzakelijk.duo.nl
 https://digik.s-bb.nl
 https://digikoppeling.bkd.eu
 https://digikoppeling.pleio.nl
-https://digikoppeling.waterschaplimburg.nl
 https://digikoppeling2.cibg.nl
 https://digiplein.reclassering.nl
 https://digipoortproxy.rijksapplicaties.nl
@@ -7039,6 +7043,7 @@ https://kda2.staging.rijksapplicaties.nl
 https://ke.chm-cbd.net
 https://kemperms.maps.arcgis.com
 https://kemprogramma.nl
+https://kennis-redactie.waterschaplimburg.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.caop.nl
 https://kennis.cultureelerfgoed.nl
@@ -10768,7 +10773,6 @@ https://subdata-authenticatie.rdw.nl
 https://subdata-portal.rdw.nl
 https://subdata.rdw.nl
 https://subsidie.cultureelerfgoed.nl
-https://subsidie.waterschaplimburg.nl
 https://subsidieportaal.zuid-holland.nl
 https://subsidieregister.zuid-holland.nl
 https://subsidies-backend.acceptatie.aofondsrijk.nl
@@ -10914,9 +10918,7 @@ https://test-api.stopheling.nl
 https://test-aquo-kit.rws.nl
 https://test-azure-waf1.lvnl.nl
 https://test-bp.stopheling.nl
-https://test-bron.waterschaplimburg.nl
 https://test-calculator.aerius.nl
-https://test-cms-bron.waterschaplimburg.nl
 https://test-cms.digid.nl
 https://test-cms.projecten.rvo.nl
 https://test-cms.projects.rvo.nl

@@ -5664,6 +5664,8 @@ magazinesintern.english
 vrijstellingmelden
 buurtatlas
 bron
+cadacconnect
+caw
 cms-bron
 cms-eef
 eef
@@ -5673,6 +5675,7 @@ gvopsawa
 h2ons
 ikp-ota
 ikp
+kennis-redactie
 metelkaar
 spapps-t
 spapps
@@ -5683,6 +5686,8 @@ test-eef
 testdigikoppeling
 uffprod25
 ufftest25
+wis-con
+ww
 wauke
 financials
 ict-ers
