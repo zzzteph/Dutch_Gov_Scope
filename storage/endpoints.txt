@@ -642,7 +642,6 @@ http://mobiel.nba.nl
 http://momfer.meertens.knaw.nl
 http://mon-saint-quentin.hub.arcgis.com
 http://monarchy-in-turmoil.huygens.knaw.nl
-http://mondgezondheidsdashboard.vzinfo.nl
 http://mpadmin.meertens.knaw.nl
 http://ms.gus.test.kadaster.nl
 http://ms.kss.test.kadaster.nl
@@ -682,7 +681,6 @@ http://nvb.meertens.knaw.nl
 http://nvi-registratie-service.test.gf.irealisatie.nl
 http://nvi.proeftuin.gf.irealisatie.nl
 http://nvi.test.gf.irealisatie.nl
-http://nzrdashboard.vzinfo.nl
 http://obi.knaw.nl
 http://oceans2.arcgis.com
 http://ocs.nba.nl
@@ -897,8 +895,6 @@ http://status.location.arcgis.com
 http://status.proeftuin.gf.irealisatie.nl
 http://stelselcatalogus.acc.omgevingswet.overheid.nl
 http://stelselcatalogus.pre.omgevingswet.overheid.nl
-http://sterftedashboard-regionaal.vzinfo.nl
-http://sterftedashboard.vzinfo.nl
 http://stijlgids.cibg.nl
 http://stijlgids.rws.nl
 http://stikstofdepositiedata.rivm.nl
@@ -1157,7 +1153,6 @@ http://yxdyc.github.io
 http://zeeland.databank.nl
 http://zeelandscan.databank.nl
 http://zhailuxu.github.io
-http://ziektelast.vzinfo.nl
 http://zoekdienst-preprod.overheid.nl
 http://zoeken.hdsr.nl
 http://zorgmonitor.databank.nl
