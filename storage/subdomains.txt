@@ -8292,7 +8292,6 @@ feeds.rsj.nl
 feeds.scp.nl
 feeds.staatsexamensnt2.nl
 feeds.vrachtwagenheffing.nl
-feeds.werkaanuitvoering.nl
 feeds.werkenaanonspensioen.nl
 feeds.wodc.nl
 feeds.wrr.nl
@@ -14937,7 +14936,6 @@ opendata.stelselcatalogus.nl
 opendata.test.tweedekamer.nl
 opendata.tweedekamer.nl
 opendata.vrachtwagenheffing.nl
-opendata.werkaanuitvoering.nl
 opendata.werkenaanonspensioen.nl
 opendata.wodc.nl
 opendata.wrr.nl
