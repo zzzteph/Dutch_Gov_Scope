@@ -5724,7 +5724,6 @@ https://feeds.english.aivd.nl
 https://feeds.english.defensie.nl
 https://feeds.english.kiesraad.nl
 https://feeds.english.ncsc.nl
-https://feeds.english.wrr.nl
 https://feeds.forensicinstitute.nl
 https://feeds.forensischinstituut.nl
 https://feeds.government.nl
@@ -5741,7 +5740,6 @@ https://feeds.ocwincijfers.nl
 https://feeds.oud.platformrijksoverheidonline.nl
 https://feeds.rijksoverheid.nl
 https://feeds.royal-house.nl
-https://feeds.wrr.nl
 https://felix-preproductie.brabant.nl
 https://felix-preproductie.flevoland.nl
 https://felix.brabant.nl
@@ -8884,7 +8882,6 @@ https://opendata.energierijkdenhaag.nl
 https://opendata.english.aivd.nl
 https://opendata.english.defensie.nl
 https://opendata.english.kiesraad.nl
-https://opendata.english.wrr.nl
 https://opendata.forensicinstitute.nl
 https://opendata.forensischinstituut.nl
 https://opendata.government.nl
@@ -8912,7 +8909,6 @@ https://opendata.slo.nl
 https://opendata.stelselcatalogus.nl
 https://opendata.test.tweedekamer.nl
 https://opendata.tweedekamer.nl
-https://opendata.wrr.nl
 https://opendata.zuid-holland.nl
 https://opendata1.platformrijksoverheid.nl
 https://opendata2.platformrijksoverheid.nl

@@ -8262,7 +8262,6 @@ feeds.english.kiesraad.nl
 feeds.english.ncsc.nl
 feeds.english.sso3w.nl
 feeds.english.vrachtwagenheffing.nl
-feeds.english.wrr.nl
 feeds.forensicinstitute.nl
 feeds.forensischinstituut.nl
 feeds.government.nl
@@ -8293,7 +8292,6 @@ feeds.scp.nl
 feeds.staatsexamensnt2.nl
 feeds.vrachtwagenheffing.nl
 feeds.wodc.nl
-feeds.wrr.nl
 felix-preproductie.brabant.nl
 felix-preproductie.flevoland.nl
 felix.brabant.nl
@@ -14889,7 +14887,6 @@ opendata.english.aivd.nl
 opendata.english.defensie.nl
 opendata.english.kiesraad.nl
 opendata.english.vrachtwagenheffing.nl
-opendata.english.wrr.nl
 opendata.forensicinstitute.nl
 opendata.forensischinstituut.nl
 opendata.government.nl
@@ -14935,7 +14932,6 @@ opendata.test.tweedekamer.nl
 opendata.tweedekamer.nl
 opendata.vrachtwagenheffing.nl
 opendata.wodc.nl
-opendata.wrr.nl
 opendata.zuid-holland.nl
 opendata1.platformrijksoverheid.nl
 opendata2.platformrijksoverheid.nl
