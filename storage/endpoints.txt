@@ -643,6 +643,7 @@ http://mobiel.nba.nl
 http://momfer.meertens.knaw.nl
 http://mon-saint-quentin.hub.arcgis.com
 http://monarchy-in-turmoil.huygens.knaw.nl
+http://monitor-klimaatadaptatie.zuid-holland.nl
 http://mpadmin.meertens.knaw.nl
 http://ms.gus.test.kadaster.nl
 http://ms.kss.test.kadaster.nl
@@ -3399,6 +3400,7 @@ https://belastingen.zuid-holland.nl
 https://belastingles.nl
 https://beleidsmonitor-acc.zuid-holland.nl
 https://beleidsmonitor-tst.zuid-holland.nl
+https://beleidsmonitor.zuid-holland.nl
 https://belize-coronavirus-response-tbsl-drp.hub.arcgis.com
 https://benbrook.maps.arcgis.com
 https://benchmarkenindepubliekesector.nl
@@ -6627,6 +6629,7 @@ https://ind.sitearchief.nl
 https://index.0ctocat.github.io
 https://indicatorsysteem-acc.zuid-holland.nl
 https://indicatorsysteem-tst.zuid-holland.nl
+https://indicatorsysteem.zuid-holland.nl
 https://industrie-en-omwonenden.onderzoeksraad.nl
 https://inechile.maps.arcgis.com
 https://ineo.dev.huc.knaw.nl
@@ -6809,7 +6812,6 @@ https://intrbcinresupplychains.evenement.ser.nl
 https://intrekkingeigenverzoek.cvdm.nl
 https://inventaris.huygens.knaw.nl
 https://invester-i-slagelse-startside-slagelse.hub.arcgis.com
-https://investerenin.zuid-holland.nl
 https://investeringsimpulsspv.nl
 https://investinholland.com
 https://inweva.ndw.nu
@@ -8194,7 +8196,6 @@ https://moline.maps.arcgis.com
 https://mondriaanfonds.nl
 https://monet-dev.dnb.nl
 https://monet-tst.dnb.nl
-https://monitor-klimaatadaptatie.zuid-holland.nl
 https://monitor-ow-en-wkb.databank.nl
 https://monitor.aerius.nl
 https://monitor.digitoegankelijk.nl
@@ -9371,7 +9372,6 @@ https://pre-dpia.huc.knaw.nl
 https://pre-login.rivm.nl
 https://pre.service.mpn.minienm.nl
 https://prefect.labs.dans.knaw.nl
-https://preprod-belastingen.zuid-holland.nl
 https://preprod-machtigen.digipoort.logius.nl
 https://preprod.begrippen.stelselcatalogus.nl
 https://preprod.capacitor.pleio.nl
