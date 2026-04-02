@@ -51,7 +51,6 @@ http://acc.mijn.logerenbijdeboswachter.nl
 http://acc.praatmeemetdeoverheid.nl
 http://acc.webtooliso20400.nl
 http://acc.woo.irealisatie.nl
-http://acc.zorginzicht.nl
 http://accept-betalen.nba.nl
 http://acceptatie-data.rivm.nl
 http://acceptatie.ag-dcr.cibg.nl
@@ -1070,7 +1069,6 @@ http://www-ac.gipdatabank.nl
 http://www-ac.horizonscangeneesmiddelen.nl
 http://www-ac.medicijnkosten.nl
 http://www-ac.zorginstituutnederland.nl
-http://www-ac.zorginzicht.nl
 http://www-diensten.rdw.nl
 http://www-test2.werkenbijdeoverheid.nl
 http://www.accept-betalen.nba.nl
@@ -2126,6 +2124,7 @@ https://acc.werkplaatsvoorlandbouwennatuur.nl
 https://acc.wlo2015.nl
 https://acc.wlo2025.nl
 https://acc.www.mycoa.nl
+https://acc.zorginzicht.nl
 https://acc.zsmgame.om.nl
 https://acc2.bio-overheid.nl
 https://acc2.cip-overheid.nl
@@ -12138,6 +12137,7 @@ https://www-a.svb.nl
 https://www-a.verhalenoverdeoorlog.nl
 https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.zorgcijfersdatabank.nl
+https://www-ac.zorginzicht.nl
 https://www-acc.cbs.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl
 https://www-acc.dcat-ap-donl.nl
@@ -12151,6 +12151,7 @@ https://www-acc.rijksbegroting.nl
 https://www-acc.rijksfinancien.nl
 https://www-acc.schadefonds.nl
 https://www-acc2.zorgcijfersdatabank.nl
+https://www-acc2.zorginzicht.nl
 https://www-acceptatie2.werkenbijdeoverheid.nl
 https://www-cambridge-org.access.authkb.kb.nl
 https://www-degruyter-com.access.authkb.kb.nl
