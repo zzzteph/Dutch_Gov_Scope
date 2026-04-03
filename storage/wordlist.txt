@@ -35,11 +35,11 @@ dev
 a-opendata
 app
 connect
+ftp
 a-feeds
 portaal
 beheer
 tst
-ftp
 remote
 sip
 www.acceptatie
