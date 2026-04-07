@@ -10,8 +10,8 @@ english
 opendata
 api
 acceptatie
-feeds
 _autodiscover._tcp
+feeds
 cms
 staging
 intranet
