@@ -20,10 +20,10 @@ vpn
 login
 www-acc
 link
-a-www
 prod
 werkenbij
 data
+a-www
 e
 portal
 smtp
@@ -35,12 +35,12 @@ dev
 app
 connect
 ftp
-a-opendata
 portaal
 beheer
 tst
-a-feeds
+a-opendata
 remote
+a-feeds
 sip
 www.acceptatie
 kennisbank
@@ -133,7 +133,6 @@ forum
 events
 hostmaster
 matomo
-feeds.english
 geodata
 academie
 adobe-analytics-dc
@@ -174,7 +173,6 @@ cpcalendars
 cpcontacts
 radius
 eloket
-a-english
 ontwikkel
 download
 evenementen
@@ -195,6 +193,7 @@ catalogus
 formulier
 share
 cms2
+feeds.english
 o-www
 acc.mijn
 www.mijn
@@ -233,9 +232,6 @@ idp
 downloads
 testeloket
 vpn2
-a-feeds.a-english
-a-opendata.a-english
-opendata.english
 prd
 betalen
 huisstijl
@@ -252,6 +248,7 @@ crm
 dashboards
 status
 a-cms
+a-english
 cms1
 i-www
 t-www
@@ -329,6 +326,8 @@ vpn1
 stijlgids
 owa
 t-cms
+a-feeds.a-english
+a-opendata.a-english
 acm
 filesender
 linkeddata
@@ -344,6 +343,7 @@ cmsdev
 gw
 o-cms1
 o-site1
+opendata.english
 site1
 site2
 site3
