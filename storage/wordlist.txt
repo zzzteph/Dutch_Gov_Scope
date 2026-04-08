@@ -19,8 +19,8 @@ magazines
 vpn
 login
 www-acc
-a-www
 link
+a-www
 prod
 werkenbij
 data
@@ -32,14 +32,14 @@ apps
 werkplek
 redactie
 dev
-a-opendata
 app
 connect
 ftp
-a-feeds
+a-opendata
 portaal
 beheer
 tst
+a-feeds
 remote
 sip
 www.acceptatie

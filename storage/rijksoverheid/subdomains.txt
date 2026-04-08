@@ -985,7 +985,6 @@ a-feeds.a-english.aivd.nl
 a-feeds.a-english.ctgb.nl
 a-feeds.a-english.defensie.nl
 a-feeds.a-english.igj.nl
-a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.bigregister.nl
 a-feeds.ctgb.nl
@@ -1036,7 +1035,6 @@ a-opendata.a-english.aivd.nl
 a-opendata.a-english.ctgb.nl
 a-opendata.a-english.defensie.nl
 a-opendata.a-english.igj.nl
-a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.bigregister.nl
 a-opendata.ctgb.nl
@@ -1131,7 +1129,6 @@ a-web-prov01.tsn.tno.nl
 a-web-saas11.tsn.tno.nl
 a-web-tcnx02.tsn.tno.nl
 a-wiki.rijksoverheid.nl
-a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.bigregister.nl
 a-www.campagnetoolkits.nl
@@ -8239,7 +8236,6 @@ feedback.fdcbeheer.minszw.nl
 feedback.oprijk.nl
 feedback.risicotoolboxbodem.nl
 feedfoodtransfer.nl
-feeds.agroberichtenbuitenland.nl
 feeds.aivd.nl
 feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
@@ -14859,7 +14855,6 @@ opendata.acceptatie.tweedekamer.nl
 opendata.acp.business.gov.nl
 opendata.acp.kvk.nl
 opendata.acp.ondernemersplein.nl
-opendata.agroberichtenbuitenland.nl
 opendata.aivd.nl
 opendata.arcgis.com
 opendata.beheerautoriteitwaddenzee.nl
