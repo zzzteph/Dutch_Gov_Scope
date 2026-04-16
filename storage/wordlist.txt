@@ -1097,6 +1097,8 @@ btube
 btubeont.vcdn
 btubetst.vcdn
 bvs
+cap-uht.acc
+cap-uht
 cap.om
 captiveportal
 cciwebstats
@@ -1120,6 +1122,9 @@ cts
 cts4k
 ctstest
 ctstest4k
+ctstest4k2
+dac7.acc
+dac7
 datumprikker
 dbcrco
 dbpmo
@@ -1271,6 +1276,7 @@ incassomachtigen
 incassomachtigen.str10.acc
 incassomachtigen.str11.acc
 incassomachtigen.str13.acc
+incassomachtigen.str14.acc
 inkoopportaal
 instroom
 intermediairdagen
@@ -1309,6 +1315,7 @@ leiderschap
 leiderschapp
 lrbh2ha
 lrbh2hb
+mail.bac
 mail.bapi
 mail.bapicft
 mailer1
@@ -1367,8 +1374,11 @@ mijndouane.tst
 mijndouane2.acc
 mijndwb
 mijnzakelijk-perf.acc
+mijnzakelijk-perf.oauth.acc
 mijnzakelijk.acc
 mijnzakelijk
+mijnzakelijk.oauth.acc
+mijnzakelijk.oauth.tst
 mijnzakelijk.str10.acc
 mijnzakelijk.str10.tst
 mijnzakelijk.str11.acc
@@ -1413,6 +1423,7 @@ mysite-acc
 mysites-conf
 nat_o5001vmfavapp.ont
 nat_o5002vmfavapp.ont
+nhdouane.acc
 nple-test
 nple
 ns4-mgmt
@@ -1502,6 +1513,7 @@ rht
 rijkskantoorproxy
 rmt
 roomreservation
+router.bac
 rut
 rvig-productie
 rvig-proeftuin
@@ -1534,8 +1546,10 @@ sharepoint-ext
 sipreg
 smtp.bapi
 smtp.bapicft
+smtp1.vscs
 smtp11
 smtp12
+smtp2.vscs
 smtp31
 smtp32
 smtp81
@@ -1567,13 +1581,21 @@ tmd.ont
 toestemming-acc
 toestemming-burger.acc
 toestemming-burger
+toestemming-douane.acc
+toestemming-douane
+toestemming-perf-burger.acc
+toestemming-perf-douane.acc
+toestemming-perf-zakelijk.acc
 toestemming-tst
+toestemming-zakelijk.acc
+toestemming-zakelijk
 va_do
 vcbewepa02c.kdmz
 vcbeweqa02c
 vcbeweqa02c.kdmz
 vcbmre-in02.kdmz
 vcbsmepa11.kdmz
+vcbsmeqa11-EC-ms.kdmz
 vcbsmeqa11-ec-ms.kdmz
 vcbsmeqa11.kdmz
 vcbsmeqa12.kdmz
@@ -1616,6 +1638,7 @@ veplivetst.vcdn
 veppush.vcdn
 veppushont.vcdn
 veppushtst.vcdn
+veptst
 vepvod.vcdn
 vepvodont.vcdn
 vepvodtst.vcdn
@@ -1626,8 +1649,10 @@ verzekeringsproducten.acc
 verzekeringsproducten
 via2008pilot-test2
 via2008pilot
+videotst
 vpg-aag-test
 vs_mijn.str13.tst
+vs_mijndouane.str13.tst
 vs_mijnzakelijk.str10.tst
 vs_mijnzakelijk.str13.tst
 vs_webdiensten.str13.tst
@@ -1677,6 +1702,8 @@ webservices.str30.acc
 website.acc
 wifilab
 wifiradius.isl
+wildcard.tst
+wmb-kennisgeving.acc
 wsgwhc-acc
 wsgwhc
 wus-encryptie.acc

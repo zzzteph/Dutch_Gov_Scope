@@ -402,6 +402,7 @@ http://dse.lx.overheid.nl
 http://dubbeltje.meertens.knaw.nl
 http://duvo-web-api.rivm.nl
 http://dva.acc.mgo.irealisatie.nl
+http://dva.belastingdienst.nl
 http://dva.test.mgo.irealisatie.nl
 http://dynac.rws.nl
 http://e-learning.rvo.nl
@@ -457,7 +458,6 @@ http://ftp.schoolleidersregisterpo.nl
 http://gbatmv.rvo.nl
 http://gcn-app.rivm.nl
 http://gdi-b.rvo.nl
-http://gdlo.belastingdienst.nl
 http://gebiedagen2.waddenzee.nl
 http://gebruiker-beheer.dus-i.nl
 http://gegevensbijbesluiten-concept-acc.overheid.nl
@@ -826,8 +826,6 @@ http://rootocsp-g3.pkioverheid.nl
 http://rp1.tst.federatieveservice.nl
 http://rvdr.nieuwsbriefrechtspraak.nl
 http://s10011-out.eerstekamer.nl
-http://sadp.belastingdienst.nl
-http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://samp.rws.nl
 http://samuraitruong.github.io
@@ -1020,9 +1018,7 @@ http://verbeterdekaart.acceptatie.kadaster.nl
 http://verbeterdekaart.kadaster.nl
 http://verbeterdeluchtvaartkaart.acceptatie.kadaster.nl
 http://verzekeringsgegevensopvragen.rdw.nl
-http://verzekeringsproducten.belastingdienst.nl
 http://via.uwv.nl
-http://video.belastingdienst.nl
 http://videobellen.waterschaplimburg.nl
 http://videoplatform.cbs.nl
 http://videoserver2.brabant.nl
@@ -1035,6 +1031,7 @@ http://vpn.digiinkooppentest.odc-noord.nl
 http://vrijwaringsbewijsaanvragen.rdw.nl
 http://w3dxweb.knmi.nl
 http://wadzee9520.waddenzee.nl
+http://wagenparkgegevens.belastingdienst.nl
 http://waterbeschikbaarheid.nl
 http://wcf-eafspraak-acceptatie.ba.uwv.nl
 http://web.mgcp.test.kadaster.nl
@@ -1143,10 +1140,9 @@ http://www.waterbeschikbaarheid.nl
 http://www.web.nba.nl
 http://www.web1.nba.nl
 http://www.webtooliso20400.nl
-http://www.werken.belastingdienst.nl
 http://www.wetenschapentechnologie.slo.nl
 http://www1.cito.nl
-http://wwwfcinetorg.belastingdienst.nl
+http://wwwrijksacademienl.belastingdienst.nl
 http://xelion.cokz.nl
 http://xiaofeng-tan.github.io
 http://yxdyc.github.io
@@ -4465,6 +4461,7 @@ https://czisxfrxky7ywyy.raadvoorplantenrassen.nl
 https://d2val.staging.ndw.nu
 https://da.stimuleringsfonds.nl
 https://da.zonmw.nl
+https://dac7.belastingdienst.nl
 https://dae.kadaster.nl
 https://dae.test.kadaster.nl
 https://dafne.ndw.nu
@@ -5150,7 +5147,6 @@ https://duurzameescaperoom-light-vr.belastingdienst.nl
 https://duurzameescaperoom-vr.belastingdienst.nl
 https://duurzamemobiliteit.databank.nl
 https://dva-mock.test.mgo.irealisatie.nl
-https://dva.belastingdienst.nl
 https://dva.rdw.nl
 https://dvabackend.rdw.nl
 https://dvfz.dji.nl
@@ -5543,7 +5539,6 @@ https://eu.odc.pleio.nl
 https://eu.pleio.nl
 https://eu1-iot.arcgis.com
 https://eu2016.cbs.nl
-https://eubtw.belastingdienst.nl
 https://euc1-geocode.arcgis.com
 https://euc1-tiledbasemaps.arcgis.com
 https://eucaris.net
@@ -5628,7 +5623,6 @@ https://extrainfo.rijksbegroting.nl
 https://extranet.eherkenning.nl
 https://extranet.onderwijsraad.nl
 https://extreemrechts.nctv.nl
-https://f2b.belastingdienst.nl
 https://f3c1e281.near-dimension.github.io
 https://f55ce12b.near-dimension.github.io
 https://f827fc.crimson-perch.github.io
@@ -5742,12 +5736,10 @@ https://fhub-ont.dictu.nl
 https://fhub.dictu.nl
 https://fi-i.espacenet.com
 https://fi.espacenet.com
-https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
-https://fibz1.belastingdienst.nl
 https://fictional-happiness.stoelzle.github.io
 https://file.kansspelautoriteit.nl
 https://file.ndw.nu
@@ -5812,8 +5804,6 @@ https://flu-vaccine-clinic-carltoncounty.hub.arcgis.com
 https://fme.hdsr.nl
 https://fmhaaglanden.nl
 https://fmis-nvwa.justid.nl
-https://fmis.acc.belastingdienst.nl
-https://fmis.belastingdienst.nl
 https://fmp-poc.keurmerk.nl
 https://fmreturn.acm.nl
 https://fms.keurmerk.nl
@@ -5900,7 +5890,6 @@ https://fso.pleio.nl
 https://fsv-chat.pleio.nl
 https://fsv-monitoring.pleio.nl
 https://fsv.pleio.nl
-https://fsvportaal.belastingdienst.nl
 https://ftgelderland.databank.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.bedrijfscommissieoverheid.nl
@@ -6267,9 +6256,7 @@ https://grootamsterdam.lerenenwerken.nl
 https://grotius.huygens.knaw.nl
 https://gso.gbv.de.access.authkb.kb.nl
 https://gtmb.belastingdienst.nl
-https://gtmd.belastingdienst.nl
 https://gtmt.toeslagen.nl
-https://gtmz.belastingdienst.nl
 https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://guest.videobellen-jwt-moderator.pleio.nl
@@ -6603,7 +6590,6 @@ https://imvostakeholdersamenwerking.evenement.ser.nl
 https://in-made.nl
 https://inbeeld.zuid-holland.nl
 https://inburgeren.nl
-https://incassomachtigen.belastingdienst.nl
 https://incca.org
 https://incidentmanagement.nl
 https://include-eafspraak-acceptatie.ba.uwv.nl
@@ -6734,7 +6720,6 @@ https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intel-acc.ncsc.nl
 https://intel.ncsc.nl
 https://interactief.brkinzage.test.kadaster.nl
-https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intern.magazinesrijkswaterstaat.nl
 https://intern.ssc-ictspecials.nl
@@ -6930,7 +6915,6 @@ https://jo.test.chm-cbd.net
 https://jobs.werkenvoornederland.nl
 https://join.odijmond.nl
 https://jokesmitprijs.nl
-https://jong.belastingdienst.nl
 https://jongekind.slo.nl
 https://jongeren.evenement.ser.nl
 https://jongerendenktankcoronacrisis.evenement.ser.nl
@@ -7071,7 +7055,6 @@ https://kennisdelenrvo.pleio.nl
 https://kennisevents.nipv.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisknooppuntparticipatie.nl
-https://kennisnetwerk.belastingdienst.nl
 https://kennisnetwerkbiociden.nl
 https://kennisnetwerkdata.pleio.nl
 https://kennisnetwerkspv.nl
@@ -7951,7 +7934,6 @@ https://migrant.huygens.knaw.nl
 https://migratie.ssc.eerstekamer.nl
 https://migratieaws.pleio.nl
 https://mijn-a.nipv.nl
-https://mijn-aanvraag.belastingdienst.nl
 https://mijn-academie.rechtenoverheid.nl
 https://mijn-acc.igj.nl
 https://mijn-acc.s-bb.nl
@@ -8263,7 +8245,6 @@ https://msgcpp.knmi.nl
 https://msnp-admin.pleio.nl
 https://msnp-chat.pleio.nl
 https://msnp-tegemoetkoming.acc.belastingdienst.nl
-https://msnp-tegemoetkoming.belastingdienst.nl
 https://msnp.pleio.nl
 https://msoid.nak.nl
 https://msteamnotification.wgu-edu.github.io
@@ -8281,8 +8262,6 @@ https://mta.cbr.nl
 https://mu.digid.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
-https://mul-redirect.belastingdienst.nl
-https://mul.belastingdienst.nl
 https://municipalbarometer.databank.nl
 https://muniorg.maps.arcgis.com
 https://muntvondsten.dnb.nl
@@ -8295,7 +8274,6 @@ https://mvstat.cbs.nl
 https://mvt.slo.nl
 https://mw-sat.dvu1.satellite.datastelselverduurzamingutiliteit.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
-https://mwr-app-cdn.belastingdienst.nl
 https://mx.odc.pleio.nl
 https://mx2.cvte.nl
 https://my-acc.skal.nl
@@ -8742,7 +8720,6 @@ https://oms-order.dktunited.github.io
 https://on2013.nl
 https://onbeperkttoegankelijk.nl
 https://onbewerktarchief.tweedekamer.nl
-https://onboarding.belastingdienst.nl
 https://onderhoud.cbs.nl
 https://onderhoud.ciz.nl
 https://onderhoud.politieacademie.nl
@@ -9130,7 +9107,6 @@ https://pgdi.nl
 https://pge.nctv.nl
 https://pgr-ext.rijkswaterstaat.nl
 https://pgv.cbr.nl
-https://pgw.belastingdienst.nl
 https://ph.test.chm-cbd.net
 https://phantom7666.github.io
 https://phished.fondspodiumkunsten.nl
@@ -9236,7 +9212,6 @@ https://pmds.cito.nl
 https://pmhdsk-ci.dnb.nl
 https://pmk.cloud.kadaster.nl
 https://pmk.test.cloud.kadaster.nl
-https://pmm.belastingdienst.nl
 https://pmon-tst.onderzoekmetmensen.nl
 https://pmon.onderzoekmetmensen.nl
 https://pmz.logius.nl
@@ -10088,7 +10063,6 @@ https://rvp.reis.idm.rvig.nl
 https://rvr.org
 https://rvs.rivm.nl
 https://rvszoeksysteem.rivm.nl
-https://rw.belastingdienst.nl
 https://rw.chm-cbd.net
 https://rwbg.flevoland.nl
 https://rwn.belastingdienst.nl
@@ -10114,6 +10088,7 @@ https://s4p.brabant.nl
 https://sa.belastingdienst.nl
 https://sac-sharegisny.hub.arcgis.com
 https://sadp-admin.pleio.nl
+https://sadp.belastingdienst.nl
 https://sadp.pleio.nl
 https://safefiletransfer.rdw.nl
 https://saimani5454.github.io
@@ -10284,7 +10259,6 @@ https://services-acc.globalentry-rtp.nl
 https://services-ap1.arcgis.com
 https://services-preprod.ep-online.nl
 https://services.arcgis.com
-https://services.belastingdienst.nl
 https://services.burgernet.nl
 https://services.ep-online.nl
 https://services.globalentry-rtp.nl
@@ -11154,6 +11128,7 @@ https://toekomstvisiegewasbescherming2030.nl
 https://toelatingen.ctgb.nl
 https://toeslagen.nl
 https://toestemming-acc.belastingdienst.nl
+https://toestemming-burger.belastingdienst.nl
 https://toestemming-commercieel.cvdm.nl
 https://toestemming-evenement.cvdm.nl
 https://toestemming.belastingdienst.nl
@@ -11471,7 +11446,6 @@ https://veiligmailen.rechtsbijstand.nl
 https://veiligmailen.rvr.org
 https://veiligtatoeerenenpiercen.nl
 https://veiligwerk.hdsr.nl
-https://veiling.belastingdienst.nl
 https://veldapp.rivm.nl
 https://veldmonitoring.rivm.nl
 https://velocity1.arcgis.com
@@ -11480,10 +11454,7 @@ https://velocitydevext2.arcgis.com
 https://velsen.databank.nl
 https://venster.nl
 https://venvn.nl
-https://vep.belastingdienst.nl
-https://vepapi.vcdn.belastingdienst.nl
-https://vepkms.vcdn.belastingdienst.nl
-https://vepvod.vcdn.belastingdienst.nl
+https://veptst.belastingdienst.nl
 https://vera-2r.nl
 https://verantwoordalcoholverkopen.nl
 https://verbeterdebrk.acceptatie.kadaster.nl
@@ -11525,6 +11496,7 @@ https://vertrokken-nederlands.meertens.knaw.nl
 https://vervangendkentekenbewijsaanvragen.rdw.nl
 https://verwerkingen.rijksoverheid.nl
 https://verwijzingsportaalbankgegevens.nl
+https://verzekeringsproducten.belastingdienst.nl
 https://verzorgenden.venvn.nl
 https://verzorgingsplaats.ndw.nu
 https://veterinairberoepscollege.nl
@@ -11549,6 +11521,7 @@ https://video-uploader-aanmelding.cvdm.nl
 https://video-uploaders.cvdm.nl
 https://video.arcgis.com
 https://video.beeldbellen.dji.nl
+https://video.belastingdienst.nl
 https://videobellen-jwt-moderator.pleio.nl
 https://videobellen-jwt-only.pleio.nl
 https://videobellen-lobby.pleio.nl
@@ -11556,6 +11529,7 @@ https://videobellen.belastingdienst.nl
 https://videobellen.pleio.nl
 https://videoleren.nvwa.nl
 https://videos.cbs.nl
+https://videotst.belastingdienst.nl
 https://viep.acc.brba.nl
 https://viep.test.brba.nl
 https://view.email.kvk.nl
@@ -11565,6 +11539,7 @@ https://viewer.dsolv.test.cloud.kadaster.nl
 https://viewer.globio.info
 https://viewer.sensorenregister.cloud.kadaster.nl
 https://vild.ndw.nu
+https://vinden.belastingdienst.nl
 https://vinden.toeslagen.nl
 https://vip-acc.tweedekamer.nl
 https://vip2.tweedekamer.nl
@@ -11691,6 +11666,7 @@ https://vt-personenregisterkinderopvang.duo.nl
 https://vt.1ratio.nl
 https://vt.landelijkregisterkinderopvang.nl
 https://vts.belastingdienst.nl
+https://vtsd.belastingdienst.nl
 https://vtv2018.nl
 https://vubis-az-t.politieacademie.nl
 https://vubis-az.politieacademie.nl
@@ -11801,7 +11777,6 @@ https://webcast.brabant.nl
 https://webchat.klopt.cibg.nl
 https://webdav-acceptatie.sawa-vth.nl
 https://webdav.sawa-vth.nl
-https://webdiensten.belastingdienst.nl
 https://webdiensten.hdsr.nl
 https://webdisk.globio.info
 https://webdisk.ibki.nl
@@ -11915,7 +11890,6 @@ https://werkcentrumzuidkennemerlandenijmond.nl
 https://werkdrukenongewenstgedrag.zelfinspectie.nl
 https://werkelijkeschade.nl
 https://werken-test.cjib.nl
-https://werken.belastingdienst.nl
 https://werken.cjib.nl
 https://werken.diensttoeslagen.nl
 https://werken.douane.nl
@@ -12299,7 +12273,6 @@ https://www.beheerdetoekomst.nl
 https://www.belangenbehartigerbt.nl
 https://www.belastingdienst-academie.nl
 https://www.belastingdienst-cn.nl
-https://www.belastingdienst.nl
 https://www.belastingles.nl
 https://www.benchmarkenindepubliekesector.nl
 https://www.beoordelingarbeidsrelatie.nl
@@ -13563,6 +13536,7 @@ https://www.werkaanuitvoering.nl
 https://www.werkcentrumregioamersfoort.nl
 https://www.werkcentrumzuidkennemerlandenijmond.nl
 https://www.werkelijkeschade.nl
+https://www.werken.belastingdienst.nl
 https://www.werkenaanjouwtoekomst.nl
 https://www.werkenaanonspensioen.nl
 https://www.werkenbij.naktuinbouw.nl
@@ -13644,7 +13618,7 @@ https://www2.leer-rijk.nl
 https://www2.om.nl
 https://www2.welcome-to-nl.nl
 https://wwwa.staatsbosbeheer.nl
-https://wwwrijksacademienl.belastingdienst.nl
+https://wwwfcinetorg.belastingdienst.nl
 https://wwww.niwo.nl
 https://wwww.valys.nl
 https://wycopa.maps.arcgis.com

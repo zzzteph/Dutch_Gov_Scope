@@ -113,6 +113,8 @@ btube.belastingdienst.nl
 btubeont.vcdn.belastingdienst.nl
 btubetst.vcdn.belastingdienst.nl
 bvs.belastingdienst.nl
+cap-uht.acc.belastingdienst.nl
+cap-uht.belastingdienst.nl
 cap.om.belastingdienst.nl
 captiveportal.belastingdienst.nl
 cciwebstats.belastingdienst.nl
@@ -136,6 +138,9 @@ cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
+ctstest4k2.belastingdienst.nl
+dac7.acc.belastingdienst.nl
+dac7.belastingdienst.nl
 datumprikker.belastingdienst.nl
 dbcrco.belastingdienst.nl
 dbpmo.belastingdienst.nl
@@ -304,6 +309,7 @@ incassomachtigen.belastingdienst.nl
 incassomachtigen.str10.acc.belastingdienst.nl
 incassomachtigen.str11.acc.belastingdienst.nl
 incassomachtigen.str13.acc.belastingdienst.nl
+incassomachtigen.str14.acc.belastingdienst.nl
 inkoopportaal.belastingdienst.nl
 instroom.belastingdienst.nl
 intermediairdagen.belastingdienst.nl
@@ -344,6 +350,7 @@ leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 lrbh2ha.belastingdienst.nl
 lrbh2hb.belastingdienst.nl
+mail.bac.belastingdienst.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mailer1.belastingdienst.nl
@@ -407,8 +414,11 @@ mijndouane.tst.belastingdienst.nl
 mijndouane2.acc.belastingdienst.nl
 mijndwb.belastingdienst.nl
 mijnzakelijk-perf.acc.belastingdienst.nl
+mijnzakelijk-perf.oauth.acc.belastingdienst.nl
 mijnzakelijk.acc.belastingdienst.nl
 mijnzakelijk.belastingdienst.nl
+mijnzakelijk.oauth.acc.belastingdienst.nl
+mijnzakelijk.oauth.tst.belastingdienst.nl
 mijnzakelijk.str10.acc.belastingdienst.nl
 mijnzakelijk.str10.tst.belastingdienst.nl
 mijnzakelijk.str11.acc.belastingdienst.nl
@@ -456,6 +466,7 @@ mysites-conf.belastingdienst.nl
 mysites.belastingdienst.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
+nhdouane.acc.belastingdienst.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 ns2.belastingdienst.nl
@@ -552,6 +563,7 @@ rht.belastingdienst.nl
 rijkskantoorproxy.belastingdienst.nl
 rmt.belastingdienst.nl
 roomreservation.belastingdienst.nl
+router.bac.belastingdienst.nl
 rut.belastingdienst.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
@@ -593,9 +605,11 @@ sipreg.belastingdienst.nl
 smtp.bapi.belastingdienst.nl
 smtp.bapicft.belastingdienst.nl
 smtp1.belastingdienst.nl
+smtp1.vscs.belastingdienst.nl
 smtp11.belastingdienst.nl
 smtp12.belastingdienst.nl
 smtp2.belastingdienst.nl
+smtp2.vscs.belastingdienst.nl
 smtp31.belastingdienst.nl
 smtp32.belastingdienst.nl
 smtp81.belastingdienst.nl
@@ -629,7 +643,14 @@ tmd.ont.belastingdienst.nl
 toestemming-acc.belastingdienst.nl
 toestemming-burger.acc.belastingdienst.nl
 toestemming-burger.belastingdienst.nl
+toestemming-douane.acc.belastingdienst.nl
+toestemming-douane.belastingdienst.nl
+toestemming-perf-burger.acc.belastingdienst.nl
+toestemming-perf-douane.acc.belastingdienst.nl
+toestemming-perf-zakelijk.acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
+toestemming-zakelijk.acc.belastingdienst.nl
+toestemming-zakelijk.belastingdienst.nl
 toestemming.belastingdienst.nl
 va_do.belastingdienst.nl
 vc.belastingdienst.nl
@@ -638,6 +659,7 @@ vcbeweqa02c.belastingdienst.nl
 vcbeweqa02c.kdmz.belastingdienst.nl
 vcbmre-in02.kdmz.belastingdienst.nl
 vcbsmepa11.kdmz.belastingdienst.nl
+vcbsmeqa11-EC-ms.kdmz.belastingdienst.nl
 vcbsmeqa11-ec-ms.kdmz.belastingdienst.nl
 vcbsmeqa11.kdmz.belastingdienst.nl
 vcbsmeqa12.kdmz.belastingdienst.nl
@@ -681,6 +703,7 @@ veplivetst.vcdn.belastingdienst.nl
 veppush.vcdn.belastingdienst.nl
 veppushont.vcdn.belastingdienst.nl
 veppushtst.vcdn.belastingdienst.nl
+veptst.belastingdienst.nl
 vepvod.vcdn.belastingdienst.nl
 vepvodont.vcdn.belastingdienst.nl
 vepvodtst.vcdn.belastingdienst.nl
@@ -694,10 +717,12 @@ via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 video.belastingdienst.nl
 videobellen.belastingdienst.nl
+videotst.belastingdienst.nl
 vinden.belastingdienst.nl
 vpg-aag-test.belastingdienst.nl
 vpn.belastingdienst.nl
 vs_mijn.str13.tst.belastingdienst.nl
+vs_mijndouane.str13.tst.belastingdienst.nl
 vs_mijnzakelijk.str10.tst.belastingdienst.nl
 vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
@@ -753,6 +778,8 @@ werken.belastingdienst.nl
 werkenbij.belastingdienst.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
+wildcard.tst.belastingdienst.nl
+wmb-kennisgeving.acc.belastingdienst.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
 wus-encryptie.acc.belastingdienst.nl
