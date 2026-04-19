@@ -2192,6 +2192,8 @@ https://acceptatie.api.bigregister.nl
 https://acceptatie.api.zorgaanbiedersportaal.nl
 https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.aquo.nl
+https://acceptatie.auth.bigregister.nl
+https://acceptatie.authlab.bigregister.nl
 https://acceptatie.authlab.dezi.nl
 https://acceptatie.bct.tsp.minienw.nl
 https://acceptatie.behandel.bigregister.nl
@@ -5696,7 +5698,6 @@ https://feedback.fdcbeheer.minszw.nl
 https://feedback.oprijk.nl
 https://feedback.risicotoolboxbodem.nl
 https://feedfoodtransfer.nl
-https://feeds.bigregister.nl
 https://feeds.campagnetoolkits.nl
 https://feeds.commissiemijnbouwschade.nl
 https://feeds.defensie.nl
@@ -8826,7 +8827,6 @@ https://opendata-westspringfield.hub.arcgis.com
 https://opendata-wiki.tweedekamer.nl
 https://opendata.acceptatie.tweedekamer.nl
 https://opendata.acp.ondernemersplein.nl
-https://opendata.bigregister.nl
 https://opendata.business.gov.nl
 https://opendata.campagnetoolkits.nl
 https://opendata.cbs.nl

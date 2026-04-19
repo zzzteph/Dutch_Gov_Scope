@@ -1,5 +1,7 @@
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
+https://acceptatie.auth.bigregister.nl
+https://acceptatie.authlab.bigregister.nl
 https://acceptatie.behandel.bigregister.nl
 https://acceptatie.beheer.bigregister.nl
 https://acceptatie.mijn.bigregister.nl
@@ -11,9 +13,7 @@ https://behandel.bigregister.nl
 https://beheer.bigregister.nl
 https://bigregister.nl
 https://english.bigregister.nl
-https://feeds.bigregister.nl
 https://mijn.bigregister.nl
-https://opendata.bigregister.nl
 https://tea.bigregister.nl
 https://webservices.bigregister.nl
 https://www.bigregister.nl

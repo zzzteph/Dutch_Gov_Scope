@@ -983,7 +983,6 @@ a-ewrs.rivm.nl
 a-feeds.a-english.ctgb.nl
 a-feeds.a-english.defensie.nl
 a-feeds.a-english.igj.nl
-a-feeds.bigregister.nl
 a-feeds.ctgb.nl
 a-feeds.defensie.nl
 a-feeds.dus-i.nl
@@ -1031,7 +1030,6 @@ a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.ctgb.nl
 a-opendata.a-english.defensie.nl
 a-opendata.a-english.igj.nl
-a-opendata.bigregister.nl
 a-opendata.ctgb.nl
 a-opendata.defensie.nl
 a-opendata.dus-i.nl
@@ -1124,7 +1122,6 @@ a-web-prov01.tsn.tno.nl
 a-web-saas11.tsn.tno.nl
 a-web-tcnx02.tsn.tno.nl
 a-wiki.rijksoverheid.nl
-a-www.bigregister.nl
 a-www.campagnetoolkits.nl
 a-www.ctgb.nl
 a-www.defensie.nl
@@ -1823,7 +1820,9 @@ acceptatie.aquo.nl
 acceptatie.as2.minbzk.nl
 acceptatie.atlasleefomgeving.nl
 acceptatie.atlasnatuurlijkkapitaal.nl
+acceptatie.auth.bigregister.nl
 acceptatie.auth.dezi.nl
+acceptatie.authlab.bigregister.nl
 acceptatie.authlab.dezi.nl
 acceptatie.bct.tsp.minienw.nl
 acceptatie.behandel.bigregister.nl
@@ -8236,7 +8235,6 @@ feedback.fdcbeheer.minszw.nl
 feedback.oprijk.nl
 feedback.risicotoolboxbodem.nl
 feedfoodtransfer.nl
-feeds.bigregister.nl
 feeds.campagnetoolkits.nl
 feeds.commissiemijnbouwschade.nl
 feeds.ctgb.nl
@@ -14857,7 +14855,6 @@ opendata.acp.business.gov.nl
 opendata.acp.kvk.nl
 opendata.acp.ondernemersplein.nl
 opendata.arcgis.com
-opendata.bigregister.nl
 opendata.brabant.nl
 opendata.business.gov.nl
 opendata.campagnetoolkits.nl

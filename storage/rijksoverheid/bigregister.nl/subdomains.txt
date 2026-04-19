@@ -1,8 +1,7 @@
-a-feeds.bigregister.nl
-a-opendata.bigregister.nl
-a-www.bigregister.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
+acceptatie.auth.bigregister.nl
+acceptatie.authlab.bigregister.nl
 acceptatie.behandel.bigregister.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.mijn.bigregister.nl
@@ -15,9 +14,7 @@ behandel.bigregister.nl
 beheer.bigregister.nl
 bigregister.nl
 english.bigregister.nl
-feeds.bigregister.nl
 mijn.bigregister.nl
-opendata.bigregister.nl
 tea.bigregister.nl
 webservices.bigregister.nl
 www.bigregister.nl

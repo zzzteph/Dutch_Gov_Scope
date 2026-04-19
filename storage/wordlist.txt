@@ -8,8 +8,8 @@ mijn
 webmail
 english
 api
-opendata
 acceptatie
+opendata
 _autodiscover._tcp
 feeds
 cms
@@ -23,8 +23,8 @@ link
 prod
 werkenbij
 data
-a-www
 e
+a-www
 portal
 smtp
 formulieren
@@ -38,15 +38,15 @@ ftp
 portaal
 beheer
 tst
-a-opendata
 remote
-a-feeds
 sip
 www.acceptatie
+a-opendata
 kennisbank
 zoeken
 publicaties
 _dmarc
+a-feeds
 hybrid
 docs
 meet
@@ -507,6 +507,8 @@ vinden
 webapps
 webdiensten
 wus2
+acceptatie.auth
+acceptatie.authlab
 acs
 aris
 beeldbank-bo
@@ -2225,8 +2227,6 @@ dp2025
 dp2026
 abonnee
 acceptatie.abonnee
-acceptatie.auth
-acceptatie.authlab
 acceptatie.proxy.auth
 acceptatie.uzipas.abonnee
 acceptatie.uzipas.auth
