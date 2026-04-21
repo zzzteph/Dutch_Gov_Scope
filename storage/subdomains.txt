@@ -606,6 +606,7 @@
 178-47-169-195.cito.nl
 179-47-169-195.cito.nl
 180-47-169-195.cito.nl
+192.168.150.126.brabant.nl
 1bd66af5.near-dimension.github.io
 1map-fcsa.hub.arcgis.com
 1ratio.nl
@@ -3948,6 +3949,7 @@ bbeheer.meertens.knaw.nl
 bbkl.de.access.authkb.kb.nl
 bblonline.nl
 bbm.databank.nl
+bbma.brabant.nl
 bc.acc.bvd.logius.nl
 bcem-coronavirus-bentear.hub.arcgis.com
 bcld-config.nl
@@ -4290,6 +4292,7 @@ beveiligd.test.kadaster.nl
 bevolkingsonderzoek.nl
 bevolkingsprognose.brabant.nl
 bevolkingsprognose2014.brabant.nl
+bevolkingsprognose2017.brabant.nl
 bevolkingsprognose2020.brabant.nl
 bewegingsonderwijs.slo.nl
 bewerken-acc.bestandenpostbus.nl
@@ -4333,6 +4336,7 @@ bgt-acc.rvo.nl
 bgt-client-certificaat-acc.rvo.nl
 bgt-client-certificaat.rvo.nl
 bgt.basisregistraties.overheid.nl
+bgt.brabant.nl
 bgtcongres.pleio.nl
 bgtest.hetcak.nl
 bgtkadaster.rws.nl
@@ -4554,6 +4558,7 @@ bra.staging.rijksapplicaties.nl
 brabant.databank.nl
 brabant.nl
 brabantapps.brabant.nl
+brabantnext.brabant.nl
 brabantsedelta.webgispublisher.nl
 braic.nl
 brain-acpt.brabant.nl
@@ -4786,6 +4791,8 @@ caas.ndw.nu
 cabauw.knmi.nl
 cabeta.arcgis.com
 cabinetspecialenvoy.com
+cac-acpt.brabant.nl
+cac.brabant.nl
 cache-county-risk-map-document-repository-utah-em.hub.arcgis.com
 cache-creek-flood-mitigation-planning-true-consulting.hub.arcgis.com
 cacis-camaps.hub.arcgis.com
@@ -4809,6 +4816,7 @@ cals-templates.wgu-edu.github.io
 caltrans.maps.arcgis.com
 calvert-county-open-data-calvertgis.hub.arcgis.com
 camera-registration-chicagopd.hub.arcgis.com
+campagne.brabant.nl
 campagnetoolkits.nl
 campolide2021challenge-novacidade.hub.arcgis.com
 campus-map-gallery-gtfacilities.hub.arcgis.com
@@ -5765,6 +5773,7 @@ corsa-pno.tweedekamer.nl
 corsa-vvd-acc.tweedekamer.nl
 corsa-vvd.tweedekamer.nl
 corsa.brabant.nl
+corsa2018-acpt.brabant.nl
 corsa2023.brabant.nl
 cosacovid-cosagis.hub.arcgis.com
 cost832.alterra.nl
@@ -6087,6 +6096,7 @@ danstijd.slo.nl
 dapp0001.github.io
 dare.uva.nl.access.authkb.kb.nl
 darkarchive.dans.knaw.nl
+darktrace.brabant.nl
 dash-ebb-a-az1.mijn.overheid.nl
 dash-ebb-a-az2.mijn.overheid.nl
 dash-ma.mijn.overheid.nl
@@ -7045,6 +7055,7 @@ dossier-inkijk-integratietest.uwv.nl
 dossier-inkijk-productie.uwv.nl
 dossier.capacitor.pleio.nl
 dossierportal.cbs.nl
+dossiers.brabant.nl
 dotnl.ndw.nu
 douane.nl
 douane.sitearchief.nl
@@ -7103,7 +7114,10 @@ dr-prd-tachograaf-handboek-twirqc8f117.rdw.nl
 dr-prd-www-dgobbqqkdqg.rdw.nl
 draaiboekhielprikscreening.rivm.nl
 draaiboekpsie.nl
+draf-acpt-apl.brabant.nl
 draf-acpt.brabant.nl
+draf-apl-acpt.brabant.nl
+draf-apl.brabant.nl
 draf.brabant.nl
 drafts.github.io
 drechtsteden.leerwerkloket.nl
@@ -7946,6 +7960,7 @@ evat-test2.belastingdienst.nl
 evat.belastingdienst.nl
 evatbeheer.belastingdienst.nl
 evc.ibki.nl
+evenement.brabant.nl
 evenement.ser.nl
 evenementen.belastingdienst.nl
 evenementen.fondspodiumkunsten.nl
@@ -9591,6 +9606,7 @@ hucsys.huc.knaw.nl
 huiselijkgeweld.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
+huisstijl.brabant.nl
 huisstijl.coa.nl
 huisstijl.kadaster.nl
 huisstijl.sbcm.nl
@@ -9946,6 +9962,7 @@ inform.rdw.nl
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
+informatie.brabant.nl
 informatie.rijksorganisatiebeveiligingenlogistiek.nl
 informatie.valys.nl
 informatie2020.pleio.nl
@@ -12155,6 +12172,7 @@ mag.lvnl.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
 magazine.arbeidsmarktplatformpo.nl
+magazine.brabant.nl
 magazine.caop.nl
 magazine.forumstandaardisatie.nl
 magazine.kvk.nl
@@ -14002,6 +14020,7 @@ nep-knooppunt-accp.viewer.dso.kadaster.nl
 nep-knooppunt-ketenacceptatie.viewer.dso.kadaster.nl
 neptunus.databank.nl
 neries.knmi.nl
+nessus.brabant.nl
 netftp.dictu.nl
 netherlandsandyou.nl
 netherlandspointofentry.nl
@@ -14727,6 +14746,7 @@ onderzoek2.cbs.nl
 onderzoekinzesstappen.slo.nl
 onderzoekmetmensen.nl
 onderzoeksapp.ciz.nl
+onderzoeksbank.brabant.nl
 onderzoeksraad.nl
 one-conference.nl
 onedrive.ictu.nl
@@ -16657,6 +16677,7 @@ pwa002.belastingdienst.nl
 pwdreset.onderzoeksraad.nl
 pwik.datawonen.nl
 pwk.tweedekamer.nl
+pwr.brabant.nl
 pwreset.ictu.nl
 px-dmz-1.onlinezitting.rechtspraak.nl
 px-dmz-10.onlinezitting.rechtspraak.nl
@@ -19086,6 +19107,7 @@ storage.databestanden.cbs.nl
 storage.knaw.nl
 storage.labs.dans.knaw.nl
 storage.test.mgo.irealisatie.nl
+storefronttest.brabant.nl
 storing.cbs.nl
 storing.knaw.nl
 storing22.knaw.nl
@@ -19452,6 +19474,7 @@ tekortschieten-wzd.webservices-dbb.igj.nl
 tekstanalyse.ptvt.nl
 tele-db.politie.nl
 tele-od.politie.nl
+telewerk.brabant.nl
 telewerk.huurcommissie.nl
 telewerk.venvn.nl
 telewerken-db.landelijkemeldkamer.org
@@ -20767,6 +20790,7 @@ verkeersbesluiten-preprd.overheid.nl
 verkeersbesluiten.overheid.nl
 verkeersveiligheid.ndw.nu
 verkeersveiligheidscampagnes.nl
+verkiezingen.brabant.nl
 verkiezingsuitslagen.nl
 verkoop.domeinenrz.nl
 verkooptest.domeinenrz.nl

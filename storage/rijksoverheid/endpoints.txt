@@ -447,6 +447,7 @@ http://fat.vm-02.azure.grid.rws.nl
 http://faweb.fa.knaw.nl
 http://fcd-prod-bemobile-aid-triggers.rws.nl
 http://feeds.english.sso3w.nl
+http://felix.brabant.nl
 http://filetypevalidator.labs.dans.knaw.nl
 http://flat.meertens.knaw.nl
 http://flippinglakes.nioo.knaw.nl
@@ -1021,7 +1022,6 @@ http://verzekeringsgegevensopvragen.rdw.nl
 http://via.uwv.nl
 http://videobellen.waterschaplimburg.nl
 http://videoplatform.cbs.nl
-http://videoserver2.brabant.nl
 http://viep.brba.nl
 http://viewer.sensorenregister.test.cloud.kadaster.nl
 http://viya.rijkswaterstaat.nl
@@ -5726,7 +5726,6 @@ https://feeds.rijksoverheid.nl
 https://feeds.royal-house.nl
 https://felix-preproductie.brabant.nl
 https://felix-preproductie.flevoland.nl
-https://felix.brabant.nl
 https://felix.flevoland.nl
 https://feremote.fabricdev.arcgis.com
 https://fez.mfaservices.nl
@@ -6041,7 +6040,6 @@ https://geoportaal.lvnl.nl
 https://geoportaal.zuid-holland.nl
 https://geoportal.aaenmaas.nl
 https://georegister-intern.flevoland.nl
-https://georegister.brabant.nl
 https://georegister.flevoland.nl
 https://geoserver-almereinkaart.webgispublisher.nl
 https://geoserver-dcmr-haven.webgispublisher.nl
@@ -10564,8 +10562,6 @@ https://start.cito.nl
 https://start.dus-i.nl
 https://startanalyse.pbl.nl
 https://startat.afm.nl
-https://startformulier.brabant.nl
-https://startformuliertest.brabant.nl
 https://startmetdelen.nl
 https://startstopmelding-a.hhdelfland.nl
 https://startstopmelding.hhdelfland.nl
