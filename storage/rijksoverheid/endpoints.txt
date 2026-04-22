@@ -540,7 +540,6 @@ http://jupyter.sd.di.huc.knaw.nl
 http://juristen.werkenvoornederland.nl
 http://k8s-cw.acm.nl
 http://k8s.acm.nl
-http://keiko.brba.nl
 http://kennisbank.raadvanstate.nl
 http://keycloak.dfaas.hansken.org
 http://keycloak.inzage.hansken.org
@@ -10270,6 +10269,7 @@ https://seveso-plus.nl
 https://sfbwebext.lbio.nl
 https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
+https://sftp-out.brba.nl
 https://sftp-sync.wgu-edu.github.io
 https://sgr.bkwi.nl
 https://shai.meldknop.nl
