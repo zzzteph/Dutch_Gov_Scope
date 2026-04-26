@@ -11,8 +11,8 @@ api
 acceptatie
 opendata
 _autodiscover._tcp
-feeds
 cms
+feeds
 staging
 intranet
 vpn
@@ -24,10 +24,10 @@ prod
 werkenbij
 data
 e
-a-www
 portal
 smtp
 formulieren
+a-www
 apps
 werkplek
 redactie
