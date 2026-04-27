@@ -3149,6 +3149,7 @@ app-xref02.tsn.tno.nl
 app.bestelloket.kadaster.nl
 app.brabant.nl
 app.burgernet.nl
+app.cbi.eu
 app.dagvandeforensischezorg.nl
 app.dcp.huc.knaw.nl
 app.digid.nl
@@ -3769,6 +3770,7 @@ az.arcgis.com
 azfortigate.bkd.eu
 azgeo-data-hub-agic.hub.arcgis.com
 azgeo-open-data-agic.hub.arcgis.com
+azure.cbi.eu
 azuredevops-accept.ba.uwv.nl
 azuredevops.ba.uwv.nl
 azwstatline.cbs.nl
@@ -6405,6 +6407,7 @@ demo-vgm.databank.nl
 demo.acc.federatieveservice.nl
 demo.bio-overheid.nl
 demo.bronhouderportaal-bro.nl
+demo.cbi.eu
 demo.chm-cbd.net
 demo.cip-overheid.nl
 demo.confluence.odc-noord.nl
@@ -6546,6 +6549,7 @@ dev.api-sec.p-direkt.nl
 dev.api.brp.mfaservices.nl
 dev.api.p-direkt.nl
 dev.at.rws.nl
+dev.cbi.eu
 dev.cbrnsecurity.nctv.nl
 dev.cdn.consular.mfaservices.nl
 dev.centruminternationaalrecht.nl
@@ -6951,8 +6955,10 @@ dns-web300.rijksoverheid.nl
 dns.belastingdienst.nl
 dns.ext.kadaster.nl
 dns.ix.rijkscloud.nl
+dns1.cbi.eu
 dns1.dictu.nl
 dns1.overheid.nl
+dns2.cbi.eu
 dns2.dictu.nl
 dns2.nwo.nl
 dns2.overheid.nl
@@ -7458,6 +7464,7 @@ ecu.maps.arcgis.com
 ecxs.knmi.nl
 eda.wgu-edu.github.io
 edepot-wiki.huygens.knaw.nl
+edge.cbi.eu
 edge.politieacademie.nl
 edge.rechtspraak.nl
 edge.webmail.politieacademie.nl
@@ -9438,6 +9445,7 @@ helloworld-prod.vm-02.azure.grid.rws.nl
 helmond.leerwerkloket.nl
 helmond.lerenenwerken.nl
 help.arcgis.com
+help.cbi.eu
 help.odc.pleio.nl
 help.pleio.nl
 help200x.alterra.nl
@@ -10077,6 +10085,7 @@ insuitslagen.coronatest.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
 int-v.arcgis.com
+int.cbi.eu
 int.document-viewer-api.dso.kadaster.nl
 int.geodoc.dso.kadaster.nl
 int.omgevingswet.overheid.nl
@@ -10587,6 +10596,7 @@ jv-acc.nza.nl
 jv.nza.nl
 k8s-cw.acm.nl
 k8s.acm.nl
+k8s.cbi.eu
 k8s.stopheling.nl
 k8s.svm-admin.cnap-am4.intranet.rws.nl
 k8s.svm-alkmaar.cnap-am4.intranet.rws.nl
@@ -12636,6 +12646,7 @@ medewerker-tst.cbr.nl
 medewerker.cbr.nl
 medezeggenschap.caop.nl
 media.amberalert.nl
+media.cbi.eu
 media.odmh.nl
 media.om.nl
 media.platformwow.nl
@@ -13854,6 +13865,7 @@ my-private-repo.paper-spa.github.io
 my-repo.paper-spa.github.io
 my-repo2.paper-spa.github.io
 my-test.skal.nl
+my.cbi.eu
 my.naktuinbouw.com
 my.skal.nl
 my.test.chm-cbd.net
@@ -14345,6 +14357,7 @@ ns1.ssc-campus.nl
 ns1.svb.nl
 ns11.knaw.nl
 ns2.belastingdienst.nl
+ns2.cbi.eu
 ns2.dictu.nl
 ns2.dns.ictu.nl
 ns2.ec.rijkscloud.nl
@@ -14367,6 +14380,7 @@ ns21.knaw.nl
 ns22.knaw.nl
 ns3.belastingdienst.nl
 ns3.brabant.nl
+ns3.cbi.eu
 ns3.rdw.nl
 ns4-mgmt.belastingdienst.nl
 ns4-mgt.belastingdienst.nl
@@ -16498,6 +16512,7 @@ projects.rvo.nl
 prolander.nl
 prom-select.eu
 prometheus-vps.pleio.nl
+prometheus.cbi.eu
 prometheus.dmz.vm-04.azure.grid.rws.nl
 prometheus.gn3.rijkscloud.nl
 prometheus.test.vm-04.azure.grid.rws.nl
@@ -17991,6 +18006,7 @@ secudoc.nji.nl
 secure-acceptatie.grip.rivm.nl
 secure-bvi-test.politie.nl
 secure-test.rivm.nl
+secure.cbi.eu
 secure.cito.nl
 secure.geodata.nationaalgeoregister.nl
 secure.geodata2.nationaalgeoregister.nl
@@ -19029,6 +19045,7 @@ stats.test.zm.irealisatie.nl
 stats2.duo.rijkscloud.nl
 status-acceptatie.rijkscloud.nl
 status-page.rvr.org
+status.cbi.eu
 status.cbs.nl
 status.debatdirect.tweedekamer.nl
 status.gn3.rijkscloud.nl
@@ -19099,6 +19116,7 @@ stor.portaal-tst.afm.nl
 stor.portaal.afm.nl
 stor.services.cultureelerfgoed.nl
 storage-hl.minio.test.vm-04.azure.grid.rws.nl
+storage.cbi.eu
 storage.databestanden.cbs.nl
 storage.knaw.nl
 storage.labs.dans.knaw.nl
@@ -21026,6 +21044,7 @@ vpn.bzkdgvbrnpr.odc-noord.nl
 vpn.bzknpr.odc-noord.nl
 vpn.bzkprd.odc-noord.nl
 vpn.cbg-meb.nl
+vpn.cbi.eu
 vpn.cbr.nl
 vpn.cito.nl
 vpn.cjib.nl
@@ -21423,6 +21442,7 @@ webmail.bkd.eu
 webmail.brabant.nl
 webmail.brandweer.nl
 webmail.caop.nl
+webmail.cbi.eu
 webmail.cbr.nl
 webmail.ciz.nl
 webmail.cokz.nl

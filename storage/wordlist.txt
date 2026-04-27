@@ -27,12 +27,12 @@ e
 portal
 smtp
 formulieren
+dev
 a-www
 apps
+app
 werkplek
 redactie
-dev
-app
 connect
 ftp
 portaal
@@ -63,13 +63,14 @@ adfs
 www2
 cpanel
 enterpriseregistration
+ns2
 webservices
 open
 accept
 mail2
 maps
-ns2
 beeldbank
+media
 digikoppeling
 inloggen
 www.test
@@ -77,6 +78,7 @@ webdisk
 fs
 mta-sts
 old
+demo
 static
 mdm
 geoservices
@@ -88,9 +90,7 @@ m
 git
 stats
 preview
-media
 beta
-demo
 dialin
 geo
 kennis
@@ -116,6 +116,7 @@ enterpriseenrollment
 acceptatie.beheer
 acceptatie.mijn
 magazine
+secure
 designsystem
 onderhoud
 www1
@@ -165,7 +166,6 @@ mijn-acc
 sdm
 repository
 sso
-secure
 vacatures
 service
 siam
@@ -186,6 +186,7 @@ geoportaal
 id
 kaarten
 nieuws
+status
 outlook
 projecten
 survey
@@ -235,6 +236,7 @@ testeloket
 vpn2
 prd
 betalen
+ns3
 sharepoint
 website
 acceptatie.webservices
@@ -245,8 +247,8 @@ esb
 ondertekenen
 osb
 crm
+dns2
 dashboards
-status
 a-cms
 a-english
 cms1
@@ -299,7 +301,6 @@ e.acc.videobellen
 e.videobellen
 govroam
 mijn.acc
-ns3
 ns4
 sharepoint-acc
 sharepoint-conf
@@ -319,6 +320,11 @@ uptime
 ws-acc
 www.mail
 av
+dns1
+edge
+help
+k8s
+my
 ts
 accounts
 cbs
@@ -351,7 +357,6 @@ site2
 site3
 site4
 apiportal
-dns2
 lync
 mail01
 mail02
@@ -527,6 +532,8 @@ web.acc
 ws
 conf
 db
+int
+storage
 cn
 dashboards.test
 datasets
@@ -560,7 +567,6 @@ ssl
 t-cms1
 t-site1
 deutsch
-dns1
 ns1.gslb
 ns2.gslb
 tvs
@@ -718,7 +724,6 @@ raadplegen-acc
 download.mail
 dc
 accp
-k8s
 apps-a
 live
 mft-acc
@@ -752,7 +757,6 @@ rss
 test.redactie
 csm
 developers
-help
 pro
 server
 workforce
@@ -908,7 +912,6 @@ cibg
 spf
 vacaturezoekservice-test
 vacaturezoekservice
-my
 tfs
 nis
 acpt
@@ -940,7 +943,6 @@ dsa
 loki
 nvwa
 ods
-edge
 mediatheek
 osiris
 pda
@@ -1889,8 +1891,10 @@ mdmeas
 mdmvpn-t
 mdmvpn
 mijnwerkplek
+azure
 crmacc
 crmtest
+prometheus
 spamtitan
 www.spamtitan
 acc-ccb
@@ -12440,7 +12444,6 @@ staging.huygens
 staging.meertens
 stats.dans
 stilletochten.meertens
-storage
 storage.labs.dans
 storing22
 storing31
@@ -16764,7 +16767,6 @@ b30-micol-a01p.int
 connect-mp
 ddi
 fides.test
-int
 mail-relay
 modellenplatform-rekenen
 modellenplatform
