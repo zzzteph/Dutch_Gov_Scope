@@ -71,6 +71,7 @@ mail2
 maps
 beeldbank
 media
+nieuwsbrief
 digikoppeling
 inloggen
 www.test
@@ -84,7 +85,6 @@ mdm
 geoservices
 dwo
 ns1
-nieuwsbrief
 telewerken
 m
 git
@@ -187,6 +187,7 @@ id
 kaarten
 nieuws
 status
+mijn.acceptatie
 outlook
 projecten
 survey
@@ -249,6 +250,7 @@ osb
 crm
 dns2
 dashboards
+stijlgids
 a-cms
 a-english
 cms1
@@ -287,7 +289,6 @@ backend
 web
 redirect
 cloud
-mijn.acceptatie
 rds
 feedback
 pushmail
@@ -331,7 +332,6 @@ cbs
 ebms
 uag
 vpn1
-stijlgids
 owa
 t-cms
 a-feeds.a-english
@@ -540,7 +540,6 @@ datasets
 jeugdmonitor
 micollab
 overzicht
-ps
 redactie-acc
 research
 seg
@@ -1916,7 +1915,9 @@ apisimplex
 argon2
 azwstatline
 beeldbank-beheer
+beh-beo.acceptatie
 beh-iam.acceptatie
+beh-upload.acceptatie
 beo
 bestandslevering
 beta-dataportal
@@ -1931,7 +1932,6 @@ blaisesupport
 brandportal
 btb
 capi
-carrier
 cati-lt
 cebustaheerlen
 censushub
@@ -1943,7 +1943,10 @@ dashboards.prev
 databestanden
 dataderden
 dataportal
+datasec-api
+datasec-pp-api
 dataset
+datasets.beta
 dev.cerberus
 dnsa3
 dnsa4
@@ -1956,6 +1959,7 @@ ftpblaise
 fubecasper
 gecko
 good
+gslb
 helpmee
 highcharts-acc
 highcharts-test
@@ -1980,6 +1984,7 @@ lc
 licensemanagerblaise
 listserv
 livecharts
+login-databestanden.acceptatie
 login.databestanden
 longreads
 mail.dev
@@ -1989,11 +1994,11 @@ mailrelayh5
 mailrelayh6
 matchingsapp
 mbg
+mbgtest
 mediaportal
 micollabtest
 microdata-events
 microdata
-microdata2
 microdatavpn
 mig
 mijn-api
@@ -2017,11 +2022,6 @@ rivmopendata
 sbi-api
 sbi
 sbi2008
-sdmx-api-beta
-sdmx-dataexplorer-beta
-sdmx-dataviewer
-sdmx-search-beta
-sdmx-share
 sdmx
 sftp.test
 sftp4dummies
@@ -2034,7 +2034,9 @@ test-ccb
 test.cerberus
 test.ebms
 test.status
+topdeskit-t4
 tunnel1
+ui-acc.fsc
 uitgaven
 uitwisseling
 upload
@@ -7212,6 +7214,7 @@ ok
 om.test
 ph.test
 production.status
+ps
 ps.test
 sd
 seed.status

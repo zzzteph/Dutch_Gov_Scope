@@ -356,12 +356,12 @@ http://csotest.vacaturebeheer.werkenbijdeoverheid.nl
 http://d7.rvo.nl
 http://dans.knaw.nl
 http://dashboard.procesinfrastructuur.nl
-http://dashboards.prev.cbs.nl
 http://dashboards.test.cbs.nl
 http://data-acc.rijkswaterstaat.nl
 http://data-preview.emissieregistratie.nl
 http://data.rivm.nl
 http://datachallenge.nl
+http://dataportal.cbs.nl
 http://dataset-search.resources.huygens.knaw.nl
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
@@ -962,6 +962,7 @@ http://toetsingonline.ccmo.nl
 http://topdesk-iv.rijkswaterstaat.nl
 http://topdesk-wvl.rijkswaterstaat.nl
 http://topdesk.rijkswaterstaat.nl
+http://topdeskit-t4.cbs.nl
 http://trace.dfaas.hansken.org
 http://trace.inzage.hansken.org
 http://trace.learning.hansken.org
@@ -3309,7 +3310,9 @@ https://begrippenlijst.datawonen.nl
 https://begroting.brabant.nl
 https://begroting2019.flevoland.nl
 https://begroting2020.flevoland.nl
+https://beh-beo.acceptatie.cbs.nl
 https://beh-iam.acceptatie.cbs.nl
+https://beh-upload.acceptatie.cbs.nl
 https://behandel.bigregister.nl
 https://behandel.dezi.nl
 https://behandel.diergeneeskunderegister.nl
@@ -4494,6 +4497,7 @@ https://dashboards.ilt.rijkscloud.nl
 https://dashboards.ipi.rijkscloud.nl
 https://dashboards.kadaster.nl
 https://dashboards.ndw.nu
+https://dashboards.prev.cbs.nl
 https://dashboards.rdi.rijkscloud.nl
 https://dashboards.rijksoverheid.nl
 https://dashboards.staging.ndw.nu
@@ -4580,12 +4584,14 @@ https://dataportaal.brabant.nl
 https://dataportaal.cbs.nl
 https://dataportaal.eiti.nl
 https://dataportaal.pbl.nl
-https://dataportal.cbs.nl
 https://dataquality.ndw.nu
 https://datareportr.etoegang.nl
 https://datareportr.pre.etoegang.nl
+https://datasec-api.cbs.nl
+https://datasec-pp-api.cbs.nl
 https://dataservice.basisinformatie-overstromingen.nl
 https://dataset.cbs.nl
+https://datasets.beta.cbs.nl
 https://datasets.cbs.nl
 https://datasets.kb.nl
 https://datasluis.dictu.nl
@@ -5957,6 +5963,7 @@ https://gebruikersportaal.digipoort.logius.nl
 https://gebruikersportaal.preproductie.digipoort.logius.nl
 https://gebruikregistratie-acc.inspectieview.nl
 https://gebruikregistratie.inspectieview.nl
+https://gecko.cbs.nl
 https://gegevensbijbesluiten-acc.overheid.nl
 https://gegevensbijbesluiten-redactie-acc.overheid.nl
 https://gegevensbijbesluiten-redactie.overheid.nl
@@ -6365,7 +6372,6 @@ https://hi2.huygens.knaw.nl
 https://hi8.huygens.knaw.nl
 https://hibp.rdw.nl
 https://hierradiokootwijk.nl
-https://highcharts-acc.cbs.nl
 https://highcharts.cbs.nl
 https://higherlevel.nl
 https://highlights2022.halt.nl
@@ -7488,6 +7494,7 @@ https://login-az.staging.rijksapplicaties.nl
 https://login-bz.rijksapplicaties.nl
 https://login-bzk.rijksapplicaties.nl
 https://login-bzk.staging.rijksapplicaties.nl
+https://login-databestanden.acceptatie.cbs.nl
 https://login-dev.dnb.nl
 https://login-fin.rijksapplicaties.nl
 https://login-fin.staging.rijksapplicaties.nl
@@ -7797,6 +7804,7 @@ https://maven.dans.knaw.nl
 https://max.proeftuin.uzi-online.irealisatie.nl
 https://mbg-proxy.flevoland.nl
 https://mbg.cbs.nl
+https://mbgtest.cbs.nl
 https://mbotransparant.databank.nl
 https://mc-upnl.mijn.rvo.nl
 https://mccg.nl
@@ -7943,6 +7951,7 @@ https://mijn-pp.dnb.nl
 https://mijn-test.dnb.nl
 https://mijn.acc.loket.om.nl
 https://mijn.acc.ncsc.nl
+https://mijn.acceptatie.cbs.nl
 https://mijn.acceptatie.lcms.nl
 https://mijn.acceptatie.schadefonds.nl
 https://mijn.acm.nl
@@ -8470,6 +8479,7 @@ https://nieuws.pianoo.nl
 https://nieuws.rvo.nl
 https://nieuws.tenderned.nl
 https://nieuwsbrief.autoriteitpersoonsgegevens.nl
+https://nieuwsbrief.cbs.nl
 https://nieuwsbrief.examenblad.nl
 https://nieuwsbrief.lexces.nl
 https://nieuwsbrief.meertens.knaw.nl
@@ -10655,6 +10665,7 @@ https://sth.staging.rijksapplicaties.nl
 https://stichting.caop.nl
 https://stichtingrpo.nl
 https://stifosandberg.stimuleringsfonds.nl
+https://stijlgids.cbs.nl
 https://stijlgids.rijkswaterstaat.nl
 https://stilletochten.meertens.knaw.nl
 https://stimuleringsfonds.nl
@@ -11309,7 +11320,9 @@ https://ufp.rijksapplicaties.nl
 https://ufp.staging.rijksapplicaties.nl
 https://ug.test.chm-cbd.net
 https://uht.pleio.nl
+https://ui-acc.fsc.cbs.nl
 https://uitelkaarmetkinderen.nl
+https://uitgaven.cbs.nl
 https://uitgeverij.nipv.nl
 https://uitkeren.uwv.nl
 https://uitkomstgerichtezorg.nl
@@ -11964,7 +11977,6 @@ https://werkplek.services.acm.nl
 https://werkplek.vallei-veluwe.nl
 https://werkplek.waterschaplimburg.nl
 https://werkpleksso.cbs.nl
-https://werkplektest.cbs.nl
 https://werkplekvpn.parlement.nl
 https://werkvoorraad.reps.test.kadaster.nl
 https://westbrabant.leerwerkloket.nl
@@ -12087,7 +12099,6 @@ https://www-ac.farmacotherapeutischkompas.nl
 https://www-ac.zorgcijfersdatabank.nl
 https://www-ac.zorginstituutnederland.nl
 https://www-ac.zorginzicht.nl
-https://www-acc.cbs.nl
 https://www-acc.datastelselverduurzamingutiliteit.nl
 https://www-acc.dcat-ap-donl.nl
 https://www-acc.fiu-nederland.nl

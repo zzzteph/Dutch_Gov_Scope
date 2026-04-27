@@ -4042,7 +4042,9 @@ begrippenlijst.datawonen.nl
 begroting.brabant.nl
 begroting2019.flevoland.nl
 begroting2020.flevoland.nl
+beh-beo.acceptatie.cbs.nl
 beh-iam.acceptatie.cbs.nl
+beh-upload.acceptatie.cbs.nl
 beh-win30.tsn.tno.nl
 behandel.bigregister.nl
 behandel.dezi.nl
@@ -4849,7 +4851,6 @@ carmarthenshire-gbi-strategy-eng-luc.hub.arcgis.com
 carmarthenshire-gbi-strategy-wal-luc.hub.arcgis.com
 carrefour-des-futur-e-s-enseignant-e-s-edu.hub.arcgis.com
 carrefour-information-du-grand-sudbury.hub.arcgis.com
-carrier.cbs.nl
 carriere.politie.nl
 cartotheque-atmo-hdf.hub.arcgis.com
 cartotheque-atmograndest.hub.arcgis.com
@@ -6259,12 +6260,15 @@ dataquality.ndw.nu
 datareportr.acc.etoegang.nl
 datareportr.etoegang.nl
 datareportr.pre.etoegang.nl
+datasec-api.cbs.nl
+datasec-pp-api.cbs.nl
 dataservice.acp.kvk.nl
 dataservice.basisinformatie-overstromingen.nl
 dataservice.kvk.nl
 dataservice.preprod.kvk.nl
 dataset-search.resources.huygens.knaw.nl
 dataset.cbs.nl
+datasets.beta.cbs.nl
 datasets.cbs.nl
 datasets.kb.nl
 datasluis-tst.dictu.nl
@@ -9267,6 +9271,7 @@ gs.politie.nl
 gsa-rest-test.belastingdienst.nl
 gsa01.kvk.nl
 gsa02.kvk.nl
+gslb.cbs.nl
 gslbp.landelijkemeldkamer.org
 gso.gbv.de.access.authkb.kb.nl
 gtmb.belastingdienst.nl
@@ -11845,6 +11850,7 @@ login-az.staging.rijksapplicaties.nl
 login-bz.rijksapplicaties.nl
 login-bzk.rijksapplicaties.nl
 login-bzk.staging.rijksapplicaties.nl
+login-databestanden.acceptatie.cbs.nl
 login-dev.dnb.nl
 login-esp.npr.idm.rvig.nl
 login-fin.rijksapplicaties.nl
@@ -12585,6 +12591,7 @@ mbaks007.rws-a5-t.azure.gridtst.rws.nl
 mbg-ota.dictu.nl
 mbg-proxy.flevoland.nl
 mbg.cbs.nl
+mbgtest.cbs.nl
 mboscanner.databank.nl
 mbotransparant.databank.nl
 mc-manager.zonmw.nl
@@ -12807,7 +12814,6 @@ micollabtest.cbs.nl
 microcontent.ondernemersplein.kvk.nl
 microdata-events.cbs.nl
 microdata.cbs.nl
-microdata2.cbs.nl
 microdatavpn.cbs.nl
 microfoonbanden.nl
 middenbrabant.leerwerkloket.nl
@@ -12869,6 +12875,7 @@ mijn.acc.belastingdienst.nl
 mijn.acc.loket.om.nl
 mijn.acc.ncsc.nl
 mijn.acc.vfpf.nl
+mijn.acceptatie.cbs.nl
 mijn.acceptatie.kadaster.nl
 mijn.acceptatie.lcms.nl
 mijn.acceptatie.pdok.nl
@@ -14146,6 +14153,7 @@ nieuws.pianoo.nl
 nieuws.rvo.nl
 nieuws.tenderned.nl
 nieuwsbrief.autoriteitpersoonsgegevens.nl
+nieuwsbrief.cbs.nl
 nieuwsbrief.examenblad.nl
 nieuwsbrief.huygens.knaw.nl
 nieuwsbrief.lexces.nl
@@ -16582,7 +16590,6 @@ prx2.gn2.rijkscloud.nl
 prx2.gn3.rijkscloud.nl
 prx2.rw1.rijkscloud.nl
 ps-www.rijksoverheid.nl
-ps.cbs.nl
 ps.chm-cbd.net
 ps.test.chm-cbd.net
 ps1.platformrijksoverheid.nl
@@ -17968,11 +17975,6 @@ sdm.minienw.nl
 sdm.minszw.nl
 sdm.minvws.nl
 sdm.p-direkt.minbzk.nl
-sdmx-api-beta.cbs.nl
-sdmx-dataexplorer-beta.cbs.nl
-sdmx-dataviewer.cbs.nl
-sdmx-search-beta.cbs.nl
-sdmx-share.cbs.nl
 sdmx.cbs.nl
 sds-check.nl
 sdu.nl.access.authkb.kb.nl
@@ -19099,6 +19101,7 @@ sth.staging.rijksapplicaties.nl
 stichting.caop.nl
 stichtingrpo.nl
 stifosandberg.stimuleringsfonds.nl
+stijlgids.cbs.nl
 stijlgids.cibg.nl
 stijlgids.rijkswaterstaat.nl
 stijlgids.rws.nl
@@ -20149,6 +20152,7 @@ topdesk-wvl.rws.nl
 topdesk.ictu.nl
 topdesk.odc-noord.nl
 topdesk.rijkswaterstaat.nl
+topdeskit-t4.cbs.nl
 topinkomens.minbzk.nl
 topinkomens.nl
 topokaarten.acceptatie.kadaster.nl
@@ -20459,6 +20463,7 @@ ufp.staging.rijksapplicaties.nl
 ug.test.chm-cbd.net
 uh1.maps.arcgis.com
 uht.pleio.nl
+ui-acc.fsc.cbs.nl
 uitelkaarmetkinderen.nl
 uitgaven.cbs.nl
 uitgeverij.nipv.nl
