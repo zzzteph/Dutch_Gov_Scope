@@ -2205,6 +2205,7 @@ https://acceptatie.behandel.hulpmiddelen.farmatec.nl
 https://acceptatie.behandel.registersocialehygiene.nl
 https://acceptatie.behandel.sbv-z.nl
 https://acceptatie.beheer.bigregister.nl
+https://acceptatie.beheer.cikza.cibg.nl
 https://acceptatie.beheer.developer.cibg.nl
 https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.diergeneeskunderegister.nl
@@ -3318,6 +3319,7 @@ https://behandel.dezi.nl
 https://behandel.diergeneeskunderegister.nl
 https://behandel.donorgegevens.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
+https://behandel.playground.cobra.cibg.nl
 https://behandel.registersocialehygiene.nl
 https://behandel.sbv-z.nl
 https://beheer-acc.burgernet.nl
@@ -3332,7 +3334,9 @@ https://beheer.bigregister.nl
 https://beheer.bke.kadaster.nl
 https://beheer.burgernet.nl
 https://beheer.chat.ind.nl
+https://beheer.cikza.cibg.nl
 https://beheer.datastelselverduurzamingutiliteit.nl
+https://beheer.developer.cibg.nl
 https://beheer.dezi.nl
 https://beheer.diergeneeskunderegister.nl
 https://beheer.donorregister.nl
@@ -3346,6 +3350,7 @@ https://beheer.odc.pleio.nl
 https://beheer.officielebekendmakingen.nl
 https://beheer.onlinezitting.rechtspraak.nl
 https://beheer.ontw.stagefonds.s-bb.nl
+https://beheer.playground.cobra.cibg.nl
 https://beheer.rechtvaardig.nl
 https://beheer.registersocialehygiene.nl
 https://beheer.rijksictdashboard.nl
@@ -4793,6 +4798,7 @@ https://develop.dementieinkaart.nl
 https://developer.apim.acc.cloudservices.kb.nl
 https://developer.apis.rechtspraak.nl
 https://developer.arcgis.com
+https://developer.cibg.nl
 https://developer.dataplatform.knmi.nl
 https://developer.integratieplatform.rdw.nl
 https://developer.kadaster.nl
@@ -4887,8 +4893,8 @@ https://digidex.staging.rijksapplicaties.nl
 https://digidzakelijk.duo.nl
 https://digik.s-bb.nl
 https://digikoppeling.bkd.eu
+https://digikoppeling.cibg.nl
 https://digikoppeling.pleio.nl
-https://digikoppeling2.cibg.nl
 https://digiplein.reclassering.nl
 https://digipoortproxy.rijksapplicaties.nl
 https://digipoortproxy.staging.rijksapplicaties.nl
@@ -4987,6 +4993,7 @@ https://docs.ndw.nu
 https://docs.nldoc.nl
 https://docs.onderzoekmetmensen.nl
 https://docs.openkat.nl
+https://docs.playground.cobra.cibg.nl
 https://docs.riks-acc.azure.dnb.nl
 https://docs.riks-ci.azure.dnb.nl
 https://docs.riks-ft.azure.dnb.nl
@@ -7132,6 +7139,7 @@ https://klachtenformulierlink.mensenrechten.nl
 https://klant-beheer-acp.acc.cloudservices.kb.nl
 https://klant-beheer-prd.cloudservices.kb.nl
 https://klant-beheer-tst.ot.cloudservices.kb.nl
+https://klant.playground.cobra.cibg.nl
 https://klantonderzoek.cbr.nl
 https://klantportaal.caop.nl
 https://klanttevredenheidsonderzoek.uwv.nl
@@ -9186,6 +9194,7 @@ https://platformservices-scripts.wgu-edu.github.io
 https://platformservices-team-scripts.wgu-edu.github.io
 https://platformservices-watchtower-scanning-array.wgu-edu.github.io
 https://platformwow.nl
+https://playground.cobra.cibg.nl
 https://playground.stelselcatalogus.nl
 https://pld.chadwyck.co.uk.access.authkb.kb.nl
 https://plein.kb.nl
@@ -10735,6 +10744,7 @@ https://sumatra.huurcommissie.nl
 https://summercourt.nl
 https://summerschool.sh
 https://summerschool2023.nl
+https://superstub.playground.cobra.cibg.nl
 https://supplementenwijzer.dopingautoriteit.nl
 https://support-acc.cbr.nl
 https://support-tst.cbr.nl

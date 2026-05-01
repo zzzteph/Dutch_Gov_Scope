@@ -1835,6 +1835,7 @@ acceptatie.behandel.isms.cibg.nl
 acceptatie.behandel.registersocialehygiene.nl
 acceptatie.behandel.sbv-z.nl
 acceptatie.beheer.bigregister.nl
+acceptatie.beheer.cikza.cibg.nl
 acceptatie.beheer.developer.cibg.nl
 acceptatie.beheer.dezi.nl
 acceptatie.beheer.diergeneeskunderegister.nl
@@ -4052,6 +4053,7 @@ behandel.diergeneeskunderegister.nl
 behandel.donorgegevens.nl
 behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
+behandel.playground.cobra.cibg.nl
 behandel.registersocialehygiene.nl
 behandel.sbv-z.nl
 beheer-acc.burgernet.nl
@@ -4074,6 +4076,7 @@ beheer.bke.acceptatie.kadaster.nl
 beheer.bke.kadaster.nl
 beheer.burgernet.nl
 beheer.chat.ind.nl
+beheer.cikza.cibg.nl
 beheer.datastelselverduurzamingutiliteit.nl
 beheer.developer.cibg.nl
 beheer.dezi.nl
@@ -4093,6 +4096,7 @@ beheer.odc.pleio.nl
 beheer.officielebekendmakingen.nl
 beheer.onlinezitting.rechtspraak.nl
 beheer.ontw.stagefonds.s-bb.nl
+beheer.playground.cobra.cibg.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.procesinfrastructuur.nl
@@ -7003,6 +7007,7 @@ docs.ndw.nu
 docs.nldoc.nl
 docs.onderzoekmetmensen.nl
 docs.openkat.nl
+docs.playground.cobra.cibg.nl
 docs.rijkscloud.nl
 docs.riks-acc.azure.dnb.nl
 docs.riks-ci.azure.dnb.nl
@@ -8530,6 +8535,7 @@ fpm-fema.hub.arcgis.com
 fr.chm-cbd.net
 fr.espacenet.com
 fr.prod.chm-cbd.net
+frameworks.cibg.nl
 francodevrije.huygens.knaw.nl
 freckenhorst.mvn.huygens.knaw.nl
 free-ipa.devops.rvb.rijkscloud.nl
@@ -11208,6 +11214,7 @@ klant-beheer-acp.acc.cloudservices.kb.nl
 klant-beheer-prd.cloudservices.kb.nl
 klant-beheer-tst.ot.cloudservices.kb.nl
 klant.hetcak.nl
+klant.playground.cobra.cibg.nl
 klantonderzoek.cbr.nl
 klantportaal.caop.nl
 klantportaal.rvo.nl
@@ -15787,6 +15794,7 @@ platformservices-team-scripts.wgu-edu.github.io
 platformservices-watchtower-scanning-array.wgu-edu.github.io
 platformwow.nl
 plato.dictu.nl
+playground.cobra.cibg.nl
 playground.stelselcatalogus.nl
 pld.chadwyck.co.uk.access.authkb.kb.nl
 plein.kb.nl
@@ -19223,6 +19231,7 @@ superset.data.logius.nl
 superset.demo.ix.rijkscloud.nl
 superset.dev.fib.ienw.rijkscloud.nl
 superset.dgdoobi.rijkscloud.nl
+superstub.playground.cobra.cibg.nl
 supplementenwijzer.dopingautoriteit.nl
 suppliers.afm.nl
 support-acc.cbr.nl
@@ -20525,7 +20534,6 @@ upri-roes-rvs.preprod.rvo.nl
 uptime.bureauft.nl
 uptime.bureauwbtv.nl
 uptime.rvr.org
-uptrends.webservices.lrza.cibg.nl
 uracimamaps.maps.arcgis.com
 urbanworkshop.maps.arcgis.com
 uren.acc.irealisatie.nl
