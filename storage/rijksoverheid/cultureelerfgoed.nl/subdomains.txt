@@ -2,9 +2,11 @@ acc.api-gateway.archis.cultureelerfgoed.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.client.archis.cultureelerfgoed.nl
+acc.monitorarcheologie.cultureelerfgoed.nl
 acc.monumentenregister.cultureelerfgoed.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.subsidie.cultureelerfgoed.nl
+accept.cultureelerfgoed.nl
 acceptatie.cmis.cultureelerfgoed.nl
 acceptatie.facility.cultureelerfgoed.nl
 acceptatie.geoservices.cultureelerfgoed.nl
@@ -37,11 +39,11 @@ lil.cultureelerfgoed.nl
 linkeddata.accept.cultureelerfgoed.nl
 linkeddata.cultureelerfgoed.nl
 linkeddata.test.cultureelerfgoed.nl
-magazines.cultureelerfgoed.nl
 mail.cultureelerfgoed.nl
 mail.mass.cultureelerfgoed.nl
 mailhog.acc.monumentenregister.cultureelerfgoed.nl
 mass.cultureelerfgoed.nl
+monitorarcheologie.cultureelerfgoed.nl
 monumentenregister.cultureelerfgoed.nl
 noaa.cultureelerfgoed.nl
 oud.cultureelerfgoed.nl

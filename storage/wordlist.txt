@@ -16,8 +16,8 @@ feeds
 staging
 intranet
 vpn
-magazines
 login
+magazines
 www-acc
 link
 prod
@@ -56,6 +56,7 @@ services
 sts
 cdn
 onderzoek
+accept
 oud
 auth
 www.acc
@@ -66,7 +67,6 @@ enterpriseregistration
 ns2
 webservices
 open
-accept
 mail2
 maps
 beeldbank
@@ -2193,6 +2193,7 @@ acc.api-gateway.archis
 acc.archis
 acc.auth.services
 acc.client.archis
+acc.monitorarcheologie
 acc.monumentenregister
 acc.stor.services
 acc.subsidie
@@ -2218,6 +2219,7 @@ linkeddata.test
 mail.mass
 mailhog.acc.monumentenregister
 mass
+monitorarcheologie
 monumentenregister
 noaa
 pom

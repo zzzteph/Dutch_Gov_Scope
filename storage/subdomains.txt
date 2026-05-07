@@ -1628,6 +1628,7 @@ acc.mijn.overheid.nl
 acc.mijn.pzp.nl
 acc.mijnslachtofferzaak.nl
 acc.milieuzones.nl
+acc.monitorarcheologie.cultureelerfgoed.nl
 acc.monovi.pbl.nl
 acc.monumentenregister.cultureelerfgoed.nl
 acc.mpl.stelselcatalogus.nl
@@ -1748,6 +1749,7 @@ accept-cm.ser.nl
 accept-cm.stvda.nl
 accept.beeldbank.gebruikercentraal.nl
 accept.control.ictu.nl
+accept.cultureelerfgoed.nl
 accept.designthinking.gebruikercentraal.nl
 accept.digitaleoverheid.nl
 accept.discipl.nl
@@ -12200,7 +12202,6 @@ magazine.zuid-holland.nl
 magazines-bz.rijksoverheid.nl
 magazines-ienw.rijksoverheid.nl
 magazines.agendastad.nl
-magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
 magazines.deltaprogramma.nl
@@ -13361,6 +13362,7 @@ monitor.rijksoverheid.nl
 monitor.staging.rijksapplicaties.nl
 monitor01.iaas.rijkscloud.nl
 monitor2025-intro.aerius.nl
+monitorarcheologie.cultureelerfgoed.nl
 monitorgezondheid.nl
 monitoring-edu.efiling.mijnoctrooi.rvo.nl
 monitoring-infra-edu.efiling.mijnoctrooi.rvo.nl

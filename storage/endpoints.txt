@@ -48,6 +48,7 @@ http://acc.logerenbijdeboswachter.nl
 http://acc.mgo.irealisatie.nl
 http://acc.mijn.logerenbijdeboswachter.nl
 http://acc.praatmeemetdeoverheid.nl
+http://acc.subsidie.cultureelerfgoed.nl
 http://acc.webtooliso20400.nl
 http://acc.woo.irealisatie.nl
 http://accept-betalen.nba.nl
@@ -902,6 +903,7 @@ http://sts.koop.overheid.nl
 http://styleguide.cibg.nl
 http://sub.gezondekinderopvang.nl
 http://sub.gezondeschool.nl
+http://subsidie.cultureelerfgoed.nl
 http://subsidie.waterschaplimburg.nl
 http://support.pdok.test.cloud.kadaster.nl
 http://survey-acc.igj.nl
@@ -2075,6 +2077,7 @@ https://acc.mi-cert.nl
 https://acc.mijn.pzp.nl
 https://acc.mijnslachtofferzaak.nl
 https://acc.milieuzones.nl
+https://acc.monitorarcheologie.cultureelerfgoed.nl
 https://acc.monovi.pbl.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.naamswijziging.justis.nl
@@ -2111,7 +2114,6 @@ https://acc.ssr.nl
 https://acc.staging.justitieconnect.nl
 https://acc.startanalyse.pbl.nl
 https://acc.stor.services.cultureelerfgoed.nl
-https://acc.subsidie.cultureelerfgoed.nl
 https://acc.tradewithnl.nl
 https://acc.validatie.nl
 https://acc.wegwijzer.overheid.nl
@@ -5648,6 +5650,7 @@ https://fac.staging.rijksapplicaties.nl
 https://facades-formats.labs.dans.knaw.nl
 https://facades-verification.labs.dans.knaw.nl
 https://facades.labs.dans.knaw.nl
+https://facility.cultureelerfgoed.nl
 https://facturen.kvk.nl
 https://facturen.ptvt.nl
 https://faculteitmilitairewetenschappen.nl
@@ -7650,7 +7653,6 @@ https://magazine.zuid-holland.nl
 https://magazines-bz.rijksoverheid.nl
 https://magazines-ienw.rijksoverheid.nl
 https://magazines.agendastad.nl
-https://magazines.cultureelerfgoed.nl
 https://magazines.cybersecurityraad.nl
 https://magazines.defensie.nl
 https://magazines.deltaprogramma.nl
@@ -8184,6 +8186,7 @@ https://monitor.meertens.knaw.nl
 https://monitor.rijksapplicaties.nl
 https://monitor.staging.rijksapplicaties.nl
 https://monitor2025-intro.aerius.nl
+https://monitorarcheologie.cultureelerfgoed.nl
 https://monitorgezondheid.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
 https://monitoring-prod5.koop.overheid.nl
@@ -10727,7 +10730,6 @@ https://stvda.nl
 https://subdata-authenticatie.rdw.nl
 https://subdata-portal.rdw.nl
 https://subdata.rdw.nl
-https://subsidie.cultureelerfgoed.nl
 https://subsidieportaal.zuid-holland.nl
 https://subsidieregister.zuid-holland.nl
 https://subsidies-backend.acceptatie.aofondsrijk.nl
