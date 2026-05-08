@@ -123,7 +123,6 @@ www1
 developer
 mam
 mx2
-api-acc
 www-ow
 www-ts
 legacy
@@ -168,6 +167,7 @@ repository
 sso
 vacatures
 service
+api-acc
 siam
 cpcalendars
 cpcontacts

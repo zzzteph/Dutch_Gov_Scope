@@ -2026,7 +2026,6 @@ https://acc.consular.mfaservices.nl
 https://acc.cruksregister.nl
 https://acc.csirtdsp.nl
 https://acc.dashboardduurzaamheid.nl
-https://acc.dashboardgroningen.nl
 https://acc.dcat-ap-donl.nl
 https://acc.derdekamer.nl
 https://acc.dictu.nl
@@ -2674,7 +2673,6 @@ https://api-a.competentnl.nl
 https://api-a.tno.nl
 https://api-acc.afm.nl
 https://api-acc.competentnl.nl
-https://api-acc.dashboardgroningen.nl
 https://api-acc.rdi.nl
 https://api-acc.resources.ilent.nl
 https://api-acc.rvo.nl

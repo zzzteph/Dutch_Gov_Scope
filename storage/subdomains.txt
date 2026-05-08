@@ -1544,7 +1544,6 @@ acc.cparegister.nl
 acc.cruksregister.nl
 acc.csirtdsp.nl
 acc.dashboardduurzaamheid.nl
-acc.dashboardgroningen.nl
 acc.data.ilent.nl
 acc.dataverkenner.knmi.nl
 acc.dcat-ap-donl.nl
@@ -2778,7 +2777,6 @@ api-a5.digid.nl
 api-a6.digid.nl
 api-acc.afm.nl
 api-acc.competentnl.nl
-api-acc.dashboardgroningen.nl
 api-acc.kansspelautoriteit.nl
 api-acc.rdi.nl
 api-acc.resources.ilent.nl
