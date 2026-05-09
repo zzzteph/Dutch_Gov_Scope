@@ -3,3 +3,6 @@ ipaddress
 tldextract
 pandas
 odfpy
+requests
+anthropic
+playwright

@@ -1,0 +1,4 @@
+.env
+verification_results/
+__pycache__/
+*.pyc

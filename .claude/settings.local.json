@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import playwright; print\\('playwright ok'\\)\")",
+      "Bash(python -c \"import anthropic; print\\('anthropic ok'\\)\")",
+      "Bash(python -c \"import requests; print\\('requests ok'\\)\")",
+      "Bash(pip install *)",
+      "Bash(playwright install *)",
+      "Bash(python engine/verify_rijksoverheid.py scope/rijksoverheid.txt --no-vision --concurrency 30 --output-dir verification_results)",
+      "Bash(Get-Content \"C:\\\\Users\\\\steph\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-steph-Documents-GitHub-DutchGovScope\\\\af1b67a0-ca1e-49cf-891a-53502f831718\\\\tasks\\\\bumctjxyl.output\")",
+      "Bash(Select-Object -Last 40)",
+      "Bash(python engine/verify_rijksoverheid.py verification_results/batch1.txt --concurrency 20 --output-dir verification_results/vision_batch1)",
+      "Bash(env)",
+      "Bash(python engine/verify_rijksoverheid.py verification_results/batch2.txt --concurrency 20 --output-dir verification_results/vision_batch2)",
+      "Bash(grep -v \"\\\\.nl$\" verification_results/final_rejected.txt)",
+      "Bash(python engine/reclassify.py)",
+      "Bash(python engine/verify_rijksoverheid.py verification_results/final_manual_review.txt --no-vision --concurrency 30 --output-dir verification_results/recheck)",
+      "Bash(python engine/verify_rijksoverheid.py verification_results/recheck_batch1.txt --concurrency 15 --output-dir verification_results/final_batch1)",
+      "Bash(python engine/verify_rijksoverheid.py verification_results/recheck_batch2.txt --concurrency 15 --output-dir verification_results/final_batch2)",
+      "Bash(grep -v \"\\\\.txt$\")",
+      "Bash(grep \"\\\\.txt$\")",
+      "Bash(ls -la storage/rijksoverheid/belastingdienst.nl/)",
+      "Bash(ls -la storage/rijksoverheid/politie.nl/)",
+      "Bash(python3 -)",
+      "Bash(python engine/cleanup.py)"
+    ]
+  }
+}
