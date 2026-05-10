@@ -1,6 +1,6 @@
 # Dutch Government Bug Bounty Scope
 
-Welcome to the repository dedicated to collecting and maintaining a precise list of the Dutch government's bug bounty scope. This includes domains, subdomains, and endpoints (URLs).  
+Welcome to the repository dedicated to collecting and maintaining a precise list of the Dutch government's bug bounty scope. This includes domains and subdomains.  
 *This is **NOT** an official bug bounty scope.*
 
 To report a vulnerability or to learn more about Coordinated Vulnerability Disclosure (CVD), visit:  
@@ -9,61 +9,53 @@ To report a vulnerability or to learn more about Coordinated Vulnerability Discl
 
 ## Overview
 
-This project aims to provide the **most accurate and detailed** list of domains and endpoints that are in scope of the Dutch government’s bug bounty program. By mapping and monitoring relevant infrastructure, the goal is to support the security and visibility of government digital assets.
+This project aims to provide the **most accurate and detailed** list of domains and subdomains that are in scope of the Dutch government's bug bounty program. By mapping and monitoring relevant infrastructure, the goal is to support the security and visibility of government digital assets.
 
 ### What is in scope?
 
-This repository focuses on verified, government-related resources. The scope list is built to ensure **it is the most accurate list available**.  
+This repository focuses on verified, government-related resources. Each domain is included only after passing a multi-tier verification pipeline:
 
-Each resource is included only if it meets the following criteria:
-
-1. **Meta tag**: The page must include the `RIJKSOVERHEID.Organisatie` meta information.  
-2. **Official logo**: The site must display the Dutch government logo.  
-3. **Clear affiliation**: There must be a clear mention of the official government body or agency.
+1. **HTTP + SSL signals**: Meta tags (`overheid:authority`, `rijksoverheid.org`), legal accessibility statements (`toegankelijkheidsverklaring.nl`), government analytics infrastructure, SSL certificate organisation field.
+2. **Rendered DOM check**: Browser-rendered page (Playwright) to catch SPAs — same signal checks after JavaScript executes.
+3. **Visual identity check**: Claude vision on a page screenshot — confirms the standard Rijksoverheid header (dark navy bar, Dutch coat of arms, pink stripe) or equivalent agency branding as the site's own identity.
 
 
 ### How It Works
 
-The data is collected using a semi-automated pipeline and updated regularly. All analysis is done via **Github actions** and results are stored and synced in the `scan_scope.db` SQLite database. The process includes:
+All analysis runs via **GitHub Actions**. Results are stored as plain text files in the repository.
 
-1. **Manual updates**: Input resources are stored in the `/scope` folder.  
-2. **Weekly sync with CommunicatieRijk** data.  
-3. **Automated collection per domain**:
-   - **Subdomain discovery**: Using Amass, Subfinder, and DNSX for validation.  
-   - **Endpoint discovery**: HTTPX filters and confirms valid HTTP/HTTPS endpoints.
+1. **Domain scope maintenance** — `engine/refresh_rijksoverheid.py`:
+   - Monthly sync with the official [CommunicatieRijk websiteregister](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)
+   - New domains are verified through the three-tier pipeline (`engine/verify_rijksoverheid.py`)
+   - Confirmed domains → `scope/rijksoverheid.txt`; rejected/uncertain → `scope/rijksoverheid_invalid.txt`
 
+2. **Subdomain discovery** — runs daily via GitHub Actions:
+   - Subfinder with inline DNS validation (`-active`) on a rotating 3% slice of scope (with overlap)
+   - Results merged into per-domain storage files and aggregated
 
 
 ### Repository Structure
 
-- [`scope/rijksoverheid.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/scope/rijksoverheid.txt) – Current list of **Rijksoverheid** domains  
-- [`storage/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/subdomains.txt) – Combined list of all discovered subdomains (Rijksoverheid)  
-- [`storage/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/endpoints.txt) – Discovered HTTP/HTTPS endpoints  
-- [`storage/wordlist.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/wordlist.txt) – Wordlist for subdomain bruteforcing, generated from known subdomains  
-- [`storage/rijksoverheid/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt) – Subdomains related to **Rijksoverheid**  
-- [`storage/rijksoverheid/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt) – HTTP/HTTPS endpoints under **Rijksoverheid**  
+- [`scope/rijksoverheid.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/scope/rijksoverheid.txt) – Verified **Rijksoverheid** root domains
+- [`storage/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/subdomains.txt) – All discovered subdomains (combined)
+- [`storage/rijksoverheid/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt) – Subdomains under **Rijksoverheid** domains
 
 
 ### Scanning examples
 
 ```
-curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt | ./nuclei -silent -id geoserver-login-panel
+curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt | ./nuclei -silent -id geoserver-login-panel
 ```
 
 ```
-curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt | ./nuclei -silent -id exposure -severity critical,high
+curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt | ./nuclei -silent -id exposure -severity critical,high
 ```
 
 #### Scanning via Docker
 
 ```
-curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt -o endpoints.txt | docker run -v "$PWD:/data" --rm projectdiscovery/nuclei -silent -id geoserver-login-panel
+curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt -o subdomains.txt && docker run -v "$PWD:/data" --rm projectdiscovery/nuclei -silent -id geoserver-login-panel -l /data/subdomains.txt
 ```
-
-```
-curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt -o endpoints.txt | docker run -v "$PWD:/data" --rm projectdiscovery/nuclei -silent -id exposure -severity critical,high
-```
-
 
 
 ## Links and Acknowledgements
@@ -73,7 +65,6 @@ curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads
 - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)  
 - [communicatierijk.nl](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)  
 - [ncsc.nl](https://www.ncsc.nl/contact/kwetsbaarheid-melden/cvd-meldingen-formulier)  
-- [shrewdeye.app](https://shrewdeye.app)  
 - [NCSC Wall of Fame](https://www.ncsc.nl/contact/kwetsbaarheid-melden/wall-of-fame)  
 
 ---

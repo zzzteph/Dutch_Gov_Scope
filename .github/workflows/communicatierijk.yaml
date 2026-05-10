@@ -1,45 +1,88 @@
 name: Communicatierijk scope update
 
 on:
+  schedule:
+    - cron: "0 4 1 * *"   # Monthly, 1st of the month 04:00 UTC
   workflow_dispatch:
 
 concurrency:
-  group: scope-scan
+  group: communicatierijk-update
   cancel-in-progress: false
-
-
 
 jobs:
   update-scope:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r engine/requirements.txt
+          playwright install chromium --with-deps
 
-      - name: Run update script
+      # ── Fetch + verify new domains ─────────────────────────────────────────
+      # If ANTHROPIC_API_KEY is set: Tier 1 + 1.5 (browser) + Tier 2 (vision)
+      # If not set:                  Tier 1 + 1.5 (browser) only — no API cost
+      - name: Refresh scope
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python engine/refresh_rijksoverheid.py
+
+      # ── Collect newly confirmed domains for subdomain scan ─────────────────
+      - name: Get newly confirmed domains
+        id: new_domains
         run: |
-          python engine/communicatierijk.py scope.txt
-          cat scope.txt scope/rijksoverheid.txt | sort -u > scope/rijksoverheid.tmp
-          mv scope/rijksoverheid.tmp scope/rijksoverheid.txt
-          
+          git diff scope/rijksoverheid.txt \
+            | grep "^+" | grep -v "^+++" | cut -c2- \
+            > new_domains.txt
+          COUNT=$(wc -l < new_domains.txt | tr -d ' ')
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Newly confirmed domains: $COUNT"
 
+      # ── Subfinder on new domains only ──────────────────────────────────────
+      - name: Run Subfinder on new domains
+        if: steps.new_domains.outputs.count != '0'
+        run: |
+          timeout 3600 docker run --rm \
+            -v "$PWD:/data" \
+            projectdiscovery/subfinder \
+            -dL /data/new_domains.txt \
+            -active \
+            -oJ \
+            -silent \
+            -o /data/subfinder_raw.jsonl \
+            -t 10 \
+            -timeout 30 \
+            -max-time 55 \
+            || echo "Subfinder finished or timed out"
+          echo "Subdomains found: $(wc -l < subfinder_raw.jsonl 2>/dev/null || echo 0)"
 
+      - name: Merge subdomains into storage
+        if: steps.new_domains.outputs.count != '0'
+        run: |
+          python3 engine/process_subdomains.py \
+            subfinder_raw.jsonl \
+            /dev/null \
+            storage/rijksoverheid
+
+      - name: Cleanup
+        run: rm -f subfinder_raw.jsonl new_domains.txt
+
+      # ── Commit scope + storage changes ────────────────────────────────────
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull
-          git add -A scope/rijksoverheid.txt
-          git commit -m "Auto-update: updated communicatierijk" || echo "No changes to commit"
+          git pull --rebase
+          git add scope/ storage/
+          git commit -m "Auto-update: communicatierijk scope refresh" \
+            || echo "No changes to commit"
           git push

@@ -2,3 +2,5 @@
 verification_results/
 __pycache__/
 *.pyc
+.claude/
+CLAUDE.md

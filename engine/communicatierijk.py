@@ -21,8 +21,10 @@ file_path = sys.argv[1]
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-ods_path = Path("/tmp/result.ods")
-csv_path = Path("/tmp/result.csv")
+import tempfile
+_tmp = Path(tempfile.gettempdir())
+ods_path = _tmp / "result.ods"
+csv_path = _tmp / "result.csv"
 
 base_url = "https://www.communicatierijk.nl"
 page_url = base_url + "/documenten/2016/05/26/websiteregister"

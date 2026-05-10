@@ -2,7 +2,7 @@ name: Gist sync
 
 on:
   workflow_run:
-    workflows: ["Schedule scan"]
+    workflows: ["Subdomain scan"]
     types:
       - completed
 

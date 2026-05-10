@@ -363,7 +363,13 @@ async def run(args):
     print(f"Mode: {mode}")
     print(f"Concurrency: {args.concurrency}\n")
 
-    anthropic_client = anthropic.Anthropic() if use_vision else None
+    anthropic_client = None
+    if use_vision:
+        if os.environ.get("ANTHROPIC_API_KEY"):
+            anthropic_client = anthropic.Anthropic()
+        else:
+            print("Warning: anthropic installed but ANTHROPIC_API_KEY not set — vision disabled, falling back to Tier 1 + 1.5")
+            use_vision = False
     semaphore = asyncio.Semaphore(args.concurrency)
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)

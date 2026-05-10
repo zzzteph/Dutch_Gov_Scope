@@ -1,0 +1,94 @@
+name: Subdomain scan
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Daily 03:00 UTC
+  workflow_dispatch:
+    inputs:
+      chunk:
+        description: "Chunk index 0-29 (leave empty to use today's date)"
+        required: false
+
+concurrency:
+  group: subfinder-mass-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Python deps
+        run: pip install tldextract
+
+      # ── Select sliding window: 1% overlap + 3% core + 1% overlap ──────────
+      - name: Select scope chunk
+        id: chunk
+        run: |
+          if [ -n "${{ github.event.inputs.chunk }}" ]; then
+            CHUNK="${{ github.event.inputs.chunk }}"
+          else
+            CHUNK=$(( $(date +%-j) % 30 ))
+          fi
+
+          TOTAL=$(wc -l < scope/rijksoverheid.txt)
+          CHUNK_SIZE=$(( (TOTAL + 29) / 30 ))      # ~3% core
+          OVERLAP=$(( TOTAL / 100 ))                # ~1% each side
+
+          START=$(( CHUNK * CHUNK_SIZE - OVERLAP + 1 ))
+          END=$(( (CHUNK + 1) * CHUNK_SIZE + OVERLAP ))
+          [ $START -lt 1 ] && START=1
+          [ $END -gt $TOTAL ] && END=$TOTAL
+
+          awk "NR >= $START && NR <= $END" scope/rijksoverheid.txt > scope_chunk.txt
+
+          echo "chunk=$CHUNK" >> $GITHUB_OUTPUT
+          echo "Chunk $CHUNK (lines $START-$END) — $(wc -l < scope_chunk.txt) of $TOTAL domains"
+
+      # ── Subfinder: passive discovery + inline DNS validation (-active) ────
+      - name: Run Subfinder
+        run: |
+          timeout 3600 docker run --rm \
+            -v "$PWD:/data" \
+            projectdiscovery/subfinder \
+            -dL /data/scope_chunk.txt \
+            -active \
+            -oJ \
+            -silent \
+            -o /data/subfinder_raw.jsonl \
+            -t 10 \
+            -timeout 30 \
+            -max-time 55 \
+            || echo "Subfinder finished or timed out"
+          echo "Validated subdomains: $(wc -l < subfinder_raw.jsonl 2>/dev/null || echo 0)"
+
+      # ── Merge into per-domain storage, regenerate aggregates ─────────────
+      - name: Update storage
+        run: |
+          python3 engine/process_subdomains.py \
+            subfinder_raw.jsonl \
+            /dev/null \
+            storage/rijksoverheid
+
+      - name: Cleanup
+        run: rm -f subfinder_raw.jsonl scope_chunk.txt
+
+      # ── Commit & push ─────────────────────────────────────────────────────
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add storage/
+          git commit -m "Auto-update: subdomain scan (chunk ${{ steps.chunk.outputs.chunk }}/30)" \
+            || echo "No changes to commit"
+          git push
