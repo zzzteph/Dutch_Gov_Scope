@@ -1,22 +1,20 @@
-name: Subdomain scan
+name: Subdomain scan (manual)
 
 on:
-  schedule:
-    - cron: "0 3 * * *"   # Daily 03:00 UTC
   workflow_dispatch:
     inputs:
       chunk:
-        description: "Chunk index 0-29 (leave empty to use today's date)"
+        description: "Chunk index 0-29 (leave empty to scan full scope)"
         required: false
 
 concurrency:
-  group: subfinder-mass-scan
+  group: subfinder-manual-scan
   cancel-in-progress: false
 
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360
 
     steps:
       - name: Checkout
@@ -30,34 +28,32 @@ jobs:
       - name: Install Python deps
         run: pip install tldextract
 
-      # ── Select sliding window: 1% overlap + 3% core + 1% overlap ──────────
-      - name: Select scope chunk
+      # ── Select chunk or full scope ─────────────────────────────────────────
+      - name: Select scope
         id: chunk
         run: |
           if [ -n "${{ github.event.inputs.chunk }}" ]; then
             CHUNK="${{ github.event.inputs.chunk }}"
+            TOTAL=$(wc -l < scope/rijksoverheid.txt)
+            CHUNK_SIZE=$(( (TOTAL + 29) / 30 ))
+            OVERLAP=$(( TOTAL / 100 ))
+            START=$(( CHUNK * CHUNK_SIZE - OVERLAP + 1 ))
+            END=$(( (CHUNK + 1) * CHUNK_SIZE + OVERLAP ))
+            [ $START -lt 1 ] && START=1
+            [ $END -gt $TOTAL ] && END=$TOTAL
+            awk "NR >= $START && NR <= $END" scope/rijksoverheid.txt > scope_chunk.txt
+            echo "chunk=$CHUNK" >> $GITHUB_OUTPUT
+            echo "Chunk $CHUNK (lines $START-$END) — $(wc -l < scope_chunk.txt) of $TOTAL domains"
           else
-            CHUNK=$(( $(date +%-j) % 30 ))
+            cp scope/rijksoverheid.txt scope_chunk.txt
+            echo "chunk=all" >> $GITHUB_OUTPUT
+            echo "Full scope — $(wc -l < scope_chunk.txt) domains"
           fi
-
-          TOTAL=$(wc -l < scope/rijksoverheid.txt)
-          CHUNK_SIZE=$(( (TOTAL + 29) / 30 ))      # ~3% core
-          OVERLAP=$(( TOTAL / 100 ))                # ~1% each side
-
-          START=$(( CHUNK * CHUNK_SIZE - OVERLAP + 1 ))
-          END=$(( (CHUNK + 1) * CHUNK_SIZE + OVERLAP ))
-          [ $START -lt 1 ] && START=1
-          [ $END -gt $TOTAL ] && END=$TOTAL
-
-          awk "NR >= $START && NR <= $END" scope/rijksoverheid.txt > scope_chunk.txt
-
-          echo "chunk=$CHUNK" >> $GITHUB_OUTPUT
-          echo "Chunk $CHUNK (lines $START-$END) — $(wc -l < scope_chunk.txt) of $TOTAL domains"
 
       # ── Subfinder: passive discovery + inline DNS validation (-active) ────
       - name: Run Subfinder
         run: |
-          timeout 3600 docker run --rm \
+          timeout 18000 docker run --rm \
             -v "$PWD:/data" \
             projectdiscovery/subfinder \
             -dL /data/scope_chunk.txt \
@@ -67,7 +63,7 @@ jobs:
             -o /data/subfinder_raw.jsonl \
             -t 10 \
             -timeout 30 \
-            -max-time 55 \
+            -max-time 300 \
             || echo "Subfinder finished or timed out"
           echo "Validated subdomains: $(wc -l < subfinder_raw.jsonl 2>/dev/null || echo 0)"
 
@@ -89,6 +85,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase --autostash
           git add storage/
-          git commit -m "Auto-update: subdomain scan (chunk ${{ steps.chunk.outputs.chunk }}/30)" \
+          git commit -m "Auto-update: subdomain scan (chunk ${{ steps.chunk.outputs.chunk }})" \
             || echo "No changes to commit"
           git push

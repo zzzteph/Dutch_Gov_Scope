@@ -81,7 +81,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
+          git pull --rebase --autostash
           git add scope/ storage/
           git commit -m "Auto-update: communicatierijk scope refresh" \
             || echo "No changes to commit"

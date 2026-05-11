@@ -3,37 +3,44 @@ import requests
 
 GIST_ID = os.environ["GIST_ID"]
 GIST_TOKEN = os.environ["GIST_TOKEN"]
-SOURCE_FILE = "scope/rijksoverheid.txt"
-TARGET_FILENAME = "scope.txt"
+
+FILES = {
+    "scope.txt": "scope/rijksoverheid.txt",
+    "README.md": "README.md",
+}
+
 
 def update_gist():
-    if not os.path.exists(SOURCE_FILE):
-        print(f"❌ File not found: {SOURCE_FILE}")
-        return
-
-    with open(SOURCE_FILE, "r") as f:
-        content = f.read()
-
     url = f"https://api.github.com/gists/{GIST_ID}"
     headers = {
         "Authorization": f"Bearer {GIST_TOKEN}",
-        "Accept": "application/vnd.github+json"
+        "Accept": "application/vnd.github+json",
     }
-    get_response = requests.get(url, headers=headers)
-    current_content = get_response.json()['files'].get(TARGET_FILENAME, {}).get('content', '')
-    if current_content.strip() == content.strip():
-        print("ℹ️ No changes in content. Skipping update.")
+
+    gist = requests.get(url, headers=headers).json()
+    current = {name: gist["files"].get(name, {}).get("content", "") for name in FILES}
+
+    updates = {}
+    for target, source in FILES.items():
+        if not os.path.exists(source):
+            print(f"File not found: {source}")
+            continue
+        with open(source, "r", encoding="utf-8") as f:
+            content = f.read()
+        if content.strip() != current[target].strip():
+            updates[target] = {"content": content}
+
+    if not updates:
+        print("No changes — gist is up to date.")
         return
 
-    response = requests.patch(url, json={"files": {
-        TARGET_FILENAME: {"content": content}
-    }}, headers=headers)
-
+    response = requests.patch(url, json={"files": updates}, headers=headers)
     if response.status_code == 200:
-        print("✅ Gist updated successfully")
+        print(f"Gist updated: {', '.join(updates.keys())}")
     else:
-        print(f"❌ Failed to update Gist: {response.status_code}")
+        print(f"Failed to update gist: {response.status_code}")
         print(response.json())
+
 
 if __name__ == "__main__":
     update_gist()
