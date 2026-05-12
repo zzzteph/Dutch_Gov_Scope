@@ -1,3 +1,5 @@
+acc.auth.binnenvaart.inspectieview.nl
+acc.auth.wegvervoer.inspectieview.nl
 acc.inspectieview.nl
 aselect-milieu.demo.inspectieview.nl
 auth-binnenvaart.acc.inspectieview.nl
@@ -7,6 +9,7 @@ bh-integratie.inspectieview.nl
 bim-acc.inspectieview.nl
 bim-tst.inspectieview.nl
 bim.inspectieview.nl
+binnenvaart.acc.inspectieview.nl
 binnenvaart.inspectieview.nl
 gebruikregistratie-acc.inspectieview.nl
 gebruikregistratie-tst.inspectieview.nl

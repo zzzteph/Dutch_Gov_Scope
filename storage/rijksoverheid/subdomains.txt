@@ -4590,6 +4590,8 @@ intraspectie.inspectiebtd.nl
 www.inspectiebtd.nl
 inspectielandschap.nl
 www.inspectielandschap.nl
+acc.auth.binnenvaart.inspectieview.nl
+acc.auth.wegvervoer.inspectieview.nl
 acc.inspectieview.nl
 aselect-milieu.demo.inspectieview.nl
 auth-binnenvaart.acc.inspectieview.nl
@@ -4599,6 +4601,7 @@ bh-integratie.inspectieview.nl
 bim-acc.inspectieview.nl
 bim-tst.inspectieview.nl
 bim.inspectieview.nl
+binnenvaart.acc.inspectieview.nl
 binnenvaart.inspectieview.nl
 gebruikregistratie-acc.inspectieview.nl
 gebruikregistratie-tst.inspectieview.nl
@@ -4647,6 +4650,7 @@ acc.dusi.irealisatie.nl
 acc.irealisatie.nl
 acc.mgo.irealisatie.nl
 acc.woo.irealisatie.nl
+acme.proeftuin.uzi-online.irealisatie.nl
 acme2.proeftuin.uzi-online.irealisatie.nl
 addressing.test.zm.irealisatie.nl
 adressering.proeftuin.gf.irealisatie.nl
@@ -4666,6 +4670,9 @@ collabora.acc.irealisatie.nl
 collabora.irealisatie.nl
 cts.acc.woo.irealisatie.nl
 cts.test.woo.irealisatie.nl
+dashboard.test.mgo.irealisatie.nl
+defectdojo.acc.irealisatie.nl
+defectdojo.irealisatie.nl
 dva-mock.test.mgo.irealisatie.nl
 dva.acc.mgo.irealisatie.nl
 dva.test.mgo.irealisatie.nl
@@ -4682,6 +4689,7 @@ hapi1.test.zm.irealisatie.nl
 hapi2.test.zm.irealisatie.nl
 helpdesk.acc.irealisatie.nl
 helpdesk.irealisatie.nl
+ia-stub.test.gf.irealisatie.nl
 irealisatie.nl
 issuer-api.test.gf.irealisatie.nl
 jaeger.proeftuin.gf.irealisatie.nl
@@ -4733,9 +4741,13 @@ metadata.test.zm.irealisatie.nl
 nextcloud.acc.irealisatie.nl
 nextcloud.irealisatie.nl
 noc.irealisatie.nl
+nvi-beheer-api.test.gf.irealisatie.nl
+nvi-integration.test.gf.irealisatie.nl
 nvi-registratie-service.test.gf.irealisatie.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
+oauth.proeftuin.gf.irealisatie.nl
+oauth.test.gf.irealisatie.nl
 oidc.proeftuin.uzi-online.irealisatie.nl
 orac.test.gf.irealisatie.nl
 otv-stub.proeftuin.gf.irealisatie.nl
@@ -4750,6 +4762,7 @@ prs-stub.proeftuin.gf.irealisatie.nl
 prs-stub.test.gf.irealisatie.nl
 prs.test.zm.irealisatie.nl
 pseudoniem.proeftuin.gf.irealisatie.nl
+pseudoniemendienst.proeftuin.gf.irealisatie.nl
 pseudoniemendienst.test.gf.irealisatie.nl
 pseudonym.test.zm.irealisatie.nl
 qualification-admin.test.zm.irealisatie.nl
@@ -4779,6 +4792,7 @@ test.woo.irealisatie.nl
 timeline.test.zm.irealisatie.nl
 uren.acc.irealisatie.nl
 uren.irealisatie.nl
+utils.test.gf.irealisatie.nl
 vad.acc.mgo.irealisatie.nl
 vad.test.mgo.irealisatie.nl
 verifier-api.test.gf.irealisatie.nl
@@ -4797,10 +4811,13 @@ webtooling.irealisatie.nl
 www.irealisatie.nl
 www.test.zm.irealisatie.nl
 yivi.proeftuin.uzi-online.irealisatie.nl
+ziekenboeg.test.gf.irealisatie.nl
 zvs.woo.irealisatie.nl
 ishetafval.nl
 www.ishetafval.nl
 acceptatie.istandaarden.nl
+doc.acceptatie.istandaarden.nl
+doc.istandaarden.nl
 elearning.istandaarden.nl
 informatiemodel.istandaarden.nl
 istandaarden.nl
@@ -4855,11 +4872,13 @@ www.jonglereneten.nl
 jouwveiligeschool.nl
 www.jouwveiligeschool.nl
 acc-referentiegegevens.justid.nl
+acceptatie-referentiegegevens.justid.nl
 ainformatieportaal.justid.nl
 autodiscover.justid.nl
 ciot.justid.nl
 dialin.justid.nl
 dwo.justid.nl
+ebx-referentiegegevens.justid.nl
 ews-external.justid.nl
 feeds.justid.nl
 fmis-nvwa.justid.nl
@@ -4906,7 +4925,9 @@ validata.justis.nl
 vogcheck.justis.nl
 www.justis.nl
 connect-acpt.justitieleictorganisatie.nl
+connect-acpt2.justitieleictorganisatie.nl
 connect.justitieleictorganisatie.nl
+connect2.justitieleictorganisatie.nl
 intranet.justitieleictorganisatie.nl
 justitieleictorganisatie.nl
 sbc01.acpt.justitieleictorganisatie.nl
