@@ -48,6 +48,7 @@ data-seismo-dev.knmi.nl
 data.knmi.nl
 datalab.knmi.nl
 dataplatform.knmi.nl
+dataverkenner.knmi.nl
 dev.dataverkenner.knmi.nl
 developer.dataplatform.knmi.nl
 download.webmail.knmi.nl
@@ -119,6 +120,7 @@ origin.klimaatscenarios-data.knmi.nl
 password-new.knmi.nl
 password.knmi.nl
 preview.api.dataplatform.knmi.nl
+projects-new.knmi.nl
 projects.knmi.nl
 rdsa-prdt.knmi.nl
 rdsa-test.knmi.nl
@@ -135,6 +137,7 @@ testgeoservices.knmi.nl
 tib.dataplatform.knmi.nl
 tm.knmi.nl
 tyk-cdn.dataplatform.knmi.nl
+viewer.spaceweather.knmi.nl
 w3dxweb.knmi.nl
 webaccess.knmi.nl
 webmail.knmi.nl

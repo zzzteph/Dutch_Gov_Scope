@@ -3,11 +3,14 @@ adfs.kvk.nl
 admin.tbadmin.dev.kvk.nl
 admin.tbadmin.kvk.nl
 admin.tbadmin.npo.kvk.nl
+api-secure.kvk.nl
+api-secure.preprod.kvk.nl
 api.acp.kvk.nl
 api.kvk.nl
 api.preprod.kvk.nl
 apim01.npo.cloud001.kvk.nl
 apim01.prd.cloud001.kvk.nl
+apim02.npo.cloud001.kvk.nl
 apiservices99.kvk.nl
 appdata.kvk.nl
 appstore.kvk.nl
@@ -46,7 +49,10 @@ directchat.kvk.nl
 downloads.acp.kvk.nl
 downloads.kvk.nl
 e.kvk.nl
+enterpriseenrollment.kvk.nl
+enterpriseregistration.kvk.nl
 events.kvk.nl
+exportdocumenten.acp.kvk.nl
 facturen.kvk.nl
 git.dev.kvk.nl
 git.kvk.nl
@@ -54,6 +60,7 @@ gsa01.kvk.nl
 gsa02.kvk.nl
 gw1.kvk.nl
 hallo.kvk.nl
+identitybroker.kvk.nl
 identitybroker.npo.kvk.nl
 idp.acp.kvk.nl
 idp.dev.kvk.nl
@@ -72,9 +79,11 @@ lync1.kvk.nl
 lync2.kvk.nl
 magazine.kvk.nl
 mail.kvk.nl
+marktscan.kvk.nl
 meet.kvk.nl
 microcontent.ondernemersplein.kvk.nl
 msafe.kvk.nl
+msoid.kvk.nl
 mta.email.kvk.nl
 notify-pay.kvk.nl
 notify.acp.kvk.nl
@@ -107,9 +116,11 @@ sel2._domainkey.lms.kvk.nl
 selector2._domainkey.kvk.nl
 server2.db.kvk.nl
 server4.db.kvk.nl
+sgtm.kvk.nl
 sip2.kvk.nl
 smtp.kvk.nl
 solliciteer-direct.kvk.nl
+staging.assets.kvk.nl
 staging.werkenbij.kvk.nl
 status.kvk.nl
 swp.acp.kvk.nl
