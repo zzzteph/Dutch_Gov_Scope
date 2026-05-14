@@ -6640,6 +6640,8 @@ enterpriseregistration.kvk.nl
 events.kvk.nl
 exportdocumenten.acp.kvk.nl
 facturen.kvk.nl
+fwoobmaam01.vpn.kvk.nl
+fwoobmaer01.vpn.kvk.nl
 git.dev.kvk.nl
 git.kvk.nl
 gsa01.kvk.nl
@@ -6962,6 +6964,7 @@ iam-containerplatform.lpc.logius.nl
 idp-dgp.digipoort.logius.nl
 idp-dgp.preproductie.digipoort.logius.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
+intrekkingsportaal.preproductie.digipoort.logius.nl
 kennisbank.logius.nl
 kibana-prod.lpc.logius.nl
 kibana.lpc.logius.nl
@@ -6986,12 +6989,15 @@ pmz.logius.nl
 portalen.acceptatie.digipoort.logius.nl
 portalen.preproductie.digipoort.logius.nl
 preprod-machtigen.digipoort.logius.nl
+preprod-portaal.bbo.logius.nl
 preprod-portalen.digipoort.logius.nl
 preprod.bvd.logius.nl
 preprod.oinregister.logius.nl
 routeringsvoorziening-pp1.logius.nl
 rvmetadata.logius.nl
 sb-dictu.logius.nl
+soap2007.digipoort.logius.nl
+soap2007.preproductie.digipoort.logius.nl
 sonarqube.lpc.logius.nl
 stelselcatalogus.logius.nl
 superset.acc.data.logius.nl
@@ -7003,6 +7009,8 @@ test-dictu.logius.nl
 test-machtigen.digipoort.logius.nl
 vault.lpc.logius.nl
 wiki.logius.nl
+wus.digipoort.logius.nl
+wus.preproductie.digipoort.logius.nl
 www.logius.nl
 loketgentherapie.nl
 www.loketgentherapie.nl
