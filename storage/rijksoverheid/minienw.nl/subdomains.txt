@@ -6,11 +6,13 @@ adresgids2.minienw.nl
 bct.csp.minienw.nl
 bct.tsp.minienw.nl
 cms.intranet.minienw.nl
+evenementen.minienw.nl
 gateway-acc.minienw.nl
 gateway-extern-pre.minienw.nl
 gateway-extern.minienw.nl
 gateway-pre.minienw.nl
 gateway.minienw.nl
+gkas.horizon.minienw.nl
 intranet.minienw.nl
 intranet14.minienw.nl
 minienw.nl
@@ -29,6 +31,7 @@ service.mpn.minienw.nl
 services-hprm-acc.minienw.nl
 services-hprm.minienw.nl
 sip.minienw.nl
+sip.myroom.minienw.nl
 sp-prd.topdesk.minienw.nl
 tsp.minienw.nl
 werkbezoek.minienw.nl

@@ -7208,6 +7208,7 @@ gip.minbzk.nl
 idm.minbzk.nl
 ind.minbzk.nl
 indigo-l3-sso.ilab.ota.ind.minbzk.nl
+loc.minbzk.nl
 lyncdiscover.minbzk.nl
 mail.vno.minbzk.nl
 mail1.minbzk.nl
@@ -7232,6 +7233,7 @@ sdm.minbzk.nl
 sdm.p-direkt.minbzk.nl
 sip.minbzk.nl
 sip.myroom.minbzk.nl
+sip.myroom.p-direkt.minbzk.nl
 sip.p-direkt.minbzk.nl
 tcs0201-server.minbzk.nl
 tcs0202-server.minbzk.nl
@@ -7261,6 +7263,7 @@ acceptatie.isms.minienm.nl
 autodiscover.minienm.nl
 banking.minienm.nl
 bct.csp.minienm.nl
+cms.intranet.minienm.nl
 cms.minienm.nl
 csm.minienm.nl
 csp.minienm.nl
@@ -7284,6 +7287,7 @@ kennisplein.intranet.minienm.nl
 kos.kennisplein.intranet.minienm.nl
 mimbmp.sap.minienm.nl
 mimbmp.saphttp.minienm.nl
+mimbod.sap.minienm.nl
 mimbod.saphttp.minienm.nl
 mimbop.sap.minienm.nl
 mimbop.saphttp.minienm.nl
@@ -7319,6 +7323,7 @@ mimtec.saphttp.minienm.nl
 mimxid.saphttp.minienm.nl
 mimxip.saphttp.minienm.nl
 mimxiq.saphttp.minienm.nl
+mimxoq.sap.minienm.nl
 minienm.nl
 mpn-acc.minienm.nl
 mpn-pre.minienm.nl
@@ -7358,11 +7363,13 @@ adresgids2.minienw.nl
 bct.csp.minienw.nl
 bct.tsp.minienw.nl
 cms.intranet.minienw.nl
+evenementen.minienw.nl
 gateway-acc.minienw.nl
 gateway-extern-pre.minienw.nl
 gateway-extern.minienw.nl
 gateway-pre.minienw.nl
 gateway.minienw.nl
+gkas.horizon.minienw.nl
 intranet.minienw.nl
 intranet14.minienw.nl
 minienw.nl
@@ -7381,6 +7388,7 @@ service.mpn.minienw.nl
 services-hprm-acc.minienw.nl
 services-hprm.minienw.nl
 sip.minienw.nl
+sip.myroom.minienw.nl
 sp-prd.topdesk.minienw.nl
 tsp.minienw.nl
 werkbezoek.minienw.nl
