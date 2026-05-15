@@ -29,7 +29,7 @@ csv_path = _tmp / "result.csv"
 base_url = "https://www.communicatierijk.nl"
 page_url = base_url + "/documenten/2016/05/26/websiteregister"
 
-response = requests.get(page_url, verify=False)
+response = requests.get(page_url, verify=True)
 response.raise_for_status()
 
 match = re.search(r'href="([^"]+\.ods)"', response.text)
@@ -37,7 +37,7 @@ if not match:
     raise Exception("ODS link not found")
 
 ods_url = match.group(1)
-ods_data = requests.get(ods_url, verify=False)
+ods_data = requests.get(ods_url, verify=True)
 ods_data.raise_for_status()
 ods_path.write_bytes(ods_data.content)
 df = pd.read_excel(ods_path, engine="odf")

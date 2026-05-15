@@ -76,7 +76,7 @@ for domain in sorted(entries):
     
     print(f"{domain} explored")        
     try:
-        response = requests.get(f"https://{domain}", timeout=5, allow_redirects=True, verify=False)
+response = requests.get(f"https://{domain}", timeout=5, allow_redirects=True, verify=True)
         if response.ok:
             body = response.text.lower()
             if any(keyword.lower() in body.lower() for keyword in headers_to_check):

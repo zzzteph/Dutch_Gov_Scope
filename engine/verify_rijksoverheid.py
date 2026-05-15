@@ -167,7 +167,7 @@ def tier1_check(domain: str) -> tuple[str, str]:
             f"https://{domain}",
             timeout=8,
             allow_redirects=True,
-            verify=False,
+verify=True,
             headers={"User-Agent": "Mozilla/5.0 (compatible; DutchGovScopeVerifier/1.0)"},
         )
     except requests.exceptions.RequestException as exc:

@@ -63,7 +63,7 @@ def fetch_communicatierijk() -> set[str]:
     base_url = "https://www.communicatierijk.nl"
     page_url = base_url + "/documenten/2016/05/26/websiteregister"
 
-    resp = requests.get(page_url, verify=False, timeout=15)
+resp = requests.get(page_url, verify=True, timeout=15)
     resp.raise_for_status()
 
     match = re.search(r'href="([^"]+\.ods)"', resp.text)
@@ -78,7 +78,7 @@ def fetch_communicatierijk() -> set[str]:
     ods_path = tmp / "communicatierijk.ods"
     csv_path = tmp / "communicatierijk.csv"
 
-    ods_data = requests.get(ods_url, verify=False, timeout=30)
+ods_data = requests.get(ods_url, verify=True, timeout=30)
     ods_data.raise_for_status()
     ods_path.write_bytes(ods_data.content)
 
