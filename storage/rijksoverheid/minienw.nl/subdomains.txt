@@ -6,6 +6,7 @@ adresgids2.minienw.nl
 bct.csp.minienw.nl
 bct.tsp.minienw.nl
 cms.intranet.minienw.nl
+csp.minienw.nl
 evenementen.minienw.nl
 gateway-acc.minienw.nl
 gateway-extern-pre.minienw.nl
@@ -20,6 +21,7 @@ mpn-acc.minienw.nl
 mpn-pre.minienw.nl
 mpn.minienw.nl
 newsroom.minienw.nl
+nlmimsmtp01.intranet.minienw.nl
 ontwik.sapgw.minienw.nl
 ontwikkel.sapgw.minienw.nl
 publicaties.minienw.nl

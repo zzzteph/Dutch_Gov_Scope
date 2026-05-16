@@ -7329,6 +7329,7 @@ mpn-acc.minienm.nl
 mpn-pre.minienm.nl
 mpn-tst.minienm.nl
 mpn.minienm.nl
+nlmimsmtp01.intranet.minienm.nl
 portaalsp.minienm.nl
 portaldirectiewegen-acc.minienm.nl
 portaldirectiewegen.minienm.nl
@@ -7363,6 +7364,7 @@ adresgids2.minienw.nl
 bct.csp.minienw.nl
 bct.tsp.minienw.nl
 cms.intranet.minienw.nl
+csp.minienw.nl
 evenementen.minienw.nl
 gateway-acc.minienw.nl
 gateway-extern-pre.minienw.nl
@@ -7377,6 +7379,7 @@ mpn-acc.minienw.nl
 mpn-pre.minienw.nl
 mpn.minienw.nl
 newsroom.minienw.nl
+nlmimsmtp01.intranet.minienw.nl
 ontwik.sapgw.minienw.nl
 ontwikkel.sapgw.minienw.nl
 publicaties.minienw.nl
@@ -7615,6 +7618,7 @@ ebms-ted.nationaalarchief.nl
 ebms.nationaalarchief.nl
 en.nationaalarchief.nl
 ftp.nationaalarchief.nl
+fy.test.nationaalarchief.nl
 gaf.nationaalarchief.nl
 gatekeeper.nationaalarchief.nl
 gateway.nationaalarchief.nl
@@ -7706,6 +7710,7 @@ autodiscover.nationaleombudsman.nl
 jaarverslag.nationaleombudsman.nl
 mta-sts.nationaleombudsman.nl
 nationaleombudsman.nl
+vragenlijst.nationaleombudsman.nl
 www.nationaleombudsman.nl
 _autodiscover._tcp.natura2000.nl
 acc.natura2000.nl
