@@ -7755,6 +7755,7 @@ chat-acc.ncsc.nl
 chat.ncsc.nl
 chat2.ncsc.nl
 cms.ncsc.nl
+community.acc.ncsc.nl
 community.ncsc.nl
 csaf.data.security.acc.ncsc.nl
 csaf.data.security.ncsc.nl
@@ -7784,6 +7785,7 @@ mx.ncsc.nl
 mx1.ncsc.nl
 mx2.ncsc.nl
 ncsc.nl
+ndn-dev.ncsc.nl
 ndn-onderzoek.ncsc.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
@@ -7843,6 +7845,7 @@ analytics.staging.ndw.nu
 auth.ndw.nu
 autodiscover.ndw.nu
 backbone.ndw.nu
+backbone.staging.ndw.nu
 bereikbaarheid.ndw.nu
 bereikbaarheid.staging.ndw.nu
 budgy.ndw.nu
@@ -7909,6 +7912,7 @@ ntm.ndw.nu
 ntm.staging.ndw.nu
 opendata-ref.ndw.nu
 opendata.ndw.nu
+pdc.ndw.nu
 pm-bounces.ndw.nu
 put-kpi-dashboard.ndw.nu
 realtime.ndw.nu
@@ -8072,6 +8076,7 @@ opleiding.nl-alert.nl
 prod.nl-alert.nl
 test.actueel.nl-alert.nl
 test.nl-alert.nl
+toolkit.nl-alert.nl
 www.nl-alert.nl
 nl-works.com
 www.nl-works.com
@@ -8084,8 +8089,10 @@ selector2._domainkey.nlarbeidsinspectie.nl
 test.portaal.nlarbeidsinspectie.nl
 test.resultaten.nlarbeidsinspectie.nl
 www.nlarbeidsinspectie.nl
+editor.nldesignsystem.nl
 nldesignsystem.nl
 storybook.nldesignsystem.nl
+theme-wizard.nldesignsystem.nl
 www.nldesignsystem.nl
 accept.nldigitalgovernment.nl
 nldigitalgovernment.nl

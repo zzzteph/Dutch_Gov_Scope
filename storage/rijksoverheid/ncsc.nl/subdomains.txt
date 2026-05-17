@@ -18,6 +18,7 @@ chat-acc.ncsc.nl
 chat.ncsc.nl
 chat2.ncsc.nl
 cms.ncsc.nl
+community.acc.ncsc.nl
 community.ncsc.nl
 csaf.data.security.acc.ncsc.nl
 csaf.data.security.ncsc.nl
@@ -47,6 +48,7 @@ mx.ncsc.nl
 mx1.ncsc.nl
 mx2.ncsc.nl
 ncsc.nl
+ndn-dev.ncsc.nl
 ndn-onderzoek.ncsc.nl
 nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl

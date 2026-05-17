@@ -5,6 +5,7 @@ analytics.staging.ndw.nu
 auth.ndw.nu
 autodiscover.ndw.nu
 backbone.ndw.nu
+backbone.staging.ndw.nu
 bereikbaarheid.ndw.nu
 bereikbaarheid.staging.ndw.nu
 budgy.ndw.nu
@@ -71,6 +72,7 @@ ntm.ndw.nu
 ntm.staging.ndw.nu
 opendata-ref.ndw.nu
 opendata.ndw.nu
+pdc.ndw.nu
 pm-bounces.ndw.nu
 put-kpi-dashboard.ndw.nu
 realtime.ndw.nu
