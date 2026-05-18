@@ -8158,6 +8158,7 @@ _autodiscover._tcp.nvwa.nl
 _dmarc.nvwa.nl
 acc.inspectieresultaten.nvwa.nl
 acc2.inspectieresultaten.nvwa.nl
+amdata-acc.nvwa.nl
 bvma.nvwa.nl
 bvmagr.nvwa.nl
 e-CertNL.nvwa.nl
@@ -8330,7 +8331,9 @@ odcn-ont-va.topdesk.odc-noord.nl
 odcn-ont.jira.odc-noord.nl
 odcn-ont.topdesk.odc-noord.nl
 odcn-prd.confluence.odc-noord.nl
+odcn-prd.jira.odc-noord.nl
 odcn-prd.topdesk.odc-noord.nl
+om-acc.topdesk.odc-noord.nl
 om-ont.topdesk.odc-noord.nl
 om.topdesk.odc-noord.nl
 omdemo.topdesk.odc-noord.nl
@@ -8398,6 +8401,7 @@ open-wave.odijmond.nl
 open.odijmond.nl
 redactie.odijmond.nl
 www.odijmond.nl
+3cx.odmh.nl
 Digikoppeling.odmh.nl
 atlas.odmh.nl
 bkk.odmh.nl

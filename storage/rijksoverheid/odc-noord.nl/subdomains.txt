@@ -76,7 +76,9 @@ odcn-ont-va.topdesk.odc-noord.nl
 odcn-ont.jira.odc-noord.nl
 odcn-ont.topdesk.odc-noord.nl
 odcn-prd.confluence.odc-noord.nl
+odcn-prd.jira.odc-noord.nl
 odcn-prd.topdesk.odc-noord.nl
+om-acc.topdesk.odc-noord.nl
 om-ont.topdesk.odc-noord.nl
 om.topdesk.odc-noord.nl
 omdemo.topdesk.odc-noord.nl
