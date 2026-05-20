@@ -60,6 +60,7 @@ evenementen.politie.nl
 exchangemrs1.politie.nl
 exchangemrs2.politie.nl
 exchangemrs3.politie.nl
+exchangemrs4.politie.nl
 fts.politie.nl
 gm.politie.nl
 gs-acc.politie.nl
@@ -109,6 +110,7 @@ secure-bvi-test.politie.nl
 smc.politie.nl
 sonarqube.politie.nl
 sophos.politie.nl
+spectra.politie.nl
 sso-pa.politie.nl
 sso.politie.nl
 ssovpnappa-pre.gslbppe.politie.nl

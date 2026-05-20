@@ -9270,6 +9270,7 @@ acc-infographics.pbl.nl
 acc-intranet.pbl.nl
 acc-leidraad.pbl.nl
 acc-mapservices.pbl.nl
+acc-openwebui.pbl.nl
 acc-pebbles.pbl.nl
 acc-themasites.pbl.nl
 acc-www.pbl.nl
@@ -9367,6 +9368,7 @@ a-static.platformrijksoverheidonline.nl
 api.abonneren-pro2.platformrijksoverheidonline.nl
 api.abonneren.platformrijksoverheidonline.nl
 api.cccd.platformrijksoverheidonline.nl
+api1.abonneren.platformrijksoverheidonline.nl
 api10.abonneren.platformrijksoverheidonline.nl
 api2.abonneren.platformrijksoverheidonline.nl
 api7.abonneren.platformrijksoverheidonline.nl
@@ -9447,6 +9449,7 @@ evenementen.politie.nl
 exchangemrs1.politie.nl
 exchangemrs2.politie.nl
 exchangemrs3.politie.nl
+exchangemrs4.politie.nl
 fts.politie.nl
 gm.politie.nl
 gs-acc.politie.nl
@@ -9496,6 +9499,7 @@ secure-bvi-test.politie.nl
 smc.politie.nl
 sonarqube.politie.nl
 sophos.politie.nl
+spectra.politie.nl
 sso-pa.politie.nl
 sso.politie.nl
 ssovpnappa-pre.gslbppe.politie.nl
@@ -9530,6 +9534,9 @@ applicaties-az.politieacademie.nl
 applicaties-t.politieacademie.nl
 applicaties.politieacademie.nl
 apps.politieacademie.nl
+attenderingen-a.politieacademie.nl
+attenderingen-t.politieacademie.nl
+attenderingen.politieacademie.nl
 autodiscover.politieacademie.nl
 autodiscover.webmail.politieacademie.nl
 backbone.politieacademie.nl
@@ -9553,6 +9560,7 @@ edge.webmail.politieacademie.nl
 enterpriseenrollment.politieacademie.nl
 euvid.politieacademie.nl
 extbhr.politieacademie.nl
+falconvr.politieacademie.nl
 gebouwbeheersysteem.politieacademie.nl
 grafana.politieacademie.nl
 kennisbank-a.politieacademie.nl
@@ -9605,15 +9613,21 @@ mx.webmail1.politieacademie.nl
 netwerktoegang.politieacademie.nl
 ns1.politieacademie.nl
 onderhoud.politieacademie.nl
+osiris-saml.politieacademie.nl
 osiris-t.politieacademie.nl
 osiris.politieacademie.nl
+osirisacc-saml.politieacademie.nl
 osirisacc.politieacademie.nl
+osirisaccsaas.politieacademie.nl
 osirislink-a.politieacademie.nl
 osirislink-t.politieacademie.nl
 osirislink.politieacademie.nl
 osirisont.politieacademie.nl
 osirisprd.politieacademie.nl
+osirissaas.politieacademie.nl
+osiristst-saml.politieacademie.nl
 osiristst.politieacademie.nl
+osiriststsaas.politieacademie.nl
 osirisweb.politieacademie.nl
 owa.politieacademie.nl
 pa-a.politieacademie.nl
@@ -9707,8 +9721,12 @@ url6099.mail.postedworkers.nl
 www.postedworkers.nl
 praktijkgerichteprogrammas.nl
 www.praktijkgerichteprogrammas.nl
+acc.productenmeldwijzer.nl
+cms-acc.productenmeldwijzer.nl
+cms-test.productenmeldwijzer.nl
 cms.productenmeldwijzer.nl
 productenmeldwijzer.nl
+test.productenmeldwijzer.nl
 www.productenmeldwijzer.nl
 programma-uned.nl
 www.programma-uned.nl
@@ -9739,6 +9757,7 @@ digitaal.raadopenbaarbestuur.nl
 discussie.raadopenbaarbestuur.nl
 forum.raadopenbaarbestuur.nl
 raadopenbaarbestuur.nl
+sip.raadopenbaarbestuur.nl
 www.raadopenbaarbestuur.nl
 adviezen.raadrvs.nl
 raadrvs.nl
