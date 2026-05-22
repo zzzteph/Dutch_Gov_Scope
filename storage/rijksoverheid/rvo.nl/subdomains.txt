@@ -11,6 +11,7 @@ acc-dvu.rvo.nl
 acc-energiebesparingsverkenner-ws.rvo.nl
 acc-energiebesparingsverkenner.rvo.nl
 acc-english.rvo.nl
+acc-europese-subsidies.rvo.nl
 acc-ezine.rvo.nl
 acc-geocontent.rvo.nl
 acc-geoservices.rvo.nl
@@ -71,6 +72,7 @@ d7.rvo.nl
 data.rvo.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
+devdashboards.rvo.nl
 developer.rvo.nl
 dgbw15.rvo.nl
 dvu.rvo.nl
@@ -210,6 +212,7 @@ test-cms.projecten.rvo.nl
 test-cms.projects.rvo.nl
 test-cms.rvo.nl
 test-english.rvo.nl
+test-europese-subsidies.rvo.nl
 test-mijn.rvo.nl
 test-website.rvo.nl
 test-wetten.rvo.nl

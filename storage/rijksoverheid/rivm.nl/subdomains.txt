@@ -21,7 +21,9 @@ acc-sso-osiris.rivm.nl
 acc-veldmonitoring.rivm.nl
 acc-vtcc.rivm.nl
 acc.chauffeurs.rivm.nl
+acc.eic.rivm.nl
 acc.nhs-lims.rivm.nl
+acc.scanapp.rivm.nl
 acceptatie-data.rivm.nl
 acceptatie.aiz.osiris.rivm.nl
 acceptatie.biotechnologie.rivm.nl
@@ -81,6 +83,7 @@ apex-cmm.rivm.nl
 api-samenmeten.rivm.nl
 api.acc-lsp.rivm.nl
 api.acc-seqdb.rivm.nl
+api.casedb.lsp-dev.rivm.nl
 api.dev-lsp.rivm.nl
 api.rivm.nl
 api.tst-lsp.rivm.nl
@@ -99,6 +102,7 @@ biotechnologie.rivm.nl
 calpro.bori.rivm.nl
 campus-t.rivm.nl
 caontb.rivm.nl
+casedb.lsp-dev.rivm.nl
 ccc-appgw-test1.rivm.nl
 cdif.osiris.rivm.nl
 ceses.osiris.rivm.nl
@@ -198,6 +202,7 @@ link.rivm.nl
 lkvis.rivm.nl
 lml.rivm.nl
 lmm.rivm.nl
+loculus.app.lsp-dev.rivm.nl
 login.rivm.nl
 longcovid.rivm.nl
 lsocit.rivm.nl
@@ -207,6 +212,8 @@ lsocom1.rivm.nl
 lsocom2.rivm.nl
 lsp-acc.rivm.nl
 lsp-api-casedb-acc.rivm.nl
+lsp-api-casedb.rivm.nl
+lsp.rivm.nl
 m365.rivm.nl
 macotra.rivm.nl
 magazines.rivm.nl
@@ -249,6 +256,7 @@ nsl-monitoring.rivm.nl
 omgevingsveiligheid.rivm.nl
 ont-bestellingen.rivm.nl
 ontw.api-samenmeten.rivm.nl
+ontwikkel.rvszoeksysteem.rivm.nl
 osiris.rivm.nl
 participantapi.vragenlijst-acc.rivm.nl
 participantapi.vragenlijst.rivm.nl
@@ -286,6 +294,7 @@ secure-acceptatie.grip.rivm.nl
 secure-test.rivm.nl
 secure.grip.rivm.nl
 secure.rivm.nl
+securemail.rivm.nl
 sensors.rivm.nl
 serhatpc.rivm.nl
 sftp-test01.rivm.nl
@@ -370,3 +379,6 @@ www.lml.rivm.nl
 www.portie-online.rivm.nl
 www.rca.rivm.nl
 www.rivm.nl
+www.teebstad.rivm.nl
+www.typened-cpe.rivm.nl
+www.typened-mrsa.rivm.nl
