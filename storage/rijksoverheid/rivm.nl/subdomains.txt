@@ -332,6 +332,9 @@ test.teebstad.rivm.nl
 test.vcpapp.rivm.nl
 testconn.rivm.nl
 tijdlijnencovid19.rivm.nl
+timoni-acc.rivm.nl
+timoni.rivm.nl
+tmp.nhs-lims.rivm.nl
 topdesk-reach-acc.rivm.nl
 topdesk-reach.rivm.nl
 tst-lsp.rivm.nl
