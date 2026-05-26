@@ -22,6 +22,7 @@ bibliotheek-test.tweedekamer.nl
 bibliotheek-tkw-test.tweedekamer.nl
 bibliotheek-tkw.tweedekamer.nl
 bibliotheek.tweedekamer.nl
+binnenplein.tweedekamer.nl
 cdn.debatdirect.tweedekamer.nl
 correctie.tweedekamer.nl
 corsa-ambt-acc.tweedekamer.nl
@@ -124,6 +125,7 @@ services.b67.tweedekamer.nl
 sesam-acc.tweedekamer.nl
 share.tweedekamer.nl
 sip.videovergaderen.tweedekamer.nl
+stats.acc.livedebat.tweedekamer.nl
 stats.debatdirect.tweedekamer.nl
 status.debatdirect.tweedekamer.nl
 stream-share.debatdirect.tweedekamer.nl
@@ -141,6 +143,7 @@ tweedekamer.nl
 tweedekamer.test.tweedekamer.nl
 tzr.tweedekamer.nl
 vandale.tweedekamer.nl
+veiligmailen.tweedekamer.nl
 vergaderapp.tweedekamer.nl
 via.tweedekamer.nl
 videovergaderen.tweedekamer.nl

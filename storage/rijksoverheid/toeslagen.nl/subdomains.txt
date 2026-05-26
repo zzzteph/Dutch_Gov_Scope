@@ -1,5 +1,6 @@
 adobe-analytics-dc.toeslagen.nl
 adobe-tags.toeslagen.nl
+app.toeslagen.nl
 artifact-fibt1.toeslagen.nl
 b2b-gemnet.toeslagen.nl
 b2b-osb.toeslagen.nl
@@ -9,6 +10,7 @@ b2btest-gemnet.toeslagen.nl
 b2btest-osb.toeslagen.nl
 b2btest-rijks.toeslagen.nl
 b2btest.toeslagen.nl
+beta.toeslagen.nl
 e.acc.videobellen.toeslagen.nl
 e.videobellen.toeslagen.nl
 fed-tao.acc.toeslagen.nl
