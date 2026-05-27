@@ -15057,9 +15057,11 @@ woz-it.waarderingskamer.nl
 www.waarderingskamer.nl
 staging.waarzitwatin.nl
 waarzitwatin.nl
+wildcard.staging.waarzitwatin.nl
 www.waarzitwatin.nl
 wabes.nl
 agendavoorhetwaddengebied2050.waddenzee.nl
+basismonitoring.waddenzee.nl
 basismonitoringwadden.waddenzee.nl
 bmw9520.waddenzee.nl
 datahuiswadden.waddenzee.nl
@@ -15074,6 +15076,7 @@ www.wateetnederland.nl
 cms.waterkwaliteitscheck.nl
 www.cms.waterkwaliteitscheck.nl
 www.waterkwaliteitscheck.nl
+api.waterschaplimburg.nl
 begrippen.waterschaplimburg.nl
 bron.waterschaplimburg.nl
 cadacconnect.waterschaplimburg.nl
@@ -15113,6 +15116,8 @@ transfer.waterschaplimburg.nl
 uffprod25.waterschaplimburg.nl
 ufftest25.waterschaplimburg.nl
 videobellen.waterschaplimburg.nl
+waterbeeld-ota.waterschaplimburg.nl
+waterbeeld.waterschaplimburg.nl
 waterschaplimburg.nl
 werkplek.waterschaplimburg.nl
 wikixl-saml.acceptatie.waterschaplimburg.nl
@@ -15123,6 +15128,7 @@ waterveiligheidsportaal.nl
 www.waterveiligheidsportaal.nl
 watwerktvooronsrijk.nl
 www.watwerktvooronsrijk.nl
+desinformatieinjegemeente.weerbaarbestuur.nl
 weerbaarbestuur.nl
 www.weerbaarbestuur.nl
 weerbaredigitaleoverheid.nl
