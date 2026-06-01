@@ -448,6 +448,7 @@ api.amx.belastingdienst.nl
 api.belastingdienst.nl
 aplbepa01.belastingdienst.nl
 aplbeqa01.belastingdienst.nl
+app.belastingdienst.nl
 appcontent.belastingdienst.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
@@ -771,6 +772,7 @@ mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mailer1.belastingdienst.nl
 mailer2.belastingdienst.nl
+mbc.belastingdienst.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 merkportaal.belastingdienst.nl
@@ -985,6 +987,7 @@ rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
 rvig.proeftuin.belastingdienst.nl
 rw.belastingdienst.nl
+rwc.belastingdienst.nl
 rwn.belastingdienst.nl
 sa-conf.belastingdienst.nl
 sa-ota.belastingdienst.nl
@@ -1196,6 +1199,7 @@ wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
 wildcard.tst.belastingdienst.nl
 wmb-kennisgeving.acc.belastingdienst.nl
+wmb-kennisgeving.belastingdienst.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
 wus-encryptie.acc.belastingdienst.nl
@@ -1296,6 +1300,7 @@ test.bidbook.eu
 webmail.bidbook.eu
 www.bidbook.eu
 acceptatie-nieuw.biedboek.nl
+acceptatie.biedboek.nl
 biedboek.nl
 deployment.biedboek.nl
 o2.ptr8287.biedboek.nl
@@ -1304,6 +1309,7 @@ share.acceptatie-nieuw.biedboek.nl
 share.biedboek.nl
 share.test-nieuw.biedboek.nl
 test-nieuw.biedboek.nl
+test.biedboek.nl
 www.biedboek.nl
 big-register.nl
 www.big-register.nl
