@@ -17,6 +17,7 @@ afasmail.cbs.nl
 afspraken.cbs.nl
 amunet.cbs.nl
 antwoord.cbs.nl
+api.fsc.cbs.nl
 apisimplex.cbs.nl
 argon2.cbs.nl
 autodiscover.cbs.nl
@@ -190,6 +191,7 @@ tunnel.cbs.nl
 tunnel1.cbs.nl
 uag.cbs.nl
 ui-acc.fsc.cbs.nl
+ui.fsc.cbs.nl
 uitgaven.cbs.nl
 uitwisseling.cbs.nl
 upload.cbs.nl
@@ -198,6 +200,7 @@ videos.cbs.nl
 vocabs.cbs.nl
 vpn1.cbs.nl
 vpn2.cbs.nl
+webext.cbs.nl
 webserver.cbs.nl
 welkombij.cbs.nl
 werkplek.cbs.nl

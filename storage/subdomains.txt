@@ -1723,6 +1723,7 @@ afasmail.cbs.nl
 afspraken.cbs.nl
 amunet.cbs.nl
 antwoord.cbs.nl
+api.fsc.cbs.nl
 apisimplex.cbs.nl
 argon2.cbs.nl
 autodiscover.cbs.nl
@@ -1896,6 +1897,7 @@ tunnel.cbs.nl
 tunnel1.cbs.nl
 uag.cbs.nl
 ui-acc.fsc.cbs.nl
+ui.fsc.cbs.nl
 uitgaven.cbs.nl
 uitwisseling.cbs.nl
 upload.cbs.nl
@@ -1904,6 +1906,7 @@ videos.cbs.nl
 vocabs.cbs.nl
 vpn1.cbs.nl
 vpn2.cbs.nl
+webext.cbs.nl
 webserver.cbs.nl
 welkombij.cbs.nl
 werkplek.cbs.nl
@@ -2047,6 +2050,7 @@ survey.cibg.nl
 test.cibg.nl
 test.digikoppeling.cibg.nl
 test.publicwebservices.cibg.nl
+test.uzipoc.cibg.nl
 tmv.cibg.nl
 uzipas.lir.cibg.nl
 webchat.klopt.cibg.nl
@@ -2090,8 +2094,12 @@ cjib.nl
 digitaalloket-acc.cjib.nl
 digitaalloket.cjib.nl
 dsp.cjib.nl
+ftgw-acc.cjib.nl
+ftgw.cjib.nl
 lyncdiscover.cjib.nl
 mail.cjib.nl
+mijn-acc.cjib.nl
+mijn.cjib.nl
 open.cjib.nl
 pay-acc.cjib.nl
 pay.cjib.nl
@@ -2171,6 +2179,7 @@ statistieken.coa.nl
 test.statistieken.coa.nl
 test.www.coa.nl
 tvs.coa.nl
+vap.coa.nl
 vpn.coa.nl
 werkenbij.coa.nl
 www-acc.coa.nl
