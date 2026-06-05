@@ -2475,6 +2475,7 @@ dejuistezorgopdejuisteplek.nl
 regiobeelden.dejuistezorgopdejuisteplek.nl
 voorbeelden.dejuistezorgopdejuisteplek.nl
 www.dejuistezorgopdejuisteplek.nl
+autodiscover.dekinderombudsman.nl
 dekinderombudsman.nl
 mta-sts.dekinderombudsman.nl
 www.dekinderombudsman.nl
@@ -2537,6 +2538,7 @@ test.uzipas.auth.dezi.nl
 test.uzipas.dezi.nl
 uzipas.abonnee.dezi.nl
 uzipas.auth.dezi.nl
+uzipas.dezi.nl
 uzipas.mijn.dezi.nl
 www.dezi.nl
 dggf.nl
@@ -2641,6 +2643,7 @@ ftp-a.ags.dictu.nl
 ftp-p.ags.dictu.nl
 gcms-client-certificaat.dictu.nl
 gisauth-acc.dictu.nl
+gisauth.dictu.nl
 gisextern-acc.dictu.nl
 gisextern.dictu.nl
 gitlab-acc.dictu.nl
@@ -2649,6 +2652,7 @@ ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
 idp3-acc.dictu.nl
+idp3.auth-acc.dictu.nl
 idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
 iltbuildserver.dictu.nl
@@ -2711,6 +2715,7 @@ panter001a.dictu.nl
 panter001b-relay.dictu.nl
 panter001b.dictu.nl
 panter011.dictu.nl
+pdc.dictu.nl
 pianoo-p.dictu.nl
 pianoo-t.dictu.nl
 plato.dictu.nl
@@ -2973,6 +2978,7 @@ msc-preprod2.digid.nl
 msc-t1.digid.nl
 msc-t2.digid.nl
 msc.digid.nl
+mu-preprod1.digid.nl
 mu.digid.nl
 o1.digid.nl
 ob.acc1.machtigen.digid.nl
@@ -3009,6 +3015,7 @@ rda-t1.digid.nl
 rda-t2.digid.nl
 rda.digid.nl
 registry.ost.digid.nl
+rijbewijs.cis-test2.digid.nl
 rijbewijs.digid.nl
 service1.digid.nl
 service2.digid.nl
@@ -3097,10 +3104,13 @@ mail.dihoo.nl
 www.dihoo.nl
 accp.disportal.nl
 disportal.nl
+service.acc.disportal.nl
+service.disportal.nl
 www.disportal.nl
 a-magazines.dji.nl
 acc-epdintegratieplatform.dji.nl
 acc.beeldbellen.dji.nl
+bedrijfskleding.dji.nl
 beeldbellen.dji.nl
 cdn.dji.nl
 connect-acpt.dji.nl
@@ -3114,6 +3124,8 @@ dvfz.dji.nl
 eagle-acc.dji.nl
 eagle.dji.nl
 epdintegratieplatform.dji.nl
+forzo-giu-acpt.dji.nl
+forzo-giu.dji.nl
 ftp.dji.nl
 intranet.dji.nl
 joy.applicatie-domein.dji.nl

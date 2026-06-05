@@ -95,6 +95,7 @@ ftp-a.ags.dictu.nl
 ftp-p.ags.dictu.nl
 gcms-client-certificaat.dictu.nl
 gisauth-acc.dictu.nl
+gisauth.dictu.nl
 gisextern-acc.dictu.nl
 gisextern.dictu.nl
 gitlab-acc.dictu.nl
@@ -103,6 +104,7 @@ ibabs.dictu.nl
 ibg.datasluis.dictu.nl
 ibg.webftp.dictu.nl
 idp3-acc.dictu.nl
+idp3.auth-acc.dictu.nl
 idppoc-ont.dictu.nl
 idppoc-sp-ont.dictu.nl
 iltbuildserver.dictu.nl
@@ -165,6 +167,7 @@ panter001a.dictu.nl
 panter001b-relay.dictu.nl
 panter001b.dictu.nl
 panter011.dictu.nl
+pdc.dictu.nl
 pianoo-p.dictu.nl
 pianoo-t.dictu.nl
 plato.dictu.nl
