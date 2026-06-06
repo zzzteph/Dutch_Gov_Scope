@@ -14,6 +14,7 @@ issues-acc.eherkenning.nl
 kpn-eid-acc.sso.eherkenning.nl
 kpn-eid-dev.drp.sso.eherkenning.nl
 kpn-eid-dev.sso.eherkenning.nl
+kpn-eid-lab.sso.eherkenning.nl
 kpn-eid-pp.sso.eherkenning.nl
 kpn-eid-tst.sso.eherkenning.nl
 kpn-eid-xacc.sso.eherkenning.nl
