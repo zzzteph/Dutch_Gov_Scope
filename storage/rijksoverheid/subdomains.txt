@@ -4136,6 +4136,7 @@ cawuitwijkfirewall.hdsr.nl
 denw.hdsr.nl
 digikoppeling-test.hdsr.nl
 digikoppeling.hdsr.nl
+e.hdsr.nl
 fme.hdsr.nl
 ftp-hdsr.hdsr.nl
 geoservices.hdsr.nl
@@ -4155,6 +4156,7 @@ waterkwaliteitinbeeld.hdsr.nl
 watermerk.hdsr.nl
 webdiensten.hdsr.nl
 webservices.hdsr.nl
+werkplek-tst.hdsr.nl
 werkplek.hdsr.nl
 wsus.hdsr.nl
 www.hdsr.nl
@@ -4206,6 +4208,7 @@ paragon-acc.hetcak.nl
 paragon-dev.hetcak.nl
 paragon-prd.hetcak.nl
 paragon-tst.hetcak.nl
+personen-api-ont.hetcak.nl
 porta-acc.hetcak.nl
 porta-api-acc.hetcak.nl
 porta-api-tst.hetcak.nl
@@ -4219,6 +4222,7 @@ sip-license.hetcak.nl
 sip1.hetcak.nl
 sip2.hetcak.nl
 sippoc.hetcak.nl
+testnzb4jauzpswkly8e.hetcak.nl
 timeit-acc.hetcak.nl
 timeit.hetcak.nl
 tunnel.bij.hetcak.nl
@@ -4293,6 +4297,7 @@ teams.hhdelfland.nl
 teamstest.hhdelfland.nl
 telewerken.hhdelfland.nl
 testopendata.hhdelfland.nl
+uag.hhdelfland.nl
 watertoetsportaal-a.hhdelfland.nl
 watertoetsportaal.hhdelfland.nl
 wbp6.hhdelfland.nl
@@ -4310,16 +4315,19 @@ autodiscover.hogeraad.nl
 cexwe1.hogeraad.nl
 desktop.hogeraad.nl
 hogeraad.nl
+icg.hogeraad.nl
 mail.hogeraad.nl
 mijnzaak-acc.hogeraad.nl
 mijnzaak.hogeraad.nl
 mobiel.hogeraad.nl
 postbus-acc.hogeraad.nl
+postbus.hogeraad.nl
 stats.hogeraad.nl
 sts.hogeraad.nl
 sync.hogeraad.nl
 sync2.hogeraad.nl
 ums.hogeraad.nl
+vergader.hogeraad.nl
 wolk.hogeraad.nl
 www-acc.hogeraad.nl
 www.hogeraad.nl
@@ -4354,6 +4362,7 @@ autodiscover.huisvoorklokkenluiders.nl
 huisvoorklokkenluiders.nl
 integriteitswijzer.huisvoorklokkenluiders.nl
 m.huisvoorklokkenluiders.nl
+sip.huisvoorklokkenluiders.nl
 www.huisvoorklokkenluiders.nl
 _autodiscover._tcp.huurcommissie.nl
 aanmelden.huurcommissie.nl
@@ -4428,6 +4437,7 @@ www.opleider.ibki.nl
 www.rdw.seb.ibki.nl
 www.seb.ibki.nl
 www.werkgever.ibki.nl
+acc.icov.nl
 icov.nl
 www.icov.nl
 aaa.ictu.nl
@@ -4510,6 +4520,7 @@ dbbtamta01.dbb-acc.igj.nl
 documentenapplicatie.igj.nl
 english.igj.nl
 eudamed.webservices-dbb-acc.igj.nl
+eudamed.webservices-dbb.igj.nl
 feeds.igj.nl
 igj.nl
 igjportaal.webservices-dbb-acc.igj.nl
@@ -4520,6 +4531,8 @@ lrza.gatservices.acc.igj.nl
 lrza.gatservices.prd.igj.nl
 mijn-acc.igj.nl
 mijn.igj.nl
+mijnigj-dbb-acc.igj.nl
+mijnigj-dbb.igj.nl
 opendata.igj.nl
 sdm.igj.nl
 sip.igj.nl
