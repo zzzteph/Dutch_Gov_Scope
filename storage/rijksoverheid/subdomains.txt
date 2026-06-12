@@ -5694,6 +5694,7 @@ kemp-ebs-a.knaw.nl
 kemp-ebs-c.knaw.nl
 kemp-ebs-o.knaw.nl
 kemp-maximizer.knaw.nl
+kemp-nagios.knaw.nl
 kemp-owa.knaw.nl
 kemp-plone.knaw.nl
 kemp-protime.knaw.nl
@@ -5732,7 +5733,10 @@ logo.huygens.knaw.nl
 m365-to-timetell.huc.knaw.nl
 m365.knaw.nl
 macd1.meertens.knaw.nl
+macd2.meertens.knaw.nl
+macd3.meertens.knaw.nl
 macd5.meertens.knaw.nl
+macd6.meertens.knaw.nl
 macgw100.meertens.knaw.nl
 macgw101.meertens.knaw.nl
 macgw102.meertens.knaw.nl
@@ -5760,6 +5764,7 @@ macgw123.meertens.knaw.nl
 macgw124.meertens.knaw.nl
 macgw125.meertens.knaw.nl
 macgw126.meertens.knaw.nl
+macgw67.meertens.knaw.nl
 macgw68.meertens.knaw.nl
 macgw69.meertens.knaw.nl
 macgw70.meertens.knaw.nl
@@ -5915,6 +5920,8 @@ oorlogsdoc.knaw.nl
 openprojects.dans.knaw.nl
 opensciencemeeting2014.knaw.nl
 openskos.meertens.knaw.nl
+openvas.test.ib.knaw.nl
+openwebui.test.ib.knaw.nl
 operas.huc.knaw.nl
 opgravingen.huygens.knaw.nl
 oracleapp21.knaw.nl
@@ -6178,6 +6185,7 @@ phpmyadmin.wordpress.dans.knaw.nl
 pland.meertens.knaw.nl
 planning.jauco.playground.di.huc.knaw.nl
 podium.knaw.nl
+portainer.test.ib.knaw.nl
 portal.knaw.nl
 portal.sciencefunds.knaw.nl
 portus-acc.knaw.nl
@@ -6373,6 +6381,7 @@ tfm63.dans.knaw.nl
 thesaurus.globalise.huygens.knaw.nl
 tiler01.huygensinstituut.knaw.nl
 tileserver.huc.knaw.nl
+timbuctoo-prod.red.huygens.knaw.nl
 timbuctoo-repo-prod.red.huygens.knaw.nl
 timeline.zandbak.dans.knaw.nl
 timetell-test.knaw.nl
@@ -6519,16 +6528,20 @@ www.intranet.knaw.nl
 www.knaw.nl
 www.koninkrijk1813.huygens.knaw.nl
 www.literaryquality.huygens.knaw.nl
+www.maximizer.rathenau.knaw.nl
 www.meertens.knaw.nl
 www.monarchy-in-turmoil.huygens.knaw.nl
 www.nias.knaw.nl
 www.nin.knaw.nl
 www.nioo.knaw.nl
 www.oroc.knaw.nl
+www.podium.knaw.nl
 www.promise.nioo.knaw.nl
 www.rooswijk.huygens.knaw.nl
+www.scope.nin.knaw.nl
 www.soilpros.nioo.knaw.nl
 www.staging.huygens.knaw.nl
+www.travellingtexts.huygens.knaw.nl
 www.verwer.nin.knaw.nl
 www.waleweinendekeye.huygens.knaw.nl
 www.wateropdekaart.nioo.knaw.nl
@@ -6595,6 +6608,7 @@ daggegevens.knmi.nl
 damg.knmi.nl
 data-seismo-dev.knmi.nl
 data.knmi.nl
+data.spaceweather.knmi.nl
 datalab.knmi.nl
 dataplatform.knmi.nl
 dataverkenner.knmi.nl
