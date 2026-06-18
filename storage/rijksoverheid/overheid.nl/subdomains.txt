@@ -190,6 +190,7 @@ dns1.overheid.nl
 dns2.overheid.nl
 doculoket-acc.overheid.nl
 doculoket.overheid.nl
+dpe-systemteam.overheid.nl
 drop-api-acc-poc.overheid.nl
 drop-api-preprd-poc.overheid.nl
 drop-api-preprd.overheid.nl
@@ -245,6 +246,10 @@ gegevensdelen.tst8.mijn.overheid.nl
 identifier-acc.overheid.nl
 identifier-preprod.overheid.nl
 identifier.overheid.nl
+identifierservice-acc.overheid.nl
+identifierservice-eto.overheid.nl
+identifierservice-tst.overheid.nl
+identifierservice.overheid.nl
 iknowcimow.acc.omgevingswet.overheid.nl
 iknowcimow.omgevingswet.overheid.nl
 iknowcimow.tst.omgevingswet.overheid.nl
@@ -274,6 +279,9 @@ kwaliteitstool.koop.overheid.nl
 kwest.overheid.nl
 linkeddata.overheid.nl
 linkextractor.overheid.nl
+logoservice-svc-acc.overheid.nl
+logoservice-svc-eto.overheid.nl
+logoservice-svc-tst.overheid.nl
 lokaleregelgeving-acc.overheid.nl
 lokaleregelgeving-eto.overheid.nl
 lokaleregelgeving.overheid.nl
@@ -521,6 +529,7 @@ tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
+validatieservice-tst.overheid.nl
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
 verkeersbesluiten-acc.overheid.nl
