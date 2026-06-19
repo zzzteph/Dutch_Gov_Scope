@@ -53,6 +53,7 @@ berichten.rdw.nl
 beslagleggen.rdw.nl
 besluitontheffingendienst.rdw.nl
 bestand-diensten.rdw.nl
+bezwaar.vwh.rdw.nl
 bezwaarindienen.rdw.nl
 blazorcomponents.rdw.nl
 blazorwebapptemplate.rdw.nl
@@ -150,6 +151,7 @@ ebms-gw-we.azr.cld.int.rdw.nl
 ebms-gw-we.cld.int.rdw.nl
 ecoc.rdw.nl
 ecocproxy.rdw.nl
+edd.rdw.nl
 edsclient.rdw.nl
 edsdiensten.rdw.nl
 edsorderhub-ne.rdw.nl
@@ -264,6 +266,7 @@ mx1.rdw.nl
 mx2.rdw.nl
 nationaalparkeerregister.rdw.nl
 nav.rdw.nl
+novi.rdw.nl
 nprauthenticatiebeheer.rdw.nl
 nprbeheer.rdw.nl
 nprexploitantstub.rdw.nl
@@ -296,6 +299,7 @@ ontheffingaanvragen.rdw.nl
 ontheffingzero-emissieaanvragen.rdw.nl
 opdrachttottenaamstelling.rdw.nl
 opendata.rdw.nl
+opvragendigitaalcvo.rdw.nl
 orb.rdw.nl
 orders.rdw.nl
 orv.rdw.nl
@@ -497,6 +501,7 @@ vin.rdw.nl
 visyr.rdw.nl
 vld.rdw.nl
 vldbeheer.rdw.nl
+vldcertificaatcontroleren.rdw.nl
 vldraadpleging.rdw.nl
 vliegbewijsonbemandeluchtvaartuigencontroleren.rdw.nl
 voertuigenopnaamtot9jaarterug.rdw.nl
@@ -535,6 +540,7 @@ webxs.rdw.nl
 wifdemo.rdw.nl
 winframeinsights.rdw.nl
 wireless-guest.rdw.nl
+wom.rdw.nl
 workfolder.rdw.nl
 workfolders.rdw.nl
 ws-acc.rdw.nl
