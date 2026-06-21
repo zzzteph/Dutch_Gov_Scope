@@ -52,6 +52,7 @@ acceptatie.werkenbij.rws.nl
 acceptatie2.spin.rws.nl
 activemq-admin.incoming.test.vm-04.azure.grid.rws.nl
 ad.rws.nl
+adaguc.vm-05.azure.grid.rws.nl
 admin.rws.nl
 admin.test-rabbitmq.test.vm-04.azure.grid.rws.nl
 aia.pki.rws.nl
@@ -539,10 +540,13 @@ oxygen.vm-02.azure.grid.rws.nl
 perszaken.rws.nl
 pgadmin.vm-02.azure.grid.rws.nl
 phpmyadmin-test.vm-02.azure.grid.rws.nl
+poc-ort-foundry.rws-ort.azure.grid.rws.nl
 poc-werkplek.rws.nl
 port-enc.rws.nl
 procedures-api.vm-05.azure.grid.rws.nl
 procedures-ui.vm-05.azure.grid.rws.nl
+prod-fcd-bemobile-aid-triggers.rws.nl
+prod-fcd-bemobile-trajectorien.rws.nl
 programmaplan-admin.vm-02.azure.grid.rws.nl
 programmaplan-test.vm-02.azure.grid.rws.nl
 programmaplan.vm-02.azure.grid.rws.nl
@@ -588,6 +592,7 @@ rws.nl
 rwskennisplatform.rws.nl
 rwsos.rws.nl
 samenwerken.rws.nl
+samenwerkenv2.rws.nl
 saml-wikixl.rws.nl
 saml.rwskennisplatform.rws.nl
 samp.rws.nl

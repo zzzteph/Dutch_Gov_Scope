@@ -74,6 +74,7 @@ acceptatie.webservice.sniv.osiris.rivm.nl
 acceptatie.webservice.soap.osiris.rivm.nl
 acceptatie.wreg.rivm.nl
 acceptatie.zwemwater.osiris.rivm.nl
+admin.vragenlijst.rivm.nl
 aerius-sftp.rivm.nl
 agstat.rivm.nl
 aiz.osiris.new.rivm.nl
