@@ -7,6 +7,8 @@ acc-bergerselect.rws.nl
 acc-ctd-mapviewer.rws.nl
 acc-ddapi-wkp.rws.nl
 acc-deformatieviewer.rws.nl
+acc-fcd-bemobile-aid-triggers.rws.nl
+acc-fcd-bemobile-trajectorien.rws.nl
 acc-gbvi.rws.nl
 acc-gbviapi.rws.nl
 acc-geo.rws.nl
@@ -285,6 +287,7 @@ matroos.rws.nl
 mbaks007.rws-a5-t.azure.gridtst.rws.nl
 meetgegevens.test.vm-05.azure.grid.rws.nl
 meridian.rws.nl
+meteo-data-ogcapi-maps.vm-05.azure.grid.rws.nl
 mimir.test.vm-05.azure.grid.rws.nl
 minio-console.acceptatie.vm-05.azure.grid.rws.nl
 minio-console.test.vm-05.azure.grid.rws.nl
