@@ -1,4 +1,8 @@
+acc.zorgcijfersdatabank.nl
+dev.zorgcijfersdatabank.nl
+prod.zorgcijfersdatabank.nl
 proto.zorgcijfersdatabank.nl
+tst.zorgcijfersdatabank.nl
 www-ac.zorgcijfersdatabank.nl
 www-acc.zorgcijfersdatabank.nl
 www-acc2.zorgcijfersdatabank.nl
