@@ -134,6 +134,7 @@ msg.services.acm.nl
 nieuw.acm.nl
 portal.connect.acm.nl
 portal.dev.connect.acm.nl
+prd.connect.acm.nl
 probeer.acm.nl
 proxy.connect.acm.nl
 proxy.dev.connect.acm.nl
@@ -146,6 +147,7 @@ sentry.services.acm.nl
 sentry1.acm.nl
 services.acm.nl
 test.gegevensmagazijn.acm.nl
+tst.connect.acm.nl
 ucs.acm.nl
 ucs.services.acm.nl
 vpn.acm.nl
