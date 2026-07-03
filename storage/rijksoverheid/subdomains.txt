@@ -1733,6 +1733,7 @@ antwoord.cbs.nl
 api.fsc.cbs.nl
 apisimplex.cbs.nl
 argon2.cbs.nl
+auth.acceptatie.cbs.nl
 autodiscover.cbs.nl
 azwstatline.cbs.nl
 beeldbank-beheer.cbs.nl
@@ -1898,6 +1899,7 @@ test-ccb.cbs.nl
 test.cbs.nl
 test.cerberus.cbs.nl
 test.ebms.cbs.nl
+test.gecko.cbs.nl
 test.status.cbs.nl
 topdeskit-t4.cbs.nl
 tunnel.cbs.nl
@@ -1931,6 +1933,7 @@ zoomews.cbs.nl
 ccmo.nl
 english.ccmo.nl
 ncp-api-1.ccmo.nl
+ncp-services.ccmo.nl
 sip.ccmo.nl
 toetsingonline.ccmo.nl
 www.ccmo.nl
@@ -2106,6 +2109,7 @@ ftgw.cjib.nl
 lyncdiscover.cjib.nl
 mail.cjib.nl
 mijn-acc.cjib.nl
+mijn-zakelijk-acc.cjib.nl
 mijn.cjib.nl
 open.cjib.nl
 pay-acc.cjib.nl
@@ -2148,10 +2152,15 @@ acceptatie-api.coa.nl
 acceptatie-identity.coa.nl
 api.coa.nl
 autodiscover.coa.nl
+bemsnotif.coa.nl
+bemsnotifpp.coa.nl
 cgbs.coa.nl
 coa.nl
 condor.coa.nl
 dialin.coa.nl
+esb-gateway-acc.coa.nl
+esb-gateway-tst.coa.nl
+esb-gateway.coa.nl
 facturatie-acc.coa.nl
 facturatie.coa.nl
 gp-infra.coa.nl

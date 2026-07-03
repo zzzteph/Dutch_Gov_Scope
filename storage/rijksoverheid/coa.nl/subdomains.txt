@@ -5,10 +5,15 @@ acceptatie-api.coa.nl
 acceptatie-identity.coa.nl
 api.coa.nl
 autodiscover.coa.nl
+bemsnotif.coa.nl
+bemsnotifpp.coa.nl
 cgbs.coa.nl
 coa.nl
 condor.coa.nl
 dialin.coa.nl
+esb-gateway-acc.coa.nl
+esb-gateway-tst.coa.nl
+esb-gateway.coa.nl
 facturatie-acc.coa.nl
 facturatie.coa.nl
 gp-infra.coa.nl

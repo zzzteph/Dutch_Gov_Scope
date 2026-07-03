@@ -20,6 +20,7 @@ antwoord.cbs.nl
 api.fsc.cbs.nl
 apisimplex.cbs.nl
 argon2.cbs.nl
+auth.acceptatie.cbs.nl
 autodiscover.cbs.nl
 azwstatline.cbs.nl
 beeldbank-beheer.cbs.nl
@@ -185,6 +186,7 @@ test-ccb.cbs.nl
 test.cbs.nl
 test.cerberus.cbs.nl
 test.ebms.cbs.nl
+test.gecko.cbs.nl
 test.status.cbs.nl
 topdeskit-t4.cbs.nl
 tunnel.cbs.nl
