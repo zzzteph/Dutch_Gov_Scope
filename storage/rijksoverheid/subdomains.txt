@@ -3015,6 +3015,7 @@ pp.api.machtigen.digid.nl
 pp.balieportaal.digid.nl
 pp.helpdesk.machtigen.digid.nl
 pp.machtigen.digid.nl
+pp.pbs.machtigen.digid.nl
 pp1.machtigen.digid.nl
 preprod1.digid.nl
 preprod2.digid.nl
@@ -3447,6 +3448,7 @@ eenoverheidsincasso.nl
 www.eenoverheidsincasso.nl
 acc.eentegeneenzaamheid.nl
 eentegeneenzaamheid.nl
+postergenerator.eentegeneenzaamheid.nl
 www.eentegeneenzaamheid.nl
 eersteenthuis.nl
 www.eersteenthuis.nl
