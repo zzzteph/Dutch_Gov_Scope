@@ -3489,6 +3489,7 @@ signicat-qa.sso.eherkenning.nl
 signicat-staging.sso.eherkenning.nl
 signicat.sso.eherkenning.nl
 test-dictu.eherkenning.nl
+test-simptelservices.sso.eherkenning.nl
 wiki-acc.eherkenning.nl
 www.eherkenning.nl
 eigenkracht.nl
@@ -3654,6 +3655,9 @@ expertisecentrummggz.nl
 www.expertisecentrummggz.nl
 faculteitmilitairewetenschappen.nl
 www.faculteitmilitairewetenschappen.nl
+acc-api.farmacotherapeutischkompas.nl
+acc.farmacotherapeutischkompas.nl
+api.farmacotherapeutischkompas.nl
 cms-ac.farmacotherapeutischkompas.nl
 cms-acc.farmacotherapeutischkompas.nl
 cms-dev.farmacotherapeutischkompas.nl
@@ -3662,8 +3666,17 @@ cms-p.farmacotherapeutischkompas.nl
 cms-ts.farmacotherapeutischkompas.nl
 cms-tst.farmacotherapeutischkompas.nl
 cms.farmacotherapeutischkompas.nl
+cmsacc.farmacotherapeutischkompas.nl
+cmsdev.farmacotherapeutischkompas.nl
+cmstst.farmacotherapeutischkompas.nl
+dev-api.farmacotherapeutischkompas.nl
+dev.farmacotherapeutischkompas.nl
 farmacotherapeutischkompas.nl
+prod.farmacotherapeutischkompas.nl
+prodcms.farmacotherapeutischkompas.nl
 proto.farmacotherapeutischkompas.nl
+tst-api.farmacotherapeutischkompas.nl
+tst.farmacotherapeutischkompas.nl
 www-ac.farmacotherapeutischkompas.nl
 www-acc.farmacotherapeutischkompas.nl
 www-dev.farmacotherapeutischkompas.nl
@@ -3677,9 +3690,12 @@ acceptatie.behandel.hulpmiddelen.farmatec.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.ketenpartner.hulpmiddelen.farmatec.nl
 acceptatie.mijn.hulpmiddelen.farmatec.nl
+behandel.hulpmiddelen.farmatec.nl
 english.farmatec.nl
 farmatec.nl
 hulpmiddelen.farmatec.nl
+ketenpartner.hulpmiddelen.farmatec.nl
+mijn.hulpmiddelen.farmatec.nl
 www.farmatec.nl
 acc.farmingthefuture.nl
 cpanel.farmingthefuture.nl
@@ -3721,6 +3737,7 @@ feedfoodtransfer.nl
 github.apps.feedfoodtransfer.nl
 ndlpcb-hen.apps.feedfoodtransfer.nl
 pfos-pfoa-cow.apps.feedfoodtransfer.nl
+wildcard.apps.acceptatie.feedfoodtransfer.nl
 wildcard.apps.feedfoodtransfer.nl
 www.feedfoodtransfer.nl
 financiengemeenten.nl

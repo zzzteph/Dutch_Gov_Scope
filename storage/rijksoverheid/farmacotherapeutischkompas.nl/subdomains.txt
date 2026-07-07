@@ -1,3 +1,6 @@
+acc-api.farmacotherapeutischkompas.nl
+acc.farmacotherapeutischkompas.nl
+api.farmacotherapeutischkompas.nl
 cms-ac.farmacotherapeutischkompas.nl
 cms-acc.farmacotherapeutischkompas.nl
 cms-dev.farmacotherapeutischkompas.nl
@@ -6,8 +9,17 @@ cms-p.farmacotherapeutischkompas.nl
 cms-ts.farmacotherapeutischkompas.nl
 cms-tst.farmacotherapeutischkompas.nl
 cms.farmacotherapeutischkompas.nl
+cmsacc.farmacotherapeutischkompas.nl
+cmsdev.farmacotherapeutischkompas.nl
+cmstst.farmacotherapeutischkompas.nl
+dev-api.farmacotherapeutischkompas.nl
+dev.farmacotherapeutischkompas.nl
 farmacotherapeutischkompas.nl
+prod.farmacotherapeutischkompas.nl
+prodcms.farmacotherapeutischkompas.nl
 proto.farmacotherapeutischkompas.nl
+tst-api.farmacotherapeutischkompas.nl
+tst.farmacotherapeutischkompas.nl
 www-ac.farmacotherapeutischkompas.nl
 www-acc.farmacotherapeutischkompas.nl
 www-dev.farmacotherapeutischkompas.nl
