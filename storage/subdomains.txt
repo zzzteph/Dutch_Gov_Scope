@@ -4249,6 +4249,7 @@ paragon-tst.hetcak.nl
 personen-api-ont.hetcak.nl
 porta-acc.hetcak.nl
 porta-api-acc.hetcak.nl
+porta-api-ont.hetcak.nl
 porta-api-tst.hetcak.nl
 porta-api.hetcak.nl
 porta-ont.hetcak.nl
@@ -4364,6 +4365,7 @@ stats.hogeraad.nl
 sts.hogeraad.nl
 sync.hogeraad.nl
 sync2.hogeraad.nl
+szc.hogeraad.nl
 ums.hogeraad.nl
 vergader.hogeraad.nl
 wolk.hogeraad.nl
@@ -4373,8 +4375,12 @@ feeds.hogeraadvanadel.nl
 hogeraadvanadel.nl
 opendata.hogeraadvanadel.nl
 www.hogeraadvanadel.nl
+acc.horizonscangeneesmiddelen.nl
+dev.horizonscangeneesmiddelen.nl
 horizonscangeneesmiddelen.nl
+prod.horizonscangeneesmiddelen.nl
 proto.horizonscangeneesmiddelen.nl
+tst.horizonscangeneesmiddelen.nl
 www-ac.horizonscangeneesmiddelen.nl
 www-acc.horizonscangeneesmiddelen.nl
 www-acc2.horizonscangeneesmiddelen.nl
@@ -4487,6 +4493,7 @@ accept.web.nmp.ictu.nl
 acceptatie.ictu.nl
 afas.ictu.nl
 autodiscover.ictu.nl
+clicks.ictu.nl
 enterpriseregistration.ictu.nl
 hybrid.ictu.nl
 ictu.nl

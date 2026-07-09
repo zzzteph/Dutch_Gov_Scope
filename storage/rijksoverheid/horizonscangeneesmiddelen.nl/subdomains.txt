@@ -1,5 +1,9 @@
+acc.horizonscangeneesmiddelen.nl
+dev.horizonscangeneesmiddelen.nl
 horizonscangeneesmiddelen.nl
+prod.horizonscangeneesmiddelen.nl
 proto.horizonscangeneesmiddelen.nl
+tst.horizonscangeneesmiddelen.nl
 www-ac.horizonscangeneesmiddelen.nl
 www-acc.horizonscangeneesmiddelen.nl
 www-acc2.horizonscangeneesmiddelen.nl
