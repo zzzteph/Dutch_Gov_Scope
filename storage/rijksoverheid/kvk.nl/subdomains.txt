@@ -11,6 +11,7 @@ api.preprod.kvk.nl
 apim01.npo.cloud001.kvk.nl
 apim01.prd.cloud001.kvk.nl
 apim02.npo.cloud001.kvk.nl
+apim02.prd.cloud001.kvk.nl
 apiservices99.kvk.nl
 appdata.kvk.nl
 appstore.kvk.nl
@@ -101,6 +102,10 @@ opendata.kvk.nl
 opendata.preprod.kvk.nl
 osb.kvk.nl
 payt.kvk.nl
+pdc.dev.kvk.nl
+pdc.kvk.nl
+pdc.test.kvk.nl
+pdc.uat.kvk.nl
 pki-g2.kvk.nl
 pr.kvk.nl
 regiodata.kvk.nl
@@ -119,6 +124,7 @@ selector2._domainkey.kvk.nl
 server2.db.kvk.nl
 server4.db.kvk.nl
 sgtm.kvk.nl
+sgtmdop.kvk.nl
 sip2.kvk.nl
 smtp.kvk.nl
 solliciteer-direct.kvk.nl

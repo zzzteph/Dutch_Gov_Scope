@@ -5366,7 +5366,9 @@ adminpure.knaw.nl
 adpqlikview.knaw.nl
 af.huygens.knaw.nl
 ai-similia.labs.dans.knaw.nl
+ai-tool-a.ib.knaw.nl
 ai-tool-a.test.ib.knaw.nl
+ai-tool-b.ib.knaw.nl
 ai-tool-b.test.ib.knaw.nl
 ai.nioo.knaw.nl
 ai.test.nioo.knaw.nl
@@ -5505,6 +5507,8 @@ communicatie.niod.knaw.nl
 correspondentie-bolland-en-cosijn.huygens.knaw.nl
 cpd.bureau.knaw.nl
 csflab.nin.knaw.nl
+cve.test.ib.knaw.nl
+cvss.test.ib.knaw.nl
 da.dans.knaw.nl
 dans.idp.knaw.nl
 dans.knaw.nl
@@ -5616,6 +5620,7 @@ flow.labs.dans.knaw.nl
 fm61.meertens.knaw.nl
 fm62.meertens.knaw.nl
 fm63.dans.knaw.nl
+fm63.meertens.knaw.nl
 fortuyn.meertens.knaw.nl
 fotoarchief.bureau.knaw.nl
 francodevrije.huygens.knaw.nl
@@ -5857,6 +5862,7 @@ macgw98.meertens.knaw.nl
 macgw99.meertens.knaw.nl
 macu1.meertens.knaw.nl
 macu2.meertens.knaw.nl
+macu37.meertens.knaw.nl
 macu40.meertens.knaw.nl
 mail.nin.knaw.nl
 mailbuddy.test.ib.knaw.nl
@@ -6243,6 +6249,7 @@ phpmyadmin.wordpress.dans.knaw.nl
 pland.meertens.knaw.nl
 planning.jauco.playground.di.huc.knaw.nl
 podium.knaw.nl
+portainer.ib.knaw.nl
 portainer.test.ib.knaw.nl
 portal.knaw.nl
 portal.sciencefunds.knaw.nl
@@ -6323,6 +6330,7 @@ romanvanwalewein.huygens.knaw.nl
 rooswijk.huygens.knaw.nl
 router.meertens.knaw.nl
 rso.test.nioo.knaw.nl
+rss.test.ib.knaw.nl
 rssfeeds.huc.knaw.nl
 s3.knaw.nl
 s3.zandbak.dans.knaw.nl
@@ -6493,6 +6501,7 @@ vgstat11.huygens.knaw.nl
 vgtile11.huygens.knaw.nl
 videoconf.knaw.nl
 videoconf02.knaw.nl
+view.herseninstituut.knaw.nl
 view.nin.knaw.nl
 vocabularies.dans.knaw.nl
 voornamen.meertens.knaw.nl
@@ -6504,6 +6513,7 @@ w22-htp.knaw.nl
 waf.prd01.dans.knaw.nl
 waleweinendekeye.huygens.knaw.nl
 wateropdekaart.nioo.knaw.nl
+wazuh-ib.knaw.nl
 wazuh.ib.knaw.nl
 web.huygens.knaw.nl
 web01.huygens.knaw.nl
@@ -6813,6 +6823,7 @@ api.preprod.kvk.nl
 apim01.npo.cloud001.kvk.nl
 apim01.prd.cloud001.kvk.nl
 apim02.npo.cloud001.kvk.nl
+apim02.prd.cloud001.kvk.nl
 apiservices99.kvk.nl
 appdata.kvk.nl
 appstore.kvk.nl
@@ -6903,6 +6914,10 @@ opendata.kvk.nl
 opendata.preprod.kvk.nl
 osb.kvk.nl
 payt.kvk.nl
+pdc.dev.kvk.nl
+pdc.kvk.nl
+pdc.test.kvk.nl
+pdc.uat.kvk.nl
 pki-g2.kvk.nl
 pr.kvk.nl
 regiodata.kvk.nl
@@ -6921,6 +6936,7 @@ selector2._domainkey.kvk.nl
 server2.db.kvk.nl
 server4.db.kvk.nl
 sgtm.kvk.nl
+sgtmdop.kvk.nl
 sip2.kvk.nl
 smtp.kvk.nl
 solliciteer-direct.kvk.nl
