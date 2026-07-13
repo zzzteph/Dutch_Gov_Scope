@@ -95,6 +95,7 @@ iam-containerplatform.lpc.logius.nl
 idp-dgp.digipoort.logius.nl
 idp-dgp.preproductie.digipoort.logius.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
+intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
 kennisbank.logius.nl
 kibana-prod.lpc.logius.nl
@@ -115,6 +116,7 @@ mijntokenactiveren.logius.nl
 msp-a.logius.nl
 nexus.lpc.logius.nl
 oinregister.logius.nl
+openproject-poc.logius.nl
 pmz-pre.logius.nl
 pmz.logius.nl
 portalen.acceptatie.digipoort.logius.nl

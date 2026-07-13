@@ -7197,6 +7197,7 @@ iam-containerplatform.lpc.logius.nl
 idp-dgp.digipoort.logius.nl
 idp-dgp.preproductie.digipoort.logius.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
+intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
 kennisbank.logius.nl
 kibana-prod.lpc.logius.nl
@@ -7217,6 +7218,7 @@ mijntokenactiveren.logius.nl
 msp-a.logius.nl
 nexus.lpc.logius.nl
 oinregister.logius.nl
+openproject-poc.logius.nl
 pmz-pre.logius.nl
 pmz.logius.nl
 portalen.acceptatie.digipoort.logius.nl
@@ -7267,6 +7269,8 @@ luchtvaartmeteo.nl
 new.luchtvaartmeteo.nl
 nieuw.acc.luchtvaartmeteo.nl
 nieuw.luchtvaartmeteo.nl
+old.acc.luchtvaartmeteo.nl
+old.luchtvaartmeteo.nl
 oud.luchtvaartmeteo.nl
 www.acc.luchtvaartmeteo.nl
 www.luchtvaartmeteo.nl
@@ -7291,9 +7295,11 @@ www.masterplanbasisvaardigheden.nl
 mccg.nl
 www.mccg.nl
 acc.medicijnkosten.nl
+dev.medicijnkosten.nl
 medicijnkosten.nl
 prod.medicijnkosten.nl
 proto.medicijnkosten.nl
+tst.medicijnkosten.nl
 www-ac.medicijnkosten.nl
 www-acc.medicijnkosten.nl
 www-acc2.medicijnkosten.nl
