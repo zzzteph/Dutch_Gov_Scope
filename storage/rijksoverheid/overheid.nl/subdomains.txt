@@ -35,6 +35,8 @@ api-organisaties-acc.overheid.nl
 api-organisaties.overheid.nl
 api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
+api.acc5.mijn.overheid.nl
+api.acc6.mijn.overheid.nl
 api.developer.overheid.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
@@ -309,6 +311,7 @@ mxrelay1.overheid.nl
 mxrelay2.overheid.nl
 natuur.omgevingswet.overheid.nl
 node1.acc.statistiek.mijn.overheid.nl
+npo-systemteam.overheid.nl
 ob.mijn.overheid.nl
 omgevingswet.overheid.nl
 ondernemersplein.overheid.nl
@@ -368,6 +371,7 @@ preview-eto.overheid.nl
 preview.wegwijzer.overheid.nl
 profiel.acc1.mijn.overheid.nl
 profiel.acc2.mijn.overheid.nl
+profiel.acc5.mijn.overheid.nl
 profiel.acc6.mijn.overheid.nl
 profiel.tst1.mijn.overheid.nl
 puc-acc.overheid.nl
@@ -498,6 +502,7 @@ sts.koop.overheid.nl
 stub.demo.mijn.overheid.nl
 stub.mijn.overheid.nl
 stubs.lpc.mijn.overheid.nl
+tco-systemteam.overheid.nl
 technische-documentatie.oep.overheid.nl
 test-energielabels.gebouwen.overheid.nl
 test-internationaal.ondernemen.overheid.nl
