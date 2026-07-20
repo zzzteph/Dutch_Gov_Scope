@@ -10813,6 +10813,7 @@ apps.alma.jvs.ix.rijkscloud.nl
 apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
 auth.jitsi.rijkscloud.nl
+auth.matrix.ix.rijkscloud.nl
 bbapitest.ix.rijkscloud.nl
 blackbox.demo.rijkscloud.nl
 blog.rijkscloud.nl
@@ -10913,6 +10914,7 @@ dvrvb-gui-dev.devops.rvb.rijkscloud.nl
 dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
 eaweb.rvb.rijkscloud.nl
+element.ix.rijkscloud.nl
 elk-sectrans.rijkscloud.nl
 elk.dgdoobi.rijkscloud.nl
 elkdmz1.ec.rijkscloud.nl
@@ -11144,8 +11146,10 @@ loadtest.test.rijkscloud.nl
 login-a.rvb.rijkscloud.nl
 login-net.rvb.rijkscloud.nl
 login-oms-a.rvb.rijkscloud.nl
+login-oms-a3.rvb.rijkscloud.nl
 login-oms.rvb.rijkscloud.nl
 login-planon-a.rvb.rijkscloud.nl
+login-planon-a3.rvb.rijkscloud.nl
 login-planon.rvb.rijkscloud.nl
 login.rvb.rijkscloud.nl
 mail.gn2.rijkscloud.nl
@@ -11163,6 +11167,8 @@ matrix.rijkscloud.nl
 matter.minaz.rijkscloud.nl
 mattermost.tst.ix.rijkscloud.nl
 meet.rijkscloud.nl
+metadata-app.dev.dgdoobi.rijkscloud.nl
+metadata-app.dgdoobi.rijkscloud.nl
 minio.datafabriek.ienw.rijkscloud.nl
 minio.dev-datafabriek.ienw.rijkscloud.nl
 minio.dev.fib.ienw.rijkscloud.nl
@@ -11237,6 +11243,7 @@ objectse.gn3.rijkscloud.nl
 odc-noord.rijkscloud.nl
 odcn-sar.rijkscloud.nl
 oms-a.rvb.rijkscloud.nl
+oms-a3.rvb.rijkscloud.nl
 oms-e.rvb.rijkscloud.nl
 oms-o.rvb.rijkscloud.nl
 oms-t.rvb.rijkscloud.nl
@@ -11373,6 +11380,7 @@ rmq1.oai.rijkscloud.nl
 rmq1.ocw.rijkscloud.nl
 rob-2000.rijkscloud.nl
 rob2000.rijkscloud.nl
+robb.rvb.rijkscloud.nl
 robxp.rapportage.rijkscloud.nl
 rstudio-almalinux.dgdoobi.rijkscloud.nl
 rstudio.abibzk.rijkscloud.nl
