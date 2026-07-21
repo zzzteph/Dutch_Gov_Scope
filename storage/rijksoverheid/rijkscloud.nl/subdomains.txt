@@ -738,6 +738,7 @@ superset.dev.fib.ienw.rijkscloud.nl
 superset.dgdoobi.rijkscloud.nl
 synapse.rijkscloud.nl
 tenantapp.ec.rijkscloud.nl
+test.ix.rijkscloud.nl
 test.rapportage.rijkscloud.nl
 test.th.rijkscloud.nl
 test.thms.rijkscloud.nl
@@ -775,6 +776,7 @@ vpn03.ec.rijkscloud.nl
 vpn04.ec.rijkscloud.nl
 vpn1.ec.rijkscloud.nl
 vpn2.ec.rijkscloud.nl
+vscode-ivho-01.ocw-poc.rijkscloud.nl
 vscode.analyse.ilt.rijkscloud.nl
 vscode.idlab.ilt.rijkscloud.nl
 vscode.ix.rijkscloud.nl

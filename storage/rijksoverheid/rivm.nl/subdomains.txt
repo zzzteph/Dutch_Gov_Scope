@@ -84,7 +84,10 @@ apex-cmm.rivm.nl
 api-samenmeten.rivm.nl
 api.acc-lsp.rivm.nl
 api.acc-seqdb.rivm.nl
+api.casedb.lsp-acc.rivm.nl
 api.casedb.lsp-dev.rivm.nl
+api.casedb.lsp-tst.rivm.nl
+api.casedb.lsp.rivm.nl
 api.dev-lsp.rivm.nl
 api.rivm.nl
 api.tst-lsp.rivm.nl
@@ -104,6 +107,8 @@ calpro.bori.rivm.nl
 campus-t.rivm.nl
 caontb.rivm.nl
 casedb.lsp-dev.rivm.nl
+casedb.lsp-tst.rivm.nl
+casedb.lsp.rivm.nl
 ccc-appgw-test1.rivm.nl
 cdif.osiris.rivm.nl
 ceses.osiris.rivm.nl
@@ -123,6 +128,7 @@ cstm.rivm.nl
 dashview.rivm.nl
 data-acc.rivm.nl
 data.rivm.nl
+datacatalogus.rivm.nl
 datavisualisatie.rivm.nl
 demo.pb-pk.rivm.nl
 dev-lsp.rivm.nl
@@ -143,6 +149,7 @@ duvo-web-api.rivm.nl
 dwo.rivm.nl
 earss.rivm.nl
 ecdis.osiris.rivm.nl
+eic.rivm.nl
 enquete.rivm.nl
 erin.vragenlijst.rivm.nl
 eurgen-net.rivm.nl
@@ -204,6 +211,8 @@ lkvis.rivm.nl
 lml.rivm.nl
 lmm.rivm.nl
 loculus.app.lsp-dev.rivm.nl
+loculus.app.lsp-tst.rivm.nl
+loculus.app.lsp.rivm.nl
 login.rivm.nl
 longcovid.rivm.nl
 lsocit.rivm.nl
@@ -267,6 +276,7 @@ password.osiris.rivm.nl
 password.rivm.nl
 philotes.rivm.nl
 pilot-vcpapp.rivm.nl
+portaal.rivm.nl
 portie-online.rivm.nl
 prd-agstat.rivm.nl
 pre-login.rivm.nl

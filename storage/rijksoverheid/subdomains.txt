@@ -11521,6 +11521,7 @@ superset.dev.fib.ienw.rijkscloud.nl
 superset.dgdoobi.rijkscloud.nl
 synapse.rijkscloud.nl
 tenantapp.ec.rijkscloud.nl
+test.ix.rijkscloud.nl
 test.rapportage.rijkscloud.nl
 test.th.rijkscloud.nl
 test.thms.rijkscloud.nl
@@ -11558,6 +11559,7 @@ vpn03.ec.rijkscloud.nl
 vpn04.ec.rijkscloud.nl
 vpn1.ec.rijkscloud.nl
 vpn2.ec.rijkscloud.nl
+vscode-ivho-01.ocw-poc.rijkscloud.nl
 vscode.analyse.ilt.rijkscloud.nl
 vscode.idlab.ilt.rijkscloud.nl
 vscode.ix.rijkscloud.nl
@@ -11757,6 +11759,7 @@ ags.rijkswaterstaat.nl
 alliant.rijkswaterstaat.nl
 am.rijkswaterstaat.nl
 bathymetrie.rijkswaterstaat.nl
+beeldarchief.rijkswaterstaat.nl
 bezoekerscentrum.rijkswaterstaat.nl
 bmm.rijkswaterstaat.nl
 bmm2016.rijkswaterstaat.nl
@@ -11848,6 +11851,7 @@ techniekacademie.rijkswaterstaat.nl
 test.bezoekerscentrum.rijkswaterstaat.nl
 test.botova.rijkswaterstaat.nl
 test.esb.rijkswaterstaat.nl
+test.spin.rijkswaterstaat.nl
 test.spin2.rijkswaterstaat.nl
 test.tws-esb.rijkswaterstaat.nl
 tmxweb.rijkswaterstaat.nl
@@ -11986,7 +11990,10 @@ apex-cmm.rivm.nl
 api-samenmeten.rivm.nl
 api.acc-lsp.rivm.nl
 api.acc-seqdb.rivm.nl
+api.casedb.lsp-acc.rivm.nl
 api.casedb.lsp-dev.rivm.nl
+api.casedb.lsp-tst.rivm.nl
+api.casedb.lsp.rivm.nl
 api.dev-lsp.rivm.nl
 api.rivm.nl
 api.tst-lsp.rivm.nl
@@ -12006,6 +12013,8 @@ calpro.bori.rivm.nl
 campus-t.rivm.nl
 caontb.rivm.nl
 casedb.lsp-dev.rivm.nl
+casedb.lsp-tst.rivm.nl
+casedb.lsp.rivm.nl
 ccc-appgw-test1.rivm.nl
 cdif.osiris.rivm.nl
 ceses.osiris.rivm.nl
@@ -12025,6 +12034,7 @@ cstm.rivm.nl
 dashview.rivm.nl
 data-acc.rivm.nl
 data.rivm.nl
+datacatalogus.rivm.nl
 datavisualisatie.rivm.nl
 demo.pb-pk.rivm.nl
 dev-lsp.rivm.nl
@@ -12045,6 +12055,7 @@ duvo-web-api.rivm.nl
 dwo.rivm.nl
 earss.rivm.nl
 ecdis.osiris.rivm.nl
+eic.rivm.nl
 enquete.rivm.nl
 erin.vragenlijst.rivm.nl
 eurgen-net.rivm.nl
@@ -12106,6 +12117,8 @@ lkvis.rivm.nl
 lml.rivm.nl
 lmm.rivm.nl
 loculus.app.lsp-dev.rivm.nl
+loculus.app.lsp-tst.rivm.nl
+loculus.app.lsp.rivm.nl
 login.rivm.nl
 longcovid.rivm.nl
 lsocit.rivm.nl
@@ -12169,6 +12182,7 @@ password.osiris.rivm.nl
 password.rivm.nl
 philotes.rivm.nl
 pilot-vcpapp.rivm.nl
+portaal.rivm.nl
 portie-online.rivm.nl
 prd-agstat.rivm.nl
 pre-login.rivm.nl
@@ -12449,6 +12463,7 @@ bgt-client-certificaat-acc.rvo.nl
 bgt-client-certificaat.rvo.nl
 bo-prod.mijnoctrooi.rvo.nl
 bob.rvo.nl
+bpa-s.rvo.nl
 bpa.rvo.nl
 ciam.rvo.nl
 clacc-mijn.rvo.nl
@@ -12462,6 +12477,7 @@ cms.werkenbij.rvo.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
 crowdtech.rvo.nl
+cta-s.rvo.nl
 cta.rvo.nl
 d7.rvo.nl
 data.rvo.nl
@@ -12476,6 +12492,9 @@ e.garanties.rvo.nl
 e.rvo.nl
 economicdiplomacy.rvo.nl
 edicrop-acc.rvo.nl
+edicrop-p-acc.rvo.nl
+edicrop-p.rvo.nl
+edicrop-s.rvo.nl
 edicrop.rvo.nl
 edu-iam.mijnoctrooi.mypage.rvo.nl
 edu-mijnoctrooi.rvo.nl
@@ -12556,6 +12575,7 @@ mp.rvo.nl
 mypage.rvo.nl
 nieuws.rvo.nl
 offshorewind.rvo.nl
+ojb-s.rvo.nl
 ojb.rvo.nl
 ont-mijn.rvo.nl
 ot-vgvhr-wv-ar.rvo.nl
@@ -12681,6 +12701,7 @@ bb-wbtv-acc.rvr.org
 bb-wbtv.rvr.org
 bb-wrb-acc.rvr.org
 bb-wrb.rvr.org
+beleidswijzer.rvr.org
 bopzterug.rvr.org
 bopzuit.rvr.org
 broker.rvr.org

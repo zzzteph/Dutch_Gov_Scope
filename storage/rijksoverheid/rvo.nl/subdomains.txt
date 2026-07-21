@@ -54,6 +54,7 @@ bgt-client-certificaat-acc.rvo.nl
 bgt-client-certificaat.rvo.nl
 bo-prod.mijnoctrooi.rvo.nl
 bob.rvo.nl
+bpa-s.rvo.nl
 bpa.rvo.nl
 ciam.rvo.nl
 clacc-mijn.rvo.nl
@@ -67,6 +68,7 @@ cms.werkenbij.rvo.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
 crowdtech.rvo.nl
+cta-s.rvo.nl
 cta.rvo.nl
 d7.rvo.nl
 data.rvo.nl
@@ -81,6 +83,9 @@ e.garanties.rvo.nl
 e.rvo.nl
 economicdiplomacy.rvo.nl
 edicrop-acc.rvo.nl
+edicrop-p-acc.rvo.nl
+edicrop-p.rvo.nl
+edicrop-s.rvo.nl
 edicrop.rvo.nl
 edu-iam.mijnoctrooi.mypage.rvo.nl
 edu-mijnoctrooi.rvo.nl
@@ -166,6 +171,7 @@ mp.rvo.nl
 mypage.rvo.nl
 nieuws.rvo.nl
 offshorewind.rvo.nl
+ojb-s.rvo.nl
 ojb.rvo.nl
 ont-mijn.rvo.nl
 ot-vgvhr-wv-ar.rvo.nl

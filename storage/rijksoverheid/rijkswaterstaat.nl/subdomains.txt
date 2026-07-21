@@ -23,6 +23,7 @@ ags.rijkswaterstaat.nl
 alliant.rijkswaterstaat.nl
 am.rijkswaterstaat.nl
 bathymetrie.rijkswaterstaat.nl
+beeldarchief.rijkswaterstaat.nl
 bezoekerscentrum.rijkswaterstaat.nl
 bmm.rijkswaterstaat.nl
 bmm2016.rijkswaterstaat.nl
@@ -114,6 +115,7 @@ techniekacademie.rijkswaterstaat.nl
 test.bezoekerscentrum.rijkswaterstaat.nl
 test.botova.rijkswaterstaat.nl
 test.esb.rijkswaterstaat.nl
+test.spin.rijkswaterstaat.nl
 test.spin2.rijkswaterstaat.nl
 test.tws-esb.rijkswaterstaat.nl
 tmxweb.rijkswaterstaat.nl
