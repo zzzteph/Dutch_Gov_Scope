@@ -12532,6 +12532,7 @@ geocontent.rvo.nl
 geoservices.rvo.nl
 gpa-tvs4-prod.rvo.nl
 gtpa-acc.rvo.nl
+gtpa-s-acc.rvo.nl
 gtpa.rvo.nl
 handelsmissies.rvo.nl
 iam.mijnoctrooi.mypage.rvo.nl
@@ -13908,6 +13909,7 @@ acceptatie.sportenbewegenincijfers.nl
 sportenbewegenincijfers.nl
 www.sportenbewegenincijfers.nl
 _dmarc.ssc-ict.nl
+ai-geletterdheid.ssc-ict.nl
 chat-acc.servicedesk.ssc-ict.nl
 chat.servicedesk.ssc-ict.nl
 dc.ssc-ict.nl
