@@ -16335,6 +16335,7 @@ ftp-voorziening.uwv.nl
 gebruikersonderzoek.uwv.nl
 hrc.ba.uwv.nl
 id2sp-a.uwv.nl
+identitybroker-pp.uwv.nl
 include-eafspraak-acceptatie.ba.uwv.nl
 include-eafspraak.ba.uwv.nl
 inspiratie.uwv.nl
@@ -16388,6 +16389,7 @@ signalr-eafspraak-acceptatie.ba.uwv.nl
 signalr-eafspraak.ba.uwv.nl
 spiegel-accept.ba.uwv.nl
 stakeholderwatch.uwv.nl
+summitonline-acceptatie.uwv.nl
 tag.uwv.nl
 tag2.uwv.nl
 ti.uwv.nl
@@ -16412,11 +16414,14 @@ webservices-acc.uwv.nl
 werkbedrijfvandetoekomst.uwv.nl
 werkgeversportaal-a.uwv.nl
 werkgeversportaal.uwv.nl
+wildcard.onderzoek.uwv.nl
 wis-accept.uwv.nl
+wis-prod.uwv.nl
 ws-voorziening.uwv.nl
 www-a.uwv.nl
 www.reintegratieverslag.uwv.nl
 www.uwv.nl
+zau-t-portal.uwv.nl
 ziekgemeld-a.uwv.nl
 _autodiscover._tcp.uziregister.nl
 aanvragen.uziregister.nl
