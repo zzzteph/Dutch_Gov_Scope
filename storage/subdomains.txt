@@ -83,6 +83,8 @@ banaan.services.acm.nl
 bijna.acm.nl
 codata.acm.nl
 connect.acm.nl
+consument-acc.acm.nl
+consument-test.acm.nl
 consument.acm.nl
 cryptshare.acm.nl
 cryptshare.services.acm.nl
