@@ -437,6 +437,7 @@ amlc.ont.belastingdienst.nl
 amlceu.acc.belastingdienst.nl
 amlcnl.acc.belastingdienst.nl
 amx.belastingdienst.nl
+anbi.belastingdienst.nl
 apbldexta1.belastingdienst.nl
 apbldexte1.belastingdienst.nl
 apbldexti1.belastingdienst.nl
@@ -765,6 +766,8 @@ kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 ketentestnvr.belastingdienst.nl
+kois-test.belastingdienst.nl
+kois-token-test.belastingdienst.nl
 kp-moss-ut.tst.belastingdienst.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
@@ -939,6 +942,7 @@ over-ons.belastingdienst.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 p285st201.utsjaca01.belastingdienst.nl
+pentest-singlesite.acc.belastingdienst.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
 pih.acc.belastingdienst.nl
@@ -1049,6 +1053,7 @@ stadvanced.belastingdienst.nl
 start.belastingdienst.nl
 startportaal.belastingdienst.nl
 startportaal1.belastingdienst.nl
+stichtingenvereniging.belastingdienst.nl
 stturn-tst.belastingdienst.nl
 stturn.belastingdienst.nl
 stturn1-tst.belastingdienst.nl
