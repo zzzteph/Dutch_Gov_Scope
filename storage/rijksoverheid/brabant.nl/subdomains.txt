@@ -3,6 +3,8 @@ acs-acpt.brabant.nl
 acs.brabant.nl
 api-acpt.brabant.nl
 api.brabant.nl
+api.meldingen-acpt.brabant.nl
+api.meldingen.brabant.nl
 apim.brabant.nl
 app.brabant.nl
 aris.brabant.nl
@@ -109,6 +111,8 @@ mail231.brabant.nl
 mail240.brabant.nl
 mail241.brabant.nl
 mailfilter.brabant.nl
+meldingen-acpt.brabant.nl
+meldingen.brabant.nl
 mijnadministratie-acpt.brabant.nl
 mijnadministratie.brabant.nl
 mik-acpt.brabant.nl
