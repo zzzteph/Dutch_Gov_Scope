@@ -2266,6 +2266,7 @@ cpb-mail-l02p.cpb.nl
 cpb-xtweb-l01p.cpb.nl
 cpb.nl
 download.mail.cpb.nl
+dwo-test.cpb.nl
 dwo.cpb.nl
 externemail.cpb.nl
 externemail01.cpb.nl
@@ -2363,6 +2364,8 @@ staging.ctpveldzicht.nl
 staging.english.ctpveldzicht.nl
 www.ctpveldzicht.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
+acc.archeobotanie.archis.cultureelerfgoed.nl
+acc.archeozoologie.archis.cultureelerfgoed.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.client.archis.cultureelerfgoed.nl
