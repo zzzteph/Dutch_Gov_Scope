@@ -21,6 +21,7 @@ keycloak.dfaas.hansken.org
 keycloak.inzage.hansken.org
 keycloak.learning.hansken.org
 law-enforcement.container.hansken.org
+ldap-rest-api.inzage.hansken.org
 lea-registry.hansken.org
 learning.hansken.org
 phpldapadmin.dfaas.hansken.org

@@ -4172,6 +4172,7 @@ keycloak.dfaas.hansken.org
 keycloak.inzage.hansken.org
 keycloak.learning.hansken.org
 law-enforcement.container.hansken.org
+ldap-rest-api.inzage.hansken.org
 lea-registry.hansken.org
 learning.hansken.org
 phpldapadmin.dfaas.hansken.org
@@ -4243,6 +4244,7 @@ content.bij.hetcak.nl
 digibg-tst.hetcak.nl
 digibg.hetcak.nl
 digibgtest.hetcak.nl
+ehma.hetcak.nl
 eidgw.hetcak.nl
 eidgwtest.hetcak.nl
 fallback.hetcak.nl
@@ -4285,7 +4287,9 @@ timeit-acc.hetcak.nl
 timeit.hetcak.nl
 tunnel.bij.hetcak.nl
 usercheck.hetcak.nl
+vor-acc.hetcak.nl
 vor-ont.hetcak.nl
+vor.hetcak.nl
 webfilter.hetcak.nl
 webmail.hetcak.nl
 welkom.bij.hetcak.nl
