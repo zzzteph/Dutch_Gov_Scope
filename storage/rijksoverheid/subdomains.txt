@@ -4871,6 +4871,8 @@ helpdesk.acc.irealisatie.nl
 helpdesk.irealisatie.nl
 ia-stub.test.gf.irealisatie.nl
 ia-stub.test2.gf.irealisatie.nl
+integration.beheer.acc.gf.irealisatie.nl
+integration.beheer.test.gf.irealisatie.nl
 irealisatie.nl
 issuer-api.test.gf.irealisatie.nl
 jaeger.proeftuin.gf.irealisatie.nl
@@ -4927,6 +4929,8 @@ nvi-integration.test.gf.irealisatie.nl
 nvi-integration.test2.gf.irealisatie.nl
 nvi-registratie-service.test.gf.irealisatie.nl
 nvi.acc.gf.irealisatie.nl
+nvi.beheer.acc.gf.irealisatie.nl
+nvi.beheer.test.gf.irealisatie.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
 nvi.test2.gf.irealisatie.nl
@@ -4948,6 +4952,8 @@ prs-stub.test.gf.irealisatie.nl
 prs.test.zm.irealisatie.nl
 pseudoniem.proeftuin.gf.irealisatie.nl
 pseudoniemendienst.acc.gf.irealisatie.nl
+pseudoniemendienst.beheer.acc.gf.irealisatie.nl
+pseudoniemendienst.beheer.test.gf.irealisatie.nl
 pseudoniemendienst.proeftuin.gf.irealisatie.nl
 pseudoniemendienst.test.gf.irealisatie.nl
 pseudoniemendienst.test2.gf.irealisatie.nl
@@ -4968,6 +4974,7 @@ stats.proeftuin.gf.irealisatie.nl
 stats.test.gf.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
+status.beheer.test.gf.irealisatie.nl
 status.proeftuin.gf.irealisatie.nl
 status.test.gf.irealisatie.nl
 storage.test.mgo.irealisatie.nl
@@ -4979,6 +4986,7 @@ test.woo.irealisatie.nl
 timeline.test.zm.irealisatie.nl
 uren.acc.irealisatie.nl
 uren.irealisatie.nl
+utils.beheer.test.gf.irealisatie.nl
 utils.test.gf.irealisatie.nl
 utils.test2.gf.irealisatie.nl
 vad.acc.mgo.irealisatie.nl
