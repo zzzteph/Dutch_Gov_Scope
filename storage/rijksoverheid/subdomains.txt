@@ -5597,6 +5597,7 @@ documentatie.di.huc.knaw.nl
 donation.wi.knaw.nl
 doncker.huygens.knaw.nl
 dp.meertens.knaw.nl
+drawio.test.ib.knaw.nl
 dss01.meertens.knaw.nl
 dss11.meertens.knaw.nl
 dswizard.test.nioo.knaw.nl
@@ -5760,6 +5761,7 @@ im.di.huc.knaw.nl
 images.huygens.knaw.nl
 imlc.huygens.knaw.nl
 impactandfiction.huygens.knaw.nl
+index.globalise.huygens.knaw.nl
 ineo-service.sd.di.huc.knaw.nl
 ineo.dev.huc.knaw.nl
 info.bedevaart.meertens.knaw.nl
@@ -5773,6 +5775,7 @@ intranet.huc.knaw.nl
 intranet.knaw.nl
 intranet.nin.knaw.nl
 inventaris.huygens.knaw.nl
+itop.test.ib.knaw.nl
 ivanticsa01.knaw.nl
 ivanticsa31.knaw.nl
 ix.bureau.knaw.nl
@@ -5900,6 +5903,7 @@ mailbuddy.test.ib.knaw.nl
 mailrelay.knaw.nl
 maisflexis.niod.knaw.nl
 mand.meertens.knaw.nl
+mantis.test.ib.knaw.nl
 maps.fa.knaw.nl
 mapserver.fa.knaw.nl
 mapserver.huc.knaw.nl
@@ -6325,6 +6329,7 @@ rdswa.knaw.nl
 rdswa61.knaw.nl
 rdswa7.knaw.nl
 rdswa71.knaw.nl
+reception.nioo.knaw.nl
 redmineaf.huygens.knaw.nl
 registrar.labs.dans.knaw.nl
 registry.huc.knaw.nl
@@ -6377,6 +6382,7 @@ satifyd.dans.knaw.nl
 sc-adfs.spinozacentre.knaw.nl
 sc-webserver-001.nin.knaw.nl
 scope.nin.knaw.nl
+sd-infra.di.huc.knaw.nl
 sd-skosmos.dev.huc.knaw.nl
 sd-yugoslavia.dev.huc.knaw.nl
 sd.di.huc.knaw.nl
@@ -6500,6 +6506,7 @@ translatin.huygens.knaw.nl
 travellingtexts.huygens.knaw.nl
 tss31.dans.knaw.nl
 tssrpm-iis.knaw.nl
+tt-panoptes.dev.huygens.knaw.nl
 tt.di.huc.knaw.nl
 ttv.dans.knaw.nl
 tus.labs.dans.knaw.nl
@@ -6545,6 +6552,7 @@ waf.prd01.dans.knaw.nl
 waleweinendekeye.huygens.knaw.nl
 wateropdekaart.nioo.knaw.nl
 wazuh-ib.knaw.nl
+wazuh-lb-01.knaw.nl
 wazuh.ib.knaw.nl
 web.huygens.knaw.nl
 web01.huygens.knaw.nl
@@ -6789,6 +6797,7 @@ rdsa-test.knmi.nl
 rdsa.knmi.nl
 redmine.knmi.nl
 reserved-cesar-db.knmi.nl
+saca-bmkg.knmi.nl
 satarchive.knmi.nl
 scatterometer.knmi.nl
 secu.knmi.nl
@@ -6861,6 +6870,7 @@ appstore.kvk.nl
 assets.kvk.nl
 autodiscover.kvk.nl
 autorisatieportaal.dev.kvk.nl
+autorisatieportaal.kvk.nl
 autorisatieportaal.test.kvk.nl
 autorisatieportaal.uat.kvk.nl
 av.kvk.nl
