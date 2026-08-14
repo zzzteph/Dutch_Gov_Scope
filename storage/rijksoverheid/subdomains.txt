@@ -7919,6 +7919,7 @@ nextdrive.nationaalarchief.nl
 onderwijs.nationaalarchief.nl
 oranjehotel.nationaalarchief.nl
 placeholder.nationaalarchief.nl
+portal.overbrengen.ted.nationaalarchief.nl
 prod.nationaalarchief.nl
 pywb-warc-check.acpt.nationaalarchief.nl
 pywb.acpt.nationaalarchief.nl
@@ -8138,6 +8139,7 @@ budgy.ndw.nu
 caas.ndw.nu
 cbm.ndw.nu
 cms-info.ndw.nu
+codi.ndw.nu
 d2val.staging.ndw.nu
 dafne.ndw.nu
 daisi.ndw.nu
@@ -8194,11 +8196,13 @@ ndwiki.ndw.nu
 ndwviewer.ndw.nu
 nls.ndw.nu
 nls.staging.ndw.nu
+nm.ndw.nu
 nt.ndw.nu
 ntm.ndw.nu
 ntm.staging.ndw.nu
 opendata-ref.ndw.nu
 opendata.ndw.nu
+panoramax.ndw.nu
 pdc.ndw.nu
 pm-bounces.ndw.nu
 put-kpi-dashboard.ndw.nu
