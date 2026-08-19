@@ -10933,6 +10933,7 @@ dataiku.rws.rijkscloud.nl
 datatool.datafabriek.ienw.rijkscloud.nl
 datatool.dev-datafabriek.ienw.rijkscloud.nl
 dbe-t.rvb.rijkscloud.nl
+dbt-docs.dgdoobi.rijkscloud.nl
 demo.ix.rijkscloud.nl
 demowebsite.ix.rijkscloud.nl
 dev.fib.ienw.rijkscloud.nl
@@ -11213,6 +11214,7 @@ mail1.gn3.rijkscloud.nl
 mail2.ec.rijkscloud.nl
 matrix.ix.rijkscloud.nl
 matrix.rijkscloud.nl
+matrix.test.ix.rijkscloud.nl
 matter.minaz.rijkscloud.nl
 mattermost.tst.ix.rijkscloud.nl
 meet.rijkscloud.nl
@@ -11298,6 +11300,7 @@ oms-o.rvb.rijkscloud.nl
 oms-t.rvb.rijkscloud.nl
 oms.rvb.rijkscloud.nl
 opendata.rvb.rijkscloud.nl
+openmetadata.dgdoobi.rijkscloud.nl
 openstack.gn2.rijkscloud.nl
 openstack.gn3.rijkscloud.nl
 osg-prx1.gn2.rijkscloud.nl
@@ -11322,6 +11325,7 @@ pgadmin.dev.fib.ienw.rijkscloud.nl
 pgadmin.dgdoobi.rijkscloud.nl
 pgadmin.insp.rijkscloud.nl
 pgadmin.nea.rijkscloud.nl
+pgadmin.ocw-poc.rijkscloud.nl
 pgadmin.rapportage.rijkscloud.nl
 pgadmin.sodm.rijkscloud.nl
 pgadmin.test.ix.rijkscloud.nl
@@ -11432,6 +11436,7 @@ rob2000.rijkscloud.nl
 robb.rvb.rijkscloud.nl
 robxp.rapportage.rijkscloud.nl
 rstudio-almalinux.dgdoobi.rijkscloud.nl
+rstudio-ivho-01.ocw-poc.rijkscloud.nl
 rstudio.abibzk.rijkscloud.nl
 rstudio.acc.rijkscloud.nl
 rstudio.acict.rijkscloud.nl
@@ -11548,6 +11553,8 @@ sonarqube-old.devops.rvb.rijkscloud.nl
 sonarqube.devops.rvb.rijkscloud.nl
 sonarqube.test.ix.rijkscloud.nl
 sonarqube2.devops.rvb.rijkscloud.nl
+spreiding-rijkswerkgelegenheid.dgdoobi.rijkscloud.nl
+spreiding.dev.dgdoobi.rijkscloud.nl
 srv-52b05-19.gn2.rijkscloud.nl
 srv-52b13-13.gn2.rijkscloud.nl
 srv-zmb02-27.gn3.rijkscloud.nl
