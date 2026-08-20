@@ -106,6 +106,7 @@ biotechnologie.rivm.nl
 calpro.bori.rivm.nl
 campus-t.rivm.nl
 caontb.rivm.nl
+casedb.lsp-acc.rivm.nl
 casedb.lsp-dev.rivm.nl
 casedb.lsp-tst.rivm.nl
 casedb.lsp.rivm.nl
@@ -174,6 +175,7 @@ g2b.acc-api.rivm.nl
 g2b.api.rivm.nl
 gcn-app.rivm.nl
 geluid.rivm.nl
+geluidmonitor.rivm.nl
 geluidsrm.rivm.nl
 geluidwsv.rivm.nl
 geodata.rivm.nl
@@ -300,6 +302,7 @@ rvs-beheer.rivm.nl
 rvs.rivm.nl
 rvszoeksysteem.rivm.nl
 samenmeten.rivm.nl
+scanapp.rivm.nl
 search.rivm.nl
 secure-acceptatie.grip.rivm.nl
 secure-test.rivm.nl

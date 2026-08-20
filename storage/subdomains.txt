@@ -11089,6 +11089,7 @@ jitsi-videobridge.jitsi.rijkscloud.nl
 jitsi.iaas.rijkscloud.nl
 jitsi.rijkscloud.nl
 jupyter-almalinux.dgdoobi.rijkscloud.nl
+jupyter-ivho-01.ocw-poc.rijkscloud.nl
 jupyter.abibzk.rijkscloud.nl
 jupyter.acc.rijkscloud.nl
 jupyter.acict.rijkscloud.nl
@@ -11624,6 +11625,7 @@ vscode.minszw.rijkscloud.nl
 vscode.mintst2.rijkscloud.nl
 vscode.nea.rijkscloud.nl
 vscode.ocw-poc.rijkscloud.nl
+vscode.rdi.rijkscloud.nl
 webmail.rijkscloud.nl
 webmail.rsj.rijkscloud.nl
 wem-api-a.rvb.rijkscloud.nl
@@ -11866,6 +11868,7 @@ ont.live.rijkswaterstaat.nl
 ont.live.werkenbij.rijkswaterstaat.nl
 ont.staging.rijkswaterstaat.nl
 ont.staging.werkenbij.rijkswaterstaat.nl
+ontwikkel.esb.rijkswaterstaat.nl
 open.rijkswaterstaat.nl
 opleiding.spin2.rijkswaterstaat.nl
 overstroomik.rijkswaterstaat.nl
@@ -11945,6 +11948,7 @@ zaaksysteem-acc.rijkswaterstaat.nl
 zaaksysteem.rijkswaterstaat.nl
 zwerfafval.rijkswaterstaat.nl
 acc-ctddata.rijkswaterstaatdata.nl
+ctddata.rijkswaterstaatdata.nl
 downloads.rijkswaterstaatdata.nl
 rijkswaterstaatdata.nl
 www.rijkswaterstaatdata.nl
@@ -12068,6 +12072,7 @@ biotechnologie.rivm.nl
 calpro.bori.rivm.nl
 campus-t.rivm.nl
 caontb.rivm.nl
+casedb.lsp-acc.rivm.nl
 casedb.lsp-dev.rivm.nl
 casedb.lsp-tst.rivm.nl
 casedb.lsp.rivm.nl
@@ -12136,6 +12141,7 @@ g2b.acc-api.rivm.nl
 g2b.api.rivm.nl
 gcn-app.rivm.nl
 geluid.rivm.nl
+geluidmonitor.rivm.nl
 geluidsrm.rivm.nl
 geluidwsv.rivm.nl
 geodata.rivm.nl
@@ -12262,6 +12268,7 @@ rvs-beheer.rivm.nl
 rvs.rivm.nl
 rvszoeksysteem.rivm.nl
 samenmeten.rivm.nl
+scanapp.rivm.nl
 search.rivm.nl
 secure-acceptatie.grip.rivm.nl
 secure-test.rivm.nl
@@ -12413,6 +12420,7 @@ api.reis.npr.idm.rvig.nl
 apigw.brp.lap.idm.rvig.nl
 apigw.idm.rvig.nl
 apigw.npr.idm.rvig.nl
+auth.npr.idm.rvig.nl
 developer.rvig.nl
 e.mail.rvig.nl
 e.test.mail.rvig.nl
@@ -12550,6 +12558,7 @@ economicdiplomacy.rvo.nl
 edicrop-acc.rvo.nl
 edicrop-p-acc.rvo.nl
 edicrop-p.rvo.nl
+edicrop-s-acc.rvo.nl
 edicrop-s.rvo.nl
 edicrop.rvo.nl
 edu-iam.mijnoctrooi.mypage.rvo.nl
@@ -12824,6 +12833,7 @@ wbtvsp.rvr.org
 wbtvspacc.rvr.org
 wsnp.rvr.org
 www.acc-vtlb.rvr.org
+www.beleidswijzer.rvr.org
 www.fs.rvr.org
 www.intra.rvr.org
 www.kenniswijzer.rvr.org
@@ -13067,6 +13077,7 @@ ipam.grid.rws.nl
 iwks.grid.rws.nl
 iwks.gridacc.rws.nl
 iwks.gridtst.rws.nl
+iwp-open.rwsos.rws.nl
 jaeger.test.vm-04.azure.grid.rws.nl
 janitor.acceptatie.vm-05.azure.grid.rws.nl
 janitor.test.vm-05.azure.grid.rws.nl
@@ -13126,6 +13137,7 @@ mbaks007.rws-a5-t.azure.gridtst.rws.nl
 meetgegevens.test.vm-05.azure.grid.rws.nl
 meridian.rws.nl
 meteo-data-ogcapi-maps.vm-05.azure.grid.rws.nl
+mimir.acceptatie.vm-05.azure.grid.rws.nl
 mimir.test.vm-05.azure.grid.rws.nl
 minio-console.acceptatie.vm-05.azure.grid.rws.nl
 minio-console.test.vm-05.azure.grid.rws.nl

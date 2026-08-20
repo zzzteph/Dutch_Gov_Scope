@@ -11,6 +11,7 @@ api.reis.npr.idm.rvig.nl
 apigw.brp.lap.idm.rvig.nl
 apigw.idm.rvig.nl
 apigw.npr.idm.rvig.nl
+auth.npr.idm.rvig.nl
 developer.rvig.nl
 e.mail.rvig.nl
 e.test.mail.rvig.nl

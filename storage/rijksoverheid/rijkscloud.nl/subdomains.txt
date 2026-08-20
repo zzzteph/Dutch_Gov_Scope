@@ -257,6 +257,7 @@ jitsi-videobridge.jitsi.rijkscloud.nl
 jitsi.iaas.rijkscloud.nl
 jitsi.rijkscloud.nl
 jupyter-almalinux.dgdoobi.rijkscloud.nl
+jupyter-ivho-01.ocw-poc.rijkscloud.nl
 jupyter.abibzk.rijkscloud.nl
 jupyter.acc.rijkscloud.nl
 jupyter.acict.rijkscloud.nl
@@ -792,6 +793,7 @@ vscode.minszw.rijkscloud.nl
 vscode.mintst2.rijkscloud.nl
 vscode.nea.rijkscloud.nl
 vscode.ocw-poc.rijkscloud.nl
+vscode.rdi.rijkscloud.nl
 webmail.rijkscloud.nl
 webmail.rsj.rijkscloud.nl
 wem-api-a.rvb.rijkscloud.nl

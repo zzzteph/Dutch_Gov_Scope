@@ -229,6 +229,7 @@ ipam.grid.rws.nl
 iwks.grid.rws.nl
 iwks.gridacc.rws.nl
 iwks.gridtst.rws.nl
+iwp-open.rwsos.rws.nl
 jaeger.test.vm-04.azure.grid.rws.nl
 janitor.acceptatie.vm-05.azure.grid.rws.nl
 janitor.test.vm-05.azure.grid.rws.nl
@@ -288,6 +289,7 @@ mbaks007.rws-a5-t.azure.gridtst.rws.nl
 meetgegevens.test.vm-05.azure.grid.rws.nl
 meridian.rws.nl
 meteo-data-ogcapi-maps.vm-05.azure.grid.rws.nl
+mimir.acceptatie.vm-05.azure.grid.rws.nl
 mimir.test.vm-05.azure.grid.rws.nl
 minio-console.acceptatie.vm-05.azure.grid.rws.nl
 minio-console.test.vm-05.azure.grid.rws.nl
