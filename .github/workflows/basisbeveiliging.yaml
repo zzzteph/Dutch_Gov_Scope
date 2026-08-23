@@ -3,6 +3,12 @@ name: basisbeveiliging exec
 
 on:
   workflow_dispatch:
+    inputs:
+      include_all_government:
+        description: "Also pull the umbrella 'government' export (~14.6k domains, whole public sector)"
+        type: boolean
+        required: false
+        default: false
 
 concurrency:
   group: scope-scan
@@ -11,6 +17,7 @@ concurrency:
 jobs:
   update-scope:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
 
     steps:
       - name: Checkout repository
@@ -25,20 +32,38 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r engine/requirements.txt
+          playwright install --with-deps chromium
 
-      - name: Run update script
+      # Harvest candidate root domains. This step does NOT decide ownership.
+      - name: Harvest candidates
         run: |
-          python engine/basisbeveiliging.py scope.txt
-          cat scope.txt scope/rijksoverheid.txt | sort -u > scope/rijksoverheid.tmp
-          mv scope/rijksoverheid.tmp scope/rijksoverheid.txt
+          python engine/basisbeveiliging.py bb_candidates.txt \
+            --exclude-known \
+            ${{ inputs.include_all_government && '--include-all-government' || '' }}
+          echo "Candidates: $(wc -l < bb_candidates.txt)"
 
+      # Every candidate goes through the three-tier verifier before it can reach
+      # the scope. Confirmed -> scope/rijksoverheid.txt, everything else ->
+      # scope/rijksoverheid_invalid.txt.
+      - name: Verify candidates and update scope
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python engine/revalidate_scope.py \
+            --source bb_candidates.txt \
+            --concurrency 20
 
+      - name: Report
+        run: cat verification_results/revalidation/changes.md >> $GITHUB_STEP_SUMMARY
+
+      - name: Cleanup
+        run: rm -rf bb_candidates.txt verification_results
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull
-          git add -A scope/rijksoverheid.txt
+          git pull --rebase --autostash
+          git add scope/
           git commit -m "Auto-update: updated basisbeveiliging" || echo "No changes to commit"
           git push
