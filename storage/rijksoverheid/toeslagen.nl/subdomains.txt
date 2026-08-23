@@ -2,6 +2,8 @@ adobe-analytics-dc.toeslagen.nl
 adobe-tags.toeslagen.nl
 app.toeslagen.nl
 artifact-fibt1.toeslagen.nl
+authenticatie.oauth.acc.toeslagen.nl
+authenticatie.oauth.tst.toeslagen.nl
 b2b-gemnet.toeslagen.nl
 b2b-osb.toeslagen.nl
 b2b-rijks.toeslagen.nl
@@ -51,6 +53,7 @@ mijn-acc4.toeslagen.nl
 mijn-et.tst.toeslagen.nl
 mijn-xt.tst.toeslagen.nl
 mijn.toeslagen.nl
+mijn.tst.toeslagen.nl
 mobiel.acc.toeslagen.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
@@ -61,6 +64,7 @@ s2-acc1.toeslagen.nl
 s2.toeslagen.nl
 s3-acc1.toeslagen.nl
 s3.toeslagen.nl
+samenherstellen.toeslagen.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
 sharepoint-acc.toeslagen.nl
