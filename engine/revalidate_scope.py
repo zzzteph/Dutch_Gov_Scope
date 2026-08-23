@@ -1,16 +1,30 @@
 """
-Global re-validation of the top-level domains in the scope files.
+Collect, verify and reconcile the top-level domains that make up the scope.
 
-Takes every domain in scope/rijksoverheid.txt and scope/rijksoverheid_invalid.txt,
-runs it back through the three-tier pipeline in verify_rijksoverheid.py
-(raw HTTP + SSL -> rendered DOM -> Claude vision), and re-sorts the two files
-according to the fresh verdicts.
+One run does three things, in order:
 
-This is the maintenance counterpart to refresh_rijksoverheid.py:
+    1. COLLECT   harvest candidate root domains from the upstream registers
+                 (communicatierijk.nl + basisbeveiliging.nl) -- --collect
+    2. VERIFY    push everything (collected candidates AND the domains already in
+                 both scope files) through the three-tier pipeline in
+                 verify_rijksoverheid.py: raw HTTP + SSL -> rendered DOM -> vision
+    3. RECONCILE re-sort scope/rijksoverheid.txt and scope/rijksoverheid_invalid.txt
+                 according to the fresh verdicts
+    4. ASN       resolve the confirmed scope to IPs, look each announcing prefix up
+                 on bgp.he.net, and add the ranges whose description EXPLICITLY
+                 names a Dutch government body to ip.txt -- --asn
 
-    refresh_rijksoverheid.py   pulls NEW domains from communicatierijk.nl
-    basisbeveiliging.py        harvests candidate domains from basisbeveiliging.nl
-    revalidate_scope.py        re-checks domains that are ALREADY in the scope files
+Collection never decides ownership; it only widens the set of domains the verifier
+is asked to judge. Nothing reaches scope/rijksoverheid.txt without a confirmed
+verdict from the pipeline, and nothing reaches ip.txt unless the range itself is
+registered to a Dutch government body.
+
+Related scripts:
+
+    refresh_rijksoverheid.py   lighter path: only NEW communicatierijk.nl domains
+    basisbeveiliging.py        the basisbeveiliging.nl harvester used in step 1
+    verify_rijksoverheid.py    the three-tier verifier used in step 2
+    resolve_asn.py             the bgp.he.net sweep used in step 4
 
 Reconciliation rules
 --------------------
@@ -30,15 +44,16 @@ by default: a timeout, a WAF block or a slow SPA is not evidence that a domain
 stopped belonging to the government. Use --strict to demote those too.
 
 Usage:
-    python engine/revalidate_scope.py                          # both files, full pipeline
-    python engine/revalidate_scope.py --source valid           # only the confirmed scope
-    python engine/revalidate_scope.py --source invalid         # only the reject pile
-    python engine/revalidate_scope.py --source bb_candidates.txt
-    python engine/revalidate_scope.py --with-basisbeveiliging  # + fresh harvested candidates
+    python engine/revalidate_scope.py                       # collect + verify + reconcile
+    python engine/revalidate_scope.py --no-collect          # skip step 1, re-check the scope only
+    python engine/revalidate_scope.py --collect register    # communicatierijk.nl only
+    python engine/revalidate_scope.py --source valid        # only the confirmed scope
+    python engine/revalidate_scope.py --source invalid      # only the reject pile
+    python engine/revalidate_scope.py --source bb_list.txt  # an explicit list (no collection)
     python engine/revalidate_scope.py --no-vision --concurrency 30
     python engine/revalidate_scope.py --limit 200 --skip-recent 30
-    python engine/revalidate_scope.py --dry-run                # report, write nothing
-    python engine/revalidate_scope.py --prune-storage          # drop demoted domains from storage/
+    python engine/revalidate_scope.py --dry-run             # report, write nothing
+    python engine/revalidate_scope.py --prune-storage       # drop demoted domains from storage/
 """
 
 import argparse
@@ -58,6 +73,7 @@ INVALID_FILE  = SCOPE_DIR / "rijksoverheid_invalid.txt"
 LEDGER_FILE   = SCOPE_DIR / "verification_log.jsonl"
 STORAGE_DIR   = ROOT / "storage" / "rijksoverheid"
 VERIFY_SCRIPT = Path(__file__).parent / "verify_rijksoverheid.py"
+ASN_SCRIPT    = Path(__file__).parent / "resolve_asn.py"
 
 RULE = "-" * 58
 
@@ -116,6 +132,45 @@ def days_since(iso: str | None) -> float:
 
 
 # ---------------------------------------------------------------------------
+# Collection -- gather candidate domains from the upstream registers
+# ---------------------------------------------------------------------------
+
+def collect(which: str, concurrency: int, known: set[str]) -> set[str]:
+    """Harvest candidate root domains from the upstream sources.
+
+    Collection never decides ownership -- it only widens the set of domains that
+    the verifier is then asked to judge.
+    """
+    collected: set[str] = set()
+    if which == "none":
+        return collected
+
+    if which in ("register", "all"):
+        try:
+            from refresh_rijksoverheid import fetch_communicatierijk
+            register = fetch_communicatierijk()
+            print(f"  communicatierijk.nl : {len(register):>5} domains, "
+                  f"{len(register - known):>5} not yet in the scope files")
+            collected |= register
+        except Exception as exc:
+            print(f"  communicatierijk.nl : FAILED ({exc})")
+
+    if which in ("basisbeveiliging", "all"):
+        try:
+            from basisbeveiliging import fetch_candidates
+            harvested = fetch_candidates(concurrency=concurrency)
+            print(f"  basisbeveiliging.nl : {len(harvested):>5} domains, "
+                  f"{len(harvested - known):>5} not yet in the scope files")
+            collected |= harvested
+        except Exception as exc:
+            print(f"  basisbeveiliging.nl : FAILED ({exc})")
+
+    print(f"  collected total     : {len(collected):>5} domains, "
+          f"{len(collected - known):>5} new")
+    return collected
+
+
+# ---------------------------------------------------------------------------
 # Target selection
 # ---------------------------------------------------------------------------
 
@@ -135,12 +190,11 @@ def select_targets(args, valid: set[str], invalid: set[str]) -> list[str]:
             sys.exit(1)
         targets = read_set(path)
 
-    if args.with_basisbeveiliging:
-        from basisbeveiliging import fetch_candidates
-        harvested = fetch_candidates(concurrency=args.concurrency)
-        fresh = harvested - valid - invalid
-        print(f"basisbeveiliging.nl: {len(harvested)} domains, {len(fresh)} not yet in the scope files")
-        targets |= harvested
+    # Step 1 of the run: collect. Skipped when the caller pointed --source at an
+    # explicit file, which already *is* the candidate list.
+    if args.collect != "none" and args.source in ("valid", "invalid", "all"):
+        print("\nCollecting candidates ...")
+        targets |= collect(args.collect, args.concurrency, valid | invalid)
 
     if args.skip_recent > 0:
         ledger = read_ledger()
@@ -277,6 +331,30 @@ def prune_storage(demoted: list[dict]) -> int:
 
 
 # ---------------------------------------------------------------------------
+# Step 4 -- ASN sweep: resolve the confirmed scope and refresh ip.txt
+# ---------------------------------------------------------------------------
+
+def run_asn_sweep(which: str, output_dir: Path, args) -> None:
+    """Resolve the freshly reconciled scope to IPs and add gov ranges to ip.txt."""
+    cmd = [
+        sys.executable, str(ASN_SCRIPT),
+        "--source", "all" if which == "all" else "scope",
+        "--concurrency", str(min(args.concurrency, 12)),
+        "--output-dir", str(output_dir / "asn"),
+    ]
+    if not args.dry_run:
+        cmd.append("--apply")
+
+    print(f"\n{RULE}")
+    print("  Step 4: ASN sweep (bgp.he.net) -> ip.txt")
+    print(RULE)
+    try:
+        subprocess.run(cmd, check=True)
+    except subprocess.CalledProcessError as exc:
+        print(f"ASN sweep failed ({exc}) - scope files are already written and unaffected.")
+
+
+# ---------------------------------------------------------------------------
 # Reporting
 # ---------------------------------------------------------------------------
 
@@ -336,8 +414,21 @@ def main():
         description="Re-validate scope domains and re-sort them between the two scope files")
     parser.add_argument("--source", default="all",
                         help="valid | invalid | all | path to a file of domains (default: all)")
-    parser.add_argument("--with-basisbeveiliging", action="store_true",
-                        help="Also pull fresh candidate domains from basisbeveiliging.nl")
+    parser.add_argument("--collect", default="all",
+                        choices=["all", "register", "basisbeveiliging", "none"],
+                        help="Which upstream registers to harvest candidates from before "
+                             "verifying (default: all). 'register' = communicatierijk.nl, "
+                             "'none' = verify only what is already in the scope files. "
+                             "Ignored when --source points at a file.")
+    parser.add_argument("--no-collect", dest="collect", action="store_const", const="none",
+                        help="Shorthand for --collect none")
+    parser.add_argument("--asn", default="scope", choices=["scope", "all", "none"],
+                        help="After reconciling, resolve the scope to IPs, check each "
+                             "announcing prefix on bgp.he.net and add explicitly Dutch "
+                             "government ranges to ip.txt (default: scope). 'all' also "
+                             "resolves every discovered subdomain.")
+    parser.add_argument("--no-asn", dest="asn", action="store_const", const="none",
+                        help="Shorthand for --asn none")
     parser.add_argument("--limit", type=int, default=0,
                         help="Check at most N domains this run (0 = no limit)")
     parser.add_argument("--skip-recent", type=int, default=0, metavar="DAYS",
@@ -402,6 +493,9 @@ def main():
     report = write_report(output_dir, changes, results,
                           len(new_valid), len(new_invalid), args.dry_run)
     print(f"Report: {report}")
+
+    if args.asn != "none":
+        run_asn_sweep(args.asn, output_dir, args)
 
 
 if __name__ == "__main__":
