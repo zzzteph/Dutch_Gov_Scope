@@ -16583,6 +16583,10 @@ kvb-wsp.p-dc.ba.uwv.nl
 m.jaarverslag.uwv.nl
 mail.uwv.nl
 meet.uwv.nl
+mft-voorziening-acc.uwv.nl
+mft-voorziening-dev.uwv.nl
+mft-voorziening-tst.uwv.nl
+mft-voorziening.uwv.nl
 mijn-a.uwv.nl
 mijn-p.uwv.nl
 mijn.uwv.nl
@@ -16619,6 +16623,7 @@ signalr-eafspraak.ba.uwv.nl
 spiegel-accept.ba.uwv.nl
 stakeholderwatch.uwv.nl
 summitonline-acceptatie.uwv.nl
+summitonline.uwv.nl
 tag.uwv.nl
 tag2.uwv.nl
 ti.uwv.nl
@@ -16650,8 +16655,13 @@ ws-voorziening.uwv.nl
 www-a.uwv.nl
 www.reintegratieverslag.uwv.nl
 www.uwv.nl
+xyz-a.uwv.nl
+zakelijkportaal-a.uwv.nl
+zakelijkportaal.uwv.nl
+zau-o-portal.uwv.nl
 zau-t-portal.uwv.nl
 ziekgemeld-a.uwv.nl
+ziekgemeld.uwv.nl
 _autodiscover._tcp.uziregister.nl
 aanvragen.uziregister.nl
 acc.uziregister.nl
