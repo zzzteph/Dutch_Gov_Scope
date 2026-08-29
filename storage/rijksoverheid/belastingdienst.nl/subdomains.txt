@@ -230,6 +230,7 @@ fibz2.acc.belastingdienst.nl
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
 fiod.acc.belastingdienst.nl
+fiscaaldienstverleners.belastingdienst.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 fortescloud.acc.belastingdienst.nl
@@ -473,6 +474,7 @@ mysites.belastingdienst.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 nhdouane.acc.belastingdienst.nl
+notarispraktijk.belastingdienst.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 ns2.belastingdienst.nl
@@ -519,6 +521,7 @@ over-ons.belastingdienst.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 p285st201.utsjaca01.belastingdienst.nl
+pentest-multisite.acc.belastingdienst.nl
 pentest-singlesite.acc.belastingdienst.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
@@ -572,6 +575,7 @@ rijkskantoorproxy.belastingdienst.nl
 rmt.belastingdienst.nl
 roomreservation.belastingdienst.nl
 router.bac.belastingdienst.nl
+rulings.belastingdienst.nl
 rut.belastingdienst.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
@@ -585,6 +589,7 @@ sa-tst.belastingdienst.nl
 sa.belastingdienst.nl
 sadp.acc.belastingdienst.nl
 sadp.belastingdienst.nl
+salarisprofessionals.belastingdienst.nl
 samenwerkruimten-acc.belastingdienst.nl
 samenwerkruimten-conf.belastingdienst.nl
 samenwerkruimten-intern-acc.belastingdienst.nl
