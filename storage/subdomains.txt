@@ -2167,6 +2167,8 @@ acc.statistieken.coa.nl
 acc.www.coa.nl
 acceptatie-api.coa.nl
 acceptatie-identity.coa.nl
+aiot.coa.nl
+api-aiot.coa.nl
 api.coa.nl
 autodiscover.coa.nl
 bemsnotif.coa.nl
