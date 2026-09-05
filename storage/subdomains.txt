@@ -3791,6 +3791,7 @@ acc.flevoland.nl
 adfs.flevoland.nl
 appvarenflevoland.flevoland.nl
 autodiscover.flevoland.nl
+avdsessionmanager.cloud.flevoland.nl
 begroting2019.flevoland.nl
 begroting2020.flevoland.nl
 bezoekersdata.flevoland.nl
@@ -3816,12 +3817,15 @@ exchange.flevoland.nl
 felix-preproductie.flevoland.nl
 felix.flevoland.nl
 flair-demo.flevoland.nl
+flair.ai.flevoland.nl
+flair.internal.flevoland.nl
 flevoland.nl
 formulieren.flevoland.nl
 ftps.flevoland.nl
 gensys.flevoland.nl
 geo.flevoland.nl
 geo.poc.flevoland.nl
+geo2.cloud.flevoland.nl
 geo2.flevoland.nl
 geo3.flevoland.nl
 geodiensten.flevoland.nl
@@ -3866,6 +3870,7 @@ pushmail.flevoland.nl
 qmanage.flevoland.nl
 regiotaxi.flevoland.nl
 remote.flevoland.nl
+res.flevoland.nl
 rwbg.flevoland.nl
 schouw.flevoland.nl
 smartmobility.flevoland.nl
