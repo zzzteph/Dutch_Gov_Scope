@@ -4531,6 +4531,8 @@ accept.control.ictu.nl
 accept.github-push.ictu.nl
 accept.web.ictu.nl
 accept.web.nmp.ictu.nl
+accept2.control.ictu.nl
+accept2.web.ictu.nl
 acceptatie.ictu.nl
 afas.ictu.nl
 autodiscover.ictu.nl
@@ -4566,9 +4568,12 @@ test.github-push.ictu.nl
 test.ictu.nl
 test.web.ictu.nl
 test.web.nmp.ictu.nl
+test2.control.ictu.nl
+test2.web.ictu.nl
 topdesk.ictu.nl
 vpn.ictu.nl
 vpn.web.ictu.nl
+vpn2.web.ictu.nl
 webmail.ictu.nl
 www.ictu.nl
 yammer.ictu.nl
@@ -4772,6 +4777,7 @@ english.inspectie-oe.nl
 feeds.inspectie-oe.nl
 inspectie-oe.nl
 opendata.inspectie-oe.nl
+toetsingskader.inspectie-oe.nl
 www.inspectie-oe.nl
 inspectiebtd.nl
 intraspectie.inspectiebtd.nl
