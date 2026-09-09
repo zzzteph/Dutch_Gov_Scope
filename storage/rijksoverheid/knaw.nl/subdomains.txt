@@ -7,11 +7,13 @@ aboutme.jauco.playground.di.huc.knaw.nl
 acc.adminpure.knaw.nl
 acc.api.knaw.nl
 acc.cms21.knaw.nl
+acc.di.huc.knaw.nl
 acc.knaw.nl
 acc.pergamon.huygens.knaw.nl
 acc.resources.huygens.knaw.nl
 access.huc.knaw.nl
 account.knaw.nl
+achterdeschermen.huygens.knaw.nl
 act.gharvester-oai.dans.knaw.nl
 act.gharvester-wcp.dans.knaw.nl
 act.resolver.dans.knaw.nl
@@ -68,6 +70,7 @@ athena.huygens.knaw.nl
 ats-intern.knaw.nl
 ats-test.knaw.nl
 ats.knaw.nl
+auth1.nioo.knaw.nl
 author-unknown.dev.huygens.knaw.nl
 auto-ako.bureau.knaw.nl
 autodiscover.bb.huc.knaw.nl
@@ -172,6 +175,7 @@ da.dans.knaw.nl
 dans.idp.knaw.nl
 dans.knaw.nl
 darkarchive.dans.knaw.nl
+dashboard.dans.knaw.nl
 data.globalise.huygens.knaw.nl
 data.huygens.knaw.nl
 data.suriano.huygens.knaw.nl
@@ -403,6 +407,7 @@ intranet.huc.knaw.nl
 intranet.knaw.nl
 intranet.nin.knaw.nl
 inventaris.huygens.knaw.nl
+israels.dev.huygens.knaw.nl
 itop.test.ib.knaw.nl
 ivanticsa01.knaw.nl
 ivanticsa31.knaw.nl
@@ -526,7 +531,12 @@ macu1.meertens.knaw.nl
 macu2.meertens.knaw.nl
 macu37.meertens.knaw.nl
 macu40.meertens.knaw.nl
+mail.ci.di.huc.knaw.nl
+mail.dev.huc.knaw.nl
+mail.im.di.huc.knaw.nl
 mail.nin.knaw.nl
+mail.sd-infra.di.huc.knaw.nl
+mail.tt.di.huc.knaw.nl
 mailbuddy.test.ib.knaw.nl
 mailrelay.knaw.nl
 maisflexis.niod.knaw.nl
@@ -544,6 +554,7 @@ maven.huygens.knaw.nl
 maximizer.rathenau.knaw.nl
 mcmnioocmg.nioo.knaw.nl
 mda.nioo.knaw.nl
+mechteldvangelre.dev.huygens.knaw.nl
 medievalireland.huygens.knaw.nl
 meertens-router.meertens.knaw.nl
 meertens.idp.knaw.nl
@@ -640,6 +651,7 @@ odb.huc.knaw.nl
 office365.knaw.nl
 ogier.huygens.knaw.nl
 ohs31.dans.knaw.nl
+old.huc.knaw.nl
 ollama.zandbak.dans.knaw.nl
 omnivista.knaw.nl
 omnivista31.knaw.nl
@@ -673,6 +685,7 @@ packaging.labs.dans.knaw.nl
 pages.bioinf.nioo.knaw.nl
 pages.huc.knaw.nl
 pand29gbs.bureau.knaw.nl
+park.tt.di.huc.knaw.nl
 parsr.labs.dans.knaw.nl
 password.knaw.nl
 password51-iis.knaw.nl
@@ -1249,6 +1262,7 @@ www.benjamin.nin.knaw.nl
 www.climatepursuit.nioo.knaw.nl
 www.dans.knaw.nl
 www.de-diepte.nioo.knaw.nl
+www.dev.huc.knaw.nl
 www.dwc.knaw.nl
 www.easy.dans.knaw.nl
 www.elaborate.huygens.knaw.nl
@@ -1258,6 +1272,7 @@ www.grotius.huygens.knaw.nl
 www.huc.knaw.nl
 www.huygens.knaw.nl
 www.huygensinstituut.knaw.nl
+www.im.di.huc.knaw.nl
 www.imlc.huygens.knaw.nl
 www.intranet.knaw.nl
 www.knaw.nl
@@ -1274,9 +1289,11 @@ www.podium.knaw.nl
 www.promise.nioo.knaw.nl
 www.rooswijk.huygens.knaw.nl
 www.scope.nin.knaw.nl
+www.sd-infra.di.huc.knaw.nl
 www.soilpros.nioo.knaw.nl
 www.staging.huygens.knaw.nl
 www.travellingtexts.huygens.knaw.nl
+www.tt.di.huc.knaw.nl
 www.verwer.nin.knaw.nl
 www.waleweinendekeye.huygens.knaw.nl
 www.wateropdekaart.nioo.knaw.nl
