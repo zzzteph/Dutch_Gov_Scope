@@ -5656,6 +5656,7 @@ edepot-wiki.huygens.knaw.nl
 edisyn.meertens.knaw.nl
 edities.mvn.huygens.knaw.nl
 edition.suriano.huygens.knaw.nl
+eerste-vrouwen-gemeenteraad-1919-1923.huygens.knaw.nl
 elaborate-editions.huygens.knaw.nl
 elaborate.huygens.knaw.nl
 elastic-prd01.dans.knaw.nl
@@ -5929,6 +5930,7 @@ macgw99.meertens.knaw.nl
 macu1.meertens.knaw.nl
 macu2.meertens.knaw.nl
 macu37.meertens.knaw.nl
+macu38.meertens.knaw.nl
 macu40.meertens.knaw.nl
 mail.ci.di.huc.knaw.nl
 mail.dev.huc.knaw.nl
@@ -6353,6 +6355,7 @@ rc01.dh.huc.knaw.nl
 rc02.dh.huc.knaw.nl
 rc03.dh.huc.knaw.nl
 rd.di.huc.knaw.nl
+rda-prd01.dans.knaw.nl
 rds.knaw.nl
 rds.nioo.knaw.nl
 rds7.knaw.nl
@@ -6427,6 +6430,7 @@ sd-skosmos.dev.huc.knaw.nl
 sd-yugoslavia.dev.huc.knaw.nl
 sd.di.huc.knaw.nl
 sdvnl31.dans.knaw.nl
+search.globalise.huygens.knaw.nl
 sec01.dans.knaw.nl
 secure.huygens.knaw.nl
 security.dans.knaw.nl
@@ -6584,6 +6588,7 @@ view.nin.knaw.nl
 vocabularies.dans.knaw.nl
 voornamen.meertens.knaw.nl
 vova.meertens.knaw.nl
+voxdoc.di.huc.knaw.nl
 vpn.knaw.nl
 vragenlijstenbank.meertens.knaw.nl
 vtb.meertens.knaw.nl
@@ -6658,6 +6663,7 @@ wp-17.dev.huc.knaw.nl
 www.aon.nin.knaw.nl
 www.back2roots.nioo.knaw.nl
 www.benjamin.nin.knaw.nl
+www.ci.di.huc.knaw.nl
 www.climatepursuit.nioo.knaw.nl
 www.dans.knaw.nl
 www.de-diepte.nioo.knaw.nl
@@ -7281,6 +7287,7 @@ iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
 idp-dgp.digipoort.logius.nl
 idp-dgp.preproductie.digipoort.logius.nl
+idp.preproductie.digipoort.logius.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
