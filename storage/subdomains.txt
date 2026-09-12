@@ -7656,6 +7656,7 @@ mimsmtp01.sapsmtp.minienm.nl
 mimsmtp02.sapsmtp.minienm.nl
 mimtbw.saphttp.minienm.nl
 mimtec.saphttp.minienm.nl
+mimxec.saphttp.minienm.nl
 mimxid.saphttp.minienm.nl
 mimxip.saphttp.minienm.nl
 mimxiq.saphttp.minienm.nl
