@@ -9099,6 +9099,7 @@ brt.acceptatie.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
 brt.test.basisregistraties.overheid.nl
 bta.omgevingswet.overheid.nl
+bwb-lpc-a.koop.overheid.nl
 cbm.acc.mijn.overheid.nl
 cbm.acc.picard.mijn.overheid.nl
 cbm.acc0.mijn.overheid.nl
@@ -9174,6 +9175,7 @@ developer.omgevingswet.overheid.nl
 developer.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
 digilab.overheid.nl
+digitaledienst.overheid.nl
 dmo.omgevingswet.overheid.nl
 dns1.overheid.nl
 dns2.overheid.nl
