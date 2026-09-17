@@ -9907,6 +9907,8 @@ apps.politieacademie.nl
 attenderingen-a.politieacademie.nl
 attenderingen-t.politieacademie.nl
 attenderingen.politieacademie.nl
+attenderingsservice-a.politieacademie.nl
+attenderingsservice-t.politieacademie.nl
 autodiscover.politieacademie.nl
 autodiscover.webmail.politieacademie.nl
 backbone.politieacademie.nl
@@ -10616,6 +10618,7 @@ resper.rdw.nl
 rexo.rdw.nl
 rexoopsrv1.rdw.nl
 rexoopsrv2.rdw.nl
+ria.rdw.nl
 rijbewijsaanvragen.rdw.nl
 rijbewijscontroleren.rdw.nl
 rme-api.rdw.nl
