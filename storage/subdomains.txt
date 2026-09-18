@@ -11304,6 +11304,7 @@ nextcloud.tst.rijkscloud.nl
 nextcloudpoc.ienwfib.rijkscloud.nl
 nexus.cvm.rijkscloud.nl
 nexus.devops.rvb.rijkscloud.nl
+nexus.koopvm.rijkscloud.nl
 nexus.test.ix.rijkscloud.nl
 nifi-registry.test.ix.rijkscloud.nl
 nifi.dgdoobi.rijkscloud.nl
@@ -11393,8 +11394,10 @@ pgadmin4.ix.rijkscloud.nl
 pgalab1.rvb.rijkscloud.nl
 platform-acc.analyse.ilt.rijkscloud.nl
 platform.analyse.ilt.rijkscloud.nl
+platform.ec1.rijkscloud.nl
 portaal-acceptatie.rijkscloud.nl
 portaal-iuc-acceptatie.rijkscloud.nl
+portal-console.ec.rijkscloud.nl
 portal-performance.test.ix.rijkscloud.nl
 portal.datascience.rijkscloud.nl
 portal.ec.rijkscloud.nl
@@ -11484,6 +11487,7 @@ resolv2.gn2.rijkscloud.nl
 resolv2.gn3.rijkscloud.nl
 resolv2.rijkscloud.nl
 resolv2.rw1.rijkscloud.nl
+resources.dev.dgdoobi.rijkscloud.nl
 revolution.rijkscloud.nl
 rijkscloud.nl
 rmq.front.ix.rijkscloud.nl
@@ -11529,6 +11533,7 @@ rstudio.jv-dspoc.rijkscloud.nl
 rstudio.jvs.ix.rijkscloud.nl
 rstudio.jvs.rijkscloud.nl
 rstudio.jvs1.lgs.rijkscloud.nl
+rstudio.jvsdemo.rijkscloud.nl
 rstudio.kim.rijkscloud.nl
 rstudio.michel.rijkscloud.nl
 rstudio.minszw.rijkscloud.nl
