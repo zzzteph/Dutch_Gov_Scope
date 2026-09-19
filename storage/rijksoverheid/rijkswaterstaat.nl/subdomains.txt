@@ -12,6 +12,7 @@ acceptatie.botova.rijkswaterstaat.nl
 acceptatie.esb.rijkswaterstaat.nl
 acceptatie.iam.rijkswaterstaat.nl
 acceptatie.mq.esb.rijkswaterstaat.nl
+acceptatie.proxy-scim.rijkswaterstaat.nl
 acceptatie.spin2.rijkswaterstaat.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
 acceptatie2.spin.rijkswaterstaat.nl
@@ -20,6 +21,7 @@ acp.live.werkenbij.rijkswaterstaat.nl
 acp.staging.rijkswaterstaat.nl
 acp.staging.werkenbij.rijkswaterstaat.nl
 ags.rijkswaterstaat.nl
+agw-esb.rijkswaterstaat.nl
 alliant.rijkswaterstaat.nl
 am.rijkswaterstaat.nl
 bathymetrie.rijkswaterstaat.nl

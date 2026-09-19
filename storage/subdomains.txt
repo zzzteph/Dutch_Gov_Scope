@@ -11781,6 +11781,7 @@ dns-portal300.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
 dns-web300.rijksoverheid.nl
 domeinnaamregistratie.rijksoverheid.nl
+domeinnaamregistratie2.rijksoverheid.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 feeds.rijksoverheid.nl
@@ -11869,6 +11870,7 @@ acceptatie.botova.rijkswaterstaat.nl
 acceptatie.esb.rijkswaterstaat.nl
 acceptatie.iam.rijkswaterstaat.nl
 acceptatie.mq.esb.rijkswaterstaat.nl
+acceptatie.proxy-scim.rijkswaterstaat.nl
 acceptatie.spin2.rijkswaterstaat.nl
 acceptatie.tws-esb.rijkswaterstaat.nl
 acceptatie2.spin.rijkswaterstaat.nl
@@ -11877,6 +11879,7 @@ acp.live.werkenbij.rijkswaterstaat.nl
 acp.staging.rijkswaterstaat.nl
 acp.staging.werkenbij.rijkswaterstaat.nl
 ags.rijkswaterstaat.nl
+agw-esb.rijkswaterstaat.nl
 alliant.rijkswaterstaat.nl
 am.rijkswaterstaat.nl
 bathymetrie.rijkswaterstaat.nl
