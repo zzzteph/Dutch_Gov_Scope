@@ -37,9 +37,12 @@ accclap.rws.nl
 acceptatie.beterbediend.rws.nl
 acceptatie.bics.rws.nl
 acceptatie.esb.rws.nl
+acceptatie.feature1.metainfomaker.rws.nl
 acceptatie.federatie.rws.nl
 acceptatie.gbvi.rws.nl
+acceptatie.hydro-services.rws.nl
 acceptatie.meridian.rws.nl
+acceptatie.metainfomaker.rws.nl
 acceptatie.mq1.esb.rws.nl
 acceptatie.mq2.esb.rws.nl
 acceptatie.nlhull.rws.nl
@@ -54,6 +57,8 @@ acceptatie.werkenbij.rws.nl
 acceptatie2.spin.rws.nl
 activemq-admin.incoming.test.vm-04.azure.grid.rws.nl
 ad.rws.nl
+adaguc-viewer.test.vm-05.azure.grid.rws.nl
+adaguc.acceptatie.vm-05.azure.grid.rws.nl
 adaguc.vm-05.azure.grid.rws.nl
 admin.rws.nl
 admin.test-rabbitmq.test.vm-04.azure.grid.rws.nl
@@ -65,6 +70,7 @@ alertbase.vm-05.azure.grid.rws.nl
 apim-internal.datalab-01.azure.grid.rws.nl
 apim-portal.datalab-01.azure.grid.rws.nl
 apim.datalab-01.azure.grid.rws.nl
+apisix.test.vm-05.azure.grid.rws.nl
 apop.esb.rws.nl
 aqualarm.rws.nl
 aquo-kit.rws.nl
@@ -104,7 +110,9 @@ centraaltoegangspuntdata.rws.nl
 chartmuseum.dmz.vm-04.azure.grid.rws.nl
 chartmuseum.test.vm-04.azure.grid.rws.nl
 chat-api.acceptatie.vm-05.azure.grid.rws.nl
+chat-api.procedures.acceptatie.vm-05.azure.grid.rws.nl
 chat-api.procedures.test.vm-05.azure.grid.rws.nl
+chat-api.procedures.vm-05.azure.grid.rws.nl
 chat-api.test.vm-05.azure.grid.rws.nl
 chat-api.vm-05.azure.grid.rws.nl
 chat.datalab-01.azure.grid.rws.nl
@@ -187,6 +195,7 @@ fcd-prod-bemobile-trajectorien.dmz.vm-04.azure.grid.rws.nl
 fcd-prod-bemobile-trajectorien.rws.nl
 federatie.rws.nl
 flow.rws.nl
+gateway.prometheus-pushgateway.test.vm-04.azure.grid.rws.nl
 geo.rws.nl
 geoservices.rws.nl
 geostenen.grid.rws.nl
@@ -196,6 +205,7 @@ git.rws.nl
 gitlab.at.rws.nl
 grafana-acc.vm-02.azure.grid.rws.nl
 grafana-test.vm-02.azure.grid.rws.nl
+grafana.acceptatie.vm-05.azure.grid.rws.nl
 grafana.test.vm-04.azure.grid.rws.nl
 grafana.test.vm-05.azure.grid.rws.nl
 grafana.vm-02.azure.grid.rws.nl
@@ -210,7 +220,10 @@ guestportal4.rws.nl
 helloworld-acc.vm-02.azure.grid.rws.nl
 helloworld-prod.vm-02.azure.grid.rws.nl
 hld.rws.nl
+host-api.acceptatie.vm-05.azure.grid.rws.nl
+host-api.test.vm-05.azure.grid.rws.nl
 host-api.vm-05.azure.grid.rws.nl
+host-ui.acceptatie.vm-05.azure.grid.rws.nl
 host-ui.vm-05.azure.grid.rws.nl
 iam.wm.rws.nl
 imgdownload.rws.nl
@@ -276,7 +289,9 @@ langfuse.test.vm-05.azure.grid.rws.nl
 langfuse.vm-05.azure.grid.rws.nl
 legacy.rws.nl
 lis.rws.nl
+loki.acceptatie.vm-05.azure.grid.rws.nl
 loki.test.vm-05.azure.grid.rws.nl
+loki.vm-05.azure.grid.rws.nl
 lp-dynac.rws.nl
 lws2013-int.rws.nl
 mail.rws.nl
@@ -288,6 +303,8 @@ matroos.rws.nl
 mbaks007.rws-a5-t.azure.gridtst.rws.nl
 meetgegevens.test.vm-05.azure.grid.rws.nl
 meridian.rws.nl
+meteo-data-ogcapi-maps.acceptatie.vm-05.azure.grid.rws.nl
+meteo-data-ogcapi-maps.test.vm-05.azure.grid.rws.nl
 meteo-data-ogcapi-maps.vm-05.azure.grid.rws.nl
 mimir.acceptatie.vm-05.azure.grid.rws.nl
 mimir.test.vm-05.azure.grid.rws.nl
@@ -295,7 +312,9 @@ minio-console.acceptatie.vm-05.azure.grid.rws.nl
 minio-console.test.vm-05.azure.grid.rws.nl
 minio-console.vm-05.azure.grid.rws.nl
 minio-indexer.acceptatie.vm-05.azure.grid.rws.nl
+minio-indexer.procedures.acceptatie.vm-05.azure.grid.rws.nl
 minio-indexer.procedures.test.vm-05.azure.grid.rws.nl
+minio-indexer.procedures.vm-05.azure.grid.rws.nl
 minio-indexer.test.vm-05.azure.grid.rws.nl
 minio-indexer.vm-05.azure.grid.rws.nl
 minio-operator.test.vm-04.azure.grid.rws.nl
@@ -307,6 +326,7 @@ minio.vm-05.azure.grid.rws.nl
 mip-proxy-acc.rws.nl
 mip-proxy-prod.rws.nl
 mip.rws.nl
+mist.vm-05.azure.grid.rws.nl
 mon.grid.rws.nl
 mq1.esb.rws.nl
 mq2.esb.rws.nl
@@ -524,6 +544,7 @@ nginx-test4.dmz.vm-04.azure.grid.rws.nl
 nis.rws.nl
 nlhull.rws.nl
 nlrdms.rws.nl
+nomad-server-test.vm-02.azure.grid.rws.nl
 noos.matroos.rws.nl
 notifications.acceptatie.vm-05.azure.grid.rws.nl
 notifications.test.vm-05.azure.grid.rws.nl
@@ -549,6 +570,7 @@ poc-ort-foundry.rws-ort.azure.grid.rws.nl
 poc-werkplek.rws.nl
 port-enc.rws.nl
 procedures-api.vm-05.azure.grid.rws.nl
+procedures-ui.acceptatie.vm-05.azure.grid.rws.nl
 procedures-ui.vm-05.azure.grid.rws.nl
 prod-fcd-bemobile-aid-triggers.rws.nl
 prod-fcd-bemobile-trajectorien.rws.nl
@@ -563,6 +585,7 @@ ptp.acc-inloggen.rws.nl
 ptp.inloggen.rws.nl
 public.vm-05.azure.grid.rws.nl
 rabbitmq-admin.publicatie.test.vm-04.azure.grid.rws.nl
+rabbitmq-admin.regression-rabbitmq-multiplier.test.vm-04.azure.grid.rws.nl
 rabbitmq-magkapot-admin.publicatie.test.vm-04.azure.grid.rws.nl
 rabbitmq-multiplier-2-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 rabbitmq-multiplier-vcmn-actuator.publicatie.test.vm-04.azure.grid.rws.nl
@@ -576,6 +599,7 @@ raw-data-multiplier-aid-triggers.fcd-acc.dmz.vm-04.azure.grid.rws.nl
 raw-data-multiplier-aid-triggers.fcd-prod.dmz.vm-04.azure.grid.rws.nl
 raw-data-multiplier-civvv-actuator.incoming.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-from-civvv.incoming.test.vm-04.azure.grid.rws.nl
+raw-data-multiplier-trajectorien.fcd-acc.dmz.vm-04.azure.grid.rws.nl
 raw-data-multiplier-vcmn-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-vcnon-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 raw-data-multiplier-vcnwn-actuator.publicatie.test.vm-04.azure.grid.rws.nl
@@ -584,6 +608,8 @@ raw-data-multiplier-vczwn-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 raw-data-multiplyer-from-cnap-acc.incoming.test.vm-04.azure.grid.rws.nl
 rdw-proxy-actuators.tolvrij.test.vm-04.azure.grid.rws.nl
 redactie.rwskennisplatform.rws.nl
+regression-rabbitmq-multiplier-2-actuator.publicatie.test.vm-04.azure.grid.rws.nl
+regression-rabbitmq-multiplier-actuator.publicatie.test.vm-04.azure.grid.rws.nl
 relay-1.rws.nl
 relay-1s.rws.nl
 relay-2.rws.nl
@@ -614,6 +640,8 @@ spin.rws.nl
 spin2.rws.nl
 splunkhec.grid.rws.nl
 splunkhec.gridacc.rws.nl
+sprinkler-control.acceptatie.vm-05.azure.grid.rws.nl
+sprinkler-control.vm-05.azure.grid.rws.nl
 sspmas.rws.nl
 st-dynac.rws.nl
 standaarden.rws.nl
@@ -637,6 +665,8 @@ taz-minio-api.infra-24.azure.grid.rws.nl
 taz-minio.infra-24.azure.grid.rws.nl
 taz-vault.infra-24.azure.grid.rws.nl
 techniekacademie.rws.nl
+tempo.test.vm-05.azure.grid.rws.nl
+tempo.vm-05.azure.grid.rws.nl
 test-aquo-kit.rws.nl
 test-filestore.test.vm-04.azure.grid.rws.nl
 test-inloggen.rws.nl
@@ -693,6 +723,7 @@ validator-lkt-aid-triggers.fcd-acceptatietest.dmz.vm-04.azure.grid.rws.nl
 vcmn-mtm2-pushesbxml.publicatie.test.vm-04.azure.grid.rws.nl
 vegetatiemonitor.rws.nl
 videoexchange.rws.nl
+visie-vaarwegen.datalab-01.azure.grid.rws.nl
 vitaal.matroos.rws.nl
 vtwdatabase.rws.nl
 vwantestswecen.rws-a5-p.azure.grid.rws.nl
@@ -717,7 +748,9 @@ waterwebservices-acc.rws.nl
 waterwebservices-accmig.rws.nl
 waterwebservices-tst.rws.nl
 wbg.rws.nl
+weather-api.acceptatie.vm-05.azure.grid.rws.nl
 weather-api.vm-05.azure.grid.rws.nl
+weather-ui.acceptatie.vm-05.azure.grid.rws.nl
 weather-ui.vm-05.azure.grid.rws.nl
 webhook-teams.rws.nl
 webportaal-acc.rws.nl
