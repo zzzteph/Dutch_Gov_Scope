@@ -1,3 +1,5 @@
+acc.acm.nl
+acceptatie.acm.nl
 acm.nl
 api-a.acm.nl
 api-a.services.acm.nl
@@ -35,6 +37,8 @@ dip.acm.nl
 dip.services.acm.nl
 dns3.acm.nl
 dns4.acm.nl
+enterpriseenrollment.acm.nl
+enterpriseregistration.acm.nl
 exchange.acm.nl
 exchange.services.acm.nl
 external.connect.acm.nl
@@ -42,6 +46,7 @@ external.dev.connect.acm.nl
 fems.acm.nl
 fems.services.acm.nl
 fmreturn.acm.nl
+ftp.acm.nl
 gasten.acm.nl
 ggm.acm.nl
 icgw.acm.nl
@@ -49,6 +54,7 @@ icgw.services.acm.nl
 ipsec-odcn.services.acm.nl
 ipsec.acm.nl
 ipsec.services.acm.nl
+ipv4.acm.nl
 ise.acm.nl
 jaarverslag.acm.nl
 k8s-cw.acm.nl
@@ -61,6 +67,7 @@ mail3.acm.nl
 management.connect.acm.nl
 management.dev.connect.acm.nl
 markt-overheid.acm.nl
+mbg.acm.nl
 meeting.acm.nl
 meeting.services.acm.nl
 mijn-acc.acm.nl
@@ -85,6 +92,7 @@ sentry.acm.nl
 sentry.services.acm.nl
 sentry1.acm.nl
 services.acm.nl
+test.acm.nl
 test.gegevensmagazijn.acm.nl
 tst.connect.acm.nl
 ucs.acm.nl
@@ -93,6 +101,7 @@ vpn.acm.nl
 vpn.services.acm.nl
 vsp.acm.nl
 vsp.services.acm.nl
+webmail.acm.nl
 werkplek.acm.nl
 werkplek.services.acm.nl
 wf5051.acm.nl
@@ -102,4 +111,5 @@ wifi.acm.nl
 wlc1254.acm.nl
 www.acm.nl
 www.authentication.acm.nl
+www.consument.acm.nl
 zendto.acm.nl
