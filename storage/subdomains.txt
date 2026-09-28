@@ -577,6 +577,7 @@ ctstest4k.belastingdienst.nl
 ctstest4k2.belastingdienst.nl
 dac7.acc.belastingdienst.nl
 dac7.belastingdienst.nl
+dac8.belastingdienst.nl
 datumprikker.belastingdienst.nl
 dbcrco.belastingdienst.nl
 dbpmo.belastingdienst.nl
@@ -780,6 +781,8 @@ kennisnetwerk.belastingdienst.nl
 ketentestnvr.belastingdienst.nl
 kois-test.belastingdienst.nl
 kois-token-test.belastingdienst.nl
+kois-token.belastingdienst.nl
+kois.belastingdienst.nl
 kp-moss-ut.tst.belastingdienst.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
@@ -787,6 +790,8 @@ leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
+login.acc.belastingdienst.nl
+login.oauth.acc.belastingdienst.nl
 lrbh2ha.belastingdienst.nl
 lrbh2hb.belastingdienst.nl
 mail.bac.belastingdienst.nl
