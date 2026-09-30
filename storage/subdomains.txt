@@ -1920,6 +1920,7 @@ sftp.cbs.nl
 sftp.test.cbs.nl
 sftp4dummies.cbs.nl
 smartsurveys.cbs.nl
+smartsurveys.heartbeat.cbs.nl
 ssh.cbs.nl
 statline.cbs.nl
 status.cbs.nl
@@ -1935,6 +1936,7 @@ test.cerberus.cbs.nl
 test.ebms.cbs.nl
 test.gecko.cbs.nl
 test.status.cbs.nl
+tip-heartbeat.cbs.nl
 topdeskit-t4.cbs.nl
 tunnel.cbs.nl
 tunnel1.cbs.nl
