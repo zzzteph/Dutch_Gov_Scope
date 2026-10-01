@@ -2303,6 +2303,7 @@ fed.cpb.nl
 fs.cpb.nl
 m365.cpb.nl
 mail.cpb.nl
+smtp.cpb.nl
 www.cpb.nl
 api.crimediggers.nl
 cdn.crimediggers.nl
@@ -2405,6 +2406,8 @@ acceptatie.facility.cultureelerfgoed.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 api-gateway.archis.cultureelerfgoed.nl
 api.linkeddata.cultureelerfgoed.nl
+archeobotanie.archis.cultureelerfgoed.nl
+archeozoologie.archis.cultureelerfgoed.nl
 archis.cultureelerfgoed.nl
 archisarchief.cultureelerfgoed.nl
 auth.services.cultureelerfgoed.nl
@@ -2519,8 +2522,10 @@ dcc-ienw.nl
 www.dcc-ienw.nl
 dcypher.nl
 www.dcypher.nl
+acc.defensie.nl
 acc.magazines.defensie.nl
 defensie.nl
+dev.defensie.nl
 dev.magazines.defensie.nl
 editorial.defensie.nl
 english.defensie.nl
@@ -2528,7 +2533,9 @@ magazines.defensie.nl
 mrt.defensie.nl
 nimh-beeldbank.defensie.nl
 ssl.defensie.nl
+www.acc.defensie.nl
 www.defensie.nl
+www.dev.defensie.nl
 dejuistezorgopdejuisteplek.nl
 regiobeelden.dejuistezorgopdejuisteplek.nl
 voorbeelden.dejuistezorgopdejuisteplek.nl

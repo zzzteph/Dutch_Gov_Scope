@@ -14,6 +14,8 @@ acceptatie.facility.cultureelerfgoed.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 api-gateway.archis.cultureelerfgoed.nl
 api.linkeddata.cultureelerfgoed.nl
+archeobotanie.archis.cultureelerfgoed.nl
+archeozoologie.archis.cultureelerfgoed.nl
 archis.cultureelerfgoed.nl
 archisarchief.cultureelerfgoed.nl
 auth.services.cultureelerfgoed.nl
