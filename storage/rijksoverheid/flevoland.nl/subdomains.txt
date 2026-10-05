@@ -28,6 +28,9 @@ exchange.flevoland.nl
 felix-preproductie.flevoland.nl
 felix.flevoland.nl
 flair-demo.flevoland.nl
+flair-dev-schrwzr.ai.flevoland.nl
+flair-dev.ai.flevoland.nl
+flair-dev.internal.flevoland.nl
 flair.ai.flevoland.nl
 flair.internal.flevoland.nl
 flevoland.nl
@@ -64,6 +67,8 @@ mdm.flevoland.nl
 meepraten.flevoland.nl
 mgt.flevoland.nl
 monitorwonen.flevoland.nl
+n8n-dev-schrwzr.ai.flevoland.nl
+n8n-dev.ai.flevoland.nl
 natuurbeheerplan.flevoland.nl
 nhr.flevoland.nl
 nnn.flevoland.nl
