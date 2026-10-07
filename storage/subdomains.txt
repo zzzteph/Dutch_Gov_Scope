@@ -4512,6 +4512,7 @@ portaal.huurcommissie.nl
 s.checkjeprijs.huurcommissie.nl
 scansys.huurcommissie.nl
 shopper.huurcommissie.nl
+smtp.shopper.huurcommissie.nl
 sumatra.huurcommissie.nl
 synergy.huurcommissie.nl
 telewerk.huurcommissie.nl
@@ -4752,6 +4753,7 @@ www.inburgeren.nl
 academie.ind.nl
 acc.download.ind.nl
 acc.login.ind.nl
+acceptatie.ind.nl
 advocaten.ind.nl
 beheer.chat.ind.nl
 chat.ind.nl
@@ -4773,6 +4775,7 @@ oap.ind.nl
 portal.ind.nl
 public.portal.ind.nl
 statistics.ind.nl
+test.ind.nl
 tmp.oap.ind.nl
 www.academie.ind.nl
 www.ind.nl
@@ -4789,7 +4792,9 @@ informatiehuishouding.nl
 magazines.informatiehuishouding.nl
 www.informatiehuishouding.nl
 autodiscover.informatiehuismarien.nl
+bnc3.informatiehuismarien.nl
 informatiehuismarien.nl
+mail.informatiehuismarien.nl
 www.informatiehuismarien.nl
 informatiepuntdigitaleoverheid.nl
 www.informatiepuntdigitaleoverheid.nl
