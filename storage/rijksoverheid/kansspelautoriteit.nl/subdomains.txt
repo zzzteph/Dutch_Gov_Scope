@@ -20,6 +20,7 @@ api-proeftuin.kansspelautoriteit.nl
 api-test.kansspelautoriteit.nl
 api.acc-cruks.kansspelautoriteit.nl
 api.kansspelautoriteit.nl
+autodiscover.kansspelautoriteit.nl
 cdb.kansspelautoriteit.nl
 cruks-acc.kansspelautoriteit.nl
 cruks-test.kansspelautoriteit.nl
@@ -28,6 +29,7 @@ file.kansspelautoriteit.nl
 formulieren.kansspelautoriteit.nl
 intranet.kansspelautoriteit.nl
 kansspelautoriteit.nl
+mx.kansspelautoriteit.nl
 open.kansspelautoriteit.nl
 portal.kansspelautoriteit.nl
 prod-cdb-01-238-545-v1.kansspelautoriteit.nl
@@ -152,6 +154,7 @@ sandbox.kansspelautoriteit.nl
 send.kansspelautoriteit.nl
 stats.kansspelautoriteit.nl
 sts.kansspelautoriteit.nl
+test.kansspelautoriteit.nl
 toolkit-cruks.kansspelautoriteit.nl
 toolkit.kansspelautoriteit.nl
 webmail.kansspelautoriteit.nl

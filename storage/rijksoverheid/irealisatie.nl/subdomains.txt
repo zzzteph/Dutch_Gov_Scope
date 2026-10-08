@@ -12,6 +12,7 @@ adressering.test.gf.irealisatie.nl
 adressering.test2.gf.irealisatie.nl
 api-minfin.acc.woo.irealisatie.nl
 api-minfin.test.woo.irealisatie.nl
+api-minocw.test.woo.irealisatie.nl
 api-minvws.acc.woo.irealisatie.nl
 api-minvws.test.woo.irealisatie.nl
 api.acc.woo.irealisatie.nl
@@ -21,6 +22,7 @@ app-api.acc.mgo.irealisatie.nl
 app-api.test.mgo.irealisatie.nl
 balie-minfin.acc.woo.irealisatie.nl
 balie-minfin.test.woo.irealisatie.nl
+balie-minocw.test.woo.irealisatie.nl
 balie-minvws.acc.woo.irealisatie.nl
 balie-minvws.test.woo.irealisatie.nl
 balie.acc.woo.irealisatie.nl
@@ -181,6 +183,7 @@ vpn.irealisatie.nl
 waltid-dev-wallet.test.gf.irealisatie.nl
 web-minfin.acc.woo.irealisatie.nl
 web-minfin.test.woo.irealisatie.nl
+web-minocw.test.woo.irealisatie.nl
 web-minvws.acc.woo.irealisatie.nl
 web-minvws.test.woo.irealisatie.nl
 web.acc.dpr.irealisatie.nl
