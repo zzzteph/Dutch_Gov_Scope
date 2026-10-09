@@ -1,5 +1,6 @@
 acp.kvk.nl
 adfs.kvk.nl
+admin.kvk.nl
 admin.tbadmin.dev.kvk.nl
 admin.tbadmin.kvk.nl
 admin.tbadmin.npo.kvk.nl
@@ -27,6 +28,7 @@ bedrijventeller.kvk.nl
 beheer.kvk.nl
 beheervpn.kvk.nl
 berichtenportaal.acp.kvk.nl
+blog.kvk.nl
 boris.acp.kvk.nl
 boris.kvk.nl
 bris.acp.kvk.nl
@@ -41,6 +43,7 @@ dataservice.acp.kvk.nl
 dataservice.kvk.nl
 dataservice.preprod.kvk.nl
 db.kvk.nl
+dbadmin.kvk.nl
 dev.kvk.nl
 developers.acp.kvk.nl
 developers.kvk.nl
@@ -48,9 +51,11 @@ dialin.kvk.nl
 diensten.kvk.nl
 diensten.npo.kvk.nl
 directchat.kvk.nl
+docs.kvk.nl
 downloads.acp.kvk.nl
 downloads.kvk.nl
 e.kvk.nl
+email.kvk.nl
 enterpriseenrollment.kvk.nl
 enterpriseregistration.kvk.nl
 events.kvk.nl
@@ -75,6 +80,7 @@ ipp.kvk.nl
 kos.acp.kvk.nl
 kos.kvk.nl
 kos.preprod.kvk.nl
+kos.staging.kvk.nl
 kvk.nl
 kvkdata.kvk.nl
 legitimeren.kvk.nl
@@ -89,6 +95,7 @@ microcontent.ondernemersplein.kvk.nl
 msafe.kvk.nl
 msoid.kvk.nl
 mta.email.kvk.nl
+nas.kvk.nl
 notify-pay.kvk.nl
 notify.acp.kvk.nl
 npo.kvk.nl
@@ -102,6 +109,7 @@ opendata.acp.kvk.nl
 opendata.kvk.nl
 opendata.preprod.kvk.nl
 osb.kvk.nl
+owa.kvk.nl
 payt.kvk.nl
 pdc.dev.kvk.nl
 pdc.kvk.nl
@@ -129,6 +137,7 @@ sgtmdop.kvk.nl
 sip2.kvk.nl
 smtp.kvk.nl
 solliciteer-direct.kvk.nl
+sslvpn.kvk.nl
 staging.assets.kvk.nl
 staging.werkenbij.kvk.nl
 status.kvk.nl

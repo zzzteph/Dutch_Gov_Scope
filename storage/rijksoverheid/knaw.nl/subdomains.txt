@@ -118,6 +118,7 @@ bgb.resources.huygens.knaw.nl
 bia.huygens.knaw.nl
 bibliotheek.meertens.knaw.nl
 biland.huygens.knaw.nl
+bioinf-open-day.nioo.knaw.nl
 bioinf.nioo.knaw.nl
 bitwarden.knaw.nl
 bnm-i.huygens.knaw.nl
@@ -152,6 +153,7 @@ ci.di.huc.knaw.nl
 ckcc.huygens.knaw.nl
 climatepursuit.nioo.knaw.nl
 cloud.knaw.nl
+cloud.nioo.knaw.nl
 cloud.test.nioo.knaw.nl
 clusiuscorrespondence.huygens.knaw.nl
 clusiuscorrespondence2.huygens.knaw.nl
@@ -296,6 +298,7 @@ fryske1.fa.knaw.nl
 fryske2.fa.knaw.nl
 fuseki.zandbak.dans.knaw.nl
 ga-wp3.sd.di.huc.knaw.nl
+ga.sd.di.huc.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 gbs-server.bureau.knaw.nl
 gbs.client.bureau.knaw.nl
@@ -316,6 +319,7 @@ globalise-refdata.huc.knaw.nl
 globalise.huygens.knaw.nl
 globhut.labs.dans.knaw.nl
 goetgevonden.huygens.knaw.nl
+goldenagentsdata.huygens.knaw.nl
 goudeneeuwblog.huygens.knaw.nl
 graph-qlever.sd.di.huc.knaw.nl
 graph.sd.di.huc.knaw.nl
@@ -408,6 +412,7 @@ intranet.huc.knaw.nl
 intranet.knaw.nl
 intranet.nin.knaw.nl
 inventaris.huygens.knaw.nl
+isidore.sd.di.huc.knaw.nl
 israels.dev.huygens.knaw.nl
 itop.test.ib.knaw.nl
 ivanticsa01.knaw.nl
@@ -941,6 +946,7 @@ privilege.huc.knaw.nl
 prizepapers.huygens.knaw.nl
 prod.timbuctoo.red.huygens.knaw.nl
 projecten.meertens.knaw.nl
+projects.pages.bioinf.nioo.knaw.nl
 promise.nioo.knaw.nl
 provenance.dev.huc.knaw.nl
 pts31.dans.knaw.nl
@@ -1044,8 +1050,10 @@ services.gmh.dans.knaw.nl
 shebanq.huc.knaw.nl
 skosmos.zandbak.dans.knaw.nl
 slave1.darenet.knaw.nl
+socialeveiligheid.knaw.nl
 soilpros.nioo.knaw.nl
 solr.zandbak.dans.knaw.nl
+sparkles.nioo.knaw.nl
 sparql.zandbak.dans.knaw.nl
 spibirds.nioo-preprod.knaw.nl
 spinner.knaw.nl
@@ -1061,6 +1069,7 @@ staging.meertens.knaw.nl
 stats.dans.knaw.nl
 stats.knaw.nl
 status.dans.knaw.nl
+stedelijkwater.wateropdekaart.nioo.knaw.nl
 stilletochten.meertens.knaw.nl
 storage.knaw.nl
 storage.labs.dans.knaw.nl
@@ -1110,6 +1119,7 @@ tdvnl31.dans.knaw.nl
 teamcity.dev.huc.knaw.nl
 test.adminpure.knaw.nl
 test.alexandria.huygens.knaw.nl
+test.bioport.huygens.knaw.nl
 test.did.zandbak.dans.knaw.nl
 test.huygens.knaw.nl
 test.meertens.knaw.nl
@@ -1137,6 +1147,7 @@ timetell.knaw.nl
 tjalie-robinson.huygens.knaw.nl
 tkemp01.knaw.nl
 tmfiles.knaw.nl
+tntl.huygens.knaw.nl
 tod.dans.knaw.nl
 todo.nin.knaw.nl
 tomcat.tiler01.huygens.knaw.nl
