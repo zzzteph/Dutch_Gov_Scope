@@ -7533,6 +7533,7 @@ test.meldpuntbodemkwaliteit.nl
 www.meldpuntbodemkwaliteit.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 www.meldpuntgeneesmiddelentekortendefecten.nl
+autodiscover.mensenrechten.nl
 cms.mensenrechten.nl
 complaintform.mensenrechten.nl
 em537742.mensenrechten.nl
@@ -7626,6 +7627,7 @@ signing.ingelogd.mijnslachtofferzaak.nl
 signing.ingelogd.staging.mijnslachtofferzaak.nl
 www.mijnslachtofferzaak.nl
 acc.milieuzones.nl
+autodiscover.milieuzones.nl
 milieuzones.nl
 prod.milieuzones.nl
 test.milieuzones.nl
