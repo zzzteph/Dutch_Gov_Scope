@@ -8029,6 +8029,7 @@ www.mycoa.nl
 n3werkzaamheden.nl
 www.n3werkzaamheden.nl
 elearning.naarnederland.nl
+english.naarnederland.nl
 mail.naarnederland.nl
 naarnederland.nl
 www.naarnederland.nl
@@ -8096,6 +8097,7 @@ service.nationaalarchief.nl
 sftp.acpt.nationaalarchief.nl
 sftp.nationaalarchief.nl
 sftp.ted.nationaalarchief.nl
+tanap.nationaalarchief.nl
 ted.nationaalarchief.nl
 telewerken.nationaalarchief.nl
 test.nationaalarchief.nl
@@ -8127,6 +8129,7 @@ zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 nationaalgroeifonds.nl
 www.nationaalgroeifonds.nl
+f071.nationaalinnovatieloketveehouderij.nl
 nationaalinnovatieloketveehouderij.nl
 www.nationaalinnovatieloketveehouderij.nl
 nationaalmilieuprogramma.nl
@@ -8158,6 +8161,8 @@ autodiscover.nationaleombudsman.nl
 jaarverslag.nationaleombudsman.nl
 mta-sts.nationaleombudsman.nl
 nationaleombudsman.nl
+pop.nationaleombudsman.nl
+smtp.nationaleombudsman.nl
 vragenlijst.nationaleombudsman.nl
 www.nationaleombudsman.nl
 _autodiscover._tcp.natura2000.nl
@@ -8267,6 +8272,7 @@ dev.cbrnsecurity.nctv.nl
 dev.kennisbankterrorisme.nctv.nl
 elearning-atb.nctv.nl
 elearning-basiscrisisbeheersing.nctv.nl
+elearning-dierenrechtenextremisme.nctv.nl
 elearning-irb.nctv.nl
 elearning-lcp-egt.nctv.nl
 elearning-zvjz-medewerkers.nctv.nl
@@ -8288,6 +8294,7 @@ symbolenbank.nctv.nl
 toolbox-extremisme.nctv.nl
 www.nctv.nl
 acceptatie-melvin.ndw.nu
+admin.ndw.nu
 ams-closures.ndw.nu
 analytics.ndw.nu
 analytics.staging.ndw.nu
@@ -8400,6 +8407,7 @@ www.nt.ndw.nu
 xdev.staging.ndw.nu
 nederlandcirculairin2050.nl
 www.nederlandcirculairin2050.nl
+aanmelder.nederlanddigitaal.nl
 nederlanddigitaal.nl
 www.nederlanddigitaal.nl
 nederlandse-sportraad.nl
@@ -8427,6 +8435,7 @@ www.minlnv.nederlandsesoorten.nl
 www.nederlandsesoorten.nl
 nederlandtegengeorganiseerdemisdaad.nl
 www.nederlandtegengeorganiseerdemisdaad.nl
+2372083.informatieservice.nederlandwereldwijd.nl
 a-api.nederlandwereldwijd.nl
 a-voorlichting.nederlandwereldwijd.nl
 a-www.nederlandwereldwijd.nl
@@ -8458,6 +8467,7 @@ a-www.netherlandsworldwide.nl
 netherlandsworldwide.nl
 preview.netherlandsworldwide.nl
 track.netherlandsworldwide.nl
+update.netherlandsworldwide.nl
 www.netherlandsworldwide.nl
 netwerkplatteland.nl
 www.netwerkplatteland.nl
