@@ -4,6 +4,7 @@ acc.inspectieresultaten.nvwa.nl
 acc2.inspectieresultaten.nvwa.nl
 amdata-acc.nvwa.nl
 amdata.nvwa.nl
+api.nvwa.nl
 bvma.nvwa.nl
 bvmagr.nvwa.nl
 e-CertNL.nvwa.nl
@@ -24,6 +25,7 @@ iwelcome-preprod.nvwa.nl
 iwelcome.nvwa.nl
 labvantage-acc.nvwa.nl
 labvantage.nvwa.nl
+mail.e-captain.nvwa.nl
 mailserver.service.nvwa.nl
 mijn-acc.nvwa.nl
 mijn.nvwa.nl

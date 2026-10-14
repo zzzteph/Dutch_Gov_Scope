@@ -8289,6 +8289,7 @@ opendata.nctv.nl
 pge.nctv.nl
 privacy.nctv.nl
 radicaalofpuberaal.nctv.nl
+radicalisering.nctv.nl
 securityzkh.nctv.nl
 symbolenbank.nctv.nl
 toolbox-extremisme.nctv.nl
@@ -8347,6 +8348,7 @@ maps.staging.ndw.nu
 melvin-acc.staging.ndw.nu
 melvin.ndw.nu
 mijn.ndw.nu
+mijn.staging.ndw.nu
 mijnrdtmnl.ndw.nu
 milo.ndw.nu
 mlops-models.ndw.nu
@@ -8496,6 +8498,7 @@ acceptatie.nipv.nl
 acceptatie.wvsv.nipv.nl
 archief.acceptatie.nipv.nl
 archief.nipv.nl
+autodiscover.nipv.nl
 beheer-tgv-acceptatie.nipv.nl
 beheer-tgv-test.nipv.nl
 beheer-tgv.nipv.nl
@@ -8523,6 +8526,7 @@ tgv-acceptatie.nipv.nl
 tgv-test.nipv.nl
 tgv.nipv.nl
 uitgeverij.nipv.nl
+vpn.nipv.nl
 werkenbij.acceptatie.nipv.nl
 werkenbij.nipv.nl
 wvsv.acceptatie.nipv.nl
@@ -8553,6 +8557,7 @@ selector2._domainkey.nlarbeidsinspectie.nl
 test.portaal.nlarbeidsinspectie.nl
 test.resultaten.nlarbeidsinspectie.nl
 www.nlarbeidsinspectie.nl
+autodiscover.nldesignsystem.nl
 editor.nldesignsystem.nl
 nldesignsystem.nl
 storybook.nldesignsystem.nl
@@ -8573,6 +8578,7 @@ www.acc.nldoc.nl
 www.acc2.nldoc.nl
 www.nldoc.nl
 www.rke2.nldoc.nl
+autodiscover.nlflag.nl
 nlflag.nl
 www.nlflag.nl
 nlinfrankrijk.nl
@@ -8624,6 +8630,7 @@ acc.inspectieresultaten.nvwa.nl
 acc2.inspectieresultaten.nvwa.nl
 amdata-acc.nvwa.nl
 amdata.nvwa.nl
+api.nvwa.nl
 bvma.nvwa.nl
 bvmagr.nvwa.nl
 e-CertNL.nvwa.nl
@@ -8644,6 +8651,7 @@ iwelcome-preprod.nvwa.nl
 iwelcome.nvwa.nl
 labvantage-acc.nvwa.nl
 labvantage.nvwa.nl
+mail.e-captain.nvwa.nl
 mailserver.service.nvwa.nl
 mijn-acc.nvwa.nl
 mijn.nvwa.nl
