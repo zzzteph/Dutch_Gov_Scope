@@ -1,3 +1,4 @@
+email.mg.extranet.onderwijsraad.nl
 extranet.onderwijsraad.nl
 formdesk.onderwijsraad.nl
 kluis.onderwijsraad.nl
@@ -6,6 +7,9 @@ onderwijsraad.nl
 outbound.onderwijsraad.nl
 pushmail.onderwijsraad.nl
 rdgateway.onderwijsraad.nl
+spamfilter.onderwijsraad.nl
 ts.onderwijsraad.nl
+webhook.onderwijsraad.nl
+webmail.onderwijsraad.nl
 webshop.onderwijsraad.nl
 www.onderwijsraad.nl
