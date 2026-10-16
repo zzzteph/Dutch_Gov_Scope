@@ -146,6 +146,7 @@ cio-eto.overheid.nl
 cio.overheid.nl
 cloudstorage-koop.overheid.nl
 cmsgui.ondernemersplein.overheid.nl
+code.digitaledienst.overheid.nl
 code.overheid.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
@@ -176,6 +177,10 @@ dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
 dash-mt.mijn.overheid.nl
 data-acc.overheid.nl
+data-api-acc.overheid.nl
+data-api.overheid.nl
+data-beheer-acc.overheid.nl
+data-beheer.overheid.nl
 data.overheid.nl
 decentrale.regelgeving.overheid.nl
 decreg-acc.overheid.nl
@@ -211,6 +216,7 @@ ebb-a-az2.mijn.overheid.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
 ebms.service.bta.omgevingswet.overheid.nl
+ebms.service.pre.omgevingswet.overheid.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
 eidas-stub.lpc.mijn.overheid.nl
@@ -312,6 +318,7 @@ mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
 natuur.omgevingswet.overheid.nl
+nerds.digitaledienst.overheid.nl
 node1.acc.statistiek.mijn.overheid.nl
 npo-systemteam.overheid.nl
 ob.mijn.overheid.nl
@@ -320,6 +327,7 @@ ondernemersplein.overheid.nl
 ondersteuning.omgevingswet.overheid.nl
 onderzoek.wegwijzer.overheid.nl
 open-acc.overheid.nl
+open-pre.overheid.nl
 open.overheid.nl
 oproepingen-acc.overheid.nl
 oproepingen-api-acc-poc.overheid.nl
