@@ -14,12 +14,16 @@ attenderingen-t.politieacademie.nl
 attenderingen.politieacademie.nl
 attenderingsservice-a.politieacademie.nl
 attenderingsservice-t.politieacademie.nl
+attenderingsservice.politieacademie.nl
 autodiscover.politieacademie.nl
 autodiscover.webmail.politieacademie.nl
 backbone.politieacademie.nl
 bromtotaal.politieacademie.nl
 bronnen-t.politieacademie.nl
 bronnen.politieacademie.nl
+canvas-a.politieacademie.nl
+canvas-t.politieacademie.nl
+canvas.politieacademie.nl
 case360-a.politieacademie.nl
 case360-t.politieacademie.nl
 case360.politieacademie.nl
@@ -71,6 +75,7 @@ leermiddelen-t.politieacademie.nl
 leermiddelen.politieacademie.nl
 lesrooster-t.politieacademie.nl
 lesrooster.politieacademie.nl
+login-a.politieacademie.nl
 login-t.politieacademie.nl
 loginsso.politieacademie.nl
 mail.politieacademie.nl
@@ -127,6 +132,9 @@ qmanage459.politieacademie.nl
 qmanage460.politieacademie.nl
 questback.politieacademie.nl
 sduwt.politieacademie.nl
+servicecalls-a.politieacademie.nl
+servicecalls-t.politieacademie.nl
+servicecalls.politieacademie.nl
 sftp.politieacademie.nl
 srv-ap-web186.politieacademie.nl
 sso.politieacademie.nl

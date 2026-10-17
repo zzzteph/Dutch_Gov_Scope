@@ -9935,6 +9935,7 @@ api1.abonneren.platformrijksoverheidonline.nl
 api10.abonneren.platformrijksoverheidonline.nl
 api2.abonneren.platformrijksoverheidonline.nl
 api7.abonneren.platformrijksoverheidonline.nl
+email.isvnotification.inloggen.platformrijksoverheidonline.nl
 feeds.oud.platformrijksoverheidonline.nl
 handleiding.platformrijksoverheidonline.nl
 iati-test2.platformrijksoverheidonline.nl
@@ -10103,12 +10104,16 @@ attenderingen-t.politieacademie.nl
 attenderingen.politieacademie.nl
 attenderingsservice-a.politieacademie.nl
 attenderingsservice-t.politieacademie.nl
+attenderingsservice.politieacademie.nl
 autodiscover.politieacademie.nl
 autodiscover.webmail.politieacademie.nl
 backbone.politieacademie.nl
 bromtotaal.politieacademie.nl
 bronnen-t.politieacademie.nl
 bronnen.politieacademie.nl
+canvas-a.politieacademie.nl
+canvas-t.politieacademie.nl
+canvas.politieacademie.nl
 case360-a.politieacademie.nl
 case360-t.politieacademie.nl
 case360.politieacademie.nl
@@ -10160,6 +10165,7 @@ leermiddelen-t.politieacademie.nl
 leermiddelen.politieacademie.nl
 lesrooster-t.politieacademie.nl
 lesrooster.politieacademie.nl
+login-a.politieacademie.nl
 login-t.politieacademie.nl
 loginsso.politieacademie.nl
 mail.politieacademie.nl
@@ -10216,6 +10222,9 @@ qmanage459.politieacademie.nl
 qmanage460.politieacademie.nl
 questback.politieacademie.nl
 sduwt.politieacademie.nl
+servicecalls-a.politieacademie.nl
+servicecalls-t.politieacademie.nl
+servicecalls.politieacademie.nl
 sftp.politieacademie.nl
 srv-ap-web186.politieacademie.nl
 sso.politieacademie.nl
@@ -10260,8 +10269,10 @@ www.politieacademie.nl
 zeden-az.politieacademie.nl
 zeden.politieacademie.nl
 english.politiecn.com
+mail.politiecn.com
 papiamentu.politiecn.com
 politiecn.com
+webmail.politiecn.com
 www.politiecn.com
 api.burgemeesterworden.politiekeambtsdragers.nl
 burgemeesterworden.politiekeambtsdragers.nl
@@ -10306,6 +10317,7 @@ www.projecta44.nl
 api-accept.prolander.nl
 api-test.prolander.nl
 api.prolander.nl
+autodiscover.prolander.nl
 dialin.prolander.nl
 gis.prolander.nl
 lync.prolander.nl
@@ -10381,6 +10393,7 @@ admin.raadvoorcultuur.nl
 intranet.raadvoorcultuur.nl
 raadvoorcultuur.nl
 www.raadvoorcultuur.nl
+autodiscover.raadvoorrechtsbijstand.org
 bastion365.raadvoorrechtsbijstand.org
 jaarverslag.raadvoorrechtsbijstand.org
 raadvoorrechtsbijstand.org
@@ -10410,6 +10423,7 @@ iam-acc.rdi.nl
 iam.rdi.nl
 identificatie.rdi.nl
 infoportal.rdi.nl
+login.rdi.nl
 mijn-acc.rdi.nl
 mijn.rdi.nl
 nox.infoportal.rdi.nl
@@ -10421,6 +10435,7 @@ radar-test.rdi.nl
 radar.rdi.nl
 rdi.nl
 slimmestad.rdi.nl
+test.rdi.nl
 uploadmodule-acc.rdi.nl
 uploadmodule.rdi.nl
 webmail.rdi.nl
@@ -10433,6 +10448,7 @@ REXO.rdw.nl
 TvSimulator.rdw.nl
 WebSNG.rdw.nl
 WinframeInsights.rdw.nl
+aanbesteding-suite.rdw.nl
 aanpassingvoertuigdoorgeven.rdw.nl
 aansprakelijkhedenoverzichtaanvragen.rdw.nl
 access.rdw.nl
@@ -10441,6 +10457,8 @@ acn-archief.rdw.nl
 act-intern.rdw.nl
 act.rdw.nl
 afnorth.rdw.nl
+ai-skilling.rdw.nl
+aic-inspiratie.rdw.nl
 aicoeapp.rdw.nl
 aitgkcert.rdw.nl
 aiwkr.rdw.nl
@@ -10503,6 +10521,7 @@ cd2-prd-handboek-bawjbgmmcqq.rdw.nl
 cd2-prd-lpg-handboek-7zgtr26vx63.rdw.nl
 cd2-prd-tachograaf-handboek-3j01lv4hk7n.rdw.nl
 cd2-prd-www-dw0kda8dcqk.rdw.nl
+cert.rdw.nl
 certauth.authenticatie2.rdw.nl
 certificaten.rdw.nl
 chatkcc.rdw.nl
@@ -10528,6 +10547,7 @@ coachaanmelden.rdw.nl
 colla2-a.rdw.nl
 colla2.rdw.nl
 conf.rdw.nl
+copilotmarketplace.rdw.nl
 correctietenaamstellingaanvragen.rdw.nl
 crl.rdw.nl
 crosweb.rdw.nl
@@ -10630,6 +10650,7 @@ hibp.rdw.nl
 huisstijlweb.rdw.nl
 icm.rdw.nl
 icmintern.rdw.nl
+iks.rdw.nl
 imerk.rdw.nl
 inform.rdw.nl
 inspire.rdw.nl
@@ -10743,6 +10764,7 @@ papierenkentekenbewijsomwisselen.rdw.nl
 parambeheerHH.rdw.nl
 parambeheerhh.rdw.nl
 parked.rdw.nl
+pas.rdw.nl
 pasbedrijven.rdw.nl
 passwordreset.rdw.nl
 pda.rdw.nl
@@ -10815,6 +10837,7 @@ rexoopsrv2.rdw.nl
 ria.rdw.nl
 rijbewijsaanvragen.rdw.nl
 rijbewijscontroleren.rdw.nl
+rit.rdw.nl
 rme-api.rdw.nl
 rme.rdw.nl
 rme2.rdw.nl
@@ -10897,6 +10920,7 @@ teveelbetaaldschorsingsbedragterugvragen.rdw.nl
 tgk-sps-a.rdw.nl
 tgk-sps.rdw.nl
 tgk.rdw.nl
+tgkcontroleren.rdw.nl
 tgvbeheer.rdw.nl
 thuiswerken.rdw.nl
 tijdelijkdocumentnummeraanvragen.rdw.nl
