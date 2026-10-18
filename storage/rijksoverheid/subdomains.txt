@@ -11082,6 +11082,7 @@ webmail.rekenkamer.nl
 werken.rekenkamer.nl
 werkplek.rekenkamer.nl
 www.rekenkamer.nl
+autoconfig.riec.nl
 mail.riec.nl
 mdm.zwb.riec.nl
 riec.nl
@@ -11091,6 +11092,7 @@ zwb.riec.nl
 rijkcirculair.nl
 www.rijkcirculair.nl
 advies.rijksacademie.nl
+autodiscover.rijksacademie.nl
 dev.rijksacademie.nl
 helpdesk.rijksacademie.nl
 infoscherm.rijksacademie.nl
@@ -11134,6 +11136,7 @@ api.rapportage.rijkscloud.nl
 api.so.rijkscloud.nl
 api.test.data.ilt.rijkscloud.nl
 apitest.rapportage.rijkscloud.nl
+apps.alma.ix.rijkscloud.nl
 apps.alma.jvs.ix.rijkscloud.nl
 apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
@@ -11144,8 +11147,10 @@ blackbox.demo.rijkscloud.nl
 blog.rijkscloud.nl
 bob-art.cvr.rvb.rijkscloud.nl
 bob-art.devops.rvb.rijkscloud.nl
+bob-arto.devops.rvb.rijkscloud.nl
 bob-demo.cvr.rvb.rijkscloud.nl
 bob-demo.devops.rvb.rijkscloud.nl
+bob-demou.devops.rvb.rijkscloud.nl
 bob-release.cvr.rvb.rijkscloud.nl
 bob-release.devops.rvb.rijkscloud.nl
 broker.cloudtop.rijkscloud.nl
@@ -11161,11 +11166,14 @@ ceph-prx4.gn2.rijkscloud.nl
 ceph-prx4.gn3.rijkscloud.nl
 ceph-prx5.gn3.rijkscloud.nl
 ceph-prx6.gn3.rijkscloud.nl
+changedetection.ix.rijkscloud.nl
 chat-dev.rijkscloud.nl
 chat.datascience.rijkscloud.nl
 chat.rijkscloud.nl
 chat.tst.rijkscloud.nl
+checker.kim.rijkscloud.nl
 checkmk.devops.rvb.rijkscloud.nl
+checkmkg.devops.rvb.rijkscloud.nl
 chef.rijkscloud.nl
 cis.so.rijkscloud.nl
 clefw.gn2.rijkscloud.nl
@@ -11196,6 +11204,7 @@ dashboards.ilt-analyse.rijkscloud.nl
 dashboards.ilt-idlab.rijkscloud.nl
 dashboards.ilt.rijkscloud.nl
 dashboards.ipi.rijkscloud.nl
+dashboards.nea.rijkscloud.nl
 dashboards.rdi.rijkscloud.nl
 dashboards.secdemo.rijkscloud.nl
 dashboards.sodm.rijkscloud.nl
@@ -11235,6 +11244,7 @@ dvrvb-api-acc.rvb.rijkscloud.nl
 dvrvb-api-o.devops.rvb.rijkscloud.nl
 dvrvb-api.rvb.rijkscloud.nl
 dvrvb-app-dev.devops.rvb.rijkscloud.nl
+dvrvb-app-devu.devops.rvb.rijkscloud.nl
 dvrvb-gui-acc.rvb.rijkscloud.nl
 dvrvb-gui-dev.devops.rvb.rijkscloud.nl
 dvrvb-o.devops.rvb.rijkscloud.nl
@@ -11267,10 +11277,13 @@ gdw-release.cvr.rvb.rijkscloud.nl
 gdw-release.devops.rvb.rijkscloud.nl
 geoapl.devops.rvb.rijkscloud.nl
 geoweb.devops.rvb.rijkscloud.nl
+geowebc.devops.rvb.rijkscloud.nl
 gis-art.cvr.rvb.rijkscloud.nl
 gis-art.devops.rvb.rijkscloud.nl
 gis-demo.cvr.rvb.rijkscloud.nl
 gis-demo.devops.rvb.rijkscloud.nl
+gis-demos.cvr.rvb.rijkscloud.nl
+gis-demos.devops.rvb.rijkscloud.nl
 gis-release.cvr.rvb.rijkscloud.nl
 gis-release.devops.rvb.rijkscloud.nl
 gisbim-app-dev.devops.rvb.rijkscloud.nl
@@ -11334,6 +11347,7 @@ gui.datascience.rijkscloud.nl
 gui.ienw.ix.rijkscloud.nl
 gui.performance.ix.rijkscloud.nl
 handleiding-iuc-acceptatie.rijkscloud.nl
+helpdeskinkoop.rvb.rijkscloud.nl
 ienw.rijkscloud.nl
 igis.ilt.rijkscloud.nl
 igj.rijkscloud.nl
@@ -11454,6 +11468,7 @@ kibana.rapportage.rijkscloud.nl
 kibana.rvb.rijkscloud.nl
 kibana.sodm.rijkscloud.nl
 kibana.test.ix.rijkscloud.nl
+kim.rijkscloud.nl
 kit-art.cvr.rvb.rijkscloud.nl
 kit-demo.cvr.rvb.rijkscloud.nl
 kit-release.cvr.rvb.rijkscloud.nl
@@ -11481,6 +11496,7 @@ login-planon.rvb.rijkscloud.nl
 login.rvb.rijkscloud.nl
 mail.gn2.rijkscloud.nl
 mail.ienw.rijkscloud.nl
+mail.objects.gn3.rijkscloud.nl
 mail.rijkscloud.nl
 mail.rvb.rijkscloud.nl
 mail.rw1.rijkscloud.nl
@@ -11490,6 +11506,7 @@ mail1.gn1.rijkscloud.nl
 mail1.gn3.rijkscloud.nl
 mail2.ec.rijkscloud.nl
 matrix.ix.rijkscloud.nl
+matrix.perfprd1.rijkscloud.nl
 matrix.rijkscloud.nl
 matrix.test.ix.rijkscloud.nl
 matter.minaz.rijkscloud.nl
@@ -11525,8 +11542,10 @@ nexus.devops.rvb.rijkscloud.nl
 nexus.koopvm.rijkscloud.nl
 nexus.test.ix.rijkscloud.nl
 nifi-registry.test.ix.rijkscloud.nl
+nifi.demo.ix.rijkscloud.nl
 nifi.dgdoobi.rijkscloud.nl
 nifi.jvs.rijkscloud.nl
+nifi.mintst1.rijkscloud.nl
 nifi.test.dgdoobi.rijkscloud.nl
 nifi.test.ix.rijkscloud.nl
 node.demo.rijkscloud.nl
@@ -11561,6 +11580,7 @@ ntp1.gn3.rijkscloud.nl
 ntp1.rw1.rijkscloud.nl
 ntp2.ec.rijkscloud.nl
 ntp2.gn1.rijkscloud.nl
+ntp2.gn2.rijkscloud.nl
 ntp2.gn3.rijkscloud.nl
 ntp2.rw1.rijkscloud.nl
 ntp3.gn2.rijkscloud.nl
@@ -11577,6 +11597,7 @@ oms-e.rvb.rijkscloud.nl
 oms-o.rvb.rijkscloud.nl
 oms-t.rvb.rijkscloud.nl
 oms.rvb.rijkscloud.nl
+openbao.analyse.ilt.rijkscloud.nl
 opendata.rvb.rijkscloud.nl
 openmetadata.dgdoobi.rijkscloud.nl
 openstack.gn2.rijkscloud.nl
@@ -11672,6 +11693,7 @@ registry.gitlab.analyse.ilt.rijkscloud.nl
 registry.gitlab.datascience.rijkscloud.nl
 registry.gitlab.dgdoobi.rijkscloud.nl
 registry.gitlab.docdirekt.rijkscloud.nl
+registry.gitlab.ds-ocw.rijkscloud.nl
 registry.gitlab.ix.rijkscloud.nl
 registry.gitlab.kim.rijkscloud.nl
 registry.gitlab.minszw.rijkscloud.nl
@@ -11823,6 +11845,7 @@ shiny.secdemo.rijkscloud.nl
 shiny.test.ix.rijkscloud.nl
 shiny.walter.rijkscloud.nl
 shiny02.p-direkt.rijkscloud.nl
+signer.kim.rijkscloud.nl
 smtp01.rijkscloud.nl
 smtp03.rijkscloud.nl
 smtp04.rijkscloud.nl
@@ -11918,6 +11941,10 @@ wiki.rijkscloud.nl
 wildcard.objects.gn2.rijkscloud.nl
 wildcard.objects.gn3.rijkscloud.nl
 wildcard.objects.rw1.rijkscloud.nl
+www.dvrvb-app-dev.devops.rvb.rijkscloud.nl
+www.dvrvb-gui-dev.devops.rvb.rijkscloud.nl
+www.keycloak-devops.devops.rvb.rijkscloud.nl
+www.objects.gn3.rijkscloud.nl
 www.rapportage.rijkscloud.nl
 www.rijkscloud.nl
 zabbix6.mintst2.rijkscloud.nl
@@ -11943,6 +11970,7 @@ www.rijksdienstcn.com
 rijkshuisstijl.nl
 www.rijkshuisstijl.nl
 acc.rijksictdashboard.nl
+auth.rijksictdashboard.nl
 beheer.rijksictdashboard.nl
 rijksictdashboard.nl
 test.rijksictdashboard.nl
