@@ -11142,6 +11142,7 @@ apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
 auth.jitsi.rijkscloud.nl
 auth.matrix.ix.rijkscloud.nl
+auth.matrix.perfprd1.rijkscloud.nl
 bbapitest.ix.rijkscloud.nl
 blackbox.demo.rijkscloud.nl
 blog.rijkscloud.nl
@@ -11251,6 +11252,7 @@ dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
 eaweb.rvb.rijkscloud.nl
 element.ix.rijkscloud.nl
+element.perfprd1.rijkscloud.nl
 elk-sectrans.rijkscloud.nl
 elk.dgdoobi.rijkscloud.nl
 elkdmz1.ec.rijkscloud.nl
@@ -11484,6 +11486,7 @@ lab1.rvb.rijkscloud.nl
 labelstudio.rvb.rijkscloud.nl
 lam-dev.devops.rvb.rijkscloud.nl
 lb1.gn3.rijkscloud.nl
+llm-wiki.dev.dgdoobi.rijkscloud.nl
 loadtest.test.rijkscloud.nl
 login-a.rvb.rijkscloud.nl
 login-net.rvb.rijkscloud.nl
@@ -12019,6 +12022,7 @@ dashboards.rijksoverheid.nl
 dgdoo-preview.dashboards.rijksoverheid.nl
 dgdoo.dashboards.rijksoverheid.nl
 dns-fw1.rijksoverheid.nl
+dns-fw3.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
 dns-ns1.rijksoverheid.nl
 dns-ns3.rijksoverheid.nl
@@ -12717,6 +12721,7 @@ validator.test.ruimtelijkeplannen.nl
 www.acceptatie.ruimtelijkeplannen.nl
 www.ruimtelijkeplannen.nl
 www.test.ruimtelijkeplannen.nl
+autodiscover.ruimtevoorderivier.nl
 ruimtevoorderivier.nl
 www.ruimtevoorderivier.nl
 _dmarc.rvig.nl
@@ -13029,6 +13034,7 @@ vault-preprod.efiling.mijnoctrooi.rvo.nl
 vault.efiling.mijnoctrooi.rvo.nl
 vorijkbo-acc.rvo.nl
 vorijkbo-tst.rvo.nl
+vorijkbo.rvo.nl
 wba-acc.rvo.nl
 wba.rvo.nl
 webform.rvo.nl
@@ -13116,6 +13122,7 @@ outsite.rvr.org
 pat-fn.rvr.org
 politie-acc.rvr.org
 politie.rvr.org
+pop.rvr.org
 qwsnp-fe-acc.rvr.org
 qwsnp-fe-prd.rvr.org
 qwsnp-spf-acc.rvr.org

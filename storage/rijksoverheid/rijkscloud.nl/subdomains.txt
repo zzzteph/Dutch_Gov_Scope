@@ -32,6 +32,7 @@ apps.jvs.ix.rijkscloud.nl
 apps.jvs1.lgs.rijkscloud.nl
 auth.jitsi.rijkscloud.nl
 auth.matrix.ix.rijkscloud.nl
+auth.matrix.perfprd1.rijkscloud.nl
 bbapitest.ix.rijkscloud.nl
 blackbox.demo.rijkscloud.nl
 blog.rijkscloud.nl
@@ -141,6 +142,7 @@ dvrvb-o.devops.rvb.rijkscloud.nl
 dvrvb.rvb.rijkscloud.nl
 eaweb.rvb.rijkscloud.nl
 element.ix.rijkscloud.nl
+element.perfprd1.rijkscloud.nl
 elk-sectrans.rijkscloud.nl
 elk.dgdoobi.rijkscloud.nl
 elkdmz1.ec.rijkscloud.nl
@@ -374,6 +376,7 @@ lab1.rvb.rijkscloud.nl
 labelstudio.rvb.rijkscloud.nl
 lam-dev.devops.rvb.rijkscloud.nl
 lb1.gn3.rijkscloud.nl
+llm-wiki.dev.dgdoobi.rijkscloud.nl
 loadtest.test.rijkscloud.nl
 login-a.rvb.rijkscloud.nl
 login-net.rvb.rijkscloud.nl
