@@ -53,6 +53,8 @@ cbonte.entreepgb.svb.nl
 cbtepr.entreepgb.svb.nl
 cbtest.entreepgb.svb.nl
 cmsintranet.svb.nl
+connect-dn-z.acc.entreepgb.svb.nl
+connect-dn-z.entreepgb.svb.nl
 desktop.entreepgb.svb.nl
 desktopaccp.entreepgb.svb.nl
 desktopaccp2.entreepgb.svb.nl
@@ -168,6 +170,7 @@ vlan2007_internet_uc-bgp-r01-2.svb.nl
 vlan2007_internet_uc-bgp-r01.svb.nl
 vork-acc.svb.nl
 vork-tst.svb.nl
+vork.svb.nl
 wifi.svb.nl
 www-a.svb.nl
 www.entreepgb.svb.nl
