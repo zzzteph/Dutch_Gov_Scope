@@ -17386,6 +17386,7 @@ www.verkeersveiligheidscampagnes.nl
 beheer.verkiezingsuitslagen.nl
 verkiezingsuitslagen.nl
 www.verkiezingsuitslagen.nl
+test.verlofadviescollege.nl
 verlofadviescollege.nl
 www.verlofadviescollege.nl
 financiering.versnellingshuisce.nl
@@ -17437,6 +17438,7 @@ app.vorijk.nl
 demo.vorijk.nl
 vorijk.nl
 www.vorijk.nl
+autodiscover.vrachtwagenheffing.nl
 communicatieportaal.vrachtwagenheffing.nl
 english.vrachtwagenheffing.nl
 feeds.english.vrachtwagenheffing.nl
@@ -17475,6 +17477,7 @@ test.beheer.waarborg.nl
 test.intranet.waarborg.nl
 test.klantensite.waarborg.nl
 test.mijn.waarborg.nl
+trw.waarborg.nl
 waarborg.nl
 web01.waarborg.nl
 www.waarborg.nl
@@ -17503,6 +17506,7 @@ wildcard.staging.waarzitwatin.nl
 www.waarzitwatin.nl
 wabes.nl
 agendavoorhetwaddengebied2050.waddenzee.nl
+autodiscover.waddenzee.nl
 basismonitoring.waddenzee.nl
 basismonitoringwadden.waddenzee.nl
 bmw9520.waddenzee.nl
@@ -17526,6 +17530,7 @@ caw.waterschaplimburg.nl
 cms-bron.waterschaplimburg.nl
 cms-eef.waterschaplimburg.nl
 digikoppeling.waterschaplimburg.nl
+edg-dashboard.waterschaplimburg.nl
 eef.waterschaplimburg.nl
 formulieren-preprod.waterschaplimburg.nl
 formulieren.waterschaplimburg.nl
@@ -17535,6 +17540,7 @@ gvopsawa.waterschaplimburg.nl
 h2ons.waterschaplimburg.nl
 home.mas-o.waterschaplimburg.nl
 home.mas-t.waterschaplimburg.nl
+ikp-acc.waterschaplimburg.nl
 ikp-ota.waterschaplimburg.nl
 ikp.waterschaplimburg.nl
 inloggen-preprod.waterschaplimburg.nl
@@ -17626,6 +17632,7 @@ profiles.werkenbijdefensie.nl
 pulse.werkenbijdefensie.nl
 pulsesrv.werkenbijdefensie.nl
 pulsewbd.werkenbijdefensie.nl
+stu-s3vgwe.werkenbijdefensie.nl
 toolkit.werkenbijdefensie.nl
 webmail.werkenbijdefensie.nl
 werkenbijdefensie.nl
