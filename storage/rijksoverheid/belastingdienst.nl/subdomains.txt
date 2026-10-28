@@ -266,6 +266,7 @@ gpa-rest-test.belastingdienst.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 gsa-rest-test.belastingdienst.nl
+gtmb.acc.belastingdienst.nl
 gtmb.belastingdienst.nl
 gtmb.str10.acc.belastingdienst.nl
 gtmb.str10.tst.belastingdienst.nl
@@ -287,6 +288,7 @@ gtmdperf.acc.belastingdienst.nl
 gtmt.belastingdienst.nl
 gtmt.str13.tst.belastingdienst.nl
 gtmx.acc.belastingdienst.nl
+gtmz.acc.belastingdienst.nl
 gtmz.belastingdienst.nl
 gtmz.str10.acc.belastingdienst.nl
 gtmz.str10.tst.belastingdienst.nl
@@ -313,6 +315,7 @@ incassomachtigen.acc.belastingdienst.nl
 incassomachtigen.belastingdienst.nl
 incassomachtigen.str10.acc.belastingdienst.nl
 incassomachtigen.str11.acc.belastingdienst.nl
+incassomachtigen.str12.acc.belastingdienst.nl
 incassomachtigen.str13.acc.belastingdienst.nl
 incassomachtigen.str14.acc.belastingdienst.nl
 inkoopportaal.belastingdienst.nl
@@ -634,6 +637,7 @@ smtp31.belastingdienst.nl
 smtp32.belastingdienst.nl
 smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
+sollicitatieformulier.belastingdienst.nl
 sorry.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 splunksyslog.dmz.belastingdienst.nl
