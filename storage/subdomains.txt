@@ -1471,6 +1471,7 @@ commissaris.brabant.nl
 connect-with.brabant.nl
 corsa-acpt-api.brabant.nl
 corsa-acpt.brabant.nl
+corsa-api.brabant.nl
 corsa.brabant.nl
 corsa2018-acpt.brabant.nl
 corsa2023.brabant.nl
@@ -1522,6 +1523,7 @@ id.brabant.nl
 idtst.brabant.nl
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
+informatie-nieuw.brabant.nl
 informatie-rws.brabant.nl
 informatie.brabant.nl
 kaartbank.brabant.nl
@@ -1600,6 +1602,7 @@ www.dataportaal.brabant.nl
 www.formulieren.brabant.nl
 www.kaarten.brabant.nl
 www.opendata.brabant.nl
+www.publicaties.brabant.nl
 www.wegen.brabant.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
@@ -1619,6 +1622,7 @@ web.test.brba.nl
 www.brba.nl
 acc.broloket.nl
 broloket.nl
+dev.broloket.nl
 www.broloket.nl
 bron.nl
 mijn.bron.nl
@@ -1764,9 +1768,13 @@ academy.cbs.nl
 acc-ccb.cbs.nl
 acc-vinden.cbs.nl
 acc.cerberus.cbs.nl
+accdevtestlogin.cbs.nl
 accebms.cbs.nl
 acceptatie.cbs.nl
 accounts.cbs.nl
+acctestenquete1.cbs.nl
+acctestenquete3.cbs.nl
+acctestlogin.cbs.nl
 adc-aer-p.cbs.nl
 adc.cbs.nl
 adc2.cbs.nl
@@ -1783,6 +1791,7 @@ api.fsc.cbs.nl
 apisimplex.cbs.nl
 argon2.cbs.nl
 auth.acceptatie.cbs.nl
+auth.test.cbs.nl
 autodiscover.cbs.nl
 azwstatline.cbs.nl
 beeldbank-beheer.cbs.nl
@@ -1822,6 +1831,7 @@ dashboards.prev.cbs.nl
 dashboards.test.cbs.nl
 databestanden.cbs.nl
 dataderden.cbs.nl
+dataderden2.cbs.nl
 dataportaal.cbs.nl
 dataportal.cbs.nl
 datasec-api.cbs.nl
@@ -1831,6 +1841,8 @@ datasets.beta.cbs.nl
 datasets.cbs.nl
 designsystem.cbs.nl
 dev.cerberus.cbs.nl
+devtestlogin.cbs.nl
+dialin.cbs.nl
 dnsa3.cbs.nl
 dnsa4.cbs.nl
 doemee.cbs.nl
@@ -1839,6 +1851,7 @@ download.cbs.nl
 ebms.cbs.nl
 egain-com.cbs.nl
 eu2016.cbs.nl
+evenementen.cbs.nl
 fonts.cbs.nl
 ftp.cbs.nl
 ftpblaise.cbs.nl
@@ -1858,6 +1871,7 @@ historischebeelden.cbs.nl
 historischebeeldenbeheer.cbs.nl
 hybridexo.cbs.nl
 ihg.cbs.nl
+intdevtestlogin.cbs.nl
 isi.cbs.nl
 iv3-controle-api.cbs.nl
 iv3-controle.beta.cbs.nl
@@ -1869,6 +1883,7 @@ jeugdmonitor-prod.cbs.nl
 jeugdmonitor.cbs.nl
 jeugdstatline.cbs.nl
 jmopendata.cbs.nl
+jmopendata2.cbs.nl
 klanttoegang.cbs.nl
 lc.cbs.nl
 licensemanagerblaise.cbs.nl
@@ -1887,6 +1902,7 @@ matchingsapp.cbs.nl
 mbg.cbs.nl
 mbgtest.cbs.nl
 mediaportal.cbs.nl
+meet.cbs.nl
 micollab.cbs.nl
 micollabtest.cbs.nl
 microdata-events.cbs.nl
@@ -1901,6 +1917,8 @@ mlzopendata.cbs.nl
 mlzstatline.cbs.nl
 mvstat.cbs.nl
 nationaalcohortonderzoek.cbs.nl
+navara.cbs.nl
+newsroom.cbs.nl
 nieuwsbrief.cbs.nl
 odata.cbs.nl
 odata4.cbs.nl
@@ -1911,6 +1929,7 @@ onderzoek2.cbs.nl
 ontwikkel.cbs.nl
 oosweb.cbs.nl
 opendata.cbs.nl
+opendata2.cbs.nl
 oto.cbs.nl
 outlook.cbs.nl
 overzicht.cbs.nl
@@ -1920,12 +1939,14 @@ projecten.cbs.nl
 proxy.cbs.nl
 qbes.cbs.nl
 redactie-acc.cbs.nl
+redactie-test.beta.cbs.nl
 redactie-test.cbs.nl
 redactie.cbs.nl
 research.cbs.nl
 revproxy.cbs.nl
 rgs.cbs.nl
 rivmopendata.cbs.nl
+rivmopendata2.cbs.nl
 sbi-api.cbs.nl
 sbi.cbs.nl
 sbi2008.cbs.nl
@@ -1944,6 +1965,7 @@ storage.databestanden.cbs.nl
 storing.cbs.nl
 sts.cbs.nl
 surveys.cbs.nl
+tabi.cbs.nl
 taxonomie.cbs.nl
 test-ccb.cbs.nl
 test.cbs.nl
@@ -1951,6 +1973,7 @@ test.cerberus.cbs.nl
 test.ebms.cbs.nl
 test.gecko.cbs.nl
 test.status.cbs.nl
+testchat.cbs.nl
 tip-heartbeat.cbs.nl
 topdeskit-t4.cbs.nl
 tunnel.cbs.nl
@@ -1963,6 +1986,8 @@ uitwisseling.cbs.nl
 upload.cbs.nl
 videoplatform.cbs.nl
 videos.cbs.nl
+vih-services.cbs.nl
+vih.cbs.nl
 vocabs.cbs.nl
 vpn1.cbs.nl
 vpn2.cbs.nl
@@ -2172,6 +2197,7 @@ sfbwc.cjib.nl
 sfbweb.cjib.nl
 siam.cjib.nl
 vo-rijk-acc.cjib.nl
+vo-rijk.cjib.nl
 vpn.cjib.nl
 vpn1.cjib.nl
 vpn2.cjib.nl
