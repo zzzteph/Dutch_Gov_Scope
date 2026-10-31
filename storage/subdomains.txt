@@ -2173,6 +2173,7 @@ autodiscover.cjib.nl
 bbdc.cjib.nl
 binnenplein.cjib.nl
 blauwe-knop-acc.cjib.nl
+blauwe-knop.cjib.nl
 bsp.cjib.nl
 businessportaal-acc.cjib.nl
 businessportaal.cjib.nl
@@ -2344,6 +2345,7 @@ fed.cpb.nl
 fs.cpb.nl
 m365.cpb.nl
 mail.cpb.nl
+ns1.cpb.nl
 smtp.cpb.nl
 www.cpb.nl
 api.crimediggers.nl
@@ -2459,6 +2461,7 @@ cultureelerfgoed.nl
 data.cultureelerfgoed.nl
 data.geo.cultureelerfgoed.nl
 datastories.cultureelerfgoed.nl
+doorzoeker.cultureelerfgoed.nl
 english.cultureelerfgoed.nl
 erfgoedmonitor.cultureelerfgoed.nl
 facility.cultureelerfgoed.nl
