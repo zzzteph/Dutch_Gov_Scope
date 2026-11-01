@@ -24,16 +24,20 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install -r engine/requirements.txt
+        run: |
+          pip install -r engine/requirements.txt
+          playwright install chromium --with-deps
 
-      # ── Add the Register Internetdomeinen Overheid domains ─────────────────
-      # organisaties.overheid.nl/domeinen is the government's own record of its
-      # domains, so they go into scope as-is: no browser, no vision, no API key.
+      # ── Fetch .nl domains from organisaties.overheid.nl/domeinen + verify new ones
+      # If ANTHROPIC_API_KEY is set: Tier 1 + 1.5 (browser) + Tier 2 (vision)
+      # If not set:                  Tier 1 + 1.5 (browser) only — no API cost
       - name: Refresh scope
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python engine/refresh_rijksoverheid.py
 
-      # ── Collect newly added domains for subdomain scan ─────────────────────
-      - name: Get newly added domains
+      # ── Collect newly confirmed domains for subdomain scan ─────────────────
+      - name: Get newly confirmed domains
         id: new_domains
         run: |
           git diff scope/rijksoverheid.txt \
@@ -41,7 +45,7 @@ jobs:
             > new_domains.txt
           COUNT=$(wc -l < new_domains.txt | tr -d ' ')
           echo "count=$COUNT" >> $GITHUB_OUTPUT
-          echo "Newly added domains: $COUNT"
+          echo "Newly confirmed domains: $COUNT"
 
       # ── Subfinder on new domains only ──────────────────────────────────────
       - name: Run Subfinder on new domains

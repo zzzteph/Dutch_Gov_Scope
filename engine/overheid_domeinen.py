@@ -1,11 +1,7 @@
 """
-Fetch the top-level domains in the Register Internetdomeinen Overheid
-(https://organisaties.overheid.nl/domeinen), the successor of the
+Harvest candidate Dutch government .nl domains from the Register Internetdomeinen
+Overheid (https://organisaties.overheid.nl/domeinen), the successor of the
 communicatierijk.nl websiteregister.
-
-The register is the government's own record of the domains it holds, so these
-domains are taken as-is: unlike the basisbeveiliging.nl candidates they are NOT
-run through verify_rijksoverheid.py.
 
 The register is crawled the way a visitor would walk it: the index page lists the
 categories (Ministeries, Agentschappen, Gemeenten, ...), and every category page
@@ -16,23 +12,24 @@ links two CSV exports that cover all of its organisations at once:
 
 The exports hold the same rows as the per-organisation pages, so there is no need
 to visit each organisation separately. Every row is collapsed to its registrable
-root domain, so the output only ever contains top-level domains.
+root domain, so the output only ever contains top-level domains, and only .nl
+domains are kept.
 
-Two kinds of row are left out, because the register does not vouch for their root:
+This script only COLLECTS candidates. A host on a vendor platform in the Domeinen
+export (almere.notubiz.nl) yields the vendor's root (notubiz.nl) -- the three-tier
+pipeline in verify_rijksoverheid.py is what decides ownership.
 
-  * Domeinen rows for a host *below* a domain the organisation did not register,
-    e.g. almere.notubiz.nl or kadaster.github.io/imbrt. Those are the
-    organisation's tenancy on a vendor platform, and their root (notubiz.nl,
-    github.io) belongs to the vendor. A Domeinen row only counts when it is the
-    apex itself or its www host.
-  * Rows whose registration or usage end date has passed: a lapsed domain may
-    since have been registered by someone else. --include-ended keeps them.
+Rows whose registration or usage end date has passed are skipped by default: the
+register itself says the government no longer holds them. --include-ended keeps them.
 
 Usage:
-    python engine/overheid_domeinen.py od_domains.txt
-    python engine/overheid_domeinen.py od_domains.txt --categories Ministeries,Politie
-    python engine/overheid_domeinen.py od_domains.txt --exports registraties --exclude-known
+    python engine/overheid_domeinen.py od_candidates.txt
+    python engine/overheid_domeinen.py od_candidates.txt --categories Ministeries,Politie
+    python engine/overheid_domeinen.py od_candidates.txt --exports registraties --exclude-known
     python engine/overheid_domeinen.py --list-categories
+
+Then verify what came out, never trust it directly:
+    python engine/revalidate_scope.py --source od_candidates.txt
 """
 
 import argparse
@@ -128,7 +125,7 @@ def has_ended(row: dict[str, str], today: date) -> bool:
     return False
 
 
-def parse_export(text: str, kind: str, include_ended: bool) -> tuple[set[str], int]:
+def parse_export(text: str, include_ended: bool) -> tuple[set[str], int]:
     """Return the root domains in one CSV export and how many ended rows were skipped."""
     domains: set[str] = set()
     skipped = 0
@@ -142,13 +139,9 @@ def parse_export(text: str, kind: str, include_ended: bool) -> tuple[set[str], i
         if not include_ended and has_ended(row, today):
             skipped += 1
             continue
-        value = normalise(row.get(domain_column) or "")
-        root = get_root_domain(value)
-        if not root:
-            continue
-        if kind == "domeinen" and value not in (root, "www." + root):
-            continue
-        domains.add(root)
+        root = get_root_domain(normalise(row.get(domain_column) or ""))
+        if root and root.endswith(".nl"):
+            domains.add(root)
     return domains, skipped
 
 
@@ -170,7 +163,7 @@ def fetch_category(session: requests.Session, slug: str, exports: tuple[str, ...
         text = get(session, export_url, timeout)
         if text is None:
             raise RuntimeError(f"could not load {export_url}")
-        found, skipped = parse_export(text, kind, include_ended)
+        found, skipped = parse_export(text, include_ended)
         domains |= found
         counts.append(f"{kind} {len(found)}" + (f", {skipped} ended" if skipped else ""))
 
@@ -178,10 +171,10 @@ def fetch_category(session: requests.Session, slug: str, exports: tuple[str, ...
     return domains
 
 
-def fetch_domains(categories: tuple[str, ...] | None = None,
-                  exports: tuple[str, ...] = tuple(EXPORTS),
-                  include_ended: bool = False,
-                  concurrency: int = 4, timeout: int = 30) -> set[str]:
+def fetch_candidates(categories: tuple[str, ...] | None = None,
+                     exports: tuple[str, ...] = tuple(EXPORTS),
+                     include_ended: bool = False,
+                     concurrency: int = 4, timeout: int = 30) -> set[str]:
     """Crawl the register and return the merged root-domain set.
 
     `categories` limits the crawl to those slugs; None means every category the
@@ -218,8 +211,8 @@ def read_set(path: Path) -> set[str]:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Fetch the domains in the Register Internetdomeinen Overheid")
-    parser.add_argument("output", nargs="?", help="File to write the domains to (one per line)")
+        description="Harvest candidate .nl domains from the Register Internetdomeinen Overheid")
+    parser.add_argument("output", nargs="?", help="File to write candidate domains to (one per line)")
     parser.add_argument("--categories",
                         help="Comma-separated category slugs, e.g. Ministeries,Politie "
                              "(default: every category on the index page)")
@@ -249,8 +242,8 @@ def main():
         categories = tuple(c.strip() for c in args.categories.split(",") if c.strip())
     exports = tuple(EXPORTS) if args.exports == "both" else (args.exports,)
 
-    domains = fetch_domains(categories, exports, args.include_ended,
-                            args.concurrency, args.timeout)
+    domains = fetch_candidates(categories, exports, args.include_ended,
+                               args.concurrency, args.timeout)
 
     if args.exclude_known:
         known = read_set(VALID_FILE) | read_set(INVALID_FILE)
@@ -264,7 +257,9 @@ def main():
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(sorted(domains)) + "\n", encoding="utf-8", newline="\n")
-    print(f"Wrote {len(domains)} domains to {out_path}")
+    print(f"Wrote {len(domains)} candidate domains to {out_path}")
+    print("These are UNVERIFIED -- run them through verify_rijksoverheid.py "
+          "(or revalidate_scope.py --source <file>) before adding them to the scope.")
 
 
 if __name__ == "__main__":
