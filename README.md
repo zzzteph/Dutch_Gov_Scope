@@ -13,9 +13,7 @@ This project aims to provide the **most accurate and detailed** list of domains 
 
 ### What is in scope?
 
-This repository focuses on verified, government-related resources. Domains listed in the government's own
-[Register Internetdomeinen Overheid](https://organisaties.overheid.nl/domeinen) are in scope as-is. Every other
-domain is included only after passing a multi-tier verification pipeline:
+This repository focuses on verified, government-related `.nl` resources. Each domain is included only after passing a multi-tier verification pipeline:
 
 1. **HTTP + SSL signals**: Meta tags (`overheid:authority`, `rijksoverheid.org`), legal accessibility statements (`toegankelijkheidsverklaring.nl`), government analytics infrastructure, SSL certificate organisation field.
 2. **Rendered DOM check**: Browser-rendered page (Playwright) to catch SPAs — same signal checks after JavaScript executes.
@@ -30,15 +28,10 @@ All analysis runs via **GitHub Actions**. Results are stored as plain text files
    - Monthly sync with the official [Register Internetdomeinen Overheid](https://organisaties.overheid.nl/domeinen)
      (successor of the CommunicatieRijk websiteregister) via `engine/overheid_domeinen.py`, which walks every
      category and reads its *Domeinnaamregistraties* and *Domeinen* CSV exports
-   - Register domains go straight into `scope/rijksoverheid.txt` without verification, and are removed from
-     `scope/rijksoverheid_invalid.txt`. Lapsed registrations and hosts on vendor platforms
-     (`almere.notubiz.nl` → `notubiz.nl`) are left out.
-
-   Candidate domains also come from [basisbeveiliging.nl](https://basisbeveiliging.nl/) via
-   `engine/basisbeveiliging.py`, which only *harvests* root domains — it never decides
-   ownership itself. Those candidates are verified through the three-tier pipeline
-   (`engine/verify_rijksoverheid.py`): confirmed → `scope/rijksoverheid.txt`,
-   rejected/uncertain → `scope/rijksoverheid_invalid.txt`.
+     — only `.nl` root domains are kept, and lapsed registrations are skipped. The harvester never decides
+     ownership itself.
+   - New domains are verified through the three-tier pipeline (`engine/verify_rijksoverheid.py`)
+   - Confirmed domains → `scope/rijksoverheid.txt`; rejected/uncertain → `scope/rijksoverheid_invalid.txt`
 
 1. **IP range attribution** — `engine/resolve_asn.py`:
    - Resolves scope hosts to IPs, looks each announcing prefix up on [bgp.he.net](https://bgp.he.net/)
@@ -52,9 +45,8 @@ All analysis runs via **GitHub Actions**. Results are stored as plain text files
    ```
 
 1. **Scope re-validation** — `engine/revalidate_scope.py`:
-   - Runs the whole chain in one pass: domain register → collect candidates → verify → reconcile → ASN sweep
-   - Re-runs the three-tier pipeline over the top-level domains **already** in both scope files,
-     except register domains, which are never verified or demoted
+   - Runs the whole chain in one pass: collect candidates → verify → reconcile → ASN sweep
+   - Re-runs the three-tier pipeline over the top-level domains **already** in both scope files
    - Re-sorts them on the fresh verdicts: rejected in-scope domains are demoted, confirmed
      rejects are promoted back. A `manual_review` verdict never drops a domain that is
      currently in scope — a timeout is not evidence of non-ownership.
@@ -62,7 +54,7 @@ All analysis runs via **GitHub Actions**. Results are stored as plain text files
 
    ```
    python engine/revalidate_scope.py --source all --concurrency 20
-   python engine/revalidate_scope.py --source bb_candidates.txt --dry-run
+   python engine/revalidate_scope.py --source candidates.txt --dry-run
    ```
 
 2. **Subdomain discovery** — runs daily via GitHub Actions:
@@ -97,7 +89,6 @@ curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads
 ## Links and Acknowledgements
 
 - [Bug Bounty Dutch Government Scope – Gist](https://gist.github.com/zzzteph/99a7bd2acde12cb4b2626fc9261bc56d)  
-- [basisbeveiliging.nl](https://basisbeveiliging.nl/)  
 - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)  
 - [Register Internetdomeinen Overheid](https://organisaties.overheid.nl/domeinen)  
 - [ncsc.nl](https://www.ncsc.nl/contact/kwetsbaarheid-melden/cvd-meldingen-formulier)  
