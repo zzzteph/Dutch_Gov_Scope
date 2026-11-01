@@ -23,6 +23,7 @@ autodiscover.cultureelerfgoed.nl
 beeldbank.cultureelerfgoed.nl
 catalogus.cultureelerfgoed.nl
 cultureelerfgoed.nl
+data.beeldbank.cultureelerfgoed.nl
 data.cultureelerfgoed.nl
 data.geo.cultureelerfgoed.nl
 datastories.cultureelerfgoed.nl
@@ -33,6 +34,7 @@ facility.cultureelerfgoed.nl
 faro.cultureelerfgoed.nl
 formulier.cultureelerfgoed.nl
 foto-opdracht.cultureelerfgoed.nl
+ftp.cultureelerfgoed.nl
 geo.cultureelerfgoed.nl
 geoservices.cultureelerfgoed.nl
 idselect.cultureelerfgoed.nl
@@ -52,6 +54,7 @@ monitorarcheologie.cultureelerfgoed.nl
 monumentenregister.cultureelerfgoed.nl
 noaa.cultureelerfgoed.nl
 oud.cultureelerfgoed.nl
+outlook.cultureelerfgoed.nl
 pom.cultureelerfgoed.nl
 preprod.idselect.cultureelerfgoed.nl
 prod.cultureelerfgoed.nl
@@ -68,6 +71,7 @@ test.monumentenregister.cultureelerfgoed.nl
 test.t.cultureelerfgoed.nl
 thesaurus.cultureelerfgoed.nl
 tst.subsidie.cultureelerfgoed.nl
+webmail.cultureelerfgoed.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 www.acc.monumentenregister.cultureelerfgoed.nl

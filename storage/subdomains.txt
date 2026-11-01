@@ -2458,6 +2458,7 @@ autodiscover.cultureelerfgoed.nl
 beeldbank.cultureelerfgoed.nl
 catalogus.cultureelerfgoed.nl
 cultureelerfgoed.nl
+data.beeldbank.cultureelerfgoed.nl
 data.cultureelerfgoed.nl
 data.geo.cultureelerfgoed.nl
 datastories.cultureelerfgoed.nl
@@ -2468,6 +2469,7 @@ facility.cultureelerfgoed.nl
 faro.cultureelerfgoed.nl
 formulier.cultureelerfgoed.nl
 foto-opdracht.cultureelerfgoed.nl
+ftp.cultureelerfgoed.nl
 geo.cultureelerfgoed.nl
 geoservices.cultureelerfgoed.nl
 idselect.cultureelerfgoed.nl
@@ -2487,6 +2489,7 @@ monitorarcheologie.cultureelerfgoed.nl
 monumentenregister.cultureelerfgoed.nl
 noaa.cultureelerfgoed.nl
 oud.cultureelerfgoed.nl
+outlook.cultureelerfgoed.nl
 pom.cultureelerfgoed.nl
 preprod.idselect.cultureelerfgoed.nl
 prod.cultureelerfgoed.nl
@@ -2503,6 +2506,7 @@ test.monumentenregister.cultureelerfgoed.nl
 test.t.cultureelerfgoed.nl
 thesaurus.cultureelerfgoed.nl
 tst.subsidie.cultureelerfgoed.nl
+webmail.cultureelerfgoed.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
@@ -2530,6 +2534,7 @@ dagvandeforensischezorg.nl
 www.app.dagvandeforensischezorg.nl
 www.dagvandeforensischezorg.nl
 acc.dashboardduurzaamheid.nl
+autodiscover.dashboardduurzaamheid.nl
 dashboardduurzaamheid.nl
 tst.dashboardduurzaamheid.nl
 api.dashboardgroningen.nl
@@ -2587,6 +2592,7 @@ voorbeelden.dejuistezorgopdejuisteplek.nl
 www.dejuistezorgopdejuisteplek.nl
 autodiscover.dekinderombudsman.nl
 dekinderombudsman.nl
+dev.dekinderombudsman.nl
 mta-sts.dekinderombudsman.nl
 www.dekinderombudsman.nl
 delichtkogel.nl
@@ -2676,6 +2682,7 @@ acc.dictu.nl
 acc.fhub.dictu.nl
 acc.intranet-demo.dictu.nl
 acc.rd.dictu.nl
+acc2.dictu.nl
 acceptatie.digikoppeling.dictu.nl
 acceptatie.digikoppeling.diginetwerk.dictu.nl
 acceptatie.digikoppeling2.dictu.nl
@@ -2870,6 +2877,7 @@ svmsta.dictu.nl
 test.dictu.nl
 test.intranet-demo.dictu.nl
 test12.dictu.nl
+test2.dictu.nl
 test202007201227.dictu.nl
 test202007201240.dictu.nl
 test202007201242.dictu.nl
@@ -3184,6 +3192,7 @@ metrics.digitalenoordzee.nl
 spx-oec.digitalenoordzee.nl
 www.digitalenoordzee.nl
 accept.digitaleoverheid.nl
+autodiscover.digitaleoverheid.nl
 digitaleoverheid.nl
 magazine-en.digitaleoverheid.nl
 magazine-nl.digitaleoverheid.nl
