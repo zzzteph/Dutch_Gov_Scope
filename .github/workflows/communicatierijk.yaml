@@ -1,4 +1,4 @@
-name: Communicatierijk scope update
+name: Domain register scope update
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: communicatierijk-update
+  group: domain-register-update
   cancel-in-progress: false
 
 jobs:
@@ -24,20 +24,16 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: |
-          pip install -r engine/requirements.txt
-          playwright install chromium --with-deps
+        run: pip install -r engine/requirements.txt
 
-      # ── Fetch + verify new domains ─────────────────────────────────────────
-      # If ANTHROPIC_API_KEY is set: Tier 1 + 1.5 (browser) + Tier 2 (vision)
-      # If not set:                  Tier 1 + 1.5 (browser) only — no API cost
+      # ── Add the Register Internetdomeinen Overheid domains ─────────────────
+      # organisaties.overheid.nl/domeinen is the government's own record of its
+      # domains, so they go into scope as-is: no browser, no vision, no API key.
       - name: Refresh scope
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python engine/refresh_rijksoverheid.py
 
-      # ── Collect newly confirmed domains for subdomain scan ─────────────────
-      - name: Get newly confirmed domains
+      # ── Collect newly added domains for subdomain scan ─────────────────────
+      - name: Get newly added domains
         id: new_domains
         run: |
           git diff scope/rijksoverheid.txt \
@@ -45,7 +41,7 @@ jobs:
             > new_domains.txt
           COUNT=$(wc -l < new_domains.txt | tr -d ' ')
           echo "count=$COUNT" >> $GITHUB_OUTPUT
-          echo "Newly confirmed domains: $COUNT"
+          echo "Newly added domains: $COUNT"
 
       # ── Subfinder on new domains only ──────────────────────────────────────
       - name: Run Subfinder on new domains
@@ -83,6 +79,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase --autostash
           git add scope/ storage/
-          git commit -m "Auto-update: communicatierijk scope refresh" \
+          git commit -m "Auto-update: domain register scope refresh" \
             || echo "No changes to commit"
           git push

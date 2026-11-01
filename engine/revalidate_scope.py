@@ -1,12 +1,15 @@
 """
 Collect, verify and reconcile the top-level domains that make up the scope.
 
-One run does three things, in order:
+One run does these steps, in order:
 
-    1. COLLECT   harvest candidate root domains from the upstream registers
-                 (communicatierijk.nl + basisbeveiliging.nl) -- --collect
-    2. VERIFY    push everything (collected candidates AND the domains already in
-                 both scope files) through the three-tier pipeline in
+    0. REGISTER  load the Register Internetdomeinen Overheid
+                 (organisaties.overheid.nl/domeinen). It is the government's own
+                 record of its domains, so those domains are put in scope directly:
+                 they are never verified and never demoted.
+    1. COLLECT   harvest candidate root domains from basisbeveiliging.nl -- --collect
+    2. VERIFY    push everything else (collected candidates AND the domains already
+                 in both scope files) through the three-tier pipeline in
                  verify_rijksoverheid.py: raw HTTP + SSL -> rendered DOM -> vision
     3. RECONCILE re-sort scope/rijksoverheid.txt and scope/rijksoverheid_invalid.txt
                  according to the fresh verdicts
@@ -15,13 +18,14 @@ One run does three things, in order:
                  names a Dutch government body to ip.txt -- --asn
 
 Collection never decides ownership; it only widens the set of domains the verifier
-is asked to judge. Nothing reaches scope/rijksoverheid.txt without a confirmed
-verdict from the pipeline, and nothing reaches ip.txt unless the range itself is
-registered to a Dutch government body.
+is asked to judge. Nothing reaches scope/rijksoverheid.txt without either a listing
+in the register or a confirmed verdict from the pipeline, and nothing reaches
+ip.txt unless the range itself is registered to a Dutch government body.
 
 Related scripts:
 
-    refresh_rijksoverheid.py   lighter path: only NEW communicatierijk.nl domains
+    refresh_rijksoverheid.py   lighter path: only step 0, no verification
+    overheid_domeinen.py       the register fetcher used in step 0
     basisbeveiliging.py        the basisbeveiliging.nl harvester used in step 1
     verify_rijksoverheid.py    the three-tier verifier used in step 2
     resolve_asn.py             the bgp.he.net sweep used in step 4
@@ -30,6 +34,7 @@ Reconciliation rules
 --------------------
     current      verdict          action
     ---------    -------------    ---------------------------------------------
+    any          (in register)    valid -- not verified; PROMOTED/ADDED if needed
     valid        confirmed        stays valid
     valid        rejected         DEMOTED  -> rijksoverheid_invalid.txt
     valid        manual_review    stays valid   (--strict demotes instead)
@@ -46,7 +51,6 @@ stopped belonging to the government. Use --strict to demote those too.
 Usage:
     python engine/revalidate_scope.py                       # collect + verify + reconcile
     python engine/revalidate_scope.py --no-collect          # skip step 1, re-check the scope only
-    python engine/revalidate_scope.py --collect register    # communicatierijk.nl only
     python engine/revalidate_scope.py --source valid        # only the confirmed scope
     python engine/revalidate_scope.py --source invalid      # only the reject pile
     python engine/revalidate_scope.py --source bb_list.txt  # an explicit list (no collection)
@@ -145,16 +149,6 @@ def collect(which: str, concurrency: int, known: set[str]) -> set[str]:
     if which == "none":
         return collected
 
-    if which in ("register", "all"):
-        try:
-            from refresh_rijksoverheid import fetch_communicatierijk
-            register = fetch_communicatierijk()
-            print(f"  communicatierijk.nl : {len(register):>5} domains, "
-                  f"{len(register - known):>5} not yet in the scope files")
-            collected |= register
-        except Exception as exc:
-            print(f"  communicatierijk.nl : FAILED ({exc})")
-
     if which in ("basisbeveiliging", "all"):
         try:
             from basisbeveiliging import fetch_candidates
@@ -174,7 +168,7 @@ def collect(which: str, concurrency: int, known: set[str]) -> set[str]:
 # Target selection
 # ---------------------------------------------------------------------------
 
-def select_targets(args, valid: set[str], invalid: set[str]) -> list[str]:
+def select_targets(args, valid: set[str], invalid: set[str], registered: set[str]) -> list[str]:
     if args.source == "valid":
         targets = set(valid)
     elif args.source == "invalid":
@@ -195,6 +189,9 @@ def select_targets(args, valid: set[str], invalid: set[str]) -> list[str]:
     if args.collect != "none" and args.source in ("valid", "invalid", "all"):
         print("\nCollecting candidates ...")
         targets |= collect(args.collect, args.concurrency, valid | invalid)
+
+    # Register domains are authoritative -- they never go through the verifier.
+    targets -= registered
 
     if args.skip_recent > 0:
         ledger = read_ledger()
@@ -246,7 +243,8 @@ def run_verifier(domains: list[str], output_dir: Path, args) -> list[dict]:
 # Reconciliation
 # ---------------------------------------------------------------------------
 
-def reconcile(results: list[dict], valid: set[str], invalid: set[str], strict: bool):
+def reconcile(results: list[dict], valid: set[str], invalid: set[str],
+              registered: set[str], strict: bool):
     """Return (new_valid, new_invalid, changes) without touching disk."""
     new_valid   = set(valid)
     new_invalid = set(invalid)
@@ -286,6 +284,14 @@ def reconcile(results: list[dict], valid: set[str], invalid: set[str], strict: b
             else:
                 new_invalid.add(domain)
                 changes["added_invalid"].append(entry)
+
+    # Register domains were never verified; they are in scope by definition.
+    for domain in sorted(registered - valid):
+        entry = {"domain": domain, "status": "registered", "tier": "register",
+                 "reason": "listed in the Register Internetdomeinen Overheid"}
+        (changes["promoted"] if domain in invalid else changes["added_valid"]).append(entry)
+    new_valid   |= registered
+    new_invalid -= registered
 
     return new_valid, new_invalid, changes
 
@@ -415,11 +421,11 @@ def main():
     parser.add_argument("--source", default="all",
                         help="valid | invalid | all | path to a file of domains (default: all)")
     parser.add_argument("--collect", default="all",
-                        choices=["all", "register", "basisbeveiliging", "none"],
-                        help="Which upstream registers to harvest candidates from before "
-                             "verifying (default: all). 'register' = communicatierijk.nl, "
-                             "'none' = verify only what is already in the scope files. "
-                             "Ignored when --source points at a file.")
+                        choices=["all", "basisbeveiliging", "none"],
+                        help="Which upstream sources to harvest candidates from before "
+                             "verifying (default: all). 'none' = verify only what is "
+                             "already in the scope files. Ignored when --source points "
+                             "at a file. The domain register is always applied.")
     parser.add_argument("--no-collect", dest="collect", action="store_const", const="none",
                         help="Shorthand for --collect none")
     parser.add_argument("--asn", default="scope", choices=["scope", "all", "none"],
@@ -452,18 +458,29 @@ def main():
     print(f"scope/rijksoverheid.txt         : {len(valid)} domains")
     print(f"scope/rijksoverheid_invalid.txt : {len(invalid)} domains")
 
-    targets = select_targets(args, valid, invalid)
-    if not targets:
-        print("\nNothing to verify.")
-        return
+    # Step 0: the register. Without it, register domains already in scope would be
+    # verified and could be demoted, so a failed fetch stops the run.
+    print("\nLoading the Register Internetdomeinen Overheid ...")
+    try:
+        from overheid_domeinen import fetch_domains
+        registered = fetch_domains()
+    except Exception as exc:
+        print(f"Error: could not load the domain register ({exc}) - aborting, "
+              "so that no register domain is verified or demoted.")
+        sys.exit(1)
+    print(f"  register            : {len(registered):>5} domains, "
+          f"{len(registered - valid):>5} not yet in scope (taken as-is, not verified)")
+
+    targets = select_targets(args, valid, invalid, registered)
     print(f"Targets this run                : {len(targets)} domains")
 
     output_dir = Path(args.output_dir)
     if not output_dir.is_absolute():
         output_dir = ROOT / args.output_dir
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    results = run_verifier(targets, output_dir, args)
-    new_valid, new_invalid, changes = reconcile(results, valid, invalid, args.strict)
+    results = run_verifier(targets, output_dir, args) if targets else []
+    new_valid, new_invalid, changes = reconcile(results, valid, invalid, registered, args.strict)
 
     print(f"\n{RULE}")
     print(f"  Promoted (invalid -> valid) : {len(changes['promoted']):>4}")
