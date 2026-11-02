@@ -3387,6 +3387,8 @@ www.draaiboekpsie.nl
 cms.dsta.nl
 dsta.nl
 english.dsta.nl
+ftp.dsta.nl
+live.dsta.nl
 mail01.dsta.nl
 www.dsta.nl
 dualusequickscan.nl
@@ -3533,6 +3535,7 @@ preview.dynamo-hia.eu
 www.dynamo-hia.eu
 acc.e-akkoord.nl
 e-akkoord.nl
+staging.e-akkoord.nl
 www.e-akkoord.nl
 e-cert.nl
 staging.e-cert.nl
