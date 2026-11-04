@@ -3939,6 +3939,7 @@ jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
 kaart.flevoland.nl
 legacy.flevoland.nl
+litellm-dev.ai.flevoland.nl
 localhost.flevoland.nl
 luchtfoto.cloud.flevoland.nl
 luchtfoto.flevoland.nl
@@ -3982,6 +3983,7 @@ testmdm.flevoland.nl
 testmonitorwonen.flevoland.nl
 testtunnelmdm.flevoland.nl
 tunnelmdm.flevoland.nl
+uat.flevoland.nl
 uwork.flevoland.nl
 uworktest.flevoland.nl
 veiligmailen.flevoland.nl
@@ -4008,6 +4010,7 @@ academy.forensicinstitute.nl
 feeds.forensicinstitute.nl
 forensicinstitute.nl
 mail.forensicinstitute.nl
+myacademy.forensicinstitute.nl
 opendata.forensicinstitute.nl
 pop.forensicinstitute.nl
 www.forensicinstitute.nl
@@ -4029,6 +4032,7 @@ mail.forensischinstituut.nl
 mijnacademy.forensischinstituut.nl
 opendata.forensischinstituut.nl
 pop.forensischinstituut.nl
+test.forensischinstituut.nl
 www.forensischinstituut.nl
 co.formulierdus-i.nl
 extern.formulierdus-i.nl

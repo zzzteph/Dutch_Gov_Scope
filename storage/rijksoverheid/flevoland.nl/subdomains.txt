@@ -57,6 +57,7 @@ jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
 kaart.flevoland.nl
 legacy.flevoland.nl
+litellm-dev.ai.flevoland.nl
 localhost.flevoland.nl
 luchtfoto.cloud.flevoland.nl
 luchtfoto.flevoland.nl
@@ -100,6 +101,7 @@ testmdm.flevoland.nl
 testmonitorwonen.flevoland.nl
 testtunnelmdm.flevoland.nl
 tunnelmdm.flevoland.nl
+uat.flevoland.nl
 uwork.flevoland.nl
 uworktest.flevoland.nl
 veiligmailen.flevoland.nl
