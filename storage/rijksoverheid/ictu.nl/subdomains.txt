@@ -29,6 +29,8 @@ prod.control.ictu.nl
 prod.github-push.ictu.nl
 prod.web.ictu.nl
 prod.web.nmp.ictu.nl
+prod2.control.ictu.nl
+prod2.web.ictu.nl
 pwreset.ictu.nl
 redirect.ictu.nl
 securefiletransfer.ictu.nl

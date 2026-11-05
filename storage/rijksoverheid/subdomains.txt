@@ -4346,7 +4346,9 @@ zaaksysteem.hdsr.nl
 zoeken.hdsr.nl
 healthcouncil.nl
 www.healthcouncil.nl
+acc.helpdesk-efactureren.nl
 helpdesk-efactureren.nl
+test.helpdesk-efactureren.nl
 www.helpdesk-efactureren.nl
 herkomstgezocht.nl
 www.herkomstgezocht.nl
@@ -4516,6 +4518,7 @@ vergader.hogeraad.nl
 wolk.hogeraad.nl
 www-acc.hogeraad.nl
 www.hogeraad.nl
+autodiscover.hogeraadvanadel.nl
 feeds.hogeraadvanadel.nl
 hogeraadvanadel.nl
 opendata.hogeraadvanadel.nl
@@ -4661,6 +4664,8 @@ prod.control.ictu.nl
 prod.github-push.ictu.nl
 prod.web.ictu.nl
 prod.web.nmp.ictu.nl
+prod2.control.ictu.nl
+prod2.web.ictu.nl
 pwreset.ictu.nl
 redirect.ictu.nl
 securefiletransfer.ictu.nl
