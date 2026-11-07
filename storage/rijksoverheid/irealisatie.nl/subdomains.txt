@@ -12,6 +12,7 @@ adressering.test.gf.irealisatie.nl
 adressering.test2.gf.irealisatie.nl
 api-minfin.acc.woo.irealisatie.nl
 api-minfin.test.woo.irealisatie.nl
+api-minocw.acc.woo.irealisatie.nl
 api-minocw.test.woo.irealisatie.nl
 api-minvws.acc.woo.irealisatie.nl
 api-minvws.test.woo.irealisatie.nl
@@ -22,6 +23,7 @@ app-api.acc.mgo.irealisatie.nl
 app-api.test.mgo.irealisatie.nl
 balie-minfin.acc.woo.irealisatie.nl
 balie-minfin.test.woo.irealisatie.nl
+balie-minocw.acc.woo.irealisatie.nl
 balie-minocw.test.woo.irealisatie.nl
 balie-minvws.acc.woo.irealisatie.nl
 balie-minvws.test.woo.irealisatie.nl
@@ -29,12 +31,14 @@ balie.acc.woo.irealisatie.nl
 balie.dpr.irealisatie.nl
 balie.woo.irealisatie.nl
 cbp.acc.mgo.irealisatie.nl
+cbp.k8s-test.mgo.irealisatie.nl
 cbp.test.mgo.irealisatie.nl
 ccc.acc.irealisatie.nl
 collabora.acc.irealisatie.nl
 collabora.irealisatie.nl
 cts.acc.woo.irealisatie.nl
 cts.test.woo.irealisatie.nl
+dashboard.acc.irealisatie.nl
 dashboard.test.mgo.irealisatie.nl
 defectdojo.acc.irealisatie.nl
 defectdojo.irealisatie.nl
@@ -52,6 +56,7 @@ gfportal.test.gf.irealisatie.nl
 git.irealisatie.nl
 hapi1.test.zm.irealisatie.nl
 hapi2.test.zm.irealisatie.nl
+harbor.acc.irealisatie.nl
 helpdesk.acc.irealisatie.nl
 helpdesk.irealisatie.nl
 ia-stub.test.gf.irealisatie.nl
@@ -115,6 +120,7 @@ nvi-integration.test2.gf.irealisatie.nl
 nvi-registratie-service.test.gf.irealisatie.nl
 nvi.acc.gf.irealisatie.nl
 nvi.beheer.acc.gf.irealisatie.nl
+nvi.beheer.proeftuin.gf.irealisatie.nl
 nvi.beheer.test.gf.irealisatie.nl
 nvi.proeftuin.gf.irealisatie.nl
 nvi.test.gf.irealisatie.nl
@@ -138,6 +144,7 @@ prs.test.zm.irealisatie.nl
 pseudoniem.proeftuin.gf.irealisatie.nl
 pseudoniemendienst.acc.gf.irealisatie.nl
 pseudoniemendienst.beheer.acc.gf.irealisatie.nl
+pseudoniemendienst.beheer.proeftuin.gf.irealisatie.nl
 pseudoniemendienst.beheer.test.gf.irealisatie.nl
 pseudoniemendienst.proeftuin.gf.irealisatie.nl
 pseudoniemendienst.test.gf.irealisatie.nl
@@ -172,10 +179,12 @@ timeline.test.zm.irealisatie.nl
 uren.acc.irealisatie.nl
 uren.irealisatie.nl
 utils.beheer.acc.gf.irealisatie.nl
+utils.beheer.proeftuin.gf.irealisatie.nl
 utils.beheer.test.gf.irealisatie.nl
 utils.test.gf.irealisatie.nl
 utils.test2.gf.irealisatie.nl
 vad.acc.mgo.irealisatie.nl
+vad.k8s-test.mgo.irealisatie.nl
 vad.test.mgo.irealisatie.nl
 verifier-api.test.gf.irealisatie.nl
 viewer.test.zm.irealisatie.nl
@@ -183,6 +192,7 @@ vpn.irealisatie.nl
 waltid-dev-wallet.test.gf.irealisatie.nl
 web-minfin.acc.woo.irealisatie.nl
 web-minfin.test.woo.irealisatie.nl
+web-minocw.acc.woo.irealisatie.nl
 web-minocw.test.woo.irealisatie.nl
 web-minvws.acc.woo.irealisatie.nl
 web-minvws.test.woo.irealisatie.nl
