@@ -5578,6 +5578,7 @@ acc.knaw.nl
 acc.pergamon.huygens.knaw.nl
 acc.resources.huygens.knaw.nl
 access.huc.knaw.nl
+account.dans.knaw.nl
 account.knaw.nl
 achterdeschermen.huygens.knaw.nl
 act.gharvester-oai.dans.knaw.nl
@@ -5631,6 +5632,8 @@ archief2011.meertens.knaw.nl
 archieven.meertens.knaw.nl
 arrestanten40-45.niod.knaw.nl
 art-of-reasoning.huygens.knaw.nl
+artistletters.dev.huygens.knaw.nl
+artistletters.huygens.knaw.nl
 artursdoet.huygens.knaw.nl
 athena.huygens.knaw.nl
 ats-intern.knaw.nl
@@ -5714,6 +5717,7 @@ certificaten.knaw.nl
 certificates.knaw.nl
 charriere.huygens.knaw.nl
 charterbank.huygens.knaw.nl
+chat.nioo.knaw.nl
 chat.test.nioo.knaw.nl
 ci.di.huc.knaw.nl
 ckcc.huygens.knaw.nl
@@ -5787,6 +5791,7 @@ diddd.meertens.knaw.nl
 digitalforensics.huygens.knaw.nl
 diplomatieke-getuigenissen.huygens.knaw.nl
 directory.huc.knaw.nl
+dmp.nioo.knaw.nl
 dmp.test.nioo.knaw.nl
 docker11-iisg.knaw.nl
 docker21-iisg.knaw.nl
@@ -5829,6 +5834,7 @@ eerste-vrouwen-gemeenteraad-1919-1923.huygens.knaw.nl
 elaborate-editions.huygens.knaw.nl
 elaborate.huygens.knaw.nl
 elastic-prd01.dans.knaw.nl
+elasticsearch.sd-infra.di.huc.knaw.nl
 emailsanitizer.labs.dans.knaw.nl
 epistolarium.huygens.knaw.nl
 eprints02.knaw.nl
@@ -5854,6 +5860,7 @@ fm61.meertens.knaw.nl
 fm62.meertens.knaw.nl
 fm63.dans.knaw.nl
 fm63.meertens.knaw.nl
+forms.dans.knaw.nl
 fortuyn.meertens.knaw.nl
 fotoarchief.bureau.knaw.nl
 francodevrije.huygens.knaw.nl
@@ -5952,6 +5959,7 @@ huygens.idp.knaw.nl
 huygens.knaw.nl
 huygensinstituut.knaw.nl
 hybrid.knaw.nl
+iam.nioo.knaw.nl
 ib-test-srv01.ib.knaw.nl
 ib-tools-srv01.ib.knaw.nl
 id.zandbak.dans.knaw.nl
@@ -6005,6 +6013,7 @@ kemp-workforce.knaw.nl
 keur.knaw.nl
 keycloak.dans.knaw.nl
 kg.zandbak.dans.knaw.nl
+kibana.sd-infra.di.huc.knaw.nl
 kitlv.idp.knaw.nl
 kitlvedg01.kitlv.knaw.nl
 kloeke.meertens.knaw.nl
@@ -6128,6 +6137,7 @@ maximizer.rathenau.knaw.nl
 mcmnioocmg.nioo.knaw.nl
 mda.nioo.knaw.nl
 mechteldvangelre.dev.huygens.knaw.nl
+mechteldvangelre.huygens.knaw.nl
 medievalireland.huygens.knaw.nl
 meertens-router.meertens.knaw.nl
 meertens.idp.knaw.nl
@@ -6678,6 +6688,7 @@ taoracledb23.knaw.nl
 taoracleoem21.knaw.nl
 taoraclesso31.knaw.nl
 tar31.dans.knaw.nl
+tastade.app.atlas.huc.knaw.nl
 tc13.huygens.knaw.nl
 tdd31.dans.knaw.nl
 tdvnl.dans.knaw.nl
