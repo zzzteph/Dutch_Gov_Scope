@@ -8185,6 +8185,7 @@ nextdrive.nationaalarchief.nl
 onderwijs.nationaalarchief.nl
 oranjehotel.nationaalarchief.nl
 placeholder.nationaalarchief.nl
+portal.overbrengen.nationaalarchief.nl
 portal.overbrengen.ted.nationaalarchief.nl
 prod.nationaalarchief.nl
 pywb-warc-check.acpt.nationaalarchief.nl
@@ -8221,6 +8222,7 @@ ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
 aip-acc.nationaalcoordinatorgroningen.nl
 aip.nationaalcoordinatorgroningen.nl
 e.awareness.nationaalcoordinatorgroningen.nl
+gin-acc.nationaalcoordinatorgroningen.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
 intranet.nationaalcoordinatorgroningen.nl
 jet-acc.nationaalcoordinatorgroningen.nl
@@ -8320,6 +8322,8 @@ dmarcreport.ncsc.nl
 english.ncsc.nl
 feeds.english.ncsc.nl
 feeds.ncsc.nl
+flash-reports.acc.ncsc.nl
+flash-reports.ncsc.nl
 gl-acc.ncsc.nl
 gl.ncsc.nl
 gl1.ncsc.nl
