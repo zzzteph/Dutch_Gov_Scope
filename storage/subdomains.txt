@@ -8664,6 +8664,7 @@ selector2._domainkey.nlarbeidsinspectie.nl
 test.portaal.nlarbeidsinspectie.nl
 test.resultaten.nlarbeidsinspectie.nl
 www.nlarbeidsinspectie.nl
+www.test.resultaten.nlarbeidsinspectie.nl
 autodiscover.nldesignsystem.nl
 editor.nldesignsystem.nl
 nldesignsystem.nl
@@ -8815,6 +8816,7 @@ opendisdata-acc.nza.nl
 opendisdata.nza.nl
 pages.internal.nza.nl
 pages.test.internal.nza.nl
+service.dis-acc.nza.nl
 tmu-acc.nza.nl
 tmu.nza.nl
 tovertool.nza.nl
