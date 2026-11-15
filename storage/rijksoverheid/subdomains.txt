@@ -9346,6 +9346,8 @@ artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 asl.omgevingswet.overheid.nl
 auth.developer.overheid.nl
+autoconfig.digitaledienst.overheid.nl
+autodiscover.digitaledienst.overheid.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 bag.acceptatie.basisregistraties.overheid.nl
@@ -9472,6 +9474,7 @@ demo-systemteam.overheid.nl
 demo.mijn.overheid.nl
 demo1-systemteam.overheid.nl
 demo2-systemteam.overheid.nl
+design.digitaledienst.overheid.nl
 designsystem.overheid.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
@@ -9579,12 +9582,15 @@ lokaleregelgeving-eto.overheid.nl
 lokaleregelgeving.overheid.nl
 lucht.omgevingswet.overheid.nl
 lvbb-acc.overheid.nl
+lvbb-acceptatie.overheid.nl
 lvbb-asl.overheid.nl
 lvbb-fto.overheid.nl
 lvbb-lto.overheid.nl
 lvbb-perf-acc.overheid.nl
 lvbb-preprod.overheid.nl
+lvbb-productie.overheid.nl
 lvbb-tst.overheid.nl
+mail.digitaledienst.overheid.nl
 mail.koop.overheid.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
@@ -9596,6 +9602,8 @@ monitoring-prod5.koop.overheid.nl
 monitoring-prod6.koop.overheid.nl
 monitoring-test5.koop.overheid.nl
 monitoring-test6.koop.overheid.nl
+mta-sts.digitaledienst.overheid.nl
+mx.digitaledienst.overheid.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
@@ -9693,6 +9701,7 @@ ruimte.kta.omgevingswet.overheid.nl
 ruimte.omgevingswet.overheid.nl
 ruimte.pfm.omgevingswet.overheid.nl
 samenwerkportaal.pre.omgevingswet.overheid.nl
+schemas.developer.overheid.nl
 sdgapi.ondernemersplein.overheid.nl
 search.developer.overheid.nl
 seatsurfing-tst.koop.overheid.nl
@@ -9825,6 +9834,7 @@ tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
+ua-auto-config.digitaledienst.overheid.nl
 validatieservice-tst.overheid.nl
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
