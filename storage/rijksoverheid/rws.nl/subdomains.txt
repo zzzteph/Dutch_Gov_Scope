@@ -19,6 +19,7 @@ acc-inloggen.rws.nl
 acc-lis.rws.nl
 acc-maps.rws.nl
 acc-mip.rws.nl
+acc-nma.rws.nl
 acc-onderwaterobjecten.rws.nl
 acc-otggate.rws.nl
 acc-ovdsupport.rws.nl
@@ -139,6 +140,7 @@ crud.test.vm-05.azure.grid.rws.nl
 crud.vm-05.azure.grid.rws.nl
 ctd-mapviewer.rws.nl
 ctd.rws.nl
+ctddatadownloader.rws.nl
 cv-dynac.rws.nl
 datalab-01.azure.grid.rws.nl
 ddapi-preprod.gslb.rws.nl
@@ -208,11 +210,14 @@ getij.rws.nl
 git.rws.nl
 gitlab.at.rws.nl
 grafana-acc.vm-02.azure.grid.rws.nl
+grafana-gitsync-proxy-acc.vm-02.azure.grid.rws.nl
+grafana-gitsync-proxy-test.vm-02.azure.grid.rws.nl
 grafana-test.vm-02.azure.grid.rws.nl
 grafana.acceptatie.vm-05.azure.grid.rws.nl
 grafana.test.vm-04.azure.grid.rws.nl
 grafana.test.vm-05.azure.grid.rws.nl
 grafana.vm-02.azure.grid.rws.nl
+grafana.vm-05.azure.grid.rws.nl
 grid.rws.nl
 gridacc.rws.nl
 gridtst.rws.nl
@@ -298,6 +303,7 @@ loki.test.vm-05.azure.grid.rws.nl
 loki.vm-05.azure.grid.rws.nl
 lp-dynac.rws.nl
 lws2013-int.rws.nl
+mail.container.datalab-01.azure.grid.rws.nl
 mail.rws.nl
 maps.rws.nl
 mars.rws.nl
@@ -305,6 +311,8 @@ mars2.ptp.acc-inloggen.rws.nl
 mars2.ptp.inloggen.rws.nl
 matroos.rws.nl
 mbaks007.rws-a5-t.azure.gridtst.rws.nl
+measurement-data-ogcapi-edr.acceptatie.vm-05.azure.grid.rws.nl
+measurement-data-ogcapi-edr.test.vm-05.azure.grid.rws.nl
 measurement-data-ogcapi-edr.vm-05.azure.grid.rws.nl
 meetgegevens.test.vm-05.azure.grid.rws.nl
 meridian.rws.nl
@@ -538,6 +546,11 @@ mqtt-fb161e12-02e7-4325-9605-cfb52a856a63.grid.rws.nl
 mqtt-ff257f82-a505-4222-b3e9-d0821d185974.grid.rws.nl
 mqtt-ff6f0134-fb60-43ab-8575-9d63a76787ec.grid.rws.nl
 mqtt-ffe0a189-23ef-4749-aa18-6a1f2f531d3e.grid.rws.nl
+mqtt-prd-broker01.rws.nl
+mqtt-prd-broker02.rws.nl
+mqtt-prd-broker03.rws.nl
+mqtt-prd-broker04.rws.nl
+mqtt-prd-broker05.rws.nl
 mqtt-test.grid.rws.nl
 mqtt.edge.grid.rws.nl
 mta-sts.rws.nl
@@ -546,6 +559,7 @@ mtm2-activemq-admin.regression-mtm2-router.test.vm-04.azure.grid.rws.nl
 mtm2-rabbitmq-admin.regression-mtm2-router.test.vm-04.azure.grid.rws.nl
 new-topdesk-wvl.rws.nl
 nexus-ivp.rws.nl
+nexus-ng.vm-02.azure.grid.rws.nl
 nexus-test.vm-02.azure.grid.rws.nl
 nexus.vm-02.azure.grid.rws.nl
 nginx-test.dmz.vm-04.azure.grid.rws.nl
@@ -555,6 +569,7 @@ nginx-test4.dmz.vm-04.azure.grid.rws.nl
 nis.rws.nl
 nlhull.rws.nl
 nlrdms.rws.nl
+nma.rws.nl
 nomad-server-test.vm-02.azure.grid.rws.nl
 noos.matroos.rws.nl
 notifications.acceptatie.vm-05.azure.grid.rws.nl

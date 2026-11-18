@@ -24,6 +24,7 @@ acc.chauffeurs.rivm.nl
 acc.eic.rivm.nl
 acc.nhs-lims.rivm.nl
 acc.scanapp.rivm.nl
+acceptatie-02.lims.rivm.nl
 acceptatie-data.rivm.nl
 acceptatie.aiz.osiris.rivm.nl
 acceptatie.biotechnologie.rivm.nl
@@ -138,6 +139,7 @@ dev-veldmonitoring.rivm.nl
 dev.chauffeurs.rivm.nl
 dev.scanapp.rivm.nl
 developer.rivm.nl
+disc-tool.rivm.nl
 dme-gw-dmz.rivm.nl
 dmponline.rivm.nl
 docsacc.rivm.nl
@@ -265,6 +267,8 @@ notestest.rivm.nl
 ns.rivm.nl
 ns2.rivm.nl
 nsl-monitoring.rivm.nl
+odin-acc.rivm.nl
+odin.rivm.nl
 omgevingsveiligheid.rivm.nl
 ont-bestellingen.rivm.nl
 ontw.api-samenmeten.rivm.nl
@@ -396,6 +400,9 @@ www.lml.rivm.nl
 www.portie-online.rivm.nl
 www.rca.rivm.nl
 www.rivm.nl
+www.rvszoeksysteem.rivm.nl
 www.teebstad.rivm.nl
+www.tuberculosis.rivm.nl
+www.typened-cpe-demo.rivm.nl
 www.typened-cpe.rivm.nl
 www.typened-mrsa.rivm.nl
