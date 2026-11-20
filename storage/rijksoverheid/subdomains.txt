@@ -15405,6 +15405,7 @@ app-mchain01.tsn.tno.nl
 app-ml03.tsn.tno.nl
 app-ml05-stor.hex.tno.nl
 app-ml05.hex.tno.nl
+app-mpd81.hex.tno.nl
 app-msgdoc01.hex.tno.nl
 app-msgdoc02.hex.tno.nl
 app-msgdoc03.hex.tno.nl
@@ -16101,6 +16102,7 @@ ecdsa.labs.tno.nl
 ecoecho.tno.nl
 elsbet-mobiel.guest.tno.nl
 email.tno.nl
+emsa.tno.nl
 energiearmoede.tno.nl
 energyscenarios.tno.nl
 esi-redmine.hex.tno.nl
@@ -16199,6 +16201,7 @@ genai.tno.nl
 generaal.guest.tno.nl
 gezondenveiliggedrag.tno.nl
 gezondenveiligwerk.tno.nl
+gitlab-idp.tno.nl
 gitlab-kubernetes-cluster-pc-2.labs.tno.nl
 gitlab.tsn.tno.nl
 gompc.labs.tno.nl
@@ -16230,6 +16233,7 @@ hpma-kibana-staging.excite.tno.nl
 hpv-vdiclus-ut.tsn.tno.nl
 humanstudies.tno.nl
 hybrid-working.labs.tno.nl
+hytros-wellreuse.tno.nl
 ias-cloud.tno.nl
 ibc-demo.tno.nl
 ict.tno.nl
@@ -16810,6 +16814,7 @@ uptime.we-graph.tno.nl
 urepo.hex.tno.nl
 urepo.tno.nl
 urepotest.tno.nl
+usage-exporter.labs.tno.nl
 uwise.tno.nl
 validatieloket.expertisecentrumzwaarwerk.tno.nl
 validsign.tno.nl
@@ -16883,6 +16888,7 @@ web-ux01.hex.tno.nl
 webmail.tno.nl
 wellatwork.hex.tno.nl
 werkenbij.tno.nl
+wiki.logisticslabs.tno.nl
 wildcard.pages.ci.tno.nl
 willem-pc.labs.tno.nl
 windmolens.tno.nl
@@ -16988,6 +16994,9 @@ inkomen.toeslagen.nl
 intranet.acc.toeslagen.nl
 intranet.ont.toeslagen.nl
 intranet.tst.toeslagen.nl
+kinderopvang.acc.toeslagen.nl
+kinderopvang.toeslagen.nl
+kinderopvang.tst.toeslagen.nl
 machtigen-ont.toeslagen.nl
 mijn-acc1.toeslagen.nl
 mijn-acc2.toeslagen.nl
@@ -17023,6 +17032,7 @@ videobellen.toeslagen.nl
 vinden.toeslagen.nl
 werken.toeslagen.nl
 werkenbij.toeslagen.nl
+www.acc.toeslagen.nl
 www.toeslagen.nl
 www8.toeslagen.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl

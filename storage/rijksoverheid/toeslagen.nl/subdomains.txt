@@ -45,6 +45,9 @@ inkomen.toeslagen.nl
 intranet.acc.toeslagen.nl
 intranet.ont.toeslagen.nl
 intranet.tst.toeslagen.nl
+kinderopvang.acc.toeslagen.nl
+kinderopvang.toeslagen.nl
+kinderopvang.tst.toeslagen.nl
 machtigen-ont.toeslagen.nl
 mijn-acc1.toeslagen.nl
 mijn-acc2.toeslagen.nl
@@ -80,5 +83,6 @@ videobellen.toeslagen.nl
 vinden.toeslagen.nl
 werken.toeslagen.nl
 werkenbij.toeslagen.nl
+www.acc.toeslagen.nl
 www.toeslagen.nl
 www8.toeslagen.nl
