@@ -10,6 +10,8 @@ amigi-acceptatie.ba.uwv.nl
 amigi.ba.uwv.nl
 api-eafspraak-acceptatie.ba.uwv.nl
 api-eafspraak.ba.uwv.nl
+app-dmz-acc.uwv.nl
+app-dmz.uwv.nl
 autodiscover.uwv.nl
 az-int-msd-dev.uwv.nl
 azuredevops-accept.ba.uwv.nl
@@ -82,6 +84,7 @@ mobile-login-acc.uwv.nl
 mobile-login.uwv.nl
 mobile-services-acc.uwv.nl
 mobile-services.uwv.nl
+ms-ppf-api-o.uwv.nl
 msdi-a.uwv.nl
 msdi-p.uwv.nl
 msdi-t.uwv.nl
