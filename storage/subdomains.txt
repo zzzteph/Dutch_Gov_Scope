@@ -17140,6 +17140,7 @@ emailsjablonen.tweedekamer.nl
 enroll-ota.tweedekamer.nl
 enroll-tkmw.tweedekamer.nl
 enroll.tweedekamer.nl
+enterpriseenrollment.tweedekamer.nl
 erelijst.acceptatie.tweedekamer.nl
 erelijst.test.tweedekamer.nl
 eunieuws.tweedekamer.nl
@@ -17255,6 +17256,8 @@ werkenbij.acceptatie.tweedekamer.nl
 werkenbij.test.tweedekamer.nl
 werkenbij.tweedekamer.nl
 woningcorporaties.tweedekamer.nl
+www.beta.tweedekamer.nl
+www.bezoekers.tweedekamer.nl
 www.eunieuws.tweedekamer.nl
 www.onderzoek.tweedekamer.nl
 www.tweedekamer.nl
@@ -17668,9 +17671,15 @@ test.beheer.waarborg.nl
 test.intranet.waarborg.nl
 test.klantensite.waarborg.nl
 test.mijn.waarborg.nl
+trw-asia-test.waarborg.nl
+trw-asia.waarborg.nl
 trw.waarborg.nl
 waarborg.nl
 web01.waarborg.nl
+www.api.waarborg.nl
+www.beheer.waarborg.nl
+www.intranet.waarborg.nl
+www.mijn.waarborg.nl
 www.waarborg.nl
 acceptatie.api.waarderingskamer.nl
 acceptatie.mijn.waarderingskamer.nl
@@ -17678,6 +17687,8 @@ acceptatie.waarderingskamer.nl
 acceptatie.woz-it.waarderingskamer.nl
 api.waarderingskamer.nl
 autodiscover.waarderingskamer.nl
+csptest.acceptatie.mijn.waarderingskamer.nl
+csptest.acceptatie.woz-it.waarderingskamer.nl
 download.waarderingskamer.nl
 exchange.waarderingskamer.nl
 gemeenteportaal.waarderingskamer.nl
