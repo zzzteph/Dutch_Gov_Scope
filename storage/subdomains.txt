@@ -397,12 +397,15 @@ basisregistratieondergrond.nl
 www.basisregistratieondergrond.nl
 acc.bcld-config.nl
 bcld-config.nl
+dev.bcld-config.nl
 feature-cic-673.dev.bcld-config.nl
 feature-cicd-deployment.dev.bcld-config.nl
 feature-demo-child.dev.bcld-config.nl
 feature-demo-root.dev.bcld-config.nl
 feature-ease-installer.dev.bcld-config.nl
 www.bcld-config.nl
+www.feature-cic-673.dev.bcld-config.nl
+www.feature-ease-installer.dev.bcld-config.nl
 autoconfig.bedrijfscommissieoverheid.nl
 autodiscover.bedrijfscommissieoverheid.nl
 bedrijfscommissieoverheid.nl
@@ -946,6 +949,8 @@ onlineaangifte.str1.acc.belastingdienst.nl
 ont.belastingdienst.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
+opleiding-burger.acc.belastingdienst.nl
+opleiding-burger.belastingdienst.nl
 opleiding-ola.belastingdienst.nl
 oswo-test.belastingdienst.nl
 oswo.belastingdienst.nl
